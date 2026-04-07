@@ -1,0 +1,15 @@
+{
+  "eval_id": 1,
+  "eval_name": "supportive-information-element",
+  "prompt": "enrich elements/supportive-information.md",
+  "assertions": [
+    "Output uses Obsidian-style double-bracket wikilinks (e.g. [[principles/slug]] or [[elements/slug|Name]])",
+    "Constraints section contains only [-] or [~] evidence tags, never [+]",
+    "Key Sources section has APA citations with real doi: hyperlinks",
+    "Frontmatter status field is set to 'review'",
+    "All major element template sections are present and non-empty: Description, Design Implications, Context (Requirements and Constraints), Target Learners, Target Learning Goals, Affordances, Related Elements, Examples, Key Sources",
+    "Affordances section links to principles using [[principles/slug]] wikilinks",
+    "Evidence tags in Design Implications are linked to claim or theory wikilinks, not bare tags",
+    "log.md has been updated with an ingest entry for this page"
+  ]
+}

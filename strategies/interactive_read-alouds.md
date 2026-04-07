@@ -1,0 +1,67 @@
+---
+type: strategy
+status: draft
+last_edited: 2026-04-06
+---
+
+# Interactive Read-Alouds
+
+## Description
+Interactive read-alouds involve stopping during the reading process to engage learners in discussions and activities that promote deeper understanding of the text. These interactions include asking questions, making predictions, connecting the text to personal experiences, and encouraging learners to share their thoughts and interpretations. Interactive read-alouds enhance comprehension, critical thinking, and engagement with the text.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Requires access to appropriate reading materials, time for reading and discussion, facilitation skills to guide discussions, and materials for interactive activities (e.g., sticky notes, graphic organizers).
+#### Constraints
+- Requires careful planning to ensure questions and activities are aligned with learning objectives. May be challenging to implement with large groups or learners with significant attention difficulties.
+#### Implementation Variability
+- <!-- TODO -->
+
+### Target Learners
+<!-- Link to sub-claims: [[claims/claim-slug]] -->
+- K-12 learners, English language learners, and adult learners in literacy programs
+
+### Target Learning Goals
+<!-- Link to sub-claims: [[claims/claim-slug]] -->
+- Promote deeper comprehension, enhance critical thinking skills, encourage personal connections to the text, and foster active engagement with the material.
+
+### Affordances
+- Enhances comprehension through active engagement, develops critical thinking skills by encouraging analysis and interpretation, promotes personal connections to the text, and fosters a collaborative learning environment.
+
+### Personalization
+- Questions and activities can be tailored to different reading levels and learner interests. Scaffolding can be provided through sentence starters and guided prompts, especially beneficial for English language learners.
+
+### Instructions
+<!-- Steps with links to elements -->
+- [[elements/gain-attention|Gain attention]]
+- [[elements/state-objectives|State objectives]]
+- [[elements/recall-prior-knowledge|Recall prior knowledge]]
+- [[elements/direct-instruction|Direct instruction]]
+- [[elements/provide-guidance|Provide guidance]]
+- [[elements/practice|Practice]]
+- [[elements/provide-feedback|Provide feedback]]
+- [[elements/assess-performance|Assess performance]]
+- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+
+## Assessment Evidence
+- Observe learner participation in discussions, analyze learner responses to questions and activities, and track comprehension through formative assessments.
+
+## Impact
+- Research shows that interactive read-alouds improve comprehension, vocabulary acquisition, and overall literacy development. The interactive elements enhance critical thinking skills and promote deeper engagement with the text.
+
+## Related Strategies
+- <!-- TODO -->
+
+## Related Elements
+- <!-- TODO -->
+
+## Tools
+- <!-- TODO -->
+
+## Examples
+- A teacher pauses during a read-aloud of Patricia Polacco's *Thank You, Mr. Falker* to ask questions that promote personal connections and discussions of character and theme, thereby deepening comprehension.
+
+## Key Sources
+- <!-- TODO -->

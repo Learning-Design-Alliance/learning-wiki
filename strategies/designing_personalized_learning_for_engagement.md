@@ -1,0 +1,61 @@
+---
+type: strategy
+status: draft
+last_edited: 2026-04-06
+---
+
+# Designing Personalized Learning for Engagement
+
+## Description
+Ensuring that personalized learning opportunities are designed to maximize the engagement of all students, regardless of disability status, involves making learning choices flexible and accessible for all, with a recognition that individuals’ strengths and needs differ widely. Pairing personalized learning with Universal Design for Learning (UDL) allows educators to design learning opportunities in ways that provide multiple means of engagement, representations of content, and ways to express knowledge.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Personalized learning tools, UDL framework, training for educators
+#### Constraints
+- Requires significant resources and expertise. May be challenging to implement and sustain.
+#### Implementation Variability
+- <!-- TODO -->
+
+### Target Learners
+<!-- Link to sub-claims: [[claims/claim-slug]] -->
+- All learners, particularly students with disabilities
+
+### Target Learning Goals
+<!-- Link to sub-claims: [[claims/claim-slug]] -->
+- Maximize student engagement, promote personalized learning, enhance accessibility
+
+### Affordances
+- Enhances learning experiences, promotes inclusivity, supports diverse learning styles
+
+### Personalization
+- Adaptable to different subjects and age groups. Learning opportunities can be tailored to specific needs.
+
+### Instructions
+<!-- Steps with links to elements -->
+- [[elements/provide-guidance|Provide guidance]]
+- [[elements/practice|Practice]]
+- [[elements/application|Application]]
+
+## Assessment Evidence
+- Increased student engagement, improved learning outcomes, enhanced accessibility
+
+## Impact
+- Students are more engaged in learning and have access to personalized opportunities that meet their unique needs.
+
+## Related Strategies
+- <!-- TODO -->
+
+## Related Elements
+- <!-- TODO -->
+
+## Tools
+- <!-- TODO -->
+
+## Examples
+- Providing flexible learning choices. Offering multiple means of representation and expression.
+
+## Key Sources
+- <!-- TODO -->

@@ -1,0 +1,53 @@
+{
+  "skill_name": "wiki-enrich",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "enrich elements/supportive-information.md",
+      "expected_output": "A fully-enriched element page for 'Supportive information' with description, design implications, context (requirements and constraints), target learners, target learning goals, affordances (linked to principles), related elements, real-world examples, and APA citations with DOIs. All cross-references use double-bracket wikilinks. Constraints section uses only [-] or [~] evidence tags. index.md and log.md are updated.",
+      "files": ["evals/files/supportive-information-stub.md"],
+      "expectations": [
+        "Output uses Obsidian-style double-bracket wikilinks (e.g. [[principles/slug]] or [[elements/slug|Name]])",
+        "Constraints section contains only [-] or [~] evidence tags, never [+]",
+        "Key Sources section has APA citations with real doi: hyperlinks",
+        "Frontmatter status field is set to 'review'",
+        "All major element template sections are present and non-empty: Description, Design Implications, Context (Requirements and Constraints), Target Learners, Target Learning Goals, Affordances, Related Elements, Examples, Key Sources",
+        "Affordances section links to principles using [[principles/slug]] wikilinks",
+        "Evidence tags in Design Implications are linked to claim or theory wikilinks, not bare tags",
+        "log.md has been updated with an ingest entry for this page"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "enrich elements/whole-task-performance.md",
+      "expected_output": "A fully-enriched element page for 'Whole-task performance' with all template sections filled in, wikilinks to related elements and principles, real-world examples with verified URLs or descriptions, APA sources with DOIs, and constraints using [-] or [~] tags.",
+      "files": ["evals/files/whole-task-performance-stub.md"],
+      "expectations": [
+        "Output uses Obsidian-style double-bracket wikilinks (e.g. [[principles/slug]] or [[elements/slug|Name]])",
+        "Constraints section contains only [-] or [~] evidence tags, never [+]",
+        "Key Sources section has APA citations with real doi: hyperlinks",
+        "Frontmatter status field is set to 'review'",
+        "All major element template sections are present and non-empty: Description, Design Implications, Context (Requirements and Constraints), Target Learners, Target Learning Goals, Affordances, Related Elements, Examples, Key Sources",
+        "Affordances section links to principles using [[principles/slug]] wikilinks",
+        "Evidence tags in Design Implications are linked to claim or theory wikilinks, not bare tags",
+        "log.md has been updated with an ingest entry for this page"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "enrich principles/spaced-learning.md",
+      "expected_output": "A fully-enriched principle page for 'Spaced Learning' with description, implications paragraph with inline evidence tags, context (requirements and constraints), target learners, target learning objectives, theory (supporting and contradicting), claims linked to claim pages, related principles, examples, and APA sources with DOIs.",
+      "files": ["evals/files/spaced-learning-stub.md"],
+      "expectations": [
+        "Output uses Obsidian-style double-bracket wikilinks (e.g. [[theories/slug]] or [[claims/slug]])",
+        "Constraints section contains only [-] or [~] evidence tags, never [+]",
+        "Key Sources section has APA citations with real doi: hyperlinks",
+        "Frontmatter status field is set to 'review'",
+        "All major principle template sections are present and non-empty: Description, Implications, Context (Requirements and Constraints), Target Learners, Target Learning Objectives, Theory (Supporting and Contradicting/Qualifying), Claims, Related Principles, Examples, Key Sources",
+        "Theory section references at least one theory using a [[theories/slug]] wikilink",
+        "Evidence tags in the Implications paragraph are linked to claim or theory wikilinks, not bare tags",
+        "log.md has been updated with an ingest entry for this page"
+      ]
+    }
+  ]
+}

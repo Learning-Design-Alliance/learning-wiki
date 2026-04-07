@@ -1,0 +1,61 @@
+---
+type: strategy
+status: draft
+last_edited: 2026-04-06
+---
+
+# Estimation and Prediction Activities
+
+## Description
+Estimation and prediction activities help learners to develop an understanding of self-awareness as they learn to understand how they do work. Examples of such activities include: Ask students to use estimation and prediction skills. Ask them how they might do on an upcoming project or how long it might take them to complete a task or assignment. They can record their estimates and then reflect on the accuracy of their predictions.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Paper, pencils.
+#### Constraints
+- Learners may not know how to be introspective.
+#### Implementation Variability
+- <!-- TODO -->
+
+### Target Learners
+<!-- Link to sub-claims: [[claims/claim-slug]] -->
+- All learner levels.
+
+### Target Learning Goals
+<!-- Link to sub-claims: [[claims/claim-slug]] -->
+- To help learners reflect on their own performance.
+
+### Affordances
+- Allows learners to be introspective.
+
+### Personalization
+- Activities can be personalized.
+
+### Instructions
+<!-- Steps with links to elements -->
+- [[elements/practice|Practice]]
+- [[elements/individual-reflection|Individual Reflection]]
+- [[elements/provide-feedback|Provide Feedback]]
+
+## Assessment Evidence
+- Monitor learner participation
+
+## Impact
+- Unknown
+
+## Related Strategies
+- <!-- TODO -->
+
+## Related Elements
+- <!-- TODO -->
+
+## Tools
+- <!-- TODO -->
+
+## Examples
+- Not applicable.
+
+## Key Sources
+- <!-- TODO -->
