@@ -20,11 +20,11 @@ Demonstrating writing strategies and techniques by showing students how you use 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for struggling writers and those who lack confidence
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student confidence in writing, promote risk-taking and experimentation, model effective writing strategies, demonstrate the writing process, encourage a growth mindset
 
 ### Affordances

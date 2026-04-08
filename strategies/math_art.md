@@ -20,11 +20,11 @@ Math Art involves creating drawings and designs that explore mathematical concep
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary students, specifically first graders.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Explore mathematical concepts, enhance pattern recognition, and make math more engaging through visual representation.
 
 ### Affordances

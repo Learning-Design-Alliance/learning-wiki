@@ -20,11 +20,11 @@ Scaffolding can help learners learn how to manage their responses in an emotiona
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve self-regulation, promote safe environment.
 
 ### Affordances

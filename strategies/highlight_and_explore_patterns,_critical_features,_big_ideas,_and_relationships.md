@@ -20,11 +20,11 @@ Accentuating important information and how it relates to the learning goal helps
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners; suitable for K–12, higher education, and adult learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance focus, improve comprehension, support knowledge organization, promote critical thinking
 
 ### Affordances

@@ -20,11 +20,11 @@ Manipulatives are physical objects used as teaching tools to engage students in 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly elementary and middle school learners; useful for learners who benefit from visual and tactile learning experiences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Introduce mathematical concepts, practice skills, remediate learning gaps, engage in hands-on learning, build understanding of mathematical processes and procedures
 
 ### Affordances

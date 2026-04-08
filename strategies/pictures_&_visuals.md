@@ -20,11 +20,11 @@ This strategy involves the use of images, videos, and other visual aids to enhan
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance vocabulary development, improve comprehension, increase retention in long-term memory, make abstract concepts more tangible, decrease learning time
 
 ### Affordances

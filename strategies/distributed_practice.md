@@ -20,11 +20,11 @@ Distributed practice involves practicing content in short sessions spaced out ov
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable to learners of all ages and skill levels. Especially beneficial for those preparing for exams, quizzes, or aiming for long-term retention of skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance long-term memory and understanding of studied material. Improve accuracy and fluency in skill performance over extended periods.
 
 ### Affordances

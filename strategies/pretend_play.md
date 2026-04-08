@@ -20,11 +20,11 @@ Pretend play, also known as dramatic play or make-believe, involves learners exp
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Toddlers (1-3), Preschoolers (3-5), Kindergartners (5-6)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance communication skills, develop social and emotional skills, integrate mathematical concepts, foster imagination and creativity
 
 ### Affordances

@@ -20,11 +20,11 @@ Bring learners together and explain that different sources online present differ
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enable learners to develop a checklist of questions for evaluating the reliability of sources.
 
 ### Affordances

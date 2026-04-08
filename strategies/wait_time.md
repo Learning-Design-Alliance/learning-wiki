@@ -20,11 +20,11 @@ Wait time is the period of silence between the time a question is asked and the 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial in elementary and secondary education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve the quality and length of student responses, involve more class members, elicit better quality answers, encourage students to ask their own questions
 
 ### Affordances

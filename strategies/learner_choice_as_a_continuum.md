@@ -20,11 +20,11 @@ Learner choice involves transitioning from teacher-led content delivery to learn
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner motivation, foster self-direction, promote deeper engagement, enhance ownership of learning
 
 ### Affordances

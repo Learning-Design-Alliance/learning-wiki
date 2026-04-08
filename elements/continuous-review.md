@@ -18,11 +18,11 @@ Learning materials and concepts are revisited systematically to reinforce retent
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for cumulative subjects like math, science, and language learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance long-term retention and transfer of knowledge.
 
 ### Affordances

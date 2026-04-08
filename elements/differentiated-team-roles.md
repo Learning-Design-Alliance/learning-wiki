@@ -18,11 +18,11 @@ Learners take on distinct roles in collaborative learning to enhance accountabil
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, corporate training
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate teamwork, role-specific expertise, and accountability.
 
 ### Affordances

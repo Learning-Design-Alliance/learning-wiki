@@ -20,11 +20,11 @@ Visual organizers are tools that visually represent ideas and concepts, helping 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for visual learners and those who need support in organizing information
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, strengthen recall, facilitate organization of information, improve critical thinking skills
 
 ### Affordances

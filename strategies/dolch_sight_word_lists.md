@@ -20,11 +20,11 @@ The Dolch Sight word list includes the most common 220 words and 95 nouns encoun
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Beginning readers in elementary grades, students learning English as a second language, struggling readers needing foundational support
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading fluency, enhance sight word recognition, build a foundation for reading comprehension
 
 ### Affordances

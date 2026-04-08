@@ -20,11 +20,11 @@ Choice boards offer learners options for how they demonstrate their learning, in
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12, higher education, and professional development
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner engagement, provide autonomy in learning, assess understanding in multiple ways, differentiate instruction
 
 ### Affordances

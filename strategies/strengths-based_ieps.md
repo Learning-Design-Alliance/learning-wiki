@@ -20,11 +20,11 @@ A shift in mindset where the Individualized Education Program (IEP) focuses as m
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with IEPs, special education staff
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help adults and learners see more than just weaknesses, promote self-awareness and self-advocacy, chart a path to progress using strengths
 
 ### Affordances

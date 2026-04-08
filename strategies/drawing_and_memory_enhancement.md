@@ -20,11 +20,11 @@ Drawing is a powerful technique to enhance memory and recall by engaging learner
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, including K-12, higher education, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve memory retention, enhance recall of information, engage multiple modalities of learning, actively process and reconstruct information
 
 ### Affordances

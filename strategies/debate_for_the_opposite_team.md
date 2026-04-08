@@ -20,11 +20,11 @@ Learners are assigned to argue a position that is opposite to their own, requiri
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who tend to be rigid in their thinking and resistant to alternative viewpoints
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote critical thinking, develop perspective-taking skills, encourage argumentation, improve communication skills
 
 ### Affordances

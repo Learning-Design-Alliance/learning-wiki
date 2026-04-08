@@ -20,11 +20,11 @@ Teachers' behaviors and actions create the culture in the classroom. Treat stude
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, higher education instructors, mentors, counselors.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate a respectful and inclusive classroom environment, build trust and rapport with students, enhance student emotional intelligence, promote positive behavior.
 
 ### Affordances

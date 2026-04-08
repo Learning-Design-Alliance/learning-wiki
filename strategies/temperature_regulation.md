@@ -20,11 +20,11 @@ Temperature regulation is an important finding across individuals of all ages is
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, teachers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - The ideal temperature range for effective learning in reading and mathematics is between 68º and 74º.
 
 ### Affordances

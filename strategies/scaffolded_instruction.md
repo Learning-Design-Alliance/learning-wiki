@@ -20,11 +20,11 @@ Scaffolded instruction involves supporting learners in various ways as they lear
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners in basic skills programs, individuals with learning disabilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support learners in achieving independent performance; build confidence; adapt instruction to learner needs
 
 ### Affordances

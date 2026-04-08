@@ -20,11 +20,11 @@ Summarizing involves integrating important information from a text or problem to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who benefit from structured approaches to learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, consolidate information, and improve retention.
 
 ### Affordances

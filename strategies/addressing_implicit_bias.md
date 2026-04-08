@@ -20,11 +20,11 @@ Recognizing and addressing implicit biases involves moving away from the idea th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Individuals and organizations across all sectors seeking to promote diversity and inclusion.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase awareness of personal biases, foster empathy and understanding, and create a more inclusive environment.
 
 ### Affordances

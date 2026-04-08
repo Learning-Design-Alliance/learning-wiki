@@ -20,11 +20,11 @@ Building a community on student voice involves creating opportunities for studen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and learning levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, promote self-advocacy, foster a sense of belonging, improve communication skills
 
 ### Affordances

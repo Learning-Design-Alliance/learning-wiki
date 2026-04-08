@@ -20,11 +20,11 @@ Learners are shown two dot cards and asked to find the total number of dots. In 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Pre-K to 1st Grade learners who are developing addition skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Practice addition, enhance mental math, promote understanding of addition strategies
 
 ### Affordances

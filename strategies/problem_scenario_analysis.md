@@ -20,11 +20,11 @@ Providing students with real-life problem scenarios (e.g., cheating, bullying) a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance problem-solving skills, promote ethical decision-making, develop empathy, improve communication skills, and encourage reflection on decision-making processes.
 
 ### Affordances

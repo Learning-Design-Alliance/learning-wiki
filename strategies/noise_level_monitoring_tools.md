@@ -20,11 +20,11 @@ Using electronic tools to monitor classroom noise levels and provide auditory or
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Late elementary and middle grade students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Monitor and manage classroom noise levels, provide real-time feedback to students, promote self-regulation of behavior, and create a quieter learning environment.
 
 ### Affordances

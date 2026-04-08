@@ -20,11 +20,11 @@ Engage learners in structured discussions that explore diverse viewpoints and co
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who need to broaden their understanding of diverse perspectives, K-12, higher education, and adult learners in professional development
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of diverse viewpoints, foster empathy and tolerance, develop critical thinking skills, promote open dialogue
 
 ### Affordances

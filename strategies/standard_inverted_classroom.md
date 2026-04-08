@@ -20,11 +20,11 @@ Learners are asked to go through lecture videos and other study material that ar
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners who can self-regulate and engage with online materials independently.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prepare learners for in-class practice, reinforce understanding of key concepts, facilitate one-on-one teacher interaction.
 
 ### Affordances

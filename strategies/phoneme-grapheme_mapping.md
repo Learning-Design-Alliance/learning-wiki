@@ -20,11 +20,11 @@ Phoneme-grapheme mapping is a strategy used to match the letters or letter combi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily for learners in grades 1–3, but also beneficial for older students and adults who need to improve their foundational spelling and reading skills, including those with dyslexia
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling accuracy, enhance phonological awareness, strengthen reading skills, and develop an understanding of sound-symbol relationships
 
 ### Affordances

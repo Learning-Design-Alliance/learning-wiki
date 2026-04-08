@@ -20,11 +20,11 @@ Recognizing and positively reinforcing positive actions when they are observed. 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators aiming to reinforce positive behaviors in students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen intrinsic motivation, reinforce positive behaviors, increase student engagement, and foster a positive classroom environment
 
 ### Affordances

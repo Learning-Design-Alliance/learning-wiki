@@ -20,11 +20,11 @@ Case studies involve the use of real-life situations that have occurred. Cases c
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All employee levels in corporate training settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Apply knowledge to real-life situations, develop problem-solving skills, foster critical thinking
 
 ### Affordances

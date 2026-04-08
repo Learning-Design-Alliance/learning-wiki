@@ -20,11 +20,11 @@ This strategy involves defining clear objectives prior to engaging in a learning
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Anyone engaging in learning activities, including educators, administrators, and learners of all levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To set clear learning targets, encourage unbiased observation, maximize learning outcomes, and facilitate meaningful experiences.
 
 ### Affordances

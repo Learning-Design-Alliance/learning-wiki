@@ -20,11 +20,11 @@ Reflection is rare in traditional classrooms, where the emphasis is on urgency a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for students who have experienced trauma.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide a safe and reflective learning environment; allow students to pause, think, and process their experiences; promote socio-emotional learning.
 
 ### Affordances

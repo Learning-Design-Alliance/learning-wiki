@@ -20,11 +20,11 @@ These tasks involve the study of traits, requiring learners to identify animal b
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying life science
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify animal traits, construct animals based on their traits, measure and analyze data
 
 ### Affordances

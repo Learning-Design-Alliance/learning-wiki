@@ -20,11 +20,11 @@ Learner-to-learner (peer) feedback involves having learners provide constructive
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, across grade levels and subject areas
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop critical thinking skills, enhance self-reflection, improve communication skills, foster collaboration
 
 ### Affordances

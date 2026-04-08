@@ -18,11 +18,11 @@ A structured question or statement initiates meaningful conversation.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for all discussion-based learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage engagement and deeper exploration of topics.
 
 ### Affordances

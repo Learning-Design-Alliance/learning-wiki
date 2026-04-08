@@ -20,11 +20,11 @@ Integrating arts like fiction writing, dance, drama, graphic design, music, draw
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster creativity, enhance imagination, promote deeper engagement, encourage exploration of talents, integrate arts into all subjects
 
 ### Affordances

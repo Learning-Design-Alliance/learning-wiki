@@ -20,11 +20,11 @@ Brainstorming and displaying a constructive decision-making process as a visual 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve students' ability to make constructive and ethical decisions, analyze situations, evaluate consequences, and reflect on outcomes.
 
 ### Affordances

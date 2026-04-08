@@ -20,11 +20,11 @@ Scaffolding is a support technique to help learners manage their responses in an
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners struggling with self-regulation, particularly those who are highly reactive to new or challenging situations.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help learners manage emotional responses, build self-regulation skills, foster a sense of emotional safety
 
 ### Affordances

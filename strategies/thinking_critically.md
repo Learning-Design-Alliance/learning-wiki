@@ -20,11 +20,11 @@ This strategy encompasses questioning, reflection, and evaluation to understand,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners in all contexts, particularly those in ESL programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving skills, enhance decision-making abilities, promote independent thinking, foster a deeper understanding of content
 
 ### Affordances

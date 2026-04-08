@@ -20,11 +20,11 @@ Brain breaks are short periods of time when learners change up the routine of in
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Refresh cognitive function, increase engagement, provide stress relief, support problem-solving
 
 ### Affordances

@@ -20,11 +20,11 @@ Growth mindset feedback focuses on praising effort, strategies, and persistence 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate a growth mindset, increase motivation, promote resilience, improve academic performance
 
 ### Affordances

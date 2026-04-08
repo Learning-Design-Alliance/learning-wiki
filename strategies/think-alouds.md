@@ -20,11 +20,11 @@ Model learning by reading aloud an article on a current event or topic of study,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable across all learner levels, including K-12, higher education, and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Model effective reading strategies, promote critical thinking, build prior knowledge, and develop collaborative learning skills.
 
 ### Affordances

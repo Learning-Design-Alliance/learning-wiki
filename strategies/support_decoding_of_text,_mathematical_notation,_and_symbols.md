@@ -20,11 +20,11 @@ Ensuring that text and symbols do not impede the learning goal involves providin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those with reading disabilities, English language learners, or those new to mathematics; suitable for K–12, higher education, and adult learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance reading fluency, improve comprehension, support mathematical literacy, promote accessible learning
 
 ### Affordances

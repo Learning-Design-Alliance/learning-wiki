@@ -20,11 +20,11 @@ Gaming involves using games as a way to help learners learn by doing. Games can 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All employee levels in corporate training settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance engagement, promote collaboration and competition, teach valuable lessons about how to deal with on-the-job situations
 
 ### Affordances

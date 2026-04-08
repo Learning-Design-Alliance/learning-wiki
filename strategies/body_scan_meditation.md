@@ -20,11 +20,11 @@ Incorporate a body scan meditation to bring calmness and awareness to the classr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote calmness and awareness, enhance self-regulation and focus, improve emotional awareness
 
 ### Affordances

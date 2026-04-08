@@ -20,11 +20,11 @@ This strategy encourages learners to record their responses to a text as they re
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school and high school learners; content area, ELA, and ELL learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve comprehension, vocabulary, and retention of content; foster a connection between reading and writing; encourage active involvement with text; promote collaborative learning.
 
 ### Affordances

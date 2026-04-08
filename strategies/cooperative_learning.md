@@ -20,11 +20,11 @@ Designing classroom activities that involve cooperative work encourages a growth
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for learners who lack motivation or have a fixed mindset
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote collaboration, foster a sense of responsibility, encourage effort and success, develop a growth mindset
 
 ### Affordances

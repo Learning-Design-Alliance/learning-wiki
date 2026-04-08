@@ -20,11 +20,11 @@ A classroom management system where a student's name is secretly selected each d
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, particularly those who need reminders of classroom behavior expectations
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve classroom behavior, encourage listening, reward good choices, create a positive learning environment
 
 ### Affordances

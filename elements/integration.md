@@ -18,11 +18,11 @@ Learners reflect on and connect learning to their own experiences and future app
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for lifelong learning, professional development, and higher education.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote metacognition and deeper knowledge transfer.
 
 ### Affordances

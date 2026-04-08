@@ -18,11 +18,11 @@ Learners conduct investigations to explore topics, gather evidence, and develop 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for STEM, humanities, and professional research.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop analytical and information literacy skills.
 
 ### Affordances

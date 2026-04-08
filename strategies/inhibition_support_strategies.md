@@ -20,11 +20,11 @@ These are strategies used to leverage student strengths in order to address chal
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus, enhance planning and response skills, build metacognitive skills, reduce impulsivity
 
 ### Affordances

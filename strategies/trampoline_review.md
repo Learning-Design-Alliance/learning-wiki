@@ -20,11 +20,11 @@ Trampoline Review is a kinesthetic learning strategy that involves learners jump
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for learners who benefit from kinesthetic and tactile learning styles
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance memory consolidation, increase engagement with learning material, reinforce associations through motor activity, cater to kinesthetic learning styles
 
 ### Affordances

@@ -20,11 +20,11 @@ A teaching approach that focuses on identifying and leveraging learners’ stren
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those with ADHD or learning disorders
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Boost learner confidence, increase engagement, promote self-awareness, foster a positive learning environment
 
 ### Affordances

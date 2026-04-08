@@ -20,11 +20,11 @@ In project-based learning (PBL), teaching academic vocabulary involves identifyi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, with a particular focus on English Language Learners (ELLs) in project-based learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To equip students with the academic vocabulary necessary for successful participation and comprehension in project-based learning activities.
 
 ### Affordances

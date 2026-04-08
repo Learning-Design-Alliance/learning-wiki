@@ -20,11 +20,11 @@ Technology is a powerful tool in math instruction for ELLs. Look for educational
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - ELLs in math classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Use technology for students to better understand math and practice with mathematical skills
 
 ### Affordances

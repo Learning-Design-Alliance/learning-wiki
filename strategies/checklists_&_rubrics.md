@@ -20,11 +20,11 @@ Checklists and rubrics provide clear criteria for self- and peer-assessments. Th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12 learners, particularly useful in writing workshops
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Set clear criteria for self-assessment, encourage self-regulation, increase motivation, foster a growth mindset, improve writing conventions, enhance peer collaboration
 
 ### Affordances

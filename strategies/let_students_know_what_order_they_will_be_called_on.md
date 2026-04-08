@@ -20,11 +20,11 @@ This strategy allows students who are prone to challenges with inhibition to pla
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with inhibition challenges, students who struggle with impulsivity
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve self-regulation, reduce impulsivity, increase participation, enhance focus
 
 ### Affordances

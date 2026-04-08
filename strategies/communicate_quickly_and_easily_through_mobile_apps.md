@@ -20,11 +20,11 @@ Mobile apps like Remind can provide a quick and easy way for parents, teachers, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for parents with limited time or access to traditional communication methods
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve communication, enhance parent engagement, support student progress
 
 ### Affordances

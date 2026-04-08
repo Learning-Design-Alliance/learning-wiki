@@ -20,11 +20,11 @@ A PALS activity that emphasizes making predictions while reading. Students each 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 2–6, students who need to improve prediction skills and reading comprehension
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop prediction skills, improve reading comprehension, expand vocabulary, practice summarizing
 
 ### Affordances

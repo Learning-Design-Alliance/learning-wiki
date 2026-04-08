@@ -20,11 +20,11 @@ Provide low-pressure exercises for students to experiment with the writing techn
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for developing writing skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote experimentation and creativity, enhance understanding of writing techniques, develop fluency in using new techniques, encourage self-expression
 
 ### Affordances

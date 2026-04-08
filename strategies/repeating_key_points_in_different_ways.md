@@ -20,11 +20,11 @@ Repeating the key points for students several times and in several different way
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who need additional time to process information or struggle with grasping key concepts.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve retention, and support learners with processing speed challenges.
 
 ### Affordances

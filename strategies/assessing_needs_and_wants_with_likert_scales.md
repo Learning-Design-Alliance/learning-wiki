@@ -20,11 +20,11 @@ Using a five-point Likert scale to quantitatively measure student interest and u
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable across all learner levels, including K-12, higher education, and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Gauge student interest, assess understanding of content, inform instructional planning, and personalize learning experiences.
 
 ### Affordances

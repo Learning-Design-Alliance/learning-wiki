@@ -18,11 +18,11 @@ Learners are encouraged to recall and activate prior knowledge to prepare for ne
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for inquiry-based learning, STEM, and interdisciplinary studies.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Scaffold learning by establishing a cognitive foundation for new knowledge.
 
 ### Affordances

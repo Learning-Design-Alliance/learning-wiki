@@ -20,11 +20,11 @@ Digital noise monitoring involves using apps or devices like Super Sound Box, Cl
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Monitor classroom noise levels, promote self-regulation, create a quieter learning environment
 
 ### Affordances

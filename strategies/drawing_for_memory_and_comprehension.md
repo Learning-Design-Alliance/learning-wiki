@@ -20,11 +20,11 @@ Drawing involves visually, kinesthetically, and semantically processing informat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve recall, deepen understanding, encourage active processing of information, promote creative expression
 
 ### Affordances

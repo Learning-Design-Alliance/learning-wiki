@@ -20,11 +20,11 @@ Promote a balance between screen time and physical activity by encouraging child
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Pre-teens and teenagers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase physical activity, promote healthy screen time habits, balance daily activities
 
 ### Affordances

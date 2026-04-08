@@ -20,11 +20,11 @@ High-frequency word lists (e.g., Dolch and Fry) are collections of the most comm
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily K–5 learners, but also beneficial for older students who need to improve foundational reading and writing skills, including English language learners and learners with disabilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading fluency, enhance writing skills, increase sight word recognition, build vocabulary, and develop spelling accuracy
 
 ### Affordances

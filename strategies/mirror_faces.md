@@ -20,11 +20,11 @@ Learners pair up, and one makes an emotional face while the other mirrors it, pr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All age groups, including early childhood, elementary, middle school, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve recognition of facial expressions, enhance empathy, promote nonverbal communication skills
 
 ### Affordances

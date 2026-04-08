@@ -20,11 +20,11 @@ Education on positive actions for a healthy body (nutrition, exercise, and sleep
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators looking to promote positive behaviors and skills in students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote healthy behaviors, enhance problem-solving skills, improve self-management skills, foster positive relationships, encourage honesty, and promote self-improvement
 
 ### Affordances

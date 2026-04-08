@@ -20,11 +20,11 @@ Actively working to identify and eliminate biases in language and symbols to pro
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those from marginalized or underrepresented groups
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote inclusivity, reduce bias, foster respect, create a welcoming learning environment
 
 ### Affordances

@@ -20,11 +20,11 @@ Recognize that adults have diverse levels of technology exposure and experience.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners with varying degrees of technological experience and exposure.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enable all learners to participate, regardless of previous experience. Provide foundational knowledge for those with limited exposure to technology.
 
 ### Affordances

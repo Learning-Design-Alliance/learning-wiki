@@ -20,11 +20,11 @@ Praising effort and strategies focuses on acknowledging the process and hard wor
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially children and adolescents
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate a growth mindset, encourage effort, promote effective strategies
 
 ### Affordances

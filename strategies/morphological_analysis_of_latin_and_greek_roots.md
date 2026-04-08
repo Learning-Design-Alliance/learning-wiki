@@ -20,11 +20,11 @@ Morphological analysis of Latin and Greek roots involves teaching learners about
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily for learners in grades 4 and up, including middle school, high school, and adult learners who need to expand their vocabulary and improve reading comprehension
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve vocabulary, enhance reading comprehension, strengthen spelling skills, and develop an understanding of word origins and structures
 
 ### Affordances

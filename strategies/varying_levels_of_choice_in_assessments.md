@@ -20,11 +20,11 @@ Give students a choice about the areas of focus in a paper or project. For in-cl
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable across K-12, higher education, and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student agency, promote creativity, and provide personalized learning experiences through varied assessment options.
 
 ### Affordances

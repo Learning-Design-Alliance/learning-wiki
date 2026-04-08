@@ -20,11 +20,11 @@ This principle focuses on bringing power dynamics to the forefront and acknowled
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators and school teams seeking to create more equitable and inclusive learning environments and challenge existing power structures.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify and address power dynamics, promote equitable design practices, affirm student identities, and foster a sense of belonging.
 
 ### Affordances

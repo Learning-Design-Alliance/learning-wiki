@@ -20,11 +20,11 @@ Checklists can be used to measure and document student learning by tracking whet
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners. Can be adapted for use in various subjects and skill-based areas.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Track task completion, document learning progress, provide a structured assessment tool
 
 ### Affordances

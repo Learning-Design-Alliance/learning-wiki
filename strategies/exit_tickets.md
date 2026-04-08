@@ -20,11 +20,11 @@ Exit tickets are short prompts given at the end of a lesson to encourage self-as
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-assessment, reflection, and growth mindset; provide formative assessment data for teachers to shape lessons and differentiate instruction
 
 ### Affordances

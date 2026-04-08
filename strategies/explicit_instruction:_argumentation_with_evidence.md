@@ -20,11 +20,11 @@ This instructional strategy involves directly teaching learners how to construct
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and college students, as well as adult learners in professional development programs.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop skills in constructing evidence-based arguments, enhance critical evaluation of sources, promote understanding of diverse viewpoints, and improve online communication.
 
 ### Affordances

@@ -20,11 +20,11 @@ Students read e-books and use digital tools (dictionaries and notes) to support 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 2-6
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase understanding of vocabulary, define and record meaning of vocabulary words in digital note form, demonstrate understanding of vocabulary words through discussion and documentation.
 
 ### Affordances

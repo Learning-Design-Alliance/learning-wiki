@@ -20,11 +20,11 @@ Reflective journaling is a technique used to encourage reflective learning by hi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for students in higher education and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster critical thinking skills, develop reflective practices, increase student interest, encourage further investigation, enhance understanding of course content, facilitate transformative learning, promote self-discovery
 
 ### Affordances

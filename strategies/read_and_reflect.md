@@ -20,11 +20,11 @@ Read and reflect involves students engaging in discussions or summarizing activi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, promote critical thinking, and encourage reflection on reading material
 
 ### Affordances

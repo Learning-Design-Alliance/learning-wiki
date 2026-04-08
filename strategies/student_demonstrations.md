@@ -20,11 +20,11 @@ Student demonstrations involve learners showcasing their understanding of a topi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, adaptable for K–12, higher education, and professional training. Particularly useful in subjects involving practical skills, performance, and creative expression.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assess knowledge application, evaluate practical skills, promote active learning, encourage self-reflection
 
 ### Affordances

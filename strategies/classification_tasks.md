@@ -20,11 +20,11 @@ Classification tasks involve sorting objects or concepts into categories based o
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners across various subject areas, particularly science and mathematics
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop observation skills, enhance analytical thinking, improve understanding of properties, promote justification of reasoning
 
 ### Affordances

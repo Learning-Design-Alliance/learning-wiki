@@ -20,11 +20,11 @@ A pedagogical approach that focuses on planning with learners’ strengths at th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those in elementary school
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create initiative-taking and lifelong learners, cultivate high expectations, promote active listening, increase critical thinking skills, encourage perspective sharing
 
 ### Affordances

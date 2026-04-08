@@ -20,11 +20,11 @@ This strategy focuses on making library websites more accessible and user-friend
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Library staff, website designers, students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve library website usability, increase student utilization of library resources, enhance accessibility for all users, reduce barriers to research
 
 ### Affordances

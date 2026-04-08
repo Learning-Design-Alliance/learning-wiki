@@ -20,11 +20,11 @@ Teaching fraction and percentage word problems using a model-drawing strategy. T
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school students with learning disabilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To teach fraction and percentage word problems using a visual model-drawing strategy
 
 ### Affordances

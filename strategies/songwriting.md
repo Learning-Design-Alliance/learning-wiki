@@ -20,11 +20,11 @@ Songwriting involves students creating their own verses or entire songs to enhan
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary grades (K-2), English language learners, and learners who benefit from creative and multisensory activities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance vocabulary skills, improve phonemic awareness, develop songwriting abilities, promote creative expression, and reinforce language concepts through multisensory engagement
 
 ### Affordances

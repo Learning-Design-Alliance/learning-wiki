@@ -20,11 +20,11 @@ Modeling involves demonstrating the skills you expect from your students, both i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who benefit from clear examples and demonstrations
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Demonstrate expected skills, provide examples of high-quality work, model effective communication
 
 ### Affordances

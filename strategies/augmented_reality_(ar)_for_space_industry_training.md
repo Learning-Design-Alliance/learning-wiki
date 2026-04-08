@@ -20,11 +20,11 @@ Augmented reality can assist astronauts with tasks such as maintaining a space s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Astronauts, scientists, engineers in the space industry
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Aid astronauts in complex tasks, maintain space station, provide virtual work instructions, reconstruct the Martian landscape, reduce crew training requirements, prepare scientists and astronauts for space exploration
 
 ### Affordances

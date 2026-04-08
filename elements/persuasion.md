@@ -18,11 +18,11 @@ Learners develop techniques to convince others using logic and evidence.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for debate, leadership, business, and public speaking courses.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen communication and advocacy skills.
 
 ### Affordances

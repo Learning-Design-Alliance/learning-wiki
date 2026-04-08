@@ -20,11 +20,11 @@ Practice how to combine two simple sentences into a compound or complex sentence
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All writers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing quality, enhance reading comprehension, promote sentence variety
 
 ### Affordances

@@ -20,11 +20,11 @@ Be aware that families’ attitudes and beliefs about education may vary, and it
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, school administrators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate empathy for families' circumstances, reduce judgment, provide equitable support, improve student outcomes
 
 ### Affordances

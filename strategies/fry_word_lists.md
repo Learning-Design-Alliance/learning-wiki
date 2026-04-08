@@ -20,11 +20,11 @@ The Fry word list contains 1,000 high-frequency words divided into ten levels, f
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early readers, struggling readers, ESL learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading fluency and comprehension by mastering high-frequency words, enhance sight word recognition, build vocabulary
 
 ### Affordances

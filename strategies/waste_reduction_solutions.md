@@ -20,11 +20,11 @@ These tasks involve examining and sorting waste items in a garbage can, categori
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying science and social perspectives
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Examine and sort waste, categorize waste items, propose waste reduction solutions
 
 ### Affordances

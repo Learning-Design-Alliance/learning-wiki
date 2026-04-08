@@ -20,11 +20,11 @@ Tasks involve studying the food pyramid, learning about daily requirements, and 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying science and social perspectives
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand the food pyramid, learn about daily requirements, plan a balanced diet
 
 ### Affordances

@@ -20,11 +20,11 @@ Devoting a few minutes each week for learners to show the effects of different m
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners involved in multimodal composition, particularly those who benefit from peer interaction and feedback.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage learners to reflect on and articulate their design decisions. Provide constructive feedback to peers. Generate concrete examples of multimodal composition processes.
 
 ### Affordances

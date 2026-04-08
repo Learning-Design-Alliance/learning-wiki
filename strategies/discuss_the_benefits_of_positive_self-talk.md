@@ -20,11 +20,11 @@ Openly communicating what self-talk is and how it can help. This involves explai
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Skeptical learners who need to understand the rationale behind positive self-talk.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To educate learners about the impact of self-talk and motivate them to adopt a more positive mindset.
 
 ### Affordances

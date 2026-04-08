@@ -20,11 +20,11 @@ This strategy involves using emotion posters as a tool during read-alouds to hel
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotion recognition, develop empathy, improve inferential skills, connect emotions to text and visual cues
 
 ### Affordances

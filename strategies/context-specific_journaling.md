@@ -20,11 +20,11 @@ Context-specific journaling requires individuals to reflect on specific experien
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners in professional development programs, internships, or team assignments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote experiential learning, enhance self-awareness, improve reflection on actions, develop critical thinking skills
 
 ### Affordances

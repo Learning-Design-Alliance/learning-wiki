@@ -20,11 +20,11 @@ Traditional spaces designed in the industrial revolution were designed to maximi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve creativity, improve problem solving skills, enhance collaboration
 
 ### Affordances

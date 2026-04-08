@@ -20,11 +20,11 @@ Predicting involves anticipating what will happen next in a text or problem. Thi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who benefit from structured approaches to learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase motivation, engage interest, activate prior knowledge, and improve comprehension.
 
 ### Affordances

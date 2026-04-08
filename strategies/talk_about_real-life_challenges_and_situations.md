@@ -20,11 +20,11 @@ Facilitating discussions about the challenges learners are facing and how they f
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who need support in navigating difficult situations and developing resilience.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop learners' ability to process challenges in a positive and constructive manner.
 
 ### Affordances

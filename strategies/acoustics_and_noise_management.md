@@ -20,11 +20,11 @@ Managing classroom acoustics and noise levels greatly impacts teacher and studen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners and educators in K-12 or higher education settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student engagement and achievement, reduce teacher and student stress, create a more conducive learning environment
 
 ### Affordances

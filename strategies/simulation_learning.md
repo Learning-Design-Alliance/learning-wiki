@@ -20,11 +20,11 @@ Simulation learning engages learners in active learning experiences where they l
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12, higher education, and professional development programs across various disciplines, including business, social sciences, healthcare, and education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Challenge misconceptions, promote critical thinking, encourage self-directed learning, foster deeper understanding of subject matter, develop empathy, and emphasize abstract concepts over factual information
 
 ### Affordances

@@ -20,11 +20,11 @@ Model empathy and explain explicitly discuss different perspectives have explici
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve social awareness, promote expression, and improve perspective-taking skills.
 
 ### Affordances

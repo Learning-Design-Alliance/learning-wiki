@@ -20,11 +20,11 @@ Providing explicit instruction for students to develop the skills associated wit
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with disabilities, particularly those in secondary and postsecondary education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-advocacy skills, promote self-determination, empower students
 
 ### Affordances

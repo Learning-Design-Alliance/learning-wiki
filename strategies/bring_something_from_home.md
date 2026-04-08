@@ -20,11 +20,11 @@ Ask students to bring something from home that makes their classroom feel more l
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early grade students, students feeling homesick or anxious
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student comfort, build community, represent diverse families
 
 ### Affordances

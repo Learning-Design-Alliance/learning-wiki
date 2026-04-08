@@ -18,11 +18,11 @@ Gives learners corrective or reinforcing feedback to improve performance.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for all learning levels, particularly formative learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support knowledge refinement and error correction.
 
 ### Affordances

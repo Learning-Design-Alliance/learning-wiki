@@ -20,11 +20,11 @@ End each week with a group circle where students discuss different topics and sh
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early grade students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve emotional literacy, build community, promote conflict resolution
 
 ### Affordances

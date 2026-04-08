@@ -20,11 +20,11 @@ The teacher calls out a number (e.g., 3), and the students have 10 seconds to ge
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-4, adaptable to other grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce number recognition, encourage quick mental math, promote social interaction, support kinesthetic learning
 
 ### Affordances

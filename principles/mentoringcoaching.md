@@ -1,112 +1,68 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Mentoring/Coaching
 
 ## Description
-Giving learners the opportunity to share their knowledge, skills, and understanding with others strengthens learning and increases Motivation while also building Social Supports. Preparing to coach and communicating conceptual information can increase Foundational Reading Skills, while supporting greater retention of information and skills into Long-term Memory. Learning different perspectives from coaches or mentors can also build Cognitive Flexibility.
+Mentoring and coaching are relationship-based supports in which a more experienced peer, instructor, or practitioner helps a learner interpret goals, practice skills, reflect on progress, and navigate challenge. The key difference from simple advice is that mentoring and coaching are developmental: they combine encouragement, modeling, questioning, feedback, and calibrated support over time. In learning settings, they often improve persistence and transfer because support is attached to real performance and real decisions rather than delivered only in the abstract.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **A clear developmental focus**: The relationship should support skill growth, reflection, navigation, or identity development rather than only logistics.
+- **Trust and continuity**: Mentoring and coaching are stronger when learners experience psychological safety and some regularity over time.
+- **Calibrated support**: Effective mentors and coaches adjust prompts, examples, and feedback to the learner's current level [[claims/contingent-scaffolding-improves-learning]] [+M].
+- **A path toward independence**: Guidance should help the learner make better decisions and perform more independently over time [[claims/fading-support-promotes-transfer-of-responsibility]] [+S].
 #### Constraints
-- <!-- TODO -->
+- **Overdependence**: If the mentor or coach becomes the constant problem-solver, learner agency can shrink.
+- **Uneven quality**: Mentoring varies greatly depending on listening skill, modeling, and feedback quality.
+- **Role confusion**: Coaching, supervision, friendship, and evaluation can blur unless expectations are explicit.
+- **Access inequality**: Informal mentoring often benefits learners who already know how to seek support.
 
 ### Target Learners
-- Learner Background:
-Physical Well-being
-Adverse Experiences
-Hearing
-Literacy Environment
-Primary Language
-Social Supports
-Vision
-Sleep
-Safety
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Self-regulation
-Motivation
-Learner Mindset
-Sense of Belonging
-Stereotype Threat
-Social Awareness & Relationship Skills
-
-Cognition:
-Cognitive Flexibility
-Attention
-Long-term Memory
-Short-term Memory
-Metacognition
-Working Memory
-
-Language and Literacy:
-Disciplinary Literacy
-Composition
-Foundational Reading Skills
-Background Knowledge
-Digital Literacy
-Numeracy
-Problem Solving
+- **Learners entering unfamiliar domains**: Strong fit when learners need help interpreting norms, expectations, and pathways.
+- **Learners practicing complex applied skills**: Coaching is especially useful when performance includes judgment, timing, or tacit knowledge.
+- **Learners needing confidence and belonging**: Mentoring can provide relational support alongside instruction.
+- **Peer-supported learners**: Peer tutoring and peer coaching can be effective when roles and structure are clear.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Skill development through supported performance**: Applying feedback and modeling to improve competence.
+- **Reflection and self-regulation**: Learning to plan, monitor, and adjust with guidance.
+- **Navigation and persistence**: Understanding how to move through a program, role, or challenge more effectively.
+- **Transfer to authentic practice**: Improving performance in real or realistic settings over time.
 
 ### Theory
 #### Supporting
-- [[theories/apprenticeship-learning-collins|Apprenticeship Learning (Collins]]
-- [[theories/brown|Brown]]
-- [[theories/newman-social-learning-theory-bandura-situated-learning-theory-lave-wenger|& Newman)
-Social Learning Theory (Bandura)
-Situated Learning Theory (Lave & Wenger)]]
+- Apprenticeship and cognitive apprenticeship traditions — learners improve by working near more experienced others who make expert thinking visible.
+- Social learning theory — observation, modeling, and guided participation support learning.
+- Situated learning perspectives — mentoring is often strongest when tied to participation in authentic practices and communities.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Mentoring alone is not a substitute for coherent instruction, curriculum, or equitable structures.
+- Relationship quality matters enough that poor mentoring can produce little benefit or even discourage learners.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Alrajhi, M. N., & Aldhafri, S. S. (2015). Peer tutoring effects on Omani students' English self-concept. International Education Studies, 8(6), 184-193.
-
-Cavanagh, T. M., Leeds, C., & Peters, J. M. (2019). Increasing oral communication self-efficacy improves oral communication and general academic performance. Business and Professional Communication Quarterly, 82(4), 440-457.
-
-Choi, I. (2009). The meaning of older adults' peer teaching: a phenomenological study. Educational Gerontology, 35(9), 831–852.
-
-Colver, M., & Fry, T. (2016). Evidence to support peer tutoring programs at the undergraduate level. Journal of College Reading and Learning, 46(1), 16-41.
-
-Immordino-Yang, M.H., Darling-Hammond, L., & Krone, C.R. (2018). The brain basis for integrated social, emotional, and academic development: How emotions and social relationships drive learning.
-
-Ladyshewsky, R. K. (2006). Peer coaching: A constructivist methodology for enhancing critical thinking in postgraduate business education. Higher Education Research & Development, 25(1), 67-84.
-
-Ladyshewsky, R. K., & Sanderson, B. (2020). Peer Coaching and Work Integrated Learning. Perth, AUS: Curtin University.
-
-Lin, Yi-Yin (2020). Support matters: Predictors of intrinsic motivation in older learners in Taiwan. Australian Journal of Adult Learning, 60(2), 190-212.
-
-McKenna, L., & French, J. (2011). A step ahead: Teaching undergraduate students to be peer teachers. Nurse Education in Practice, 11(2), 141-145.
-
-McLachlan, C. (1990). Supporting and developing adult learning. Peer tutoring: An approach to learning for adult literacy students. Adults Learning, 2(4), 110-12.
-
-Norton, M. (2001). Getting our own education: Peer tutoring and participatory education in an adult literacy centre. Participatory Practices in Adult Education, 103-120.
-
-Short, E., Kinman, G., & Baker, S. (2010). Evaluating the impact of a peer coaching intervention on well-being amongst psychology undergraduate students. International Coaching Psychology Review, 5(1), 27-35.
-
-Smith, S. (2014). Supporting digital literacy across the curriculum through blended support: A pilot project report. Journal of Educational Technology Systems, 43(2), 189-198.
-
-Topping, K. J. (1996). The effectiveness of peer tutoring in further and higher education: A typology and review of the literature. Higher Education, 32(3), 321-345.
-
-Velez, J. J., Cano, J., Whittington, M. S., & Wolf, K. J. (2011). Cultivating change through peer teaching. Journal of Agricultural Education, 52(1), 40-49.
+- [[claims/contingent-scaffolding-improves-learning]] [+M]
+- [[claims/fading-support-promotes-transfer-of-responsibility]] [+S]
+- [[claims/whole-task-performance-improves-transfer]] [~M]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/scaffolding-and-fading|Scaffolding and Fading]] — coaching often operates through contingent support and gradual release.
+- [[principles/communities-of-practice|Communities of Practice]] — mentoring frequently helps learners participate more fully in a practice community.
+- [[principles/building-empathy|Building Empathy]] — effective mentoring depends on understanding the learner's perspective and constraints.
+- [[principles/instructor-accessibility|Instructor Accessibility]] — coaching and mentoring are more likely when support channels are visible and reachable.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Peer coaching pairs**: Learners observe one another's work, ask structured questions, and plan next steps.
+- **Work-integrated mentoring**: A more experienced practitioner supports a learner during authentic task performance.
+- **Office-hour coaching sessions**: Instead of only answering questions, the instructor helps the learner diagnose strategy and plan next actions.
+- **Near-peer tutoring**: Slightly more advanced learners support novices with task-specific modeling and feedback.
 
 ## Key Sources
-- <!-- TODO -->
+- Ladyshewsky, R. K. (2006). Peer coaching: A constructivist methodology for enhancing critical thinking in postgraduate business education. *Higher Education Research & Development, 25*(1), 67-84. [https://doi.org/10.1080/07294360500453036](https://doi.org/10.1080/07294360500453036)
+- Topping, K. J. (1996). The effectiveness of peer tutoring in further and higher education: A typology and review of the literature. *Higher Education, 32*(3), 321-345. [https://doi.org/10.1007/BF00138870](https://doi.org/10.1007/BF00138870)
+- Colver, M., & Fry, T. (2016). Evidence to support peer tutoring programs at the undergraduate level. *Journal of College Reading and Learning, 46*(1), 16-41. [https://doi.org/10.1080/10790195.2015.1075446](https://doi.org/10.1080/10790195.2015.1075446)

@@ -20,11 +20,11 @@ Empowering students with a shared vocabulary to analyze and discuss the multimod
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students learning multimodal composition
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop a shared understanding of multimodal composition, enhance analytical skills, improve communication about design choices
 
 ### Affordances

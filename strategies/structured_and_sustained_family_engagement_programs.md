@@ -20,11 +20,11 @@ Creating engagement programs that are embedded throughout a school’s structure
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools, teachers, and families
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve family involvement in education, leading to positive outcomes for students.
 
 ### Affordances

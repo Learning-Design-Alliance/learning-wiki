@@ -20,11 +20,11 @@ Structured music and dance activities involve incorporating movement and rhythm 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Preschoolers and young children
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote physical activity, enhance motor skills, integrate multiple subjects (math, science, music), foster brain development, encourage social interaction
 
 ### Affordances

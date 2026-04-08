@@ -20,11 +20,11 @@ Link and construct meaning from experiences. Reflection has many facets. For exa
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop constructive decision-making skills, improve problem-solving abilities, promote ethical responsibility
 
 ### Affordances

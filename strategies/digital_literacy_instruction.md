@@ -20,11 +20,11 @@ Digital literacy instruction involves teaching learners how to effectively use d
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly adult learners and those with limited prior experience with technology
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop digital skills, enhance information literacy, and enable learners to effectively navigate and create content in a digital environment.
 
 ### Affordances

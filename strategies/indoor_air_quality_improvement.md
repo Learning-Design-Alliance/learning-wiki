@@ -20,11 +20,11 @@ Improving indoor air quality reduces absenteeism, particularly for students with
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners and educators in K-12 or higher education settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce student absenteeism, improve student health, create a healthier learning environment
 
 ### Affordances

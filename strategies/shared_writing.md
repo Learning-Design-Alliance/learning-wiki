@@ -20,11 +20,11 @@ Shared writing involves a teacher and students collaboratively composing a text,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for elementary and middle school levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Internalize concepts, improve communication skills, extend mathematical thinking, and promote group interaction.
 
 ### Affordances

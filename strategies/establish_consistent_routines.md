@@ -20,11 +20,11 @@ Use consistent routines and methods of giving instructions to help students know
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create predictability and reduce cognitive load.
 
 ### Affordances

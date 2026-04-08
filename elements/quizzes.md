@@ -18,11 +18,11 @@ Short, low-stakes assessments that reinforce learning and provide feedback.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Effective for all learners, particularly in digital learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage frequent knowledge checks and spaced learning.
 
 ### Affordances

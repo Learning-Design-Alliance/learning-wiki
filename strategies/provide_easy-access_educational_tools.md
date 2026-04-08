@@ -20,11 +20,11 @@ Providing easy-access educational tools involves making a variety of resources r
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly those with disabilities or diverse learning needs.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student independence, improve access to learning materials, and promote self-advocacy and self-regulation.
 
 ### Affordances

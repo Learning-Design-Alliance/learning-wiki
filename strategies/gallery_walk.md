@@ -20,11 +20,11 @@ Stations or posters are set up around the classroom, on the walls, or on tables.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and subject areas, particularly effective for visual and kinesthetic learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage active learning, promote collaboration, facilitate peer teaching, provide diverse perspectives
 
 ### Affordances

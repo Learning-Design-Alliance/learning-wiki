@@ -20,11 +20,11 @@ Using graphic organizers and visual aids to help students identify the most impo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who need help focusing on key information and filtering out distractions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Highlight essential information, improve focus, and support selective attention
 
 ### Affordances

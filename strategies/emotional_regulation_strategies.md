@@ -20,11 +20,11 @@ Educators identify students' strengths and challenges in emotional regulation—
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those with emotional regulation challenges or strengths.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional regulation, improve conflict resolution skills, increase adaptability to change
 
 ### Affordances

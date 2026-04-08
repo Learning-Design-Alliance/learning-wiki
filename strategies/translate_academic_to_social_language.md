@@ -20,11 +20,11 @@ Model how to say something in a more academic way or how to paraphrase academic 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase vocabulary, improve comprehension, increase Disciplinary Literacy skills
 
 ### Affordances

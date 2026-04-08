@@ -20,11 +20,11 @@ Shadowing is a direct observation technique where an adult follows a student thr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, school leaders, product designers, and anyone seeking to understand student experiences and improve school environments, particularly focusing on diverse student populations.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Gain insights into student experiences, identify areas needing improvement, uncover truths about the school environment, understand the impact of race on teaching and learning, and inform actions to support students.
 
 ### Affordances

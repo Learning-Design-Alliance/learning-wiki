@@ -20,11 +20,11 @@ Multisyllable word instruction focuses on teaching learners how to break words i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily for learners in grades 3 and up, including older students and adults who need to improve their spelling and reading skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling accuracy of multisyllable words, enhance decoding skills, increase understanding of syllable types, and develop skills in recognizing and applying prefixes and suffixes
 
 ### Affordances

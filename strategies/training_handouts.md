@@ -20,11 +20,11 @@ Training handouts are supplementary materials distributed during training sessio
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Trainers and educators in corporate, academic, and professional development settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance learner engagement, structure peer interactions, provide a reference for key content, encourage active participation, improve learner retention
 
 ### Affordances

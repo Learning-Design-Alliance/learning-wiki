@@ -20,11 +20,11 @@ School newsletters are visual aids designed to keep staff, students, and parents
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools, teachers, students, parents, and community members
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Inform staff, students, and parents, engage community, promote school spirit, customize design, keep everyone on the same page
 
 ### Affordances

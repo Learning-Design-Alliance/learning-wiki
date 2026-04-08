@@ -20,11 +20,11 @@ Students use graphic organizers to plan and structure their ideas before writing
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who struggle with organizing their thoughts before writing.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate brainstorming, organization, and structuring of ideas before writing, improving the coherence and quality of written work.
 
 ### Affordances

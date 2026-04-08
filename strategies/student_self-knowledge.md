@@ -20,11 +20,11 @@ Student self-knowledge involves helping learners understand their strengths, int
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners in grades 3-8, but applicable to all ages, who need to take more responsibility for their learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate learners' understanding of their strengths, interests, and areas for growth, and support the development of self-awareness and self-advocacy skills.
 
 ### Affordances

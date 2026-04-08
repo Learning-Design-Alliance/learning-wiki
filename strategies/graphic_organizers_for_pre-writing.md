@@ -20,11 +20,11 @@ Students use graphic organizers to plan and structure their ideas before draftin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who benefit from visual planning tools
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Organize thoughts, structure writing, develop ideas
 
 ### Affordances

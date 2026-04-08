@@ -20,11 +20,11 @@ Direct instruction of patterning skills involves teaching learners to identify a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily young learners (preschool to elementary school) but adaptable to all ages as a foundation for mathematical and logical thinking.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop skills in identifying, copying, extending, and abstracting patterns. Enhance understanding of pattern rules and regularity, fostering mathematical reasoning.
 
 ### Affordances

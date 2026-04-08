@@ -20,11 +20,11 @@ The Stations strategy involves small groups of learners rotating through differe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 6–12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Explore a topic from multiple perspectives, develop deeper understanding, engage with material using multiple modalities, promote collaborative learning.
 
 ### Affordances

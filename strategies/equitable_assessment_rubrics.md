@@ -20,11 +20,11 @@ Rubrics aligned to learning standards, objectives, and activities that illuminat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, Higher Education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assess student learning and mastery, provide meaningful comments, ensure rubrics are aligned with standards
 
 ### Affordances

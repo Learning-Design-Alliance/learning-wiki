@@ -20,11 +20,11 @@ Learners identify target vocabulary within varied contexts. Learners search for 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early elementary grades (1-3), learners who need vocabulary reinforcement, and English language learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance vocabulary recognition, improve contextual understanding, reinforce reading skills, develop pattern recognition
 
 ### Affordances

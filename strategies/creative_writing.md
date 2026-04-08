@@ -20,11 +20,11 @@ Former teachers Ed Kang and Amy Schwartzbach-Kang incorporated storytelling and 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly useful for elementary and middle school students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Engage students in science through storytelling. Foster creativity and imagination. Integrate science concepts with writing skills.
 
 ### Affordances

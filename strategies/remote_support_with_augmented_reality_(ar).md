@@ -20,11 +20,11 @@ AR apps allow technicians and users to communicate with experts in real time. Th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Technicians, experts, and remote workers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve communication between experts and users, assist repair of technical systems more quickly, enhance field communication skills, troubleshoot equipment more efficiently.
 
 ### Affordances

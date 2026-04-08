@@ -1,81 +1,102 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: Scardamalia & Bereiter (1994)
-grain_size: Unit, Lesson
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: Scardamalia and Bereiter
+grain_size: unit
 ---
 
 # Collaborative Inquiry
 
 ## Description
-A research-based learning model where students work together to pose questions, investigate solutions, and construct knowledge through guided inquiry. Unlike traditional research assignments, collaborative inquiry is iterative and collective, with students actively questioning, debating, and revising their understanding through social learning.
+Collaborative inquiry is a pattern in which learners pose questions together, investigate possible answers, critique emerging explanations, and revise their understanding in public. It differs from traditional research assignments by making inquiry collective and iterative rather than individual and linear. The group's evolving questions and explanations become the main engine of learning.
+
+The pattern is most useful when the instructional goal is not just finding information but improving ideas through discussion, evidence gathering, and revision. It requires enough structure to keep inquiry moving beyond brainstorming into disciplined knowledge building.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Requires facilitators skilled in guiding inquiry and discussion; Needs structured digital or physical spaces for collaboration.
+- **A worthwhile shared question space**: Learners need problems or questions that support investigation rather than mere lookup.
+- **Collaborative routines**: The group needs processes for proposing questions, distributing inquiry work, and revising shared understanding.
+- **Evidence use**: Inquiry should involve gathering, weighing, and integrating sources or observations.
+- **Instructor guidance**: Facilitation is needed to maintain rigor and keep the inquiry from becoming diffuse.
 #### Constraints
-- Some students struggle with open-ended tasks; Requires time and structure to ensure deep inquiry, not surface-level discussions.
+- **Open-endedness can drift**: Without structure, collaborative inquiry can produce activity without progress.
+- **Participation asymmetry**: Some learners may do most of the inquiry work unless roles are explicit.
+- **Time demands**: Deep inquiry takes longer than direct explanation or narrow research tasks.
+- **Weak fit for tightly bounded procedural learning**: The pattern is better for investigation than for rote skill acquisition.
 #### Grain Size
-Unit, Lesson
+- Lesson
+- Unit
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Best for developing critical thinking, research skills, and metacognitive awareness in social sciences, STEM, and humanities.
+- **Question-driven learning**: Building understanding through investigation.
+- **Shared knowledge construction**: Improving ideas through collective critique and revision.
+- **Research and evidence habits**: Using sources and observations purposefully.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- K-12, higher education, and professional development settings. Effective in interdisciplinary research and inquiry-driven learning.
+- **Learners working in interdisciplinary or research-oriented contexts**: Strong fit where inquiry itself is part of the learning goal.
+- **Groups ready for substantive discussion**: The pattern depends on critique, synthesis, and revision.
+- **Adult and higher education learners**: Particularly useful when participants can draw on experience and domain questions.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Social constructivist perspectives — learning strengthens through dialogue and co-construction of understanding.
+- Inquiry-oriented perspectives — knowledge grows through questioning, investigation, and revision.
+- Knowledge-building traditions — learners can work as a community to improve ideas rather than only complete tasks.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Inquiry quality depends on structure; not all collaboration is inquiry.
+- Learners often need scaffolds for question quality, evidence use, and synthesis.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/contingent-scaffolding-improves-learning]] [+M]
+- [[claims/whole-task-performance-improves-transfer]] [~S]
+- [[claims/self-monitoring-improves-self-regulation]] [~M]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-1. Learners formulate open-ended questions. 
- 2. Groups research, analyze, and refine ideas. 
- 3. Knowledge is shared, critiqued, and revised. 
- 4. Reflection on learning process and outcomes.
+1. Surface a shared question, problem, or area of uncertainty.
+2. Generate subquestions and initial hypotheses.
+3. Investigate through research, observation, or evidence gathering.
+4. Bring findings back to the group for critique and synthesis.
+5. Revise explanations and identify next questions.
 
 ### Elements Used
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/research|Research]]
-- [[elements/knowledge-building-discourse|Knowledge-Building Discourse]]
-- [[elements/revision-reflection|Revision & Reflection]]
+- [[elements/scaffolded-inquiry|Scaffolded Inquiry]]
+- [[elements/peer-discussion|Peer Discussion]]
+- [[elements/reflection|Reflection]]
+- [[elements/formative-assessment|Formative Assessment]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/social-constructivism-learning-is-social-and-participatory|Social Constructivism – Learning is social and participatory]]
-- [[principles/inquiry-based-learning-students-develop-and-refine-questions|Inquiry-Based Learning – Students develop and refine questions]]
-- [[principles/knowledge-building-learners-collaborate-to-generate-and-improve-ideas|Knowledge Building – Learners collaborate to generate and improve ideas.]]
-
+- [[principles/inquiry-based-learning|Inquiry-based Learning]]
+- [[principles/peer-discussion|Peer Discussion]]
+- [[principles/problem-based-learning|Problem-based Learning]]
+- [[principles/purposeful-reflection|Purposeful Reflection]]
 
 ### Personalization
-- Inquiry complexity can be adjusted to different levels; Scaffolds like research templates and discussion prompts support diverse learners.
+- Different learners or teams can pursue different subquestions within a shared inquiry frame.
+- Support can range from heavily scaffolded prompts to more open collaborative investigation.
+- Inquiry artifacts can be oral, visual, written, or mixed depending on the group and context.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
+- [[patterns/discussion-group|Discussion Group]]
 
 ## Examples
-- - K-12 science: Investigating climate change through collaborative inquiry. 
- - University research methods courses: Students co-develop research projects. 
- - Corporate training: Teams analyze market trends and refine business strategies.
+- Learners jointly investigating a community issue and synthesizing evidence into a shared explanation.
+- Science groups developing, testing, and revising explanations around a common phenomenon.
+- Professional teams analyzing trends, gathering evidence, and updating a shared recommendation.
 
 ## Impact
-- Research supports increased engagement, higher-order thinking, and better retention of learned concepts (Scardamalia & Bereiter, 2006).
+- Supports deeper engagement when the goal is to improve ideas rather than only gather information.
+- Strongest when inquiry products are shared, critiqued, and revised repeatedly.
 
 ## Key Sources
-- - Scardamalia, M., & Bereiter, C. (2006). Knowledge Building: Theory, Pedagogy, and Technology. Cambridge Handbook of the Learning Sciences.
+- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97-115). Cambridge University Press.
+- Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning. *Educational Psychologist, 42*(2), 99-107. [https://doi.org/10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

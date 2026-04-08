@@ -20,11 +20,11 @@ Reinforce verbal instructions with body language, gestures, and demonstrations t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially visual and kinesthetic learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension through visual and kinesthetic cues.
 
 ### Affordances

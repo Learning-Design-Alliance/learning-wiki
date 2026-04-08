@@ -20,11 +20,11 @@ Spend more time on reasoning than on finding the correct answer. Teachers can pr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who struggle with math or lack confidence in their problem-solving abilities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase confidence, encourage multiple approaches, promote discursive learning
 
 ### Affordances

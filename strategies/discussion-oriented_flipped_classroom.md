@@ -20,11 +20,11 @@ Homework is assigned in the form of video lectures and external video resources.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners who thrive in discussion-based environments and can critically analyze information.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote critical thinking, enhance communication skills, deepen understanding through peer interaction.
 
 ### Affordances

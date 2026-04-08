@@ -20,11 +20,11 @@ Puppet shows can be used to act out different scenarios and explore the emotions
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early childhood and elementary students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop emotional literacy, improve problem-solving skills, promote empathetic understanding
 
 ### Affordances

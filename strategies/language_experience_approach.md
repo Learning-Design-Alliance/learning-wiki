@@ -20,11 +20,11 @@ The language experience approach is a whole language method that integrates the 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly effective for young learners and English language learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop reading, writing, listening, and speaking skills. Connect learning to learners' experiences. Build confidence and motivation.
 
 ### Affordances

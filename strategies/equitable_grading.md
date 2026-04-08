@@ -20,11 +20,11 @@ Equitable grading focuses on fair and consistent grading practices to address bi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, schools, and districts aiming to create more equitable grading systems
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce inconsistencies in grading criteria, address implicit biases, promote consistent grading processes, support fair assessment of student learning
 
 ### Affordances

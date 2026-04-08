@@ -20,11 +20,11 @@ The number line is used as a visual representation of numerical relationships. S
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop number sense, understand linearity, teach place value, and develop an understanding of magnitude
 
 ### Affordances

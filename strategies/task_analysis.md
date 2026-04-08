@@ -20,11 +20,11 @@ Task analysis involves breaking down a writing assignment into smaller, manageab
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students struggling with writing assignments, particularly those with learning and thinking differences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve understanding of writing assignments; reduce frustration and loss of class time; enhance clarity and focus
 
 ### Affordances

@@ -20,11 +20,11 @@ Challenging learners to reframe negative thoughts into positive affirmations. Th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with negative self-talk and want to develop a more positive mindset.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop learners' ability to identify and reframe negative thoughts.
 
 ### Affordances

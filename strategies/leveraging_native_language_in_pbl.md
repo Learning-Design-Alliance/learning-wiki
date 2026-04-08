@@ -20,11 +20,11 @@ Leveraging the native language in project-based learning (PBL) involves using st
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Multilingual students, particularly English Language Learners (ELLs), in project-based learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To capitalize on students' multilingual skills to enhance project-based learning activities and promote inclusivity and cultural appreciation.
 
 ### Affordances

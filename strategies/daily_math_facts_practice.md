@@ -20,11 +20,11 @@ Beginning each math lesson with spaced practice to review arithmetic facts. Sess
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop arithmetic fact fluency and apply foundational facts to operations.
 
 ### Affordances

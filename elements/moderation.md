@@ -18,11 +18,11 @@ An instructor or facilitator guides discussions to ensure productive engagement.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for higher education, online learning, and corporate training.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster constructive dialogue and maintain engagement.
 
 ### Affordances

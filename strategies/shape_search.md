@@ -20,11 +20,11 @@ Learners identify two- and three-dimensional shapes in their surroundings, promo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve shape recognition, enhance geometric awareness, and connect geometric concepts to real-world objects
 
 ### Affordances

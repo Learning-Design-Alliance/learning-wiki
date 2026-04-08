@@ -20,11 +20,11 @@ Scaffolding structure and function in project-based learning (PBL) involves prov
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, with a particular focus on English Language Learners (ELLs) in project-based learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To support students, especially English Language Learners (ELLs), in effectively communicating their knowledge and understanding within project-based learning activities.
 
 ### Affordances

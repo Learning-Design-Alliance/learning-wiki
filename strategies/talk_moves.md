@@ -20,11 +20,11 @@ Talk moves are sentence frames we supply to our learners that help them express 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and subject areas, particularly effective for promoting respectful communication and enhancing critical thinking
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote respectful and academically appropriate communication, enhance critical thinking skills, encourage active listening and perspective-taking, build a positive classroom culture
 
 ### Affordances

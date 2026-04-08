@@ -20,11 +20,11 @@ Modelling examples provide maximum guidance by paying explicit attention to the 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly novices in complex domains
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide maximum guidance and real-world context through modeling examples and case studies.
 
 ### Affordances

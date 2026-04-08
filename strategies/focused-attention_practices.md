@@ -20,11 +20,11 @@ Focused-attention practice is a brain exercise for quieting the thousands of tho
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Calm the mind, improve focus, reduce stress, enhance coping strategies
 
 ### Affordances

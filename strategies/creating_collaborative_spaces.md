@@ -20,11 +20,11 @@ Creating collaborative spaces involves designing the learning environment to fac
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote collaboration, enhance communication skills, foster teamwork, encourage peer learning, create a sense of community
 
 ### Affordances

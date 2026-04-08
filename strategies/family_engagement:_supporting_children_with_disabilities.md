@@ -20,11 +20,11 @@ Family engagement is a practice in which families and school personnel collabora
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools, educators, and families of students with disabilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student achievement, behavior, and social-emotional skills; support families facing unique challenges
 
 ### Affordances

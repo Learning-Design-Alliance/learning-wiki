@@ -18,11 +18,11 @@ Learners become subject-matter experts on a topic and teach their peers.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for collaborative learning, STEM, and humanities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote deep learning through peer instruction.
 
 ### Affordances

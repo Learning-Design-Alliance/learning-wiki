@@ -20,11 +20,11 @@ Think-Write-Share is a strategy that involves learners thinking about a question
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Appropriate for all grade levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, promote individual accountability, address misconceptions, and foster deeper mathematical understanding.
 
 ### Affordances

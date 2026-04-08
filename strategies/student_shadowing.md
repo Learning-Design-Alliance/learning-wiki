@@ -20,11 +20,11 @@ An adult (educator, administrator, or school leader) follows a student throughou
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, administrators, school leaders, and product designers seeking to understand student experiences and improve learning environments, particularly for students of color, English learners, or those who may be overlooked.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand students’ lived experiences, identify areas for improvement in teaching practices and school environment, gather qualitative data to inform equity initiatives, increase educator empathy and awareness of student needs.
 
 ### Affordances

@@ -20,11 +20,11 @@ Basic facts should be taught using number relationships and reasoning strategies
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develops conceptual understanding, improves numerical reasoning, promotes strategic thinking, minimizes reliance on memorization
 
 ### Affordances

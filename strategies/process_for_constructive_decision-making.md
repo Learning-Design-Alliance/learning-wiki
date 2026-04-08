@@ -20,11 +20,11 @@ Brainstorm with students a process for constructive decision-making and display 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop constructive decision-making skills, improve problem-solving abilities, promote ethical responsibility
 
 ### Affordances

@@ -20,11 +20,11 @@ Verbal feedback uses voice recording technology to provide balanced feedback and
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - 6th grade through postsecondary students in any subject
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student writing skills, promote a growth mindset, provide engaging feedback, and enhance revision skills
 
 ### Affordances

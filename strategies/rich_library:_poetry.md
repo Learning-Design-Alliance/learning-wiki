@@ -20,11 +20,11 @@ Provides access to a collection of poems and poetry-related resources to enhance
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary teachers, learners of all ages interested in poetry
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Expose learners to a wide range of poetry, enhance literacy skills, foster appreciation for poetry, and provide resources for further exploration.
 
 ### Affordances

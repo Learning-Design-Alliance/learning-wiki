@@ -20,11 +20,11 @@ Allowing an indoor/outdoor space that becomes an extension of classroom learning
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve engagement, improve test scores, reduce stress
 
 ### Affordances

@@ -20,11 +20,11 @@ Teachers should emphasize collaborative learning within a project. It allows ELL
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - ELL students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote peer support, encourage language practice, and enhance social skills.
 
 ### Affordances

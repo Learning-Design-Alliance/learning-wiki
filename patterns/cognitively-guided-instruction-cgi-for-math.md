@@ -1,76 +1,102 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: Carpenter et al. (1999)
-grain_size: Lesson, Unit
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: Carpenter, Fennema, Franke, Levi, and Empson
+grain_size: lesson
 ---
 
 # Cognitively Guided Instruction (CGI) for Math
 
 ## Description
-A pattern where teachers build on students' existing problem-solving strategies, guiding them toward more sophisticated mathematical reasoning.
+CGI for math is a pattern in which instruction begins with learners' own mathematical thinking and strategies rather than with a fixed demonstration of one correct method. The instructor presents a problem, listens closely to how learners approach it, and uses discussion and comparison to guide movement toward more sophisticated reasoning. The core design move is to treat learner thinking as instructional material.
+
+The pattern is especially strong for building number sense, conceptual understanding, and flexible strategy use. It relies heavily on teacher noticing and discourse moves, so it is more facilitation-intensive than scripted demonstration-first lessons.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Requires trained instructors skilled in listening and guiding discourse
+- **A rich problem worth solving in multiple ways**: CGI depends on tasks that invite meaningful mathematical thinking.
+- **Instructor skill in eliciting and interpreting learner strategies**: The teacher needs to notice productive ideas and misconceptions in real time.
+- **Discussion routines**: Learners need opportunities to explain, compare, and refine strategies.
+- **A classroom culture that values reasoning**: Learners must feel that strategy explanation matters, not just answer production.
 #### Constraints
-- Time-intensive, difficult to implement in rigid curricula
+- **Implementation depends on teacher expertise**: CGI is difficult to do well without strong pedagogical content knowledge.
+- **Time pressure**: Listening, comparison, and whole-group discussion take time.
+- **Less efficient for simple routine automation**: Some procedural fluency goals may need more direct instruction or practice.
+- **Task quality matters**: Weak problems reduce the range and usefulness of learner-generated strategies.
 #### Grain Size
-Lesson, Unit
+- Lesson
+- Unit
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Supports deep conceptual understanding, flexible problem-solving skills
+- **Conceptual understanding in math**: Learners see why strategies work, not only which answer is correct.
+- **Flexible problem solving**: Students learn to compare and adapt approaches.
+- **Mathematical discourse**: Strategy explanation and justification become part of learning.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- K-5 Math Education
+- **Learners developing early or foundational mathematical reasoning**: CGI is especially strong when building number sense and strategy awareness.
+- **Learners who benefit from starting with their own thinking**: Useful when confidence grows through having ideas taken seriously.
+- **Groups prepared to discuss strategies**: The pattern depends on explanation and comparison, not just individual completion.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Constructivist perspectives — learners build understanding through active problem solving and reorganization of strategies.
+- Sociocultural perspectives — mathematical reasoning develops through explanation, comparison, and guided discourse.
+- Formative assessment traditions — instruction improves when it responds to evidence of learner thinking.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Learner-generated strategies do not remove the need for explicit consolidation of efficient or generalizable methods.
+- Some learners will still need direct support if strategy generation stalls or misconceptions harden.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/contingent-scaffolding-improves-learning]] [+M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
+- [[claims/whole-task-performance-improves-transfer]] [~S]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-- 1) Students solve problems using their own strategies, 2) Discuss approaches with peers, 3) Instructor scaffolds deeper understanding
+1. Present a mathematically rich problem without over-specifying the method.
+2. Have learners solve using their own strategies or representations.
+3. Elicit and record different approaches.
+4. Facilitate comparison of strategies and underlying mathematical structure.
+5. Consolidate what learners should carry forward into later tasks.
 
 ### Elements Used
-- [[elements/eliciting-student-thinking|Eliciting Student Thinking]]
+- [[elements/problem-presentation|Problem Presentation]]
+- [[elements/problem-solving-tasks|Problem-Solving Tasks]]
 - [[elements/peer-explanation|Peer Explanation]]
-- [[elements/strategy-comparison|Strategy Comparison]]
-- [[elements/teacher-scaffolding|Teacher Scaffolding]]
+- [[elements/formative-assessment|Formative Assessment]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/constructivism|Constructivism]]
-- [[principles/scaffolding-theory|Scaffolding Theory]]
-- [[principles/zone-of-proximal-development|Zone of Proximal Development]]
-
+- [[principles/real-world-math|Real-world Math]]
+- [[principles/peer-discussion|Peer Discussion]]
+- [[principles/guided-practice|Guided Practice]]
+- [[principles/formative-assessment|Formative Assessment]]
 
 ### Personalization
-- Can be adapted with different problem types, representations, or guided questioning
+- Different learners can use different entry strategies on the same task.
+- Teacher prompts can be adjusted to push a learner slightly beyond current reasoning.
+- Representations and contexts can be varied while preserving the mathematical structure.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
+- [[patterns/think-pair-share|Think-Pair-Share]]
 
 ## Examples
-- CGI-based elementary math instruction, Math Talk classrooms
+- Early numeracy lessons where multiple addition or subtraction strategies are surfaced and compared.
+- Math talk classrooms that use learner solutions as the basis for whole-group discussion.
+- Problem sequences that move from familiar contexts toward more abstract structures.
 
 ## Impact
-- Research shows improved number sense, problem-solving flexibility, and equity in math learning
+- Supports deeper strategy awareness and flexible mathematical reasoning.
+- Particularly valuable when instruction aims to surface and build from learner thinking rather than replace it immediately.
 
 ## Key Sources
-- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (1999). Children's Mathematics: Cognitively Guided Instruction.
+- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (1999). *Children's mathematics: Cognitively guided instruction*. Heinemann.
+- Empson, S. B., & Levi, L. (2011). *Extending children's mathematics: Fractions and decimals*. Heinemann.

@@ -20,11 +20,11 @@ Students are asked to create videos demonstrating their understanding. Students 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners who can effectively demonstrate their understanding through video creation.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding through creation, promote active learning, build a reusable resource library.
 
 ### Affordances

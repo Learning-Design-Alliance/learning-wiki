@@ -20,11 +20,11 @@ Using project management tools such as Project Pals, Headrush, and Student Corne
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially beneficial for managing complex projects
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve project organization and management, enhance communication, increase student engagement, provide a centralized location for project resources.
 
 ### Affordances

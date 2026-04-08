@@ -20,11 +20,11 @@ Provide learners with the autonomy to select their learning activities, mirrorin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, adaptable for K–12, higher education, and adult learners in various settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner engagement, develop independence and responsibility, enhance retention of learning, connect tasks to personal interests and future goals
 
 ### Affordances

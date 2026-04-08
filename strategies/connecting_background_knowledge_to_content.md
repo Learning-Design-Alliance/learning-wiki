@@ -24,11 +24,11 @@ A method for making instruction more culturally relevant by connecting content t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly English Language Learners (ELLs)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance learner engagement, improve content retention, foster cultural understanding, make content more accessible
 
 ### Affordances

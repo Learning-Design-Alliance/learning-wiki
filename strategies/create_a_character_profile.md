@@ -20,11 +20,11 @@ Creating a character profile helps students form a deeper understanding of a boo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop deeper understanding of characters, improve analytical skills, and encourage empathy
 
 ### Affordances

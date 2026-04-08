@@ -20,11 +20,11 @@ Instructors present lecture content using graphic organizers rather than standar
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who benefit from visual aids and structured presentations.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help students visualize how concepts are related, improving comprehension and retention during lectures.
 
 ### Affordances

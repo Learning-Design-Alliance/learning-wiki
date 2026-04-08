@@ -20,11 +20,11 @@ Maker spaces and fab labs provide learners with opportunities to invent, design,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, higher education, adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster creativity, encourage exploration, promote collaboration, apply theoretical knowledge, solve real-world problems
 
 ### Affordances

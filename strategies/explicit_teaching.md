@@ -20,11 +20,11 @@ When teachers adopt explicit teaching practices they clearly show students what 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure students understand the learning intentions and success criteria through clear instruction and modeling.
 
 ### Affordances

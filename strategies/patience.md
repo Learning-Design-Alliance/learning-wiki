@@ -20,11 +20,11 @@ Teaching higher-level thinking skills and analyzing mentor texts can be a new ex
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for struggling learners and those who lack confidence
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster a growth mindset, encourage persistence, promote self-efficacy, create a supportive learning environment, reduce anxiety and frustration
 
 ### Affordances

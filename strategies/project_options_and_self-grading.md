@@ -20,11 +20,11 @@ Offer up plenty of options in types of projects and also collaborate with studen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable across all learner levels, including K-12, higher education, and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase motivation and engagement, promote self-reflection, develop assessment skills, and foster a learner mindset.
 
 ### Affordances

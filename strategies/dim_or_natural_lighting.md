@@ -20,11 +20,11 @@ Using dim or natural lighting in classrooms or learning spaces to promote a calm
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially beneficial for learners with autism or sensory processing disorders.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a calm and focused learning environment, reduce distractions, improve mood and creativity, support sensory needs.
 
 ### Affordances

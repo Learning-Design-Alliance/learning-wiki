@@ -20,11 +20,11 @@ This strategy involves shifting the focus of internal dialogue from future anxie
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for individuals prone to anxiety, procrastination, or feeling overwhelmed by future challenges.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce anxiety about the future, shift focus to actionable steps in the present, promote a sense of control, manage overwhelming feelings, encourage proactive behavior.
 
 ### Affordances

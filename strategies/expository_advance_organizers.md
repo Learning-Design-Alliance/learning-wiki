@@ -20,11 +20,11 @@ Expository advance organizers give students a broad idea of the lesson’s purpo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly helpful for introducing new topics and units of study.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide a preview of the lesson, set expectations, and guide students’ thinking by explicitly stating learning goals.
 
 ### Affordances

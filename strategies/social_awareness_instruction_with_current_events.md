@@ -20,11 +20,11 @@ This strategy involves using current events and fictional characters to explicit
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary, middle, and high school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop social awareness, enhance empathy, improve perspective-taking skills, promote understanding of social issues
 
 ### Affordances

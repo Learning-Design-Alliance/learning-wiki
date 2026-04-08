@@ -20,11 +20,11 @@ This strategy involves using short, focused prompts at the end of a class period
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those in environments that require quick and meaningful closings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Deepen learning, encourage articulation of ideas, provide multiple avenues for engaging with complex ideas, help teachers understand and adapt to learners' intellectual processes.
 
 ### Affordances

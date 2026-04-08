@@ -20,11 +20,11 @@ Using digital libraries with audio and visual components to engage learners with
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All ages, adaptable for elementary students through adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance appreciation for poetry, develop literacy skills, improve understanding of poetic devices and themes.
 
 ### Affordances

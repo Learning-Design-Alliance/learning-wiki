@@ -20,11 +20,11 @@ Engaging learners cognitively and emotionally by understanding how their identit
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators at all levels, especially those working with diverse student populations
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote equity, foster a Sense of Belonging, and help students become independent learners.
 
 ### Affordances

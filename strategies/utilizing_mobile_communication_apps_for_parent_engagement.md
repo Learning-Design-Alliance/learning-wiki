@@ -20,11 +20,11 @@ Mobile communication apps (e.g., ClassDojo, Spotlight, Remind, and Seesaw) offer
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers, educators, and parents
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance parent engagement, improve communication, provide support
 
 ### Affordances

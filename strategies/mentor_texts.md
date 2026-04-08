@@ -20,11 +20,11 @@ Mentor texts are examples of high-quality writing used to teach students how to 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and higher education students learning writing and literacy skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop students' writing abilities, enhance disciplinary literacy, foster confidence in writing, expose students to various writing techniques and genres, improve critical thinking and analytical skills
 
 ### Affordances

@@ -18,11 +18,11 @@ A simplified version of the full concept is introduced first before elaborating 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for structured learning in STEM, business, and social sciences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help learners develop a big-picture understanding before diving into details.
 
 ### Affordances

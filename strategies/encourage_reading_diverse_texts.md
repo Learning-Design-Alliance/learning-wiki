@@ -20,11 +20,11 @@ Learners read diverse texts and then think and talk about different genres to ac
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase vocabulary and comprehension, improve Disciplinary Literacy skills
 
 ### Affordances

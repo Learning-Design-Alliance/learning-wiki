@@ -18,11 +18,11 @@ Supplementary activities designed to reinforce learning and provide formative fe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Useful for college-level courses, self-paced learning, and professional development.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance retention, provide immediate feedback, and allow students to self-assess learning progress.
 
 ### Affordances

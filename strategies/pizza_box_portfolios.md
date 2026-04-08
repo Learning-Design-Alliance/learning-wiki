@@ -20,11 +20,11 @@ Pizza box portfolios are a great space-saving solution. They stack right on top 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners of all ages, learners with limited storage space
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide a space-saving solution for storing learning materials, promote organization of completed work, encourage student decoration and ownership
 
 ### Affordances

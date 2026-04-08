@@ -20,11 +20,11 @@ Discipline-specific literacy involves teaching reading, writing, speaking, and t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners across all subject areas
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension of subject-specific content, improve discipline-specific communication skills, reduce anxiety around reading and writing in specific subjects, and foster deeper engagement with course content.
 
 ### Affordances

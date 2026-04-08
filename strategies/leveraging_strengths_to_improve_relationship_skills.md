@@ -20,11 +20,11 @@ This strategy focuses on identifying and supporting students' relationship skill
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for students across various grade levels and subjects, especially those who need support in developing positive social skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance students' ability to form and maintain healthy relationships, improve communication and cooperation skills, and develop effective conflict management strategies.
 
 ### Affordances

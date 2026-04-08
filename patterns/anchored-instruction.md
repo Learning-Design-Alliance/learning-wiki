@@ -1,79 +1,102 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: John Bransford & The Cognition and Technology Group at Vanderbilt (1990)
-grain_size: Unit, Lesson
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: John Bransford and the Cognition and Technology Group at Vanderbilt
+grain_size: lesson
 ---
 
 # Anchored Instruction
 
 ## Description
-A problem-solving approach where instruction is “anchored” in a realistic, complex problem scenario that students must explore. These narrative-driven, multimedia-based problems engage learners in inquiry, decision-making, and applied learning. Anchored Instruction aims to situate learning in authentic contexts, improving transfer of knowledge to real-world settings. The best-known implementation is The Adventures of Jasper Woodbury, a series of video-based problem-solving tasks used to teach math and science concepts.
+Anchored instruction organizes learning around a rich, shared scenario that acts as the "anchor" for inquiry, discussion, and problem solving. Instead of teaching ideas first and application later, the pattern begins with a narrative or multimedia situation containing the information, constraints, and questions learners will need to investigate. The anchor creates a common reference point that learners can revisit as they gather evidence and develop solutions.
+
+The pattern is useful when learners need to reason through messy situations rather than complete routine exercises. It gives instructors a way to situate abstract ideas inside a concrete case while still guiding analysis and collaborative interpretation.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Requires well-designed multimedia scenarios and instructor-led guidance to prevent misconceptions.
+- **A strong anchor**: The opening scenario needs enough richness, realism, and information to support sustained inquiry.
+- **Facilitated problem solving**: Learners need questions, discussion, and scaffolds that help them interpret the anchor productively.
+- **A meaningful problem or decision**: The scenario should require reasoning, not only recall.
+- **Opportunities to revisit evidence**: Learners should return to the anchor as they refine understanding.
 #### Constraints
-- May not work well for basic knowledge recall; Requires significant preparation time for scenario creation.
+- **Scenario quality is decisive**: Weak or artificial anchors undermine the whole pattern.
+- **Novice overload risk**: Without guidance, learners may focus on story details rather than relevant structure.
+- **Preparation burden**: Good anchored instruction often depends on well-built media and facilitation materials.
+- **Weak fit for narrowly procedural outcomes**: It is better for inquiry and application than for isolated routine drills.
 #### Grain Size
-Unit, Lesson
+- Lesson
+- Unit
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Best suited for complex problem-solving and decision-making in STEM, social sciences, and business education.
+- **Applied problem solving**: Using knowledge inside a meaningful situation.
+- **Transfer and interpretation**: Seeing how concepts matter in context.
+- **Collaborative reasoning**: Building understanding through shared analysis of the anchor.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Middle school, high school, and higher education. Effective for problem-based learning and real-world application.
+- **Learners needing context for abstraction**: Useful when abstract ideas become clearer through a concrete scenario.
+- **Learners engaged in inquiry-heavy tasks**: Good fit for math, science, humanities, and professional contexts.
+- **Groups working through shared evidence**: The anchor gives everyone a common object for analysis.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Situated learning perspectives — knowledge is easier to use when learned in meaningful contexts.
+- Constructivist perspectives — learners build understanding by investigating and interpreting rich situations.
+- Cognitive apprenticeship perspectives — guided participation helps learners notice what matters in a complex scenario.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Anchors support inquiry, but they do not remove the need for explicit clarification of key concepts.
+- A compelling story is not enough if the underlying task structure is weak.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/whole-task-performance-improves-transfer]] [~S]
+- [[claims/contingent-scaffolding-improves-learning]] [+M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-1. Instructor presents a narrative-based problem (e.g., a math problem embedded in a story). 
- 2. Students work in teams to analyze the scenario and propose solutions. 
- 3. The instructor facilitates reflection and application of key concepts.
+1. Present a shared narrative, video, or multimedia scenario that contains a complex problem.
+2. Ask learners to identify what they notice, what they need to know, and what the key questions are.
+3. Guide collaborative inquiry into the scenario's data, constraints, and implications.
+4. Have learners propose, justify, and refine responses.
+5. Debrief the reasoning and connect it back to the target concepts.
 
 ### Elements Used
+- [[elements/anchored-instruction|Anchored Instruction]]
 - [[elements/problem-scenario|Problem Scenario]]
-- [[elements/inquiry-based-exploration|Inquiry-Based Exploration]]
-- [[elements/collaborative-problem-solving|Collaborative Problem-Solving]]
-- [[elements/application-of-knowledge|Application of Knowledge]]
+- [[elements/problem-presentation|Problem Presentation]]
+- [[elements/peer-interaction|Peer Interaction]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/situated-learning-learning-is-embedded-in-meaningful-contexts|Situated Learning – Learning is embedded in meaningful contexts]]
-- [[principles/cognitive-apprenticeship-scaffolds-students-through-guided-problem-solving|Cognitive Apprenticeship – Scaffolds students through guided problem-solving]]
-- [[principles/transfer-of-learning-encourages-application-of-concepts-to-novel-situations|Transfer of Learning – Encourages application of concepts to novel situations.]]
-
+- [[principles/problem-based-learning|Problem-based Learning]]
+- [[principles/inquiry-based-learning|Inquiry-based Learning]]
+- [[principles/authentic-audiences-purposes|Authentic Audiences & Purposes]]
+- [[principles/creating-visual-representations|Creating Visual Representations]]
 
 ### Personalization
-- Scenarios can be adapted to different learner levels; Inquiry prompts and scaffolding can be adjusted.
+- Anchors can be chosen or adapted to different learner interests and backgrounds.
+- Scaffolds can range from heavily guided questioning to more open inquiry.
+- Teams can take different roles or analyze different facets of the same anchor.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
+- [[patterns/goal-based-scenarios-gbs|Goal-Based Scenarios (GBS)]]
 
 ## Examples
-- - Math classrooms: Video-based scenarios where students must calculate costs for a project. 
- - Medical education: Simulated patient cases requiring diagnosis and treatment planning.
+- Jasper-style video math problems that embed quantitative reasoning in a narrative.
+- Case launches in science or civics where learners work from a shared media scenario.
+- Professional training modules built around a realistic event or dilemma.
 
 ## Impact
-- Studies show increased engagement, problem-solving ability, and knowledge transfer in anchored instruction environments (Bransford et al., 1992).
+- Useful for increasing engagement and helping learners connect ideas to realistic contexts.
+- Especially strong when the debrief makes underlying concepts explicit after inquiry.
 
 ## Key Sources
-- - Bransford, J., et al. (1992). The Jasper Experiment: An Exploration of Issues in Learning and Instruction. Educational Technology Research and Development.
+- Bransford, J. D., Sherwood, R. D., Hasselbring, T. S., Kinzer, C. K., & Williams, S. M. (1990). Anchored instruction: Why we need it and how technology can help. In D. Nix & R. Spiro (Eds.), *Cognition, education, and multimedia* (pp. 115-141). Erlbaum.
+- Cognition and Technology Group at Vanderbilt. (1992). The Jasper experiment: An exploration of issues in learning and instructional design. *Educational Technology Research and Development, 40*(1), 65-80. [https://doi.org/10.1007/BF02296729](https://doi.org/10.1007/BF02296729)

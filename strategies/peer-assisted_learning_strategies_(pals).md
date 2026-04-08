@@ -20,11 +20,11 @@ PALS is a structured peer tutoring approach that involves pairing learners to wo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 2–6
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase reading fluency, improve reading comprehension, build summarizing skills, develop peer support, enhance social skills
 
 ### Affordances

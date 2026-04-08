@@ -20,11 +20,11 @@ Self-monitoring of performance is a strategy where learners monitor an aspect of
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners needing to improve academic performance, including elementary, secondary, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve academic performance, build fluency, and increase accuracy of completed work
 
 ### Affordances

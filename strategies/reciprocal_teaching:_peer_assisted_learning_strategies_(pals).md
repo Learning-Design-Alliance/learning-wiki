@@ -20,11 +20,11 @@ PALS is a peer tutoring strategy designed to improve reading comprehension and f
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily designed for students in grades 2–6, but adaptable for older students with reading difficulties.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance reading comprehension, improve reading fluency, practice summarizing, improve vocabulary, develop social awareness and relationship skills
 
 ### Affordances

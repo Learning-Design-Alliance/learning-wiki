@@ -20,11 +20,11 @@ Engage in focused investigation with “immediate and concrete data” that lear
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All writers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing quality, enhance research skills, promote critical thinking
 
 ### Affordances

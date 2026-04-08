@@ -20,11 +20,11 @@ Heat transfer investigations involve exploring how different materials and envir
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying physical science
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand heat transfer principles, investigate the effect of materials on heat transfer, relate cooling and warming to environmental temperature, develop experimental skills
 
 ### Affordances

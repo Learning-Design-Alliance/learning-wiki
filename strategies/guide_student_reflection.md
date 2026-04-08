@@ -20,11 +20,11 @@ Teachers use many strategies to guide students through a period of reflection. T
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Guide student reflection, improve problem-solving abilities, develop metacognition
 
 ### Affordances

@@ -20,11 +20,11 @@ Students read displayed quotes and choose one that reflects their current feelin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All ages, adaptable for elementary through college students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Express feelings through quotes, increase emotional awareness, build comfort in sharing emotions, foster a sense of connection
 
 ### Affordances

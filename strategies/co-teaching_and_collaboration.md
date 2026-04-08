@@ -20,11 +20,11 @@ ELL teachers and math teachers collaborate to identify target content, key vocab
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - ELLs in math classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Integrate language and math instruction, enhance collaboration between ELL and math teachers, improve learner understanding
 
 ### Affordances

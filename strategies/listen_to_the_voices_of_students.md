@@ -20,11 +20,11 @@ Providing students authorship and allowing them to share their stories empowers 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners, particularly beneficial for students of color who may have their stories pre-written in traditional settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower students, foster agency and leadership, create an equitable learning environment, value student perspectives, disrupt traditional power dynamics.
 
 ### Affordances

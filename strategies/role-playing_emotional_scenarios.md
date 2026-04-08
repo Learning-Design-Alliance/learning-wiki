@@ -20,11 +20,11 @@ Learners act out how to manage emotions in different scenarios. Writing scenario
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to middle school students, learners with social-emotional skill deficits
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional regulation, improve problem-solving skills, promote empathy
 
 ### Affordances

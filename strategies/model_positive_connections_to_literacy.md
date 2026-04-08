@@ -20,11 +20,11 @@ Teachers share their own positive experiences with reading and writing to foster
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a positive association with literacy, build a sense of community around reading and writing, increase motivation
 
 ### Affordances

@@ -20,11 +20,11 @@ Students give their negative inner voice a name to externalize it, allowing them
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, particularly those who struggle with negative self-perception and fixed mindsets.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To help students externalize their negative thoughts and understand that they are not defined by them.
 
 ### Affordances

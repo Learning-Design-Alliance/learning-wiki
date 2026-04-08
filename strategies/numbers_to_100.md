@@ -20,11 +20,11 @@ A game where learners find numbers in sequential order on road signs, license pl
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students, adaptable for younger and older children by adjusting the number range
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce number recognition, sequencing, and ordering skills
 
 ### Affordances

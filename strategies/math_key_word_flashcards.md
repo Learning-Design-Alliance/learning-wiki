@@ -20,11 +20,11 @@ Learners create flashcards for each of the four mathematical operations. On one 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 3-8
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Memorize key words associated with math operations, improve problem-solving skills
 
 ### Affordances

@@ -20,11 +20,11 @@ Text-to-speech (TTS) software converts written text into spoken words, aiding in
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Individuals with reading difficulties, auditory learners, students with learning disabilities, anyone seeking to improve productivity
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assist with reading comprehension, support proofreading and editing, enhance productivity, provide alternative format for accessing written materials
 
 ### Affordances

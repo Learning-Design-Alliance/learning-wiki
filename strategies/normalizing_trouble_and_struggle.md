@@ -20,11 +20,11 @@ Creating a classroom culture where challenges and failures are seen as opportuni
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, K-12 and higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote resilience, develop problem-solving skills, and foster a growth mindset by normalizing challenges and failures.
 
 ### Affordances

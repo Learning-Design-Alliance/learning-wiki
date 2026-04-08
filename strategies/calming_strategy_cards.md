@@ -20,11 +20,11 @@ Calming strategy cards provide learners with reminders of emotional regulation s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily designed for children but adaptable for all ages who struggle with emotional regulation, including learners with emotional and behavioral disorders
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-regulation, manage emotions, build awareness of calming strategies, support emotional well-being
 
 ### Affordances

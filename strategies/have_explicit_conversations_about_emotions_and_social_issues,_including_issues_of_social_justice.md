@@ -20,11 +20,11 @@ Integrate direct instruction on understanding and managing emotions, as well as 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who need to develop emotional intelligence and social awareness, K-12, higher education, and adult learners in professional development
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop emotional literacy, enhance social awareness, promote understanding of social justice issues, foster empathy and respect
 
 ### Affordances

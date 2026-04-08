@@ -20,11 +20,11 @@ Don’t assume you know how a student is feeling. Be attentive to nonverbal cues
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, counselors, mentors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student-teacher communication, foster trust, provide opportunities for self-expression
 
 ### Affordances

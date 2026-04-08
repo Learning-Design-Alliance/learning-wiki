@@ -20,11 +20,11 @@ Organizing the classroom layout to match the flow of the day, such as moving fro
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly primary students and those who benefit from structured routines.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance classroom efficiency, support student transitions, improve organization
 
 ### Affordances

@@ -20,11 +20,11 @@ Authentic projects that focus on issues of justice engage students by having the
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and higher education students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, promote social justice awareness, develop critical thinking and problem-solving skills, foster empathy and compassion, empower students to be change agents
 
 ### Affordances

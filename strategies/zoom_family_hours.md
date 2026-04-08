@@ -20,11 +20,11 @@ Hold evening office or family hours on Zoom for parents and family members to po
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers, educators, and families
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve communication, increase parent engagement, provide support
 
 ### Affordances

@@ -20,11 +20,11 @@ Research shows that, along with traditional reading comprehension strategies, st
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - 7-12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve online reading skills, enhance comprehension, navigate online texts effectively.
 
 ### Affordances

@@ -20,11 +20,11 @@ Reciprocal peer tutoring (RPT) involves pairing students of similar abilities to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for elementary and secondary students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of content, improve communication skills, promote collaboration, and foster a supportive learning environment.
 
 ### Affordances

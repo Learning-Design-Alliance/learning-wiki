@@ -20,11 +20,11 @@ Collective data analysis involves a systematic and iterative process of making s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Researchers, students, and community members involved in participatory action research
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify themes, draw conclusions, develop insights, foster collaboration, validate experiences
 
 ### Affordances

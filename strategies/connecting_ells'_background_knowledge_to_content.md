@@ -20,11 +20,11 @@ This strategy involves making instruction more culturally relevant by connecting
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - English language learners (ELLs)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance cultural relevance, connect content to students' experiences, improve comprehension, draw on students' experiences for instruction
 
 ### Affordances

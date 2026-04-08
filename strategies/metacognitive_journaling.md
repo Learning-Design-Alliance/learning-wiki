@@ -20,11 +20,11 @@ Metacognitive journaling involves writing about one's own thinking, including te
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners in professional development programs, higher education, or any context where self-reflection is valued
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote metacognition, enhance self-awareness, improve understanding of thinking processes, develop the ability to direct one's own learning
 
 ### Affordances

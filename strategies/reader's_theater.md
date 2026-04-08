@@ -20,11 +20,11 @@ Reader's Theater is a strategy that combines reading practice and performing by 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance reading skills, increase confidence, improve fluency, motivate reluctant readers, explore genre and characterization.
 
 ### Affordances

@@ -20,11 +20,11 @@ Asking students questions that focus on the main points of the text and how the 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for struggling readers and those with limited background knowledge
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading comprehension, ensure understanding of main ideas, develop critical thinking skills, enhance ability to identify evidence and examples in text
 
 ### Affordances

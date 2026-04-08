@@ -20,11 +20,11 @@ Interactive storytelling involves creating narratives where the reader or user c
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners interested in creative writing and game design
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop creative writing skills, enhance understanding of narrative structure, and promote critical thinking through decision-making.
 
 ### Affordances

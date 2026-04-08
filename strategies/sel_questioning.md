@@ -20,11 +20,11 @@ Teachers can implement simple SEL questions focused on kindess, metaphors, chall
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially K–12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate feelings of empathy and support, facilitate self-reflection, promote emotional awareness
 
 ### Affordances

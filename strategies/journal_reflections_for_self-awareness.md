@@ -20,11 +20,11 @@ This strategy involves having students think back on their experiences and outco
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary, middle, and high school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-understanding, promote metacognition, improve goal-setting skills, foster self-regulation and self-assessment
 
 ### Affordances

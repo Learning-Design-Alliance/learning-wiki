@@ -20,11 +20,11 @@ Instead of focusing on a student’s mistake, instructors identify the question 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who struggle with math or who have anxiety around making mistakes
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help students feel valued, promote positive student-teacher interactions, reveal potential gaps in understanding
 
 ### Affordances

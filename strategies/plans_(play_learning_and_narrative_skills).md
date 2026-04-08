@@ -20,11 +20,11 @@ The PLaNS approach supports writing skills through guided play and includes prac
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primary school learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing skills, inspire creativity, foster collaboration, enhance narrative skills, support lesson planning
 
 ### Affordances

@@ -20,11 +20,11 @@ A 'Learning Strategy & Tool Fair' allows learners to explore a variety of learni
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for learners who are unsure of which strategies work best for them.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage exploration of different learning strategies and tools, support personalized learning, foster learner autonomy
 
 ### Affordances

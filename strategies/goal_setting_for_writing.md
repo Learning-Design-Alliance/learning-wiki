@@ -20,11 +20,11 @@ Setting clear goals for writing, encouraging peer support, self-assessment, and 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All writers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing quality, enhance motivation, encourage self-assessment
 
 ### Affordances

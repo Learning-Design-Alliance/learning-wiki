@@ -20,11 +20,11 @@ For so many of our students, their communities and homes are not always beautifu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for students from underserved communities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a welcoming and inspiring learning environment; showcase student work and accomplishments; foster a sense of pride and belonging.
 
 ### Affordances

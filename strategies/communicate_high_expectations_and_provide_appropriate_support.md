@@ -20,11 +20,11 @@ Expect more and you will get it. High expectations are important for everyone â€
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Tutees in higher education or adult learning programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Boost confidence and motivation, enhance independence and responsibility, promote a growth mindset.
 
 ### Affordances

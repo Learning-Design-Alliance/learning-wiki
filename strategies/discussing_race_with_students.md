@@ -20,11 +20,11 @@ This strategy involves creating a classroom environment conducive to complex con
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, parents, and product developers across all levels, particularly those working with diverse student populations.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create environments conducive to complex conversations about race, foster understanding of diverse perspectives, promote positive racial identity formation, address inequities, and center learners of color in design.
 
 ### Affordances

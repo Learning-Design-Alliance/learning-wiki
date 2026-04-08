@@ -18,11 +18,11 @@ Learners engage in active, structured tasks during class to apply knowledge.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for all disciplines, particularly STEM, business, and applied sciences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce knowledge through experiential engagement.
 
 ### Affordances

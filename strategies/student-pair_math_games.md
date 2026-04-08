@@ -24,11 +24,11 @@ Pair-based games facilitate active learning through friendly competition, requir
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary grades, adaptable to older learners with adjustments in complexity
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance mathematical skills, encourage social interaction, and promote quick mental calculations.
 
 ### Affordances

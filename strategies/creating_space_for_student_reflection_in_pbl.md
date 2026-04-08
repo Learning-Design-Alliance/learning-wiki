@@ -20,11 +20,11 @@ Creating space for student reflection involves integrating moments for students 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly those who may experience trauma or anxiety in traditional classroom settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To enhance student well-being, reduce stress, and promote deeper understanding through purposeful reflection in PBL activities.
 
 ### Affordances

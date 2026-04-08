@@ -20,11 +20,11 @@ Prepare learners for upcoming tasks or materials. Previewing is one of the simpl
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those with anxiety, attention challenges, or difficulty with organization.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Set expectations, reduce anxiety, and improve focus.
 
 ### Affordances

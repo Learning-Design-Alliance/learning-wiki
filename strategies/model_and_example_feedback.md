@@ -20,11 +20,11 @@ This approach involves communicating with learners the purpose for an assessment
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, across grade levels and subject areas
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Clarify expectations, provide concrete examples, enhance understanding, guide improvement
 
 ### Affordances

@@ -20,11 +20,11 @@ Share helpful videos that explains big emotions to kids. Reinforce topic using d
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-5 Learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand emotional regulation process, apply steps to manage their own emotional regulation
 
 ### Affordances

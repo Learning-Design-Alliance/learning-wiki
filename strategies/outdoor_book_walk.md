@@ -20,11 +20,11 @@ Find a public park or walkable street where you can post pages of a book to crea
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Families, students, and community members
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote literacy, encourage physical activity, build community
 
 ### Affordances

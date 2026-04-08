@@ -20,11 +20,11 @@ When it comes to background knowledge, learners may have relevant experiences th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - ELLs in math classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Connect to experiences, modify linguistic complexity, use manipulatives to clarify concept, build on background knowledge
 
 ### Affordances

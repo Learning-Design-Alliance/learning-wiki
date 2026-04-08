@@ -20,11 +20,11 @@ Think-Pair-Share is a cooperative learning strategy designed to encourage indivi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable across all grade levels and class sizes, from elementary to adult learners. Adaptable for various subject areas and learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active participation, critical thinking, and articulate communication; enhance understanding through peer interaction; provide a safe space for students to develop and refine their ideas before sharing with the whole class.
 
 ### Affordances

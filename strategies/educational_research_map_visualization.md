@@ -20,11 +20,11 @@ This strategy involves using a research map visualization tool to explore educat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, researchers, and policymakers who want to stay informed about current research in education and learning sciences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance educators' understanding of current education research, facilitate exploration of common themes and connections, and provide access to relevant resources.
 
 ### Affordances

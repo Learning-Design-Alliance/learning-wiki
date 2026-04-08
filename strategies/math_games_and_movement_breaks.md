@@ -20,11 +20,11 @@ Incorporating quick, fun, physical math games for when learners get antsy. Break
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4th grade
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Refresh students, reinforce math concepts, energize the brain, active participation
 
 ### Affordances

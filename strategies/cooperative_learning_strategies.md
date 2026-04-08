@@ -20,11 +20,11 @@ Using structured group activities to enhance learning and social interaction. Th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students and adult learners in various subjects. Adaptable for different age groups and learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, promote collaboration, enhance understanding of content, and foster social skills. These strategies provide opportunities for students to interact with each other and learn from different perspectives.
 
 ### Affordances

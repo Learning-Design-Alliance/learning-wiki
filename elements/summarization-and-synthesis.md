@@ -18,11 +18,11 @@ Learners distill key concepts from a discussion, reading, or experience.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for general study skills, research-heavy disciplines, and humanities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce retention and improve higher-order thinking skills.
 
 ### Affordances

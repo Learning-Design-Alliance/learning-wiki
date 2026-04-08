@@ -20,11 +20,11 @@ Learning is enhanced when it is more like a team effort than a solo race. Good l
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Tutees in higher education or adult learning programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance collaboration and social learning, expand the potential of learning, improve thinking and deepen understanding through shared articulation of ideas.
 
 ### Affordances

@@ -20,11 +20,11 @@ Help learners understand how math is used in ways that relate to their personal 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who struggle to see the relevance of math or lack confidence in their abilities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase confidence, promote relevance, activate learner expertise
 
 ### Affordances

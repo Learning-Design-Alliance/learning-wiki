@@ -20,11 +20,11 @@ De-emphasizing correct answers and focusing on the reasoning process can build s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and levels, particularly those who are intimidated by math or believe there is only one way to solve a problem.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage diverse approaches to problem-solving, build confidence in reasoning abilities, shift focus from answers to processes, enhance collaborative learning
 
 ### Affordances

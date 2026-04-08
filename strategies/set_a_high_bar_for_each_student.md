@@ -20,11 +20,11 @@ Hold high expectations for all students. Convince students that they can learn a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, higher education instructors, mentors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student achievement, foster a growth mindset, increase self-efficacy, create a positive learning environment
 
 ### Affordances

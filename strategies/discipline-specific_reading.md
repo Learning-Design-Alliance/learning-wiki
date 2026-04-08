@@ -20,11 +20,11 @@ Have students read articles from subject-specific columns and publications. When
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly useful for students who are new to a discipline.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Expose students to discipline-specific writing styles and vocabulary. Improve student understanding of discipline-specific concepts. Provide students with models for their own writing.
 
 ### Affordances

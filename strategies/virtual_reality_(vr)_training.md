@@ -20,11 +20,11 @@ Virtual Reality (VR) training is a method of using VR technology to create simul
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Workforce training, medical professionals, aviation personnel, military, technicians, and any field benefiting from hands-on practice and realistic scenario simulation.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve skill retention, increase training efficiency, enhance safety in training, provide realistic and immersive learning experiences.
 
 ### Affordances

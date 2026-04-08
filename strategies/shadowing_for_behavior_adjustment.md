@@ -20,11 +20,11 @@ Shadowing is a strategy used to address harmful behaviors in children, such as b
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily used for young children exhibiting aggressive behaviors, such as biting or hitting, in classroom settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prevent harmful behaviors, maintain class safety, teach alternative strategies, and support the child's development of appropriate social skills.
 
 ### Affordances

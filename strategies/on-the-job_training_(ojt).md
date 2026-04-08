@@ -20,11 +20,11 @@ On-the-job training (OJT) involves designing experiential activities for groups 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - New employees or employees transitioning to new roles
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Expose staff to 'business as usual' situations, teach how to deal with real customers, peers, supervisors, real products, and services.
 
 ### Affordances

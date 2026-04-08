@@ -20,11 +20,11 @@ Repeating instructions can lead to lazy listening habits in learners. By establi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve active listening skills, reduce dependency on repeated instructions
 
 ### Affordances

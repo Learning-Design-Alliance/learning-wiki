@@ -20,11 +20,11 @@ Culturally competent family engagement involves training school staff in behavio
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools seeking to improve engagement with diverse families, particularly those serving low-income families and families of color.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve cross-cultural relationships, shift from deficit thinking to strengths thinking, and create a welcoming school culture that emphasizes equality, acceptance, and shared values and goals.
 
 ### Affordances

@@ -20,11 +20,11 @@ Learning cohorts can be formed for employees to learn from each other on topics 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Employees in organizations looking to upskill and learn from each other, with a focus on continuous improvement and collaboration.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To foster continuous learning, skill development, and knowledge sharing among employees within an organization.
 
 ### Affordances

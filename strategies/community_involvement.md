@@ -20,11 +20,11 @@ Encouraging community involvement by using online communities to support learnin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase collaboration, improve social skills, promote community
 
 ### Affordances

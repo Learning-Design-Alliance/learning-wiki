@@ -20,11 +20,11 @@ Providing access to calming sensory input through various means, such as tactile
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who experience sensory sensitivities, anxiety, or difficulty focusing
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce anxiety, promote self-regulation, provide sensory stimulation
 
 ### Affordances

@@ -20,11 +20,11 @@ Eliminate the 0 to 100 scale as it disproportionately punishes missed assignment
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce punishment for missed assignments, simplify grading process, ensure clear performance delineation
 
 ### Affordances

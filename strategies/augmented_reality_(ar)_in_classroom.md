@@ -20,11 +20,11 @@ Augmented reality can be used to turn an ordinary class into an engaging experie
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages in classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, support textbook materials, turn an ordinary class into an engaging experience, provide gaming elements
 
 ### Affordances

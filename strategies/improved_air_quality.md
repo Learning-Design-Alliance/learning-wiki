@@ -20,11 +20,11 @@ Indoor air quality is also a concern because poor air quality is a major contrib
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, teachers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve air quality in indoor settings
 
 ### Affordances

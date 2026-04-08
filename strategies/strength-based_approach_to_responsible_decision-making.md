@@ -20,11 +20,11 @@ This approach involves identifying and leveraging a student’s strengths to add
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who have challenges with responsible decision-making
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve responsible decision-making skills, leverage existing strengths, enhance self-awareness, promote ethical reasoning
 
 ### Affordances

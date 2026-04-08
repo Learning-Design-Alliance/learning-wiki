@@ -20,11 +20,11 @@ A free math app with a playful interface and characters to help kids expand thei
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Expand math skills, especially in addition and multiplication.
 
 ### Affordances

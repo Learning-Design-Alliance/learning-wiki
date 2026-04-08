@@ -20,11 +20,11 @@ Redesigning the classroom environment based on brain-based methods involves crea
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly K–12, higher education, and adult learners in various educational settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a brain-friendly learning environment, promote reflective thinking, encourage movement and collaboration, maximize learner choice, improve learning outcomes
 
 ### Affordances

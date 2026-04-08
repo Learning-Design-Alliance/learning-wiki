@@ -20,11 +20,11 @@ Instead of averaging scores over time, emphasize grading students on their ultim
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage perseverance, reward mastery over time, fairly assess students regardless of initial skill level
 
 ### Affordances

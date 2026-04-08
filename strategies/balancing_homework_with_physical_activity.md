@@ -20,11 +20,11 @@ Encourage children to balance homework with physical activity by talking to teac
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Pre-teens and teenagers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase physical activity, improve focus during homework, promote a healthy balance
 
 ### Affordances

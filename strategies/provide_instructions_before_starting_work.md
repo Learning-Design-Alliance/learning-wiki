@@ -20,11 +20,11 @@ Ensure instructions are given before learners begin their tasks to avoid confusi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prevent errors and ensure learners understand the task requirements.
 
 ### Affordances

@@ -20,11 +20,11 @@ For adolescent learners, the Composition process can become more robust, as lear
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - 7-12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance composition skills, promote creativity, improve digital literacy.
 
 ### Affordances

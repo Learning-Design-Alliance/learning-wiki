@@ -20,11 +20,11 @@ Scaffolding involves providing temporary support to learners to help them manage
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with self-regulation, particularly those who are highly reactive to new or challenging situations, including students in K-12 and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop emotional self-regulation, improve behavioral control, build confidence in challenging situations, enhance emotional intelligence
 
 ### Affordances

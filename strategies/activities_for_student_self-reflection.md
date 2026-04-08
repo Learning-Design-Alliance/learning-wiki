@@ -20,11 +20,11 @@ This strategy involves creating activities that allow students to reflect on the
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote metacognition, foster self-awareness, encourage ownership of learning
 
 ### Affordances

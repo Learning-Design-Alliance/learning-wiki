@@ -20,11 +20,11 @@ Use visual cues in note-taking to help learners organize the information you are
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who face auditory processing challenges
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve retention, support learners who face auditory processing challenges
 
 ### Affordances

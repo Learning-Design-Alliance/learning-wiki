@@ -20,11 +20,11 @@ Instructors can use equity-focused, inclusive teaching strategies that put stude
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Instructors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help instructors provide care to learners, foster inclusive teaching strategies, and acknowledge student challenges.
 
 ### Affordances

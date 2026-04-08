@@ -20,11 +20,11 @@ Engaging learners in explicit conversations about emotions and social issues, in
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners and adult learners in social skills and diversity programs.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of emotions, foster awareness of social issues, and promote empathy and social justice.
 
 ### Affordances

@@ -20,11 +20,11 @@ Students express how they are feeling by drawing or sharing an emoji. Volunteers
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially K–12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Express feelings in a non-verbal way, encourage self-awareness, promote sharing and empathy
 
 ### Affordances

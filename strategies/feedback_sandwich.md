@@ -20,11 +20,11 @@ The feedback sandwich technique involves delivering feedback in three parts: com
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, across grade levels and subject areas
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Soften the impact of negative feedback, encourage learners to improve, maintain a positive learning environment
 
 ### Affordances

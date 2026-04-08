@@ -20,11 +20,11 @@ Text-based discussions involve engaging learners in discussions about what they 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly effective for developing literacy skills and vocabulary.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop oral language skills. Improve comprehension. Support vocabulary development. Engage with the text critically.
 
 ### Affordances

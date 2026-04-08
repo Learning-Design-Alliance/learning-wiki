@@ -20,11 +20,11 @@ Students try to give a high-five to five different classmates. When they’ve go
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-4, adaptable to other grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote social interaction, encourage teamwork, provide kinesthetic learning, enhance pattern recognition
 
 ### Affordances

@@ -20,11 +20,11 @@ Fossil analysis tasks involve examining and describing fossils to develop a 'Fos
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying earth and space science
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify and describe fossils, understand paleontological concepts, develop observational and descriptive skills
 
 ### Affordances

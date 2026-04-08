@@ -20,11 +20,11 @@ Explicit teacher modeling involves the teacher both describing and modeling a sk
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages, particularly those who have learning problems, attention deficits, processing problems, memory retrieval problems, and metacognitive difficulties.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To provide students with a clear, multi-sensory model of a skill or concept; to enhance student understanding and ability to perform the skill independently.
 
 ### Affordances

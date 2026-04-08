@@ -20,11 +20,11 @@ Teachers use strategies to support students who experience stereotype threat, he
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - PreK through high school teachers, higher ed instructors, and edtech product developers.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Mitigate negative stereotypes, promote positive self-perception, enhance academic performance, and create an inclusive learning environment.
 
 ### Affordances

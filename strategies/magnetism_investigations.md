@@ -20,11 +20,11 @@ Magnetism investigations involve exploring how magnets interact with different o
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying physical science
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand basic magnetic properties, observe and predict magnetic attraction, investigate how compasses are affected by magnetic fields
 
 ### Affordances

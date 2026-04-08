@@ -20,11 +20,11 @@ Strategy instruction teaches learners how to learn effectively by applying princ
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners in basic skills programs, individuals with learning disabilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Equip learners with tools to approach learning tasks effectively; enhance problem-solving skills; improve self-regulation and metacognition
 
 ### Affordances

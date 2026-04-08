@@ -20,11 +20,11 @@ Incorporating student choice involves allowing learners to make decisions about 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, foster independence, promote deeper thinking, develop self-directed learning skills, increase motivation
 
 ### Affordances

@@ -20,11 +20,11 @@ Providing learners with access to multiple resources, including blogs, videos, a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner engagement, build background knowledge, expose learners to diverse genres and formats
 
 ### Affordances

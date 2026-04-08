@@ -20,11 +20,11 @@ Breathing exercises can help learners to focus and settle their feelings and tho
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for those with anxiety or attention difficulties
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus, regulate emotions, enhance mindfulness
 
 ### Affordances

@@ -20,11 +20,11 @@ Reducing visual clutter involves minimizing the amount of unnecessary or distrac
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve learner focus, reduce distractions, create a calming learning environment, promote learner attention and concentration, reduce cognitive overload
 
 ### Affordances

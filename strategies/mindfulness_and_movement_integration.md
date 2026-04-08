@@ -20,11 +20,11 @@ Integrating mindfulness with movement involves combining physical activity with 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All individuals, particularly those seeking to reduce stress, improve mental clarity, and enhance physical fitness simultaneously
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance physical fitness, reduce stress, improve focus and attention, increase self-awareness, and promote overall well-being
 
 ### Affordances

@@ -20,11 +20,11 @@ Learners who feel like they belong in school are more motivated, engaged, and ul
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support the creation of a community through promoting an inclusive classroom.
 
 ### Affordances

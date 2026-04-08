@@ -20,11 +20,11 @@ Demonstrating caring is a powerful way to build positive relationships with lear
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve instructor-learner relationships by showing that you care.
 
 ### Affordances

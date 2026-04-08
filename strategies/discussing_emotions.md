@@ -20,11 +20,11 @@ This strategy involves incorporating discussions about emotions into the learnin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primary school students; adaptable for various age groups and learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help learners identify, label, and express their emotions; promote emotional awareness; develop coping strategies for managing emotions
 
 ### Affordances

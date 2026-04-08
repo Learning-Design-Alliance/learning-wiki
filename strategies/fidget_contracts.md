@@ -20,11 +20,11 @@ Fidget contracts are agreements between a learner and an educator or caregiver t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with ADHD, sensory processing issues, or difficulty focusing; useful for K–12 students and adults
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote mindful fidget use, improve focus and attention, prevent misuse and distractions, support self-regulation
 
 ### Affordances

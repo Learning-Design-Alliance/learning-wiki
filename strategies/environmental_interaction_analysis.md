@@ -20,11 +20,11 @@ These activities explore the relationships between people and their environments
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying life science and earth science
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Explore characteristics of environments and inhabitants, analyze relationships between species and environments, understand the role of environmental components
 
 ### Affordances

@@ -20,11 +20,11 @@ Book clubs are small groups of learners who choose, read, and discuss a shared t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school to high school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading comprehension, develop critical thinking skills, foster collaborative discussions, increase student engagement
 
 ### Affordances

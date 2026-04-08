@@ -20,11 +20,11 @@ This is a behavior management technique where an adult closely follows a child, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily used with young children (e.g., preschool or early elementary) who exhibit behaviors that can harm themselves or others, such as biting or hitting.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prevent harmful behaviors, ensure safety, break negative behavior cycles, support positive behavior development, and teach alternative communication strategies.
 
 ### Affordances

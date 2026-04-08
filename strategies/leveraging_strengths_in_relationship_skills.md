@@ -20,11 +20,11 @@ This method involves an educator identifying specific learner strengths and/or c
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who struggle with relationship skills. Appropriate for elementary through adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve learners' ability to form and maintain healthy relationships, communicate effectively, cooperate, and manage conflict. To help learners advocate for themselves, develop good listening skills, and compromise.
 
 ### Affordances

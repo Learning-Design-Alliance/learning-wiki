@@ -20,11 +20,11 @@ Sending parents a link to a personalized video that provides context about their
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools, educators, and parents
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance parent understanding of student progress, improve communication, personalize feedback
 
 ### Affordances

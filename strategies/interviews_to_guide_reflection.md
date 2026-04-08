@@ -20,11 +20,11 @@ Set aside time at the end of a learning sequence—a lesson, a unit, a school da
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster metacognition, enhance problem-solving skills, and build habits of empathy, flexibility, and persistence.
 
 ### Affordances

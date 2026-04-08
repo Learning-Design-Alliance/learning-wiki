@@ -20,11 +20,11 @@ When students express information visually, they are activating more cognitive p
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - 7-12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Activate cognitive processes, improve problem solving, increase experience with alternate texts.
 
 ### Affordances

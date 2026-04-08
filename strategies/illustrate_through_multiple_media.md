@@ -20,11 +20,11 @@ Making learning come alive with simulations, graphics, activities, and videos en
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who benefit from visual or kinesthetic learning styles; suitable for K–12, higher education, and adult learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance engagement, improve comprehension, support diverse learning preferences, promote active learning
 
 ### Affordances

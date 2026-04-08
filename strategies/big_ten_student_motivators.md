@@ -20,11 +20,11 @@ These strategies encourage playful learning, boost students’ innovative thinki
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary, middle, and high school learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Engage students in learning, boost innovative thinking, develop problem-solving skills, enhance critical thinking, foster collaboration, encourage creativity
 
 ### Affordances

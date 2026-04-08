@@ -20,11 +20,11 @@ Incorporate mindfulness techniques to help learners manage their initial emotion
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve self-regulation, promote focus, and improve emotional awareness.
 
 ### Affordances

@@ -20,11 +20,11 @@ The "Targeted Networking" strategy involves focusing on specific activities, gro
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Professionals seeking to expand their networks, entrepreneurs looking for partnerships, individuals interested in specific fields or industries.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate substantive relationship-building, connect individuals with shared interests, promote meaningful interactions, and identify potential collaborations.
 
 ### Affordances

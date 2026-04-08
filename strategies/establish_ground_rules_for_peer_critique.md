@@ -20,11 +20,11 @@ Establishing ground rules for peer critique ensures that the process is producti
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including elementary, middle, high school, and higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a positive and supportive environment for peer critique, promote effective communication, and enhance learners' ability to provide and receive feedback
 
 ### Affordances

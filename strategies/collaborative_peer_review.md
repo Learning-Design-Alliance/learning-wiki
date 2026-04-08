@@ -20,11 +20,11 @@ Learners connect with others to provide and receive feedback for improvement on 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly beneficial for English language learners. Can be adapted for various grade levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop writing skills, enhance critical thinking, foster collaboration and communication, improve revision skills.
 
 ### Affordances

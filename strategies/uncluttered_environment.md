@@ -20,11 +20,11 @@ A learning environment with minimal visual distractions is created by storing su
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners who are easily distracted or overstimulated by visual clutter
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce distractions, improve focus, support attention, enhance creativity
 
 ### Affordances

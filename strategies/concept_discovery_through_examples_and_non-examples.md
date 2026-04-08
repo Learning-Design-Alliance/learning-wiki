@@ -20,11 +20,11 @@ Expose learners to a wide range of examples and nonexamples and allow them to di
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with a developed knowledge base, suitable for complex or abstract concepts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-directed learning, foster deeper understanding through exploration
 
 ### Affordances

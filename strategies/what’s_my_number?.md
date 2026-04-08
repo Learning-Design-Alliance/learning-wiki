@@ -20,11 +20,11 @@ A guessing game where one person thinks of a number and provides clues, and othe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote number sense, improve problem-solving skills, and enhance strategic thinking
 
 ### Affordances

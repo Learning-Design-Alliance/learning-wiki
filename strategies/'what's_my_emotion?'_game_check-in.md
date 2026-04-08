@@ -20,11 +20,11 @@ Students use the EQ Feeling Chart to identify their feelings. One student acts o
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All ages, adaptable for pre-K through college students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify and express feelings, develop non-verbal communication skills, increase emotional awareness, foster empathy and understanding
 
 ### Affordances

@@ -20,11 +20,11 @@ A descriptive feature chart is a graphic organizer with horizontal and vertical 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–2nd grade students, but can be adapted for higher grades; useful for visually-oriented learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop a descriptive model of an organism, organize observations, classify features, analyze appearance, and interpret data
 
 ### Affordances

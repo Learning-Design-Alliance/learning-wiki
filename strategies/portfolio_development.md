@@ -20,11 +20,11 @@ Learners regularly select work samples, reflect on their choices, and organize t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and professional development contexts. Adaptable for various subjects and learning goals.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote student reflection and self-assessment, showcase learning progress, encourage ownership of work, and provide concrete examples for discussions.
 
 ### Affordances

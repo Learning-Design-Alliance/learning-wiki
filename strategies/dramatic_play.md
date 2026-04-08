@@ -20,11 +20,11 @@ Dramatic play, also known as pretend play, is a learning strategy where learners
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Preschool and early elementary learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop social awareness, enhance emotional skills, foster creative problem-solving, build empathy, and improve language skills
 
 ### Affordances

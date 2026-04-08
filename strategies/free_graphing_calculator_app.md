@@ -20,11 +20,11 @@ An awesome app with an intuitive, user-friendly interface that works more as a t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students looking to master calculations.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Master complex calculations with a range of tools.
 
 ### Affordances

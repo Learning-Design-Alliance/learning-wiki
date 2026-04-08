@@ -20,11 +20,11 @@ Learners match dot cards with equal quantities but different arrangements, or ma
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Pre-K to 1st Grade learners who are developing number sense and subitizing skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Match equal quantities, match numerals to quantities, learn number combinations that make ten
 
 ### Affordances

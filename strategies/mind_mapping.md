@@ -20,11 +20,11 @@ Mind mapping is a visual thinking tool used to capture information and ideas. It
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To capture and organize information and ideas in a structured form and boost memory, creativity, and productivity.
 
 ### Affordances

@@ -20,11 +20,11 @@ In this pre-reading activity, the instructor prepares several sentences expressi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners of various ages and proficiency levels, adaptable for diverse topics.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage critical thinking, activate prior knowledge, and facilitate discussion about the reading topic.
 
 ### Affordances

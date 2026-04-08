@@ -20,11 +20,11 @@ A silent game incentive uses a gamified approach to encourage students to quiet 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Late elementary and middle school educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote quiet transitions, encourage teamwork, provide positive reinforcement for desired behaviors
 
 ### Affordances

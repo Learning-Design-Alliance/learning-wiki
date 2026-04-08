@@ -20,11 +20,11 @@ Setting up a classroom library involves acquiring books and materials, organizin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners, particularly elementary and middle school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner engagement, promote independent reading, enhance book selection skills, improve organization and accessibility of reading materials
 
 ### Affordances

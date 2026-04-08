@@ -20,11 +20,11 @@ Word walls are a strategy for supporting vocabulary development and retention by
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners across various disciplines, including English language learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support vocabulary development, promote independence in using academic vocabulary, reinforce key vocabulary, encourage exploration of word relationships, aid in moving words from short-term to long-term memory
 
 ### Affordances

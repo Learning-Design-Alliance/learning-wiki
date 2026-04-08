@@ -20,11 +20,11 @@ This strategy focuses on identifying a learner's strengths and using those stren
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those with attention-related challenges, but also beneficial for all students to understand and utilize their strengths.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve attention and focus during learning by leveraging individual strengths
 
 ### Affordances

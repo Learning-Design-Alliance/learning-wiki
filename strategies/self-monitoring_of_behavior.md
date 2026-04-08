@@ -20,11 +20,11 @@ Self-monitoring is a strategy where learners self-assess their behavior and reco
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners, particularly those needing support in attention, task completion, and social skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner awareness of their own behavior, improve specific behaviors (e.g., attention, task completion, social interactions), and promote self-regulation
 
 ### Affordances

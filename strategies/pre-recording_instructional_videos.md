@@ -20,11 +20,11 @@ Pre-recording instructional videos in advance is a versatile teaching strategy. 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those in online or blended learning environments, and those who benefit from flexible access to content.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate flexible learning, improve accessibility, enhance engagement, and optimize class time for interactive activities.
 
 ### Affordances

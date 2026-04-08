@@ -20,11 +20,11 @@ Debriefing emotional experiences involves a structured discussion at the end of 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and early childhood students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote emotional self-awareness, provide a safe space for emotional expression, encourage empathetic listening
 
 ### Affordances

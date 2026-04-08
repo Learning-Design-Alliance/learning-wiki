@@ -20,11 +20,11 @@ This strategy involves showing short video clips on Social and Emotional Learnin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote relevance and meaningful connection of SEL topics, connect SEL topics to students' background knowledge and personal lives, develop a better understanding of emotions
 
 ### Affordances

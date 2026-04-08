@@ -18,11 +18,11 @@ Learners analyze their experiences, actions, or decisions to deepen learning.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for professional development, leadership, and experiential learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-awareness and lifelong learning.
 
 ### Affordances

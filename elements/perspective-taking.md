@@ -18,11 +18,11 @@ Learners consider multiple viewpoints to develop empathy and deeper understandin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for ethics, law, and history.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen cognitive flexibility and social understanding.
 
 ### Affordances

@@ -20,11 +20,11 @@ Using the “Document outline” tool in Google Docs, students pick out evidence
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and adult learners who need to improve their reading comprehension and writing skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading comprehension, identify supporting evidence, summarize information, organize ideas, build writing skills
 
 ### Affordances

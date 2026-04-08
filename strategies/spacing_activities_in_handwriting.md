@@ -20,11 +20,11 @@ Activities designed to improve spacing between letters and words, which is cruci
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grades, particularly useful for students who struggle with inconsistent or inadequate spacing.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spacing between letters and words, enhancing overall legibility.
 
 ### Affordances

@@ -20,11 +20,11 @@ This routine provides a structured approach to using worked examples in teaching
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially useful in mathematics
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student understanding of worked examples by promoting active engagement and preventing superficial learning.
 
 ### Affordances

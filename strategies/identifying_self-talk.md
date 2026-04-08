@@ -20,11 +20,11 @@ Students record the messages from their inner voice over the course of a week in
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, particularly those who are learning to become more aware of their thoughts and feelings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To enable students to recognize and document their internal dialogue over a period of time.
 
 ### Affordances

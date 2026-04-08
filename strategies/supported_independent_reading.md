@@ -20,11 +20,11 @@ Independent reading involves students selecting and reading texts at their indep
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Practice reading skills, develop reading fluency and comprehension, exercise choice in reading material, cultivate reading interests, build background knowledge
 
 ### Affordances

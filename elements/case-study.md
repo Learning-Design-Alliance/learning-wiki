@@ -18,11 +18,11 @@ Learners analyze a real or hypothetical scenario to apply concepts.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for business, law, medicine, and applied sciences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Bridge theory and practice through structured analysis.
 
 ### Affordances

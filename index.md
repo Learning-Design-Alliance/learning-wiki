@@ -38,6 +38,6 @@ Bibliographic source pages with DOI links and claim summaries.
 
 ## How to use this wiki
 
-**As an agent**: read `CLAUDE.md` first. Use `index.md` as your entry point, follow `[[wikilinks]]` to traverse the graph, and use `grep` for targeted search.
+**As an agent**: read `CLAUDE.md` first. Use `index.md` as your entry point, follow wiki links to traverse the graph, and use `grep` for targeted search.
 
 **As a human**: open this vault in Obsidian or browse the folder indexes above. Evidence tags (**[+S]**, **[+M]**, **[~M]**, **[-W]**) indicate claim support strength. Pages marked `status: draft` are stubs; `review` pages need expert check; `stable` pages are reliable.

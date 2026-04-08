@@ -20,11 +20,11 @@ Engage in brainstorming before beginning to draft a composition. Has a positive 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All writers, especially low-achieving writers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing quality, enhance idea generation, support vocabulary development
 
 ### Affordances

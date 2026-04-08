@@ -20,11 +20,11 @@ Sending weekly, biweekly, or monthly surveys home can provide ongoing data and i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers, educators, and families
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Gather data about students and families, build connections, identify needs
 
 ### Affordances

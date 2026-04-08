@@ -20,11 +20,11 @@ An open classroom climate is a learning environment where students feel safe to 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school students, but adaptable to higher education and adult learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance civic knowledge, promote interest in social issues, encourage critical thinking, foster respectful dialogue, and develop a sense of civic responsibility.
 
 ### Affordances

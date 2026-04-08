@@ -20,11 +20,11 @@ This strategy involves identifying a student’s strengths and using them to add
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with varying processing speeds, including those with diagnosed processing disorders or learning deficits
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Address processing speed challenges, leverage student strengths, improve learning outcomes, enhance self-regulation, provide targeted support
 
 ### Affordances

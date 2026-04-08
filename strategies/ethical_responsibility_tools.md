@@ -20,11 +20,11 @@ Defining responsibility and ethical responsibility, providing specific tools suc
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote ethical reasoning, develop moral awareness, enhance decision-making skills, improve critical thinking, and foster self-reflection.
 
 ### Affordances

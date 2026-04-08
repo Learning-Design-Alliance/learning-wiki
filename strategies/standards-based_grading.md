@@ -20,11 +20,11 @@ Shift from arbitrary points and percentages to evaluating students on mastery of
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle & High School
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure grading is an accurate measure of mastery, set clear standards, promote focus on learning rather than points
 
 ### Affordances

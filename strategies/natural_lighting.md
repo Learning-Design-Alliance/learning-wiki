@@ -20,11 +20,11 @@ Before the advent of cheap electricity, schools often relied on natural lighting
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, teachers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Use natural light in classrooms
 
 ### Affordances

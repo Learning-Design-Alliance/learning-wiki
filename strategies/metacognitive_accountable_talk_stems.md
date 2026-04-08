@@ -20,11 +20,11 @@ Accountable talk stems are phrases and sentence starters that facilitate structu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 6-12 English Language Arts, adaptable for other subjects and learner levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Build higher-order thinking skills, enhance metacognition, and foster structured text-based discussions.
 
 ### Affordances

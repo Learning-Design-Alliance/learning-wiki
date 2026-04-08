@@ -20,11 +20,11 @@ Follow these steps when disciplining learners: review what happened, identify an
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Follow a specific process to improve learners' behavior and demonstrate fairness.
 
 ### Affordances

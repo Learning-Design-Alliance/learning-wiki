@@ -20,11 +20,11 @@ Generating a list of pre-reading questions that will help learners achieve their
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and all learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Activating learner's interest by posing questions.
 
 ### Affordances

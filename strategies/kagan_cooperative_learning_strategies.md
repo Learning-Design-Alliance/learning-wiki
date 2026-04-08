@@ -20,11 +20,11 @@ Implement Kagan Cooperative Learning Strategies to encourage active participatio
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels and subjects
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote collaboration, encourage active participation, enhance engagement, improve communication skills
 
 ### Affordances

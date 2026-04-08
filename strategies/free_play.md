@@ -20,11 +20,11 @@ Free play is a child-led activity where learners explore and develop skills thro
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early childhood learners (preschool, kindergarten, early primary grades)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop physical, social, cognitive, and creative skills; foster independence and self-regulation; enhance understanding of the world; promote motivation and engagement
 
 ### Affordances

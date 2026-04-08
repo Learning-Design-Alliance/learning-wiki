@@ -20,11 +20,11 @@ Instructors deliver lectures using a graphic organizer to visually connect conce
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who benefit from visual learning aids
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, illustrate relationships between concepts, provide a visual framework for learning
 
 ### Affordances

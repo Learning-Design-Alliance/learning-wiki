@@ -20,11 +20,11 @@ Avoid extra credit opportunities as they depend on resources and time, and shoul
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All Levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote equity, eliminate privilege, ensure curriculum focus
 
 ### Affordances

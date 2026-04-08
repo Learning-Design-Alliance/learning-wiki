@@ -20,11 +20,11 @@ Creating a brain-friendly and enriched classroom environment involves optimizing
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learning environments, particularly K–12 classrooms and spaces for adult learning programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance focus and reduce distractions, promote a sense of calm and well-being, encourage learner agency and self-regulation, support diverse learning styles and needs
 
 ### Affordances

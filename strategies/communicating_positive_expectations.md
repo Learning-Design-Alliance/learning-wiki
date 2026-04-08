@@ -20,11 +20,11 @@ Teacher expectations have a dramatic impact on learner performance and behavior.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance learner performance and behavior through positive expectations
 
 ### Affordances

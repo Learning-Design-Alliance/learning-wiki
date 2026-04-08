@@ -20,11 +20,11 @@ Free math worksheets provide accessible and structured practice materials to sup
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and skill levels, from elementary students learning basic math facts to adults seeking to improve their numeracy skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce understanding, build fluency, identify learning gaps, provide structured practice, support independent learning
 
 ### Affordances

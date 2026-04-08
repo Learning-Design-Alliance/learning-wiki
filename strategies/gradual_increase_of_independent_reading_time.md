@@ -20,11 +20,11 @@ Start with short independent reading sessions and gradually increase the amount 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Build reading stamina, increase focus and engagement, and establish a consistent independent reading routine.
 
 ### Affordances

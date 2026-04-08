@@ -20,11 +20,11 @@ Facilitate reading acquisition by asking students to say words that start with t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - English Language Learners (ELLs) of all ages who are learning to read.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance phonological and metalinguistic awareness, facilitate reading acquisition, and improve word knowledge.
 
 ### Affordances

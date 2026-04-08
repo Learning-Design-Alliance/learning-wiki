@@ -20,11 +20,11 @@ Quick Writes are short, focused informational writing tasks completed in under t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 4-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance content writing skills, improve information processing, organize ideas, enhance memory of information
 
 ### Affordances

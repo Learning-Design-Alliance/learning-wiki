@@ -20,11 +20,11 @@ Multimodal composition involves learners combining different modes of communicat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially those interested in digital storytelling and creative expression
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance learner expression, foster digital literacy, develop composition skills, improve understanding of genres
 
 ### Affordances

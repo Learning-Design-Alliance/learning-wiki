@@ -20,11 +20,11 @@ Facilitating discourse in online learning involves more than simply requiring st
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Online learners of all levels, particularly those seeking social interaction and collaborative learning experiences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage student participation, promote deeper understanding through discussion, identify areas of agreement and disagreement, foster a sense of community
 
 ### Affordances

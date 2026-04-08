@@ -20,11 +20,11 @@ Regularly assessing materials for relevance and discarding broken, old, or usele
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All educators aiming to enhance the efficiency and effectiveness of their learning environment.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Declutter classroom space, streamline resources, improve decision-making on material selection
 
 ### Affordances

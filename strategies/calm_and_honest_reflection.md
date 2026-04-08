@@ -20,11 +20,11 @@ After feeling and expressing emotions related to a mistake, engaging in calm and
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adults who have made a mistake and are looking to learn from it.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Analyze events objectively, identify triggers, and consider different perspectives to gain deeper understanding and promote personal growth.
 
 ### Affordances

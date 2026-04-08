@@ -20,11 +20,11 @@ Sharing information through various modalities beyond text and images, such as a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those with sensory disabilities (e.g., blindness or deafness), learning disabilities, and diverse cultural backgrounds.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, support diverse learning styles, improve engagement, accommodate sensory preferences and abilities
 
 ### Affordances

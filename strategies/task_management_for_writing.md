@@ -20,11 +20,11 @@ Task management focuses on helping students plan and manage their time and distr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students struggling with writing assignments, particularly those with learning and thinking differences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve time management skills; reduce distractions; enhance focus and productivity; prevent procrastination
 
 ### Affordances

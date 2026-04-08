@@ -18,11 +18,11 @@ Learners engage with one another through discussions, debates, or collaborative 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for all group-based learning settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen communication and social learning skills.
 
 ### Affordances

@@ -1,100 +1,68 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Graphic Organizers
 
 ## Description
-Visualizing how ideas fit together helps learners construct meaning and strengthens their recall. Graphic organizers outsource the memory demands of a task by mimicking the brain's mental schema, supporting learners' cognition and, in turn, their literacy skills.
+Graphic organizers are visual structures that help learners sort, connect, sequence, compare, or hierarchize information. Their instructional value comes from making the structure of knowledge visible: instead of holding relationships only in working memory, learners can externalize categories, links, and patterns in a shared visual form. This makes graphic organizers especially useful for reading, writing, planning, problem solving, and any task where the arrangement of ideas matters as much as the ideas themselves.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **A clear representational purpose**: The organizer should match the task, such as sequencing, comparison, cause-and-effect, hierarchy, or concept mapping.
+- **Modeling and explanation**: Learners often need to see how to use the organizer before they can use it well independently.
+- **Relevant content to organize**: Organizers are most helpful when learners are working with information that has an interpretable structure.
+- **Discussion or follow-up use**: The organizer should support explanation, planning, revision, or analysis rather than being a one-off worksheet.
 #### Constraints
-- <!-- TODO -->
+- **Template misuse**: A mismatched organizer can confuse learners or flatten the structure of the task.
+- **Over-scaffolding**: Highly prefilled organizers can reduce thinking if learners only complete labels mechanically.
+- **Visual overload**: Dense layouts with too many branches or symbols can add rather than reduce cognitive burden [[claims/chunking-reduces-working-memory-load]] [+S].
+- **Weak transfer**: Learners may not generalize organizer use unless they understand why the representation fits the task.
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Primary Language
-Sleep
-Safety
-
-Social and Emotional Learning:
-Emotion
-Self-regulation
-Motivation
-Learner Mindset
-
-Cognition:
-Attention
-Inhibition
-Long-term Memory
-Reasoning
-Short-term Memory
-Metacognition
-Speed of Processing
-Working Memory
-
-Language and Literacy:
-Disciplinary Literacy
-Composition
-Foundational Reading Skills
-Background Knowledge
-Numeracy
-Oral Communication Skills
-Problem Solving
+- **Learners managing high information load**: Useful when texts, lectures, or tasks contain many connected ideas.
+- **Learners planning writing or explanation**: Organizers can support drafting, argument structure, and synthesis.
+- **Learners building disciplinary literacy**: Strong fit for history, science, mathematics, and other domains where relationship structure matters.
+- **Learners who benefit from externalizing thought**: Organizers make intermediate thinking steps easier to inspect and revise.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Organizing information**: Identifying categories, relationships, and sequence.
+- **Improving comprehension**: Helping learners see how parts of a text, problem, or concept fit together.
+- **Supporting planning and revision**: Using visual structure to prepare writing, discussion, or solution paths.
+- **Strengthening recall and transfer**: Giving learners a reusable schema they can apply to new material.
 
 ### Theory
 #### Supporting
-- [[theories/dual-coding-theory-paivio-gestalt-learning-theory-information-processing-theory-multimedia-learning-theory-mayer|Dual Coding Theory (Paivio)
-Gestalt Learning Theory
-Information Processing Theory
-Multimedia Learning Theory (Mayer)]]
+- Dual coding and multimedia learning perspectives — aligned verbal and visual representation can support comprehension.
+- Information processing views — organizers reduce the need to hold all relationships in mind at once.
+- Schema-oriented learning perspectives — organizers help learners build and inspect knowledge structure.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Organizers do not automatically improve learning; they help most when they are explained, discussed, and matched to the task.
+- Advanced learners may need less structured organizers or may prefer building their own representations.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Alvermann, D. E. (2002). Effective literacy instruction for adolescents. Journal of Literacy Research, 34(2), 189-208.​
-
-Bruce Taylor, D., Mraz, M., Nichols, W. D., Rickelman, R. J., & Wood, K. D. (2009). Using explicit instruction to promote vocabulary learning for struggling readers. Reading & Writing Quarterly, 25(2-3), 205-220.​
-
-Bulgren, J., Deshler, D. D., & Lenz, B. K. (2007). Engaging adolescents with LD in higher order thinking about history concepts using integrated content enhancement routines. Journal of Learning Disabilities, 40(2), 121-133.​
-
-Escobedo, J. (2012). Graphic organizers for retention of basic math concepts for adults. [Unpublished master's thesis] California State University, Sacramento.​
-
-Hall, T., & Strangman, N. (2002). Graphic organizers. National Center on Accessing the General Curriculum. Retrieved from https://www.northernhighlands.org/cms/lib5/nj01000179/centricity/domain/18/graphic_organizers_2008.pdf​
-
-Helms, K. T., & Libertz, D. (2014). When service members with traumatic brain injury become students: Methods to advance learning. Adult Learning, 25(1), 11-19.​
-
-MacArthur, C. A., & Lembo, L. (2009). Strategy instruction in writing for adult literacy learners. Reading and Writing, 22(9), 1021-1039.​
-
-Marietta City Schools. (2012). Cognitive functioning and psychological processing definitions: Areas of impact, and recommended strategies/accommodations. Retrieved from http://www.gadoe.org/Curriculum-Instruction-and-Assessment/Special-Education-Services/Documents/Vision/VI%20Consortia%201-27-17/GoIEP-Cognitive%20Functioning%20and%20Psychological%20Processing.pdf​
-
-Parrish, B., & Johnson, K. (2010). Promoting learner transitions to postsecondary education and work: Developing academic readiness skills from the beginning. Center for Applied Linguistics. Retrieved from www.cal.org/caelanetwork/resources/transitions.html​
-
-Robinson, D. H., Katayama, A. D., Beth, A., Odom, S., Hsieh, Y. P., & Vanderveen, A. (2006). Increasing text comprehension and graphic note taking using a partial graphic organizer. The Journal of Educational Research, 100(2), 103-111.​
-
-Roozbeh, E., Rostami Abousaidi, A. A., & Karbalaei, A. (2016). The role of schema-theory based on background knowledge and graphic organizer on enhancing EFL learners' listening comprehension. Journal of Advances in English Language Teaching, 4(6), 82-94.​
-
-Singleton, S. M., & Filce, H. G. (2015). Graphic organizers for secondary students with learning disabilities. Teaching Exceptional Children, 48(2), 110-117.​
-
-Zimmerman, B. J., & Risemberg, R. (1994). Investigating self-regulatory processes and perceptions of self-efficacy in writing by college students. *Student Motivation, Cognition, and
+- [[claims/chunking-reduces-working-memory-load]] [+S]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/creating-visual-representations|Creating Visual Representations]] — graphic organizers are one concrete form of visual externalization.
+- [[principles/metaphors-analogies|Metaphors & Analogies]] — organizers can help make analogical or conceptual relationships visible.
+- [[principles/process-based-writing|Process-Based Writing]] — organizers often support planning, sequencing, and revision in writing.
+- [[principles/pre-reading-questioning|Pre-Reading Questioning]] — organizers can structure anticipation and comprehension before or during reading.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Cause-and-effect maps**: Learners trace how events, policies, or variables influence one another.
+- **Compare-contrast charts**: Learners organize similarities and differences before discussion or writing.
+- **Story or argument maps**: Learners outline structure before drafting or summarizing.
+- **Partially completed organizers**: Instructors prefill key nodes and ask learners to supply connections or examples.
 
 ## Key Sources
-- <!-- TODO -->
+- Hall, T., & Strangman, N. (2002). *Graphic organizers*. National Center on Accessing the General Curriculum.
+- Robinson, D. H., Katayama, A. D., Beth, A., Odom, S., Hsieh, Y. P., & Vanderveen, A. (2006). Increasing text comprehension and graphic note taking using a partial graphic organizer. *The Journal of Educational Research, 100*(2), 103-111. [https://doi.org/10.3200/JOER.100.2.103-111](https://doi.org/10.3200/JOER.100.2.103-111)
+- Singleton, S. M., & Filce, H. G. (2015). Graphic organizers for secondary students with learning disabilities. *Teaching Exceptional Children, 48*(2), 110-117. [https://doi.org/10.1177/0040059915603129](https://doi.org/10.1177/0040059915603129)
+- MacArthur, C. A., & Lembo, L. (2009). Strategy instruction in writing for adult literacy learners. *Reading and Writing, 22*(9), 1021-1039. [https://doi.org/10.1007/s11145-008-9133-5](https://doi.org/10.1007/s11145-008-9133-5)

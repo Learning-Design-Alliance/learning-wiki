@@ -20,11 +20,11 @@ CRA is an instructional approach that uses concrete materials, visual representa
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with math learning problems, but applicable to all learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop conceptual understanding, facilitate problem-solving skills, and promote meaningful connections between concrete experiences and abstract mathematical concepts
 
 ### Affordances

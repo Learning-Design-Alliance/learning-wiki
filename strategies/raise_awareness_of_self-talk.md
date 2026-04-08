@@ -20,11 +20,11 @@ Raise awareness by helping students understand the concept of self-talk: what it
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase self-awareness, identify the impact of self-talk on confidence and self-esteem.
 
 ### Affordances

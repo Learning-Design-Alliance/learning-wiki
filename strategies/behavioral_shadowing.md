@@ -20,11 +20,11 @@ An adult shadows a child closely (within arm's reach) to prevent specific harmfu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Young children (e.g., preschool or early elementary) exhibiting behaviors that can harm themselves or others, such as biting or hitting. Useful for children with limited verbal skills who may be using aggression as a form of communication.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prevent harmful behaviors, ensure the safety of all children in a classroom, identify triggers for aggressive behaviors, teach alternative strategies for communication and interaction, and break the cycle of negative behavior patterns.
 
 ### Affordances

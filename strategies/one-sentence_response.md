@@ -20,11 +20,11 @@ When instructors ask a question, rather than having students raise hands, every 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all grade levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage active participation, provide practice in writing about math, and promote clarity in articulating ideas.
 
 ### Affordances

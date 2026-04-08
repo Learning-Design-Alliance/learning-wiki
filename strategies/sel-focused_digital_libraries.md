@@ -20,11 +20,11 @@ This strategy involves curating digital libraries to include a section of books 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers and students, especially in K-12 settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate easy access to SEL resources, integrate SEL into literacy, promote SEL skill development, enhance relevance of reading materials
 
 ### Affordances

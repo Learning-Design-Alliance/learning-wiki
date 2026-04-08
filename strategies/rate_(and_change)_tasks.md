@@ -20,11 +20,11 @@ Ask learners to rate the level of challenge in an activity on a scale of 1 to 10
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who avoid work or appear distracted
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce frustration, increase engagement, adjust task difficulty
 
 ### Affordances

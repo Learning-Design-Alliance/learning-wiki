@@ -20,11 +20,11 @@ Instruction that makes students aware of inflections (–ed, –s, –es, –ing
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 2-6 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling accuracy, enhance understanding of word structure, build vocabulary
 
 ### Affordances

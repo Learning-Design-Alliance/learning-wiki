@@ -20,11 +20,11 @@ Providing learners with choice in activities promotes engagement, responsibility
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12, higher education, adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner engagement, foster responsibility, promote independence, deepen learning
 
 ### Affordances

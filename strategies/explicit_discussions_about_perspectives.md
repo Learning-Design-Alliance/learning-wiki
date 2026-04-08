@@ -20,11 +20,11 @@ Have explicit conversations about emotions and social issues, including issues o
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school students, adult learners, learners with social awareness deficits
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance social awareness, improve empathy, promote understanding of diverse perspectives
 
 ### Affordances

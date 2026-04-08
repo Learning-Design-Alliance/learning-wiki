@@ -20,11 +20,11 @@ Self-evaluation involves teaching students how to review their writing to decide
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students struggling with writing assignments, particularly those with learning and thinking differences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing quality; enhance self-awareness; develop self-assessment skills; promote independent learning
 
 ### Affordances

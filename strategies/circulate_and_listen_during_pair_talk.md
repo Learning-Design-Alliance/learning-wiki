@@ -20,11 +20,11 @@ Actively circulating and listening to pair discussions allows teachers to monito
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, essential for effective implementation of pair talk activities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Monitor student engagement and understanding, provide targeted support, reinforce expectations, and gather information for informing future instruction.
 
 ### Affordances

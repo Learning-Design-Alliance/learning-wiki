@@ -20,11 +20,11 @@ Learners compare and contrast multiple solution methods for the same problem, as
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school students, high school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote procedural knowledge, procedural flexibility, and conceptual knowledge. Enhance the ability to generate, recognize, and evaluate multiple solution methods for the same problem.
 
 ### Affordances

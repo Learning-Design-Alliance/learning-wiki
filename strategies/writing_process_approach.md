@@ -20,11 +20,11 @@ A process-oriented approach to writing instruction that places the learner at th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, with emphasis on supporting diverse needs and fostering a positive writing environment.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To enhance student engagement, improve writing skills, and foster a community of learners through collaboration and meaningful writing experiences.
 
 ### Affordances

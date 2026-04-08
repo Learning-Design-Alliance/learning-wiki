@@ -20,11 +20,11 @@ Math songs are musical compositions designed to teach and reinforce math concept
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students, particularly those who benefit from auditory and kinesthetic learning styles
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance retention of math facts, improve understanding of math concepts, increase engagement with math, reinforce number sense and operations
 
 ### Affordances

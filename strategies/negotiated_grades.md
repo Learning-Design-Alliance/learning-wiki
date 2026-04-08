@@ -20,11 +20,11 @@ Grades should be negotiated between students and teachers according to agreed up
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, Higher Education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Involve students in the grading process, promote student agency, align grades with learning goals
 
 ### Affordances

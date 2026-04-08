@@ -20,11 +20,11 @@ Share parts of the reflection brought them to another level of understanding as 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Demonstrate the importance of reflection.
 
 ### Affordances

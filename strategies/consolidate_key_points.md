@@ -20,11 +20,11 @@ Summarizing and consolidating key points after pair talk helps to solidify under
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, essential for ensuring that all students benefit from pair talk activities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Solidify understanding, provide a clear takeaway, reinforce the meaning of key points, and ensure that all students have a reference for checking their understanding.
 
 ### Affordances

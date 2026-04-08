@@ -20,11 +20,11 @@ Growth mindset development involves cultivating the belief that abilities and in
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate belief in the ability to improve, encourage persistence, reduce fear of failure, foster a love of learning, enhance resilience
 
 ### Affordances

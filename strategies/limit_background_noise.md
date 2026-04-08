@@ -20,11 +20,11 @@ Minimizing background noise, such as television, conversations, or lyrical music
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those sensitive to auditory distractions or those who struggle with concentration
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase focus and comprehension, reduce distractions, and enhance cognitive performance during learning activities
 
 ### Affordances

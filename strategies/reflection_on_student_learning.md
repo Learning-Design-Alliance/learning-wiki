@@ -20,11 +20,11 @@ This strategy involves teachers assessing and reflecting on each student's compr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assess student comprehension, gauge student engagement, foster deeper learning, promote a growth mindset
 
 ### Affordances

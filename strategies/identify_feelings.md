@@ -20,11 +20,11 @@ Students identify, label, or match facial expressions and feelings. Students cat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners, especially those who struggle with identifying their own and others' emotions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify emotions, categorize feelings, analyze characters' feelings in literature
 
 ### Affordances

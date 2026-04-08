@@ -20,11 +20,11 @@ Activities focused on improving line awareness, which is crucial for writing leg
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grades, particularly useful for students who struggle to write on lines or maintain consistent letter placement.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve line awareness, enabling legible handwriting within a given space.
 
 ### Affordances

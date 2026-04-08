@@ -20,11 +20,11 @@ Challenge advanced learners with real-world extension projects that apply their 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Advanced learners who have mastered core concepts and standards.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Challenge advanced learners, deepen understanding, develop problem-solving skills, foster collaboration, increase engagement.
 
 ### Affordances

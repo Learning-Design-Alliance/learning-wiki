@@ -20,11 +20,11 @@ Creating a classroom community where student voices are valued involves providin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly in elementary and secondary education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Amplify student voices, build confidence, foster a safe space for sharing
 
 ### Affordances

@@ -20,11 +20,11 @@ Learners draw pictures of a time when they felt specific emotions and share with
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional expression, improve self-assessment, promote empathetic understanding
 
 ### Affordances

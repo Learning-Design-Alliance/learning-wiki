@@ -18,11 +18,11 @@ Instructors guide learners with sequenced, purposeful questions to scaffold deep
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, professional training
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote inquiry, metacognition, and student-led exploration.
 
 ### Affordances

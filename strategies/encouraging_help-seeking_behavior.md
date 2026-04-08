@@ -20,11 +20,11 @@ Creating a classroom environment where students feel comfortable asking for help
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, K-12 and higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a supportive environment where students feel comfortable asking for help to overcome academic challenges.
 
 ### Affordances

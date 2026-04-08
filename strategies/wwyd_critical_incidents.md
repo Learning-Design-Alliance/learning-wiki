@@ -20,11 +20,11 @@ Learners are presented with mini case studies that feature a conflict or misunde
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who need to improve their interpersonal skills and conflict resolution abilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving skills, promote perspective-taking, encourage critical thinking, improve communication skills
 
 ### Affordances

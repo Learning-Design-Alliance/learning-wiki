@@ -20,11 +20,11 @@ Offer free classes and workshops that focus on topics of interest to parents, su
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools, educators, and community partners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase parent involvement, provide resources, build community
 
 ### Affordances

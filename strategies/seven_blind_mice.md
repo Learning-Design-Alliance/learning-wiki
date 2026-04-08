@@ -20,11 +20,11 @@ Learners hear the story 'Seven Blind Mice,' stopping after each mouse’s perspe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who are learning about perspective-taking and collaboration
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote perspective-taking, enhance comprehension of storytelling, encourage collaborative problem-solving, improve communication skills
 
 ### Affordances

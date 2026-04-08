@@ -20,11 +20,11 @@ Learning management systems (LMS) such as Google Classroom, Canvas, and Schoolog
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels engaging in remote or hybrid learning
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance learning through timely assessment, foster self-reflection, encourage constructive feedback, promote student engagement.
 
 ### Affordances

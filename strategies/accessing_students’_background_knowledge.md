@@ -20,11 +20,11 @@ This strategy involves intentionally activating and building upon learners' exis
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - English language learners and students from diverse backgrounds
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, increase engagement, validate student experiences
 
 ### Affordances

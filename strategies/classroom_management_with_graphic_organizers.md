@@ -20,11 +20,11 @@ Teachers put the most important policies, procedures, and expectations into grap
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Making policies, procedures, and expectations clear.
 
 ### Affordances

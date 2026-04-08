@@ -18,11 +18,11 @@ Learners develop structured arguments with supporting evidence.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for law, ethics, philosophy, and public speaking courses.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen reasoning, evidence-based argumentation, and rhetorical skills.
 
 ### Affordances

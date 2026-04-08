@@ -20,11 +20,11 @@ Identify students with challenging behaviors who exhibit leadership qualities. A
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially effective for those with behavioral challenges and those needing academic support.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Harness leadership potential, improve on-task behavior, enhance academic performance, foster collaboration, provide peer support.
 
 ### Affordances

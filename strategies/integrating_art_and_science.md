@@ -20,11 +20,11 @@ This strategy combines art activities with science concepts to teach specific sc
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially K-12 students, can benefit from this interdisciplinary approach.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teach science concepts, encourage experimentation, enhance observation skills, promote creative problem-solving
 
 ### Affordances

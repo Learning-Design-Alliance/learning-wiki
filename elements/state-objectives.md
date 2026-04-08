@@ -18,11 +18,11 @@ Clearly communicates the learning goals to set expectations and focus attention.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for structured learning experiences, including corporate training and formal education.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help learners understand the purpose and relevance of their learning.
 
 ### Affordances

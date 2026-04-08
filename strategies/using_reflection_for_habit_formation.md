@@ -20,11 +20,11 @@ This strategy promotes reflective classrooms to ensure learners are fully engage
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those needing to develop habits of reflection and meaning-making.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Engage learners in making meaning, enhance insight and learning, develop metacognitive strategies, and facilitate application of learnings to new situations.
 
 ### Affordances

@@ -20,11 +20,11 @@ Lesson plans are visual aids used by educators to stay organized and inspire the
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, teachers, instructors, and educational institutions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance organization, inspire creativity, make lesson plans engaging, share resources, improve teaching effectiveness
 
 ### Affordances

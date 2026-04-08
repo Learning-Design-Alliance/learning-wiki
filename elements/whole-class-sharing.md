@@ -18,11 +18,11 @@ The entire class participates in discussion or presentation of ideas, often foll
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for K-12, higher education, and professional development.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate collective knowledge-building and synthesis.
 
 ### Affordances

@@ -20,11 +20,11 @@ Educators spend the majority of a school day shadowing a student to gain real-ti
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - School leaders and educators seeking to improve their understanding of student experiences and address equity issues
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand students' lived experiences, identify areas for improvement in teaching practices and school climate, address racial equity issues
 
 ### Affordances

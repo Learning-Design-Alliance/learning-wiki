@@ -18,11 +18,11 @@ Learners engage in structured discussions to deepen understanding.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for humanities, law, and social sciences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen communication and argumentation skills.
 
 ### Affordances

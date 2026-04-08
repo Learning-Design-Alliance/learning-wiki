@@ -20,11 +20,11 @@ When new students come to the classroom, ask them to read books in their home la
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Newcomer English Language Learners (ELLs)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assess students' reading skills in their home language, build confidence, and create a classroom environment that values multilingualism.
 
 ### Affordances

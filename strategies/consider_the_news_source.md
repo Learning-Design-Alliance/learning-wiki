@@ -20,11 +20,11 @@ Who is the news source, anyway? Traditional news brands may occasionally get it 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - General audience
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teach learners to evaluate news sources based on their credibility, accountability, and editorial practices.
 
 ### Affordances

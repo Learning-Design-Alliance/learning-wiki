@@ -18,11 +18,11 @@ Learners integrate multiple perspectives and sources to develop a cohesive under
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for research-based learning, STEM, and humanities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage higher-order thinking and interdisciplinary connections.
 
 ### Affordances

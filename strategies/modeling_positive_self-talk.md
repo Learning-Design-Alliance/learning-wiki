@@ -20,11 +20,11 @@ Demonstrating positive thinking skills aloud when talking about oneself and othe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, parents, mentors, and leaders in any setting who wish to promote positive thinking and resilience.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To influence learners' internal dialogue through observable examples.
 
 ### Affordances

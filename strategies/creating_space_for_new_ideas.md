@@ -20,11 +20,11 @@ Schools should provide opportunities for teachers to try new things and make mis
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers and educators at all levels, particularly those seeking to improve their teaching practices or implement new educational strategies
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage innovation and experimentation among teachers, create a culture of risk-taking and continuous improvement, and promote professional growth through the implementation of new ideas and approaches.
 
 ### Affordances

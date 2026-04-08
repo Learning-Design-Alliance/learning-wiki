@@ -20,11 +20,11 @@ Implementing a game-based incentive, such as "Silent 20," where students are giv
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Late elementary and middle grade students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage students to quickly and quietly transition back to their seats after an activity.
 
 ### Affordances

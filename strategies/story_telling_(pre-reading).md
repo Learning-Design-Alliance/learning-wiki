@@ -20,11 +20,11 @@ The instructor prepares a short, personalized narrative related to the reading t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners of all ages and proficiency levels, adaptable for various topics.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create interest, activate prior knowledge, and set the stage for the reading material.
 
 ### Affordances

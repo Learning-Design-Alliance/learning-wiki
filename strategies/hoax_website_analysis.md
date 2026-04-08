@@ -20,11 +20,11 @@ Learners examine famous website hoaxes to identify clues that suggest the site i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop critical evaluation skills and awareness of deceptive online information.
 
 ### Affordances

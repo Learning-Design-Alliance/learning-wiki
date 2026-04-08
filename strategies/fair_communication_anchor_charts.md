@@ -20,11 +20,11 @@ Displaying anchor charts outlining fair communication protocols for class discus
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners of all ages and backgrounds, particularly those who may struggle with communication or conflict resolution
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote respectful and inclusive communication, encourage active listening and equitable participation, and create a safe and supportive classroom environment.
 
 ### Affordances

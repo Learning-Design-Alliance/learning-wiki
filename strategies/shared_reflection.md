@@ -20,11 +20,11 @@ Shared reflection involves creating a classroom culture where each student is re
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who are hesitant to share their weaknesses or ask for help
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a supportive learning environment, promote peer learning, build empathy, encourage collaboration
 
 ### Affordances

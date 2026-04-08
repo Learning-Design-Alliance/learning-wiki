@@ -20,11 +20,11 @@ Projects driven by student-generated questions allow learners to investigate top
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, foster curiosity and ownership of learning, promote inquiry-based thinking, encourage critical questioning
 
 ### Affordances

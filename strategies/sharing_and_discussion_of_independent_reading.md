@@ -20,11 +20,11 @@ After independent reading, gather students to talk about their books through var
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster engagement, encourage sharing, and promote a love of reading.
 
 ### Affordances

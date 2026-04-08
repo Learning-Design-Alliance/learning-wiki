@@ -20,11 +20,11 @@ Teachers can use data to guide instructional decisions in Tier 1 settings.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students in Tier 1 settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Guide instructional decisions in Tier 1 settings
 
 ### Affordances

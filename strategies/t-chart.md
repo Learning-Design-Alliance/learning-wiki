@@ -20,11 +20,11 @@ A T-chart is a graphic organizer shaped like the letter T, with a horizontal lin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those needing support in comparing and contrasting information or ideas.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Compare and contrast concepts, organisms, or phenomena. Identify similarities and differences. Organize and analyze information.
 
 ### Affordances

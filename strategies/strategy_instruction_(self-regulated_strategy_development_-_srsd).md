@@ -20,11 +20,11 @@ Explicit teaching of writing strategies, especially self-regulated strategy deve
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Low-achieving writers, students with learning disabilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing skills, promote self-regulation, overcome negative self-talk
 
 ### Affordances

@@ -20,11 +20,11 @@ Eliminate the inclusion of homework and extra credit in final grades. Homework g
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote intrinsic motivation, reduce copying, eliminate privilege-based grading
 
 ### Affordances

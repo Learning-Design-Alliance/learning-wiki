@@ -20,11 +20,11 @@ Classroom time for tutoring is completely eliminated in this model. Educators, l
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for independent learners who can manage their time and seek assistance when needed.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide flexibility, support self-directed learning, offer personalized assistance during office hours.
 
 ### Affordances

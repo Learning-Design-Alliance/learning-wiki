@@ -20,11 +20,11 @@ Multiple exposures provide students with multiple opportunities to encounter, en
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning through repeated and varied interactions with new content.
 
 ### Affordances

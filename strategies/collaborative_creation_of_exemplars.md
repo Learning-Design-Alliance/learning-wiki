@@ -20,11 +20,11 @@ After completing collaborative problem-solving tasks, learners examine leveled e
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 3-6, adaptable for other grade levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-assessment skills, enhance metacognition, foster a shared understanding of quality work, provide peer feedback
 
 ### Affordances

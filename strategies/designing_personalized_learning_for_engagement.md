@@ -20,11 +20,11 @@ Ensuring that personalized learning opportunities are designed to maximize the e
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly students with disabilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Maximize student engagement, promote personalized learning, enhance accessibility
 
 ### Affordances

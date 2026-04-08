@@ -20,11 +20,11 @@ After disciplining a learner, the instructor should do the following: touch base
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support learners' growth and change after disciplinary action has been taken.
 
 ### Affordances

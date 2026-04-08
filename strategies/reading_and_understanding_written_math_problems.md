@@ -20,11 +20,11 @@ Word problems can be challenging. Use background knowledge of math as a stepping
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - ELLs in math classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve understanding of word problems, enhance critical thinking, and language skills
 
 ### Affordances

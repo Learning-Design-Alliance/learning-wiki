@@ -20,11 +20,11 @@ This strategy involves showing students how a topic connects to their lives, giv
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All teachers, especially those with diverse student populations
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Make learning more relevant, promote cultural understanding, increase engagement, and connect content to student interests.
 
 ### Affordances

@@ -20,11 +20,11 @@ The Pencil Pledge is a classroom management technique that helps create a positi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all grade levels, particularly elementary and middle school students. Can be adapted for use in any classroom setting.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote responsible behavior, foster self-regulation, create a positive learning environment, encourage respect for materials, instill a sense of ownership
 
 ### Affordances

@@ -20,11 +20,11 @@ Reflection prompts are specific questions or statements used to guide learners i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-assessment, deepen understanding, and enable application of knowledge to new situations.
 
 ### Affordances

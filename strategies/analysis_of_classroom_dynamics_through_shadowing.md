@@ -20,11 +20,11 @@ This strategy involves a teacher or coach shadowing students to analyze classroo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers, coaches, and administrators looking to improve classroom dynamics and student engagement.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify areas where instruction can be improved, increase student engagement, and improve the overall classroom environment.
 
 ### Affordances

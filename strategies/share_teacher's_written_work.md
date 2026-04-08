@@ -20,11 +20,11 @@ Instructors share their written work with learners, soliciting feedback and crit
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful in secondary and higher education to foster a collaborative learning environment
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Model continuous improvement, encourage feedback seeking, promote a growth mindset, build confidence in learners
 
 ### Affordances

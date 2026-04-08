@@ -20,11 +20,11 @@ Building connections to prior understandings and experiences helps learners inte
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners; suitable for K–12, higher education, and adult learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve retention, promote meaningful learning, support transfer of knowledge
 
 ### Affordances

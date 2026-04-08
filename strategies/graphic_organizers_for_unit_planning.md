@@ -20,11 +20,11 @@ Present students with a graphic organizer to show how the parts of a unit fit to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide context, explain the purpose of learning, create a sense of direction
 
 ### Affordances

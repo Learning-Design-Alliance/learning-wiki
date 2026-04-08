@@ -20,11 +20,11 @@ Self-advocacy involves understanding one's needs, knowing what support might hel
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who learn and think differently
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Communicate needs, develop independence, solve problems, increase confidence
 
 ### Affordances

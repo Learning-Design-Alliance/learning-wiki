@@ -20,11 +20,11 @@ Overcrowded classrooms are linked to increased aggression and decreased engageme
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, teachers, administrators, and school designers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student engagement and reduce aggression by optimizing classroom size and space to accommodate various teaching methods and learning activities
 
 ### Affordances

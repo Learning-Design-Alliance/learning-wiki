@@ -20,11 +20,11 @@ Student models are examples of writing produced by other students, typically cur
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for K–12 and higher education students learning composition and rhetoric
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide concrete examples of effective writing, enhance understanding of expectations, foster critical analysis skills, improve writing quality
 
 ### Affordances

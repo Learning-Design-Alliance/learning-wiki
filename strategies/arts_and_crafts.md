@@ -20,11 +20,11 @@ Creative activities such as arts and crafts can help learners explore their crea
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for younger learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Explore creativity, enhance fine motor skills, promote emotional expression
 
 ### Affordances

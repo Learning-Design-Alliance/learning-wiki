@@ -20,11 +20,11 @@ The IKEA VR kitchen visualizer uses VR technology to give customers a better und
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - IKEA customers who are planning or designing a new kitchen.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help customers design and plan kitchens, reduce buying mistakes, reassure customers in their decisions by allowing them to walk around in a virtual version of their planned kitchen, teach about useful issues such as the best-practice work triangle, waste sorting and corner storage.
 
 ### Affordances

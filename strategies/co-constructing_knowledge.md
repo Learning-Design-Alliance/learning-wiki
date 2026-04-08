@@ -20,11 +20,11 @@ Co-constructing knowledge involves teachers and students dialoguing and creating
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all levels, K-12, higher education, and adult learners, especially in subjects where collaborative learning and critical thinking are emphasized.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster a collaborative learning environment, build student agency, promote critical thinking, and connect learning to real-world experiences.
 
 ### Affordances

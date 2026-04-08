@@ -20,11 +20,11 @@ Before you hit “share,” what questions should you ask? You might share On th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - General audience
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Equip learners with questions to evaluate the credibility of online information.
 
 ### Affordances

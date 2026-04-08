@@ -20,11 +20,11 @@ Have students record details about their reading such as book titles, number of 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote reflection on reading, increase accountability, and build vocabulary.
 
 ### Affordances

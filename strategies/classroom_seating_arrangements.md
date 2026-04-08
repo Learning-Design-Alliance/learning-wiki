@@ -20,11 +20,11 @@ This strategy involves strategically organizing the physical space of a classroo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels and subjects, adaptable for in-person and virtual learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student engagement, optimize communication patterns, foster positive relationships, and support different types of learning activities
 
 ### Affordances

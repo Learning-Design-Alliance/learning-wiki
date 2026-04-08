@@ -20,11 +20,11 @@ GoNoodle offers videos and activities to encourage physical activity and movemen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote physical activity, enhance attention, deepen understanding of concepts, support kinesthetic learning
 
 ### Affordances

@@ -20,11 +20,11 @@ During reading activities, instructors periodically check for understanding by a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly useful during reading activities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assess understanding, encourage prediction, reinforce critical thinking
 
 ### Affordances

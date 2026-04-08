@@ -18,11 +18,11 @@ Step-by-step instructions and just-in-time guidance to assist learners in acquir
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for novice learners, vocational training, and technical skill development.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support learners in mastering recurrent task components through guided practice.
 
 ### Affordances

@@ -18,11 +18,11 @@ Learners engage with a structured real-world scenario that requires problem-solv
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for business, law, and STEM.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop critical thinking and real-world application skills.
 
 ### Affordances

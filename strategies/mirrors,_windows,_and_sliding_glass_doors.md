@@ -20,11 +20,11 @@ Using the concept of mirrors, windows, and sliding glass doors helps students en
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students and educators who aim to engage with diverse stories and experiences, promoting empathy, understanding, and global citizenship.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster empathy and understanding. Promote reflection and action. Develop a sense of global citizenship.
 
 ### Affordances

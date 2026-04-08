@@ -20,11 +20,11 @@ Designing classroom activities that involve cooperative—rather than competitiv
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who may feel isolated or competitive
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance motivation, promote collaboration, develop communication skills, and foster a growth mindset
 
 ### Affordances

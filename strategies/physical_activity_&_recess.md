@@ -20,11 +20,11 @@ Integrating physical activity, such as games, walking, or jogging, with learning
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, adaptable for various age groups and educational settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus and attention, enhance social awareness and relationship skills, promote physical well-being, reinforce learning through movement
 
 ### Affordances

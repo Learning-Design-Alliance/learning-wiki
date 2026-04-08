@@ -20,11 +20,11 @@ The TPRI (Texas Primary Reading Inventory) is a diagnostic instrument designed t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students in kindergarten through third grade
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify students at risk for reading difficulties, provide targeted instruction to improve reading skills
 
 ### Affordances

@@ -20,11 +20,11 @@ Differentiated teaching methods are used to extend the knowledge and skills of e
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Extend the knowledge and skills of all students, regardless of their starting point, by adjusting content, process, and product.
 
 ### Affordances

@@ -20,11 +20,11 @@ Modeling a skill or assignment by verbalizing thought processes while working th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for learners needing support with metacognition and strategy application
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner awareness of problem-solving strategies, improve self-monitoring skills, support conceptual development
 
 ### Affordances

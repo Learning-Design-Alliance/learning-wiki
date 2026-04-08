@@ -20,11 +20,11 @@ Guided inquiry is an educational approach that blends inquiry activities with di
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and undergraduate students, applicable in science labs and other learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teach thinking skills, promote conceptual understanding, improve motivation, develop problem-solving abilities, enhance analytical skills
 
 ### Affordances

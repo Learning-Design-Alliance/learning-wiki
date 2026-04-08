@@ -20,11 +20,11 @@ Math journals are a way to gauge a student’s understanding of particular math 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Gauge student understanding, communicate strengths and concerns, reflect on learning experiences
 
 ### Affordances

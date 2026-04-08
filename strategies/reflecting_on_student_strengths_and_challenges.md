@@ -20,11 +20,11 @@ Educators identify specific student strengths and/or challenges related to learn
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, special education teachers, and instructional coaches
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify and leverage student strengths, address learning differences, promote student self-awareness, tailor instruction to meet individual needs
 
 ### Affordances

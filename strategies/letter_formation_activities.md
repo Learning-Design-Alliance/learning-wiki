@@ -20,11 +20,11 @@ Activities focused on teaching and practicing correct letter formation, includin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grades, particularly useful for students who struggle with correct letter formation or have letter reversal issues.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve letter formation skills, including directionality, sequencing, and motor planning.
 
 ### Affordances

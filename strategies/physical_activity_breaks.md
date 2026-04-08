@@ -20,11 +20,11 @@ Physical activity breaks are short periods of movement integrated into daily rou
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All individuals, including students, faculty, and staff in educational and work settings; adaptable for various fitness levels and schedules
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus, prevent fatigue, relieve body stiffness, enhance mood, and increase energy levels
 
 ### Affordances

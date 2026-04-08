@@ -18,11 +18,11 @@ Concept maps, outlines, or visual guides that help learners structure new inform
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for conceptual and content-heavy subjects like history, STEM, and law.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve comprehension by providing cognitive frameworks for new content.
 
 ### Affordances

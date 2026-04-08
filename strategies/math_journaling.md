@@ -20,11 +20,11 @@ In their math journals, students can write about things they are having trouble 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all grade levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help learners reflect on their understanding, clarify their thinking, and develop a more concrete handle on mathematical concepts.
 
 ### Affordances

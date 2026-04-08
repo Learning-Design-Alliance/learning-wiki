@@ -20,11 +20,11 @@ Cross-age peer tutoring involves pairing students from different grade levels, w
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and middle school students, particularly effective for reinforcing foundational skills and promoting positive social interactions.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning for older students, provide personalized support for younger students, develop leadership skills, and foster positive relationships between different age groups.
 
 ### Affordances

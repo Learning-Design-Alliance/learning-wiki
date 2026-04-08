@@ -47,7 +47,7 @@ Distributing practice across sessions strengthens long-term retention by forcing
 - Massed practice may be preferred when the goal is immediate performance (e.g., a demonstration the next day) — spacing trades short-term fluency for long-term retention
 
 ### Claims
-<!-- No claim pages exist yet for spaced learning — add [[claims/slug]] links when created -->
+<!-- No claim pages exist yet for spaced learning — add claim-page links when created -->
 
 ## Related Principles
 - [[principles/formative-assessment|Formative Assessment]] — low-stakes assessments are the natural delivery mechanism for spaced retrieval; quizzes and checks serve both assessment and spacing functions

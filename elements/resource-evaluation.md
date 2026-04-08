@@ -18,11 +18,11 @@ Learners assess the credibility and relevance of sources.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for research-heavy disciplines, media literacy, and academic writing.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve information literacy and critical analysis skills.
 
 ### Affordances

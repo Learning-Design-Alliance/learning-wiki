@@ -20,11 +20,11 @@ Journaling involves writing or recording thoughts and feelings to develop metaco
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with self-regulation, particularly those who need to develop greater awareness of their internal processes, including students in K-12 and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop metacognitive awareness, improve self-regulation skills, enhance emotional intelligence, foster self-reflection
 
 ### Affordances

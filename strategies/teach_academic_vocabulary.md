@@ -20,11 +20,11 @@ Provide explicit instruction on academic vocabulary that will be encountered dur
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly ELL students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve vocabulary, promote academic language acquisition, and enhance content understanding.
 
 ### Affordances

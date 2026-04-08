@@ -20,11 +20,11 @@ Multimodal assignments involve a variety of assessment methods that challenge le
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for diverse learners, adaptable for various subjects and educational levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active learning, encourage creativity, improve retention, assess understanding through diverse methods.
 
 ### Affordances

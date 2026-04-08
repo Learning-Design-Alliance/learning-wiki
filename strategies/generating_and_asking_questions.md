@@ -20,11 +20,11 @@ This strategy involves readers asking themselves questions throughout the readin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those in upper elementary, middle, and high school, as well as adult learners looking to improve reading comprehension and critical thinking
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading comprehension by integrating information, identifying main ideas, summarizing content, and focusing on key details through self-questioning
 
 ### Affordances

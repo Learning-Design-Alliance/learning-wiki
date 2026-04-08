@@ -1,94 +1,68 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Cultural & Life Experiences Connections
 
 ## Description
-Understanding adults' lived experiences and cultural backgrounds and connecting them to instructional practices helps all learners feel like valued members of the community. When instructors and training programs integrate the life experiences and cultural knowledge learners bring to the classroom, they help students draw on their Background Knowledge to better understand and relate to the material. This strategy supports culturally responsive teaching practices, enhancing Motivation and ensuring representation of all learners in the curriculum.
+Connecting instruction to learners' cultural and life experiences means treating what learners already know, value, and have lived through as assets for meaning-making rather than as irrelevant background. When instruction acknowledges community knowledge, work experience, language practices, family contexts, and prior responsibilities, learners are more likely to see the material as legible, worthwhile, and connected to real life. This principle strengthens relevance, belonging, and transfer by making learning something learners can situate within what they already understand.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **Knowledge of learners' contexts**: Instructors need some authentic understanding of learners' backgrounds, responsibilities, and community experiences.
+- **Respectful integration**: Connections should deepen the learning task, not tokenize identity or reduce learners to demographic categories.
+- **Multiple entry points**: Learners need more than one way to connect prior experience to new content, since no single example will resonate for everyone.
+- **Room for learner contribution**: Learners should be able to supply examples, contexts, and interpretations from their own experience.
 #### Constraints
-- <!-- TODO -->
+- **Stereotyping risk**: Cultural connection becomes harmful when instructors assume sameness within a group or force learners into representative roles.
+- **False relevance**: Superficial references to culture or life experience can feel decorative instead of instructionally meaningful.
+- **Uneven familiarity**: Some learners may not want to share personal context publicly or may not identify with the examples selected.
+- **Indirect claim base in this repo**: Current linked claims support mechanisms like transfer, explanation, and scaffolding more directly than culturally responsive connection as a standalone outcome.
 
 ### Target Learners
-- Adverse Experiences
-Hearing
-Literacy Environment
-Primary Language
-Social Supports
-Safety
-
-Social and Emotional Learning:
-Emotion
-Motivation
-Learner Mindset
-Sense of Belonging
-Stereotype Threat
-Social Awareness & Relationship Skills
-
-Cognition:
-Long-term Memory
-
-Language and Literacy:
-Background Knowledge
-Numeracy
-Oral Communication Skills
-Problem Solving
+- **Adult learners with rich prior experience**: Especially relevant when learners bring work, family, community, or multilingual knowledge into the course.
+- **Learners from historically marginalized groups**: Cultural connection can improve representation, relevance, and belonging when done thoughtfully.
+- **Learners disengaged by abstract content**: Grounding concepts in familiar settings can make entry into complex material easier.
+- **Instructors designing for heterogeneous groups**: The principle helps broaden examples and tasks beyond a single assumed learner profile.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Activating prior knowledge**: Using existing experience as a bridge into new concepts or practices.
+- **Improving relevance and engagement**: Making the learning task feel connected to real needs, histories, and goals.
+- **Supporting transfer**: Helping learners apply ideas across settings they actually inhabit.
+- **Strengthening belonging**: Communicating that learners' backgrounds are resources, not obstacles.
 
 ### Theory
 #### Supporting
-- [[theories/social-constructivism-vygotsky-knowles-andragogy-maslows-hierarchy-of-needs-self-determination-theory-deci-ryan|Social Constructivism (Vygotsky)
-Knowles' Andragogy
-Maslow's Hierarchy of Needs
-Self-Determination Theory (Deci & Ryan)]]
+- Social constructivist views of learning — new ideas become meaningful through connection to prior knowledge and social context.
+- Andragogical perspectives on adult learning — adult learners are especially motivated when learning connects to immediate experience and purpose.
+- Self-determination theory — relevance and recognition of learner identity can support motivation, autonomy, and belonging.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Cultural connection does not remove the need for explicit teaching of unfamiliar concepts, conventions, or disciplinary norms.
+- Learner experience should inform the design, but not be romanticized as automatically sufficient for mastery.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Chen, D., & Yang, X. (2017). Improving active classroom participation of ESL students: Applying culturally responsive teaching strategies. Theory and Practice in Language Studies, 7(1), 79-86.​
-
-Gnanadass, E., & Merriweather, L. R. (2020). Troubling the discursive moment: Using Black texts for activating dialogue. New Directions for Adult and Continuing Education, 165, 21-33.​
-
-Graham, L. J., & Harwood, V. (2011). Developing capabilities for social inclusion: Engaging diversity through inclusive school communities. International Journal of Inclusive Education, 15(1), 135-152.​
-
-Green, T. M., Kelso, C. M., & Zillioux, D. (2015). The nexus between education and training: Implications for the adult learner. Journal of Research in Innovative Teaching, 8(1), 64-79.​
-
-Hansman, C. A. (2001). Context‐based adult learning. New Directions for Adult and Continuing Education, (89), 43-52.​
-
-Karge, B. D., Phillips, K. M., Jessee, T., & McCabe, M. (2011). Effective strategies for engaging adult learners. Journal of College Teaching & Learning, 8(12), 53-56.​
-
-National Academies of Sciences, Engineering, and Medicine. (2018). How people learn II: Learners, contexts, and cultures. National Academies Press.​
-
-Papen, U., & Tusting, K. (2019). Using ethnography and 'real literacies' to develop a curriculum for English literacy teaching for young deaf adults in India. Compare: A Journal of Comparative and International Education, 1-19.​
-
-Rhodes, C. M. (2017). A validation study of the Culturally Responsive Teaching Survey. Universal Journal of Educational Research, 5(1), 45-53.​
-
-Rogers, R., & Fuller, C. (2007). "As if you heard it from your momma": Redesigning histories of participation with literacy education in an adult education class. In Reframing Sociocultural Research on Literacy: Identity, Agency, and Power (pp. 75-114).​
-
-Ross‐Gordon, J. M. (2003). Adult learners in the classroom. New Directions for Student Services, (102), 43-52.​
-lvp.digitalpromiseglobal.org
-
-Schwartz, J. (2014). High school equivalency as counter‐space. New Directions for Adult and Continuing Education, (144), 37-47.​
-
-Vasquez, J. M. (2005). Ethnic identity and Chicano literature: How ethnicity affects reading and reading affects ethnic consciousness. Ethnic and Racial Studies, 28(5), 903-924.
+- [[claims/whole-task-performance-improves-transfer]] [~M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/building-empathy|Building Empathy]] — cultural connection often depends on taking learners' lived realities seriously.
+- [[principles/developing-your-cultural-awareness|Developing Your Cultural Awareness]] — instructors need awareness of their own assumptions to make meaningful connections well.
+- [[principles/strengths-based-approach|Strengths-Based Approach]] — this principle treats learner background as an asset rather than a deficit.
+- [[principles/instructor-accessibility|Instructor Accessibility]] — accessible relationships help learners contribute their own contexts to the work.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Community-based examples**: Mathematics, literacy, or policy tasks use scenarios drawn from learners' work, neighborhood, or civic contexts.
+- **Learner-generated case material**: Learners contribute examples from their own experiences and compare how course concepts apply.
+- **Text selection with representation**: Instructors choose readings and cases that reflect a broader range of voices, histories, and cultural frames.
+- **Context mapping**: Before a new unit, learners identify what prior experience or community knowledge might connect to the topic.
 
 ## Key Sources
-- <!-- TODO -->
+- Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [https://doi.org/10.1002/ace.6](https://doi.org/10.1002/ace.6)
+- National Academies of Sciences, Engineering, and Medicine. (2018). *How people learn II: Learners, contexts, and cultures*. National Academies Press. [https://doi.org/10.17226/24783](https://doi.org/10.17226/24783)
+- Papen, U., & Tusting, K. (2019). Using ethnography and 'real literacies' to develop a curriculum for English literacy teaching for young deaf adults in India. *Compare: A Journal of Comparative and International Education, 51*(2), 173-191. [https://doi.org/10.1080/03057925.2019.1600504](https://doi.org/10.1080/03057925.2019.1600504)

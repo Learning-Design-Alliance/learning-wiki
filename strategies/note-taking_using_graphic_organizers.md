@@ -20,11 +20,11 @@ Learners use graphic organizers to take notes on their reading, research, films,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly effective for complex or dense material.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension and retention by visually organizing information and showing relationships between concepts.
 
 ### Affordances

@@ -20,11 +20,11 @@ Student-led conferences (SLCs) are meetings where students take the lead in disc
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, adaptable for various grade levels and subject areas.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage student responsibility, engage families, promote reflection, set goals, demonstrate progress, and empower student voice.
 
 ### Affordances

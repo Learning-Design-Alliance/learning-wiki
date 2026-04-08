@@ -20,11 +20,11 @@ Integrating text chats into instruction involves using real-time messaging platf
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Effective for all grade levels and learning environments, particularly useful in online and blended learning settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance communication skills, encourage active participation, facilitate real-time feedback, promote collaborative learning, and support diverse communication styles.
 
 ### Affordances

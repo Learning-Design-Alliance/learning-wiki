@@ -20,11 +20,11 @@ Shadowing can be used as a direct intervention to address behavior problems in t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers and aides working with elementary students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prevent harmful behaviors, keep the classroom safe, teach alternative strategies, and break the cycle of negative behavior.
 
 ### Affordances

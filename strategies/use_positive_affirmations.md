@@ -20,11 +20,11 @@ Replace negative messages from the inner voice with positive affirmations. A neg
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate a positive mindset by replacing negative self-talk with positive affirmations.
 
 ### Affordances

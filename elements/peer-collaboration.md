@@ -18,11 +18,11 @@ Learners work together to complete tasks or solve problems.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for interdisciplinary and project-based learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster social learning, problem-solving, and teamwork.
 
 ### Affordances

@@ -20,11 +20,11 @@ Creative presentations are visual aids designed to engage learners and keep thei
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, trainers, and presenters in academic, corporate, and professional development settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Engage learners, maintain attention, stimulate interest, enhance memory, present information visually
 
 ### Affordances

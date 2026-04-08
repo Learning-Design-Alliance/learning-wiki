@@ -20,11 +20,11 @@ AR creates training environments required for soldiers to train more often, save
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Soldiers, military personnel
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prepare soldiers for field operations; provide realistic training; reduce travel costs; improve knowledge retention
 
 ### Affordances

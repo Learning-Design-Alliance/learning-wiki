@@ -20,11 +20,11 @@ Learners use free web-based tools to annotate online documents, including slides
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Higher education, adult learners, and professional development programs where learners engage with digital documents.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate peer review, provide contextual feedback, enhance collaborative learning, and improve digital literacy.
 
 ### Affordances

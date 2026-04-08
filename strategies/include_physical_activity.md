@@ -20,11 +20,11 @@ Brief breaks for active play can help children who struggle with attention. This
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners struggling with attention, especially children
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve attention span, increase engagement, reduce restlessness
 
 ### Affordances

@@ -20,11 +20,11 @@ The pegword strategy is a mnemonic technique that uses rhyming words to represen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and higher education learners, especially those needing to memorize sequences, dates, or numbered lists. Particularly effective for students with learning disabilities or memory challenges.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve memory of ordered information, enhance association of events with numbers, facilitate recall of sequences and lists, reinforce visual imagery for memory retention
 
 ### Affordances

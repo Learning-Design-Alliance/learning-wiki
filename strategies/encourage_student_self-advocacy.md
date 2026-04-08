@@ -20,11 +20,11 @@ Empowering students to become self-advocates involves helping them understand th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and learning levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-awareness, foster self-confidence, improve communication skills, encourage problem-solving
 
 ### Affordances

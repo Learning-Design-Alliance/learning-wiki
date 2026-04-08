@@ -20,11 +20,11 @@ Emotion cue cards are portable visual or auditory prompts designed to remind stu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and middle school students, students with emotional regulation challenges
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support self-regulation, promote emotional awareness, provide strategies for managing emotions, reinforce coping mechanisms
 
 ### Affordances

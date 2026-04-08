@@ -20,11 +20,11 @@ Creating a mistake-friendly classroom involves fostering an environment where mi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce fear of failure, encourage risk-taking, foster deeper learning, promote a growth mindset, enhance creativity
 
 ### Affordances

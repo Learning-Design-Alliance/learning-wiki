@@ -20,11 +20,11 @@ Interdisciplinary activities present issues, themes, and problems that require s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels; adaptable based on the complexity of the subject matter and required skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve critical thinking, enhance bias recognition, prepare learners for future problems, build informed understandings, make connections between academic disciplines
 
 ### Affordances

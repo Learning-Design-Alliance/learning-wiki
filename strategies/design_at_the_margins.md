@@ -20,11 +20,11 @@ This principle involves designing with the students at the edges of a community 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators and school teams seeking to create more equitable and inclusive learning environments, particularly in racially diverse schools with achievement gaps.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Address achievement gaps, build inclusive school cultures, and ensure that solutions benefit all learners, especially those who are marginalized.
 
 ### Affordances

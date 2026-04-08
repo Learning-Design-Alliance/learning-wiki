@@ -1,76 +1,69 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Process-based Writing
 
 ## Description
-Process-based writing focuses on how learners brainstorm, outline, draft, and revise their writing and is most effective when paired with feedback, especially for English language learners. When teaching Composition, focusing on the process is often helpful to learners as they begin to tackle more nuanced and complex writing tasks. Process-based writing instruction involves a series of steps, including pre-writing activities such as brainstorming and planning, to enhance Metacognition. Learners go through the prewriting process and then create drafts to revise, edit, and reflect upon before creating a finalized version of the task. Research has shown that the writing process is teachable, and instructors can aid learners by explicitly focusing on the individual parts of the process to enhance writing outcomes. Process-based writing in an educational setting allows the instructor and learners to experience the writing process together, rather than simply coming together to evaluate a finished product. Additionally, focusing on the writing process helps learners Self-regulation and increases Motivation.
+Process-based writing treats writing as a sequence of intentional moves such as generating ideas, planning, drafting, revising, editing, and reflecting rather than as a one-shot product. Its core premise is that writers improve when the process itself is taught, supported, and made visible. This is especially useful for learners developing complex writing skills, because it breaks writing into revisable stages while still keeping the final communicative purpose in view.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **Visible stages of the writing process**: Learners need explicit support for planning, drafting, revising, and editing.
+- **Feedback during the process**: Process-based writing is strongest when writers receive response before the final submission.
+- **Time for revision**: Learners need enough cycles to actually act on feedback and rethink ideas.
+- **A meaningful writing purpose**: Process work should still connect to audience, genre, and communicative goal.
 #### Constraints
-- <!-- TODO -->
+- **Stage over-fragmentation**: Breaking writing into steps can become mechanical if learners lose sight of the whole text and its purpose.
+- **Revision avoidance**: Learners may treat early drafts as final unless revision expectations are explicit and supported.
+- **Feedback overload**: Too much commentary too early can stall writing rather than improve it.
+- **Process without quality criteria**: Writers still need models of strong writing, not only encouragement to keep drafting.
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Literacy Environment
-Socioeconomic Status
-
-Social and Emotional Learning:
-Self-regulation
-Motivation
-Learner Mindset
-Sense of Belonging
-
-Cognition:
-Attention
-Long-term Memory
-Reasoning
-Short-term Memory
-Metacognition
-Working Memory
-
-Language and Literacy:
-Composition
-Foundational Reading Skills
-Oral Communication Skills
+- **Learners developing writing fluency and control**: Strong fit for novice and developing writers who benefit from staged support.
+- **Multilingual learners**: Process routines can make revision and language experimentation more manageable.
+- **Learners who experience writing as high-stakes or fixed**: A process focus can normalize drafting and improvement.
+- **Writers tackling more complex genres**: Planning and revision become more important as task complexity grows.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Stronger draft development**: Improving how ideas are generated, organized, and expanded over time.
+- **Revision skill**: Helping learners rethink content, structure, and clarity rather than only proofreading.
+- **Metacognitive awareness in writing**: Noticing what a text is trying to do and where it still needs work.
+- **More sustainable writing habits**: Building repeatable routines that transfer across assignments and genres.
 
 ### Theory
 #### Supporting
-- [[theories/self-regulated-learning-zimmerman-metacognition-implicit-in-self-regulated-learning-zimmerman-information-processing-theory|Self-Regulated Learning (Zimmerman)
-Metacognition (Implicit in Self-Regulated Learning - Zimmerman)
-Information Processing Theory]]
+- Self-regulated learning — writing improves when learners plan, monitor, revise, and reflect deliberately.
+- Metacognitive perspectives — process-based writing helps learners notice what good writing requires at each stage.
+- Information processing views — staged writing can reduce overload by separating generation, organization, and revision work.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Not every writing task needs a full multistage cycle; short forms may be better served by lighter process support.
+- Process instruction should not make writing feel like a rigid formula that ignores audience, voice, or purpose.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Fernandez, R., Peyton, J. K., & Schaetzel, K. (2017). A survey of writing instruction in adult ESL programs: Are teaching practices meeting adult learner needs?. COABE Journal, 6(2), 5.
-
-Hayes, J. R. , & Flower, S. (1983). A cognitive model of the writing process in adults. Final report. (ERIC Document Reproduction Service No. ED 240 608). Pittsburgh, PA: Carnegie-Mellon University.
-
-Li Li, Kee. (2019). Idea sharing: Process-based approach to writing in Malaysian English education. PASAA: A Journal of Teaching Language and Learning, 58, 319–341.
-
-Wei, Z., Shang, H., & Briody, P. (2012). The relationship between English writing ability levels and EFL learners' metacognitive behaviour in the writing process. International Journal of Academic Research in Progressive Education and Development, 1(4), 154-180.
-
-Ynuus, M. M., Salehi, H., Amini, M., Shojaee, M. & Fei, W. Y. (2016). Activities and suggestions for using social networking in teaching ESL writing. Journal of Theoretical And Applied Information Technology, 84(2), 170–182.
+- [[claims/self-monitoring-improves-self-regulation]] [+M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/journaling|Journaling]] — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.
+- [[principles/peer-feedbackpeer-review|Peer Feedback/Peer Review]] — revision is stronger when learners get and use feedback before final submission.
+- [[principles/guided-practice|Guided Practice]] — early writing stages often benefit from teacher modeling and coached rehearsal.
+- [[principles/graphic-organizers|Graphic Organizers]] — organizers can support planning and structural revision.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Draft-revise cycles**: Learners submit early drafts, receive feedback, and revise before final evaluation.
+- **Stage-specific mini-lessons**: An instructor teaches planning, paragraphing, revision, or editing at the point of need.
+- **Writers' workshop routines**: Learners alternate between independent drafting, conferences, peer review, and revision.
+- **Process reflections**: Writers briefly explain what changed between drafts and why.
 
 ## Key Sources
-- <!-- TODO -->
+- Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In *Cognitive processes in writing* (pp. 3-30). Lawrence Erlbaum.
+- Wei, Z., Shang, H., & Briody, P. (2012). The relationship between English writing ability levels and EFL learners' metacognitive behaviour in the writing process. *International Journal of Academic Research in Progressive Education and Development, 1*(4), 154-180.
+- Fernandez, R., Peyton, J. K., & Schaetzel, K. (2017). A survey of writing instruction in adult ESL programs: Are teaching practices meeting adult learner needs? *COABE Journal, 6*(2), 5.

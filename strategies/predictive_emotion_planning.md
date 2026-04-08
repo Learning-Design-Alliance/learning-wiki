@@ -20,11 +20,11 @@ Learners anticipate emotions linked to upcoming activities. Identifying potentia
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to high school students, learners with anxiety or attention difficulties
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve self-regulation, develop coping strategies, enhance emotional awareness
 
 ### Affordances

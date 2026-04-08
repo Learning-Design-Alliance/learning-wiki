@@ -20,11 +20,11 @@ Forming task force teams of inquiry by letting teams form (or helping with this)
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable across all learner levels, including K-12, higher education, and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote inquiry-based learning, develop research and presentation skills, and foster collaborative teamwork.
 
 ### Affordances

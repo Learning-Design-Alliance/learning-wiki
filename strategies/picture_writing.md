@@ -20,11 +20,11 @@ Picture writing unlocks the imagination, builds confidence, and develops foundat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Pre-writers, children ages 2-7
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Unlock imagination, build confidence, develop foundational early literacy skills
 
 ### Affordances

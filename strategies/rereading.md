@@ -20,11 +20,11 @@ Rereading is a literacy strategy where a reader revisits a sentence, paragraph, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, struggling readers, and English language learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading accuracy, enhance fluency, build vocabulary, and increase comprehension
 
 ### Affordances

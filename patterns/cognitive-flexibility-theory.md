@@ -1,82 +1,102 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: Rand Spiro et al. (1987)
-grain_size: Unit, Lesson
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: Rand Spiro et al.
+grain_size: unit
 ---
 
 # Cognitive Flexibility Theory
 
 ## Description
-A framework for designing instruction that develops flexible knowledge structures by exposing learners to multiple perspectives, diverse cases, and varying contexts. Instead of presenting linear instruction, learners navigate nonlinear, interconnected knowledge networks. This approach is particularly useful in ill-structured domains where problems require adaptability, such as law, medicine, and social sciences.
+Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts. Rather than presenting knowledge as a single linear explanation, the pattern helps learners see how ideas shift depending on context, representation, and problem framing. It is especially useful where oversimplified rules break down and learners need to interpret complexity rather than apply a fixed procedure.
+
+The pattern often relies on case collections, cross-linking, comparison, and revisiting. Its goal is not just knowledge accumulation but flexible reorganization of knowledge so learners can apply it adaptively in new situations.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Requires well-structured case materials and expert facilitation; Works best in hyperlinked or digital learning environments.
+- **An ill-structured domain**: Best suited to fields where problems have multiple interpretations and no single routine solution.
+- **Multiple cases or representations**: Learners need repeated exposure to varied examples that reveal different facets of the same concepts.
+- **Guided comparison**: Instructors need prompts that help learners connect, contrast, and reframe what they are seeing.
+- **Opportunities to revisit ideas**: Concepts should recur across cases rather than appear once in a fixed sequence.
 #### Constraints
-- Can be cognitively overwhelming for novices; Requires careful scaffolding to prevent overload.
+- **Novice overload**: Too much complexity too early can overwhelm learners without strong scaffolding.
+- **Navigation burden**: Nonlinear exploration can become disorienting if structure is weak.
+- **Weak fit for tightly procedural goals**: Simpler linear approaches may work better for routine skills.
+- **Case quality matters**: Superficial variety does not produce genuine flexibility.
 #### Grain Size
-Unit, Lesson
+- Lesson
+- Unit
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Best suited for complex, ill-structured problem-solving, particularly in legal reasoning, medical decision-making, and policy analysis.
+- **Flexible transfer**: Applying knowledge across varied contexts without relying on rigid scripts.
+- **Multi-perspective reasoning**: Seeing how different stakeholders or representations change interpretation.
+- **Adaptive problem solving**: Building knowledge that can be reorganized when conditions shift.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Higher education, advanced K-12 courses, and professional training where adaptability and multi-perspective thinking are essential.
+- **Advanced learners in complex domains**: Strong fit for law, medicine, policy, design, and similar interpretive fields.
+- **Learners confronting ambiguous cases**: Useful when learners must compare possibilities rather than reproduce one answer.
+- **Learners ready for nonlinearity**: Best once some foundational orientation is already in place.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Constructivist perspectives — understanding deepens when learners reorganize knowledge across varied contexts.
+- Transfer-oriented perspectives — flexible application depends on seeing concepts from multiple angles rather than one canonical example.
+- Case-based reasoning traditions — varied cases support richer retrieval and comparison.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Learners still need enough structure to avoid mistaking fragmentation for flexibility.
+- For novices, example-based or more guided approaches may need to precede flexible case navigation.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/whole-task-performance-improves-transfer]] [~S]
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-1. Learners explore multiple cases with varying perspectives.
- 2. Concepts are presented in different contexts to reinforce flexibility.
- 3. Learners revisit knowledge from different angles, refining their understanding.
+1. Introduce a core concept through one case or representation.
+2. Revisit the concept across contrasting cases, perspectives, or media.
+3. Ask learners to compare how the concept behaves differently across contexts.
+4. Have learners synthesize patterns, exceptions, and decision rules.
+5. Return to earlier cases with a richer interpretive lens.
 
 ### Elements Used
 - [[elements/case-based-learning|Case-Based Learning]]
-- [[elements/hypertext-navigation|Hypertext Navigation]]
-- [[elements/perspective-taking|Perspective-Taking]]
+- [[elements/case-study|Case Study]]
 - [[elements/problem-solving-tasks|Problem-Solving Tasks]]
+- [[elements/peer-discussion|Peer Discussion]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/cognitive-flexibility-encourages-adaptability-by-exposing-learners-to-multiple|Cognitive Flexibility – Encourages adaptability by exposing learners to multiple]]
-- [[principles/varying-contexts|varying contexts]]
-- [[principles/constructivist-learning-knowledge-is-built-through-interconnected|Constructivist Learning – Knowledge is built through interconnected]]
-- [[principles/exploratory-experiences|exploratory experiences]]
-- [[principles/transfer-of-learning-focuses-on-deep-knowledge-application-across-domains|Transfer of Learning – Focuses on deep knowledge application across domains.]]
-
+- [[principles/perspective-seekingmultiple-perspectives|Perspective-Seeking/Multiple Perspectives]]
+- [[principles/case-studiescase-based-learning|Case Studies/Case-Based Learning]]
+- [[principles/problem-based-learning|Problem-based Learning]]
+- [[principles/creating-visual-representations|Creating Visual Representations]]
 
 ### Personalization
-- Instruction can be adapted by scaffolding complexity and allowing self-directed exploration of cases.
+- Learners can explore different case pathways while still returning to shared synthesis prompts.
+- Instructors can increase or decrease structure by controlling the number of cases and comparison questions.
+- Advanced learners can handle more independent cross-case navigation than novices.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/case-based-learning-harvard-method|Case-Based Learning (Harvard Method)]]
+- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
 
 ## Examples
-- - Law education: Students analyze multiple legal precedents for a single case.
-- Medical training: Diagnosing patients with varied symptom presentations.
-- Business education: Examining multiple strategic responses to a market shift.
+- Legal reasoning sequences where the same doctrine is interpreted across multiple precedents.
+- Medical instruction comparing cases with overlapping symptoms but different underlying causes.
+- Policy analysis that revisits one concept through different stakeholder and context lenses.
 
 ## Impact
-- Studies suggest increased problem-solving adaptability and better long-term knowledge retention (Spiro et al., 1992).
+- Helps learners avoid overly rigid simplifications in complex domains.
+- Strongest when multiple cases are deliberately compared instead of merely accumulated.
 
 ## Key Sources
-- - Spiro, R. J., Feltovich, P. J., Jacobson, M. J., & Coulson, R. L. (1992). Cognitive Flexibility, Constructivism, and Hypertext. Educational Technology.
+- Spiro, R. J., Feltovich, P. J., Jacobson, M. J., & Coulson, R. L. (1992). Cognitive flexibility, constructivism, and hypertext: Random access instruction for advanced knowledge acquisition in ill-structured domains. In T. Duffy & D. Jonassen (Eds.), *Constructivism and the technology of instruction* (pp. 57-75). Erlbaum.
+- Jacobson, M. J., & Spiro, R. J. (1995). Hypertext learning environments, cognitive flexibility, and the transfer of complex knowledge. *Journal of Educational Computing Research, 12*(4), 301-333. [https://doi.org/10.2190/4T1B-6E7P-7J9M-3X4M](https://doi.org/10.2190/4T1B-6E7P-7J9M-3X4M)

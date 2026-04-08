@@ -20,11 +20,11 @@ Fostering self-determination and self-advocacy involves empowering students with
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with disabilities, their families, and educators.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower students with disabilities to actively participate in their education, develop agency, and improve their life outcomes.
 
 ### Affordances

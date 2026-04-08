@@ -20,11 +20,11 @@ Instructors ask thought-provoking questions to encourage reflection and emotiona
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All ages, adaptable for elementary through college students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage reflection, promote emotional awareness, foster creativity, build a positive classroom environment
 
 ### Affordances

@@ -20,11 +20,11 @@ Read aloud features, often combined with word and sentence highlighting, provide
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Individuals with decoding difficulties, visual impairments, English language learners, or those who benefit from multisensory learning. Useful across all age groups and educational levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve decoding skills, enhance focus, support visual impairments, aid second language acquisition, promote multisensory learning
 
 ### Affordances

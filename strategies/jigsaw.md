@@ -20,11 +20,11 @@ In the Jigsaw method, learners are divided into 'expert groups' to master a spec
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in various training and educational settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, foster collaboration, improve communication, and promote active learning through peer teaching.
 
 ### Affordances

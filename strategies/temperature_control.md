@@ -20,11 +20,11 @@ Maintaining an optimal temperature range in classrooms affects student engagemen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners and educators in K-12 or higher education settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student engagement and achievement, enhance comfort, create a more conducive learning environment
 
 ### Affordances

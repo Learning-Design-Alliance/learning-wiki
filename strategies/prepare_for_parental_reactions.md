@@ -20,11 +20,11 @@ To do this work, a teacher must be confident in her belief that such discussions
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers, administrators, and parents
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure administrative and collegial support for discussions about race, communicate plans to parents and guardians, and align activities with state standards
 
 ### Affordances

@@ -20,11 +20,11 @@ Learners select a photo of a person or animal in an unfamiliar situation and ima
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who are interested in exploring different cultures and lifestyles
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop empathy, promote perspective-taking, encourage research skills, improve communication skills
 
 ### Affordances

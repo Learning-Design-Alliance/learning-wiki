@@ -20,11 +20,11 @@ This strategy involves creating a classroom culture where errors are seen as opp
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who struggle with math and have developed a negative self-perception.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Shift learner perceptions of math ability from fixed to growth-oriented. Encourage risk-taking, resilience, and persistence in problem-solving.
 
 ### Affordances

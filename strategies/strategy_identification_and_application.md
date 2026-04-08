@@ -20,11 +20,11 @@ This strategy involves explicitly teaching problem-solving strategies and provid
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who need support in developing effective problem-solving strategies.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-directed learning skills, promote metacognition, and increase problem-solving abilities.
 
 ### Affordances

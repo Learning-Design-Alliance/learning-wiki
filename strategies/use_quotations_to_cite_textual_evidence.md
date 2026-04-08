@@ -20,11 +20,11 @@ Using quotations to cite textual evidence involves teaching students to select a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Freshman and sophomore students who need structured guidance in citing textual evidence.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve students' ability to support claims with textual evidence, enhance analytical skills, and develop proficiency in constructing evidence-based arguments.
 
 ### Affordances

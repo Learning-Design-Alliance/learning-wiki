@@ -20,11 +20,11 @@ This checklist is a tool designed to help parents assess and enhance the literac
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Parents and caregivers of preschool and early elementary-aged children.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Evaluate the presence of literacy-promoting resources and activities in the home environment, identify areas for improvement, and encourage parental involvement in early literacy development.
 
 ### Affordances

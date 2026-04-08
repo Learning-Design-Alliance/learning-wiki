@@ -20,11 +20,11 @@ Setting reasonable and realistic expectations, changing modifications for every 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, Higher Education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Set realistic expectations, provide modifications, promote high-quality work
 
 ### Affordances

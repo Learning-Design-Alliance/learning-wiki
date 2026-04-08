@@ -20,11 +20,11 @@ Amplifying involves drawing attention to important ideas and concepts, both in t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who benefit from clear and focused instruction
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Highlight important concepts, reinforce key ideas, ensure students focus on essential information
 
 ### Affordances

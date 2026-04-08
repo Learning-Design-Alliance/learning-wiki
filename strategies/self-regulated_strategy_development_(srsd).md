@@ -20,11 +20,11 @@ SRSD is an instructional approach designed to enhance students' writing skills b
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students facing difficulties in writing, including those with learning disabilities, across elementary, middle, and high school levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop writing skills, improve self-regulation, foster positive attitudes towards writing, enhance strategic performance
 
 ### Affordances

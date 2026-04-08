@@ -20,11 +20,11 @@ Give learners a broad question or problem that is likely to result in lots of di
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and subject areas, particularly effective for brainstorming and problem-solving activities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Generate ideas, identify patterns and relationships, promote collaboration and discussion, enhance critical thinking skills
 
 ### Affordances

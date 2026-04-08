@@ -20,11 +20,11 @@ Audiobooks can reinforce and inspire literacy skills and enjoyment for all stude
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, including emerging readers and ESL/ELL learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce literacy skills, improve English skills, increase reading enjoyment, and accommodate diverse learning needs.
 
 ### Affordances

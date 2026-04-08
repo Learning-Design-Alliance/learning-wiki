@@ -20,11 +20,11 @@ For older students, teach them Boolean Operators (and, or, not, near, ( ), *) to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To better refine their searches.
 
 ### Affordances

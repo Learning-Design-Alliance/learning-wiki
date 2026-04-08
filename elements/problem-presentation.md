@@ -18,11 +18,11 @@ Learners are introduced to a real-world problem to analyze and solve.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for business, law, and STEM.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Engage learners in authentic problem-solving.
 
 ### Affordances

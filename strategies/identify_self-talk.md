@@ -20,11 +20,11 @@ Have students record messages from their inner voice over a week in a journal or
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify personal self-talk messages in various situations.
 
 ### Affordances

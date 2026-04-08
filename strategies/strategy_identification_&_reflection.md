@@ -20,11 +20,11 @@ This strategy involves having students actively identify and reflect on the stra
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly in elementary and secondary education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-awareness, enhance problem-solving skills, increase metacognition
 
 ### Affordances

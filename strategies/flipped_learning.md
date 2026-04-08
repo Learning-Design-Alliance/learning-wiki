@@ -20,11 +20,11 @@ Flipped learning is a pedagogical approach that reverses the traditional learnin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Secondary and higher education learners across various disciplines, adaptable for skills-based courses (language, technology, health sciences) and potentially less effective in math and engineering courses without careful design.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student engagement, deepen understanding of content, promote active participation, improve interpersonal skills, develop metacognitive abilities, foster collaboration and communication skills.
 
 ### Affordances

@@ -20,11 +20,11 @@ Provide manipulatives to help make complex concepts concrete. Abstract concepts 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who face speed of processing challenges
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve retention, support learners who face speed of processing challenges
 
 ### Affordances

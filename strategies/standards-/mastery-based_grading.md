@@ -20,11 +20,11 @@ Standards-/Mastery-Based Grading emphasizes grading based on the level of master
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for higher education and professional training
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure grades reflect mastery of learning objectives, provide clear grading criteria to students, reduce focus on accumulating 'points' rather than learning
 
 ### Affordances

@@ -20,11 +20,11 @@ Learners are provided direct access to emotion words, using a word wall or chart
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to middle school students, learners with language or social-emotional deficits
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Expand emotional vocabulary, improve emotional expression, enhance communication skills
 
 ### Affordances

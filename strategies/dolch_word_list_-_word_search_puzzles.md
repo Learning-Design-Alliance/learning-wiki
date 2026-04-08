@@ -20,11 +20,11 @@ Word search puzzles using Dolch sight words. Available as free, printable worksh
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary students, struggling readers, ESL learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce sight word recognition, improve visual scanning skills, provide a fun and engaging way to practice spelling
 
 ### Affordances

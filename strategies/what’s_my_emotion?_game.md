@@ -20,11 +20,11 @@ One learner demonstrates an emotion through body language and facial expressions
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify emotions, interpret body language, enhance emotional literacy
 
 ### Affordances

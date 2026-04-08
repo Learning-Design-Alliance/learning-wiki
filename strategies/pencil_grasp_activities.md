@@ -20,11 +20,11 @@ Activities aimed at promoting a functional pencil grasp, which is essential for 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grades, particularly useful for students with inefficient or awkward pencil grasps that impede handwriting.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a functional pencil grasp by improving fine motor skills, hand strength, and thumb opposition.
 
 ### Affordances

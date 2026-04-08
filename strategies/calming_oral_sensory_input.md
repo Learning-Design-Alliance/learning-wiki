@@ -20,11 +20,11 @@ Employing oral sensory input as a calming strategy involves engaging the mouth t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children in school settings, particularly those with sensory sensitivities or who are easily overwhelmed
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-regulation, reduce anxiety, provide proprioceptive input
 
 ### Affordances

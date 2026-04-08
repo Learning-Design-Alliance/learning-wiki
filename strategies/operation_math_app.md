@@ -20,11 +20,11 @@ Provides a very easy way to learn and practice math with a very easy-to-understa
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ages 9-11.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learn and practice all mathematical actions including addition, subtraction, division and multiplication.
 
 ### Affordances

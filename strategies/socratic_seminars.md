@@ -20,11 +20,11 @@ Socratic seminars are formal discussions based on a text, where the leader asks 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 6-12, higher education, and adult learners who need to engage in deep textual analysis and discussion.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote critical thinking, cooperative learning, and respectful inquiry. Encourage students to listen actively, articulate their thoughts, and respond thoughtfully to others' ideas.
 
 ### Affordances

@@ -20,11 +20,11 @@ Game-based learning involves designing learning activities so that game characte
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, adaptable to various subjects and contexts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote engagement, facilitate retention, improve collaboration, encourage experimentation, practice real-world behaviors
 
 ### Affordances

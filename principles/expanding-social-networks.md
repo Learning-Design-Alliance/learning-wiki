@@ -1,7 +1,8 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Expanding Social Networks
@@ -15,85 +16,62 @@ Proactive networking behaviors have been associated with increased productivity,
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- Deliberate structures for introductions, connection-making, and follow-up rather than assuming networks grow automatically
+- Access to peers, mentors, community organizations, affinity groups, or professional communities that can widen opportunity
+- Support for networking behaviors such as outreach, reciprocal exchange, and asking for help
+- Attention to inclusion so learners with fewer existing connections are not left behind by a “networking” norm that rewards the already connected
+
 #### Constraints
-- <!-- TODO -->
+- Network-building can reproduce inequity if programs simply leverage existing privilege rather than intentionally broadening access
+- Learners with adverse experiences, language barriers, or low confidence may need explicit support to participate in networking spaces
+- Large or loosely structured networking events often produce weak ties without durable follow-through
+- Social-network expansion is valuable only if connections are relevant, trusted, and usable for learning or opportunity
 
 ### Target Learners
-- Learner Background:
-
-Physical Well-being
-Adverse Experiences
-Literacy Environment
-Primary Language
-Social Supports
-Sleep
-Safety
-Socioeconomic Status
-Social and Emotional Learning:
-
-Emotion
-Motivation
-Learner Mindset
-Sense of Belonging
-Stereotype Threat
-Social Awareness & Relationship Skills
-Cognition:
-
-Cognitive Flexibility
-Attention
-Inhibition
-Long-term Memory
-Working Memory
-Language and Literacy:
-
-Disciplinary Literacy
-Composition
-Foundational Reading Skills
-Background Knowledge
-Digital Literacy
-Oral Communication Skills
-Problem Solving
+- Adult learners entering new educational, workplace, or community environments
+- Learners with limited professional or institutional access who need bridges to opportunity
+- Learners in transition: immigrants, re-entry populations, career changers, and first-generation participants in formal learning systems
+- Learners whose persistence and belonging improve when they can locate trusted peers and mentors
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- Increase access to information, guidance, and opportunity through new ties
+- Strengthen help-seeking, peer support, and professional communication
+- Build belonging and identity within a learning or professional community
+- Support persistence by reducing isolation and increasing access to practical resources
 
 ### Theory
 #### Supporting
-- [[theories/social-learning-theory-bandura-connectivism-siemens-situated-learning-theory-lave-wenger|Social Learning Theory (Bandura)
-Connectivism (Siemens)
-Situated Learning Theory (Lave & Wenger)]]
+- Social learning theory supports learning through observation, modeling, and interaction with peers and mentors
+- Connectivist perspectives support the idea that knowing where to access people and knowledge is itself a crucial capability
+- Situated-learning perspectives support network expansion because access to communities is part of participating in authentic practice
+- Communities-of-practice thinking explains why network growth often changes not just opportunity but also identity and belonging
+
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Not all network growth is helpful; ties must be trustworthy and relevant enough to support learning or opportunity
+- Learners often need explicit scaffolds for outreach, communication, and follow-up rather than vague encouragement to “network”
+- Network effects can be slow and indirect, so programs should not assume immediate measurable outcomes from a single intervention
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Department for Education (2018). Decisions of Adult Learners. Kantar Public and Learning and Work Institute, 1-83.
-
-Dollhausen, K., & Alke, M. (2014). Social Dynamics in Adult and Community Education Networks: Insights from a case study. German Institute for Adult Education.
-
-Dorner, H. (2012). Effects of online mentoring in computer-supported collaborative learning environments: mentor presence and cognitive engagement. American Journal of Distance Education, 26(3), 157-171.
-
-Esteban, M. P. S., Marti, A. S., & Hila, A. B. C. (2016). Measuring Social Capital and Support Networks of Young Immigrants. International Education Studies, 9(5).
-
-Hellerstein, J. K., & Neumark, D. (2020). Social Capital, Networks, and Economic Wellbeing. The Future of Children, 3(1).
-
-Holman, D., Axtell, C., & Stride, C. (2012). Job Design and the Employee Innovation Process: The Mediating Role of Learning Strategies. Journal of Business and Psychology, 27(2), 177-191.
-
-Mukamal, D., Silbert, R., & Taylor, R. M. (2015). Degrees of Freedom: Expanding College Opportunities for Currently and Formerly Incarcerated Californians. Chief Justice Earl Warren Institute of Law and Social Policy, 1-145.
-
-Ngcoza, K., & Southwood, S. (2019). Webs of development: Professional networks as spaces for learning. Pythagoras, 40(1), 409.
-
-Nesta. (2019). What motivates adults to learn? A rapid evidence review of what drives learning new skills in the workplace.
-
-Yunus, M. M., Salehi, H., Amini, M., Shojaee, M., & Fei, W. Y. (2016). Activities and suggestions for using social networking in teaching ESL writing. Journal of Theoretical and Applied Information Technology, 84(2), 170–182.
+- [[claims/contingent-scaffolding-improves-learning]] [+M] — mentoring and networked support are most useful when people respond to learners’ actual needs rather than offering generic advice
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — networks become more educative when learners explain problems, reasoning, and goals clearly to others
+- [[claims/fading-support-promotes-transfer-of-responsibility]] [~S] — strong networks support independence over time rather than permanent dependency on a single gatekeeper
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S] — networking support is stronger when learners have clear goals for who they need to meet and why
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/communities-of-practice|Communities of Practice]] — networks deepen when they become recurring communities around shared work
+- [[principles/ask-experts|Ask Experts]] — expert access is often a key reason to expand networks
+- [[principles/check-ins|Check-ins]] — regular low-stakes contact can help relationships form before higher-stakes support is needed
+- [[principles/cultural-life-experiences-connections|Cultural & Life Experiences Connections]] — network-building should respect and build from learners’ existing communities and identities
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- Mentor matching, alumni panels, affinity-based peer groups, and professional learning communities
+- [[strategies/community_involvement|Community Involvement]] — builds bridges between learners and broader support systems
+- Online professional networks or cohort channels can widen access when paired with structured participation norms
+- Networking routines tied to concrete goals, such as informational interviews or resource-mapping exercises, are stronger than generic mixers
 
 ## Key Sources
-- <!-- TODO -->
+- Department for Education. (2018). *Decisions of adult learners*. Kantar Public and Learning and Work Institute.
+- Hellerstein, J. K., & Neumark, D. (2020). Social capital, networks, and economic wellbeing. *The Future of Children, 30*(1).
+- Dorner, H. (2012). Effects of online mentoring in computer-supported collaborative learning environments. *American Journal of Distance Education, 26*(3), 157-171. [doi:10.1080/08923647.2012.697697](https://doi.org/10.1080/08923647.2012.697697)
+- Ngcoza, K., & Southwood, S. (2019). Webs of development: Professional networks as spaces for learning. *Pythagoras, 40*(1).

@@ -20,11 +20,11 @@ Learners are given a specific purpose for reading, typically in the form of disc
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners of all ages and proficiency levels, adaptable for various topics.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Focus attention, activate prior knowledge, and enhance comprehension by providing a clear purpose for reading.
 
 ### Affordances

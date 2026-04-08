@@ -20,11 +20,11 @@ Students work in small groups, with each group given an envelope containing key 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - College students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learn and better remember new vocabulary
 
 ### Affordances

@@ -18,11 +18,11 @@ Offers scaffolding, modeling, or examples to support learning.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for learners acquiring complex concepts or procedural knowledge.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help learners process and apply information effectively.
 
 ### Affordances

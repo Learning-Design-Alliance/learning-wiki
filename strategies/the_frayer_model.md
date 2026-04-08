@@ -20,11 +20,11 @@ A tool for teaching a concept, not isolated facts.  Includes four pieces: Defini
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Fully understand a concept
 
 ### Affordances

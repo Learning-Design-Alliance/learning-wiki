@@ -20,11 +20,11 @@ Writing down goals makes them tangible and helps prioritize them. This practice 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for individuals and teams seeking better focus and direction in their objectives.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prioritize goals, provide tangible reminders, facilitate reflection, and improve commitment.
 
 ### Affordances

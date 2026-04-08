@@ -20,11 +20,11 @@ The Ladder of Feedback is a structured protocol to guide peer feedback that incl
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school learners and higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide structured and constructive feedback, enhance critical thinking, and improve communication skills
 
 ### Affordances

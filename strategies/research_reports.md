@@ -20,11 +20,11 @@ Research reports are visual aids designed to present data and insights in an eng
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Researchers, students, educators, and community members across all disciplines
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Share research findings, engage readers, emphasize key information, inspire action, promote understanding
 
 ### Affordances

@@ -20,11 +20,11 @@ Literature circles involve small groups of students who choose a book, meet to d
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school to high school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance reading comprehension, promote thoughtful discussion, encourage creative expression, foster student-led learning
 
 ### Affordances

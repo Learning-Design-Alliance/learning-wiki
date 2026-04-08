@@ -20,11 +20,11 @@ Providing learners with real-world experiences and problems, and allowing them t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance motivation, develop real-world problem-solving skills, promote critical thinking, foster collaboration, prepare learners for real-world challenges
 
 ### Affordances

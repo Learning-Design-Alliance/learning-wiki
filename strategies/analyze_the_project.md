@@ -20,11 +20,11 @@ Before launching a project, teachers should analyze it through the lens of Engli
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers designing PBL projects for ELL students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify language-related challenges and plan supportive instruction for ELL students.
 
 ### Affordances

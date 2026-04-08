@@ -20,11 +20,11 @@ Students use a Google Doc add-on tool to create individualized highlighters in d
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and adult learners who need to improve their reading comprehension and analysis skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance reading comprehension, categorize information, summarize ideas, improve analytical skills, facilitate reflection
 
 ### Affordances

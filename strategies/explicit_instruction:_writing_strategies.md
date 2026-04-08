@@ -20,11 +20,11 @@ Explicit instruction in writing strategies involves directly teaching students s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school students who need structured support in developing their writing skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance students' writing skills, improve their ability to apply specific writing strategies, and promote self-regulation in the writing process.
 
 ### Affordances

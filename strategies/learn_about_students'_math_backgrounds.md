@@ -20,11 +20,11 @@ Understanding learners' math backgrounds is important. Some may have strong skil
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All math learners, especially English language learners (ELLs)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand the varying levels of math backgrounds among learners, connect instruction to learner interests and responsibilities, provide leadership opportunities
 
 ### Affordances

@@ -20,11 +20,11 @@ Teacher presence in synchronous sessions helps to reduce feelings of isolation i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Online learners of all levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help teachers personalize their classroom to increase their unique personal teaching presence.
 
 ### Affordances

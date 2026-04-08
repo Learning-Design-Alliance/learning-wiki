@@ -18,11 +18,11 @@ Learners construct logical, evidence-based arguments to support their claims.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for law, humanities, and policy analysis.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve logical reasoning and critical analysis.
 
 ### Affordances

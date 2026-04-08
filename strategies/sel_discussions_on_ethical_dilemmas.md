@@ -20,11 +20,11 @@ This strategy involves using age-appropriate, real-life ethical dilemmas as disc
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary, middle, and high school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop responsible decision-making skills, enhance ethical reasoning, improve problem-solving abilities, foster empathy and social awareness
 
 ### Affordances

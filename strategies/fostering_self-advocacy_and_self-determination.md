@@ -20,11 +20,11 @@ This involves prioritizing self-advocacy and self-determination skills in educat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with disabilities, educators, families, and policy makers.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-advocacy skills and self-determination, improve educational and life outcomes, and ensure engagement for all students.
 
 ### Affordances

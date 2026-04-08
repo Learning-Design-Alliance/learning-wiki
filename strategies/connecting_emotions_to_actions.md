@@ -20,11 +20,11 @@ Learners begin to reflect on how emotions connect with actions. Then, learners c
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To help learners reflect on their own feelings and behaviors.
 
 ### Affordances

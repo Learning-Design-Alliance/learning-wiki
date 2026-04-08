@@ -20,11 +20,11 @@ Dialogic reading is an interactive reading technique where the adult helps the c
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Preschool-aged children, particularly those with limited experience with books and vocabulary.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance language development, improve vocabulary, develop story comprehension, increase expressive fluency, foster narrative skills
 
 ### Affordances

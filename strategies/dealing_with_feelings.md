@@ -20,11 +20,11 @@ Adults can learn to deal with the emotions that arise when they make mistakes, e
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adults who struggle with dealing with their mistakes and associated emotions due to insufficient guidance in childhood.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learn to cope with negative emotions, release tension, and create a safe emotional environment for self-expression
 
 ### Affordances

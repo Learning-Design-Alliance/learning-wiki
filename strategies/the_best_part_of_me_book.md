@@ -20,11 +20,11 @@ Have the class create a book in which each student tells one thing they like abo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early grade students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-esteem, encourage positive body image, build community
 
 ### Affordances

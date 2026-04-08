@@ -20,11 +20,11 @@ Providing writing models involves sharing exemplary pieces of writing with learn
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for K–12 and higher education students learning composition and rhetoric
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Illustrate effective writing techniques, develop critical analysis skills, improve writing quality, promote self-reflection
 
 ### Affordances

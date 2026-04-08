@@ -20,11 +20,11 @@ Challenge the Text is a strategy that encourages students to critically examine 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 6–12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage critical thinking, examine the validity of a text, develop agency, improve text comprehension, uncover biases, support marginalized perspectives
 
 ### Affordances

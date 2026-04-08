@@ -18,11 +18,11 @@ Structured conversations where learners analyze and reflect on content.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for humanities, business, and philosophy courses.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage critical thinking and deeper engagement with material.
 
 ### Affordances

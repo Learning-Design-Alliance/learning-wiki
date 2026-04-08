@@ -20,11 +20,11 @@ Bringing fun back into learning by creating playful spaces. Play helps teams wor
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase collaboration, improve creativity, promote fun
 
 ### Affordances

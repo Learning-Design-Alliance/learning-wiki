@@ -20,11 +20,11 @@ Creating culture responsive instruction asks teachers to provide culturally resp
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers in diverse classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower students, impart knowledge, develop skills, and cultivate positive attitudes by integrating cultural references.
 
 ### Affordances

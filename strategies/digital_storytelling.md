@@ -20,11 +20,11 @@ Digital stories are multimedia narratives that combine various elements such as 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and higher education learners across various disciplines
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Integrate subject matter with existing knowledge and skills, develop digital literacy skills, and communicate ideas effectively.
 
 ### Affordances

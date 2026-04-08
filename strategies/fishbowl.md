@@ -20,11 +20,11 @@ Two learners sit facing each other in the center of the room; the remaining lear
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and subject areas, particularly effective for practicing communication skills and observing group dynamics
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active listening and observation skills, enhance communication skills, provide opportunities for peer feedback and coaching, foster metacognitive awareness
 
 ### Affordances

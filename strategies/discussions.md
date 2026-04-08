@@ -20,11 +20,11 @@ Engage learners in text-based discussions where they discuss what they read with
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially English language learners, can benefit from structured discussions.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop reading and writing skills, especially vocabulary development, and promote comprehension through oral language and interaction.
 
 ### Affordances

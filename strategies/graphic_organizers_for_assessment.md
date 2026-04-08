@@ -20,11 +20,11 @@ Students complete a graphic organizer that shows relationships between terms or 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially beneficial for assessing holistic understanding
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assess understanding, evaluate relationships between concepts, provide a visual representation of knowledge
 
 ### Affordances

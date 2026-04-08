@@ -20,11 +20,11 @@ When learners succeed, praise their efforts and strategies rather than their int
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially those who are sensitive to failure or tend to attribute success to innate ability rather than effort
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a growth mindset, increase task persistence, improve task enjoyment, and enhance overall performance
 
 ### Affordances

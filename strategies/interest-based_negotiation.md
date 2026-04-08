@@ -20,11 +20,11 @@ Interest-Based Negotiation involves establishing different perspectives, backgro
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those in diverse classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote collaboration, improve conflict resolution skills, foster empathy and understanding, create a more positive and productive classroom environment.
 
 ### Affordances

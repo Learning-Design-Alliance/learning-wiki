@@ -20,11 +20,11 @@ A culturally responsive curriculum is both inclusive in that it ensures that all
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers in diverse classrooms (K-12, higher education)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote inclusion, celebrate diversity, and connect learning to students' lives.
 
 ### Affordances

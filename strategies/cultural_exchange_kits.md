@@ -20,11 +20,11 @@ Students create 'Culture Kits' with special items that bring their culture alive
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly in multicultural classrooms.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote cultural sharing, enhance understanding of traditions, create engaging learning experiences, connect cultures in the classroom.
 
 ### Affordances

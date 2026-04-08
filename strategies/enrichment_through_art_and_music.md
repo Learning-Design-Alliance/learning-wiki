@@ -20,11 +20,11 @@ Teachers integrate art and music from diverse cultures into their lessons to enr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers seeking to make their lessons more engaging and culturally relevant.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance learning through diverse media, promote cultural appreciation, increase student engagement, connect content to student experiences.
 
 ### Affordances

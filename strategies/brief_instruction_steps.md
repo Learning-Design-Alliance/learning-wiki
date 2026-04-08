@@ -20,11 +20,11 @@ Breaking up instructions into short, concrete steps allows learners to pay atten
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those with attention challenges or lower English proficiency
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve learner attention, reduce working memory load, increase comprehension
 
 ### Affordances

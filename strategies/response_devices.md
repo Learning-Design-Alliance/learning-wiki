@@ -20,11 +20,11 @@ Response devices allow learners to anonymously share answers with the whole clas
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and professional development; beneficial for learners of all ages
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage active participation, collect formative data on learner understanding, provide immediate feedback, promote self-reflection
 
 ### Affordances

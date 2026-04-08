@@ -20,11 +20,11 @@ To understand the writing process, teachers have to write also. Start by writing
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers of all subjects.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help teachers understand the writing process from the student's perspective. Encourage teachers to improve their own writing skills. Build empathy between teachers and students.
 
 ### Affordances

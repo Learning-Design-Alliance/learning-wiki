@@ -20,11 +20,11 @@ This involves recognizing and addressing unconscious attitudes, stereotypes, and
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Instructors in higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify and address unconscious biases, promote inclusive teaching practices, support student growth, and create a more equitable learning environment.
 
 ### Affordances

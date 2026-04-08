@@ -20,11 +20,11 @@ Explicitly teaching strategies involves providing learners with specific tools a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who may struggle with complex tasks or lack effective learning strategies.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Equip learners with specific strategies for problem-solving and learning, improve their ability to apply strategies effectively, and foster self-directed learning.
 
 ### Affordances

@@ -20,11 +20,11 @@ Turn-and-talk involves having learners engage in short, structured discussions w
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning, promote active recall, and enhance peer interaction.
 
 ### Affordances

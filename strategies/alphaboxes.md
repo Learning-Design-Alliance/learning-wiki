@@ -20,11 +20,11 @@ Alphaboxes is a strategy that encourages collaborative interaction with text by 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to adult learners, especially useful for encouraging collaborative interaction with text and facilitating higher-level cognitive processes.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Stimulate critical thinking, collaborative interaction with text, enhance recall, facilitate higher-level cognitive processes, and distribute cognitive responsibility among group members.
 
 ### Affordances

@@ -20,11 +20,11 @@ Honoring a wide variety of forms of language ensures that learning materials and
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those from marginalized groups or those studying social justice issues; suitable for K–12, higher education, and adult learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote equity, reduce bias, foster cultural awareness, support inclusive learning
 
 ### Affordances

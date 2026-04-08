@@ -20,11 +20,11 @@ Classwide peer editing involves having students review and critique examples of 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and grade levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teach students how to give praise and feedback - essential peer teaching skills - reinforce writing skills, and enhance understanding of effective writing techniques.
 
 ### Affordances

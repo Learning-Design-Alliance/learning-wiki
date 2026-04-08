@@ -20,11 +20,11 @@ A set of questions to determine the credibility of a news story. These include a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - General audience
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Evaluate news stories for credibility
 
 ### Affordances

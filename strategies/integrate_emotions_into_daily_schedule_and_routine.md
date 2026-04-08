@@ -20,11 +20,11 @@ Integrate the teaching of emotions into daily schedules and routines. When revie
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and middle school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Anticipate emotional states, practice emotion management, integrate emotional awareness into daily activities
 
 ### Affordances

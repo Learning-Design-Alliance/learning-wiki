@@ -20,11 +20,11 @@ Place students who have trouble hearing, seeing, focusing on, or paying attentio
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with attentional or sensory processing challenges.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Minimize distractions and improve ability to focus on instructions.
 
 ### Affordances

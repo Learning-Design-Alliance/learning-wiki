@@ -20,11 +20,11 @@ Genre study is an approach to teaching literature that involves exploring the ch
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students in grades 3-12, adaptable for various age and ability levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify literary elements of common genres, experience and develop interest in literature, improve comprehension by interpreting, analyzing, synthesizing, and evaluating written text to categorize text into literary genres
 
 ### Affordances

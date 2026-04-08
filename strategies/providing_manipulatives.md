@@ -20,11 +20,11 @@ Providing manipulatives to help make complex concepts concrete supports understa
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with abstract concepts or benefit from hands-on learning experiences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve retention, and support learners who need a concrete way to understand abstract concepts.
 
 ### Affordances

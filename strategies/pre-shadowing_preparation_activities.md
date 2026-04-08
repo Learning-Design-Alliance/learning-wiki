@@ -20,11 +20,11 @@ Pre-shadowing preparation involves several activities to set up a meaningful sha
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators and school leaders participating in student shadowing to gain insights into student experiences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prepare educators for meaningful shadowing experiences, promote open-minded observation, and ensure ethical and logistical considerations are addressed.
 
 ### Affordances

@@ -20,11 +20,11 @@ Combining instructor feedback with peer feedback enhances the learning process. 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Higher education, adult learners, and professional development programs where collaborative learning and peer support are valued.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance content mastery, promote collaborative learning, increase social presence in online environments, and foster a supportive learning community.
 
 ### Affordances

@@ -1,94 +1,69 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Foster Growth Mindset
 
 ## Description
-When adults are aware that learning involves effort, mistakes, reflection, and refinement of strategies, they are more resilient when they struggle. Learners may view failure and having to put in effort on a task as a sign that they lack ability (i.e., "fixed mindset") rather than viewing failure and effort as useful and necessary for learning (i.e., "growth mindset"). Showing learners that instructors must also persist through challenges when learning new skills, such as Digital Literacy, models the importance of continuous growth. Research has shown that a growth mindset is particularly helpful for learners with math anxiety when learning Numeracy skills.
+Fostering a growth mindset means designing instruction so that effort, revision, and strategic improvement are treated as normal parts of learning rather than as signs of low ability. In practice, this principle is less about slogans and more about the surrounding message system: what gets praised, how errors are discussed, whether progress is made visible, and whether learners are given a credible path to improve. Growth-mindset-oriented environments help learners interpret difficulty as information about strategy and support needs instead of as proof that they cannot succeed.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **Credible opportunities to improve**: Mindset messaging only helps when learners can actually revise work, get support, and see progress.
+- **Process-focused feedback**: Feedback should name strategies, persistence, and next steps more than stable traits or vague encouragement [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M].
+- **Safe treatment of error**: Mistakes need to be discussed as expected and useful signals for learning [[claims/high-confidence-errors-improve-retention]] [+S].
+- **Visible progress markers**: Learners need evidence that competence can grow through practice, feedback, and changing approach.
 #### Constraints
-- <!-- TODO -->
+- **Message-only implementation**: Telling learners to "have a growth mindset" without instructional support can feel hollow or blaming.
+- **Structural mismatch**: Fixed pacing, high-stakes grading, or no chance to revise can undermine growth-oriented messaging.
+- **Trait praise**: Praising learners as naturally smart can reinforce fixed interpretations of success and failure.
+- **Overgeneralization**: Growth mindset does not eliminate the need for explicit teaching, scaffolds, or attention to context.
 
 ### Target Learners
-- Learner Background:
-Hearing
-Primary Language
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Self-regulation
-Motivation
-Learner Mindset
-Sense of Belonging
-Stereotype Threat
-Social Awareness & Relationship Skills
-
-Cognition:
-Attention
-Long-term Memory
-Metacognition
-
-Language and Literacy:
-Digital Literacy
-Numeracy
-Oral Communication Skills
-Problem Solving
+- **Learners with low confidence after prior failure**: Benefit when setbacks are reframed as part of learning rather than as a verdict on ability.
+- **Learners experiencing anxiety in demanding subjects**: Particularly relevant in domains like numeracy, language learning, and digital problem solving where difficulty can quickly be personalized.
+- **Learners returning to education**: Adults re-entering formal learning often need explicit normalization of mistakes, practice, and revision.
+- **Instructors shaping classroom climate**: The principle is as much about teacher moves and norms as it is about learner beliefs.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Persistence during challenge**: Helping learners stay engaged when tasks become effortful or confusing.
+- **Adaptive strategy use**: Encouraging learners to seek feedback, change approach, and try again rather than disengage.
+- **Healthier interpretation of feedback**: Helping learners hear correction as useful information rather than personal judgment.
+- **Resilient participation**: Supporting willingness to attempt, disclose confusion, and revise publicly when needed.
 
 ### Theory
 #### Supporting
-- [[theories/self-determination-theory-deci-ryan-self-regulated-learning-zimmerman|Self-Determination Theory (Deci & Ryan)
-Self-Regulated Learning (Zimmerman)]]
+- Self-Determination Theory (Deci & Ryan) — growth-oriented environments support competence, autonomy, and persistence when feedback points toward improvement.
+- Self-Regulated Learning (Zimmerman) — a growth mindset supports the monitoring and strategy adjustment needed for self-regulation.
+- Attribution theory — growth-oriented framing shifts explanations for success and failure toward strategy, effort, and support rather than fixed ability.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Mindset interventions tend to have modest and context-dependent effects; they are not a substitute for high-quality instruction or equitable supports.
+- Some learners will interpret challenge negatively unless the task is scaffolded well enough for progress to be visible.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Aronson, J., Fried, C. B., & Good, C. (2002). Reducing the effects of stereotype threat on African American college students by shaping theories of intelligence. Journal of Experimental Social Psychology, 38(2), 113-125.​
-
-Cavanagh, A. J., Chen, X., Bathgate, M., Frederick, J., Hanauer, D. I., & Graham, M. J. (2018). Trust, growth mindset, and student commitment to active learning in a college science course. CBE—Life Sciences Education, 17(1), ar10.​
-
-Claro, S., Paunesku, D., & Dweck, C. S. (2016). Growth mindset tempers the effects of poverty on academic achievement. Proceedings of the National Academy of Sciences, 113(31), 8664-8668.​
-
-Collins, J. B., Harsy, A., Hart, J., Haymaker, K. A., Hoofnagle, A. M., Kuyper Janssen, M., & O'Shaughnessy, J. (2019). Mastery-based testing in undergraduate mathematics courses. Primus, 29(5), 441-460.​
-
-Dweck, C. S. (2006). Mindset: The new psychology of success. New York, NY: Ballantine Books.​
-
-Farrington, C. A. (2013). Academic mindsets as a critical component of deeper learning. Chicago, IL: Consortium on Chicago School Research.​
-
-Garcia, J., & Cohen, G. L. (2013). A social psychological approach to educational intervention. In E. Shafir (Ed.), Behavioral foundations of public policy (pp. 329-347). Princeton, NJ: Princeton University Press.​
-
-Lou, N. M., & Noels, K. A. (2020). Breaking the vicious cycle of language anxiety: Growth language mindsets improve lower-competence ESL students' intercultural interactions. Contemporary Educational Psychology, 61, 101847.​
-
-Mangels, J. A., Butterfield, B., Lamb, J., Good, C., & Dweck, C. S. (2006). Why do beliefs about intelligence influence learning success? A social cognitive neuroscience model. Social Cognitive and Affective Neuroscience, 1(2), 75-86.​
-
-Park, D., Ramirez, G., & Beilock, S. L. (2014). The role of expressive writing in math anxiety. Journal of Experimental Psychology: Applied, 20(2), 103.​
-
-Rolley, T. A. (2020). Faculty mindset and the adoption of technology for online instruction [Doctoral dissertation, Grand Canyon University].​
-
-Sarrasin, J. B., Nenciovici, L., Foisy, L. M. B., Allaire-Duquette, G., Riopel, M., & Masson, S. (2018). Effects of teaching the concept of neuroplasticity to induce a growth mindset on motivation, achievement, and brain activity: A meta-analysis. Trends in Neuroscience and Education, 12, 22-31.​
-
-Wang, Q., Andrews, J., Liu, H. T., & Liu, C. J. (2016). Case studies of multilingual/multicultural Asian Deaf adults: Strategies for success. American Annals of the Deaf, 161(1), 67-88.​
-
-Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., & Paunesku, D. (2019). A national experiment reveals where a growth mindset improves achievement. Nature, 573(7774), 364-369.
+- [[claims/high-confidence-errors-improve-retention]] [+S]
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/error-analysis|Error Analysis]] — growth mindset depends on treating mistakes as useful evidence rather than failure.
+- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]] — process goals and visible progress help learners see that improvement is possible.
+- [[principles/check-ins|Check-ins]] — regular low-stakes check-ins normalize partial understanding and continued improvement.
+- [[principles/positive-self-talk|Positive Self-Talk]] — internal language can reinforce or undermine growth-oriented interpretations of effort and difficulty.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Process-oriented instructor feedback**: Replacing "You're good at this" with specific feedback about what strategy worked and what to try next.
+- **Revision routines**: Asking learners to resubmit work after [[elements/feedback|feedback]] so improvement is expected, not exceptional.
+- **Public modeling of struggle**: Instructors narrate how they handle confusion, dead ends, and correction while learning a new tool or skill.
+- **Reflection prompts after mistakes**: Short prompts such as "What did this attempt teach you?" or "What strategy will you change next time?"
 
 ## Key Sources
-- <!-- TODO -->
+- Dweck, C. S. (2006). *Mindset: The new psychology of success*. Ballantine Books.
+- Sarrasin, J. B., Nenciovici, L., Foisy, L. M. B., Allaire-Duquette, G., Riopel, M., & Masson, S. (2018). Effects of teaching the concept of neuroplasticity to induce a growth mindset on motivation, achievement, and brain activity: A meta-analysis. *Trends in Neuroscience and Education, 12*, 22-31. [https://doi.org/10.1016/j.tine.2018.07.004](https://doi.org/10.1016/j.tine.2018.07.004)
+- Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., Schneider, B., et al. (2019). A national experiment reveals where a growth mindset improves achievement. *Nature, 573*(7774), 364-369. [https://doi.org/10.1038/s41586-019-1466-y](https://doi.org/10.1038/s41586-019-1466-y)
+- Claro, S., Paunesku, D., & Dweck, C. S. (2016). Growth mindset tempers the effects of poverty on academic achievement. *Proceedings of the National Academy of Sciences, 113*(31), 8664-8668. [https://doi.org/10.1073/pnas.1608207113](https://doi.org/10.1073/pnas.1608207113)

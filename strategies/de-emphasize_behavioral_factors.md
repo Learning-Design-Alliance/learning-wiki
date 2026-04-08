@@ -20,11 +20,11 @@ Remove non-academic criteria, like behavior or participation, from grades, focus
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All Levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Focus on academic mastery, eliminate bias, provide accurate grades
 
 ### Affordances

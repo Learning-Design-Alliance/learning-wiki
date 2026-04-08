@@ -20,11 +20,11 @@ Teachers, like the students they teach, can learn to develop a growth mindset, b
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers and educators at all levels, especially those undergoing professional development or facing new challenges in their teaching practice
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote professional growth among educators by encouraging them to see themselves as continuous learners, enhance their resilience, and foster a positive attitude towards professional development
 
 ### Affordances

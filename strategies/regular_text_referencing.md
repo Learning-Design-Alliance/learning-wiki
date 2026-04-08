@@ -20,11 +20,11 @@ Regularly referring back to mentor texts in teacher conferences, whole-class les
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for reinforcing previously taught concepts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning of writing techniques, promote internalization of new concepts, enhance transfer of learning to new contexts, increase retention of information
 
 ### Affordances

@@ -20,11 +20,11 @@ This strategy involves monitoring the temperature of a learning environment and 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in various learning environments, including classrooms, offices, and training facilities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Maintain an optimal temperature range to maximize learner attention, engagement, and productivity; mitigate the negative impacts of uncomfortable temperatures on learning outcomes.
 
 ### Affordances

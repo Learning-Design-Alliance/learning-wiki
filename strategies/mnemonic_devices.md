@@ -20,11 +20,11 @@ Mnemonic devices are memory aids that use patterns, rhymes, acronyms, or other t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for learners who struggle with rote memorization or have memory difficulties
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance memory recall, improve retention of information, facilitate memorization of lists and sequences, increase engagement with learning material
 
 ### Affordances

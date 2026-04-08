@@ -18,11 +18,11 @@ Helps learners apply knowledge to new contexts through reflection and extension 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for advanced learners, interdisciplinary fields, and professional training.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote deeper understanding and real-world application.
 
 ### Affordances

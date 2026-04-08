@@ -20,11 +20,11 @@ Monitoring the temperature of a learning environment and making adjustments to m
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those in environments with variable temperature control.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Optimize learning environments by maintaining comfortable temperatures, improve focus and reduce distractibility.
 
 ### Affordances

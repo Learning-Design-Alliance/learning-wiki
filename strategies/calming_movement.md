@@ -20,11 +20,11 @@ Using calming movement involves engaging in repetitive and rhythmic vestibular i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children in school settings, particularly those with sensory sensitivities or who are easily overwhelmed
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote relaxation, provide vestibular input, support self-regulation
 
 ### Affordances

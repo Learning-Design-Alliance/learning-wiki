@@ -20,11 +20,11 @@ Schedule regular conferences with students to get a sense of their independent r
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Monitor student progress in independent reading, provide personalized feedback, offer instructional support, and identify reading challenges.
 
 ### Affordances

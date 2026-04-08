@@ -20,11 +20,11 @@ Challenge Based Learning (CBL) provides an efficient and effective framework for
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Solve real-world problems, foster collaboration and communication, promote lifelong learning skills, develop sustainable solutions.
 
 ### Affordances

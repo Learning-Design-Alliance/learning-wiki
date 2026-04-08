@@ -20,11 +20,11 @@ Poor indoor air quality is a major contributor to absenteeism. This strategy inv
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, Higher Education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce absenteeism, improve overall health, create a more healty environment, limit indoor pollutants.
 
 ### Affordances

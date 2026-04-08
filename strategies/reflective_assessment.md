@@ -20,11 +20,11 @@ Grades should reflect learning over time rather than be an end in and of itself.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, Higher Education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Shift focus from punitive grading to learning, promote continuous improvement, recognize diverse learning styles
 
 ### Affordances

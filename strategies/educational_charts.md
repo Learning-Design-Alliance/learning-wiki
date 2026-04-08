@@ -20,11 +20,11 @@ Educational charts are visual aids that present data in an accessible and unders
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, students, researchers, and presenters across all disciplines and levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Make data accessible, simplify complex information, reveal patterns, support analysis, enhance comprehension
 
 ### Affordances

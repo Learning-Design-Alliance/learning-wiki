@@ -20,11 +20,11 @@ Student portfolio creation involves students selecting and organizing their best
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, adaptable for various subject areas and learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-reflection, encourage student ownership, demonstrate progress, showcase strengths, and support goal setting.
 
 ### Affordances

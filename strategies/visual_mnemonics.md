@@ -20,11 +20,11 @@ Visual mnemonics involve creating visual images to cue a strategy or represent a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for visual learners and those who struggle with abstract concepts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance memory recall, facilitate understanding of abstract concepts, improve encoding and retrieval of information, cater to visual learning styles
 
 ### Affordances

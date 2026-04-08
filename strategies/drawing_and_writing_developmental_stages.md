@@ -20,11 +20,11 @@ Understanding the developmental stages of drawing and writing can help educators
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Toddlers and young children (15 months to 5 years).
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support creative growth and development in drawing and writing, ensure age-appropriate materials and expectations, and encourage independence and self-expression.
 
 ### Affordances

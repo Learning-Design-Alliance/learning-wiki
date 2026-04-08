@@ -20,11 +20,11 @@ This activity increases awareness of personal stereotypes and prejudices, helpin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who are unaware of their biases and stereotypes
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-awareness, identify personal biases, encourage open-mindedness, improve interpersonal relationships
 
 ### Affordances

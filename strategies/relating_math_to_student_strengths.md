@@ -20,11 +20,11 @@ This strategy leverages learners’ existing strengths and interests to make mat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who struggle with math or have negative attitudes toward the subject.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance learner motivation, engagement, and confidence in math. Demonstrate the relevance of math to learners’ lives and interests.
 
 ### Affordances

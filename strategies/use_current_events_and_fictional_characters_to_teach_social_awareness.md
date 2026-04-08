@@ -20,11 +20,11 @@ Utilize real-world events and fictional narratives to explore social dynamics, e
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who need to develop social awareness and critical thinking skills, K-12, higher education, and adult learners in professional development
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance social awareness, develop critical thinking skills, promote empathy and perspective-taking, foster understanding of social dynamics
 
 ### Affordances

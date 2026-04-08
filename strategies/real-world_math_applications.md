@@ -20,11 +20,11 @@ Connecting math concepts to real-world applications is a strategy that can be us
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners in basic education programs, particularly those who struggle to see the relevance of math to their lives.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner engagement, improve understanding of math concepts, enhance confidence in math skills, and promote transfer of learning to real-world situations.
 
 ### Affordances

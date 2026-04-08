@@ -20,11 +20,11 @@ This evidence-based strategy involves using visual representations, such as sche
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly students with mathematics learning disabilities or difficulties
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve understanding of mathematics concepts, enhance problem-solving skills, facilitate the transition from concrete to abstract thinking
 
 ### Affordances

@@ -20,11 +20,11 @@ Asking students to use estimation and prediction skills. Asking them how they mi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-awareness, improve estimation skills, promote goal-setting, encourage self-monitoring, and foster accuracy in predictions.
 
 ### Affordances

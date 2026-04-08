@@ -20,11 +20,11 @@ Choose a book that is representative of your students and in their home language
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Families, students, and educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote literacy, encourage family engagement, build community
 
 ### Affordances

@@ -20,11 +20,11 @@ Learners create their own problems based on concepts they're learning, share the
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners in various subject areas, particularly mathematics, science, and engineering.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving skills, promote deeper understanding of mathematical concepts, foster motivation and engagement, build critical thinking, and improve communication skills.
 
 ### Affordances

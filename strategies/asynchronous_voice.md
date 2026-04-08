@@ -20,11 +20,11 @@ One of the limitations of discussion is that rich, face-to-face conversations ca
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and subject areas, particularly effective for online and blended learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote flexible and accessible communication, encourage peer learning and collaboration, provide opportunities for ongoing feedback and support, enhance digital literacy skills
 
 ### Affordances

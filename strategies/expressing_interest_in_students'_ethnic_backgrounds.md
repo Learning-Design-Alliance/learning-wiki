@@ -20,11 +20,11 @@ Teachers can actively demonstrate genuine care for students' cultural, emotional
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers in culturally diverse classrooms (K-12, higher education)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster a trusting classroom environment, celebrate cultural diversity, and increase students' self-awareness and cultural pride.
 
 ### Affordances

@@ -20,11 +20,11 @@ Graphic organizers help learners break down math problems into steps to understa
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages who need support with math, particularly those with math-related learning difficulties
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Break down complex math problems, identify relevant information, choose appropriate operations, learn new math concepts
 
 ### Affordances

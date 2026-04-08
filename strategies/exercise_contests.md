@@ -20,11 +20,11 @@ Organize contests to incentivize students to be more physically active, such as 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase physical activity, motivate students to exercise, create a fun and engaging environment
 
 ### Affordances

@@ -20,11 +20,11 @@ Explicitly discuss empathy with students and integrate it into existing lessons.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators across all subjects, higher education instructors, curriculum developers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance students’ understanding of empathy, integrate empathy into various subjects, promote empathetic problem-solving, create a culture of caring and respect
 
 ### Affordances

@@ -20,11 +20,11 @@ Give students opportunities to practice responsible decision-making by using pai
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve decision-making skills, analyze situations and consequences, promote ethical responsibility
 
 ### Affordances

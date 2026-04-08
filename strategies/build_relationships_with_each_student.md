@@ -20,11 +20,11 @@ Create positive learning environments and engaging instruction to help all stude
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, higher education instructors, and anyone working with learners in a teaching capacity
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster student engagement, improve academic outcomes, create supportive and inclusive classroom environments
 
 ### Affordances

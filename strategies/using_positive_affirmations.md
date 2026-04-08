@@ -20,11 +20,11 @@ Replacing negative messages from the inner voice with positive affirmations. Pos
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, particularly those who need support in building self-confidence and resilience.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To cultivate a positive mindset and increase self-esteem through the use of positive affirmations.
 
 ### Affordances

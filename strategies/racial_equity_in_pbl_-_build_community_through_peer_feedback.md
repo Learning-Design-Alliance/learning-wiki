@@ -20,11 +20,11 @@ When students are given the opportunity during projects to frequently share feed
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster a supportive classroom culture; build relationships and connections among students; provide opportunities for growth and progress through feedback and revision.
 
 ### Affordances

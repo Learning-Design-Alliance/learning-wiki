@@ -1,81 +1,102 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: Jerome Bruner (1961)
-grain_size: Lesson, Unit
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: Jerome Bruner
+grain_size: lesson
 ---
 
 # Guided Discovery Learning
 
 ## Description
-An instructional approach where learners explore concepts through structured inquiry, problem-solving, and hypothesis testing rather than direct instruction. The instructor provides scaffolding and prompts to help learners make connections, analyze data, and discover key principles on their own.
+Guided Discovery Learning is a pattern in which learners investigate examples, data, or problems and are led by prompts, questions, and scaffolds toward important concepts or principles. The key word is guided. Learners are not left to discover ideas entirely on their own; the instructor shapes the sequence, materials, and questions so that exploration becomes productive rather than random.
+
+The pattern is useful when the goal is to build conceptual understanding through active sense-making. It becomes weaker when the task is too open, the domain is too unfamiliar, or the guidance is too thin for novice learners.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Requires well-designed inquiry activities and teacher guidance to prevent frustration.
+- **A discoverable concept or structure**: The task should make patterns or principles accessible through investigation.
+- **Strong scaffolding**: Questions, examples, prompts, or constraints must channel attention to relevant features.
+- **Instructor monitoring**: Learner interpretations need to be checked and refined during the process.
+- **A consolidation step**: Learners need help articulating what was discovered and why it matters.
 #### Constraints
-- Can be time-consuming and challenging for novice learners; Risk of misconceptions without proper scaffolding.
+- **Misconception risk**: Weak guidance can allow incorrect patterns to harden.
+- **Novice overload**: Learners without enough prior knowledge may need more explicit support.
+- **Time demands**: Discovery sequences often take longer than direct explanation.
+- **False discovery**: Overly constrained tasks can pretend to be discovery while actually hiding the answer in a script.
 #### Grain Size
-Lesson, Unit
+- Lesson
+- Unit
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Best suited for conceptual and procedural knowledge acquisition, particularly in STEM, social sciences, and problem-based learning.
+- **Conceptual understanding**: Learners infer principles from evidence or examples.
+- **Hypothesis testing and reasoning**: Learners compare possibilities and refine interpretations.
+- **Ownership of understanding**: Learners experience the concept as something they worked out, not only received.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- K-12, higher education, and professional training. Effective for science, math, and inquiry-driven disciplines.
+- **Learners exploring relationships or patterns**: Strong fit for science, math, and concept-rich domains.
+- **Groups that benefit from active sense-making**: Useful when engagement rises through investigation.
+- **Learners with enough foundation to interpret evidence**: Best when some background or support is already in place.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Constructivist perspectives — learners build understanding through active reorganization of experience.
+- Inquiry-oriented perspectives — questions and evidence can drive conceptual learning.
+- Scaffolding perspectives — guidance helps learners notice the right patterns without doing all the thinking for them.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Discovery without guidance is not the same pattern and is often much weaker for novices.
+- Some concepts are better introduced explicitly before or alongside guided discovery.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/contingent-scaffolding-improves-learning]] [+M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
+- [[claims/whole-task-performance-improves-transfer]] [~S]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-1. Instructor presents a challenging question or problem.
- 2. Learners explore data, test hypotheses, and experiment.
- 3. Instructor guides discussions and reflections.
- 4. Learners refine their mental models and conclusions.
+1. Present a problem, set of examples, or phenomenon worth investigating.
+2. Ask learners to observe, compare, or test hypotheses.
+3. Use prompts and questions to guide attention toward important features.
+4. Have learners articulate patterns, rules, or explanations.
+5. Consolidate the discovered principle and connect it to later use.
 
 ### Elements Used
-- [[elements/problem-scenarios|Problem Scenarios]]
-- [[elements/scaffolding|Scaffolding]]
-- [[elements/inquiry-based-learning|Inquiry-Based Learning]]
-- [[elements/concept-exploration|Concept Exploration]]
+- [[elements/problem-presentation|Problem Presentation]]
+- [[elements/scaffolded-inquiry|Scaffolded Inquiry]]
+- [[elements/reflection|Reflection]]
+- [[elements/feedback|Feedback]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/discovery-learning-encourages-self-directed-exploration-and-inquiry|Discovery Learning – Encourages self-directed exploration and inquiry]]
-- [[principles/scaffolding-instructor-provides-support-that-gradually-fades|Scaffolding – Instructor provides support that gradually fades]]
-- [[principles/metacognition-learners-reflect-on-and-refine-their-understanding|Metacognition – Learners reflect on and refine their understanding.]]
-
+- [[principles/inquiry-based-learning|Inquiry-based Learning]]
+- [[principles/guided-practice|Guided Practice]]
+- [[principles/pre-reading-questioning|Pre-reading Questioning]]
+- [[principles/purposeful-reflection|Purposeful Reflection]]
 
 ### Personalization
-- Learning paths can be adjusted based on individual exploration and misconceptions.
+- Learners can work with different examples or contexts while pursuing the same conceptual target.
+- Guidance can be more explicit for novices and lighter for learners with stronger prior knowledge.
+- Discovery products can be oral, visual, or written depending on learner needs.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
+- [[patterns/process-oriented-guided-inquiry-learning-pogil|Process-Oriented Guided Inquiry Learning (POGIL)]]
 
 ## Examples
-- - Science education: Students experiment with pendulums to discover motion laws.
-- Math education: Exploring number patterns to derive formulas.
-- Corporate training: Exploring customer data to develop marketing insights.
+- Science learners inferring relationships from data patterns.
+- Math learners identifying a rule or structure by comparing worked instances.
+- Professional learners examining examples of practice and deriving principles from guided prompts.
 
 ## Impact
-- Research indicates higher engagement, deeper understanding, and improved problem-solving skills (Bruner, 1961).
+- Can produce strong conceptual engagement when learners are guided to notice meaningful structure.
+- Most effective when discovery is followed by explicit consolidation and feedback.
 
 ## Key Sources
-- - Bruner, J. S. (1961). The Act of Discovery. Harvard Educational Review.
+- Bruner, J. S. (1961). The act of discovery. *Harvard Educational Review, 31*(1), 21-32.
+- Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1-18. [https://doi.org/10.1037/a0021017](https://doi.org/10.1037/a0021017)

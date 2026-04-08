@@ -20,11 +20,11 @@ Word sorts are a hands-on activity where learners categorize words based on shar
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to middle school learners; adaptable for older learners needing foundational literacy support
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Build phonological awareness, improve morphological understanding, expand vocabulary, and enhance spelling skills
 
 ### Affordances

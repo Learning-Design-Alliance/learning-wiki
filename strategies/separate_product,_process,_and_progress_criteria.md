@@ -20,11 +20,11 @@ Instead of eliminating grades for behavior and participation, differentiate betw
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Clearly delineate between mastery, behavior, and participation
 
 ### Affordances

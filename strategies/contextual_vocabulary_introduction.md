@@ -20,11 +20,11 @@ Introducing vocabulary words within the context of a story or reading passage al
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those in upper elementary through high school, who need to develop a deeper understanding of how vocabulary contributes to the meaning and impact of texts.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance vocabulary acquisition, improve reading comprehension, and foster appreciation for author's craft by introducing words in meaningful contexts.
 
 ### Affordances

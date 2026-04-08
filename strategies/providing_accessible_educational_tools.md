@@ -20,11 +20,11 @@ Providing easy access to a variety of educational tools empowers students to tak
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with disabilities and other learners who may benefit from increased access to educational tools
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student independence, promote self-directed learning, enhance accessibility, provide accommodations
 
 ### Affordances

@@ -20,11 +20,11 @@ This strategy involves forming educated guesses or anticipations about the conte
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult ESL learners, particularly those transitioning to academic study or workplace training
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active engagement, enhance comprehension, develop critical thinking skills, connect prior knowledge to new information
 
 ### Affordances

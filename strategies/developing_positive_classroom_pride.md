@@ -20,11 +20,11 @@ Instilling pride is a powerful way to develop positive teacher-learner relations
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve classroom dynamics by creating a positive classroom environment.
 
 ### Affordances

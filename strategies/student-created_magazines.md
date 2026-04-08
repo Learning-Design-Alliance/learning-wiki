@@ -20,11 +20,11 @@ In Alessandra King’s algebra class, students created a magazine with dozens of
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Secondary school students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Explore real-world applications of math. Develop research and writing skills. Foster collaboration and creativity.
 
 ### Affordances

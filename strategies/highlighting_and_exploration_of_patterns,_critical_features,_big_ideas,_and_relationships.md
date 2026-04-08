@@ -20,11 +20,11 @@ Accentuation of important information and its relationship to the learning goal.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who struggle with attention or have difficulty identifying key information
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding, improve retention, focus attention, clarify learning goals
 
 ### Affordances

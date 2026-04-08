@@ -20,11 +20,11 @@ Building a community on student voice involves creating a classroom environment 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly those who may feel marginalized or hesitant to speak up.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student engagement, promote self-advocacy, and create a more inclusive and supportive learning environment.
 
 ### Affordances

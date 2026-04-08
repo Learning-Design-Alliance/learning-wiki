@@ -20,11 +20,11 @@ Using short video clips on SEL topics followed by discussions and/or related act
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners and adult learners interested in social and emotional learning
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote relevance of SEL topics, connect SEL to personal lives, simplify complex topics through storytelling
 
 ### Affordances

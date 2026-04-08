@@ -20,11 +20,11 @@ Questioning is a powerful tool and effective teachers regularly use it for a ran
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assess understanding, stimulate critical thinking, and promote engagement through effective questioning.
 
 ### Affordances

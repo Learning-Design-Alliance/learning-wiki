@@ -20,11 +20,11 @@ Students read and discuss social and emotional learning (SEL) topics through the
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students in grades 4–12, adaptable for various age groups and learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop social values, improve communication skills, encourage empathy, foster problem-solving abilities, and connect personal experiences to literature.
 
 ### Affordances

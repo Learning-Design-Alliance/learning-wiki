@@ -20,11 +20,11 @@ PBIS is a proactive approach schools use to improve school safety and promote po
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, including those with IEPs and 504 plans.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve school safety, promote positive behavior, and teach students positive behavior strategies.
 
 ### Affordances

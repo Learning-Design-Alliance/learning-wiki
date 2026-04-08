@@ -20,11 +20,11 @@ Making educational tools readily available to students supports self-advocacy by
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly students with disabilities and diverse learning needs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote independence, provide accommodations, diversify learning methods
 
 ### Affordances

@@ -18,11 +18,11 @@ Learners explore interconnected digital content at their own pace.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for e-learning, research skills, and self-directed study.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support flexible, non-linear exploration of information.
 
 ### Affordances

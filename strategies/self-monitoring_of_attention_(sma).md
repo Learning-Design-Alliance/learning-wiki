@@ -20,11 +20,11 @@ Self-monitoring of attention is a strategy where learners self-assess their beha
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who exhibit attention difficulties, including elementary, secondary, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase awareness of behavior, improve attention, and reduce distractions
 
 ### Affordances

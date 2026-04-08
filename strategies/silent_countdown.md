@@ -20,11 +20,11 @@ The Silent Countdown is a technique where the teacher uses a visual countdown (e
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Late elementary, middle, and high school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Quickly gain student attention, promote a calm and focused environment, improve student compliance, provide a clear non-verbal cue
 
 ### Affordances

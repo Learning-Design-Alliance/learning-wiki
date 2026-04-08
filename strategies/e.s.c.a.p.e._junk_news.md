@@ -20,11 +20,11 @@ A handy acronym to help students remember six key concepts for evaluating inform
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 6-12, College/University
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Evaluate news stories for credibility
 
 ### Affordances

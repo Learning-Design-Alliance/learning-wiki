@@ -20,11 +20,11 @@ Integrating self-advocacy and self-determination into education systems to empow
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with disabilities, educators, families, and policymakers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To improve educational and life outcomes for students with disabilities by fostering self-advocacy and self-determination skills.
 
 ### Affordances

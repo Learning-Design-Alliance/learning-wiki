@@ -20,11 +20,11 @@ Mindful listening is a practice of focusing on sound to introduce mindfulness. I
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus, reduce stress, enhance self-regulation, improve cognitive function
 
 ### Affordances

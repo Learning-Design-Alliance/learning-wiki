@@ -20,11 +20,11 @@ Responding with empathy means letting studentsâ€™ reactions come first. You donâ
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, counselors, parents, mentors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve understanding of student perspectives, reduce conflict, promote empathy, build trust
 
 ### Affordances

@@ -20,11 +20,11 @@ Analogies are comparisons of two things that are alike in some way, used as adva
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly useful for introducing complex or abstract topics.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Connect new information to existing knowledge, facilitate understanding of complex concepts, and improve retention.
 
 ### Affordances

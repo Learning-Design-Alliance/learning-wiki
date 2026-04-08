@@ -20,11 +20,11 @@ Educators need to reflect on their own biases and privileges to effectively lead
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators who aim to lead discussions about race, emphasizing the importance of self-reflection and understanding one's own biases and privileges.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-awareness and understanding of one's own biases and privileges. Foster an inclusive and equitable learning environment. Prepare educators to lead discussions about race effectively.
 
 ### Affordances

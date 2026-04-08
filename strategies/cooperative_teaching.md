@@ -20,11 +20,11 @@ Cooperative teaching involves structuring learning activities so that students w
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of concepts, improve verbal and visual explanation skills, foster social interaction, increase knowledge retention, build peer support networks, and encourage active learning
 
 ### Affordances

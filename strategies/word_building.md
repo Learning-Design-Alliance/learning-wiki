@@ -20,11 +20,11 @@ Word building is a literacy strategy used to reinforce vocabulary and spelling s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early learners (K-2), learners with dyslexia, English language learners, and anyone needing to reinforce basic spelling and phonics skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling skills, strengthen word recognition, reinforce letter-sound correspondence, develop phonemic awareness, enhance vocabulary, build foundational literacy skills
 
 ### Affordances

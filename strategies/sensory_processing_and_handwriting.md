@@ -20,11 +20,11 @@ Activities that incorporate sensory experiences to enhance handwriting skills. T
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grades, particularly useful for students with sensory sensitivities or motor planning difficulties.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance handwriting skills by engaging different senses (tactile, proprioceptive, visual).
 
 ### Affordances

@@ -20,11 +20,11 @@ Empathy interviews involve targeted, one-on-one conversations with a small sampl
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Holistic picture of community needs
 
 ### Affordances

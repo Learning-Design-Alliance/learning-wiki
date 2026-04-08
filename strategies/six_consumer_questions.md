@@ -20,11 +20,11 @@ A set of six questions designed to help evaluate the trustworthiness of a news s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - General audience
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Evaluate news stories for credibility
 
 ### Affordances

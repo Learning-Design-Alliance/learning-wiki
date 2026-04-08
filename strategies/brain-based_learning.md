@@ -20,11 +20,11 @@ Activating the different parts of the brain involved with the various senses dur
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Engage multiple senses, improve student attention and memory, increase cognitive flexibility
 
 ### Affordances

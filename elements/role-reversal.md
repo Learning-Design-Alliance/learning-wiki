@@ -18,11 +18,11 @@ Learners switch sides in a debate or discussion to argue from the opposite persp
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for law, policy debates, ethics, and social science education.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage deep understanding by requiring learners to engage with multiple viewpoints.
 
 ### Affordances

@@ -20,11 +20,11 @@ Connecting struggles to strategies involves explicitly teaching students various
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, especially those who struggle with problem-solving and self-regulation.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop students' metacognitive skills, enhance their ability to monitor their learning processes, and equip them with a repertoire of problem-solving strategies.
 
 ### Affordances

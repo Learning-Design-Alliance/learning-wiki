@@ -20,11 +20,11 @@ Includes many related activities, including a greatly increased quantity of writ
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All writers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing skills, enhance fluency, promote continuous learning
 
 ### Affordances

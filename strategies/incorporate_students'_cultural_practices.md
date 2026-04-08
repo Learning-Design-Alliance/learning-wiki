@@ -20,11 +20,11 @@ This strategy involves integrating students' cultural backgrounds and experience
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12 and higher education learners from diverse cultural backgrounds
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student engagement, make learning more accessible and relevant, build a supportive classroom community
 
 ### Affordances

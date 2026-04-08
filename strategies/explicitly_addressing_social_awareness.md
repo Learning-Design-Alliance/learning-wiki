@@ -20,11 +20,11 @@ The approach involves specifically identifying student strengths and challenges 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators across all grade levels aiming to enhance social awareness among their students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance students' understanding of social norms, improve empathy, foster constructive communication, and promote social awareness.
 
 ### Affordances

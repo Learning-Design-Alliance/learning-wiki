@@ -20,11 +20,11 @@ Poor indoor air quality in schools is a major contributor to absenteeism, especi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, teachers, administrators, and school staff
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce absenteeism, improve student performance, and create a healthier learning environment by enhancing indoor air quality
 
 ### Affordances

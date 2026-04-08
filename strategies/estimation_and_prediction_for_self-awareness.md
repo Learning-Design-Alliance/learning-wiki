@@ -20,11 +20,11 @@ Learners use estimation and prediction skills to reflect on their abilities. Act
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school students, adult learners, learners with self-assessment skill deficits
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-awareness, improve self-assessment, develop realistic expectations
 
 ### Affordances

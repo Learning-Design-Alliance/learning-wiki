@@ -20,11 +20,11 @@ Teach children the six basic syllable types and how they affect spelling. For ex
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grade 3 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling accuracy, enhance reading fluency, develop understanding of syllable structure
 
 ### Affordances

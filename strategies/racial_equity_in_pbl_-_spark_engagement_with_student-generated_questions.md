@@ -20,11 +20,11 @@ Projects driven by student-generated questions result in increased engagement an
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for Black and Latinx students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement and investment; promote a sense of empowerment; encourage student-driven inquiry.
 
 ### Affordances

@@ -20,11 +20,11 @@ These activities focus on helping learners identify and express emotions through
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primary school children and early childhood learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional literacy, promote self-awareness, and foster empathy.
 
 ### Affordances

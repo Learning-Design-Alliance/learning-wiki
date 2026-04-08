@@ -18,11 +18,11 @@ Learners investigate open-ended problems and generate solutions.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for STEM, humanities, and research-based disciplines.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster deep engagement and independent learning.
 
 ### Affordances

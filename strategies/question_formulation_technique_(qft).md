@@ -20,11 +20,11 @@ The Question Formulation Technique (QFT) is a structured method for generating a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, adult learners, and professionals in various fields
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop critical thinking, enhance questioning skills, promote self-efficacy, encourage active participation, clarify program goals
 
 ### Affordances

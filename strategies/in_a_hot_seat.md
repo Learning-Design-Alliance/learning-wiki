@@ -20,11 +20,11 @@ Using a stimulus like a photo or item, learners create a character different fro
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who are interested in exploring different identities and perspectives
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop creativity, promote perspective-taking, encourage role-playing, improve communication skills
 
 ### Affordances

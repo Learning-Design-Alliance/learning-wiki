@@ -20,11 +20,11 @@ Model how to highlight or circle mathematical words in word problems that prompt
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with math vocabulary or word problems
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop math communication, support working memory
 
 ### Affordances

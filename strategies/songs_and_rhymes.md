@@ -20,11 +20,11 @@ Using songs and rhymes to memorize information is a mnemonic technique that leve
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly effective for auditory learners and young children.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve memory recall by associating information with music and rhythm.
 
 ### Affordances

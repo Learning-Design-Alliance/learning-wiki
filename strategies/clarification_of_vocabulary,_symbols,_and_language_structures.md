@@ -20,11 +20,11 @@ Supporting learners to construct meaning from words, symbols, and numbers using 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those with language disabilities, English language learners, and learners encountering new or complex material
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve comprehension, enhance vocabulary acquisition, support understanding of complex concepts, clarify language structures
 
 ### Affordances

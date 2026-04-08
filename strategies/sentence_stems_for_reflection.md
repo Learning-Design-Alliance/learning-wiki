@@ -20,11 +20,11 @@ Teachers can use sentence stems to stimulate reflection and make it more accessi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Stimulate reflection, encourage self-assessment, facilitate writing
 
 ### Affordances

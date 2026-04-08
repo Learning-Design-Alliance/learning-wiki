@@ -20,11 +20,11 @@ Pre-entry socialization involves engaging students in brief, positive interactio
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Establish a positive classroom atmosphere, reduce disruptions, build rapport with students
 
 ### Affordances

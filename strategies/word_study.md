@@ -20,11 +20,11 @@ Word study is an approach to spelling instruction that emphasizes the investigat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and middle school students, particularly those needing to develop a deeper understanding of word patterns
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance word recognition, improve spelling skills through pattern identification, and build vocabulary
 
 ### Affordances

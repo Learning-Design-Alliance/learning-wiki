@@ -18,11 +18,11 @@ Learners synthesize information to propose and test solutions.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for STEM, business, and social sciences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen problem-solving and analytical reasoning.
 
 ### Affordances

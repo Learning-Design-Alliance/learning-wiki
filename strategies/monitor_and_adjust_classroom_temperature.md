@@ -20,11 +20,11 @@ Maintaining an optimal temperature range (68º and 74º Fahrenheit) in classroom
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, Higher Education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student engagement, improve concentration, reduce distractions, optimize learning conditions
 
 ### Affordances

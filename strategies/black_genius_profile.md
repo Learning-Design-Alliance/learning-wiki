@@ -20,11 +20,11 @@ This strategy involves capturing Black learners’ genius using specific element
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Black learners, parents, educators, and caregivers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Capture Black learners’ genius, promote positive racial identity formation, support advocacy, enhance cultural responsiveness, facilitate personal learning, and support healthy development.
 
 ### Affordances

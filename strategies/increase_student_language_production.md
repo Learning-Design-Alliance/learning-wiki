@@ -20,11 +20,11 @@ Increase student-to-student interaction with academic language. Have students tr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - ELLs in math classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student's use of academic language in math, increase student-to-student interaction, improve comprehension of math concepts
 
 ### Affordances

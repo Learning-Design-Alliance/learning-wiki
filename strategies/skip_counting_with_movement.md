@@ -20,11 +20,11 @@ Make up a movement that comes in 2, 3, or more parts. Whisper the first parts, a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-4, adaptable to other grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce skip counting, enhance kinesthetic learning, improve rhythm and coordination, build pattern recognition
 
 ### Affordances

@@ -20,11 +20,11 @@ Math talks are structured conversations focused on mathematical reasoning and pr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 teachers, school and district leaders, and math coaches
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote mathematical reasoning, share problem-solving strategies, assess learner comprehension, develop communication skills
 
 ### Affordances

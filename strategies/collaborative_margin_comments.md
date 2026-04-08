@@ -20,11 +20,11 @@ Collaborative margin comments involve using collaborative document platforms lik
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Higher education, adult learners, and professional development programs where collaborative writing and feedback are essential.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate direct feedback within documents, enhance real-time collaboration, and improve the iterative writing process.
 
 ### Affordances

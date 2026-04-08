@@ -20,11 +20,11 @@ Supplement verbal instructions with visual aids to support learners' understandi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially visual learners and those with low English proficiency.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension through visual support.
 
 ### Affordances

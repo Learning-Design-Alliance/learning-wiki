@@ -20,11 +20,11 @@ Providing tactile toys can help awaken sensory receptors, which may decrease fid
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with sensory processing challenges, including those who are hypersensitive to textures or sensory seekers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve sensory integration, regulate emotions, behavior, attention, and focus
 
 ### Affordances

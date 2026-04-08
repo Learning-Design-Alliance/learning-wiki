@@ -20,11 +20,11 @@ Repairing harm is a restorative practice where, instead of simply being sent off
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who have misbehaved or caused harm to others in the classroom or school environment.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Address and correct the source of misbehavior, fix any damage caused, and develop empathy and responsibility in students.
 
 ### Affordances

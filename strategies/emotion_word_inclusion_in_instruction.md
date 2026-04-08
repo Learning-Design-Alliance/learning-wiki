@@ -20,11 +20,11 @@ Educators frequently use emotion words when talking to learners, helping the lea
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional vocabulary, improve emotional awareness, promote positive associations with emotional expression
 
 ### Affordances

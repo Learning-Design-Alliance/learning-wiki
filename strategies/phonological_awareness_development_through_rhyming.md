@@ -20,11 +20,11 @@ Using rhyming as a literacy tool to develop phonological awareness. During a rea
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop phonological awareness, improve literacy skills, enhance understanding of sound patterns in language
 
 ### Affordances

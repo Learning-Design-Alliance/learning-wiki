@@ -20,11 +20,11 @@ Encouraging learners to share their work with peers and online fosters a collabo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for developing digital literacy and communication skills in a digital age
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote collaboration, enhance critical thinking, build confidence, improve writing quality
 
 ### Affordances

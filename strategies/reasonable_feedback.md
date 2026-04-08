@@ -20,11 +20,11 @@ Reasonable feedback involves providing feedback that is manageable and not overw
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and higher education students at all levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prevent students from becoming overwhelmed by feedback and encourage them to take meaningful steps for revision and growth as writers.
 
 ### Affordances

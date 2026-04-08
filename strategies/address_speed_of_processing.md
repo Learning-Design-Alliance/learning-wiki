@@ -20,11 +20,11 @@ Addressing speed of processing involves identifying students' strengths and chal
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who have challenges with processing speed, students who may be ahead of their peers in processing information
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support students who struggle with processing speed, leverage students' strengths, improve learning outcomes
 
 ### Affordances

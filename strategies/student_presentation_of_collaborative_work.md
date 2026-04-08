@@ -20,11 +20,11 @@ After completing a collaborative problem-solving task, groups project their work
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 3-6, adaptable for other grade levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance communication skills, reinforce learning, build confidence, encourage reflection on problem-solving process
 
 ### Affordances

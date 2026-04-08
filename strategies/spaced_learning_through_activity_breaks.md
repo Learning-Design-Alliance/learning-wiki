@@ -20,11 +20,11 @@ Breaking up learning or work into short chunks of time interspersed with activit
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, including students and professionals, who need to retain complex information and maintain focus over extended periods
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve memory retention, enhance cognitive processing, boost creativity, and prevent mental fatigue
 
 ### Affordances

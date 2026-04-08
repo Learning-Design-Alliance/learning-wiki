@@ -20,11 +20,11 @@ Guided play combines the child-directed aspects of free play with intentional le
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Preschool and elementary-aged children
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster language development, enhance mathematics and spatial skills, promote cognitive development, encourage social and emotional growth
 
 ### Affordances

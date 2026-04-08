@@ -18,11 +18,11 @@ Learners apply concepts to real-world problems or case studies.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for professional training, engineering, and business.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning through practice.
 
 ### Affordances

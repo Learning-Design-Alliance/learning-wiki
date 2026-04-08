@@ -20,11 +20,11 @@ This strategy involves asking for student feedback to inform your teaching pract
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve teaching practice, increase student engagement, foster a positive classroom environment
 
 ### Affordances

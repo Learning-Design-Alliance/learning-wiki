@@ -20,11 +20,11 @@ Design questions with a specific goal in mind, such as identifying grabbers or u
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for developing specific writing skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve understanding of writing techniques, enhance ability to analyze and interpret text, develop targeted questioning skills, focus attention on specific elements of the text
 
 ### Affordances

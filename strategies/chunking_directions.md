@@ -20,11 +20,11 @@ Breaking down directions into smaller, more manageable sections to support susta
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who struggle with sustained attention and following lengthy directions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve sustained attention, reduce cognitive overload, and increase comprehension of multi-step instructions
 
 ### Affordances

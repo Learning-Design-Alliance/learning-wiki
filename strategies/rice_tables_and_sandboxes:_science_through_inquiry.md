@@ -20,11 +20,11 @@ Engaging learners in hands-on exploration and inquiry-based science education al
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop scientific inquiry skills, foster creativity and innovation, encourage hands-on exploration, promote discovery and testing, enhance understanding of scientific concepts
 
 ### Affordances

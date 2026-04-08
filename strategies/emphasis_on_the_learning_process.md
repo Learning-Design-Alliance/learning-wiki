@@ -20,11 +20,11 @@ Helping learners focus on and value the process of learning, rather than just th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for learners who are grade-focused or have a fixed mindset
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Value learning over grades, foster a growth mindset, promote self-reflection
 
 ### Affordances

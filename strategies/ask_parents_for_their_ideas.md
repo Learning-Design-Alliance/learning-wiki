@@ -20,11 +20,11 @@ Schools can include parents by regularly asking for feedback regarding issues of
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools, educators, and parents
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve communication, increase parent involvement, build trust
 
 ### Affordances

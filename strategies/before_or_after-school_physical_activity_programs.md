@@ -20,11 +20,11 @@ Offer structured physical activity programs before or after school, such as morn
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase physical activity, provide opportunities for social interaction, improve overall health and well-being
 
 ### Affordances

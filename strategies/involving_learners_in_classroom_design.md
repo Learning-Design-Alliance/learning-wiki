@@ -20,11 +20,11 @@ Involving learners in classroom design means actively soliciting their input and
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower learners, foster a sense of ownership, create a more engaging learning environment, accommodate diverse learning styles, promote collaboration and communication
 
 ### Affordances

@@ -20,11 +20,11 @@ Students create character profiles to help them form a deeper understanding of a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-5 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop a deeper understanding of characters, enhance critical thinking, and promote reflection on character motivations.
 
 ### Affordances

@@ -20,11 +20,11 @@ A KWL chart is a graphic organizer used to structure a lesson by tapping into wh
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels; useful for introducing a new topic or unit
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Activate prior knowledge, set learning goals, summarize learning, and increase engagement and focus
 
 ### Affordances

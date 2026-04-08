@@ -20,11 +20,11 @@ Providing timely feedback is crucial for learners to reflect, correct, and exten
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Higher education, adult learners, and professional development programs where timely feedback is essential.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enable timely reflection and improvement, prevent content disconnection, foster a connected learning environment, and facilitate a mentoring relationship.
 
 ### Affordances

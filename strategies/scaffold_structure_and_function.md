@@ -20,11 +20,11 @@ Provide students with the language tools, such as sentence starters and stems, n
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - ELL students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide language support, enhance communication skills, and ensure project success.
 
 ### Affordances

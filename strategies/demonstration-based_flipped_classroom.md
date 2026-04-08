@@ -20,11 +20,11 @@ Subjects like Maths, Chemistry, Physics, etc. require careful instructions to de
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for subjects requiring precise instruction and visual demonstrations.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide precise, repeatable demonstrations, allow learners to review at their own pace, address individual difficulties in class.
 
 ### Affordances

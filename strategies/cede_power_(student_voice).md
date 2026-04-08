@@ -20,11 +20,11 @@ This principle emphasizes sharing power with students and families in the design
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators and school teams seeking to create more student-centered learning environments and involve students in decision-making processes.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower students, increase student voice, foster co-design of learning experiences, and promote student engagement.
 
 ### Affordances

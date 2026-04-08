@@ -20,11 +20,11 @@ Instead of having supplies scattered all over the place, keep them all in a show
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with organization, learners of all ages
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve organization of learning materials, reduce clutter, enhance efficiency in accessing supplies
 
 ### Affordances

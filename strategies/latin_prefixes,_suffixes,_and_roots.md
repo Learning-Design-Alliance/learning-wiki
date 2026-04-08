@@ -20,11 +20,11 @@ Direct teaching about the meaningful parts of words begins with the most common 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grade 4 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling accuracy, enhance vocabulary, develop understanding of word structure
 
 ### Affordances

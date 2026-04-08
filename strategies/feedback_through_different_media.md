@@ -20,11 +20,11 @@ Delivering feedback through various media, such as video, allows for a more enco
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for remote teams, offsite learners, and situations where in-person feedback is not feasible.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve the clarity and impact of feedback. Ensure learners understand the constructive intent of feedback. Enhance learner engagement and motivation.
 
 ### Affordances

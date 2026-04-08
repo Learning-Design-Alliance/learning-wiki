@@ -20,11 +20,11 @@ Instructors can allocate class time specifically for getting to know learners th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve relationships by scheduling purposeful activities with the learners
 
 ### Affordances

@@ -20,11 +20,11 @@ Playing classical music (Bach, not Mahler) at a low volume when learners enter t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a calm and professional atmosphere in the classroom.
 
 ### Affordances

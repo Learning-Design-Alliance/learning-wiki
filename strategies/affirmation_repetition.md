@@ -20,11 +20,11 @@ This strategy involves repeating empowering statements to oneself during times o
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children, adolescents, and adults in various settings (school, home, therapy)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Build self-confidence; promote resilience; foster a positive mindset; reduce stress and anxiety
 
 ### Affordances

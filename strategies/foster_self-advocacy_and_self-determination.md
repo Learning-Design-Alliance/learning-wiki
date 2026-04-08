@@ -20,11 +20,11 @@ This strategy emphasizes the importance of developing self-advocacy and self-det
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with disabilities, students preparing for postsecondary education and the workforce, and learners who benefit from self-directed learning
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of individual needs and rights, improve communication and problem-solving skills, promote goal setting and monitoring, foster self-reflection, and empower students to take control of their learning and lives.
 
 ### Affordances

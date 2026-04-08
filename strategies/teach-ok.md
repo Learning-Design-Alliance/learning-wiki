@@ -20,11 +20,11 @@ A peer teaching strategy that begins with the teacher spending a few minutes int
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and subject areas, particularly effective for reviewing and reinforcing concepts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active recall and application of knowledge, enhance communication skills, encourage peer teaching and learning, provide opportunities for kinesthetic learning
 
 ### Affordances

@@ -18,11 +18,11 @@ Engages learners with an unexpected event, question, or real-world scenario to c
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for all learners, particularly in e-learning and lecture-based instruction.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase motivation and readiness to learn by activating curiosity.
 
 ### Affordances

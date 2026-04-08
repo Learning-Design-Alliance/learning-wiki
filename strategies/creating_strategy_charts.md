@@ -20,11 +20,11 @@ Developing visual aids and lists of problem-solving strategies in collaboration 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, K-12 and higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-directed learning, improve problem-solving skills, and promote metacognitive reflection.
 
 ### Affordances

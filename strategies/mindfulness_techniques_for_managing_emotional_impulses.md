@@ -20,11 +20,11 @@ Incorporating mindfulness techniques helps students manage their initial emotion
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, with particular attention to those struggling with self-regulation.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Manage students' initial emotional impulses and reactivity, improve self-regulation skills, and enhance emotional and behavioral control.
 
 ### Affordances

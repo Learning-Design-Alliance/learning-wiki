@@ -20,11 +20,11 @@ Teachers must step in when abusive language occurs. This involves addressing the
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly those who use or are affected by abusive language.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a safe and respectful classroom environment, prevent and address abusive language, promote empathy and understanding, and teach students about the impact of their words.
 
 ### Affordances

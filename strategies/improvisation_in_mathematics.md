@@ -20,11 +20,11 @@ This strategy involves using improvisation and acting exercises to enhance mathe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who may struggle with traditional math instruction or those who excel in creative expression.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance creativity in problem-solving, promote risk-taking in learning, foster a sense of community, deepen understanding of mathematical concepts, improve communication and collaboration skills
 
 ### Affordances

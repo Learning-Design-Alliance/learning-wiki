@@ -20,11 +20,11 @@ Write-aloud lessons, also known as modeled writing, involve an experienced write
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12 students, particularly those who are young and/or struggling writers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Demonstrate the writing process, enhance metacognitive awareness, improve writing skills, promote active learning
 
 ### Affordances

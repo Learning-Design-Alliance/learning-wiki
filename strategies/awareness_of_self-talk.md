@@ -20,11 +20,11 @@ Creating awareness of self-talk involves understanding what self-talk is, how it
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, especially those struggling with self-esteem and confidence.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To help students understand the concept of self-talk and its impact on their confidence and self-esteem.
 
 ### Affordances

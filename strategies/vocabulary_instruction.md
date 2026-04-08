@@ -20,11 +20,11 @@ Explicitly teaching vocabulary words and their definitions, along with providing
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for struggling learners and those with limited vocabulary
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase students' vocabulary, improve reading comprehension, enhance ability to understand challenging texts, reduce frustration when encountering unfamiliar words
 
 ### Affordances

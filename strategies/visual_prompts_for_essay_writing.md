@@ -20,11 +20,11 @@ Using artwork along with life lesson statements can help adolescents write essay
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adolescents and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve essay writing skills, encourage deeper thinking, and connect thoughts to personal experiences.
 
 ### Affordances

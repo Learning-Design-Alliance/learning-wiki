@@ -20,11 +20,11 @@ Promoting a growth mindset involves giving feedback that values effort and encou
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners in all subjects
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate a growth mindset, encourage persistence, improve attitudes toward learning, increase self-efficacy
 
 ### Affordances

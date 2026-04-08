@@ -20,11 +20,11 @@ AR provides step-by-step instructions while a trainee is practicing, using AR he
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Manufacturing industry employees, new hires, technicians, quality control personnel
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Accelerate skills acquisition, enhance productivity, reduce errors, improve new hire training and product launch efficiency
 
 ### Affordances

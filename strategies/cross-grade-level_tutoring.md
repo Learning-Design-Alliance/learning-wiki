@@ -20,11 +20,11 @@ Form cross-grade-level alliances where older learners tutor those in lower grade
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for learners needing academic support and those who benefit from teaching others.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide individualized help, enhance content mastery, develop critical thinking skills, foster communication skills, promote cross-grade collaboration.
 
 ### Affordances

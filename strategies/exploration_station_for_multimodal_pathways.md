@@ -20,11 +20,11 @@ Creating a designated computer station where students can explore their preferre
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students learning multimodal composition
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster ownership and innovation in multimodal composition, encourage exploration of different composition pathways, support self-discovery of preferred modes
 
 ### Affordances

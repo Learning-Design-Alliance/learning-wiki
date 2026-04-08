@@ -20,11 +20,11 @@ Deliberate practice involves focused, strategic efforts to improve specific skil
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Useful for all learner levels, particularly those seeking to master complex skills or knowledge in areas such as music, sports, or professional fields.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve specific skills, enhance performance, refine strategies, promote continuous learning.
 
 ### Affordances

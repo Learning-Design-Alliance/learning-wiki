@@ -20,11 +20,11 @@ Reading conferences involve one-on-one interactions between an instructor and a 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners, especially those who need individualized support in reading comprehension
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading comprehension, provide individualized feedback, identify learning gaps, enhance genre knowledge
 
 ### Affordances

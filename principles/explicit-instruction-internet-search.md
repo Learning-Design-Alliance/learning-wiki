@@ -1,7 +1,8 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Explicit Instruction: Internet Search
@@ -13,72 +14,62 @@ Teaching learners how to effectively search the internet is critical for helping
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- Explicit modeling of how to turn questions into search terms, refine queries, and interpret results
+- Practice tasks where learners actually search, compare results, and revise strategies
+- Search goals tied to real inquiry tasks so learners can judge relevance, not just mechanics
+- Guidance on both search construction and result evaluation; the two are inseparable in practice
+
 #### Constraints
-- <!-- TODO -->
+- Search instruction can become tool-fragmented if it focuses on operator trivia without linking to question quality and source evaluation
+- Interfaces change over time, so durable principles matter more than memorizing one platform layout
+- Learners may overtrust the first result or sponsored results unless this is explicitly addressed
+- Searching itself imposes cognitive load because learners must juggle terms, intent, and credibility at once
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Literacy Environment
-Primary Language
-Safety
-Socioeconomic Status
-
-Social and Emotional Learning:
-Motivation
-
-Cognition:
-Short-term Memory
-Working Memory
-
-Language and Literacy:
-Background Knowledge
-Digital Literacy
-Problem Solving
+- Learners with limited search experience or weak digital-literacy foundations
+- Adult learners returning to formal study, online work, or information-heavy environments
+- Learners who can state a need in everyday language but struggle to translate it into effective search behavior
+- Learners doing research, problem solving, or civic information tasks online
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- Formulate better search queries from information needs
+- Refine searches iteratively when initial results are weak or off-target
+- Distinguish relevant from irrelevant or low-quality results
+- Reduce frustration and search abandonment by giving learners concrete routines for improvement
 
 ### Theory
 #### Supporting
-- [[theories/information-processing-theory-cognitive-load-theory-sweller-self-regulated-learning-zimmerman-gagnes-conditions-of-learning|Information Processing Theory
-Cognitive Load Theory (Sweller)
-Self-Regulated Learning (Zimmerman)
-Gagne’s Conditions of Learning]]
+- Information-processing perspectives support breaking search into manageable sub-processes: question framing, term selection, result scanning, and refinement
+- [[theories/cognitive-load-theory|Cognitive Load Theory]] supports explicit routines and chunked instruction because search requires juggling many competing signals
+- Self-regulated-learning perspectives support planning, monitoring, and revising search behavior rather than treating search as a one-shot act
+- Instructional models that emphasize guided demonstration and practice fit well because search expertise is often tacit unless modeled
+
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Learners do need exploratory searching, but exploration is more productive after explicit modeling of useful search moves
+- Search skill without source evaluation is incomplete; good queries can still return misleading sources
+- Operators and tricks matter less than question quality, vocabulary choice, and iterative revision
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Afflerbach, P. A., & Cho, B. Y. (2010). Determining and describing reading strategies: Internet and traditional forms of reading. In Waters, H. S., & Schneider, W. (Eds.). Metacognition, strategy use, and instruction (pp. 201–255). New York: Guilford.
-
-Currie, L., Devlin, F., Emde, J., & Graves, K. (2010). Undergraduate search strategies and evaluation criteria. New Library World.
-
-Galvin, J. (2005). Alternative strategies for promoting information literacy. The Journal of Academic Librarianship, 31(4), 352-357.
-
-Gross, M., & Latham, D. (2013). Addressing below proficient information literacy skills: Evaluating the efficacy of an evidence-based educational intervention. Library & Information Science Research, 35(3), 181-190.
-
-Henry, L. A. (2006). SEARCHing for an answer: The critical role of new literacies while reading on the internet. Reading Teacher, 59(7), 614-627.
-
-Hepworth, M. (2009). Developing academic information literacy for undergraduates through inquiry-based learning. Innovation in Teaching and Learning in Information and Computer Sciences, 8(2), 2-13.
-
-Jenkins, H., Purushotma, R., Weigel, M., Clinton, K., & Robison, A. J. (2009). Confronting the challenges of participatory culture: Media education for the 21st century. Cambridge: MIT Press.
-
-Kingsley, T., & Tancock, S. (2014). Internet inquiry. The Reading Teacher, 67(5), 389-399.
-
-McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The Challenge that's bigger than fake news: Civic reasoning in a social media environment. American Educator, 41(3), 5.
-
-Roberts, L. (2017). Research in the real world: Improving adult learners' web search and evaluation skills through motivational design and problem-based learning. College & Research Libraries, 78(4), 527.
-
-Terrazas-Arellanes, F. E., Knox, C., Strycker, L. A., & Walden, E. (2016). A face-to-face professional development model to enhance teaching of online research strategies. Journal of Information Technology Education: Research, 15, 335-376.
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — novice searchers benefit from process-level routines for query design and revision
+- [[claims/chunking-reduces-working-memory-load]] [+S] — search instruction should break the task into smaller decisions rather than treating it as one opaque skill
+- [[claims/contingent-scaffolding-improves-learning]] [+M] — search feedback works best when instructors respond to where the learner’s search logic failed
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — learners improve when they explain why they chose terms, why results were poor, and how they will revise
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/evaluating-sources|Evaluating Sources]] — search and source evaluation are interdependent
+- [[principles/inquiry-based-learning|Inquiry-based Learning]] — effective searching supports independent investigation
+- [[principles/clear-structure-presentation|Clear Structure & Presentation]] — search routines should be taught in a visible, sequenced way
+- [[principles/explicit-instruction-online-reading-strategies|Explicit Instruction: Online Reading Strategies]] — search is one part of broader online reading competence
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- Query expansion exercises, keyword extraction from a problem statement, and guided result comparison
+- [[strategies/web-search_scavenger_hunt|Web Search Scavenger Hunt]] — constrained practice on query generation and retrieval
+- [[strategies/boolean_operators|Boolean Operators]] — a narrower strategy inside the broader principle
+- Instructors modeling a failed search and then revising it can normalize iteration and reduce frustration
 
 ## Key Sources
-- <!-- TODO -->
+- Afflerbach, P. A., & Cho, B. Y. (2010). Determining and describing reading strategies: Internet and traditional forms of reading. In *Metacognition, strategy use, and instruction*.
+- Gross, M., & Latham, D. (2013). Addressing below proficient information literacy skills. *Library & Information Science Research, 35*(3), 181-190. [doi:10.1016/j.lisr.2013.03.001](https://doi.org/10.1016/j.lisr.2013.03.001)
+- Kingsley, T., & Tancock, S. (2014). Internet inquiry. *The Reading Teacher, 67*(5), 389-399.
+- Roberts, L. (2017). Research in the real world. *College & Research Libraries, 78*(4), 527.

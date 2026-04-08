@@ -20,11 +20,11 @@ Learners create their own word problems to enhance awareness and sharpen basic m
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and middle school learners, particularly those studying math and related subjects.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving skills, enhance awareness of math concepts in real-world contexts, promote critical thinking, and foster creativity and confidence in solving math problems.
 
 ### Affordances

@@ -20,11 +20,11 @@ This strategy uses movement, rhythm, and music to enhance learning and understan
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners; particularly effective for visual and kinesthetic learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of mathematical concepts, promote kinesthetic learning, increase engagement and motivation, foster creativity and expression, improve memory and retention
 
 ### Affordances

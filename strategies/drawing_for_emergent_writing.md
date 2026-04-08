@@ -20,11 +20,11 @@ Drawing activities support emergent writing by allowing unstructured drawing tim
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary-aged children, particularly pre-writers and emergent writers.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop foundational writing and reading skills, unlock imagination, build confidence, and understand the relationship between pictures, words, and ideas.
 
 ### Affordances

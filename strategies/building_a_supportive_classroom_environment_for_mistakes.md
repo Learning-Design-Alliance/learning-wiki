@@ -20,11 +20,11 @@ This strategy focuses on specific actions to foster a learning environment where
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers and students of all ages, especially in environments that prioritize perfection and avoid risk-taking.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate a classroom culture where mistakes are valued as part of the learning process, fostering risk-taking, self-reflection, and collaborative learning.
 
 ### Affordances

@@ -20,11 +20,11 @@ Braille texts are used to build literacy skills such as decoding and syntax. Bra
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who are blind or visually impaired.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance decoding skills, improve comprehension of syntax, increase literacy skills, and provide accessible reading materials.
 
 ### Affordances

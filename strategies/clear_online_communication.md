@@ -20,11 +20,11 @@ Establishing clear channels and rules of online communication with your students
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Online learners of all levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Establish strong connections with students and improve student satisfaction.
 
 ### Affordances

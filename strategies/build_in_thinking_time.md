@@ -20,11 +20,11 @@ Providing dedicated, silent thinking time before pair talk allows students to ge
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly important for students who are less confident or need more time to process information.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure that all students engage in generative thinking, allow students to formulate their own ideas before being influenced by others, promote deeper processing of information, and encourage active participation in discussions.
 
 ### Affordances

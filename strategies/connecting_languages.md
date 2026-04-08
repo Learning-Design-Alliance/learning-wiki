@@ -20,11 +20,11 @@ Encourage students to see connections between their languages to better understa
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - English Language Learners (ELLs)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of language structures, increase word knowledge
 
 ### Affordances

@@ -20,11 +20,11 @@ Teach kids how to confirm the credibility of a website with a scoring guide like
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Confirm the credibility of a website.
 
 ### Affordances

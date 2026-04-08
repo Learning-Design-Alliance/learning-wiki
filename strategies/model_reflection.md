@@ -20,11 +20,11 @@ Students need to encounter reflective role models. Modeling reflection can invol
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Model reflection, share insights, and promote continuous growth.
 
 ### Affordances

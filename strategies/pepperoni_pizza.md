@@ -20,11 +20,11 @@ A game where children roll a dice twice. The first roll tells them how many pizz
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primary school children
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop multiplication fact fluency
 
 ### Affordances

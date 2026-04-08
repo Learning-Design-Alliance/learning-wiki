@@ -20,11 +20,11 @@ Timely feedback involves providing feedback as soon as possible after the learne
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, across grade levels and subject areas
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning, promote retention, increase confidence, improve performance
 
 ### Affordances

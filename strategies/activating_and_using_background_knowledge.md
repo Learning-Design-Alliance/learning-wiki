@@ -20,11 +20,11 @@ This strategy involves readers activating their existing knowledge and using it 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who struggle with reading comprehension, including K-12, higher education, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading comprehension by connecting existing knowledge to new information, activate relevant schemas, and understand text organization
 
 ### Affordances

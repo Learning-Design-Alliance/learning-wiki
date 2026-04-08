@@ -20,11 +20,11 @@ Focusing project-based learning (PBL) projects on issues of justice involves des
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly those from marginalized communities who may benefit from addressing issues of justice in the classroom.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To promote student engagement and create opportunities for students to become better people and act as change agents in their communities.
 
 ### Affordances

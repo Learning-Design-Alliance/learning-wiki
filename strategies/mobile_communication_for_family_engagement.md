@@ -20,11 +20,11 @@ Utilizing text messages to inform families about their student’s progress, as 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools, teachers, families (including low-income families and families of color)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student outcomes by informing and supporting families in their children's education.
 
 ### Affordances

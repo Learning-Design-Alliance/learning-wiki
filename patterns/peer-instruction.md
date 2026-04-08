@@ -1,82 +1,101 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: Eric Mazur (1997)
-grain_size: Lesson
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: Eric Mazur
+grain_size: lesson
 ---
 
 # Peer Instruction
 
 ## Description
-A student-centered teaching method where learners first attempt to answer a conceptual question individually, then discuss their reasoning with peers before revisiting the question. This method encourages deep processing of content, identification of misconceptions, and knowledge co-construction. Often used in conjunction with clickers or polling systems to assess understanding.
+Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief. The key mechanism is not the poll itself. It is the combination of commitment, peer explanation, reconsideration, and feedback that helps learners confront misconceptions and refine understanding.
+
+The pattern is especially effective for conceptual questions that require reasoning rather than recall. It works well in large classes because it creates active processing without needing the instructor to hear every learner individually.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Requires conceptually rich multiple-choice questions, polling technology (or alternative methods), and instructor facilitation.
+- **Conceptually rich questions**: The prompt needs to provoke reasoning and disagreement, not simple memory.
+- **Initial individual commitment**: Learners should answer before discussion so they have something to compare and defend.
+- **Peer explanation time**: The discussion phase must give enough time for reasoning exchange.
+- **Instructor debrief**: Learners need closure on why the stronger reasoning is stronger.
 #### Constraints
-- Works best when well-designed conceptual questions are used. Less effective for pure memorization tasks.
+- **Weak questions flatten the pattern**: Fact recall items do not generate much conceptual change.
+- **Noisy consensus risk**: Learners can converge on an answer socially without improving reasoning if facilitation is weak.
+- **Technology is optional but not sufficient**: Clickers or polling help, but the real work happens in the discussion.
+- **Not ideal for first exposure to very unfamiliar material**: Some initial orientation may be needed before conceptual polling works.
 #### Grain Size
-Lesson
+- Lesson
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Best suited for STEM education, conceptual reasoning, and formative assessment. Works particularly well in physics, mathematics, and engineering.
+- **Conceptual understanding**: Surfacing and revising misconceptions.
+- **Reasoning articulation**: Learners explain why an answer makes sense.
+- **Formative diagnosis**: Instructors see where understanding is strong or weak.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Higher education, adult learners, and high school STEM courses. Ideal for flipped classroom settings and large lecture-based courses.
+- **Learners in STEM and concept-heavy courses**: Strong fit for questions where common misconceptions are predictable.
+- **Large-group settings**: Useful where whole-class interactivity is otherwise difficult.
+- **Learners who benefit from peer explanation**: The pattern leverages students as reasoning partners.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Social constructivist perspectives — learners refine ideas by explaining and comparing reasoning with peers.
+- Conceptual change traditions — confronting conflicting explanations can trigger revision of prior understanding.
+- Formative assessment perspectives — repeated questioning provides immediate evidence about current understanding.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Peer instruction is not just polling; without discussion and debrief it loses much of its value.
+- The pattern is stronger for conceptual reasoning than for pure procedural fluency.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
+- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-1. Instructor poses a conceptual question.
- 2. Students answer individually using clickers or polling software.
- 3. Students discuss their answers with peers and justify their reasoning.
- 4. The question is revisited, and students re-answer after discussion.
- 5. Instructor debriefs the responses and explains correct reasoning.
+1. Pose a conceptual question and have learners answer individually.
+2. Reveal the distribution or ask learners to compare responses without announcing the answer.
+3. Have learners discuss reasoning with peers.
+4. Re-poll or reassess after discussion.
+5. Debrief the reasoning and clarify the concept.
 
 ### Elements Used
 - [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/individual-response|Individual Response]]
 - [[elements/peer-discussion|Peer Discussion]]
 - [[elements/reassessment|Reassessment]]
+- [[elements/feedback|Feedback]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/constructivist-learning-students-actively-engage-in-knowledge-construction|Constructivist Learning – Students actively engage in knowledge construction]]
-- [[principles/metacognition-encourages-learners-to-reflect-on-and-justify-their-reasoning|Metacognition – Encourages learners to reflect on and justify their reasoning]]
-- [[principles/retrieval-practice-improves-retention-through-repeated-recall|Retrieval Practice – Improves retention through repeated recall.]]
-
+- [[principles/peer-discussion|Peer Discussion]]
+- [[principles/formative-assessment|Formative Assessment]]
+- [[principles/immediate-feedback|Immediate Feedback]]
+- [[principles/purposeful-reflection|Purposeful Reflection]]
 
 ### Personalization
-- Can be adapted for various disciplines by modifying the question format (multiple-choice, open-ended). Can also be conducted digitally using interactive tools.
+- Questions can be delivered through clickers, cards, hand signals, or digital polls.
+- Pairs or small groups can be mixed intentionally depending on confidence and prior knowledge.
+- The amount of instructor explanation after the repoll can vary depending on the quality of peer reasoning.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/think-pair-share|Think-Pair-Share]]
+- [[patterns/discussion-group|Discussion Group]]
 
 ## Examples
-- - Physics courses: Conceptual polling questions on Newtonian mechanics, followed by discussion. 
- - Medical education: Peer discussions on diagnostic case studies.
+- Physics learners debating force or motion concept questions before repolling.
+- Medical learners comparing diagnostic reasoning on a conceptual clinical prompt.
+- Math or engineering classes using concept checks before moving into longer problem work.
 
 ## Impact
-- Research indicates significant improvements in student performance and conceptual understanding compared to traditional lecture-based methods (Mazur, 1997). Enhances student engagement in large courses.
+- Often improves engagement and conceptual understanding in large classes.
+- Most effective when misconceptions are surfaced through strong questions and resolved through debrief.
 
 ## Key Sources
-- - Mazur, E. (1997). Peer Instruction: A User’s Manual. Prentice Hall. 
- - Crouch, C. H., & Mazur, E. (2001). Peer Instruction: Ten Years of Experience and Results. American Journal of Physics.
+- Mazur, E. (1997). *Peer instruction: A user's manual*. Prentice Hall.
+- Crouch, C. H., & Mazur, E. (2001). Peer instruction: Ten years of experience and results. *American Journal of Physics, 69*(9), 970-977. [https://doi.org/10.1119/1.1374249](https://doi.org/10.1119/1.1374249)

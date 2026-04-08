@@ -18,11 +18,11 @@ Isolated, repeated practice of elements that require automation for efficient ta
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ideal for foundational skill-building in technical and high-stakes learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Automate essential sub-skills to reduce cognitive load during whole-task learning.
 
 ### Affordances

@@ -1,97 +1,69 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Positive Self-talk
 
 ## Description
-Positive self-talk can support self-efficacy, optimism, Self-regulation, and a Learner Mindset. How adults identify as learners and their persistence when faced with a challenge can be impacted by their internal dialogue. Practicing positive self-talk is important across the lifespan due to the clear relationship between self-talk and performance, mental and physical health, and stress-related variables.​
-
-Self-talk can be thought in one's mind or spoken out loud for any of the following purposes: interpreting one's feelings and perceptions, regulating and changing evaluations, or giving oneself instructions or reinforcement. Four types of self-talk include positive, negative, motivational, and instructional. Positive self-talk can support stress reduction, increased Attention, and increased Cognitive Flexibility while mitigating negative effects of Adverse Experiences.
+Positive self-talk is the deliberate use of supportive, instructional, or regulating internal language to influence how a learner interprets difficulty, effort, and performance. In learning settings, its value lies less in generic optimism than in how learners talk themselves through challenge: naming what to do next, reducing catastrophic interpretation, and maintaining effort when a task is uncomfortable. Positive self-talk can support regulation and persistence, but it works best when it is specific, credible, and tied to action.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **A clear function for the self-talk**: It may be motivational, instructional, calming, or interpretive, but it should match the moment.
+- **Credible phrasing**: Self-talk should feel believable and actionable rather than hollow affirmation.
+- **Practice and modeling**: Learners often need examples of how to rephrase unhelpful internal language.
+- **Connection to strategy**: Positive self-talk is stronger when it points toward a next step or coping move.
 #### Constraints
-- <!-- TODO -->
+- **Forced positivity**: Overly upbeat language can feel false and may increase resistance or shame.
+- **No strategy link**: Encouragement without action guidance often has limited effect.
+- **Context blindness**: Self-talk cannot solve structural barriers, unclear instruction, or lack of support by itself.
+- **Individual variability**: Some learners may respond better to instructional or distanced self-talk than to affirmational language.
 
 ### Target Learners
-- Learner Background:
-
-Physical Well-being
-Adverse Experiences
-Sleep
-Safety
-Socioeconomic Status
-Social and Emotional Learning:
-
-Emotion
-Self-regulation
-Motivation
-Learner Mindset
-Sense of Belonging
-Stereotype Threat
-Social Awareness & Relationship Skills
-Cognition:
-
-Cognitive Flexibility
-Attention
-Inhibition
-Long-term Memory
-Reasoning
-Short-term Memory
-Metacognition
-Working Memory
+- **Learners facing anxiety or self-doubt**: Especially relevant when internal dialogue amplifies stress or avoidance.
+- **Learners building self-regulation**: Self-talk can support pause, reframing, and strategic next steps.
+- **Learners encountering difficult or evaluative tasks**: Strong fit for presentations, tests, revision, and sustained problem solving.
+- **Learners developing growth-oriented interpretations of challenge**: Useful when effort and error are easily misread as inability.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Regulating response to difficulty**: Reducing unhelpful internal escalation during challenge.
+- **Sustaining persistence**: Supporting continued effort when a task becomes uncomfortable.
+- **Improving strategic action**: Using self-instruction to guide attention and next steps.
+- **Strengthening learner identity**: Shifting from fixed or defeatist interpretations toward more workable ones.
 
 ### Theory
 #### Supporting
-- [[theories/self-regulated-learning-zimmerman-self-determination-theory-deci-ryan-expectancy-value-theory|Self-Regulated Learning (Zimmerman)
-Self-Determination Theory (Deci & Ryan)
-Expectancy-Value Theory]]
+- Self-regulated learning — self-talk can function as an internal regulation tool for attention, interpretation, and action.
+- Expectancy-value perspectives — internal dialogue shapes whether learners believe effort is worthwhile and possible.
+- Self-determination theory — self-talk may support competence and persistence when it reinforces effective action.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Positive self-talk should not be used to deny real difficulty or suppress appropriate emotion.
+- Learners often benefit more from specific instructional or distanced self-talk than from vague encouragement.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Ada, E. N., Comoros, N., Karamitrou, A., & Kasak, Z. (2019). Relationships between dispositional flow, motivational climate, and self-talk in physical education classes. The Physical Educator, 76(2), 357-384.
+- [[claims/self-monitoring-improves-self-regulation]] [+M]
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]
 
-Bervoets, J. (2013). Exploring the relationships between flow, mindfulness, & self-talk: A correlational study. Master's Thesis.
-
-Chen, Wei-Ju (2012). Immediate effects of positive self-talk on stress and speech performance. Master's Thesis. 4191.
-
-Chopra, K. (2012). Impact of positive self-talk. OPUS: Open Uleth Scholarship. University of Lethbridge.
-
-Gainsburg, I. & Kross, E. (2020). Distanced self-talk changes how people conceptualize the self. Journal of Experimental Social Psychology, 88.
-
-Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-talk and sports performance: A meta-analysis. Perspectives on Psychological Science, 6(4), 348-356.
-
-Kross, E., Bruehlman-Senecal, E., Park, J., Burson, A., Dougherty, A., Shablack, H., Bremner, R., Moser, J., & Ayduk, O. (2014). Self-talk as a regulatory mechanism: How you do it matters. Journal of Personality and Social Psychology, 106(2), 304–324.
-
-Kross, E., Vickers, B. D., Orvell, A., Gainsburg, I., Moran, T. P., Boyer, M., Jonides, J., Moser, J., & Ayduk, O. (2017). Third-person self-talk reduces Ebola worry and risk perception by enhancing rational thinking. Applied Psychology: Health and Well-being, 9(3).
-
-Oliver, E. J., Markland, D., & Hardy, J. (2010). Interpretation of self-talk and post-lecture affective states of higher education students: A self-determination theory perspective. British Journal of Educational Psychology, 80(2), 307-323.
-
-Reichl, C., Schneider, J. F., Spinath, F. M. (2013). Relation of self-talk frequency to loneliness, need to belong, and health in German adults. Personality and Individual Differences, 54(2), 241-245.
-
-Salmani, N. (2013). Self talk effect on exam anxiety of nursing students. Scientific Journal of Education Strategies in Medical Sciences, 6(1).
-
-Theodorakis, Y., Weinberg, R., Natsis, P., Douma, I., & Kazakas, P. (2000). The effects of motivational versus instructional self-talk on improving motor performance. The Sport Psychologist, 14(3).
-
-Theodorakis, Y., Hatzigeorgiadis, A., & Zourbanos, N. (2012). Cognitions: Self-talk and performance. In S. M. Murphy (Ed.), Oxford library of psychology. The Oxford handbook of sport and performance psychology (p. 191–212). Oxford University Press.
+The current claim inventory supports regulation and process-focused guidance mechanisms more directly than self-talk as a standalone intervention.
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/foster-growth-mindset|Foster Growth Mindset]] — self-talk often shapes whether challenge is interpreted as growth or failure.
+- [[principles/mindfulness-activities|Mindfulness Activities]] — both principles can support more deliberate response to stress and difficulty.
+- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]] — self-talk becomes more effective when it refers to concrete goals and next steps.
+- [[principles/check-ins|Check-ins]] — brief self-check prompts can help learners notice and redirect internal dialogue.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Instructional self-talk prompts**: Learners practice phrases like "First I identify the goal, then I choose a strategy."
+- **Reframing routines**: Learners replace defeatist statements with credible next-step language.
+- **Distanced self-talk**: Learners speak to themselves in second or third person to increase perspective during stress.
+- **Pre-performance cue cards**: Learners prepare short self-talk scripts for presentations, tests, or difficult problem sets.
 
 ## Key Sources
-- <!-- TODO -->
+- Kross, E., Bruehlman-Senecal, E., Park, J., Burson, A., Dougherty, A., Shablack, H., Bremner, R., Moser, J., & Ayduk, O. (2014). Self-talk as a regulatory mechanism: How you do it matters. *Journal of Personality and Social Psychology, 106*(2), 304-324. [https://doi.org/10.1037/a0035173](https://doi.org/10.1037/a0035173)
+- Gainsburg, I., & Kross, E. (2020). Distanced self-talk changes how people conceptualize the self. *Journal of Experimental Social Psychology, 88*, 103971. [https://doi.org/10.1016/j.jesp.2019.103971](https://doi.org/10.1016/j.jesp.2019.103971)
+- Hatzigeorgiadis, A., Zourbanos, N., Galanis, E., & Theodorakis, Y. (2011). Self-talk and sports performance: A meta-analysis. *Perspectives on Psychological Science, 6*(4), 348-356. [https://doi.org/10.1177/1745691611413136](https://doi.org/10.1177/1745691611413136)

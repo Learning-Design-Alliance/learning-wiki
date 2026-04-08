@@ -20,11 +20,11 @@ Learning is not a spectator sport. No one learns much just sitting in classes li
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Tutees in higher education or adult learning programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active engagement with learning material, encourage reflection and application of knowledge, integrate learning into personal experiences.
 
 ### Affordances

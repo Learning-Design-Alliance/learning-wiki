@@ -20,11 +20,11 @@ Alternative assessments to timed tests in math focus on accurately measuring a l
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who experience test anxiety or benefit from varied assessment methods
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Accurately measure fact fluency, reduce test anxiety, provide varied assessment options
 
 ### Affordances

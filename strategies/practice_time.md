@@ -20,11 +20,11 @@ Give students time to practice what they just learned in a low-stakes environmen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for developing writing skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote experimentation and risk-taking, enhance understanding of writing techniques, develop fluency in using new techniques, reduce anxiety and pressure
 
 ### Affordances

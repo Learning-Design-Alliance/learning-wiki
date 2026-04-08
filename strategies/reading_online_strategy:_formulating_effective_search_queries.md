@@ -20,11 +20,11 @@ This strategy focuses on teaching students how to formulate effective search que
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and adult learners who need to improve their digital literacy skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve search skills, develop effective search queries, learn Boolean operators, increase metacognitive reflection on information seeking behavior
 
 ### Affordances

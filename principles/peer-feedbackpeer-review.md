@@ -1,95 +1,68 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Peer Feedback/Peer Review
 
 ## Description
-When learners provide constructive feedback on each other's work, they reflect on their own understanding, learn to give relevant suggestions, receive specific ways to improve, and engage in Metacognition. Peer feedback fosters Motivation to self-correct, builds learner agency, and supports retention in Long-term Memory. The purpose of peer feedback is to promote learning by both the peer reviewer and the recipient of the feedback. If mostly negative, the feedback can discourage effort and achievement. So, it is important to ensure the tools and protocols used promote feedback that is actionable, timely, focused, proactive, clear, and personalized to promote a growth mindset.
+Peer feedback and peer review are instructional structures in which learners evaluate one another's work against shared criteria in order to improve the work and deepen their own understanding. The learning benefit is reciprocal: reviewers practice noticing quality, naming evidence, and proposing revisions, while recipients receive more perspectives and revision cues than instructor-only feedback can usually provide. Peer review is not automatically effective, however; learners need preparation, clear criteria, and protocols that keep the feedback specific, respectful, and usable.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **Shared criteria or rubric**: Learners need a common standard for what to look for and comment on.
+- **Preparation for giving feedback**: Strong peer review usually requires modeling, examples, and sentence frames or protocols.
+- **Time for revision**: Feedback matters most when the recipient can act on it.
+- **A psychologically safe climate**: Learners need norms that make critique about the work rather than the person.
 #### Constraints
-- <!-- TODO -->
+- **Vague praise or vague criticism**: Feedback that is non-specific is rarely useful.
+- **Reviewer inexperience**: Learners may miss important issues or focus only on surface errors unless coached.
+- **Trust and status issues**: Learners may discount peer comments if the process lacks credibility or safety.
+- **Misalignment with the task**: Peer review is weaker when learners do not understand the genre, content, or criteria well enough to respond meaningfully.
 
 ### Target Learners
-- Learner Background:
-Primary Language
-Literacy Environment
-Social Supports
-
-Social and Emotional Learning:
-Self-regulation
-Motivation
-Learner Mindset
-Sense of Belonging
-Social Awareness & Relationship Skills
-
-Cognition:
-Cognitive Flexibility
-Attention
-Reasoning
-Metacognition
-Working Memory
-
-Language and Literacy:
-Disciplinary Literacy
-Composition
-Oral Communication Skills
-Problem Solving
+- **Learners engaged in drafting and revision**: Especially useful for writing, design, presentations, and project work.
+- **Learners building evaluative judgment**: Reviewing peer work helps learners notice quality and criteria more explicitly.
+- **Learners who benefit from multiple perspectives**: Peer review can diversify the feedback a learner receives.
+- **Learners developing communication and critique skills**: The process builds both giving and receiving feedback productively.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Improved revision quality**: Using external feedback to strengthen a draft, product, or performance.
+- **Metacognitive monitoring**: Learning to recognize quality, gaps, and next steps in one's own work.
+- **Constructive critique skills**: Practicing evidence-based, actionable feedback.
+- **Agency and participation in assessment**: Involving learners more actively in the improvement process.
 
 ### Theory
 #### Supporting
-- [[theories/social-constructivism-vygotsky-self-regulated-learning-zimmerman-metacognition-implicit-in-self-regulated-learning-zimmerman|Social Constructivism (Vygotsky)
-Self-Regulated Learning (Zimmerman)
-Metacognition (Implicit in Self-Regulated Learning - Zimmerman)]]
+- Social constructivist perspectives — learners build understanding through interaction and shared criteria.
+- Self-regulated learning — peer feedback supports monitoring, revision, and strategic adjustment.
+- Reflective and evaluative learning traditions — reviewing others' work sharpens one's own sense of quality.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Peer review should complement, not automatically replace, expert feedback where technical accuracy or domain nuance matters.
+- Anonymous peer review can reduce some social friction, but it can also reduce accountability or relational learning depending on the context.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Allen, D. & Mills, A. (2016). The impact of second language proficiency in dyadic peer feedback. Language Teaching Research , 20 (4), 498-513.
-
-Deslauriers, L., McCarty, L. S., Miller, K., Callaghan, K., & Kestin, G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. Proceedings of the National Academy of Sciences, 116(39), 19251-19257.
-
-Dheram, P. K. (1995). Feedback as a two-bullock cart: A case study of teaching writing. ELT journal, 49(2), 160-168.
-
-Ekmekci, O. (2013). Being there: Establishing instructor presence in an online learning environment. Higher Education Studies, 3(1), 29–38.
-
-Ge, Z. (2019). Investigating the effect of real-time multi-peer feedback with the use of a web-based polling software on e-learners' learning performance. Interactive Learning Environments.
-
-Green, T. M., Kelso, C. M., & Zillioux, D. (2015). The nexus between education and training: Implications for the adult learner. Journal of Research in Innovative Teaching, 8(1).
-
-Kim, S. H. (2015). Preparing English learners for effective peer review in the writers' workshop. The Reading Teacher, 68(8), 599-603.
-
-Leijen, D. A. J. (2017). A novel approach to examine the impact of web-based peer review on the revisions of L2 writers. Computers and Composition, 43(1), 35–54.
-
-Lin, G. Y. (2018). Anonymous versus identified peer assessment via a Facebook-based learning application: Effects on quality of peer feedback, perceived learning, perceived fairness, and attitude toward the system. Computers & Education, 116, 81–92.
-
-McDonough, D. (2012). Using adult learner-centered principles and strategies in a blended course. Review of Higher Education & Self-Learning, 5(14), 112–120.
-
-Rick, H., & Phlypo, K. (2019). Choose your own adventure: Self-directed adult learning and assessment. Proceedings of the European Conference on E-Learning, 680–683.
-
-Rodriguez, R. C. & Sharp, L. A. (2018). Five instructional practices to optimize peer feedback activities among adult learners. Journal on Empowering Teaching Excellence, 2(2).
-
-Schunn, C. D. & Yong, W. (2019). The learning science of multi-peer feedback for EFL students. Technology Enhanced Foreign Language Education, 13-21.
-
-Wu, Y. & Schunn, C. D. (2020). When peers agree, do students listen? The central role of feedback quality and feedback frequency in determining uptake of feedback. Contemporary Educational Psychology, 62, 1-16.
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
+- [[claims/self-monitoring-improves-self-regulation]] [+M]
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/peer-discussion|Peer Discussion]] — peer review is a more criteria-driven form of peer discussion centered on improvement.
+- [[principles/formative-assessment|Formative Assessment]] — peer feedback is often a low-stakes formative mechanism before final evaluation.
+- [[principles/process-based-writing|Process-Based Writing]] — drafting and revision make peer review especially useful.
+- [[principles/building-empathy|Building Empathy]] — constructive peer review depends on understanding audience, tone, and the impact of feedback.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Structured draft review**: Learners use a rubric and sentence stems to comment on a peer's draft before revision.
+- **Gallery walk critique**: Learners review several products and leave targeted feedback linked to criteria.
+- **Real-time digital peer response**: Learners respond to classmates' work in a shared platform while the task is still revisable.
+- **Two-stage review**: Learners first identify strengths and evidence, then suggest one or two specific next moves.
 
 ## Key Sources
-- <!-- TODO -->
+- Leijen, D. A. J. (2017). A novel approach to examine the impact of web-based peer review on the revisions of L2 writers. *Computers and Composition, 43*, 35-54. [https://doi.org/10.1016/j.compcom.2016.11.005](https://doi.org/10.1016/j.compcom.2016.11.005)
+- Lin, G. Y. (2018). Anonymous versus identified peer assessment via a Facebook-based learning application: Effects on quality of peer feedback, perceived learning, perceived fairness, and attitude toward the system. *Computers & Education, 116*, 81-92. [https://doi.org/10.1016/j.compedu.2017.08.010](https://doi.org/10.1016/j.compedu.2017.08.010)
+- Wu, Y., & Schunn, C. D. (2020). When peers agree, do students listen? The central role of feedback quality and feedback frequency in determining uptake of feedback. *Contemporary Educational Psychology, 62*, 101897. [https://doi.org/10.1016/j.cedpsych.2020.101897](https://doi.org/10.1016/j.cedpsych.2020.101897)

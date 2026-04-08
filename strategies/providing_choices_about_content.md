@@ -20,11 +20,11 @@ Mature learners decide what to learn when they discover there’s something they
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable to higher education and adult learners, particularly in self-directed learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote independent learning, develop decision-making skills, and increase motivation by allowing learners to pursue areas of interest.
 
 ### Affordances

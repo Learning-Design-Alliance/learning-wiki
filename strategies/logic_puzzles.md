@@ -20,11 +20,11 @@ Logic puzzles are challenges designed to exercise the brain and improve memory, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Varies depending on the puzzle, but generally suitable for children and adults who enjoy mental challenges
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve memory, hand-eye coordination, spatial reasoning, and cognitive skills; develop logical reasoning; enhance problem-solving abilities.
 
 ### Affordances

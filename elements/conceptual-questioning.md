@@ -18,11 +18,11 @@ Learners answer thought-provoking questions designed to challenge assumptions an
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for humanities, philosophy, and STEM courses.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage deep engagement and critical thinking.
 
 ### Affordances

@@ -20,11 +20,11 @@ Provide learners with scenarios of challenging situations and have them brainsto
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop learners' ability to generate positive self-talk responses in challenging situations.
 
 ### Affordances

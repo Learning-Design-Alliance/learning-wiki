@@ -20,11 +20,11 @@ Feedback is any response from a teacher regarding a student's performance or beh
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, across grade levels and subject areas
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve learner performance, encourage self-reflection, guide future learning, provide timely and specific information on progress
 
 ### Affordances

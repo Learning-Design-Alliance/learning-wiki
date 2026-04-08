@@ -20,11 +20,11 @@ A lesson structure maps the teaching and learning that occurs in class. Sound le
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Optimize learning through structured and scaffolded activities
 
 ### Affordances

@@ -20,11 +20,11 @@ Providing specific guidance on what to look for in a text, naming sentences or w
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for struggling learners and those new to literary analysis
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve understanding of writing techniques, enhance ability to analyze and interpret text, develop close reading skills, reduce cognitive load for struggling learners
 
 ### Affordances

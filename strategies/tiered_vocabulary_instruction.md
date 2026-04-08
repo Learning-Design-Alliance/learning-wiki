@@ -20,11 +20,11 @@ Tiered vocabulary instruction categorizes words into three tiers based on their 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those in upper elementary through high school, who need to develop a more sophisticated vocabulary.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Expand vocabulary, improve language proficiency, and enhance comprehension by focusing on high-utility words.
 
 ### Affordances

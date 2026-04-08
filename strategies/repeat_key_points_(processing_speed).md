@@ -20,11 +20,11 @@ Repeating key points for students several times and in several different ways to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who need extra time to process information and benefit from repetition
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce key concepts, improve retention, and support students with slower processing speeds
 
 ### Affordances

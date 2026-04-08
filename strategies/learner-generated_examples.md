@@ -20,11 +20,11 @@ Provide opportunities for learners to generate their own examples of a concept. 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially in interactive learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning, correct misconceptions, promote deeper understanding
 
 ### Affordances

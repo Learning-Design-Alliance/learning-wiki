@@ -20,11 +20,11 @@ Incorporating natural lighting in classrooms boosts morale, reduces off-task beh
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners and educators in K-12 or higher education settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student engagement and achievement, enhance teacher and student morale, reduce off-task behavior
 
 ### Affordances

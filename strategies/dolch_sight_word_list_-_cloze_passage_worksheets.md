@@ -20,11 +20,11 @@ Grade-level cloze passage worksheets using Dolch sight words. Each grade level i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary students, struggling readers, ESL learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce sight word recognition in context, improve reading comprehension, enhance vocabulary skills
 
 ### Affordances

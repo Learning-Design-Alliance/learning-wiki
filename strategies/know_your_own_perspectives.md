@@ -20,11 +20,11 @@ Reflect deeply on your own attitudes and beliefs and how they may impact your op
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators and instructors across all levels (K-12, higher education, professional training)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase self-awareness, improve culturally responsive communication, mitigate implicit bias
 
 ### Affordances

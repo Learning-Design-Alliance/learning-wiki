@@ -20,11 +20,11 @@ A short video relating to the topic of the reading is shown. Discussion question
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners of all ages and proficiency levels, adaptable for various topics.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Engage learners with visual media, activate prior knowledge, and provide context for the reading material.
 
 ### Affordances

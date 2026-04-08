@@ -20,11 +20,11 @@ SOAP is an acronym that serves as a guide for teachers when selecting behaviors 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers or instructors who are implementing self-monitoring strategies with students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure the selection of effective and manageable behaviors for self-monitoring.
 
 ### Affordances

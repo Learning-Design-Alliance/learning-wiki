@@ -20,11 +20,11 @@ This strategy focuses on intentionally minimizing exposure to negative external 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for individuals seeking to improve their mindset and overall well-being by managing their social and environmental influences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Minimize exposure to negative external factors, identify and limit contact with negative influences, surround oneself with positive and supportive people, foster a more optimistic and growth-oriented mindset.
 
 ### Affordances

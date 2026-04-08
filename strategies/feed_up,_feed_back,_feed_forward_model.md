@@ -20,11 +20,11 @@ The Feed Up, Feed Back, Feed Forward Model is a structured approach to providing
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, across grade levels and subject areas
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-reflection, improve understanding of learning goals, guide future learning activities, facilitate progress monitoring
 
 ### Affordances

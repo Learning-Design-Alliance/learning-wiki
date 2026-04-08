@@ -20,11 +20,11 @@ This activity enhances empathy and emotional regulation by presenting students w
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle level learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote empathy, emotional regulation, self-awareness, and understanding of personal biases.
 
 ### Affordances

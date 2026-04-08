@@ -20,11 +20,11 @@ Dedicated, positive space where learners practice emotional regulation skills. S
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to middle school students, learners with emotional or behavioral difficulties
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve self-regulation, reduce reactivity, enhance focus
 
 ### Affordances

@@ -20,11 +20,11 @@ Pre-teaching vocabulary involves introducing new words before encountering them 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those in upper elementary through high school, who need additional support in building vocabulary and improving comprehension.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance vocabulary acquisition, improve reading comprehension, and activate background knowledge by introducing new words before engaging with a text.
 
 ### Affordances

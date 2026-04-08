@@ -20,11 +20,11 @@ Applying learning to new contexts helps learners develop the ability to use what
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners; suitable for K–12, higher education, and adult learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote application of knowledge, improve problem-solving skills, support lifelong learning, foster adaptability
 
 ### Affordances

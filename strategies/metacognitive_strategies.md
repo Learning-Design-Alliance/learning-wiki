@@ -20,11 +20,11 @@ Metacognitive strategies teach students to think about their thinking. When stud
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-awareness and control over the learning process by teaching students to think about their thinking.
 
 ### Affordances

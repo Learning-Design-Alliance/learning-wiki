@@ -20,11 +20,11 @@ Cloud Text-to-Speech allows developers to create natural-sounding, synthetic hum
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Developers and content creators who want to integrate text-to-speech capabilities into their applications and media.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enable speech synthesis in applications, enhance accessibility of digital content, create audio files from text, augment media with synthetic speech
 
 ### Affordances

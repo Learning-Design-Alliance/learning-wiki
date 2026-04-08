@@ -20,11 +20,11 @@ Students participate in a guided body scan meditation to bring calmness and awar
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All ages, adaptable for pre-K through college students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote calmness, increase body awareness, reduce stress, improve focus and concentration
 
 ### Affordances

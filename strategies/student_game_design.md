@@ -20,11 +20,11 @@ In this approach, learners build their own game around a specific course topic o
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective in technical and design-focused classes
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of course topics. Develop creativity and problem-solving skills. Promote learner engagement and ownership.
 
 ### Affordances

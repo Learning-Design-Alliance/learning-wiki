@@ -20,11 +20,11 @@ Customizing the display of information involves modifying the appearance of digi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Individuals with visual impairments, dyslexia, attention deficits, or reading difficulties. Useful across all age groups and educational levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce visual distractions, improve readability, accommodate visual impairments, enhance focus, support personalized learning
 
 ### Affordances

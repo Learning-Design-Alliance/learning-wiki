@@ -20,11 +20,11 @@ Electricity and circuit tasks involve investigating how electricity flows in sim
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying physical science
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand basic electrical concepts, identify complete circuits, predict and test electrical flow, develop problem-solving skills
 
 ### Affordances

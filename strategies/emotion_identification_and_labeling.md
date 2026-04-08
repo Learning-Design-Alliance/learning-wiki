@@ -20,11 +20,11 @@ Learners identify, label, and match facial expressions and feelings. Categorizin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early childhood to elementary-aged learners (K-5), learners with social-emotional skill deficits
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop emotional vocabulary, improve emotion recognition, enhance self-awareness
 
 ### Affordances

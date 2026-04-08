@@ -20,11 +20,11 @@ Student blogs allow time to reflect on their mathematical process. Students can 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reflect on mathematical processes, explain problem-solving steps, document learning
 
 ### Affordances

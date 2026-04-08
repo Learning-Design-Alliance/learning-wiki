@@ -20,11 +20,11 @@ Students identify patterns or themes in their self-talk, such as recurring thoug
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students who are developing self-awareness and emotional intelligence.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To help students recognize recurring patterns and themes in their self-talk.
 
 ### Affordances

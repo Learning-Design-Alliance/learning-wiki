@@ -20,11 +20,11 @@ For homework, assign learners the task of writing some of their own word problem
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 3-8
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Synthesize knowledge of word problems by writing some of their own
 
 ### Affordances

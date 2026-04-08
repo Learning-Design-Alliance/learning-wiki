@@ -20,11 +20,11 @@ Math games are structured activities designed to stimulate enthusiasm for math l
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students, adaptable for various age groups with modifications
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage strategic mathematical thinking, deepen understanding of numbers, develop computational fluency, explore number combinations and patterns
 
 ### Affordances

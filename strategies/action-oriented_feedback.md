@@ -20,11 +20,11 @@ Action-oriented feedback focuses on providing students with specific steps they 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and higher education students at all levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Build a growth mindset in writing by helping students understand and implement specific steps to improve their writing skills.
 
 ### Affordances

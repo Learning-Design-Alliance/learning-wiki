@@ -20,11 +20,11 @@ Break content into smaller time intervals if learners cannot stay on task. Child
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with short attention spans, especially children
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus, reduce overwhelm, increase task completion
 
 ### Affordances

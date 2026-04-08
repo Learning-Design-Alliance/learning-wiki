@@ -20,11 +20,11 @@ Introduce concepts like “relevance, accuracy, bias, and reliability” and usi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Familiarize learners with key concepts for evaluating sources, encourage critical questioning of sources, and understand author motivations.
 
 ### Affordances

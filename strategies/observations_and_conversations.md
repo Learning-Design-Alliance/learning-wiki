@@ -20,11 +20,11 @@ Monitoring student learning through observations and conversations helps determi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners. Particularly useful in hands-on, exploratory learning environments such as STEM and STEAM.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Measure student growth, assess conceptual understanding, evaluate problem-solving processes, gather qualitative data
 
 ### Affordances

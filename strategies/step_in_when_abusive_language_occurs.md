@@ -20,11 +20,11 @@ Addressing offensive language promptly and consistently is crucial for creating 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students and educators in classrooms where offensive language may occur, aiming to create a more inclusive and respectful learning environment.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a safe and respectful classroom environment where all students feel protected from harm. Promote understanding of the impact of offensive language and encourage empathy.
 
 ### Affordances

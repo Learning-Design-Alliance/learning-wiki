@@ -20,11 +20,11 @@ Teachers should make themselves available for short talks with students before a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and backgrounds
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create safe environments to have open dialogues.
 
 ### Affordances

@@ -20,11 +20,11 @@ Explicitly discuss different perspectives, encouraging students to consider view
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop social awareness and recognize different opinions.
 
 ### Affordances

@@ -20,11 +20,11 @@ Hexagonal thinking is a mixed retrieval and elaboration strategy that uses hexag
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Secondary and higher education learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Investigate how ideas and concepts are connected.
 
 ### Affordances

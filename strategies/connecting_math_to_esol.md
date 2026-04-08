@@ -20,11 +20,11 @@ This strategy brings a little bit of math could make for some interesting discus
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - English for Speakers of Other Languages (ESOL) learners at all levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve English language skills, reinforce math concepts, enhance cultural awareness, and promote collaboration.
 
 ### Affordances

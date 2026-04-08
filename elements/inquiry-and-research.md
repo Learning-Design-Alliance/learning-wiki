@@ -18,11 +18,11 @@ Learners investigate a topic through questioning and data gathering.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for STEM, humanities, and research-focused learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop critical thinking and independent learning skills.
 
 ### Affordances

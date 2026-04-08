@@ -20,11 +20,11 @@ Activities focused on building foundational skills necessary before formal handw
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - PreK-1st grade learners or those with underdeveloped pre-writing skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve line awareness, spatial awareness, and pencil grasp in preparation for handwriting.
 
 ### Affordances

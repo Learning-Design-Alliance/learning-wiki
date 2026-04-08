@@ -20,11 +20,11 @@ Virtual reality is used to prepare employees for the commotion when customers sw
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Retail employees and managers.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve hiring, employee experience, and assess skills more accurately.
 
 ### Affordances

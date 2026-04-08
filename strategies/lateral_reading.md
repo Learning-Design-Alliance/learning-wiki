@@ -20,11 +20,11 @@ Lateral reading is a digital literacy strategy that involves evaluating the trus
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners of all ages, especially those in secondary and higher education, as well as adult learners in professional development programs focused on digital literacy and media literacy
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Evaluate the trustworthiness of online information, improve digital literacy skills, contrast lateral reading with vertical reading, identify reliable resources for fact-checking
 
 ### Affordances

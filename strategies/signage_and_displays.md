@@ -20,11 +20,11 @@ Small details, such as wall displays are important. For example, signage in the 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve communication, increase motivation, enhance self-worth
 
 ### Affordances

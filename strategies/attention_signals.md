@@ -20,11 +20,11 @@ Attention signals are techniques used by instructors to regain focus and quiet a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Regain learners' attention, establish a quiet environment, prepare learners for instruction
 
 ### Affordances

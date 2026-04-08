@@ -20,11 +20,11 @@ Think-Write-Pair-Share is a collaborative learning strategy where students first
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K-12, higher education, and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote individual reflection, enhance collaborative discussion, improve communication skills, and generate diverse ideas.
 
 ### Affordances

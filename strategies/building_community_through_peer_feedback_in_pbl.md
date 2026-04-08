@@ -20,11 +20,11 @@ Building community through peer feedback involves giving students opportunities 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, as peer feedback benefits all learners by providing opportunities for reflection, revision, and community building.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To foster a supportive classroom culture, enhance student learning, and promote growth and progress through meaningful peer feedback.
 
 ### Affordances

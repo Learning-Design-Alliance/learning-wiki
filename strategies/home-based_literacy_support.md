@@ -20,11 +20,11 @@ Home-based literacy support involves schools providing families with resources a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools aiming to improve family engagement and extend learning beyond the classroom, particularly for low-income families and families of color.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student academic achievement and positive behaviors, improve student motivation and self-efficacy, and empower families with the skills and resources to support learning at home.
 
 ### Affordances

@@ -20,11 +20,11 @@ Direct instruction of genre-specific writing strategies involves explicitly teac
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, particularly those in middle and high school, who need explicit instruction in writing genres
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of writing genres, improve writing skills, apply knowledge of genre conventions, reinforce key concepts through modeling and practice
 
 ### Affordances

@@ -20,11 +20,11 @@ Prompt cards, particularly emotion cue cards, offer accessible reminders of self
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages, especially those who struggle with emotional regulation, including children, adolescents, and adults.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support emotional regulation, teach coping strategies, promote self-awareness, and facilitate the internalization of calming techniques.
 
 ### Affordances

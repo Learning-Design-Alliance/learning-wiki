@@ -20,11 +20,11 @@ Learners pick a time in history and a character who lived then, researching and 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who are studying history and want to connect with the lived experiences of people from the past
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote historical empathy, develop research skills, encourage perspective-taking, improve communication skills
 
 ### Affordances

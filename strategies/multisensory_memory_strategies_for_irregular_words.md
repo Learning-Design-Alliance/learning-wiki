@@ -20,11 +20,11 @@ Multisensory memory strategies for irregular words involve using multiple senses
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily for learners in grades 1-3, but also effective for older students and adults who struggle with spelling irregular words
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling accuracy of irregular words, enhance memory and retention of irregularly spelled words, and develop strategies for learning and recalling non-phonetic words
 
 ### Affordances

@@ -20,11 +20,11 @@ Learners are taught the differences between .com, .gov, .org, and .edu domains t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance learners' ability to evaluate the credibility and reliability of online sources.
 
 ### Affordances

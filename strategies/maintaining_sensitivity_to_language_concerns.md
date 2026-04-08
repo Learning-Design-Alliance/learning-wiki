@@ -20,11 +20,11 @@ In traditional classrooms, students who are not native English speakers often fe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers with English language learners in their classrooms (K-12, adult education)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support language acquisition, promote linguistic diversity, and create an inclusive classroom environment for non-native English speakers.
 
 ### Affordances

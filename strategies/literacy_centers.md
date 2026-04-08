@@ -20,11 +20,11 @@ Literacy centers are designated areas in the classroom where students work indep
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students, adaptable for older grades.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance and develop literacy skills, provide differentiated instruction, promote independent learning, foster intrinsic motivation, and reinforce skills and concepts in a variety of ways.
 
 ### Affordances

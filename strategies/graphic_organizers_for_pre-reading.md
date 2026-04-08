@@ -20,11 +20,11 @@ Students identify the text structure (compare/contrast, cause/effect, etc.) befo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Older students and challenging texts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve comprehension, activate prior knowledge, identify text structure
 
 ### Affordances

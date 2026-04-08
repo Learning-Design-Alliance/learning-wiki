@@ -20,11 +20,11 @@ Building connections to prior understandings and experiences to facilitate new l
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those with diverse backgrounds and experiences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding, improve retention, facilitate transfer of learning, activate prior knowledge
 
 ### Affordances

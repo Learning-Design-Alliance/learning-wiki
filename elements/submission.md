@@ -18,11 +18,11 @@ Learners submit work for assessment, feedback, or peer review.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for formal education, project-based learning, and corporate training.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide structured checkpoints for evaluation.
 
 ### Affordances

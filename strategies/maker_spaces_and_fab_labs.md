@@ -20,11 +20,11 @@ Establish physical spaces where learners can invent, design, and build things us
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for middle and high school students, as well as adult learners in technical and vocational programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster creativity and innovation, promote hands-on learning, encourage collaboration, apply theoretical knowledge to real-world problems
 
 ### Affordances

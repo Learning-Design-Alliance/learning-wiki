@@ -20,11 +20,11 @@ Culturally responsive practice involves engaging students in the learning proces
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify practices that promote equity and foster a sense of belonging for each student.
 
 ### Affordances

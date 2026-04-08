@@ -20,11 +20,11 @@ Prioritizing building relationships with learners can create a supportive and sa
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster positive relationships, create a sense of safety and support, increase learner motivation and engagement
 
 ### Affordances

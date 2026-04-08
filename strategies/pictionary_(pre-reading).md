@@ -20,11 +20,11 @@ Key words from the text are selected, and the class is divided into two or three
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners of all ages and proficiency levels, adaptable for various topics.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce vocabulary, make learning fun, and activate prior knowledge through visual representation.
 
 ### Affordances

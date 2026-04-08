@@ -18,11 +18,11 @@ Learners cannot advance until they demonstrate mastery of foundational content.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, corporate training
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen long-term retention and skill acquisition.
 
 ### Affordances

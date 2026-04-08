@@ -20,11 +20,11 @@ Reframing the concept of testing involves using frequent, non-graded tests as pr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active learning, reduce test anxiety, enhance retention, provide progress checks
 
 ### Affordances

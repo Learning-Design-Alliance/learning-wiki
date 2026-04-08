@@ -20,11 +20,11 @@ Developing cultural awareness as an educator is an ongoing process that includes
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, edtech developers, and instructional designers across all levels (K-12, higher education, adult learning)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of diverse cultures, mitigate implicit biases, foster empathy for diverse learners, create inclusive learning environments
 
 ### Affordances

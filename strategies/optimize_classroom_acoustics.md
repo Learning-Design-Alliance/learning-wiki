@@ -20,11 +20,11 @@ Reducing noise levels in classrooms can greatly affect teacher and student perfo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners and educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student engagement, reduce stress, increase academic performance
 
 ### Affordances

@@ -20,11 +20,11 @@ Text messaging is used as a primary means of communication for educators and com
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Parents of middle school and preschool students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance parent engagement, improve student outcomes, increase communication
 
 ### Affordances

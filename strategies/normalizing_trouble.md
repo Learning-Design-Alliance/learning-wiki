@@ -20,11 +20,11 @@ Normalizing struggle involves acknowledging that challenges and failures are a n
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who may be discouraged by setbacks or have a fixed mindset about their abilities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate a growth mindset, reduce fear of failure, promote resilience, and encourage learners to view challenges as opportunities for growth.
 
 ### Affordances

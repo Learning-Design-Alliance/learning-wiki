@@ -20,11 +20,11 @@ A sound wall is a classroom tool that helps educators reinforce the importance o
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-5 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce letter-sound correspondence, improve phonemic awareness, and support phonics skills
 
 ### Affordances

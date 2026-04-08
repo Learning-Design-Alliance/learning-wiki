@@ -20,11 +20,11 @@ This strategy involves effectively structuring and recording information to enha
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners in academic or professional settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve information retention, enhance comprehension, develop effective study skills, facilitate independent learning
 
 ### Affordances

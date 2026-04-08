@@ -20,11 +20,11 @@ Preliminary data collection involves gathering contextual data to gain a deeper 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Researchers, students, and community members
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand local contexts, gather quantitative data, collect qualitative data, identify patterns, inform research questions
 
 ### Affordances

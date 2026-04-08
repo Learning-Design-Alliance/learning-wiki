@@ -20,11 +20,11 @@ Clarifying involves identifying and resolving areas of uncertainty in a text or 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially English Language Learners (ELLs) and those who struggle with complex texts or problems.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve comprehension, resolve uncertainties, and support vocabulary development.
 
 ### Affordances

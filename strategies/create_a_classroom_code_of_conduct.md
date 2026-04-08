@@ -20,11 +20,11 @@ Teachers and students collaborate to establish a classroom code of conduct based
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators looking to establish a positive classroom climate
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Establish a common understanding of positive and negative behaviors, promote respect and empathy, create a positive and productive learning environment
 
 ### Affordances

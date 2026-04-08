@@ -20,11 +20,11 @@ Teachers and educators should challenge and avoid stereotypical beliefs about pa
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers, educators, and school staff
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote positive relationships, increase parent involvement, reduce bias
 
 ### Affordances

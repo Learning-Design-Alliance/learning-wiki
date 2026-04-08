@@ -20,11 +20,11 @@ Using calming auditory input involves managing and altering sounds in the enviro
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children in school settings, particularly those with auditory sensitivities or who are easily overwhelmed
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce overstimulation, promote relaxation, manage auditory input
 
 ### Affordances

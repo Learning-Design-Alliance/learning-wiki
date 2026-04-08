@@ -20,11 +20,11 @@ Videoconferencing platforms with built-in collaboration features such as Microso
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels engaging in remote or hybrid learning
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance teamwork and collaboration, foster communication and brainstorming, promote student engagement in online learning.
 
 ### Affordances

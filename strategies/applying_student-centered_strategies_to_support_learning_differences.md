@@ -20,11 +20,11 @@ Educators use data-driven, student-centered plans to implement strategies that s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, special education teachers, instructional coaches, and other educational professionals working to support students with diverse learning needs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Implement targeted strategies to support individual learning differences, leverage student strengths, address academic challenges, foster student-centered learning environments
 
 ### Affordances

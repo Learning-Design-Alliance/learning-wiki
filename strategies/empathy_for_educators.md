@@ -20,11 +20,11 @@ Engage in actions to build an empathic mindset. Read stories from the perspectiv
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, higher education instructors, school administrators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate empathy among educators, improve understanding of student perspectives, enhance teaching practices, promote a positive school climate
 
 ### Affordances

@@ -20,11 +20,11 @@ Mass, density, and buoyancy experiments involve exploring how the mass and densi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying physical science
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand the principles of mass, density, and buoyancy, compare buoyancy in different liquids, correlate weight and water displacement
 
 ### Affordances

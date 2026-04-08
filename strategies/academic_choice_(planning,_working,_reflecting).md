@@ -20,11 +20,11 @@ Academic Choice empowers learners by providing them with options in their learni
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students, but can be adapted for older learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase engagement, promote self-directed learning, foster deeper thinking, enhance productivity, reduce behavior problems
 
 ### Affordances

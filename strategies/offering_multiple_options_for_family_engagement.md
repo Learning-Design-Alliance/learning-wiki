@@ -20,11 +20,11 @@ Providing a variety of options will improve overall participation, particularly 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools, teachers, families
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase family engagement by providing diverse and accessible opportunities.
 
 ### Affordances

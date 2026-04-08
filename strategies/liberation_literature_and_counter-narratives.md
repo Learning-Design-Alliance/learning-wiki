@@ -20,11 +20,11 @@ Liberation literature involves exposing learners to literature that places out-g
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for K-2 learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop understanding about different social identities and groups of people, reinforce counter-narratives, ensure texts used are mirrors for all learners
 
 ### Affordances

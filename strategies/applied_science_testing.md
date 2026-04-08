@@ -20,11 +20,11 @@ Applied science testing involves using scientific principles to evaluate real-wo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying science and technology
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Apply scientific principles to real-world scenarios, test the solubility of materials, compare product quality and price
 
 ### Affordances

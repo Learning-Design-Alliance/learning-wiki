@@ -20,11 +20,11 @@ Rubrics are evaluation tools consisting of a set of criteria, a fixed scale, and
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly K–12 and higher education. Adaptable for use in various subjects and skill-based areas.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assess student learning, provide specific feedback, guide self-assessment, track progress, promote self-regulation, set learning goals
 
 ### Affordances

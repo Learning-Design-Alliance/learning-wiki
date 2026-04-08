@@ -20,11 +20,11 @@ The SOAR method helps maximize the impact of feedback on student writing by ensu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and higher education students learning writing skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student writing skills, promote a growth mindset, provide actionable feedback, and enhance self-regulated learning
 
 ### Affordances

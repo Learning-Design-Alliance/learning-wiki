@@ -20,11 +20,11 @@ When learners are flagged for rapid guessing during assessments, proctors should
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who show signs of rapid guessing during assessments, particularly those who may be experiencing confusion or anxiety.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce instances of rapid guessing, improve engagement and focus, address underlying reasons for disengagement, increase validity of assessment data.
 
 ### Affordances

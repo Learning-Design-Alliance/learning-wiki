@@ -20,11 +20,11 @@ Untimed tests remove the pressure of completing assessments within a set time li
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who experience test anxiety or benefit from additional time to process information
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce test anxiety, improve problem-solving abilities, assess true understanding without time constraints
 
 ### Affordances

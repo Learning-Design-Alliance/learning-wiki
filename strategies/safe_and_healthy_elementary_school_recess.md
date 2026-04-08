@@ -20,11 +20,11 @@ Implementing a safe and healthy recess with programs like Playworks TeamUp aims 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve recess organization, enhance student activity and cooperation, reduce bullying, and promote conflict resolution skills.
 
 ### Affordances

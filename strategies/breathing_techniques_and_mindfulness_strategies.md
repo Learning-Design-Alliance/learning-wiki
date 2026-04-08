@@ -20,11 +20,11 @@ Teaching breathing techniques and mindfulness strategies equips students with to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, adaptable for students of different ages and abilities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-awareness, reduce impulsive reactions, promote emotional regulation, and provide tools for managing stress and challenging situations.
 
 ### Affordances

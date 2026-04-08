@@ -20,11 +20,11 @@ Restating the question encourages critical reading skills and provides clarity a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who struggle with math or who have anxiety around making mistakes
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help students to slow down, avoid rote recall, understand underlying concepts
 
 ### Affordances

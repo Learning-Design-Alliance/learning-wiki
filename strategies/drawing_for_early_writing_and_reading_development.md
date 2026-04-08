@@ -20,11 +20,11 @@ Drawing is a strategy to foster creativity, planning, and the development of fou
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Pre-K to early elementary students (ages 2-7)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Unleash imagination, build confidence, develop foundational early literacy skills, understand the connection between pictures and words, improve planning and brainstorming skills
 
 ### Affordances

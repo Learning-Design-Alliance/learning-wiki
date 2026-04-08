@@ -20,11 +20,11 @@ Short video lectures are distributed as study material along with short assignme
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners who benefit from focused, bite-sized content and immediate application.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Introduce key concepts succinctly, reinforce learning through short assignments, facilitate in-class application and discussion.
 
 ### Affordances

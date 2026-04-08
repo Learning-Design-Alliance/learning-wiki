@@ -20,11 +20,11 @@ Continue creating engaging projects and lessons and keep enjoying the students. 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers and students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Maintain a positive classroom environment, promote a growth mindset, and encourage students to learn from their mistakes
 
 ### Affordances

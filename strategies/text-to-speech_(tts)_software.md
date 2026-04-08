@@ -20,11 +20,11 @@ Text-to-speech (TTS) software allows written text to be read aloud. It can conve
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Individuals who prefer or need to hear text, including students with reading difficulties, individuals with visual impairments, and those who benefit from auditory learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assist with proofreading, enhance time management and productivity, provide accessible formats for diverse learners
 
 ### Affordances

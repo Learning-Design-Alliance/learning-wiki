@@ -20,11 +20,11 @@ Students meet in pairs with one hand behind their back. On the count of three, t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-4, adaptable to other grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce addition skills, improve mental math speed, promote quick thinking, encourage competition
 
 ### Affordances

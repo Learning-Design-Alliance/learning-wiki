@@ -20,11 +20,11 @@ Provide scaffolding, like speech examples, for discourse routines that may not b
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve communication skills, increase confidence in academic settings, increase Disciplinary Literacy skills
 
 ### Affordances

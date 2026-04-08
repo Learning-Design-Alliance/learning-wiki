@@ -20,11 +20,11 @@ Authentic projects that address issues of justice lead to higher student engagem
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for students from marginalized communities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement; make learning more relevant and meaningful; empower students to act as change agents; address issues of justice.
 
 ### Affordances

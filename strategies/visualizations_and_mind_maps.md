@@ -20,11 +20,11 @@ Use visuals such as infographics and mind maps to help transform abstract concep
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who benefit from visual aids
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of complex concepts, facilitate information retention, improve learner engagement
 
 ### Affordances

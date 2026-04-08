@@ -18,11 +18,11 @@ Learners analyze real-world scenarios to apply theoretical concepts.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for business, medicine, and social sciences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Bridge theory and practice in meaningful ways.
 
 ### Affordances

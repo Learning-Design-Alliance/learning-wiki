@@ -20,11 +20,11 @@ Multiple writing surfaces involve providing learners with a variety of spaces wh
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active learning, encourage collaboration, foster creative thinking, increase accessibility to writing
 
 ### Affordances

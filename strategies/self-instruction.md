@@ -20,11 +20,11 @@ Self-instruction, also known as self-talk or self-statements, is a strategy wher
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for learners with learning difficulties or those needing support with task initiation and completion
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-regulation, improve task focus, promote error detection and correction, develop coping strategies, reinforce positive behavior
 
 ### Affordances

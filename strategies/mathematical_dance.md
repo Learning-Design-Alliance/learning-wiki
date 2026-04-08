@@ -20,11 +20,11 @@ Mathematical dance involves using movement to illustrate mathematical concepts. 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages, particularly those interested in mathematics and dance
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Illustrate mathematical concepts, demonstrate links between shapes, teach complex ideas through performance
 
 ### Affordances

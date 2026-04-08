@@ -20,11 +20,11 @@ AR is used to create models of the human body that let medical students learn an
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Medical students, medical professionals
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Allow for medical students to learn anatomy in depth; to provide more training opportunities with the help of simulations; and to practice surgeries on virtual patients.
 
 ### Affordances

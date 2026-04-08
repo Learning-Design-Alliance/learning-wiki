@@ -20,11 +20,11 @@ In this activity, learners express opinions by standing along a continuum labele
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners in grades 6–12, especially those who benefit from active learning strategies and discussions about controversial topics
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage perspective-taking, facilitate open discussions, strengthen evidence-based reasoning, promote self-reflection
 
 ### Affordances

@@ -20,11 +20,11 @@ Audiobooks and e-books can be used to enhance literacy skills, comprehension, an
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Emerging readers, K-12 students, English language learners, students with reading difficulties (e.g., dyslexia), and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance literacy skills, improve comprehension, expand vocabulary, increase engagement with reading, and support learners with reading challenges.
 
 ### Affordances

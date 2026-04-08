@@ -20,11 +20,11 @@ Whole class self-monitoring involves the entire class participating in self-moni
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and secondary classrooms where the teacher wants to promote self-regulation and responsible behavior in all students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-control, introspection, and responsible behavior in the entire classroom, fostering a positive and supportive learning environment.
 
 ### Affordances

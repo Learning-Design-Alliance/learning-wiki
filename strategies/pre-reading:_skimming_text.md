@@ -20,11 +20,11 @@ Pre-reading involves skimming a text to identify key ideas before reading from s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for adult learners and students in higher education who need to quickly grasp the main points of a text.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase reading speed and efficiency, locate key ideas, and provide an overview of the text before detailed reading.
 
 ### Affordances

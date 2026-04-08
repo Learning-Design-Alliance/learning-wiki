@@ -20,11 +20,11 @@ Youth Participatory Action Research (YPAR) is an approach where young people col
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Youth in middle school, high school, and community organizations, adult educators and mentors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote positive community change, empower youth leadership, democratize research, enhance youth development, develop research skills, foster critical thinking
 
 ### Affordances

@@ -20,11 +20,11 @@ These tools help learners identify the most important information and focus on i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with attention, visual learners, students with learning disabilities, and those who benefit from structured learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus on key information, enhance comprehension of complex topics, support information retention, engage visual learners
 
 ### Affordances

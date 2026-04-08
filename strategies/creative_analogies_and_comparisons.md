@@ -20,11 +20,11 @@ Simplify complex ideas by linking them to familiar situations, making them easie
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who struggle with abstract concepts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Simplify complex concepts, connect learning to real-world applications, improve learner engagement and retention
 
 ### Affordances

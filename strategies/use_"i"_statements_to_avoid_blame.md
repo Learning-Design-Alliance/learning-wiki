@@ -20,11 +20,11 @@ Avoid using “you” statements, which can make students defensive. Instead, us
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, counselors, parents, mentors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve communication, reduce defensiveness, promote empathy, encourage emotional awareness
 
 ### Affordances

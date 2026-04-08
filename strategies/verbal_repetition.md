@@ -20,11 +20,11 @@ Verbal repetition is a strategy where learners repeat information verbally to re
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for learners with strong auditory processing skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning through verbalization, improve retention, enhance auditory processing
 
 ### Affordances

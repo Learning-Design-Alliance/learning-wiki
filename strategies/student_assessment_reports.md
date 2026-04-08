@@ -20,11 +20,11 @@ Student assessment reports are visual aids used to track and communicate student
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers, students, and parents in preschool, elementary, and secondary education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Track student progress, communicate assessment results, reduce stress, make assessments approachable, facilitate communication
 
 ### Affordances

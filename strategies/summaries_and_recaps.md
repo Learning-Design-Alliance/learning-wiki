@@ -20,11 +20,11 @@ Reinforce and clarify concepts, making sure information is both understood and r
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who need extra support
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve understanding and retention, reinforce key concepts
 
 ### Affordances

@@ -20,11 +20,11 @@ Quiet time is a structured period of 10–15 minutes where students engage in ca
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to middle school students, adaptable for various age groups.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote relaxation, reduce classroom disruptions, enhance focus, and improve emotional regulation for students and teachers.
 
 ### Affordances

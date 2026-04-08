@@ -20,11 +20,11 @@ Using word processing software like Google Docs allows learners to write, share,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, K-12 through adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance foundational writing skills, support metacognition, facilitate peer review, accommodate diverse learner needs
 
 ### Affordances

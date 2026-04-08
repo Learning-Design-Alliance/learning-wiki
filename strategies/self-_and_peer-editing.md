@@ -20,11 +20,11 @@ Self- and peer-editing are collaborative processes where learners evaluate their
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 3-5
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase self-awareness of writing conventions, build a learning community, enhance collaboration, improve print and grammatical conventions
 
 ### Affordances

@@ -20,11 +20,11 @@ Effective math instruction connects to real-life and culturally relevant context
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Math teachers in diverse classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Make math concepts relatable, improve student engagement, foster understanding, and connect math to student interests.
 
 ### Affordances

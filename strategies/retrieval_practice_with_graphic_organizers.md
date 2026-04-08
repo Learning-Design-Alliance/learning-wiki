@@ -20,11 +20,11 @@ After students do a Brain Dump, where they try to recall as much as they can abo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Solidify the benefit of the retrieval and help them get very clear on where they have gaps in their knowledge.
 
 ### Affordances

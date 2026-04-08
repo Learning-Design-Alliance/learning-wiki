@@ -20,11 +20,11 @@ This method involves identifying a student's strengths related to social awarene
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, with a focus on students struggling with social awareness.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve students' ability to understand social norms, empathize with others, and communicate constructively.
 
 ### Affordances

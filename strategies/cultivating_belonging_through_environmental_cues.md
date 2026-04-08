@@ -20,11 +20,11 @@ This strategy involves using simple yet powerful cues in the classroom environme
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly those from marginalized groups
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote inclusivity, reduce stereotype threat, foster a sense of belonging
 
 ### Affordances

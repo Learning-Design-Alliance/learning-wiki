@@ -20,11 +20,11 @@ Learners select and summarize published articles that highlight the ways math is
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Illustrate the relevance of mathematics, develop comprehension and summarization skills, enhance critical thinking, and provide a deeper appreciation for the usefulness of mathematics.
 
 ### Affordances

@@ -20,11 +20,11 @@ Students select four key events from a novel and create scrapbook entries repres
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Build relationship skills, enhance understanding of character relationships, promote creativity, and encourage visual literacy.
 
 ### Affordances

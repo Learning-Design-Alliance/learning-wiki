@@ -20,11 +20,11 @@ Teacher racial identity work involves educators examining their own racial ident
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All educators, particularly those who work with diverse student populations.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase educators' self-awareness, reduce bias, promote equity, and empower students to advocate for themselves.
 
 ### Affordances

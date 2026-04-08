@@ -1,111 +1,70 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Game-based Learning
 
 ## Description
-Game-based learning is an active learning experience with clear objectives and measurable outcomes designed to be intrinsically game-like. The game itself serves as the learning experience, ideally set in a real-world context. This approach often involves learning through errors along a mastery path, supporting the development of a learner mindset. Research indicates that game-based learning can enhance motivation, engagement, complex problem-solving, and social-emotional skills such as self-regulation.
+Game-based learning is the instructional principle of using a game itself as the learning environment, with goals, rules, feedback, and progression aligned to specific learning outcomes. Unlike light gamification layered onto ordinary tasks, game-based learning makes the core learning activity intrinsically game-like: learners make decisions, test strategies, receive immediate consequences, and improve through repeated attempts. When designed well, it can increase time on task, support mastery through iteration, and make complex systems or decisions easier to experience directly.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **Aligned learning goals**: The win conditions and mechanics need to reflect the target skill, not merely add entertainment.
+- **Tight feedback loops**: Learners need immediate in-game consequences, hints, or progress signals so they can adjust strategy during play.
+- **Repeatable challenge**: The design should support multiple attempts, safe failure, and a visible path toward improvement [[claims/high-confidence-errors-improve-retention]] [+S].
+- **Debrief or reflection**: Without explanation and transfer prompts, learners may improve at the game without extracting the intended concept or strategy [[claims/self-explanation-improves-conceptual-understanding]] [+M].
 #### Constraints
-- <!-- TODO -->
+- **Reward distraction**: Points, badges, or competition can crowd out the learning goal if they are easier to optimize than the target skill.
+- **Misaligned mechanics**: A game can be engaging while still teaching the wrong habits if the mechanics reward shortcuts unrelated to the intended outcome.
+- **Accessibility barriers**: Reading load, pace, device demands, or sensory complexity can exclude learners if not deliberately designed for.
+- **Transfer gap**: Success in a simulated or fictional environment does not guarantee transfer unless the task structure and debrief connect clearly to real use.
 
 ### Target Learners
-- Learner Background:
-
-Physical Well-being
-Adverse Experiences
-Literacy Environment
-Sleep
-Safety
-Socioeconomic Status
-Social and Emotional Learning:
-
-Emotion
-Self-regulation
-Motivation
-Learner Mindset
-Sense of Belonging
-Social Awareness & Relationship Skills
-Cognition:
-
-Cognitive Flexibility
-Attention
-Inhibition
-Long-term Memory
-Reasoning
-Short-term Memory
-Metacognition
-Speed of Processing
-Language and Literacy:
-
-Disciplinary Literacy
-Foundational Reading Skills
-Digital Literacy
-Problem Solving
+- **Learners who benefit from active experimentation**: Particularly useful when understanding improves through trying, observing consequences, and iterating.
+- **Learners with low engagement in traditional formats**: Game structure can increase participation when it clarifies goals and makes progress visible.
+- **Learners practicing decision-making in systems**: Strong fit for content involving strategy, tradeoffs, sequencing, and dynamic feedback.
+- **Groups learning social or collaborative skills**: Multiplayer or team-based formats can surface communication, coordination, and role-taking.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Procedural fluency through repetition**: Repeated attempts can support mastery when each round gives useful feedback.
+- **Strategic decision-making**: Learners practice selecting, testing, and revising plans under constraints.
+- **Complex problem solving**: Simulated systems let learners observe interactions, consequences, and tradeoffs.
+- **Motivation and persistence**: Progression systems can sustain effort when challenge and feedback are well calibrated.
 
 ### Theory
 #### Supporting
-- [[theories/flow-theory-csikszentmihalyi-constructivism-piaget|Flow Theory (Csikszentmihalyi)
-Constructivism (Piaget]]
-- [[theories/bruner|Bruner]]
-- [[theories/vygotsky-self-regulated-learning-zimmerman|Vygotsky)
-Self-Regulated Learning (Zimmerman)]]
+- Flow theory (Csikszentmihalyi) — game-based environments can sustain attention when challenge and skill are well matched.
+- Constructivist learning theory — learners build understanding by acting in an environment, seeing consequences, and revising mental models.
+- Self-Regulated Learning (Zimmerman) — games with clear goals and feedback support monitoring, persistence, and strategy adjustment.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- The motivational benefits of games are not automatic; novelty can mask weak instructional design.
+- Some learning goals are better served by direct explanation or worked examples before game-based practice, especially for novices [[claims/worked-examples-example-problem-sequences]] [+S].
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Alsawaier, R. S. (2018). The effect of gamification on motivation and engagement. International Journal of Information and Learning Technology, 35(1), 56-79.​
-
-An, Y. (2020). Designing effective gamified learning experiences. International Journal of Technology in Education, 3(2), 62-69.​
-
-Armier Jr, D. D., Shepherd, C. E., & Skrabut, S. (2016). Using game elements to increase student engagement in course assignments. College Teaching, 64(2), 64-72.​
-
-Bareicheva, M., Stepanova, N., Bochkov, P., & Davy, Y. (2019). Using games to develop personal skills required for strategic decision making. European Conference on Game-based Learning.​
-
-Bezzina, S. (2019). Games, design and assessment: How game designers are doing it right. European Conference on Games Based Learning.​
-
-Huang, B., & Hew, K. F. (2021). Using gamification to design courses: Lessons learned in a three-year design-based study. Journal of Educational Technology & Society, 24(1), 44–63.​
-
-Boghian, I., Cojocariu, V. M., Popescu, C. V., & Mâţă, L. (2019). Game-based learning - Using board games in adult education. Journal of Educational Sciences and Psychology, 9(1).​
-
-Braad, E., Degens, N., & Ijsselsteijn, W. (2019). Towards a framework for metacognition in game-based learning. Proceedings of the 13th International Conference on Game Based Learning, ECGBL.​
-
-Buckley, J., Dewille, T., Exton, C., Exton, G., & Murray, L. (2018). A gamification–motivation design framework for educational software developers. Journal of Educational Technology Systems, 47(1), 101-127.​
-
-Chang, J. W., & Wei, H. Y. (2016). Exploring engaging gamification mechanics in massive online open courses. Educational Technology & Society, 19(2), 177-203.​
-
-Eseryel, D., Law, V., Ifenthaler, D., Ge, X., & Miller, R. (2014). An investigation of the interrelationships between motivation, engagement, and complex problem solving in game-based learning. Educational Technology & Society, 17(1), 42-53.​
-
-Hung, A. C. Y. (2017). A critique and defense of gamification. Journal of Interactive Online Learning, 15(1), 57-72.​
-
-Kim, T., & Werbach, K. (2016). More than just a game: Ethical issues in gamification. Ethics and Information Technology, 18(2), 157-173.​
-
-Liu, Z. Y., Shaikh, Z., & Gazizova, F. (2020). Using the concept of game-based learning in education. International Journal of Emerging Technologies in Learning, 15(14), 53-64.​
-
-Meşe, C., & Dursun, Ö. Ö. (2019). Effectiveness of gamification elements in blended learning environments. The Turkish Online Journal of Distance Education, 20(3), 119-142.​
-
-Poondej, C., & Lerdpornkulrat, T. (2019). Gamification in e-learning: A Moodle implementation and its effect on student engagement and performance. Interactive Technology and Smart Education, 17(1), 56-66.​
-
-Tóth, Á., Lógó, P., & Lógó, E. (2019). The effect of the kahoot quiz on the student's results in the exam. Periodica Polytechnica Social and Management Sciences, 27(1), 59-63.
+- [[claims/high-confidence-errors-improve-retention]] [+S]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+M]
+- [[claims/worked-examples-example-problem-sequences]] [+S]
+- [[claims/whole-task-performance-improves-transfer]] [+M]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/simulations-immersive-virtual-environments|Simulations & Immersive Virtual Environments]] — simulations overlap with game-based learning when the experience models a system learners must navigate.
+- [[principles/immediate-feedback|Immediate Feedback]] — games depend on fast consequence signals to support adaptation and persistence.
+- [[principles/error-analysis|Error Analysis]] — game loops often create repeated opportunities to learn from mistakes.
+- [[principles/guided-practice|Guided Practice]] — many instructional games work best after some initial modeling or guided rehearsal.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Scenario-based digital games**: Learners manage resources, make choices, and see consequences unfold across rounds or levels.
+- **Board or card games for concept practice**: Structured turn-taking and rules create repetition with feedback while keeping attention high.
+- **Quiz-show style review games**: Fast cycles of attempt and feedback can increase practice volume when questions still align to real objectives.
+- **Collaborative mission games**: Teams solve a shared problem, requiring explanation, coordination, and iterative strategy updates.
 
 ## Key Sources
-- <!-- TODO -->
+- Eseryel, D., Law, V., Ifenthaler, D., Ge, X., & Miller, R. (2014). An investigation of the interrelationships between motivation, engagement, and complex problem solving in game-based learning. *Educational Technology & Society, 17*(1), 42-53.
+- Liu, Z. Y., Shaikh, Z., & Gazizova, F. (2020). Using the concept of game-based learning in education. *International Journal of Emerging Technologies in Learning, 15*(14), 53-64. [https://doi.org/10.3991/ijet.v15i14.14675](https://doi.org/10.3991/ijet.v15i14.14675)
+- Boghian, I., Cojocariu, V. M., Popescu, C. V., & Mâţă, L. (2019). Game-based learning - Using board games in adult education. *Journal of Educational Sciences and Psychology, 9*(1).
+- An, Y. (2020). Designing effective gamified learning experiences. *International Journal of Technology in Education, 3*(2), 62-69. [https://doi.org/10.46328/ijte.v3i2.27](https://doi.org/10.46328/ijte.v3i2.27)

@@ -20,11 +20,11 @@ Tell students they have the right to feel the way they feel. Recognize that the 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, counselors, parents, mentors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote emotional well-being, build trust, enhance empathy, reduce judgment
 
 ### Affordances

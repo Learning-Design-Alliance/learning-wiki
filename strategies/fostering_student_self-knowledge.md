@@ -20,11 +20,11 @@ Fostering student self-knowledge involves implementing measures that help studen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students in grades 3 to 8
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-awareness, foster self-confidence, improve learning strategies, encourage goal-setting
 
 ### Affordances

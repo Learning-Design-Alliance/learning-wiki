@@ -20,11 +20,11 @@ Teachers promote belonging in the math classroom through instructional choices a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - PreK-12 and higher education teachers and school and district leaders.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster a sense of belonging, improve academic motivation, enhance achievement, and promote mental and physical health.
 
 ### Affordances

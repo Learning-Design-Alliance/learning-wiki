@@ -20,11 +20,11 @@ Dual color highlighting is a feature within text-to-speech software that highlig
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with reading difficulties, visual processing challenges, or attention deficits; K-12 students, higher education students, adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance visual tracking skills, improve focus during reading, support multisensory learning, increase engagement with text, and improve reading comprehension by linking auditory and visual stimuli.
 
 ### Affordances

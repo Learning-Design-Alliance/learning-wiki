@@ -20,11 +20,11 @@ A counting game where a chosen number is forbidden, and learners must skip it wh
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students, adaptable for various age groups
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance focus, improve number sequencing skills, and practice strategic thinking
 
 ### Affordances

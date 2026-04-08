@@ -20,11 +20,11 @@ last_edited: 2026-04-06
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teach learners to be aware of and intentionally choose their self-talk.
 
 ### Affordances

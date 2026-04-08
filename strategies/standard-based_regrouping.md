@@ -20,11 +20,11 @@ Form homogeneous groups based on learners' mastery of specific standards. Assess
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective in classrooms with diverse skill levels and standards-based curricula.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Address specific standard deficits, improve efficiency of instruction, provide targeted support, challenge advanced learners.
 
 ### Affordances

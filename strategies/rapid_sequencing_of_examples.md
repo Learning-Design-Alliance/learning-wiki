@@ -20,11 +20,11 @@ Present instances of a concept in rapid sequence or allow all instances to be vi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly with abstract concepts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate generalization and concept formation
 
 ### Affordances

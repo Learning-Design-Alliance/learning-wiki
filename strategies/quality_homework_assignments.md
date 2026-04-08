@@ -20,11 +20,11 @@ Assigning homework that reinforces learning, encourages real-world application, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially effective for adults and those in language learning programs.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning, encourage real-world application, enhance engagement, provide meaningful practice, promote long-term retention
 
 ### Affordances

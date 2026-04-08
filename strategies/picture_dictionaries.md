@@ -20,11 +20,11 @@ Picture dictionaries are reference tools that use illustrations to define words 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All ages, including language learners, visual learners, young children, ESL students, and individuals with learning disabilities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To support visual learning by making connections between words and images. To improve understanding and comprehension of terminology for language learners and beginning readers. To expand vocabulary and develop language proficiency. To increase engagement with texts through visual support.
 
 ### Affordances

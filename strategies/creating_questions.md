@@ -20,11 +20,11 @@ Creating Questions is a strategy where learners generate questions about what th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance active listening, promote metacognitive thinking, identify areas of confusion
 
 ### Affordances

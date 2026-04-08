@@ -20,11 +20,11 @@ Peergrade is a platform that allows learners to give and receive feedback effect
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school and higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide structured and objective feedback, promote self-reflection, and enhance critical thinking skills
 
 ### Affordances

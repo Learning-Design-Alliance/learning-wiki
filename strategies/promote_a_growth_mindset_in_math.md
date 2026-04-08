@@ -20,11 +20,11 @@ Promote a growth mindset by giving feedback that values effort and encourages pe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who struggle with math or have a fixed mindset about their math abilities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage effort and persistence, foster a growth mindset, promote continuous improvement
 
 ### Affordances

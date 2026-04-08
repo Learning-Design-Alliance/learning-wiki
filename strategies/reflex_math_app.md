@@ -20,11 +20,11 @@ Among all the math fluency apps listed here, Reflex stands out with a research-b
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students ages 2-8.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learn math with an adaptive learning environment.
 
 ### Affordances

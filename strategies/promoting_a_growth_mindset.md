@@ -20,11 +20,11 @@ Promoting a growth mindset, particularly in mathematics, encourages learners to 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who may view intelligence as a fixed trait.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a growth mindset, encourage persistence, and improve learning outcomes.
 
 ### Affordances

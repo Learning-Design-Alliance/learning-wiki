@@ -20,11 +20,11 @@ Students engage with simulations designed to provide hands-on experience with re
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who benefit from hands-on learning and real-world applications.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide authentic learning experiences, promote active learning, facilitate understanding and application of complex concepts.
 
 ### Affordances

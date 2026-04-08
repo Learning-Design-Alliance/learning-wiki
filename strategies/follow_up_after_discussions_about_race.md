@@ -20,11 +20,11 @@ This strategy involves taking actions that might change inequities revealed duri
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and backgrounds
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote action-oriented learning, address inequities, and empower students to become change agents
 
 ### Affordances

@@ -20,11 +20,11 @@ This is a specific model targeting young learners. The aim is to replace the hom
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Specifically designed for young learners who may benefit from reduced homework and increased teacher support.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Replace traditional homework, provide individualized support, reinforce understanding through one-to-one interaction.
 
 ### Affordances

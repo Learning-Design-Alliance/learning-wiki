@@ -20,11 +20,11 @@ Inviting learners to express their understanding through drawings provides insig
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assess learner understanding, uncover preconceptions and misconceptions, and encourage critical thinking.
 
 ### Affordances

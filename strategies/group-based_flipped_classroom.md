@@ -20,11 +20,11 @@ The group-based model focuses on group learning. After the students have studied
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners who thrive in collaborative environments and can learn effectively from peers.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster collaboration, improve communication skills, enhance retention through peer teaching.
 
 ### Affordances

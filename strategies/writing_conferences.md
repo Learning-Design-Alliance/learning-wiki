@@ -20,11 +20,11 @@ Writing conferences are brief, individualized meetings between a teacher and a s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, higher education, and adult learners in writing programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing skills, provide individualized feedback, foster self-assessment and goal setting, enhance understanding of the writing process
 
 ### Affordances

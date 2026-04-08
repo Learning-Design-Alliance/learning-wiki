@@ -20,11 +20,11 @@ Using physical objects to represent parts of speech in sentences. Learners write
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and middle school learners who are learning to write sentences and understand parts of speech.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce understanding of sentence structure and grammar, improve vocabulary, and provide a hands-on way to practice syntax.
 
 ### Affordances

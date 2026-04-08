@@ -20,11 +20,11 @@ An emotional thermometer is a visual tool used to help children recognize and ga
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Young children, especially those learning to manage anger and other intense emotions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional awareness, promote self-assessment, facilitate early intervention, teach emotion regulation
 
 ### Affordances

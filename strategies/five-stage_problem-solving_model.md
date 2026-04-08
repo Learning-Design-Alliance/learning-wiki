@@ -20,11 +20,11 @@ A five-stage model to help learners understand, identify, and resolve issues. Th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance problem-solving skills, improve understanding of problem parameters, promote systematic approaches to problem-solving
 
 ### Affordances

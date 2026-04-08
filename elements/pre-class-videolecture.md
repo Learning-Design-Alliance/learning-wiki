@@ -18,11 +18,11 @@ Instructional content is delivered via video or recorded lecture before in-class
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for flipped classrooms, STEM, and professional training.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Free up in-class time for active learning and discussion.
 
 ### Affordances

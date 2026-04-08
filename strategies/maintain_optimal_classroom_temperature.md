@@ -20,11 +20,11 @@ The temperature in a workspace affects engagement levels and overall productivit
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, teachers, and administrators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student engagement and enhance academic performance by maintaining optimal classroom temperatures
 
 ### Affordances

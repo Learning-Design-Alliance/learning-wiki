@@ -20,11 +20,11 @@ Venn diagrams are visual organizers that emphasize comparisons and contrasts bet
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for visual learners and those who need support in comparing and contrasting information
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension of similarities and differences, facilitate critical thinking and analysis, improve organization of information, strengthen recall
 
 ### Affordances

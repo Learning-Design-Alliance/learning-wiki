@@ -20,11 +20,11 @@ Explicit and systematic teaching of strategies, skills, and knowledge needed to 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All writers, from beginners to college students, including those with learning difficulties
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop proficient writing skills, improve planning and revision, automate foundational skills
 
 ### Affordances

@@ -20,11 +20,11 @@ Learners read a section of text to themselves before verbally summarizing the pa
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase comprehension, improve summarizing skills, increase Disciplinary Literacy skills
 
 ### Affordances

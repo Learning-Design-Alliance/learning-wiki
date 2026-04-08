@@ -20,11 +20,11 @@ Build your students’ emotion vocabulary by giving them direct access to those 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and middle school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Expand emotional vocabulary, improve ability to identify and label emotions, connect emotions to behaviors and coping strategies
 
 ### Affordances

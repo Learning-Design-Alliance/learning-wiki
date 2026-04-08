@@ -20,11 +20,11 @@ Gestures are physical movements, typically of the hands or arms, used to communi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for visual learners and those needing support with counting or memory
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve retention, support counting accuracy, capture attention
 
 ### Affordances

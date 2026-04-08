@@ -20,11 +20,11 @@ This strategy involves teachers reflecting on their teaching practice by engagin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve teaching practice, identify areas for improvement, incorporate best practices
 
 ### Affordances

@@ -20,11 +20,11 @@ Define responsibility and ethical responsibility. Give students specific tools s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Define responsibility, apply ethical responsibility, improve decision-making skills
 
 ### Affordances

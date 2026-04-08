@@ -20,11 +20,11 @@ Encouraging learners to read questions and their own writing aloud helps leverag
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with strengths in auditory processing
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve writing skills, support learners with auditory strengths
 
 ### Affordances

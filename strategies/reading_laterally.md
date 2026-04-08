@@ -20,11 +20,11 @@ Reading Laterally is the practice of verifying information by consulting multipl
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who frequently encounter online information and need to assess its reliability, including students, researchers, and general consumers of news and social media
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Evaluate the credibility of online sources, identify bias and misinformation, improve critical thinking skills, enhance information literacy
 
 ### Affordances

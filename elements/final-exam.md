@@ -18,11 +18,11 @@ A cumulative assessment evaluating learners' mastery of the entire course materi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for academic courses, professional certifications, and higher education.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assess overall competency and content retention.
 
 ### Affordances

@@ -20,11 +20,11 @@ Providing group assignments where learners can find common ground and/or interes
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners of all ages and backgrounds, particularly those who may feel isolated or disconnected from their peers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster a sense of connection and belonging, promote positive relationships and teamwork, encourage meaningful discussions and support among learners
 
 ### Affordances

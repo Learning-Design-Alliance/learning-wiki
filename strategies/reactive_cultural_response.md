@@ -20,11 +20,11 @@ Reactive Cultural Response is the ability to change the structure, activities, a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those in diverse classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Address immediate challenges, foster a positive classroom culture, adjust activities to match student personalities, increase collaboration and inclusivity.
 
 ### Affordances

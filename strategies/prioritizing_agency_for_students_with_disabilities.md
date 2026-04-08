@@ -20,11 +20,11 @@ Prioritizing agency for students with disabilities involves fostering self-advoc
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with disabilities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-advocacy and self-determination skills, improve educational and life outcomes, and empower students to take an active role in their learning and lives.
 
 ### Affordances

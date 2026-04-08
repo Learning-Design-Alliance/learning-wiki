@@ -20,11 +20,11 @@ Culturally and historically responsive literacy is an equity framework to help e
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-higher education grade levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote identity development, literacy skill development, intellectual development, and criticality. Support youth of color who have been marginalized in learning standards, policies, and school practices.
 
 ### Affordances

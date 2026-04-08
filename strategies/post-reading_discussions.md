@@ -20,11 +20,11 @@ After reading, instructors facilitate discussions to explore learners' favorite 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially effective after reading activities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Deepen engagement, promote student interaction, reinforce key takeaways
 
 ### Affordances

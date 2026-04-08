@@ -20,11 +20,11 @@ Learners begin in pairs, responding to a discussion question only with a single 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and subject areas, particularly effective for brainstorming, problem-solving, and decision-making activities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active participation, encourage peer learning and collaboration, enhance communication skills, build consensus
 
 ### Affordances

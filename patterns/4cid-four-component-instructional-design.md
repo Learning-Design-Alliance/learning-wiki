@@ -1,78 +1,104 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: Jeroen J. G. van Merriënboer
-grain_size: Unit (Applicable to courses, training programs, and instructional sequences)
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: Jeroen J. G. van Merrienboer
+grain_size: unit
 ---
 
 # 4C/ID (Four-Component Instructional Design)
 
 ## Description
-The 4C/ID model is an instructional design framework for teaching complex skills. It organizes instruction around four key components: (1) Whole-task learning, (2) Supportive information, (3) Procedural information, and (4) Part-task practice. Learning progresses from simple to complex tasks, with scaffolding that gradually decreases as learners develop expertise. This model emphasizes variability in learning tasks, integrating knowledge, skills, and attitudes to improve transfer to real-world applications. The structured sequencing of elements ensures that both routine and non-routine aspects of learning are effectively addressed.
+4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice. The pattern is designed for skills that require learners to integrate knowledge, strategy, and procedure rather than master isolated facts. Its central move is to keep the whole task visible while still managing difficulty through sequencing, scaffolding, and selective automation of subskills.
+
+The pattern is strongest when learners need transfer to authentic performance. It is not mainly a content-delivery model. It is a design approach for building sequences in which learners perform meaningful tasks, receive just enough support, and gradually work with more variability and complexity over time.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Requires authentic tasks that align with real-world activities; Needs resources for scaffolding and just-in-time instruction; Instructors must provide gradual removal of support over time.
+- **Complex performance goals**: Best used when the target involves coordination of multiple skills in realistic tasks.
+- **A sequence of whole tasks**: Tasks should progress from simpler to more complex while preserving meaningful structure.
+- **Supportive and procedural information**: Learners need conceptual guidance before or around the task and just-in-time directions during performance.
+- **Selective part-task practice**: Routine elements can be isolated when automation is necessary and the whole task would overload absolute novices.
 #### Constraints
-- Time-intensive, requiring multiple iterations of whole-task performance; Less suited for simple factual recall or basic procedural skills; Requires careful design to ensure scaffolding and sequencing are effective.
+- **Design intensity**: 4C/ID requires careful sequencing, task-class design, and support planning.
+- **Weak fit for simple recall**: It is excessive for instruction focused mainly on memorization or single-step procedures.
+- **Scaffolding quality matters**: Poorly timed support can either overload learners or over-support them.
+- **Whole-task complexity can swamp novices**: Designers still need to manage intrinsic load deliberately.
 #### Grain Size
-Unit (Applicable to courses, training programs, and instructional sequences)
+- Unit
+- Course
+- Training sequence
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Best suited for complex, real-world skills development, particularly in professional training, technical education, and medical instruction. Effective for skills requiring both problem-solving and procedural fluency.
+- **Complex skill acquisition**: Building integrated performance rather than detached subskills.
+- **Transfer**: Preparing learners for real or realistic practice conditions.
+- **Strategic and procedural coordination**: Combining conceptual understanding with fluent execution.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Originally designed for adult learners and professionals, but applicable to learners at different levels engaging in authentic, whole-task learning.
+- **Adult and professional learners**: Strong fit for workforce, technical, medical, and higher education contexts.
+- **Learners preparing for authentic performance**: Best when the outcome is application in practice, not only classroom recall.
+- **Novices in complex domains**: Particularly useful when complexity must be managed without losing sight of the whole task.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Cognitive load theory — complex performance should be sequenced so intrinsic load is manageable and extraneous load stays low.
+- Whole-task instructional design traditions — authentic coordinated performance supports transfer better than isolated training alone.
+- Scaffolding and fading perspectives — supports should be gradually withdrawn as learners gain control.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Not all skills require full 4C/ID treatment; some can be learned more efficiently through simpler explicit instruction sequences.
+- Part-task work is a support inside the pattern, not the organizing center.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/whole-task-performance-improves-transfer]] [+S]
+- [[claims/part-task-practice-reduces-load-for-novices]] [+M]
+- [[claims/contingent-scaffolding-improves-learning]] [+M]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/worked-examples-expertise-reversal]] [~M]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-- Whole tasks are sequenced from simplest to most complex; Part-task practice is introduced only when routine aspects require automation; Procedural information is delivered just-in-time and fades as learners gain expertise.
+1. Present a whole task at an entry level learners can attempt.
+2. Provide supportive information that helps learners understand the task class and relevant strategies.
+3. Deliver procedural information just in time during task performance.
+4. Add part-task practice for routine subskills that need automation.
+5. Increase task variability and complexity while fading supports.
 
 ### Elements Used
-- [[elements/whole-task-learning|Whole-task learning]]
-- [[elements/supportive-information|Supportive information]]
-- [[elements/procedural-information|Procedural information]]
-- [[elements/part-task-practice|Part-task practice]]
+- [[elements/whole-task-performance|Whole-task Performance]]
+- [[elements/part-task-practice|Part-task Practice]]
+- [[elements/problem-presentation|Problem Presentation]]
+- [[elements/assessment|Assessment]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/learning-is-structured-through-whole-task-learning-with-real-world-complexity|Learning is structured through whole-task learning with real-world complexity]]
-- [[principles/cognitive-load-management-ensures-information-is-delivered-just-in-time-to-avoid-overload|Cognitive load management ensures information is delivered just-in-time to avoid overload]]
-- [[principles/scaffolding-and-fading-provide-support-early-on-and-gradually-withdraw-it|Scaffolding and fading provide support early on and gradually withdraw it]]
-- [[principles/variability-of-practice-fosters-deeper-understanding-and-transfer-to-new-contexts|Variability of practice fosters deeper understanding and transfer to new contexts]]
-- [[principles/problem-solving-and-critical-thinking-are-emphasized-for-non-routine-skills|Problem-solving and critical thinking are emphasized for non-routine skills.]]
-
+- [[principles/guided-practice|Guided Practice]]
+- [[principles/problem-based-learning|Problem-based Learning]]
+- [[principles/competency-based-learning-assessment|Competency-Based Learning & Assessment]]
+- [[principles/worked-examples|Worked Examples]]
 
 ### Personalization
-- Allows adaptive scaffolding based on learner progress; Supports self-directed learning through individualized task selection; Can be tailored to different learners by adjusting task complexity and feedback mechanisms.
+- Task complexity can be adjusted by changing constraints, support, and variability.
+- Procedural supports can be faded at different rates for different learners.
+- Part-task practice can be targeted only to the subskills a learner has not yet automated.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
+- [[patterns/cognitive-load-reduction-clt-scaffolding-approach|Cognitive Load Reduction (CLT Scaffolding Approach)]]
 
 ## Examples
-- Medical training: Simulated patient interactions using progressive case complexity; Aviation: Pilot training with increasing flight simulation difficulty; Engineering education: Problem-based design tasks progressing from simple prototypes to complex systems.
+- Clinical training programs that move from simpler to more complex patient cases while fading support.
+- Technical workforce training where learners perform increasingly realistic troubleshooting tasks.
+- Professional education sequences that combine authentic tasks, coaching, and targeted subskill drills.
 
 ## Impact
-- Research indicates higher transfer of skills to real-world settings (van Merriënboer et al., 2006); Improves complex problem-solving abilities (Vandewaetere et al., 2015); Enhances retention and automation of procedural skills (van Merriënboer & Sweller, 2010).
+- Strong fit for complex-skill domains where transfer matters more than short-term task ease.
+- Helps preserve authentic performance demands while still protecting novices from overload.
 
 ## Key Sources
-- van Merriënboer, J. J. G. (1997). Training Complex Cognitive Skills; van Merriënboer & Kirschner (2018). Ten Steps to Complex Learning; van Merriënboer et al. (2006). Teaching Complex Rather Than Simple Tasks: Balancing Intrinsic and Germane Load to Enhance Transfer of Learning; Vandewaetere et al. (2015). 4C/ID in Medical Education: Whole-Task Learning Design; van Merriënboer & Sweller (2010). Cognitive Load Theory in Health Professional Education: Design Principles and Strategies.
+- van Merrienboer, J. J. G. (1997). *Training complex cognitive skills*. Educational Technology Publications.
+- van Merrienboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and germane load to enhance transfer of learning. *Applied Cognitive Psychology, 20*(3), 343-352. [https://doi.org/10.1002/acp.1250](https://doi.org/10.1002/acp.1250)
+- van Merrienboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge.

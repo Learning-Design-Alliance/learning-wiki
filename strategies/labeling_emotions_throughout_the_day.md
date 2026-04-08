@@ -20,11 +20,11 @@ Labeling emotions involves intentionally naming and describing one's own emotion
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All age groups, including early childhood, elementary, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop emotional literacy, improve self-awareness, enhance empathetic communication
 
 ### Affordances

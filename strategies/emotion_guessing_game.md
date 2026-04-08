@@ -20,11 +20,11 @@ An emotion guessing game involves an instructor or student making an emotion fac
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All age groups, including early childhood, elementary, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional vocabulary, improve nonverbal communication, promote empathy and social awareness
 
 ### Affordances

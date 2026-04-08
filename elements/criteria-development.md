@@ -18,11 +18,11 @@ Learners create rubrics or evaluation frameworks for assessment.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for project-based learning, writing instruction, and assessment training.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve analytical reasoning and standard-setting abilities.
 
 ### Affordances

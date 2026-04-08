@@ -20,11 +20,11 @@ Collaborative storytelling involves students working in pairs to co-create a nar
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to high school students, particularly beneficial for English language learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop narrative writing skills, enhance collaboration, improve task fulfillment, grammatical accuracy, and complexity in writing, foster critical thinking and communication skills.
 
 ### Affordances

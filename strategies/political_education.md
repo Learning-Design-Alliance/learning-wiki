@@ -20,11 +20,11 @@ Political education involves developing a comprehensive understanding of the his
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students, educators, and community members involved in social justice work
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop critical consciousness, understand systemic issues, analyze power dynamics, inform action, foster empathy
 
 ### Affordances

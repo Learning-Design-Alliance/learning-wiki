@@ -20,11 +20,11 @@ Begin teaching how to spell multisyllable words by beginning with compounds. The
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grade 3 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling skills, enhance vocabulary, develop understanding of word structure
 
 ### Affordances

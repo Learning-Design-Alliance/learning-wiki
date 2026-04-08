@@ -20,11 +20,11 @@ The PQP (Praise-Question-Polish) technique guides learners to provide specific a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners in grades 6-12 and higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide specific and constructive feedback, improve self-editing skills, and enhance listening skills
 
 ### Affordances

@@ -20,11 +20,11 @@ Providing diverse materials in the classroom helps learners deepen their self-un
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those from diverse backgrounds, K-12, higher education, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Deepen self-understanding, enhance understanding of others, validate diverse voices, foster a sense of belonging, promote positive perceptions of self and others
 
 ### Affordances

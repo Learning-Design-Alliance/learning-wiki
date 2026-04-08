@@ -20,11 +20,11 @@ One-on-one conferences involve providing individualized feedback to a learner in
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, across grade levels and subject areas
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide personalized feedback, foster open communication, encourage self-reflection, build positive relationships
 
 ### Affordances

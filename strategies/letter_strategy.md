@@ -20,11 +20,11 @@ The letter strategy is a mnemonic technique that involves using acronyms and acr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners, particularly useful for subjects involving lists or sequences of information. Beneficial for students with learning disabilities or memory challenges.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve memory of lists and sequences, enhance encoding of information through verbal cues, facilitate recall of facts and concepts, reinforce association of letters with specific elements
 
 ### Affordances

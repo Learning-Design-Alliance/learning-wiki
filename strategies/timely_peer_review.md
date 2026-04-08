@@ -20,11 +20,11 @@ This strategy involves conducting peer reviews at multiple points in the writing
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce the iterative nature of the writing process, promote continuous improvement, and enhance learners' ability to use feedback to drive growth
 
 ### Affordances

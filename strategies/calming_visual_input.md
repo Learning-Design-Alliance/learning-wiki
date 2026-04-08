@@ -20,11 +20,11 @@ Managing visual input involves altering the visual environment to reduce oversti
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children in school settings, particularly those with visual sensitivities or who are easily overwhelmed
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce overstimulation, promote relaxation, manage visual input
 
 ### Affordances

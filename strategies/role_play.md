@@ -20,11 +20,11 @@ Role playing involves acting out different scenarios in a safe environment, allo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Employees in various roles, especially those involving customer service, management, or conflict resolution
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Build confidence, develop listening skills, engage in creative problem-solving, practice communication and conflict-resolution skills
 
 ### Affordances

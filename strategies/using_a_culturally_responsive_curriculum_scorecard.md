@@ -20,11 +20,11 @@ The Culturally Responsive Curriculum Scorecard is a tool designed to evaluate th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, parents, curriculum developers, and community members involved in evaluating and improving curriculum for K–12 education.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Evaluate and improve the cultural responsiveness of curriculum materials, ensuring they reflect diverse perspectives and promote equity.
 
 ### Affordances

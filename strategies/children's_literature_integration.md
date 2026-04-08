@@ -20,11 +20,11 @@ Integrating children's literature, especially multicultural literature, into mat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Introduce math concepts, reinforce ideas, improve engagement, apply skills in real-world contexts
 
 ### Affordances

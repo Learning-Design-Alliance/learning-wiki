@@ -20,11 +20,11 @@ Before learners write, provide a handout of transitions. Model where transitions
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing skills, increase coherence, increase Disciplinary Literacy skills
 
 ### Affordances

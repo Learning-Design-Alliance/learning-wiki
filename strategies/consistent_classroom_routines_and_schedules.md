@@ -20,11 +20,11 @@ Maintaining predictable classroom routines and schedules provides students with 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for students with anxiety or those who thrive on structure and routine.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce anxiety and uncertainty, enhance predictability, and support emotional regulation by creating a stable classroom environment.
 
 ### Affordances

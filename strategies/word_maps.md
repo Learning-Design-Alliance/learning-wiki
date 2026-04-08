@@ -20,11 +20,11 @@ A word map is a visual organizer that promotes vocabulary development. Most word
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly effective for second language learners and students with varying reading skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop understanding of vocabulary, think about new terms and concepts in multiple ways, build upon prior knowledge, support oral and reading comprehension
 
 ### Affordances

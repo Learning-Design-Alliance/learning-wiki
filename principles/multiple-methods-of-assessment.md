@@ -1,104 +1,68 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Multiple Methods of Assessment
 
 ## Description
-Using multiple methods of assessment can help educators gain a comprehensive understanding of learner progress across a wide range of skills and content. Allowing learners to demonstrate their learning in multiple formats can be beneficial, particularly when learners are given autonomy in their assessment opportunities. Written, visual, and oral assessments can help educators understand learning from a variety of angles, informing instruction and shaping future assessments. Additionally, it is important to remember that not all assessment activities need to be graded, as many can be used to spark larger conversations about meeting learning goals and in turn inform instruction. Including students in brainstorming and selecting assessment methods is an empowering tool to increase student engagement and autonomy while letting them demonstrate their knowledge through their strengths. This can be especially beneficial for those with learning disabilities. The Universal Design for Learning (UDL) framework specifically highlights the need for multiple methods of assessment as a strengths-based method of differentiating instruction and assessment and addressing learner variability in the classroom.
+Using multiple methods of assessment means gathering evidence of learning through more than one type of task, representation, or performance. Instead of relying on a single assessment mode to stand in for all understanding, instructors use a mix of written, oral, visual, practical, performance-based, or reflective evidence to build a more credible picture of learner progress. The main value is not variety for its own sake, but better alignment between what is being assessed, how competence is expressed, and how different learners can show what they know.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **Clear learning targets**: Multiple assessment methods only help when all formats still point to the same underlying outcome.
+- **Comparable criteria**: Learners need transparent standards so different assessment modes are not judged arbitrarily.
+- **Intentional evidence design**: Different formats should capture different facets of competence or provide alternate routes to the same evidence.
+- **Use of results**: Multiple methods should improve feedback, interpretation, and instructional adjustment, not just generate more grading.
 #### Constraints
-- <!-- TODO -->
+- **False equivalence**: Different formats may not provide equally strong evidence for every skill.
+- **Assessment sprawl**: Too many methods can create confusion or excessive grading burden.
+- **Uneven rigor**: If one option is clearly easier or better supported, flexibility can become inequitable.
+- **Surface variety**: Changing format without changing evidence quality does not improve assessment validity.
 
 ### Target Learners
-- Learner Background:
-Physical Well-being
-Adverse Experiences
-Hearing
-Literacy Environment
-Primary Language
-Sleep
-Safety
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Self-regulation
-Motivation
-Learner Mindset
-Sense of Belonging
-
-Cognition:
-Auditory Processing
-Attention
-Inhibition
-Long-term Memory
-Short-term Memory
-Speed of Processing
-Working Memory
-
-Language and Literacy:
-Disciplinary Literacy
-Composition
-Foundational Reading Skills
-Background Knowledge
-Digital Literacy
-Numeracy
-Oral Communication Skills
-Problem Solving
+- **Learners with varied strengths and access needs**: Multiple methods can reduce overreliance on a single expression mode.
+- **Learners demonstrating complex competence**: Especially useful when no one task captures all relevant skill dimensions.
+- **Adult learners with rich applied experience**: Performance, oral, and reflective evidence may complement traditional written assessment.
+- **Instructors seeking a fuller evidence picture**: Strong fit when formative and summative decisions need more than one indicator.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Broader evidence of competence**: Capturing understanding, application, communication, and reflection across formats.
+- **Fairer demonstration of learning**: Allowing more than one legitimate route to show mastery.
+- **Instructional adjustment**: Using different evidence types to identify where support is needed.
+- **Learner agency in assessment**: Supporting bounded choice in how understanding is demonstrated.
 
 ### Theory
 #### Supporting
-- [[theories/self-determination-theory-deci-ryan-knowles-andragogy-gagnes-conditions-of-learning|Self-Determination Theory (Deci & Ryan)
-Knowles’ Andragogy
-Gagne’s Conditions of Learning]]
+- Self-determination theory — bounded choice in assessment can support autonomy and ownership.
+- Andragogical perspectives — adult learners often benefit when assessment connects to authentic expression and prior experience.
+- Assessment-for-learning perspectives — multiple methods can strengthen interpretation and co-regulation when they feed useful feedback.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Multiple assessment methods do not remove the need for common standards and defensible judgments.
+- Some skills still require specific formats for valid assessment, even within a flexible overall design.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Andrade, H. L., & Brookhart, S. M. (2020). Classroom assessment as the co-regulation of learning. Assessment in Education: Principles, Policy & Practice, 27(4), 350-372.
-
-Brindley, C., & Scoffield, S. (1998). Peer assessment in undergraduate programmes. Teaching in higher education, 3(1), 79-90.
-
-Fovet, F. (2019). Not just about disability: Getting traction for UDL implementation with international students. In Transforming Higher Education Through Universal Design for Learning (pp. 179-200). Routledge.
-
-Karnilowicz, W. (2012). A comparison of self-assessment and tutor assessment of undergraduate psychology students. Social Behavior and Personality: an international journal, 40(4), 591-604.
-
-Lee, E. N., & Orgill, M. (2021). Toward equitable assessment of English language learners in general chemistry: Identifying supportive features in assessment items. Journal of Chemical Education, 99(1), 35-48.
-
-Maki, P. (2002). Using multiple assessment methods to explore student learning and development inside and outside of the classroom. NASPA's NetResults.
-
-Meier, B. S., & Rossi, K. A. (2020). Removing instructional barriers with UDL. Kappa Delta Pi Record, 56(2), 82-88.
-
-Moeiniasl, H., Taylor, L., deBraga, M., Manchanda, T., Huggon, W., & Graham, J. (2022). Assessing the critical thinking skills of English language learners in a first year psychology course. Thinking Skills and Creativity, 43, 101004.
-
-Moreno-Guerrero, A. J., Aznar-Díaz, I., Cáceres-Reche, P., & Alonso-García, S. (2020). E-learning in the teaching of mathematics: An educational experience in adult high school. Mathematics, 8(5), 840.
-
-Rao, K. (2021). Inclusive instructional design: Applying UDL to online learning. The Journal of Applied Instructional Design, 10(1).
-
-Rao, K., Torres, C., & Smith, S. J. (2021). Digital tools and UDL-based instructional strategies to support students with disabilities online. Journal of Special Education Technology, 36(2), 105-112.
-
-Safapour, E., Kermanshachi, S., & Taneja, P. (2019). A review of nontraditional teaching methods: Flipped classroom, gamification, case study, self-learning, and social media. Education Sciences, 9(4), 273.
-
-Shepard, L. A., Penuel, W. R., & Pellegrino, J. W. (2018). Using learning and motivation theories to coherently link formative assessment, grading practices, and large-scale assessment. Educational measurement: Issues and Practice, 37(1), 21-34.
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/whole-task-performance-improves-transfer]] [+M]
+- [[claims/self-monitoring-improves-self-regulation]] [~M]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/formative-assessment|Formative Assessment]] — multiple methods improve formative interpretation when different evidence streams inform next steps.
+- [[principles/competency-based-learning-assessment|Competency-Based Learning & Assessment]] — varied evidence can strengthen mastery judgments when competence is complex.
+- [[principles/learner-choice|Learner Choice]] — bounded choice in assessment format can increase agency while preserving standards.
+- [[principles/creating-visual-representations|Creating Visual Representations]] — visual forms of evidence can complement written or oral assessment.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Mixed evidence portfolios**: Learners submit written work, reflections, performances, and artifacts to demonstrate growth.
+- **Choice of demonstration format**: Learners can show understanding through presentation, written analysis, or multimedia artifact using a common rubric.
+- **Performance plus reflection**: An authentic task is paired with a brief explanation of decisions and learning.
+- **Peer, self, and instructor assessment combination**: Different viewpoints are combined to improve the evidence picture.
 
 ## Key Sources
-- <!-- TODO -->
+- Andrade, H. L., & Brookhart, S. M. (2020). Classroom assessment as the co-regulation of learning. *Assessment in Education: Principles, Policy & Practice, 27*(4), 350-372. [https://doi.org/10.1080/0969594X.2019.1571992](https://doi.org/10.1080/0969594X.2019.1571992)
+- Shepard, L. A., Penuel, W. R., & Pellegrino, J. W. (2018). Using learning and motivation theories to coherently link formative assessment, grading practices, and large-scale assessment. *Educational Measurement: Issues and Practice, 37*(1), 21-34. [https://doi.org/10.1111/emip.12189](https://doi.org/10.1111/emip.12189)
+- Rao, K. (2021). Inclusive instructional design: Applying UDL to online learning. *The Journal of Applied Instructional Design, 10*(1). [https://doi.org/10.51869/101/kr](https://doi.org/10.51869/101/kr)

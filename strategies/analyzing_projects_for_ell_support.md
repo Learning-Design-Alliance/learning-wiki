@@ -20,11 +20,11 @@ Analyzing project-based learning (PBL) projects through the lens of English Lang
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators and curriculum designers aiming to support English Language Learners (ELLs) in project-based learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To identify and address the specific language needs of English Language Learners within the context of project-based learning activities.
 
 ### Affordances

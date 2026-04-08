@@ -20,11 +20,11 @@ Provide adolescents with opportunities to see the value of a healthy skepticism 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adolescents
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote healthy skepticism, encourage multiple perspectives, and foster critical thinking through discussion and collaboration.
 
 ### Affordances

@@ -20,11 +20,11 @@ Cumulative review involves systematically revisiting previously learned concepts
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable to all learner levels, including K-12, higher education, and professional development. Especially beneficial for subjects requiring retention of foundational knowledge.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce understanding, improve retention, maintain mastery of essential material, combat the forgetting curve, enhance long-term memory
 
 ### Affordances

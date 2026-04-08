@@ -20,11 +20,11 @@ Calming strategies are techniques and methods used to help children manage and r
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children, especially those learning to manage anger and other intense emotions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop emotional regulation skills, provide coping mechanisms, reduce the intensity of anger, promote self-soothing
 
 ### Affordances

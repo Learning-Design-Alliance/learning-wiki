@@ -20,11 +20,11 @@ Valuing the learning process involves emphasizing the importance of understandin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who are grade-focused
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a growth mindset, encourage curiosity, foster a love of learning
 
 ### Affordances

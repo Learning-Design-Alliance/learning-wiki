@@ -20,11 +20,11 @@ Association is a mnemonic device that links new information to something already
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly effective for visual and creative learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance memory by creating connections between new and existing knowledge.
 
 ### Affordances

@@ -20,11 +20,11 @@ Hyperlinked teaching provides students with direct avenues for further inquiry a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and higher education learners interested in pursuing self-directed inquiry and connecting learning to personal interests.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster learner autonomy, promote deeper inquiry, encourage exploration of multiple perspectives, develop research skills
 
 ### Affordances

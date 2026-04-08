@@ -20,11 +20,11 @@ Involving families and community members in classroom and school activities. Int
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators seeking to involve families and community members in education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student learning, provide diverse perspectives, strengthen community connections, and foster a sense of belonging
 
 ### Affordances

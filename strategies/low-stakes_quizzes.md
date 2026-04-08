@@ -20,11 +20,11 @@ Low-stakes quizzes are brief assessments designed to help learners gauge their u
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, effective for K–12 and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Gauge understanding, identify strengths and weaknesses, and reduce test anxiety.
 
 ### Affordances

@@ -20,11 +20,11 @@ Instructors should present vocabulary that is useful and/or necessary for learne
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult English language learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve English vocabulary, increase understanding and memory, promote Disciplinary Literacy skills
 
 ### Affordances

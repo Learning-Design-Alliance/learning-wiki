@@ -20,11 +20,11 @@ Shifting from deficit to strengths thinking, which views families as having sign
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - School staff (teachers, administrators, counselors)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To value family expertise and resources to improve student learning.
 
 ### Affordances

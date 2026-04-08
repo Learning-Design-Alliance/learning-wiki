@@ -18,11 +18,11 @@ A structured, formal assessment given at the midpoint of a course.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for formal education, certification courses, and structured learning programs.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Measure learners’ progress and retention of key concepts.
 
 ### Affordances

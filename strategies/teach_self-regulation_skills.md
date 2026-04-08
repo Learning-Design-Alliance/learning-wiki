@@ -20,11 +20,11 @@ Self-regulation is the ability to alter and regulate our emotional and behaviora
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who are highly reactive to new or challenging situations and have difficulty in gaining control of their emotions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Equip students with strategies to manage emotional and behavioral responses, promote self-control, and create a positive learning environment
 
 ### Affordances

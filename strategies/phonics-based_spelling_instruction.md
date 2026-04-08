@@ -20,11 +20,11 @@ Encourages learners to apply their phonics skills to spell new words by segmenti
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Young children learning to spell and read, particularly those who are developing phonics skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance learners' ability to use phonics skills for spelling, reinforce connections between letters and sounds, and improve segmentation skills.
 
 ### Affordances

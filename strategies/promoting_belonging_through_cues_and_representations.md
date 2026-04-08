@@ -20,11 +20,11 @@ Promoting belonging involves using small, but powerful cues in the environment t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers and educators in diverse classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a sense of belonging, create a welcoming environment, validate student identities, foster inclusion
 
 ### Affordances

@@ -20,11 +20,11 @@ Resist the urge to immediately find solutions. Sometimes, it’s more useful to 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, counselors, mentors, parents
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote student autonomy, enhance problem-solving skills, foster trust, improve communication
 
 ### Affordances

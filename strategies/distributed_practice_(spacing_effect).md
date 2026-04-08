@@ -20,11 +20,11 @@ Distributed practice, also known as the spacing effect, is a learning technique 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those preparing for exams or seeking to retain information over extended periods
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance long-term retention, improve memory recall, promote deeper understanding
 
 ### Affordances

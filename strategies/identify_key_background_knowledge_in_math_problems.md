@@ -20,11 +20,11 @@ Identify what kinds of background knowledge learners need to understand a math p
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - ELLs in math classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify necessary background knowledge, enhance collaboration between math and ELL teachers
 
 ### Affordances

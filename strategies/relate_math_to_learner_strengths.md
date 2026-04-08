@@ -20,11 +20,11 @@ Help learners understand how math gets used in the world in ways that relate to 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All levels of learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase motivation, enhance confidence, promote a deeper understanding of math concepts
 
 ### Affordances

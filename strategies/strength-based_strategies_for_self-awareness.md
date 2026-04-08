@@ -20,11 +20,11 @@ Educators identify and support students by recognizing their strengths related t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages who need support in developing self-awareness skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance students' self-awareness, improve emotional identification, promote self-reflection, foster a growth mindset, and improve academic and social outcomes.
 
 ### Affordances

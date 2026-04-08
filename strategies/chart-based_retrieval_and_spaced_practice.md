@@ -20,11 +20,11 @@ A simple classroom exercise to demonstrate the effectiveness of spaced practice 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school and college students across various subjects, particularly effective for demonstrating spaced practice benefits.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Demonstrate effectiveness of spaced practice, improve recall, enhance retention, promote self-assessment, encourage application across subjects
 
 ### Affordances

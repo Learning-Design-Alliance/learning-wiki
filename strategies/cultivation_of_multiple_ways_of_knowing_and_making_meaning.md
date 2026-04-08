@@ -20,11 +20,11 @@ Honoring multiple and diverse ways of developing understandings of the world. Th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those from diverse cultural backgrounds and with diverse learning styles
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote inclusivity, enhance cultural awareness, foster respect for diverse perspectives, support multiple learning styles
 
 ### Affordances

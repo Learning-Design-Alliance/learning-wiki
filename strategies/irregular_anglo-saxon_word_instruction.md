@@ -20,11 +20,11 @@ Teaching methods for irregular words include: grouping words with some memorable
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 1-3 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling of irregular words, enhance sight word recognition, develop memory strategies
 
 ### Affordances

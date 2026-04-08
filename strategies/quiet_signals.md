@@ -20,11 +20,11 @@ Quiet signals are predetermined cues or actions used by teachers to quickly and 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Regain student attention, reduce classroom noise, establish classroom management routines
 
 ### Affordances

@@ -20,11 +20,11 @@ A pedagogy that redefines who is 'smart' by utilizing multi-ability access point
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school learners, particularly those from diverse backgrounds and English language learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster a strengths-based approach, facilitate social construction of learning, and develop a deep understanding of mathematics
 
 ### Affordances

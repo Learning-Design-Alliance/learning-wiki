@@ -1,54 +1,71 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: Jonathan Bergmann & Aaron Sams (2007)
-grain_size: Course, Lesson
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: Jonathan Bergmann and Aaron Sams
+grain_size: course
 ---
 
 # Flipped Classroom
 
 ## Description
-A learning model where direct instruction is moved outside of class (via pre-recorded lectures or readings), and classroom time is used for active learning activities like discussions, problem-solving, or collaborative projects.
+Flipped Classroom is a pattern that shifts some direct instruction or initial content acquisition outside class so that class time can be used for application, discussion, problem solving, and feedback. The key design move is not simply assigning video before class; it is reallocating synchronous time toward higher-value interaction and practice.
+
+The pattern works best when pre-class work is tightly tied to in-class activity. If learners can skip the preparation with little consequence, or if class time still defaults to lecture, the flip becomes superficial.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Requires digital access for pre-class materials; Instructor needs to facilitate active learning effectively.
+- **Accessible pre-class materials**: Learners need reliable access to videos, readings, or other preparation resources.
+- **Clear accountability**: Pre-class work must connect directly to what happens in class.
+- **Active in-class design**: Class time should focus on application, discussion, guided practice, or feedback.
+- **Instructor responsiveness**: Teachers need to diagnose what learners understood before or during class and adapt accordingly.
 #### Constraints
-- Some students may not complete pre-class work, making in-class activities ineffective. Not ideal for students who struggle with self-directed learning.
+- **Preparation compliance**: The pattern weakens quickly when many learners arrive unprepared.
+- **Access inequities**: Device, bandwidth, time, and home-study constraints can undermine pre-class learning.
+- **Weak classroom redesign**: Simply moving lecture to video without improving in-class work does not realize the pattern's value.
+- **Not every topic benefits equally**: Some topics need more in-class modeling or explanation than the pattern assumes.
 #### Grain Size
-Course, Lesson
+- Lesson
+- Course
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Best suited for conceptual and procedural learning, including STEM, humanities, and professional training. Enhances critical thinking and application skills.
+- **Better use of synchronous time**: Reserving class for interaction, application, and support.
+- **Prepared initial exposure**: Letting learners encounter explanations at their own pace before class.
+- **Higher-order in-class work**: Using class for problem solving, discussion, and feedback rather than first exposure alone.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- High school, higher education, and corporate training. Works well in content-heavy disciplines where traditional lectures dominate.
+- **Learners who benefit from replayable input**: Pre-class videos or readings can support pacing and review.
+- **Learners in content-heavy courses**: Useful when lecture would otherwise consume most class time.
+- **Groups ready for active in-class participation**: The pattern assumes class time will be used productively once content exposure is moved out.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Blended and active-learning perspectives — class time is more valuable when used for interaction and guided application.
+- Self-regulated learning perspectives — learners manage part of the initial exposure outside class.
+- Formative assessment perspectives — instructors can use class time to respond to learner needs rather than broadcast content uniformly.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Flipping is a scheduling pattern, not a pedagogy by itself; the quality of pre-class and in-class design matters more than the label.
+- Some learners need stronger preparation scaffolds or alternative access routes for pre-class materials.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/chunking-reduces-working-memory-load]] [~S]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-1. Students engage with pre-class content (videos, readings). 
- 2. Classroom time is spent on active learning tasks. 
- 3. Instructor provides guidance and feedback as students apply concepts. 
- 4. Assessments focus on higher-order thinking.
+1. Assign short pre-class materials that introduce or reactivate key ideas.
+2. Use a check, prompt, or quick task to make preparation visible.
+3. Spend class time on guided application, discussion, or problem solving.
+4. Provide targeted feedback and clarification during in-class work.
+5. Close with synthesis or a follow-up task that consolidates learning.
 
 ### Elements Used
 - [[elements/pre-class-videolecture|Pre-Class Video/Lecture]]
@@ -57,25 +74,30 @@ Course, Lesson
 - [[elements/peer-collaboration|Peer Collaboration]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/active-learning-focuses-on-student-centered-activities-during-class|Active Learning – Focuses on student-centered activities during class]]
-- [[principles/differentiated-instruction-allows-students-to-learn-at-their-own-pace-outside-of-class|Differentiated Instruction – Allows students to learn at their own pace outside of class]]
-- [[principles/inquiry-based-learning-encourages-deeper-engagement-with-content|Inquiry-Based Learning – Encourages deeper engagement with content.]]
-
+- [[principles/guided-practice|Guided Practice]]
+- [[principles/immediate-feedback|Immediate Feedback]]
+- [[principles/inquiry-based-learning|Inquiry-based Learning]]
+- [[principles/multimodal-instruction|Multimodal Instruction]]
 
 ### Personalization
-- Can be tailored to different learning styles by offering multiple pre-class content formats (video, text, interactive). In-class activities can be adjusted based on learner needs.
+- Learners can pause, replay, or revisit pre-class materials at their own pace.
+- In-class tasks can be adjusted based on preparation data or quick checks.
+- Pre-class input can be offered in multiple formats when needed.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/discussion-group|Discussion Group]]
+- [[patterns/traditional-lecture-reading-midterm-final-assessment|Traditional Lecture / Reading / Midterm / Final Assessment]]
 
 ## Examples
-- - University physics: Pre-recorded lectures followed by problem-solving sessions. 
- - High school biology: Students watch videos at home, conduct experiments in class.
+- Physics courses with short pre-class explanations followed by in-class problem solving.
+- Biology classes where learners watch or read background content before labs or discussions.
+- Professional training modules that move explanation into pre-work and reserve workshops for coached application.
 
 ## Impact
-- Research indicates higher engagement and performance in flipped settings compared to traditional lectures (Bishop & Verleger, 2013). Improves student autonomy and conceptual understanding.
+- Can improve the value of class time when the redesign is genuine.
+- Most effective when pre-class work is concise and class time is visibly more interactive than a lecture-first alternative.
 
 ## Key Sources
-- - Bergmann, J., & Sams, A. (2012). Flip Your Classroom: Reach Every Student in Every Class Every Day. 
- - Bishop, J. L., & Verleger, M. A. (2013). The Flipped Classroom: A Survey of the Research. Proceedings of ASEE National Conference.
+- Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day*. International Society for Technology in Education.
+- Bishop, J. L., & Verleger, M. A. (2013). The flipped classroom: A survey of the research. In *2013 ASEE Annual Conference & Exposition Proceedings*. [https://doi.org/10.18260/1-2--22585](https://doi.org/10.18260/1-2--22585)
+- Lo, C. K., & Hew, K. F. (2017). A critical review of flipped classroom challenges in K-12 education: Possible solutions and recommendations for future research. *Research and Practice in Technology Enhanced Learning, 12*(1), 4. [https://doi.org/10.1186/s41039-016-0044-2](https://doi.org/10.1186/s41039-016-0044-2)

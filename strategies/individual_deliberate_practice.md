@@ -20,11 +20,11 @@ Deliberate practice is a structured approach to skill development that focuses o
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, from elementary students to adults, in various domains such as sports, driving, reading, and mathematics
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop automaticity in skills, improve expert performance, enhance focus, support long-term storage of information, encourage continuous improvement
 
 ### Affordances

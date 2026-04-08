@@ -20,11 +20,11 @@ Classrooms that have a variety of media allow for different learning activities 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve engagement, improve digital skills, enhance collaboration
 
 ### Affordances

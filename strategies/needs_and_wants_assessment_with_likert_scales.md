@@ -20,11 +20,11 @@ Using Likert scales and fill-in questions to gauge student interest and understa
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify student interests and understanding, inform instructional planning, increase student engagement, provide personalized learning experiences
 
 ### Affordances

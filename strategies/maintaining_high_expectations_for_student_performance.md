@@ -20,11 +20,11 @@ Given that culturally responsive instruction is a student-centered philosophy, i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers in diverse classrooms (K-12, higher education)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote high achievement, provide individualized support, and foster a growth mindset.
 
 ### Affordances

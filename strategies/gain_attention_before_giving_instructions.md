@@ -20,11 +20,11 @@ Use techniques such as clapping or knocking to signal students to stop, look, an
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly in group settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure learners are focused and ready to receive instructions.
 
 ### Affordances

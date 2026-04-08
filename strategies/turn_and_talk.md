@@ -20,11 +20,11 @@ Turn and Talk involves learners engaging in short discussions with a partner to 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active listening, enhance understanding through verbalization, provide immediate feedback
 
 ### Affordances

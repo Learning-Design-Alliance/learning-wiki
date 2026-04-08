@@ -20,11 +20,11 @@ Setting the lowest possible grade for any assignment or test at 50 percent, even
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Struggling Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Give all students a chance to succeed, prevent low grades from discouraging students, promote completion of assignments
 
 ### Affordances

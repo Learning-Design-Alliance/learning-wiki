@@ -20,11 +20,11 @@ Teachers can boost student engagement and knowledge retention by connecting lear
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators looking to improve student motivation and engagement
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, improve knowledge retention, foster a sense of ownership, cater to diverse learning styles and interests
 
 ### Affordances

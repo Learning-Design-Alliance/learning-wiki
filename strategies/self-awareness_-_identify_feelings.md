@@ -20,11 +20,11 @@ This strategy involves having learners identify, label, or match facial expressi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve self-awareness, identify facial expressions and emotions.
 
 ### Affordances

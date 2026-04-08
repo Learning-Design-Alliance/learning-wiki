@@ -20,11 +20,11 @@ Brainstorming an ongoing class list of stuff learners want to know about and are
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable across all learner levels, including K-12, higher education, and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Generate learner interest, connect learning to real-world experiences, and build foundational knowledge.
 
 ### Affordances

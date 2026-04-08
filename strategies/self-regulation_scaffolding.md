@@ -20,11 +20,11 @@ Scaffolding provides learners with a safe and emotionally supportive context to 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Creating a learning environment where learners are able to safely explore their reactions.
 
 ### Affordances

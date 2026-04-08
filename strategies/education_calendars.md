@@ -20,11 +20,11 @@ Education calendars are visual aids designed to keep students, parents, and teac
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, teachers, students, parents, and educational institutions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Inform students, parents, and teachers, enhance communication, promote organization, improve awareness, ensure nothing is missed
 
 ### Affordances

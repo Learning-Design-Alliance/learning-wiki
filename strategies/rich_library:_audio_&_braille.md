@@ -20,11 +20,11 @@ Using audiobooks and Braille texts to reinforce and inspire literacy skills. Thi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, including emerging readers, ESL/ELL learners, and students with visual impairments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce literacy skills, improve English skills, study literature in new ways, cater to diverse learning needs, and enhance comprehension.
 
 ### Affordances

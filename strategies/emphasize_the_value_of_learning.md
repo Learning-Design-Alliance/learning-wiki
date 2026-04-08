@@ -20,11 +20,11 @@ Help learners focus on and value the process of learning rather than solely on g
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who are grade-oriented or tend to equate grades with intelligence
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a growth mindset, shift focus from grades to learning, increase intrinsic motivation, and improve self-perception of intelligence and worth
 
 ### Affordances

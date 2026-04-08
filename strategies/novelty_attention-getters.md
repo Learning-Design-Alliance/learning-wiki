@@ -20,11 +20,11 @@ Novelty attention-getters use unique and unexpected stimuli to capture young stu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early elementary educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Capture students' attention, reduce classroom noise, encourage imaginative thinking
 
 ### Affordances

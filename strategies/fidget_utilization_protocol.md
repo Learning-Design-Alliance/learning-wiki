@@ -20,11 +20,11 @@ Fidgets are tools to aid focus and self-regulation, not toys. This strategy invo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with attention, focus, or sensory processing
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus and attention, calm overwhelm, promote self-regulation
 
 ### Affordances

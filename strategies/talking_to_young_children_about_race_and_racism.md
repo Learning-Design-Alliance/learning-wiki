@@ -20,11 +20,11 @@ This strategy involves parents and caregivers initiating conversations with youn
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Young children (3 months to 8 years), parents, caregivers, and educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Introduce children to the many cultures and people of our world, address racial identity and sense of belonging, develop positive feelings about themselves, effectively manage and heal when treated unfairly, and promote anti-racist behavior.
 
 ### Affordances

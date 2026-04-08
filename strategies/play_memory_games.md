@@ -20,11 +20,11 @@ Memory games help hone focus for learners in a fun way, enabling them to concent
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those needing to improve concentration and memory
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus, enhance memory, increase attention
 
 ### Affordances

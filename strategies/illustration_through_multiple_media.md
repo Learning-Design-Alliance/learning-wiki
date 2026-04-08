@@ -20,11 +20,11 @@ Making learning come alive with simulations, graphics, activities, and videos. T
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those with diverse learning styles and preferences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding, improve retention, increase engagement, cater to diverse learning styles
 
 ### Affordances

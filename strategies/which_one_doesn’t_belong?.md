@@ -20,11 +20,11 @@ The instructor or learners place 3-4 dot cards on the table. Two or three cards 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Pre-K to 1st Grade learners who are developing number sense.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Differentiate between quantities, enhance critical thinking, develop number sense
 
 ### Affordances

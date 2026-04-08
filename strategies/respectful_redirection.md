@@ -20,11 +20,11 @@ Respectful redirection is a quick, in-the-moment strategy to give corrective fee
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12 students, especially those who learn and think differently, including students with ADHD and those who have experienced trauma.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Correct student behavior, communicate expectations, and foster a safe and respectful classroom environment.
 
 ### Affordances

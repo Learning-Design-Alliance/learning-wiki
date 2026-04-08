@@ -20,11 +20,11 @@ Text-to-speech (TTS) technology converts written text into spoken words, enhanci
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students and adults with dyslexia, visual impairments, or anyone who struggles with reading.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading comprehension, support independent learning, enhance access to digital content, and increase vocabulary development.
 
 ### Affordances

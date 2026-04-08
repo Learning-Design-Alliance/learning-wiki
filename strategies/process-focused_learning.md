@@ -20,11 +20,11 @@ Emphasizing and valuing the process of learning, rather than solely focusing on 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who are grade-focused or who have a fear of failure
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a growth mindset, encourage exploration, enhance self-reflection, and improve learning outcomes
 
 ### Affordances

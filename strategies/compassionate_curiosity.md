@@ -20,11 +20,11 @@ Act as a non-judgmental investigator to better understand students and respond w
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 teachers, counselors, and mentors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote understanding, empathy, and supportive relationships; reduce judgmental reactions; improve student-teacher connections
 
 ### Affordances

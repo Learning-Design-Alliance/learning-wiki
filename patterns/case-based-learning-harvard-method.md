@@ -1,82 +1,103 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: Harvard Business School (1920s)
-grain_size: Course, Lesson
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: Harvard Business School tradition
+grain_size: lesson
 ---
 
 # Case-Based Learning (Harvard Method)
 
 ## Description
-A structured approach where learners analyze real-world case studies to develop problem-solving skills. Students examine authentic scenarios, discuss multiple perspectives, and explore potential solutions. The Harvard Method follows a structured discussion format, encouraging learners to justify their reasoning and engage in peer debate.
+Case-based learning in the Harvard method uses a carefully written case as the center of discussion, analysis, and decision making. Learners study a realistic situation, identify the central problem, weigh competing interpretations, and defend a course of action in discussion. The pattern does not treat the case as an illustration after the fact; the case is the primary vehicle through which learners reason.
+
+This pattern is especially useful when the goal is judgment under uncertainty. It gives learners practice dealing with incomplete information, multiple stakeholders, and tradeoffs that do not have a single clean answer. The instructor's role is to orchestrate discussion so that learners justify claims, compare alternatives, and surface assumptions.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Requires well-prepared case studies and instructor facilitation to guide discussion effectively.
+- **A well-chosen case**: The case needs enough complexity, ambiguity, and evidence to support serious analysis.
+- **Structured discussion leadership**: The instructor must keep the discussion analytic rather than purely opinion-based.
+- **Expectation of preparation**: Learners need time to read, annotate, and form an initial position before class.
+- **Decision pressure**: Cases work best when learners must recommend or justify a response.
 #### Constraints
-- Some learners may struggle with open-ended problem-solving; Requires active participation to be effective.
+- **Weak preparation collapses discussion**: If learners have not read or analyzed the case, the method becomes shallow.
+- **Participation inequality**: A few strong voices can dominate without facilitation norms.
+- **Novice uncertainty**: Learners may need more scaffolding if they lack domain knowledge or case-reading habits.
+- **Not ideal for first exposure to simple procedures**: The method is stronger for reasoning than for basic memorization.
 #### Grain Size
-Course, Lesson
+- Lesson
+- Course
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Best suited for decision-making, ethical reasoning, and professional training. Common in business, law, and medical education.
+- **Decision making under ambiguity**: Evaluating options with incomplete or conflicting evidence.
+- **Professional judgment**: Learning to reason like a practitioner in context.
+- **Discussion-based argumentation**: Defending claims and responding to alternatives.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Higher education, executive training, and corporate leadership development. Works well in disciplines requiring applied reasoning.
+- **Higher education and professional learners**: Strong fit for business, law, medicine, public policy, and leadership contexts.
+- **Learners preparing for complex practice**: Useful when future work involves tradeoffs and stakeholder reasoning.
+- **Discussion-ready groups**: The method assumes active interpretation and participation.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Situated learning perspectives — cases situate reasoning in realistic professional contexts.
+- Social constructivist perspectives — understanding is refined through discussion and perspective comparison.
+- Reflective judgment traditions — learners improve by weighing evidence and defending choices under uncertainty.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Cases are stronger for analysis and judgment than for introducing large amounts of unfamiliar content.
+- Instructors often need to add scaffolds for novices so discussion does not reward confidence over reasoning.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/whole-task-performance-improves-transfer]] [~S]
+- [[claims/contingent-scaffolding-improves-learning]] [+M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-1. Students receive a case study and analyze its key elements. 
- 2. Class discusses perspectives, possible actions, and implications. 
- 3. Instructor guides discussion, challenges assumptions. 
- 4. Learners reflect on decision-making processes.
+1. Assign a case and ask learners to identify the core problem, evidence, and possible actions.
+2. Have learners take a position or prepare a recommendation before discussion.
+3. Conduct class discussion that compares interpretations, assumptions, and tradeoffs.
+4. Push learners to justify recommendations with evidence from the case.
+5. Debrief the decision process and key lessons.
 
 ### Elements Used
 - [[elements/case-study|Case Study]]
 - [[elements/class-discussion|Class Discussion]]
-- [[elements/decision-making|Decision-Making]]
 - [[elements/reflection|Reflection]]
+- [[elements/assessment|Assessment]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/situated-learning-learning-occurs-within-authentic|Situated Learning – Learning occurs within authentic]]
-- [[principles/real-world-contexts|real-world contexts]]
-- [[principles/problem-based-learning-encourages-critical-thinking-and-problem-solving|Problem-Based Learning – Encourages critical thinking and problem-solving]]
-- [[principles/collaborative-learning-involves-peer-discussion-and-knowledge-construction|Collaborative Learning – Involves peer discussion and knowledge construction.]]
-
+- [[principles/case-studiescase-based-learning|Case Studies/Case-Based Learning]]
+- [[principles/debate|Debate]]
+- [[principles/perspective-seekingmultiple-perspectives|Perspective-Seeking/Multiple Perspectives]]
+- [[principles/peer-discussion|Peer Discussion]]
 
 ### Personalization
-- Cases can be customized based on learner needs; Different levels of scaffolding can be applied depending on expertise level.
+- Cases can be selected for discipline, role, or stakeholder relevance.
+- Learners can prepare individual positions before group discussion to broaden participation.
+- Facilitation can vary from tightly guided questioning to more open Socratic exchange.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
+- [[patterns/socratic-seminar|Socratic Seminar]]
 
 ## Examples
-- - Harvard Business School: Business strategy case discussions. 
- - Medical school: Diagnostic case studies analyzed by small groups.
+- Business strategy cases where learners recommend a course of action to a leadership team.
+- Clinical or legal cases in which learners interpret evidence and justify decisions.
+- Public policy discussions where learners weigh stakeholder tradeoffs from a shared dossier.
 
 ## Impact
-- Studies show improved problem-solving skills and engagement compared to lecture-based approaches (Daly, 2002). Effective for higher-order thinking and knowledge transfer.
+- Supports judgment, reasoning, and discussion-based professional learning.
+- Most effective when preparation and facilitation make evidence use visible and accountable.
 
 ## Key Sources
-- - Ellet, W. (2007). The Case Study Handbook: How to Read, Discuss, and Write Persuasively About Cases. 
- - Daly, S. (2002). Case Study Methodology in Business and Management Research.
+- Christensen, C. R., Garvin, D. A., & Sweet, A. (1991). *Education for judgment: The artistry of discussion leadership*. Harvard Business School Press.
+- Ellet, W. (2007). *The case study handbook: How to read, discuss, and write persuasively about cases*. Harvard Business School Press.
+- Kim, S., Phillips, W. R., Pinsky, L., Brock, D., Phillips, K., & Keary, J. (2006). A conceptual framework for developing teaching cases: A review and synthesis of the literature across disciplines. *Medical Education, 40*(9), 867-876. [https://doi.org/10.1111/j.1365-2929.2006.02544.x](https://doi.org/10.1111/j.1365-2929.2006.02544.x)

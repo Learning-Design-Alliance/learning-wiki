@@ -18,11 +18,11 @@ Learners generate their own questions to guide inquiry.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for research-heavy disciplines and seminar-based learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote curiosity and deeper analysis of topics.
 
 ### Affordances

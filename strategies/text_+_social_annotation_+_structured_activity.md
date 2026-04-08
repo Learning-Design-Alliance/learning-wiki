@@ -20,11 +20,11 @@ Students engage with text resources, typically online versions, that are equippe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who benefit from collaborative learning and online discussions.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active learning, enhance collaboration and communication, facilitate deeper understanding of text material.
 
 ### Affordances

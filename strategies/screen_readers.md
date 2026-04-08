@@ -20,11 +20,11 @@ Screen readers convert text into spoken audio, enabling learners to listen to wr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with strengths in auditory processing who struggle with reading
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve access to written materials, support learners with auditory strengths
 
 ### Affordances

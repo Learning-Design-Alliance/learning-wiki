@@ -20,11 +20,11 @@ This approach involves asking and answering four key questions to provide qualit
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, across grade levels and subject areas
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide a comprehensive assessment of learner performance, guide improvement, inform instruction, communicate progress to parents
 
 ### Affordances

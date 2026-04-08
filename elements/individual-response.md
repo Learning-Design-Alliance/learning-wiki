@@ -18,11 +18,11 @@ Learners answer a question or solve a problem independently before group discuss
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for STEM education, problem-solving, and formative assessment.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen initial understanding and retrieval of knowledge.
 
 ### Affordances

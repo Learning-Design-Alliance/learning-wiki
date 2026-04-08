@@ -20,11 +20,11 @@ This strategy involves teachers reflecting on each lesson before and after teach
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve teaching practice, identify areas for improvement, make necessary adjustments for future lessons
 
 ### Affordances

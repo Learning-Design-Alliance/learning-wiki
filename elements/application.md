@@ -18,11 +18,11 @@ Learners actively apply knowledge in meaningful tasks.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for applied disciplines such as medicine, engineering, and vocational training.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning through practice and real-world application.
 
 ### Affordances

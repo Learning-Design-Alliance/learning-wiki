@@ -20,11 +20,11 @@ Visual timers help teach the concept of time to children with special needs. It 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with special needs, especially children with autism and ADHD
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teach the concept of time, provide structure, support transitions, increase understanding
 
 ### Affordances

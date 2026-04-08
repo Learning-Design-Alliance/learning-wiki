@@ -20,11 +20,11 @@ Communication boards are visual aids that display symbols, pictures, words, or p
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Individuals with speech and language impairments, autism, or other conditions affecting verbal expression, including children and adults.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enable non-verbal or limited verbal individuals to express thoughts, needs, and ideas; support communication in educational, therapeutic, and everyday settings; facilitate language development and comprehension.
 
 ### Affordances

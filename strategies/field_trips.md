@@ -20,11 +20,11 @@ Field trips are educational excursions that take learners outside of the classro
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly K–12 students, but also applicable to adult learners in various educational and professional settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner engagement, connect classroom learning to real-world experiences, promote socio-emotional growth, enhance critical thinking skills
 
 ### Affordances

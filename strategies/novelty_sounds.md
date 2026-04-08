@@ -20,11 +20,11 @@ Using novel sounds such as wind chimes or rain sticks captures young students’
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early elementary students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Capture students' attention and quickly quiet a classroom.
 
 ### Affordances

@@ -20,11 +20,11 @@ Assessing and differentiating language skills in project-based learning (PBL) in
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, with a particular focus on English Language Learners (ELLs) in project-based learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To provide targeted support to students, especially English Language Learners (ELLs), by assessing and differentiating language skills within project-based learning activities.
 
 ### Affordances

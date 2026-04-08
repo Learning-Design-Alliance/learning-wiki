@@ -20,11 +20,11 @@ Creating beautiful spaces in PBL involves displaying student work from projects 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly those who may not have access to beautiful or inspiring environments outside of school.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To create a positive and uplifting learning environment, promote student pride in their work, and transform the school building into a beautiful and inspiring space.
 
 ### Affordances

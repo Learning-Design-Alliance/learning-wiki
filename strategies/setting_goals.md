@@ -20,11 +20,11 @@ Lessons have clear learning intentions with goals that clarify what success look
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Clarify learning intentions and success criteria for students
 
 ### Affordances

@@ -20,11 +20,11 @@ Instructors connect the importance and usefulness of writing to learners' lives 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for older learners considering career pathways
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance motivation, improve understanding of writing relevance, connect learning to real-world applications, foster career readiness
 
 ### Affordances

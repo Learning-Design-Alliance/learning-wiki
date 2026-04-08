@@ -20,11 +20,11 @@ Providing students with graphic organizers or guided notes during lectures to he
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who struggle with processing speed and need support in extracting key information from lectures
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support information processing, reduce cognitive load, and improve note-taking skills
 
 ### Affordances

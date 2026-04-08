@@ -20,11 +20,11 @@ Story maps are graphic organizers that help learners visually represent and unde
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including elementary, middle, and high school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve comprehension of narrative text, provide a framework for identifying story elements, help learners organize information and ideas, develop a deeper understanding of how stories work
 
 ### Affordances

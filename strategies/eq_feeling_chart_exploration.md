@@ -20,11 +20,11 @@ Learners use the EQ Feeling Chart to identify and communicate their feelings wit
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Communicate feelings, identify sources of emotions, share observations
 
 ### Affordances

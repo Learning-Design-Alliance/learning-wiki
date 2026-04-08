@@ -20,11 +20,11 @@ Learners individually solve a problem on sticky notes, then share and discuss th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 3-6, adaptable for other grade levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote collaboration, enhance problem-solving skills, encourage accountability and participation, review concepts, support teamwork
 
 ### Affordances

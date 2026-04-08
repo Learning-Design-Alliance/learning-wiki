@@ -20,11 +20,11 @@ Creating an action plan involves outlining the specific steps needed to achieve 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Beneficial for anyone with complex goals or projects, including students, professionals, and teams.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide a clear roadmap for achieving goals, improve organization, and enhance motivation by showing tangible progress.
 
 ### Affordances

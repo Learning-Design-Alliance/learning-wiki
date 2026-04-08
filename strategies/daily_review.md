@@ -20,11 +20,11 @@ Daily review is a strategy where instructors begin lessons with a short (5-10 mi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, K-12 through adult learners. Particularly effective for vocabulary and math concepts.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning, improve retention, strengthen neural connections, prepare learners for new content by reviewing previously learned topics
 
 ### Affordances

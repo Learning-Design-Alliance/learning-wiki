@@ -20,11 +20,11 @@ Before a trip, children map the route, calculate mileage, estimate travel time, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve map reading skills, enhance measurement and estimation abilities, and promote problem-solving skills related to distance, time, and direction
 
 ### Affordances

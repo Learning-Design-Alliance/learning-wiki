@@ -20,11 +20,11 @@ Devoting time each week for students to show the effects of different multimodal
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students learning multimodal composition
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance communication skills, generate concrete examples of multimodal processes, provide constructive feedback, promote metacognitive awareness
 
 ### Affordances

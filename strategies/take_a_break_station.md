@@ -20,11 +20,11 @@ A designated space in the classroom where children can take a moment to decompre
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily K–5 students, but adaptable for older students with social-emotional needs.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help students recognize and manage their emotions, self-regulate their behavior, and understand the impact of their actions on others.
 
 ### Affordances

@@ -20,11 +20,11 @@ Identifying students' strengths related to attention and using those strengths t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those with varying degrees of strengths and challenges related to attention.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve students' attention skills by leveraging their existing strengths and addressing challenges related to attention.
 
 ### Affordances

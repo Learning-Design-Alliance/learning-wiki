@@ -20,11 +20,11 @@ Empowering students to advocate for themselves involves teaching them about thei
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with disabilities and other learners who may benefit from increased self-advocacy skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-awareness, foster self-confidence, improve communication skills, encourage problem-solving
 
 ### Affordances

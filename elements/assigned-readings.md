@@ -18,11 +18,11 @@ Learners engage with pre-selected texts, articles, or book chapters to build fou
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for humanities, social sciences, and research-based disciplines.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop background knowledge and prepare learners for in-depth analysis.
 
 ### Affordances

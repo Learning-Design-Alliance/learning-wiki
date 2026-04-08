@@ -20,11 +20,11 @@ Create flash cards for the four mathematical operations (addition, subtraction, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and middle school learners (Grades 3-8)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve understanding of mathematical operations, enhance problem-solving skills, develop vocabulary related to math, reinforce memory of key math concepts
 
 ### Affordances

@@ -18,11 +18,11 @@ Learners take turns guiding discussion and questioning content.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for reading comprehension, STEM, and professional education.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve comprehension and critical thinking.
 
 ### Affordances

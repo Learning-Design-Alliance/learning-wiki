@@ -20,11 +20,11 @@ Students work in small groups to collaboratively solve math problems. Each stude
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 3–6, adaptable for higher grades with appropriate content. Beneficial for learners who benefit from collaborative work and peer interaction.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance collaboration, promote accountability, foster teamwork skills, review math concepts, improve problem-solving abilities, and develop communication skills.
 
 ### Affordances

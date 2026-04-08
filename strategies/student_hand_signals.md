@@ -20,11 +20,11 @@ Student Hand Signals is a strategy where learners use non-verbal cues to indicat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially useful for shy learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage active listening, facilitate whole-class participation, provide a non-verbal means of expression
 
 ### Affordances

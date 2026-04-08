@@ -1,90 +1,67 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Instructor Accessibility
 
 ## Description
-Adult learners benefit from knowing there is an instructor available to provide support as needed, especially during asynchronous learning. It is important for instructors to be visible to, engaged with, and caring for adult learners throughout the learning journey to foster Safety, mitigate Adverse Experiences, and promote Social and Relationship Skills. Strong instructor presence is an important component of the learning experience that needs to be planned for and managed through critical reflection to ensure alignment between learning and teaching activities.
+Instructor accessibility is the principle that learners should be able to reach, understand, and get timely support from the instructor when they need it. Accessibility here is relational and instructional, not only physical or technical: it includes visibility, responsiveness, clarity about how to get help, and a learner's sense that asking for support will lead to a constructive response. This is especially important in asynchronous, blended, and adult learning contexts where learners may otherwise navigate challenge in isolation.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **Visible communication channels**: Learners need to know how and when to reach the instructor and what kinds of support are available.
+- **Predictable responsiveness**: Accessibility is strongest when response patterns are clear enough that learners can plan around them.
+- **Supportive tone and norms**: Learners are more likely to seek help when outreach is treated as normal rather than remedial.
+- **Alignment with instructional needs**: Access should help learners move forward on the work, not only handle logistics.
 #### Constraints
-- <!-- TODO -->
+- **Availability theater**: Stated accessibility without timely or useful response erodes trust.
+- **Instructor overload**: Accessibility must be designed sustainably or it becomes inconsistent and inequitable.
+- **Uneven channel access**: Office hours, synchronous meetings, or specific platforms may exclude some learners if they are the only route to help.
+- **Role confusion**: Instructor accessibility supports learning, but it cannot replace all counseling, advising, or social-service functions.
 
 ### Target Learners
-- Learner Background:
-
-Adverse Experiences
-Social Supports
-Safety
-Socioeconomic Status
-Social and Emotional Learning:
-
-Emotion
-Self-regulation
-Motivation
-Learner Mindset
-Sense of Belonging
-Stereotype Threat
-Social Awareness & Relationship Skills
-Cognition:
-
-Attention
-Working Memory
+- **Adult learners balancing multiple responsibilities**: Accessibility matters when time, work, caregiving, or technology constraints make support-seeking harder.
+- **Learners in asynchronous or online settings**: Visibility and response channels are especially important when casual in-person contact is absent.
+- **Learners with low confidence or prior adverse experiences**: Accessible instructors can reduce the threshold for asking questions or disclosing confusion.
+- **Learners navigating unfamiliar institutional norms**: Clear, humane access practices help learners understand how to get unstuck.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Increased help-seeking**: Making it easier for learners to ask questions before problems compound.
+- **Sustained participation**: Reducing disengagement caused by confusion, uncertainty, or isolation.
+- **Stronger belonging and trust**: Communicating that learner needs and questions are legitimate.
+- **More responsive instruction**: Improving the instructor's ability to notice and address barriers during the learning process.
 
 ### Theory
 #### Supporting
-- [[theories/maslows-hierarchy-of-needs-self-determination-theory-deci-ryan-social-constructivism-vygotsky|Maslow’s Hierarchy of Needs
-Self-Determination Theory (Deci & Ryan)
-Social Constructivism (Vygotsky)]]
+- Humanistic and belonging-oriented views of learning — safety, trust, and connection shape whether learners engage fully.
+- Self-determination theory — access to responsive support can strengthen relatedness and competence.
+- Social constructivist perspectives — learning is supported through interaction, dialogue, and guided participation.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Accessibility should not become dependency; support should help learners become more capable and independent over time.
+- More contact is not automatically better if the contact is vague, delayed, or misaligned with learner needs.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Arroyo, A. T. (2014). A composite theoretical model showing potential hidden costs of online distance learning education at historically black colleges and universities: With implications for building cost-resistant courses and programs. Online Journal of Distance Learning Administration, 17(1).​
-Digital Promise Global
-
-Baker, R., Dee, T., Evans, B., & John, J. (2018). Bias in online classes: Evidence from a field experiment. Stanford Institute for Economic Policy Research, 1-45.​
-Digital Promise Global
-
-Barnette, J. (2018). Instructor presence in online education: An analysis of student perceptions and performance. [Doctoral dissertation, Indiana University].​
-
-Ekmekci, O. (2013). Being there: Establishing instructor presence in an online learning environment. Higher Education Studies, 3(1), 29–38.​
-
-Henrikson, R. (2019). Using online lectures to promote engagement: Recognising the self-directed learner as critical for practical inquiry. Journal of Open, Flexible and Distance Learning, 23(1), 17–32.​
-
-Hew, K. F. (2016). Promoting engagement in online courses: What strategies can we learn from three highly rated MOOCs? British Journal of Educational Technology, 47(2), 320-341.​
-
-Hewett, S., Becker, K., & Bish, A. (2019). Blended workplace learning: The value of human interaction. Education & Training, 61(1), 2–16.​
-
-Irani, S., & Denaro, K. (2020). Incorporating active learning strategies and instructor presence into an online discrete mathematics class. Proceedings of the 51st ACM Technical Symposium on Computer Science Education, 1186-1192.​
-
-Lowenthal, P., Dunlap, J., & Snelson, C. (2017). Live synchronous web meetings in asynchronous online courses: Reconceptualizing virtual office hours. Online Learning Journal, 21(4).​
-
-Park, C., & Kim, D.-G. (2020). Perception of instructor presence and its effects on learning experience in online classes. Journal of Information Technology Education, 19, 475–488.​
-
-Poll, K., Widen, J., & Weller, S. (2014). Six instructional best practices for online engagement and retention. Journal of Online Doctoral Education, 1(1), 56-72.​
-
-Wang, J., & Antonenko, P. (2017). Instructor presence in instructional video: Effects on visual attention, recall, and perceived learning. Computers in Human Behavior, 71, 79-89.​
-
-Zumbrunn, S., McKim, C., Buhs, E., & Hawley, L. R. (2014). Support, belonging, motivation, and engagement in the college classroom: A mixed method study. Instructional Science, 42(5), 661-684.
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/self-monitoring-improves-self-regulation]] [~M]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/immediate-feedback|Immediate Feedback]] — accessibility often determines whether timely feedback is actually available.
+- [[principles/check-ins|Check-ins]] — check-ins are one recurring way to make support visible and reachable.
+- [[principles/inquiry-based-learning|Inquiry-based Learning]] — learners need accessible guidance when working through open-ended tasks.
+- [[principles/cultural-life-experiences-connections|Cultural & Life Experiences Connections]] — accessibility improves when instructors take learner context seriously.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Clear office-hours model**: Learners know when help is available, how to prepare, and what kinds of support to expect.
+- **Response-time commitments**: A course specifies turnaround times for questions and draft feedback.
+- **Multiple help channels**: Learners can use discussion boards, messages, short live sessions, or annotated feedback depending on need.
+- **Proactive outreach**: The instructor checks in when participation drops or confusion patterns appear.
 
 ## Key Sources
-- <!-- TODO -->
+- Ekmekci, O. (2013). Being there: Establishing instructor presence in an online learning environment. *Higher Education Studies, 3*(1), 29-38. [https://doi.org/10.5539/hes.v3n1p29](https://doi.org/10.5539/hes.v3n1p29)
+- Lowenthal, P., Dunlap, J., & Snelson, C. (2017). Live synchronous web meetings in asynchronous online courses: Reconceptualizing virtual office hours. *Online Learning, 21*(4). [https://doi.org/10.24059/olj.v21i4.1285](https://doi.org/10.24059/olj.v21i4.1285)
+- Park, C., & Kim, D.-G. (2020). Perception of instructor presence and its effects on learning experience in online classes. *Journal of Information Technology Education: Research, 19*, 475-488. [https://doi.org/10.28945/4611](https://doi.org/10.28945/4611)

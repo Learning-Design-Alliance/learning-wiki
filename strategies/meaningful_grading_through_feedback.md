@@ -20,11 +20,11 @@ Grades should represent multiple opportunities for students to demonstrate learn
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, Higher Education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure grades reflect demonstrated learning, provide actionable feedback, promote transparency for students
 
 ### Affordances

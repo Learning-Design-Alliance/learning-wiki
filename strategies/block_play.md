@@ -20,11 +20,11 @@ Block play involves using blocks to create structures and designs, either indepe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early childhood learners through primary grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving skills, foster imagination, encourage self-expression, strengthen mathematical understanding, promote creativity, build scientific reasoning, enhance self-esteem, and support social and emotional growth.
 
 ### Affordances

@@ -20,11 +20,11 @@ Instructors begin the year having the learners do an 'All About Me' presentation
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance instructor-learner relationships through sharing and connection
 
 ### Affordances

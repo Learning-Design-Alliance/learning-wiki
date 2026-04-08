@@ -20,11 +20,11 @@ Recognize and address adult learners' fears related to technology, such as data 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners with anxiety or fear related to technology.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce technology-related anxiety, promote confidence in using technology, foster a positive learning environment
 
 ### Affordances

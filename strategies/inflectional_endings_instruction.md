@@ -20,11 +20,11 @@ Inflectional endings instruction focuses on teaching the rules for adding suffix
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily for learners in grades 2–4, but also beneficial for older students who struggle with spelling or grammar, including English language learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling accuracy of inflectional endings, enhance understanding of grammatical rules, and develop skills in decomposing and combining words
 
 ### Affordances

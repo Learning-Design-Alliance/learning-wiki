@@ -20,11 +20,11 @@ Self-reinforcement involves individuals selecting a reinforcer and rewarding the
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who need help staying on task and being motivated to learn.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve performance, actively involve students in their learning environment, teach a skill beneficial to independent adult living, and create greater changes than teacher-imposed rewards.
 
 ### Affordances

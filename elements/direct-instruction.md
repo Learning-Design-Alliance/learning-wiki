@@ -18,11 +18,11 @@ Presents new content through explicit explanations, lectures, or demonstrations.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for novice learners and subjects requiring explicit knowledge transfer (e.g., math, science).
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide clear, structured instruction to facilitate initial learning.
 
 ### Affordances

@@ -20,11 +20,11 @@ Because scholars have drawn from the Greek language to name scientific concepts 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 6-7 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling accuracy, enhance vocabulary, develop understanding of word structure
 
 ### Affordances

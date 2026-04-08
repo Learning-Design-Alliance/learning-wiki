@@ -18,11 +18,11 @@ Learners work collaboratively to synthesize differing viewpoints into a shared u
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for business, law, ethics, and interdisciplinary problem-solving.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster cooperation, negotiation, and synthesis of ideas.
 
 ### Affordances

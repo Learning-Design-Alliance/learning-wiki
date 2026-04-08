@@ -20,11 +20,11 @@ The 'draw a picture' strategy is a problem-solving technique in which learners m
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, particularly those who struggle with word problems or visual learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve problem-solving skills, enhance mathematical communication, facilitate understanding of word problems
 
 ### Affordances

@@ -20,11 +20,11 @@ Students express their current feelings by drawing or sharing an emoji that repr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All ages, adaptable for pre-K through college students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Express feelings creatively, increase emotional awareness, build comfort in sharing emotions, foster a positive classroom environment
 
 ### Affordances

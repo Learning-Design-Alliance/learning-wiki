@@ -20,11 +20,11 @@ Creating consistent interfaces and repetitive structures or frameworks in learni
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who benefit from structured environments and clear expectations
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce uncertainty, enhance focus, create a sense of safety, improve learner attention
 
 ### Affordances

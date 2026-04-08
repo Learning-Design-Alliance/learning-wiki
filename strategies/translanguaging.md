@@ -20,11 +20,11 @@ Translanguaging recognizes that multilingual speakers have a single linguistic r
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Multilingual learners, English language learners, special education students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Tap into students’ multilingual skills, allow students to communicate and collaborate across languages and modalities, support academic and social gains
 
 ### Affordances

@@ -20,11 +20,11 @@ Using bilingual picture books and resources in a learner's primary language to s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Bi- and multilingual learners, especially those who are developing proficiency in a new language.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support comprehension in bi- and multilingual learners, provide exposure to English, validate cultural and linguistic backgrounds.
 
 ### Affordances

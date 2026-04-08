@@ -20,11 +20,11 @@ Sound-blocking devices, such as noise-reducing headphones or earmuffs, can help 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children with auditory sensitivities, autism, or auditory processing disorder
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce auditory overstimulation, improve focus and concentration, promote self-regulation
 
 ### Affordances

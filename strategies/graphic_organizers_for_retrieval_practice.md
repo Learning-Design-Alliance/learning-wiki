@@ -20,11 +20,11 @@ Students recall as much as they can about a topic (Brain Dump) and then sort the
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance recall, identify knowledge gaps, improve organization of information
 
 ### Affordances

@@ -20,11 +20,11 @@ Provide ample classroom space to support student engagement and learning. Overcr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce aggression, increase student engagement, enhance academic performance
 
 ### Affordances

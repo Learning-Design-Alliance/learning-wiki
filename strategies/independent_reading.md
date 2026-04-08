@@ -20,11 +20,11 @@ Independent reading involves students selecting and reading books on their own, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading fluency, comprehension, vocabulary, and foster a lifelong love of reading
 
 ### Affordances

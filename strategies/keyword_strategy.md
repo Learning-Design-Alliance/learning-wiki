@@ -20,11 +20,11 @@ The keyword strategy is a mnemonic technique that enhances memory by linking new
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and higher education learners, especially beneficial for those with learning disabilities or difficulty memorizing new vocabulary.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve vocabulary retention, link new information to existing memory, enhance visual association with new concepts, facilitate recall of definitions
 
 ### Affordances

@@ -1,96 +1,68 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Observation/Shadowing
 
 ## Description
-The opportunity to observe peers or experts in action or participate in shadowing can provide a unique and authentic learning experience that often involves questioning, metacognitive thinking, and Problem Solving while providing Social Supports. Both the observer and the person being observed learn from the experience, especially when there is feedback and a clear purpose within an interactive structure.
+Observation and shadowing are learning designs in which learners watch peers, experts, or practitioners perform authentic work in order to notice strategies, decisions, routines, and contextual demands that are difficult to infer from explanation alone. When structured well, observation is not passive. Learners attend to specific questions, compare what they saw to explicit models, and use the experience to inform their own later performance. Shadowing is especially useful when expertise includes tacit judgment, timing, interaction, or situated problem solving.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **A clear observation focus**: Learners need to know what to watch for, such as decision points, communication moves, or workflow.
+- **Access to authentic or realistic performance**: The observed activity should reveal meaningful practice, not just staged compliance.
+- **Structured reflection or debrief**: Observation becomes more educative when learners explain what they noticed and why it mattered.
+- **A link to later performance**: Learners should apply or test what they observed in their own work.
 #### Constraints
-- <!-- TODO -->
+- **Passive watching**: Without prompts or follow-up, observation can remain superficial.
+- **Hidden expertise**: Experts may perform smoothly without making reasoning visible unless prompted.
+- **Context dependence**: What works in one observed setting may not transfer directly to another.
+- **Access and privacy issues**: Real-world shadowing may require permissions, confidentiality protections, and careful boundaries.
 
 ### Target Learners
-- Learner Background:
-
-Adverse Experiences
-Primary Language
-Social Supports
-Safety
-Socioeconomic Status
-Social and Emotional Learning:
-
-Motivation
-Learner Mindset
-Sense of Belonging
-Social Awareness & Relationship Skills
-Cognition:
-
-Cognitive Flexibility
-Attention
-Inhibition
-Long-term Memory
-Reasoning
-Short-term Memory
-Metacognition
-Speed of Processing
-Working Memory
-Language and Literacy:
-
-Disciplinary Literacy
-Background Knowledge
-Problem Solving
+- **Novices entering a practice community**: Observation helps learners see how real work is actually carried out.
+- **Learners developing applied judgment**: Strong fit when timing, communication, and contextual interpretation matter.
+- **Learners who benefit from concrete models of practice**: Seeing performance can clarify expectations better than verbal explanation alone.
+- **Peer observers and peer teachers**: Both observers and observed learners can deepen reflection through structured observation cycles.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Recognition of expert moves**: Learning to notice strategies, cues, and decision points embedded in practice.
+- **Preparation for authentic performance**: Building readiness before independent participation.
+- **Metacognitive reflection**: Comparing observed practice to one's own assumptions or habits.
+- **Transfer to real tasks**: Applying observed routines or insights in subsequent performance.
 
 ### Theory
 #### Supporting
-- [[theories/social-learning-theory-bandura-apprenticeship-learning-collins|Social Learning Theory (Bandura)
-Apprenticeship Learning (Collins]]
-- [[theories/brown|Brown]]
-- [[theories/newman-situated-learning-theory-lave-wenger|& Newman)
-Situated Learning Theory (Lave & Wenger)]]
+- Social learning theory — observation and modeling are central mechanisms for learning new practices.
+- Apprenticeship and cognitive apprenticeship traditions — observation is often the first phase before coached participation.
+- Situated learning perspectives — shadowing helps learners see how knowledge is used inside a real practice context.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Observation alone is weaker than observation paired with explanation, coaching, and later enactment.
+- Learners may misread what they saw unless tacit decisions are surfaced explicitly.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Breiman, D. J. (2019). Peer Observation as a Job-Embedded Professional Development Tool. Seton Hall University Dissertations and Theses (ETDs). 2646.
-
-Hendry, G. D. & Oliver, G. R. (2012). Seeing is believing: The benefits of peer observation. Journal of University Teaching & Learning Practice, 9(1).
-
-Kinsella, C. J. & Waite, B. C. (2021). Faculty externships: Understanding and capitalizing on the latest trend in faculty development. The Journal of Faculty Development, 35(1).
-
-Mader, F. H., Mader, D., & Alexander, E. C. (2017). Job shadowing experiences as a teaching tool: A new twist on a tried and true technique. Atlantic Marketing Journal, 5(3).
-
-Meyer-Looze, C. L. (2015). Creating a cycle of continuous improvement through instructional rounds. International Journal of Educational Leadership Preparation, 10(1).
-
-Murphy, R., Weinhardt, F., & Wyness, G. (2020). Who teaches the teachers? A RCT of peer-to-peer observation and feedback in 181 Schools. CESifo Working Paper No. 8221.
-
-Pedram, K., Brooks, M. N., Marcelo, C., Kurbanova, N., Paletta-Hobbs, L., Garber, A. M., Wong, A., & Qayyum, R. (2020). Peer observations: Enhancing bedside clinical teaching behaviors. Cureus, 12(2).
-
-Pierce Jr., J. R., Rendon, P, & Rao, D. (2018). Peer observation of rounds leads to collegial discussion of teaching. Teaching and Learning in Medicine, 30(2).
-
-Rony, Z. T., Lubis, F. M., & Rizkyta, A. (2019). Job shadowing as one of the effective activities in the promotion process creates quality managers. Blue Eyes Intelligence Engineering & Sciences Publication.
-
-Smith, G. A. (2019). Framing faculty development as workplace learning. Journal on Centers for Teaching and Learning, 11, 3-23.
-
-Tenenberg, J. (2016). Learning through observing peers in practice. Studies in Higher Education, 41(4).
+- [[claims/whole-task-performance-improves-transfer]] [+M]
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/mentoringcoaching|Mentoring/Coaching]] — observation and shadowing are often most effective when paired with guided interpretation from a mentor or coach.
+- [[principles/communities-of-practice|Communities of Practice]] — shadowing helps newcomers move from peripheral observation into fuller participation.
+- [[principles/experiential-learning|Experiential Learning]] — observation can function as a precursor to authentic performance and reflection.
+- [[principles/debriefing|Debriefing]] — structured debrief helps learners convert what they saw into usable insight.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Expert shadowing**: Learners observe a practitioner during real work and record decision points, questions, and surprises.
+- **Peer observation rounds**: Learners watch one another perform a task and discuss strengths, moves, and next steps.
+- **Clinical or workplace observation logs**: Learners document what they noticed and how it informs later practice.
+- **Model observation before performance**: Learners observe a complete authentic task before attempting their own version.
 
 ## Key Sources
-- <!-- TODO -->
+- Hendry, G. D., & Oliver, G. R. (2012). Seeing is believing: The benefits of peer observation. *Journal of University Teaching & Learning Practice, 9*(1).
+- Tenenberg, J. (2016). Learning through observing peers in practice. *Studies in Higher Education, 41*(4), 756-773. [https://doi.org/10.1080/03075079.2014.950955](https://doi.org/10.1080/03075079.2014.950955)
+- Mader, F. H., Mader, D., & Alexander, E. C. (2017). Job shadowing experiences as a teaching tool: A new twist on a tried and true technique. *Atlantic Marketing Journal, 5*(3).

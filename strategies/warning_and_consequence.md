@@ -20,11 +20,11 @@ This technique involves giving high school students a clear warning that talking
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce classroom noise, establish clear expectations, enforce consequences for disruptive behavior
 
 ### Affordances

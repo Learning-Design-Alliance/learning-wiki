@@ -20,11 +20,11 @@ Redirecting language is a classroom management tool that uses clear, non-negotia
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who are off-task or exhibiting inappropriate behavior in the classroom.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To redirect student behavior in a firm, direct, and respectful way, promoting a safe and respectful classroom environment.
 
 ### Affordances

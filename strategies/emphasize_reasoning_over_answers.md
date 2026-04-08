@@ -20,11 +20,11 @@ De-emphasizing correct answers and spending more time on reasoning involves shif
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners in math classes
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote deeper understanding, develop critical thinking skills, encourage diverse problem-solving strategies, reduce emphasis on memorization
 
 ### Affordances

@@ -20,11 +20,11 @@ Providing learners with familiar, quiet, and repetitive fine motor and visual ta
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who experience anxiety, sensory overload, or difficulty transitioning between activities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote calmness, improve focus, provide a sense of predictability
 
 ### Affordances

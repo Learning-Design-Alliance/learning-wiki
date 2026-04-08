@@ -20,11 +20,11 @@ Process writing uses journals to encourage writing skills from the beginning lev
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Beginning to advanced ESL/EFL learners, particularly adults
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing skills, encourage communication despite errors, reinforce classroom learning
 
 ### Affordances

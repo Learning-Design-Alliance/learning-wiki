@@ -20,11 +20,11 @@ Learners play Taboo to practice choosing keywords, and the instructor identifies
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Any grade level
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Practice choosing effective keywords
 
 ### Affordances

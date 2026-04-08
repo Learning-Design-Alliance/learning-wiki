@@ -20,11 +20,11 @@ Celebrating diversity of language and tailoring instructional materials to non-n
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Multilingual learners of all ages
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Value linguistic diversity, reduce marginalization, improve English fluency, provide tailored instructional materials
 
 ### Affordances

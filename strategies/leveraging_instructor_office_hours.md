@@ -20,11 +20,11 @@ Instructors can share a great deal of insights and academic advice by opening up
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - University and College learners of all levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Get to know students, make instructors more accessible, and improve student success
 
 ### Affordances

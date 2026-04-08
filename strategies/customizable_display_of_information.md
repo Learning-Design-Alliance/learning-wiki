@@ -20,11 +20,11 @@ Providing adjustable settings and accessible formats to accommodate individual n
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with sensory disabilities (e.g., blindness or deafness), learning disabilities (e.g., dyslexia), and those representing diverse or non-dominant cultures and/or languages
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance accessibility, support diverse learning styles, accommodate individual needs and preferences, improve comprehension
 
 ### Affordances

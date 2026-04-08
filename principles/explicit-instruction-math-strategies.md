@@ -1,7 +1,8 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Explicit Instruction: Math Strategies
@@ -13,70 +14,62 @@ Direct instruction in math strategies may support some adult learners once conce
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- Clear modeling of when and why a strategy fits a problem, not only what steps it contains
+- Opportunities to compare multiple strategies on the same problem so learners can see structural differences
+- Follow-up practice that asks learners to select, justify, and adapt strategies themselves
+- A conceptual foundation strong enough that strategy instruction does not become rote rule memorization
+
 #### Constraints
-- <!-- TODO -->
+- Strategy instruction can become brittle if learners memorize procedures without understanding underlying structure
+- Too many strategies introduced at once can overload working memory and reduce rather than increase flexibility
+- For novices, premature open-ended strategy choice can be confusing unless examples and guidance are provided
+- Strategy teaching is weaker when divorced from meaningful problem contexts or reflection on effectiveness
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Hearing
-Socioeconomic Status
-
-Cognition:
-Short-term Memory
-Working Memory
-
-Language and Literacy:
-Background Knowledge
-Numeracy
+- Learners who have basic conceptual grounding but need more flexible problem-solving tools
+- Learners with math anxiety who benefit from seeing that problems can be approached in more than one way
+- Learners transitioning from procedural dependence to strategic choice and justification
+- Less effective as pure front-loading for complete novices who still lack a stable conceptual map of the domain
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- Build strategic flexibility in approaching math problems
+- Improve selection and justification of solution methods
+- Strengthen links between conceptual understanding and procedural choices
+- Support transfer by helping learners recognize underlying structure rather than surface cues alone
 
 ### Theory
 #### Supporting
-- [[theories/information-processing-theory-constructivism-piaget|Information Processing Theory
-Constructivism (Piaget]]
-- [[theories/bruner|Bruner]]
-- [[theories/vygotsky-cognitive-load-theory-sweller-gagnes-conditions-of-learning|Vygotsky)
-Cognitive Load Theory (Sweller)
-Gagne’s Conditions of Learning]]
+- Information-processing perspectives support explicit strategy instruction when it organizes procedures and decision points
+- Constructivist and sociocultural perspectives support strategy learning when learners compare methods, explain reasoning, and connect procedures to concepts
+- [[theories/cognitive-load-theory|Cognitive Load Theory]] qualifies strategy instruction as useful when it reduces unproductive search for novices, but risky when it adds redundancy or overload
+- Explicit modeling followed by guided comparison aligns well with instructional approaches that move from demonstration toward independent use
+
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Minimal-guidance discovery alone is often weak for novices, but direct strategy instruction is also weak if it replaces conceptual sense-making
+- Benefits depend on learners seeing why one strategy works better than another, not just rehearsing labeled methods
+- Strategy instruction should shift toward learner choice and justification as expertise grows [[claims/fading-support-promotes-transfer-of-responsibility]] [~S]
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Ashkenazi, S., & Najjar, D. (2018). Non-adaptive strategy selection in adults with high mathematical anxiety. Scientific Reports, 8(1), 1–9.
-
-Durkin, K., Star, J. R., & Rittle-Johnson, B. (2017). Using comparison of multiple strategies in the mathematics classroom: Lessons learned and next steps. ZDM, 49(4), 585-597.
-
-Gartmann, S., & Freiberg, M. (1995). Metacognition and mathematical problem solving: Helping students to ask the right questions. The Mathematics Educator, 6(1), 9-13.
-
-Hodzik, S., & Lemaire, P. (2011). Inhibition and shifting capacities mediate adults' age-related differences in strategy selection and repertoire. Acta Psychologica.
-
-Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. Educational Psychologist, 41(2), 75–86.
-
-Manly, M., & Ginsburg, L. (2010). Algebraic Thinking in Adult Education. National Institute for Literacy.
-
-Mousley, K., & Kelly, R. R. (1998). Problem-solving strategies for teaching mathematics to deaf students. American Annals of the Deaf, 143(4), 325–336.
-
-Nonesuch, K. (2006). Changing the Way We Teach Math. A Manual for Teaching Basic Math to Adults. Malaspina University College.
-
-Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facilitate conceptual and procedural knowledge? An experimental study on learning to solve equations. Journal of Educational Psychology, 99(3), 561-574.
-
-Sullivan, P. (2011). Teaching mathematics: Using research-informed strategies. Australian Council for Educational Research (Vol. 59).
-
-U.S. Department of Education, Office of Career, Technical, and Adult Education. (2014). TEAL Math Works! Guide. Washington, DC.
-
-World Education
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — learners understand strategies more deeply when they explain why a method works
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — early strategy instruction should emphasize process and decision criteria, not just answers
+- [[claims/chunking-reduces-working-memory-load]] [+S] — strategy routines can reduce load when they organize problem solving into manageable choices
+- [[claims/worked-examples-example-problem-sequences]] [+S] — modeled strategy use followed by similar problem solving is often stronger than unguided problem-only practice
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/worked-examples|Worked Examples]] — strategy instruction often begins with explicit modeled solutions
+- [[principles/error-analysis|Error Analysis]] — comparing failed and successful strategies can sharpen strategic judgment
+- [[principles/real-world-math|Real-World Math]] — strategy flexibility matters most when problems are varied and contextualized
+- [[principles/explaining-their-thinking|Explaining Their Thinking]] — strategy use becomes durable when learners justify choices aloud or in writing
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- [[strategies/direct_instruction:_problem-solving_strategies|Direct Instruction: Problem-solving Strategies]] — explicit modeling and reflection on multiple solution methods
+- Comparing two or three valid methods for the same problem before independent practice
+- Worked examples annotated with why a strategy was chosen, not just how it was executed
+- Problem-solving notebooks where learners track method choice and reflect on effectiveness
 
 ## Key Sources
-- <!-- TODO -->
+- Durkin, K., Star, J. R., & Rittle-Johnson, B. (2017). Using comparison of multiple strategies in the mathematics classroom. *ZDM, 49*(4), 585-597. [doi:10.1007/s11858-017-0853-9](https://doi.org/10.1007/s11858-017-0853-9)
+- Rittle-Johnson, B., & Star, J. R. (2007). Does comparing solution methods facilitate conceptual and procedural knowledge? *Journal of Educational Psychology, 99*(3), 561-574. [doi:10.1037/0022-0663.99.3.561](https://doi.org/10.1037/0022-0663.99.3.561)
+- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. *Educational Psychologist, 41*(2), 75-86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
+- U.S. Department of Education, Office of Career, Technical, and Adult Education. (2014). *TEAL Math Works! Guide*.

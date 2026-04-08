@@ -20,11 +20,11 @@ Math centers involve setting up various stations in the classroom where learners
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide hands-on practice, encourage collaboration, and differentiate instruction in math.
 
 ### Affordances

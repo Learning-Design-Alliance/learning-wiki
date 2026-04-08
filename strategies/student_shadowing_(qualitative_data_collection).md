@@ -20,11 +20,11 @@ A school leader spends time shadowing a student to gather qualitative data about
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - School leaders seeking to improve equity and school climate for students, especially students of color or multilingual learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand student lived experiences, uncover inequities, inform changes in instructional practices
 
 ### Affordances

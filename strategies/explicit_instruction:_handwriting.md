@@ -20,11 +20,11 @@ Direct teaching approach to handwriting, breaking down essential components like
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-3rd grade learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve letter formation, size consistency, and spacing in handwriting
 
 ### Affordances

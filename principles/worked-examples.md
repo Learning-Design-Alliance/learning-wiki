@@ -67,9 +67,9 @@ Worked examples are most effective when learners are new to a task or domain. By
 
 ### Illustrative
 
-**[[strategies/worked-example-routine|Worked Example Routine]]** — A classroom instructional routine in which the teacher presents a fully solved problem, thinks aloud through each step using [[elements/demonstration|explicit modeling]], then immediately asks learners to solve a near-transfer problem. The routine builds in [[elements/eliciting-student-thinking|self-explanation prompts]] before the independent attempt.
+**[[strategies/worked_example_routine|Worked Example Routine]]** — A classroom instructional routine in which the teacher presents a fully solved problem, thinks aloud through each step using [[elements/demonstration|explicit modeling]], then immediately asks learners to solve a near-transfer problem. The routine builds in [[elements/eliciting-student-thinking|self-explanation prompts]] before the independent attempt.
 
-**[[strategies/comparing-multiple-solution-methods|Comparing Multiple Solution Methods]]** — Learners study two or more [[elements/demonstration|worked examples]] of the same problem solved differently, then compare and explain which method is more efficient or generalizable. Particularly effective for building flexible procedural knowledge in mathematics.
+**[[strategies/comparing_multiple_solution_methods|Comparing Multiple Solution Methods]]** — Learners study two or more [[elements/demonstration|worked examples]] of the same problem solved differently, then compare and explain which method is more efficient or generalizable. Particularly effective for building flexible procedural knowledge in mathematics.
 
 **[ASSISTments](https://www.assistments.org)** — A free web-based math platform (grades 6–12) that delivers [[elements/practice|practice problems]] with on-demand [[elements/demonstration|worked example hints]] that walk through solution steps. Learners can request a hint at any step, receiving targeted procedural guidance rather than the full solution. Heffernan & Heffernan (2014) report learning gains relative to homework-only conditions across several randomized school studies.
 

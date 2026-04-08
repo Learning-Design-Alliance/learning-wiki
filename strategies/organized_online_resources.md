@@ -20,11 +20,11 @@ Storing lesson plan ideas, instructional websites, and electronic copies of work
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators seeking to enhance their digital organizational skills and create accessible digital resources for students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Streamline resource accessibility, enhance organization of digital content, improve efficiency in lesson planning
 
 ### Affordances

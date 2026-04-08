@@ -1,77 +1,102 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: Moog & Spencer (2008)
-grain_size: Lesson, Unit
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: Moog and Spencer
+grain_size: lesson
 ---
 
 # Process-Oriented Guided Inquiry Learning (POGIL)
 
 ## Description
-A team-based learning approach where students work in structured groups to analyze models, identify patterns, and construct their own understanding of concepts.
+POGIL is a team-based inquiry pattern in which learners work through carefully designed activities that move from exploration to concept invention to application. Rather than receiving a finished explanation first, learners examine a model, dataset, or representation, answer sequenced questions, infer the underlying concept, and then apply it in new situations. The "process-oriented" part emphasizes not only content learning but also process skills such as communication, teamwork, and self-management.
+
+The pattern is useful when instructors want inquiry without abandoning structure. It provides more guidance than open discovery and more learner reasoning than direct explanation-first teaching.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Requires carefully designed models and structured guidance
+- **Carefully designed guided materials**: POGIL depends on activities that sequence attention and inference well.
+- **Team roles or norms**: Learners need structures that support collaborative responsibility.
+- **Facilitation rather than constant telling**: The instructor monitors, questions, and clarifies instead of front-loading all explanations.
+- **A model-to-concept-to-application flow**: Learners need to move beyond observation into generalization and use.
 #### Constraints
-- Some students may struggle with self-directed discovery without sufficient facilitation
+- **Design quality is critical**: Poor prompts or weak models can make the inquiry confusing.
+- **Some learners need more explicit support**: Even guided inquiry can overload novices if too much is implicit.
+- **Time demands**: POGIL often takes longer than lecture-based coverage.
+- **Role compliance can become superficial**: Team roles only help if they actually structure interaction.
 #### Grain Size
-Lesson, Unit
+- Lesson
+- Unit
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Best for conceptual and procedural learning; enhances problem-solving and critical thinking
+- **Conceptual understanding through inquiry**: Learners infer principles from structured evidence.
+- **Process skill development**: Teamwork, communication, and self-management are built into the pattern.
+- **Application after invention**: Learners use the concept after constructing it.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Middle school, high school, higher education, STEM disciplines
+- **Learners in STEM and inquiry-rich courses**: Strong fit where models, data, or representations can anchor concept building.
+- **Groups ready for structured collaboration**: POGIL assumes learners can work interdependently with guidance.
+- **Learners who benefit from scaffolded inquiry**: Best when exploration is supported rather than fully open.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Constructivist perspectives — learners build concepts actively from structured exploration.
+- Inquiry-oriented perspectives — understanding deepens through guided questioning and evidence use.
+- Cooperative learning perspectives — group roles and shared reasoning support content and process development.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- POGIL still needs enough guidance for novices; it is not a defense of minimal instruction.
+- Some straightforward procedural content may be more efficiently taught with direct demonstration first.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/contingent-scaffolding-improves-learning]] [+M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
+- [[claims/self-monitoring-improves-self-regulation]] [~M]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-- Follows a cycle: exploration (students analyze data), concept invention (construct explanations), and application (apply to new problems)
+1. Present a model, representation, or dataset for learners to explore.
+2. Use sequenced questions to guide pattern noticing and interpretation.
+3. Have learners articulate the concept or principle they infer.
+4. Move into application tasks that test and extend the concept.
+5. Debrief both the content and the group's inquiry process.
 
 ### Elements Used
-- [[elements/team-based-work|Team-based work]]
-- [[elements/guided-models|guided models]]
-- [[elements/structured-questioning|structured questioning]]
-- [[elements/scaffolding|scaffolding]]
+- [[elements/scaffolded-inquiry|Scaffolded Inquiry]]
+- [[elements/structured-questioning|Structured Questioning]]
+- [[elements/peer-collaboration|Peer Collaboration]]
+- [[elements/practice|Practice]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/social-constructivism|Social constructivism]]
-- [[principles/peer-learning|peer learning]]
-- [[principles/metacognition|metacognition]]
-- [[principles/inquiry-based-learning|inquiry-based learning]]
-
+- [[principles/inquiry-based-learning|Inquiry-based Learning]]
+- [[principles/peer-discussion|Peer Discussion]]
+- [[principles/guided-practice|Guided Practice]]
+- [[principles/purposeful-reflection|Purposeful Reflection]]
 
 ### Personalization
-- Can be adapted through differentiated team roles, flexible pacing, and scaffolded inquiry
+- Teams can have differentiated roles that support participation and accountability.
+- Instructors can vary the amount of structure in the prompts depending on learner readiness.
+- Application tasks can be tuned for different pacing or complexity levels.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/guided-discovery-learning|Guided Discovery Learning]]
+- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
 
 ## Examples
-- Chemistry POGIL activities, problem-based STEM learning
+- Chemistry learners using data and representations to infer a concept before solving related problems.
+- STEM lessons where model analysis leads into concept naming and then application.
+- Online inquiry activities with guided prompts and team roles.
 
 ## Impact
-- Studies show increased conceptual understanding and teamwork skills
+- Offers a middle path between lecture-first instruction and open inquiry.
+- Particularly useful when instructors want both conceptual reasoning and process-skill development.
 
 ## Key Sources
-- Moog, R. S., & Spencer, J. N. (2008). POGIL: Process-Oriented Guided Inquiry Learning. ACS Publications.
+- Moog, R. S., & Spencer, J. N. (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series.
+- Purkayastha, S., Guntu, M., Ravindran, R., & Surapaneni, A. K. (2019). Learning gains of process-oriented guided inquiry learning in an online course setting. *Proceedings of the European Conference on E-Learning*, 495-504.

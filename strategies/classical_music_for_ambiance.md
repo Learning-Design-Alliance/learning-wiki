@@ -20,11 +20,11 @@ Playing classical music (e.g., Bach) at a low volume when students enter the roo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a calm and focused classroom environment, reduce disruptive behavior, set a professional tone
 
 ### Affordances

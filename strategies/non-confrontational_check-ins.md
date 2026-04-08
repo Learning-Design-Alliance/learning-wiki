@@ -20,11 +20,11 @@ Non-confrontational check-ins involve engaging students in informal, positive in
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school students and above
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student behavior, create a positive classroom environment, build relationships with students, proactively address potential issues
 
 ### Affordances

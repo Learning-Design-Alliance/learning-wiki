@@ -20,11 +20,11 @@ Designating a quiet space in the learning environment where learners can take br
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who experience sensory overload, anxiety, or difficulty managing their emotions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-regulation, reduce overstimulation, provide a safe space for learners to calm down
 
 ### Affordances

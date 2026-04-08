@@ -18,11 +18,11 @@ Learners defend their conclusions with evidence, fostering critical reasoning.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school, higher education, law, business
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve scientific reasoning, conceptual understanding, and logical argumentation.
 
 ### Affordances

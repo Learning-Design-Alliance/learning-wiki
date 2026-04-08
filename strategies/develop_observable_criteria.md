@@ -20,11 +20,11 @@ Using Bloom's Taxonomy, Webb's Depth of Knowledge, and Marzano's Dimensions of L
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, Higher Education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create measurable objectives, ensure student-friendly criteria, promote clear communication
 
 ### Affordances

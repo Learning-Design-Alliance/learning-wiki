@@ -20,11 +20,11 @@ Give your full attention and listen to both a student’s words and tone of voic
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, counselors, mentors, parents
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve communication, build trust, enhance understanding, show respect for student perspectives
 
 ### Affordances

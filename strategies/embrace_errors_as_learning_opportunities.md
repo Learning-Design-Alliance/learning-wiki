@@ -20,11 +20,11 @@ Creating a classroom culture where errors become learning opportunities involves
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners who struggle with math confidence
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate a growth mindset, improve problem-solving skills, reduce math anxiety, encourage participation
 
 ### Affordances

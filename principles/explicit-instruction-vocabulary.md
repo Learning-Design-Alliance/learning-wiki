@@ -1,7 +1,8 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Explicit Instruction: Vocabulary
@@ -13,81 +14,62 @@ Seeing and using new words repeatedly and across contexts is critical for vocabu
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- Careful selection of high-value words that matter for upcoming texts, tasks, or disciplinary participation
+- Explicit explanation of meaning, usage, morphology, examples, and non-examples
+- Repeated encounters and active use across speaking, reading, and writing
+- Follow-up routines that ask learners to explain, compare, and apply words rather than only memorize definitions
+
 #### Constraints
-- <!-- TODO -->
+- Too many target words at once can overload learners and dilute attention from the most useful terms
+- Definition-only instruction is weak if learners do not use the words in context
+- Domain-specific vocabulary can remain inert unless tied to meaningful content and tasks
+- Learners with weak decoding or limited background knowledge may need additional supports beyond vocabulary explanation alone
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Hearing
-Literacy Environment
-Primary Language
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Motivation
-
-Cognition:
-Short-term Memory
-Speed of Processing
-Working Memory
-
-Language and Literacy:
-Disciplinary Literacy
-Composition
-Foundational Reading Skills
-Background Knowledge
-Numeracy
-Oral Communication Skills
+- Learners entering new disciplinary, workplace, or academic language environments
+- Multilingual learners and developing readers who need direct support with high-utility and domain-specific words
+- Learners who can grasp ideas conceptually but lack the vocabulary to participate fully in reading, writing, or discussion
+- Learners whose comprehension is limited by unfamiliar academic or technical terms
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- Build durable knowledge of high-value general academic and disciplinary vocabulary
+- Improve comprehension of texts, instructions, and explanations
+- Increase precision and confidence in speaking and writing
+- Support transfer by moving words from recognition to productive use
 
 ### Theory
 #### Supporting
-- [[theories/information-processing-theory-constructivism-piaget|Information Processing Theory
-Constructivism (Piaget]]
-- [[theories/bruner|Bruner]]
-- [[theories/vygotsky-dual-coding-theory-paivio-gagnes-conditions-of-learning|Vygotsky)
-Dual Coding Theory (Paivio)
-Gagne’s Conditions of Learning]]
+- Information-processing perspectives support repeated retrieval and reuse of words across contexts
+- Sociocultural and constructivist perspectives support vocabulary growth through guided participation in meaningful discourse and text
+- Dual-coding perspectives support pairing verbal explanation with examples, visuals, and morphology cues
+- Systematic instruction models support selecting, introducing, and revisiting words in planned ways rather than hoping learners infer them incidentally
+
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Vocabulary is learned more deeply through use than through exposure alone
+- Instruction should prioritize the most generative and reusable words rather than long undifferentiated lists
+- Support should move from explicit explanation toward independent contextual inference over time [[claims/fading-support-promotes-transfer-of-responsibility]] [~S]
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Banner, A., & Wang, Y. (2011). An analysis of the reading strategies used by adult and student deaf readers. Journal of Deaf Studies and Deaf Education, 16(1), 2-23.
-
-Blachowicz, C. L., Fisher, P. J., Ogle, D., & Watts‐Taffe, S. (2006). Vocabulary: Questions from the classroom. Reading Research Quarterly, 41(4), 524-539.
-
-Bruce Taylor, D., Mraz, M., Nichols, W. D., Rickelman, R. J., & Wood, K. D. (2009). Using explicit instruction to promote vocabulary learning for struggling readers. Reading & Writing Quarterly, 25(2-3), 205-220.
-
-Gray, S. H., Ehri, L. C., & Locke, J. L. (2018). Morpho-phonemic analysis boosts word reading for adult struggling readers. Reading and Writing, 31(1), 75-98.
-
-Kamil, M. L., Borman, G. D., Dole, J., Kral, C. C., Salinger, T., and Torgesen, J. (2008). Improving adolescent literacy: Effective classroom and intervention practices: A Practice Guide (NCEE #2008-4027). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education.
-
-Madrigal-Hopes, D. L., Villavicencio, E., Foote, M. M., & Green, C. (2014). Transforming English language learners' work readiness: Case studies in explicit, work-specific vocabulary instruction. Adult Learning, 25(2), 47-56.
-
-National Reading Panel (US). (2000). Report of the national reading panel: Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction: Reports of the subgroups. Washington, DC: National Institute of Child Health and Human Development, National Institutes of Health.
-
-Nixon, S., & Fishback, J. (2009). Enhancing comprehension and retention of vocabulary concepts through small-group discussion: Probing for connections among key terms. Journal of College Science Teaching, 38(5), 18.
-
-Peyton, J. K., & Schaetzel, K. (2016). Teaching writing to adult English language learners: Lessons from the field. Journal of Literature and Art Studies, 6(11), 1407-1423.
-
-Riccomini, P. J., Smith, G. W., Hughes, E. M., & Fries, K. M. (2015). The language of mathematics: The importance of teaching and learning mathematical vocabulary. Reading & Writing Quarterly, 31(3), 235-252.
-
-Shaw, D. M., & Berg, M. A. (2008). Effects of a word study intervention on spelling accuracy among low-literate adults. Adult Basic Education and Literacy Journal, 2(3), 131-139.
-
-Snow, C. E. (2010). Academic language and the challenge of reading for learning about science. Science, 328(5977), 450–452.
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — vocabulary becomes more durable when learners explain and use words in their own reasoning
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — novice vocabulary learners benefit from explicit routines for noticing, defining, and applying words
+- [[claims/chunking-reduces-working-memory-load]] [+S] — instruction should limit and organize target words so learners can attend to the most generative terms
+- [[claims/contingent-scaffolding-improves-learning]] [+M] — vocabulary support is stronger when instructors respond to actual misuse, confusion, or missing background knowledge
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/accessible-vocabulary-syntax|Accessible Vocabulary & Syntax]] — explicit vocabulary instruction is a direct mechanism for making language more usable
+- [[principles/explicit-instruction-phonics|Explicit Instruction: Phonics]] — some learners need word-level decoding support alongside meaning instruction
+- [[principles/annotating|Annotating]] — annotation can be used to capture, define, and revisit target terms
+- [[principles/multimodal-instruction|Multimodal Instruction]] — examples, visuals, and oral use can all reinforce vocabulary learning
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- [[strategies/teach_academic_vocabulary|Teach Academic Vocabulary]] — direct teaching of project-critical terms before and during use
+- [[strategies/tiered_vocabulary_instruction|Tiered Vocabulary Instruction]] — selecting high-utility words intentionally
+- [[strategies/word_study|Word Study]] — examining patterns and morphology to reinforce word learning
+- Requiring learners to use target words in explanation, discussion, and writing tasks rather than only on quizzes
 
 ## Key Sources
-- <!-- TODO -->
+- Bruce Taylor, D., Mraz, M., Nichols, W. D., Rickelman, R. J., & Wood, K. D. (2009). Using explicit instruction to promote vocabulary learning for struggling readers. *Reading & Writing Quarterly, 25*(2-3), 205-220. [doi:10.1080/10573560802683663](https://doi.org/10.1080/10573560802683663)
+- Madrigal-Hopes, D. L., Villavicencio, E., Foote, M. M., & Green, C. (2014). Transforming English language learners' work readiness. *Adult Learning, 25*(2), 47-56. [doi:10.1177/1045159514527923](https://doi.org/10.1177/1045159514527923)
+- Riccomini, P. J., Smith, G. W., Hughes, E. M., & Fries, K. M. (2015). The language of mathematics. *Reading & Writing Quarterly, 31*(3), 235-252. [doi:10.1080/10573569.2015.1030995](https://doi.org/10.1080/10573569.2015.1030995)
+- Snow, C. E. (2010). Academic language and the challenge of reading for learning about science. *Science, 328*(5977), 450-452. [doi:10.1126/science.1182597](https://doi.org/10.1126/science.1182597)

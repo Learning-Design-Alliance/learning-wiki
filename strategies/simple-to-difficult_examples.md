@@ -20,11 +20,11 @@ Start with simple examples when introducing a concept, then progress to more com
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly when concepts have varying levels of complexity
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote comprehensive understanding of a concept, avoid under-generalization
 
 ### Affordances

@@ -20,11 +20,11 @@ Direct instruction in phoneme awareness helps children in the early stages of le
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Kindergarten and early elementary students, struggling readers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop phonemic awareness, improve spelling skills, enhance reading fluency
 
 ### Affordances

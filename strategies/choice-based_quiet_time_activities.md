@@ -20,11 +20,11 @@ Choice-based activities during quiet time give students the power to select thei
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote student engagement, encourage self-regulation, provide a sense of control, enhance focus
 
 ### Affordances

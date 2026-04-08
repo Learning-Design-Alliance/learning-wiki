@@ -18,11 +18,11 @@ Learners evaluate options and make informed choices within a structured learning
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for law, business, leadership training, and STEM education.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving and analytical reasoning skills.
 
 ### Affordances

@@ -20,11 +20,11 @@ Shift away from the 0-100 scale, which punishes students severely for missing wo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All Levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce the impact of missed assignments, make it easier to recover from setbacks, create psychological safety
 
 ### Affordances

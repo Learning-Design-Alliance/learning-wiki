@@ -20,11 +20,11 @@ This strategy involves leveraging students' familiarity with technology to creat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, foster deeper learning, promote metacognition
 
 ### Affordances

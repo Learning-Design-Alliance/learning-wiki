@@ -20,11 +20,11 @@ Monitoring progress involves regularly assessing advancement towards goals. This
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Essential for anyone pursuing goals, particularly long-term or complex ones.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure goals stay on track, identify areas needing adjustment, and maintain motivation by visualizing progress.
 
 ### Affordances

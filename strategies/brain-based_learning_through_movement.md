@@ -20,11 +20,11 @@ Brain-based learning strategies involve engaging multiple senses and encouraging
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who benefit from kinesthetic learning, including students in K–12 and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance learning and retention, activate multiple brain regions, improve understanding through peer teaching, provide brain refocusing breaks, implement quick brain-based activities
 
 ### Affordances

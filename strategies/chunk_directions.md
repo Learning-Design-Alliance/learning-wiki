@@ -20,11 +20,11 @@ Giving learners more manageable chunks of information can help ensure they’re 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who experience anxiety, sensory overload, or difficulty transitioning between activities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve sustained attention
 
 ### Affordances

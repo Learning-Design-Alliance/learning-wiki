@@ -20,11 +20,11 @@ Students pick a quote that expresses how they feel in the moment. Display quotes
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially middle and high school
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Connect feelings with written expressions, encourage self-awareness, promote sharing and empathy
 
 ### Affordances

@@ -18,11 +18,11 @@ Students work in structured groups to analyze problems, construct solutions, and
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, STEM, humanities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote collaboration, peer learning, and collective meaning-making.
 
 ### Affordances

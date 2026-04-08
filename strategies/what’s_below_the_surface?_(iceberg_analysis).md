@@ -20,11 +20,11 @@ This strategy involves using the metaphor of an iceberg to encourage students to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage critical thinking, promote deeper analysis of character traits, and develop self-management and responsible decision-making skills.
 
 ### Affordances

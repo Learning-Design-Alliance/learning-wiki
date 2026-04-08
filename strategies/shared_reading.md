@@ -20,11 +20,11 @@ Shared reading is an interactive reading experience where an adult reads aloud w
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Beginning and seasoned readers in preschool through early elementary school, including children who benefit from modeling and explicit instruction.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading comprehension, build print awareness, model fluent reading, enhance prediction skills, and foster a love of reading.
 
 ### Affordances

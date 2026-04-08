@@ -20,11 +20,11 @@ Students transform conversational text selections into poetry by blacking out se
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop social awareness, improve relationship skills, enhance empathy, and promote active listening.
 
 ### Affordances

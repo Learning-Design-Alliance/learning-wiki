@@ -18,11 +18,11 @@ Learners reflect on their own or peers’ work before finalizing.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for writing-intensive courses, STEM, and project-based learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support deeper understanding through evaluation.
 
 ### Affordances

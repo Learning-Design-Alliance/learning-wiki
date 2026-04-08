@@ -20,11 +20,11 @@ Use sentence frames to help structure respectful responses in debate or disagree
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students, educators, digital citizens
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve online communication, foster respectful dialogue, reduce conflict, promote empathy, enhance clarity
 
 ### Affordances

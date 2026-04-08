@@ -20,11 +20,11 @@ Make a point to check sites that do not agree with your politics. You may discov
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - General audience
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage learners to seek out diverse perspectives and support reliable news sources.
 
 ### Affordances

@@ -20,11 +20,11 @@ This approach incorporates mindfulness techniques to help students manage their 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students struggling with self-regulation; adaptable for various age groups and learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve emotional regulation; reduce reactivity; enhance self-awareness; promote mindfulness
 
 ### Affordances

@@ -20,11 +20,11 @@ The RIP Toolbox is a memory-enhancing strategy that utilizes three key elements:
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for learners who need structured approaches to memorization
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve memory recall, enhance information retention, facilitate organization of information, encourage purposeful learning
 
 ### Affordances

@@ -18,11 +18,11 @@ Learners refine their conceptual models based on evidence and feedback.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - STEM disciplines, higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve conceptual understanding through iterative evaluation.
 
 ### Affordances

@@ -20,11 +20,11 @@ Normalizing struggle involves creating a classroom culture where challenges and 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and learning levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote resilience, encourage perseverance, foster a growth mindset, reduce fear of failure
 
 ### Affordances

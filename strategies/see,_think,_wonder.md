@@ -20,11 +20,11 @@ A thinking routine developed by Project Zero to stimulate curiosity, normalize e
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, from elementary to higher education, as it promotes critical thinking and curiosity; adaptable to diverse subject areas
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Stimulate curiosity, increase critical thinking skills, normalize error, activate background knowledge, facilitate inquiry
 
 ### Affordances

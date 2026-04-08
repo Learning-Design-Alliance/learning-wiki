@@ -20,11 +20,11 @@ Speech-to-text technology converts spoken language into written text, benefiting
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students and adults with dyslexia, dysgraphia, physical disabilities, or anyone who struggles with typing or handwriting
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enable students with dyslexia and dysgraphia to express themselves in writing, improve writing speed and fluency, enhance access to digital content, support searching the internet
 
 ### Affordances

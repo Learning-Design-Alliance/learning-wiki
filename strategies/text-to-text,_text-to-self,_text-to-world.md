@@ -20,11 +20,11 @@ Text-to-Text, Text-to-Self, Text-to-World is a strategy that helps learners conn
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 6-12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance reading comprehension, promote meaningful connections, encourage self-reflection, relate text to personal experiences, connect text to other texts and the world.
 
 ### Affordances

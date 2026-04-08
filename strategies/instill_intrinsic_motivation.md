@@ -20,11 +20,11 @@ Helping students understand that positive actions lead to positive feelings abou
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators seeking to enhance student motivation and positive behavior
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop intrinsic motivation, improve self-esteem, enhance positive behavior, and cultivate a growth mindset
 
 ### Affordances

@@ -20,11 +20,11 @@ Identifying and supporting students who have learning strengths or challenges re
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with varying degrees of strengths and challenges related to self-regulation.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-regulation skills, enhance emotional and behavioral control, and improve metacognitive awareness.
 
 ### Affordances

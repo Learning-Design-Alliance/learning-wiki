@@ -20,11 +20,11 @@ Historically Responsive Literacy (HRL) is a framework that seeks to cultivate li
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators working with diverse student populations, particularly Black and Brown students (K-12, higher education)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop literacy skills, foster intellectual growth, promote self-efficacy, and cultivate critical thinking skills while recognizing and celebrating students' identities.
 
 ### Affordances

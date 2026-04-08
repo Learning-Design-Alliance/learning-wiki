@@ -20,11 +20,11 @@ A digital library includes a dedicated section of books focused on social and em
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers and students in elementary and secondary schools who are looking to integrate SEL into their curriculum.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote SEL, improve access to relevant literature, support curriculum integration, and enhance student awareness of SEL topics and skills.
 
 ### Affordances

@@ -20,11 +20,11 @@ This strategy involves using a data-driven, student-centered plan to implement s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with identified learning differences, including strengths and challenges.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support students with learning differences by leveraging their strengths and addressing their challenges through targeted instructional strategies.
 
 ### Affordances

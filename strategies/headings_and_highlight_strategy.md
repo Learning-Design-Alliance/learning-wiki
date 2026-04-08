@@ -20,11 +20,11 @@ Students read an excerpt of a difficult article in Google Docs. First, they high
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and adult learners who need to improve their reading comprehension and analysis skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance reading comprehension, identify key ideas, justify thinking, improve collaboration skills, encourage active engagement with text
 
 ### Affordances

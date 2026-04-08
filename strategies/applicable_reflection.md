@@ -20,11 +20,11 @@ Applicable reflection involves guiding students to consider how their past perfo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who struggle to see the relevance of their learning
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve future performance, connect past learning to future tasks, promote skill development
 
 ### Affordances

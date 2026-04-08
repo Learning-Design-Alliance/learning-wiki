@@ -20,11 +20,11 @@ Using templates and tools that allow for scaffolding involves providing students
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, including reluctant writers, who benefit from structured supports in developing their writing skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support students' writing process through structured supports, enhance organizational skills, and promote independence and confidence.
 
 ### Affordances

@@ -20,11 +20,11 @@ Assessing student work on a regular basis provides both the teacher and the stud
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All adult learners in online or blended learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide diagnostic feedback, help educators set standards, evaluate progress, relate to a student’s progress, support student self-evaluation, and support teacher self-evaluation.
 
 ### Affordances

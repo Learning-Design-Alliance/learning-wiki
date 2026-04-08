@@ -20,11 +20,11 @@ Peer observation is a collaborative process where teachers observe each other's 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers at all levels and disciplines
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve teaching practices, encourage honest conversation, provide new approaches to problems, boost confidence, and encourage reflection.
 
 ### Affordances

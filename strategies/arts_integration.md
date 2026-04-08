@@ -20,11 +20,11 @@ Integrate arts activities like fiction writing, dance, drama, graphic design, mu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for elementary and high school students, as well as adult learners in arts-based programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance learner engagement and understanding, foster creativity and critical thinking, help learners discover their talents and interests, provide creative outlets for expression
 
 ### Affordances

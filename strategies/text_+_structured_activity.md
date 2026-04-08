@@ -20,11 +20,11 @@ Students engage with text resources (physical or digital) accompanied by a struc
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who prefer text-based learning and those with limited access to technology or bandwidth.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide accessible and flexible content, promote active learning, facilitate understanding and application of concepts.
 
 ### Affordances

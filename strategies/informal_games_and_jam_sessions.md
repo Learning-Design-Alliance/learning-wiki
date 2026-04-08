@@ -20,11 +20,11 @@ Encourage participation in informal games and jam sessions to foster creativity,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for middle and high school students, as well as adult learners in recreational and social settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster creativity and self-expression, promote collaboration and social interaction, enhance motivation and enjoyment, reduce the pressure of competition
 
 ### Affordances

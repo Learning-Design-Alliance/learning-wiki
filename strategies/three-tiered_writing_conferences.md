@@ -20,11 +20,11 @@ The Three-Tiered Writing Conference approach provides a structured format for br
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, higher education, and adult learners in writing programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide structured feedback, connect emotionally with students, offer actionable suggestions, reinforce student's role as an author
 
 ### Affordances

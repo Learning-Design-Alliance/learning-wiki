@@ -20,11 +20,11 @@ Promoting self-directed learning involves explicitly teaching students strategie
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and learning levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving skills, enhance metacognitive awareness, improve self-reflection abilities, foster independence
 
 ### Affordances

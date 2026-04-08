@@ -20,11 +20,11 @@ A clean, organized, and uncluttered learning environment is free from distractio
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those sensitive to visual clutter or with attention challenges
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce distractions, improve focus, enhance learning outcomes
 
 ### Affordances

@@ -20,11 +20,11 @@ Self-awareness is the ability to correctly identify your own emotions, thoughts,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with strengths and challenges related to self-awareness, including elementary, secondary, and higher education learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop student ability to identify their own emotions, thoughts, and values, promote self-understanding, and enhance self-efficacy
 
 ### Affordances

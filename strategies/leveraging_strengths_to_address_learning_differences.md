@@ -20,11 +20,11 @@ This strategy involves educators identifying specific student strengths and/or c
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with identified learning differences and varying degrees of strengths and challenges related to self-awareness and self-regulation
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support student learning by leveraging their strengths, address learning differences, and promote self-awareness and self-regulation
 
 ### Affordances

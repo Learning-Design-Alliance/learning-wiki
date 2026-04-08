@@ -20,11 +20,11 @@ This strategy involves actively identifying and addressing fears that hold indiv
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for individuals held back by fears, anxieties, or a reluctance to take risks.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify and address fears, assess worst-case scenarios, promote positive mindset, encourage risk-taking, reduce anxiety, foster courage.
 
 ### Affordances

@@ -1,97 +1,69 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Formative Assessment
 
 ## Description
-Formative assessment is "assessment for learning" rather than "assessment of learning." In lifelong and lifewide learning, it is often called "learning-oriented assessment," focusing on fostering a Learner Mindset by providing feedback, reflection, and revision opportunities rather than evaluation. Embedding assessments throughout instructional activities for feedback and growth opportunities serves various purposes in instructional settings. Learners can make mistakes in a low-risk environment, receive meaningful feedback from the instructor to understand their progress, and revise their work to support a cycle of learning. Formative activities and assessments also help inform instruction as instructors gain meaningful information about learner progress. These activities can positively boost learner Emotion and intrinsic Motivation, helping to ease academic anxiety as the emphasis is placed on the learning process rather than final achievement.
+Formative assessment is the instructional principle of embedding low-stakes checks for understanding, feedback, and adjustment into the learning process rather than reserving assessment for final judgment. Its value is not the checkpoint itself, but the feedback loop it creates: learners compare their current performance to a target, explain errors, and revise strategies, while instructors adjust support and pacing in response. In practice, formative assessment works best when it is frequent, interpretable, and directly tied to the next instructional move.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **Clear success criteria**: Learners need to know what counts as good performance before a checkpoint can guide improvement.
+- **Actionable feedback**: Checks for understanding need to produce information that changes the next step, not just a score or completion mark [[claims/contingent-scaffolding-improves-learning]] [+M].
+- **Opportunities to revise**: Formative assessment only functions as "assessment for learning" when learners can use the result to retry, refine, or seek support.
+- **Low-stakes design**: The environment must make it safe to reveal partial understanding, confusion, or error [[claims/high-confidence-errors-improve-retention]] [+S].
 #### Constraints
-- <!-- TODO -->
+- **Over-assessment**: Too many checks can fragment attention and turn learning into constant compliance.
+- **Weak alignment**: If prompts do not reflect the actual target skill, the resulting feedback misdirects effort.
+- **Feedback delay**: Long delays between attempt and response weaken the instructional value of the checkpoint.
+- **Unclear interpretation**: Learners cannot regulate from feedback they do not understand or know how to act on.
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Primary Language
-Sleep
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Self-regulation
-Motivation
-Learner Mindset
-Sense of Belonging
-Stereotype Threat
-
-Cognition:
-Cognitive Flexibility
-Attention
-Inhibition
-Long-term Memory
-Short-term Memory
-Metacognition
-
-Language and Literacy:
-Disciplinary Literacy
-Composition
-Foundational Reading Skills
-Background Knowledge
-Digital Literacy
-Numeracy
-Problem Solving
+- **Novice learners**: Benefit when checkpoints expose misunderstandings early and support targeted next steps before errors compound.
+- **Learners building self-regulation**: Frequent feedback supports monitoring, strategy adjustment, and more accurate self-assessment.
+- **Learners returning after interruption or low confidence**: Low-stakes checks reduce the cost of being wrong and can normalize revision as part of progress.
+- **Instructors managing diverse readiness levels**: Formative assessment helps differentiate pacing, grouping, and support rather than teaching to an assumed average.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Monitoring understanding**: Determining whether learners can explain, apply, or transfer what was just taught.
+- **Improving performance during instruction**: Using evidence from practice to adjust supports before summative evaluation.
+- **Building revision habits**: Helping learners treat feedback as input for the next attempt rather than as judgment of fixed ability.
+- **Strengthening metacognition**: Helping learners identify what they know, what they misunderstand, and what to do next.
 
 ### Theory
 #### Supporting
-- [[theories/self-regulated-learning-zimmerman-expectancy-value-theory-gagnes-conditions-of-learning|Self-Regulated Learning (Zimmerman)
-Expectancy-Value Theory
-Gagne’s Conditions of Learning]]
+- Self-Regulated Learning (Zimmerman) — formative assessment provides the external feedback and reflection prompts that support self-monitoring and strategy adjustment.
+- Instructional scaffolding — checks for understanding help instructors calibrate when to add, maintain, or fade support [[claims/contingent-scaffolding-improves-learning]] [+M].
+- [[theories/cognitive-load-theory|Cognitive Load Theory]] — brief diagnostic checks can surface overload or missing schema before learners continue into more complex work.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- High-frequency testing can become counterproductive when it interrupts whole-task flow or narrows learning to what is easiest to measure.
+- Formative assessment improves learning only when evidence is interpreted correctly and used to change instruction or learner strategy.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Clark, I. (2012). Formative assessment: Assessment is for self-regulated learning. Educational Psychology Review, 24(2), 205-249.
-
-Cross, T., & Palese, K. (2015). Increasing learning: Classroom assessment techniques in the online classroom. American Journal of Distance Education, 29(2), 98–108.
-
-Elmahdi, I., Al-Hattami, A., & Fawzi, H. (2018). Using technology for formative assessment to improve students' learning. Turkish Online Journal of Educational Technology—TOJET, 17(2), 182–188.
-
-Estaji, M., & Mirzaii, M. (2018). Enhancing EFL learners' vocabulary learning through formative assessment: Is the effort worth expending? Language Learning in Higher Education, 8(2), 239–264.
-
-Green, T. M., Kelso, C. M., & Zillioux, D. (2015). The nexus between education and training: Implications for the adult learner. Journal of Research in Innovative Teaching, 8(1), 64-79.
-
-Hawe, E., & Dixon, H. (2017). Assessment for learning: A catalyst for student self-regulation. Assessment & Evaluation in Higher Education, 42(8), 1181–1192.
-
-Hay, D., Tan, P., & Whaites, E. (2010). Non-traditional learners in higher education: Comparison of a traditional MCQ examination with concept mapping to assess learning in a dental radiological science course. Assessment & Evaluation in Higher Education, 35(5), 577–595.
-
-Hooley, D. S., & Thorpe, J. (2017). The effects of formative reading assessments closely linked to classroom texts on high school reading comprehension. Educational Technology Research and Development, 65(5), 1215–1238.
-
-Marshall, E. M., Staddon, R. V., Wilson, D. A., & Mann, V. E. (2017). Addressing maths anxiety and engaging students with maths within the curriculum. MSOR Connections, 15(3), 28–35.
-
-Mubayrik, H. F. B. (2020). New trends in formative-summative evaluations for adult education. SAGE Open, 10(3).
-
-Serdyukova, N. (2015). What does indirect assessment tell us? Journal of Research in Innovative Teaching, 8(1), 161-172.
-
-Windisch, H. C. (2016). How to motivate adults with low literacy and numeracy skills to engage and persist in learning: A literature review of policy interventions. International Review of Education, 62(3), 279-297.
+- [[claims/contingent-scaffolding-improves-learning]] [+M]
+- [[claims/high-confidence-errors-improve-retention]] [+S]
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/immediate-feedback|Immediate Feedback]] — formative assessment becomes instructionally useful when learners receive information they can act on quickly.
+- [[principles/check-ins|Check-ins]] — frequent low-stakes check-ins are one common implementation pattern for formative assessment.
+- [[principles/error-analysis|Error Analysis]] — formative checkpoints can surface misconceptions that are then analyzed and corrected.
+- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]] — targets and progress markers make formative evidence interpretable.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Exit tickets**: A short end-of-session prompt asking learners to explain the main idea, identify a confusion point, or solve one transfer item before the next lesson is planned.
+- **In-lesson polls or quizzes**: Brief checks using [[elements/quizzes|quizzes]] or [[elements/optional-quizzes-or-discussion-sections|optional quizzes or discussion sections]] to decide whether to reteach, continue, or regroup.
+- **Draft feedback cycles**: Learners submit partial work, receive [[elements/feedback|feedback]], and revise before the task becomes summative.
+- **Think-aloud checkpoints**: Learners explain a step or reasoning path mid-task so the instructor can catch misconceptions before they solidify.
 
 ## Key Sources
-- <!-- TODO -->
+- Clark, I. (2012). Formative assessment: Assessment is for self-regulated learning. *Educational Psychology Review, 24*(2), 205-249. [https://doi.org/10.1007/s10648-011-9191-6](https://doi.org/10.1007/s10648-011-9191-6)
+- Hawe, E., & Dixon, H. (2017). Assessment for learning: A catalyst for student self-regulation. *Assessment & Evaluation in Higher Education, 42*(8), 1181-1192. [https://doi.org/10.1080/02602938.2016.1236360](https://doi.org/10.1080/02602938.2016.1236360)
+- Cross, T., & Palese, K. (2015). Increasing learning: Classroom assessment techniques in the online classroom. *American Journal of Distance Education, 29*(2), 98-108. [https://doi.org/10.1080/08923647.2015.1023594](https://doi.org/10.1080/08923647.2015.1023594)
+- Elmahdi, I., Al-Hattami, A., & Fawzi, H. (2018). Using technology for formative assessment to improve students' learning. *Turkish Online Journal of Educational Technology, 17*(2), 182-188.

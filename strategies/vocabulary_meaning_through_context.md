@@ -20,11 +20,11 @@ Instructors should present vocabulary in context so that learners can deduce the
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult English language learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve English vocabulary, increase understanding and memory, develop self-teaching skills
 
 ### Affordances

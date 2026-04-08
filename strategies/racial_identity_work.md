@@ -20,11 +20,11 @@ Racial identity work involves examining one's own racial identity, confronting p
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators who want to become better advocates for their learners, particularly those from marginalized racial groups.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-awareness, challenge biases, and empower learners to advocate for themselves and disrupt systems of oppression.
 
 ### Affordances

@@ -20,11 +20,11 @@ Identifying students' strengths related to emotional regulation and using those 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those with varying degrees of strengths and challenges related to emotional regulation.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve students' emotional regulation by leveraging their existing strengths and addressing challenges related to emotional regulation.
 
 ### Affordances

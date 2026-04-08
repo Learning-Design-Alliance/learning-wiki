@@ -20,11 +20,11 @@ Using cold call to select students to share their pair's responses reinforces ex
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly useful for promoting accountability and participation.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce engagement and attention, provide a sampling of responses, create a shared understanding of high-quality responses, and identify areas for re-teaching.
 
 ### Affordances

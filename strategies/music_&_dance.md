@@ -20,11 +20,11 @@ Incorporate music and dance into the learning environment to engage verbal, visu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for elementary students and kinesthetic learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance memorization, improve understanding through multiple senses, increase learner engagement, activate different parts of the brain involved with various senses
 
 ### Affordances

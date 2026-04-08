@@ -20,11 +20,11 @@ Activities designed to teach and practice cursive handwriting, which can be bene
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Upper elementary grades and above, particularly useful for students who struggle with printed handwriting.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teach and practice cursive handwriting, improving pencil control and letter formation.
 
 ### Affordances

@@ -20,11 +20,11 @@ Student reflection on learning, particularly when done collaboratively, is criti
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - 7-12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance long-term memory, promote metacognition, encourage self-assessment.
 
 ### Affordances

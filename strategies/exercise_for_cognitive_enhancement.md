@@ -20,11 +20,11 @@ Regular physical exercise boosts cognitive function by increasing neurotransmitt
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All individuals, particularly those seeking to improve cognitive function, protect against cognitive decline, and enhance overall well-being
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve mood, enhance focus and attention, increase long-term memory, protect against cognitive decline, and boost overall brain health
 
 ### Affordances

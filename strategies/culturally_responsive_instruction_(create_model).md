@@ -20,11 +20,11 @@ This strategy entails providing instruction that empowers students intellectuall
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Urban students and those from marginalized backgrounds
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower students, enhance engagement, improve academic outcomes
 
 ### Affordances

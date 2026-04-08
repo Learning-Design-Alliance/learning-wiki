@@ -18,11 +18,11 @@ Instructor-led presentations that deliver structured content to learners.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for large-group instruction, introductory courses, and formal education.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide clear and efficient knowledge transmission.
 
 ### Affordances

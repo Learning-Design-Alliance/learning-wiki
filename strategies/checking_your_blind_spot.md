@@ -20,11 +20,11 @@ Recognizing and addressing unconscious bias involves acknowledging its existence
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Individuals and organizations aiming to promote diversity, equity, and inclusion
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase awareness of unconscious bias, mitigate its effects on decision-making, promote fair and equitable practices
 
 ### Affordances

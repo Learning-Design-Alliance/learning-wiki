@@ -20,11 +20,11 @@ Before engaging in text-based discussions, instructors activate learners' backgr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially beneficial when introducing new or complex topics
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate connections to new content, improve comprehension, increase engagement
 
 ### Affordances

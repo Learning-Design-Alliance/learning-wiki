@@ -20,11 +20,11 @@ Question-based eLearning design is an instructional approach that replaces the t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners, professionals seeking self-paced or collaborative learning experiences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Stimulate curiosity, encourage active engagement, promote independent thinking, facilitate knowledge construction, enhance problem-solving skills
 
 ### Affordances

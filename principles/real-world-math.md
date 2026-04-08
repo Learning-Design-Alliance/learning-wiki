@@ -1,96 +1,71 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Real-world Math
 
 ## Description
-When instructors are able to provide context, and connect math concepts to an adult learner's world, math can be seen as relevant and applicable to their daily lives and work—a core aspect of adult Numeracy. These real-world connections are also great ways to integrate math with other disciplines to create cross-curricular connections, supporting Disciplinary Literacy, and fostering confidence and Motivation by helping adults see the relevance of all they are learning. As math is one of the few topics that is typically taught without historical or cultural context, it is particularly important that instruction focus on relevance to best support students from all backgrounds. As adults' lives can vary immensely from person to person, it is important to be aware of the relevance of the real-world context to the learners' individual and cultural contexts so that the connections are truly "real-world."
+Real-world math connects mathematical ideas to situations learners recognize as meaningful in work, home, community, finance, health, civic life, or further study. The point is not merely to decorate abstract content with a story problem; it is to show how mathematical reasoning helps make sense of actual decisions, quantities, tradeoffs, and patterns. For adult learners especially, relevance can improve persistence and reduce the sense that math is disconnected from everyday competence.
+
+This principle also broadens what counts as mathematical experience. When instructors draw on learners' cultural practices, workplace tasks, and informal problem-solving, math becomes something learners already use and can extend, not just something delivered by school. The quality of the context matters: examples should be authentic enough to support transfer without adding unnecessary complexity or stereotyping learner experience.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **Authentic contexts learners recognize**: Problems should connect to real uses of quantity, data, measurement, comparison, or modeling.
+- **Faithful mathematical structure**: The context must illuminate the concept instead of distracting from it.
+- **Instructor knowledge of learner context**: Relevance depends on understanding learners' goals, work, community, and prior math experiences.
+- **Opportunities to explain reasoning**: Real-world math is strongest when learners justify how the math fits the situation.
 #### Constraints
-- <!-- TODO -->
+- **Fake relevance**: Thin word problems or contrived contexts can feel manipulative and reduce trust.
+- **Context overload**: Rich situations can introduce literacy or background-knowledge demands that obscure the math.
+- **Cultural mismatch**: A context that feels authentic to one group may be confusing or alienating to another.
+- **Transfer is not automatic**: Learners still need help abstracting the underlying structure so they can use the math elsewhere.
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Primary Language
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Motivation
-Learner Mindset
-Sense of Belonging
-Stereotype Threat
-Social Awareness & Relationship Skills
-
-Cognition:
-Cognitive Flexibility
-Long-term Memory
-Reasoning
-Metacognition
-
-Language and Literacy:
-Disciplinary Literacy
-Background Knowledge
-Numeracy
-Oral Communication Skills
-Problem Solving
+- **Adult learners rebuilding confidence in math**: Relevance can reduce resistance and increase willingness to engage.
+- **Learners preparing for work or everyday problem solving**: Strong fit when goals include budgeting, measurement, data interpretation, or quantitative decision making.
+- **Learners whose experiences are often excluded from school math**: Real-world framing can increase belonging when it respects cultural and community knowledge.
+- **Learners integrating math with other domains**: Useful when numeracy is embedded in science, civics, health, trades, or technical study.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Applied numeracy**: Using math to analyze and act in everyday or workplace situations.
+- **Conceptual understanding**: Seeing how mathematical structure explains real situations.
+- **Transfer**: Recognizing when previously learned math applies in a new context.
+- **Motivation and persistence**: Increasing willingness to engage with math because it feels worthwhile.
 
 ### Theory
 #### Supporting
-- [[theories/situated-learning-theory-lave-wenger-constructivism-piaget|Situated Learning Theory (Lave & Wenger)
-Constructivism (Piaget]]
-- [[theories/bruner|Bruner]]
-- [[theories/vygotsky-knowles-andragogy|Vygotsky)
-Knowles’ Andragogy]]
+- Situated learning perspectives — understanding strengthens when knowledge is tied to meaningful activity and context.
+- Andragogical perspectives — adults are more likely to engage when content is clearly relevant to immediate goals and problems.
+- Constructivist and sociocultural perspectives — learners interpret math through prior knowledge, tools, language, and social practice.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Real-world framing does not remove the need for explicit explanation, worked examples, and focused practice.
+- Context should support abstraction, not trap learning inside a single familiar example.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Brooks, C. (2015). Making maths useful: How two teachers prepare adult learners to apply their numeracy skills in their lives outside the classroom. Adults Learning Mathematics, 10(1), 24-39.
-
-Civil, M., Stoehr, K. J., & Salazar, F. (2020). Learning with and from immigrant mothers: implications for adult numeracy. ZDM - Mathematics Education, 52(3), 489–500.
-
-Curry, D., Drgunoglo, A., Greenberg, D., Gregg, N., Hinds, S., & Hull, G. (2014). Math Work! GUIDE, (March). Retrieved from https://lincs.ed.gov/professional-development/resource-collections/profile-760
-
-Furner, J. M., & Kumar, D. D. (2007). The mathematics and science integration argument: A stand for teacher education. Eurasia Journal of Mathematics, Science & Technology Education, 3(3), 185-189.
-
-Garrett, L., Huang, L., & Calhoun, M. (2016). A framework for authenticity in the mathematics and statistics classroom. Mathematics Educator, 25(1), 32–55.
-
-Madusise, S., & Mwakapenda, W. (2014). Using school mathematics to understand cultural activities: How far can we go? Mediterranean Journal of Social Sciences, 5(3), 146–157.
-
-Manly, M., & Ginsburg, L. (2010). Algebraic Thinking in Adult Education. Washington, DC.
-
-Matthews, J.S. (2018). On mindset and practices for re-integrating “belonging” into mathematics instruction. Ann Arbor, MI: TeachingWorks.
-
-Nonesuch, K. (2006). A manual for teaching basic math to adults: Changing the way we teach math. Retrieved from https://lincs.ed.gov/professional-development/resource-collections/profile-253
-
-Oughton, H. (2009). A Willing Suspension of Disbelief?" Contexts" and recontextualisation in adult numeracy classrooms. Adults Learning Mathematics, 4(1), 16-31.
-
-Piesch, H., Gaspard, H., Parrisius, C., Wille, E., & Nagengast, B. (2020). How can a relevance intervention in math support students' career choices? Journal of Applied Developmental Psychology, 71(May 2019), 101185.
-
-Rutschow, E. Z., Diamond, J., & Serna-Wallender, E. (2017). Math in the real world: Early findings from a study of the Dana Center Mathematics Pathways. Research Brief. Center for the Analysis of Postsecondary Readiness.
-
-Tout, D., Coben, D., Geiger, V., Ginsburg, L., Hoogland, K., et al. (2017). Review of the PIAAC Numeracy Assessment Framework: Final Report. Camberwell, Australia: Australian Council for Educational Research.
+- [[claims/whole-task-performance-improves-transfer]] [~S]
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/explicit-instruction-math-strategies|Explicit Instruction: Math Strategies]] — real-world tasks still benefit from direct teaching of methods and representations.
+- [[principles/creating-visual-representations|Creating Visual Representations]] — diagrams, tables, and models help learners connect context to mathematical structure.
+- [[principles/authentic-audiences-purposes|Authentic Audiences & Purposes]] — relevance grows when math supports meaningful tasks and decisions.
+- [[principles/problem-based-learning|Problem-based Learning]] — real-world math often works through applied, open-ended problems.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Budget comparison task**: Learners compare phone plans, wages, or household expenses using proportional reasoning and estimation.
+- **Workplace measurement problem**: Learners calculate materials, time, or error tolerance for a job-related task.
+- **Community data inquiry**: Learners interpret local charts, rates, or survey results to make an argument.
+- [[patterns/cognitively-guided-instruction-cgi-for-math|Cognitively Guided Instruction (CGI) for Math]]
 
 ## Key Sources
-- <!-- TODO -->
+- Brooks, C. (2015). Making maths useful: How two teachers prepare adult learners to apply their numeracy skills in their lives outside the classroom. *Adults Learning Mathematics, 10*(1), 24-39.
+- Civil, M., Stoehr, K. J., & Salazar, F. (2020). Learning with and from immigrant mothers: Implications for adult numeracy. *ZDM Mathematics Education, 52*(3), 489-500. [https://doi.org/10.1007/s11858-019-01087-6](https://doi.org/10.1007/s11858-019-01087-6)
+- Garrett, L., Huang, L., & Calhoun, M. (2016). A framework for authenticity in the mathematics and statistics classroom. *The Mathematics Educator, 25*(1), 32-55.
+- Piesch, H., Gaspard, H., Parrisius, C., Wille, E., & Nagengast, B. (2020). How can a relevance intervention in math support students' career choices? *Journal of Applied Developmental Psychology, 71*, 101185. [https://doi.org/10.1016/j.appdev.2020.101185](https://doi.org/10.1016/j.appdev.2020.101185)

@@ -20,11 +20,11 @@ After giving instructions, check for understanding by asking related questions a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure learners comprehend the instructions and are ready to begin the task.
 
 ### Affordances

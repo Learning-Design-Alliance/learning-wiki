@@ -20,11 +20,11 @@ Learning from multiple and varying perspectives involves incorporating diverse v
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those in diverse classrooms or multicultural environments; suitable for K–12, higher education, and adult learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote cultural awareness, enhance critical thinking, foster empathy, support inclusive learning
 
 ### Affordances

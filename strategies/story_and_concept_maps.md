@@ -20,11 +20,11 @@ Story and concept maps are visual representations used to organize information a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, organize information, summarize main ideas, identify key details, visualize relationships between concepts
 
 ### Affordances

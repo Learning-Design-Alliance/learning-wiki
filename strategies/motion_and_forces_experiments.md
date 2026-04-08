@@ -20,11 +20,11 @@ Motion and forces experiments involve exploring how forces affect the motion of 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying physical science
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand the relationship between forces and motion, investigate energy transfer, explore variables affecting pendulum movement
 
 ### Affordances

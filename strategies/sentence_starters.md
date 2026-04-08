@@ -20,11 +20,11 @@ When you ask a question, rather than just having students raise hands and you pi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly useful for students who are hesitant to speak up in class.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student participation, encourage active learning, and provide opportunities for students to practice writing about math.
 
 ### Affordances

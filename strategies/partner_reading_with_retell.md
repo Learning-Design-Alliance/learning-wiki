@@ -20,11 +20,11 @@ A PALS activity aimed at improving reading fluency and summarization skills. Stu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 2–6, students who need to improve reading fluency and summarization skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading fluency, enhance summarization skills, build comprehension, develop peer feedback skills
 
 ### Affordances

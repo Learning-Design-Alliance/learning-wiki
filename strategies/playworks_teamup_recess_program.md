@@ -20,11 +20,11 @@ The Playworks TeamUp program aims to make recess more organized, safe, and healt
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary schools
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve school climate, enhance social-emotional development, promote physical activity, reduce behavioral issues
 
 ### Affordances

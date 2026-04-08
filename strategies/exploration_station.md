@@ -20,11 +20,11 @@ Establishing a dedicated computer as a station for exploration allows learners t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners involved in multimodal composition, particularly those who benefit from hands-on exploration and self-directed learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enable learners to discover their preferred composition pathway. Foster ownership and innovation in multimodal design. Encourage exploration of different modes and their combinations.
 
 ### Affordances

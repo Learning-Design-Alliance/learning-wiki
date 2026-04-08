@@ -20,11 +20,11 @@ This strategy focuses on using student reflection to leverage strengths and addr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who may have strengths and/or challenges in responsible decision-making.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop students' ability to make responsible and ethical decisions by leveraging their strengths and addressing their challenges.
 
 ### Affordances

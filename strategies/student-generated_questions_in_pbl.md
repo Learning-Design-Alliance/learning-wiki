@@ -20,11 +20,11 @@ Sparking engagement with student-generated questions involves encouraging studen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly those who may feel disempowered by traditional instructional methods. This approach can be especially beneficial for students of color.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To increase student engagement and investment in learning by allowing them to explore topics and questions that are meaningful to them.
 
 ### Affordances

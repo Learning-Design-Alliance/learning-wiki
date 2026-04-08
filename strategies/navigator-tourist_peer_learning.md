@@ -20,11 +20,11 @@ Pair struggling learners ('tourists') with learners who have mastered the conten
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for learners needing academic support and those who benefit from teaching others.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide peer support, strengthen communication skills, enhance academic mastery, foster collaboration, increase engagement.
 
 ### Affordances

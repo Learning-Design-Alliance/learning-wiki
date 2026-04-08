@@ -20,11 +20,11 @@ Building a trusting community is crucial for honest talks about race. Giving stu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students and educators who aim to create a trusting and inclusive community where honest talks about race can take place.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Build a trusting community. Create a safe and inclusive learning environment. Foster a sense of justice and equity.
 
 ### Affordances

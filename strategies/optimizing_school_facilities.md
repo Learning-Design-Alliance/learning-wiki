@@ -20,11 +20,11 @@ Improving the learning environment by addressing factors like acoustics/noise, a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners and educators in K-12 and higher education settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student and teacher well-being and academic performance by optimizing school facilities.
 
 ### Affordances

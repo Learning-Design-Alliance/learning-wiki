@@ -20,11 +20,11 @@ Students identify the text structure prior to reading (e.g., compare and contras
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Older students, particularly those facing more challenging texts in content areas outside of English language arts.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension by identifying text structure before reading and actively filling in components in a graphic organizer.
 
 ### Affordances

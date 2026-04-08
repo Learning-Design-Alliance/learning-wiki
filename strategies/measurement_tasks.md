@@ -20,11 +20,11 @@ Measurement tasks involve using measurement tools and techniques to quantify phy
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying science and mathematics
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop proficiency in measurement techniques, use tools such as rulers and balances, perform routine laboratory procedures
 
 ### Affordances

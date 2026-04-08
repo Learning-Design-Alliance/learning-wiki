@@ -18,11 +18,11 @@ Learners counter opposing viewpoints with evidence-based arguments.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for law, philosophy, and structured debates.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance cognitive flexibility and counterargument skills.
 
 ### Affordances

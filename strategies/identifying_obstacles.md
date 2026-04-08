@@ -20,11 +20,11 @@ Identifying obstacles involves recognizing potential challenges that could imped
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Useful for anyone setting goals, particularly those involving significant changes or new ventures.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Proactively address potential challenges, improve problem-solving skills, and increase the likelihood of achieving goals.
 
 ### Affordances

@@ -20,11 +20,11 @@ The highlighting strategy is a digital approach to enhance text engagement, usin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Discern between different ideas, summarize what they’ve done
 
 ### Affordances

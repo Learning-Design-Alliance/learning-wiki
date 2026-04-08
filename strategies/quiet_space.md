@@ -20,11 +20,11 @@ Creating a designated quiet space in the classroom allows children to self-regul
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children in school settings, particularly those with sensory sensitivities or who are easily overwhelmed
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce sensory overload, promote self-regulation, provide a calming environment
 
 ### Affordances

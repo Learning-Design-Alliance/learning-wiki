@@ -20,11 +20,11 @@ A potent method for helping students become active participants in learning is t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers in diverse classrooms (K-12, higher education)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower students, promote self-regulation, and reduce test anxiety.
 
 ### Affordances

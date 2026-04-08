@@ -20,11 +20,11 @@ Students learn to analyze and evaluate the information they encounter online by 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and adult learners who need to improve their digital literacy skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance critical thinking skills, develop evaluation strategies for online information, identify reliable sources, recognize propaganda techniques, understand website domains
 
 ### Affordances

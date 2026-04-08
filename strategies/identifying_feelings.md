@@ -20,11 +20,11 @@ Learners identify, label, or match facial expressions and feelings. This can inc
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners and adult learners in emotional intelligence programs.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance the ability to recognize and understand emotions in oneself and others.
 
 ### Affordances

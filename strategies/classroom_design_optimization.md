@@ -20,11 +20,11 @@ Optimizing classroom design (noise levels, temperature, seating arrangement) can
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners in structured classroom environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Minimize distractions, improve focus, and enhance learning outcomes.
 
 ### Affordances

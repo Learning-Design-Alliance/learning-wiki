@@ -20,11 +20,11 @@ Sound walls help educators reinforce the importance of explicitly teaching the s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-5 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce letter-sound correspondence, support phonemic awareness and phonics skills, and improve reading accuracy and fluency.
 
 ### Affordances

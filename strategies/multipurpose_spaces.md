@@ -20,11 +20,11 @@ Designing spaces that lend themselves to a variety of learning styles and activi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase collaboration, improve communication skills, promote flexible thinking
 
 ### Affordances

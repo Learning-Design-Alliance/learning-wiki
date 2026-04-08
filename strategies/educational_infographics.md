@@ -20,11 +20,11 @@ Educational infographics are visual aids that simplify complex information into 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators and students across all grade levels and subject areas, including adult learners and corporate training programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Simplify complex information, visualize data, enhance understanding, improve retention, promote engagement
 
 ### Affordances

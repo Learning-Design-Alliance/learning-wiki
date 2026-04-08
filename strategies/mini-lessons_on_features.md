@@ -20,11 +20,11 @@ Create mini-lessons for each writing feature you want students to emulate (organ
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for developing specific writing skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop specific writing skills, enhance understanding of writing features, provide focused instruction, improve overall writing quality
 
 ### Affordances

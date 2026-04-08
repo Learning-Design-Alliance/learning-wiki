@@ -20,11 +20,11 @@ VR is used to guide new workers through a virtual phone call with a Fidelity “
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - New workers, customer service reps, customer service trainers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve workers' empathy skills.
 
 ### Affordances

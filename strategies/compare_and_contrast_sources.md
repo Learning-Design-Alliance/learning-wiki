@@ -20,11 +20,11 @@ Present learners with multiple sources on the same topic and have them compare a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enable learners to compare and contrast multiple sources on the same topic and think about what makes one source more reliable than another.
 
 ### Affordances

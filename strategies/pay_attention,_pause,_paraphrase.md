@@ -20,11 +20,11 @@ Pay Attention, Pause, Paraphrase is a structured conversation strategy for small
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially useful for developing communication skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate active listening, encourage thoughtful responses, promote clear communication
 
 ### Affordances

@@ -18,11 +18,11 @@ Learners progress through levels of difficulty with personalized challenges and 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, corporate training
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure retention and skill mastery through progressive challenges.
 
 ### Affordances

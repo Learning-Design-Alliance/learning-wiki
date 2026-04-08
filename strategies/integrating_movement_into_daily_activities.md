@@ -20,11 +20,11 @@ Integrating movement into daily activities involves incorporating physical activ
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All individuals, particularly those who find it challenging to dedicate time to structured exercise routines
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase daily physical activity, improve health outcomes, enhance energy levels, and make exercise more accessible and sustainable
 
 ### Affordances

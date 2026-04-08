@@ -20,11 +20,11 @@ Dictation software allows learners to speak their ideas and have them transcribe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with strengths in auditory processing who struggle with writing
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate idea generation, improve writing fluency, support learners with auditory strengths
 
 ### Affordances

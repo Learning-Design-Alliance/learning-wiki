@@ -20,11 +20,11 @@ Writing instructions in bold letters on the chalkboard stating that students who
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage high school students to be quiet and attentive at the start of a lesson.
 
 ### Affordances

@@ -20,11 +20,11 @@ Integrating repetitive and rhythmic vestibular input, such as rocking, swaying, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who experience sensory overload, anxiety, or difficulty managing their emotions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce overstimulation, promote self-regulation, provide vestibular input
 
 ### Affordances

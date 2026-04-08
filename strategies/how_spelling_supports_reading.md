@@ -20,11 +20,11 @@ Instruction on the relationship between spelling and reading. Research shows tha
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, teachers, reading specialists
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To improve reading fluency and comprehension by enhancing spelling skills and understanding of phoneme-grapheme relationships.
 
 ### Affordances

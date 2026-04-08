@@ -20,11 +20,11 @@ SMART goal setting ensures goals are Specific, Measurable, Attainable, Relevant,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable to anyone seeking structured, effective goal setting, including students, professionals, and teams.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure goals are clear, achievable, and aligned with overall objectives, and improve motivation and accountability.
 
 ### Affordances

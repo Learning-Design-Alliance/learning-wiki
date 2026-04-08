@@ -20,11 +20,11 @@ Praising learners' efforts and strategies—as opposed to their intelligence—c
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who may view intelligence as a fixed trait or who struggle with setbacks
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a growth mindset, enhance motivation, encourage persistence, and improve performance
 
 ### Affordances

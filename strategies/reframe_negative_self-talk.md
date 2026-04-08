@@ -20,11 +20,11 @@ Practice reframing negative thoughts, statements, or situations into more positi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop the ability to reframe negative self-talk into positive messages.
 
 ### Affordances

@@ -20,11 +20,11 @@ Increasing latency (wait time) for low-achieving learners will help them improve
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve learners' academic success by giving them adequate time to answer questions.
 
 ### Affordances

@@ -20,11 +20,11 @@ Air writing involves writing letters or words in the air while simultaneously vi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students, particularly those who struggle with handwriting or spelling
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve letter formation, enhance spelling skills, strengthen memory encoding, cater to visual and kinesthetic learning styles
 
 ### Affordances

@@ -20,11 +20,11 @@ Listening to the voices of students involves giving them authorship in sharing a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, with a particular focus on those whose stories are often marginalized or overlooked in traditional educational settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To foster student agency, leadership, and ownership in learning by prioritizing student voices and perspectives in PBL activities.
 
 ### Affordances

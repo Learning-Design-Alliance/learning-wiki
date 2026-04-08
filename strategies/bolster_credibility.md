@@ -20,11 +20,11 @@ Did the writer engage with anyone who disagrees? Did they call a senator whose l
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - General audience
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage learners to seek news sources that engage with opposing viewpoints and challenge their own arguments.
 
 ### Affordances

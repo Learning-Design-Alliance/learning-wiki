@@ -20,11 +20,11 @@ This strategy requires readers to evaluate or draw conclusions from information 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those in upper elementary, middle, and high school, as well as adult learners looking to improve reading comprehension and critical thinking skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance reading comprehension by drawing conclusions from implicit information, combining text details with background knowledge, and constructing deeper meaning.
 
 ### Affordances

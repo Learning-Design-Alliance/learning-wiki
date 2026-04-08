@@ -20,11 +20,11 @@ Making connections involves linking new information to existing knowledge and ex
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, adult learners, and anyone who wants to improve their reading comprehension and ability to connect with texts on a deeper level.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, build connections between new information and prior knowledge, improve retention, and develop critical thinking skills by relating text to personal experiences, other texts, and the world.
 
 ### Affordances

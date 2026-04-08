@@ -20,11 +20,11 @@ Artificial lighting has negative impacts on those in schools, while natural ligh
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, teachers, and administrators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student morale, reduce off-task behavior, and enhance academic performance by optimizing natural lighting in classrooms
 
 ### Affordances

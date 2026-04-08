@@ -20,11 +20,11 @@ Learners create visual maps to track the links and sites they visit while readin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance metacognitive awareness of online reading habits, promote self-regulation, and foster critical evaluation of information sources.
 
 ### Affordances

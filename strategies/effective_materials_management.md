@@ -20,11 +20,11 @@ Using an 'in' and 'out' basket system for papers, labeling cubbies, bookshelves,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who struggle with organization or time management.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve organization, reduce wasted time, enhance student independence
 
 ### Affordances

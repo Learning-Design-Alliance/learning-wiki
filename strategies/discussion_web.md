@@ -20,11 +20,11 @@ A discussion web is a graphic organizer that enables students to examine both si
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for students from elementary to adult learners, adaptable for a variety of grade levels and content areas, such as mathematics, science, social studies, and literature.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance critical thinking, promote collaborative discussions of texts, allow for examination of various points of view within a social setting, encourage argumentation of an open-ended question, and develop listening, talking, reading, writing, viewing, and visually representing abilities.
 
 ### Affordances

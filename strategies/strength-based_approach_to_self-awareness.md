@@ -20,11 +20,11 @@ This method involves identifying a student's strengths related to self-awareness
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, with a focus on students struggling with self-awareness.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve students' ability to identify their own emotions, thoughts, and values, and how they impact behavior.
 
 ### Affordances

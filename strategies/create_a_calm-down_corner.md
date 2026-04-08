@@ -20,11 +20,11 @@ Set aside a dedicated, positive reflection space in the classroom where kids can
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide a safe space for emotional regulation, support self-soothing skills, enhance emotional awareness
 
 ### Affordances

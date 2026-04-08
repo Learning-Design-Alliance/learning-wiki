@@ -20,11 +20,11 @@ Ensure all learners get response opportunities, not just high achievers. Monitor
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote inclusion by creating a learning environment in which all learners feel valued.
 
 ### Affordances

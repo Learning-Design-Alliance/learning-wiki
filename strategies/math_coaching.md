@@ -20,11 +20,11 @@ Small groups of learners work together to solve word problems. One learner reads
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners in grades 3-8
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Apply math skills to real-world problems, reinforce understanding of key words and mathematical operations
 
 ### Affordances

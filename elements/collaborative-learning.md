@@ -18,11 +18,11 @@ Learners work in structured teams to solve problems and complete tasks.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for all disciplines, particularly project-based learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving, communication, and teamwork skills.
 
 ### Affordances

@@ -20,11 +20,11 @@ Educators develop their own understanding of self-awareness and how it affects l
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators seeking to improve their ability to support students' self-awareness
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators understand the science of emotional regulation and other learning domains and apply them to instruction.
 
 ### Affordances

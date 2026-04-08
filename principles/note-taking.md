@@ -1,84 +1,68 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Note-taking
 
 ## Description
-Effective note-taking during lectures or reading directs learners' Attention to the relevant information, helping them identify key concepts, understand links between ideas, and retain information better in their Long-term Memory. Having information stored in one place also allows learners to revisit it later, for review and reflection, and to reinforce the learning. Providing structures and cues for note-taking fosters better organizing of information and also reduces cognitive load. Explicitly teaching learners how to take notes and equipping them with skills and techniques to use Metacognition, to make effective decisions around which strategies to use for which kind of information, is crucial. This is important because incomplete or inaccurate notes can be counter-productive. ​
+Note-taking is the instructional principle of helping learners externalize important information, structure, and interpretation while reading, listening, observing, or solving problems. Good notes do more than record facts: they direct attention, support later review, and help learners decide what matters, how ideas connect, and what they still do not understand. Because poor notes can also reinforce confusion, note-taking usually needs explicit teaching, modeling, and adaptation to the type of task.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **A clear note-taking purpose**: Learners need to know whether notes are for recall, synthesis, planning, problem solving, or later discussion.
+- **Modeling of strategies**: Many learners need explicit instruction in what to capture, abbreviate, organize, or ignore.
+- **Fit to the content type**: Effective notes differ for lecture, reading, discussion, demonstration, and problem-solving tasks.
+- **Later use**: Notes are most valuable when learners revisit, revise, compare, or use them in subsequent work.
 #### Constraints
-- <!-- TODO -->
+- **Incomplete capture**: Learners may write too much, too little, or the wrong thing if expectations are unclear.
+- **Divided attention**: Note-taking can interfere with listening or comprehension if the task is too dense or fast.
+- **Copying without processing**: Verbatim notes often produce weaker understanding than selective, structured notes.
+- **One-size-fits-all strategy**: Different learners and tasks may need different note formats or supports.
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Sleep
-Safety
-
-Social and Emotional Learning:
-Self-regulation
-Learner Mindset
-
-Cognition:
-Cognitive Flexibility
-Attention
-Inhibition
-Long-term Memory
-Short-term Memory
-Metacognition
-Speed of Processing
-Working Memory
-
-Language and Literacy:
-Disciplinary Literacy
-Foundational Reading Skills
-Problem Solving
+- **Learners managing dense information streams**: Especially useful during lectures, reading, and complex explanation.
+- **Learners building self-regulated study habits**: Note-taking supports planning, review, and monitoring of gaps.
+- **Learners with working-memory constraints**: External records can reduce the need to hold everything in mind.
+- **Learners developing disciplinary literacy**: Different fields require different note structures and conventions.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Selective attention to key ideas**: Identifying what matters in a stream of information.
+- **Organization of information**: Structuring concepts, steps, or evidence for later use.
+- **Retention and review**: Creating a usable record for practice and recall.
+- **Metacognitive monitoring**: Noticing uncertainty, questions, and follow-up needs while learning.
 
 ### Theory
 #### Supporting
-- [[theories/information-processing-theory-cognitive-load-theory-sweller-metacognition-implicit-in-self-regulated-learning-zimmerman|Information Processing Theory
-Cognitive Load Theory (Sweller)
-Metacognition (Implicit in Self-Regulated Learning - Zimmerman)]]
+- Information processing views — note-taking can strengthen encoding and retrieval when learners process material actively.
+- [[theories/cognitive-load-theory|Cognitive Load Theory]] — structured notes can reduce working-memory demands by externalizing information and relationships.
+- Self-regulated learning — notes support monitoring, planning, and later strategy adjustment.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Notes help most when learners transform information rather than simply transcribe it.
+- Some fast-paced or conceptually dense moments may require provided scaffolds or partial notes so learners can still comprehend in real time.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Bahrami, F., & Nosratzadeh, H. (2017). The effectiveness of note-taking on reading comprehension of Iranian EFL Learners. International Journal of Applied Linguistics and English Literature, 6(7), 308-317.
-
-Halpern, D., Piña, M., & Ortega-Gunckel, C. (2020). School performance: New multimedia resources versus traditional notes. Comunicar: Media Education Research Journal, 28(64), 37–46.
-
-Hedeshi, V. M. (2017). The Effect of Self-Regulatory Learning Strategies on Academic Engagement and Task Value. World Family Medicine Journal: Incorporating the Middle East Journal of Family Medicine, 99(5588), 1-6.
-
-Hughes, C. A., & Suritsky, S. K. (1994). Note-taking skills of university students with and without learning disabilities. Journal of learning disabilities, 27(1), 20-24.
-
-Makany, T., Kemp, J., & Dror, I. E. (2009). Optimising the use of note‐taking as an external cognitive aid for increasing learning. British Journal of Educational Technology, 40(4), 619-635.
-
-Nakayama, M., Mutsuura, K., & Yamamoto, H. (2017). Effectiveness of student's note-taking activities and characteristics of their learning performance in two types of online learning. International Journal of Distance Education Technologies (IJDET), 15(3), 47-64.
-
-Parrish, B., & Johnson, K. (2010). Promoting Learner Transitions to Postsecondary Education and Work: Developing Academic Readiness Skills from the Beginning. CAELA Network Brief. Center for Adult English Language Acquisition.
-
-Peyton, J. K., & Schaetzel, K. (2016). Teaching writing to adult English language learners: Lessons from the field. Journal of Literature and Art Studies, 6(11), 1407-1423.
-
-Robinson, D. H., Katayama, A. D., Beth, A., Odom, S., Hsieh, Y. P., & Vanderveen, A. (2006). Increasing text comprehension and graphic note taking using a partial graphic organizer. The Journal of Educational Research, 100(2), 103-111.
+- [[claims/chunking-reduces-working-memory-load]] [+S]
+- [[claims/self-monitoring-improves-self-regulation]] [+M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/graphic-organizers|Graphic Organizers]] — graphic note formats can make structure and relationships more visible.
+- [[principles/handoutsonline-guidesvisual-reading-aids|Handouts/Online Guides/Visual Reading Aids]] — guided notes and visual cues can improve note quality.
+- [[principles/journaling|Journaling]] — both practices externalize thinking, but note-taking is usually more selective and task-focused.
+- [[principles/pre-reading-questioning|Pre-Reading Questioning]] — questions can shape what learners attend to and record.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Cornell-style notes**: Learners separate key ideas, details, and later summary or questions.
+- **Graphic note-taking**: Learners use spatial or visual structure to capture relationships.
+- **Guided notes**: Instructors provide partial outlines or cues so learners can focus on meaning rather than transcription.
+- **Annotated reading notes**: Learners mark claims, evidence, questions, and unfamiliar vocabulary directly alongside a text.
 
 ## Key Sources
-- <!-- TODO -->
+- Makany, T., Kemp, J., & Dror, I. E. (2009). Optimising the use of note-taking as an external cognitive aid for increasing learning. *British Journal of Educational Technology, 40*(4), 619-635. [https://doi.org/10.1111/j.1467-8535.2008.00906.x](https://doi.org/10.1111/j.1467-8535.2008.00906.x)
+- Robinson, D. H., Katayama, A. D., Beth, A., Odom, S., Hsieh, Y. P., & Vanderveen, A. (2006). Increasing text comprehension and graphic note taking using a partial graphic organizer. *The Journal of Educational Research, 100*(2), 103-111. [https://doi.org/10.3200/JOER.100.2.103-111](https://doi.org/10.3200/JOER.100.2.103-111)
+- Hughes, C. A., & Suritsky, S. K. (1994). Note-taking skills of university students with and without learning disabilities. *Journal of Learning Disabilities, 27*(1), 20-24. [https://doi.org/10.1177/002221949402700104](https://doi.org/10.1177/002221949402700104)

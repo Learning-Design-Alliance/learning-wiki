@@ -20,11 +20,11 @@ Students use an individualized "highlighter tool" (e.g., a Google Doc add-on) to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and college students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Categorize information, enhance text analysis, promote active engagement, and facilitate reflection.
 
 ### Affordances

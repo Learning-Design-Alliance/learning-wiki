@@ -20,11 +20,11 @@ Using visual representations can lead to clearer delivery of content and greater
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for visual learners and those who benefit from multimodal instruction
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding, improve retention, maintain attention, facilitate communication, foster creativity
 
 ### Affordances

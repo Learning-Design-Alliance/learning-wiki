@@ -20,11 +20,11 @@ Teachers read aloud stories about social and emotional learning and facilitate d
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-8 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance social awareness, develop relationship skills, foster self-reflection, provide concrete examples of SEL concepts
 
 ### Affordances

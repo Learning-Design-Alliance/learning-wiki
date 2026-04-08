@@ -20,11 +20,11 @@ This principle emphasizes that the language used to discuss education shapes the
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators and school teams seeking to create more equitable and transformative learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Transform the language used in education, challenge existing power structures, promote equity, and foster liberation and transformation.
 
 ### Affordances

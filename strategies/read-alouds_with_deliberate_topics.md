@@ -20,11 +20,11 @@ Teachers strategically select and read aloud stories that incorporate social-emo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, educators seeking to integrate social-emotional learning into their curriculum
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance social awareness, build empathy, promote self-reflection, develop relationship skills, provide concrete examples of SEL skills in relatable contexts.
 
 ### Affordances

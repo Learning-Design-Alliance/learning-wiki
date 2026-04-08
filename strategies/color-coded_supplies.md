@@ -20,11 +20,11 @@ Color-coding school supplies can make organization easier and more streamlined f
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with organization, visual learners, learners of all ages
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve organization of learning materials, enhance visual identification of supplies, reduce time spent searching for materials
 
 ### Affordances

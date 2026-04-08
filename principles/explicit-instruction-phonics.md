@@ -1,7 +1,8 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Explicit Instruction: Phonics
@@ -13,66 +14,62 @@ Adult learners who struggle with foundational reading skills, including decoding
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- Direct, systematic teaching of grapheme-phoneme correspondences, decoding patterns, and blending or segmenting routines
+- Ample guided practice reading and spelling words that use the taught patterns
+- Instruction matched to learners’ current decoding profile rather than assumed from age or grade level
+- Respectful adult-appropriate materials and framing so foundational-skill instruction is not infantilizing
+
 #### Constraints
-- <!-- TODO -->
+- Adults may carry shame or avoidance around foundational reading work, so pacing and tone matter
+- Phonics instruction alone does not build full reading comprehension; it must connect to meaningful text and vocabulary work
+- Learners with very weak phonological awareness or highly inconsistent attendance may need intensive repetition to consolidate patterns
+- Instruction is less effective when it is unsystematic, purely incidental, or detached from practice in actual reading and writing
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Literacy Environment
-Primary Language
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Motivation
-
-Cognition:
-Short-term Memory
-Working Memory
-
-Language and Literacy:
-Composition
-Foundational Reading Skills
-Background Knowledge
+- Adult learners with persistent decoding difficulties or incomplete foundational reading development
+- Multilingual learners who need explicit support mapping English sounds to print
+- Learners re-entering literacy instruction after negative prior schooling experiences
+- Learners whose reading comprehension is constrained by word-level reading, not only by language knowledge
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- Strengthen decoding accuracy and efficiency
+- Improve transfer from isolated sound-symbol work to reading and spelling connected text
+- Build confidence with foundational reading tasks that adults may have long avoided
+- Support later growth in fluency, vocabulary, and comprehension by stabilizing word recognition
 
 ### Theory
 #### Supporting
-- [[theories/gagnes-conditions-of-learning-information-processing-theory-gestalt-learning-theory|Gagne’s Conditions of Learning
-Information Processing Theory
-Gestalt Learning Theory]]
+- Information-processing perspectives support explicit, sequenced instruction for foundational decoding routines
+- Systematic skill-building models fit phonics well because patterns build cumulatively and require repeated practice
+- Adult-learning perspectives qualify delivery: adults still need explicit foundational instruction, but the materials and rationale must respect their maturity and goals
+- [[theories/cognitive-load-theory|Cognitive Load Theory]] supports reducing the burden of word-level processing so attention can later be freed for comprehension
+
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Phonics is most important when decoding is the bottleneck; it is not the whole reading curriculum
+- Adults need transfer into meaningful reading quickly, or foundational drills may feel disconnected and demotivating
+- Support should move gradually from highly guided decoding to more independent reading and writing [[claims/fading-support-promotes-transfer-of-responsibility]] [~S]
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Capell, M. (2016). Interweaving letters and sounds: The impact of phonics instruction in English on the oral production and symbolic representation of sounds among university-level L2 English learners. [Unpublished master's thesis]. Universidad Nacional De Córdoba Facultad De Lenguas.​
-
-Gray, S. H., Ehri, L. C., & Locke, J. L. (2018). Morpho-phonemic analysis boosts word reading for adult struggling readers. Reading and Writing, 31(1), 75-98.​
-en.wikipedia.org
-
-Hempenstall, K. (1999). The role of phonics in learning to read: What does recent research say? Fine Print, 22(1), 7-12.​
-
-Hock, M. F. (2012). Effective literacy instruction for adults with specific learning disabilities: Implications for adult educators. Journal of Learning Disabilities, 45(1), 64-78.​
-
-Hock, M. F., & Mellard, D. (2005). Reading comprehension strategies for adult literacy outcomes. Journal of Adolescent & Adult Literacy, 49, 192–200.​
-
-McShane, S. (2006). Applying research in reading instruction for adults: First steps for teachers. Washington: National Center for Family Literacy.​
-
-Shen, H. J. (2003). The role of explicit instruction in ESL/EFL reading. Foreign Language Annals, 36(3), 424-433.​
-
-Sticht, T. (2002). Teaching reading with adults.
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — beginning readers benefit from explicit process routines for decoding rather than being pushed directly to outcome performance
+- [[claims/chunking-reduces-working-memory-load]] [+S] — systematic phonics reduces the cognitive burden of word recognition by building more efficient pattern processing
+- [[claims/contingent-scaffolding-improves-learning]] [+M] — decoding support is stronger when instructors respond to specific breakdowns in sound-symbol mapping
+- [[claims/fading-support-promotes-transfer-of-responsibility]] [~S] — learners need support to shift from guided pattern practice toward independent reading of connected text
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/accessible-vocabulary-syntax|Accessible Vocabulary & Syntax]] — easier language access supports transfer from decoding practice into meaningful reading
+- [[principles/explicit-instruction-vocabulary|Explicit Instruction: Vocabulary]] — phonics supports word recognition, while vocabulary supports meaning; both are needed
+- [[principles/chunking|Chunking]] — phonics instruction often relies on systematic segmentation and manageable pattern sets
+- [[principles/scaffolding-and-fading|Scaffolding and Fading]] — foundational reading instruction requires temporary support that should be withdrawn gradually
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- [[strategies/word_study|Word Study]] — pattern-based work on spelling and word structure
+- Adult decoding lessons focused on high-value sound-symbol correspondences and transfer to authentic reading tasks
+- Guided reading of short adult-appropriate texts that reuse taught patterns
+- Spelling and proofreading practice tied to taught phonics patterns can reinforce transfer into writing
 
 ## Key Sources
-- <!-- TODO -->
+- Gray, S. H., Ehri, L. C., & Locke, J. L. (2018). Morpho-phonemic analysis boosts word reading for adult struggling readers. *Reading and Writing, 31*(1), 75-98. [doi:10.1007/s11145-017-9772-3](https://doi.org/10.1007/s11145-017-9772-3)
+- Hock, M. F. (2012). Effective literacy instruction for adults with specific learning disabilities. *Journal of Learning Disabilities, 45*(1), 64-78. [doi:10.1177/0022219411426859](https://doi.org/10.1177/0022219411426859)
+- McShane, S. (2006). *Applying research in reading instruction for adults: First steps for teachers*.
+- Sticht, T. (2002). *Teaching reading with adults*.

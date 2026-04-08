@@ -20,11 +20,11 @@ Connecting involves relating a current problem or text to prior knowledge and ex
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who benefit from making connections to their own lives.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Activate prior knowledge, make meaningful connections, and improve comprehension.
 
 ### Affordances

@@ -20,11 +20,11 @@ The Six Thinking Hats technique is a parallel thinking process that separates th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teams and organizations seeking to enhance their collaboration, communication, and problem-solving skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Maximize productive collaboration, improve communication, stimulate innovation, enhance problem-solving
 
 ### Affordances

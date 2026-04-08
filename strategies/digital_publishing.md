@@ -20,11 +20,11 @@ Digital publishing involves using online platforms and tools to share student wr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, particularly those in writing and media arts programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elevate student voice, provide valuable feedback, motivate students, provide real-world opportunities, connect with real readers, and develop digital citizenship skills.
 
 ### Affordances

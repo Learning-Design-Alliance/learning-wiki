@@ -20,11 +20,11 @@ Explicit instruction is a structured teaching approach where instructors make go
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners in basic skills programs, individuals with reading disabilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure learners understand the goals and objectives of each task; facilitate transfer of learning to new contexts; model effective problem-solving
 
 ### Affordances

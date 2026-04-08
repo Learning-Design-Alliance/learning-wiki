@@ -20,11 +20,11 @@ Activating students’ background knowledge about a topic before reading involve
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly when introducing a new topic
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Connect new information to prior knowledge, increase comprehension, boost interest, and identify misconceptions
 
 ### Affordances

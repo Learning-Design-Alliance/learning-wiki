@@ -20,11 +20,11 @@ This strategy involves adjusting the complexity of sentence structures to suit t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, including those with learning disabilities and multilingual learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce cognitive load, improve comprehension, facilitate effective communication
 
 ### Affordances

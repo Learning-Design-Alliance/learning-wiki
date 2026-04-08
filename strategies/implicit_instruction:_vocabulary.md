@@ -20,11 +20,11 @@ Implicit vocabulary instruction involves teaching vocabulary “in the moment”
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially beneficial during content-specific instruction
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase understanding of domain-specific (Tier III) vocabulary, enhance comprehension through contextual learning, and promote incidental vocabulary acquisition
 
 ### Affordances

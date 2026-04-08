@@ -20,11 +20,11 @@ Learning logs are short, reflective writing activities completed at the beginnin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all grade levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Review material, encourage reflection, foster mathematical understanding, engage learners in constructing meaning.
 
 ### Affordances

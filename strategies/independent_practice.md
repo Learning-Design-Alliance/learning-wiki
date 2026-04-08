@@ -20,11 +20,11 @@ Independent practice is when learners practice skills and concepts on their own,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for solidifying foundational skills in K–12, higher education, and adult learning contexts.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Move knowledge into long-term memory, develop fluency, reinforce accurate understanding, promote retention.
 
 ### Affordances

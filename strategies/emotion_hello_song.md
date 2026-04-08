@@ -20,11 +20,11 @@ The Emotion Hello Song involves singing a greeting song with different emotional
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early childhood and elementary students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional expression, improve social connection, promote emotional awareness
 
 ### Affordances

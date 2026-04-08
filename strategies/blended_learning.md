@@ -20,11 +20,11 @@ Blended learning combines face-to-face instruction with online learning through 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for corporate training, higher education, and adult education settings where both in-person and online resources are available.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Combine the benefits of face-to-face and online learning, enhance learner engagement, provide flexibility, document and report on training effectiveness.
 
 ### Affordances

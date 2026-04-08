@@ -20,11 +20,11 @@ Adding the word "yet" to responses when learners express frustration or inabilit
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a growth mindset, encourage persistence, reduce frustration, foster a sense of hope, enhance self-efficacy
 
 ### Affordances

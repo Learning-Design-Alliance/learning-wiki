@@ -20,11 +20,11 @@ Encourage teens to engage in regular exercise as a way to manage stress, improve
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teenagers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Manage stress levels, improve focus and concentration, enhance overall well-being
 
 ### Affordances

@@ -20,11 +20,11 @@ Friendly message from teacher to foster open, comfortable communication systems 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teacher
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a positive feedback loop between school and home
 
 ### Affordances

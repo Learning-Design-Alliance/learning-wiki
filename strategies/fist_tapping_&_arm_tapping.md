@@ -20,11 +20,11 @@ Fist tapping and arm tapping are multisensory spelling strategies that involve t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students, particularly those who struggle with spelling or have auditory processing difficulties
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling skills, enhance phonemic awareness, strengthen memory encoding, promote systematic processing
 
 ### Affordances

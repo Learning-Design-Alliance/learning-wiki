@@ -20,11 +20,11 @@ Children progress through stages of drawing and writing development, from random
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Very young children, toddlers from 15 months to 5 years old
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand the stages of drawing and writing development. Encourage children's artistic and writing skills through experimentation and exploration.
 
 ### Affordances

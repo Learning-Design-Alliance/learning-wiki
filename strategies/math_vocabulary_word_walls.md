@@ -20,11 +20,11 @@ Create a class word wall displaying mathematical terms and vocabulary to support
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and middle school learners (Grades 3-8)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop math vocabulary, improve problem-solving skills, enhance language skills, aid working memory
 
 ### Affordances

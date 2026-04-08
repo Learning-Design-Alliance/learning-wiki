@@ -20,11 +20,11 @@ Project-based learning (PBL) is an instructional approach that engages learners 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12, higher education, and professional development settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop skills in collaboration, communication, critical thinking, and creativity. Connect learning to real-world issues and contexts. Promote deeper understanding through inquiry and problem-solving.
 
 ### Affordances

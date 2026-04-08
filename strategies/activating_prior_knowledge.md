@@ -20,11 +20,11 @@ Activating students' prior knowledge involves prompting learners to recall and s
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for adult learners with diverse backgrounds.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Connect new information to existing knowledge, increase engagement, and identify misconceptions.
 
 ### Affordances

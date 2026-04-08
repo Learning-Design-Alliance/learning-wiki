@@ -20,11 +20,11 @@ Allow plenty of think-time and time for re-reading for students who might need m
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who face speed of processing challenges
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve retention, support learners who face speed of processing challenges
 
 ### Affordances

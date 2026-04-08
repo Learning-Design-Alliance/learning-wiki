@@ -20,11 +20,11 @@ A fun math fluency iOS app that uses storytelling to help young learners develop
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Young learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop math skills with storytelling.
 
 ### Affordances

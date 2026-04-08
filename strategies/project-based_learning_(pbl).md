@@ -20,11 +20,11 @@ Project Based Learning is a teaching method in which learners gain knowledge and
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving skills, increase content knowledge, enhance self-confidence, foster collaboration, promote engagement, and encourage lifelong learning.
 
 ### Affordances

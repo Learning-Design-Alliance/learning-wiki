@@ -20,11 +20,11 @@ A statement that has two possible responses—agree or disagree—is read out lo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Appropriate for secondary and higher education learners, particularly those studying humanities, social sciences, and ethics
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop critical thinking skills, encourage perspective-taking, promote argumentation and debate, enhance understanding of complex issues
 
 ### Affordances

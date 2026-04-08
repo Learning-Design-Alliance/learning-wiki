@@ -20,11 +20,11 @@ Students interact with content by organizing chunks of it into graphic organizer
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote critical thinking, enhance interaction with content, develop analytical skills
 
 ### Affordances

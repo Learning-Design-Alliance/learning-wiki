@@ -18,11 +18,11 @@ Learners independently analyze their experiences, thoughts, or learning progress
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for professional training, personal development, and self-paced learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage self-awareness and deeper understanding.
 
 ### Affordances

@@ -20,11 +20,11 @@ Stop and Jot is a processing activity that provides structured opportunities for
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable across all learner levels and subject areas, particularly useful for learners who benefit from structured processing activities and note-taking assistance
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active engagement, increase retention and comprehension, provide processing time, assess understanding, facilitate summarization, encourage personal relevance
 
 ### Affordances

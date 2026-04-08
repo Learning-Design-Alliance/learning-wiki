@@ -20,11 +20,11 @@ When teachers deliver content through lectures, readings, or video, they can hav
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Give students a chance to grapple with the content through a class activity.
 
 ### Affordances

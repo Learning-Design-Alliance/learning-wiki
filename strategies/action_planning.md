@@ -20,11 +20,11 @@ Action planning involves developing explicit plans to consciously modify behavio
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those looking to improve specific skills or behaviors.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote behavioral change, support self-improvement, encourage application of learning in future contexts, and foster self-regulation.
 
 ### Affordances

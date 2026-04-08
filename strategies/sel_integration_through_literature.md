@@ -20,11 +20,11 @@ Integrating social and emotional learning (SEL) into language arts curricula inv
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, particularly middle and high school learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop social values, understand underlying themes, analyze character relationships, connect stories to personal lives, and promote empathy and emotional intelligence.
 
 ### Affordances

@@ -20,11 +20,11 @@ The "Mix It Up" strategy involves intentionally creating opportunities for indiv
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, workplaces, or community programs aiming to promote inclusivity and understanding among diverse groups
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote dialogue, encourage interaction with diverse individuals, foster comfort in engaging with others, raise awareness and understanding of different backgrounds
 
 ### Affordances

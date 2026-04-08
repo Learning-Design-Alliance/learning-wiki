@@ -20,11 +20,11 @@ Creating designated areas within the classroom to serve specific functions, such
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels and subjects, adaptable for elementary, secondary, and higher education settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student engagement, optimize classroom activities, promote focus and participation, facilitate different types of learning
 
 ### Affordances

@@ -18,11 +18,11 @@ Learners work collaboratively to agree on a shared perspective or decision.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for law, business, and ethics courses.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen reasoning and collaborative decision-making.
 
 ### Affordances

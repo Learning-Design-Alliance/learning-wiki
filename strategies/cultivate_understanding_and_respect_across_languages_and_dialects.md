@@ -20,11 +20,11 @@ Using translations, descriptions, movement, and images to support learning in un
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly English language learners or those studying a foreign language; suitable for K–12, higher education, and adult learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote linguistic diversity, enhance communication, foster cultural awareness, support inclusive learning
 
 ### Affordances

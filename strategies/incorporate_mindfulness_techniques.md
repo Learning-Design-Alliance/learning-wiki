@@ -20,11 +20,11 @@ Incorporate mindfulness techniques to help students manage their initial emotion
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and post-secondary students, especially those with learning disabilities or other challenges
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Manage emotional regulation and build self-awareness.
 
 ### Affordances

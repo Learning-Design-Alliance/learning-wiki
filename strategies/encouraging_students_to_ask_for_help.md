@@ -20,11 +20,11 @@ This strategy focuses on creating a classroom environment where students feel co
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly students who are hesitant to ask for help or who struggle with self-advocacy
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a growth mindset, reduce fear of asking for help, develop problem-solving skills, improve communication skills, and foster a supportive learning environment.
 
 ### Affordances

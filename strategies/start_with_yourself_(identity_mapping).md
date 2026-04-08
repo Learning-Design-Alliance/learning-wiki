@@ -20,11 +20,11 @@ This principle encourages educators to reflect on their own intersectional ident
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators at all levels who seek to understand and address their own biases and create more inclusive learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase self-awareness, identify personal biases, improve relationships with students, and promote equity in educational practices.
 
 ### Affordances

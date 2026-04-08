@@ -20,11 +20,11 @@ Incorporate movement into classroom instruction by having science classes explor
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, enhance memory retention, improve learning outcomes
 
 ### Affordances

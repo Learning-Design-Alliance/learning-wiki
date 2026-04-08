@@ -20,11 +20,11 @@ Developing cultural awareness as an educator includes building empathy for diver
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, administrators, and other school staff
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase empathy, reduce bias, promote inclusivity, improve relationships
 
 ### Affordances

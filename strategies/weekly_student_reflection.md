@@ -20,11 +20,11 @@ Students spend 10-15 minutes every week reflecting on their learning experiences
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide students with regular opportunities to reflect on what they have learned, how they have learned, and their experiences in the classroom.
 
 ### Affordances

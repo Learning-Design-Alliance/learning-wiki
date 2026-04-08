@@ -20,11 +20,11 @@ Word shape worksheets for Dolch sight words. These provide practice in identifyi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary students, struggling readers, ESL learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve visual discrimination of sight words, reinforce letter recognition, enhance spelling skills
 
 ### Affordances

@@ -20,11 +20,11 @@ Ask students to identify patterns or themes in their self-talk. For example, at 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify patterns and themes in self-talk.
 
 ### Affordances

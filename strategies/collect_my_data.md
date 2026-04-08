@@ -20,11 +20,11 @@ Learners choose a category of items to collect data on, creating tally charts to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce data collection, improve data organization and representation skills, and enhance understanding of graphing
 
 ### Affordances

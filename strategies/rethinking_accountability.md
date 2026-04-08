@@ -20,11 +20,11 @@ Recognize that students did not choose the current situation and should not be u
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, higher education instructors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote student well-being, reduce stress, maintain engagement, ensure fair assessment, foster a sense of hope
 
 ### Affordances

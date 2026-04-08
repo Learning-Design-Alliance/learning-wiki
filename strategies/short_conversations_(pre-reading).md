@@ -20,11 +20,11 @@ Learners are given a sentence from the reading and engage in a conversation with
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners of all ages and proficiency levels, adaptable for various topics.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage concise communication, critical thinking, and collaborative engagement with the text’s content.
 
 ### Affordances

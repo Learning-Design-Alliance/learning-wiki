@@ -20,11 +20,11 @@ Incorporating natural elements (views of nature, plants) into the learning envir
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those with ADD and ADHD.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus, enhance well-being, reduce attention deficit symptoms, and improve academic performance.
 
 ### Affordances

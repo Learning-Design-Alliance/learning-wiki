@@ -20,11 +20,11 @@ A hands-on activity that integrates movement with learning, often involving the 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, adaptable for various age groups and subjects
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Stimulate brain/body connections, build specific skills, foster engagement and enjoyment in learning
 
 ### Affordances

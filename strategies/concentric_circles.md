@@ -20,11 +20,11 @@ Learners form two circles, one inside circle and one outside circle. Each learne
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and subject areas, particularly effective for review activities and quick discussions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active participation, encourage peer teaching and learning, provide opportunities for quick and focused discussions, enhance communication skills
 
 ### Affordances

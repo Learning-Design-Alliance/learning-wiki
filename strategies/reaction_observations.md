@@ -20,11 +20,11 @@ Reaction observations involve observing and describing the properties of liquids
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–4 learners studying physical science
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop observational skills, describe properties of liquids and mixtures, understand basic chemical reactions
 
 ### Affordances

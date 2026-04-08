@@ -20,11 +20,11 @@ Explicitly model how to evaluate each dimension of source evaluation, and provid
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adolescents and adults
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enable learners to verify and refute online information, investigate author credentials, detect bias and stance, and negotiate multiple perspectives.
 
 ### Affordances

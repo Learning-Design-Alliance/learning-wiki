@@ -20,11 +20,11 @@ Using a minimally invasive hand gesture to secure student attention. This techni
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Late elementary and middle grade students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Quickly and efficiently gain the attention of students with minimal disruption.
 
 ### Affordances

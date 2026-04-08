@@ -20,11 +20,11 @@ Structuring the school day with specific time allocations for various subjects a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary grade students, particularly in classrooms where effective time management is crucial
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Maximize instructional time, optimize student engagement, cater to student energy levels, provide structure and predictability
 
 ### Affordances

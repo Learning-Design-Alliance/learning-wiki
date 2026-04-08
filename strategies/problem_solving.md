@@ -20,11 +20,11 @@ Problem solving involves designing activities that require learners to come up w
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All employee levels in corporate training settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving skills, think outside the box, learn how to deal with issues or challenges.
 
 ### Affordances

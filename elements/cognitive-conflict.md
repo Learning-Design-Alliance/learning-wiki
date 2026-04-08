@@ -18,11 +18,11 @@ Deliberately introduces contradictions or challenges to a learner’s existing k
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for science, philosophy, and disciplines requiring conceptual change.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Stimulate conceptual change and encourage critical thinking.
 
 ### Affordances

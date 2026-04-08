@@ -20,11 +20,11 @@ Establish clear guidelines for group discussions, emphasizing engagement, comfor
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners of all ages and backgrounds engaging in discussions about sensitive or controversial topics.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster a safe and respectful environment for discussing sensitive topics, promote active listening and engagement, encourage honest expression of thoughts and feelings, and manage expectations for resolution.
 
 ### Affordances

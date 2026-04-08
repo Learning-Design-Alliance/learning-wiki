@@ -20,11 +20,11 @@ Knowing what you know and don’t know focuses learning. Feedback is an integral
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Tutees in higher education or adult learning programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance learning through timely and relevant feedback, improve self-awareness, promote continuous improvement.
 
 ### Affordances

@@ -20,11 +20,11 @@ Using digital tools to facilitate peer feedback can make the process easier and 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners in various educational settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide quick and thoughtful peer feedback, enhance digital literacy, and promote digital citizenship.
 
 ### Affordances

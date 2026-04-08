@@ -20,11 +20,11 @@ Have students read articles from sources such as Math Horizons or Martin Gardner
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for middle and high school levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Expose learners to effective writing about math and improve their own writing skills.
 
 ### Affordances

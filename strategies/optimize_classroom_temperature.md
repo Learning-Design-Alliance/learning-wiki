@@ -20,11 +20,11 @@ Maintaining an ideal temperature range (68-74°F) in classrooms can significantl
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student engagement, increase productivity, enhance concentration
 
 ### Affordances

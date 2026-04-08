@@ -20,11 +20,11 @@ Sets of printable flash cards for Dolch sight words, organized by grade level. E
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary students, struggling readers, ESL learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve sight word recognition, facilitate quick recall of high-frequency words, provide a tool for repeated practice
 
 ### Affordances

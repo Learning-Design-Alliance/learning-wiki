@@ -20,11 +20,11 @@ Presenting information in more ways than images and text alone enhances comprehe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those with sensory disabilities, learning disabilities, or diverse learning preferences; suitable for K–12, higher education, and adult learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance accessibility, accommodate diverse learning preferences, improve comprehension, support engagement
 
 ### Affordances

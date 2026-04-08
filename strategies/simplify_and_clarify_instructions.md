@@ -20,11 +20,11 @@ Ensure formulations are short, easy to understand, and precise.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those with low English proficiency or learning disabilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance clarity and understanding of instructions for learners.
 
 ### Affordances

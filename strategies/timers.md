@@ -20,11 +20,11 @@ Timers, both visual and auditory, are used to help learners gauge how much time 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who struggle with attention, including students with special needs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve attention span, develop time management skills, structure activities, manage transitions
 
 ### Affordances

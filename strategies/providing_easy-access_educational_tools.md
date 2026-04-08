@@ -20,11 +20,11 @@ Making educational tools readily available to learners promotes independence and
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who may struggle to access materials or require accommodations.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote learner independence, facilitate self-directed learning, and ensure that all learners have access to the tools they need to succeed.
 
 ### Affordances

@@ -20,11 +20,11 @@ Developing a critical lens involves analyzing the affordances and constraints of
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners involved in multimodal composition, particularly those needing to improve the clarity and effectiveness of their designs.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Heighten learners' awareness of effective and ineffective multimodal combinations. Develop a critical lens for analyzing the affordances and constraints of different modes.
 
 ### Affordances

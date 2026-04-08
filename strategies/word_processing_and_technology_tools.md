@@ -20,11 +20,11 @@ Use word processing and other technology tools to support writing. These tools a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All writers, especially those struggling with writing
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing skills, enhance technology literacy, support struggling writers
 
 ### Affordances

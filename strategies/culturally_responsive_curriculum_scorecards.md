@@ -20,11 +20,11 @@ Tools developed collaboratively by educators, parents, students and researchers 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, curriculum developers, and community members seeking to evaluate and improve curriculum, applicable to various grade levels and subjects
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Assess curriculum for cultural responsiveness, identify biases and gaps in representation, promote inclusive education
 
 ### Affordances

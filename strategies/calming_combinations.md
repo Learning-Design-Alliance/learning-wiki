@@ -20,11 +20,11 @@ Combining two or more calming sensory strategies can create a more effective and
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children in school settings, particularly those with sensory sensitivities or who are easily overwhelmed
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-regulation, promote relaxation, create personalized sensory experiences
 
 ### Affordances

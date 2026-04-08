@@ -20,11 +20,11 @@ Using songs to teach language involves engaging learners through music and rhyth
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early childhood education, primary grades (K-2), and learners who benefit from multisensory instruction and are at a variety of literacy levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance vocabulary, improve phonological awareness, reinforce literacy skills, promote creative expression, improve confidence and motivation, increase cultural awareness
 
 ### Affordances

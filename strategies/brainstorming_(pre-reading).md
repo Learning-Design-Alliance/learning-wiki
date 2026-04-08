@@ -20,11 +20,11 @@ Learners are given a limited time (e.g., five minutes) to brainstorm ideas relat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adaptable for learners of all ages and proficiency levels, suitable for various topics.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Generate a wide range of ideas related to the reading topic, encourage collaborative knowledge sharing, and prepare learners for the reading activity.
 
 ### Affordances

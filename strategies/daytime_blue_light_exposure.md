@@ -20,11 +20,11 @@ Exposure to blue light (sunlight, full-spectrum LEDs, digital screens) during th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primarily adolescents and learners in environments with limited natural light.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner alertness, improve sleep-wake cycles, and enhance cognitive performance.
 
 ### Affordances

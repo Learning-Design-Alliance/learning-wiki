@@ -20,11 +20,11 @@ Allowing learners to listen to audiobooks supports learners with auditory proces
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with strengths in auditory processing
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve comprehension, engage learners with auditory strengths, support reading skills
 
 ### Affordances

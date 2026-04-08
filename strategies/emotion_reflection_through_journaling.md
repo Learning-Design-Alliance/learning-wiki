@@ -20,11 +20,11 @@ Learners reflect on experiences, tracking patterns in their emotions and behavio
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school students, adult learners, learners with self-regulation skill deficits
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-awareness, develop self-regulation, improve goal setting
 
 ### Affordances

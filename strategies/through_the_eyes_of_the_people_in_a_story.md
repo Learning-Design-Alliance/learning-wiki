@@ -20,11 +20,11 @@ Learners pick a character from a short story or book and relive the main events 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who are studying literature and want to deepen their understanding of characters and themes
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote perspective-taking, enhance comprehension of literature, encourage emotional intelligence, improve communication skills
 
 ### Affordances

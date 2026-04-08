@@ -20,11 +20,11 @@ Tailoring message content for different populations, such as non-native English 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools, teachers, families
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve family engagement by ensuring that communication is clear, relevant, and accessible.
 
 ### Affordances

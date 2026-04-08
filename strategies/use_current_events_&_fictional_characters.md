@@ -20,11 +20,11 @@ Using current events and fictional characters as tools to teach social awareness
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop social awareness, enhance empathy, improve understanding of different perspectives, promote critical thinking, and foster positive relationships.
 
 ### Affordances

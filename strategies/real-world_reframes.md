@@ -20,11 +20,11 @@ When a student expresses frustration or negativity (e.g., 'I can’t do this stu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Apply reframing techniques in real-time situations.
 
 ### Affordances

@@ -20,11 +20,11 @@ Video replay analysis involves reviewing short video clips, replays of key segme
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners in various educational levels, particularly those in professional training, skills development, or academic programs where performance can be recorded and reviewed
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance metacognition, improve long-term memory, foster a learner mindset, deepen reflection, reasoning, and cognitive flexibility
 
 ### Affordances

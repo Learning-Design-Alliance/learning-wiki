@@ -20,11 +20,11 @@ Social annotation is a collaborative method where learners add notes, comments, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for middle and high school students, as well as adult learners in higher education, who seek to improve their collaborative reading and analytical skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote deeper engagement with texts, foster collaborative learning, enhance critical thinking, facilitate peer interaction, encourage multimedia integration, develop digital literacy skills
 
 ### Affordances

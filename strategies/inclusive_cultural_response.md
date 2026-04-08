@@ -20,11 +20,11 @@ Inclusive Cultural Response involves addressing gaps in cultural learning and re
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those from underrepresented backgrounds
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Address historical omissions, increase cultural representation, promote inclusivity, create more relevant and engaging content.
 
 ### Affordances

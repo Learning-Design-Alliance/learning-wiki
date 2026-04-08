@@ -20,11 +20,11 @@ Incorporating mindfulness practices such as yoga, breathing exercises, and medit
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners of all ages and abilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce stress, improve focus, promote self-regulation
 
 ### Affordances

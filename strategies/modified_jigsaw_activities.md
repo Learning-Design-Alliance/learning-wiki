@@ -20,11 +20,11 @@ The jigsaw strategy involves dividing a task into subtopics, assigning one to ea
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and grade levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, promote collaboration, enhance understanding of concepts, and reinforce learning through teaching.
 
 ### Affordances

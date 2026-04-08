@@ -20,11 +20,11 @@ Emotion songs involve creating or adapting songs to explore different emotions. 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early childhood and elementary students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional vocabulary, improve emotional expression, promote creativity and engagement
 
 ### Affordances

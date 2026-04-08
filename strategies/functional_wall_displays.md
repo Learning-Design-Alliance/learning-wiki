@@ -20,11 +20,11 @@ Using walls for bulletin boards displaying student work and curricular supports,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly visual learners and those who benefit from constant reminders of key concepts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To make learning materials readily accessible, promote student work, enhance classroom aesthetics, and support visual learning
 
 ### Affordances

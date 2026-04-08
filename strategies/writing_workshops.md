@@ -20,11 +20,11 @@ Writing workshops create environments with multiple stations focusing on differe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective in secondary and higher education for addressing specific writing challenges
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide targeted writing support, foster peer collaboration, enhance individual writing skills, promote learner autonomy
 
 ### Affordances

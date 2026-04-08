@@ -20,11 +20,11 @@ An adult follows a child closely, within arm's reach, to provide constant direct
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children with behavioral issues (biting, hitting)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adjust behavior problems, ensure classroom safety, teach new behavior strategies
 
 ### Affordances

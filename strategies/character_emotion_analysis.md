@@ -20,11 +20,11 @@ This strategy involves having students analyze characters' feelings in literatur
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and middle school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotion recognition, develop empathy, improve inferential skills, connect emotions to characters' actions and motivations
 
 ### Affordances

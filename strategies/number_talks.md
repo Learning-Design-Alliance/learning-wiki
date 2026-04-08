@@ -20,11 +20,11 @@ Number Talks are short, daily classroom routines that provide students with oppo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop mental math skills, promote number sense, enhance conceptual understanding, improve communication of mathematical thinking
 
 ### Affordances

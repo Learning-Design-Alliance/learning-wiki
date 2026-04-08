@@ -20,11 +20,11 @@ Create an atmosphere that enables teachers to meet the needs of all students. Kn
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, higher education instructors, school administrators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster a supportive and inclusive classroom, improve student-teacher relationships, enhance student well-being, promote academic success
 
 ### Affordances

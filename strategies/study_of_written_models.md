@@ -20,11 +20,11 @@ Direct, guided practice was found to be an effective instructional strategy, esp
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All writers, especially students with low skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing skills, enhance genre awareness, promote effective writing
 
 ### Affordances

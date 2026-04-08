@@ -20,11 +20,11 @@ The system should inform core instruction as well as intervention needs in your 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve data literacy, streamline decision-making, inform instructional design, improve learning.
 
 ### Affordances

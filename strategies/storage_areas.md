@@ -20,11 +20,11 @@ Organization is a key component of successful learning environments. A de-clutte
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve organization, reduce stress, promote focus
 
 ### Affordances

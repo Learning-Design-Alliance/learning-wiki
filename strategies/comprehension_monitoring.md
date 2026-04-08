@@ -20,11 +20,11 @@ This strategy involves the ability of readers to know when they understand what 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those in upper elementary, middle, and high school, as well as adult learners looking to improve reading comprehension, metacognitive skills, and self-regulation.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance reading comprehension by developing awareness of understanding, monitoring thought processes, and employing strategies to improve comprehension when it is blocked.
 
 ### Affordances

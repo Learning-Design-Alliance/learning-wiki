@@ -20,11 +20,11 @@ Teach children about schwa (/ ə/), the unaccented vowel sound that has been emp
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grade 3 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling accuracy, enhance phonological awareness, develop understanding of schwa sounds
 
 ### Affordances

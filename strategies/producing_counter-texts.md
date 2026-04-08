@@ -20,11 +20,11 @@ Producing counter-texts involves crafting alternative versions of existing texts
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for middle and high school learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop critical literacy, enhance composition skills, challenge stereotypes, empower learners to critically evaluate messages and voice their views
 
 ### Affordances

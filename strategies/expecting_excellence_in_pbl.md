@@ -20,11 +20,11 @@ Expecting excellence in PBL involves setting high expectations for all students 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly those who may face systemic barriers to success and be underestimated in traditional educational settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To promote high achievement and dispell the myth that PBL is not effective for all students by setting high expectations and providing appropriate support.
 
 ### Affordances

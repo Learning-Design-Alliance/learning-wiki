@@ -20,11 +20,11 @@ This instructional strategy involves students working in small groups to identif
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school students, particularly those in advanced English or social studies classes, but adaptable to college and adult learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance problem-solving skills, promote critical thinking about societal issues, foster collaboration and compromise, and encourage consideration of diverse perspectives.
 
 ### Affordances

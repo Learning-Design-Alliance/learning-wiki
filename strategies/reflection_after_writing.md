@@ -20,11 +20,11 @@ Reflection involves pausing after completing a writing assignment to consider ho
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students struggling with writing assignments, particularly those with learning and thinking differences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing strategies; enhance self-awareness; promote continuous improvement; develop critical thinking skills
 
 ### Affordances

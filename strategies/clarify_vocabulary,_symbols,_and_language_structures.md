@@ -20,11 +20,11 @@ Constructing meaning from words, symbols, and numbers using different representa
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly English language learners, learners with learning disabilities, or those new to a subject; suitable for K–12, higher education, and adult learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, reduce cognitive load, support vocabulary development, promote accessible learning
 
 ### Affordances

@@ -20,11 +20,11 @@ Beginning the day by asking students how they are feeling helps to identify pote
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students in elementary, middle, and high school settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Establish emotional awareness and create a supportive environment; proactively identify emotional triggers; promotes empathy
 
 ### Affordances

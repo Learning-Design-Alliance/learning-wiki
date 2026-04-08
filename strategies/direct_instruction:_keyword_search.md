@@ -20,11 +20,11 @@ Explicit instruction in keyword search strategies involves teaching learners how
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, higher education students, and adult learners seeking to improve their online research skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve learners' ability to formulate effective search queries, evaluate the credibility of online sources, and find relevant information efficiently
 
 ### Affordances

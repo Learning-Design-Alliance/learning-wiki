@@ -20,11 +20,11 @@ This toolkit is designed to guide educational technology (edtech) companies in i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Edtech companies, product designers, developers, and educational institutions committed to addressing racial equity in technology.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To mitigate racial bias in edtech products, promote equitable design and development practices, and ensure that technology supports all students, particularly Black and Brown children.
 
 ### Affordances

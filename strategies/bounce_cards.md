@@ -20,11 +20,11 @@ Bounce cards provide a structured way for students to engage in cooperative lear
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school learners, particularly those developing self-awareness and social skills; adaptable for older learners to improve collaboration
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active listening, facilitate turn-taking, encourage perspective sharing, foster a cooperative learning environment, enhance conversational skills
 
 ### Affordances

@@ -20,11 +20,11 @@ Visual reading aids, such as reading guides, colored overlays, and tracking rule
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with visual difficulties, dyslexia, ADHD, visual processing issues, and those who struggle with reading fluency, including K-12 students and adults
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading fluency, reduce visual stress, enhance focus, support visual tracking skills
 
 ### Affordances

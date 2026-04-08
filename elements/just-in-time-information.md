@@ -18,11 +18,11 @@ Instruction is provided at the point of need rather than upfront.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for self-paced training, e-learning, and STEM.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce cognitive overload and improve knowledge retention.
 
 ### Affordances

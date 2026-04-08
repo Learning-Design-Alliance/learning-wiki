@@ -20,11 +20,11 @@ A teacher read-aloud involves a teacher fluently reading a text aloud to learner
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Build vocabulary, develop understandings of story structures, support developing connections between print elements, encourage high levels of understanding, teach the reading process in a meaningful context, model fluency, motivate learners to read.
 
 ### Affordances

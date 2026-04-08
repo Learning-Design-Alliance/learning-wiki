@@ -20,11 +20,11 @@ Explicit and direct instruction of letter names and letter sounds, which is crit
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Kindergarten students, struggling readers, ESL learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop letter recognition, improve phoneme-grapheme correspondence, enhance spelling and reading skills
 
 ### Affordances

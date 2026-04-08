@@ -20,11 +20,11 @@ Explicitly model empathy by demonstrating understanding and sharing in the feeli
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who struggle with social awareness and empathy, K-12, higher education, and adult learners in professional development
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop emotional intelligence, enhance interpersonal relationships, promote empathy and understanding, create inclusive environments
 
 ### Affordances

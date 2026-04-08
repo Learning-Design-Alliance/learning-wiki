@@ -20,11 +20,11 @@ Role-play how to handle different situations, especially those that students str
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners, particularly those who struggle with handling difficult emotions and social situations
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Practice responsible handling of emotions, develop emotional literacy, improve conflict resolution skills
 
 ### Affordances

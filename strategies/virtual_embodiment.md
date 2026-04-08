@@ -20,11 +20,11 @@ Virtual embodiment is used to give people the experience of the golden rule in o
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adults and non-patient groups
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Experience the golden rule in operation, temporarily occupy the body and position of an “outgroup” member
 
 ### Affordances

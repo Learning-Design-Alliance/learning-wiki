@@ -20,11 +20,11 @@ Encouraging students to read questions and their own writing aloud leverages str
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with strengths in auditory processing, students who need to improve their writing skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve composition skills, enhance auditory processing, promote self-correction, build self-awareness of writing quality
 
 ### Affordances

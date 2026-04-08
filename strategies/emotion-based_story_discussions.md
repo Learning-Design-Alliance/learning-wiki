@@ -20,11 +20,11 @@ Emotion-based story discussions involve reading stories and having learners iden
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All age groups, including early childhood, elementary, middle school, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop emotional literacy, improve perspective-taking skills, promote empathetic understanding
 
 ### Affordances

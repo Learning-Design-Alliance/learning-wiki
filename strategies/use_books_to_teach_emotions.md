@@ -20,11 +20,11 @@ Stories are used as examples of handling emotions in a responsible way. Serve as
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All age groups, particularly effective in elementary and middle school classrooms to provide a safe context for exploring emotions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop emotional literacy, connect emotions with behaviors, practice responsible handling of emotions
 
 ### Affordances

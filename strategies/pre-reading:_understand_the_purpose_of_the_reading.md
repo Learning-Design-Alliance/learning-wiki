@@ -20,11 +20,11 @@ Understanding the purpose of pre-reading is to increase the capacity to comprehe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners who want to enhance their reading comprehension and retention skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase reading comprehension and retention by establishing a conceptual framework before detailed reading.
 
 ### Affordances

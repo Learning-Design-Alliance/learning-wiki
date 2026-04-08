@@ -20,11 +20,11 @@ Shadowing involves following a student throughout their school day to gain insig
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, school administrators, counselors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Gain insights into student experiences, question assumptions, improve educator understanding, enhance student support
 
 ### Affordances

@@ -20,11 +20,11 @@ This strategy changes perceptions about mistakes, viewing them as learning oppor
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and teachers, particularly those in environments where mistakes are heavily stigmatized.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Shift the perception of mistakes from negative to positive, encouraging risk-taking, exploration, and independent thinking.
 
 ### Affordances

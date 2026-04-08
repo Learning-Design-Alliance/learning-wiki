@@ -20,11 +20,11 @@ Micro-goals involve breaking down larger objectives into smaller, manageable ste
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who struggle with large or complex tasks
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage consistent progress, build confidence, foster a growth mindset
 
 ### Affordances

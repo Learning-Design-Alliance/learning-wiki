@@ -20,11 +20,11 @@ Making self-advocacy and self-determination critical priorities in education sys
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Education systems, policymakers, educators, and students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prioritize self-advocacy, improve educational systems, enhance school performance
 
 ### Affordances

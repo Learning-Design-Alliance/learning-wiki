@@ -20,11 +20,11 @@ A veteran teacher or coach shadows one or two students for a couple of days to g
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school teachers and coaches
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand students' experiences, improve teaching practices, increase student engagement
 
 ### Affordances

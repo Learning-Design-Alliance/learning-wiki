@@ -20,11 +20,11 @@ Talk with learners about the multiple dimensions of critical evaluation, includi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adolescents and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help learners understand and differentiate between the dimensions of critical evaluation: relevance, accuracy, bias/perspective, and reliability.
 
 ### Affordances

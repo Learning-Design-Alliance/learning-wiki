@@ -20,11 +20,11 @@ Learners examine websites (both reliable and unreliable) using a checklist to as
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop critical evaluation skills for assessing the reliability of online information sources.
 
 ### Affordances

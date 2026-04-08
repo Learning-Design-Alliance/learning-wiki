@@ -20,11 +20,11 @@ Multisensory instruction uses a combination of visual, auditory, and tactile-kin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adults with learning disabilities, struggling readers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance memory and learning; engage multiple senses to reinforce understanding; improve reading skills for learners with learning disabilities
 
 ### Affordances

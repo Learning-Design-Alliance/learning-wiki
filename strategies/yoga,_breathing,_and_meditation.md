@@ -20,11 +20,11 @@ Using yoga, breathing, and meditation techniques in educational settings involve
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children in school settings, particularly those who are easily overwhelmed or anxious
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote relaxation, regulate the nervous system, support self-regulation
 
 ### Affordances

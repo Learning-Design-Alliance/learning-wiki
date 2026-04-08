@@ -20,11 +20,11 @@ This strategy involves providing targeted feedback on student writing that is di
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and higher education students at all levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student writing by guiding them to enhance content, organization, and writing mechanics.
 
 ### Affordances

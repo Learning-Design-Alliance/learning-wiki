@@ -20,11 +20,11 @@ App for students to practice basic math. The app, as the name suggests, comes wi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and middle school students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Practice and develop skills in basic math facts (addition, subtraction, multiplication, and division).
 
 ### Affordances

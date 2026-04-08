@@ -20,11 +20,11 @@ Arranging desks strategically can support different learning activities. Small g
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those with specific learning needs or preferences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support varied instructional activities, enhance student focus, accommodate individual needs
 
 ### Affordances

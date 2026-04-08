@@ -20,11 +20,11 @@ Encouraging informal games and activities without emphasizing competition provid
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote collaboration, foster creativity, encourage social interaction, enhance intrinsic motivation, reduce performance pressure
 
 ### Affordances

@@ -20,11 +20,11 @@ The Critical Response Process is a structured method for giving feedback that pu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Higher education, graduate students, professional development
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower learners, shift control of feedback process, promote thoughtful reflection, create a safe environment for feedback
 
 ### Affordances

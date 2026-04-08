@@ -20,11 +20,11 @@ Using structured questions with clear goals and timeframes provides focus and sc
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly helpful for students who struggle with open-ended discussions or time management.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Focus pair discussions, provide structure and scaffolding for students, encourage in-depth exploration of topics, and improve time management during collaborative activities.
 
 ### Affordances

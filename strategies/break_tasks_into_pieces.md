@@ -20,11 +20,11 @@ Divide tasks into smaller chunks. The learner can focus long enough to perform p
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with attention struggles
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase task completion, reduce overwhelm, improve focus
 
 ### Affordances

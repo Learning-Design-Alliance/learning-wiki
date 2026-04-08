@@ -20,11 +20,11 @@ Teachers demonstrate how to perform a task or skill by verbalizing their thought
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Applicable to all learner levels, especially beneficial for those who benefit from auditory learning and explicit demonstrations.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Demonstrate effective strategies, increase awareness of thought processes, support auditory processing, and provide a model for learners to follow.
 
 ### Affordances

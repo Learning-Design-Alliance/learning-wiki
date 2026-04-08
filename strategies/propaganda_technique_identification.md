@@ -20,11 +20,11 @@ Learners are taught about propaganda techniques and then asked to identify the u
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase awareness of propaganda techniques and their use in online advertising, and to understand how the interactive nature of online media affects their impact.
 
 ### Affordances

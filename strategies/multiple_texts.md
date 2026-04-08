@@ -20,11 +20,11 @@ Reading multiple texts on the same topic expands learners' understanding, encour
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Expand understanding of a topic, improve critical thinking skills, develop synthesis skills, enhance engagement with texts, promote agency and self-directed learning.
 
 ### Affordances

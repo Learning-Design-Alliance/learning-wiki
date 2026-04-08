@@ -20,11 +20,11 @@ This strategy involves educators identifying students' strengths and challenges 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, with particular attention to those struggling with self-regulation.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve students' self-regulation skills by leveraging their strengths, enhance emotional and behavioral control, and promote positive engagement in classroom activities.
 
 ### Affordances

@@ -20,11 +20,11 @@ The instructor selects three or four pictures related to the reading topic and p
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners of all ages and proficiency levels, adaptable for various topics.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Stimulate curiosity, encourage predictive thinking, and connect visual cues with the reading topic.
 
 ### Affordances

@@ -20,11 +20,11 @@ Peer and self-assessment give students the opportunity to review their work agai
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly in elementary and secondary education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-evaluation skills, promote self-advocacy, encourage discussion
 
 ### Affordances

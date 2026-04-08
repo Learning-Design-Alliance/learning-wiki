@@ -20,11 +20,11 @@ Transforming schools into beautiful spaces by displaying high-quality student wo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners, particularly beneficial for students from marginalized communities who may not have access to beautiful spaces in their homes and neighborhoods.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a welcoming and inspiring learning environment, honor and celebrate student work, foster a sense of pride and ownership, transform the school building into a beautiful space.
 
 ### Affordances

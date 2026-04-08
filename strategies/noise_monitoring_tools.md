@@ -20,11 +20,11 @@ Noise monitoring tools are technological aids used to visually or audibly signal
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early elementary to middle school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student awareness of noise levels, promote self-regulation of volume, create a quieter learning environment
 
 ### Affordances

@@ -20,11 +20,11 @@ Involving learners in the process of designing and transforming their learning e
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, higher education, adult learners in various educational and training settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower learners, enhance engagement, improve classroom environment, promote ownership of learning, support brain-based learning practices
 
 ### Affordances

@@ -20,11 +20,11 @@ Incorporating multiple and varying perspectives within learning content to honor
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those from diverse or non-dominant cultures and/or languages
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote inclusivity, enhance cultural awareness, improve understanding of diverse perspectives, foster empathy
 
 ### Affordances

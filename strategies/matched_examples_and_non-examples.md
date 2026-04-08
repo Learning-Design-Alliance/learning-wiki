@@ -20,11 +20,11 @@ Present matched examples and nonexamples for concepts with related attributes. N
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially for concepts with closely related attributes
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote accurate concept formation, avoid overgeneralization
 
 ### Affordances

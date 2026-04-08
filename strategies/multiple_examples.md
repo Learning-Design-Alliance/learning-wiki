@@ -20,11 +20,11 @@ When teaching a new technique, providing multiple examples helps students unders
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for struggling writers and those new to a specific technique
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve understanding of writing techniques, enhance ability to apply techniques in writing, develop fluency in using new techniques, increase confidence in writing
 
 ### Affordances

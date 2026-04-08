@@ -20,11 +20,11 @@ Time plus energy equals learning. There is no substitute for time on task. Learn
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Tutees in higher education or adult learning programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve time management skills, enhance focus and productivity, establish realistic expectations for learning.
 
 ### Affordances

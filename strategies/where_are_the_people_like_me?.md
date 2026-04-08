@@ -20,11 +20,11 @@ Learners examine media examples to consider who is represented and who is not, t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who want to understand the impact of media on society and culture
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote media literacy, raise awareness of representation, encourage critical thinking, improve communication skills
 
 ### Affordances

@@ -20,11 +20,11 @@ This strategy entails consciously choosing to fill one's mind with positive imag
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for individuals prone to negativity, stress, or a focus on challenges rather than joys.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote positive attitude, foster gratitude, enhance joy, manage challenges, improve mental well-being, align self-talk with positive emotions.
 
 ### Affordances

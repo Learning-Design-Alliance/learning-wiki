@@ -20,11 +20,11 @@ Demonstrating a belief in excellence and setting high expectations is essential 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners, particularly important for dispelling negative stereotypes about students from marginalized backgrounds.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster a growth mindset, promote high expectations, provide proper scaffolding, dispel myths about student capabilities, create a culture of excellence.
 
 ### Affordances

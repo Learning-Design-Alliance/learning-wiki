@@ -20,11 +20,11 @@ Reflection prompts encourage learners to think deeply about their learning exper
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who benefit from structured reflection activities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote deeper engagement with complex ideas, allow more students to find broader meaning in their work, help teachers to more deeply understand and adapt to the intellectual processes of our students
 
 ### Affordances

@@ -20,11 +20,11 @@ Educators should avoid assumptions about learners' digital literacy and provide 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners with limited digital experience, those unfamiliar with current technology or jargon
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve learners' basic digital skills, address misconceptions, enhance confidence in using technology
 
 ### Affordances

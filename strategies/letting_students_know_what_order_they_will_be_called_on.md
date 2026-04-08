@@ -20,11 +20,11 @@ Informing students of the order in which they will be called upon to respond can
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with challenges related to inhibition, impulsivity, or difficulty waiting their turn
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce impulsivity, improve focus and attention, enhance student participation, support self-regulation
 
 ### Affordances

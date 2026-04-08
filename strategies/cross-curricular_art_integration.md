@@ -20,11 +20,11 @@ Integrating art with other subjects like science and history to enhance learning
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Demonstrate cross-curricular connections, express learning through art, and engage with various subject matters creatively.
 
 ### Affordances

@@ -20,11 +20,11 @@ This is a visual representation of education and learning sciences research publ
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, researchers, and practitioners in the field of education and learning sciences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Explore common topics in education and learning sciences research, identify connections between topics, and facilitate saving articles of interest. Act as an interactive encyclopedia of research.
 
 ### Affordances

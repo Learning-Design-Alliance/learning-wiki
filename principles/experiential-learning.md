@@ -1,7 +1,8 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Experiential Learning
@@ -13,93 +14,62 @@ Experiential learning is learning by doing, which may include self-directed lear
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- A meaningful task, role, or situation that learners can actively engage in rather than only hear about
+- Structured reflection so experience becomes interpretable and transferable
+- Opportunities to test revised understanding in a new action cycle
+- Facilitation that connects experience back to concepts, models, or criteria
+
 #### Constraints
-- <!-- TODO -->
+- Experience alone is not enough; without reflection and feedback, learners may simply repeat ineffective habits
+- High-complexity experiences can overwhelm novices unless tasks are scaffolded
+- Experiential tasks can become performative or logistically heavy if not clearly tied to the learning goal
+- Reflection must go beyond narration (“what happened”) toward interpretation and next steps
 
 ### Target Learners
-- Learner Background:
-
-Physical Well-being
-Adverse Experiences
-Literacy Environment
-Primary Language
-Sleep
-Safety
-Socioeconomic Status
-Social and Emotional Learning:
-
-Emotion
-Self-regulation
-Motivation
-Learner Mindset
-Sense of Belonging
-Cognition:
-
-Cognitive Flexibility
-Attention
-Inhibition
-Long-term Memory
-Reasoning
-Short-term Memory
-Metacognition
-Speed of Processing
-Language and Literacy:
-
-Disciplinary Literacy
-Composition
-Background Knowledge
-Digital Literacy
-Oral Communication Skills
-Problem Solving
+- Learners developing applied, professional, or interpersonal competence
+- Adult learners who benefit from relevance, realism, and visible use-value
+- Learners who need to integrate concepts, judgment, and action rather than memorize isolated facts
+- Learners who may disengage from abstract instruction unless they can test ideas in practice
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- Strengthen transfer from theory to practice
+- Develop reflective judgment by comparing action, outcome, and alternative choices
+- Build autonomy and confidence through repeated cycles of doing, reflecting, and retrying
+- Deepen understanding by linking concepts to consequences in realistic contexts
 
 ### Theory
 #### Supporting
-- [[theories/experiential-learning-cycle-kolb-deweys-learning-by-doing-constructivism-piaget|Experiential Learning Cycle (Kolb)
-Dewey’s Learning by Doing
-Constructivism (Piaget]]
-- [[theories/bruner|Bruner]]
-- [[theories/vygotsky|Vygotsky)]]
+- Kolb’s experiential cycle directly supports the move from concrete experience to reflection, abstraction, and experimentation
+- Deweyan and constructivist perspectives support learning through doing and meaning-making from consequences
+- Sociocultural perspectives qualify experiential learning by emphasizing the role of guided participation, context, and tools
+- [[claims/whole-task-performance-improves-transfer]] [+S] supports integrated performance tasks as especially useful for transfer
+
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Unguided experiential learning can impose too much cognitive load on novices
+- Reflection quality matters; learners need prompts, models, and sometimes expert feedback to interpret experience well
+- Some foundational knowledge may need explicit instruction before an authentic experience becomes productive
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Bradford, D. L. (2018). Ethical issues in experiential learning. Journal of Management Education, 43(1), 89-98.
-
-Davis, R., Bolden-Tiller, O., & Gurung, N. (2016). Experiential learning for Tuskegee university students: Study tour of agricultural industries. Journal of Animal Science, 94(1), 64.
-
-Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. Comparative Professional Pedagogy, 5(2).
-
-Eaton, S. E. (2020). Learning about academic integrity through experiential learning. Calgary, Canada: University of Calgary.
-
-Ekmekci, O. (2013). Being there: Establishing instructor presence in an online learning environment. Higher Education Studies, 3(1), 29–38.
-
-Goddu, K. (2012). Meeting the challenge: Teaching strategies for adult learners. Kappa Delta Pi Record, 48(4), 169-173.
-
-Hansman, C. A. (2001). Context‐based adult learning. New Directions for Adult and Continuing Education, 2001(89), 43-52.
-
-Hernández, L. E. & Darling-Hammond, L. (2019). Deeper Learning Networks: Taking Student-Centered Learning and Equity to Scale. Learning Policy Institute Research Brief.
-
-Kaipainen, E., Braun, R., Arseneault, R., Reid, L., Stowe, L., Kenny, N., & Hillmo, J. (2020). Experiential learning plan for the University of Calgary (2020-2025).
-
-Knowles, M. S., Holton, E. F. & Swanson, R. A. (2015). The Adult Learner: The definitive classic in adult education and human resource development (8th ed.). Elsevier Inc.
-
-Mohammadi, A., Grosskopf, K., & Killingsworth, J. (2019). Workforce development through online experiential learning for STEM education. Architectural Engineering, 154.
-
-Sisselman-Borgia, A. G. & Torino, G. C. (2017). Innovations in experiential learning for adult learners. Journal of Applied Learning in Higher Education, 7, 3-13.
-
-Zeivots, S. (2016). Emotional highs in adult experiential learning. Australian Journal of Adult Learning, 56(3), 353-373.
+- [[claims/whole-task-performance-improves-transfer]] [+S] — integrated experiences support transfer better than fragmented subskill drills
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — reflection and explanation are what convert experience into insight
+- [[claims/contingent-scaffolding-improves-learning]] [+M] — experiential tasks are stronger when coaching responds to learner decisions in real time
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — novices in experiential settings benefit from guidance on what to attend to and how to act, not only from immersion
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/debriefing|Debriefing]] — a core mechanism for making experience educative
+- [[principles/problem-based-learning|Problem-Based Learning]] — one form of experiential design centered on complex problems
+- [[principles/authentic-audiences-purposes|Authentic Audiences & Purposes]] — real stakes and users strengthen the relevance of experience
+- [[principles/communities-of-practice|Communities of Practice]] — experiential learning deepens when learners participate in real social practices over time
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- Simulations, internships, clinical rounds, labs, community projects, and field-based inquiry
+- [[strategies/project-based_learning_(pbl)|Project-Based Learning (PBL)]] — learners build knowledge through extended authentic work
+- [[patterns/anchored-instruction|Anchored Instruction]] — realistic scenarios anchor inquiry and applied reasoning
+- Reflection journals, post-task debriefs, and iteration cycles are typical implementation supports
 
 ## Key Sources
-- <!-- TODO -->
+- Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2).
+- Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52.
+- Zeivots, S. (2016). Emotional highs in adult experiential learning. *Australian Journal of Adult Learning, 56*(3), 353-373.
+- Knowles, M. S., Holton, E. F., & Swanson, R. A. (2015). *The adult learner* (8th ed.).

@@ -20,11 +20,11 @@ A learning approach where the problem is presented as an open-ended one, so ther
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners, corporate training, and higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster independent thinking, problem-solving skills, and adaptability in learners
 
 ### Affordances

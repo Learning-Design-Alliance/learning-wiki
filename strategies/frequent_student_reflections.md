@@ -20,11 +20,11 @@ This strategy involves prompting learners to reflect on their learning more ofte
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who need to improve their self-assessment and metacognitive skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve self-assessment skills, enhance understanding of strengths and weaknesses, foster connections between topics and disciplines, and promote a growth mindset.
 
 ### Affordances

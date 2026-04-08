@@ -20,11 +20,11 @@ Regular contact between tutees and tutors is part of the tutoring process, incre
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Tutees in higher education or adult learning programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase tutee motivation, foster a supportive learning environment, enhance intellectual and emotional commitment to learning
 
 ### Affordances

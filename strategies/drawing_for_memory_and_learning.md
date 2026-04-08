@@ -20,11 +20,11 @@ Drawing is used as a learning and memory tool. Drawing forces individuals to pro
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and levels, including undergraduate students and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance memory and recall, deepen understanding of concepts, and engage multiple cognitive processes.
 
 ### Affordances

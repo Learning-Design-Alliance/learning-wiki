@@ -20,11 +20,11 @@ A classroom library is a dedicated space within the classroom stocked with a var
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all grade levels, particularly effective in early childhood and elementary classrooms to establish strong reading habits.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a love of reading, increase reading frequency, improve comprehension skills, foster independent learning, and expand vocabulary.
 
 ### Affordances

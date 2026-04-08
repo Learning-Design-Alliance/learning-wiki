@@ -20,11 +20,11 @@ Combining two or more calming sensory strategies to create a more comprehensive 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who require a more comprehensive approach to self-regulation
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-regulation, promote calmness, address multiple sensory needs
 
 ### Affordances

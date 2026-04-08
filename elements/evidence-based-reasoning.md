@@ -18,11 +18,11 @@ Learners evaluate competing models based on real-world evidence and refine their
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - High school, higher education, research fields
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develops critical thinking, evaluation of competing claims, and conceptual change.
 
 ### Affordances

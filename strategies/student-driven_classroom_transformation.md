@@ -20,11 +20,11 @@ Involving students in the design and transformation of their learning environmen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower students, increase ownership, promote a brain-friendly environment, enhance engagement, and foster a sense of community
 
 ### Affordances

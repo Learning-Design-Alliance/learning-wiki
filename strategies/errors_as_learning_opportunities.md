@@ -20,11 +20,11 @@ Creating a classroom culture where errors become learning opportunities shifts t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, particularly those struggling with math or who have a fixed mindset about their abilities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a growth mindset, encourage self-correction, improve understanding of mathematical concepts, reduce anxiety around making mistakes
 
 ### Affordances

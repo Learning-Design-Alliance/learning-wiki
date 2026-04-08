@@ -20,11 +20,11 @@ Small group instruction involves a teacher working with a small number of studen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for students needing additional support or those with diverse learning needs.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide targeted support, address individual needs, scaffold learning, and improve skill mastery.
 
 ### Affordances

@@ -20,11 +20,11 @@ The "Positive Intention & Generosity in Networking" strategy emphasizes focusing
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Professionals seeking to build genuine connections, leaders aiming to foster a supportive environment, individuals hesitant about traditional networking methods.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage authentic networking, promote generosity and mutual support, foster inclusivity, enhance relationship-building, focus on collective benefits.
 
 ### Affordances

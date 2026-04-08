@@ -20,11 +20,11 @@ Assessing must attend to fluency components and the learner. Assessments often a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provides thorough evaluation, reduces anxiety, promotes comprehensive insights, improves assessment validity
 
 ### Affordances

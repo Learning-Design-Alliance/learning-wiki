@@ -20,11 +20,11 @@ Encourage pre-teens and teenagers who dislike organized sports to explore non-co
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Pre-teens and teenagers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase physical activity, build confidence, promote enjoyment of exercise
 
 ### Affordances

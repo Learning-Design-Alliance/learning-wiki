@@ -20,11 +20,11 @@ Using creative activities to reinforce positive self-talk, such as making crafts
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who benefit from visual aids and hands-on activities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To use creative expression as a way for learners to develop personalized mementos of positive self-talk.
 
 ### Affordances

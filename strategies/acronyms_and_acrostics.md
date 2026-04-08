@@ -20,11 +20,11 @@ Acronyms use the first letter of each word in a list or phrase to create a new, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially useful for those who need to memorize lists or sequences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve recall of lists, names, or sequences; simplify complex information into easily remembered cues
 
 ### Affordances

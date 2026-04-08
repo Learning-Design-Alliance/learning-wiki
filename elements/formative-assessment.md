@@ -18,11 +18,11 @@ Ongoing, low-stakes assessment to provide feedback and adjust instruction.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for all learning levels, particularly competency-based education.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Guide learning and inform instructional adjustments.
 
 ### Affordances

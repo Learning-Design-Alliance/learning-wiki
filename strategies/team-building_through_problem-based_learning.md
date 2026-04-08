@@ -20,11 +20,11 @@ Using problem-based learning in multi-cultural groups helps learners get used to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Corporate teams, multicultural groups, and educational settings with diverse learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote teamwork, cross-cultural understanding, and effective communication in diverse groups
 
 ### Affordances

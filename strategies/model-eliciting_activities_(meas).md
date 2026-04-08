@@ -20,11 +20,11 @@ Model-eliciting activities (MEAs) are activities that encourage learners to inve
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop model-building skills, enhance problem-solving abilities, foster teamwork, promote critical thinking, and encourage self-assessment.
 
 ### Affordances

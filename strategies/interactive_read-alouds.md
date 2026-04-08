@@ -20,11 +20,11 @@ Interactive read-alouds involve stopping during the reading process to engage le
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners, English language learners, and adult learners in literacy programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote deeper comprehension, enhance critical thinking skills, encourage personal connections to the text, and foster active engagement with the material.
 
 ### Affordances

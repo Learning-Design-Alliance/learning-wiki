@@ -20,11 +20,11 @@ An adult follows a child everywhere they go, staying within arm's reach to preve
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children exhibiting behaviors that can hurt themselves or others
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adjust behavior problems, maintain class safety, teach new coping strategies
 
 ### Affordances

@@ -20,11 +20,11 @@ A simple game involving tossing a ball, often used with preschoolers to develop 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Preschoolers, early childhood learners, and learners in early primary grades.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop counting skills, enhance coordination, promote active play, and foster engagement.
 
 ### Affordances

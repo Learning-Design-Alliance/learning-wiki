@@ -20,11 +20,11 @@ Students add a graphic organizer to a finished expository or argumentative writi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly useful for complex or abstract topics
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance reader comprehension, illustrate complex processes, reinforce learning
 
 ### Affordances

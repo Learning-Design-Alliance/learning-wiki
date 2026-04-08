@@ -20,11 +20,11 @@ The Bridging Cultures Project helps teachers understand assumptions underlying i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school teachers serving large immigrant Latino populations
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand cultural values, adapt classroom practices, enhance communication, create inclusive learning environments
 
 ### Affordances

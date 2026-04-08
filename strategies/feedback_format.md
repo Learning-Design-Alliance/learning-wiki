@@ -20,11 +20,11 @@ Feedback can be delivered in various formats, including written, verbal, or vide
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Higher education, adult learners, and professional development programs where varied feedback formats are beneficial.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance engagement and understanding through diverse feedback formats, provide personalized and meaningful feedback, and improve student motivation.
 
 ### Affordances

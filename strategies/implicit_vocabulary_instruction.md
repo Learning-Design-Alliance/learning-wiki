@@ -20,11 +20,11 @@ Implicit vocabulary instruction involves teaching words 'in the moment' using he
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, particularly when encountering domain-specific texts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of domain-specific vocabulary, improve in-the-moment comprehension, build vocabulary contextually
 
 ### Affordances

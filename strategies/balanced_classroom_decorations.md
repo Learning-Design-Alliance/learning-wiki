@@ -20,11 +20,11 @@ Display student work. Feature inspiring role models. Avoid clutter. Visual aidsâ
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, teachers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create visually engaging and psychologically safe classroom environments
 
 ### Affordances

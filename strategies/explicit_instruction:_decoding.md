@@ -20,11 +20,11 @@ Explicit instruction in decoding involves providing direct and systematic teachi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early readers, learners with reading difficulties, and English language learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop phonics skills, improve word recognition, enhance reading fluency, and promote overall reading comprehension.
 
 ### Affordances

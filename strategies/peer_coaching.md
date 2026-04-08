@@ -20,11 +20,11 @@ Peer coaching is a reciprocal helping relationship between equals who support ea
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Professionals, managers, and executives in organizations.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance leadership development, strengthen support systems, improve communication and problem-solving skills.
 
 ### Affordances

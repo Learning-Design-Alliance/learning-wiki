@@ -20,11 +20,11 @@ Ensuring that text and symbols do not impede the learning goal by providing nece
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners with reading disabilities (e.g., dyslexia), math difficulties, and those encountering unfamiliar symbols or notations.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve decoding skills, enhance comprehension, reduce cognitive load, ensure symbols and text support learning goals
 
 ### Affordances

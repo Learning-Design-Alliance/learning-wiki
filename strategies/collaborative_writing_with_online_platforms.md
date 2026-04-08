@@ -20,11 +20,11 @@ Collaborative writing using online platforms involves students jointly composing
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school students, as well as adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance collaborative writing skills, improve peer feedback and revision processes, develop digital literacy, and promote effective online communication.
 
 ### Affordances

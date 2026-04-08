@@ -20,11 +20,11 @@ The method of loci involves creating a mental 'memory palace' by associating ite
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those with strong visual and spatial skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance memory recall by associating information with familiar locations.
 
 ### Affordances

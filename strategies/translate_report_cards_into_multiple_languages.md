@@ -20,11 +20,11 @@ Using communication apps to translate report cards into multiple languages (e.g.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Schools and districts with diverse student populations, parents who are English language learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase parent understanding of student progress, improve communication, support diverse populations
 
 ### Affordances

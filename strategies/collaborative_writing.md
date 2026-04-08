@@ -20,11 +20,11 @@ Making arrangements for learners to work together through the entire process of 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All writers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve writing quality, promote teamwork, enhance collaboration skills
 
 ### Affordances

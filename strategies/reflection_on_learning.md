@@ -20,11 +20,11 @@ Reflection on learning involves linking a current experience to previous learnin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Link current experiences to previous learnings, draw forth cognitive and emotional information from several sources, and apply learnings to new situations.
 
 ### Affordances

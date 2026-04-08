@@ -20,11 +20,11 @@ Using graphics or gestures can help learners who face auditory processing challe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who face auditory processing challenges
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve retention, support learners who face auditory processing challenges
 
 ### Affordances

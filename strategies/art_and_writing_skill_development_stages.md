@@ -20,11 +20,11 @@ Drawing and writing skills in young children develop through distinct stages, pr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Very young children (15 months to 5 years)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Understand the developmental stages of drawing and writing, encourage creativity and self-expression, develop problem-solving skills, and learn the power and meaning of words.
 
 ### Affordances

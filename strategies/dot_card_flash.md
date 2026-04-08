@@ -20,11 +20,11 @@ One learner flashes a dot card to another for 3 seconds, then hides it. The seco
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Pre-K to 1st Grade learners who are developing subitizing skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve visual memory, enhance subitizing skills, reinforce number arrangements
 
 ### Affordances

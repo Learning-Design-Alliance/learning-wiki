@@ -20,11 +20,11 @@ Using a content "word of the week" to signal that it's time for silence involves
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Regain student attention, reinforce vocabulary, signal a transition to quiet activities
 
 ### Affordances

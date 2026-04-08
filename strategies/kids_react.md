@@ -20,11 +20,11 @@ Perform an online image search for the words “school lunch,” and project the
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help learners identify their emotional reactions and assumptions when evaluating online images.
 
 ### Affordances

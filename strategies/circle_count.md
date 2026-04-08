@@ -20,11 +20,11 @@ Stand in a circle and try to count off as quickly as possible all the way around
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-4, adaptable to other grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce counting skills, promote teamwork, improve sequencing skills, enhance quick thinking
 
 ### Affordances

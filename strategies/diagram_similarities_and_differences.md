@@ -20,11 +20,11 @@ Learners generate a list of similarities and differences between words and compl
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve analytical skills, increase vocabulary, increase Disciplinary Literacy skills
 
 ### Affordances

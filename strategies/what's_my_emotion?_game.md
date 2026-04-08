@@ -20,11 +20,11 @@ Using an EQ Feeling Chart, students identify how they are feeling individually. 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially K–12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify and demonstrate feelings non-verbally, encourage self-awareness, promote sharing and empathy
 
 ### Affordances

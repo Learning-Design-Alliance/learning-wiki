@@ -20,11 +20,11 @@ Engaging and enjoyable writing activities that move away from traditional pencil
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grades, particularly useful for students who are reluctant writers or struggle with traditional handwriting methods.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop various handwriting skills (e.g., spacing, letter size) through creative and engaging activities.
 
 ### Affordances

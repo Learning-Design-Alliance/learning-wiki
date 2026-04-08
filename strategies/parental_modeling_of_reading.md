@@ -20,11 +20,11 @@ Parents demonstrate the value of reading by being reading role models themselves
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Parents and caregivers of children of all ages, especially preschool and early elementary.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Cultivate positive attitudes towards reading, encourage children to view reading as a valuable activity, and promote a home environment that supports literacy development.
 
 ### Affordances

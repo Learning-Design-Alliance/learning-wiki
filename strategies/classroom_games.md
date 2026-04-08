@@ -20,11 +20,11 @@ Classroom games transform review time into engaging, collaborative activities th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Beneficial for all grade levels and subjects, particularly when reviewing for exams or consolidating knowledge after a unit of study.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, reinforce learning, reduce anxiety, promote deeper understanding, foster collaboration
 
 ### Affordances

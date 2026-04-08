@@ -20,11 +20,11 @@ Allowing plenty of think-time and time for re-reading provides students who need
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who need additional time to process information or struggle with comprehension.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, reduce frustration, and support learners with processing speed challenges.
 
 ### Affordances

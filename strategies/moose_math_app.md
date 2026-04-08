@@ -20,11 +20,11 @@ A game app made of funny characters, referred to as the Dust Funnies. These char
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learn addition, counting, subtraction, geometry, and sorting in a funny and engaging way.
 
 ### Affordances

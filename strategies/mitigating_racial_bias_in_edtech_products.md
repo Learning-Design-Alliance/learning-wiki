@@ -20,11 +20,11 @@ The AI in Education Toolkit for Racial Equity provides guidance on how to mitiga
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Edtech developers and designers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Mitigate racial bias, create equitable edtech products, and promote the success of Black and Brown students.
 
 ### Affordances

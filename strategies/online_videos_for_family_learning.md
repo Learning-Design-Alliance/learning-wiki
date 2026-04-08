@@ -20,11 +20,11 @@ Using online videos to make it easier for families with different language needs
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Families with diverse language needs, Hispanic-Latino families
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate family learning, accommodate language differences, provide accessible resources
 
 ### Affordances

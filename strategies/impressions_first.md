@@ -20,11 +20,11 @@ Before diving into specifics, encourage students to share their initial impressi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for promoting student agency and critical thinking
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance critical thinking skills, promote independent reading, encourage personal connections with text, develop the ability to analyze text based on initial reactions
 
 ### Affordances

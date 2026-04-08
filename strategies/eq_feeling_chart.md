@@ -20,11 +20,11 @@ Pair students and check-in with each other using an EQ Feeling Chart. Facilitate
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially K–12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Communicate feelings, identify the source of emotions, promote sharing and empathy
 
 ### Affordances

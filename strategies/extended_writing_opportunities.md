@@ -20,11 +20,11 @@ Extended writing opportunities involve providing learners with regular practice 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Upper elementary students, learners of all ages
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance writing skills, improve sentence fluency, increase processing speed, expand genre knowledge, support primary language development
 
 ### Affordances

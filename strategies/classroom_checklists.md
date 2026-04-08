@@ -20,11 +20,11 @@ Classroom checklists are visual aids used to help students, teachers, and parent
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, teachers, students, parents, and staff members in various educational settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Keep students on track, help teachers manage tasks, improve organization, enhance memory, provide clear instructions
 
 ### Affordances

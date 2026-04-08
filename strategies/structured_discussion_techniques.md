@@ -20,11 +20,11 @@ Facilitating productive discussions requires clear expectations, modeling, sente
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially English language learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote engagement, foster respect, deepen understanding
 
 ### Affordances

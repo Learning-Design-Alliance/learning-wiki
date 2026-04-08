@@ -20,11 +20,11 @@ Teacher performance management processes can be viewed as part of a growth minds
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers and educators at all levels, particularly those seeking to improve their teaching practices or develop new skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve teaching practices, promote professional growth, and create a culture of continuous improvement in schools by providing timely, actionable, and supportive feedback to teachers
 
 ### Affordances

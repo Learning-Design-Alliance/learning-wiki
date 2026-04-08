@@ -20,11 +20,11 @@ This strategy involves conducting brief, targeted conferences with each student 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and higher education students, particularly in English Language Arts.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student writing through targeted instruction, enhance understanding of rubrics, and build stronger relationships between teachers and students.
 
 ### Affordances

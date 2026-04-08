@@ -20,11 +20,11 @@ Using familiar, quiet, and repetitive fine motor and visual tasks can be a calmi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children in school settings, particularly those who are easily overwhelmed or anxious
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote relaxation, reduce overstimulation, provide a calming start to the day
 
 ### Affordances

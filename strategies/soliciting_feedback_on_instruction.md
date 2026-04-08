@@ -20,11 +20,11 @@ Instructors should encourage learners to provide feedback on their teaching. By 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All instructors, across grade levels and subject areas
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve teaching effectiveness, create a more engaging learning environment, foster collaboration, build positive relationships
 
 ### Affordances

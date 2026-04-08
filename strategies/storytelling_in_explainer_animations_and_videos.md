@@ -20,11 +20,11 @@ Combining visual elements with engaging narratives to capture the learners' atte
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who benefit from visual and auditory learning
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance engagement, connect learning to real-world experiences, improve information retention
 
 ### Affordances

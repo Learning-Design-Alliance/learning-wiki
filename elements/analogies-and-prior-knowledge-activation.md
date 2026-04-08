@@ -18,11 +18,11 @@ Uses comparisons to familiar concepts to support understanding.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for abstract or technical subjects requiring deeper understanding.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate comprehension and knowledge transfer.
 
 ### Affordances

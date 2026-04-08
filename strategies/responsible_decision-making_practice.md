@@ -20,11 +20,11 @@ Learners engage in problem-solving scenarios in pairs or small groups, connectin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners and adult learners in social skills development programs.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Apply responsible decision-making skills in real-life scenarios, enhance collaborative problem-solving, and promote self-reflection.
 
 ### Affordances

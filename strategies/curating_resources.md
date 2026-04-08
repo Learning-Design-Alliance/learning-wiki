@@ -20,11 +20,11 @@ Curating involves selecting and arranging readings, videos, and other resources 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who benefit from structured and organized content
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Scaffold learning, provide relevant resources, facilitate deeper understanding of concepts
 
 ### Affordances

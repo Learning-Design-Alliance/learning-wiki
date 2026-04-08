@@ -20,11 +20,11 @@ Creating spaces that are colorful, special vents controlled air flow, and having
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve engagement, improve productivity, reduce stress
 
 ### Affordances

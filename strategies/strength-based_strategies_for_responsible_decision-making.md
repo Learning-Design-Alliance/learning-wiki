@@ -20,11 +20,11 @@ Educators identify students' strengths related to responsible decision-making an
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages who need support in developing responsible decision-making skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve students' responsible decision-making skills by leveraging their strengths, promote ethical behavior, enhance problem-solving abilities, and foster self-reflection.
 
 ### Affordances

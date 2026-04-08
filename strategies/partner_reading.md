@@ -20,11 +20,11 @@ Partner reading is a cooperative learning strategy in which two learners work to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners of varying reading skill levels, including second language learners and learners with learning disabilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading fluency, enhance comprehension, provide corrective feedback, model fluent reading, practice reading with expression
 
 ### Affordances

@@ -20,11 +20,11 @@ Becoming aware of your negative thoughts and actively working to eliminate them.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for individuals prone to negative thinking, self-criticism, or rumination.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase awareness of negative thoughts, reduce frequency of negative self-talk, challenge validity of negative thoughts, replace negative thoughts with positive or neutral ones.
 
 ### Affordances

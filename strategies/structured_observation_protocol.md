@@ -20,11 +20,11 @@ A structured observation protocol involves using a template or guide to record f
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, school leaders, and administrators seeking to gather objective data and insights into student experiences and school environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Record factual details without bias, identify areas needing attention, reflect on insights gained, and gather perceptions from various stakeholders.
 
 ### Affordances

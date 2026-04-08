@@ -18,11 +18,11 @@ Learners construct and refine their stance on an issue through evidence-based re
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for law, debate, ethics, and political science.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance reasoning, rhetoric, and persuasive skills.
 
 ### Affordances

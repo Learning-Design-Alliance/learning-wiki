@@ -20,11 +20,11 @@ Providing a personal video introduction at the start of the course allows studen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Online learners of all levels, particularly those needing a strong connection with their instructor
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Establish teaching presence, encourage positive student perceptions, and improve student engagement at the beginning of the course.
 
 ### Affordances

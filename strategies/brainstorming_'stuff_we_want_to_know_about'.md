@@ -20,11 +20,11 @@ Learners and instructors co-create an ongoing list of topics of interest and que
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner motivation, foster curiosity, promote inquiry-based learning, connect learning to student interests
 
 ### Affordances

@@ -20,11 +20,11 @@ Allowing or requiring retakes emphasizes a growth mindset and reinforces perseve
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote growth mindset, reinforce perseverance, encourage learning from mistakes
 
 ### Affordances

@@ -20,11 +20,11 @@ Tools that help students identify and focus on the most important information by
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who struggle with organization, attention, or processing information
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus and attention, enhance information retention, reduce cognitive load, support organization and prioritization
 
 ### Affordances

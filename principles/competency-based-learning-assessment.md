@@ -64,7 +64,7 @@ Competency-based learning and assessment organize progress around demonstrated m
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
 - Performance checklists and rubric-based demonstrations in technical training, clinical education, and workplace certification
-- [[strategies/standards-/mastery-based_grading|Standards-/Mastery-Based Grading]] — classroom grading organized around demonstrated standards
+- [[strategies/standards-based_grading|Standards-/Mastery-Based Grading]] — classroom grading organized around demonstrated standards
 - [[strategies/grade_students_based_on_demonstrated_learning|Grade Students Based on Demonstrated Learning]] — evaluation based on evidence rather than averages or behavior proxies
 - Applied projects, simulations, and observed performances are stronger competency evidence than multiple-choice recall alone
 

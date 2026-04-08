@@ -20,11 +20,11 @@ A small-group discussion strategy that gives learners exposure to more of their 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for secondary and higher education learners, particularly effective for discussing complex issues and synthesizing information
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active participation, expose learners to diverse perspectives, encourage deeper understanding of complex topics, enhance communication and collaboration skills
 
 ### Affordances

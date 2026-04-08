@@ -20,11 +20,11 @@ Implementing a Multi-Tiered System of Supports (MTSS) for literacy instruction i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve literacy skills
 
 ### Affordances

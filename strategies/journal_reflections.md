@@ -20,11 +20,11 @@ Students think back on their experiences and outcomes to gain a greater understa
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school students, as well as adult learners, who want to develop self-awareness and improve their ability to manage their emotions and behaviors.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-awareness, identify patterns in behavior, improve goal-setting skills
 
 ### Affordances

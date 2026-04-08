@@ -20,11 +20,11 @@ Interest inventories are surveys used to assess students' areas of interest. The
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, adaptable for various content areas and learning objectives.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify student interests, create interest-based groups, increase motivation, connect learning to personal interests
 
 ### Affordances

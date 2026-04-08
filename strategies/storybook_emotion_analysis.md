@@ -20,11 +20,11 @@ This strategy involves using storybooks to explore and discuss the emotions of c
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children in early childhood and primary school settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional recognition; promote understanding of emotions in context; develop empathy and perspective-taking skills
 
 ### Affordances

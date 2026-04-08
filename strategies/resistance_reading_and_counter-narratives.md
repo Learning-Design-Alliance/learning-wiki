@@ -20,11 +20,11 @@ Resistance reading and writing counter-narratives are strategies to develop lear
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - 6-12 grade learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop the skill to critique a text, image, or other media. Enable students to respond in writing, sharing concerns and critiques. Encourage questioning and pushing back on information or stories.
 
 ### Affordances

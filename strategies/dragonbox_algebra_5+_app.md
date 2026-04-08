@@ -20,11 +20,11 @@ Help kids develop their problem-solving and algebra skills with different levels
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Kids ages 5-8 and 12+.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving and algebra skills.
 
 ### Affordances

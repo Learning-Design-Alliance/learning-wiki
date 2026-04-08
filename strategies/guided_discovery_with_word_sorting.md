@@ -20,11 +20,11 @@ Use guided discovery with word sorting and teacher questioning to help students 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grade 2 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop understanding of spelling patterns, improve spelling skills, enhance critical thinking
 
 ### Affordances

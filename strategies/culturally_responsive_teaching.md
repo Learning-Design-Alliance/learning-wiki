@@ -20,11 +20,11 @@ Culturally responsive teaching involves engaging students in the learning proces
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators of all backgrounds
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote equity, foster a sense of belonging, reduce bias, build cognitive and emotional capacity
 
 ### Affordances

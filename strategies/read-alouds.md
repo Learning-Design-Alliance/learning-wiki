@@ -20,11 +20,11 @@ Read-alouds involve an educator reading a text aloud to learners, often pausing 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Beginning readers and writers, including K-12 learners and potentially adult learners with emerging literacy skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance narrative skills, connect text elements to background knowledge, build vocabulary, develop understandings of story structures, support developing connections between print elements, encourage high levels of understanding, teach the reading process in a meaningful context, model fluency, motivate learners to read, extend worldview and develop critical thinking skills.
 
 ### Affordances

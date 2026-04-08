@@ -20,11 +20,11 @@ Direct Phonics instruction connects letters to sounds to decode and comprehend t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners who struggle with foundational reading skills, including decoding and phonemic awareness; also applicable to K-12 learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve decoding skills, enhance phonemic awareness, strengthen reading comprehension
 
 ### Affordances

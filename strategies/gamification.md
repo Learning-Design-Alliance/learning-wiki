@@ -20,11 +20,11 @@ Gamification is the integration of game elements like point systems, leaderboard
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially those familiar with digital games (e.g., Gen Z)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase engagement, sustain motivation, reward task completion, track progress, foster comradery or competition
 
 ### Affordances

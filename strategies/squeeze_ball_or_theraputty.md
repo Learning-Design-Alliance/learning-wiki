@@ -20,11 +20,11 @@ Providing a squeeze ball or Theraputty offers a tactile outlet for students to m
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly useful for students with ADHD or those who benefit from sensory tools.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide a physical outlet for frustration and agitation, redirect physical energy, and promote emotional self-regulation.
 
 ### Affordances

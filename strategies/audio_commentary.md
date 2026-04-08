@@ -20,11 +20,11 @@ Audio commentary involves instructors and learners using audio recordings to pro
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Higher education, adult learners, and professional development programs where personalized feedback is beneficial.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide personalized feedback, enhance communication through tone and inflection, and improve learner engagement.
 
 ### Affordances

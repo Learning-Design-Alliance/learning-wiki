@@ -20,11 +20,11 @@ Taking short, scheduled breaks from technology during study periods reduces the 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who tend to multitask with technology during study or work periods
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce distractions, improve focus, and enhance cognitive performance during learning activities
 
 ### Affordances

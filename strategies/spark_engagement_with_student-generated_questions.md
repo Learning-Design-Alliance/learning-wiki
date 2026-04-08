@@ -20,11 +20,11 @@ Students formulate questions and investigate topics they are curious about or co
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners, particularly beneficial for students of color who may experience disempowerment in traditional educational settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement and motivation, foster ownership of learning, encourage critical thinking, address student interests and needs.
 
 ### Affordances

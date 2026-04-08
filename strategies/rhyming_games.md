@@ -20,11 +20,11 @@ Rhyming games involve activities that focus on identifying and creating rhyming 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early childhood education (Pre-K to 2nd grade), learners who need phonological awareness support, and English language learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve phonological awareness, enhance reading skills, develop spelling skills, promote word recognition, and reinforce letter-sound correspondence
 
 ### Affordances

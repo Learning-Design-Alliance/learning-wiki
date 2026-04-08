@@ -20,11 +20,11 @@ Engage learners in hands-on, exploratory science activities that encourage quest
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for elementary and middle school students, as well as adult learners in science-based programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop scientific inquiry skills, foster creativity and innovation, enhance understanding of scientific concepts, promote hands-on learning and exploration
 
 ### Affordances

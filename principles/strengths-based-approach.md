@@ -1,97 +1,70 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Strengths-based Approach
 
 ## Description
-A strengths-based approach is one where educators intentionally identify, communicate, and harness learners' assets to empower them to flourish. Educators should consider strengths from academic and other domains, including strong collaboration, creative thinking, problem solving, communicating, and other skills critical for success. This practice can be particularly beneficial for learners with learning disabilities whose strengths are often overlooked due to focusing on particular challenges. Strengths can be identified through both formal assessments and informal activities, such as reflective prompts or conferences. Educators can provide strengths-based feedback by asking probing questions to determine the skills and knowledge that learners already have. This practice encourages a mindset of leveraging strengths in order to solve problems or overcome challenges.
+A strengths-based approach starts from the assumption that learners bring assets, knowledge, strategies, identities, and capabilities that instruction should recognize and build on. Rather than organizing teaching primarily around deficits, it looks for what learners can already do, what conditions help them succeed, and how those strengths can be leveraged to address new challenges. This does not mean ignoring real barriers. It means refusing to define learners only by gaps.
+
+In practice, a strengths-based approach changes how instructors frame feedback, design participation, interpret prior experience, and assign responsibility. Learners are more likely to persist when they see themselves as capable contributors whose existing resources matter. The approach is especially important in contexts where learners have been historically pathologized, underestimated, or reduced to labels.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **Deliberate asset identification**: Instructors need routines for noticing academic, social, cultural, linguistic, and practical strengths.
+- **Feedback that names competence**: Strengths need to be communicated concretely, not only assumed privately.
+- **Instructional use of strengths**: Identified assets should shape grouping, roles, task entry points, and support plans.
+- **Respect for learner identity and experience**: Strengths-based work depends on genuine attention to learners' histories and communities.
 #### Constraints
-- <!-- TODO -->
+- **Superficial positivity**: Generic praise is not the same as a strengths-based approach.
+- **Ignoring barriers**: An asset lens should not erase disability, trauma, structural inequality, or needed support.
+- **Static labeling**: Strengths should be treated as resources to develop, not boxes that trap learners in narrow roles.
+- **Mismatched assumptions**: Instructors can misidentify strengths if they do not listen carefully to how learners actually work and contribute.
 
 ### Target Learners
-- Learner Background:
-Physical Well-being
-Adverse Experiences
-Hearing
-Primary Language
-Social Supports
-Sleep
-Safety
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Motivation
-Learner Mindset
-Sense of Belonging
-Stereotype Threat
-Social Awareness & Relationship Skills
-
-Language and Literacy:
-Disciplinary Literacy
-Composition
-Foundational Reading Skills
-Background Knowledge
-Digital Literacy
-Oral Communication Skills
-Problem Solving
+- **Learners whose prior schooling emphasized deficits**: Reframing ability can rebuild trust and participation.
+- **Learners with disabilities or interrupted education**: Strengths-based design helps surface capacities often hidden by standard measures.
+- **Multilingual and culturally diverse learners**: Prior knowledge, language practices, and community experience can become resources for learning.
+- **Adult learners transitioning into new roles**: Existing workplace and life skills can support new academic or professional demands.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Agency and self-efficacy**: Helping learners see themselves as capable and resourceful.
+- **Strategic problem solving**: Using existing strengths to approach new challenges.
+- **Engagement and persistence**: Increasing willingness to participate and stay with difficult work.
+- **Inclusive participation**: Expanding who is recognized as competent in the learning environment.
 
 ### Theory
 #### Supporting
-- [[theories/self-determination-theory-deci-ryan-expectancy-value-theory-maslows-hierarchy-of-needs|Self-Determination Theory (Deci & Ryan)
-Expectancy-Value Theory
-Maslow’s Hierarchy of Needs]]
+- Self-determination perspectives — competence, autonomy, and relatedness are strengthened when learners' capabilities are recognized.
+- Asset-based and culturally sustaining perspectives — learning improves when instruction treats learner identity and community knowledge as resources.
+- Expectancy-value perspectives — learners invest more when they believe success is possible and meaningful.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- A strengths-based approach should not become avoidance of explicit teaching or honest feedback.
+- Strengths matter most when they are linked to real task demands and growth opportunities.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Garwood, J. D., & Ampuja, A. A. (2019). Inclusion of students with learning, emotional, and behavioral disabilities through strength-based approaches. Intervention in School and Clinic, 55(1), 46-51.
-
-Hammond, W., & Zimmerman, R. (2012). A strengths-based perspective. A Report for Resiliency Initiatives, 1-18.
-
-Isserlis, J. (2008). Adults in programs for the “academically underprepared”. New Directions for Adult and Continuing Education, 2008(120), 19-26.
-
-Lindsey, R. B., Karns, M. S., Karns, M., & Myatt, K. (2010). Culturally proficient education: An asset-based response to conditions of poverty. Corwin Press.
-
-Linkins, M., Niemiec, R. M., Gillham, J., & Mayerson, D. (2015). Through the lens of strength: A framework for educating the heart. The Journal of Positive Psychology, 10(1), 64-68.
-
-Lopez, S. J., & Louis, M. C. (2009). The principles of strengths-based education. Journal of College and Character, 10(4).
-
-MacSwan, J. (2020). Academic English as standard language ideology: A renewed research agenda for asset-based language education. Language Teaching Research, 24(1), 28-36.
-
-Mobley, J. S. (2018). Appreciative inquiry in higher education: A strengths-based approach to navigating college-workforce transitions. AI Practitioner, 20(3), 33–40.
-
-Rogers, R. (2004). Storied selves: A critical discourse analysis of adult learners' literate lives. Reading Research Quarterly, 39(3), 272-305.
-
-Szarkowski, A., & Brice, P. (2018). Positive psychology in research with the deaf community: An idea whose time has come. The Journal of Deaf Studies and Deaf Education, 23(2), 111-117.
-
-Uink, B., Bennett, R., & van den Berg, C. (2021). Factors that enable Australian Aboriginal women's persistence at university: A strengths-based approach. Higher Education Research and Development, 40(1), 178–193.
-
-Yeager, K. H., & Deardorff, M. E. (2022). Strengths-based transition planning: A positive approach for students with learning disabilities. Intervention in School and Clinic, 58(1), 3-8.
-
-Zacarain, D., Alvarez-Ortiz, L., Haynes, J. (2017). Teaching to Strengths: Supporting Students Living with Trauma, Violence, and Chronic Stress. ASCD.
-
-Zimenoff, M. (2015). Change your focus, change your team: An integrated, strengths-based approach to corporate career development. Career Planning & Adult Development Journal, 31(3), 52–58.
+- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/learner-choice|Learner Choice]] — strengths-based design often creates multiple legitimate pathways into a task.
+- [[principles/foster-growth-mindset|Foster Growth Mindset]] — asset framing helps learners interpret challenge as workable rather than identity-defining.
+- [[principles/developing-your-cultural-awareness|Developing Your Cultural Awareness]] — instructors need cultural awareness to recognize strengths accurately.
+- [[principles/authentic-audiences-purposes|Authentic Audiences & Purposes]] — learners' strengths are easier to see when work resembles meaningful practice.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Strengths conference**: Instructor and learner identify effective strategies, prior experiences, and useful supports before setting goals.
+- **Role-based collaboration**: Teams distribute responsibilities based on emerging strengths while still rotating opportunities to grow.
+- **Asset-based feedback**: Instructor names what the learner already does well and connects it to the next improvement target.
+- **Experience-informed task entry**: Learners can begin with examples from work, family, language, or community knowledge.
 
 ## Key Sources
-- <!-- TODO -->
+- Garwood, J. D., & Ampuja, A. A. (2019). Inclusion of students with learning, emotional, and behavioral disabilities through strength-based approaches. *Intervention in School and Clinic, 55*(1), 46-51. [https://doi.org/10.1177/1053451219837737](https://doi.org/10.1177/1053451219837737)
+- Linkins, M., Niemiec, R. M., Gillham, J., & Mayerson, D. (2015). Through the lens of strength: A framework for educating the heart. *The Journal of Positive Psychology, 10*(1), 64-68. [https://doi.org/10.1080/17439760.2014.888581](https://doi.org/10.1080/17439760.2014.888581)
+- Lopez, S. J., & Louis, M. C. (2009). The principles of strengths-based education. *Journal of College and Character, 10*(4). [https://doi.org/10.2202/1940-1639.1041](https://doi.org/10.2202/1940-1639.1041)
+- Uink, B., Bennett, R., & van den Berg, C. (2021). Factors that enable Australian Aboriginal women's persistence at university: A strengths-based approach. *Higher Education Research & Development, 40*(1), 178-193. [https://doi.org/10.1080/07294360.2020.1735313](https://doi.org/10.1080/07294360.2020.1735313)

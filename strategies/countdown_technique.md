@@ -20,11 +20,11 @@ The countdown technique involves the teacher counting down from a number, such a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Regain student attention, reduce classroom noise, establish a sense of urgency
 
 ### Affordances

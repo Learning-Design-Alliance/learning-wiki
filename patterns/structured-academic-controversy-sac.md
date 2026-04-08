@@ -1,82 +1,102 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: David W. Johnson & Roger T. Johnson (1979)
-grain_size: Lesson, Unit
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: David W. Johnson and Roger T. Johnson
+grain_size: lesson
 ---
 
 # Structured Academic Controversy (SAC)
 
 ## Description
-A structured debate format where students are assigned different perspectives on a controversial issue, argue their assigned position, then switch sides to argue the opposing viewpoint before working together to seek common ground. SAC fosters critical thinking, perspective-taking, and collaborative problem-solving.
+Structured Academic Controversy is a discussion pattern in which learners examine a controversial issue by first preparing and advocating one side, then switching sides to argue the opposing position, and finally working toward a shared synthesis. Unlike a standard debate, the goal is not winning. The goal is disciplined perspective-taking followed by integrative judgment.
+
+SAC is particularly useful when the topic involves legitimate disagreement and learners need to understand competing viewpoints before forming a considered position. The structure slows down premature certainty and makes intellectual flexibility part of the task.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Requires structured preparation time, a clear moderation process, and balanced participation from students.
+- **A genuinely controversial question**: The issue should support reasoned disagreement and evidence-based interpretation.
+- **Preparation and evidence gathering**: Learners need time to understand and support each assigned position.
+- **Role reversal**: Switching positions is central because it forces serious engagement with the other side.
+- **A synthesis stage**: The pattern should end with common-ground building or a reasoned integrative conclusion.
 #### Constraints
-- Can be challenging for students who struggle with argumentation or feel uncomfortable debating controversial topics.
+- **Emotional intensity**: Some issues require careful framing and facilitation to keep the controversy academic rather than personal.
+- **Performance pressure**: Learners may need support if public argumentation is intimidating.
+- **False equivalence risk**: Not all issues should be framed as symmetrical controversies.
+- **Weak synthesis undermines the pattern**: If the process stops at opposition, the controversy stage dominates the learning.
 #### Grain Size
-Lesson, Unit
+- Lesson
+- Unit
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Best suited for argumentation, ethical reasoning, and decision-making skills. Works well for history, political science, ethics, law, and social sciences.
+- **Perspective-taking**: Understanding and articulating more than one position.
+- **Evidence-based argumentation**: Building and defending claims with sources and reasons.
+- **Integrative reasoning**: Moving from opposition toward more nuanced judgment.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- High school, higher education, and professional training. Especially useful for debate, law, and policy-related discussions.
+- **Learners in civics, ethics, history, policy, and social science contexts**: Strong fit where contested interpretation matters.
+- **Groups developing academic discussion discipline**: Useful when students need structure for disagreement.
+- **Learners ready to engage competing viewpoints**: Best when participants can separate critique of ideas from critique of people.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Social interdependence perspectives — cooperative structures can make intellectual conflict productive.
+- Cognitive flexibility perspectives — switching positions encourages reevaluation of prior assumptions.
+- Dialogic learning perspectives — understanding is sharpened through structured engagement with alternatives.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Not all controversial issues should be taught through adversarial framing.
+- Learners often need emotional and rhetorical supports before controversy becomes productive rather than polarizing.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-1. Students are divided into groups and assigned different perspectives on an issue.
- 2. Teams research and prepare their argument.
- 3. Groups debate their assigned position.
- 4. Teams switch sides and argue the opposing perspective.
- 5. Participants discuss key takeaways and attempt to find common ground.
+1. Divide learners into pairs or teams and assign opposing positions.
+2. Have each side gather evidence and prepare its case.
+3. Conduct the first round of presentation and response.
+4. Switch sides and repeat the process from the opposing perspective.
+5. Ask learners to synthesize areas of agreement, unresolved tension, and their best integrated judgment.
 
 ### Elements Used
-- [[elements/assigned-positions|Assigned Positions]]
-- [[elements/argument-construction|Argument Construction]]
-- [[elements/role-reversal|Role Reversal]]
-- [[elements/consensus-building|Consensus Building]]
+- [[elements/peer-discussion|Peer Discussion]]
+- [[elements/feedback|Feedback]]
+- [[elements/reflection|Reflection]]
+- [[elements/assessment|Assessment]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/social-interdependence-theory-learning-occurs-best-through-structured-collaboration|Social Interdependence Theory – Learning occurs best through structured collaboration]]
-- [[principles/perspective-taking-helps-learners-analyze-multiple-viewpoints|Perspective-Taking – Helps learners analyze multiple viewpoints]]
-- [[principles/cognitive-flexibility-encourages-re-evaluating-prior-beliefs|Cognitive Flexibility – Encourages re-evaluating prior beliefs.]]
-
+- [[principles/debate|Debate]]
+- [[principles/perspective-seekingmultiple-perspectives|Perspective-Seeking/Multiple Perspectives]]
+- [[principles/peer-discussion|Peer Discussion]]
+- [[principles/purposeful-reflection|Purposeful Reflection]]
 
 ### Personalization
-- Can be adapted for various levels by adjusting the complexity of the topics, scaffolding the research phase, or modifying debate structures.
+- Topics can be chosen to match learner maturity and domain relevance.
+- Supports can include evidence organizers, sentence stems, or smaller-group formats.
+- The final synthesis can be oral, written, or collaborative depending on the class.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/debate-format|Debate Format]]
+- [[patterns/socratic-seminar|Socratic Seminar]]
 
 ## Examples
-- - High school history: Debating the causes of historical conflicts (e.g., Civil War, World Wars). 
- - University law course: Examining constitutional arguments from opposing perspectives.
+- Civics learners examining competing policy responses and then writing a synthesis recommendation.
+- Ethics classes switching sides on a controversial dilemma before seeking common ground.
+- History learners arguing multiple interpretations of a contested event.
 
 ## Impact
-- Studies indicate improved critical thinking, perspective-taking, and argumentation skills (Johnson & Johnson, 2009). Encourages higher engagement and deeper learning compared to traditional debate formats.
+- Helps learners move beyond one-sided advocacy toward more complex understanding.
+- Strongest when the synthesis stage is treated as the instructional endpoint, not as an optional add-on.
 
 ## Key Sources
-- - Johnson, D. W., & Johnson, R. T. (2009). Energizing Learning: The Instructional Power of Conflict. Educational Researcher. 
- - Hess, D. (2009). Controversy in the Classroom: The Democratic Power of Discussion. Routledge.
+- Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37-51. [https://doi.org/10.3102/0013189X08330540](https://doi.org/10.3102/0013189X08330540)
+- Hess, D. (2009). *Controversy in the classroom: The democratic power of discussion*. Routledge.

@@ -20,11 +20,11 @@ Educators identify students' strengths related to social awareness and leverage 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages who need support in developing social awareness skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance students' social awareness, improve empathy, promote constructive communication, foster positive relationships, and reduce disciplinary problems.
 
 ### Affordances

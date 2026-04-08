@@ -20,11 +20,11 @@ Have students name their negative inner voice (e.g., Adverse Antoine, Ruthless R
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create psychological distance from negative self-talk.
 
 ### Affordances

@@ -20,11 +20,11 @@ This strategy involves educators identifying students with strengths or challeng
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly those with identified strengths or challenges in relationship skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve communication, cooperation, and conflict management skills; foster positive relationships; leverage student strengths; develop social awareness.
 
 ### Affordances

@@ -20,11 +20,11 @@ Concept maps are visual tools that help learners organize and articulate what th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in various subjects
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Organize information, enhance comprehension, and facilitate deeper understanding.
 
 ### Affordances

@@ -20,11 +20,11 @@ A method for empowering learners by focusing on their strengths rather than thei
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower learners to manage themselves, build on their assets, and recognize their unique gifts. Build confidence, foster collaboration, and create a positive learning environment.
 
 ### Affordances

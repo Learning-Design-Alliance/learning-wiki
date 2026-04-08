@@ -1,76 +1,102 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: McAndrew, Goodyear & Dalziel (2006)
-grain_size: Unit, Lesson
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: McAndrew, Goodyear, and Dalziel
+grain_size: lesson
 ---
 
 # Structured Peer Review
 
 ## Description
-A systematic process where learners provide feedback on each other’s work using predefined criteria, improving their own understanding through evaluation.
+Structured Peer Review is a pattern in which learners review one another's work using explicit criteria, provide feedback, and then use that feedback to revise. The pattern supports learning in two directions: reviewers deepen their understanding of quality by judging another's work, and authors improve by receiving feedback before final submission.
+
+The pattern works best when the review process is designed carefully. Unstructured peer review often produces vague praise or unhelpful criticism. The "structured" part is what turns the activity into instruction rather than mere exchange.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Requires a submission/review platform, clear evaluation rubrics, and guidelines for constructive feedback
+- **A reviewable artifact**: Learners need drafts, prototypes, proposals, or performances that can be evaluated meaningfully.
+- **Explicit criteria**: Rubrics, checklists, or prompting questions should guide what reviewers attend to.
+- **Training or modeling**: Learners often need examples of useful feedback before reviewing well.
+- **Revision after review**: The feedback should feed a later improvement cycle.
 #### Constraints
-- Variability in feedback quality; Requires training on giving useful feedback
+- **Feedback quality varies**: Without calibration, some reviews will be inaccurate or superficial.
+- **Social risk**: Learners may hesitate to critique peers honestly without norms and support.
+- **Rubric overdependence**: Overly narrow criteria can reduce feedback to box-checking.
+- **Weak revision follow-through**: If authors do not use the feedback, much of the learning value is lost.
 #### Grain Size
-Unit, Lesson
+- Lesson
+- Unit
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Improves analysis, revision skills, and self-reflection
+- **Revision and improvement**: Strengthening work before final evaluation.
+- **Evaluative judgment**: Helping learners internalize standards of quality.
+- **Metacognitive reflection**: Noticing patterns in both one's own work and others' work.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Students in writing-intensive, design, or project-based courses; Professional training learners
+- **Learners in writing, design, and project-based settings**: Strong fit where drafts and revision cycles are normal.
+- **Learners developing quality standards**: Reviewing others helps clarify what good work looks like.
+- **Adult and professional learners**: Useful where review and iteration are part of real practice.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Formative assessment perspectives — feedback before final judgment improves learning opportunities.
+- Social constructivist perspectives — standards and reasoning become more visible through peer exchange.
+- Reflective practice traditions — reviewing and revising work helps learners evaluate process and product.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Peer review is not automatically helpful; criteria, calibration, and revision expectations matter.
+- Some learners need more teacher moderation when domain accuracy is critical.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [[claims/self-monitoring-improves-self-regulation]] [+M]
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-1. Learners submit work 2. Peers review using set criteria 3. Feedback is provided and revisions made 4. Final reflections consolidate learning
+1. Collect learner drafts or artifacts.
+2. Introduce review criteria and model useful feedback.
+3. Have peers review the work and provide evidence-based comments.
+4. Ask authors to interpret the feedback and revise.
+5. Reflect on what was learned from both reviewing and being reviewed.
 
 ### Elements Used
-- [[elements/submission|Submission]]
-- [[elements/review|Review]]
 - [[elements/feedback|Feedback]]
-- [[elements/revision|Revision]]
+- [[elements/assessment|Assessment]]
+- [[elements/reflection|Reflection]]
+- [[elements/peer-discussion|Peer Discussion]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/active-learning|Active Learning]]
-- [[principles/formative-feedback|Formative Feedback]]
-- [[principles/metacognitive-reflection|Metacognitive Reflection]]
-
+- [[principles/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
+- [[principles/formative-assessment|Formative Assessment]]
+- [[principles/multiple-methods-of-assessment|Multiple Methods of Assessment]]
+- [[principles/process-based-writing|Process-Based Writing]]
 
 ### Personalization
-- Can include structured rubrics or open-ended feedback; Adjusted for different levels of expertise
+- Reviews can be anonymous or named depending on context and trust.
+- Criteria can be more open or more scaffolded depending on learner expertise.
+- Different artifact types can use different prompt sets while keeping the same overall review cycle.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/collaborative-evaluation|Collaborative Evaluation]]
+- [[patterns/lda-reflection|LDA Reflection]]
 
 ## Examples
-- - Reviewing research proposals in graduate seminars - Peer critique of engineering design prototypes
+- Graduate seminar proposal reviews using a shared rubric.
+- Design teams critiquing prototypes before final presentation.
+- Writing classes using peer comments to guide draft revision.
 
 ## Impact
-- Improves revision skills and critical analysis; Helps learners internalize quality standards
+- Often improves revision quality and helps learners internalize standards.
+- Strongest when review is paired with revision rather than treated as an endpoint.
 
 ## Key Sources
-- McAndrew, P., Goodyear, P., & Dalziel, J. (2006). Patterns, designs and activities: unifying descriptions of learning structures. International Journal of Learning Technology, 2(2-3), 216–242. DOI: 10.1504/IJLT.2006.010632
+- Topping, K. J. (1998). Peer assessment between students in colleges and universities. *Review of Educational Research, 68*(3), 249-276. [https://doi.org/10.3102/00346543068003249](https://doi.org/10.3102/00346543068003249)
+- Nicol, D., Thomson, A., & Breslin, C. (2014). Rethinking feedback practices in higher education: A peer review perspective. *Assessment & Evaluation in Higher Education, 39*(1), 102-122. [https://doi.org/10.1080/02602938.2013.795518](https://doi.org/10.1080/02602938.2013.795518)

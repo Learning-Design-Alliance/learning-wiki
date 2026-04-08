@@ -20,11 +20,11 @@ A belief in excellence, demonstrated by setting high expectations, is the fuel t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for students who are traditionally underserved.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a culture of excellence; set high expectations for all students; provide proper scaffolding to support student success.
 
 ### Affordances

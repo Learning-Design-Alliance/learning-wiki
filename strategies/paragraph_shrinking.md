@@ -20,11 +20,11 @@ A PALS activity focused on identifying main ideas and summarizing paragraphs. St
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 2–6, students who need to improve identifying main ideas and summarizing skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify main ideas, improve summarizing skills, develop comprehension monitoring
 
 ### Affordances

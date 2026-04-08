@@ -20,11 +20,11 @@ Speed chatting is a pre-reading activity where learners form two rows facing eac
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and proficiency levels, adaptable for various topics.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Activate prior knowledge, encourage quick and engaging interactions, prepare learners for the reading activity.
 
 ### Affordances

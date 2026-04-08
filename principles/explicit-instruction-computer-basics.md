@@ -1,7 +1,8 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Explicit Instruction: Computer Basics
@@ -13,83 +14,62 @@ In an increasingly digital world, adults who struggle with using technology can 
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- Access to the actual devices, interfaces, and accounts learners need to use in real life
+- Direct modeling of concrete operations such as logging in, opening applications, saving files, switching windows, and troubleshooting simple errors
+- Guided practice with immediate support while learners perform the steps themselves
+- Plain-language explanations of digital vocabulary and interface conventions that experienced users often take for granted
+
 #### Constraints
-- <!-- TODO -->
+- Learners can become overloaded if too many new device concepts, interface cues, and procedures are introduced at once
+- Shame, fear of failure, and stereotype threat often suppress help-seeking in basic digital-skills instruction
+- Demonstration alone is insufficient; learners need hands-on repetition on the actual tools they will later use independently
+- Generic “computer basics” lessons are weak when they are not tied to real learner goals such as job search, communication, health portals, or coursework
 
 ### Target Learners
-- Learner Background:
-Physical Well-being
-Adverse Experiences
-Hearing
-Social Supports
-Safety
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Self-regulation
-Motivation
-Stereotype Threat
-
-Cognition:
-Auditory Processing
-Attention
-Visual Processing
-Short-term Memory
-Speed of Processing
-Working Memory
-
-Language and Literacy:
-Disciplinary Literacy
-Composition
-Background Knowledge
-Digital Literacy
+- Adult learners with limited prior access to computers or low confidence using them
+- Older adults and re-entry learners who need explicit orientation to current interfaces and conventions
+- Learners whose goals depend on basic digital participation, including email, search, file handling, and online forms
+- Learners who benefit from low-stakes guided practice before moving into independent digital tasks
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- Build fluency with foundational device and interface operations
+- Reduce anxiety and increase willingness to explore digital tools
+- Support access to higher-order digital tasks by stabilizing the basics first
+- Enable participation in online learning, communication, and information-seeking tasks
 
 ### Theory
 #### Supporting
-- [[theories/gagnes-conditions-of-learning-knowles-andragogy-information-processing-theory-gagnes-conditions-of-learning|Gagne’s Conditions of Learning
-Knowles’ Andragogy
-Information Processing Theory
-Gagne’s Conditions of Learning]]
+- Information-processing perspectives support highly explicit, sequenced demonstration for basic digital routines
+- Adult-learning perspectives support instruction that is goal-relevant, respectful, and immediately useful to real tasks
+- [[theories/cognitive-load-theory|Cognitive Load Theory]] supports reducing interface complexity and introducing procedures in manageable chunks
+- Gagne-style sequencing fits well because learners often need demonstration, guided practice, and immediate feedback for foundational technical skills
+
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Learners still need opportunities to explore and adapt once basic procedures are secure; permanent over-direction can block transfer
+- One-to-one or small-group support is often more effective than mass instruction because breakdown points vary widely across learners
+- Support should gradually shift from full demonstration toward independent use on real tasks [[claims/fading-support-promotes-transfer-of-responsibility]] [~S]
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Campbell, R. J., & Wabby, J. (2003). The elderly and the Internet: A case study. The Internet Journal of Health, 3(1), 1-9.​
-
-Chaffin, A. J., & Harlow, S. D. (2005). Cognitive learning applied to older adult learners and technology. Educational Gerontology, 31(4), 301-329.​
-
-Delello, J. A., & McWhorter, R. R. (2017). Reducing the digital divide: Connecting older adults to iPad technology. Journal of Applied Gerontology, 36(1), 3-28.​
-
-De Palo, V., Limone, P., Monacis, L., Ceglie, F., & Sinatra, M. (2018). Enhancing e-learning in old age. Australian Journal of Adult Learning, 58(1), 88-109.​
-
-Dickinson, A., Eisma, R., & Gregor, P. (2011). The barriers that older novices encounter to computer use. Universal Access in the Information Society, 10(3), 261-266.​
-
-Laganà, L. (2008). Enhancing the attitudes and self-efficacy of older adults toward computers and the internet: Results of a pilot study. Educational Gerontology, 34(9), 831-843.​
-
-McNaughton, D., Hughes, C., & Clark, K. (1997). The effect of five proofreading conditions on the spelling performance of college students with learning disabilities. Journal of Learning Disabilities, 30, 643–651.​
-lvp.digitalpromiseglobal.org
-
-McShane, S. (2006). Applying research in reading instruction for adults: First steps for teachers. Washington: National Center for Family Literacy.​
-lvp.digitalpromiseglobal.org
-
-Sandhu, J., Damodaran, L., & Ramondt, L. (2013). ICT skills acquisition by older people: Motivations for learning and barriers to progression. International Journal of Education and Ageing, 3(1), 25-42.​
-
-Seo, H., Erba, J., Altschwager, D., & Geana, M. (2019). Evidence-based digital literacy class for older, low-income African-American adults. Journal of Applied Communication Research, 47(2), 130-152.​
-
-Tsai, H. Y. S., Shillair, R., & Cotten, S. R. (2017). Social support and “playing around” an examination of how older adults acquire digital literacy with tablet computers. Journal of Applied Gerontology, 36(1), 29-55.
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — novice technology users benefit from explicit “how to do it” routines before being asked to complete independent outcomes
+- [[claims/chunking-reduces-working-memory-load]] [+S] — basic computer procedures should be broken into manageable steps to reduce overload
+- [[claims/contingent-scaffolding-improves-learning]] [+M] — responsive support during hands-on practice is more effective than generic explanation alone
+- [[claims/fading-support-promotes-transfer-of-responsibility]] [~S] — support should be withdrawn gradually as learners begin to navigate devices independently
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/clear-structure-presentation|Clear Structure & Presentation]] — digital-skills instruction benefits from visible step structure and stable conventions
+- [[principles/accessible-vocabulary-syntax|Accessible Vocabulary & Syntax]] — interface language and technology jargon often need explicit unpacking
+- [[principles/explicit-instruction-internet-search|Explicit Instruction: Internet Search]] — search instruction depends on a foundation of basic device and browser competence
+- [[principles/scaffolding-and-fading|Scaffolding and Fading]] — support should narrow as competence develops
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- [[strategies/address_digital_literacy|Address Digital Literacy]] — introduces basic digital tools and terminology explicitly
+- Browser and email onboarding with modeled steps, guided repetition, and immediate troubleshooting
+- File-management mini-lessons tied to real tasks such as uploading assignments or attaching documents
+- Small-group digital-skills labs where learners practice the same routine repeatedly with support nearby
 
 ## Key Sources
-- <!-- TODO -->
+- Chaffin, A. J., & Harlow, S. D. (2005). Cognitive learning applied to older adult learners and technology. *Educational Gerontology, 31*(4), 301-329. [doi:10.1080/03601270590916803](https://doi.org/10.1080/03601270590916803)
+- Dickinson, A., Eisma, R., & Gregor, P. (2011). The barriers that older novices encounter to computer use. *Universal Access in the Information Society, 10*(3), 261-266. [doi:10.1007/s10209-010-0208-6](https://doi.org/10.1007/s10209-010-0208-6)
+- Seo, H., Erba, J., Altschwager, D., & Geana, M. (2019). Evidence-based digital literacy class for older, low-income African-American adults. *Journal of Applied Communication Research, 47*(2), 130-152. [doi:10.1080/00909882.2019.1587176](https://doi.org/10.1080/00909882.2019.1587176)
+- Tsai, H. Y. S., Shillair, R., & Cotten, S. R. (2017). Social support and “playing around.” *Journal of Applied Gerontology, 36*(1), 29-55. [doi:10.1177/0733464815609440](https://doi.org/10.1177/0733464815609440)

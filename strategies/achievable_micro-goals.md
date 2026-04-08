@@ -20,11 +20,11 @@ Setting achievable micro-goals encourages consistent, incremental progress, lead
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who are easily discouraged or overwhelmed by large tasks
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase confidence, promote a growth mindset, foster incremental progress, and improve motivation
 
 ### Affordances

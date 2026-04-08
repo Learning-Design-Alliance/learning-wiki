@@ -20,11 +20,11 @@ Teach learners how to select appropriate independent reading books, care for the
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Equip students with the skills to select appropriate books, manage reading materials, document reading progress, and engage in sharing sessions.
 
 ### Affordances

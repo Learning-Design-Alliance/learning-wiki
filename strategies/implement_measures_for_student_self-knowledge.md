@@ -20,11 +20,11 @@ Implementing measures for student self-knowledge involves using various tools an
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students in grades 3 to 8, but adaptable for other age groups.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance students' self-awareness, improve their ability to identify their learning needs, and promote self-advocacy and ownership of their learning.
 
 ### Affordances

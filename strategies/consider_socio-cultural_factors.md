@@ -20,11 +20,11 @@ Acknowledge that access to technology and digital literacy can vary based on soc
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners from diverse socio-economic and cultural backgrounds.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce digital divide, promote equitable access to technology, provide culturally relevant learning materials
 
 ### Affordances

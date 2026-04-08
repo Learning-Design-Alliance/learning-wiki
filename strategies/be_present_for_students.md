@@ -20,11 +20,11 @@ When students talk openly about race, they can feel some anxiety. It's essential
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and backgrounds
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide emotional support to students, promote open communication, and address anxiety related to discussions about race
 
 ### Affordances

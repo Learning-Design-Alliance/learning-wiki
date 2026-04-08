@@ -20,11 +20,11 @@ Teachers can enhance curriculum and instructional practices by finding ways for 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All teachers, especially those with diverse student populations
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Connect content to student lives, enrich instruction, increase engagement, and foster cultural understanding.
 
 ### Affordances

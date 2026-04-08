@@ -20,11 +20,11 @@ Helps kids learn to use numbers and master them in a visual way, offering moveab
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Kids at the elementary level.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learn to use numbers and master them visually, focusing on addition and subtraction.
 
 ### Affordances

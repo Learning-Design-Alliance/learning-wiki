@@ -20,11 +20,11 @@ Practice attentive behavior during non-crucial times during the school day. At p
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with attention, especially children
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Train attention, increase self-awareness of attention lapses, improve focus
 
 ### Affordances

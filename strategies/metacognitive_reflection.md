@@ -20,11 +20,11 @@ This strategy focuses on learners' awareness of their thought processes as they 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those needing to develop problem-solving skills and resilience.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-improvement skills, enhance resilience, foster metacognitive awareness, promote application of learning to future work.
 
 ### Affordances

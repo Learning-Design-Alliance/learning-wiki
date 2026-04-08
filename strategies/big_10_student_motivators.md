@@ -20,11 +20,11 @@ Ten research-backed strategies that encourage playful learning, innovative think
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary, middle, and high school students; adaptable for various educational settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote playful learning, enhance innovative thinking and problem-solving skills, increase student engagement in core subjects, foster collaboration and communication
 
 ### Affordances

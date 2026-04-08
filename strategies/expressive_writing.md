@@ -20,11 +20,11 @@ Expressive writing involves putting thoughts and feelings into words, often focu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners experiencing test anxiety, stereotype threat, or general stress related to academic performance
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce stress, improve emotional regulation, free up working memory, enhance academic performance, reduce math anxiety and mitigate stereotype threat
 
 ### Affordances

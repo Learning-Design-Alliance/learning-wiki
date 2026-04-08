@@ -20,11 +20,11 @@ Get used to regularly consulting fact-checking sites. These three nonpartisan si
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - General audience
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teach learners to use fact-checking sites to verify the truth of claims and check the authenticity of images.
 
 ### Affordances

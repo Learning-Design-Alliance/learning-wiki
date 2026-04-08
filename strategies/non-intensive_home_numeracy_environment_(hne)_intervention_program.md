@@ -20,11 +20,11 @@ Teachers can provide families information and suggestions for providing students
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages, families, teachers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement with math, improve arithmetic fact retrieval, strengthen home-school connection
 
 ### Affordances

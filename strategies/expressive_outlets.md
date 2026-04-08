@@ -20,11 +20,11 @@ This strategy encourages learners to express their emotions through journaling, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children, adolescents, and adults in various settings (school, home, therapy)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote emotional expression; facilitate self-reflection; reduce anxiety and stress; enhance problem-solving skills
 
 ### Affordances

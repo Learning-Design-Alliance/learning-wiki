@@ -20,11 +20,11 @@ This strategy focuses on understanding and addressing the differences between in
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary to higher education learners, particularly those from collectivistic backgrounds in individualistic school settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster understanding and respect for diverse cultural values, reduce cultural conflicts, enhance classroom harmony
 
 ### Affordances

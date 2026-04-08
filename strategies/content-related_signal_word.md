@@ -20,11 +20,11 @@ Using a content "word of the week" to signal that it’s time for silence. Examp
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Late elementary and middle grade students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce vocabulary while efficiently signaling the need for silence.
 
 ### Affordances

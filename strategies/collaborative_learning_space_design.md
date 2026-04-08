@@ -20,11 +20,11 @@ Creating collaborative learning spaces involves intentionally designing classroo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, higher education, adult learners in various educational and training settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster collaboration, improve communication skills, enhance community participation, create flexible learning environments, support diverse learning styles
 
 ### Affordances

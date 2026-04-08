@@ -20,11 +20,11 @@ Encourage students to go beyond surface-level analysis and consider how sentence
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for promoting critical thinking and analytical skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance critical thinking skills, promote deeper understanding of text, develop the ability to analyze complex relationships between elements of writing, encourage thoughtful reflection
 
 ### Affordances

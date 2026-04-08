@@ -20,11 +20,11 @@ Instructional designers create tools that work across any platform, avoiding bia
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners with varying levels of technological familiarity, particularly those with limited access to specific platforms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure accessibility of learning materials across different technology platforms, reduce technological barriers for adult learners
 
 ### Affordances

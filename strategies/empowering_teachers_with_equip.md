@@ -20,11 +20,11 @@ EQUIP is a customizable observation tool designed to track patterns in student p
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers and educators aiming to create equitable classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote equitable classroom practices, track student participation, improve teacher practice, analyze trends in data
 
 ### Affordances

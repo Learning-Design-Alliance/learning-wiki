@@ -20,11 +20,11 @@ Students use the "Document outline" tool in Google Docs to extract evidence supp
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and college students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Organize information, identify supporting evidence, facilitate writing initiation, and enhance reading comprehension.
 
 ### Affordances

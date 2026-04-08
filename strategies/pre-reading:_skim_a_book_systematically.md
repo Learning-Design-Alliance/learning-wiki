@@ -20,11 +20,11 @@ Skimming or pre-reading a book involves a systematic approach to discover whethe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for students and adult learners who need to assess the relevance and depth of a book before committing to a full read.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Determine whether a book requires more careful reading, obtain a general sense of its structure, and estimate the range of topics covered.
 
 ### Affordances

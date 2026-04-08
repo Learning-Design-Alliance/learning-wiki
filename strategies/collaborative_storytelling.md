@@ -20,11 +20,11 @@ Learners work in pairs to create a story by responding to guiding questions. Fir
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary through high school students, particularly beneficial for English language learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop narrative writing skills, encourage active participation, enhance collaboration, foster creativity and imagination
 
 ### Affordances

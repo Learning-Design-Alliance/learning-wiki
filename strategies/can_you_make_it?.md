@@ -20,11 +20,11 @@ Learners draw a dot card and recreate the arrangement on a large, blank dot card
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Pre-K to 1st Grade learners who are beginning to learn subitizing.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop number sense, recognize quantity arrangements, improve counting skills
 
 ### Affordances

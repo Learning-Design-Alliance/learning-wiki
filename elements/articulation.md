@@ -18,11 +18,11 @@ Learners verbalize their thought processes and reasoning.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for STEM, business, and humanities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen metacognition and conceptual clarity.
 
 ### Affordances

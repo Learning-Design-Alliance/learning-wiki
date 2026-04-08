@@ -20,11 +20,11 @@ Leaderboards showcase the distribution of point totals that learners have accumu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, with caution for those sensitive to competition
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Motivate learners through competition. Provide visual representation of progress. Encourage engagement with learning activities.
 
 ### Affordances

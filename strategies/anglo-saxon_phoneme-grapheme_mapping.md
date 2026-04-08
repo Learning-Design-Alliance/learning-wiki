@@ -20,11 +20,11 @@ Spelling by explicit phoneme-grapheme mapping requires the learner to match the 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - First-grade students, second- and third-grade students who missed the fundamentals in the earlier grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling skills, enhance reading fluency, develop phoneme-grapheme awareness
 
 ### Affordances

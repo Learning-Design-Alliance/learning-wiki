@@ -20,11 +20,11 @@ This approach involves integrating vocabulary instruction directly with texts to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, from elementary to high school, and can be adapted for adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve vocabulary acquisition, enhance reading comprehension, and deepen understanding of textual content.
 
 ### Affordances

@@ -20,11 +20,11 @@ Creating positive scripts involves regularly constructing and narrating upliftin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for individuals prone to negative thought patterns, self-doubt, or lack of motivation.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Replace negative thoughts with positive narratives, internalize goals and dreams, enhance motivation, foster a sense of accomplishment, promote positive visualization.
 
 ### Affordances

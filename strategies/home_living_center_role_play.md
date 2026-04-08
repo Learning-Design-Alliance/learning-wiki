@@ -20,11 +20,11 @@ Learners visit the home living center to role play different characters and rela
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All age groups, including early childhood, elementary, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional expression, improve perspective-taking skills, promote empathetic understanding
 
 ### Affordances

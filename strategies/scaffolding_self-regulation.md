@@ -20,11 +20,11 @@ Scaffolding can help students learn how to manage their responses in an emotiona
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 and post-secondary students, especially those with learning disabilities or other challenges
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Manage emotional responses, create emotionally safe learning, provide scaffolding
 
 ### Affordances

@@ -20,11 +20,11 @@ Using physical or digital manipulatives to combine simple sentences, thereby red
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for learners who struggle with sentence structure and syntax.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve syntax knowledge, reduce working memory load, support sentence construction skills
 
 ### Affordances

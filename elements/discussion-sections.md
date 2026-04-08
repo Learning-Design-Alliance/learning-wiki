@@ -18,11 +18,11 @@ Smaller, instructor- or TA-led sessions where learners analyze and discuss cours
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for university-level courses, humanities, and seminar-based learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote critical thinking, debate, and deep engagement with concepts.
 
 ### Affordances

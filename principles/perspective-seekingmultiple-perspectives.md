@@ -1,96 +1,69 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Perspective Seeking/Multiple Perspectives
 
 ## Description
-Perspective seeking is different from perspective taking as it involves communication with the purpose of gaining insight into the nuances of alternate views. Perspective seeking is key to developing a Learner Mindset and essential in the digital world where algorithms are easily trained to provide information that confirms a person's views rather than providing alternative perspectives. Understanding that different individuals may experience and view the same event differently is a higher-level cognitive skill that develops in adolescence and throughout adulthood. When adult learners navigate varying perspectives, they deepen their understanding of events and the concepts involved. This can strengthen Foundational Reading Skills and support learning for those whose Primary Language is not English.
+Perspective seeking is the instructional principle of actively engaging with multiple viewpoints in order to better understand a topic, event, text, or problem. It differs from simple exposure because learners are asked to investigate how and why different people interpret the same issue differently. In educational settings, this can strengthen reasoning, critical reading, dialogue, and humility by showing that understanding often improves when learners compare interpretations instead of remaining inside a single frame.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **Access to genuinely different viewpoints**: Learners need texts, cases, voices, or participants that represent meaningful variation in perspective.
+- **A comparison task**: Learners should analyze how viewpoints differ, not just list that difference exists.
+- **Discussion and reflection structure**: Prompts, norms, and synthesis routines help learners compare perspectives productively.
+- **A topic worth interpreting**: Perspective seeking is strongest when the issue involves judgment, values, identity, or competing explanations.
 #### Constraints
-- <!-- TODO -->
+- **Tokenized difference**: Superficial inclusion of one contrasting view can flatten complexity instead of expanding it.
+- **False balance**: Not every issue requires treating all positions as equally supported or equally ethical.
+- **Identity strain**: Some learners may experience perspective work as invalidating if harmful or dehumanizing viewpoints are mishandled.
+- **Cognitive overload**: Too many perspectives at once can confuse learners if they lack structure for comparison.
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Primary Language
-Safety
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Motivation
-Learner Mindset
-Sense of Belonging
-Social Awareness & Relationship Skills
-
-Cognition:
-Cognitive Flexibility
-Attention
-Long-term Memory
-Reasoning
-Metacognition
-
-Language and Literacy:
-Disciplinary Literacy
-Foundational Reading Skills
-Background Knowledge
-Oral Communication Skills
-Problem Solving
+- **Learners developing critical reading and reasoning**: Strong fit when the goal is to interpret texts, cases, or claims more deeply.
+- **Learners in civic, historical, ethical, or social inquiry contexts**: Perspective seeking is especially useful where interpretation and disagreement matter.
+- **Learners building social understanding across difference**: Useful for dialogue, collaboration, and empathy-building.
+- **Multilingual and diverse learning groups**: Comparing perspectives can widen access to meaning when multiple voices and experiences are present.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Comparative interpretation**: Understanding how different people frame the same issue.
+- **Critical reasoning**: Weighing evidence, assumptions, and implications across perspectives.
+- **Intellectual humility**: Reducing certainty that one's initial interpretation is the only reasonable one.
+- **Dialogue across difference**: Building capacity to engage with disagreement without collapsing into avoidance or defensiveness.
 
 ### Theory
 #### Supporting
-- [[theories/constructivism-piaget|Constructivism (Piaget]]
-- [[theories/bruner|Bruner]]
-- [[theories/vygotsky-social-learning-theory-bandura-gestalt-learning-theory-mezirows-transformative-learning-theory|Vygotsky)
-Social Learning Theory (Bandura)
-Gestalt Learning Theory
-Mezirow's Transformative Learning Theory]]
+- Constructivist views of learning — understanding deepens as learners actively interpret and reorganize meaning.
+- Social learning and social constructivist perspectives — interaction with others' reasoning supports new learning.
+- Transformative learning traditions — encountering other perspectives can challenge assumptions and reframe interpretation.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Perspective seeking is not the same as requiring learners to validate harmful views.
+- More perspectives are not automatically better; quality, relevance, and ethical framing matter.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Brookfield, S. D. (1997). Assessing critical thinking. New Directions for Adult and Continuing Education, 1997(75), 17-29.
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
+- [[claims/self-monitoring-improves-self-regulation]] [~M]
 
-Catapano, R., Tormala, Z., & Rucker, D. (2019). Perspective taking and self-persuasion: Why “putting yourself in their shoes” reduces openness to attitude change. Psychological Science, 30(3).
-
-Diep, A. N., Zhu, C., Cocquyt, C., Greef, M. D., Vo, M. H., & Vanwing, T. (2019). Adult learners' needs in online and blended learning. Australian Journal of Adult Learning, 59(2), 223–253.
-
-Eyal, T., Steffel, M., & Epley, N. (2018). Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective. Journal of Personality and Social Psychology, 114(4), 547–571
-
-Grant, A. (2021). Think Again. Penguin Random House.
-
-Immordino-Yang, M.H., Darling-Hammond, L., & Krone, C.R. (2018). The Brain Basis for Integrated Social, Emotional, and Academic Development: How Emotions and Social Relationships Drive Learning.
-
-Janakiraman, S., Watson, S. L., & Watson, W. R. (2018). Adult learners use of self-directed learning strategies in a massive open online course. Journal of Ethnographic & Qualitative Research, 13(2).
-
-LaRusso, M., Kim, H. Y., Selman, R., Uccelli, P., Dawson, T., Jones, S., Donovan, S., & Snow, C. (2016). Contributions of academic language, perspective taking, and complex reasoning to deep reading comprehension. Journal of Research on Educational Effectiveness, 9(2), 201–222.
-
-Mezirow, J. (1997). Transformative learning: Theory to practice. New Directions for Adult and Continuing Education, 1997(74), 5-12.
-
-Ojala, M. (2012). Regulating worry, promoting hope: How do children, adolescents, and young adults cope with climate change?. International Journal of Environmental and Science Education, 7(4), 537-561.
-
-Pica, T. (1996). Second language learning through interaction: Multiple perspectives. Working Papers in Educational Linguistics, 12(1), 1-22.
-
-Rodger, D., & Stewart-Lord, A. (2020). Students' perceptions of debating as a learning strategy: A qualitative study. Nurse Education in Practice, 42.
+The current claim inventory supports explanation and reflective revision mechanisms more directly than perspective-seeking as a standalone intervention.
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/building-empathy|Building Empathy]] — perspective seeking can deepen empathy when learners actively investigate how others understand a situation.
+- [[principles/peer-discussion|Peer Discussion]] — structured discussion is one common vehicle for comparing perspectives.
+- [[principles/discussing-race|Discussing Race]] — race-conscious dialogue often depends on careful perspective comparison and interpretation.
+- [[principles/evaluating-sources|Evaluating Sources]] — comparing perspectives is stronger when learners also assess evidence quality and credibility.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Multiple-text comparison**: Learners read contrasting accounts of the same event and identify differences in framing, evidence, and implication.
+- **Stakeholder analysis**: Learners compare how different stakeholders would interpret or be affected by a decision.
+- **Perspective interview synthesis**: Learners interview others about an issue and compare their own assumptions to what they heard.
+- **Structured debate preparation**: Learners prepare to argue a position they do not initially hold in order to understand it more precisely.
 
 ## Key Sources
-- <!-- TODO -->
+- Brookfield, S. D. (1997). Assessing critical thinking. *New Directions for Adult and Continuing Education, 1997*(75), 17-29. [https://doi.org/10.1002/ace.7503](https://doi.org/10.1002/ace.7503)
+- Eyal, T., Steffel, M., & Epley, N. (2018). Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective. *Journal of Personality and Social Psychology, 114*(4), 547-571. [https://doi.org/10.1037/pspa0000115](https://doi.org/10.1037/pspa0000115)
+- LaRusso, M., Kim, H. Y., Selman, R., Uccelli, P., Dawson, T., Jones, S., Donovan, S., & Snow, C. (2016). Contributions of academic language, perspective taking, and complex reasoning to deep reading comprehension. *Journal of Research on Educational Effectiveness, 9*(2), 201-222. [https://doi.org/10.1080/19345747.2015.1116035](https://doi.org/10.1080/19345747.2015.1116035)

@@ -1,91 +1,102 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 author: Charles M. Reigeluth
-grain_size: Course, Curriculum
+grain_size: course
 ---
 
-# Reigeluth’s Elaboration Theory
+# Reigeluth's Elaboration Theory
 
 ## Description
-A macro-level instructional design model that emphasizes sequencing instruction from simple to complex to facilitate deep learning. It suggests that instruction should start with an epitome (simplified version of the whole concept) and then progressively elaborate by adding complexity and details. This ensures learners develop a big-picture understanding before diving into specifics. The model promotes scaffolding, learner control, and holistic knowledge construction to support meaningful learning and transfer. The seven key components of elaboration theory are: (1) Epitome (presenting a simplified version of the full content), (2) Sequencing from simple to complex, (3) Conceptual, procedural, or theoretical elaboration sequences, (4) Summary and synthesis, (5) Learner control over depth of study, (6) Use of analogies and prior knowledge activation, and (7) Continuous review and application.
+Reigeluth's Elaboration Theory is a macro-level sequencing pattern that begins with a simple but meaningful version of the whole and then elaborates progressively toward greater complexity, detail, and specialization. The aim is to give learners a coherent big-picture structure early, then deepen and extend that structure through increasingly elaborate treatment. The pattern relies on summary, synthesis, analogy, and review to help learners keep the growing knowledge structure integrated.
+
+It is especially useful for curriculum-scale design where content complexity is high and learners can easily lose the overarching structure if instruction dives too quickly into detail.
 
 ## Implications
 
 ### Context
 #### Requirements
-- - Requires careful instructional design to ensure effective sequencing.
-- Works best with moderate-to-high content complexity (ll).
+- **A meaningful epitome or simplified whole**: Learners need an initial big-picture version that preserves the core structure.
+- **Planned sequencing from simple to complex**: Later instruction should elaborate rather than merely add disconnected pieces.
+- **Regular summary and synthesis**: Learners need help reconnecting details to the larger structure.
+- **Opportunities for review and application**: Elaboration works best when learners revisit and use the growing framework.
 #### Constraints
-- - Needs frequent summarization and synthesis activities to reinforce learning.
-- Can be resource-intensive, requiring well-structured instructional materials.
-- Less effective for basic factual recal
+- **High design complexity**: Good elaboration sequences require careful curriculum planning.
+- **Weak fit for very simple factual instruction**: The pattern matters most when content has structural complexity.
+- **False simplification risk**: An oversimplified epitome can distort the whole rather than clarify it.
+- **Learner control must still be supported**: Optional depth only helps if the overall structure remains coherent.
 #### Grain Size
-Course, Curriculum
+- Course
+- Curriculum
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Works best for complex subjects that require deep understanding, such as science, engineering, medicine, and social sciences. Suitable for conceptual, procedural, and theoretical learning.
+- **Big-picture understanding**: Learners maintain a coherent conceptual map as detail increases.
+- **Complex knowledge sequencing**: Content is organized for cumulative understanding rather than fragmentation.
+- **Transfer and synthesis**: Learners can relate later details back to earlier frameworks.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Higher education, adult learning, and professional training where learners need structured knowledge acquisition over time.
+- **Higher education, adult, and professional learners**: Strong fit for complex conceptual or procedural domains.
+- **Learners studying content with many interacting parts**: Useful in science, medicine, engineering, and other structured fields.
+- **Curriculum designers building long-form instruction**: Best used as a macro-sequencing pattern.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Cognitive organization perspectives — learning strengthens when new material is embedded in a coherent structure.
+- Sequencing and scaffolding perspectives — simple-to-complex progression helps manage complexity over time.
+- Analogical and schema-building perspectives — summaries and analogies help learners connect new detail to prior structure.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Not all domains have one obvious epitome, and forcing one can oversimplify.
+- Some learners may need more explicit local practice or worked examples within the larger elaboration sequence.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/chunking-reduces-working-memory-load]] [~S]
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [[claims/whole-task-performance-improves-transfer]] [~S]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-- Begins with a simplified overview (epitome), then adds depth and complexity.
-- Content is structured from general to detailed, ensuring learners develop a strong conceptual foundation first.
-- Encourages frequent review and synthesis to strengthen connections between ideas.
+1. Present an epitome: a simplified version of the whole domain or process.
+2. Elaborate progressively by adding complexity, detail, or special cases.
+3. Use summaries and syntheses to reconnect new material to the whole.
+4. Support understanding with analogies and prior knowledge activation.
+5. Revisit and apply the expanded structure across increasingly complex tasks.
 
 ### Elements Used
-- [[elements/epitome|Epitome]]
-- [[elements/conceptualproceduraltheoretical-elaboration|Conceptual/Procedural/Theoretical Elaboration]]
-- [[elements/summarization|Summarization]]
+- [[elements/activation|Activation]]
 - [[elements/analogies|Analogies]]
-- [[elements/continuous-review|Continuous Review]]
+- [[elements/practice|Practice]]
+- [[elements/reflection|Reflection]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/holistic-learning-learners-build-a-broad-conceptual-framework-before-diving-into-details-scaffolding-sequencing-simplifies-complex-subjects-into-digestible-steps-constructivist-approach-encourages-deep-understanding-rather-than-rote-memorization-big-picture-learning-helps-learners-see-interconnections-between-concepts|Holistic Learning – Learners build a broad conceptual framework before diving into details.
-Scaffolding & Sequencing – Simplifies complex subjects into digestible steps.
-Constructivist Approach – Encourages deep understanding rather than rote memorization.
-Big-Picture Learning – Helps learners see interconnections between concepts.]]
-
+- [[principles/metaphors-analogies|Metaphors & Analogies]]
+- [[principles/creating-visual-representations|Creating Visual Representations]]
+- [[principles/guided-practice|Guided Practice]]
+- [[principles/worked-examples|Worked Examples]]
 
 ### Personalization
-- - Learners can choose their own pace and depth of study.
-- Can incorporate adaptive learning paths based on learner needs.
-- Supports scaffolding and fading, allowing instructors to adjust support levels as learners gain expertise.
+- Learners can move more slowly or quickly through later elaborations once the big picture is established.
+- Optional branches or extensions can deepen particular strands while preserving the core sequence.
+- Analogies and examples can be chosen to fit learner background and domain familiarity.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/4cid-four-component-instructional-design|4C/ID (Four-Component Instructional Design)]]
+- [[patterns/merrills-first-principles-of-instruction|Merrill's First Principles of Instruction]]
 
 ## Examples
-- - Medical training: Teaching anatomy by first presenting an overview of bodily systems, then progressively elaborating on each component.
-- Software engineering: Learning programming concepts by first introducing core logic structures before covering advanced algorithms.
-- Corporate training: Onboarding programs that introduce broad company concepts first, then dive into department-specific details.
+- Anatomy curricula that begin with major systems before elaborating organs, tissues, and specialized cases.
+- Programming instruction that introduces a simple whole workflow before layering abstractions and advanced structures.
+- Corporate onboarding that starts with the organization's big picture before drilling into team-specific processes.
 
 ## Impact
-- - Studies show higher retention rates when learners start with a simplified framework before adding complexity.
-- Supports problem-solving skills by helping learners see how concepts interconnect.
-- Effective in technical fields, science education, and structured workplace training.
+- Helps preserve coherence across long-form instruction in complex domains.
+- Especially valuable where learners need a durable map of the terrain, not just a sequence of isolated lessons.
 
 ## Key Sources
-- - Reigeluth, C. M. (1999). Instructional-Design Theories and Models.
-- Reigeluth, C. M. (1983). Instructional Design: What Is It and Why Is It?.
-- van Merriënboer, J. J. G., & Reigeluth, C. M. (2011). Elaborative Sequencing Strategies in Instructional Design.
+- Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [https://doi.org/10.1007/BF02984376](https://doi.org/10.1007/BF02984376)
+- Reigeluth, C. M., & Stein, F. S. (1983). The elaboration theory of instruction. In C. Reigeluth (Ed.), *Instructional-design theories and models* (pp. 335-381). Erlbaum.

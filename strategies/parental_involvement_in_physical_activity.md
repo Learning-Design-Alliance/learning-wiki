@@ -20,11 +20,11 @@ Engage parents by providing details about the benefits of physical activity and 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Parents of K–12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase physical activity, foster a supportive community, improve student health and well-being
 
 ### Affordances

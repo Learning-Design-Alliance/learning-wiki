@@ -20,11 +20,11 @@ Distributed practice, also known as spaced learning, involves reviewing informat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all learners, particularly effective when learning factual information, vocabulary, or skills that require long-term retention. Applicable across K-12, higher education, and adult learning.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance long-term retention, improve memory recall, support application of learned concepts.
 
 ### Affordances

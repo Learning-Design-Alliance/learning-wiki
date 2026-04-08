@@ -20,11 +20,11 @@ Integrate students' native languages into project work. Ask how you can leverage
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - ELL students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Value linguistic diversity, promote cross-cultural understanding, and enhance project outcomes.
 
 ### Affordances

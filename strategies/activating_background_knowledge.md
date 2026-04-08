@@ -20,11 +20,11 @@ Activating background knowledge involves prompting learners to recall and connec
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially beneficial for learners with diverse backgrounds and experiences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve retention, foster connections between new and existing knowledge, increase engagement
 
 ### Affordances

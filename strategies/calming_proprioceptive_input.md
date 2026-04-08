@@ -20,11 +20,11 @@ Using proprioceptive input, also known as "heavy work," involves engaging muscle
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Children in school settings, particularly those with sensory sensitivities or who are easily overwhelmed
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-regulation, provide calming and organizing sensory input
 
 ### Affordances

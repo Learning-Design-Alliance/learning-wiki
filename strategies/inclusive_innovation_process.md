@@ -20,11 +20,11 @@ The Inclusive Innovation Process is a framework that facilitates growth with equ
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, students, community members, and district administrators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster inclusion, promote equity, develop community-led solutions, amplify student voices, enhance collaboration
 
 ### Affordances

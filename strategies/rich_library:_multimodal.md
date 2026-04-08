@@ -20,11 +20,11 @@ Providing learners with a variety of resources in multiple formats, such as blog
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those in K-12 and those lacking technology access outside of school
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance disciplinary literacy, increase learner interest and motivation, build background knowledge, improve composition skills
 
 ### Affordances

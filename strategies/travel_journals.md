@@ -20,11 +20,11 @@ Every student at Normal Park Museum Magnet, a K–8 school in Chattanooga, Tenne
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-8 students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help students chart their learning progress. Encourage reflection on learning experiences. Integrate writing, drawing, and graphic organizers.
 
 ### Affordances

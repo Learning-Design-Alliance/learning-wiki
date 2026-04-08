@@ -20,11 +20,11 @@ This strategy focuses on identifying and addressing the learning needs of studen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students with varying processing speeds, students who take longer to process information, students who struggle with note-taking, mental math, or keeping up with rapid conversations, educators looking to create a more inclusive and supportive learning environment
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify student strengths and challenges related to processing speed, leverage student strengths to support learning, provide targeted interventions to address processing speed challenges, create a more inclusive and effective learning environment, enhance student understanding and retention
 
 ### Affordances

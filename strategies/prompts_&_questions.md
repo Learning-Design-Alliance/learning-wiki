@@ -20,11 +20,11 @@ Providing guiding prompts and questions for students to use when reading or part
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - 7-12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Deepen understanding, encourage critical thinking, promote reflection.
 
 ### Affordances

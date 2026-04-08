@@ -1,107 +1,67 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Journaling
 
 ## Description
-Journaling allows learners to reflect on their thinking and feelings, process their learning, and connect new information to what they know and their practical experiences. Journals can be used in formal ways to reflect on what the learners are learning, or as a more informal form of expression, where they can serve as safe spaces for learners to make their learning visible and to share their difficulties, questions, and emotions about a topic. Dialogue journals can provide Social Supports, increase Motivation, foster a Learner Mindset, and support vocabulary development, especially for English language learners.
+Journaling is the practice of having learners write regularly to externalize thinking, notice experience, and make learning more visible to themselves or to an instructor. Journals can be reflective, dialogic, disciplinary, metacognitive, or affective, but the common mechanism is structured written sense-making. By writing about what they understand, what they are struggling with, and how new learning connects to prior experience, learners can process meaning more deliberately and track change over time.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **A clear journaling purpose**: Learners need to know whether the journal is for reflection, planning, response, synthesis, or dialogue.
+- **Prompts or routines**: Regular questions or structures help journaling stay purposeful rather than vague.
+- **Appropriate privacy expectations**: Learners need to know who will read the journal and how it will be used.
+- **Some follow-through**: Journals are stronger when they feed later discussion, revision, feedback, or self-assessment.
 #### Constraints
-- <!-- TODO -->
+- **Empty compliance writing**: Journals lose value when prompts are generic and responses are never revisited.
+- **Forced disclosure**: Reflection should not pressure learners to reveal personal experiences they do not want to share.
+- **Feedback overload**: If every journal is heavily evaluated, the writing can become performative rather than exploratory.
+- **Misalignment with goals**: Journaling is less useful when the task calls for direct practice rather than reflection or synthesis.
 
 ### Target Learners
-- Learner Background:
-Physical Well-being
-Adverse Experiences
-Primary Language
-Social Supports
-Sleep
-Safety
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Motivation
-Learner Mindset
-Sense of Belonging
-Stereotype Threat
-Social Awareness & Relationship Skills
-
-Cognition:
-Attention
-Long-term Memory
-Short-term Memory
-Metacognition
-
-Language and Literacy:
-Disciplinary Literacy
-Composition
-Problem Solving
+- **Learners developing metacognition**: Journaling helps learners notice what they understand, feel, and need next.
+- **Writers and multilingual learners**: Regular informal writing can support fluency, vocabulary, and comfort with expression.
+- **Learners processing complex or emotionally charged material**: Journals can provide low-stakes space for sense-making before discussion.
+- **Learners in professional or reflective practice settings**: Strong fit for internships, coaching, fieldwork, and identity-related learning.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Reflection on learning**: Tracking change in understanding, strategy, and confidence.
+- **Improved written expression**: Building fluency and confidence through regular low-stakes writing.
+- **Connection-making**: Linking course content to prior knowledge, lived experience, or future application.
+- **Self-monitoring and planning**: Naming confusion, next steps, and progress over time.
 
 ### Theory
 #### Supporting
-- [[theories/self-regulated-learning-zimmerman-constructivism-piaget|Self-Regulated Learning (Zimmerman)
-Constructivism (Piaget]]
-- [[theories/bruner|Bruner]]
-- [[theories/vygotsky-metacognition-implicit-in-self-regulated-learning-zimmerman|Vygotsky)
-Metacognition (Implicit in Self-Regulated Learning - Zimmerman)]]
+- Self-regulated learning — journaling supports monitoring, reflection, and strategy adjustment.
+- Constructivist and generative learning views — writing helps learners actively build meaning rather than only receive it.
+- Reflective practice traditions — deliberate written reflection can improve professional judgment and self-awareness over time.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Journaling is not automatically reflective; prompts and feedback design determine whether it produces insight or routine summary.
+- Some learners may reflect better through speech, drawing, or other modalities unless journaling is adapted flexibly.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Brockman, B. (1994). Whole Language: A Philosophy of Literacy Teaching for Adults, Too!
-
-Dunlap, J. C. (2006). Using guided reflective journaling activities to capture students' changing perceptions. TechTrends, 50(6), 20-26.
-
-Flinchbaugh, C. L., Moore, E. W. G., Chang, Y. K., & May, D. R. (2012). Student well-being interventions: The effects of stress management techniques and gratitude journaling in the management education classroom. Journal of Management Education, 36(2), 191-219.
-
-Fogarty, R., & Pete, B. (2010). Professional learning 101: A syllabus of seven protocols. Phi Delta Kappan, 91(4), 32-34.
-
-Fritson, K. K. (2008). Impact of journaling on students' self-efficacy and locus of control. InSight: A Journal of Scholarly Teaching, 3, 75-83.
-
-Harris, M. (2005). Is journaling empowering? Students' perceptions of their reflective writing experience. Health SA Gesondheid, 10(2), 47-60.
-
-Larrotta, C. (2009). Journaling in an Adult ESL Literacy Program. New Directions for Adult and Continuing Education, 121, 35-44. 
-Wikipedia
-
-Linares, R. E. (2019). Meaningful writing opportunities: Write‐alouds and dialogue journaling with newcomer and English learner high schoolers. Journal of Adolescent & Adult Literacy, 62(5), 521–530.
-
-Park, G. (2013). 'Writing is a way of knowing': writing and identity. ELT Journal, 67(3), 336-345.
-
-Peyton, J. K., & Schaetzel, K. (2016). Teaching writing to adult English language learners: Lessons from the field. Journal of Literature and Art Studies, 6(11), 1407-1423.
-
-Phipps, J. J. (2005). E-journaling: Achieving interactive education online. Educause Quarterly, 28(1), 62-65.
-
-Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. Journal of Social Work Education, 51(4), 668-681.
-
-Saurino, D. R. (2008). Concept Journaling to Increase Critical Thinking Dispositions and Problem Solving Skills in Adult Education. The Journal of Human Resource and Adult Learning, 4(1), 170-178.
-
-Stino, Z. (1995). Writing as therapy in a county jail. Journal of Poetry Therapy, 9(1), 13-23.
-
-Trembley, D. (1993). Guidelines for Teaching Writing to ABE and ASE Learners.
-
-Walker, S. E. (2006). Journal writing as a teaching technique to promote reflection. Journal of Athletic Training, 41(2), 216.
-
-White, J. W., & Hungerford‐Kresser, H. (2014). Character journaling through social networks: Exemplifying tenets of the new literacy studies. Journal of Adolescent & Adult Literacy, 57(8), 642-654.
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
+- [[claims/self-monitoring-improves-self-regulation]] [+M]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/purposeful-reflection|Purposeful Reflection]] — journaling is one concrete routine for structured reflection.
+- [[principles/process-based-writing|Process-Based Writing]] — journals can support regular low-stakes writing and revision habits.
+- [[principles/building-empathy|Building Empathy]] — some journal forms help learners reflect on perspective and lived experience.
+- [[principles/positive-self-talk|Positive Self-Talk]] — reflective writing can reshape how learners narrate challenge and progress.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Reflection journals**: Learners respond regularly to prompts about what they learned, where they struggled, and what they will try next.
+- **Dialogue journals**: Instructor and learner exchange short written responses over time.
+- **Fieldwork journals**: Learners document observations, questions, and pattern recognition during practice-based experiences.
+- **Concept journals**: Learners explain an idea in their own words and connect it to examples or prior knowledge.
 
 ## Key Sources
-- <!-- TODO -->
+- Dunlap, J. C. (2006). Using guided reflective journaling activities to capture students' changing perceptions. *TechTrends, 50*(6), 20-26. [https://doi.org/10.1007/s11528-006-7614-x](https://doi.org/10.1007/s11528-006-7614-x)
+- Larrotta, C. (2009). Journaling in an adult ESL literacy program. *New Directions for Adult and Continuing Education, 121*, 35-44. [https://doi.org/10.1002/ace.325](https://doi.org/10.1002/ace.325)
+- Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. *Journal of Social Work Education, 51*(4), 668-681. [https://doi.org/10.1080/10437797.2015.1076264](https://doi.org/10.1080/10437797.2015.1076264)

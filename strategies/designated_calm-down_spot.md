@@ -20,11 +20,11 @@ Creating a designated calm-down spot is providing a safe and structured space wi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for students with emotional or behavioral challenges.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help students safely manage their emotions, reduce stress and anxiety, and regain focus for learning.
 
 ### Affordances

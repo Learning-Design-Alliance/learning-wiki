@@ -20,11 +20,11 @@ Objectives aligned with standards, activities, and assessments, providing studen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, Higher Education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide clarity on learning expectations, align activities and assessments, promote student understanding
 
 ### Affordances

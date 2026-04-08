@@ -20,11 +20,11 @@ Teachers should redirect their role in the classroom from instructor to facilita
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers in diverse classrooms (K-12, higher education)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower students, increase motivation, and foster a sense of community in the classroom.
 
 ### Affordances

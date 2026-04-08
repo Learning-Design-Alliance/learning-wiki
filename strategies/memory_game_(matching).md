@@ -20,11 +20,11 @@ A memory game where learners match pairs of word cards to reinforce vocabulary a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary grades (K-5), learners who need vocabulary and memory reinforcement, and English language learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve vocabulary retention, enhance memory skills, reinforce contextual understanding, promote active recall
 
 ### Affordances

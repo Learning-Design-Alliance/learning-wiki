@@ -20,11 +20,11 @@ Narrative advance organizers involve storytelling at the beginning of a lesson t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly effective for making connections to students' cultural & life experiences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Engage students at the beginning of a lesson and relate to important concepts by tapping into prior knowledge.
 
 ### Affordances

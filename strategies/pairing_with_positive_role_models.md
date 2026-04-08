@@ -20,11 +20,11 @@ Pairing learners with peers who demonstrate strong relationship skills involves 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners of all ages who struggle with social interactions, communication, or conflict resolution
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve social skills, foster positive relationships, provide role models for effective communication and conflict resolution
 
 ### Affordances

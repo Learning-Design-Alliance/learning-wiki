@@ -20,11 +20,11 @@ Take the time to consider each student’s perspective and the challenges they m
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, higher education instructors, trainers, mentors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase understanding of student experiences, improve communication, foster positive relationships, enhance problem-solving skills
 
 ### Affordances

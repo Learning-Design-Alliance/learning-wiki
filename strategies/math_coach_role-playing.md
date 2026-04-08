@@ -20,11 +20,11 @@ Organize students into small groups where they take turns acting as "math coache
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary and middle school learners (Grades 3-8)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve problem-solving skills, enhance communication skills, develop critical thinking, promote active learning, reinforce math concepts
 
 ### Affordances

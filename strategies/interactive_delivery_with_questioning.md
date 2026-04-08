@@ -20,11 +20,11 @@ Engage students through interactive discussions driven by questions and answers.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers in all subjects and grade levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student engagement, provide immediate feedback, identify and address learning gaps, and improve overall learning outcomes.
 
 ### Affordances

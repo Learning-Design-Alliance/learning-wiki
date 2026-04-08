@@ -20,11 +20,11 @@ Learners think about emotions in advance by discussing their thoughts.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To help learners reflect on their own feelings and behaviors.
 
 ### Affordances

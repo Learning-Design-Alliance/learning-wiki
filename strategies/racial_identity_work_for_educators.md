@@ -20,11 +20,11 @@ Racial identity work for educators involves understanding one's own racial ident
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators of all backgrounds
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase self-awareness, reduce bias, promote equity, foster inclusivity
 
 ### Affordances

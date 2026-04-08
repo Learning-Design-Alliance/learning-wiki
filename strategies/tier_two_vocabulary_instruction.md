@@ -20,11 +20,11 @@ Focuses on teaching high-frequency words used by mature language users that can 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Intermediate to upper-grade students (Grades 3-12) and adult learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance vocabulary, improve comprehension, and develop precise language skills.
 
 ### Affordances

@@ -20,11 +20,11 @@ When learners are struggling with a difficult task, clutter in the classroom or 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners struggling with attention, especially those with sensory sensitivities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus, reduce distractions, enhance attention
 
 ### Affordances

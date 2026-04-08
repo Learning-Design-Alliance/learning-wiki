@@ -20,11 +20,11 @@ Give students authorship in sharing and telling their own stories, which a good 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly beneficial for Black and Latinx students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower students by giving them a voice in their learning; create agency and leadership skills; foster a more equitable classroom environment.
 
 ### Affordances

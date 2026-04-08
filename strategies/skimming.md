@@ -20,11 +20,11 @@ Skimming involves reviewing a text quickly, focusing on headings, captions, and 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly students who struggle with reading comprehension.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To make students familiar with the material before they read it more thoroughly, to improve reading comprehension.
 
 ### Affordances

@@ -20,11 +20,11 @@ Point systems or experience (XP) systems reward learners for completing various 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially effective in online learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reward task completion, provide feedback, track progress, offer flexible goals, support learner choice
 
 ### Affordances

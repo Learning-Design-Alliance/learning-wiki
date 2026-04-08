@@ -20,11 +20,11 @@ This strategy involves actively seeking particular details or information within
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult ESL learners, particularly those transitioning to academic study or workplace training
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve information retention, develop active listening and reading skills
 
 ### Affordances

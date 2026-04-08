@@ -20,11 +20,11 @@ Generating a collection of affirmative statements for learners to read and inter
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Individuals of all ages who want to develop a more positive mindset.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide learners with concrete examples of positive self-talk and encourage personal reflection.
 
 ### Affordances

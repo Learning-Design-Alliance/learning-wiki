@@ -20,11 +20,11 @@ A large calendar for family appointments and events can help kids see that organ
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners of all ages, families
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote awareness of schedules and events, enhance time management skills, foster a sense of belonging within the household
 
 ### Affordances

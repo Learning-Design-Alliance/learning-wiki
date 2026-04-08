@@ -20,11 +20,11 @@ Employing common language and strategies across disciplines involves aligning wr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students in grades 9-12 who benefit from consistent expectations and terminology across different subject areas.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance students' writing skills by creating consistency in writing instruction across disciplines, improve transfer of writing skills, and reduce cognitive load.
 
 ### Affordances

@@ -1,7 +1,8 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Explicit Instruction: Online Reading Strategies
@@ -13,71 +14,62 @@ Research shows that, along with traditional reading comprehension strategies, le
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- Explicit modeling of how skilled readers set goals, scan pages, choose links, and recover from distraction online
+- Guided practice with authentic web texts, not only static screenshots
+- Supports for managing tabs, hyperlinks, multimedia, and note capture during reading
+- Integration with source evaluation and search instruction, since online reading is rarely linear or isolated
+
 #### Constraints
-- <!-- TODO -->
+- Hyperlinks, pop-ups, multimedia, and navigation choices can overload attention and working memory quickly
+- Online reading strategies vary by task; skimming for orientation is different from reading for evidence or synthesis
+- Learners may mimic clicking behavior without understanding why a path is or is not productive
+- Explicit strategy instruction is less effective if learners do not have a meaningful reading goal in mind
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Literacy Environment
-Primary Language
-Socioeconomic Status
-
-Social and Emotional Learning:
-Self-regulation
-
-Cognition:
-Attention
-Short-term Memory
-Speed of Processing
-Working Memory
-
-Language and Literacy:
-Foundational Reading Skills
-Background Knowledge
-Digital Literacy
+- Learners who can read print reasonably well but struggle with non-linear online environments
+- Learners with attention, working-memory, or self-regulation constraints that are amplified by digital reading
+- Adult learners navigating informational websites, course platforms, and hyperlinked texts
+- Learners who need explicit routines for deciding what to click, what to ignore, and how to track meaning across pages
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- Improve comprehension of hyperlinked, multimedia, and non-linear texts
+- Build goal-setting, monitoring, and navigation control during online reading
+- Reduce distraction and unproductive link-chasing
+- Support integration of information across multiple pages and media formats
 
 ### Theory
 #### Supporting
-- [[theories/information-processing-theory-cognitive-load-theory-sweller-multimedia-learning-theory-mayer-gagnes-conditions-of-learning|Information Processing Theory
-Cognitive Load Theory (Sweller)
-Multimedia Learning Theory (Mayer)
-Gagne’s Conditions of Learning]]
+- Information-processing perspectives support explicit routines for navigating complex digital text environments
+- [[theories/cognitive-load-theory|Cognitive Load Theory]] supports reducing unnecessary navigation and decision burden during online reading
+- Multimedia-learning perspectives support deliberate integration of text, visuals, and navigation cues rather than unmanaged exposure to all modes at once
+- Guided demonstration is especially relevant because expert online reading behavior is largely invisible unless modeled
+
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Learners still need authentic online reading practice; strategy instruction should not become detached from real digital tasks
+- Supports should be chosen by task, not taught as one universal script for all online reading
+- Online reading competence also depends on search and source-evaluation skill, not comprehension strategies alone
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Afflerbach, P. A., & Cho, B. Y. (2010). Determining and describing reading strategies: Internet and traditional forms of reading. In Waters, H. S., & Schneider, W. (Eds.). Metacognition, strategy use, and instruction (pp. 201–255). Guilford.
-
-Allen, M. (2008). Promoting critical thinking skills in online information literacy instruction using a constructivist approach. College & Undergraduate Libraries, 15(1-2), 21-38.
-
-Azevedo, R. (2005). Using hypermedia as a metacognitive tool for enhancing student learning? The role of self-regulated learning. Educational Psychologist, 40(4), 199-209.
-
-Carioli, S., & Peru, A. (2019). Teaching online reading strategies using the think aloud technique. Italian Journal of Educational Technology, 27(3), 279-294.
-
-Coiro, J. (2003). Exploring literacy on the Internet: Reading comprehension on the Internet: Expanding our understanding of reading comprehension to encompass new literacies. The Reading Teacher, 56(5), 458-464.
-
-Coiro, J., Knobel, M., Lankshear, C., & Leu, D. J. (Eds.). (2014). Handbook of research on new literacies. Routledge.
-
-DeStefano, D., & LeFevre, J. A. (2007). Cognitive load in hypertext reading: A review. Computers in Human Behavior, 23(3), 1616-1641.
-
-Shang, H. F. (2015). An investigation of scaffolded reading on EFL hypertext comprehension. Australasian Journal of Educational Technology, 31(3).
-
-Sutherland-Smith, W. (2002). Weaving the literacy web: Changes in reading from page to screen. The Reading Teacher, 55(7), 662-669.
-
-Werderich, D. E., Manderino, M., & Godinez, G. (2017). Leveraging digital mentor texts to write like a digital writer. Journal of Adolescent & Adult Literacy, 60(5), 537-546.
+- [[claims/chunking-reduces-working-memory-load]] [+S] — online reading strategies should reduce the number of simultaneous navigation decisions learners must manage
+- [[claims/contingent-scaffolding-improves-learning]] [+M] — think-alouds and guided prompts help learners understand where their online reading decisions break down
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — novices benefit from explicit routines for goal-setting, link choice, and note capture during reading
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — online comprehension deepens when learners explain why they clicked, skipped, or synthesized particular information
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/explicit-instruction-internet-search|Explicit Instruction: Internet Search]] — search often precedes and shapes what online reading becomes
+- [[principles/evaluating-sources|Evaluating Sources]] — online reading requires credibility judgment as well as comprehension
+- [[principles/clear-structure-presentation|Clear Structure & Presentation]] — structured digital environments reduce avoidable navigation burden
+- [[principles/annotating|Annotating]] — note capture and marking can stabilize understanding across tabs and links
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- [[strategies/think-alouds_for_online_reading_strategies|Think-Alouds for Online Reading Strategies]] — expert navigation decisions are modeled explicitly
+- [[strategies/reading_online_strategy:_evaluating_online_information|Reading Online Strategy: Evaluating Online Information]] — combines reading with credibility checks
+- [[strategies/reading_online_strategy:_formulating_effective_search_queries|Reading Online Strategy: Formulating Effective Search Queries]] — supports pre-reading goal and query construction
+- Guided webquests or hypertext tasks with note-taking and path-tracking prompts
 
 ## Key Sources
-- <!-- TODO -->
+- Afflerbach, P. A., & Cho, B. Y. (2010). Determining and describing reading strategies: Internet and traditional forms of reading. In *Metacognition, strategy use, and instruction*.
+- Azevedo, R. (2005). Using hypermedia as a metacognitive tool for enhancing student learning? *Educational Psychologist, 40*(4), 199-209. [doi:10.1207/s15326985ep4004_2](https://doi.org/10.1207/s15326985ep4004_2)
+- DeStefano, D., & LeFevre, J. A. (2007). Cognitive load in hypertext reading: A review. *Computers in Human Behavior, 23*(3), 1616-1641. [doi:10.1016/j.chb.2005.08.012](https://doi.org/10.1016/j.chb.2005.08.012)
+- Coiro, J. (2003). Reading comprehension on the Internet. *The Reading Teacher, 56*(5), 458-464.

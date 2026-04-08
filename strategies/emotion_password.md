@@ -20,11 +20,11 @@ Learners are required to make a particular face to enter the classroom. This sim
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary school learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional expression, improve self-assessment, promote empathetic understanding
 
 ### Affordances

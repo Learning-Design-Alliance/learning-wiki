@@ -20,11 +20,11 @@ A research map is a visual representation of research topics and their interconn
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Beneficial for higher education students, researchers, and professionals seeking to understand and explore academic literature.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Navigate complex research, identify key study areas, understand concept relationships, enhance research skills, promote interdisciplinary thinking
 
 ### Affordances

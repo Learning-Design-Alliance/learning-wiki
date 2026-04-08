@@ -20,11 +20,11 @@ Begin the school day by asking your students a question to find out how they are
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly effective in elementary and middle school classrooms to establish a supportive environment
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify emotional states, promote empathy, build classroom community
 
 ### Affordances

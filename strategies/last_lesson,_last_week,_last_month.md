@@ -20,11 +20,11 @@ This activity involves looking back to the most important information presented 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective in secondary and higher education.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote spaced retrieval practice and reinforce prior learning.
 
 ### Affordances

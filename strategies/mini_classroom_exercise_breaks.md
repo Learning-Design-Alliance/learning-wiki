@@ -20,11 +20,11 @@ Implement short exercise sessions throughout the school day, such as encouraging
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase physical activity, improve student focus and attention, revitalize students
 
 ### Affordances

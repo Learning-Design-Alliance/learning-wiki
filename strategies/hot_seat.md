@@ -20,11 +20,11 @@ One learner assumes the role of a book character, significant figure in history,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and subject areas, particularly effective for engaging learners with historical figures, literary characters, and scientific concepts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active recall and application of knowledge, enhance communication skills, encourage perspective-taking, foster creativity and imagination
 
 ### Affordances

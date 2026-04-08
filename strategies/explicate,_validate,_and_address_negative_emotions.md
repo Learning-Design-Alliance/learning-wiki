@@ -20,11 +20,11 @@ When learners come into a course with negative emotions and expectations, it can
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - College and university students, particularly those in courses known for high levels of anxiety or perceived irrelevance, adult learners with prior negative experiences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve learner engagement and academic performance by acknowledging and addressing negative emotions, creating a supportive learning environment, and increasing the relevance of course content
 
 ### Affordances

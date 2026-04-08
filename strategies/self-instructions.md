@@ -20,11 +20,11 @@ Teachers model articulating how they solve a problem and prompt students to expl
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote metacognition, improve self-awareness, provide insights into student understanding
 
 ### Affordances

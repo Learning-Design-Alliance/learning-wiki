@@ -18,11 +18,11 @@ Learners complete structured activities that require critical thinking and appli
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for STEM, business, and applied sciences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce analytical reasoning and real-world skills.
 
 ### Affordances

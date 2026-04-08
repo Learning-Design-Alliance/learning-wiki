@@ -20,11 +20,11 @@ Reducing exposure to blue light from digital screens before bed can improve slee
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially adolescents and those who spend significant time using digital screens before bed.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve sleep quality and quantity, enhance learning, and prevent disruptions to sleep patterns.
 
 ### Affordances

@@ -20,11 +20,11 @@ Tiered areas allow for groups to convene to discuss ideas and communicate proced
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve communication skills, increase collaboration, enhance eye contact
 
 ### Affordances

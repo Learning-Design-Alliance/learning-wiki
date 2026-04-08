@@ -20,11 +20,11 @@ Sensory stimulation involves providing experiences that engage a person's senses
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Individuals with sensory processing needs, including children with sensory sensitivities, sensory seekers, and those with attention deficits; applicable across K–12 and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve self-regulation, enhance attention and focus, reduce fidgeting and behavior problems, integrate sensory experiences
 
 ### Affordances

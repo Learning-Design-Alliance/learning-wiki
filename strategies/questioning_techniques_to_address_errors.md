@@ -20,11 +20,11 @@ Strategic questioning is used to guide students to recognize their errors and co
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who benefit from guided inquiry and self-discovery
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-reflection, guide students to identify their own errors, deepen conceptual understanding, develop critical thinking skills
 
 ### Affordances

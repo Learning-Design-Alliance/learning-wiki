@@ -18,11 +18,11 @@ Encourages learners to express their ideas, reasoning, and problem-solving appro
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthens conceptual understanding and problem-solving flexibility.
 
 ### Affordances

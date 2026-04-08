@@ -20,11 +20,11 @@ Projects center on authentic issues that matter to students and their communitie
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners, particularly effective for engaging students in discussions about social justice and equity.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student engagement, promote awareness of social justice issues, empower students to act as change agents, connect learning to real-world impact.
 
 ### Affordances

@@ -1,78 +1,103 @@
 ---
 type: pattern
-status: draft
-last_edited: 2026-04-06
-author: Kapp (2012), Gee (2003)
-grain_size: Lesson, Unit
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
+author: gamified mastery learning tradition
+grain_size: lesson
 ---
 
 # Game-Based Mastery Learning (e.g., Duolingo Pattern)
 
 ## Description
-A structured approach to game-based learning where mastery of one level is required before progressing, with spaced repetition, scaffolded challenges, and immediate feedback loops.
+Game-Based Mastery Learning combines mastery progression with game-like mechanics such as levels, streaks, rewards, adaptive challenge, and immediate feedback. The pattern works by requiring learners to demonstrate competence before moving forward while using feedback and progression signals to sustain engagement. Its value is not the game layer alone; it is the pairing of repeated practice, visible progress, and retry loops.
+
+This pattern can be highly effective for incremental skill development, especially when tasks can be broken into frequent attempts with fast feedback. It becomes weaker when reward mechanics overshadow learning goals or when mastery thresholds are poorly calibrated.
 
 ## Implications
 
 ### Context
 #### Requirements
-- Digital platform required, requires robust feedback loops
+- **Frequent checkable tasks**: The pattern needs short cycles of attempt, feedback, and retry.
+- **Visible progression**: Learners need to see what they have mastered and what comes next.
+- **Clear mastery thresholds**: Advancement rules should reflect meaningful competence rather than arbitrary completion.
+- **Adaptive or sequenced challenge**: Difficulty should rise in response to growing skill.
 #### Constraints
-- Can be demotivating if poorly balanced; ineffective if extrinsic rewards outweigh intrinsic learning
+- **Motivational distortion**: Rewards can crowd out intrinsic interest if they become the main reason for participation.
+- **Mastery frustration**: Thresholds that are too strict can demotivate struggling learners.
+- **Shallow gamification**: Points and badges alone do not create strong learning.
+- **Weak fit for complex open-ended performance**: The pattern works best for modular skill progression rather than ambiguous whole-task judgment.
 #### Grain Size
-Lesson, Unit
+- Lesson
+- Unit
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
-- Supports long-term retention, engagement, and motivation in skill development
+- **Incremental skill mastery**: Building competence through repeated successful performance.
+- **Persistence and return**: Encouraging ongoing engagement across many short practice cycles.
+- **Retention through revisit**: Bringing earlier material back into later practice.
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
-- K-12, higher education, corporate training
+- **Learners working on cumulative skills**: Strong fit for language, math, notation, and other practice-heavy domains.
+- **Learners benefiting from visible progress markers**: Especially useful when momentum and habit matter.
+- **Digital learning participants**: Many implementations depend on platform-based tracking and adaptation.
 
 ### Theory
 #### Supporting
-- <!-- TODO -->
+- Mastery learning perspectives — progression should depend on competence rather than simple seat time.
+- Feedback and self-regulation perspectives — visible progress and frequent correction support monitoring and persistence.
+- Game-based motivation perspectives — challenge, progression, and reward can sustain engagement when aligned well.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Extrinsic mechanics should support learning goals, not replace them.
+- Some domains require richer forms of assessment than rapid mastery loops can provide.
 
 ### Claims
 #### Supporting
-- <!-- TODO -->
+- [[claims/self-monitoring-improves-self-regulation]] [+M]
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
 #### Contradicting
-- <!-- TODO -->
+- [[claims/worked-examples-expertise-reversal]] [~M]
 
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements -->
-- 1) Learners complete tasks with instant feedback, 2) Reattempt tasks until mastery, 3) Advance in sequence while revisiting earlier material via spaced repetition
+1. Present a short challenge at an appropriate difficulty level.
+2. Give immediate feedback and allow retry or correction.
+3. Require a defined mastery threshold before progression.
+4. Reintroduce prior content through review or spaced challenge.
+5. Increase difficulty or reduce support as competence grows.
 
 ### Elements Used
-- [[elements/mastery-progression-levels|Mastery progression (levels]]
-- [[elements/xp|XP]]
-- [[elements/badges|badges)]]
-- [[elements/adaptive-difficulty|Adaptive difficulty]]
-- [[elements/spaced-repetition|Spaced repetition]]
-- [[elements/immediate-feedback|Immediate feedback]]
+- [[elements/adaptive-difficulty|Adaptive Difficulty]]
+- [[elements/adaptive-mastery-learning|Adaptive Mastery Learning]]
+- [[elements/feedback|Feedback]]
+- [[elements/practice|Practice]]
 
 ### Affordances
-<!-- Links to principles applied -->
-- [[principles/behaviorism-reinforcement-theory|Behaviorism (Reinforcement Theory)]]
-- [[principles/cognitive-load-theory|Cognitive Load Theory]]
-- [[principles/self-determination-theory|Self-Determination Theory]]
-
+- [[principles/game-based-learning|Game-Based Learning]]
+- [[principles/immediate-feedback|Immediate Feedback]]
+- [[principles/competency-based-learning-assessment|Competency-Based Learning & Assessment]]
+- [[principles/self-monitoring|Self-monitoring]]
 
 ### Personalization
-- Can be adjusted for different difficulty levels, progress pacing, or accessibility needs
+- Difficulty can adapt to learner performance.
+- Different learners can move at different speeds through the same progression map.
+- Feedback and hints can be faded as mastery grows.
 
 ## Related Patterns
-- <!-- TODO -->
+- [[patterns/cognitive-load-reduction-clt-scaffolding-approach|Cognitive Load Reduction (CLT Scaffolding Approach)]]
+- [[patterns/traditional-lecture-reading-midterm-final-assessment|Traditional Lecture / Reading / Midterm / Final Assessment]]
 
 ## Examples
-- Duolingo’s adaptive language progression, Khan Academy mastery levels
+- Duolingo-style language progression with retries, streaks, and review loops.
+- Mastery-based digital math practice with adaptive item difficulty.
+- Technical skill trainers that unlock later levels only after demonstrated competence.
 
 ## Impact
-- Studies show higher persistence and retention when using spaced repetition and mastery mechanics
+- Often increases persistence and visibility of progress in modular skill domains.
+- Works best when mastery definitions are instructionally meaningful and not merely gamified gating.
 
 ## Key Sources
-- Gee, J. P. (2003). What Video Games Have to Teach Us About Learning and Literacy. Kapp, K. (2012). The Gamification of Learning and Instruction.
+- Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan.
+- Kapp, K. M. (2012). *The gamification of learning and instruction*. Pfeiffer.
+- Van Eck, R. (2006). Digital game-based learning: It's not just the digital natives who are restless. *EDUCAUSE Review, 41*(2), 16-30.

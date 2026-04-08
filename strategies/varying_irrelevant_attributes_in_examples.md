@@ -20,11 +20,11 @@ When teaching concepts, use examples in which the irrelevant attributes vary wid
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially when introducing complex concepts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Refine understanding of a concept, avoid narrow generalizations
 
 ### Affordances

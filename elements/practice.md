@@ -18,11 +18,11 @@ Encourages learners to apply new knowledge or skills through structured activiti
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for skill-building in STEM, vocational training, and applied sciences.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning and develop fluency through active engagement.
 
 ### Affordances

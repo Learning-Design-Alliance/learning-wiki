@@ -20,11 +20,11 @@ A backchannel is a conversation that happens right alongside another activity. W
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for all ages and subject areas, particularly effective for large group presentations and lectures
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote active participation, provide opportunities for silent reflection and discussion, encourage diverse perspectives, enhance digital literacy skills
 
 ### Affordances

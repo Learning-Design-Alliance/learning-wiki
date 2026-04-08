@@ -20,11 +20,11 @@ Maximize the use of natural lighting in classrooms. Research has shown that arti
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners and educators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student and teacher morale, reduce off-task behavior, enhance academic performance
 
 ### Affordances

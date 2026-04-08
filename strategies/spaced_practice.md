@@ -20,11 +20,11 @@ Spaced practice involves distributing learning sessions over time, contrasting w
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, including K–12, higher education, and adult learners in professional development programs, but particularly effective for world language learning
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance long-term retention, improve recall, promote efficient learning, prevent overload, reinforce understanding
 
 ### Affordances

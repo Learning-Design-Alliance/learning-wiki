@@ -20,11 +20,11 @@ Schema-based instruction involves teaching learners to recognize and understand 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school learners, particularly those struggling with mathematical word problems
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve problem-solving skills, enhance comprehension of word problems, facilitate the translation of word problems into mathematical equations, develop strategic thinking in problem-solving.
 
 ### Affordances

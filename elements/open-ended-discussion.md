@@ -18,11 +18,11 @@ Facilitated dialogue where learners explore topics without predetermined answers
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for humanities, ethics, and business strategy courses.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage critical thinking and exploration of perspectives.
 
 ### Affordances

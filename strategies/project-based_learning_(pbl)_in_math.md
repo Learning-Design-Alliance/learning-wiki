@@ -20,11 +20,11 @@ Project-Based Learning (PBL) is a teaching method where learners gain knowledge 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who benefit from hands-on, collaborative, and real-world applications of math concepts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving skills, improve content knowledge, enhance self-confidence, foster collaboration, increase engagement, address standards, promote lifelong learning, provide opportunities for technology use, connect learners with communities and the real world
 
 ### Affordances

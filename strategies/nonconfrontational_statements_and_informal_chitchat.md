@@ -20,11 +20,11 @@ Catching students at the door before they enter the classroom and using “nonco
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Late elementary and middle grade students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote positive behaviors and a calm transition into the classroom.
 
 ### Affordances

@@ -20,11 +20,11 @@ This strategy involves using stories and materials that act as mirrors, windows,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and backgrounds
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Help students identify their place in the world, develop understanding about the wider world, build identity, and encourage reflection and action
 
 ### Affordances

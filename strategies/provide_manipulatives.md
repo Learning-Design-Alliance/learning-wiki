@@ -20,11 +20,11 @@ Learners are provided with manipulatives to help make complex concepts concrete.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with abstract concepts, tactile learners, and students who benefit from hands-on activities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Make abstract concepts concrete, enhance understanding through hands-on exploration, improve problem-solving skills, and support tactile learners.
 
 ### Affordances

@@ -20,11 +20,11 @@ Direct instruction in spelling involves explicitly teaching spelling patterns, h
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Beginning and developing spellers and readers of all ages, including students with learning disabilities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling accuracy, enhance phonological processing skills, develop morphological knowledge, and increase reading and writing proficiency.
 
 ### Affordances

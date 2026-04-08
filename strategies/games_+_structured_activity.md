@@ -20,11 +20,11 @@ Students engage with educational games designed to introduce or reinforce specif
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who benefit from gamified learning and interactive activities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance engagement, promote active learning, facilitate understanding and application of concepts through gamification.
 
 ### Affordances

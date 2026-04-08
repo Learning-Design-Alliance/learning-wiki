@@ -20,11 +20,11 @@ Be aware of potential mother tongue interference. Position yourself close to stu
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Multilingual learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide targeted support to learners facing language-related challenges.
 
 ### Affordances

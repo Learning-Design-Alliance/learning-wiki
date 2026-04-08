@@ -20,11 +20,11 @@ This strategy involves selecting and incorporating culturally responsive texts i
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12 educators and learners, curriculum developers, and anyone seeking to create more inclusive and representative learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop learners' sense of identity, broaden perspectives, foster empathy, promote cultural awareness, ensure representation in curriculum
 
 ### Affordances

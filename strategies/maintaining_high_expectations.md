@@ -20,11 +20,11 @@ In culturally responsive instruction, achievement expectations are determined in
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those at risk of underperforming
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-efficacy, set individual expectations, provide proportional praise, guide students toward problem-solving
 
 ### Affordances

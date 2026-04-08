@@ -20,11 +20,11 @@ The 4 Ps of pre-reading include previewing the text, predicting the content, act
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners of all ages who want to improve their reading comprehension skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension by previewing, predicting, activating prior knowledge, and defining the purpose for reading.
 
 ### Affordances

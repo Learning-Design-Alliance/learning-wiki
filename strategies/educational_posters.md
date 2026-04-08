@@ -20,11 +20,11 @@ Educational posters are visual aids that add color and helpful resources to a cl
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, teachers, students, and classrooms in various educational settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Inspire students, remind of key concepts, enhance understanding, create a stimulating environment, support memory retention
 
 ### Affordances

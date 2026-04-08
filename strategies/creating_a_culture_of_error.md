@@ -20,11 +20,11 @@ Creating a culture of error involves fostering a classroom or learning environme
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a growth mindset, encourage experimentation, reduce fear of failure, foster deeper learning, improve self-correction
 
 ### Affordances

@@ -1,98 +1,70 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Guided Practice
 
 ## Description
-Opportunities for students to practice skills in context, with instructor support and also independently, helps to move concepts and ideas into Long-term Memory. Through guided practice, the instructor or facilitator gradually releases scaffolds, allowing learners to develop independence. When content information and processes are broken down into smaller chunks and learners are allotted practice time in between, learning is strengthened. This is particularly true for literacy instruction where guided practice reinforces Foundational Reading Skills.
+Guided practice is the instructional principle of giving learners repeated opportunities to apply a skill or concept while support is still available. It sits between initial explanation or modeling and independent performance. The purpose is not mere repetition: guided practice lets learners attempt the task, receive targeted feedback, and gradually assume more of the work as scaffolds are faded. It is especially important when a skill has multiple steps, hidden decision points, or a high likelihood of early error.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **A clear model or explanation first**: Guided practice works best after learners have seen or heard what good performance looks like.
+- **Contingent support**: Instructors need to observe learner attempts closely enough to give help where it is actually needed [[claims/contingent-scaffolding-improves-learning]] [+S].
+- **Multiple attempts**: Learners need enough practice rounds to adjust based on feedback rather than only try once.
+- **A path toward independence**: Support should reduce as competence grows [[claims/fading-support-promotes-transfer-of-responsibility]] [+S].
 #### Constraints
-- <!-- TODO -->
+- **Premature independence**: If support is removed too early, learners may rehearse errors or disengage.
+- **Permanent support**: If guidance never fades, learners may complete tasks successfully without building independence [[claims/expertise-reversal-effect]] [~M].
+- **Practice without diagnosis**: Repetition alone is weak when misconceptions are not noticed and corrected.
+- **Over-fragmentation**: Excessive chunking can obscure the whole-task purpose if practice never reconnects to authentic performance.
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Primary Language
-Sleep
-Safety
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Social Awareness & Relationship Skills
-
-Cognition:
-Auditory Processing
-Attention
-Inhibition
-Long-term Memory
-Visual Processing
-Short-term Memory
-Speed of Processing
-Working Memory
-
-Language and Literacy:
-Disciplinary Literacy
-Composition
-Foundational Reading Skills
-Background Knowledge
-Digital Literacy
-Numeracy
-Oral Communication Skills
+- **Novice learners**: Benefit most when a new skill still requires support to perform successfully.
+- **Learners practicing multistep procedures**: Strong fit for literacy, numeracy, writing, digital tasks, and applied routines.
+- **Learners needing confidence through success with support**: Guided practice can make difficulty manageable without hiding the challenge.
+- **Learners transitioning from model to performance**: It bridges explanation and independent application.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Procedural fluency**: Rehearsing a skill accurately enough that it becomes more stable and efficient.
+- **Error correction during learning**: Catching misconceptions before they harden through repeated unguided practice.
+- **Transfer of responsibility**: Moving learners toward independent performance as support fades.
+- **Retention through structured practice**: Strengthening learning by applying ideas soon after they are introduced.
 
 ### Theory
 #### Supporting
-- [[theories/gagnes-conditions-of-learning-cognitive-load-theory-sweller-self-regulated-learning-zimmerman|Gagne’s Conditions of Learning
-Cognitive Load Theory (Sweller)
-Self-Regulated Learning (Zimmerman)]]
+- [[theories/cognitive-load-theory|Cognitive Load Theory]] — guided practice reduces unnecessary search and helps novices focus on meaningful steps rather than floundering.
+- Self-regulated learning — learners develop monitoring and adjustment by attempting tasks with support still available.
+- Instructional scaffolding traditions — guidance is calibrated to current performance and withdrawn as competence develops.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Some advanced learners may need less guided practice and more independent or whole-task challenge.
+- Guided practice should not replace authentic performance; it should prepare learners for it.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Bessems, K. M., Linssen, E., Lomme, M., & Van Assema, P. (2020). The effectiveness of the Good Affordable Food Intervention for adults with low socioeconomic status and small incomes. International Journal of Environmental Research and Public Health, 17(7), 25-35.​
-
-Hua, Y., Morgan, B. S., Kaldenberg, E. R., & Goo, M. (2012). Cognitive strategy instruction for functional mathematical skill: Effects for young adults with intellectual disability. Education and Training in Autism and Developmental Disabilities, 345-358.​
-
-Knouse, L. E., Rawson, K. A., & Dunlosky, J. (2020). How much do college students with ADHD benefit from retrieval practice when learning key-term definitions? Learning and Instruction, 68, 101-130.​
-
-Lenz, B. K., Sturomski, N. A., & Corley, M. A. (1998). Serving adults with learning disabilities: Implications for effective practice (Report 070). Office of Vocational and Adult Education.​
-
-Massengill, D. (2004). The impact of using guided reading to teach low-literate adults. Journal of Adolescent & Adult Literacy, 47(7), 588-602.​
-
-McAvinue, L. P., Golemme, M., Castorina, M., Tatti, E., Pigni, F. M., Salomone, S., Brennan, S., & Robertson, I. H. (2013). An evaluation of a working memory training scheme in older adults. Frontiers in Aging Neuroscience, 5, 20.​
-
-National Research Council. (2012). Improving adult literacy instruction: Supporting learning and motivation. National Academies Press.​
-
-Numrich, C., & Kennedy, A. S. (2017). Providing guided practice in discourse synthesis. TESOL Journal, 8(1), 28-43.​
-
-Suh, E. (2009). Metapragmatic requesting instruction in an adult basic education ESL classroom: A pilot study. MinneWITESOL Journal, 26, 19-37.​
-
-Titone, C., Sherman, S., & Palmer, R. (1998). Cultivating student teachers' dispositions and ability to construct knowledge. Action in Teacher Education, 19(4), 76–87.​
-
-Williams, B. (2001). Developing critical reflection for professional practice through problem‐based learning. Journal of Advanced Nursing, 34(1), 27-34.​
-
-Yang, L. (2011). Practice-oriented retest learning as the basic form of cognitive plasticity of the aging brain. Journal of Aging Research, 2011.​
-
-Yeh, Y. C., Huang, L. Y., & Yeh, Y. L. (2011). Knowledge management in blended learning: Effects on professional development in creativity instruction. Computers & Education, 56(1), 146-156.
+- [[claims/contingent-scaffolding-improves-learning]] [+S]
+- [[claims/fading-support-promotes-transfer-of-responsibility]] [+S]
+- [[claims/worked-examples-example-problem-sequences]] [+S]
+- [[claims/expertise-reversal-effect]] [~M]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/worked-examples|Worked Examples]] — guided practice often follows worked examples so learners can apply a model immediately.
+- [[principles/scaffolding-and-fading|Scaffolding and Fading]] — guided practice is one of the main places where contingent support and fading are enacted.
+- [[principles/immediate-feedback|Immediate Feedback]] — the quality of guided practice depends heavily on quick correction and coaching.
+- [[principles/chunking|Chunking]] — breaking complex tasks into manageable parts often makes guided practice more workable for novices.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Teacher-led problem solving**: Learners solve a near-transfer item while the instructor prompts, checks, and intervenes only where needed.
+- **Supported writing conferences**: Learners draft or revise with short targeted coaching on one or two moves at a time.
+- **Guided reading or decoding practice**: Learners rehearse a specific reading move with immediate cueing and correction.
+- **Software practice with hints**: A digital system provides step-level prompts that fade as accuracy improves.
 
 ## Key Sources
-- <!-- TODO -->
+- National Research Council. (2012). *Improving adult literacy instruction: Supporting learning and motivation*. National Academies Press. [https://doi.org/10.17226/13468](https://doi.org/10.17226/13468)
+- Numrich, C., & Kennedy, A. S. (2017). Providing guided practice in discourse synthesis. *TESOL Journal, 8*(1), 28-43. [https://doi.org/10.1002/tesj.254](https://doi.org/10.1002/tesj.254)
+- Massengill, D. (2004). The impact of using guided reading to teach low-literate adults. *Journal of Adolescent & Adult Literacy, 47*(7), 588-602. [https://doi.org/10.1598/JAAL.47.7.5](https://doi.org/10.1598/JAAL.47.7.5)
+- Hua, Y., Morgan, B. S., Kaldenberg, E. R., & Goo, M. (2012). Cognitive strategy instruction for functional mathematical skill: Effects for young adults with intellectual disability. *Education and Training in Autism and Developmental Disabilities, 47*(3), 345-358.

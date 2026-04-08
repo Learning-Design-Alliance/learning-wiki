@@ -20,11 +20,11 @@ Explicitly teach mathematical academic vocabulary, including math-specific terms
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - ELLs in math classrooms
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding of math concepts through vocabulary instruction, improve ability to use math vocabulary in context, leverage learners' home languages to support learning
 
 ### Affordances

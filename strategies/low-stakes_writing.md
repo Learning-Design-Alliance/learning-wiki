@@ -20,11 +20,11 @@ Teachers at University Park Campus School used daily low-stakes writing activiti
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels and subjects.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster student voice, self-confidence, and critical thinking skills. Provide frequent opportunities for writing practice. Reduce anxiety around writing.
 
 ### Affordances

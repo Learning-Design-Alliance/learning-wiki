@@ -20,11 +20,11 @@ Retrieval practice involves actively recalling information from memory without h
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in various subjects
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve long-term retention, foster deeper understanding, enhance metacognition, and identify gaps in knowledge
 
 ### Affordances

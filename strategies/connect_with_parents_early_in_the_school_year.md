@@ -20,11 +20,11 @@ Connecting with parents as soon as possible in the school year through personali
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers, educators, and school staff
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve communication, build relationships, increase parent engagement
 
 ### Affordances

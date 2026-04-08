@@ -20,11 +20,11 @@ Videos are dynamic resources for supporting curricula, engaging students through
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K–12 students, auditory and visual learners, English language learners (with subtitles)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student engagement, improve reading and literacy skills, cater to auditory and visual learners, provide interactive instruction
 
 ### Affordances

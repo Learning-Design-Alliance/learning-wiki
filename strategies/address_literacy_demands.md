@@ -20,11 +20,11 @@ Recognize that students may not share the ability to automatically read, interpr
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 educators, higher education instructors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance student comprehension, reduce frustration and overwhelm, improve communication effectiveness, promote equitable access to information
 
 ### Affordances

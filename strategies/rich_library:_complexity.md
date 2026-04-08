@@ -20,11 +20,11 @@ Providing access to a diverse collection of reading materials that vary in acade
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for K-12 students and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Supports literacy, reading fluency, disciplinary literacy, background knowledge, and learner motivation
 
 ### Affordances

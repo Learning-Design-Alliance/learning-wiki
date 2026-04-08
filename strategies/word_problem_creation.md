@@ -20,11 +20,11 @@ Learners select math operations and create multistep word problems for peers to 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Upper elementary, middle school, and high school learners, particularly those studying math and related subjects.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Apply math operations in real-world contexts, enhance problem-solving skills, integrate math and literacy skills, promote creative thinking, and develop peer assessment abilities.
 
 ### Affordances

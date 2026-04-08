@@ -20,11 +20,11 @@ Offering students frequent opportunities to share feedback and revise their work
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners, particularly beneficial for building a strong sense of community within the classroom.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a supportive classroom culture, foster relationships among students, promote growth and progress, improve student work through meaningful feedback.
 
 ### Affordances

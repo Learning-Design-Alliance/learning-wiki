@@ -20,11 +20,11 @@ Creating a shared vocabulary or metalanguage empowers learners to analyze and di
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners involved in multimodal composition, especially those new to the concept or needing support in articulating their design choices.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower learners with the language to analyze and discuss multimodal compositions. Develop understanding of different modes of communication and their applications.
 
 ### Affordances

@@ -18,11 +18,11 @@ Learners revisit and revise their responses after discussion or additional learn
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for STEM, writing-intensive disciplines, and formative learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage deeper learning by refining initial thoughts.
 
 ### Affordances

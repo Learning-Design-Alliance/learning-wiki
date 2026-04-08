@@ -18,11 +18,11 @@ Learning progresses from basic concepts to more detailed, complex ideas.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for subjects with cumulative knowledge structures.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure learners develop a strong foundation before tackling advanced topics.
 
 ### Affordances

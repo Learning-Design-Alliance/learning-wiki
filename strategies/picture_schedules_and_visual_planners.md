@@ -20,11 +20,11 @@ Picture schedules or visual planners use images to lay out the steps to do a tas
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with organization, visual learners, young learners, learners with reading difficulties
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Support task completion, reduce stress associated with reading, improve routine adherence
 
 ### Affordances

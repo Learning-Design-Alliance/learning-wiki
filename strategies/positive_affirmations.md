@@ -20,11 +20,11 @@ Using positive affirmations involves creating and repeating positive statements 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for individuals seeking to improve self-perception and overcome limiting beliefs.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Build self-confidence, enhance self-esteem, promote positive thinking, influence subconscious mind, develop a more optimistic outlook.
 
 ### Affordances

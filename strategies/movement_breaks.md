@@ -20,11 +20,11 @@ Movement breaks are brief, structured activities incorporated into classroom set
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly K–12, but also applicable in higher education and professional development settings where sedentary behavior is common.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner energy and focus, improve blood flow to the brain, stimulate cognitive function, manage stress, and enhance self-regulation.
 
 ### Affordances

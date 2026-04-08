@@ -20,11 +20,11 @@ Classroom noise levels significantly impact teacher and student performance. Exc
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students, teachers, and administrators
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student engagement, reduce stress, and enhance academic achievement by minimizing classroom noise
 
 ### Affordances

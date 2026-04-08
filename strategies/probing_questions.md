@@ -20,11 +20,11 @@ Probing questions are used to encourage deeper reflection and critical thinking 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for higher education and professional development.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance critical thinking skills, promote deeper understanding, and encourage self-reflection.
 
 ### Affordances

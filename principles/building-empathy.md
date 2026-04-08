@@ -1,61 +1,69 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Building Empathy
 
 ## Description
-Building empathy involves fostering the ability to understand and share the feelings of others, which is crucial for effective communication and collaboration. For adult learners, developing empathy can enhance interpersonal relationships, improve teamwork, and create inclusive environments. Strategies to build empathy include perspective-taking exercises, engaging with diverse narratives, and practicing active listening.
+Building empathy is the instructional principle of helping learners understand how other people perceive, feel, and interpret a situation. In learning environments, empathy matters because it improves listening, collaboration, conflict navigation, and the ability to respond thoughtfully across differences in experience or identity. It is usually cultivated through structured perspective-taking, dialogue, narrative exposure, reflection, and authentic interaction rather than through abstract exhortation alone.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **Structured perspective-taking**: Learners need prompts, scenarios, or narratives that make another person's point of view concrete.
+- **Psychological safety**: Empathy-building work requires norms that reduce ridicule, defensiveness, and performative disclosure.
+- **Skilled facilitation**: Instructors need to help learners distinguish understanding another perspective from simply agreeing with it.
+- **Reflection opportunities**: Learners need time to compare their assumptions with what they heard or observed.
 #### Constraints
-- <!-- TODO -->
+- **Forced disclosure**: Activities that pressure learners to expose trauma, identity, or private experience can backfire.
+- **Superficial role play**: Empathy does not grow from caricature or thin simulations that flatten other people's lived reality.
+- **Identity threat**: Poorly facilitated dialogue can heighten defensiveness rather than perspective-taking.
+- **Indirect evidence base in this repo**: Current linked claims here mainly support reflection, explanation, and transfer mechanisms rather than empathy-specific outcomes directly.
 
 ### Target Learners
-- - Learner Background: Adverse Experiences
-- Socioeconomic Status
-- Social Supports
-- Primary Language 
- - Social and Emotional Learning: Emotion
-- Motivation
-- Self-Regulation
-- Sense of Belonging
-- Social Awareness & Relationship Skills 
- - Cognition: Cognitive Flexibility
-- Attention
-- Working Memory 
- - Language and Literacy: Oral Communication Skills
+- **Learners working in groups or communities**: Particularly relevant when collaboration, discussion, or service is central to the learning design.
+- **Learners navigating difference**: Useful in multicultural, interdisciplinary, and civic learning contexts where understanding other perspectives matters.
+- **Learners developing communication and relationship skills**: Strong fit for oral communication, leadership, mentoring, and conflict resolution goals.
+- **Learners with rigid initial assumptions**: Structured empathy work can help unsettle oversimplified views and expand interpretation.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Perspective-taking**: Recognizing how a situation can look different from another position or experience.
+- **Improved listening and discussion**: Responding to others with greater care, curiosity, and specificity.
+- **Inclusive collaboration**: Working more productively across different backgrounds, roles, and priorities.
+- **Reflective judgment**: Noticing one's own assumptions and revising them after dialogue or observation.
 
 ### Theory
 #### Supporting
-- [[theories/social-learning-theory-bandura-learning-occurs-through-observation-and-interaction|- Social Learning Theory (Bandura): Learning occurs through observation and interaction]]
-- [[theories/suggesting-that-empathetic-behaviors-can-be-modeled-and-adopted-transformative-learning-theory-mezirow-highlights-the-importance-of-critical-reflection-on-personal-experiences-to-foster-perspective-transformation|suggesting that empathetic behaviors can be modeled and adopted. 
- - Transformative Learning Theory (Mezirow): Highlights the importance of critical reflection on personal experiences to foster perspective transformation]]
-- [[theories/leading-to-greater-empathy|leading to greater empathy.]]
+- Social learning theory — learners pick up empathic discourse and listening practices by observing modeled interaction.
+- Transformative learning theory — empathy can deepen when learners critically examine assumptions and encounter disorienting alternative perspectives.
+- Social constructivist views of learning — understanding is built through dialogue with other people, not in isolation.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Empathy-building is not value-neutral; facilitation choices shape whose experiences are centered and whose are simplified.
+- Perspective-taking activities can increase confidence in misunderstanding if learners infer too much from too little evidence.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- - Nelsestuen, K., & Smith, J. (2020). Empathy interviews. The Learning Professional, 41(5), 59-59. 
- - Sachs, M. E., Kaplan, J., & Habibi, A. (2019). Echoing the emotions of others: Empathy is related to how adults and children map emotion onto the body. Cognition & Emotion, 33(8), 1639–1654. 
- - Setlhodi, I. I. (2018). Mentoring in the web-class for adult learners. In Handbook of Research on Student-Centered Strategies in Online Adult Learning Environments (pp. 206-220). IGI Global.
+- [[claims/self-explanation-improves-conceptual-understanding]] [~M]
+- [[claims/whole-task-performance-improves-transfer]] [~M]
+
+These are indirect anchors: in this repo, the strongest nearby evidence supports explanation, authentic participation, and transfer mechanisms that empathy-building activities often rely on, rather than empathy as a standalone outcome.
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/perspective-seekingmultiple-perspectives|Perspective Seeking/Multiple Perspectives]] — empathy often grows when learners examine the same issue from more than one position.
+- [[principles/peer-discussion|Peer Discussion]] — dialogue is one of the most common vehicles for empathy-building.
+- [[principles/communities-of-practice|Communities of Practice]] — recurring participation in a community can deepen understanding of others' roles and constraints.
+- [[principles/debriefing|Debriefing]] — reflection after interaction helps convert experience into changed interpretation.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- **Empathy interviews**: Learners interview a peer, client, or community member using prompts focused on needs, frustrations, and lived experience.
+- **Perspective journaling**: After discussion or field observation, learners write from another stakeholder's viewpoint and then reflect on what they still do not know.
+- **Narrative comparison**: Learners compare multiple first-person or community narratives about the same issue before discussion.
+- **Structured listening rounds**: Small groups take turns summarizing another person's view before offering their own response.
 
 ## Key Sources
-- <!-- TODO -->
+- Nelsestuen, K., & Smith, J. (2020). Empathy interviews. *The Learning Professional, 41*(5), 59-59.
+- Sachs, M. E., Kaplan, J., & Habibi, A. (2019). Echoing the emotions of others: Empathy is related to how adults and children map emotion onto the body. *Cognition & Emotion, 33*(8), 1639-1654. [https://doi.org/10.1080/02699931.2019.1577226](https://doi.org/10.1080/02699931.2019.1577226)
+- Setlhodi, I. I. (2018). Mentoring in the web-class for adult learners. In *Handbook of research on student-centered strategies in online adult learning environments* (pp. 206-220). IGI Global. [https://doi.org/10.4018/978-1-5225-5084-4.ch010](https://doi.org/10.4018/978-1-5225-5084-4.ch010)

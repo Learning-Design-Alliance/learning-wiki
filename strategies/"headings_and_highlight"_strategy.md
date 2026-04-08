@@ -20,11 +20,11 @@ The "Headings and Highlight" Strategy is a digital reading technique designed to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school and high school students, particularly in social studies or other content-heavy subjects
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance reading comprehension, promote collaborative discussion, develop critical thinking skills, encourage justification with text evidence
 
 ### Affordances

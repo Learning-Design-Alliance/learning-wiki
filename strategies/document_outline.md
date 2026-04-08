@@ -20,11 +20,11 @@ The "Document outline" tool in Google Docs can be an easy and effective way to a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle and high school students, particularly for essay writing
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Organize main ideas and supporting evidence, enhance writing skills, simplify the outlining process
 
 ### Affordances

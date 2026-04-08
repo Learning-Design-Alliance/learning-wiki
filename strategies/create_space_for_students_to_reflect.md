@@ -20,11 +20,11 @@ Providing structured opportunities for students to pause, reflect, and think abo
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 learners, particularly beneficial for students who may experience trauma or anxiety in traditional settings.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote socio-emotional learning, reduce stress and anxiety, enhance self-awareness, foster a culture of reflection, provide a safe and supportive learning environment.
 
 ### Affordances

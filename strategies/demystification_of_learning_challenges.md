@@ -20,11 +20,11 @@ Demystification involves explaining to learners how memory and learning work, es
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with learning or have learning disabilities, parents and educators who want to support learners effectively
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase self-awareness, promote a growth mindset, reduce frustration and anxiety related to learning challenges, encourage the use of effective strategies
 
 ### Affordances

@@ -18,11 +18,11 @@ Learners verbalize their thinking to peers, strengthening their own understandin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce conceptual understanding through articulation.
 
 ### Affordances

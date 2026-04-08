@@ -20,11 +20,11 @@ A web-search scavenger hunt is a fun way to help students learn how to effective
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Effectively use search engines to find accurate information.
 
 ### Affordances

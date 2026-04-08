@@ -20,11 +20,11 @@ Learners are divided into 4 groups. Three of these groups are assigned to repres
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for secondary and higher education learners, particularly those studying literature, history, and social sciences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote critical thinking, foster perspective-taking, encourage collaboration and peer teaching, deepen understanding of complex topics
 
 ### Affordances

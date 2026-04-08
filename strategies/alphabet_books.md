@@ -20,11 +20,11 @@ Alphabet books involve students creating entries for each letter of the alphabet
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for upper elementary and middle school levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop vocabulary, introduce a genre, provide experience in the writing process, and promote mathematical communication.
 
 ### Affordances

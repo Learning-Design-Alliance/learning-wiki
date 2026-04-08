@@ -20,11 +20,11 @@ An attention check is a practice where a teacher announces a short pause, and st
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve focus, reduce stress, enhance self-regulation, improve cognitive function
 
 ### Affordances

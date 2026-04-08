@@ -20,11 +20,11 @@ De-emphasizing answers and spending more time on reasoning can build confidence.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly those who are answer-focused or who have a fear of being incorrect.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a growth mindset, enhance self-reflection, and improve learning outcomes
 
 ### Affordances

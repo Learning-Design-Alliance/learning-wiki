@@ -20,11 +20,11 @@ If you have time to scroll Facebook or watch the news, you probably have a momen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - General audience
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enable learners to quickly assess the credibility of news stories by asking critical questions.
 
 ### Affordances

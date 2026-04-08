@@ -20,11 +20,11 @@ Visualizing involves creating a mental image or representation of a problem or t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially visual learners and those who benefit from concrete representations.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve problem-solving skills, and promote creative thinking.
 
 ### Affordances

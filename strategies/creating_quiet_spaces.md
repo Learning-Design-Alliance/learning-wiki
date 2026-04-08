@@ -20,11 +20,11 @@ Creating quiet spaces involves designating areas in the learning environment whe
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, including K–12, higher education, and adult learners in professional development programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote self-regulation, support learner well-being, enhance concentration, reduce stress, create a calming environment
 
 ### Affordances

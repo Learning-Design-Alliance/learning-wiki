@@ -20,11 +20,11 @@ Conceptual understanding must precede and coincide with instruction on procedure
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develops deep understanding, improves long-term memory, reduces errors, promotes reasoning strategies
 
 ### Affordances

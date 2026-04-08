@@ -20,11 +20,11 @@ Incorporating movement, social interaction, and distributed learning to enhance 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students and adult learners in various subjects. Beneficial for students who have difficulty sitting still or who need movement to reset their brain.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve student engagement, increase retention of information, support focus and attention, promote social-emotional learning, and provide opportunities for students to process information effectively.
 
 ### Affordances

@@ -20,11 +20,11 @@ KWL (Know, Want to know, Learned) charts are advance organizers that help studen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly effective for introducing new topics and units.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Activate prior knowledge, set learning goals, monitor comprehension, and promote reflection on learning.
 
 ### Affordances

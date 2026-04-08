@@ -20,11 +20,11 @@ Motor images, also known as muscle memory, involve using physical movements and 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for kinesthetic learners and those who struggle with rote memorization
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance memory recall, improve retention of procedures and information, increase engagement through physical activity, cater to kinesthetic learning styles
 
 ### Affordances

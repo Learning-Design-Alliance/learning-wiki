@@ -20,11 +20,11 @@ Explicit teaching of the elements of a summary of a text leads to improved abili
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All writers, especially those needing to summarize complex texts
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve summarization skills, enhance reading comprehension, build confidence
 
 ### Affordances

@@ -20,11 +20,11 @@ Same as speed-sums, except whoever find the difference between the two numbers f
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-4, adaptable to other grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce subtraction skills, improve mental math speed, promote quick thinking, encourage competition
 
 ### Affordances

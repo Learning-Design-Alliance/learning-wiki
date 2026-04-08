@@ -20,11 +20,11 @@ Teach students various mindfulness strategies, from meditation and deep breathin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who struggle with managing stress and emotions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop self-awareness, improve emotional regulation, reduce stress and anxiety
 
 ### Affordances

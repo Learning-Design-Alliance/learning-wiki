@@ -18,11 +18,11 @@ Measures learner progress and determines mastery of content.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for structured learning programs, including certification courses.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Evaluate skill acquisition and conceptual understanding.
 
 ### Affordances

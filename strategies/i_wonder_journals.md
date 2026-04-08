@@ -20,11 +20,11 @@ At Crellin Elementary School in Oakland, Maryland, teachers encouraged students 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly useful for elementary school students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster curiosity and inquiry. Encourage critical thinking. Help teachers understand student questions and interests.
 
 ### Affordances

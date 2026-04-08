@@ -20,11 +20,11 @@ BOOKMATCH is a tool for helping students select just-right books for independent
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school students (Grades 6-8), also adaptable for upper elementary and high school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop metacognitive awareness of reading preferences, improve skills in selecting just-right books, foster independent thinking, and encourage active reading
 
 ### Affordances

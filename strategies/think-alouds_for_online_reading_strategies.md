@@ -20,11 +20,11 @@ Teachers model their online reading strategies through think-alouds. This involv
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and adult learners who need to improve their digital literacy skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-regulation, build background knowledge, improve online reading comprehension, develop information literacy skills
 
 ### Affordances

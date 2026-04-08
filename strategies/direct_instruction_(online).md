@@ -20,11 +20,11 @@ Direct instruction in online learning involves pre-developed presentations, asse
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Online learners of all levels, particularly those needing structured guidance and clear explanations
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Clarify concepts, diagnose misconceptions, assess student understanding, provide resources for further practice
 
 ### Affordances

@@ -20,11 +20,11 @@ A game played in partners where children roll two dice to determine the dimensio
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primary school children
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop multiplication fact fluency, understand area models
 
 ### Affordances

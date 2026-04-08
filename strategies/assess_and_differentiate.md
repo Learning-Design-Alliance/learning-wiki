@@ -20,11 +20,11 @@ It is important to assess not only the content but also the language as you scaf
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All students, particularly ELL students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Inform instruction, provide targeted support, and promote student growth.
 
 ### Affordances

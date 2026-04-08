@@ -18,11 +18,11 @@ Instructors or advanced learners demonstrate expert thinking and behavior.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for skill-based learning, STEM, and vocational training.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide structured exposure to expert-level reasoning.
 
 ### Affordances

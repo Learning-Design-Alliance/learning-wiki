@@ -20,11 +20,11 @@ Flashcards are a study tool used for memorization and reinforcement of knowledge
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for learners of all ages and levels across various subjects. Especially useful for memorizing facts, vocabulary, definitions, and concepts.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve memory, reinforce knowledge, facilitate efficient study habits, and optimize learning outcomes.
 
 ### Affordances

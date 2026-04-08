@@ -20,11 +20,11 @@ Incorporating web dictionaries and thesauruses into vocabulary lessons allows le
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those in vocabulary lessons or those who encounter unfamiliar words while reading
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve vocabulary acquisition, enhance reading comprehension, promote active learning, support self-directed learning
 
 ### Affordances

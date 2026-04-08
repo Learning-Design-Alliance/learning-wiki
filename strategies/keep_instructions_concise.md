@@ -20,11 +20,11 @@ Avoid lengthy instructions, especially for learners with low English proficiency
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those with low English proficiency or attention challenges.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reduce cognitive overload and improve comprehension for all learners.
 
 ### Affordances

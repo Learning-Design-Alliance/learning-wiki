@@ -20,11 +20,11 @@ Sufficient time is allowed for learners to process information and re-read mater
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners who struggle with processing speed, those who benefit from extra time, and students who need support with reflection.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve comprehension, support deeper processing, enhance reflection, reduce anxiety, and promote successful learning.
 
 ### Affordances

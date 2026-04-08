@@ -20,11 +20,11 @@ An activity that uses cards with different representations of the same numerical
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Primary school children
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop multiplication fact fluency, understand different representations of numbers
 
 ### Affordances

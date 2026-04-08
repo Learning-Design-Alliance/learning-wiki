@@ -20,11 +20,11 @@ Guided peer response using Turnitin PeerMark™ involves instructors pre-setting
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Higher education, adult learners, and professional development programs where structured feedback processes are beneficial.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide structured peer feedback, ensure feedback addresses specific criteria, and facilitate easy supervision and collation of learner responses.
 
 ### Affordances

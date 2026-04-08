@@ -1,107 +1,71 @@
 ---
 type: principle
-status: draft
-last_edited: 2026-04-06
+status: review
+last_edited: 2026-04-07
+edited_by: Codex
 ---
 
 # Video Replay Analysis
 
 ## Description
-Analyzing short video clips, replays of important aspects, and videos of oneself applying what has been learned can improve Metacognition and Long-term Memory while fostering a Learner Mindset. When the analysis involves clips of the learning in action that can be paused for review, interaction, and discussion, it supports deeper reflection, Reasoning, and Cognitive Flexibility.
+Video replay analysis uses recorded performance, instruction, or interaction as an object for review. Learners or instructors pause, revisit, and analyze moments that would otherwise pass too quickly to examine. This makes it possible to notice decisions, patterns, cues, and missed opportunities with much more precision than relying on memory alone.
+
+The principle is especially valuable for performance domains where timing, communication, physical execution, or situational judgment matter. Replay creates distance from the original event, which can support more accurate reflection and discussion. Its usefulness depends on focus: simply watching video again is less powerful than analyzing it against a question, standard, or goal.
 
 ## Implications
 
 ### Context
 #### Requirements
-- <!-- TODO -->
+- **A clear analytic focus**: Learners need to know what they are looking for in the replay.
+- **Pause-and-discuss opportunities**: Video is most useful when learners can stop, annotate, compare, or explain key moments.
+- **Feedback or debrief structure**: Replay analysis works best when paired with coaching, self-explanation, or guided reflection.
+- **Psychological safety**: Reviewing one's own performance requires norms that keep critique specific and constructive.
 #### Constraints
-- <!-- TODO -->
+- **Replay without criteria**: Watching video repeatedly without a lens often produces shallow commentary.
+- **Overemphasis on surface features**: Learners may focus on visible details and miss underlying reasoning.
+- **Performance anxiety**: Self-video can feel exposing or threatening without careful framing.
+- **Technical and privacy barriers**: Recording, storage, and access need to be handled responsibly.
 
 ### Target Learners
-- Learner Background:
-Adverse Experiences
-Hearing
-Primary Language
-Vision
-Sleep
-Safety
-Socioeconomic Status
-
-Social and Emotional Learning:
-Emotion
-Self-regulation
-Motivation
-Learner Mindset
-Stereotype Threat
-
-Cognition:
-Auditory Processing
-Cognitive Flexibility
-Attention
-Inhibition
-Long-term Memory
-Visual Processing
-Reasoning
-Short-term Memory
-Metacognition
-Speed of Processing
-Working Memory
-
-Language and Literacy:
-Disciplinary Literacy
-Composition
-Background Knowledge
-Digital Literacy
-Oral Communication Skills
-Problem Solving
+- **Learners in performance-heavy domains**: Strong fit for teaching, speaking, clinical, technical, athletic, and workplace practice.
+- **Learners developing metacognitive awareness**: Replay can help learners notice habits they miss in the moment.
+- **Learners benefiting from concrete evidence**: Video gives a shared object for discussion instead of relying on vague recall.
+- **Adult and professional learners**: Useful when improvement depends on analyzing authentic practice.
 
 ### Target Learning Objectives
-- <!-- TODO -->
+- **Self-assessment and reflection**: Noticing strengths, errors, and alternatives in one's own performance.
+- **Performance improvement**: Identifying specific moments to revise in later attempts.
+- **Reasoning about practice**: Connecting visible action to intention, decision making, and outcomes.
+- **Feedback literacy**: Learning to interpret evidence and use critique productively.
 
 ### Theory
 #### Supporting
-- [[theories/metacognition-implicit-in-self-regulated-learning-zimmerman-multimedia-learning-theory-mayer-dual-coding-theory-paivio|Metacognition (Implicit in Self-Regulated Learning - Zimmerman)
-Multimedia Learning Theory (Mayer)
-Dual Coding Theory (Paivio)]]
+- Metacognitive and self-regulated learning perspectives — replay supports monitoring, evaluation, and revision.
+- Multimedia learning perspectives — video can preserve multiple cues that learners can revisit and integrate.
+- Reflective practice traditions — practitioners improve when they examine concrete records of action.
 #### Contradicting / Qualifying
-- <!-- TODO -->
+- Replay analysis needs focus and facilitation; video by itself does not guarantee insight.
+- Learners may need to analyze others before analyzing themselves if self-review is too cognitively or emotionally demanding at first.
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
-- Akcan, S. (2010). Watching teacher candidates watch themselves: Reflections on a practicum program in Turkey. Profile Issues in Teachers Professional Development, 12(1), 33-45.
-
-Baecher, L. & McCormack, B. (2015). The impact of video review on supervisory conferencing. Language and Education, 29(2).
-
-Cocca, P., Marciano, F., & Alberti, M. (2016). Video surveillance systems to enhance occupational safety: A case study. Safety Science, 84, 140-148.
-
-Dovigo, F. (2020). Through the eyes of inclusion: An evaluation of video analysis as a reflective tool for student teachers within special education. European Journal of Teacher Education, 43(1), 110-126.
-
-Fadde, P., & Sullivan, P. (2013). Using interactive video to develop preservice teachers' classroom awareness. Contemporary Issues in Technology and Teacher Education, 13(2), 156-174
-
-Green, J. (2018). If a picture is worth a thousand words, what is a video worth? The impact of video on interaction and reflection in the post-observation conference. Kent State University.
-
-Halter, C. (2006). The reflective lens: The effects of video analysis on preservice teacher development. UC San Diego. ProQuest ID: umi-ucsd-1186.
-
-Hambach, J., Tenberg, R., & Metternich, J. (2015). Guideline-based video analysis of competencies for a target-oriented continuous improvement process. The 5th Conference on Learning Factories, 25-30.
-
-Knobel, A., Overheu, D., Gruessing, M., Juergensen, I., & Struewer, J. (2018). Regular, in-situ, team-based training in trauma resuscitation with video debriefing enhances confidence and clinical efficiency. BMC Medical Education, 18.
-
-Nagro, S. A. (2020). Reflecting on others before reflecting on self: Using video evidence to guide teacher candidates' reflective practices. Journal of Teacher Education, 71(4), 420-433.
-
-Noe, R. A. & Kodwani, A. D. (2018). Employee Training and Development, 7e. (2018). (n.p.): McGraw-Hill Education.
-
-Spitz, J., Moors, P., Wagemans, J. & Helsen, W. F. (2018). The impact of video speed on the decision-making process of sports officials. Cognitive Research: Principles and Implications, 3(16).
-
-Tripp, T. R. & Rich, P. J. (2012). The influence of video analysis on the process of teacher change. Teaching and Teacher Education, 28(5), 728-739.
-
-Whitehead, T. L. & Andrighetti, T. (2019). Enhancing online learning using video vignettes: A learner centered approach. Published presentation of Conference for the Scholarship of Teaching & Learning.
+- [[claims/self-monitoring-improves-self-regulation]] [+M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [[claims/contingent-scaffolding-improves-learning]] [~M]
 
 ## Related Principles
-- <!-- TODO -->
+- [[principles/purposeful-reflection|Purposeful Reflection]] — replay provides concrete evidence for reflection instead of relying on memory alone.
+- [[principles/immediate-feedback|Immediate Feedback]] — replay can make feedback more specific and discussable.
+- [[principles/self-monitoring|Self-monitoring]] — video helps learners compare what they intended with what they actually did.
+- [[principles/multimodal-instruction|Multimodal Instruction]] — replay adds a visual and auditory record that learners can revisit.
 
 ## Examples
-<!-- Links to elements or patterns that apply this principle -->
-- <!-- TODO -->
+- [[elements/reflection|Reflection]]
+- [[elements/feedback|Feedback]]
+- **Teaching practicum replay**: Candidates pause classroom footage to analyze questioning, pacing, or responses to learners.
+- **Presentation review**: Learners examine a recorded talk to identify clarity, structure, and delivery choices.
 
 ## Key Sources
-- <!-- TODO -->
+- Baecher, L., & McCormack, B. (2015). The impact of video review on supervisory conferencing. *Language and Education, 29*(2), 153-167. [https://doi.org/10.1080/09500782.2014.994528](https://doi.org/10.1080/09500782.2014.994528)
+- Dovigo, F. (2020). Through the eyes of inclusion: An evaluation of video analysis as a reflective tool for student teachers within special education. *European Journal of Teacher Education, 43*(1), 110-126. [https://doi.org/10.1080/02619768.2019.1693993](https://doi.org/10.1080/02619768.2019.1693993)
+- Nagro, S. A. (2020). Reflecting on others before reflecting on self: Using video evidence to guide teacher candidates' reflective practices. *Journal of Teacher Education, 71*(4), 420-433. [https://doi.org/10.1177/0022487119872700](https://doi.org/10.1177/0022487119872700)
+- Tripp, T. R., & Rich, P. J. (2012). The influence of video analysis on the process of teacher change. *Teaching and Teacher Education, 28*(5), 728-739. [https://doi.org/10.1016/j.tate.2012.01.011](https://doi.org/10.1016/j.tate.2012.01.011)

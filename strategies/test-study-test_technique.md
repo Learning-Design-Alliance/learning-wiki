@@ -20,11 +20,11 @@ The test-study-test technique is a spelling instruction strategy where students 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, as well as adult learners needing to improve spelling skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling accuracy, enhance error recognition, and focus study efforts on problem areas
 
 ### Affordances

@@ -20,11 +20,11 @@ Instructors demonstrate the writing process in real-time, in front of learners, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective for secondary and higher education students learning specific writing skills or genres
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Demystify the writing process, enhance understanding of writing strategies, improve learners' writing skills, promote collaborative learning
 
 ### Affordances

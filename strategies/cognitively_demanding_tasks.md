@@ -20,11 +20,11 @@ Cognitively demanding tasks require a high level of cognitive engagement to comp
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 teachers, school and district leaders, and math coaches
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop critical thinking, make connections between mathematical ideas, enhance problem-solving skills, promote mathematical discourse
 
 ### Affordances

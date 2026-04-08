@@ -18,11 +18,11 @@ Learners explain concepts to peers, reinforcing their own understanding.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for cooperative learning, STEM, and professional training.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen comprehension through peer-led instruction.
 
 ### Affordances

@@ -20,11 +20,11 @@ Interim and summative assessments both measure learning over time. Interim asses
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners in online or blended learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Measure learning over time, show individual student progress, compare student performance against standards, evaluate the efficacy of instruction.
 
 ### Affordances

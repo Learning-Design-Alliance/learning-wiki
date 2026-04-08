@@ -20,11 +20,11 @@ Training staff in behaviors, attitudes, and policies that enable effective cross
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - School staff (teachers, administrators, counselors)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance cross-cultural relationships, improve family-school partnerships, and support student learning.
 
 ### Affordances

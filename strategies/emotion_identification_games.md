@@ -20,11 +20,11 @@ These activities involve various games and exercises to help children recognize 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Young children, particularly in early childhood and primary school settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve recognition and labeling of emotions; promote emotional expression; enhance social interaction and understanding of others' feelings
 
 ### Affordances

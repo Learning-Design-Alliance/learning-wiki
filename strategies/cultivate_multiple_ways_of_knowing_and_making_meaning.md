@@ -20,11 +20,11 @@ Honoring multiple and diverse ways of developing understandings of the world ens
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners; suitable for K–12, higher education, and adult learning environments
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote inclusivity, value diversity, foster creativity, support individual expression
 
 ### Affordances

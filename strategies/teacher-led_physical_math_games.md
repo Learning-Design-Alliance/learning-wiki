@@ -27,11 +27,11 @@ Teacher-led physical activities integrate movement and mathematical practice in 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Especially suitable for K–4, but adaptable to older and younger grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Integrate physical activity with mathematical concepts, enhance student engagement, reinforce learning, and improve focus.
 
 ### Affordances

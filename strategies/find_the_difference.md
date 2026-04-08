@@ -20,11 +20,11 @@ Similar to 'Find the Total', but learners subtract to find the difference betwee
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Pre-K to 1st Grade learners who are developing subtraction skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Practice subtraction, enhance mental math, promote understanding of subtraction strategies
 
 ### Affordances

@@ -20,11 +20,11 @@ Incorporate play by joining in play in the pretend area and starting conversatio
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Younger learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To support learners to act out emotions in pretend play.
 
 ### Affordances

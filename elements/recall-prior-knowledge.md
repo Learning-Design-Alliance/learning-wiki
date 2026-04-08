@@ -18,11 +18,11 @@ Activates learners' existing mental models to connect new information.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for learners in conceptual and applied disciplines such as STEM and humanities.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate deeper learning by linking new concepts to prior knowledge.
 
 ### Affordances

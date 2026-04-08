@@ -20,11 +20,11 @@ Planning for physical activity is essential for pre-teens and teenagers to ensur
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Pre-teens and teenagers
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase physical activity, balance daily activities, promote a healthy lifestyle
 
 ### Affordances

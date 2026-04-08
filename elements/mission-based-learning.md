@@ -18,11 +18,11 @@ Learners engage in a structured, goal-oriented challenge.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for gamified learning, project-based learning, and business training.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen motivation and engagement.
 
 ### Affordances

@@ -20,11 +20,11 @@ Engage in effective online communication with empathy by taking the time to read
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students, educators, and anyone engaging in online communities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote understanding, empathy, and effective communication in digital interactions, support ethical digital citizenship
 
 ### Affordances

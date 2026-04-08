@@ -20,11 +20,11 @@ Learners use graphic organizers to structure notes from readings, research, film
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly beneficial for visual learners and those who benefit from structured learning
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Organize information, identify relationships between concepts, improve comprehension and retention
 
 ### Affordances

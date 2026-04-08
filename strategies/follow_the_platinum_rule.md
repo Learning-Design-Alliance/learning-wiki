@@ -20,11 +20,11 @@ Treat others the way they want and need to be treated. Focus on understanding wh
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, mentors, counselors, leaders
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote empathy, enhance interpersonal understanding, improve relationships
 
 ### Affordances

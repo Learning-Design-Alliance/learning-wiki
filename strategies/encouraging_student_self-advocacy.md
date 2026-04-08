@@ -20,11 +20,11 @@ Empowering learners to communicate their needs, understand their rights, and act
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students in grades 3-8, students with disabilities, and adult learners in any setting
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop learners' ability to articulate their needs, seek appropriate support, and take ownership of their learning journey.
 
 ### Affordances

@@ -20,11 +20,11 @@ Reducing the power differential between instructor and students by acting more a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Empower students, increase intrinsic motivation, create a nurturing environment, share culturally relevant material
 
 ### Affordances

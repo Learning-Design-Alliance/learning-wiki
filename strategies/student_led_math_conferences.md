@@ -20,11 +20,11 @@ Throughout the year, teachers can have personal math conferences with the studen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reflect on progress, identify areas for strengthening, write personal goals
 
 ### Affordances

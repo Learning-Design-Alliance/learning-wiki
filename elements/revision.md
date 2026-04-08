@@ -18,11 +18,11 @@ Learners improve their work based on feedback and self-reflection.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for writing, research, and creative disciplines.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop critical thinking and refinement skills.
 
 ### Affordances

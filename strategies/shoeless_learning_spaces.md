@@ -20,11 +20,11 @@ Creating shoeless learning spaces where children often learn with shoes off, per
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase comfort, reduce stress, promote relaxation
 
 ### Affordances

@@ -20,11 +20,11 @@ Audio books provide an auditory learning experience where the text of a book is 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Beneficial for all learners, particularly effective for struggling readers, English language learners, and students with visual impairments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve listening comprehension, increase vocabulary, enhance reading fluency, support diverse learning styles, and foster a love of literature.
 
 ### Affordances

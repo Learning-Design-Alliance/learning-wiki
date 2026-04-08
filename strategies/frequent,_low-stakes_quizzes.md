@@ -20,11 +20,11 @@ Administering frequent quizzes with minimal impact on grades to reinforce learni
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, especially beneficial for students who may struggle with high-stakes testing environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Reinforce learning, identify gaps in understanding, reduce test anxiety, provide frequent feedback, encourage practice
 
 ### Affordances

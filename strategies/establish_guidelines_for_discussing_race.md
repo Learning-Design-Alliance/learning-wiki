@@ -20,11 +20,11 @@ Establish guidelines or agreements for group members to make when having discuss
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages, educators, and community members
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a safe and respectful environment for discussing race, promote open and honest communication, encourage active listening, and facilitate understanding of diverse perspectives.
 
 ### Affordances

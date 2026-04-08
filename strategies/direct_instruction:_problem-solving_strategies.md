@@ -20,11 +20,11 @@ Instructors teach and model various strategies for tackling problems, then give 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop problem-solving skills, enhance mathematical flexibility, improve conceptual understanding
 
 ### Affordances

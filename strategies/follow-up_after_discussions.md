@@ -20,11 +20,11 @@ Teachers encourage students to take actions to address inequities revealed durin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students of all ages and backgrounds engaging in discussions about social justice or equity issues.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote a sense of agency and empowerment, translate discussions into concrete actions, provide support and resources for students processing emotions, and foster a sense of community and collective responsibility.
 
 ### Affordances

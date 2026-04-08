@@ -20,11 +20,11 @@ Making Connections is a comprehension strategy that helps learners relate a text
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Grades 3-12
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve reading comprehension, enhance engagement, activate prior knowledge, make personal connections to text, relate text to other texts and the world.
 
 ### Affordances

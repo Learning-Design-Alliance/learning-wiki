@@ -20,11 +20,11 @@ Reframing involves rephrasing negative thoughts, statements, or situations into 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12 students who are learning to manage negative thoughts and develop a more positive self-perception.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - To help students transform negative thoughts into positive alternatives, promoting a growth mindset.
 
 ### Affordances

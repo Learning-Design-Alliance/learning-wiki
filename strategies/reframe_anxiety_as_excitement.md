@@ -20,11 +20,11 @@ This technique involves changing one’s mindset from anxiety to excitement, lev
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Learners of all ages experiencing math anxiety or performance anxiety
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance math performance, shift mindset from threat to opportunity, improve problem-solving focus
 
 ### Affordances

@@ -20,11 +20,11 @@ Flexible seating involves providing learners with a variety of seating options a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly K–12, higher education, and adult learners in various educational settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase learner engagement, promote collaboration, support individual learning preferences, improve learner outcomes
 
 ### Affordances

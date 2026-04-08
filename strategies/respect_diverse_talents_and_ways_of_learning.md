@@ -20,11 +20,11 @@ There are many roads to learning. People bring different talents and styles of l
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Tutees in higher education or adult learning programs
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance inclusivity and engagement, promote individualized learning, support diverse learning styles and talents.
 
 ### Affordances

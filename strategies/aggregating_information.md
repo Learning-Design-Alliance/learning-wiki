@@ -20,11 +20,11 @@ Aggregating involves finding and displaying patterns in discussions and other co
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who benefit from collaborative learning and synthesis of information
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Identify patterns, connect ideas, develop shared understanding
 
 ### Affordances

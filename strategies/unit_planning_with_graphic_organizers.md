@@ -20,11 +20,11 @@ When introducing a unit to students, show them how the parts of the unit fit tog
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide students with a sense of where they are in the unit at any given time.
 
 ### Affordances

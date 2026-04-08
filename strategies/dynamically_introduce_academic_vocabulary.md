@@ -20,11 +20,11 @@ Use repeated encounters with a word in various authentic contexts to help learne
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase vocabulary, improve retention, increase Disciplinary Literacy skills
 
 ### Affordances

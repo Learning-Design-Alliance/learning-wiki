@@ -20,11 +20,11 @@ Self-reinforcement involves using effort-based and behavior-specific praise to e
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students struggling with writing assignments, particularly those with learning and thinking differences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase motivation and engagement; improve comfort with writing skills; reduce negative thoughts; promote a positive mindset
 
 ### Affordances

@@ -20,11 +20,11 @@ Learning clubs are a grouping system used to organize active learning events bas
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve research skills, develop digital literacy, foster collaborative discussions, increase student engagement
 
 ### Affordances

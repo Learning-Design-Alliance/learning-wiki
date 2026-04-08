@@ -20,11 +20,11 @@ Connecting math to students' personal strengths involves helping students unders
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and adult learners struggling with math
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Increase student confidence, make math more relevant, activate student expertise, improve engagement
 
 ### Affordances

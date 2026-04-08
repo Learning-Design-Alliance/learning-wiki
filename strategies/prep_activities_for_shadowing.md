@@ -20,11 +20,11 @@ This involves creating learning goals for the shadowing day, choosing a student 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Educators, school leaders, and product designers who are planning to shadow a student and want to maximize the value of the experience.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prepare educators for a meaningful shadowing experience, set learning goals, choose an appropriate student to shadow, coordinate logistics, and foster an open mindset.
 
 ### Affordances

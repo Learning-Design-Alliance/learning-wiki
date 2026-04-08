@@ -20,11 +20,11 @@ Fishbowl is a strategy for facilitating group discussions. In a Fishbowl discuss
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for students in grades 6–12, advisory, civics and citizenship, English and language arts, history, and social studies. Useful in diverse educational settings to ensure all students participate and reflect on effective discussion.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Encourage active participation, improve listening skills, promote reflection on discussion dynamics, and provide a structure for discussing controversial topics.
 
 ### Affordances

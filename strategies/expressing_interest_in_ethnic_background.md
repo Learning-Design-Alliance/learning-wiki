@@ -20,11 +20,11 @@ Teachers demonstrate genuine care for students' cultural needs by encouraging th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers in multicultural classrooms (K-12, higher education)
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster a trusting classroom environment, increase cultural awareness, analyze and celebrate cultural differences, improve pronunciation of names
 
 ### Affordances

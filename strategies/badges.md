@@ -20,11 +20,11 @@ Badges are a digital way to acknowledge learner work. Learners can receive a bad
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Acknowledge learner work, reward achievement, encourage participation, demonstrate a variety of achievements.
 
 ### Affordances

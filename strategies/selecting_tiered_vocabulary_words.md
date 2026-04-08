@@ -20,11 +20,11 @@ Categorize vocabulary words into three tiers to prioritize instruction: Tier 1 (
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly middle and high school learners, and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Prioritize vocabulary instruction, focus on high-impact words, tailor instruction to learner needs, promote independent word selection
 
 ### Affordances

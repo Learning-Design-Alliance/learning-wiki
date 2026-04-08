@@ -20,11 +20,11 @@ Use simulated environments or situations that mirror real-world challenges. Enga
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, particularly those who benefit from hands-on learning
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance engagement, apply knowledge to real-world situations, promote decision-making skills
 
 ### Affordances

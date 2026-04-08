@@ -20,11 +20,11 @@ Activities that engage multiple senses (visual, auditory, kinesthetic, tactile) 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for learners who struggle with attention or need more active learning experiences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve learning and retention, engage multiple senses, enhance social-emotional connection to learning, refocus attention
 
 ### Affordances

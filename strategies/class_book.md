@@ -20,11 +20,11 @@ Class books involve students creating individual pages that are compiled into a 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Suitable for elementary and middle school levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Provide an authentic audience, encourage revision and editing, promote mathematical communication, and foster individual creativity.
 
 ### Affordances

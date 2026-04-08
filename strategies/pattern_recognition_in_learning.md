@@ -20,11 +20,11 @@ Pattern recognition is a cognitive process where the brain identifies recurring 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for learners who benefit from contextual learning and those who struggle with rote memorization
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance memory recall, improve understanding of complex concepts, promote critical thinking skills, increase engagement with learning material
 
 ### Affordances

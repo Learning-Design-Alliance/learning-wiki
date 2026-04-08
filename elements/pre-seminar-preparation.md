@@ -18,11 +18,11 @@ Learners review content before engaging in discussion-based activities.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for flipped classrooms and higher education.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Ensure learners arrive with foundational knowledge.
 
 ### Affordances

@@ -20,11 +20,11 @@ Multiplicative double counting involves tracking all three units (groups, unit r
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students transitioning from repeated addition to multiplicative thinking, particularly those struggling with conceptual understanding of multiplication.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Develop a deeper conceptual understanding of multiplication, division, fractions, ratios, proportions, and algebra by tracking all three units in multiplication problems.
 
 ### Affordances

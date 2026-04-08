@@ -18,11 +18,11 @@ Learners engage in structured conversations with classmates to explore and refin
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Effective for all disciplines, especially discussion-heavy fields like humanities and business.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance understanding through articulation, debate, and collaboration.
 
 ### Affordances

@@ -20,11 +20,11 @@ Supporting the application of learning to new contexts. This involves providing 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learners, especially those who need to apply their knowledge in real-world situations
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance application of knowledge, improve transfer of learning, increase relevance of learning, promote durability of learning
 
 ### Affordances

@@ -20,11 +20,11 @@ Learners pick a current news item and explore it from different points of view, 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adult learners with an interest in current affairs and a desire to develop critical thinking skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote critical thinking, enhance media literacy, encourage perspective-taking, improve communication skills
 
 ### Affordances

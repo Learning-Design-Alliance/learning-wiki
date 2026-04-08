@@ -20,11 +20,11 @@ Explicit spelling instruction involves directly teaching spelling rules, pattern
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Elementary, middle, and high school students, as well as adult learners needing to improve basic literacy skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve spelling accuracy, enhance reading skills, and build word recognition
 
 ### Affordances

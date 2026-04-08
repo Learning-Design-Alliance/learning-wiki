@@ -20,11 +20,11 @@ Learners use estimation and prediction skills by asking how they might do on an 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Students who need to improve their ability to estimate their performance and time management skills.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance self-awareness, improve accuracy in self-assessment, and develop realistic expectations about task completion.
 
 ### Affordances

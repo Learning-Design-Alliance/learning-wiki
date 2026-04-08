@@ -20,11 +20,11 @@ Invite students to think about their thinking. Conduct discussions about student
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly effective in classrooms where a strong sense of community and trust has been established
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Foster metacognition, enhance problem-solving skills, and build habits of empathy, flexibility, and persistence.
 
 ### Affordances

@@ -20,11 +20,11 @@ Maintaining a positive attitude in all interactions, from classrooms to playgrou
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All educators aiming to create a positive and supportive learning environment
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Create a positive classroom and school environment, improve student well-being, enhance student success, and foster a culture of optimism
 
 ### Affordances

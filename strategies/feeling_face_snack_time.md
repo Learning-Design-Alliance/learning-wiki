@@ -20,11 +20,11 @@ Learners pull a 'feeling face' card and eat their snack while showing the matchi
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Early childhood and elementary students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Enhance emotional expression, improve emotional awareness, promote positive associations with emotional expression
 
 ### Affordances

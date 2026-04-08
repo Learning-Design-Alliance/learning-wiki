@@ -20,11 +20,11 @@ This strategy involves accepting what happened after processing emotions, taking
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Adults seeking to resolve interpersonal conflicts and learn from their mistakes.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote acceptance, encourage taking responsibility, and foster open communication to resolve conflicts and strengthen relationships.
 
 ### Affordances

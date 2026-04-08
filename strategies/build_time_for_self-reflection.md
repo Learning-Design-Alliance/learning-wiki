@@ -20,11 +20,11 @@ Providing a chance for teachers to reflect upon their new ideas and consider wha
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Teachers and educators at all levels, particularly those seeking to improve their teaching practices or reflect on their professional development experiences
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Promote critical thinking and self-awareness among teachers, encourage continuous improvement and professional growth, and foster a deeper understanding of teaching practices and their impact on student learning.
 
 ### Affordances

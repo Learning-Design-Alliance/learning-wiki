@@ -18,11 +18,11 @@ Learners receive input from instructors or peers to refine their work.
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Best for all learning contexts, particularly formative education.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Strengthen knowledge acquisition and iterative improvement.
 
 ### Affordances

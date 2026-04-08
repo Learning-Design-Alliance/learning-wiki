@@ -20,11 +20,11 @@ Establishing pre-arranged talk partners helps to streamline pair talk activities
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - All grade levels, particularly useful in classrooms where pair talk is a frequent instructional strategy.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Facilitate efficient and equitable pair discussions, promote a comfortable and routine environment for pair talk, ensure that all students have a designated partner for collaborative activities.
 
 ### Affordances

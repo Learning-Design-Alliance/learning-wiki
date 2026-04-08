@@ -20,11 +20,11 @@ Scaffolded peer review involves providing learners with structured support and g
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Middle school, high school, and higher education
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims -->
 - Improve the quality and effectiveness of peer feedback, build confidence in providing critique, and foster a culture of constructive criticism
 
 ### Affordances
