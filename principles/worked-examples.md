@@ -12,7 +12,7 @@ Worked examples present a partially or fully solved problem so learners can stud
 
 ## Implications
 
-Worked examples are most effective when learners are new to a task or domain. By externalizing problem structure, they reduce the unproductive search that novices would otherwise spend on unguided problem solving [[claims/we-1]] [+M]. A meta-analysis of mathematics outcomes confirms medium performance benefits across grade levels [[claims/we-5]] [+S]. These benefits are not automatic: examples must be paired with practice, fading, or reflection to support transfer [[claims/we-2]] [+S], and prompting learners to explain a solution to themselves amplifies learning beyond passive study. As expertise grows, explicit guidance becomes redundant and can impede performance [[claims/we-3]] [~M], shifting the design challenge from providing structure to progressively removing it.
+Worked examples are most effective when learners are new to a task or domain. By externalizing problem structure, they reduce the unproductive search that novices would otherwise spend on unguided problem solving [[claims/worked-examples-reduce-novice-search]] [+M]. A meta-analysis of mathematics outcomes confirms medium performance benefits across grade levels [[claims/worked-examples-improve-math-performance]] [+S]. These benefits are not automatic: examples must be paired with practice, fading, or reflection to support transfer [[claims/worked-examples-with-practice-improve-transfer]] [+S], and prompting learners to explain a solution to themselves amplifies learning beyond passive study. As expertise grows, explicit guidance becomes redundant and can impede performance [[claims/worked-examples-less-effective-with-expertise]] [~M], shifting the design challenge from providing structure to progressively removing it.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Worked examples are most effective when learners are new to a task or domain. By
 - Novice learners encountering a domain or representation for the first time
 - Learners at risk of cognitive overload during unguided problem solving
 - Learners acquiring procedural skills that have clear correct steps
-- Effects diminish as expertise increases [[claims/we-3]] [~M] — reduce or fade examples as competence develops
+- Effects diminish as expertise increases [[claims/worked-examples-less-effective-with-expertise]] [~M] — reduce or fade examples as competence develops
 
 ### Target Learning Objectives
 - Early schema formation: building a mental model of task structure
@@ -48,11 +48,11 @@ Worked examples are most effective when learners are new to a task or domain. By
 - [[theories/constructivism]] — emphasizes that learners build understanding through active generation and exploration; over-reliance on worked examples may reduce generative processing and limit transfer to novel problems
 
 ### Claims
-- [[claims/we-1]] [+M] — worked examples reduce unnecessary search for novices
-- [[claims/we-2]] [+S] — pairing examples with practice or fading supports transfer
-- [[claims/we-3]] [~M] — guidance becomes redundant as expertise grows (expertise reversal)
+- [[claims/worked-examples-reduce-novice-search]] [+M] — worked examples reduce unnecessary search for novices
+- [[claims/worked-examples-with-practice-improve-transfer]] [+S] — pairing examples with practice or fading supports transfer
+- [[claims/worked-examples-less-effective-with-expertise]] [~M] — guidance becomes redundant as expertise grows (expertise reversal)
 - [[claims/worked-examples-example-problem-sequences]] [+S] — example–problem sequences reduce cognitive load and improve outcomes vs. problem-only practice
-- [[claims/we-5]] [+S] — worked examples improve math performance across grades (meta-analysis)
+- [[claims/worked-examples-improve-math-performance]] [+S] — worked examples improve math performance across grades (meta-analysis)
 
 ## Related Principles
 - [[principles/purposeful-reflection|Purposeful Reflection]] — worked examples gain power when paired with structured prompts to reflect on why each step was taken

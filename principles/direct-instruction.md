@@ -12,7 +12,7 @@ Direct instruction is the principle of teaching explicitly through clear explana
 
 ## Implications
 
-Direct instruction is strongest when learners need a clear model of what success looks like, what steps matter, and how to avoid unproductive confusion early in learning. The principle is often misunderstood as “lecture,” but its instructional core is explicitness: the teacher names the goal, demonstrates the process, checks understanding, and supports early performance before fading responsibility. That matters because novice learners benefit when instruction reduces unguided search and makes correct structure visible [[claims/we-1]] [+M], and it works best when teacher support adapts to learner performance rather than following a rigid script alone [[claims/contingent-scaffolding-improves-learning]] [~M]. The main design challenge is calibration. Too little guidance leaves novices searching blindly; too much guidance, held for too long, becomes redundant as expertise grows [[claims/we-3]] [~M].
+Direct instruction is strongest when learners need a clear model of what success looks like, what steps matter, and how to avoid unproductive confusion early in learning. The principle is often misunderstood as “lecture,” but its instructional core is explicitness: the teacher names the goal, demonstrates the process, checks understanding, and supports early performance before fading responsibility. That matters because novice learners benefit when instruction reduces unguided search and makes correct structure visible [[claims/worked-examples-reduce-novice-search]] [+M], and it works best when teacher support adapts to learner performance rather than following a rigid script alone [[claims/contingent-scaffolding-improves-learning]] [~M]. The main design challenge is calibration. Too little guidance leaves novices searching blindly; too much guidance, held for too long, becomes redundant as expertise grows [[claims/worked-examples-less-effective-with-expertise]] [~M].
 
 ### Context
 #### Requirements
@@ -44,9 +44,9 @@ Direct instruction is strongest when learners need a clear model of what success
 - [[theories/constructivism|Constructivism]] — qualifies that explanation alone is insufficient for deep understanding and that learners still need to actively process, explain, and apply what they are taught
 
 ### Claims
-- [[claims/we-1]] [+M] — novice learners benefit when instruction reduces unguided search and makes correct structure visible
+- [[claims/worked-examples-reduce-novice-search]] [+M] — novice learners benefit when instruction reduces unguided search and makes correct structure visible
 - [[claims/contingent-scaffolding-improves-learning]] [~M] — direct instruction is stronger when teacher support adapts to learner performance rather than following a rigid script alone
-- [[claims/we-3]] [~M] — the usefulness of high-guidance instruction drops as learner expertise increases
+- [[claims/worked-examples-less-effective-with-expertise]] [~M] — the usefulness of high-guidance instruction drops as learner expertise increases
 
 ## Related Principles
 - [[principles/explicit-instruction|Explicit Instruction]] — direct instruction is a concrete expression of the broader explicitness principle

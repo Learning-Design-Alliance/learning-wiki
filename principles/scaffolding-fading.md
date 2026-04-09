@@ -12,7 +12,7 @@ Scaffolding & Fading is the short-form canonical target for designs that provide
 
 ## Implications
 
-Scaffolding and fading matter when learners are expected to perform work they cannot yet do independently but can accomplish with the right support. The principle is not simply “help, then stop helping.” Support has to be calibrated to need, and [[claims/contingent-scaffolding-improves-learning]] supports adapting help to learner performance rather than fixing it in advance. The reduction of support also has to respond to evidence of growing capability. Too much support held too long creates dependency and redundancy, which is consistent with [[claims/we-3]]. Too little support or premature fading destabilizes performance before the learner has a workable schema or routine, while [[claims/we-1]] supports heavier early guidance for novices.
+Scaffolding and fading matter when learners are expected to perform work they cannot yet do independently but can accomplish with the right support. The principle is not simply “help, then stop helping.” Support has to be calibrated to need, and [[claims/contingent-scaffolding-improves-learning]] supports adapting help to learner performance rather than fixing it in advance. The reduction of support also has to respond to evidence of growing capability. Too much support held too long creates dependency and redundancy, which is consistent with [[claims/worked-examples-less-effective-with-expertise]]. Too little support or premature fading destabilizes performance before the learner has a workable schema or routine, while [[claims/worked-examples-reduce-novice-search]] supports heavier early guidance for novices.
 
 ### Context
 #### Requirements
@@ -44,8 +44,8 @@ Scaffolding and fading matter when learners are expected to perform work they ca
 
 ### Claims
 - [[claims/contingent-scaffolding-improves-learning]] [+M] — support is stronger when it adapts to learner performance rather than staying fixed
-- [[claims/we-3]] [~M] — guidance becomes redundant as expertise grows, so fading is essential
-- [[claims/we-1]] [+M] — early support can reduce blind search for novices before independence develops
+- [[claims/worked-examples-less-effective-with-expertise]] [~M] — guidance becomes redundant as expertise grows, so fading is essential
+- [[claims/worked-examples-reduce-novice-search]] [+M] — early support can reduce blind search for novices before independence develops
 
 ## Related Principles
 - [[principles/scaffolding|Scaffolding]] — the broader principle of temporary support during learning

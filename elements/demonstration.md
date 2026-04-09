@@ -12,7 +12,7 @@ A demonstration presents a complete or partial model of a skill, process, or sol
 
 ## Design Implications
 
-Demonstrations reduce the cognitive burden of initial skill acquisition by giving learners a reference model to study and imitate [[claims/we-1]] [+M]. Their value depends heavily on how thinking is made visible: narrated or annotated demonstrations that explain reasoning produce better learning than silent ones. Demonstrations should be followed by practice opportunities, since passive observation without application leads to shallow encoding [[claims/we-2]] [+S].
+Demonstrations reduce the cognitive burden of initial skill acquisition by giving learners a reference model to study and imitate [[claims/worked-examples-reduce-novice-search]] [+M]. Their value depends heavily on how thinking is made visible: narrated or annotated demonstrations that explain reasoning produce better learning than silent ones. Demonstrations should be followed by practice opportunities, since passive observation without application leads to shallow encoding [[claims/worked-examples-with-practice-improve-transfer]] [+S].
 
 ### Context
 #### Requirements
@@ -21,14 +21,14 @@ Demonstrations reduce the cognitive burden of initial skill acquisition by givin
 - A follow-on activity that requires learners to apply what they observed ([[elements/practice|Practice]])
 
 #### Constraints
-- Passive observation without prompts or practice creates illusions of understanding [[claims/we-2]] [-S] — learners often overestimate how much they have learned from watching alone
+- Passive observation without prompts or practice creates illusions of understanding [[claims/worked-examples-with-practice-improve-transfer]] [-S] — learners often overestimate how much they have learned from watching alone
 - Less effective for open-ended or creative tasks where there is no single correct approach
 - Can anchor learners to a single solution method; pairing with [[elements/non-examples|Non-Examples]] or [[elements/comparing-cases|Comparing Cases]] reduces this risk
 
 ### Target Learners
-- Novices encountering a skill or process for the first time [[claims/we-1]] [+M]
+- Novices encountering a skill or process for the first time [[claims/worked-examples-reduce-novice-search]] [+M]
 - Learners with limited prior knowledge who would otherwise spend effort on unguided search
-- Less beneficial for learners with strong prior knowledge, who may find explicit modeling redundant [[claims/we-3]] [~M]
+- Less beneficial for learners with strong prior knowledge, who may find explicit modeling redundant [[claims/worked-examples-less-effective-with-expertise]] [~M]
 
 ### Target Learning Goals
 - Procedural skill acquisition: understanding the steps of a process

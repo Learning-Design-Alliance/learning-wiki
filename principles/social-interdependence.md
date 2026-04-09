@@ -11,7 +11,7 @@ edited_by: Codex
 Social interdependence is the principle that the structure of relationships among learners shapes the quality of collaboration, motivation, and learning. It is useful when tasks require learners to depend on each other's contributions rather than merely work side by side.
 
 ## Implications
-Social interdependence means that collaboration quality depends less on putting learners in groups than on whether the task creates real mutual reliance. Shared goals, role clarity, and accountability usually improve cooperation because each learner’s contribution affects the group’s success, and [[claims/we-5]] supports the broader point that structured guidance can produce measurable learning benefits beyond leaving learners to coordinate on their own. When those structures are weak, collaboration often degrades into free-riding, domination, or shallow division of labor instead of stronger reasoning. This is why [[claims/we-3]] is also relevant here as a qualification: support and structure need to change with learner capability rather than remain fixed or disappear prematurely.
+Social interdependence means that collaboration quality depends less on putting learners in groups than on whether the task creates real mutual reliance. Shared goals, role clarity, and accountability usually improve cooperation because each learner’s contribution affects the group’s success, and [[claims/worked-examples-improve-math-performance]] supports the broader point that structured guidance can produce measurable learning benefits beyond leaving learners to coordinate on their own. When those structures are weak, collaboration often degrades into free-riding, domination, or shallow division of labor instead of stronger reasoning. This is why [[claims/worked-examples-less-effective-with-expertise]] is also relevant here as a qualification: support and structure need to change with learner capability rather than remain fixed or disappear prematurely.
 
 ### Context
 #### Requirements
@@ -29,8 +29,8 @@ Social interdependence means that collaboration quality depends less on putting 
 - [[principles/community-of-inquiry|Community of Inquiry]]
 
 ### Claims
-- [[claims/we-3]] [+S] — Collaboration structures need to be responsive to learner capability; fixed guidance can become redundant or poorly matched over time.
-- [[claims/we-5]] [~S] — Well-structured guidance can improve outcomes more than leaving learners to rely on loosely organized collaboration alone.
+- [[claims/worked-examples-less-effective-with-expertise]] [+S] — Collaboration structures need to be responsive to learner capability; fixed guidance can become redundant or poorly matched over time.
+- [[claims/worked-examples-improve-math-performance]] [~S] — Well-structured guidance can improve outcomes more than leaving learners to rely on loosely organized collaboration alone.
 
 ## Related Principles
 - [[principles/collaborative-learning|Collaborative Learning]]

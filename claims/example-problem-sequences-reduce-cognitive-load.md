@@ -1,6 +1,6 @@
 ---
 type: claim
-id: we-4
+id: example-problem-sequences-reduce-cognitive-load
 status: review
 last_edited: 2026-04-07
 evidence_strength: moderate
@@ -30,9 +30,9 @@ Novices in all example-based conditions outperformed the problem-only condition 
 
 ## Discussion
 
-This page exists because multiple principle and index pages reference `[[claims/we-4]]`. The fuller treatment of the same claim is in [[claims/worked-examples-example-problem-sequences]].
+This page exists because multiple principle and index pages reference `[[claims/example-problem-sequences-reduce-cognitive-load]]`. The fuller treatment of the same claim is in [[claims/worked-examples-example-problem-sequences]].
 
 ## Related Claims
-- [[claims/we-1]]
-- [[claims/we-2]]
+- [[claims/worked-examples-reduce-novice-search]]
+- [[claims/worked-examples-with-practice-improve-transfer]]
 - [[claims/worked-examples-example-problem-sequences]]

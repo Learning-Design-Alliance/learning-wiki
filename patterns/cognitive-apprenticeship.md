@@ -14,7 +14,7 @@ Cognitive apprenticeship adapts the structure of traditional craft apprenticeshi
 
 ## Implications
 
-The pattern is grounded in the idea that expert performance is largely tacit: practitioners cannot simply tell novices what to do because much of their knowledge is embedded in practice rather than explicit rules. By externalizing expert reasoning through [[elements/think-aloud|think-aloud]] and [[elements/demonstration|demonstration]], cognitive apprenticeship makes that tacit knowledge learnable. The sequence of modeling → coaching → fading mirrors the natural progression from high support to independence, reducing cognitive load during acquisition [[claims/we-1]] [+M] while building the metacognitive awareness needed for self-regulated performance.
+The pattern is grounded in the idea that expert performance is largely tacit: practitioners cannot simply tell novices what to do because much of their knowledge is embedded in practice rather than explicit rules. By externalizing expert reasoning through [[elements/think-aloud|think-aloud]] and [[elements/demonstration|demonstration]], cognitive apprenticeship makes that tacit knowledge learnable. The sequence of modeling → coaching → fading mirrors the natural progression from high support to independence, reducing cognitive load during acquisition [[claims/worked-examples-reduce-novice-search]] [+M] while building the metacognitive awareness needed for self-regulated performance.
 
 ### Context
 #### Requirements
@@ -26,7 +26,7 @@ The pattern is grounded in the idea that expert performance is largely tacit: pr
 #### Constraints
 - Time-intensive; difficult to scale in large classrooms without significant support structures
 - Quality depends heavily on the instructor's ability to articulate reasoning, which varies widely
-- Premature fading (removing support before competence develops) can cause setbacks [[claims/we-3]] [~M]
+- Premature fading (removing support before competence develops) can cause setbacks [[claims/worked-examples-less-effective-with-expertise]] [~M]
 - Less effective for well-defined procedural tasks where direct instruction is more efficient
 
 #### Grain Size
@@ -53,12 +53,12 @@ Course or unit — the full modeling → coaching → fading arc typically unfol
 
 ### Claims
 #### Supporting
-- [[claims/we-1]] [+M] — worked examples (the modeling phase) reduce unnecessary search for novices
-- [[claims/we-2]] [+S] — pairing demonstration with practice supports transfer
+- [[claims/worked-examples-reduce-novice-search]] [+M] — worked examples (the modeling phase) reduce unnecessary search for novices
+- [[claims/worked-examples-with-practice-improve-transfer]] [+S] — pairing demonstration with practice supports transfer
 - [[claims/worked-examples-example-problem-sequences]] [+S] — example–problem sequences outperform problem-only practice
 
 #### Contradicting
-- [[claims/we-3]] [~M] — expertise reversal: too much guidance can impede learners who already have strong prior knowledge
+- [[claims/worked-examples-less-effective-with-expertise]] [~M] — expertise reversal: too much guidance can impede learners who already have strong prior knowledge
 
 ## Design
 

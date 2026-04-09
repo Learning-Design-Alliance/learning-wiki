@@ -12,7 +12,7 @@ Modeling is the principle of making successful performance visible so learners c
 
 ## Implications
 
-Modeling matters when learners cannot infer expert processes from finished products alone. A completed essay, proof, or solution often hides the actual decisions that produced it. Effective modeling externalizes those hidden decisions: what to notice, what to prioritize, why a step happens now instead of later, and how errors are handled [[claims/we-1]] [+M]. The principle is especially powerful early in learning, and it becomes stronger when learners explain the modeled decisions rather than merely watch them [[claims/self-explanation-improves-conceptual-understanding]] [+S]. It weakens if the model is too polished, too compressed, or never followed by supported learner performance, and highly explicit modeling should be reduced as expertise grows [[claims/we-3]] [~M].
+Modeling matters when learners cannot infer expert processes from finished products alone. A completed essay, proof, or solution often hides the actual decisions that produced it. Effective modeling externalizes those hidden decisions: what to notice, what to prioritize, why a step happens now instead of later, and how errors are handled [[claims/worked-examples-reduce-novice-search]] [+M]. The principle is especially powerful early in learning, and it becomes stronger when learners explain the modeled decisions rather than merely watch them [[claims/self-explanation-improves-conceptual-understanding]] [+S]. It weakens if the model is too polished, too compressed, or never followed by supported learner performance, and highly explicit modeling should be reduced as expertise grows [[claims/worked-examples-less-effective-with-expertise]] [~M].
 
 ### Context
 #### Requirements
@@ -44,9 +44,9 @@ Modeling matters when learners cannot infer expert processes from finished produ
 - [[theories/constructivism|Constructivism]] — observing a model is not enough unless learners actively process, explain, and apply what they saw
 
 ### Claims
-- [[claims/we-1]] [+M] — learners benefit when modeled solutions reduce blind search and make correct structure visible
+- [[claims/worked-examples-reduce-novice-search]] [+M] — learners benefit when modeled solutions reduce blind search and make correct structure visible
 - [[claims/self-explanation-improves-conceptual-understanding]] [+S] — modeling is stronger when learners explain the modeled decisions rather than merely watch them
-- [[claims/we-3]] [~M] — the value of highly explicit modeling declines as expertise grows and support should be faded
+- [[claims/worked-examples-less-effective-with-expertise]] [~M] — the value of highly explicit modeling declines as expertise grows and support should be faded
 
 ## Related Principles
 - [[principles/observationshadowing|Observation/Shadowing]] — both principles rely on seeing performance, but modeling is usually more intentionally annotated and instructional

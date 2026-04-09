@@ -1,6 +1,6 @@
 ---
 type: theory
-status: draft
+status: review
 last_edited: 2026-04-08
 ---
 

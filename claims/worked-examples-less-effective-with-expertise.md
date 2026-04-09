@@ -1,7 +1,7 @@
 ---
 type: claim
-id: we-3
-status: draft
+id: worked-examples-less-effective-with-expertise
+status: review
 last_edited: 2026-04-07
 evidence_strength: moderate
 edited_by: Codex
@@ -34,5 +34,5 @@ The design implication is not to remove structure abruptly. It is to fade it as 
 
 ## Related Claims
 - [[claims/expertise-reversal-effect]]
-- [[claims/we-1]]
+- [[claims/worked-examples-reduce-novice-search]]
 - [[claims/fading-support-promotes-transfer-of-responsibility]]

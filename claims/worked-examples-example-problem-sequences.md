@@ -37,7 +37,7 @@ Forty-eight secondary-school novices in electrical-circuits troubleshooting were
 
 ## Related Claims
 
-- [[claims/we-1]] — worked examples reduce unnecessary search for novices
-- [[claims/we-2]] — pairing examples with practice or fading supports transfer
+- [[claims/worked-examples-reduce-novice-search]] — worked examples reduce unnecessary search for novices
+- [[claims/worked-examples-with-practice-improve-transfer]] — pairing examples with practice or fading supports transfer
 - [[claims/worked-examples-expertise-reversal]] — expertise reversal effect
-- [[claims/we-5]] — worked examples improve math performance (meta-analysis)
+- [[claims/worked-examples-improve-math-performance]] — worked examples improve math performance (meta-analysis)

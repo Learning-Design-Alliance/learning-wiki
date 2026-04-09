@@ -1,7 +1,7 @@
 ---
 type: claim
-id: we-2
-status: draft
+id: worked-examples-with-practice-improve-transfer
+status: review
 last_edited: 2026-04-07
 evidence_strength: moderate
 edited_by: Codex
@@ -41,6 +41,6 @@ Renkl and Atkinson argue that instructional design should not stop at example st
 This claim is about sequence design, not mere inclusion. Examples that are never followed by application can produce familiarity without independent competence.
 
 ## Related Claims
-- [[claims/we-1]]
-- [[claims/we-3]]
+- [[claims/worked-examples-reduce-novice-search]]
+- [[claims/worked-examples-less-effective-with-expertise]]
 - [[claims/worked-examples-example-problem-sequences]]

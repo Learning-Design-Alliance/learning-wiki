@@ -1,7 +1,7 @@
 ---
 type: claim
-id: we-1
-status: draft
+id: worked-examples-reduce-novice-search
+status: review
 last_edited: 2026-04-07
 evidence_strength: moderate
 edited_by: Codex
@@ -33,6 +33,6 @@ Across algebra-learning conditions, learners who studied worked examples perform
 The claim is strongest for novices. Once learners already possess the underlying schema, the same example can become redundant rather than helpful.
 
 ## Related Claims
-- [[claims/we-2]]
-- [[claims/we-3]]
+- [[claims/worked-examples-with-practice-improve-transfer]]
+- [[claims/worked-examples-less-effective-with-expertise]]
 - [[claims/worked-examples-example-problem-sequences]]

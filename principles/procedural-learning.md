@@ -12,7 +12,7 @@ Procedural learning is the principle of helping learners acquire and refine sequ
 
 ## Implications
 
-Procedural learning is most important when the learning target is a repeatable performance: solving an equation type, revising a sentence, carrying out a lab technique, debugging a workflow, or following a diagnostic sequence. The principle assumes that declarative explanation alone is not enough. Learners need models that reduce blind search at the start [[claims/we-1]] [+M], repeated performance guided by process-focused attention [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M], timely feedback, and support that adapts as performance improves [[claims/contingent-scaffolding-improves-learning]] [~M]. Its main limitation is transfer: if the procedure is learned only as rote sequence without conceptual grounding, learners may struggle when conditions change.
+Procedural learning is most important when the learning target is a repeatable performance: solving an equation type, revising a sentence, carrying out a lab technique, debugging a workflow, or following a diagnostic sequence. The principle assumes that declarative explanation alone is not enough. Learners need models that reduce blind search at the start [[claims/worked-examples-reduce-novice-search]] [+M], repeated performance guided by process-focused attention [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M], timely feedback, and support that adapts as performance improves [[claims/contingent-scaffolding-improves-learning]] [~M]. Its main limitation is transfer: if the procedure is learned only as rote sequence without conceptual grounding, learners may struggle when conditions change.
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Procedural learning is most important when the learning target is a repeatable p
 - [[theories/constructivism|Constructivism]] — qualifies that procedures are more transferable when learners also understand why the procedure works
 
 ### Claims
-- [[claims/we-1]] [+M] — explicit models can reduce blind search for novices as they acquire new procedures
+- [[claims/worked-examples-reduce-novice-search]] [+M] — explicit models can reduce blind search for novices as they acquire new procedures
 - [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — novices often improve more when attention is directed to execution and process than to end-state outcomes alone
 - [[claims/contingent-scaffolding-improves-learning]] [~M] — procedural learning is stronger when support adapts to learner performance rather than staying fixed
 

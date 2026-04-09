@@ -12,7 +12,7 @@ Cognitive apprenticeship is the principle of making expert thinking visible thro
 
 ## Implications
 
-Cognitive apprenticeship is most valuable where the important knowledge is embedded in judgment, interpretation, and process rather than in declarative rules alone. It treats learning as guided entry into expert practice, and visible models are especially valuable early because they reduce unproductive search for novices [[claims/we-1]] [+M]. The instructor does not merely explain content; they model thinking, coach performance, calibrate support, and then fade assistance as learners become more capable [[claims/contingent-scaffolding-improves-learning]] [+M] [[claims/we-3]] [~M]. The principle is especially strong for writing, diagnosis, inquiry, design, and other domains where expertise is partly tacit and situated.
+Cognitive apprenticeship is most valuable where the important knowledge is embedded in judgment, interpretation, and process rather than in declarative rules alone. It treats learning as guided entry into expert practice, and visible models are especially valuable early because they reduce unproductive search for novices [[claims/worked-examples-reduce-novice-search]] [+M]. The instructor does not merely explain content; they model thinking, coach performance, calibrate support, and then fade assistance as learners become more capable [[claims/contingent-scaffolding-improves-learning]] [+M] [[claims/worked-examples-less-effective-with-expertise]] [~M]. The principle is especially strong for writing, diagnosis, inquiry, design, and other domains where expertise is partly tacit and situated.
 
 ### Context
 #### Requirements
@@ -43,9 +43,9 @@ Cognitive apprenticeship is most valuable where the important knowledge is embed
 - [[theories/constructivism|Constructivism]] — generally compatible, but qualifies that apprenticeship should still preserve learner sensemaking rather than collapse into imitation alone
 
 ### Claims
-- [[claims/we-1]] [+M] — visible models reduce unproductive search for novices during early learning
+- [[claims/worked-examples-reduce-novice-search]] [+M] — visible models reduce unproductive search for novices during early learning
 - [[claims/contingent-scaffolding-improves-learning]] [+M] — support is strongest when it adapts to learner performance rather than staying fixed
-- [[claims/we-3]] [~M] — expert guidance should be faded as learners develop stronger schemas and greater independence
+- [[claims/worked-examples-less-effective-with-expertise]] [~M] — expert guidance should be faded as learners develop stronger schemas and greater independence
 
 ## Related Principles
 - [[principles/observationshadowing|Observation/Shadowing]] — observation often provides the first exposure to expert practice before coached participation

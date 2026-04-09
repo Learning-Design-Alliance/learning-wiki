@@ -43,7 +43,7 @@ Clear structure matters when learners need to orient themselves quickly, underst
 
 ### Claims
 - [[claims/chunking-reduces-working-memory-load]] [+S] — well-structured organization can reduce working-memory demands by grouping information into meaningful units
-- [[claims/we-1]] [~M] — novices benefit when instructional structure reduces unnecessary search
+- [[claims/worked-examples-reduce-novice-search]] [~M] — novices benefit when instructional structure reduces unnecessary search
 - [[claims/self-monitoring-improves-self-regulation]] [~M] — structure is stronger when goals and progress markers are visible enough for learners to monitor against
 
 ## Related Principles

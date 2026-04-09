@@ -1,7 +1,7 @@
 ---
 type: claim
 id: gm-1
-status: draft
+status: review
 last_edited: 2026-04-06
 evidence_strength: strong
 ---

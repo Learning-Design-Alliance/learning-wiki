@@ -1,7 +1,7 @@
 ---
 type: claim
 id: we-xr-1
-status: draft
+status: review
 last_edited: 2026-04-07
 evidence_strength: moderate
 edited_by: Codex
@@ -42,5 +42,5 @@ This is the worked-example-specific form of the broader [[claims/expertise-rever
 
 ## Related Claims
 - [[claims/expertise-reversal-effect]]
-- [[claims/we-3]]
+- [[claims/worked-examples-less-effective-with-expertise]]
 - [[claims/fading-support-promotes-transfer-of-responsibility]]

@@ -12,7 +12,7 @@ The instructor presents a fully solved problem — showing each step and explain
 
 ## Design Implications
 
-By externalizing the solution process, worked examples let novices study task structure before attempting problems themselves, reducing the unproductive search that characterizes early skill acquisition [[claims/we-1]] [+M]. The strategy works best when it is not passive: prompting learners to explain each step to themselves (self-explanation) substantially amplifies learning beyond silent study. Examples should be followed immediately by a practice problem of comparable difficulty — the example-then-problem sequence improves both cognitive load and transfer outcomes compared to problem-only practice [[claims/worked-examples-example-problem-sequences]] [+S].
+By externalizing the solution process, worked examples let novices study task structure before attempting problems themselves, reducing the unproductive search that characterizes early skill acquisition [[claims/worked-examples-reduce-novice-search]] [+M]. The strategy works best when it is not passive: prompting learners to explain each step to themselves (self-explanation) substantially amplifies learning beyond silent study. Examples should be followed immediately by a practice problem of comparable difficulty — the example-then-problem sequence improves both cognitive load and transfer outcomes compared to problem-only practice [[claims/worked-examples-example-problem-sequences]] [+S].
 
 ### Context
 #### Requirements
@@ -21,9 +21,9 @@ By externalizing the solution process, worked examples let novices study task st
 - Optional: [[elements/eliciting-student-thinking|self-explanation prompts]] ("Why did we do this step?") before moving to independent practice
 
 #### Constraints
-- Does not substitute for practice; learners who only study examples without solving problems do not develop fluency [[claims/we-2]] [-S]
+- Does not substitute for practice; learners who only study examples without solving problems do not develop fluency [[claims/worked-examples-with-practice-improve-transfer]] [-S]
 - Less effective for open-ended or design tasks where there is no single correct approach
-- Benefits diminish as expertise grows; continuing to use worked examples past the novice stage can become redundant or counterproductive [[claims/we-3]] [~M]
+- Benefits diminish as expertise grows; continuing to use worked examples past the novice stage can become redundant or counterproductive [[claims/worked-examples-less-effective-with-expertise]] [~M]
 
 #### Implementation Variability
 - **Faded examples:** Progressively remove steps from successive examples, requiring learners to complete the missing parts — bridges toward fully independent problem solving
@@ -32,8 +32,8 @@ By externalizing the solution process, worked examples let novices study task st
 
 ### Target Learners
 - Novices in any domain where problem-solving involves learnable steps: mathematics, programming, science, writing, clinical reasoning
-- Learners at risk of cognitive overload during unguided problem solving [[claims/we-1]] [+M]
-- Less beneficial once learners have sufficient prior knowledge [[claims/we-3]] [~M]
+- Learners at risk of cognitive overload during unguided problem solving [[claims/worked-examples-reduce-novice-search]] [+M]
+- Less beneficial once learners have sufficient prior knowledge [[claims/worked-examples-less-effective-with-expertise]] [~M]
 
 ### Target Learning Goals
 - Early procedural fluency: understanding the steps of a solution process

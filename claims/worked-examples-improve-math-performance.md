@@ -1,7 +1,7 @@
 ---
 type: claim
-id: we-5
-status: draft
+id: worked-examples-improve-math-performance
+status: review
 last_edited: 2026-04-07
 evidence_strength: moderate
 edited_by: Codex
@@ -41,6 +41,6 @@ This algebra study found that worked-example variants, including incorrect worke
 The current page supports a moderate claim about mathematics performance, not a definitive universal estimate across all grade bands and formats. Stronger confidence would require a dedicated meta-analysis page or broader synthesis.
 
 ## Related Claims
-- [[claims/we-1]]
-- [[claims/we-2]]
+- [[claims/worked-examples-reduce-novice-search]]
+- [[claims/worked-examples-with-practice-improve-transfer]]
 - [[claims/erroneous-examples-build-conceptual-knowledge]]

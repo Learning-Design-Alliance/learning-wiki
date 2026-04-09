@@ -1,6 +1,6 @@
 ---
 type: element
-status: draft
+status: review
 last_edited: 2026-04-07
 edited_by: Codex
 ---

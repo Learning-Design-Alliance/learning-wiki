@@ -1,7 +1,7 @@
 ---
 type: claim
 id: clt-1
-status: draft
+status: review
 last_edited: 2026-04-07
 evidence_strength: moderate
 edited_by: Codex

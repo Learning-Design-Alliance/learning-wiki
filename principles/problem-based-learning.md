@@ -11,7 +11,7 @@ edited_by: Codex
 Problem-based learning organizes learning around complex, meaningful problems that do not have a single obvious answer. Learners investigate the problem, identify what they need to know, gather evidence, propose solutions, and revise their thinking as they work. The strength of PBL is that it ties knowledge to use and makes learning purposeful, but it is not equivalent to leaving learners on their own. Strong PBL depends on careful facilitation, scaffolds for inquiry and collaboration, and enough domain grounding that the problem is challenging without becoming chaotic.
 
 ## Implications
-Problem-based learning is strongest when the problem requires learners to integrate knowledge in ways that resemble real use, which is why whole-task work often supports transfer better than fragmented drill alone [[claims/whole-task-performance-improves-transfer]] [+S]. At the same time, open problems can impose too much search on novices without enough prior structure [[claims/we-1]] [~M], so facilitation and scaffolding matter [[claims/contingent-scaffolding-improves-learning]] [+M]. Novice learners often need process guidance for how to investigate, compare evidence, and decide what to do next [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M], not just exposure to a challenging problem.
+Problem-based learning is strongest when the problem requires learners to integrate knowledge in ways that resemble real use, which is why whole-task work often supports transfer better than fragmented drill alone [[claims/whole-task-performance-improves-transfer]] [+S]. At the same time, open problems can impose too much search on novices without enough prior structure [[claims/worked-examples-reduce-novice-search]] [~M], so facilitation and scaffolding matter [[claims/contingent-scaffolding-improves-learning]] [+M]. Novice learners often need process guidance for how to investigate, compare evidence, and decide what to do next [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M], not just exposure to a challenging problem.
 
 ### Context
 #### Requirements
@@ -50,7 +50,7 @@ Problem-based learning is strongest when the problem requires learners to integr
 - [[claims/whole-task-performance-improves-transfer]] [+S] — integrated, authentic problem solving is often better preparation for later transfer than isolated subskill practice
 - [[claims/contingent-scaffolding-improves-learning]] [+M] — learners benefit when facilitation responds to where their inquiry or reasoning is actually breaking down
 - [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M] — novices often need explicit investigation and decision routines before open-ended success criteria become productive
-- [[claims/we-1]] [~M] — beginners can waste effort on unguided search unless the problem space is structured well enough to support learning
+- [[claims/worked-examples-reduce-novice-search]] [~M] — beginners can waste effort on unguided search unless the problem space is structured well enough to support learning
 
 ## Related Principles
 - [[principles/inquiry-based-learning|Inquiry-based Learning]] — PBL is one inquiry form centered on authentic problems.

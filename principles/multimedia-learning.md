@@ -12,7 +12,7 @@ Multimedia learning is the principle of combining words, visuals, and other medi
 
 ## Implications
 
-Multimedia learning is strongest when multiple representations clarify a concept, process, or relationship better than a single mode alone. The principle is not “add more media.” It is coordinate modes so that each contributes something instructionally useful. Well-designed multimedia can make structure more visible and reduce interpretive burden [[claims/chunking-reduces-working-memory-load]] [~S] [[claims/we-1]] [~M]; poorly designed multimedia can split attention, duplicate information unnecessarily, and increase extraneous cognitive load. Multimedia environments are especially strong when learners are prompted to explain how the representations relate instead of only viewing them side by side [[claims/self-explanation-improves-conceptual-understanding]] [+S].
+Multimedia learning is strongest when multiple representations clarify a concept, process, or relationship better than a single mode alone. The principle is not “add more media.” It is coordinate modes so that each contributes something instructionally useful. Well-designed multimedia can make structure more visible and reduce interpretive burden [[claims/chunking-reduces-working-memory-load]] [~S] [[claims/worked-examples-reduce-novice-search]] [~M]; poorly designed multimedia can split attention, duplicate information unnecessarily, and increase extraneous cognitive load. Multimedia environments are especially strong when learners are prompted to explain how the representations relate instead of only viewing them side by side [[claims/self-explanation-improves-conceptual-understanding]] [+S].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Multimedia learning is strongest when multiple representations clarify a concept
 
 ### Claims
 - [[claims/chunking-reduces-working-memory-load]] [~S] — multimedia can help when it organizes information into more meaningful units, but only if the design is coherent
-- [[claims/we-1]] [~M] — explicit visual-verbal models can reduce unproductive search for novices when the representation clarifies task structure
+- [[claims/worked-examples-reduce-novice-search]] [~M] — explicit visual-verbal models can reduce unproductive search for novices when the representation clarifies task structure
 - [[claims/self-explanation-improves-conceptual-understanding]] [+S] — multimedia environments become stronger when learners are prompted to explain the relationship between representations
 
 ## Related Principles
