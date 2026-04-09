@@ -85,7 +85,7 @@ It is especially useful for curriculum-scale design where content complexity is 
 - Analogies and examples can be chosen to fit learner background and domain familiarity.
 
 ## Related Patterns
-- [[patterns/4cid-four-component-instructional-design|4C/ID (Four-Component Instructional Design)]]
+- [[patterns/4cid-four-component-instructional-design|Four-Component Instructional Design]]
 - [[patterns/merrills-first-principles-of-instruction|Merrill's First Principles of Instruction]]
 
 ## Examples

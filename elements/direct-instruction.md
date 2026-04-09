@@ -38,7 +38,7 @@ Presents new content through explicit explanations, lectures, or demonstrations.
 
 ## Patterns That Use This Element
 - [[patterns/gagnés-9-events|Gagné’s 9 Events]]
-- [[patterns/4cid|4C/ID]]
+- [[patterns/4cid|Four-Component Instructional Design]]
 - [[patterns/direct-instruction|Direct Instruction]]
 
 ## Examples

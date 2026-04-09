@@ -32,7 +32,7 @@ Fading scaffolding is the element in which supports such as hints, prompts, or m
 - [[elements/hints|Hints]]
 
 ## Patterns That Use This Element
-- [[patterns/4cid|4C/ID]]
+- [[patterns/4cid|Four-Component Instructional Design]]
 - [[patterns/merrills-first-principles-application|Merrill's First Principles (Application)]]
 
 ## Examples

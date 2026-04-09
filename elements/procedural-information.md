@@ -37,7 +37,7 @@ Step-by-step instructions and just-in-time guidance to assist learners in acquir
 - [[elements/fading-scaffolding|Fading Scaffolding]]
 
 ## Patterns That Use This Element
-- [[patterns/4cid|4C/ID]]
+- [[patterns/4cid|Four-Component Instructional Design]]
 - [[patterns/worked-examples|Worked Examples]]
 - [[patterns/cognitive-load-theory|Cognitive Load Theory]]
 

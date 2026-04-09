@@ -85,7 +85,7 @@ The pattern is especially useful when material is conceptually dense or when nov
 - Tasks can be chunked differently depending on where overload is occurring.
 
 ## Related Patterns
-- [[patterns/4cid-four-component-instructional-design|4C/ID (Four-Component Instructional Design)]]
+- [[patterns/4cid-four-component-instructional-design|Four-Component Instructional Design]]
 - [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
 
 ## Examples

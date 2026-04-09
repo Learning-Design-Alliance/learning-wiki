@@ -85,7 +85,7 @@ Its practical strength is that it balances authenticity with structured support.
 - Integration can take many forms, including teaching others, reflection, or workplace application.
 
 ## Related Patterns
-- [[patterns/4cid-four-component-instructional-design|4C/ID (Four-Component Instructional Design)]]
+- [[patterns/4cid-four-component-instructional-design|Four-Component Instructional Design]]
 - [[patterns/gagnés-9-events-of-instruction|Gagne's 9 Events of Instruction]]
 
 ## Examples

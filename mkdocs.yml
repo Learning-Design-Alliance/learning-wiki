@@ -3,6 +3,7 @@ site_description: A persistent, LLM-maintained knowledge base for learning desig
 site_url: https://learning-design-alliance.github.io/learning-wiki/
 repo_url: https://github.com/Learning-Design-Alliance/learning-wiki
 repo_name: Learning-Design-Alliance/learning-wiki
+edit_uri: ""
 
 docs_dir: docs
 site_dir: site

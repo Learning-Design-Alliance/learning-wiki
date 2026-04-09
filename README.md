@@ -54,7 +54,7 @@ Or pass a local file path, or paste article text directly after the command. The
 
 ### Review a contribution
 
-Browse [open pull requests](../../pulls). Each PR includes a summary of what was added or changed. Approve, request changes, or close as appropriate.
+Browse [open pull requests](https://github.com/Learning-Design-Alliance/learning-wiki/pulls). Each PR includes a summary of what was added or changed. Approve, request changes, or close as appropriate.
 
 ### Contribute manually
 

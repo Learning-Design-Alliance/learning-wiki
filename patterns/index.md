@@ -14,8 +14,8 @@ Reusable instructional designs at the lesson or unit level.
 
 ## In Review
 
-- [[patterns/4cid|4C/ID]]
-- [[patterns/4cid-four-component-instructional-design|4C/ID (Four-Component Instructional Design)]]
+- [[patterns/4cid|Four-Component Instructional Design]]
+- [[patterns/4cid-four-component-instructional-design|Four-Component Instructional Design]]
 - [[patterns/adaptive-learning|Adaptive Learning]]
 - [[patterns/anchored-instruction|Anchored Instruction]]
 - [[patterns/blended-learning|Blended Learning]]

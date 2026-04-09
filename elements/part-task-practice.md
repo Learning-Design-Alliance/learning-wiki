@@ -37,7 +37,7 @@ Isolated, repeated practice of elements that require automation for efficient ta
 - [[elements/mastery-learning|Mastery Learning]]
 
 ## Patterns That Use This Element
-- [[patterns/4cid|4C/ID]]
+- [[patterns/4cid|Four-Component Instructional Design]]
 - [[patterns/competency-based-learning|Competency-Based Learning]]
 - [[patterns/mastery-learning|Mastery Learning]]
 

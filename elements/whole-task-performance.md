@@ -50,7 +50,7 @@ Whole-task performance accelerates skill acquisition and transfer by embedding l
 - [[elements/part-task-practice|Part-task practice]] — often a necessary precursor or supplement for routine skills that must be automated to free up working memory.
 
 ## Patterns That Use This Element
-- [[patterns/4cid-four-component-instructional-design|4C/ID]] — makes "Learning Tasks" (whole tasks) the backbone of the entire instructional sequence.
+- [[patterns/4cid-four-component-instructional-design|Four-Component Instructional Design]] — makes "Learning Tasks" (whole tasks) the backbone of the entire instructional sequence.
 - [[patterns/merrills-first-principles-of-instruction|Merrill's First Principles]] — centers all instruction around a series of real-world problems (whole tasks).
 - [[patterns/cognitive-apprenticeship|Cognitive Apprenticeship]] — sequences learning from global (whole-task) to local (part-task) and back to global.
 

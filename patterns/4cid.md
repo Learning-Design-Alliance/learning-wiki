@@ -25,7 +25,7 @@ grain_size: course
 - Build complex skill performance through whole tasks plus targeted support.
 
 ### Related Patterns
-- [[patterns/4cid-four-component-instructional-design|4C/ID (Four-Component Instructional Design)]]
+- [[patterns/4cid-four-component-instructional-design|Four-Component Instructional Design]]
 
 ## Key Sources
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2017). *Ten steps to complex learning* (3rd ed.). Routledge.

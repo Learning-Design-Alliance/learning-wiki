@@ -48,7 +48,7 @@ Supportive information reduces extraneous cognitive load by externalizing the "w
 - [[elements/direct-instruction|Direct Instruction]] — the common delivery method for ensuring foundational knowledge is complete and unambiguous.
 
 ## Patterns That Use This Element
-- [[patterns/4cid-four-component-instructional-design|4C/ID]] — defines "supportive information" as one of four component types; it is delivered non-recurrently, before or alongside the whole learning task
+- [[patterns/4cid-four-component-instructional-design|Four-Component Instructional Design]] — defines "supportive information" as one of four component types; it is delivered non-recurrently, before or alongside the whole learning task
 - [[patterns/cognitive-apprenticeship|Cognitive Apprenticeship]] — the modeling and coaching phases provide the conceptual scaffolding that functions as supportive information
 
 ## Examples
