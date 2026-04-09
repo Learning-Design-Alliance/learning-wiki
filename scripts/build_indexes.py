@@ -43,6 +43,7 @@ PAGE_TYPES = {
         "label": "Strategies",
         "description": "Concrete teaching activity recipes — specific, implementable approaches.",
         "status_field": True,
+        "list_drafts_in_index": False,
     },
     "theories": {
         "label": "Theories",
@@ -60,6 +61,8 @@ PAGE_TYPES = {
         "status_field": False,
     },
 }
+
+ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "strategies", "theories", "claims"]
 
 STATUS_RE = re.compile(r"^status:\s*(.+)$", re.MULTILINE)
 TITLE_RE  = re.compile(r"^# (.+)$", re.MULTILINE)
@@ -97,6 +100,7 @@ def build_folder_index(page_type: str, config: dict) -> str:
         f"---",
         f"type: index",
         f"title: {config['label']}",
+        *((f"evidence_strength: n/a",) if page_type == "claims" else ()),
         f"last_edited: {TODAY}",
         f"---",
         f"",
@@ -146,6 +150,16 @@ def build_folder_index(page_type: str, config: dict) -> str:
         for status_key, status_label in [("stable", "Stable"), ("review", "In Review"), ("draft", "Draft")]:
             if not by_status[status_key]:
                 continue
+            if status_key == "draft" and config.get("list_drafts_in_index") is False:
+                lines.append(f"## {status_label}")
+                lines.append("")
+                lines.append(
+                    f"{len(by_status['draft'])} draft entries are currently omitted from this section page "
+                    f"to keep the index navigable. Browse the folder directly or promote pages to `review` "
+                    f"as they are curated."
+                )
+                lines.append("")
+                continue
             lines.append(f"## {status_label}")
             lines.append("")
             for p in by_status[status_key]:
@@ -176,9 +190,7 @@ def build_root_index(counts: dict[str, dict]) -> str:
         "",
     ]
 
-    type_order = ["principles", "elements", "patterns", "strategies", "theories", "claims", "sources"]
-
-    for page_type in type_order:
+    for page_type in ROOT_INDEX_TYPES:
         config = PAGE_TYPES.get(page_type, {})
         label = config.get("label", page_type.title())
         desc = config.get("description", "")
@@ -201,7 +213,7 @@ def build_root_index(counts: dict[str, dict]) -> str:
         "## How to use this wiki",
         "",
         "**As an agent**: read `CLAUDE.md` first. Use `index.md` as your entry point, "
-        "follow `[[wikilinks]]` to traverse the graph, and use `grep` for targeted search.",
+        "follow links in wiki-link format to traverse the graph, and use `grep` for targeted search.",
         "",
         "**As a human**: open this vault in Obsidian or browse the folder indexes above. "
         "Evidence tags (**[+S]**, **[+M]**, **[~M]**, **[-W]**) indicate claim support strength. "
