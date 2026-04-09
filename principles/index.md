@@ -67,7 +67,7 @@ Research-backed design commitments: what to do and why.
 - [[principles/mindfulness-activities|Mindfulness Activities]]
 - [[principles/mnemonic-device|Mnemonic Device]]
 - [[principles/multimedia-projects|Multimedia Projects]]
-- [[principles/multimodal-instruction.md|Multimodal Instruction]]
+- [[principles/multimodal-instruction|Multimodal Instruction]]
 - [[principles/multiple-methods-of-assessment|Multiple Methods of Assessment]]
 - [[principles/note-taking|Note-taking]]
 - [[principles/observationshadowing|Observation/Shadowing]]

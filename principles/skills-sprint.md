@@ -13,6 +13,7 @@ Skills sprints are short, intensive learning cycles organized around producing s
 The instructional value of a sprint does not come from speed alone. A sprint works when the scope is disciplined, the success criteria are clear, and learners have enough support to stay productive under pressure. Without that structure, sprints can become chaotic bursts of activity that reward prior expertise more than learning.
 
 ## Implications
+Skills sprints are effective when a short, tightly bounded cycle focuses attention on a concrete challenge with visible criteria. Clear, difficult goals can improve effort and coordination under time pressure [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S], and sprint formats often support transfer because learners are integrating multiple skills into a whole task rather than practicing isolated fragments [[claims/whole-task-performance-improves-transfer]] [~S]. But the same compression can punish novices unless coaching and feedback are built into the cycle [[claims/contingent-scaffolding-improves-learning]] [~M]. Speed by itself is not the pedagogy; disciplined scope and fast iteration are.
 
 ### Context
 #### Requirements
@@ -48,9 +49,9 @@ The instructional value of a sprint does not come from speed alone. A sprint wor
 - Reflection and debriefing are necessary if the sprint is supposed to produce learning, not just output.
 
 ### Claims
-- [[claims/whole-task-performance-improves-transfer]] [~S]
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/whole-task-performance-improves-transfer]] [~S] — sprint tasks can support transfer because they require integrated application under realistic constraints
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S] — short cycles work better when success criteria and checkpoints are explicit
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — rapid cycles still need responsive coaching so learners do not just repeat weak moves faster
 
 ## Related Principles
 - [[principles/problem-based-learning|Problem-based Learning]] — sprints often organize work around a concrete challenge or problem.

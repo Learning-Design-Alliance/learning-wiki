@@ -11,6 +11,7 @@ edited_by: Codex
 Graphic organizers are visual structures that help learners sort, connect, sequence, compare, or hierarchize information. Their instructional value comes from making the structure of knowledge visible: instead of holding relationships only in working memory, learners can externalize categories, links, and patterns in a shared visual form. This makes graphic organizers especially useful for reading, writing, planning, problem solving, and any task where the arrangement of ideas matters as much as the ideas themselves.
 
 ## Implications
+Graphic organizers help when the structure of a task matters as much as its content. By externalizing categories, sequences, and relationships, they can reduce working-memory demands and make it easier for learners to inspect how ideas fit together [[claims/chunking-reduces-working-memory-load]] [+S]. Their value depends on fit: a well-chosen organizer clarifies reasoning, while a mismatched template can flatten or distort it. That is why organizers work best when instructors explain why this representation fits this task and when learners use the organizer to discuss, write, or solve rather than merely fill blanks [[claims/self-explanation-improves-conceptual-understanding]] [+S].
 
 ### Context
 #### Requirements
@@ -46,8 +47,8 @@ Graphic organizers are visual structures that help learners sort, connect, seque
 - Advanced learners may need less structured organizers or may prefer building their own representations.
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [+S]
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
+- [[claims/chunking-reduces-working-memory-load]] [+S] — organizers reduce working-memory burden by making categories, sequence, and relationships externally visible
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — organizers teach more when learners explain how the visual structure represents the idea or task
 
 ## Related Principles
 - [[principles/creating-visual-representations|Creating Visual Representations]] — graphic organizers are one concrete form of visual externalization.

@@ -11,6 +11,7 @@ edited_by: Gemini
 Error analysis is an instructional principle that treats learner errors as valuable opportunities for deepening conceptual understanding and improving long-term retention. By actively analyzing their own mistakes or studying [[elements/erroneous-examples|erroneous examples]], learners develop metacognitive monitoring and critical reasoning skills [[claims/high-confidence-errors-improve-retention]] [+S].
 
 ## Implications
+Error analysis works when mistakes are treated as information rather than only as failure. Comparing incorrect and correct solutions, explaining why an error happened, and receiving timely corrective feedback can deepen conceptual understanding and improve retention [[claims/erroneous-examples-build-conceptual-knowledge]] [+M], especially when the error was made with high confidence [[claims/high-confidence-errors-improve-retention]] [+S]. The practical limit is that learners need enough knowledge and support to analyze the mistake productively; for complete novices, poorly timed error work can add confusion instead of insight.
 
 ### Context
 #### Requirements
@@ -40,8 +41,8 @@ Error analysis is an instructional principle that treats learner errors as valua
 - **Generative Learning** — guessing an answer (even incorrectly) before being told is more effective than passive reading.
 
 ### Claims
-- [[claims/high-confidence-errors-improve-retention]] [+S]
-- [[claims/erroneous-examples-build-conceptual-knowledge]] [+M]
+- [[claims/high-confidence-errors-improve-retention]] [+S] — confidently held mistakes can become especially memorable learning opportunities when corrected clearly
+- [[claims/erroneous-examples-build-conceptual-knowledge]] [+M] — comparing incorrect and correct examples can deepen conceptual understanding when learners can interpret the contrast
 
 ## Related Principles
 - [[principles/explaining-their-thinking|Explaining Their Thinking]] — self-explanation is the mechanism by which error analysis works.

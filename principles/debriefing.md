@@ -11,6 +11,7 @@ edited_by: Codex
 Debriefing is a structured reflection after an activity, simulation, discussion, or performance in which learners revisit what happened, why it happened, and what should change next time. Its value lies in making experience interpretable. Without debriefing, learners may leave with strong impressions but weak insight; with it, they can compare mental models, surface errors, consolidate learning, and plan transfer.
 
 ## Implications
+Debriefing matters because experience by itself does not reliably produce learning. Learners often need help naming what happened, why it happened, and what should change next time, especially after complex or high-stakes activity. That is why debriefs work best when they focus on reasoning, evidence, and future action rather than vague recap: analyzing decisions explicitly turns experience into explanation [[claims/self-explanation-improves-conceptual-understanding]] [+S], and examining confident mistakes after performance can make later correction more durable [[claims/high-confidence-errors-improve-retention]] [+S]. Debriefs are strongest when facilitator questioning is responsive to what learners actually noticed and missed [[claims/contingent-scaffolding-improves-learning]] [+M], especially for novices who benefit from reflection on cues, process, and strategy rather than only whether the result was correct [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M].
 
 ### Context
 #### Requirements

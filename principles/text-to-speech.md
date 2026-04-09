@@ -13,6 +13,7 @@ Text-to-speech (TTS) converts written text into spoken audio, giving learners an
 TTS is most effective when it is treated as an access and support tool, not as a substitute for all reading instruction. Learners still need support in comprehension, vocabulary, annotation, and independent meaning-making. The tool helps when it removes unnecessary access barriers so that the learner's effort can shift toward understanding and using the content.
 
 ## Implications
+Text-to-speech is most useful when reading access, not conceptual ability, is the main barrier to engagement. By shifting part of the processing burden from print decoding to coordinated listening and reading, TTS can make dense text more manageable [[claims/chunking-reduces-working-memory-load]] [~S]. But its value depends on active use: learners still need to pause, replay, annotate, and monitor comprehension rather than letting audio wash over them [[claims/self-monitoring-improves-self-regulation]] [~M]. TTS works best as an access support inside a broader reading routine, not as a substitute for strategy instruction.
 
 ### Context
 #### Requirements
@@ -48,8 +49,8 @@ TTS is most effective when it is treated as an access and support tool, not as a
 - The tool supports access, but it does not replace explicit reading strategy instruction.
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [~S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/chunking-reduces-working-memory-load]] [~S] — audio support can reduce some of the access burden that print alone places on working memory
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — TTS is strongest when learners actively check and regulate comprehension while listening
 
 ## Related Principles
 - [[principles/accessible-vocabulary-syntax|Accessible Vocabulary & Syntax]] — simpler language and audio support often work together.

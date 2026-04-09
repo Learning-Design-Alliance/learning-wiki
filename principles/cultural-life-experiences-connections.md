@@ -11,6 +11,7 @@ edited_by: Codex
 Connecting instruction to learners' cultural and life experiences means treating what learners already know, value, and have lived through as assets for meaning-making rather than as irrelevant background. When instruction acknowledges community knowledge, work experience, language practices, family contexts, and prior responsibilities, learners are more likely to see the material as legible, worthwhile, and connected to real life. This principle strengthens relevance, belonging, and transfer by making learning something learners can situate within what they already understand.
 
 ## Implications
+Connecting instruction to learners’ cultural and life experiences improves learning when it gives new ideas a credible bridge into what learners already know and care about. Relevant examples, learner-supplied contexts, and recognition of community or work knowledge can make concepts easier to interpret and more likely to transfer because the material is anchored in real situations rather than abstract school-only tasks [[claims/whole-task-performance-improves-transfer]] [~M]. These connections are often strongest when learners explain how a concept fits their own context instead of merely receiving a preselected “relevant” example [[claims/self-explanation-improves-conceptual-understanding]] [~S]. The design risk is superficiality: if cultural connection is tokenized, stereotyped, or disconnected from the actual learning goal, it weakens trust instead of strengthening meaning, which is why these tasks usually require responsive support rather than generic relevance gestures [[claims/contingent-scaffolding-improves-learning]] [~M].
 
 ### Context
 #### Requirements
@@ -46,9 +47,9 @@ Connecting instruction to learners' cultural and life experiences means treating
 - Learner experience should inform the design, but not be romanticized as automatically sufficient for mastery.
 
 ### Claims
-- [[claims/whole-task-performance-improves-transfer]] [~M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/whole-task-performance-improves-transfer]] [~M] — concepts are more likely to transfer when they are learned in contexts learners recognize as real and usable
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S] — learners understand cultural or life-context connections more deeply when they articulate those links themselves
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — culturally connected tasks still need responsive support to avoid tokenism or confusion
 
 ## Related Principles
 - [[principles/building-empathy|Building Empathy]] — cultural connection often depends on taking learners' lived realities seriously.

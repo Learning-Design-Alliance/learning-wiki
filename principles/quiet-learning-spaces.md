@@ -13,6 +13,7 @@ Quiet learning spaces reduce competing demands on attention so learners can focu
 This principle matters most when the task requires concentration, comprehension, memory, or self-regulation. Quiet spaces are not the only effective learning environments, and total silence is not always necessary, but instructors should deliberately reduce avoidable distractions when the cognitive demands of the task are high.
 
 ## Implications
+Quiet learning spaces matter when the task places heavy demands on concentration, comprehension, or self-regulation. Reducing interruptions and noise can lower extraneous processing demands [[claims/chunking-reduces-working-memory-load]] [~S] and make it easier for learners to monitor and protect their own attention [[claims/self-monitoring-improves-self-regulation]] [~M]. The design implication is not universal silence. It is better alignment between environment and task: some work requires calm and low interruption, while other work depends on purposeful interaction.
 
 ### Context
 #### Requirements
@@ -48,8 +49,8 @@ This principle matters most when the task requires concentration, comprehension,
 - Collaborative discussion, oral rehearsal, and socially interactive work may require intentionally non-quiet settings.
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [~S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/chunking-reduces-working-memory-load]] [~S] — reducing distraction can leave more working-memory capacity available for the actual learning task
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — focus-friendly routines can help learners notice and manage distraction more deliberately
 
 ## Related Principles
 - [[principles/instructor-accessibility|Instructor Accessibility]] — accessible learning conditions include environmental supports, not just interpersonal support.

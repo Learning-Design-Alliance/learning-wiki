@@ -11,6 +11,7 @@ edited_by: Gemini
 Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples. This process requires learners to make their internal reasoning explicit, helping them to bridge gaps in understanding, integrate new information with prior knowledge, and monitor their own comprehension [[claims/self-explanation-improves-conceptual-understanding]] [+S].
 
 ## Implications
+Explaining their thinking improves learning because it forces learners to make relationships, assumptions, and decision points explicit instead of leaving them tacit [[claims/self-explanation-improves-conceptual-understanding]] [+S]. That usually deepens conceptual understanding, supports transfer, and exposes gaps in reasoning that would remain hidden if learners only produced answers. The design constraint is that self-explanation is not spontaneous for many learners: prompts, comparisons, and worked examples are often necessary at first so explanation becomes a disciplined habit rather than an empty request to “show your work.”
 
 ### Context
 #### Requirements
@@ -39,11 +40,11 @@ Explaining their thinking, also known as self-explanation, is an instructional p
 - **Constructivism** — emphasizes that knowledge is actively built by the learner through meaningful interaction with the content.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — making reasoning explicit helps learners connect steps, principles, and assumptions instead of leaving them implicit
 
 ## Related Principles
 - [[principles/worked-examples|Worked Examples]] — self-explanation is most effective when applied to the study of worked solutions.
-- [[principles/explaining-their-thinking|Modeling]] — instructors can model self-explanation through think-aloud protocols.
+- [[principles/modeling|Modeling]] — instructors can model self-explanation through think-aloud protocols.
 - [[principles/scaffolding-and-fading|Scaffolding and Fading]] — prompts for self-explanation should fade as learner expertise grows.
 
 ## Examples

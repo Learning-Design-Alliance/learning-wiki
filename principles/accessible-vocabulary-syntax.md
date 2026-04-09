@@ -11,6 +11,7 @@ edited_by: Codex
 Use language that preserves disciplinary rigor while reducing unnecessary linguistic difficulty. Accessible vocabulary and syntax do not mean "watering down" content; they mean introducing essential terms intentionally, explaining them clearly, modeling sentence structures that learners will encounter in authentic texts, and removing avoidable wording barriers that would otherwise block participation and comprehension.
 
 ## Implications
+Accessible vocabulary and syntax matter because learners can fail a task for language reasons even when the underlying idea is within reach. Limiting and organizing unfamiliar language can reduce unnecessary processing demands [[claims/chunking-reduces-working-memory-load]] [+S], while asking learners to explain and reuse key terms in their own words makes vocabulary more durable than definition exposure alone [[claims/self-explanation-improves-conceptual-understanding]] [+S]. The key design tension is that supports should open the door to authentic disciplinary language, not replace it permanently, so explanations, glossaries, and sentence frames should gradually give way to more independent use [[claims/fading-support-promotes-transfer-of-responsibility]] [~S].
 
 ### Context
 #### Requirements

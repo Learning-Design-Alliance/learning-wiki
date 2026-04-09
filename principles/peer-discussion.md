@@ -11,6 +11,7 @@ edited_by: Codex
 Peer discussion is the instructional principle of using structured talk among learners to deepen interpretation, explanation, and understanding. Its value comes from learners having to articulate ideas, compare reasoning, respond to alternatives, and make meaning together rather than only receiving information individually. Peer discussion can support retention, disciplinary language, perspective-taking, and critical thinking, but it is strongest when the discussion task is purposeful and well-scaffolded.
 
 ## Implications
+Peer discussion improves learning when learners have to explain, compare, and revise ideas in response to other people’s reasoning. That social comparison can deepen understanding because articulation itself improves conceptual learning [[claims/self-explanation-improves-conceptual-understanding]] [+S], and it can support reflective revision as learners hear where their own reasoning is strong or weak [[claims/self-monitoring-improves-self-regulation]] [~M]. But discussion quality is highly sensitive to task design: without a real problem to think about and norms that require explanation, peer talk can drift into answer trading or uneven participation. The instructional move is to structure discussion so that reasoning, not just talking, becomes visible.
 
 ### Context
 #### Requirements
@@ -46,8 +47,8 @@ Peer discussion is the instructional principle of using structured talk among le
 - Some learners may need sentence stems, wait time, or alternate participation modes to benefit fully.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — peer talk improves learning when learners must articulate and justify reasoning rather than only trade answers
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — discussion helps learners notice the strengths and gaps in their own reasoning by comparing it with peers
 
 ## Related Principles
 - [[principles/peer-feedbackpeer-review|Peer Feedback/Peer Review]] — feedback is one specific form of peer discussion centered on improvement of work.

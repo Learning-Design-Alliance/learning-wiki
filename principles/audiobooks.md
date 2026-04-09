@@ -11,6 +11,7 @@ edited_by: Codex
 Audiobooks provide spoken access to written texts, allowing learners to listen to fluent reading while focusing attention on meaning rather than decoding every word independently. They are especially useful when the goal is comprehension, vocabulary exposure, access to complex content, or sustained engagement with texts that would otherwise be inaccessible or exhausting in print alone.
 
 ## Implications
+Audiobooks are most powerful when decoding demands would otherwise block access to meaning. By shifting some of the processing burden from word recognition to listening, they can help learners engage with richer ideas, vocabulary, and discussion-ready content that print alone might make unreachable [[claims/chunking-reduces-working-memory-load]] [~S]. But the instructional value depends on what happens around the listening: pause-and-summarize prompts, print follow-along, discussion, or note-taking keep audio from becoming passive exposure and make comprehension more generative [[claims/self-explanation-improves-conceptual-understanding]] [+S]. If independent print reading is also a goal, audio support should eventually be reduced or strategically paired with print so responsibility transfers rather than remaining permanently outsourced [[claims/fading-support-promotes-transfer-of-responsibility]] [~S].
 
 ### Context
 #### Requirements

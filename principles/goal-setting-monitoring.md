@@ -11,6 +11,7 @@ edited_by: Gemini
 Goal setting and monitoring is the instructional principle of helping learners define specific, challenging targets and systematically tracking their progress toward those targets. This process is central to self-regulated learning (SRL), as it directs attention, mobilizes effort, and provides a framework for metacognitive evaluation [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S].
 
 ## Implications
+Goal setting and monitoring improve learning because they give effort a target and feedback a reference point. Specific, challenging goals usually focus attention and sustain performance better than vague intentions [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S], while regular monitoring helps learners notice whether their current strategy is working. The key instructional nuance is that novices often need process goals before outcome goals [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]: they need to know what to do next, not just what success should eventually look like. Without that distinction, goal setting can produce pressure without guidance.
 
 ### Context
 #### Requirements
@@ -40,8 +41,8 @@ Goal setting and monitoring is the instructional principle of helping learners d
 - [[theories/self-determination-theory|Self-Determination Theory (Deci & Ryan)]] — autonomous goal setting supports the need for competence and autonomy.
 
 ### Claims
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S]
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S] — clear, challenging goals focus effort and make progress interpretable
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — novices often learn more effectively when goals specify the next process to execute rather than only the final outcome to reach
 
 ## Related Principles
 - [[principles/scaffolding-and-fading|Scaffolding and Fading]] — goals provide the structure that can be scaffolded and then faded.

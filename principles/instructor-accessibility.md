@@ -11,6 +11,7 @@ edited_by: Codex
 Instructor accessibility is the principle that learners should be able to reach, understand, and get timely support from the instructor when they need it. Accessibility here is relational and instructional, not only physical or technical: it includes visibility, responsiveness, clarity about how to get help, and a learner's sense that asking for support will lead to a constructive response. This is especially important in asynchronous, blended, and adult learning contexts where learners may otherwise navigate challenge in isolation.
 
 ## Implications
+Instructor accessibility matters because learners are less likely to seek help when the route to support feels unclear, high-risk, or unreliable. Visible channels, predictable responsiveness, and a supportive tone can lower the threshold for asking questions before confusion hardens into disengagement. The instructional payoff is not just relationship quality but better timing of support: when learners can reach the instructor while the problem is still live, feedback and scaffolding are more likely to change performance [[claims/contingent-scaffolding-improves-learning]] [~M]. Accessibility also supports self-regulation when learners can ask for clarification early enough to monitor and adjust their own progress rather than waiting until they are already stuck beyond recovery [[claims/self-monitoring-improves-self-regulation]] [~M]. Accessibility still has to be sustainable, though, or it becomes uneven and performative.
 
 ### Context
 #### Requirements
@@ -46,8 +47,8 @@ Instructor accessibility is the principle that learners should be able to reach,
 - More contact is not automatically better if the contact is vague, delayed, or misaligned with learner needs.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — instructor access matters when it leads to timely, responsive support on the learner’s actual problem
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — accessible instructors make it easier for learners to notice confusion and seek help before disengaging
 
 ## Related Principles
 - [[principles/immediate-feedback|Immediate Feedback]] — accessibility often determines whether timely feedback is actually available.

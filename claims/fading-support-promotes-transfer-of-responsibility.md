@@ -16,6 +16,8 @@ Fading, or the systematic withdrawal of scaffolding as competence increases, is 
 
 ## Evidence
 
+Primary evidence link: https://doi.org/10.1007/s10648-010-9127-6
+
 ### van de Pol et al. 2010
 
 van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)

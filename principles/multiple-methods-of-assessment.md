@@ -11,6 +11,7 @@ edited_by: Codex
 Using multiple methods of assessment means gathering evidence of learning through more than one type of task, representation, or performance. Instead of relying on a single assessment mode to stand in for all understanding, instructors use a mix of written, oral, visual, practical, performance-based, or reflective evidence to build a more credible picture of learner progress. The main value is not variety for its own sake, but better alignment between what is being assessed, how competence is expressed, and how different learners can show what they know.
 
 ## Implications
+Multiple methods of assessment improve judgment when one format alone would underrepresent the target learning. For complex outcomes, integrated performances often give stronger evidence of transfer than isolated fragments [[claims/whole-task-performance-improves-transfer]] [+M], while varied evidence sources can also give learners and instructors more useful information for reflection and adjustment [[claims/self-monitoring-improves-self-regulation]] [~M]. The design challenge is discipline: multiple methods only help when they are aligned to the same underlying goal and judged with comparable standards. Otherwise variety turns into noise rather than better evidence, and the added complexity does not improve instructional responsiveness [[claims/contingent-scaffolding-improves-learning]] [~M].
 
 ### Context
 #### Requirements
@@ -46,9 +47,9 @@ Using multiple methods of assessment means gathering evidence of learning throug
 - Some skills still require specific formats for valid assessment, even within a flexible overall design.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/whole-task-performance-improves-transfer]] [+M]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — varied assessment evidence matters when it improves the quality of feedback and the next instructional move
+- [[claims/whole-task-performance-improves-transfer]] [+M] — complex outcomes are often judged more credibly through integrated performances than through one narrow format
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — multiple evidence sources can help learners compare their understanding across formats and adjust accordingly
 
 ## Related Principles
 - [[principles/formative-assessment|Formative Assessment]] — multiple methods improve formative interpretation when different evidence streams inform next steps.

@@ -11,6 +11,7 @@ edited_by: Codex
 Design learning tasks for real or realistically consequential audiences beyond the teacher-as-grader. When learners write, present, build, or investigate for an authentic purpose, the work becomes more than an academic exercise: it carries audience expectations, real constraints, and a reason to revise. This tends to increase relevance, accountability, and transfer, but only when the audience and task are genuinely aligned rather than superficially "real-world" in name only.
 
 ## Implications
+Authentic audiences and purposes improve learning when they change the quality of the task rather than just the packaging around it. Work for a real stakeholder or believable public reader usually increases relevance, revision effort, and whole-task integration because learners have to coordinate multiple decisions in something closer to full performance [[claims/whole-task-performance-improves-transfer]] [+S]. At the same time, authenticity raises complexity, so novices often need models, checkpoints, and explicit criteria to keep the audience from becoming a source of anxiety or performance theater instead of meaningful learning [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]. Clear success criteria still matter even in authentic work, because realistic stakes do not by themselves tell learners what strong performance looks like [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S].
 
 ### Context
 #### Requirements

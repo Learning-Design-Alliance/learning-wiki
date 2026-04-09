@@ -11,6 +11,7 @@ edited_by: Codex
 Process-based writing treats writing as a sequence of intentional moves such as generating ideas, planning, drafting, revising, editing, and reflecting rather than as a one-shot product. Its core premise is that writers improve when the process itself is taught, supported, and made visible. This is especially useful for learners developing complex writing skills, because it breaks writing into revisable stages while still keeping the final communicative purpose in view.
 
 ## Implications
+Process-based writing helps because strong writing rarely emerges from a single unsupported attempt. Staging planning, drafting, revising, and editing can make the task more manageable and regulate cognitive load [[claims/contingent-scaffolding-improves-learning]] [~M], while reflection across drafts can improve monitoring and self-correction [[claims/self-monitoring-improves-self-regulation]] [+M]. Novice writers often benefit from process goals for what to do in the next stage [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M], and explaining revision choices can deepen understanding of what stronger writing requires [[claims/self-explanation-improves-conceptual-understanding]] [+S]. The main caution is over-fragmentation: the process should support the communicative whole, not replace it.
 
 ### Context
 #### Requirements
@@ -46,10 +47,10 @@ Process-based writing treats writing as a sequence of intentional moves such as 
 - Process instruction should not make writing feel like a rigid formula that ignores audience, voice, or purpose.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — writers improve when they can track what is working across drafts and choose better next steps
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — explaining revision decisions strengthens understanding of genre, clarity, and purpose
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — developing writers often need concrete stage-by-stage goals rather than only a final performance target
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — coaching and feedback are most useful when they target the learner’s current bottleneck in the writing process
 
 ## Related Principles
 - [[principles/journaling|Journaling]] — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

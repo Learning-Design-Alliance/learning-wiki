@@ -11,6 +11,7 @@ edited_by: Codex
 Physical activity in learning contexts means intentionally incorporating movement, exercise, or embodied breaks to support attention, energy, regulation, and readiness to learn. This can range from short movement breaks to physically active tasks or longer routines that help learners recover from fatigue and re-engage. The instructional value is usually indirect: physical activity does not teach content by itself, but it can improve the conditions under which focus, mood, and persistence are more available.
 
 ## Implications
+Physical activity is most useful as a readiness and regulation support rather than as content instruction by itself. Brief movement can help some learners reset attention, notice internal state, and return to demanding work with more control [[claims/self-monitoring-improves-self-regulation]] [~M]. The instructional implication is not that movement is always better, but that it should be timed and framed to improve the next learning action. When movement is disconnected from task demands, inaccessible, or overly generalized, it becomes disruption rather than support.
 
 ### Context
 #### Requirements
@@ -46,7 +47,7 @@ Physical activity in learning contexts means intentionally incorporating movemen
 - Physical activity should support learning rather than function as a mandatory performance unrelated to instructional goals.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — routines that help learners notice and regulate their state can improve later strategy adjustment and persistence
 
 ## Related Principles
 - [[principles/mindfulness-activities|Mindfulness Activities]] — both can function as readiness and regulation supports before or during learning.

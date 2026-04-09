@@ -11,6 +11,7 @@ edited_by: Codex
 Game-based learning is the instructional principle of using a game itself as the learning environment, with goals, rules, feedback, and progression aligned to specific learning outcomes. Unlike light gamification layered onto ordinary tasks, game-based learning makes the core learning activity intrinsically game-like: learners make decisions, test strategies, receive immediate consequences, and improve through repeated attempts. When designed well, it can increase time on task, support mastery through iteration, and make complex systems or decisions easier to experience directly.
 
 ## Implications
+Game-based learning is strongest when the game mechanics require the same thinking the learning goal requires. Repeated attempts, immediate consequences, and visible progression can support mastery and persistence, especially when learners are allowed to fail safely and try again [[claims/high-confidence-errors-improve-retention]] [+S]. But engagement alone is not evidence of learning: if the reward structure can be optimized without understanding the target concept or strategy, the game teaches the wrong thing. Reflection and debriefing are therefore essential for turning in-game success into transferable understanding [[claims/self-explanation-improves-conceptual-understanding]] [+M], and some goals are still better served by giving novices worked models before asking them to learn through play alone [[claims/worked-examples-example-problem-sequences]] [+S]. Game-based learning is strongest when the game also approximates whole-task decision making closely enough to support later transfer [[claims/whole-task-performance-improves-transfer]] [+M].
 
 ### Context
 #### Requirements
@@ -46,10 +47,10 @@ Game-based learning is the instructional principle of using a game itself as the
 - Some learning goals are better served by direct explanation or worked examples before game-based practice, especially for novices [[claims/worked-examples-example-problem-sequences]] [+S].
 
 ### Claims
-- [[claims/high-confidence-errors-improve-retention]] [+S]
-- [[claims/self-explanation-improves-conceptual-understanding]] [+M]
-- [[claims/worked-examples-example-problem-sequences]] [+S]
-- [[claims/whole-task-performance-improves-transfer]] [+M]
+- [[claims/high-confidence-errors-improve-retention]] [+S] — safe failure and rapid retry can make corrections inside games especially memorable
+- [[claims/self-explanation-improves-conceptual-understanding]] [+M] — debrief and reflection are what convert in-game experience into explicit understanding
+- [[claims/worked-examples-example-problem-sequences]] [+S] — novices often need modeled play or strategy examples before game-based practice becomes productive
+- [[claims/whole-task-performance-improves-transfer]] [+M] — games support transfer best when their decisions and constraints resemble the real target performance
 
 ## Related Principles
 - [[principles/simulations-immersive-virtual-environments|Simulations & Immersive Virtual Environments]] — simulations overlap with game-based learning when the experience models a system learners must navigate.

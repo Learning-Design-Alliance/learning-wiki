@@ -11,6 +11,7 @@ edited_by: Codex
 Creating visual representations is the instructional principle of having learners organize, explain, or generate knowledge in visual form, such as diagrams, sketches, concept maps, timelines, models, graphs, or annotated layouts. Externalizing thinking visually can reduce the burden of holding complex relations entirely in working memory while also making structure, comparison, and gaps in understanding easier to inspect. It is especially useful when the learning goal involves systems, patterns, relationships, sequences, or multi-step reasoning.
 
 ## Implications
+Creating visual representations helps when the structure of an idea is hard to hold or communicate in linear language alone. Diagrams, maps, timelines, and sketches can reduce working-memory burden by making relationships visible [[claims/chunking-reduces-working-memory-load]] [+S], and they often deepen understanding when learners also explain what the representation means [[claims/self-explanation-improves-conceptual-understanding]] [+S]. The important distinction is that the visual should encode reasoning, not just decoration: the strongest tasks require learners to choose a representation that fits the content and then use it to inspect, discuss, or revise their thinking.
 
 ### Context
 #### Requirements
@@ -46,8 +47,8 @@ Creating visual representations is the instructional principle of having learner
 - Some content is better clarified through direct verbal explanation before learners are asked to visualize it independently.
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [+S]
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
+- [[claims/chunking-reduces-working-memory-load]] [+S] — external visual structure helps learners manage complex relationships without holding every connection in working memory
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — visual representations become more instructive when learners explain how the representation encodes the underlying idea
 
 ## Related Principles
 - [[principles/graphic-organizers|Graphic Organizers]] — one common implementation of visual representation for organizing and comparing ideas.

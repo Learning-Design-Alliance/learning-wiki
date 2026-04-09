@@ -11,6 +11,7 @@ edited_by: Codex
 Debate structures learning around the preparation, presentation, and critique of competing arguments. When designed well, it pushes learners to research evidence, understand multiple perspectives, justify claims publicly, and respond under challenge. The value is not argument for its own sake; it is disciplined reasoning made visible through structured speaking and rebuttal.
 
 ## Implications
+Debate improves learning when it requires learners to justify positions with evidence, anticipate counterarguments, and revise claims under challenge. Those demands make reasoning visible in ways that simple opinion sharing does not, which is why debate can deepen conceptual understanding when learners must explain and defend their thinking explicitly [[claims/self-explanation-improves-conceptual-understanding]] [+S]. The design caution is that debate can easily reward confidence over thinking, so novices need explicit claim-evidence-reasoning routines [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M], clear quality criteria [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S], and facilitator support that keeps the exchange focused on evidence and reasoning rather than mere performance [[claims/contingent-scaffolding-improves-learning]] [+M].
 
 ### Context
 #### Requirements

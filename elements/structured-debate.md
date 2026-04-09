@@ -1,0 +1,44 @@
+---
+type: element
+status: review
+last_edited: 2026-04-08
+edited_by: Codex
+---
+
+# Structured Debate
+
+## Description
+Structured debate is the element in which learners examine opposing claims using explicit roles, turn structures, evidence requirements, and response rules. It is useful when the goal is disciplined argumentation rather than free-form disagreement.
+
+## Design Implications
+
+### Context
+#### Requirements
+- **A contestable question**
+- **Explicit rules for claims, evidence, rebuttal, and response**
+- **A synthesis or reflection step after advocacy**
+#### Constraints
+- **Debate can reward performance over understanding if evidence norms are weak**
+
+### Target Learning Goals
+- Build argument quality, evidence use, and perspective comparison.
+
+### Affordances
+- [[principles/debate|Debate]]
+- [[principles/perspective-taking|Perspective-Taking]]
+- [[principles/social-learning|Social Learning]]
+
+## Related Elements
+- [[elements/rebuttals|Rebuttals]]
+- [[elements/argumentation|Argumentation]]
+- [[elements/structured-discussion|Structured Discussion]]
+
+## Patterns That Use This Element
+- [[patterns/structured-academic-controversy|Structured Academic Controversy]]
+- [[patterns/debate-format|Debate Format]]
+
+## Examples
+- Learners defend and rebut positions using evidence stems and timed turns.
+
+## Key Sources
+- Kuhn, D. (1991). *The skills of argument*. Cambridge University Press.

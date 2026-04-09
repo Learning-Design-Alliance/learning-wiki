@@ -11,6 +11,7 @@ edited_by: Codex
 Positive self-talk is the deliberate use of supportive, instructional, or regulating internal language to influence how a learner interprets difficulty, effort, and performance. In learning settings, its value lies less in generic optimism than in how learners talk themselves through challenge: naming what to do next, reducing catastrophic interpretation, and maintaining effort when a task is uncomfortable. Positive self-talk can support regulation and persistence, but it works best when it is specific, credible, and tied to action.
 
 ## Implications
+Positive self-talk helps when internal language changes what the learner does next, not just how the learner feels for a moment. Self-talk that points toward a concrete process or coping move can support monitoring and regulation under stress [[claims/self-monitoring-improves-self-regulation]] [+M], and novice learners often benefit more from process-focused cues than from outcome-only encouragement [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]. The design constraint is credibility: vague positivity or denial of real difficulty often backfires. Effective self-talk sounds plausible, action-oriented, and connected to the task.
 
 ### Context
 #### Requirements
@@ -46,8 +47,8 @@ Positive self-talk is the deliberate use of supportive, instructional, or regula
 - Learners often benefit more from specific instructional or distanced self-talk than from vague encouragement.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — learners improve when they can notice their current state and choose a more effective next move
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M] — beginners often perform better when inner language points to a concrete process instead of only a hoped-for result
 
 The current claim inventory supports regulation and process-focused guidance mechanisms more directly than self-talk as a standalone intervention.
 

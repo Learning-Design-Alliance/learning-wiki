@@ -16,6 +16,8 @@ Setting clear, measurable, and challenging targets helps focus attention, increa
 
 ## Evidence
 
+Primary evidence link: https://doi.org/10.1037/0003-066X.57.9.705
+
 ### Locke & Latham 2002
 
 Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [https://doi.org/10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)

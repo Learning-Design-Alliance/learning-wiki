@@ -13,6 +13,7 @@ Video replay analysis uses recorded performance, instruction, or interaction as 
 The principle is especially valuable for performance domains where timing, communication, physical execution, or situational judgment matter. Replay creates distance from the original event, which can support more accurate reflection and discussion. Its usefulness depends on focus: simply watching video again is less powerful than analyzing it against a question, standard, or goal.
 
 ## Implications
+Video replay analysis is powerful because it gives learners a stable record of performance instead of relying on memory alone. Replay can strengthen self-monitoring by making discrepancies between intention and action more visible [[claims/self-monitoring-improves-self-regulation]] [+M], and it becomes especially useful when learners have to explain what happened and why [[claims/self-explanation-improves-conceptual-understanding]] [~S]. Replay rarely teaches on its own, though; insight depends on analytic focus, pause-and-discuss structure, and responsive coaching that helps learners interpret what they are seeing [[claims/contingent-scaffolding-improves-learning]] [~M].
 
 ### Context
 #### Requirements
@@ -48,9 +49,9 @@ The principle is especially valuable for performance domains where timing, commu
 - Learners may need to analyze others before analyzing themselves if self-review is too cognitively or emotionally demanding at first.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — replay makes it easier for learners to compare actual performance to intended performance
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S] — explaining specific replay moments can deepen understanding of what went right or wrong
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — guided questioning and feedback help learners extract more from replay than unguided rewatching
 
 ## Related Principles
 - [[principles/purposeful-reflection|Purposeful Reflection]] — replay provides concrete evidence for reflection instead of relying on memory alone.

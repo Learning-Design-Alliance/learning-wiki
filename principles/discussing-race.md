@@ -11,6 +11,7 @@ edited_by: Codex
 Discussing race is the instructional principle of addressing racial identity, racism, and racialized experience directly rather than treating them as peripheral or unspeakable. In educational settings, these discussions can support critical literacy, social awareness, historical understanding, and more honest collaborative norms, but only when they are carefully facilitated. The goal is not to force disclosure or consensus. It is to make race discussable with enough structure, safety, and accountability that learners can engage seriously without being reduced to representatives of a group.
 
 ## Implications
+Discussing race productively requires more than openness or good intentions. Learners need explicit norms, substantive material, and careful facilitation so that dialogue can support analysis and reflection rather than collapse into avoidance, harm, or performative disclosure. The instructional payoff is that race becomes available as an object of serious inquiry instead of a topic learners are expected to either manage privately or discuss without structure, and that inquiry is stronger when learners articulate interpretations explicitly rather than leaving assumptions unspoken [[claims/self-explanation-improves-conceptual-understanding]] [~S]. The practical constraint is that unequal risk is built into these conversations, so optionality, boundaries, and debriefing are not extras. Strong discussions also depend on learner and facilitator monitoring of emotion, participation, and misunderstanding [[claims/self-monitoring-improves-self-regulation]] [~M], along with responsive facilitation that adjusts support as the conversation unfolds [[claims/contingent-scaffolding-improves-learning]] [~M].
 
 ### Context
 #### Requirements
@@ -46,9 +47,9 @@ Discussing race is the instructional principle of addressing racial identity, ra
 - Not all learners experience the same risk in these conversations, so equal participation demands are often inequitable.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S] — race-conscious dialogue is stronger when learners make their reasoning explicit and open it to examination
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — these discussions require active monitoring of participation, emotion, and understanding
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — productive race discussion depends on facilitation that responds to actual tension, confusion, and risk in the room
 
 ## Related Principles
 - [[principles/developing-your-cultural-awareness|Developing Your Cultural Awareness]] — instructors need reflective preparation before facilitating race-conscious dialogue well.

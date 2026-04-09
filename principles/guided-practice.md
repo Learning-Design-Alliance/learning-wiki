@@ -11,6 +11,7 @@ edited_by: Codex
 Guided practice is the instructional principle of giving learners repeated opportunities to apply a skill or concept while support is still available. It sits between initial explanation or modeling and independent performance. The purpose is not mere repetition: guided practice lets learners attempt the task, receive targeted feedback, and gradually assume more of the work as scaffolds are faded. It is especially important when a skill has multiple steps, hidden decision points, or a high likelihood of early error.
 
 ## Implications
+Guided practice matters because early application is where misunderstanding becomes visible, but also where novices are most likely to rehearse errors if left alone too soon. Multiple supported attempts, contingent feedback, and gradual fading help learners stabilize a new routine without turning support into dependency [[claims/contingent-scaffolding-improves-learning]] [+S] [[claims/fading-support-promotes-transfer-of-responsibility]] [+S]. The design challenge is calibration: too little guidance leaves learners floundering, while too much held for too long creates redundancy and weak transfer [[claims/expertise-reversal-effect]] [~M]. Strong guided practice therefore stays close to the learner’s current need and points clearly toward independence, often by moving from modeled examples into near-transfer attempts rather than into independent performance immediately [[claims/worked-examples-example-problem-sequences]] [+S].
 
 ### Context
 #### Requirements
@@ -46,10 +47,10 @@ Guided practice is the instructional principle of giving learners repeated oppor
 - Guided practice should not replace authentic performance; it should prepare learners for it.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [+S]
-- [[claims/fading-support-promotes-transfer-of-responsibility]] [+S]
-- [[claims/worked-examples-example-problem-sequences]] [+S]
-- [[claims/expertise-reversal-effect]] [~M]
+- [[claims/contingent-scaffolding-improves-learning]] [+S] — guided practice works best when support responds to the learner’s actual error pattern and current need
+- [[claims/fading-support-promotes-transfer-of-responsibility]] [+S] — guidance should narrow as competence grows so practice leads toward independent performance
+- [[claims/worked-examples-example-problem-sequences]] [+S] — guided practice is especially effective when learners move from modeled examples into closely related attempts
+- [[claims/expertise-reversal-effect]] [~M] — prolonged high guidance can become redundant once learners no longer need the same level of support
 
 ## Related Principles
 - [[principles/worked-examples|Worked Examples]] — guided practice often follows worked examples so learners can apply a model immediately.

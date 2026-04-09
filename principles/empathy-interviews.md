@@ -11,6 +11,7 @@ edited_by: Codex
 Empathy interviews are structured, open-ended conversations designed to help educators or designers understand how learners experience school, work, systems, and support. Unlike a survey or diagnostic checklist, the goal is not only to collect facts but to hear how learners interpret challenges, strengths, motivations, and belonging in their own words. Used well, empathy interviews improve the instructor's model of the learner and can lead to more responsive supports, stronger relationships, and better alignment between instruction and lived reality.
 
 ## Implications
+Empathy interviews are valuable because they replace assumption with direct evidence about how learners experience the system. Open-ended listening can reveal barriers, strengths, and motivations that standard diagnostics miss, and that usually leads to better instructional fit when the information is actually used to change supports or communication. These conversations depend heavily on learners explaining their experience in their own words [[claims/self-explanation-improves-conceptual-understanding]] [~M], and they are most useful when what is learned feeds into more authentic, context-sensitive design rather than abstract learner profiles [[claims/whole-task-performance-improves-transfer]] [~M]. The design risk is extractive listening: if interviews gather stories without altering practice, they produce the appearance of care without the instructional value.
 
 ### Context
 #### Requirements
@@ -46,8 +47,8 @@ Empathy interviews are structured, open-ended conversations designed to help edu
 - Listening to learners is not the same as agreeing with every preference or turning every interview into an individualized curriculum.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [~M]
-- [[claims/whole-task-performance-improves-transfer]] [~M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [~M] — empathy interviews depend on learners narrating and interpreting their own experience in ways that reveal real barriers and strengths
+- [[claims/whole-task-performance-improves-transfer]] [~M] — interviews are most instructionally valuable when they reshape authentic tasks, supports, and contexts rather than staying as detached listening exercises
 
 These are indirect anchors: empathy interviews rely on explanation, authentic context, and reflective interpretation, but the current claim inventory does not yet include a dedicated empathy-interview claim.
 

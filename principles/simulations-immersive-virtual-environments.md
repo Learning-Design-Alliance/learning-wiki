@@ -13,6 +13,7 @@ Simulations and immersive virtual environments let learners practice decisions, 
 These environments can support motivation and transfer because learners are doing something closer to the eventual task, not merely hearing about it. At the same time, simulation quality varies widely. If the interface is confusing, the scenario is unrealistic, or the task lacks debriefing and feedback, the medium can add distraction without improving learning.
 
 ## Implications
+Simulations and immersive environments work when they let learners rehearse meaningful whole performances under conditions that are safer, cheaper, or more repeatable than real life [[claims/whole-task-performance-improves-transfer]] [~S]. They are especially useful for novices when complexity is staged and support is available [[claims/part-task-practice-reduces-load-for-novices]] [~M], and when coaching or debriefing responds to how the learner actually performed [[claims/contingent-scaffolding-improves-learning]] [~M]. High fidelity alone is not enough: if the interface is confusing or the scenario misrepresents the real task, the medium adds distraction rather than transfer.
 
 ### Context
 #### Requirements
@@ -48,9 +49,9 @@ These environments can support motivation and transfer because learners are doin
 - Simulations should often be sequenced from simpler to more complex cases, especially for novices.
 
 ### Claims
-- [[claims/whole-task-performance-improves-transfer]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
+- [[claims/whole-task-performance-improves-transfer]] [~S] — realistic, integrated task rehearsal can prepare learners for later application better than abstract explanation alone
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — simulations are stronger when facilitation targets the learner’s actual decision or performance breakdowns
+- [[claims/part-task-practice-reduces-load-for-novices]] [~M] — novices often need simplified or staged practice before full simulation complexity becomes productive
 
 ## Related Principles
 - [[principles/experiential-learning|Experiential Learning]] — simulations provide structured experiences that later reflection can interpret.

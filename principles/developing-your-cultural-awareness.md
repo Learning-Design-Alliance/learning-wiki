@@ -11,6 +11,7 @@ edited_by: Codex
 Developing cultural awareness is the ongoing practice of examining how one's own background, assumptions, language, and institutional context shape teaching and learning across difference. For educators, this includes noticing bias, understanding how identity and power affect classroom experience, and designing instruction in ways that reduce stereotype threat and exclusion. It is not a one-time competency; it is a sustained reflective and relational practice that changes how instructors interpret learner behavior, choose materials, and respond to participation.
 
 ## Implications
+Developing cultural awareness improves instruction when it changes how educators interpret learners and make design decisions. Reflection, feedback, and observation can help instructors notice where hidden assumptions shape expectations, examples, responses to participation, or judgments about ability [[claims/self-monitoring-improves-self-regulation]] [+M]. But awareness only matters if it alters practice: the goal is not self-description, but better decisions about curriculum, facilitation, and support that reduce avoidable exclusion and widen legitimate ways for learners to participate. That usually requires both responsive adjustment in the moment [[claims/contingent-scaffolding-improves-learning]] [~M] and explicit articulation of what assumptions are shaping interpretation in the first place [[claims/self-explanation-improves-conceptual-understanding]] [~S].
 
 ### Context
 #### Requirements
@@ -46,9 +47,9 @@ Developing cultural awareness is the ongoing practice of examining how one's own
 - Awareness alone is insufficient if it is not paired with changes to interaction, materials, and instructional decision-making.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — instructors improve cultural awareness when they monitor recurring patterns in their own interpretation and practice
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — awareness becomes instructionally meaningful when it changes how support is calibrated for real learners
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S] — reflective articulation helps educators make tacit assumptions visible enough to revise
 
 ## Related Principles
 - [[principles/cultural-life-experiences-connections|Cultural & Life Experiences Connections]] — cultural awareness helps instructors connect content to learner experience without stereotyping.

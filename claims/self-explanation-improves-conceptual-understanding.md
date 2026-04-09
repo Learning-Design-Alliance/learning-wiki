@@ -16,6 +16,8 @@ Generating explanations for oneself while studying worked examples or solving pr
 
 ## Evidence
 
+Primary evidence link: https://doi.org/10.1207/s15516709cog1302_1
+
 ### Chi et al. 1989
 
 Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [https://doi.org/10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)

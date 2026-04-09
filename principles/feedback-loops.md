@@ -11,6 +11,7 @@ edited_by: Codex
 Feedback loops are the principle of using learner performance to generate information that changes the next action for the learner, the instructor, or the system. A loop is only complete when evidence leads to adjustment. The key design move is not merely telling learners how they did, but ensuring that the feedback, interpretation, and next attempt are connected closely enough to improve performance.
 
 ## Implications
+Feedback loops matter because information about performance is useful only when it changes what happens next. Timely, interpretable feedback can improve self-monitoring [[claims/self-monitoring-improves-self-regulation]] [+M], guide strategy adjustment through responsive support [[claims/contingent-scaffolding-improves-learning]] [+M], and prevent errors from hardening, especially when confident mistakes are corrected while the task is still live [[claims/high-confidence-errors-improve-retention]] [~S]. That means a good loop includes not just a signal, but a path for response: retrying, revising, regrouping, or changing support. Without that response phase, feedback remains commentary rather than instruction.
 
 ### Context
 #### Requirements
@@ -43,9 +44,9 @@ Feedback loops are the principle of using learner performance to generate inform
 - Fast loops are helpful only when the feedback is aligned and interpretable.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/high-confidence-errors-improve-retention]] [~S]
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — feedback loops help learners notice the gap between current performance and the target
+- [[claims/contingent-scaffolding-improves-learning]] [+M] — loops are instructionally valuable when they trigger adaptive changes in support or strategy
+- [[claims/high-confidence-errors-improve-retention]] [~S] — timely correction inside a loop can make important errors more memorable and less likely to recur
 
 ## Related Principles
 - [[principles/immediate-feedback|Immediate Feedback]]

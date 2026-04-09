@@ -11,6 +11,7 @@ edited_by: Codex
 Learner choice is the principle of giving learners meaningful decisions about aspects of their learning, such as topic, format, sequence, pacing, strategy, or demonstration of understanding. The instructional value of choice comes from agency with purpose: when learners can make decisions that matter, they are more likely to experience ownership, motivation, and relevance. Effective choice is not unlimited freedom. It is bounded in ways that preserve learning goals, quality standards, and sufficient support.
 
 ## Implications
+Learner choice improves motivation and ownership when the options are meaningful and the learner has enough support to choose well. Choice can strengthen self-regulation because learners must weigh options, commit to a path, and monitor whether that path is working [[claims/self-monitoring-improves-self-regulation]] [~M]. But too much freedom too early can create overload or inequity, especially for novices who do not yet know which option fits the goal [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]. The practical design move is bounded choice: keep outcomes and standards clear [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S] while varying the path, topic, or product in ways that genuinely matter.
 
 ### Context
 #### Requirements
@@ -46,9 +47,9 @@ Learner choice is the principle of giving learners meaningful decisions about as
 - Strong learning design often requires more structure for novices before broad choice becomes productive.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — choice becomes educative when learners track whether their selected path is actually helping them progress
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M] — novices often need more guidance in how to choose and proceed before broad autonomy becomes productive
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S] — choice works better when standards and success criteria remain explicit even as pathways vary
 
 ## Related Principles
 - [[principles/goal-setting-monitoring|Goal Setting & Monitoring]] — choice becomes more effective when learners also set goals and monitor progress.

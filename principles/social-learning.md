@@ -11,6 +11,7 @@ edited_by: Codex
 Social learning is the principle that understanding and performance often develop through interaction with other people, not just individual study. Discussion, observation, explanation, critique, and shared activity can all help learners test ideas, appropriate expert practices, and refine judgment.
 
 ## Implications
+Social learning helps because interaction exposes learners to reasoning, models, and interpretations they would not generate alone. Explaining ideas to others can deepen conceptual understanding [[claims/self-explanation-improves-conceptual-understanding]] [+S], and comparison with other people’s thinking can sharpen self-monitoring and revision [[claims/self-monitoring-improves-self-regulation]] [~M]. The design challenge is structure: social activity does not guarantee learning unless the task requires real explanation, comparison, or coordination rather than simple answer exchange.
 
 ### Context
 #### Requirements
@@ -36,8 +37,8 @@ Social learning is the principle that understanding and performance often develo
 - Social activity alone does not guarantee learning; tasks still need structure and accountability.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — articulation in social settings often improves understanding beyond passive exposure alone
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — comparing one’s thinking with others can improve judgment about current understanding and next steps
 
 ## Related Principles
 - [[principles/peer-discussion|Peer Discussion]]

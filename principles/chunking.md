@@ -11,6 +11,7 @@ edited_by: Gemini
 Chunking is the instructional design strategy of breaking complex information or tasks into smaller, more manageable units (chunks) to align with the limited capacity of human working memory. By organizing discrete items into familiar, meaningful groups, chunking reduces intrinsic cognitive load and enhances learning retention.
 
 ## Implications
+Chunking matters because learners cannot process unlimited novelty at once. When information is grouped into meaningful units, working memory can handle it more efficiently and learners are more likely to retain the underlying structure rather than just the surface details [[claims/chunking-reduces-working-memory-load]] [+S]. The design challenge is that chunks are not universal: novices usually need smaller, more explicit units, while more experienced learners can handle larger integrated structures [[claims/chunking-reduces-working-memory-load]] [~M]. Good chunking therefore reduces overload without hiding how the parts connect into a coherent whole.
 
 ### Context
 #### Requirements
@@ -39,7 +40,7 @@ Chunking is the instructional design strategy of breaking complex information or
 - **Miller's Law (Miller 1956)** — establishes the average working memory limit of 7 (±2) units.
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [+S]
+- [[claims/chunking-reduces-working-memory-load]] [+S] — organizing information into meaningful units lowers working-memory burden and improves manageability
 
 ## Related Principles
 - [[principles/scaffolding-and-fading|Scaffolding and Fading]] — chunking is often the first step in a scaffolded instructional sequence.
@@ -47,9 +48,9 @@ Chunking is the instructional design strategy of breaking complex information or
 - [[principles/graphic-organizers|Graphic Organizers]] — provide a visual framework for how chunks relate to each other.
 
 ## Examples
-- **[Khan Academy](https://www.khanacademy.org)** — Uses video segmentation where long topics are divided into 5-10 minute videos, each addressing a single concept.
-- **[Duolingo](https://www.duolingo.com)** — Employs microlearning where language lessons are broken into tiny "bite-sized" activities focused on specific themes (e.g., "Food").
-- **[Codecademy](https://www.codecademy.com)** — Breaks complex programming tasks into discrete, executable steps with immediate feedback for each "chunk" of code.
+- A chemistry lesson breaks stoichiometry into interpreting formulas, balancing equations, and converting quantities before asking learners to coordinate the full procedure.
+- A professional training module presents one decision rule per screen with a recap diagram after every three steps so learners can integrate the parts into the larger workflow.
+- A coding tutorial introduces one new construct at a time, then combines earlier chunks into a small working program once each part is stable.
 
 ## Key Sources
 - Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review, 63*(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158)

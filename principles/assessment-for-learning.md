@@ -11,6 +11,7 @@ edited_by: Codex
 Assessment for learning is the principle that assessment should be used during instruction to support learning, not only after instruction to certify it. The central question is not "What grade does this produce?" but "What does this evidence suggest we should do next?" It overlaps strongly with formative assessment, but highlights the instructional purpose of assessment evidence: clarifying goals, surfacing current understanding, and guiding revision.
 
 ## Implications
+Assessment for learning works when evidence changes what happens next for the learner or the instructor. Midstream checks are most useful when they clarify the target, expose current misunderstandings, and create an immediate next move such as regrouping, reteaching, revising, or choosing a new strategy [[claims/contingent-scaffolding-improves-learning]] [+M]. This is also why low-stakes design matters: learners are more likely to reveal uncertainty when the checkpoint is framed as information for improvement rather than judgment, and that makes the evidence more instructionally useful for both self-monitoring [[claims/self-monitoring-improves-self-regulation]] [+M] and process-focused revision rather than mere answer chasing [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M].
 
 ### Context
 #### Requirements
@@ -42,9 +43,9 @@ Assessment for learning is the principle that assessment should be used during i
 - High-stakes accountability systems can distort the learning function of assessment.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]
+- [[claims/contingent-scaffolding-improves-learning]] [+M] — assessment evidence matters when it leads to a responsive next instructional move
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — low-stakes checks help learners notice what they understand and what still needs work
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M] — assessment for learning is stronger when it directs attention toward revision strategy and criteria, not only correctness
 
 ## Related Principles
 - [[principles/formative-assessment|Formative Assessment]]

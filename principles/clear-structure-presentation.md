@@ -11,6 +11,7 @@ edited_by: Codex
 Instruction should make its structure visible. Learners need to know what they are learning, why it matters, how the content is organized, and what successful performance looks like. Clear structure and presentation reduce avoidable confusion, support attention, and let learners spend effort on the idea or task itself rather than on guessing the lesson's logic.
 
 ## Implications
+Clear structure and presentation matter because learners often waste effort trying to infer what the task is, where the lesson is going, and what counts as success. Visible organization, signaling, and consistent formats reduce that avoidable load and make it easier for learners to focus on the substance of the work [[claims/chunking-reduces-working-memory-load]] [+S]. The practical implication is not just “make materials neat,” but make sequence, goals, and emphasis legible enough that novices can orient themselves without having to decode the design first. Clear goals and criteria also improve focus and task commitment [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S], especially when presentations make the process and sequence of success visible rather than only naming the final destination [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M].
 
 ### Context
 #### Requirements

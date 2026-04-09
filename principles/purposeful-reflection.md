@@ -13,6 +13,7 @@ Purposeful reflection is structured time for learners to examine what they did, 
 Purposeful reflection can happen before, during, or after a task. It is especially useful after complex work, feedback, discussion, or practice because it helps learners interpret experience instead of merely having it. Reflection is strongest when prompts are specific, evidence-based, and revisited over time so learners can compare earlier and later thinking.
 
 ## Implications
+Purposeful reflection works when learners revisit a specific performance, decision, or experience closely enough to interpret it rather than merely remember it. Reflection can strengthen monitoring and strategic adjustment [[claims/self-monitoring-improves-self-regulation]] [+M], and explanatory reflection often deepens conceptual understanding by making reasoning and misconceptions explicit [[claims/self-explanation-improves-conceptual-understanding]] [~S]. For novices, reflection is most useful when prompts direct attention toward evidence, process, and next steps rather than asking for vague introspection [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]. Reflection without action, however, quickly becomes compliance.
 
 ### Context
 #### Requirements
@@ -48,9 +49,9 @@ Purposeful reflection can happen before, during, or after a task. It is especial
 - Reflection should complement, not replace, direct practice, feedback, and explicit instruction.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — reflection is strongest when it helps learners evaluate progress and choose a better next move
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S] — putting reasoning into words can deepen understanding of what happened and why
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M] — beginners usually reflect better when prompts focus on process, cues, and next actions
 
 ## Related Principles
 - [[principles/journaling|Journaling]] — journaling is one common routine for structured reflection over time.

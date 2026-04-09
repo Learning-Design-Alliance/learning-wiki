@@ -11,6 +11,7 @@ edited_by: Codex
 Formative assessment is the instructional principle of embedding low-stakes checks for understanding, feedback, and adjustment into the learning process rather than reserving assessment for final judgment. Its value is not the checkpoint itself, but the feedback loop it creates: learners compare their current performance to a target, explain errors, and revise strategies, while instructors adjust support and pacing in response. In practice, formative assessment works best when it is frequent, interpretable, and directly tied to the next instructional move.
 
 ## Implications
+Formative assessment improves learning when checkpoints produce evidence that changes instruction or strategy before misunderstandings harden. Frequent low-stakes checks help instructors calibrate support [[claims/contingent-scaffolding-improves-learning]] [+M] and help learners notice where their current approach is failing [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M], which is why formative assessment is tightly linked to self-regulation. Errors are not a side effect to hide here; they are useful signals, especially when feedback is timely enough that learners can revise while the task is still alive [[claims/high-confidence-errors-improve-retention]] [+S].
 
 ### Context
 #### Requirements
@@ -46,9 +47,9 @@ Formative assessment is the instructional principle of embedding low-stakes chec
 - Formative assessment improves learning only when evidence is interpreted correctly and used to change instruction or learner strategy.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/high-confidence-errors-improve-retention]] [+S]
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]
+- [[claims/contingent-scaffolding-improves-learning]] [+M] — formative evidence matters when it triggers responsive instructional adjustment
+- [[claims/high-confidence-errors-improve-retention]] [+S] — low-stakes formative checks can make important misconceptions visible while they are still revisable
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — novices benefit when formative checkpoints guide what to do next, not just whether they were right
 
 ## Related Principles
 - [[principles/immediate-feedback|Immediate Feedback]] — formative assessment becomes instructionally useful when learners receive information they can act on quickly.

@@ -11,6 +11,7 @@ edited_by: Gemini
 Scaffolding provides temporary, contingent support to learners as they develop new skills or knowledge. Fading is the systematic and gradual removal of those supports as the learner gains competence, leading to independent performance and the transfer of responsibility.
 
 ## Implications
+Scaffolding and fading work because novices often need temporary support to perform productively, but that support only remains helpful when it responds to actual learner need [[claims/contingent-scaffolding-improves-learning]] [+S]. The long-term aim is transfer of responsibility, so support has to be reduced as competence grows [[claims/fading-support-promotes-transfer-of-responsibility]] [+S]. If scaffolds remain too long they can create redundant load or dependency, and if they disappear too early they can trigger overload or failure. The design problem is calibration, not just support provision.
 
 ### Context
 #### Requirements
@@ -39,8 +40,8 @@ Scaffolding provides temporary, contingent support to learners as they develop n
 - **Cognitive Apprenticeship** — utilizes modeling, coaching, and scaffolding/fading as core instructional methods.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [+S]
-- [[claims/fading-support-promotes-transfer-of-responsibility]] [+S]
+- [[claims/contingent-scaffolding-improves-learning]] [+S] — support is most effective when it adapts to the learner’s current difficulty instead of staying fixed
+- [[claims/fading-support-promotes-transfer-of-responsibility]] [+S] — the purpose of scaffolding is growing independence, so support should be withdrawn deliberately as competence develops
 
 ## Related Principles
 - [[principles/worked-examples|Worked Examples]] — often the first stage in a scaffolded sequence.

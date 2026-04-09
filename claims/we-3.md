@@ -18,6 +18,8 @@ The supports that help novices during initial acquisition can become redundant f
 
 ## Evidence
 
+Primary evidence link: https://doi.org/10.1207/S15326985EP3801_4
+
 ### Kalyuga et al. 2003
 
 Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)

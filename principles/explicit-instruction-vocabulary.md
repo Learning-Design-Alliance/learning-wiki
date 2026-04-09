@@ -11,6 +11,7 @@ edited_by: Codex
 Seeing and using new words repeatedly and across contexts is critical for vocabulary acquisition. In discussions, reading, and writing, instructors can provide explicit vocabulary instruction and give learners multiple opportunities to see, understand, and apply new words, as well as chances to use strategies for identifying unfamiliar words.
 
 ## Implications
+Explicit vocabulary instruction works when it treats words as tools for meaning-making rather than as isolated definitions to memorize. Selecting a manageable set of high-value terms, explaining them clearly, and requiring repeated use across speaking, reading, and writing helps move vocabulary from recognition into productive use [[claims/self-explanation-improves-conceptual-understanding]] [+S]. The design implication is to prioritize the words that unlock upcoming texts and tasks, then revisit them in context, because large undifferentiated word lists usually spread attention too thin to produce durable learning [[claims/chunking-reduces-working-memory-load]] [+S]. Novice learners also benefit from explicit routines for noticing, defining, and applying unfamiliar words [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M], with support that responds to actual misuse or background-knowledge gaps [[claims/contingent-scaffolding-improves-learning]] [+M].
 
 ### Context
 #### Requirements

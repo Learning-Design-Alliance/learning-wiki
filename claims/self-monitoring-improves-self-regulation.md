@@ -18,6 +18,8 @@ When learners are prompted to check their current performance against a goal or 
 
 ## Evidence
 
+Primary evidence link: https://doi.org/10.1207/s15430421tip4102_2
+
 ### Zimmerman 2002
 
 Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

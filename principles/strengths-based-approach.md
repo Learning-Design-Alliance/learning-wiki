@@ -13,6 +13,7 @@ A strengths-based approach starts from the assumption that learners bring assets
 In practice, a strengths-based approach changes how instructors frame feedback, design participation, interpret prior experience, and assign responsibility. Learners are more likely to persist when they see themselves as capable contributors whose existing resources matter. The approach is especially important in contexts where learners have been historically pathologized, underestimated, or reduced to labels.
 
 ## Implications
+A strengths-based approach improves learning when instructors make existing capability visible and connect it to next-step growth. Naming what learners can already do can strengthen goal commitment and make challenging work feel more attainable [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S], while structured reflection on effective strategies can support more deliberate self-regulation [[claims/self-monitoring-improves-self-regulation]] [~M]. The main caution is that strengths-based teaching is not generic positivity: it has to identify usable assets without denying barriers or freezing learners into static “strength” roles.
 
 ### Context
 #### Requirements
@@ -48,8 +49,8 @@ In practice, a strengths-based approach changes how instructors frame feedback, 
 - Strengths matter most when they are linked to real task demands and growth opportunities.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — learners benefit when they can identify which strategies and assets are already working for them
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S] — concrete recognition of strengths can support more credible and challenging goal pursuit
 
 ## Related Principles
 - [[principles/learner-choice|Learner Choice]] — strengths-based design often creates multiple legitimate pathways into a task.

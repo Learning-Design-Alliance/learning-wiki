@@ -12,7 +12,7 @@ Spaced learning distributes study or practice across multiple sessions separated
 
 ## Implications
 
-Distributing practice across sessions strengthens long-term retention by forcing retrieval from a partially decayed memory trace, which deepens encoding more effectively than re-studying immediately after learning [+S]. The benefit extends beyond simple factual recall: spaced review improves performance on higher-order tasks including grammar acquisition, procedural skills, and complex problem solving [[theories/cognitive-load-theory]] [+M]. These gains are not automatically realized — spacing must be paired with retrieval practice (testing or recall exercises) rather than passive re-reading to achieve maximum effect [+S]. Learners often underestimate spaced practice because it feels harder than massed study, creating a metacognitive illusion that can undermine voluntary adoption [~M].
+Distributing practice across sessions strengthens long-term retention by forcing retrieval from a partially decayed memory trace, which deepens encoding more effectively than re-studying immediately after learning. This page does not yet have dedicated spacing claim pages, but the current claim inventory still supports several parts of the design logic. [[claims/chunking-reduces-working-memory-load]] suggests that spaced review is easier to sustain when material is organized into manageable units rather than revisited as an undifferentiated mass. [[claims/high-confidence-errors-improve-retention]] also supports using spaced review sessions for active recall with correction rather than passive rereading, because memorable correction depends on retrieval and feedback. Learners often underestimate spaced practice because it feels harder than massed study, so [[claims/self-monitoring-improves-self-regulation]] is relevant for making schedules, progress, and forgetting visible enough that learners keep using the routine.
 
 ### Context
 #### Requirements
@@ -40,14 +40,16 @@ Distributing practice across sessions strengthens long-term retention by forcing
 ### Theory
 #### Supporting
 - [[theories/cognitive-load-theory]] — retrieval from a partially decayed trace requires effortful reconstruction, which strengthens the memory encoding more than reviewing recently-studied material (desirable difficulty)
-- Information processing theory (plain text — no wiki page yet) — repeated activation of memory traces across longer intervals produces stronger, more elaborated encodings than massed activation
+- [[theories/information-processing-theory|Information Processing Theory]] — repeated activation of memory traces across longer intervals produces stronger, more elaborated encodings than massed activation
 - Distributed practice / spacing effect (Ebbinghaus, 1885) — the empirical foundation; forgetting curves show that memory decays predictably and that re-study at the point of near-forgetting is maximally efficient
 
 #### Contradicting / Qualifying
 - Massed practice may be preferred when the goal is immediate performance (e.g., a demonstration the next day) — spacing trades short-term fluency for long-term retention
 
 ### Claims
-<!-- No claim pages exist yet for spaced learning — add claim-page links when created -->
+- [[claims/chunking-reduces-working-memory-load]] [+S] — Organizing review into meaningful units helps learners revisit important material without overloading working memory each time.
+- [[claims/high-confidence-errors-improve-retention]] [~S] — Spaced review is especially useful when it requires retrieval and then corrects confident mistakes clearly.
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — Learners are more likely to sustain spaced study when they can monitor schedules, performance, and forgetting over time.
 
 ## Related Principles
 - [[principles/formative-assessment|Formative Assessment]] — low-stakes assessments are the natural delivery mechanism for spaced retrieval; quizzes and checks serve both assessment and spacing functions

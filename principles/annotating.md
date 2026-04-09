@@ -11,6 +11,7 @@ edited_by: Codex
 Annotating is the practice of marking a text with notes, questions, summaries, definitions, or visual cues while reading. Done well, it turns reading from passive exposure into active sense-making: learners identify what matters, track confusion, connect ideas to prior knowledge, and leave behind an external record of their thinking that can support discussion, writing, and review.
 
 ## Implications
+Annotating improves reading when it makes thinking visible rather than just making the page colorful. Notes that paraphrase, question, summarize, or justify why a passage matters tend to support comprehension more than simple highlighting because they force learners to explain and organize ideas while reading [[claims/self-explanation-improves-conceptual-understanding]] [+S]. Section summaries, margin codes, and lightweight note structures can also reduce the burden of holding a complex text together in working memory by turning it into manageable units [[claims/chunking-reduces-working-memory-load]] [+S]. That is why annotation works best with a clear purpose, light structure, and a follow-up use such as discussion or writing; otherwise it easily becomes a ritual of marking without understanding, especially for learners who have not yet been shown what useful annotation looks like [[claims/contingent-scaffolding-improves-learning]] [+M].
 
 ### Context
 #### Requirements

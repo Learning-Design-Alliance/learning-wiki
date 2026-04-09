@@ -11,6 +11,7 @@ edited_by: Codex
 Competency-based learning and assessment organize progress around demonstrated mastery rather than seat time, pacing norms, or one-shot averages. Learners advance by showing they can perform clearly defined competencies, often through applied tasks, performance assessments, or repeated attempts. The design promise is tighter alignment between what matters and what is assessed, but that promise depends on the quality of the competencies, evidence, and supports.
 
 ## Implications
+Competency-based learning and assessment are strongest when mastery is defined as credible performance rather than completion or time spent. Clear competencies, repeated attempts, and authentic evidence usually make progress more legible and improve transfer because learners are judged on what they can actually do [[claims/whole-task-performance-improves-transfer]] [+S]. But the system only works if competencies are well specified [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S] and learners receive enough process support to reach them [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]; otherwise “mastery” becomes either a vague slogan or a fragmented checklist.
 
 ### Context
 #### Requirements

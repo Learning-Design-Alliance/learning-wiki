@@ -13,6 +13,7 @@ Speech-to-text converts spoken language into written text, giving learners anoth
 Speech-to-text is most effective when it is treated as a supported composing tool rather than a magical replacement for writing. Learners still need to review output, notice recognition errors, and revise for clarity, structure, and audience. In that sense, speech-to-text often works best as part of a broader writing and self-monitoring process.
 
 ## Implications
+Speech-to-text is most useful when transcription effort, not idea generation, is the main barrier. It can free learners to get language onto the page more efficiently, but its value depends on what happens after dictation: learners still need to review, monitor, and revise the output [[claims/self-monitoring-improves-self-regulation]] [~M]. Because recognition errors and awkward dictation habits vary widely, support is strongest when instructors or tools help learners build workable routines for dictating, checking, and correcting output [[claims/contingent-scaffolding-improves-learning]] [~M]. Speech-to-text supports writing access; it does not replace writing instruction.
 
 ### Context
 #### Requirements
@@ -48,8 +49,8 @@ Speech-to-text is most effective when it is treated as a supported composing too
 - The tool can create new barriers if recognition accuracy is poor or if learners are not taught how to monitor output.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — dictated text becomes more useful when learners actively check and revise what the tool produced
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — learners often need responsive support to develop effective dictation and editing routines
 
 ## Related Principles
 - [[principles/process-based-writing|Process-Based Writing]] — speech-to-text is often most useful in drafting and revision cycles.

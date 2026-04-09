@@ -16,6 +16,8 @@ Studying a hypothetical peer's incorrect solution and being prompted to find, ex
 
 ## Evidence
 
+Primary evidence link: https://doi.org/10.1007/s11858-017-0834-z
+
 ### Rittle-Johnson 2017
 
 Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)

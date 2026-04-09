@@ -106,3 +106,59 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 ## [2026-04-07] edit | cleanup batch E | removed placeholder claim links from strategies, added social-learning and discussion-related pages, and repaired the malformed standards-based grading strategy link
 
 ## [2026-04-07] edit | cleanup batch F | added active-learning, structured-discussion, scenario-based-learning, just-in-time-learning, and short-form structured academic controversy targets to reduce the remaining real broken-link backlog
+
+## [2026-04-07] edit | pattern cleanup batch G | added short-form pattern targets for goal-based-scenarios and Merrill demonstration references
+
+## [2026-04-07] edit | pattern cleanup batch H | added short-form flipped-learning target to close the remaining pattern-specific broken link
+
+## [2026-04-07] edit | element cleanup batch I | added metacognition, scaffolding, CLT, dual-coding, guided-discovery, concept-mapping, immediate-feedback, problem-based-learning, and short-form POGIL/elaboration/CLT pattern targets for the element backlog
+
+## [2026-04-07] edit | element cleanup batch J | added reflection and self-regulation support pages plus situated-learning, dual-coding-theory, and constructivist-learning aliases for remaining element dependencies
+
+## [2026-04-07] edit | element cleanup batch K | added iterative-learning, community-based-learning, information-literacy, research-based-learning, and competency-based-assessment targets for the next element dependency cluster
+
+## [2026-04-08] edit | element cleanup batch L | added summative-assessment and performance-based-assessment targets plus non-examples for the next assessment and demonstration dependency cluster
+
+## [2026-04-08] edit | element cleanup batch M | added comparing-cases, fading, explicit-instruction, cognitive-load-management, and think-aloud-modeling for the next demonstration dependency cluster
+
+## [2026-04-08] edit | element cleanup batch N | added social-constructivism, collaborative-discussion, structured-debate, holistic-learning, and conceptual-overviews for the next consensus and elaboration dependency cluster
+
+## [2026-04-08] edit | element cleanup batch O | added community-of-inquiry, group-work, hands-on-learning, and short-form Merrill's First Principles targets for the next collaboration and application dependency cluster
+
+## [2026-04-08] edit | element cleanup batch P | added epistemic-cognition, MEL reasoning, self-regulation, reflection-activities, and analogical-reasoning targets for the next argumentation and integration dependency cluster
+
+## [2026-04-08] edit | element cleanup batch Q | added cognitive-load-reduction, metaphors, prior-knowledge-activation, retrieval-practice, and pre-reading-activities for the next analogy and activation dependency cluster
+
+## [2026-04-08] edit | element cleanup batch R | added contextualization, metacognitive-reflection, cognitive-flexibility, cognitive-disequilibrium, and discrepant-events for the next activation and cognitive-conflict dependency cluster
+
+## [2026-04-08] edit | element cleanup batch S | added learning-outcomes, goal-setting, scientific-reasoning, justification, and peer-learning for the next objectives and explanation dependency cluster
+
+## [2026-04-08] edit | element cleanup batch T | added CGI for Math alias plus pre-class-preparation, case-studies, seminar-format, and collaborative-decision-making for the next discussion and preparation dependency cluster
+
+## [2026-04-08] edit | element cleanup batch U | added role-playing, self-explanation, memory-consolidation, spaced-repetition, and spiral-curriculum for the next review and explanation dependency cluster
+
+## [2026-04-08] edit | element cleanup batch V | added behaviorism, deliberate-practice, reinforcement-theory, game-based-mastery-learning, and digital-learning for the next mastery and hypertext dependency cluster
+
+## [2026-04-08] edit | element cleanup batch W | added multimedia-learning, self-paced-learning, and multimedia-learning pattern targets for the next digital media dependency cluster
+
+## [2026-04-08] edit | element cleanup batch X | added expert-modeling, guided-inquiry, game-based-mastery-learning-duolingo-pattern, and social-interdependence for the next modeling and inquiry dependency cluster
+
+## [2026-04-08] edit | element cleanup batch Y | added literature-review, data-analysis, problem-scenarios, negotiation, and Merrill activation targets for the next research and scenario dependency cluster
+
+## [2026-04-08] edit | element cleanup batch Z | added knowledge-organization, sequencing, conceptual-scaffolding, gradual-release, and motivation for the next summarization and sequencing dependency cluster
+
+## [2026-04-08] edit | element cleanup batch AA | added engagement, cognitive-activation, video-prompts, real-world-problems, and drill-practice for the next attention and practice dependency cluster
+
+## [2026-04-08] edit | element cleanup batch AB | added 4C/ID alias, problem-solving, Merrill application, peer-assessment, and rubric-design for the next practice and criteria dependency cluster
+
+## [2026-04-08] edit | element cleanup batch AC | added self-directed-learning, procedural-learning, scaffolding-fading, and fading-scaffolding for the next procedural support dependency cluster
+
+## [2026-04-08] edit | element cleanup batch AD | added knowledge-building, clear-structure, explicit-teaching, and multimedia-instruction for the next direct instruction dependency cluster
+
+## [2026-04-08] edit | element cleanup batch AE | added jigsaw-learning, rhetorical-skill-development, transfer-of-learning, and Merrill integration targets for the next argument and transfer dependency cluster
+
+## [2026-04-08] edit | element cleanup batch AF | added rhetorical-strategies, public-speaking, self-testing, traditional-lecture-based-instruction, and blended-learning for the next persuasion and delivery dependency cluster
+
+## [2026-04-08] edit | element cleanup batch AG | added distributed-cognition, collaboration, observation, and task-management aliases for the next cross-element and strategy dependency cluster
+
+## [2026-04-08] edit | element cleanup batch AH | added progress-tracking, communication-channels, resource-hubs, digital-tools, and small-group-instruction for the next strategy dependency cluster

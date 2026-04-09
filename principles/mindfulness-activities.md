@@ -11,6 +11,7 @@ edited_by: Codex
 Mindfulness activities are short structured practices that help learners attend to the present moment, notice internal state, and regulate reaction before acting. In learning settings, these activities are often used to support focus, emotional regulation, transition into challenging work, or recovery from stress. Their instructional value is usually indirect: they do not teach content by themselves, but they can improve the conditions under which learners are ready to engage, persist, and monitor themselves.
 
 ## Implications
+Mindfulness activities are best treated as readiness supports rather than as core instruction. Brief, bounded routines can help some learners settle attention, notice stress, and transition into demanding work with more self-control, which may improve later engagement and use of feedback by strengthening self-monitoring and regulation [[claims/self-monitoring-improves-self-regulation]] [~M]. But the benefits are indirect and variable, so the design principle is modesty: make participation low-pressure, connect the routine to a concrete learning demand, and avoid treating mindfulness as a substitute for instruction, accommodation, or broader support.
 
 ### Context
 #### Requirements
@@ -46,7 +47,7 @@ Mindfulness activities are short structured practices that help learners attend 
 - Mindfulness is supportive rather than sufficient; it does not replace instruction, accommodation, or mental-health care.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — mindfulness routines are most defensible when they help learners notice and regulate attention or stress before engaging in work
 
 ## Related Principles
 - [[principles/check-ins|Check-ins]] — mindfulness routines can function as a brief transition or readiness check-in.

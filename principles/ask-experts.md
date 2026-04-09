@@ -12,7 +12,7 @@ Give learners structured access to people with deeper domain expertise so they c
 
 ## Implications
 
-Asking experts works best when the interaction helps learners move from vague confusion to more precise reasoning. The expert's role is not only to provide answers, but to make disciplinary judgment visible, surface key vocabulary and distinctions, and redirect learners toward productive next steps. In practice this often overlaps with [[elements/coaching|Coaching]], [[elements/feedback|Feedback]], [[elements/demonstration|Demonstration]], and [[elements/conceptual-questioning|Conceptual Questioning]].
+Asking experts works best when the interaction helps learners move from vague confusion to more precise reasoning. The expert's role is not only to provide answers, but to make disciplinary judgment visible, surface key vocabulary and distinctions, and redirect learners toward productive next steps. This is strongest when support is contingent on what the learner actually understands [[claims/contingent-scaffolding-improves-learning]] [+M], when the expert prompts learners to explain their own reasoning instead of merely listening to answers [[claims/self-explanation-improves-conceptual-understanding]] [+S], and when the expert gradually hands responsibility back to the learner rather than remaining the permanent problem-solver [[claims/fading-support-promotes-transfer-of-responsibility]] [~S]. In practice this often overlaps with [[elements/coaching|Coaching]], [[elements/feedback|Feedback]], [[elements/demonstration|Demonstration]], and [[elements/conceptual-questioning|Conceptual Questioning]].
 
 ### Context
 #### Requirements

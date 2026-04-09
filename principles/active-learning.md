@@ -11,6 +11,7 @@ edited_by: Codex
 Active learning is the principle that learners should do meaningful cognitive work with content rather than only receive it. The core move is not activity for its own sake, but requiring learners to explain, apply, compare, predict, generate, or revise so that understanding is constructed through use.
 
 ## Implications
+Active learning improves learning when the activity requires learners to think with the content rather than merely touch it. Explanation, prediction, retrieval, and comparison are especially valuable because they force learners to surface assumptions, test understanding, and revise mental models [[claims/self-explanation-improves-conceptual-understanding]] [+S]. That is why active learning typically works best when tasks are focused, accountable, and supported with feedback: poorly structured activity can still become busywork, while well-designed activity can even turn confidently expressed mistakes into opportunities for stronger retention when those errors are corrected and discussed [[claims/high-confidence-errors-improve-retention]] [~S].
 
 ### Context
 #### Requirements
@@ -36,8 +37,8 @@ Active learning is the principle that learners should do meaningful cognitive wo
 - Active learning still needs structure, modeling, and feedback to be instructionally effective.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/high-confidence-errors-improve-retention]] [~S]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — active tasks are strongest when learners explain, compare, or justify rather than only complete an action
+- [[claims/high-confidence-errors-improve-retention]] [~S] — prediction and discussion tasks can make errors instructionally valuable when they are surfaced and corrected
 
 ## Related Principles
 - [[principles/guided-practice|Guided Practice]]

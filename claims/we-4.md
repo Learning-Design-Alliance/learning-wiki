@@ -18,6 +18,8 @@ Learners who study worked examples before or interleaved with practice problems 
 
 ## Evidence
 
+Primary evidence link: https://doi.org/10.1016/j.cedpsych.2010.10.004
+
 ### van Gog et al. 2011
 
 Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212-218. [https://doi.org/10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)

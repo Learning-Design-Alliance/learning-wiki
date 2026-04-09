@@ -11,6 +11,7 @@ edited_by: Codex
 Fostering a growth mindset means designing instruction so that effort, revision, and strategic improvement are treated as normal parts of learning rather than as signs of low ability. In practice, this principle is less about slogans and more about the surrounding message system: what gets praised, how errors are discussed, whether progress is made visible, and whether learners are given a credible path to improve. Growth-mindset-oriented environments help learners interpret difficulty as information about strategy and support needs instead of as proof that they cannot succeed.
 
 ## Implications
+Fostering a growth mindset helps when the learning environment gives learners credible reasons to believe improvement is possible. Process-focused feedback, visible revision, and normal treatment of error can shift how learners interpret difficulty, especially when setbacks are framed as information about strategy rather than evidence of fixed ability [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] [[claims/high-confidence-errors-improve-retention]] [+S]. But mindset language becomes counterproductive if the structure of the course still communicates fixed judgment through no-revision grading, opaque expectations, or lack of support. The real design work is in the feedback system, not the slogan, and challenge still has to be clear and attainable enough to produce effort rather than resignation [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S].
 
 ### Context
 #### Requirements
@@ -46,9 +47,9 @@ Fostering a growth mindset means designing instruction so that effort, revision,
 - Some learners will interpret challenge negatively unless the task is scaffolded well enough for progress to be visible.
 
 ### Claims
-- [[claims/high-confidence-errors-improve-retention]] [+S]
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S]
+- [[claims/high-confidence-errors-improve-retention]] [+S] — error-friendly environments help learners reinterpret mistakes as useful information rather than fixed failure
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — growth-oriented classrooms are stronger when feedback names the next strategy or process to try
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S] — challenge supports growth only when expectations are clear enough to orient effort and progress
 
 ## Related Principles
 - [[principles/error-analysis|Error Analysis]] — growth mindset depends on treating mistakes as useful evidence rather than failure.

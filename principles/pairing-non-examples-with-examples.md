@@ -11,6 +11,7 @@ edited_by: Codex
 Pairing non-examples with examples helps learners understand a concept, procedure, or category by seeing both what fits and what does not. The contrast matters because examples alone can make a pattern look obvious when it is not; non-examples force learners to discriminate, compare, and articulate what distinguishes a valid case from an invalid or misleading one. This principle is especially useful when learners hold persistent misconceptions or when the concept boundary is easy to blur.
 
 ## Implications
+Pairing non-examples with examples strengthens learning because contrast makes concept boundaries visible. When learners compare a correct case to a plausible wrong one and explain the difference, they are more likely to notice the structural feature that actually matters instead of matching on surface cues alone [[claims/erroneous-examples-build-conceptual-knowledge]] [+M]. In some cases, confronting a confidently held mistake can also make the correction more memorable [[claims/high-confidence-errors-improve-retention]] [~S]. The main design caution is timing: novices often need a stable correct model before contrastive cases become productive, and example-first sequences are often stronger than exposing learners to errors without a correct anchor [[claims/worked-examples-example-problem-sequences]] [~S].
 
 ### Context
 #### Requirements
@@ -46,9 +47,9 @@ Pairing non-examples with examples helps learners understand a concept, procedur
 - Very early novices may need direct example study before they can benefit from non-example comparison.
 
 ### Claims
-- [[claims/erroneous-examples-build-conceptual-knowledge]] [+M]
-- [[claims/high-confidence-errors-improve-retention]] [~S]
-- [[claims/worked-examples-example-problem-sequences]] [~S]
+- [[claims/erroneous-examples-build-conceptual-knowledge]] [+M] — comparing correct and incorrect cases can sharpen conceptual boundaries when the contrast is explained
+- [[claims/high-confidence-errors-improve-retention]] [~S] — a plausible wrong case can make the correction more memorable when learners initially feel sure about it
+- [[claims/worked-examples-example-problem-sequences]] [~S] — contrastive teaching is often stronger when learners see a correct anchor before or alongside the non-example
 
 ## Related Principles
 - [[principles/error-analysis|Error Analysis]] — pairing examples with non-examples is one concrete way to analyze and correct misconceptions.

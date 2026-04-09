@@ -11,6 +11,7 @@ edited_by: Codex
 Multimodal instruction presents and develops learning through more than one representational mode, such as text, speech, image, gesture, diagram, demonstration, or interactive media. Its value is not in catering to supposed fixed "learning styles," but in using different modes for different instructional purposes: some ideas are clearer when shown, some when spoken, some when enacted, and some when learners move between representations. Well-designed multimodal instruction can improve clarity, access, and retention when the modes complement rather than compete with one another.
 
 ## Implications
+Multimodal instruction works when different modes carry different parts of the meaning and help learners move between representations productively. Coordinated text, visuals, speech, demonstration, and interaction can clarify structure and improve access when each mode earns its place [[claims/chunking-reduces-working-memory-load]] [~S]. The design risk is clutter: adding more modes without coordination can increase cognitive load and fragment attention. The practical rule is not “more modes,” but “better fit between mode, concept, and learner need,” especially when learners are asked to explain how the representations connect rather than passively consume them [[claims/self-explanation-improves-conceptual-understanding]] [~S].
 
 ### Context
 #### Requirements
@@ -46,8 +47,8 @@ Multimodal instruction presents and develops learning through more than one repr
 - The right number and kind of modes depends on the task, the learner, and the concept.
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [~S]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [[claims/chunking-reduces-working-memory-load]] [~S] — well-coordinated modes can reduce interpretive burden by distributing meaning across useful representations
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S] — multimodal instruction is stronger when learners explain how different representations relate
 
 ## Related Principles
 - [[principles/creating-visual-representations|Creating Visual Representations]] — multimodal instruction often incorporates learner-generated visuals and explanations.

@@ -13,6 +13,7 @@ Real-world math connects mathematical ideas to situations learners recognize as 
 This principle also broadens what counts as mathematical experience. When instructors draw on learners' cultural practices, workplace tasks, and informal problem-solving, math becomes something learners already use and can extend, not just something delivered by school. The quality of the context matters: examples should be authentic enough to support transfer without adding unnecessary complexity or stereotyping learner experience.
 
 ## Implications
+Real-world math improves engagement and transfer when the mathematical structure is tied to situations learners actually care about. Authentic contexts can make the purpose of a concept clearer and support whole-task application [[claims/whole-task-performance-improves-transfer]] [~S], but relevance alone is not enough. Learners still need help seeing the underlying structure, explaining why the math fits the situation [[claims/self-explanation-improves-conceptual-understanding]] [~S], and navigating the extra complexity that context can introduce [[claims/contingent-scaffolding-improves-learning]] [~M]. The best real-world math tasks respect learner experience without letting the context overshadow the mathematics.
 
 ### Context
 #### Requirements
@@ -48,9 +49,9 @@ This principle also broadens what counts as mathematical experience. When instru
 - Context should support abstraction, not trap learning inside a single familiar example.
 
 ### Claims
-- [[claims/whole-task-performance-improves-transfer]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [[claims/whole-task-performance-improves-transfer]] [~S] — math tied to meaningful situations can support later application better than decontextualized drill alone
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — contextual math tasks often need responsive support so the situation clarifies rather than obscures the concept
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S] — learners understand applied math more deeply when they justify why a model or method fits the real situation
 
 ## Related Principles
 - [[principles/explicit-instruction-math-strategies|Explicit Instruction: Math Strategies]] — real-world tasks still benefit from direct teaching of methods and representations.

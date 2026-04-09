@@ -18,6 +18,8 @@ When novices study a fully or partially solved example before independent proble
 
 ## Evidence
 
+Primary evidence link: https://doi.org/10.1037/0022-0663.77.1.59
+
 ### Sweller & Cooper 1985
 
 Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Journal of Educational Psychology, 77*(1), 59-89. [https://doi.org/10.1037/0022-0663.77.1.59](https://doi.org/10.1037/0022-0663.77.1.59)

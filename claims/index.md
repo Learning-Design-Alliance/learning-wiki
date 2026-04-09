@@ -2,6 +2,7 @@
 type: index
 title: Claims
 last_edited: 2026-04-06
+evidence_strength: n/a
 ---
 
 # Claims

@@ -15,6 +15,8 @@ For learners with very low prior knowledge, the complexity of a whole task can e
 
 ## Evidence
 
+Primary evidence link: https://doi.org/10.1016/S0959-4752(01)00016-0
+
 ### Pollock et al. 2002
 
 Pollock, E., Chandler, P., & Sweller, J. (2002). Assimilating complex information. *Learning and Instruction, 12*(1), 61–86. [https://doi.org/10.1016/S0959-4752(01)00016-0](https://doi.org/10.1016/S0959-4752(01)00016-0)

@@ -11,6 +11,7 @@ edited_by: Codex
 Mnemonic devices are deliberate memory supports such as acronyms, imagery, rhyme, chunking, loci, or categorization systems that help learners encode and retrieve information more efficiently. They are especially useful when the learning goal involves remembering ordered steps, terminology, classifications, or paired associations. Their main limitation is that recall support is not the same as conceptual understanding: mnemonics can strengthen memory for information while still leaving underlying reasoning thin if used in isolation.
 
 ## Implications
+Mnemonic devices help when recall is a real bottleneck and the content lends itself to compressed cues. Acronyms, imagery, chunking, and location-based cues can reduce retrieval strain and make foundational information more available during higher-order work [[claims/chunking-reduces-working-memory-load]] [+S]. The important design boundary is that mnemonics support memory, not meaning by themselves. They are strongest after or alongside conceptual explanation, and weakest when learners memorize the cue without understanding what it stands for or when to reason beyond it.
 
 ### Context
 #### Requirements
@@ -46,7 +47,7 @@ Mnemonic devices are deliberate memory supports such as acronyms, imagery, rhyme
 - Learners may need explicit help deciding when to rely on the mnemonic and when to reason beyond it.
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [+S]
+- [[claims/chunking-reduces-working-memory-load]] [+S] — mnemonic systems help by compressing information into more retrievable units or cues
 
 ## Related Principles
 - [[principles/chunking|Chunking]] — many mnemonic devices work by organizing information into more manageable memory units.

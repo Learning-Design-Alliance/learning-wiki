@@ -11,6 +11,7 @@ edited_by: Codex
 Multimedia projects ask learners to create meaning through more than one medium, such as text, image, audio, video, interaction, or digital composition. The instructional value is not simply using technology; it is requiring learners to make design choices about how best to represent, explain, and communicate an idea. These projects can deepen engagement and expression, but they also raise the complexity of planning, composing, and production.
 
 ## Implications
+Multimedia projects are valuable when the medium choices themselves become part of the learning. Asking learners to decide how to explain an idea through text, image, sound, or interaction can deepen synthesis and communication because they must translate understanding into a designed artifact rather than only restate it [[claims/self-explanation-improves-conceptual-understanding]] [+S]. The main tradeoff is production overhead: if tool use, editing, or format decisions dominate attention, the project can become a technology exercise instead of a learning task. Strong designs therefore constrain scope, clarify criteria, and assess explanation as well as polish, especially when the project is meant to approximate a meaningful whole-task performance rather than just a polished media object [[claims/whole-task-performance-improves-transfer]] [~M].
 
 ### Context
 #### Requirements
@@ -46,8 +47,8 @@ Multimedia projects ask learners to create meaning through more than one medium,
 - For novices, the project may need to be constrained so production demands do not eclipse conceptual learning.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/whole-task-performance-improves-transfer]] [~M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — multimedia projects deepen learning when learners must explain ideas through deliberate representational choices
+- [[claims/whole-task-performance-improves-transfer]] [~M] — these projects are strongest when they resemble authentic communication or production tasks rather than isolated tool exercises
 
 ## Related Principles
 - [[principles/multimodal-instruction|Multimodal Instruction]] — multimedia projects extend multimodal input into multimodal production.

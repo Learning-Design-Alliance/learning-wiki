@@ -13,6 +13,7 @@ Text chats use live or near-live written exchange as a learning space for discus
 Text chats are not just casual add-ons. They can serve instructional purposes such as brainstorming, peer response, vocabulary practice, clarification during presentations, and collaborative sense-making. Their value depends on prompt quality, facilitation, and whether the pace of the chat matches the linguistic and cognitive demands placed on learners.
 
 ## Implications
+Text chats are useful when they create a lower-stakes written channel for learners to ask questions, respond to peers, and make thinking visible in real time. They can support monitoring and clarification because learners are able to check others’ responses against their own understanding as the exchange unfolds [[claims/self-monitoring-improves-self-regulation]] [~M]. The design challenge is pace: when too many threads move at once, chats can overload attention and require more facilitation, prompting, and responsive support to stay productive [[claims/contingent-scaffolding-improves-learning]] [~M]. Chats help most when the prompt is focused and the moderator keeps participation legible.
 
 ### Context
 #### Requirements
@@ -48,8 +49,8 @@ Text chats are not just casual add-ons. They can serve instructional purposes su
 - Chat works best for focused exchange, not for every deep discussion or extended explanation.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — live written exchange can help learners compare their understanding with others and adjust quickly
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — chat discussions often need active prompting and moderation to remain focused and useful
 
 ## Related Principles
 - [[principles/peer-discussion|Peer Discussion]] — text chat is one medium for structured peer exchange.

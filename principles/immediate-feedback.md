@@ -11,6 +11,7 @@ edited_by: Codex
 Immediate feedback is feedback delivered close enough to a learner's action that it can still shape interpretation, correction, and the next attempt. Its value is not just speed, but timeliness relative to the learner's current thinking: when feedback arrives while the reasoning path, misconception, or uncertainty is still active, it is easier to adjust strategy and avoid rehearsing errors. Immediate feedback is especially useful during skill acquisition, guided practice, and high-frequency retrieval or problem-solving tasks.
 
 ## Implications
+Immediate feedback works because correction is most usable while the learner’s reasoning path is still active. Timely explanation can interrupt repeated error [[claims/high-confidence-errors-improve-retention]] [+S], improve self-monitoring [[claims/self-monitoring-improves-self-regulation]] [+M], and make the next attempt meaningfully different from the last one when the support is actually responsive to the learner’s move [[claims/contingent-scaffolding-improves-learning]] [~M]. But immediacy is not a universal good: some tasks benefit from sustained effort before review, and fast feedback that is vague or misaligned can misdirect learning just as efficiently as it helps. The design question is not “How fast can feedback be?” but “When will feedback most improve the next action?”
 
 ### Context
 #### Requirements
@@ -46,9 +47,9 @@ Immediate feedback is feedback delivered close enough to a learner's action that
 - The effect depends on feedback quality. Fast but vague feedback often adds little.
 
 ### Claims
-- [[claims/high-confidence-errors-improve-retention]] [+S]
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [[claims/high-confidence-errors-improve-retention]] [+S] — feedback is especially powerful when it interrupts and corrects an active misconception before it is rehearsed again
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — timely feedback helps learners connect outcome to strategy while the attempt is still fresh
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — immediate feedback helps most when it addresses the actual decision or misconception that just occurred
 
 ## Related Principles
 - [[principles/formative-assessment|Formative Assessment]] — immediate feedback is one of the most actionable forms of formative assessment.

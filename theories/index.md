@@ -12,7 +12,7 @@ Explanatory frameworks that ground principles and claims.
 
 | Page | Status |
 |------|--------|
-| [[theories/cognitive-load-theory\|Cognitive Load Theory]] | review |
+| [[theories/cognitive-load-theory|Cognitive Load Theory]] | review |
 
 ---
 

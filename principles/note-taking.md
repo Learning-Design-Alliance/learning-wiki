@@ -11,6 +11,7 @@ edited_by: Codex
 Note-taking is the instructional principle of helping learners externalize important information, structure, and interpretation while reading, listening, observing, or solving problems. Good notes do more than record facts: they direct attention, support later review, and help learners decide what matters, how ideas connect, and what they still do not understand. Because poor notes can also reinforce confusion, note-taking usually needs explicit teaching, modeling, and adaptation to the type of task.
 
 ## Implications
+Note-taking helps when it turns attention into an organized external record rather than into frantic transcription. Selective, structured notes can reduce working-memory demands by chunking and externalizing information [[claims/chunking-reduces-working-memory-load]] [+S], and they can improve monitoring because learners have to decide what matters and where gaps remain [[claims/self-monitoring-improves-self-regulation]] [+M]. The main instructional risk is that note-taking can split attention or preserve misunderstanding if learners capture too much, too little, or the wrong thing. Strong note-taking instruction therefore models how to transform information, not just how to write it down, so that notes support explanation and later reuse rather than passive copying [[claims/self-explanation-improves-conceptual-understanding]] [~S].
 
 ### Context
 #### Requirements
@@ -46,9 +47,9 @@ Note-taking is the instructional principle of helping learners externalize impor
 - Some fast-paced or conceptually dense moments may require provided scaffolds or partial notes so learners can still comprehend in real time.
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [+S]
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [[claims/chunking-reduces-working-memory-load]] [+S] — structured notes help by externalizing and organizing information that would otherwise compete for working memory
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — note-taking supports learners in noticing what they understand, what they missed, and what they need next
+- [[claims/self-explanation-improves-conceptual-understanding]] [~S] — notes become more powerful when they transform information through summary, connection, or question rather than copying
 
 ## Related Principles
 - [[principles/graphic-organizers|Graphic Organizers]] — graphic note formats can make structure and relationships more visible.

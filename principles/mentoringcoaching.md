@@ -11,6 +11,7 @@ edited_by: Codex
 Mentoring and coaching are relationship-based supports in which a more experienced peer, instructor, or practitioner helps a learner interpret goals, practice skills, reflect on progress, and navigate challenge. The key difference from simple advice is that mentoring and coaching are developmental: they combine encouragement, modeling, questioning, feedback, and calibrated support over time. In learning settings, they often improve persistence and transfer because support is attached to real performance and real decisions rather than delivered only in the abstract.
 
 ## Implications
+Mentoring and coaching are effective because they attach support to the learner’s actual decisions, performance, and context. Responsive questioning, modeling, and feedback can make tacit expert judgment visible and help learners progress toward more independent performance over time [[claims/contingent-scaffolding-improves-learning]] [+M] [[claims/fading-support-promotes-transfer-of-responsibility]] [+S]. The main design risk is dependence or uneven quality: if the mentor becomes the solver of every problem, or if support varies wildly by relationship, the benefits become inconsistent. Strong mentoring and coaching therefore require clear purpose, regularity, and an explicit shift from help-giving toward learner judgment, especially when the work being coached is authentic enough to support later transfer beyond the relationship itself [[claims/whole-task-performance-improves-transfer]] [~M].
 
 ### Context
 #### Requirements
@@ -46,9 +47,9 @@ Mentoring and coaching are relationship-based supports in which a more experienc
 - Relationship quality matters enough that poor mentoring can produce little benefit or even discourage learners.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/fading-support-promotes-transfer-of-responsibility]] [+S]
-- [[claims/whole-task-performance-improves-transfer]] [~M]
+- [[claims/contingent-scaffolding-improves-learning]] [+M] — mentoring and coaching work best when prompts and feedback are tailored to the learner’s actual performance
+- [[claims/fading-support-promotes-transfer-of-responsibility]] [+S] — strong coaching deliberately shifts responsibility from helper to learner over time
+- [[claims/whole-task-performance-improves-transfer]] [~M] — coaching is most valuable when it stays tied to real tasks and decisions learners will later handle on their own
 
 ## Related Principles
 - [[principles/scaffolding-and-fading|Scaffolding and Fading]] — coaching often operates through contingent support and gradual release.

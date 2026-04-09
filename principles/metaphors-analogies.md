@@ -11,6 +11,7 @@ edited_by: Codex
 Metaphors and analogies help learners understand unfamiliar ideas by mapping them onto more familiar experiences, systems, or images. Their instructional power lies in comparative structure: they can make abstract concepts more concrete, reveal patterns, and help learners reason about relationships they might otherwise miss. Used carefully, they support explanation, transfer, and conceptual flexibility. Used carelessly, they can oversimplify or mislead.
 
 ## Implications
+Metaphors and analogies work because they let learners reason from a known structure toward an unfamiliar one. A good analogy can reduce the effort of building a concept from scratch and make abstract relationships easier to grasp [[claims/chunking-reduces-working-memory-load]] [~S], especially when learners explain the mapping in their own words [[claims/self-explanation-improves-conceptual-understanding]] [+S]. The design caution is that analogies are only partial bridges: unless instructors explicitly mark where the comparison fits and where it breaks, learners may overextend the metaphor and build durable misconceptions.
 
 ### Context
 #### Requirements
@@ -46,8 +47,8 @@ Metaphors and analogies help learners understand unfamiliar ideas by mapping the
 - Learners may need help separating productive metaphor from literal truth, especially in science, mathematics, and policy topics.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/chunking-reduces-working-memory-load]] [~S]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — analogies teach more when learners explain how the source and target actually map
+- [[claims/chunking-reduces-working-memory-load]] [~S] — a strong analogy can reduce interpretive burden by giving learners a familiar structure to think with
 
 ## Related Principles
 - [[principles/creating-visual-representations|Creating Visual Representations]] — analogies often become more useful when represented visually.

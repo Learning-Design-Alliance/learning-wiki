@@ -11,6 +11,7 @@ edited_by: Codex
 Check-ins are brief, recurring opportunities for learners to signal how they are doing, what they understand, and what kind of support they need. They can be social, emotional, or task-focused, but their instructional value comes from turning invisible learner state into something that can guide the next move. Used well, check-ins help establish belonging, normalize support-seeking, and give instructors a low-cost way to detect confusion, overload, or disengagement early.
 
 ## Implications
+Check-ins work when they convert private uncertainty into usable instructional information. A short confidence rating, confusion prompt, or support request can improve self-monitoring for learners [[claims/self-monitoring-improves-self-regulation]] [+M] and create openings for responsive scaffolding by the instructor [[claims/contingent-scaffolding-improves-learning]] [~M], but only if something actually changes as a result. That is why the core design requirement is not the prompt itself but the follow-through: regrouping, clarifying, slowing down, or offering support in response to what learners report. In some settings, check-ins can also surface confident misunderstanding early enough to correct it before it hardens [[claims/high-confidence-errors-improve-retention]] [~S].
 
 ### Context
 #### Requirements
@@ -46,9 +47,9 @@ Check-ins are brief, recurring opportunities for learners to signal how they are
 - Some learners prefer lower-visibility response modes and may disengage if all check-ins require public disclosure.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/high-confidence-errors-improve-retention]] [~S]
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — brief confidence and confusion prompts help learners notice and report their own current state
+- [[claims/contingent-scaffolding-improves-learning]] [~M] — check-ins matter instructionally when responses lead to tailored clarification, regrouping, or support
+- [[claims/high-confidence-errors-improve-retention]] [~S] — early disclosure of confident confusion can make later correction more memorable
 
 ## Related Principles
 - [[principles/formative-assessment|Formative Assessment]] — check-ins are one lightweight way to gather evidence during learning rather than after it.

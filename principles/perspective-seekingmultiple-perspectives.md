@@ -11,6 +11,7 @@ edited_by: Codex
 Perspective seeking is the instructional principle of actively engaging with multiple viewpoints in order to better understand a topic, event, text, or problem. It differs from simple exposure because learners are asked to investigate how and why different people interpret the same issue differently. In educational settings, this can strengthen reasoning, critical reading, dialogue, and humility by showing that understanding often improves when learners compare interpretations instead of remaining inside a single frame.
 
 ## Implications
+Perspective seeking improves reasoning when learners compare how different people frame the same issue and explain why those differences exist. That comparison can weaken premature certainty and deepen interpretation because explanation and comparison push learners to reorganize their own understanding [[claims/self-explanation-improves-conceptual-understanding]] [+S]. It can also support reflective revision as learners notice where their first interpretation was partial or overconfident [[claims/self-monitoring-improves-self-regulation]] [~M]. The important design constraint is ethical and epistemic judgment: multiple perspectives are not the same as false balance, and the goal is not to flatten differences in evidence or harm. Strong perspective work helps learners analyze contrast more carefully, not treat every position as equally valid.
 
 ### Context
 #### Requirements
@@ -46,8 +47,8 @@ Perspective seeking is the instructional principle of actively engaging with mul
 - More perspectives are not automatically better; quality, relevance, and ethical framing matter.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — perspective comparison deepens reasoning when learners explain how and why interpretations differ
+- [[claims/self-monitoring-improves-self-regulation]] [~M] — multiple perspectives can prompt learners to notice limits in their first interpretation and revise it
 
 The current claim inventory supports explanation and reflective revision mechanisms more directly than perspective-seeking as a standalone intervention.
 

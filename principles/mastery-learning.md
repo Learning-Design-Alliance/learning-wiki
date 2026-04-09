@@ -11,6 +11,7 @@ edited_by: Codex
 Mastery learning is the principle that progression should depend on demonstrated competence rather than time spent, first exposure, or one-shot performance. Learners are given clear targets, supported practice, feedback, and additional attempts until they reach an acceptable level of understanding or skill. The value of the principle is not repetition by itself, but the combination of clear criteria, corrective support, and another opportunity to succeed.
 
 ## Implications
+Mastery learning works when progression is tied to credible performance and learners have a real chance to improve before moving on. Clear criteria, corrective feedback, and another attempt can prevent early misunderstandings from compounding [[claims/contingent-scaffolding-improves-learning]] [+M], make progress more inspectable for learners themselves [[claims/self-monitoring-improves-self-regulation]] [+M], and make advancement more trustworthy than time-based promotion alone. The design challenge is capacity: mastery systems require usable checkpoints, targeted reteaching, and enough flexibility in pacing to support learners who need more time without turning the whole model into administrative overload or narrow test chasing. Clear standards still matter because “mastery” that is vague or shifting cannot reliably focus effort [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S].
 
 ### Context
 #### Requirements
@@ -43,9 +44,9 @@ Mastery learning is the principle that progression should depend on demonstrated
 - The principle is weaker when mastery is defined only as repeated test performance.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [[claims/contingent-scaffolding-improves-learning]] [+M] — mastery cycles improve learning when feedback and reteaching respond to the learner’s current gap
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — visible progress toward mastery helps learners judge readiness and adjust effort
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S] — mastery learning depends on standards that are clear enough to guide attention and persistence
 
 ## Related Principles
 - [[principles/formative-assessment|Formative Assessment]]

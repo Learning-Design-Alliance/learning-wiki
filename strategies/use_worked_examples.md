@@ -49,8 +49,8 @@ By externalizing the solution process, worked examples let novices study task st
 6. As learners gain confidence, shift to problem-only practice
 
 ## Related Strategies
-- [[strategies/worked-example-routine|Worked Example Routine]] — a structured classroom routine that formalizes this cycle
-- [[strategies/comparing-multiple-solution-methods|Comparing Multiple Solution Methods]] — an extension that pairs two worked examples for comparison
+- [[strategies/worked_example_routine|Worked Example Routine]] — a structured classroom routine that formalizes this cycle
+- [[strategies/comparing_multiple_solution_methods|Comparing Multiple Solution Methods]] — an extension that pairs two worked examples for comparison
 - [[strategies/think-aloud-modeling|Think-Aloud Modeling]] — the live narration technique for delivering demonstrations
 
 ## Examples

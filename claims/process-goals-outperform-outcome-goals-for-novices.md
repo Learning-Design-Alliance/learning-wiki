@@ -16,6 +16,8 @@ In the initial stages of learning complex tasks, focusing on the specific techni
 
 ## Evidence
 
+Primary evidence link: https://doi.org/10.1037/0022-0663.91.2.241
+
 ### Zimmerman & Kitsantas 1999
 
 Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–252. [https://doi.org/10.1037/0022-0663.91.2.241](https://doi.org/10.1037/0022-0663.91.2.241)

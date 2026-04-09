@@ -11,6 +11,7 @@ edited_by: Codex
 Case studies use realistic scenarios, dilemmas, or incidents as the object of analysis so learners must interpret evidence, weigh alternatives, and justify action. Rather than receiving rules first and applying them later, learners grapple with ambiguity closer to professional practice: what matters here, what information is missing, what options are plausible, and how should a decision be defended?
 
 ## Implications
+Case-based learning is powerful because it places concepts inside realistic uncertainty instead of leaving them as detached rules. When learners have to interpret evidence, justify a decision, and compare alternatives, they are more likely to build transferable judgment than when they only rehearse isolated subskills [[claims/whole-task-performance-improves-transfer]] [+S]. That transfer is stronger when learners explain why their response fits the case rather than simply picking an answer [[claims/self-explanation-improves-conceptual-understanding]] [+S]. The tradeoff is that ambiguity can overload novices, so the strongest case designs combine realism with structure: prompts, expert modeling, staged information release, and responsive questioning that helps learners move through complexity without simply being told the answer [[claims/contingent-scaffolding-improves-learning]] [+M].
 
 ### Context
 #### Requirements

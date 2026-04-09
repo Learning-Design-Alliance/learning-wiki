@@ -16,6 +16,8 @@ By organizing discrete elements into larger, familiar patterns (chunks), learner
 
 ## Evidence
 
+Primary evidence link: https://doi.org/10.1037/h0043158
+
 ### Miller 1956
 
 Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review, 63*(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158)

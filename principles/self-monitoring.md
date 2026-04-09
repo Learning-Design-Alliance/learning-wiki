@@ -13,6 +13,7 @@ Self-monitoring is the practice of checking one's current understanding, perform
 Self-monitoring can be applied to reading comprehension, writing, math problem solving, behavior, pacing, attention, or persistence. It is strongest when learners have explicit criteria and some realistic action they can take in response to what they notice. Without that structure, requests to "monitor yourself" often collapse into vague self-report rather than useful regulation.
 
 ## Implications
+Self-monitoring improves learning because effort becomes more useful when learners can compare current performance to a target and respond while the task is still in progress [[claims/self-monitoring-improves-self-regulation]] [+M]. Clear goals also matter: learners monitor more accurately when they know what success looks like and what counts as progress [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]. For novices, self-monitoring often needs process cues and structured checkpoints before it becomes accurate or efficient [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]. Without those supports, “monitor yourself” often collapses into vague self-report.
 
 ### Context
 #### Requirements
@@ -48,9 +49,9 @@ Self-monitoring can be applied to reading comprehension, writing, math problem s
 - Learners often need modeling, calibration, and prompts before self-monitoring becomes accurate or efficient.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — learners regulate better when they regularly check their understanding or performance against a target
+- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S] — monitoring works better when the learner has a clear, challenging standard to compare against
+- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M] — beginners often need concrete monitoring routines tied to process, not only end-state outcomes
 
 ## Related Principles
 - [[principles/goal-setting-monitoring|Goal Setting & Monitoring]] — monitoring depends on having a target worth tracking.

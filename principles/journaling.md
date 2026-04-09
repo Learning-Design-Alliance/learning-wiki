@@ -11,6 +11,7 @@ edited_by: Codex
 Journaling is the practice of having learners write regularly to externalize thinking, notice experience, and make learning more visible to themselves or to an instructor. Journals can be reflective, dialogic, disciplinary, metacognitive, or affective, but the common mechanism is structured written sense-making. By writing about what they understand, what they are struggling with, and how new learning connects to prior experience, learners can process meaning more deliberately and track change over time.
 
 ## Implications
+Journaling helps when writing is used to inspect thinking rather than just record events. Regular prompts that ask learners to explain, connect, or plan can deepen conceptual understanding [[claims/self-explanation-improves-conceptual-understanding]] [+S] and strengthen self-monitoring [[claims/self-monitoring-improves-self-regulation]] [+M] because the learner has to articulate what is clear, what is confusing, and what should happen next. The design risk is empty compliance writing: journals lose value quickly if prompts are generic, never revisited, or treated as heavily graded performance instead of a space for low-stakes sense-making.
 
 ### Context
 #### Requirements
@@ -46,8 +47,8 @@ Journaling is the practice of having learners write regularly to externalize thi
 - Some learners may reflect better through speech, drawing, or other modalities unless journaling is adapted flexibly.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
+- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — journals deepen learning when they require learners to explain connections, decisions, or shifts in understanding
+- [[claims/self-monitoring-improves-self-regulation]] [+M] — journaling supports learners in noticing confusion, tracking progress, and planning next steps
 
 ## Related Principles
 - [[principles/purposeful-reflection|Purposeful Reflection]] — journaling is one concrete routine for structured reflection.
