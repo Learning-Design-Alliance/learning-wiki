@@ -8,7 +8,7 @@ last_edited: 2026-04-08
 
 Instructional building blocks — the components you compose into patterns.
 
-**239 entries** · 0 stable · 136 in review · 103 drafts
+**239 entries** · 0 stable · 239 in review · 0 drafts
 
 ---
 

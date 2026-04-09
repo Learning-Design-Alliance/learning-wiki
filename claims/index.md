@@ -9,7 +9,7 @@ last_edited: 2026-04-08
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**19 entries** · 0 stable · 3 in review · 16 drafts
+**19 entries** · 0 stable · 19 in review · 0 drafts
 
 ---
 
