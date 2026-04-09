@@ -12,9 +12,9 @@ edited_by: Codex
 In mathematics learning, worked examples can improve performance by making solution structure visible before learners attempt similar problems on their own.
 
 ## Subclaims
-`q3 i2` Worked examples improve algebra learning relative to unsupported problem solving for novices. [→ Sweller & Cooper 1985](#sweller--cooper-1985)
+`q3 i2` Worked examples improve algebra learning relative to unsupported problem solving for novices. [→ Sweller & Cooper 1985](#sweller-cooper-1985)
 
-`q2 i2` Variants of worked examples can improve mathematics understanding when they direct attention to structure and error. [→ Barbieri & Booth 2016](#barbieri--booth-2016)
+`q2 i2` Variants of worked examples can improve mathematics understanding when they direct attention to structure and error. [→ Barbieri & Booth 2016](#barbieri-booth-2016)
 
 ## Evidence
 

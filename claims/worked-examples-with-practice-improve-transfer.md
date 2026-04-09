@@ -14,7 +14,7 @@ Examples are most instructionally useful when they are followed by opportunities
 ## Subclaims
 `q3 i2` Example-based sequences outperform problem-only practice for novices. [→ van Gog et al. 2011](#van-gog-et-al-2011)
 
-`q3 i2` Transfer improves when guidance is reduced across time rather than kept constant. [→ Renkl & Atkinson 2003](#renkl--atkinson-2003)
+`q3 i2` Transfer improves when guidance is reduced across time rather than kept constant. [→ Renkl & Atkinson 2003](#renkl-atkinson-2003)
 
 ## Evidence
 

@@ -12,9 +12,9 @@ edited_by: Codex
 When novices study a fully or partially solved example before independent problem solving, they spend less effort on blind search and can devote more attention to understanding structure and procedure.
 
 ## Subclaims
-`q3 i2` Worked examples reduce inefficient search during early problem solving. [→ Sweller & Cooper 1985](#sweller--cooper-1985)
+`q3 i2` Worked examples reduce inefficient search during early problem solving. [→ Sweller & Cooper 1985](#sweller-cooper-1985)
 
-`q3 i2` Reduced search leaves more cognitive capacity for schema acquisition in novices. [→ Sweller & Cooper 1985](#sweller--cooper-1985)
+`q3 i2` Reduced search leaves more cognitive capacity for schema acquisition in novices. [→ Sweller & Cooper 1985](#sweller-cooper-1985)
 
 ## Evidence
 
