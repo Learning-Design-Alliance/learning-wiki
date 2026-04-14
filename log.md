@@ -162,3 +162,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 ## [2026-04-08] edit | element cleanup batch AG | added distributed-cognition, collaboration, observation, and task-management aliases for the next cross-element and strategy dependency cluster
 
 ## [2026-04-08] edit | element cleanup batch AH | added progress-tracking, communication-channels, resource-hubs, digital-tools, and small-group-instruction for the next strategy dependency cluster
+
+## [2026-04-13] ingest | claims/autonomy-supports-intrinsic-motivation | new claim (motiv-1); evidence: Ryan & Deci 2000, Deci et al. 1999 meta-analysis (128 studies), Stefanou et al. 2004
+## [2026-04-13] ingest | claims/self-efficacy-predicts-academic-persistence | new claim (motiv-2); evidence: Bandura 1997, Pajares 1996 systematic review
+## [2026-04-13] ingest | claims/task-value-increases-motivation-and-engagement | new claim (motiv-3); evidence: Eccles & Wigfield 2002, Wigfield & Cambria 2010
+## [2026-04-13] edit | principles/motivation | added motiv-1, motiv-2, motiv-3 to Claims section; updated Implications prose to reference autonomy, efficacy, and task-value facets

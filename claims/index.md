@@ -9,12 +9,15 @@ last_edited: 2026-04-08
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**19 entries** · 0 stable · 19 in review · 0 drafts
+**22 entries** · 0 stable · 22 in review · 0 drafts
 
 ---
 
 ## In Review
 
+- [[claims/autonomy-supports-intrinsic-motivation|Autonomy support increases intrinsic motivation, engagement, and persistence in learning.]]
+- [[claims/self-efficacy-predicts-academic-persistence|Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.]]
+- [[claims/task-value-increases-motivation-and-engagement|Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.]]
 - [[claims/contingent-scaffolding-improves-learning|Contingent scaffolding improves learning more than fixed or absent support.]]
 - [[claims/example-problem-sequences-reduce-cognitive-load|Example-problem sequences reduce cognitive load and improve learning outcomes.]]
 - [[claims/worked-examples-example-problem-sequences|Example–problem sequences reduce cognitive load and improve learning outcomes]]

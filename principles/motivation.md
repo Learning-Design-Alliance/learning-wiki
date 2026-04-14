@@ -1,7 +1,7 @@
 ---
 type: principle
 status: review
-last_edited: 2026-04-08
+last_edited: 2026-04-13
 edited_by: Codex
 ---
 
@@ -12,7 +12,7 @@ Motivation is the principle of designing learning so that learners see value, fe
 
 ## Implications
 
-Motivation matters because learners do not invest effort purely because instruction is available. They persist when the work seems worthwhile, manageable, and connected to some meaningful goal or identity. As a design principle, motivation is not one tactic. It is the interaction of value, challenge, autonomy, competence, and social meaning. Some motivational designs rely too heavily on novelty, entertainment, or external reward. Those can start participation, but they often do not sustain high-quality effort unless learners also see progress and purpose [[claims/self-monitoring-improves-self-regulation]] [~M]. Motivation is also easier to sustain when challenge is clear and meaningful [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S], and for novices that challenge is often more workable when goals focus on manageable process rather than distant outcomes [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M].
+Motivation matters because learners do not invest effort purely because instruction is available. They persist when the work seems worthwhile, manageable, and connected to some meaningful goal or identity. As a design principle, motivation is not one tactic. It is the interaction of value, challenge, autonomy, competence, and social meaning — and these dimensions operate somewhat independently. Learners who find work interesting but doubt their capability still avoid it [[claims/self-efficacy-predicts-academic-persistence]] [+S]. Learners who feel capable but see no reason to care still disengage [[claims/task-value-increases-motivation-and-engagement]] [+S]. Learners who see value and feel capable but feel externally controlled show lower quality engagement than those acting from internal reasons [[claims/autonomy-supports-intrinsic-motivation]] [+S]. Some motivational designs rely too heavily on novelty, entertainment, or external reward. Those can start participation, but they often do not sustain high-quality effort unless learners also see progress and purpose [[claims/self-monitoring-improves-self-regulation]] [~M]. Motivation is also easier to sustain when challenge is clear and meaningful [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S], and for novices that challenge is often more workable when goals focus on manageable process rather than distant outcomes [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M].
 
 ### Context
 #### Requirements
@@ -43,6 +43,9 @@ Motivation matters because learners do not invest effort purely because instruct
 - [[theories/behaviorism|Behaviorism]] — external reinforcement can help shape effort, but motivation as a broader construct usually requires more than reward contingencies alone
 
 ### Claims
+- [[claims/autonomy-supports-intrinsic-motivation]] [+S] — learners show higher intrinsic motivation and persistence when they experience meaningful choice and self-determination rather than external control
+- [[claims/self-efficacy-predicts-academic-persistence]] [+S] — task-specific confidence predicts initiation, effort, and recovery from difficulty more reliably than ability alone
+- [[claims/task-value-increases-motivation-and-engagement]] [+S] — learners invest more effort when they perceive tasks as interesting, personally important, or useful to their goals
 - [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S] — clear and challenging goals can increase effort and persistence when learners are committed
 - [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M] — motivation may be more sustainable for novices when goals focus on manageable process rather than distant outcomes
 - [[claims/self-monitoring-improves-self-regulation]] [~M] — visible progress can strengthen motivation by making effort feel productive
