@@ -1,0 +1,15 @@
+{
+  "eval_id": 3,
+  "eval_name": "spaced-learning-principle",
+  "prompt": "enrich principles/spaced-learning.md",
+  "assertions": [
+    "Output uses Obsidian-style double-bracket wikilinks (e.g. [[theories/slug]] or [[claims/slug]])",
+    "Constraints section contains only [-] or [~] evidence tags, never [+]",
+    "Key Sources section has APA citations with real doi: hyperlinks",
+    "Frontmatter status field is set to 'review'",
+    "All major principle template sections are present and non-empty: Description, Implications, Context (Requirements and Constraints), Target Learners, Target Learning Objectives, Theory (Supporting and Contradicting/Qualifying), Claims, Related Principles, Examples, Key Sources",
+    "Theory section references at least one theory using a [[theories/slug]] wikilink",
+    "Evidence tags in the Implications paragraph are linked to claim or theory wikilinks, not bare tags",
+    "log.md has been updated with an ingest entry for this page"
+  ]
+}

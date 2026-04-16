@@ -1,0 +1,35 @@
+{
+  "reviews": [
+    {
+      "run_id": "supportive-information-element-with_skill",
+      "feedback": "The link to 4c/id pattern was wrong.  It should have been.  http://localhost:8000/ld-wiki/patterns/4cid-four-component-instructional-design/.  There are no links for the examples.  These feel like they are sample examples rather than specific products or courses. otherwise this looks great. ",
+      "timestamp": "2026-04-07T20:11:43.028Z"
+    },
+    {
+      "run_id": "supportive-information-element-without_skill",
+      "feedback": "there was no output file.  This must be a total fail.",
+      "timestamp": "2026-04-07T20:11:43.028Z"
+    },
+    {
+      "run_id": "whole-task-performance-element-with_skill",
+      "feedback": "there are no links to examples.  I feel like past versions had links to these programs.",
+      "timestamp": "2026-04-07T20:11:43.028Z"
+    },
+    {
+      "run_id": "whole-task-performance-element-without_skill",
+      "feedback": "no output files, so this feels like a total fail",
+      "timestamp": "2026-04-07T20:11:43.028Z"
+    },
+    {
+      "run_id": "spaced-learning-principle-with_skill",
+      "feedback": "this correctly identified the theory of distributed practice, but since there doesn't seem to be an existing theory page, it did not create one and link to it. There's no link to the products (Anki, duoling, etc.).  Also any research-based reviews of the impact of these products would be helpful so we would know which of them effectively use the element.",
+      "timestamp": "2026-04-07T20:11:43.028Z"
+    },
+    {
+      "run_id": "spaced-learning-principle-without_skill",
+      "feedback": "no output, so this feels like a fail",
+      "timestamp": "2026-04-07T20:11:43.028Z"
+    }
+  ],
+  "status": "in_progress"
+}
