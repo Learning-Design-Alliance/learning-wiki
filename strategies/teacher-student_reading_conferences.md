@@ -39,10 +39,10 @@ Schedule regular conferences with students to get a sense of their independent r
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Coaching](/elements/coaching.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Coaching](../elements/coaching.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Document conference notes and observations. Track student progress based on conference feedback. Monitor the effectiveness of instructional support provided during conferences.

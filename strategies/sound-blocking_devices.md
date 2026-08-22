@@ -39,8 +39,8 @@ Sound-blocking devices, such as noise-reducing headphones or earmuffs, can help 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the child's behavior and focus levels when using sound-blocking devices in noisy environments. Monitor the child's self-regulation and ability to manage auditory input.

@@ -39,9 +39,9 @@ Scaffolding involves providing temporary support to learners to help them manage
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe changes in emotional reactivity and behavioral control. Monitor the learner’s ability to use self-regulation strategies independently. Collect self-reports from learners regarding their confidence and ability to manage challenging situations.

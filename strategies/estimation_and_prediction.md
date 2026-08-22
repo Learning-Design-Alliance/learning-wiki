@@ -39,10 +39,10 @@ Asking students to use estimation and prediction skills. Asking them how they mi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review students’ recorded estimates and reflections. Observe students’ ability to set goals and monitor their progress. Evaluate students’ accuracy in predicting their performance or time required.

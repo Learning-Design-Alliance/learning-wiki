@@ -39,10 +39,10 @@ Creating engagement programs that are embedded throughout a school’s structure
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Application](/elements/application.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [State objectives](../elements/state-objectives.md)
+- [Application](../elements/application.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate family participation rates, student academic outcomes, and overall school culture to assess program effectiveness.

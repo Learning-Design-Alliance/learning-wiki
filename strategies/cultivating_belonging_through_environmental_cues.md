@@ -39,10 +39,10 @@ This strategy involves using simple yet powerful cues in the classroom environme
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Supportive information](/elements/supportive-information.md)
-- [Demonstration](/elements/demonstration.md)
-- [Integration](/elements/integration.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Demonstration](../elements/demonstration.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe student interactions and engagement in the classroom. Gather student feedback on their sense of belonging and safety.

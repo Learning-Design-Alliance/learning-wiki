@@ -24,16 +24,16 @@ sources:
 # Goal Setting & Monitoring
 
 ## Description
-Goal setting and monitoring is the instructional principle of helping learners define specific, challenging targets and systematically tracking their progress toward those targets. This process is central to self-regulated learning (SRL), as it directs attention, mobilizes effort, and provides a framework for metacognitive evaluation [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
+Goal setting and monitoring is the instructional principle of helping learners define specific, challenging targets and systematically tracking their progress toward those targets. This process is central to self-regulated learning (SRL), as it directs attention, mobilizes effort, and provides a framework for metacognitive evaluation [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
 
 ## Implications
-Goal setting and monitoring improve learning because they give effort a target and feedback a reference point. Specific, challenging goals usually focus attention and sustain performance better than vague intentions [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S], while regular monitoring helps learners notice whether their current strategy is working. The key instructional nuance is that novices often need process goals before outcome goals [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]: they need to know what to do next, not just what success should eventually look like. Without that distinction, goal setting can produce pressure without guidance.
+Goal setting and monitoring improve learning because they give effort a target and feedback a reference point. Specific, challenging goals usually focus attention and sustain performance better than vague intentions [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S], while regular monitoring helps learners notice whether their current strategy is working. The key instructional nuance is that novices often need process goals before outcome goals [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]: they need to know what to do next, not just what success should eventually look like. Without that distinction, goal setting can produce pressure without guidance.
 
 ### Context
 #### Requirements
-- **Goal Specificity**: Goals must be clear, measurable, and time-bound (e.g., [SMARTER goals](/elements/smarter-goals.md)) to reduce ambiguity [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+M].
-- **Process Goals for Novices**: For complex tasks, novices should focus on "how-to" (process) goals before transitioning to achievement (outcome) goals [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
-- **Feedback Loops**: Monitoring is ineffective without regular feedback that allows learners to compare their current state to their target goal [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
+- **Goal Specificity**: Goals must be clear, measurable, and time-bound (e.g., [SMARTER goals](../elements/smarter-goals.md)) to reduce ambiguity [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M].
+- **Process Goals for Novices**: For complex tasks, novices should focus on "how-to" (process) goals before transitioning to achievement (outcome) goals [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
+- **Feedback Loops**: Monitoring is ineffective without regular feedback that allows learners to compare their current state to their target goal [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
 
 #### Constraints
 - **Goal Conflict**: Having too many competing goals can lead to fragmented attention and reduced performance.
@@ -41,7 +41,7 @@ Goal setting and monitoring improve learning because they give effort a target a
 - **Expertise Reversal**: While specific, difficult goals benefit novices, experts sometimes perform better with broader or more autonomous goals.
 
 ### Target Learners
-- **Novice Learners**: Benefit from proximal, process-oriented goals to manage the complexity of new tasks [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
+- **Novice Learners**: Benefit from proximal, process-oriented goals to manage the complexity of new tasks [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
 - **Self-Regulated Learners**: Essential for anyone seeking to take proactive control of their own skill acquisition.
 - **Professional Practitioners**: Goal setting is a key driver of performance and professional growth in complex, real-world environments.
 
@@ -52,18 +52,18 @@ Goal setting and monitoring improve learning because they give effort a target a
 
 ### Theory
 #### Supporting
-- **Goal-Setting Theory (Locke & Latham)** — established the link between goal difficulty, specificity, and performance [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
-- [Self-Regulated Learning (SRL, Zimmerman)](/theories/self-regulated-learning.md) — goal setting and monitoring are core components of the "Forethought" and "Performance" phases of the cyclical model.
-- [Self-Determination Theory (Deci & Ryan)](/theories/self-determination-theory.md) — autonomous goal setting supports the need for competence and autonomy.
+- **Goal-Setting Theory (Locke & Latham)** — established the link between goal difficulty, specificity, and performance [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
+- [Self-Regulated Learning (SRL, Zimmerman)](../theories/self-regulated-learning.md) — goal setting and monitoring are core components of the "Forethought" and "Performance" phases of the cyclical model.
+- [Self-Determination Theory (Deci & Ryan)](../theories/self-determination-theory.md) — autonomous goal setting supports the need for competence and autonomy.
 
 ### Claims
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — clear, challenging goals focus effort and make progress interpretable
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices often learn more effectively when goals specify the next process to execute rather than only the final outcome to reach
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — clear, challenging goals focus effort and make progress interpretable
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices often learn more effectively when goals specify the next process to execute rather than only the final outcome to reach
 
 ## Related Principles
-- [Scaffolding and Fading](/principles/scaffolding-and-fading.md) — goals provide the structure that can be scaffolded and then faded.
-- [Error Analysis](/principles/error-analysis.md) — monitoring leads to the detection of errors, which can then be analyzed for deeper learning.
-- [Learner Choice](/principles/learner-choice.md) — allowing learners to set their own goals increases commitment and autonomy.
+- [Scaffolding and Fading](scaffolding-and-fading.md) — goals provide the structure that can be scaffolded and then faded.
+- [Error Analysis](error-analysis.md) — monitoring leads to the detection of errors, which can then be analyzed for deeper learning.
+- [Learner Choice](learner-choice.md) — allowing learners to set their own goals increases commitment and autonomy.
 
 ## Examples
 - **[Khan Academy Progress Tracking](https://www.khanacademy.org)** — Uses specific "Mastery Goals" and progress bars to help learners set targets and monitor their progress in real-time.

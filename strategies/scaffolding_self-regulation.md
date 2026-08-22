@@ -39,8 +39,8 @@ Scaffolding can help students learn how to manage their responses in an emotiona
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe changes in student behavior and skill development.

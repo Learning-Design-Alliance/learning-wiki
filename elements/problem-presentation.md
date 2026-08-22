@@ -31,17 +31,17 @@ Learners are introduced to a real-world problem to analyze and solve.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Problem-Based Learning](/principles/problem-based-learning.md)
-- [Situated Learning](/principles/situated-learning.md)
+- [Problem-Based Learning](../principles/problem-based-learning.md)
+- [Situated Learning](../principles/situated-learning.md)
 
 ## Related Elements
-- [Case Study](/elements/case-study.md)
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
-- [Problem Scenarios](/elements/problem-scenarios.md)
+- [Case Study](case-study.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
+- [Problem Scenarios](problem-scenarios.md)
 
 ## Patterns That Use This Element
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
-- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

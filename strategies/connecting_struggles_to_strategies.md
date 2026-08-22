@@ -39,10 +39,10 @@ Connecting struggles to strategies involves explicitly teaching students various
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Articulation](/elements/articulation.md)
-- [Peer Explanation](/elements/peer-explanation.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Articulation](../elements/articulation.md)
+- [Peer Explanation](../elements/peer-explanation.md)
 
 ## Assessment Evidence
 - Track student use of problem-solving strategies, monitor their ability to articulate their learning processes, and observe their success in solving challenging problems.

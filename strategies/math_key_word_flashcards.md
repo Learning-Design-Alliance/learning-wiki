@@ -39,9 +39,9 @@ Learners create flashcards for each of the four mathematical operations. On one 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe whether learners are using flashcards correctly to identify the correct operation to use in a word problem. Check for accuracy on homework.

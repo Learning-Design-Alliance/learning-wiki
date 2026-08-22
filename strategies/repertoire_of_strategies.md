@@ -39,9 +39,9 @@ Procedural fluency requires having a repertoire of strategies. Before learners c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Assesses learners' strategic flexibility through problem-solving tasks, evaluating their ability to select and adapt appropriate methods based on problem context. Examines learners' reasoning behind strategy choice and evaluates their efficiency in applying chosen methods.

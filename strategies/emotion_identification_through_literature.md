@@ -39,9 +39,9 @@ This strategy involves using emotion posters as a tool during read-alouds to hel
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, analyze their responses to questions about characters' emotions, and assess their ability to connect emotions to specific textual and visual cues.

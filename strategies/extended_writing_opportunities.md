@@ -39,8 +39,8 @@ Extended writing opportunities involve providing learners with regular practice 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor improvement in writing fluency, assess the complexity and accuracy of sentence construction, track engagement in digital chat features, analyze genre knowledge demonstrated in writing samples.

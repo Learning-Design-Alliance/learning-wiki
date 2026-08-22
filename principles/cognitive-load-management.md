@@ -19,7 +19,7 @@ sources:
 Cognitive load management is the short-form canonical target for instructional choices that reduce extraneous processing, sequence support, and calibrate task demands to learner expertise.
 
 ## Implications
-Cognitive load management matters when instruction risks overwhelming working memory before learners have formed stable schemas. In practice, this means chunking information and removing unnecessary complexity so learners can devote more attention to the underlying idea or procedure [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S]. These moves usually make early learning more manageable, but the same supports can become inefficient once learners are more knowledgeable, so guidance should fade or simplify as expertise grows [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md) [~M].
+Cognitive load management matters when instruction risks overwhelming working memory before learners have formed stable schemas. In practice, this means chunking information and removing unnecessary complexity so learners can devote more attention to the underlying idea or procedure [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]. These moves usually make early learning more manageable, but the same supports can become inefficient once learners are more knowledgeable, so guidance should fade or simplify as expertise grows [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M].
 
 ### Context
 #### Requirements
@@ -33,14 +33,14 @@ Cognitive load management matters when instruction risks overwhelming working me
 
 ### Theory
 #### Supporting
-- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
+- [Cognitive Load Theory](cognitive-load-theory.md)
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — reducing unnecessary processing and organizing material into coherent units preserves capacity for schema formation
-- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md) [~M] — supports that help novices can become inefficient or redundant as learner expertise increases
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — reducing unnecessary processing and organizing material into coherent units preserves capacity for schema formation
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M] — supports that help novices can become inefficient or redundant as learner expertise increases
 
 ## Related Principles
-- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
+- [Cognitive Load Theory](cognitive-load-theory.md)
 
 ## Examples
 - A math lesson introduces multi-step equation solving in short worked chunks, with each step visually separated and narrated before learners attempt a full problem.

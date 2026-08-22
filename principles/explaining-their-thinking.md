@@ -24,24 +24,24 @@ sources:
 # Explaining Their Thinking
 
 ## Description
-Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples. This process requires learners to make their internal reasoning explicit, helping them to bridge gaps in understanding, integrate new information with prior knowledge, and monitor their own comprehension [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples. This process requires learners to make their internal reasoning explicit, helping them to bridge gaps in understanding, integrate new information with prior knowledge, and monitor their own comprehension [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ## Implications
-Explaining their thinking improves learning because it forces learners to make relationships, assumptions, and decision points explicit instead of leaving them tacit [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. That usually deepens conceptual understanding, supports transfer, and exposes gaps in reasoning that would remain hidden if learners only produced answers. The design constraint is that self-explanation is not spontaneous for many learners: prompts, comparisons, and worked examples are often necessary at first so explanation becomes a disciplined habit rather than an empty request to “show your work.”
+Explaining their thinking improves learning because it forces learners to make relationships, assumptions, and decision points explicit instead of leaving them tacit [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. That usually deepens conceptual understanding, supports transfer, and exposes gaps in reasoning that would remain hidden if learners only produced answers. The design constraint is that self-explanation is not spontaneous for many learners: prompts, comparisons, and worked examples are often necessary at first so explanation becomes a disciplined habit rather than an empty request to “show your work.”
 
 ### Context
 #### Requirements
-- **Conceptual Prompts**: Prompts should focus on "why" a particular step or principle was applied, rather than just "what" was done [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+M].
+- **Conceptual Prompts**: Prompts should focus on "why" a particular step or principle was applied, rather than just "what" was done [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 - **Comparison Opportunities**: Encouraging learners to compare different solution methods and explain their relative advantages can deepen understanding.
 - **Scaffolded Practice**: For novices, self-explanation should be supported with hints or menus of possible explanations to prevent cognitive overload.
 
 #### Constraints
-- **Prior Knowledge Dependence**: Learners must have sufficient background knowledge to generate correct and meaningful explanations; otherwise, they may reinforce misconceptions [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~M].
+- **Prior Knowledge Dependence**: Learners must have sufficient background knowledge to generate correct and meaningful explanations; otherwise, they may reinforce misconceptions [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~M].
 - **Implementation Difficulty**: Spontaneous self-explanation is rare; learners often require explicit training or structured prompts to engage in the process.
 
 ### Target Learners
 - **Intermediate to Advanced Learners**: Most effective for those with enough domain background to bridge conceptual gaps.
-- **Learners in Mathematics and Science**: Particularly effective for domains with highly structured procedural and conceptual relationships [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S].
+- **Learners in Mathematics and Science**: Particularly effective for domains with highly structured procedural and conceptual relationships [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 - **Self-Directed Learners**: Helps develop metacognitive monitoring and independent study habits.
 
 ### Target Learning Objectives
@@ -51,17 +51,17 @@ Explaining their thinking improves learning because it forces learners to make r
 
 ### Theory
 #### Supporting
-- [Self-Regulated Learning (Zimmerman)](/theories/self-regulated-learning.md) — self-explanation is a key strategy for metacognitive monitoring and regulation.
-- [Information Processing Theory](/theories/information-processing-theory.md) — identifies self-explanation as a method for deep processing and schema formation.
+- [Self-Regulated Learning (Zimmerman)](../theories/self-regulated-learning.md) — self-explanation is a key strategy for metacognitive monitoring and regulation.
+- [Information Processing Theory](../theories/information-processing-theory.md) — identifies self-explanation as a method for deep processing and schema formation.
 - **Constructivism** — emphasizes that knowledge is actively built by the learner through meaningful interaction with the content.
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — making reasoning explicit helps learners connect steps, principles, and assumptions instead of leaving them implicit
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — making reasoning explicit helps learners connect steps, principles, and assumptions instead of leaving them implicit
 
 ## Related Principles
-- [Worked Examples](/principles/worked-examples.md) — self-explanation is most effective when applied to the study of worked solutions.
-- [Modeling](/principles/modeling.md) — instructors can model self-explanation through think-aloud protocols.
-- [Scaffolding and Fading](/principles/scaffolding-and-fading.md) — prompts for self-explanation should fade as learner expertise grows.
+- [Worked Examples](worked-examples.md) — self-explanation is most effective when applied to the study of worked solutions.
+- [Modeling](modeling.md) — instructors can model self-explanation through think-aloud protocols.
+- [Scaffolding and Fading](scaffolding-and-fading.md) — prompts for self-explanation should fade as learner expertise grows.
 
 ## Examples
 - **[Khan Academy Think-Alouds](https://www.khanacademy.org)** — Instructors model the self-explanation process by verbalizing their reasoning while solving problems.

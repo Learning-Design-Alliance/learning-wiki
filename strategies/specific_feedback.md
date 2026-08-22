@@ -39,8 +39,8 @@ This strategy involves providing targeted feedback on student writing that is di
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the specificity of feedback provided and monitor improvements in student writing over time. Observe student's ability to apply feedback to future writing.

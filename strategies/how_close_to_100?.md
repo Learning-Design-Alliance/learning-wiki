@@ -39,8 +39,8 @@ A game played in partners where children roll two dice to determine the dimensio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe children's ability to strategically place arrays and accurately write number sentences

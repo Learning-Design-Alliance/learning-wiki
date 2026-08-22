@@ -39,9 +39,9 @@ Establishing ground rules for peer critique ensures that the process is producti
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observation of group interactions to assess learners' adherence to the ground rules. Analysis of feedback provided by learners to assess the quality and effectiveness of their critique.

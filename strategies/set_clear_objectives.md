@@ -39,9 +39,9 @@ Objectives aligned with standards, activities, and assessments, providing studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [State objectives](../elements/state-objectives.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Student understanding of objectives, alignment of assessments

@@ -39,7 +39,7 @@ Offer structured physical activity programs before or after school, such as morn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track participation rates, gather feedback from students and parents, monitor improvements in physical fitness and well-being

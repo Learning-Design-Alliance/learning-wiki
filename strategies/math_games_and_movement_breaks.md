@@ -39,9 +39,9 @@ Incorporating quick, fun, physical math games for when learners get antsy. Break
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Monitor student engagement and enjoyment during math games. Track student progress on math concepts following activity breaks.

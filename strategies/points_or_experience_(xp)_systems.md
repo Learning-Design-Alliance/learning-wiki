@@ -39,9 +39,9 @@ Point systems or experience (XP) systems reward learners for completing various 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track learner participation in point-earning activities. Compare point accumulation with learning outcomes. Gather feedback on motivation and engagement.

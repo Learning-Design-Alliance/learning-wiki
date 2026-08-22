@@ -39,10 +39,10 @@ This strategy changes perceptions about mistakes, viewing them as learning oppor
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Increased student participation, willingness to take risks, improved problem-solving skills, and positive attitudes toward mistakes.

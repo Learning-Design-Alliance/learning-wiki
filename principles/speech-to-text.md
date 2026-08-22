@@ -29,7 +29,7 @@ Speech-to-text converts spoken language into written text, giving learners anoth
 Speech-to-text is most effective when it is treated as a supported composing tool rather than a magical replacement for writing. Learners still need to review output, notice recognition errors, and revise for clarity, structure, and audience. In that sense, speech-to-text often works best as part of a broader writing and self-monitoring process.
 
 ## Implications
-Speech-to-text is most useful when transcription effort, not idea generation, is the main barrier. It can free learners to get language onto the page more efficiently, but its value depends on what happens after dictation: learners still need to review, monitor, and revise the output [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. Because recognition errors and awkward dictation habits vary widely, support is strongest when instructors or tools help learners build workable routines for dictating, checking, and correcting output [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]. Speech-to-text supports writing access; it does not replace writing instruction.
+Speech-to-text is most useful when transcription effort, not idea generation, is the main barrier. It can free learners to get language onto the page more efficiently, but its value depends on what happens after dictation: learners still need to review, monitor, and revise the output [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. Because recognition errors and awkward dictation habits vary widely, support is strongest when instructors or tools help learners build workable routines for dictating, checking, and correcting output [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. Speech-to-text supports writing access; it does not replace writing instruction.
 
 ### Context
 #### Requirements
@@ -65,14 +65,14 @@ Speech-to-text is most useful when transcription effort, not idea generation, is
 - The tool can create new barriers if recognition accuracy is poor or if learners are not taught how to monitor output.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — dictated text becomes more useful when learners actively check and revise what the tool produced
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — learners often need responsive support to develop effective dictation and editing routines
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — dictated text becomes more useful when learners actively check and revise what the tool produced
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — learners often need responsive support to develop effective dictation and editing routines
 
 ## Related Principles
-- [Process-Based Writing](/principles/process-based-writing.md) — speech-to-text is often most useful in drafting and revision cycles.
-- [Instructor Accessibility](/principles/instructor-accessibility.md) — providing multiple pathways for expression is part of accessible teaching.
-- [Text-to-Speech](/principles/text-to-speech.md) — speech and text supports often work together in reciprocal reading-writing workflows.
-- [Self-monitoring](/principles/self-monitoring.md) — learners need to check dictated output and revise recognition errors.
+- [Process-Based Writing](process-based-writing.md) — speech-to-text is often most useful in drafting and revision cycles.
+- [Instructor Accessibility](instructor-accessibility.md) — providing multiple pathways for expression is part of accessible teaching.
+- [Text-to-Speech](text-to-speech.md) — speech and text supports often work together in reciprocal reading-writing workflows.
+- [Self-monitoring](self-monitoring.md) — learners need to check dictated output and revise recognition errors.
 
 ## Examples
 - **Dictated first draft**: Learners speak an initial response, then revise the resulting text for structure and clarity.

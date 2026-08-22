@@ -39,9 +39,9 @@ Audio commentary involves instructors and learners using audio recordings to pro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Technology Integration](/elements/technology-integration.md)
-- [Individual Response](/elements/individual-response.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Technology Integration](../elements/technology-integration.md)
+- [Individual Response](../elements/individual-response.md)
 
 ## Assessment Evidence
 - Assess the quality and relevance of audio feedback. Observe learner engagement and participation in feedback activities. Measure improvements in the quality of revised work based on audio feedback.

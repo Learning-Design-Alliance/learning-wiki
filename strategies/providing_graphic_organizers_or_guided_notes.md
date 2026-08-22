@@ -39,10 +39,10 @@ During lectures, providing students with graphic organizers or guided notes help
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Advance Organizers](/elements/advance-organizers.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Review student notes for completeness and accuracy. Gather feedback on whether the materials helped them follow and understand the lecture.

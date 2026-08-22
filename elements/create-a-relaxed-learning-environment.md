@@ -14,7 +14,7 @@ generated:
 Create a relaxed learning environment is the element of arranging social and physical conditions that support safety, calm, and participation.
 
 ## Affordances
-- [Holistic Learning](/principles/holistic-learning.md)
+- [Holistic Learning](../principles/holistic-learning.md)
 
 ## Related Elements
-- [Create a Low-Stress Environment](/elements/create-a-low-stress-environment.md)
+- [Create a Low-Stress Environment](create-a-low-stress-environment.md)

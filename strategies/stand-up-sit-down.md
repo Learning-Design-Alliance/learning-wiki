@@ -24,11 +24,11 @@ The rules are simple: if the teacher gives the number 10, students stand up. Any
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - K-4, adaptable to other grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Reinforce math skills, increase response time, promote active engagement, encourage kinesthetic learning
 
 ### Affordances
@@ -39,9 +39,9 @@ The rules are simple: if the teacher gives the number 10, students stand up. Any
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Activation](/elements/activation.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Observe the speed and accuracy with which students stand up or sit down. Assess students' mental math skills through the responses.

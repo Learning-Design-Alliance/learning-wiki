@@ -39,9 +39,9 @@ Pre-teaching vocabulary involves introducing new words before encountering them 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Question Formulation](/elements/question-formulation.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Question Formulation](../elements/question-formulation.md)
 
 ## Assessment Evidence
 - Track learner performance on pre- and post-tests, participation in vocabulary activities, and demonstration of understanding during discussions. Monitor improvement in reading comprehension.

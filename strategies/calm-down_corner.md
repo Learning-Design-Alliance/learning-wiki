@@ -39,9 +39,9 @@ Dedicated, positive space where learners practice emotional regulation skills. S
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track the frequency and effectiveness of using the calm-down corner. Monitor changes in behavior and emotional regulation over time.

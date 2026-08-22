@@ -23,7 +23,7 @@ sources:
 Building empathy is the instructional principle of helping learners understand how other people perceive, feel, and interpret a situation. In learning environments, empathy matters because it improves listening, collaboration, conflict navigation, and the ability to respond thoughtfully across differences in experience or identity. It is usually cultivated through structured perspective-taking, dialogue, narrative exposure, reflection, and authentic interaction rather than through abstract exhortation alone.
 
 ## Implications
-Building empathy requires more than telling learners to care about other people. Perspective-taking strengthens when learners encounter concrete accounts, listen carefully, reflect on what they assumed, and compare their interpretation with what another person actually says or experiences; that reflective explanation work is one reason these activities often depend on learners making sense of perspectives in language [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~M]. Empathy-building is also more likely to transfer when it is tied to authentic interaction, dialogue, or community participation rather than abstract exhortation alone [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~M]. That means empathy-building tasks have to be structured and carefully facilitated: without safety, specificity, and reflection, they can collapse into stereotype performance, shallow agreement, or defensive conflict rather than deeper understanding.
+Building empathy requires more than telling learners to care about other people. Perspective-taking strengthens when learners encounter concrete accounts, listen carefully, reflect on what they assumed, and compare their interpretation with what another person actually says or experiences; that reflective explanation work is one reason these activities often depend on learners making sense of perspectives in language [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~M]. Empathy-building is also more likely to transfer when it is tied to authentic interaction, dialogue, or community participation rather than abstract exhortation alone [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~M]. That means empathy-building tasks have to be structured and carefully facilitated: without safety, specificity, and reflection, they can collapse into stereotype performance, shallow agreement, or defensive conflict rather than deeper understanding.
 
 ### Context
 #### Requirements
@@ -59,16 +59,16 @@ Building empathy requires more than telling learners to care about other people.
 - Perspective-taking activities can increase confidence in misunderstanding if learners infer too much from too little evidence.
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~M] — empathy work is stronger when learners articulate what another perspective means and how it differs from their assumptions
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~M] — authentic interaction and perspective-taking tasks are more likely to transfer than decontextualized discussion about empathy
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~M] — empathy work is stronger when learners articulate what another perspective means and how it differs from their assumptions
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~M] — authentic interaction and perspective-taking tasks are more likely to transfer than decontextualized discussion about empathy
 
 These are indirect anchors: in this repo, the strongest nearby evidence supports explanation, authentic participation, and transfer mechanisms that empathy-building activities often rely on, rather than empathy as a standalone outcome.
 
 ## Related Principles
-- [Perspective Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md) — empathy often grows when learners examine the same issue from more than one position.
-- [Peer Discussion](/principles/peer-discussion.md) — dialogue is one of the most common vehicles for empathy-building.
-- [Communities of Practice](/principles/communities-of-practice.md) — recurring participation in a community can deepen understanding of others' roles and constraints.
-- [Debriefing](/principles/debriefing.md) — reflection after interaction helps convert experience into changed interpretation.
+- [Perspective Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — empathy often grows when learners examine the same issue from more than one position.
+- [Peer Discussion](peer-discussion.md) — dialogue is one of the most common vehicles for empathy-building.
+- [Communities of Practice](communities-of-practice.md) — recurring participation in a community can deepen understanding of others' roles and constraints.
+- [Debriefing](debriefing.md) — reflection after interaction helps convert experience into changed interpretation.
 
 ## Examples
 - **Empathy interviews**: Learners interview a peer, client, or community member using prompts focused on needs, frustrations, and lived experience.

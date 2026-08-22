@@ -39,10 +39,10 @@ Small group instruction involves a teacher working with a small number of studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student participation, monitor progress on targeted skills, and collect work samples to assess mastery.

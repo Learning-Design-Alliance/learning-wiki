@@ -39,11 +39,11 @@ Video replay analysis involves reviewing short video clips, replays of key segme
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Improved self-awareness and ability to identify areas for improvement, enhanced performance based on video analysis, increased metacognitive skills.

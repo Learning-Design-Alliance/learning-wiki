@@ -39,9 +39,9 @@ Students create character profiles to help them form a deeper understanding of a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Review student-created character profiles to assess their understanding of characters. Monitor the depth and quality of student reflections.

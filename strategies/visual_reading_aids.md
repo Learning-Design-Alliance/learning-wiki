@@ -39,9 +39,9 @@ Visual reading aids, such as reading guides, colored overlays, and tracking rule
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Supportive information](/elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Observe improvements in reading speed, accuracy, and fluency. Monitor the frequency of losing place while reading. Collect self-reports from learners regarding their comfort and focus while using the aids. Track the usage and preference for different types of reading aids.

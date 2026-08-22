@@ -39,9 +39,9 @@ Making educational tools readily available to learners promotes independence and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' use of tools, track their progress in applying them effectively, and gather feedback on their experiences with different resources.

@@ -39,11 +39,11 @@ Using quotations to cite textual evidence involves teaching students to select a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Increased use of textual evidence in student writing. Improved ability to construct well-supported arguments. Enhanced analytical skills.

@@ -39,10 +39,10 @@ Learning interest inventories help instructors and learners identify areas of in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [State objectives](../elements/state-objectives.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Increased student participation, improved engagement, positive feedback from students

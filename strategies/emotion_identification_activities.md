@@ -39,9 +39,9 @@ These activities focus on helping learners identify and express emotions through
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor learner participation, observe ability to identify and express emotions, and review learner reflections on emotional experiences.

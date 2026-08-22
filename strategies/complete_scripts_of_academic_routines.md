@@ -39,8 +39,8 @@ Provide scaffolding, like speech examples, for discourse routines that may not b
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner presentations for clarity and organization.

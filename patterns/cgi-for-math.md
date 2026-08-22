@@ -31,11 +31,11 @@ CGI for Math is the short-form canonical target for Cognitively Guided Instructi
 
 ### Theory
 #### Supporting
-- [Peer Learning](/principles/peer-learning.md)
-- [Explaining Their Thinking](/principles/explaining-their-thinking.md)
+- [Peer Learning](../principles/peer-learning.md)
+- [Explaining Their Thinking](../principles/explaining-their-thinking.md)
 
 ## Related Patterns
-- [Cognitively Guided Instruction (CGI) for Math](/patterns/cognitively-guided-instruction-cgi-for-math.md)
+- [Cognitively Guided Instruction (CGI) for Math](cognitively-guided-instruction-cgi-for-math.md)
 
 ## Key Sources
 - Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (1999). *Children's mathematics: Cognitively guided instruction*. Heinemann.

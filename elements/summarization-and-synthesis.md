@@ -31,19 +31,19 @@ Learners distill key concepts from a discussion, reading, or experience.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Retrieval Practice](/principles/retrieval-practice.md)
-- [Knowledge Organization](/principles/knowledge-organization.md)
-- [Cognitive Load Reduction](/principles/cognitive-load-reduction.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
+- [Knowledge Organization](../principles/knowledge-organization.md)
+- [Cognitive Load Reduction](../principles/cognitive-load-reduction.md)
 
 ## Related Elements
-- [Note-Taking](/elements/note-taking.md)
-- [Concept Mapping](/elements/concept-mapping.md)
-- [Reflection](/elements/reflection.md)
+- [Note-Taking](note-taking.md)
+- [Concept Mapping](concept-mapping.md)
+- [Reflection](reflection.md)
 
 ## Patterns That Use This Element
-- [Elaboration Theory](/patterns/elaboration-theory.md)
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Elaboration Theory](../patterns/elaboration-theory.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

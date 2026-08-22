@@ -31,18 +31,18 @@ Learners answer a question or solve a problem independently before group discuss
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
-- [Metacognition](/principles/metacognition.md)
-- [Active Learning](/principles/active-learning.md)
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
+- [Metacognition](../principles/metacognition.md)
+- [Active Learning](../principles/active-learning.md)
 
 ## Related Elements
-- [Retrieval Practice](/elements/retrieval-practice.md)
-- [Peer Instruction](/elements/peer-instruction.md)
-- [Formative Assessment](/elements/formative-assessment.md)
+- [Retrieval Practice](retrieval-practice.md)
+- [Peer Instruction](peer-instruction.md)
+- [Formative Assessment](formative-assessment.md)
 
 ## Patterns That Use This Element
-- [Peer Instruction](/patterns/peer-instruction.md)
-- [Formative Assessment](/patterns/formative-assessment.md)
+- [Peer Instruction](../patterns/peer-instruction.md)
+- [Formative Assessment](../patterns/formative-assessment.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

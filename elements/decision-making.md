@@ -31,18 +31,18 @@ Learners evaluate options and make informed choices within a structured learning
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
-- [Metacognition](/principles/metacognition.md)
-- [Situated Learning](/principles/situated-learning.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
+- [Metacognition](../principles/metacognition.md)
+- [Situated Learning](../principles/situated-learning.md)
 
 ## Related Elements
-- [Problem-Based Learning](/elements/problem-based-learning.md)
-- [Collaborative Decision-Making](/elements/collaborative-decision-making.md)
-- [Role-Playing](/elements/role-playing.md)
+- [Problem-Based Learning](problem-based-learning.md)
+- [Collaborative Decision-Making](collaborative-decision-making.md)
+- [Role-Playing](role-playing.md)
 
 ## Patterns That Use This Element
-- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

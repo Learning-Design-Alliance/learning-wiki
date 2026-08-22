@@ -39,10 +39,10 @@ Teachers promote belonging in the math classroom through instructional choices a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Improved student engagement, higher academic performance, increased self-esteem, and positive classroom environment.

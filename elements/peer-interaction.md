@@ -31,17 +31,17 @@ Learners engage with one another through discussions, debates, or collaborative 
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Community of Inquiry](/principles/community-of-inquiry.md)
+- [Social Learning](../principles/social-learning.md)
+- [Community of Inquiry](../principles/community-of-inquiry.md)
 
 ## Related Elements
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Group Work](/elements/group-work.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Peer Teaching](peer-teaching.md)
+- [Group Work](group-work.md)
+- [Collaborative Learning](collaborative-learning.md)
 
 ## Patterns That Use This Element
-- [Collaborative Learning](/patterns/collaborative-learning.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Collaborative Learning](../patterns/collaborative-learning.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

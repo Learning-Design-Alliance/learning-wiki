@@ -31,17 +31,17 @@ Learners receive input from instructors or peers to refine their work.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Feedback Loops](/principles/feedback-loops.md)
-- [Mastery Learning](/principles/mastery-learning.md)
+- [Feedback Loops](../principles/feedback-loops.md)
+- [Mastery Learning](../principles/mastery-learning.md)
 
 ## Related Elements
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Coaching](/elements/coaching.md)
-- [Scaffolding](/elements/scaffolding.md)
+- [Formative Assessment](formative-assessment.md)
+- [Coaching](coaching.md)
+- [Scaffolding](scaffolding.md)
 
 ## Patterns That Use This Element
-- [Formative Assessment](/patterns/formative-assessment.md)
-- [Competency-Based Learning](/patterns/competency-based-learning.md)
+- [Formative Assessment](../patterns/formative-assessment.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -39,7 +39,7 @@ Reflection is rare in traditional classrooms, where the emphasis is on urgency a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Depth of reflection, demonstration of socio-emotional learning, improved well-being.

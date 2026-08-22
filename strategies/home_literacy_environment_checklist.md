@@ -39,10 +39,10 @@ This checklist is a tool designed to help parents assess and enhance the literac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - The number of statements checked as 'true' provides a quantitative measure of the home literacy environment. Qualitative insights can be gained through follow-up discussions with parents about their responses and planned actions.

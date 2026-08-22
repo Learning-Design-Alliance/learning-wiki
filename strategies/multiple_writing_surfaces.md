@@ -39,9 +39,9 @@ Multiple writing surfaces involve providing learners with a variety of spaces wh
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe learner engagement and collaboration on writing surfaces. Collect and analyze written work for understanding and creativity. Gather feedback from learners on their experience with multiple writing surfaces.

@@ -39,8 +39,8 @@ Don’t assume you know how a student is feeling. Be attentive to nonverbal cues
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Response](/elements/individual-response.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Response](../elements/individual-response.md)
 
 ## Assessment Evidence
 - Track student responses, monitor changes in communication patterns, gather student feedback

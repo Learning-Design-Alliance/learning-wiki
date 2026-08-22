@@ -39,9 +39,9 @@ Fostering self-determination and self-advocacy involves empowering students with
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe students' participation in IEP meetings and other decision-making processes. Track changes in students' self-confidence, self-advocacy skills, and academic outcomes.

@@ -39,11 +39,11 @@ Strategy instruction teaches learners how to learn effectively by applying princ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Learner application of strategies in new contexts; learner articulation of when and how to use specific strategies; improved performance on problem-solving tasks

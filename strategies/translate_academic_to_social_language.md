@@ -39,8 +39,8 @@ Model how to say something in a more academic way or how to paraphrase academic 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Review student translations for accuracy and clarity.

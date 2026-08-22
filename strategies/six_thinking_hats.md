@@ -39,11 +39,11 @@ The Six Thinking Hats technique is a parallel thinking process that separates th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Team-Based Inquiry](/elements/team-based-inquiry.md)
-- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
-- [Decision-Making](/elements/decision-making.md)
-- [Modeling](/elements/modeling.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Team-Based Inquiry](../elements/team-based-inquiry.md)
+- [Collaborative Problem-Solving](../elements/collaborative-problem-solving.md)
+- [Decision-Making](../elements/decision-making.md)
+- [Modeling](../elements/modeling.md)
 
 ## Assessment Evidence
 - Track changes in team productivity, communication, and problem-solving effectiveness. Measure the number of ideas generated and the quality of decisions made.

@@ -39,8 +39,8 @@ Teachers can provide families information and suggestions for providing students
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track student engagement with math at school and at home. Monitor improvements in arithmetic fact retrieval skills.

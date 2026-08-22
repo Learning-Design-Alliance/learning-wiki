@@ -14,7 +14,7 @@ generated:
 Competency-based assessment is the short-form canonical target for designs that evaluate learners against explicit competencies or standards rather than normed averages or seat-time expectations.
 
 ## Implications
-Competency-based assessment shifts the design question from how long learners spent in instruction to what they can actually do with acceptable quality. That usually improves transfer and decision quality when assessment tasks mirror meaningful performance [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S], but it also raises the bar for clarity: competencies, evidence, and mastery thresholds all have to be specified well enough that different assessors can judge the same work consistently.
+Competency-based assessment shifts the design question from how long learners spent in instruction to what they can actually do with acceptable quality. That usually improves transfer and decision quality when assessment tasks mirror meaningful performance [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S], but it also raises the bar for clarity: competencies, evidence, and mastery thresholds all have to be specified well enough that different assessors can judge the same work consistently.
 
 ### Context
 #### Requirements
@@ -29,13 +29,13 @@ Competency-based assessment shifts the design question from how long learners sp
 
 ### Theory
 #### Supporting
-- [Competency-Based Learning & Assessment](/principles/competency-based-learning-assessment.md)
+- [Competency-Based Learning & Assessment](competency-based-learning-assessment.md)
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S] — competency judgments are stronger when they rest on integrated performances that resemble actual use
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S] — competency judgments are stronger when they rest on integrated performances that resemble actual use
 
 ## Related Principles
-- [Mastery Learning](/principles/mastery-learning.md)
+- [Mastery Learning](mastery-learning.md)
 
 ## Examples
 - A teacher preparation program assesses classroom facilitation through observed teaching, annotated lesson plans, and a rubric tied to explicit competencies instead of a single written final.

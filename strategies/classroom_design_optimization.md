@@ -39,9 +39,9 @@ Optimizing classroom design (noise levels, temperature, seating arrangement) can
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Measure noise levels, temperature, and seating arrangement types. Track instances of distraction and academic performance.

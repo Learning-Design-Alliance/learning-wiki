@@ -32,17 +32,17 @@ Collaborative discussion is the element in which learners build understanding to
 - Support co-construction, perspective comparison, and shared synthesis.
 
 ### Affordances
-- [Social Constructivism](/principles/social-constructivism.md)
-- [Social Learning](/principles/social-learning.md)
+- [Social Constructivism](../principles/social-constructivism.md)
+- [Social Learning](../principles/social-learning.md)
 
 ## Related Elements
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Structured Discussion](/elements/structured-discussion.md)
-- [Consensus Building](/elements/consensus-building.md)
+- [Peer Discussion](peer-discussion.md)
+- [Structured Discussion](structured-discussion.md)
+- [Consensus Building](consensus-building.md)
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
 
 ## Examples
 - Small-group discussion where learners must build a shared interpretation from different evidence.

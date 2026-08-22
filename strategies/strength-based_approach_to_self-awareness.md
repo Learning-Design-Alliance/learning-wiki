@@ -39,9 +39,9 @@ This method involves identifying a student's strengths related to self-awareness
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student's ability to identify emotions, reflect on experiences, and make accurate predictions. Quality of journal reflections and participation in activities.

@@ -39,9 +39,9 @@ Identifying students' strengths related to attention and using those strengths t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student reflections, educator observations, and work examples demonstrating the use of strengths-based strategies.

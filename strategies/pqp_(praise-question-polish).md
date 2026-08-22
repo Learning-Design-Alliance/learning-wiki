@@ -39,8 +39,8 @@ The PQP (Praise-Question-Polish) technique guides learners to provide specific a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Review of PQP forms to assess the specificity and constructiveness of feedback. Observation of group interactions to assess learners' listening skills and positive attitude.

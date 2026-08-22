@@ -39,8 +39,8 @@ Instructors should present vocabulary that is useful and/or necessary for learne
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Learners use new vocabulary in conversation or role play, write original sentences

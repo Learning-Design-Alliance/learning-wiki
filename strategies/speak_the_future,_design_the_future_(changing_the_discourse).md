@@ -39,9 +39,9 @@ This principle emphasizes that the language used to discuss education shapes the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Question Formulation](/elements/question-formulation.md)
-- [Discussion Prompt](/elements/discussion-prompt.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Discussion Prompt](../elements/discussion-prompt.md)
 
 ## Assessment Evidence
 - Analyze the language used in school policies, communications, and curriculum materials, track changes in the use of DI and DII language, and assess the impact of these changes on student outcomes.

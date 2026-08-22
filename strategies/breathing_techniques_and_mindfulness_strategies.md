@@ -39,8 +39,8 @@ Teaching breathing techniques and mindfulness strategies equips students with to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student behavior for signs of reduced stress and improved emotional regulation. Solicit student feedback on the helpfulness of the techniques.

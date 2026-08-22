@@ -31,17 +31,17 @@ Learners verbalize their thought processes and reasoning.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Metacognition](/principles/metacognition.md)
-- [Constructivist Learning](/principles/constructivist-learning.md)
+- [Metacognition](../principles/metacognition.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
 
 ## Related Elements
-- [Self-Explanation](/elements/self-explanation.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Socratic Questioning](/elements/socratic-questioning.md)
+- [Self-Explanation](self-explanation.md)
+- [Peer Discussion](peer-discussion.md)
+- [Socratic Questioning](socratic-questioning.md)
 
 ## Patterns That Use This Element
-- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
-- [Peer Instruction](/patterns/peer-instruction.md)
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
+- [Peer Instruction](../patterns/peer-instruction.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

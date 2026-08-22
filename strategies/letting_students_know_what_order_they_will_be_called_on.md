@@ -39,7 +39,7 @@ Informing students of the order in which they will be called upon to respond can
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior (e.g., reduced impulsivity, increased participation). Collect feedback from students on their comfort level and engagement.

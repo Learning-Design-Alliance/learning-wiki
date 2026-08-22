@@ -39,9 +39,9 @@ Grade-level cloze passage worksheets using Dolch sight words. Each grade level i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Assess the number of sight words correctly filled in. Evaluate overall reading comprehension of the passages.

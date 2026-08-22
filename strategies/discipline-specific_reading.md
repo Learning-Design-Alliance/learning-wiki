@@ -39,9 +39,9 @@ Have students read articles from subject-specific columns and publications. When
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions. Review student writing to assess understanding.

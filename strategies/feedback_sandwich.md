@@ -39,7 +39,7 @@ The feedback sandwich technique involves delivering feedback in three parts: com
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe changes in learner attitude and behavior. Monitor the effectiveness of the feedback in promoting improvement.

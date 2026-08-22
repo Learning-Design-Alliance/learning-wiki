@@ -39,8 +39,8 @@ This strategy involves adjusting the complexity of sentence structures to suit t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learner participation, evaluate sentence construction skills, and gather feedback on the clarity of instruction.

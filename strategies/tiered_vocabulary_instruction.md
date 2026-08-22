@@ -39,9 +39,9 @@ Tiered vocabulary instruction categorizes words into three tiers based on their 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track learner use of Tier Two words in writing and speaking. Assess comprehension of texts containing Tier Two words. Monitor engagement and participation in activities focused on vocabulary development.

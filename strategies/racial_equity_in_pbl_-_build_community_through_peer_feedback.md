@@ -39,9 +39,9 @@ When students are given the opportunity during projects to frequently share feed
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Feedback](/elements/feedback.md)
-- [Revision](/elements/revision.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Feedback](../elements/feedback.md)
+- [Revision](../elements/revision.md)
 
 ## Assessment Evidence
 - Quality of feedback provided, demonstration of growth and progress, improved relationships and connections.

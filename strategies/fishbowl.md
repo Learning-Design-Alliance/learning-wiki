@@ -39,10 +39,10 @@ Two learners sit facing each other in the center of the room; the remaining lear
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Modeling](/elements/modeling.md)
-- [Coaching](/elements/coaching.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Modeling](../elements/modeling.md)
+- [Coaching](../elements/coaching.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the activity, review learner notes and feedback, collect feedback from learners about their experience.

@@ -64,11 +64,11 @@ Its practical strength is that it balances authenticity with structured support.
 
 ### Claims
 #### Supporting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](/claims/worked-examples-example-problem-sequences.md) [+M]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [Worked examples can become redundant or counterproductive for advanced learners.](/claims/worked-examples-expertise-reversal.md) [~M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-expertise-reversal.md) [~M]
 
 ## Design
 
@@ -80,16 +80,16 @@ Its practical strength is that it balances authenticity with structured support.
 5. Integrate learning by reflecting, teaching, or using it in a new context.
 
 ### Elements Used
-- [Whole-task Performance](/elements/whole-task-performance.md)
-- [Activation](/elements/activation.md)
-- [Practice](/elements/practice.md)
-- [Reflection](/elements/reflection.md)
+- [Whole-task Performance](../elements/whole-task-performance.md)
+- [Activation](../elements/activation.md)
+- [Practice](../elements/practice.md)
+- [Reflection](../elements/reflection.md)
 
 ### Affordances
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Guided Practice](/principles/guided-practice.md)
-- [Worked Examples](/principles/worked-examples.md)
-- [Purposeful Reflection](/principles/purposeful-reflection.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ### Personalization
 - Learners can work on tasks relevant to their own contexts while following the same instructional arc.
@@ -97,8 +97,8 @@ Its practical strength is that it balances authenticity with structured support.
 - Integration can take many forms, including teaching others, reflection, or workplace application.
 
 ## Related Patterns
-- [Four-Component Instructional Design](/patterns/4cid-four-component-instructional-design.md)
-- [Gagne's 9 Events of Instruction](/patterns/gagnés-9-events-of-instruction.md)
+- [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
+- [Gagne's 9 Events of Instruction](gagnés-9-events-of-instruction.md)
 
 ## Examples
 - Clinical training where learners analyze a case, study demonstrations, practice decisions, and reflect on use in real settings.

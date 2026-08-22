@@ -39,10 +39,10 @@ Providing writing models involves sharing exemplary pieces of writing with learn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improvements in learner writing quality as evidenced by better structure, clarity, and use of techniques observed in the models. Increased self-awareness and critical analysis skills demonstrated through reflective writing and peer feedback.

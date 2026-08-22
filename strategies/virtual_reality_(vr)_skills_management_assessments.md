@@ -39,9 +39,9 @@ Virtual reality is used to prepare employees for the commotion when customers sw
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Performance and response quality.

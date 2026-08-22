@@ -39,10 +39,10 @@ Independent reading involves students selecting and reading texts at their indep
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Monitor the quantity and quality of books read. Observe student engagement and participation in book-related activities. Track reading fluency and comprehension improvements over time. Collect feedback from students on their reading experiences and interests.

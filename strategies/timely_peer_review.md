@@ -39,9 +39,9 @@ This strategy involves conducting peer reviews at multiple points in the writing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Tracking of revisions made by learners based on peer feedback. Comparison of drafts before and after peer review to assess the impact of feedback on the quality of writing.

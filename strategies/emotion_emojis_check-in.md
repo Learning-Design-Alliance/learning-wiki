@@ -39,8 +39,8 @@ Students express their current feelings by drawing or sharing an emoji that repr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation in creating and sharing emojis. Assess the thoughtfulness and specificity of students' explanations of their emojis.

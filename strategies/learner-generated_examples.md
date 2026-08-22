@@ -39,8 +39,8 @@ Provide opportunities for learners to generate their own examples of a concept. 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate the accuracy and relevance of learners' generated examples. Observe their ability to explain and justify their choices.

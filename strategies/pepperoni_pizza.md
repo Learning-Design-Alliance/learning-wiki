@@ -39,8 +39,8 @@ A game where children roll a dice twice. The first roll tells them how many pizz
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe children's ability to accurately draw pizzas and pepperonis and write the correct number sentence

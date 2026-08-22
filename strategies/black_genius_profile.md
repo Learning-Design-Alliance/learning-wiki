@@ -39,8 +39,8 @@ This strategy involves capturing Black learners’ genius using specific element
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
 
 ## Assessment Evidence
 - Track the completion and use of Black Genius Profiles. Gather feedback from learners, parents, and educators on the effectiveness of the framework. Observe changes in learners' self-esteem, academic performance, and social-emotional development.

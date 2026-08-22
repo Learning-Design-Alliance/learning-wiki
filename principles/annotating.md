@@ -14,7 +14,7 @@ generated:
 Annotating is the practice of marking a text with notes, questions, summaries, definitions, or visual cues while reading. Done well, it turns reading from passive exposure into active sense-making: learners identify what matters, track confusion, connect ideas to prior knowledge, and leave behind an external record of their thinking that can support discussion, writing, and review.
 
 ## Implications
-Annotating improves reading when it makes thinking visible rather than just making the page colorful. Notes that paraphrase, question, summarize, or justify why a passage matters tend to support comprehension more than simple highlighting because they force learners to explain and organize ideas while reading [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. Section summaries, margin codes, and lightweight note structures can also reduce the burden of holding a complex text together in working memory by turning it into manageable units [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S]. That is why annotation works best with a clear purpose, light structure, and a follow-up use such as discussion or writing; otherwise it easily becomes a ritual of marking without understanding, especially for learners who have not yet been shown what useful annotation looks like [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M].
+Annotating improves reading when it makes thinking visible rather than just making the page colorful. Notes that paraphrase, question, summarize, or justify why a passage matters tend to support comprehension more than simple highlighting because they force learners to explain and organize ideas while reading [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Section summaries, margin codes, and lightweight note structures can also reduce the burden of holding a complex text together in working memory by turning it into manageable units [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]. That is why annotation works best with a clear purpose, light structure, and a follow-up use such as discussion or writing; otherwise it easily becomes a ritual of marking without understanding, especially for learners who have not yet been shown what useful annotation looks like [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -46,30 +46,30 @@ Annotating improves reading when it makes thinking visible rather than just maki
 - Constructivist and sociocultural perspectives support annotation as a way for learners to actively construct meaning rather than merely receive it
 - Metacognitive accounts support annotation as an external trace of comprehension monitoring, question generation, and repair
 - Self-regulated learning frameworks support annotation when learners use it intentionally to set purposes, track understanding, and prepare next steps
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) qualifies annotation as helpful when it organizes attention, but potentially harmful if it adds unnecessary task demands
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) qualifies annotation as helpful when it organizes attention, but potentially harmful if it adds unnecessary task demands
 
 #### Contradicting / Qualifying
 - Annotation quality matters more than annotation quantity
 - Prompted annotation is usually stronger for novices than open-ended "mark whatever seems important"
-- The strategy is most useful when learners explain why something matters, not when they only mark it [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- The strategy is most useful when learners explain why something matters, not when they only mark it [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — annotations that paraphrase, justify, or question the text improve learning more than passive marking
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — section summaries, headings, and coded notes help learners manage complex text by organizing it into meaningful units
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — guided prompts and teacher modeling improve annotation quality for learners who do not yet know what to notice
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — teaching a reading process ("define, question, summarize, connect") works better for novices than only asking for an end product
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — annotations that paraphrase, justify, or question the text improve learning more than passive marking
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — section summaries, headings, and coded notes help learners manage complex text by organizing it into meaningful units
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — guided prompts and teacher modeling improve annotation quality for learners who do not yet know what to notice
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — teaching a reading process ("define, question, summarize, connect") works better for novices than only asking for an end product
 
 ## Related Principles
-- [Note-taking](/principles/note-taking.md) — annotation is note-taking anchored directly to a source text
-- [Evaluating Sources](/principles/evaluating-sources.md) — annotation can focus attention on evidence, credibility, and bias
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md) — annotations help learners generate and refine questions from reading
-- [Purposeful Reflection](/principles/purposeful-reflection.md) — reviewing one's own annotations supports metacognitive reflection after reading
+- [Note-taking](note-taking.md) — annotation is note-taking anchored directly to a source text
+- [Evaluating Sources](evaluating-sources.md) — annotation can focus attention on evidence, credibility, and bias
+- [Inquiry-based Learning](inquiry-based-learning.md) — annotations help learners generate and refine questions from reading
+- [Purposeful Reflection](purposeful-reflection.md) — reviewing one's own annotations supports metacognitive reflection after reading
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [Social Annotation](/strategies/social_annotation.md) — learners annotate together inside a shared digital text and respond to one another's questions and interpretations
-- [Assigned Readings](/elements/assigned-readings.md) with instructor-provided annotation prompts before seminar or discussion
-- [Pre-Seminar Preparation](/elements/pre-seminar-preparation.md) — annotations can serve as evidence banks for later dialogue
+- [Social Annotation](../strategies/social_annotation.md) — learners annotate together inside a shared digital text and respond to one another's questions and interpretations
+- [Assigned Readings](../elements/assigned-readings.md) with instructor-provided annotation prompts before seminar or discussion
+- [Pre-Seminar Preparation](../elements/pre-seminar-preparation.md) — annotations can serve as evidence banks for later dialogue
 - Margin codes such as `?`, `!`, `claim`, `evidence`, and `connection` can provide lightweight structure for novices
 
 ## Key Sources

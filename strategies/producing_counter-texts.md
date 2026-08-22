@@ -39,12 +39,12 @@ Producing counter-texts involves crafting alternative versions of existing texts
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-task performance](/elements/whole-task-performance.md)
-- [Application](/elements/application.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Demonstration](/elements/demonstration.md)
-- [Cognitive Conflict](/elements/cognitive-conflict.md)
-- [Argument Construction](/elements/argument-construction.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
+- [Argument Construction](../elements/argument-construction.md)
 
 ## Assessment Evidence
 - Analyze the depth and critical insight of learner-created counter-texts. Assess the ability to identify biases and power structures in original texts. Evaluate the clarity and persuasiveness of alternative perspectives presented.

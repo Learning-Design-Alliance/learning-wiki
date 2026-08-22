@@ -39,8 +39,8 @@ Providing access to a diverse collection of reading materials that vary in acade
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Lectures](/elements/lectures.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Lectures](../elements/lectures.md)
 
 ## Assessment Evidence
 - Increased reading engagement, improved comprehension scores, and positive feedback from learners regarding the relevance and enjoyment of the materials.

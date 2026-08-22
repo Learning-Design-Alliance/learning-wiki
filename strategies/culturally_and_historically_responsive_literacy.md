@@ -39,12 +39,12 @@ Culturally and historically responsive literacy is an equity framework to help e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Lectures](/elements/lectures.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Case Study](/elements/case-study.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Lectures](../elements/lectures.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe student engagement in discussions and activities. Review student work for evidence of identity development, literacy skill development, intellectual development, and criticality.

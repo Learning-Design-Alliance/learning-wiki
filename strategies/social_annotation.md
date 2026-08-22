@@ -39,9 +39,9 @@ Social annotation is a collaborative method where learners add notes, comments, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Evaluate the quality and depth of annotations to determine comprehension and critical thinking. Monitor the level of peer interaction and the diversity of perspectives shared. Assess the ability to integrate multimedia elements effectively.

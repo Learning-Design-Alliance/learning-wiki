@@ -39,11 +39,11 @@ Learning clubs are a grouping system used to organize active learning events bas
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Research](/elements/research.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Research](../elements/research.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Monitor participation and engagement in discussions. Review learning logs, blog posts, and project submissions for evidence of research skills and comprehension. Assess group dynamics and collaboration through observation.

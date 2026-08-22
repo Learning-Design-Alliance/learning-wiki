@@ -27,7 +27,7 @@ sources:
 Instructor accessibility is the principle that learners should be able to reach, understand, and get timely support from the instructor when they need it. Accessibility here is relational and instructional, not only physical or technical: it includes visibility, responsiveness, clarity about how to get help, and a learner's sense that asking for support will lead to a constructive response. This is especially important in asynchronous, blended, and adult learning contexts where learners may otherwise navigate challenge in isolation.
 
 ## Implications
-Instructor accessibility matters because learners are less likely to seek help when the route to support feels unclear, high-risk, or unreliable. Visible channels, predictable responsiveness, and a supportive tone can lower the threshold for asking questions before confusion hardens into disengagement. The instructional payoff is not just relationship quality but better timing of support: when learners can reach the instructor while the problem is still live, feedback and scaffolding are more likely to change performance [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]. Accessibility also supports self-regulation when learners can ask for clarification early enough to monitor and adjust their own progress rather than waiting until they are already stuck beyond recovery [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. Accessibility still has to be sustainable, though, or it becomes uneven and performative.
+Instructor accessibility matters because learners are less likely to seek help when the route to support feels unclear, high-risk, or unreliable. Visible channels, predictable responsiveness, and a supportive tone can lower the threshold for asking questions before confusion hardens into disengagement. The instructional payoff is not just relationship quality but better timing of support: when learners can reach the instructor while the problem is still live, feedback and scaffolding are more likely to change performance [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. Accessibility also supports self-regulation when learners can ask for clarification early enough to monitor and adjust their own progress rather than waiting until they are already stuck beyond recovery [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. Accessibility still has to be sustainable, though, or it becomes uneven and performative.
 
 ### Context
 #### Requirements
@@ -63,14 +63,14 @@ Instructor accessibility matters because learners are less likely to seek help w
 - More contact is not automatically better if the contact is vague, delayed, or misaligned with learner needs.
 
 ### Claims
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — instructor access matters when it leads to timely, responsive support on the learner’s actual problem
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — accessible instructors make it easier for learners to notice confusion and seek help before disengaging
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — instructor access matters when it leads to timely, responsive support on the learner’s actual problem
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — accessible instructors make it easier for learners to notice confusion and seek help before disengaging
 
 ## Related Principles
-- [Immediate Feedback](/principles/immediate-feedback.md) — accessibility often determines whether timely feedback is actually available.
-- [Check-ins](/principles/check-ins.md) — check-ins are one recurring way to make support visible and reachable.
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md) — learners need accessible guidance when working through open-ended tasks.
-- [Cultural & Life Experiences Connections](/principles/cultural-life-experiences-connections.md) — accessibility improves when instructors take learner context seriously.
+- [Immediate Feedback](immediate-feedback.md) — accessibility often determines whether timely feedback is actually available.
+- [Check-ins](check-ins.md) — check-ins are one recurring way to make support visible and reachable.
+- [Inquiry-based Learning](inquiry-based-learning.md) — learners need accessible guidance when working through open-ended tasks.
+- [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) — accessibility improves when instructors take learner context seriously.
 
 ## Examples
 - **Clear office-hours model**: Learners know when help is available, how to prepare, and what kinds of support to expect.

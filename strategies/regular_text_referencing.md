@@ -39,12 +39,12 @@ Regularly referring back to mentor texts in teacher conferences, whole-class les
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Student writing samples demonstrating the application of previously learned techniques. Participation in discussions and analyses of mentor texts. Student reflections on their learning process.

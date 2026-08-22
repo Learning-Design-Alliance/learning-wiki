@@ -39,8 +39,8 @@ Learners draw a dot card and recreate the arrangement on a large, blank dot card
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learner's ability to accurately recreate the dot card arrangements. Note the time taken to complete the task as an indicator of fluency.

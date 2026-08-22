@@ -39,11 +39,11 @@ Learners are presented with mini case studies that feature a conflict or misunde
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Decision-Making](/elements/decision-making.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Decision-Making](../elements/decision-making.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess the quality of problem-solving skills, the ability to consider different perspectives, and the level of critical thinking demonstrated in the analysis. Monitor changes in learners' interpersonal skills and conflict resolution abilities.

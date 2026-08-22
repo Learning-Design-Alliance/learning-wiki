@@ -39,8 +39,8 @@ Allowing plenty of think-time and time for re-reading provides students who need
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Practice](/elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student engagement and comprehension during think-time and re-reading. Assess improvement in understanding through questioning and feedback.

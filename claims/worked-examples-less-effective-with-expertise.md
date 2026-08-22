@@ -40,6 +40,6 @@ The paper reviews evidence that instructional guidance must be calibrated to pri
 The design implication is not to remove structure abruptly. It is to fade it as competence grows so learners are not trapped in support they no longer need.
 
 ## Related Claims
-- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md)
-- [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md)
-- [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md)
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
+- [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
+- [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)

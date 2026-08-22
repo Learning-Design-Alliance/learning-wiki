@@ -31,17 +31,17 @@ Learners develop techniques to convince others using logic and evidence.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Rhetorical Skill Development](/principles/rhetorical-skill-development.md)
-- [Constructivist Learning](/principles/constructivist-learning.md)
+- [Rhetorical Skill Development](../principles/rhetorical-skill-development.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
 
 ## Related Elements
-- [Argumentation](/elements/argumentation.md)
-- [Rhetorical Strategies](/elements/rhetorical-strategies.md)
-- [Public Speaking](/elements/public-speaking.md)
+- [Argumentation](argumentation.md)
+- [Rhetorical Strategies](rhetorical-strategies.md)
+- [Public Speaking](public-speaking.md)
 
 ## Patterns That Use This Element
-- [Debate](/patterns/debate.md)
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
+- [Debate](../patterns/debate.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -39,11 +39,11 @@ Augmented reality can assist astronauts with tasks such as maintaining a space s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Application](/elements/application.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Task completion time, reduced errors, improved collaboration, successful simulations.

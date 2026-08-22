@@ -39,7 +39,7 @@ Using an 'in' and 'out' basket system for papers, labeling cubbies, bookshelves,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student organization and time management skills. Gather feedback on the effectiveness of the materials management system.

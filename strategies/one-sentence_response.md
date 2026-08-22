@@ -39,8 +39,8 @@ When instructors ask a question, rather than having students raise hands, every 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Response](/elements/individual-response.md)
-- [Practice](/elements/practice.md)
+- [Individual Response](../elements/individual-response.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Assess the clarity and accuracy of the sentences. Look for evidence of understanding and critical thinking.

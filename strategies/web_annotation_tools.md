@@ -39,10 +39,10 @@ Learners use free web-based tools to annotate online documents, including slides
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Digital Tools](/elements/digital-tools.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Digital Tools](../elements/digital-tools.md)
 
 ## Assessment Evidence
 - Assess the quality and relevance of annotations. Observe engagement and participation in group discussions. Measure improvements in the quality of revised documents based on feedback.

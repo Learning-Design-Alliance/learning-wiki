@@ -39,9 +39,9 @@ Expressive writing involves putting thoughts and feelings into words, often focu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved test scores, reduced math anxiety, enhanced emotional regulation, decreased stress levels, improved working memory capacity.

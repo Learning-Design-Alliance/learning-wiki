@@ -39,11 +39,11 @@ Flexible seating involves providing learners with a variety of seating options a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved grades, increased engagement, more participation in discussions, learner articulation of preferred learning environments

@@ -39,10 +39,10 @@ A T-chart is a graphic organizer shaped like the letter T, with a horizontal lin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Accuracy and completeness of the information recorded on the T-chart. Ability to identify key similarities and differences between the two aspects being compared. Clarity and organization of the information presented.

@@ -39,9 +39,9 @@ In this approach, learners build their own game around a specific course topic o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Evaluate the quality and accuracy of the game's content. Assess the creativity and effectiveness of the game mechanics. Gather learner feedback on the learning experience.

@@ -39,8 +39,8 @@ Incorporate a body scan meditation to bring calmness and awareness to the classr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement in the activity. Collect student feedback on the activity to assess its effectiveness. Monitor student behavior and academic performance to assess the impact of meditation on their self-regulation and focus.

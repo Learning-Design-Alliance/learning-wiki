@@ -39,9 +39,9 @@ Define responsibility and ethical responsibility. Give students specific tools s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Creating Visual Representations](/elements/creating-visual-representations.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Graphic Organizers](/elements/graphic-organizers.md)
+- [Creating Visual Representations](../elements/creating-visual-representations.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Graphic Organizers](../elements/graphic-organizers.md)
 
 ## Assessment Evidence
 - Improved student understanding of responsibility, increased application of ethical responsibility, and improved decision-making skills.

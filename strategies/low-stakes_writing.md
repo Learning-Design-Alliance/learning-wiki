@@ -39,8 +39,8 @@ Teachers at University Park Campus School used daily low-stakes writing activiti
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Review student writing to assess voice, self-confidence, and critical thinking skills.

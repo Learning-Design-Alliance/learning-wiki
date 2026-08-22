@@ -39,9 +39,9 @@ Recognizing and addressing implicit biases involves moving away from the idea th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Increased self-awareness of biases, improved relationships with diverse individuals, and more inclusive decision-making.

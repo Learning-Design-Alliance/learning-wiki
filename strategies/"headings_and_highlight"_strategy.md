@@ -39,8 +39,8 @@ The "Headings and Highlight" Strategy is a digital reading technique designed to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Practice](/elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the quality of group discussions and justifications. Review the accuracy of the headings and highlights. Assess student reflections on the process.

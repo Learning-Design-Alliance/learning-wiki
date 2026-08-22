@@ -39,9 +39,9 @@ Breaking up learning or work into short chunks of time interspersed with activit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Improved recall and retention of information, enhanced focus and attention, increased creativity, and reduced mental fatigue.

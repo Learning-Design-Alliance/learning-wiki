@@ -39,11 +39,11 @@ Student portfolio creation involves students selecting and organizing their best
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Practice](/elements/practice.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Depth and quality of student reflections, variety of work samples, evidence of progress over time, and engagement in portfolio creation process.

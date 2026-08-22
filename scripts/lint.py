@@ -29,8 +29,12 @@ WIKI_ROOT = Path(__file__).parent.parent
 
 PAGE_TYPES = ["principles", "elements", "patterns", "strategies", "theories", "claims", "sources"]
 
-# OKF cross-links are plain markdown links to bundle-relative paths: [Label](/folder/slug.md)
-LINK_RE   = re.compile(r"\]\(/([a-zA-Z0-9_.\-]+)/([a-zA-Z0-9_.\-]+)\.md\)")
+# OKF cross-links are plain relative markdown links: [Label](slug.md) or
+# [Label](../folder/slug.md). Excludes parens-containing targets (e.g. a slug like
+# "project-based_learning_(pbl).md") — a handful of known-good links with literal
+# parentheses in the filename aren't matched; a narrower regex isn't worth the risk
+# of merging adjacent links on the same line.
+LINK_RE   = re.compile(r"\]\(([^)\s]+\.md)\)")
 STATUS_RE = re.compile(r"^status:\s*(.+)$", re.MULTILINE)
 DESC_RE   = re.compile(r"## Description\s*\n(.+?)(?=\n##|\Z)", re.DOTALL)
 
@@ -61,13 +65,15 @@ def check_broken_links(pages: dict[str, Path]) -> list[dict]:
             continue
         text = path.read_text(encoding="utf-8")
         for m in LINK_RE.finditer(text):
-            folder, target_slug = m.group(1), m.group(2)
-            key = f"{folder}/{target_slug}"
-            if key not in pages and target_slug not in pages:
+            target = m.group(1)
+            if target.startswith(("http://", "https://")):
+                continue
+            target_path = (path.parent / target).resolve()
+            if not target_path.exists():
                 issues.append({
                     "file": str(path.relative_to(WIKI_ROOT)),
                     "type": "broken_link",
-                    "detail": f"/{key}.md not found",
+                    "detail": f"{target} (from {path.relative_to(WIKI_ROOT)}) not found",
                 })
     return issues
 
@@ -111,8 +117,8 @@ def check_claims_missing_evidence(pages: dict[str, Path]) -> list[dict]:
                 "detail": "evidence_strength missing from frontmatter",
             })
         # Check for at least one DOI or URL in evidence table
-        if "## Evidence" in text:
-            evidence_section = text.split("## Evidence")[1].split("##")[0]
+        evidence_section = ok.get_section(text, "Evidence")
+        if evidence_section is not None:
             if not re.search(r"https?://|doi\.org|10\.\d{4}", evidence_section):
                 issues.append({
                     "file": str(path.relative_to(WIKI_ROOT)),
@@ -140,7 +146,7 @@ def check_principles_missing_claims(pages: dict[str, Path]) -> list[dict]:
         if not claims_section:
             continue
         body = claims_section.group(1).strip()
-        has_real_link = bool(re.search(r"\]\(/claims/", body))
+        has_real_link = bool(re.search(r"\]\((?:\.\./)?claims/", body))
         has_todo = "<!-- TODO" in body
         if not has_real_link and (has_todo or not body):
             issues.append({
@@ -160,9 +166,10 @@ def check_unfilled_competing_claims(pages: dict[str, Path]) -> list[dict]:
         if path.stem == "index":
             continue
         text = path.read_text(encoding="utf-8")
-        if "## Competing Claims" not in text:
+        section = ok.get_section(text, "Competing Claims")
+        if section is None:
             continue
-        section = text.split("## Competing Claims")[1].split("##")[0].strip()
+        section = section.strip()
         if not section or "<!-- TODO" in section or section == "-":
             issues.append({
                 "file": str(path.relative_to(WIKI_ROOT)),

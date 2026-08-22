@@ -39,9 +39,9 @@ This involves creating learning goals for the shadowing day, choosing a student 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [State objectives](../elements/state-objectives.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Learning goals are clearly defined and aligned with the shadowing experience. Student selection criteria are well-considered. Coordination efforts are thorough and effective. Reflections demonstrate an open and unbiased approach to observation.

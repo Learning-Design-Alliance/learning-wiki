@@ -39,9 +39,9 @@ This strategy involves strategically organizing the physical space of a classroo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student engagement levels in different arrangements, collect feedback through surveys or discussions, and monitor task completion rates in each configuration

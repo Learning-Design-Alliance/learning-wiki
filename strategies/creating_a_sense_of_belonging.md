@@ -39,9 +39,9 @@ Learners who feel like they belong in school are more motivated, engaged, and ul
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Positive learner feedback, improved classroom culture, increased enthusiasm to participate in class, etc.

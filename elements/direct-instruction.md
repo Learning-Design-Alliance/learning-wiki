@@ -31,19 +31,19 @@ Presents new content through explicit explanations, lectures, or demonstrations.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Direct Instruction](/principles/direct-instruction.md)
-- [Cognitive Load Management](/principles/cognitive-load-management.md)
-- [Clear Structure](/principles/clear-structure.md)
+- [Direct Instruction](../principles/direct-instruction.md)
+- [Cognitive Load Management](../principles/cognitive-load-management.md)
+- [Clear Structure](../principles/clear-structure.md)
 
 ## Related Elements
-- [Explicit Teaching](/elements/explicit-teaching.md)
-- [Worked Examples](/elements/worked-examples.md)
-- [Multimedia Instruction](/elements/multimedia-instruction.md)
+- [Explicit Teaching](explicit-teaching.md)
+- [Worked Examples](worked-examples.md)
+- [Multimedia Instruction](multimedia-instruction.md)
 
 ## Patterns That Use This Element
-- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
-- [Four-Component Instructional Design](/patterns/4cid.md)
-- [Direct Instruction](/patterns/direct-instruction.md)
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Four-Component Instructional Design](../patterns/4cid.md)
+- [Direct Instruction](../patterns/direct-instruction.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -19,8 +19,8 @@ evidence_strength: strong
 Setting clear, measurable, and challenging targets helps focus attention, increase effort and persistence, and encourages the development of effective task strategies.
 
 ## Subclaims
-`q4 i3` There is a linear relationship between goal difficulty and performance, provided the individual is committed and has the necessary ability. [→ Locke & Latham 2002](#locke-&-latham-2002)
-`q3 i2` Goal specificity reduces ambiguity and improves task-related focus, leading to superior outcomes compared to vague goals. [→ Locke & Latham 2002](#locke-&-latham-2002)
+`q4 i3` There is a linear relationship between goal difficulty and performance, provided the individual is committed and has the necessary ability. [→ Locke & Latham 2002](#locke-latham-2002)
+`q3 i2` Goal specificity reduces ambiguity and improves task-related focus, leading to superior outcomes compared to vague goals. [→ Locke & Latham 2002](#locke-latham-2002)
 
 ## Evidence
 
@@ -38,5 +38,5 @@ A definitive summary of 35 years of research on goal-setting theory. The authors
 Goal setting is most effective when accompanied by feedback, as feedback allows learners to monitor their progress and adjust their strategies.
 
 ## Related Claims
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md)
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md)
+- [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md)
+- [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md)

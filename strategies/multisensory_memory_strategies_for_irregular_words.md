@@ -39,9 +39,9 @@ Multisensory memory strategies for irregular words involve using multiple senses
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor spelling accuracy on regular spelling tests, track progress in writing assignments, and assess the effective use of mnemonic devices.

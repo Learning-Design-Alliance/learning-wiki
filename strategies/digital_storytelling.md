@@ -39,9 +39,9 @@ Digital stories are multimedia narratives that combine various elements such as 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-task performance](/elements/whole-task-performance.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Assess the quality of the narrative, technical proficiency, effective use of multimedia, and overall impact of the story.

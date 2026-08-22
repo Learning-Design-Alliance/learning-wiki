@@ -39,9 +39,9 @@ PBIS is a proactive approach schools use to improve school safety and promote po
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [State objectives](../elements/state-objectives.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student behavior, detentions, suspensions, grades, and bullying incidents.

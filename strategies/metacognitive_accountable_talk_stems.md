@@ -39,13 +39,13 @@ Accountable talk stems are phrases and sentence starters that facilitate structu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Response](/elements/individual-response.md)
-- [Reassessment](/elements/reassessment.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Reciprocal Teaching](/elements/reciprocal-teaching.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Response](../elements/individual-response.md)
+- [Reassessment](../elements/reassessment.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Reciprocal Teaching](../elements/reciprocal-teaching.md)
 
 ## Assessment Evidence
 - Observe the extent to which students use accountable talk stems. Evaluate the depth and quality of student responses and interactions.

@@ -39,10 +39,10 @@ This strategy involves intentionally activating and building upon learners' exis
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Activation](/elements/activation.md)
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Activation](../elements/activation.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe increased student participation and engagement. Analyze student work for connections to their backgrounds. Gather student feedback on relevance and accessibility of content.

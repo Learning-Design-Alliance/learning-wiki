@@ -26,17 +26,17 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - Improve explanation and comprehension through coordinated multimodal instruction.
 
 ### Affordances
-- [Multimodal Instruction](/principles/multimodal-instruction.md)
-- [Dual Coding](/principles/dual-coding.md)
+- [Multimodal Instruction](../principles/multimodal-instruction.md)
+- [Dual Coding](../principles/dual-coding.md)
 
 ## Related Elements
-- [Multimedia Learning](/elements/multimedia-learning.md)
-- [Direct Instruction](/elements/direct-instruction.md)
-- [Lectures](/elements/lectures.md)
+- [Multimedia Learning](multimedia-learning.md)
+- [Direct Instruction](direct-instruction.md)
+- [Lectures](lectures.md)
 
 ## Patterns That Use This Element
-- [Multimedia Learning](/patterns/multimedia-learning.md)
-- [Flipped Learning](/patterns/flipped-learning.md)
+- [Multimedia Learning](../patterns/multimedia-learning.md)
+- [Flipped Learning](../patterns/flipped-learning.md)
 
 ## Examples
 - An explained diagram or narrated animation paired with guided questions.

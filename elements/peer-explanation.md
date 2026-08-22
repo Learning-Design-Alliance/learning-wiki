@@ -31,18 +31,18 @@ Learners verbalize their thinking to peers, strengthening their own understandin
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Constructivism](/principles/social-constructivism.md)
-- [Metacognition](/principles/metacognition.md)
-- [Peer Learning](/principles/peer-learning.md)
+- [Social Constructivism](../principles/social-constructivism.md)
+- [Metacognition](../principles/metacognition.md)
+- [Peer Learning](../principles/peer-learning.md)
 
 ## Related Elements
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Reciprocal Teaching](/elements/reciprocal-teaching.md)
-- [Social Learning](/elements/social-learning.md)
+- [Peer Teaching](peer-teaching.md)
+- [Reciprocal Teaching](reciprocal-teaching.md)
+- [Social Learning](social-learning.md)
 
 ## Patterns That Use This Element
-- [CGI for Math](/patterns/cgi-for-math.md)
-- [POGIL](/patterns/pogil.md)
+- [CGI for Math](../patterns/cgi-for-math.md)
+- [POGIL](../patterns/pogil.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

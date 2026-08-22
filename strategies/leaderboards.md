@@ -39,8 +39,8 @@ Leaderboards showcase the distribution of point totals that learners have accumu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track learner participation and engagement with leaderboard activities. Compare leaderboard rankings with learning outcomes. Gather feedback on the impact of the leaderboard.

@@ -39,14 +39,14 @@ The Inclusive Innovation Process is a framework that facilitates growth with equ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Solution Development](/elements/solution-development.md)
-- [Application](/elements/application.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assess Performance](/elements/assess-performance.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
+- [Application](../elements/application.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the diversity of participants, the level of student involvement, the implementation of solutions, and the impact on equity-related outcomes.

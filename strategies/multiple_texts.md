@@ -39,10 +39,10 @@ Reading multiple texts on the same topic expands learners' understanding, encour
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Lectures](/elements/lectures.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Lectures](../elements/lectures.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Quality of notes and summaries recorded in Inquiry Charts, participation in discussions, depth and accuracy of written or sketched responses.

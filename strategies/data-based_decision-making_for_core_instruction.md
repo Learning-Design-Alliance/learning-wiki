@@ -39,8 +39,8 @@ Teachers can use data to guide instructional decisions in Tier 1 settings.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student performance data

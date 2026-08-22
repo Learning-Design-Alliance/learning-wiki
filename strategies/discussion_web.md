@@ -39,10 +39,10 @@ A discussion web is a graphic organizer that enables students to examine both si
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Argument Construction](/elements/argument-construction.md)
-- [Assigned Positions](/elements/assigned-positions.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Argument Construction](../elements/argument-construction.md)
+- [Assigned Positions](../elements/assigned-positions.md)
 
 ## Assessment Evidence
 - Monitor the quality and depth of student responses in the discussion web. Evaluate the level of critical thinking demonstrated in the responses. Assess the effectiveness of group collaboration through observation and participation.

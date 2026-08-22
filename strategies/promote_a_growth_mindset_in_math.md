@@ -39,8 +39,8 @@ Promote a growth mindset by giving feedback that values effort and encourages pe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe changes in learner persistence, monitor increased effort and engagement, and assess the development of a growth mindset.

@@ -39,12 +39,12 @@ Delivering feedback through various media, such as video, allows for a more enco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Track learner engagement with feedback. Assess the quality and impact of feedback on learner performance. Gather feedback from learners on their experiences with feedback through different media.

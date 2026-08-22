@@ -39,9 +39,9 @@ This strategy involves using current events and fictional characters to explicit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, analyze their responses to questions about current events, and assess their ability to understand different perspectives and empathize with others.

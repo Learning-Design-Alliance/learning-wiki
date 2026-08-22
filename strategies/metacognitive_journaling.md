@@ -39,8 +39,8 @@ Metacognitive journaling involves writing about one's own thinking, including te
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Analyze journal entries to assess the depth of reflection on thinking processes, the identification of biases and blind spots, and the development of self-directed learning skills.

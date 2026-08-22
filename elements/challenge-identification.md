@@ -14,7 +14,7 @@ generated:
 Challenge identification is the element in which learners or instructors surface the central obstacle, tension, or problem to be addressed.
 
 ## Affordances
-- [Problem-Based Learning](/principles/problem-based-learning.md)
+- [Problem-Based Learning](../principles/problem-based-learning.md)
 
 ## Related Elements
-- [Problem Scenarios](/elements/problem-scenarios.md)
+- [Problem Scenarios](problem-scenarios.md)

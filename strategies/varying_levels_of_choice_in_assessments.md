@@ -39,8 +39,8 @@ Give students a choice about the areas of focus in a paper or project. For in-cl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess Performance](/elements/assess-performance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluation of project outcomes, student reflections, and feedback surveys.

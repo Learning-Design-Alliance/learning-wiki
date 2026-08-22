@@ -39,10 +39,10 @@ Learners examine media examples to consider who is represented and who is not, t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Class Discussion](/elements/class-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess the depth of analysis, the ability to identify issues of representation, and the level of critical thinking demonstrated in the analysis. Monitor changes in learners' attitudes towards media and social issues.

@@ -31,18 +31,18 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 - Improve planning, monitoring, and adaptive revision.
 
 ### Affordances
-- [Metacognition](/principles/metacognition.md)
-- [Self-Regulated Learning](/principles/self-regulated-learning.md)
-- [Reflection](/principles/reflection.md)
+- [Metacognition](../principles/metacognition.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
+- [Reflection](../principles/reflection.md)
 
 ## Related Elements
-- [Self-Assessment](/elements/self-assessment.md)
-- [Reflection](/elements/reflection.md)
-- [Question Formulation](/elements/question-formulation.md)
+- [Self-Assessment](self-assessment.md)
+- [Reflection](reflection.md)
+- [Question Formulation](question-formulation.md)
 
 ## Patterns That Use This Element
-- [Reflective Practice](/patterns/reflective-practice.md)
-- [Self-Regulated Learning](/patterns/self-regulated-learning.md)
+- [Reflective Practice](../patterns/reflective-practice.md)
+- [Self-Regulated Learning](../patterns/self-regulated-learning.md)
 
 ## Examples
 - Confidence ratings before answer checking.

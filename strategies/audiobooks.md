@@ -39,8 +39,8 @@ Allowing learners to listen to audiobooks supports learners with auditory proces
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Assess comprehension through quizzes, discussions, or written assignments, compare performance with traditional reading tasks.

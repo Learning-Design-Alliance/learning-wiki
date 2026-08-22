@@ -26,17 +26,17 @@ Negotiation is the element in which learners work through competing interests, p
 - Build tradeoff analysis, communication, and collaborative judgment.
 
 ### Affordances
-- [Social Interdependence](/principles/social-interdependence.md)
-- [Perspective-Taking](/principles/perspective-taking.md)
+- [Social Interdependence](../principles/social-interdependence.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
 
 ## Related Elements
-- [Consensus Discussion](/elements/consensus-discussion.md)
-- [Collaborative Decision-Making](/elements/collaborative-decision-making.md)
-- [Role-Playing](/elements/role-playing.md)
+- [Consensus Discussion](consensus-discussion.md)
+- [Collaborative Decision-Making](collaborative-decision-making.md)
+- [Role-Playing](role-playing.md)
 
 ## Patterns That Use This Element
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 - Learners negotiate a joint recommendation after representing different stakeholder interests.

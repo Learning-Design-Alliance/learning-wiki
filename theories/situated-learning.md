@@ -21,8 +21,8 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - Qualifies theories that treat learning only as internal information processing.
 
 ## Related Theories
-- [Constructivism](/theories/constructivism.md)
-- [Cognitive Apprenticeship](/theories/cognitive-apprenticeship.md)
+- [Constructivism](constructivism.md)
+- [Cognitive Apprenticeship](cognitive-apprenticeship.md)
 
 ## Key Sources
 - Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press.

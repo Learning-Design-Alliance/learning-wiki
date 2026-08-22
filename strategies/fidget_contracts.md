@@ -39,9 +39,9 @@ Fidget contracts are agreements between a learner and an educator or caregiver t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe changes in fidget use behaviors, such as frequency, purpose, and compliance with contract rules. Monitor learner focus and attention levels during activities where fidgets are used.

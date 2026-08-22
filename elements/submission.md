@@ -31,17 +31,17 @@ Learners submit work for assessment, feedback, or peer review.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Mastery Learning](/principles/mastery-learning.md)
-- [Competency-Based Assessment](/principles/competency-based-assessment.md)
+- [Mastery Learning](../principles/mastery-learning.md)
+- [Competency-Based Assessment](../principles/competency-based-assessment.md)
 
 ## Related Elements
-- [Review](/elements/review.md)
-- [Feedback](/elements/feedback.md)
-- [Revision](/elements/revision.md)
+- [Review](review.md)
+- [Feedback](feedback.md)
+- [Revision](revision.md)
 
 ## Patterns That Use This Element
-- [Competency-Based Learning](/patterns/competency-based-learning.md)
-- [Formative Assessment](/patterns/formative-assessment.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
+- [Formative Assessment](../patterns/formative-assessment.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

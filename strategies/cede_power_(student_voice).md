@@ -39,9 +39,9 @@ This principle emphasizes sharing power with students and families in the design
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Measure student perceptions of their voice and influence in school decisions, track student engagement in co-design activities, and assess the impact of student-led initiatives.

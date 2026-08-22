@@ -39,9 +39,9 @@ Ensuring that personalized learning opportunities are designed to maximize the e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Increased student engagement, improved learning outcomes, enhanced accessibility

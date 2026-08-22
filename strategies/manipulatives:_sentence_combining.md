@@ -39,8 +39,8 @@ Using physical or digital manipulatives to combine simple sentences, thereby red
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners' ability to combine sentences correctly using manipulatives. Track improvement in sentence complexity and accuracy in writing samples.

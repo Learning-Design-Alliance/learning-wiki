@@ -39,10 +39,10 @@ This strategy involves selecting and incorporating culturally responsive texts i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Analyze representation and diversity in classroom and library collections. Observe learners' engagement, discussions, and reflections on diverse texts. Assess the inclusion of multiple perspectives and voices in learning activities.

@@ -39,8 +39,8 @@ This strategy involves defining clear objectives prior to engaging in a learning
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [State objectives](../elements/state-objectives.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Success is measured by the extent to which the learning goals are achieved, the insights gained, and the changes made as a result of the experience. This can be documented through reflections, action plans, and feedback from participants.

@@ -39,10 +39,10 @@ Instructors connect the importance and usefulness of writing to learners' lives 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Increased learner motivation and engagement in writing tasks. Improved understanding of the real-world relevance of writing skills. Enhanced ability to apply writing skills to career-related scenarios.

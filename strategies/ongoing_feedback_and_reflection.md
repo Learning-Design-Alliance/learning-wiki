@@ -39,12 +39,12 @@ Learning management systems (LMS) such as Google Classroom, Canvas, and Schoolog
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Summative Assessment](/elements/summative-assessment.md)
-- [Peer Feedback](/elements/peer-feedback.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Video-Based Reflection](/elements/video-based-reflection.md)
-- [Learning Management Systems](/elements/learning-management-systems.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Summative Assessment](../elements/summative-assessment.md)
+- [Peer Feedback](../elements/peer-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Video-Based Reflection](../elements/video-based-reflection.md)
+- [Learning Management Systems](../elements/learning-management-systems.md)
 
 ## Assessment Evidence
 - Quality of student reflection and feedback, improvement in student performance, engagement in assessment activities.

@@ -39,9 +39,9 @@ Read and reflect involves students engaging in discussions or summarizing activi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Improved comprehension, critical thinking, and summarization skills. Increased student engagement and participation in discussions.

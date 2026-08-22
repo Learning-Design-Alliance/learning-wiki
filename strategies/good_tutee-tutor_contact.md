@@ -39,8 +39,8 @@ Regular contact between tutees and tutors is part of the tutoring process, incre
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased tutee attendance, improved engagement during sessions, positive feedback from tutees.

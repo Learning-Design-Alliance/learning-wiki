@@ -39,8 +39,8 @@ The instructor selects three or four pictures related to the reading topic and p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Demonstration](/elements/demonstration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe the connections learners make between the pictures and the reading topic. Collect feedback on how well the activity prepared learners for the reading.

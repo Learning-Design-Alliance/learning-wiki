@@ -39,9 +39,9 @@ Teachers integrate art and music from diverse cultures into their lessons to enr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Increased student participation, enhanced understanding of content, improved cultural awareness, positive feedback from students and families.

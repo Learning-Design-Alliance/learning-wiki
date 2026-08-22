@@ -39,9 +39,9 @@ Learning cohorts can be formed for employees to learn from each other on topics 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
 
 ## Assessment Evidence
 - Success can be measured by tracking employee participation in learning groups, skill development, and knowledge sharing within the organization.

@@ -39,8 +39,8 @@ Journaling (or recording in an alternative form) can help students develop their
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe changes in journaling.

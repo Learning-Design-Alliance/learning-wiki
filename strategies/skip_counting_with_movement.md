@@ -39,9 +39,9 @@ Make up a movement that comes in 2, 3, or more parts. Whisper the first parts, a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe students' ability to coordinate the movement with the skip counting pattern. Assess the accurate of the count.

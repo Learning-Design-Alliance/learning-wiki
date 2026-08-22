@@ -39,11 +39,11 @@ Supporting learners to construct meaning from words, symbols, and numbers using 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Assess learner understanding of vocabulary and concepts through quizzes, tests, and discussions. Monitor learner use of clarified language structures in their own writing and speaking. Gather feedback on the effectiveness of clarification techniques.

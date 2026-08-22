@@ -31,17 +31,17 @@ Learners integrate multiple perspectives and sources to develop a cohesive under
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Constructivism](/principles/constructivism.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Constructivism](../principles/constructivism.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Expert Groups](/elements/expert-groups.md)
-- [Research](/elements/research.md)
-- [Concept Mapping](/elements/concept-mapping.md)
+- [Expert Groups](expert-groups.md)
+- [Research](research.md)
+- [Concept Mapping](concept-mapping.md)
 
 ## Patterns That Use This Element
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
-- [Jigsaw](/patterns/jigsaw.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Jigsaw](../patterns/jigsaw.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

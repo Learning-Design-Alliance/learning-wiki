@@ -39,10 +39,10 @@ Students engage with text resources, typically online versions, that are equippe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Quality and quantity of annotations, engagement in discussions, completion of structured activities, performance on related assignments.

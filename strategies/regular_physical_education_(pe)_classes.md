@@ -39,7 +39,7 @@ Implement consistent PE classes to help students burn off energy and be active, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track participation rates in PE classes, assess improvements in physical fitness, monitor student behavior and engagement in other classes

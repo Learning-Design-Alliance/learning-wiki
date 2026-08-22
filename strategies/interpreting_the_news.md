@@ -39,10 +39,10 @@ Learners pick a current news item and explore it from different points of view, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Research](/elements/research.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Research](../elements/research.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Assess the depth of analysis, the ability to identify bias and assumptions, and the level of critical thinking demonstrated in the analysis. Monitor changes in learners' attitudes towards media and current affairs.

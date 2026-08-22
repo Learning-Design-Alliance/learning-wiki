@@ -39,9 +39,9 @@ Learners identify, label, and match facial expressions and feelings. Categorizin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track accuracy in matching emotions to facial expressions and situations. Monitor the use of emotion words in daily conversations. Assess the depth and complexity of emotion analysis in literature.

@@ -39,10 +39,10 @@ Using the gradual release of responsibility model to support students in multimo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe students' ability to select and analyze multimodal resources independently. Analyze the quality and depth of their independent analysis. Assess the extent to which students apply recursive design skills in their own compositions.

@@ -39,8 +39,8 @@ At Crellin Elementary School in Oakland, Maryland, teachers encouraged students 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Question Formulation](/elements/question-formulation.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Question Formulation](../elements/question-formulation.md)
 
 ## Assessment Evidence
 - Review student journals to assess understanding and identify areas of curiosity.

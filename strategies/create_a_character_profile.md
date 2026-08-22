@@ -39,9 +39,9 @@ Creating a character profile helps students form a deeper understanding of a boo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Creating Visual Representations](/elements/creating-visual-representations.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Creating Visual Representations](../elements/creating-visual-representations.md)
 
 ## Assessment Evidence
 - Improved character understanding, analytical skills, and empathy. Increased student engagement and creativity.

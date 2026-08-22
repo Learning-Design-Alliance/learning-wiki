@@ -39,8 +39,8 @@ Engage in actions to build an empathic mindset. Read stories from the perspectiv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track changes in educator behavior, monitor student feedback, observe classroom climate, assess improvements in communication.

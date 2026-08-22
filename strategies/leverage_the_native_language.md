@@ -39,7 +39,7 @@ Integrate students' native languages into project work. Ask how you can leverage
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-task performance](/elements/whole-task-performance.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
 
 ## Assessment Evidence
 - Increased student engagement, improved project outcomes, and positive attitudes toward linguistic diversity.

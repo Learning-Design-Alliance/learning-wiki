@@ -39,9 +39,9 @@ Link and construct meaning from experiences. Reflection has many facets. For exa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Improved student decision-making skills, increased student problem-solving abilities, and greater ethical responsibility.

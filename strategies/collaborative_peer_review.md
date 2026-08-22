@@ -39,9 +39,9 @@ Learners connect with others to provide and receive feedback for improvement on 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor student participation and engagement during peer review, assess the quality of feedback provided by students, review the improvements made in writing based on peer feedback.

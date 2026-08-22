@@ -39,10 +39,10 @@ This strategy uses movement, rhythm, and music to enhance learning and understan
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the dance activities; assess learner understanding of mathematical concepts through performance and verbal explanations; use reflections or journals to assess learner's ability to connect movement to concepts.

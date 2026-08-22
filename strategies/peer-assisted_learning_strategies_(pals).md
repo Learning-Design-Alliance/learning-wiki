@@ -39,10 +39,10 @@ PALS is a structured peer tutoring approach that involves pairing learners to wo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Modeling](/elements/modeling.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Modeling](../elements/modeling.md)
 
 ## Assessment Evidence
 - Reading fluency (words correct per minute), comprehension scores, quality of summaries and retellings, observation of learner interactions, and feedback from learners on their experience with PALS.

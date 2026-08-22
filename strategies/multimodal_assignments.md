@@ -39,14 +39,14 @@ Multimodal assignments involve a variety of assessment methods that challenge le
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
-- [Procedural information](/elements/procedural-information.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Procedural information](../elements/procedural-information.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Evaluate the creativity, depth of understanding, and quality of the projects. Assess performance on quizzes and essays. Gather feedback from learners on their experiences with multimodal assignments.

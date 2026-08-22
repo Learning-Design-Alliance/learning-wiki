@@ -39,9 +39,9 @@ A game app made of funny characters, referred to as the Dust Funnies. These char
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Monitor progress through different stages and problem sets.

@@ -39,9 +39,9 @@ Self-regulation is the ability to alter and regulate our emotional and behaviora
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Monitor student behavior and emotional responses in challenging situations. Observe student use of self-regulation strategies. Collect student feedback on the effectiveness of the strategies.

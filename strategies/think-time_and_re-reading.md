@@ -39,8 +39,8 @@ Sufficient time is allowed for learners to process information and re-read mater
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to provide thoughtful responses. Assess comprehension through detailed assignments and discussions.

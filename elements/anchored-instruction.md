@@ -47,13 +47,13 @@ Anchored instruction situates learning around a shared, meaningful scenario or "
 - Creates a natural bridge between explanation and application
 
 ## Related Elements
-- [Case Study](/elements/case-study.md)
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Application](/elements/application.md)
+- [Case Study](case-study.md)
+- [Problem Scenario](problem-scenario.md)
+- [Application](application.md)
 
 ## Patterns That Use This Element
-- [Anchored Instruction](/patterns/anchored-instruction.md)
-- [Goal-Based Scenarios (GBS)](/patterns/goal-based-scenarios-gbs.md)
+- [Anchored Instruction](../patterns/anchored-instruction.md)
+- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios-gbs.md)
 
 ## Examples
 - A video case anchors a unit on environmental decision making

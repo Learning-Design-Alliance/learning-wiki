@@ -39,12 +39,12 @@ Self-instruction, also known as self-talk or self-statements, is a strategy wher
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to articulate and use self-statements during tasks. Monitor improvements in task completion, accuracy, and self-regulation.

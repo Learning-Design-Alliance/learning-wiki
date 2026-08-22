@@ -39,9 +39,9 @@ A potent method for helping students become active participants in learning is t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Quizzes](/elements/quizzes.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Quizzes](../elements/quizzes.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased student self-awareness, improved test performance, and reduced test anxiety.

@@ -39,7 +39,7 @@ A classroom management system where a student's name is secretly selected each d
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe changes in classroom behavior, track the frequency of rewards given, and gather feedback from students on their motivation and engagement.

@@ -39,10 +39,10 @@ The "Targeted Networking" strategy involves focusing on specific activities, gro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Number of meaningful connections established, frequency of interactions, positive outcomes from collaborations, quality of shared knowledge.

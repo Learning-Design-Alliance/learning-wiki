@@ -31,17 +31,17 @@ Structured conversations where learners analyze and reflect on content.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Constructivism](/principles/social-constructivism.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Social Constructivism](../principles/social-constructivism.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Socratic Questioning](/elements/socratic-questioning.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Socratic Questioning](socratic-questioning.md)
+- [Peer Discussion](peer-discussion.md)
+- [Whole-Class Sharing](whole-class-sharing.md)
 
 ## Patterns That Use This Element
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

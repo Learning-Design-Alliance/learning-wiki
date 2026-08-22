@@ -31,17 +31,17 @@ Learners investigate open-ended problems and generate solutions.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
-- [Constructivism](/principles/constructivism.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Related Elements
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
-- [Research](/elements/research.md)
+- [Problem Scenario](problem-scenario.md)
+- [Collaborative Problem-Solving](collaborative-problem-solving.md)
+- [Research](research.md)
 
 ## Patterns That Use This Element
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

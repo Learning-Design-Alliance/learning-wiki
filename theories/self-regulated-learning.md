@@ -43,19 +43,19 @@ Barry Zimmerman's work is one of the most influential formulations of SRL. In th
 - Building persistence and more accurate self-evaluation
 
 ## Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
 
 ## Related Theories
-- [Self-Determination Theory](/theories/self-determination-theory.md) — motivation and autonomy shape whether learners engage in self-regulatory behaviors
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — working-memory demands can constrain learners' ability to monitor and regulate effectively, especially when they are novices
+- [Self-Determination Theory](self-determination-theory.md) — motivation and autonomy shape whether learners engage in self-regulatory behaviors
+- [Cognitive Load Theory](cognitive-load-theory.md) — working-memory demands can constrain learners' ability to monitor and regulate effectively, especially when they are novices
 
 ## Examples
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
-- [Self-monitoring](/principles/self-monitoring.md)
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
+- [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
+- [Self-monitoring](../principles/self-monitoring.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

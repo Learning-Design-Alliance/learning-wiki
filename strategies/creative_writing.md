@@ -39,8 +39,8 @@ Former teachers Ed Kang and Amy Schwartzbach-Kang incorporated storytelling and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Modeling](/elements/modeling.md)
-- [Application](/elements/application.md)
+- [Modeling](../elements/modeling.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Review student stories to assess creativity, understanding of science concepts, and writing skills.

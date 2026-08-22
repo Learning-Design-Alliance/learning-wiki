@@ -39,8 +39,8 @@ The 'draw a picture' strategy is a problem-solving technique in which learners m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe the accuracy and clarity of the visual representations. Assess the learners' ability to use the diagrams to solve problems correctly. Analyze the explanations of the solutions.

@@ -39,8 +39,8 @@ Engage parents by providing details about the benefits of physical activity and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Supportive information](/elements/supportive-information.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Track parental involvement in school programs, gather feedback from parents and students, monitor overall participation in physical activity

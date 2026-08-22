@@ -39,8 +39,8 @@ A game where learners find numbers in sequential order on road signs, license pl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to identify numbers in sequence. Track the number of correct identifications made within a given time.

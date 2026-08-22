@@ -14,8 +14,8 @@ generated:
 Learning management systems are the element in which course organization, materials, communication, and tracking are coordinated through an LMS.
 
 ## Affordances
-- [Digital Learning](/principles/digital-learning.md)
+- [Digital Learning](../principles/digital-learning.md)
 
 ## Related Elements
-- [Resource Hubs](/elements/resource-hubs.md)
-- [Progress Tracking](/elements/progress-tracking.md)
+- [Resource Hubs](resource-hubs.md)
+- [Progress Tracking](progress-tracking.md)

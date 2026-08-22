@@ -39,8 +39,8 @@ Learners read a section of text to themselves before verbally summarizing the pa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Review learner summaries for accuracy and completeness.

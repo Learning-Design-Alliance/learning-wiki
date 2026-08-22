@@ -39,8 +39,8 @@ Accentuating important information and how it relates to the learning goal helps
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Advance Organizers](/elements/advance-organizers.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of key concepts through discussions or written assignments. Track improvements in comprehension and knowledge organization.

@@ -39,9 +39,9 @@ Providing a personal video introduction at the start of the course allows studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Gain attention](/elements/gain-attention.md)
-- [State objectives](/elements/state-objectives.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Gain attention](../elements/gain-attention.md)
+- [State objectives](../elements/state-objectives.md)
 
 ## Assessment Evidence
 - Increased student engagement, positive student feedback on the instructor's approachability, and improved student perceptions of the instructor.

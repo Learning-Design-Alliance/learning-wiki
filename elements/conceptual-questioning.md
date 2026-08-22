@@ -31,19 +31,19 @@ Learners answer thought-provoking questions designed to challenge assumptions an
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
-- [Constructivism](/principles/constructivism.md)
-- [Active Learning](/principles/active-learning.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Constructivism](../principles/constructivism.md)
+- [Active Learning](../principles/active-learning.md)
 
 ## Related Elements
-- [Socratic Questioning](/elements/socratic-questioning.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
+- [Socratic Questioning](socratic-questioning.md)
+- [Peer Discussion](peer-discussion.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Guided Discovery Learning](/patterns/guided-discovery-learning.md)
-- [Peer Instruction](/patterns/peer-instruction.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
+- [Peer Instruction](../patterns/peer-instruction.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -39,9 +39,9 @@ A small-group discussion strategy that gives learners exposure to more of their 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the activity, review the quality of their responses to the discussion questions, collect feedback from learners about their experience.

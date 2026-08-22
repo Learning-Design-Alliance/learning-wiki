@@ -39,12 +39,12 @@ A teacher read-aloud involves a teacher fluently reading a text aloud to learner
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation during read-aloud sessions. Collect evidence of deeper conversation and connections to the big idea through student discussions and responses.

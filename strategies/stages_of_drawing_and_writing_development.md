@@ -39,10 +39,10 @@ Children progress through stages of drawing and writing development, from random
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe children's progress through the stages of drawing and writing development. Evaluate the complexity and control in their drawings and writings. Notice their ability to represent objects and people and use letters and words.

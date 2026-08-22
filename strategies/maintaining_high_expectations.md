@@ -39,10 +39,10 @@ In culturally responsive instruction, achievement expectations are determined in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Student progress toward individual goals, student self-assessments, teacher observations.

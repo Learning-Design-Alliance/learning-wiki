@@ -39,8 +39,8 @@ An adult follows a child closely, within arm's reach, to provide constant direct
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Decrease in targeted behavior incidents over time.

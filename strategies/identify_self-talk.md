@@ -39,7 +39,7 @@ Have students record messages from their inner voice over a week in a journal or
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review journal entries for frequency, patterns, and content of self-talk messages.

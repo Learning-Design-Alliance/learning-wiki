@@ -39,7 +39,7 @@ Ask students to identify patterns or themes in their self-talk. For example, at 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review analysis of self-talk messages for identified patterns and themes.

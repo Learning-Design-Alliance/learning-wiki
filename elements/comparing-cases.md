@@ -33,18 +33,18 @@ Comparing cases is the element in which learners inspect two or more examples, s
 - Build conceptual understanding, pattern detection, and transfer.
 
 ### Affordances
-- [Metaphors & Analogies](/principles/metaphors-analogies.md)
-- [Worked Examples](/principles/worked-examples.md)
-- [Error Analysis](/principles/error-analysis.md)
+- [Metaphors & Analogies](../principles/metaphors-analogies.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Error Analysis](../principles/error-analysis.md)
 
 ## Related Elements
-- [Non-Examples](/elements/non-examples.md)
-- [Erroneous Examples](/elements/erroneous-examples.md)
-- [Demonstration](/elements/demonstration.md)
+- [Non-Examples](non-examples.md)
+- [Erroneous Examples](erroneous-examples.md)
+- [Demonstration](demonstration.md)
 
 ## Patterns That Use This Element
-- [Guided Discovery Learning](/patterns/guided-discovery-learning.md)
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 - Comparing two worked solutions to identify where one method is more efficient.

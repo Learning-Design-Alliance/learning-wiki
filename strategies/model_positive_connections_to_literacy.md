@@ -39,8 +39,8 @@ Teachers share their own positive experiences with reading and writing to foster
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe students' engagement with the shared list of books and their willingness to contribute. Monitor their participation in discussions about reading and writing.

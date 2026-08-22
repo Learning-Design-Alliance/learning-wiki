@@ -27,7 +27,7 @@ sources:
 Physical activity in learning contexts means intentionally incorporating movement, exercise, or embodied breaks to support attention, energy, regulation, and readiness to learn. This can range from short movement breaks to physically active tasks or longer routines that help learners recover from fatigue and re-engage. The instructional value is usually indirect: physical activity does not teach content by itself, but it can improve the conditions under which focus, mood, and persistence are more available.
 
 ## Implications
-Physical activity is most useful as a readiness and regulation support rather than as content instruction by itself. Brief movement can help some learners reset attention, notice internal state, and return to demanding work with more control [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. The instructional implication is not that movement is always better, but that it should be timed and framed to improve the next learning action. When movement is disconnected from task demands, inaccessible, or overly generalized, it becomes disruption rather than support.
+Physical activity is most useful as a readiness and regulation support rather than as content instruction by itself. Brief movement can help some learners reset attention, notice internal state, and return to demanding work with more control [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. The instructional implication is not that movement is always better, but that it should be timed and framed to improve the next learning action. When movement is disconnected from task demands, inaccessible, or overly generalized, it becomes disruption rather than support.
 
 ### Context
 #### Requirements
@@ -63,13 +63,13 @@ Physical activity is most useful as a readiness and regulation support rather th
 - Physical activity should support learning rather than function as a mandatory performance unrelated to instructional goals.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — routines that help learners notice and regulate their state can improve later strategy adjustment and persistence
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — routines that help learners notice and regulate their state can improve later strategy adjustment and persistence
 
 ## Related Principles
-- [Mindfulness Activities](/principles/mindfulness-activities.md) — both can function as readiness and regulation supports before or during learning.
-- [Check-ins](/principles/check-ins.md) — movement-based check-ins can help surface energy, readiness, and attention.
-- [Quiet Learning Spaces](/principles/quiet-learning-spaces.md) — environment design affects whether movement and rest can coexist productively.
-- [Skills Sprint](/principles/skills-sprint.md) — brief movement breaks can support focus across intensive practice sessions.
+- [Mindfulness Activities](mindfulness-activities.md) — both can function as readiness and regulation supports before or during learning.
+- [Check-ins](check-ins.md) — movement-based check-ins can help surface energy, readiness, and attention.
+- [Quiet Learning Spaces](quiet-learning-spaces.md) — environment design affects whether movement and rest can coexist productively.
+- [Skills Sprint](skills-sprint.md) — brief movement breaks can support focus across intensive practice sessions.
 
 ## Examples
 - **Short movement breaks**: Learners stand, stretch, walk, or reset between dense instructional segments.

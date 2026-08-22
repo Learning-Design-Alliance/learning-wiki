@@ -23,7 +23,7 @@ Read `CLAUDE.md` in full before doing anything else. Pay attention to:
 - Evidence tags ([+S], [+M], [+W], [~], [-], [X]) and when to use each
 - Claim page structure: frontmatter, subclaims, evidence entries, discussion
 - Evidence quality tiers (q1–q4) and impact magnitude (i0–i3)
-- Cross-link conventions (`[Display Name](/folder/slug.md)`)
+- Cross-link conventions (`[Display Name](slug.md)` same folder, `[Display Name](../folder/slug.md)` a different folder)
 - Status values (draft / review / stable)
 
 ---
@@ -94,7 +94,7 @@ Follow the claim template from CLAUDE.md exactly:
 - `evidence_strength:` — strong / moderate / weak / mixed
 - Write subclaims: one sentence each, prefixed with `q? i?`, linked to the evidence entry with `[→ Author Year](#author-year)`
 - Write the evidence entry: full APA citation with DOI link, quality/impact/n codes with plain-language explanations, then 2–4 sentence description in plain language
-- Link any instructional elements mentioned to wiki pages using `[display name](/elements/slug.md)`
+- Link any instructional elements mentioned to wiki pages using `[display name](../elements/slug.md)`
 
 ---
 
@@ -121,7 +121,7 @@ For each principle, element, pattern, strategy, or theory the article contribute
 
 For each new page:
 1. Identify 2–5 closely related pages already in the wiki (search index.md and grep).
-2. Add markdown links (`[Title](/folder/slug.md)`) in the `## Related Principles` / `## Related Elements` / `## Related Claims` section of the new page.
+2. Add markdown links (`[Title](../folder/slug.md)`) in the `## Related Principles` / `## Related Elements` / `## Related Claims` section of the new page.
 3. Add a reciprocal link on those existing pages pointing back to the new page (append to the relevant section).
 
 ---

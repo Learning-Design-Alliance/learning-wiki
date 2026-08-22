@@ -33,18 +33,18 @@ Fading is the element in which instructional support is deliberately reduced as 
 - Support transfer of responsibility and increasingly independent performance.
 
 ### Affordances
-- [Scaffolding](/principles/scaffolding.md)
-- [Scaffolding and Fading](/principles/scaffolding-and-fading.md)
-- [Mastery Learning](/principles/mastery-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
+- [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
+- [Mastery Learning](../principles/mastery-learning.md)
 
 ## Related Elements
-- [Demonstration](/elements/demonstration.md)
-- [Worked Examples](/elements/worked-examples.md)
-- [Hints](/elements/hints.md)
+- [Demonstration](demonstration.md)
+- [Worked Examples](worked-examples.md)
+- [Hints](hints.md)
 
 ## Patterns That Use This Element
-- [Mastery Learning](/patterns/mastery-learning.md)
-- [Merrill's First Principles (Demonstration)](/patterns/merrills-first-principles-demonstration.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
+- [Merrill's First Principles (Demonstration)](../patterns/merrills-first-principles-demonstration.md)
 
 ## Examples
 - Moving from full worked examples to partial examples to independent problem solving.

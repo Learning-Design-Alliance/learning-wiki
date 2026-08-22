@@ -39,9 +39,9 @@ Deliberate practice is a structured approach to skill development that focuses o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Part-task practice](/elements/part-task-practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
+- [Part-task practice](../elements/part-task-practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track the number of hours spent practicing, improvements in specific skills, and the level of automaticity achieved. Observe changes in performance and the ability to take on more challenging tasks.

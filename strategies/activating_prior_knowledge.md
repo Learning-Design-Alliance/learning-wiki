@@ -39,8 +39,8 @@ Activating students' prior knowledge involves prompting learners to recall and s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Activation](/elements/activation.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Track student responses to identify gaps in knowledge. Compare initial understanding with post-instruction understanding.

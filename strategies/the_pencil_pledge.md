@@ -39,8 +39,8 @@ The Pencil Pledge is a classroom management technique that helps create a positi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [State objectives](/elements/state-objectives.md)
+- [Gain attention](../elements/gain-attention.md)
+- [State objectives](../elements/state-objectives.md)
 
 ## Assessment Evidence
 - Observe student behavior and respect for materials. Monitor classroom environment and student interactions. Track instances of responsible behavior.

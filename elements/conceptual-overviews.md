@@ -31,17 +31,17 @@ Conceptual overviews are elements that present the broad structure, central idea
 - Support schema formation and orientation to the whole.
 
 ### Affordances
-- [Holistic Learning](/principles/holistic-learning.md)
-- [Cognitive Load Management](/principles/cognitive-load-management.md)
+- [Holistic Learning](../principles/holistic-learning.md)
+- [Cognitive Load Management](../principles/cognitive-load-management.md)
 
 ## Related Elements
-- [Advance Organizers](/elements/advance-organizers.md)
-- [Concept Mapping](/elements/concept-mapping.md)
-- [Epitome (Elaboration Theory)](/elements/epitome-elaboration-theory.md)
+- [Advance Organizers](advance-organizers.md)
+- [Concept Mapping](concept-mapping.md)
+- [Epitome (Elaboration Theory)](epitome-elaboration-theory.md)
 
 ## Patterns That Use This Element
-- [Elaboration Theory](/patterns/elaboration-theory.md)
-- [Gagné's 9 Events](/patterns/gagnés-9-events.md)
+- [Elaboration Theory](../patterns/elaboration-theory.md)
+- [Gagné's 9 Events](../patterns/gagnés-9-events.md)
 
 ## Examples
 - A simple course map that shows how major ideas connect before individual lessons begin.

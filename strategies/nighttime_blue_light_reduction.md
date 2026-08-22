@@ -39,8 +39,8 @@ Reducing exposure to blue light from digital screens before bed can improve slee
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track sleep patterns, alertness levels, and academic outcomes. Monitor screen time habits before bed.

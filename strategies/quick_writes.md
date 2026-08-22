@@ -39,9 +39,9 @@ Quick Writes are short, focused informational writing tasks completed in under t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Assess Performance](/elements/assess-performance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess the clarity, organization, and accuracy of information in student responses. Track improvement in writing fluency and conciseness over time.

@@ -39,9 +39,9 @@ Logic puzzles are challenges designed to exercise the brain and improve memory, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Solution Development](/elements/solution-development.md)
-- [Application of Knowledge](/elements/application-of-knowledge.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
 
 ## Assessment Evidence
 - Observe successful completion of puzzles. Track improvement in spatial reasoning and cognitive skills.

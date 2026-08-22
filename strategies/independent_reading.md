@@ -39,9 +39,9 @@ Independent reading involves students selecting and reading books on their own, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Increased reading achievement, engagement, and motivation. Reduced summer reading loss and prevention of diminished reading habits at the secondary level.

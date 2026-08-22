@@ -31,19 +31,19 @@ Step-by-step instructions and just-in-time guidance to assist learners in acquir
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Procedural Learning](/principles/procedural-learning.md)
-- [Cognitive Load Reduction](/principles/cognitive-load-reduction.md)
-- [Scaffolding & Fading](/principles/scaffolding-fading.md)
+- [Procedural Learning](../principles/procedural-learning.md)
+- [Cognitive Load Reduction](../principles/cognitive-load-reduction.md)
+- [Scaffolding & Fading](../principles/scaffolding-fading.md)
 
 ## Related Elements
-- [Direct Instruction](/elements/direct-instruction.md)
-- [Worked Examples](/elements/worked-examples.md)
-- [Fading Scaffolding](/elements/fading-scaffolding.md)
+- [Direct Instruction](direct-instruction.md)
+- [Worked Examples](worked-examples.md)
+- [Fading Scaffolding](fading-scaffolding.md)
 
 ## Patterns That Use This Element
-- [Four-Component Instructional Design](/patterns/4cid.md)
-- [Worked Examples](/patterns/worked-examples.md)
-- [Cognitive Load Theory](/patterns/cognitive-load-theory.md)
+- [Four-Component Instructional Design](../patterns/4cid.md)
+- [Worked Examples](../patterns/worked-examples.md)
+- [Cognitive Load Theory](../patterns/cognitive-load-theory.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -39,7 +39,7 @@ Maintaining an optimal temperature range in classrooms affects student engagemen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student engagement and achievement, monitor classroom temperature, survey teacher and student satisfaction.

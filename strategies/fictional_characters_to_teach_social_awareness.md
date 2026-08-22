@@ -39,9 +39,9 @@ Use current events and fictional characters to teach social awareness.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Response](/elements/individual-response.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Response](../elements/individual-response.md)
 
 ## Assessment Evidence
 - Assess student connections.

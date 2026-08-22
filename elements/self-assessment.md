@@ -40,18 +40,18 @@ Self-assessment is the element in which learners judge their own work, understan
 - Improve monitoring, revision, and ownership of progress.
 
 ### Affordances
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Feedback Loops](/principles/feedback-loops.md)
+- [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Feedback Loops](../principles/feedback-loops.md)
 
 ## Related Elements
-- [Reflection](/elements/reflection.md)
-- [Feedback](/elements/feedback.md)
-- [Rubrics](/elements/rubrics.md)
+- [Reflection](reflection.md)
+- [Feedback](feedback.md)
+- [Rubrics](rubrics.md)
 
 ## Patterns That Use This Element
-- [Formative Assessment](/patterns/formative-assessment.md)
-- [LDA Reflection](/patterns/lda-reflection.md)
+- [Formative Assessment](../patterns/formative-assessment.md)
+- [LDA Reflection](../patterns/lda-reflection.md)
 
 ## Examples
 - Learners score a draft against a rubric before submission.

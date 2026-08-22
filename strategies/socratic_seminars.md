@@ -39,14 +39,14 @@ Socratic seminars are formal discussions based on a text, where the leader asks 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Lectures](/elements/lectures.md)
-- [Question Formulation](/elements/question-formulation.md)
-- [Knowledge-Building Discourse](/elements/knowledge-building-discourse.md)
-- [Peer Interaction](/elements/peer-interaction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Lectures](../elements/lectures.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Knowledge-Building Discourse](../elements/knowledge-building-discourse.md)
+- [Peer Interaction](../elements/peer-interaction.md)
 
 ## Assessment Evidence
 - Monitor the extent to which students engage in text-centered talk. Collect reflective writing where students describe their participation and set goals for future seminars. Evaluate the depth and thoughtfulness of student responses and interactions.

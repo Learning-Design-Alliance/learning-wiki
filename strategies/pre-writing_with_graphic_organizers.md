@@ -39,9 +39,9 @@ Students use graphic organizers to plan and structure their ideas before writing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Argument Construction](/elements/argument-construction.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Argument Construction](../elements/argument-construction.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Improved organization and coherence of written work, demonstrated ability to structure ideas, and effective use of evidence.

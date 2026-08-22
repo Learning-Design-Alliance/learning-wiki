@@ -39,9 +39,9 @@ Assessing must attend to fluency components and the learner. Assessments often a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Evaluates learner skill through performance tasks, oral examinations, and portfolio reviews, examining accuracy, efficiency, and adaptability. Collects learner perceptions via surveys and assesses conceptual understanding with open-ended problems.

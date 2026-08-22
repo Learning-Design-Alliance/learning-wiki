@@ -60,11 +60,11 @@ The pattern is most useful when the instructional goal is not just finding infor
 
 ### Claims
 #### Supporting
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -76,16 +76,16 @@ The pattern is most useful when the instructional goal is not just finding infor
 5. Revise explanations and identify next questions.
 
 ### Elements Used
-- [Scaffolded Inquiry](/elements/scaffolded-inquiry.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Reflection](/elements/reflection.md)
-- [Formative Assessment](/elements/formative-assessment.md)
+- [Scaffolded Inquiry](../elements/scaffolded-inquiry.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Reflection](../elements/reflection.md)
+- [Formative Assessment](../elements/formative-assessment.md)
 
 ### Affordances
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
-- [Peer Discussion](/principles/peer-discussion.md)
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Purposeful Reflection](/principles/purposeful-reflection.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ### Personalization
 - Different learners or teams can pursue different subquestions within a shared inquiry frame.
@@ -93,8 +93,8 @@ The pattern is most useful when the instructional goal is not just finding infor
 - Inquiry artifacts can be oral, visual, written, or mixed depending on the group and context.
 
 ## Related Patterns
-- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
-- [Discussion Group](/patterns/discussion-group.md)
+- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - Learners jointly investigating a community issue and synthesizing evidence into a shared explanation.

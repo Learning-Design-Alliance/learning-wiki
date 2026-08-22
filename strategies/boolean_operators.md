@@ -39,8 +39,8 @@ For older students, teach them Boolean Operators (and, or, not, near, ( ), *) to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Ability to use boolean operators.

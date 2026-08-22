@@ -39,9 +39,9 @@ Making educational tools readily available to students supports self-advocacy by
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Supportive information](/elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Increased student independence, improved accessibility, diverse learning methods

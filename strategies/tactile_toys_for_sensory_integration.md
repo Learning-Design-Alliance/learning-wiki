@@ -39,8 +39,8 @@ Providing tactile toys can help awaken sensory receptors, which may decrease fid
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observation of reduced fidgeting, improved attention span, and fewer behavior problems. Monitoring of learner's emotional regulation.

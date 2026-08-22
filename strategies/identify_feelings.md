@@ -39,8 +39,8 @@ Students identify, label, or match facial expressions and feelings. Students cat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' ability to accurately identify and label emotions in themselves and others. Track their participation in discussions and activities related to analyzing characters' feelings.

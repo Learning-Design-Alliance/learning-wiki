@@ -39,9 +39,9 @@ Shadowing can be used as a direct intervention to address behavior problems in t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Reduction in the frequency of negative behaviors, increased use of alternative strategies by the child, and positive changes in classroom safety and dynamics.

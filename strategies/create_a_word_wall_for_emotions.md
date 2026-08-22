@@ -39,8 +39,8 @@ Build your students’ emotion vocabulary by giving them direct access to those 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Assess students’ ability to use emotional vocabulary in discussions, writing, and self-reflection activities

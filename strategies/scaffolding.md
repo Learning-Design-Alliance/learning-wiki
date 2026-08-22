@@ -39,8 +39,8 @@ Scaffolding is a support technique to help learners manage their responses in an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to manage emotional responses with decreasing levels of scaffolding, track their progress in using self-regulation strategies independently.

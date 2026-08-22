@@ -39,9 +39,9 @@ Assessing student work on a regular basis provides both the teacher and the stud
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assess Performance](/elements/assess-performance.md)
-- [Practice](/elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Student work samples, reflection videos, photos/screenshots of progress, weekly surveys, and progress trackers.

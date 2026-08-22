@@ -39,9 +39,9 @@ Did the writer engage with anyone who disagrees? Did they call a senator whose l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Discussion Prompt](/elements/discussion-prompt.md)
-- [Moderation](/elements/moderation.md)
-- [Peer Interaction](/elements/peer-interaction.md)
+- [Discussion Prompt](../elements/discussion-prompt.md)
+- [Moderation](../elements/moderation.md)
+- [Peer Interaction](../elements/peer-interaction.md)
 
 ## Assessment Evidence
 - Observe learners' ability to identify and engage with opposing viewpoints in news sources.

@@ -39,11 +39,11 @@ Learners work in pairs to create a story by responding to guiding questions. Fir
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation during discussions, review the quality and creativity of the stories produced, assess students' ability to incorporate narrative elements effectively.

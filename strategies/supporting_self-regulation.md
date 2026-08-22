@@ -39,9 +39,9 @@ Identifying and supporting students who have learning strengths or challenges re
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student behavior and emotional responses, assess student reflection through journal entries, and evaluate the effectiveness of strategies used.

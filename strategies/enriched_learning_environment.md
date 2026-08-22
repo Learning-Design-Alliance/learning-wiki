@@ -39,10 +39,10 @@ Creating a brain-friendly and enriched classroom environment involves optimizing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe learner focus and engagement. Collect feedback from learners on their perceptions of the learning environment. Measure academic outcomes in enriched vs. traditional classrooms.

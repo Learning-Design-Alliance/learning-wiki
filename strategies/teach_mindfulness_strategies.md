@@ -39,9 +39,9 @@ Teach students various mindfulness strategies, from meditation and deep breathin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor students' ability to use mindfulness techniques to manage their emotions and behaviors, observe changes in stress levels and anxiety

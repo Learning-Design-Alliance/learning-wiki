@@ -39,8 +39,8 @@ One learner demonstrates an emotion through body language and facial expressions
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe learners' ability to identify and interpret emotions. Assess learners' understanding of body language and facial expressions.

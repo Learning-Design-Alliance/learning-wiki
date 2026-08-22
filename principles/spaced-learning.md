@@ -36,7 +36,7 @@ Spaced learning distributes study or practice across multiple sessions separated
 
 ## Implications
 
-Distributing practice across sessions strengthens long-term retention by forcing retrieval from a partially decayed memory trace, which deepens encoding more effectively than re-studying immediately after learning. This page does not yet have dedicated spacing claim pages, but the current claim inventory still supports several parts of the design logic. [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) suggests that spaced review is easier to sustain when material is organized into manageable units rather than revisited as an undifferentiated mass. [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) also supports using spaced review sessions for active recall with correction rather than passive rereading, because memorable correction depends on retrieval and feedback. Learners often underestimate spaced practice because it feels harder than massed study, so [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) is relevant for making schedules, progress, and forgetting visible enough that learners keep using the routine.
+Distributing practice across sessions strengthens long-term retention by forcing retrieval from a partially decayed memory trace, which deepens encoding more effectively than re-studying immediately after learning. This page does not yet have dedicated spacing claim pages, but the current claim inventory still supports several parts of the design logic. [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) suggests that spaced review is easier to sustain when material is organized into manageable units rather than revisited as an undifferentiated mass. [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) also supports using spaced review sessions for active recall with correction rather than passive rereading, because memorable correction depends on retrieval and feedback. Learners often underestimate spaced practice because it feels harder than massed study, so [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) is relevant for making schedules, progress, and forgetting visible enough that learners keep using the routine.
 
 ### Context
 #### Requirements
@@ -63,22 +63,22 @@ Distributing practice across sessions strengthens long-term retention by forcing
 
 ### Theory
 #### Supporting
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — retrieval from a partially decayed trace requires effortful reconstruction, which strengthens the memory encoding more than reviewing recently-studied material (desirable difficulty)
-- [Information Processing Theory](/theories/information-processing-theory.md) — repeated activation of memory traces across longer intervals produces stronger, more elaborated encodings than massed activation
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — retrieval from a partially decayed trace requires effortful reconstruction, which strengthens the memory encoding more than reviewing recently-studied material (desirable difficulty)
+- [Information Processing Theory](../theories/information-processing-theory.md) — repeated activation of memory traces across longer intervals produces stronger, more elaborated encodings than massed activation
 - Distributed practice / spacing effect (Ebbinghaus, 1885) — the empirical foundation; forgetting curves show that memory decays predictably and that re-study at the point of near-forgetting is maximally efficient
 
 #### Contradicting / Qualifying
 - Massed practice may be preferred when the goal is immediate performance (e.g., a demonstration the next day) — spacing trades short-term fluency for long-term retention
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — Organizing review into meaningful units helps learners revisit important material without overloading working memory each time.
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [~S] — Spaced review is especially useful when it requires retrieval and then corrects confident mistakes clearly.
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — Learners are more likely to sustain spaced study when they can monitor schedules, performance, and forgetting over time.
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — Organizing review into meaningful units helps learners revisit important material without overloading working memory each time.
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — Spaced review is especially useful when it requires retrieval and then corrects confident mistakes clearly.
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — Learners are more likely to sustain spaced study when they can monitor schedules, performance, and forgetting over time.
 
 ## Related Principles
-- [Formative Assessment](/principles/formative-assessment.md) — low-stakes assessments are the natural delivery mechanism for spaced retrieval; quizzes and checks serve both assessment and spacing functions
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md) — self-monitoring study schedules makes spacing explicit and sustains learner adherence
-- [Worked Examples](/principles/worked-examples.md) — spacing review of worked examples across sessions improves transfer more than massing the same examples in a single session
+- [Formative Assessment](formative-assessment.md) — low-stakes assessments are the natural delivery mechanism for spaced retrieval; quizzes and checks serve both assessment and spacing functions
+- [Goal Setting & Monitoring](goal-setting-monitoring.md) — self-monitoring study schedules makes spacing explicit and sustains learner adherence
+- [Worked Examples](worked-examples.md) — spacing review of worked examples across sessions improves transfer more than massing the same examples in a single session
 
 ## Examples
 

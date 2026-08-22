@@ -39,8 +39,8 @@ Creating a designated quiet space in the classroom allows children to self-regul
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the frequency and duration of use, as well as the child's behavior before and after using the space. Monitor the child's self-regulation and ability to manage sensory input.

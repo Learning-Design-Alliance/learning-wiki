@@ -39,10 +39,10 @@ The IKEA VR kitchen visualizer uses VR technology to give customers a better und
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
-- [Whole-task performance](/elements/whole-task-performance.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
 
 ## Assessment Evidence
 - Customer satisfaction levels, increased product knowledge, reduce purchasing mistakes.

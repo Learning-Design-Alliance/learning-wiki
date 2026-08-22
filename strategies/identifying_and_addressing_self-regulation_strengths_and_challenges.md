@@ -39,10 +39,10 @@ This strategy involves educators identifying students' strengths and challenges 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe changes in student behavior and emotional responses. Review student journal entries for metacognitive awareness. Collect student reflections on the effectiveness of strategies.

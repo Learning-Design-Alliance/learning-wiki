@@ -39,9 +39,9 @@ Incorporating student choice involves allowing learners to make decisions about 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe student engagement and motivation levels. Collect student feedback on their choices. Assess student learning outcomes to determine the impact of choice on academic performance.

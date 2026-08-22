@@ -39,8 +39,8 @@ Encouraging community involvement by using online communities to support learnin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Collaboration](/elements/collaboration.md)
-- [Practice](/elements/practice.md)
+- [Collaboration](../elements/collaboration.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

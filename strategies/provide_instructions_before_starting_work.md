@@ -39,7 +39,7 @@ Ensure instructions are given before learners begin their tasks to avoid confusi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
+- [State objectives](../elements/state-objectives.md)
 
 ## Assessment Evidence
 - Observe task completion rates and accuracy.

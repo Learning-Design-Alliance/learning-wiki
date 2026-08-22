@@ -31,17 +31,17 @@ Learners work together to analyze and solve problems.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Constructivist Learning](/principles/constructivist-learning.md)
+- [Social Learning](../principles/social-learning.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
 
 ## Related Elements
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Scenario-Based Learning](/elements/scenario-based-learning.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
+- [Peer Collaboration](peer-collaboration.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
 
 ## Patterns That Use This Element
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
-- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

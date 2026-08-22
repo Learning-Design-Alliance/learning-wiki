@@ -39,8 +39,8 @@ Text messaging is used as a primary means of communication for educators and com
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track response rates to text messages. Monitor student attendance and academic performance. Gather feedback from parents on the usefulness of text messages.

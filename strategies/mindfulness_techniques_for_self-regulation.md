@@ -39,9 +39,9 @@ This approach incorporates mindfulness techniques to help students manage their 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Monitor the student’s ability to manage emotions and responses; track frequency of mindfulness practice; observe changes in reactivity

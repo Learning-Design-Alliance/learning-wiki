@@ -39,9 +39,9 @@ A pedagogy that redefines who is 'smart' by utilizing multi-ability access point
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Coaching](/elements/coaching.md)
+- [Application](../elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Coaching](../elements/coaching.md)
 
 ## Assessment Evidence
 - Learner engagement, peer feedback, the quality of developed reasoning, and changes in learners’ dispositions towards math.

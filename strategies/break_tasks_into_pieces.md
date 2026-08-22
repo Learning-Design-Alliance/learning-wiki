@@ -39,8 +39,8 @@ Divide tasks into smaller chunks. The learner can focus long enough to perform p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track task completion rates. Monitor focus during work intervals. Collect feedback on the reduction of overwhelm.

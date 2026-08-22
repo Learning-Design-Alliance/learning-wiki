@@ -31,18 +31,18 @@ Learners are encouraged to recall and activate prior knowledge to prepare for ne
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Activation](/principles/activation.md)
-- [Metacognition](/principles/metacognition.md)
-- [Retrieval Practice](/principles/retrieval-practice.md)
+- [Activation](../principles/activation.md)
+- [Metacognition](../principles/metacognition.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
 
 ## Related Elements
-- [Pre-Reading Activities](/elements/pre-reading-activities.md)
-- [Concept Mapping](/elements/concept-mapping.md)
-- [Contextualization](/elements/contextualization.md)
+- [Pre-Reading Activities](pre-reading-activities.md)
+- [Concept Mapping](concept-mapping.md)
+- [Contextualization](contextualization.md)
 
 ## Patterns That Use This Element
-- [Merrill’s First Principles](/patterns/merrills-first-principles.md)
-- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
+- [Merrill’s First Principles](../patterns/merrills-first-principles.md)
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

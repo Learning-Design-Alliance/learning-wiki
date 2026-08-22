@@ -39,9 +39,9 @@ Because scholars have drawn from the Greek language to name scientific concepts 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Assess accuracy in spelling words with Greek combining forms. Monitor progress in spelling and vocabulary skills.

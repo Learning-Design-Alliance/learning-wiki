@@ -39,8 +39,8 @@ Word problems can be challenging. Use background knowledge of math as a stepping
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor learner's comprehension of word problems, assess problem-solving skills

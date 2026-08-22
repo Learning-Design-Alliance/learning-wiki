@@ -39,8 +39,8 @@ Providing dedicated, silent thinking time before pair talk allows students to ge
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Practice](/elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe whether students are using the thinking time productively. Listen to the quality of their contributions during pair talk. Ask students to reflect on how the thinking time helped them prepare for the discussion.

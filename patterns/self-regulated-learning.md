@@ -41,17 +41,17 @@ Self-Regulated Learning is the pattern-level target for designs that explicitly 
 
 ### Theory
 #### Supporting
-- [Self-Regulated Learning](/principles/self-regulated-learning.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 
 ## Design
 
 ### Elements Used
-- [Metacognitive Strategies](/elements/metacognitive-strategies.md)
-- [Self-Assessment](/elements/self-assessment.md)
-- [Reflection](/elements/reflection.md)
+- [Metacognitive Strategies](../elements/metacognitive-strategies.md)
+- [Self-Assessment](../elements/self-assessment.md)
+- [Reflection](../elements/reflection.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

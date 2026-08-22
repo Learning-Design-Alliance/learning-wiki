@@ -39,11 +39,11 @@ Using visual representations can lead to clearer delivery of content and greater
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Track learner engagement with visual materials, assess learner understanding through visual representations, compare learner performance with and without visual aids.

@@ -39,9 +39,9 @@ Class books involve students creating individual pages that are compiled into a 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Revision](/elements/revision.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Revision](../elements/revision.md)
 
 ## Assessment Evidence
 - Assess the quality and accuracy of individual pages, looking for clear explanations and effective representations of concepts. Evaluate the overall coherence and completeness of the class book.

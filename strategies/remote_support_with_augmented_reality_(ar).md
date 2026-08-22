@@ -39,11 +39,11 @@ AR apps allow technicians and users to communicate with experts in real time. Th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Time to troubleshoot and repair an issue, feedback from user and expert.

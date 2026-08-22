@@ -39,9 +39,9 @@ Field trips are educational excursions that take learners outside of the classro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Activation](/elements/activation.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Activation](../elements/activation.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Increased test scores, improved engagement in follow-up activities, enhanced critical thinking skills, positive changes in empathy and tolerance, learner-generated artifacts (e.g., reflections, presentations) that demonstrate learning and connection to real-world experiences.

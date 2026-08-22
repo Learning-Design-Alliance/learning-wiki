@@ -39,13 +39,13 @@ Reactive Cultural Response is the ability to change the structure, activities, a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Assigned Positions](/elements/assigned-positions.md)
-- [Role Reversal](/elements/role-reversal.md)
-- [Consensus Building](/elements/consensus-building.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Assigned Positions](../elements/assigned-positions.md)
+- [Role Reversal](../elements/role-reversal.md)
+- [Consensus Building](../elements/consensus-building.md)
 
 ## Assessment Evidence
 - Observation of student engagement and behavior, participation in class discussions, feedback from students.

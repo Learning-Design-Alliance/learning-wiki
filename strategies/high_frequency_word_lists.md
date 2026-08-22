@@ -39,9 +39,9 @@ High-frequency word lists (e.g., Dolch and Fry) are collections of the most comm
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student performance on sight word recognition tests, monitor improvements in reading fluency, assess spelling accuracy in writing assignments, and analyze student engagement in various activities.

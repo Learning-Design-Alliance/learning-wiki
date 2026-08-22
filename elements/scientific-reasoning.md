@@ -32,17 +32,17 @@ Scientific reasoning is the element in which learners generate explanations, eva
 - Build evidence-based explanation, model revision, and disciplined inquiry.
 
 ### Affordances
-- [Epistemic Cognition](/principles/epistemic-cognition.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Epistemic Cognition](../principles/epistemic-cognition.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Model Revision](/elements/model-revision.md)
-- [Justification](/elements/justification.md)
-- [Evidence-Based Reasoning](/elements/evidence-based-reasoning.md)
+- [Model Revision](model-revision.md)
+- [Justification](justification.md)
+- [Evidence-Based Reasoning](evidence-based-reasoning.md)
 
 ## Patterns That Use This Element
-- [MEL Reasoning Pattern](/patterns/mel-reasoning-pattern.md)
-- [Guided Discovery Learning](/patterns/guided-discovery-learning.md)
+- [MEL Reasoning Pattern](../patterns/mel-reasoning-pattern.md)
+- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
 
 ## Examples
 - Learners compare predictions to evidence and revise an explanatory model.

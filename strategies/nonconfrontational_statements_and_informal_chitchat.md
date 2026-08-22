@@ -39,7 +39,7 @@ Catching students at the door before they enter the classroom and using “nonco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior upon entering the classroom. Track the frequency of positive interactions and the reduction of disruptive behaviors.

@@ -39,8 +39,8 @@ Reinforce and clarify concepts, making sure information is both understood and r
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Continuous Review](/elements/continuous-review.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Continuous Review](../elements/continuous-review.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Assess learners' ability to recall and explain the key concepts after the summary or recap. Evaluate their ability to apply the concepts in new situations.

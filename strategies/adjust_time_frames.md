@@ -39,9 +39,9 @@ Break content into smaller time intervals if learners cannot stay on task. Child
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Track the completion rate of tasks. Monitor the improvement of focus during intervals. Collect feedback from learners on their sense of overwhelm.

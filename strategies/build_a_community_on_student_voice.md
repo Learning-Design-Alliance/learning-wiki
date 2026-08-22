@@ -39,9 +39,9 @@ Building a community on student voice involves creating a classroom environment 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Moderation](/elements/moderation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Moderation](../elements/moderation.md)
 
 ## Assessment Evidence
 - Track student participation in discussions, monitor their ability to articulate their needs, and observe their confidence in speaking up.

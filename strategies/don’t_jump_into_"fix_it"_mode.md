@@ -39,8 +39,8 @@ Resist the urge to immediately find solutions. Sometimes, it’s more useful to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Problem-Solving](../elements/collaborative-problem-solving.md)
 
 ## Assessment Evidence
 - Observe student problem-solving skills, monitor communication patterns, gather feedback from students

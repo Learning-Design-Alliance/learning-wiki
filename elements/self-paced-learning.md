@@ -26,17 +26,17 @@ Self-paced learning is the element in which learners control the rate or sequenc
 - Support flexible progress, review, and learner control over pace.
 
 ### Affordances
-- [Self-Regulation](/principles/self-regulation.md)
-- [Active Learning](/principles/active-learning.md)
+- [Self-Regulation](../principles/self-regulation.md)
+- [Active Learning](../principles/active-learning.md)
 
 ## Related Elements
-- [Digital Learning](/elements/digital-learning.md)
-- [Hypertext Navigation](/elements/hypertext-navigation.md)
-- [Multimedia Learning](/elements/multimedia-learning.md)
+- [Digital Learning](digital-learning.md)
+- [Hypertext Navigation](hypertext-navigation.md)
+- [Multimedia Learning](multimedia-learning.md)
 
 ## Patterns That Use This Element
-- [Flipped Learning](/patterns/flipped-learning.md)
-- [Game-Based Mastery Learning](/patterns/game-based-mastery-learning.md)
+- [Flipped Learning](../patterns/flipped-learning.md)
+- [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md)
 
 ## Examples
 - Online modules that let learners pause, replay, and revisit content before moving on.

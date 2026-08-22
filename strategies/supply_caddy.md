@@ -39,8 +39,8 @@ Instead of having supplies scattered all over the place, keep them all in a show
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner's ability to quickly access supplies. Track the cleanliness and organization of the learning space. Gather feedback from the learner on the usefulness of the caddy.

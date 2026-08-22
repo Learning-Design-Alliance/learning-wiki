@@ -50,5 +50,5 @@ A meta-analysis of studies in mathematics education. It found that prompted self
 The effectiveness of self-explanation can be limited by a learner's prior knowledge; if a learner lacks the necessary background to generate a correct explanation, they may reinforce misconceptions.
 
 ## Related Claims
-- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md)
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md)
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md)

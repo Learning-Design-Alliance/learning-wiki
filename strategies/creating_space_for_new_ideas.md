@@ -39,7 +39,7 @@ Schools should provide opportunities for teachers to try new things and make mis
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track the number of new ideas implemented by teachers. Collect data on teacher satisfaction and engagement. Evaluate the impact of new approaches on student learning outcomes.

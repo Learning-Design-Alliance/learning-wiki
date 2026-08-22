@@ -39,11 +39,11 @@ Word study is an approach to spelling instruction that emphasizes the investigat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess students' pattern knowledge rather than their ability to memorize single words. Evaluate their ability to transfer knowledge of spelling patterns to new words not explicitly taught. Monitor progress through word sorts, pattern hunts, and word study notebooks.

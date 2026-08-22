@@ -39,9 +39,9 @@ Lateral reading is a digital literacy strategy that involves evaluating the trus
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Research](/elements/research.md)
-- [Resource Evaluation](/elements/resource-evaluation.md)
+- [Case Study](../elements/case-study.md)
+- [Research](../elements/research.md)
+- [Resource Evaluation](../elements/resource-evaluation.md)
 
 ## Assessment Evidence
 - Track the types of sources consulted and the criteria used for evaluation. Compare learners' assessments of source credibility before and after lateral reading. Analyze the quality of arguments and evidence used to support conclusions.

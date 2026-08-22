@@ -39,10 +39,10 @@ Brain-based learning strategies involve engaging multiple senses and encouraging
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation, assess understanding through peer teaching sessions, monitor retention through post-activity quizzes or discussions.

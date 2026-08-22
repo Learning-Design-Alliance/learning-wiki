@@ -39,8 +39,8 @@ Brainstorming an ongoing class list of stuff learners want to know about and are
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Assessments can include topic proposals, research reports, and presentations. Learner engagement and motivation can be measured through observation and self-report surveys.

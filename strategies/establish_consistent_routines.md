@@ -39,7 +39,7 @@ Use consistent routines and methods of giving instructions to help students know
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' ability to follow routines independently.

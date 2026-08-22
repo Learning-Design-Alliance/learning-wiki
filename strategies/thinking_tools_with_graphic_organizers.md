@@ -39,8 +39,8 @@ When teachers deliver content through lectures, readings, or video, they can hav
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Student comparisons of their results to other groups.

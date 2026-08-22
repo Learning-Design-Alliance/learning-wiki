@@ -39,12 +39,12 @@ In this activity, learners express opinions by standing along a continuum labele
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Response](/elements/individual-response.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
-- [Argument Construction](/elements/argument-construction.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Individual Response](../elements/individual-response.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
+- [Argument Construction](../elements/argument-construction.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Observe the level of engagement in discussions, the ability to articulate and defend positions, the use of evidence, and the willingness to consider alternative viewpoints.

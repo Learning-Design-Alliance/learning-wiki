@@ -39,8 +39,8 @@ Using structured questions with clear goals and timeframes provides focus and sc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe whether students stay on task and address the key components of the question. Assess the quality and depth of their responses. Monitor how well they manage their time during the discussion.

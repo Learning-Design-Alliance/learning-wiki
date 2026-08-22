@@ -39,9 +39,9 @@ Creating an action plan involves outlining the specific steps needed to achieve 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Supportive information](/elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Success is measured by the completion of tasks and milestones outlined in the action plan, leading to the achievement of the overall goal.

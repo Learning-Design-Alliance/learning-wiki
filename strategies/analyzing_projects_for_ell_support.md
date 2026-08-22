@@ -39,9 +39,9 @@ Analyzing project-based learning (PBL) projects through the lens of English Lang
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Pre-Class Video/Lecture](/elements/pre-class-videolecture.md)
-- [In-Class Activities](/elements/in-class-activities.md)
-- [Formative Assessment](/elements/formative-assessment.md)
+- [Pre-Class Video/Lecture](../elements/pre-class-videolecture.md)
+- [In-Class Activities](../elements/in-class-activities.md)
+- [Formative Assessment](../elements/formative-assessment.md)
 
 ## Assessment Evidence
 - Improved ELL student participation, enhanced language skills demonstrated in project outputs, and positive feedback from students and educators.

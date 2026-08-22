@@ -39,8 +39,8 @@ Valuing the learning process involves emphasizing the importance of understandin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and enthusiasm for learning. Track changes in learners' attitudes toward grades. Measure learners' ability to explain concepts and apply knowledge.

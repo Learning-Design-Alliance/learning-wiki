@@ -39,9 +39,9 @@ Integrating arts like fiction writing, dance, drama, graphic design, music, draw
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
-- [Enhance Retention and Transfer](/elements/enhance-retention-and-transfer.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Enhance Retention and Transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Learner projects and creations. Participation in art-based activities. Creativity and imagination.

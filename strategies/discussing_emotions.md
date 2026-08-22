@@ -39,8 +39,8 @@ This strategy involves incorporating discussions about emotions into the learnin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learners' ability to identify and express emotions, track their use of coping strategies, and monitor their engagement in emotional discussions

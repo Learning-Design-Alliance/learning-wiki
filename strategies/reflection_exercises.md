@@ -39,8 +39,8 @@ Reflection exercises are activities designed to promote emotional self-awareness
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor learner participation

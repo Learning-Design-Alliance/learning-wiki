@@ -39,8 +39,8 @@ The "Document outline" tool in Google Docs can be an easy and effective way to a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Practice](../elements/practice.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Assess the clarity and accuracy of the outlines. Review the quality of supporting evidence selected.

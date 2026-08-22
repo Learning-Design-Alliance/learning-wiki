@@ -39,8 +39,8 @@ When introducing a unit to students, show them how the parts of the unit fit tog
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Advance Organizers](/elements/advance-organizers.md)
+- [State objectives](../elements/state-objectives.md)
+- [Advance Organizers](../elements/advance-organizers.md)
 
 ## Assessment Evidence
 - Student understanding of the information presented.

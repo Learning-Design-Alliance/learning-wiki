@@ -33,7 +33,7 @@ Purposeful reflection is structured time for learners to examine what they did, 
 Purposeful reflection can happen before, during, or after a task. It is especially useful after complex work, feedback, discussion, or practice because it helps learners interpret experience instead of merely having it. Reflection is strongest when prompts are specific, evidence-based, and revisited over time so learners can compare earlier and later thinking.
 
 ## Implications
-Purposeful reflection works when learners revisit a specific performance, decision, or experience closely enough to interpret it rather than merely remember it. Reflection can strengthen monitoring and strategic adjustment [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M], and explanatory reflection often deepens conceptual understanding by making reasoning and misconceptions explicit [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]. For novices, reflection is most useful when prompts direct attention toward evidence, process, and next steps rather than asking for vague introspection [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. Reflection without action, however, quickly becomes compliance.
+Purposeful reflection works when learners revisit a specific performance, decision, or experience closely enough to interpret it rather than merely remember it. Reflection can strengthen monitoring and strategic adjustment [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M], and explanatory reflection often deepens conceptual understanding by making reasoning and misconceptions explicit [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]. For novices, reflection is most useful when prompts direct attention toward evidence, process, and next steps rather than asking for vague introspection [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. Reflection without action, however, quickly becomes compliance.
 
 ### Context
 #### Requirements
@@ -69,20 +69,20 @@ Purposeful reflection works when learners revisit a specific performance, decisi
 - Reflection should complement, not replace, direct practice, feedback, and explicit instruction.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — reflection is strongest when it helps learners evaluate progress and choose a better next move
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S] — putting reasoning into words can deepen understanding of what happened and why
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — beginners usually reflect better when prompts focus on process, cues, and next actions
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — reflection is strongest when it helps learners evaluate progress and choose a better next move
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — putting reasoning into words can deepen understanding of what happened and why
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — beginners usually reflect better when prompts focus on process, cues, and next actions
 
 ## Related Principles
-- [Journaling](/principles/journaling.md) — journaling is one common routine for structured reflection over time.
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md) — reflection helps learners interpret progress and set next steps.
-- [Formative Assessment](/principles/formative-assessment.md) — reflection helps learners make use of feedback and evidence about current performance.
-- [Experiential Learning](/principles/experiential-learning.md) — experience becomes more educative when learners analyze and reinterpret it.
+- [Journaling](journaling.md) — journaling is one common routine for structured reflection over time.
+- [Goal Setting & Monitoring](goal-setting-monitoring.md) — reflection helps learners interpret progress and set next steps.
+- [Formative Assessment](formative-assessment.md) — reflection helps learners make use of feedback and evidence about current performance.
+- [Experiential Learning](experiential-learning.md) — experience becomes more educative when learners analyze and reinterpret it.
 
 ## Examples
-- [Reflection](/elements/reflection.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [LDA Reflection](/patterns/lda-reflection.md)
+- [Reflection](../elements/reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [LDA Reflection](../patterns/lda-reflection.md)
 
 ## Key Sources
 - Barrett, H. (2005). Researching electronic portfolios and learner engagement. Retrieved from [http://google.electronicportfolios.com/reflect/whitepaper.pdf](http://google.electronicportfolios.com/reflect/whitepaper.pdf)

@@ -39,8 +39,8 @@ Create positive learning environments and engaging instruction to help all stude
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor student engagement in class, track improvements in academic performance, and gather feedback on classroom climate.

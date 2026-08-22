@@ -39,7 +39,7 @@ Place students who have trouble hearing, seeing, focusing on, or paying attentio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' focus and engagement in different seating locations.

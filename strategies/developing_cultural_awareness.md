@@ -39,9 +39,9 @@ Developing cultural awareness as an educator is an ongoing process that includes
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Increased self-awareness of biases, improved relationships with diverse learners, and more inclusive curriculum and instructional practices.

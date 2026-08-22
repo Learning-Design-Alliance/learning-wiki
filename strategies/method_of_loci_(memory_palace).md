@@ -39,8 +39,8 @@ The method of loci involves creating a mental 'memory palace' by associating ite
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Assess the number of items recalled correctly using the method of loci. Monitor the ease with which learners can create and navigate their memory palaces.

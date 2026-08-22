@@ -39,9 +39,9 @@ Honoring multiple and diverse ways of developing understandings of the world ens
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Multimedia Projects](/elements/multimedia-projects.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Multimedia Projects](../elements/multimedia-projects.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of key concepts through discussions, written assignments, or creative projects. Track improvements in creativity and self-expression.

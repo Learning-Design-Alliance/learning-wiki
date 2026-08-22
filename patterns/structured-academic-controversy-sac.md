@@ -60,11 +60,11 @@ SAC is particularly useful when the topic involves legitimate disagreement and l
 
 ### Claims
 #### Supporting
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -76,16 +76,16 @@ SAC is particularly useful when the topic involves legitimate disagreement and l
 5. Ask learners to synthesize areas of agreement, unresolved tension, and their best integrated judgment.
 
 ### Elements Used
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Feedback](/elements/feedback.md)
-- [Reflection](/elements/reflection.md)
-- [Assessment](/elements/assessment.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Feedback](../elements/feedback.md)
+- [Reflection](../elements/reflection.md)
+- [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [Debate](/principles/debate.md)
-- [Perspective-Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md)
-- [Peer Discussion](/principles/peer-discussion.md)
-- [Purposeful Reflection](/principles/purposeful-reflection.md)
+- [Debate](../principles/debate.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ### Personalization
 - Topics can be chosen to match learner maturity and domain relevance.
@@ -93,8 +93,8 @@ SAC is particularly useful when the topic involves legitimate disagreement and l
 - The final synthesis can be oral, written, or collaborative depending on the class.
 
 ## Related Patterns
-- [Debate Format](/patterns/debate-format.md)
-- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Debate Format](debate-format.md)
+- [Socratic Seminar](socratic-seminar.md)
 
 ## Examples
 - Civics learners examining competing policy responses and then writing a synthesis recommendation.

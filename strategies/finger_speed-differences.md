@@ -39,9 +39,9 @@ Same as speed-sums, except whoever find the difference between the two numbers f
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Collaboration](/elements/collaboration.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Collaboration](../elements/collaboration.md)
 
 ## Assessment Evidence
 - Assess students' speed and accuracy in calculating the difference. Observe their engagement and participation.

@@ -39,8 +39,8 @@ Every student at Normal Park Museum Magnet, a K–8 school in Chattanooga, Tenne
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Application](/elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Review student journals to assess learning progress and reflection.

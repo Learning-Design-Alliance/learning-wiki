@@ -31,17 +31,17 @@ A structured question or statement initiates meaningful conversation.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Active Learning](/principles/active-learning.md)
-- [Social Learning](/principles/social-learning.md)
+- [Active Learning](../principles/active-learning.md)
+- [Social Learning](../principles/social-learning.md)
 
 ## Related Elements
-- [Moderation](/elements/moderation.md)
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Socratic Questioning](/elements/socratic-questioning.md)
+- [Moderation](moderation.md)
+- [Peer Interaction](peer-interaction.md)
+- [Socratic Questioning](socratic-questioning.md)
 
 ## Patterns That Use This Element
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -43,10 +43,10 @@ A method for making instruction more culturally relevant by connecting content t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Learner participation in discussions, quality of connections made between content and personal experiences, ability to explain cultural relevance of artifacts and stories

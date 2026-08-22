@@ -31,19 +31,19 @@ Engages learners with an unexpected event, question, or real-world scenario to c
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Motivation](/principles/motivation.md)
-- [Engagement](/principles/engagement.md)
-- [Cognitive Activation](/principles/cognitive-activation.md)
+- [Motivation](../principles/motivation.md)
+- [Engagement](../principles/engagement.md)
+- [Cognitive Activation](../principles/cognitive-activation.md)
 
 ## Related Elements
-- [Video Prompts](/elements/video-prompts.md)
-- [Real-World Problems](/elements/real-world-problems.md)
-- [Gamification](/elements/gamification.md)
+- [Video Prompts](video-prompts.md)
+- [Real-World Problems](real-world-problems.md)
+- [Gamification](gamification.md)
 
 ## Patterns That Use This Element
-- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
-- [Anchored Instruction](/patterns/anchored-instruction.md)
-- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Anchored Instruction](../patterns/anchored-instruction.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

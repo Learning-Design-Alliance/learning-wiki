@@ -39,10 +39,10 @@ The "Mix It Up" strategy involves intentionally creating opportunities for indiv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Activation](/elements/activation.md)
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Activation](../elements/activation.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Increased interaction among diverse groups, positive feedback from participants, observed reduction in social barriers, enhanced awareness and understanding of different perspectives

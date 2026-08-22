@@ -31,18 +31,18 @@ Learners engage in active, structured tasks during class to apply knowledge.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Active Learning](/principles/active-learning.md)
-- [Constructivism](/principles/constructivism.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Active Learning](../principles/active-learning.md)
+- [Constructivism](../principles/constructivism.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Problem-Based Learning](/elements/problem-based-learning.md)
-- [Hands-on Learning](/elements/hands-on-learning.md)
+- [Peer Collaboration](peer-collaboration.md)
+- [Problem-Based Learning](problem-based-learning.md)
+- [Hands-on Learning](hands-on-learning.md)
 
 ## Patterns That Use This Element
-- [Flipped Classroom](/patterns/flipped-classroom.md)
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
+- [Flipped Classroom](../patterns/flipped-classroom.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -39,10 +39,10 @@ Translanguaging recognizes that multilingual speakers have a single linguistic r
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the child carefully performing different tasks with their entire repertoire, as well as when using only certain language features. Separate the child’s ability to provide text-based evidence, make inferences, identify main ideas and recognize texts’ craft and structure from their ability to use certain language conventions in English.

@@ -39,9 +39,9 @@ Engaging learners cognitively and emotionally by understanding how their identit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Changes in classroom practices, improved student engagement, and increased sense of belonging.

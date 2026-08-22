@@ -39,10 +39,10 @@ Collaborative margin comments involve using collaborative document platforms lik
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Digital Tools](/elements/digital-tools.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Digital Tools](../elements/digital-tools.md)
 
 ## Assessment Evidence
 - Assess the quality and relevance of margin comments. Observe engagement and participation in collaborative feedback activities. Measure improvements in the quality of revised documents based on margin comments.

@@ -39,9 +39,9 @@ Gaming involves using games as a way to help learners learn by doing. Games can 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track participation and measure game outcomes to assess the learning of valuable lessons about how to deal with on-the-job situations.

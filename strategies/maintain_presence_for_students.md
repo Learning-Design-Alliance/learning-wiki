@@ -39,11 +39,11 @@ Teachers should make themselves available for short talks with students before a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Modeling](/elements/modeling.md)
-- [Coaching](/elements/coaching.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Perspective-Taking](/elements/perspective-taking.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Modeling](../elements/modeling.md)
+- [Coaching](../elements/coaching.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the frequency and severity of abusive language in the classroom, assess student understanding of the impact of their words, and gather feedback from students about the safety and respectfulness of the learning environment.

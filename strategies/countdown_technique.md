@@ -39,8 +39,8 @@ The countdown technique involves the teacher counting down from a number, such a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe how quickly students respond to the countdown. Monitor classroom noise levels during and after the countdown.

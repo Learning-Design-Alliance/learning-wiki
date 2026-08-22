@@ -39,9 +39,9 @@ Educators need to reflect on their own biases and privileges to effectively lead
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Assessment](/elements/assessment.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Assessment](../elements/assessment.md)
 
 ## Assessment Evidence
 - Increased self-awareness and understanding of biases. Improved ability to lead discussions about race effectively. Enhanced classroom climate and sense of inclusivity.

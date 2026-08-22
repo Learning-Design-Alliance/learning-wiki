@@ -39,7 +39,7 @@ Encourage teens to engage in regular exercise as a way to manage stress, improve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Self-reported stress levels, observation of mood and behavior, tracking of exercise frequency and intensity.

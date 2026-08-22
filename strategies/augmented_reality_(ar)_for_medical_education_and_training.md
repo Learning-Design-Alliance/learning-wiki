@@ -39,10 +39,10 @@ AR is used to create models of the human body that let medical students learn an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Knowledge acquisition, psychomotor skills, communication, and problem-solving

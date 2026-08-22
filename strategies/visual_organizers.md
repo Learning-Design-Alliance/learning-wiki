@@ -39,10 +39,10 @@ Visual organizers are tools that visually represent ideas and concepts, helping 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learners' ability to use visual organizers to summarize and analyze information, assess the clarity and organization of their organizers, evaluate performance on tests and quizzes after using visual organizers

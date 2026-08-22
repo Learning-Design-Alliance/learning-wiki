@@ -39,8 +39,8 @@ Educators frequently use emotion words when talking to learners, helping the lea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Demonstration](../elements/demonstration.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe learners' increased use of emotion words and more accurate association of words with the related emotions. Assess their participation and engagement in the activity.

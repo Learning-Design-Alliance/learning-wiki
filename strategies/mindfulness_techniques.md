@@ -39,8 +39,8 @@ Incorporate mindfulness techniques to help students manage their initial emotion
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe changes in emotional reactivity, track the frequency and intensity of emotional outbursts, assess the learner's ability to use mindfulness techniques to manage emotions in real-time.

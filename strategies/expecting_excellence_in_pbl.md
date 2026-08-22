@@ -39,9 +39,9 @@ Expecting excellence in PBL involves setting high expectations for all students 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Model Revision](/elements/model-revision.md)
-- [Structured Questioning](/elements/structured-questioning.md)
-- [Mastery Progression](/elements/mastery-progression.md)
+- [Model Revision](../elements/model-revision.md)
+- [Structured Questioning](../elements/structured-questioning.md)
+- [Mastery Progression](../elements/mastery-progression.md)
 
 ## Assessment Evidence
 - Increased student achievement, a stronger culture of excellence, and evidence of students reaching their full potential.

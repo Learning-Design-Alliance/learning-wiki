@@ -39,9 +39,9 @@ This method involves identifying a student's strengths related to social awarene
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student's ability to empathize with others, participate in discussions, and understand social norms. Quality of discussions and participation in activities.

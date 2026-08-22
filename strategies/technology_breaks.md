@@ -39,10 +39,10 @@ Taking short, scheduled breaks from technology during study periods reduces the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Self-monitoring](/elements/self-monitoring.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Self-monitoring](../elements/self-monitoring.md)
 
 ## Assessment Evidence
 - Track study time and frequency of technology breaks, measure task completion rates, conduct self-reports on focus and concentration.

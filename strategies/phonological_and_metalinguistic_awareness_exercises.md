@@ -39,8 +39,8 @@ Facilitate reading acquisition by asking students to say words that start with t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor students' ability to identify sounds and manipulate words in both English and their home language.

@@ -39,8 +39,8 @@ Creating a designated calm-down spot is providing a safe and structured space wi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe the frequency of use and the impact on student behavior and emotional state. Solicit student feedback on the helpfulness of the calm-down spot and its resources.

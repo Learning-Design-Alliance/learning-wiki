@@ -46,11 +46,11 @@ def slugify(text: str) -> str:
     return text.strip("-")
 
 
-def wikilink(name: str, folder: str = "") -> str:
-    """Return an OKF-style markdown cross-link (`[Name](/folder/slug.md)`)."""
+def wikilink(name: str, folder: str = "", from_folder: str = None) -> str:
+    """Return an OKF-style relative markdown cross-link (`[Name](../folder/slug.md)`)."""
     if not folder:
-        return f"[{name}](/{slugify(name)}.md)"
-    return ok.markdown_link(name, folder)
+        return f"[{name}]({slugify(name)}.md)"
+    return ok.relative_link(name, folder, from_folder)
 
 
 def okf_frontmatter(page_type: str, name: str, description: str, extra: dict = None) -> str:
@@ -123,7 +123,7 @@ def build_principle(row: dict) -> tuple[str, str]:
 
     # Build theory wikilinks
     theory_links = "\n".join(
-        f"- {wikilink(t.strip(), 'theories')}"
+        f"- {wikilink(t.strip(), 'theories', from_folder='principles')}"
         for t in re.split(r"[,;]+", safe_field(row, "theories"))
         if t.strip()
     )
@@ -155,7 +155,7 @@ def build_principle(row: dict) -> tuple[str, str]:
 - <!-- TODO -->
 
 ### Claims
-<!-- Link claims with evidence tags: [Claim](/claims/claim-slug.md) [+M] -->
+<!-- Link claims with evidence tags: [Claim](../claims/claim-slug.md) [+M] -->
 {("- " + research) if research else "- <!-- TODO -->"}
 
 ## Related Principles
@@ -186,17 +186,17 @@ def build_element(row: dict) -> tuple[str, str]:
     patterns_raw = safe_field(row, "pattern")
 
     related_links = "\n".join(
-        f"- {wikilink(e.strip(), 'elements')}"
+        f"- {wikilink(e.strip(), 'elements', from_folder='elements')}"
         for e in re.split(r"[,;]+", related_raw)
         if e.strip()
     )
     principle_links = "\n".join(
-        f"- {wikilink(p.strip(), 'principles')}"
+        f"- {wikilink(p.strip(), 'principles', from_folder='elements')}"
         for p in re.split(r"[,;]+", principles_raw)
         if p.strip()
     )
     pattern_links = "\n".join(
-        f"- {wikilink(p.strip(), 'patterns')}"
+        f"- {wikilink(p.strip(), 'patterns', from_folder='elements')}"
         for p in re.split(r"[,;]+", patterns_raw)
         if p.strip()
     )
@@ -216,11 +216,11 @@ def build_element(row: dict) -> tuple[str, str]:
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 {("- " + target_audience) if target_audience else "- <!-- TODO -->"}
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 {("- " + objectives) if objectives else "- <!-- TODO -->"}
 
 ### Affordances
@@ -299,11 +299,11 @@ def build_pattern(row: dict) -> tuple[str, str]:
 {grain_size or "<!-- TODO: program / course / unit / lesson -->"}
 
 ### Target Goals
-<!-- Link to claims: [Claim](/claims/claim-slug.md) -->
+<!-- Link to claims: [Claim](../claims/claim-slug.md) -->
 {("- " + goals) if goals else "- <!-- TODO -->"}
 
 ### Target Learners
-<!-- Link to claims: [Claim](/claims/claim-slug.md) -->
+<!-- Link to claims: [Claim](../claims/claim-slug.md) -->
 {("- " + target_audience) if target_audience else "- <!-- TODO -->"}
 
 ### Theory
@@ -405,11 +405,11 @@ def build_strategy(row: dict) -> tuple[str, str]:
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 {("- " + target) if target else "- <!-- TODO -->"}
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 {("- " + objectives) if objectives else "- <!-- TODO -->"}
 
 ### Affordances

@@ -39,9 +39,9 @@ Providing timely feedback is crucial for learners to reflect, correct, and exten
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assess Performance](/elements/assess-performance.md)
-- [Continuous Review](/elements/continuous-review.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Continuous Review](../elements/continuous-review.md)
 
 ## Assessment Evidence
 - Measure the impact of timely feedback on learner performance and engagement. Assess learner satisfaction with the turn-around time for feedback. Observe the application of feedback in subsequent assignments.

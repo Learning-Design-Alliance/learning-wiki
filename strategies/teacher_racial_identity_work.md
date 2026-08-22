@@ -39,10 +39,10 @@ Teacher racial identity work involves educators examining their own racial ident
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Monitor changes in educators' attitudes and behaviors, track their engagement in equity-focused activities, and observe the impact on student experiences and outcomes.

@@ -31,18 +31,18 @@ Learners take on distinct roles in collaborative learning to enhance accountabil
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Community of Inquiry](/principles/community-of-inquiry.md)
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
+- [Social Learning](../principles/social-learning.md)
+- [Community of Inquiry](../principles/community-of-inquiry.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [Jigsaw](/elements/jigsaw.md)
-- [Group Work](/elements/group-work.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Jigsaw](jigsaw.md)
+- [Group Work](group-work.md)
+- [Collaborative Learning](collaborative-learning.md)
 
 ## Patterns That Use This Element
-- [POGIL](/patterns/pogil.md)
-- [Jigsaw Learning](/patterns/jigsaw-learning.md)
+- [POGIL](../patterns/pogil.md)
+- [Jigsaw Learning](../patterns/jigsaw-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

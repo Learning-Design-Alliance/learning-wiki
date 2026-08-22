@@ -39,10 +39,10 @@ Literature circles involve small groups of students who choose a book, meet to d
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Application](/elements/application.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe discussions for evidence of thoughtful engagement and comprehension. Review projects and reflections for understanding and creative expression. Provide feedback on discussions and projects to guide student learning.

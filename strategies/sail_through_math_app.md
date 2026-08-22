@@ -39,9 +39,9 @@ A fun math fluency iOS app that uses storytelling to help young learners develop
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Measure fluency in math facts and success in completing levels.

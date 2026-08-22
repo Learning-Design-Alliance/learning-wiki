@@ -26,18 +26,18 @@ Pre-reading activities are tasks completed before reading in order to activate p
 - Prepare comprehension by activating knowledge and setting expectations.
 
 ### Affordances
-- [Activation](/principles/activation.md)
-- [Retrieval Practice](/principles/retrieval-practice.md)
-- [Pre-Reading Questioning](/principles/pre-reading-questioning.md)
+- [Activation](../principles/activation.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
+- [Pre-Reading Questioning](../principles/pre-reading-questioning.md)
 
 ## Related Elements
-- [Prior Knowledge Activation](/elements/prior-knowledge-activation.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Discussion Prompt](/elements/discussion-prompt.md)
+- [Prior Knowledge Activation](prior-knowledge-activation.md)
+- [Assigned Readings](assigned-readings.md)
+- [Discussion Prompt](discussion-prompt.md)
 
 ## Patterns That Use This Element
-- [Flipped Learning](/patterns/flipped-learning.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Flipped Learning](../patterns/flipped-learning.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 - Prediction prompts, quick recalls, vocabulary previews, and question generation before reading.

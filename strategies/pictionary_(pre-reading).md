@@ -39,8 +39,8 @@ Key words from the text are selected, and the class is divided into two or three
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the engagement and accuracy of the drawings. Collect feedback on how well the activity prepared learners for the reading.

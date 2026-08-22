@@ -31,17 +31,17 @@ An instructor or facilitator guides discussions to ensure productive engagement.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Social Learning](../principles/social-learning.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Discussion Prompt](/elements/discussion-prompt.md)
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Knowledge-Building Discourse](/elements/knowledge-building-discourse.md)
+- [Discussion Prompt](discussion-prompt.md)
+- [Peer Interaction](peer-interaction.md)
+- [Knowledge-Building Discourse](knowledge-building-discourse.md)
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
-- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

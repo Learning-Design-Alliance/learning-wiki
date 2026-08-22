@@ -52,6 +52,6 @@ This algebra study found that worked-example variants, including incorrect worke
 The current page supports a moderate claim about mathematics performance, not a definitive universal estimate across all grade bands and formats. Stronger confidence would require a dedicated meta-analysis page or broader synthesis.
 
 ## Related Claims
-- [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md)
-- [Pairing worked examples with practice or fading supports transfer better than examples alone.](/claims/worked-examples-with-practice-improve-transfer.md)
-- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](/claims/erroneous-examples-build-conceptual-knowledge.md)
+- [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
+- [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md)
+- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md)

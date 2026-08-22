@@ -39,8 +39,8 @@ This strategy involves accepting what happened after processing emotions, taking
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Evidence of improved communication, reduced conflict, and increased mutual understanding.

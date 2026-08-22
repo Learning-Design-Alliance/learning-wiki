@@ -39,9 +39,9 @@ The jigsaw strategy involves dividing a task into subtopics, assigning one to ea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Expert Groups](/elements/expert-groups.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Expert Groups](../elements/expert-groups.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Observe student interactions and collaboration skills, assess individual understanding of the material through quizzes or assignments, and gather feedback from students about their experience with jigsaw activities.

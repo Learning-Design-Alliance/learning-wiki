@@ -39,9 +39,9 @@ This strategy focuses on teaching students how to formulate effective search que
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate students' ability to formulate effective search queries. Track the reliability and relevance of the information students find. Collect student reflections on their information-seeking process.

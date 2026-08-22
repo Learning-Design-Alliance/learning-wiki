@@ -39,8 +39,8 @@ Creating a designated computer station where students can explore their preferre
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe students' engagement and experimentation at the station. Analyze the variety of composition pathways explored. Assess the extent to which students demonstrate ownership and innovation in their compositions.

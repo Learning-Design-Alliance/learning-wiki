@@ -39,9 +39,9 @@ Micro-goals involve breaking down larger objectives into smaller, manageable ste
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [State objectives](../elements/state-objectives.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the completion of micro-goals. Measure learners' confidence and motivation levels. Observe learners' ability to tackle larger tasks.

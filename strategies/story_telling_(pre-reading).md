@@ -39,8 +39,8 @@ The instructor prepares a short, personalized narrative related to the reading t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe the learners' engagement and interest during the storytelling. Collect feedback on how well the story prepared them for the reading.

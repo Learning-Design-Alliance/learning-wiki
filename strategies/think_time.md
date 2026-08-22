@@ -39,8 +39,8 @@ Allow plenty of think-time and time for re-reading for students who might need m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Provide assessments where think time can be observed. Use assessment results to see if they are learning from the strategy.

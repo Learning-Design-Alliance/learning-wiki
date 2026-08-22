@@ -39,9 +39,9 @@ The pegword strategy is a mnemonic technique that uses rhyming words to represen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Demonstration](/elements/demonstration.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Improved scores on tests involving ordered information, increased ability to recall sequences, enhanced retention of numerical data, and positive student feedback on the strategy.

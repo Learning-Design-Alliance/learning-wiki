@@ -39,9 +39,9 @@ Home-based literacy support involves schools providing families with resources a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor student academic progress and behavior outcomes. Track family participation in provided activities and feedback on the usefulness of resources. Assess changes in family members' sense of empowerment and well-being.

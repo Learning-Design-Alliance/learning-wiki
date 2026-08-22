@@ -39,17 +39,17 @@ Blended learning combines face-to-face instruction with online learning through 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-task performance](/elements/whole-task-performance.md)
-- [Supportive information](/elements/supportive-information.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Lectures](/elements/lectures.md)
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Response](/elements/individual-response.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Lectures](../elements/lectures.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Response](../elements/individual-response.md)
 
 ## Assessment Evidence
 - Track learner participation in both in-person and online activities. Assess performance on assignments and exams. Gather feedback from learners on their experiences with blended learning.

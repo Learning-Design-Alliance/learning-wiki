@@ -39,9 +39,9 @@ Wait time is the period of silence between the time a question is asked and the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased length and correctness of student responses, decreased number of no answers or "I don't know" responses, increased number of students volunteering answers, improved academic achievement test scores

@@ -39,11 +39,11 @@ Learners identify target vocabulary within varied contexts. Learners search for 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the words identified within the context. Observe the ability to locate, highlight, and verbally share the vocabulary.

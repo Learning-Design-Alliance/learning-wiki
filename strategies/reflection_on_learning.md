@@ -39,8 +39,8 @@ Reflection on learning involves linking a current experience to previous learnin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Evidence of linking current experiences to previous learnings in student work. Documentation of reflection in student writing or discussion.

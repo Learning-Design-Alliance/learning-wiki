@@ -39,8 +39,8 @@ Repeating instructions can lead to lazy listening habits in learners. By establi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [State objectives](../elements/state-objectives.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe learners' ability to follow instructions after they are given once, track instances of learners seeking clarification from peers before the instructor

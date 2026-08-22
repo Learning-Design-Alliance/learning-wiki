@@ -39,9 +39,9 @@ Instructors teach and model various strategies for tackling problems, then give 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the strategies learners choose and the outcomes of those choices. Analyze the quality of learners' reflections on their problem-solving processes.

@@ -39,9 +39,9 @@ Incorporate mindfulness techniques to help students manage their initial emotion
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe changes in behavior and self-awareness.

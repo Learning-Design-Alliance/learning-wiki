@@ -39,7 +39,7 @@ Memory games help hone focus for learners in a fun way, enabling them to concent
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track improvements in memory skills. Monitor the learner's ability to focus during games. Collect feedback on the learner's enjoyment and engagement.

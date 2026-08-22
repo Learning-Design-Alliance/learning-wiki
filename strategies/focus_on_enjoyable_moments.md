@@ -39,8 +39,8 @@ This strategy entails consciously choosing to fill one's mind with positive imag
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track changes in self-reported mood and gratitude levels using questionnaires or journals. Observe improvements in positive emotions, resilience, and coping strategies. Analyze ability to identify and focus on enjoyable moments in real-life situations.

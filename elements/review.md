@@ -31,17 +31,17 @@ Learners reflect on their own or peers’ work before finalizing.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Metacognition](/principles/metacognition.md)
-- [Formative Assessment](/principles/formative-assessment.md)
+- [Metacognition](../principles/metacognition.md)
+- [Formative Assessment](../principles/formative-assessment.md)
 
 ## Related Elements
-- [Peer Review](/elements/peer-review.md)
-- [Self-Assessment](/elements/self-assessment.md)
-- [Revision](/elements/revision.md)
+- [Peer Review](peer-review.md)
+- [Self-Assessment](self-assessment.md)
+- [Revision](revision.md)
 
 ## Patterns That Use This Element
-- [Formative Assessment](/patterns/formative-assessment.md)
-- [Self-Regulated Learning](/patterns/self-regulated-learning.md)
+- [Formative Assessment](../patterns/formative-assessment.md)
+- [Self-Regulated Learning](../patterns/self-regulated-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

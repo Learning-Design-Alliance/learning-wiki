@@ -39,9 +39,9 @@ Direct instruction in online learning involves pre-developed presentations, asse
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Improved student performance on assessments, reduction in common misconceptions, and positive feedback on the clarity and helpfulness of the instruction.

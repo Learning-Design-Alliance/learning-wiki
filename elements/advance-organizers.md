@@ -31,19 +31,19 @@ Concept maps, outlines, or visual guides that help learners structure new inform
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
-- [Dual Coding](/principles/dual-coding.md)
-- [Metacognition](/principles/metacognition.md)
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
+- [Dual Coding](../principles/dual-coding.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Concept Mapping](/elements/concept-mapping.md)
-- [Graphic Organizers](/elements/graphic-organizers.md)
-- [Pre-Reading Questioning](/elements/pre-reading-questioning.md)
+- [Concept Mapping](concept-mapping.md)
+- [Graphic Organizers](graphic-organizers.md)
+- [Pre-Reading Questioning](pre-reading-questioning.md)
 
 ## Patterns That Use This Element
-- [Elaboration Theory](/patterns/elaboration-theory.md)
-- [Cognitive Load Theory](/patterns/cognitive-load-theory.md)
-- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
+- [Elaboration Theory](../patterns/elaboration-theory.md)
+- [Cognitive Load Theory](../patterns/cognitive-load-theory.md)
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

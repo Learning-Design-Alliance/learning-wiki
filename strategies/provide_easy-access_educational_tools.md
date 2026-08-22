@@ -39,9 +39,9 @@ Providing easy-access educational tools involves making a variety of resources r
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Resource Evaluation](/elements/resource-evaluation.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Resource Evaluation](../elements/resource-evaluation.md)
 
 ## Assessment Evidence
 - Observe student use of the tools, track their ability to independently manage their learning, and monitor improvements in academic performance.

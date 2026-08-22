@@ -39,10 +39,10 @@ Creating a mistake-friendly classroom involves fostering an environment where mi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Modeling](/elements/modeling.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Create a low-stress environment](/elements/create-a-low-stress-environment.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Modeling](../elements/modeling.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Create a low-stress environment](../elements/create-a-low-stress-environment.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe changes in student behavior, such as increased participation, willingness to ask questions, and positive self-talk. Track student responses to mistakes and challenges. Analyze student reflections on their learning experiences. Measure the impact of a mistake-friendly classroom on student performance and achievement.

@@ -39,9 +39,9 @@ Maker spaces and fab labs provide learners with opportunities to invent, design,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Learner projects and creations. Participation in collaborative activities. Problem-solving skills.

@@ -39,9 +39,9 @@ Learners are taught about propaganda techniques and then asked to identify the u
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Learners' ability to accurately identify propaganda techniques and explain their effects in online advertising.

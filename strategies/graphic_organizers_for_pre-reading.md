@@ -39,8 +39,8 @@ Students identify the text structure (compare/contrast, cause/effect, etc.) befo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Activation](/elements/activation.md)
-- [Demonstration](/elements/demonstration.md)
+- [Activation](../elements/activation.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Improved comprehension and ability to identify text structures.

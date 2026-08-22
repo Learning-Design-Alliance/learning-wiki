@@ -39,8 +39,8 @@ Spelling by explicit phoneme-grapheme mapping requires the learner to match the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess accuracy in mapping phonemes to graphemes. Monitor progress in spelling and reading skills.

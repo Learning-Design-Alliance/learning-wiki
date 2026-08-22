@@ -39,9 +39,9 @@ Administering frequent quizzes with minimal impact on grades to reinforce learni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Quizzes](/elements/quizzes.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Quizzes](../elements/quizzes.md)
 
 ## Assessment Evidence
 - Track quiz scores over time to measure learning progress. Compare quiz performance to overall course grades. Monitor student engagement and participation in quizzes.

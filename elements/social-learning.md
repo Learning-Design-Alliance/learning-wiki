@@ -14,5 +14,5 @@ generated:
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
 
 ## Affordances
-- [Social Learning](/principles/social-learning.md)
-- [Collaborative Learning](/principles/collaborative-learning.md)
+- [Social Learning](../principles/social-learning.md)
+- [Collaborative Learning](../principles/collaborative-learning.md)

@@ -39,9 +39,9 @@ Drawing and writing skills in young children develop through distinct stages, pr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe the child's drawings and writing to identify the stage of development. Assess the child's creativity, self-expression, and problem-solving skills. Track the child's understanding of the power and meaning of words.

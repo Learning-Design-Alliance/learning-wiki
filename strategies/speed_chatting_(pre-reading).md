@@ -39,8 +39,8 @@ Speed chatting is a pre-reading activity where learners form two rows facing eac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Gain attention](/elements/gain-attention.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Gain attention](../elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe the level of engagement and participation. Collect feedback on how well the activity prepared learners for the reading.

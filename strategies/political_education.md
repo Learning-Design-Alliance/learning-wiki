@@ -39,12 +39,12 @@ Political education involves developing a comprehensive understanding of the his
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the depth of understanding and critical thinking demonstrated in discussions and written work. Track the extent to which participants apply their learning to inform their actions and advocacy.

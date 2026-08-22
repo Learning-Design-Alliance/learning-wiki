@@ -39,10 +39,10 @@ When learners come into a course with negative emotions and expectations, it can
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [State objectives](/elements/state-objectives.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Gain attention](../elements/gain-attention.md)
+- [State objectives](../elements/state-objectives.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor learner engagement and participation in class. Collect feedback on learners' attitudes and feelings about the course. Track learner performance on assignments and exams.

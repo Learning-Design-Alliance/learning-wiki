@@ -39,9 +39,9 @@ Historically Responsive Literacy (HRL) is a framework that seeks to cultivate li
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Increased student engagement and participation, improved literacy skills, and greater understanding of Black history and culture.

@@ -39,8 +39,8 @@ Involving families and community members in classroom and school activities. Int
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Expert Groups](/elements/expert-groups.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Expert Groups](../elements/expert-groups.md)
 
 ## Assessment Evidence
 - Gather feedback from students, families, and community members. Observe student engagement and motivation.

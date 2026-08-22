@@ -36,18 +36,18 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 - Build conceptual understanding, noticing, and transfer through supported exploration.
 
 ### Affordances
-- [Constructivism](/principles/constructivism.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
-- [Scaffolding](/principles/scaffolding.md)
+- [Constructivism](../principles/constructivism.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
 
 ## Related Elements
-- [Scaffolded Inquiry](/elements/scaffolded-inquiry.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Feedback](/elements/feedback.md)
+- [Scaffolded Inquiry](scaffolded-inquiry.md)
+- [Conceptual Questioning](conceptual-questioning.md)
+- [Feedback](feedback.md)
 
 ## Patterns That Use This Element
-- [Guided Discovery Learning](/patterns/guided-discovery-learning.md)
-- [POGIL](/patterns/pogil.md)
+- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
+- [POGIL](../patterns/pogil.md)
 
 ## Examples
 - Learners compare several examples and infer the governing rule from prompts.

@@ -33,7 +33,7 @@ Text-to-speech (TTS) converts written text into spoken audio, giving learners an
 TTS is most effective when it is treated as an access and support tool, not as a substitute for all reading instruction. Learners still need support in comprehension, vocabulary, annotation, and independent meaning-making. The tool helps when it removes unnecessary access barriers so that the learner's effort can shift toward understanding and using the content.
 
 ## Implications
-Text-to-speech is most useful when reading access, not conceptual ability, is the main barrier to engagement. By shifting part of the processing burden from print decoding to coordinated listening and reading, TTS can make dense text more manageable [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S]. But its value depends on active use: learners still need to pause, replay, annotate, and monitor comprehension rather than letting audio wash over them [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. TTS works best as an access support inside a broader reading routine, not as a substitute for strategy instruction.
+Text-to-speech is most useful when reading access, not conceptual ability, is the main barrier to engagement. By shifting part of the processing burden from print decoding to coordinated listening and reading, TTS can make dense text more manageable [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]. But its value depends on active use: learners still need to pause, replay, annotate, and monitor comprehension rather than letting audio wash over them [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. TTS works best as an access support inside a broader reading routine, not as a substitute for strategy instruction.
 
 ### Context
 #### Requirements
@@ -69,14 +69,14 @@ Text-to-speech is most useful when reading access, not conceptual ability, is th
 - The tool supports access, but it does not replace explicit reading strategy instruction.
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S] — audio support can reduce some of the access burden that print alone places on working memory
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — TTS is strongest when learners actively check and regulate comprehension while listening
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — audio support can reduce some of the access burden that print alone places on working memory
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — TTS is strongest when learners actively check and regulate comprehension while listening
 
 ## Related Principles
-- [Accessible Vocabulary & Syntax](/principles/accessible-vocabulary-syntax.md) — simpler language and audio support often work together.
-- [Instructor Accessibility](/principles/instructor-accessibility.md) — TTS is one route for improving access to written materials.
-- [Annotating](/principles/annotating.md) — learners can combine audio playback with highlighting, notes, and questions.
-- [Speech-to-text](/principles/speech-to-text.md) — reading and writing access tools often complement one another.
+- [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — simpler language and audio support often work together.
+- [Instructor Accessibility](instructor-accessibility.md) — TTS is one route for improving access to written materials.
+- [Annotating](annotating.md) — learners can combine audio playback with highlighting, notes, and questions.
+- [Speech-to-text](speech-to-text.md) — reading and writing access tools often complement one another.
 
 ## Examples
 - **Read-aloud support for assigned text**: Learners listen while following along in the print version.

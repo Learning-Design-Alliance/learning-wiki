@@ -20,7 +20,7 @@ Cognitive flexibility is the principle of helping learners represent, interpret,
 
 ## Implications
 
-Cognitive flexibility matters most in ill-structured domains where oversimplified rules break down and learners must adapt understanding across contexts. The principle does not reject structure; it resists premature rigidity. Learners need repeated exposure to varied cases, perspectives, and representations so they can reorganize knowledge instead of merely retrieving one memorized version, which is one reason contextualized whole-task experience can support flexible transfer better than isolated drills [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]. The challenge is pacing. Too much variability too early can overwhelm novices [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M], while too little variability can leave learners with brittle knowledge that fails outside the original example. Explanation across cases and perspectives is one of the strongest ways to make flexibility visible and learnable [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Cognitive flexibility matters most in ill-structured domains where oversimplified rules break down and learners must adapt understanding across contexts. The principle does not reject structure; it resists premature rigidity. Learners need repeated exposure to varied cases, perspectives, and representations so they can reorganize knowledge instead of merely retrieving one memorized version, which is one reason contextualized whole-task experience can support flexible transfer better than isolated drills [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]. The challenge is pacing. Too much variability too early can overwhelm novices [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M], while too little variability can leave learners with brittle knowledge that fails outside the original example. Explanation across cases and perspectives is one of the strongest ways to make flexibility visible and learnable [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -43,28 +43,28 @@ Cognitive flexibility matters most in ill-structured domains where oversimplifie
 
 ### Theory
 #### Supporting
-- [Cognitive Flexibility Theory](/patterns/cognitive-flexibility-theory.md) — the most direct pattern-level expression of this principle
-- [Perspective-Taking](/principles/perspective-taking.md) — shifting viewpoint is one of the mechanisms by which flexibility develops
-- [Constructivism](/theories/constructivism.md) — knowledge is reorganized through active interpretation across contexts
+- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md) — the most direct pattern-level expression of this principle
+- [Perspective-Taking](perspective-taking.md) — shifting viewpoint is one of the mechanisms by which flexibility develops
+- [Constructivism](../theories/constructivism.md) — knowledge is reorganized through active interpretation across contexts
 
 #### Contradicting / Qualifying
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — variability and nonlinearity need to be calibrated to learner readiness
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — variability and nonlinearity need to be calibrated to learner readiness
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S] — flexible transfer is stronger when learners encounter knowledge in integrated, contextualized use
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — explanation across cases and perspectives can deepen flexible understanding
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M] — novices may still need staged simplification before they can benefit from high variability
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S] — flexible transfer is stronger when learners encounter knowledge in integrated, contextualized use
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explanation across cases and perspectives can deepen flexible understanding
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — novices may still need staged simplification before they can benefit from high variability
 
 ## Related Principles
-- [Perspective-Taking](/principles/perspective-taking.md) — multiple viewpoints often drive the need for flexible interpretation
-- [Constructivist Learning](/principles/constructivist-learning.md) — cognitive flexibility assumes knowledge is actively reorganized, not merely stored
-- [Cognitive Disequilibrium](/principles/cognitive-disequilibrium.md) — contradiction and instability can sometimes trigger the need for more flexible models
+- [Perspective-Taking](perspective-taking.md) — multiple viewpoints often drive the need for flexible interpretation
+- [Constructivist Learning](constructivist-learning.md) — cognitive flexibility assumes knowledge is actively reorganized, not merely stored
+- [Cognitive Disequilibrium](cognitive-disequilibrium.md) — contradiction and instability can sometimes trigger the need for more flexible models
 
 ## Examples
 
 ### Illustrative
 
-**[Cognitive Flexibility Theory](/patterns/cognitive-flexibility-theory.md)** — Learners revisit concepts across multiple cases, perspectives, and representations instead of mastering one linear explanation.
+**[Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)** — Learners revisit concepts across multiple cases, perspectives, and representations instead of mastering one linear explanation.
 
 **Cross-case comparison in medicine or law** — Students compare superficially similar cases with different underlying structures, then explain why the same rule cannot be applied mechanically.
 

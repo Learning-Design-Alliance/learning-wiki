@@ -39,9 +39,9 @@ Using online videos to make it easier for families with different language needs
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track video views and engagement. Gather feedback from families on the usefulness of the videos.

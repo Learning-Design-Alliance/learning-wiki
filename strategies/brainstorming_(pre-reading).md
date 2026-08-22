@@ -39,8 +39,8 @@ Learners are given a limited time (e.g., five minutes) to brainstorm ideas relat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the range and quality of ideas generated. Collect feedback on how well the activity prepared learners for the reading.

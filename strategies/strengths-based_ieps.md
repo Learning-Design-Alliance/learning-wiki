@@ -39,10 +39,10 @@ A shift in mindset where the Individualized Education Program (IEP) focuses as m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [State objectives](../elements/state-objectives.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Whether IEP goals are written in a strengths-based manner, the level of learner involvement in IEP meetings, and the inclusion of the learner's strengths, interests, and preferences in IEP goals.

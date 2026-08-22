@@ -39,8 +39,8 @@ Integrating repetitive and rhythmic vestibular input, such as rocking, swaying, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation in movement activities. Collect feedback from learners on the effectiveness of different movement activities. Track changes in learners' behavior, attention, and emotional regulation.

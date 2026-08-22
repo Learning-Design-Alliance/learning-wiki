@@ -31,16 +31,16 @@ Learners refine their conceptual models based on evidence and feedback.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
-- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
 
 ## Related Elements
-- [Scientific Reasoning](/elements/scientific-reasoning.md)
-- [Justification](/elements/justification.md)
-- [Argumentation](/elements/argumentation.md)
+- [Scientific Reasoning](scientific-reasoning.md)
+- [Justification](justification.md)
+- [Argumentation](argumentation.md)
 
 ## Patterns That Use This Element
-- [Model-Evidence Link (MEL) Reasoning Pattern](/patterns/model-evidence-link-mel-reasoning-pattern.md)
+- [Model-Evidence Link (MEL) Reasoning Pattern](../patterns/model-evidence-link-mel-reasoning-pattern.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

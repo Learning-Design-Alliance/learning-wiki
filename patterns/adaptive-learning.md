@@ -17,11 +17,11 @@ Adaptive learning is the short-form canonical pattern for adjusting pacing, diff
 ## Design
 
 ### Elements Used
-- [Adaptive Learning](/elements/adaptive-learning.md)
-- [Immediate Feedback](/elements/immediate-feedback.md)
+- [Adaptive Learning](../elements/adaptive-learning.md)
+- [Immediate Feedback](../elements/immediate-feedback.md)
 
 ## Related Patterns
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Mastery Learning](mastery-learning.md)
 
 ## Key Sources
 - Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress*. RAND.

@@ -39,9 +39,9 @@ Building a community on student voice involves creating opportunities for studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Peer Feedback/Peer Review](/elements/peer-feedbackpeer-review.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, their willingness to share their thoughts, and their ability to advocate for their learning. Measure students' sense of belonging and their perceptions of safety in the classroom.

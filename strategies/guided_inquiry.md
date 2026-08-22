@@ -39,11 +39,11 @@ Guided inquiry is an educational approach that blends inquiry activities with di
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe student engagement, problem-solving skills, analytical abilities, motivation, and confidence. Assess learning outcomes based on conceptual understanding and skill development.

@@ -14,7 +14,7 @@ generated:
 Public product is the element in which learners create work intended for real audiences beyond the teacher alone.
 
 ## Affordances
-- [Authentic Audiences/Purposes](/principles/authentic-audiences-purposes.md)
+- [Authentic Audiences/Purposes](../principles/authentic-audiences-purposes.md)
 
 ## Related Elements
-- [Public Display](/elements/public-display.md)
+- [Public Display](public-display.md)

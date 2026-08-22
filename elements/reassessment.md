@@ -31,18 +31,18 @@ Learners revisit and revise their responses after discussion or additional learn
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Metacognition](/principles/metacognition.md)
-- [Self-Regulated Learning](/principles/self-regulated-learning.md)
-- [Constructivist Learning](/principles/constructivist-learning.md)
+- [Metacognition](../principles/metacognition.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
 
 ## Related Elements
-- [Peer Instruction](/elements/peer-instruction.md)
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Metacognitive Reflection](/elements/metacognitive-reflection.md)
+- [Peer Instruction](peer-instruction.md)
+- [Formative Assessment](formative-assessment.md)
+- [Metacognitive Reflection](metacognitive-reflection.md)
 
 ## Patterns That Use This Element
-- [Peer Instruction](/patterns/peer-instruction.md)
-- [Formative Assessment](/patterns/formative-assessment.md)
+- [Peer Instruction](../patterns/peer-instruction.md)
+- [Formative Assessment](../patterns/formative-assessment.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

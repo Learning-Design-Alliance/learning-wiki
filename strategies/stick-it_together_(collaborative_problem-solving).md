@@ -39,10 +39,10 @@ Students work in small groups to collaboratively solve math problems. Each stude
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Solution Development](/elements/solution-development.md)
-- [Application of Knowledge](/elements/application-of-knowledge.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
 
 ## Assessment Evidence
 - Observe student participation, assess the quality of collaborative answers, analyze the reasoning and justification presented by groups, and review individual contributions on sticky notes.

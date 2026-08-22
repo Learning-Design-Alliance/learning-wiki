@@ -39,8 +39,8 @@ Using bilingual picture books and resources in a learner's primary language to s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and comprehension when using bilingual texts. Assess their ability to make connections between their primary language and the target language.

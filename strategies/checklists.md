@@ -39,8 +39,8 @@ Checklists can be used to measure and document student learning by tracking whet
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track alignment between self-assessments and teacher evaluations. Monitor improvements in performance over time.

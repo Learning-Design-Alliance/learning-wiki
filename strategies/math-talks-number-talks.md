@@ -24,11 +24,11 @@ Math Talks, also known as Number Talks, are short, daily classroom routines wher
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - All grade levels, from early elementary to upper grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Build mental math skills, develop flexibility in thinking about numbers and operations, enhance mathematical communication skills, encourage reasoning and critical thinking, build a community of learning
 
 ### Affordances
@@ -39,9 +39,9 @@ Math Talks, also known as Number Talks, are short, daily classroom routines wher
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track student participation in discussions and the variety of strategies they use. Observe student explanations and reasoning to assess their understanding of mathematical concepts. Collect student reflections on their learning and progress.

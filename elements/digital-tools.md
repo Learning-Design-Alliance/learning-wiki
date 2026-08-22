@@ -26,13 +26,13 @@ Digital tools are the element in which learners use software, platforms, or digi
 - Support efficiency, interactivity, collaboration, or new forms of representation.
 
 ### Affordances
-- [Digital Learning](/principles/digital-learning.md)
-- [Engagement](/principles/engagement.md)
+- [Digital Learning](../principles/digital-learning.md)
+- [Engagement](../principles/engagement.md)
 
 ## Related Elements
-- [Digital Learning](/elements/digital-learning.md)
-- [Multimedia Learning](/elements/multimedia-learning.md)
-- [Communication Channels](/elements/communication-channels.md)
+- [Digital Learning](digital-learning.md)
+- [Multimedia Learning](multimedia-learning.md)
+- [Communication Channels](communication-channels.md)
 
 ## Key Sources
 - Means, B., Toyama, Y., Murphy, R., Bakia, M., & Jones, K. (2010). *Evaluation of evidence-based practices in online learning*. U.S. Department of Education.

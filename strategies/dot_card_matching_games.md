@@ -39,8 +39,8 @@ Learners match dot cards with equal quantities but different arrangements, or ma
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Monitor the learner's accuracy in matching cards. Observe the strategies used to find the matches.

@@ -14,9 +14,9 @@ generated:
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
 
 ## Affordances
-- [Game-Based Learning](/principles/game-based-learning.md)
-- [Motivation](/principles/motivation.md)
+- [Game-Based Learning](../principles/game-based-learning.md)
+- [Motivation](../principles/motivation.md)
 
 ## Related Elements
-- [Adaptive Difficulty](/elements/adaptive-difficulty.md)
-- [Progress Tracking](/elements/progress-tracking.md)
+- [Adaptive Difficulty](adaptive-difficulty.md)
+- [Progress Tracking](progress-tracking.md)

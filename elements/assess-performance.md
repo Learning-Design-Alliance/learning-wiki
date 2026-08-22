@@ -31,17 +31,17 @@ Measures learner progress and determines mastery of content.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Assessment for Learning](/principles/assessment-for-learning.md)
-- [Competency-Based Assessment](/principles/competency-based-assessment.md)
+- [Assessment for Learning](../principles/assessment-for-learning.md)
+- [Competency-Based Assessment](../principles/competency-based-assessment.md)
 
 ## Related Elements
-- [Summative Assessment](/elements/summative-assessment.md)
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Rubrics](/elements/rubrics.md)
+- [Summative Assessment](summative-assessment.md)
+- [Formative Assessment](formative-assessment.md)
+- [Rubrics](rubrics.md)
 
 ## Patterns That Use This Element
-- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
-- [Competency-Based Learning](/patterns/competency-based-learning.md)
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

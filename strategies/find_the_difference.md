@@ -39,8 +39,8 @@ Similar to 'Find the Total', but learners subtract to find the difference betwee
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor the accuracy of the difference found. Observe the strategies used to find the difference.

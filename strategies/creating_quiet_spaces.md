@@ -39,8 +39,8 @@ Creating quiet spaces involves designating areas in the learning environment whe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner use of quiet spaces and their impact on behavior. Collect learner feedback on the effectiveness of quiet spaces in promoting well-being and concentration. Measure learner stress levels and compare outcomes in environments with quiet spaces versus those without quiet spaces.

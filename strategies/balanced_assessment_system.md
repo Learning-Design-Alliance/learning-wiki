@@ -39,12 +39,12 @@ The system should inform core instruction as well as intervention needs in your 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Activation](/elements/activation.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Activation](../elements/activation.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Use of assessments that provide appropriate and valid outcomes.

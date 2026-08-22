@@ -39,9 +39,9 @@ This strategy involves conducting brief, targeted conferences with each student 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track improvement in scores between original and revised essay drafts. Monitor student participation in outside-of-class conferences. Assess changes in class culture and teacher-student relationships.

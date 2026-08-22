@@ -39,8 +39,8 @@ The 4 Ps of pre-reading include previewing the text, predicting the content, act
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Advance Organizers](/elements/advance-organizers.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Assess the learner's ability to summarize the main points of the text after applying the 4 Ps.

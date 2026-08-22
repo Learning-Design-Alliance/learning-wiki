@@ -39,9 +39,9 @@ Talk moves are sentence frames we supply to our learners that help them express 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Argumentation](/elements/argumentation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Argumentation](../elements/argumentation.md)
 
 ## Assessment Evidence
 - Observe learner use of talk moves during discussions, review the quality of their arguments and evidence, collect feedback from learners about their experience.

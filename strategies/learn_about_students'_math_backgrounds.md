@@ -39,8 +39,8 @@ Understanding learners' math backgrounds is important. Some may have strong skil
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Application](/elements/application.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Assess learner's math background, monitor engagement in math activities

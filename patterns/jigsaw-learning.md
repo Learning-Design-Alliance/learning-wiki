@@ -28,7 +28,7 @@ Jigsaw Learning is the short-form canonical target for the jigsaw pattern in whi
 - Build peer learning, accountability, and distributed expertise.
 
 ### Related Patterns
-- [Jigsaw Method](/patterns/jigsaw-method.md)
+- [Jigsaw Method](jigsaw-method.md)
 
 ## Key Sources
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom* (3rd ed.). Pinter & Martin.

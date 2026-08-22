@@ -27,19 +27,19 @@ sources:
 Creating visual representations is the instructional principle of having learners organize, explain, or generate knowledge in visual form, such as diagrams, sketches, concept maps, timelines, models, graphs, or annotated layouts. Externalizing thinking visually can reduce the burden of holding complex relations entirely in working memory while also making structure, comparison, and gaps in understanding easier to inspect. It is especially useful when the learning goal involves systems, patterns, relationships, sequences, or multi-step reasoning.
 
 ## Implications
-Creating visual representations helps when the structure of an idea is hard to hold or communicate in linear language alone. Diagrams, maps, timelines, and sketches can reduce working-memory burden by making relationships visible [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S], and they often deepen understanding when learners also explain what the representation means [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. The important distinction is that the visual should encode reasoning, not just decoration: the strongest tasks require learners to choose a representation that fits the content and then use it to inspect, discuss, or revise their thinking.
+Creating visual representations helps when the structure of an idea is hard to hold or communicate in linear language alone. Diagrams, maps, timelines, and sketches can reduce working-memory burden by making relationships visible [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S], and they often deepen understanding when learners also explain what the representation means [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The important distinction is that the visual should encode reasoning, not just decoration: the strongest tasks require learners to choose a representation that fits the content and then use it to inspect, discuss, or revise their thinking.
 
 ### Context
 #### Requirements
 - **A meaningful mapping task**: Learners need a clear reason to represent something visually, such as showing sequence, causality, hierarchy, comparison, or spatial arrangement.
 - **Modeling or exemplars**: Many learners need examples of how a visual representation should encode information, not just blank space.
-- **Interpretation support**: Instructors should prompt learners to explain what the visual means, not only produce it [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S].
+- **Interpretation support**: Instructors should prompt learners to explain what the visual means, not only produce it [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 - **Fit to content**: The representation type should match the structure of the knowledge being learned.
 #### Constraints
 - **Decorative visuals**: Visual production can become superficial if aesthetics replace reasoning or explanation.
 - **Unclear conventions**: Learners may struggle if symbol systems, labels, or expectations are not made explicit.
 - **Accessibility limits**: Visual tasks need alternatives or supports for learners with visual-processing, motor, or technology constraints.
-- **Cognitive overload**: Highly complex diagrams can overwhelm novices unless structure is chunked or scaffolded [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S].
+- **Cognitive overload**: Highly complex diagrams can overwhelm novices unless structure is chunked or scaffolded [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S].
 
 ### Target Learners
 - **Learners grappling with complex relationships**: Useful when understanding depends on seeing connections, sequence, or structure.
@@ -63,14 +63,14 @@ Creating visual representations helps when the structure of an idea is hard to h
 - Some content is better clarified through direct verbal explanation before learners are asked to visualize it independently.
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — external visual structure helps learners manage complex relationships without holding every connection in working memory
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — visual representations become more instructive when learners explain how the representation encodes the underlying idea
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — external visual structure helps learners manage complex relationships without holding every connection in working memory
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — visual representations become more instructive when learners explain how the representation encodes the underlying idea
 
 ## Related Principles
-- [Graphic Organizers](/principles/graphic-organizers.md) — one common implementation of visual representation for organizing and comparing ideas.
-- [Metaphors & Analogies](/principles/metaphors-analogies.md) — visual representations often help concretize analogical relationships.
-- [Multimodal Instruction](/principles/multimodal-instruction.md) — creating visuals complements learning across multiple modes.
-- [Explaining Their Thinking](/principles/explaining-their-thinking.md) — the strongest visual tasks usually require verbal or written explanation alongside the artifact.
+- [Graphic Organizers](graphic-organizers.md) — one common implementation of visual representation for organizing and comparing ideas.
+- [Metaphors & Analogies](metaphors-analogies.md) — visual representations often help concretize analogical relationships.
+- [Multimodal Instruction](multimodal-instruction.md) — creating visuals complements learning across multiple modes.
+- [Explaining Their Thinking](explaining-their-thinking.md) — the strongest visual tasks usually require verbal or written explanation alongside the artifact.
 
 ## Examples
 - **Concept maps**: Learners diagram how ideas, causes, or terms connect, then explain the map to a peer.

@@ -39,9 +39,9 @@ This strategy involves leveraging students' familiarity with technology to creat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased student engagement, deeper understanding of math concepts, and improved metacognition.

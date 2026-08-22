@@ -39,7 +39,7 @@ Respectful redirection is a quick, in-the-moment strategy to give corrective fee
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student behavior and the effectiveness of the redirections.

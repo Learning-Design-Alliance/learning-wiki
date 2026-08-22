@@ -39,9 +39,9 @@ This strategy encompasses questioning, reflection, and evaluation to understand,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Individual Response](/elements/individual-response.md)
-- [Reassessment](/elements/reassessment.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Individual Response](../elements/individual-response.md)
+- [Reassessment](../elements/reassessment.md)
 
 ## Assessment Evidence
 - Quality of responses to open-ended questions, ability to analyze and evaluate information, problem-solving skills

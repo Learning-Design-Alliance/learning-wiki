@@ -31,17 +31,17 @@ Learners engage in structured discussions to deepen understanding.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
+- [Social Learning](../principles/social-learning.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [Socratic Seminar](/elements/socratic-seminar.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Inquiry](/elements/collaborative-inquiry.md)
+- [Socratic Seminar](socratic-seminar.md)
+- [Peer Discussion](peer-discussion.md)
+- [Collaborative Inquiry](collaborative-inquiry.md)
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
-- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

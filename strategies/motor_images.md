@@ -39,9 +39,9 @@ Motor images, also known as muscle memory, involve using physical movements and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learners' ability to recall information while performing motor activities, assess their engagement and participation, evaluate performance on tests and quizzes after using motor image strategies

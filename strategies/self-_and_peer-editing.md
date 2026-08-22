@@ -39,11 +39,11 @@ Self- and peer-editing are collaborative processes where learners evaluate their
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Revision](/elements/revision.md)
-- [Application](/elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Revision](../elements/revision.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Monitor students' self- and peer-assessment skills through observation and feedback analysis.

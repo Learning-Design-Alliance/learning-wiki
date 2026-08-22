@@ -39,9 +39,9 @@ Learners are divided into 4 groups. Three of these groups are assigned to repres
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Expert Groups](/elements/expert-groups.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Expert Groups](../elements/expert-groups.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the discussion, review the quality of their arguments and evidence, collect feedback from learners about their experience.

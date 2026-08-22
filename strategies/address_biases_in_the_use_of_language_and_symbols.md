@@ -39,8 +39,8 @@ Honoring a wide variety of forms of language ensures that learning materials and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Discussion Sections](/elements/discussion-sections.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Discussion Sections](../elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of bias and stereotypes through discussions or written assignments. Track improvements in cultural awareness and sensitivity.

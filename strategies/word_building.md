@@ -39,10 +39,10 @@ Word building is a literacy strategy used to reinforce vocabulary and spelling s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learners' ability to rearrange letters accurately and efficiently. Collect and review the words they build to assess spelling skills. Track progress over time to measure improvement in word recognition and construction.

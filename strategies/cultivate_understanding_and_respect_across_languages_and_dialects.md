@@ -39,8 +39,8 @@ Using translations, descriptions, movement, and images to support learning in un
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Demonstration](/elements/demonstration.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of key concepts through discussions or written assignments. Track improvements in communication and cultural awareness.

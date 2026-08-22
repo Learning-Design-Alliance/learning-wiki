@@ -27,15 +27,15 @@ Metaphors are explanatory comparisons that map a less familiar concept onto a mo
 - Support comprehension, imagination, and conceptual access.
 
 ### Affordances
-- [Analogical Reasoning](/principles/analogical-reasoning.md)
-- [Metaphors & Analogies](/principles/metaphors-analogies.md)
+- [Analogical Reasoning](../principles/analogical-reasoning.md)
+- [Metaphors & Analogies](../principles/metaphors-analogies.md)
 
 ## Related Elements
-- [Analogies](/elements/analogies.md)
-- [Dual Coding](/elements/dual-coding.md)
+- [Analogies](analogies.md)
+- [Dual Coding](dual-coding.md)
 
 ## Patterns That Use This Element
-- [Elaboration Theory](/patterns/elaboration-theory.md)
+- [Elaboration Theory](../patterns/elaboration-theory.md)
 
 ## Examples
 - Describing electrical current as water flow to introduce relational structure.

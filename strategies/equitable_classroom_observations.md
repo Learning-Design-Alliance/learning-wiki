@@ -39,8 +39,8 @@ EQUIP is a customizable observation tool for tracking patterns in student partic
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased awareness of classroom dynamics, improved student participation, and more equitable classroom practices.

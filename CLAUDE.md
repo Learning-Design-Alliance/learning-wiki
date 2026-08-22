@@ -18,16 +18,16 @@ Steps:
 2. Check if a page already exists (`index.md` or `grep` by name)
 3. If new: create a page in the correct folder using the template below
 4. If existing: merge new content into the right sections; append to `## Key Sources` (or `## Evidence` for claims); log the change
-5. Cross-link: add markdown links like `[Example Page](/principles/example-page.md)` to related pages already in the wiki
+5. Cross-link: add markdown links like `[Example Page](../principles/example-page.md)` to related pages already in the wiki
 6. Update `index.md` — run `python3 scripts/build_indexes.py` to regenerate it and every per-folder index from disk state
-7. Append an entry to `log.md` under today's `## YYYY-MM-DD` heading: `* **Ingest**: [page](/folder/page.md) — [source]` (or run `python3 scripts/log_revision.py <page> --by <actor> --type ingest --desc "..."`, which updates the page's `generated` field, its revision card, and `log.md` in one step)
+7. Append an entry to `log.md` under today's `## YYYY-MM-DD` heading: `* **Ingest**: [page](folder/page.md) — [source]` (or run `python3 scripts/log_revision.py <page> --by <actor> --type ingest --desc "..."`, which updates the page's `generated` field, its revision card, and `log.md` in one step)
 
 ### 2. Query
 Answer a question by reading the wiki.
 
 Steps:
 1. Search `index.md` for relevant pages
-2. Read those pages; follow the markdown links (`/folder/slug.md`) as needed
+2. Read those pages; follow the markdown links (`slug.md` / `../folder/slug.md`) as needed
 3. Synthesize across pages; cite page names and claim IDs
 4. Flag gaps: if the answer requires a page that doesn't exist, note it
 
@@ -35,7 +35,7 @@ Steps:
 Health-check the wiki: `python3 scripts/lint.py [--fix]`.
 
 Checks:
-- Broken cross-links (`/folder/slug.md` link target not found)
+- Broken cross-links (`slug.md` / `../folder/slug.md` link target not found)
 - Pages with `status: draft` and no description
 - Claim pages missing an evidence strength rating
 - Principles missing at least one claim link
@@ -58,7 +58,7 @@ Used inline in principle, pattern, element, and strategy pages when citing claim
 
 **Rule:** Claims cited in a Constraints section should use `[-]` (negative effect) or `[~]` (contextual/mixed), never `[+]`. A constraint describes a condition where the approach fails or causes harm — the tag should reflect that direction, even if the underlying claim is phrased positively (e.g., "practice improves transfer" cited as evidence that *lack of practice* hurts outcomes → `[-S]`).
 
-Always link the tag to a claim page: `[Claim statement](/claims/example-claim.md) [+M]`
+Always link the tag to a claim page: `[Claim statement](../claims/example-claim.md) [+M]`
 
 ---
 
@@ -101,10 +101,11 @@ Every content page (principle, element, pattern, strategy, theory, claim) carrie
 
 ## Cross-link conventions
 
-- Cross-links are standard markdown links to bundle-relative paths: `[Display Name](/folder/slug.md)`
+- Cross-links are standard markdown links, relative to the linking page: `slug.md` for another page in the same folder, `../folder/slug.md` for a page in a different folder (every content folder sits exactly one level under the wiki root, so `../folder/` always resolves correctly regardless of which folder you're linking from)
+- OKF also permits absolute bundle-relative paths (`/folder/slug.md`) — this wiki uses the relative form instead because it works with plain `mkdocs` (the docs site's builder) with no extra plugin, whereas an absolute path renders as a literal domain-root URL once the site is hosted under a subpath
 - Slugs are lowercase, hyphen-separated: `worked-examples`, `cognitive-load-theory`
-- Always include the folder in the path so the target is unambiguous: `[Worked examples reduce novice search](/claims/worked-examples-reduce-novice-search.md)`
-- Claims use semantic slugs: `/claims/worked-examples-reduce-novice-load.md`; the short `id:` in frontmatter is for programmatic reference only
+- Always include the folder in a cross-folder link so the target is unambiguous: `[Worked examples reduce novice search](../claims/worked-examples-reduce-novice-search.md)`
+- Claims use semantic slugs: `../claims/worked-examples-reduce-novice-load.md`; the short `id:` in frontmatter is for programmatic reference only
 - A link to a page that doesn't exist yet is tolerated (OKF requires consumers to tolerate broken links) — write the link anyway rather than leaving a bare TODO if you know the target slug, but don't invent slugs you haven't verified exist or are about to create
 
 ---
@@ -177,7 +178,7 @@ generated:
 - 
 
 ### Claims
-<!-- Link claims with evidence tags: [Claim statement](/claims/claim-slug.md) [+M] -->
+<!-- Link claims with evidence tags: [Claim statement](../claims/claim-slug.md) [+M] -->
 - 
 
 ## Related Principles
@@ -220,15 +221,15 @@ generated:
 - 
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim statement](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim statement](../claims/claim-slug.md) -->
 - 
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim statement](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim statement](../claims/claim-slug.md) -->
 - 
 
 ### Affordances
-<!-- Link to principles applied: [Principle Name](/principles/principle-slug.md) -->
+<!-- Link to principles applied: [Principle Name](../principles/principle-slug.md) -->
 - 
 
 ## Related Elements
@@ -275,11 +276,11 @@ grain_size:
 [program / course / unit / lesson]
 
 ### Target Goals
-<!-- Link to claims: [Claim statement](/claims/claim-slug.md) -->
+<!-- Link to claims: [Claim statement](../claims/claim-slug.md) -->
 - 
 
 ### Target Learners
-<!-- Link to claims: [Claim statement](/claims/claim-slug.md) -->
+<!-- Link to claims: [Claim statement](../claims/claim-slug.md) -->
 - 
 
 ### Theory
@@ -298,11 +299,11 @@ grain_size:
 ## Design
 
 ### Sequence
-<!-- Steps with links to elements: [Element Name](/elements/element-slug.md) -->
+<!-- Steps with links to elements: [Element Name](../elements/element-slug.md) -->
 1. 
 
 ### Affordances
-<!-- Links to principles applied: [Principle Name](/principles/principle-slug.md) -->
+<!-- Links to principles applied: [Principle Name](../principles/principle-slug.md) -->
 - 
 
 ### Personalization
@@ -351,15 +352,15 @@ generated:
 - 
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim statement](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim statement](../claims/claim-slug.md) -->
 - 
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim statement](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim statement](../claims/claim-slug.md) -->
 - 
 
 ### Instructions
-<!-- Steps with links to elements: [Element Name](/elements/element-slug.md) -->
+<!-- Steps with links to elements: [Element Name](../elements/element-slug.md) -->
 1. 
 
 ## Related Strategies
@@ -405,7 +406,7 @@ generated:
 - 
 
 ## Claims
-<!-- Claims that derive from or test this theory: [Claim statement](/claims/claim-slug.md) [+M] -->
+<!-- Claims that derive from or test this theory: [Claim statement](../claims/claim-slug.md) [+M] -->
 - 
 
 ## Related Theories
@@ -461,7 +462,7 @@ Author, A., & Author, B. (Year). Title. *Journal, vol*(issue), pages. [doi:...](
 
 `q? · [e.g. peer-reviewed RCT / quasi-experiment / meta-analysis]` · `i? · [e.g. large effect, d=0.9]` · `n=?`
 
-[2–4 sentences: study design, participants (who, how many, what context), conditions or intervention, and findings in plain language. Link any instructional elements used to their wiki pages, for example `[worked examples](/elements/demonstration.md)` and `[practice tasks](/elements/practice.md)`.]
+[2–4 sentences: study design, participants (who, how many, what context), conditions or intervention, and findings in plain language. Link any instructional elements used to their wiki pages, for example `[worked examples](../elements/demonstration.md)` and `[practice tasks](../elements/practice.md)`.]
 
 ## Discussion
 <!-- Prose section covering: contradictions, moderators, boundary conditions, open questions.
@@ -492,7 +493,7 @@ Author, A., & Author, B. (Year). Title. *Journal, vol*(issue), pages. [doi:...](
 ## Ingest notes for agents
 
 - When a CSV field lists multiple items separated by commas or semicolons, expand each into a list item
-- When a field references another page by name (e.g., "Cognitive Load Theory"), convert it to a markdown link using the slugified name: `[Cognitive Load Theory](/theories/cognitive-load-theory.md)`
+- When a field references another page by name (e.g., "Cognitive Load Theory"), convert it to a markdown link using the slugified name: `[Cognitive Load Theory](../theories/cognitive-load-theory.md)`
 - When research support / impact fields contain citations, extract them into `## Key Sources` (and, once parsed, the frontmatter `sources:` list) and create or link `sources/` pages
 - Mark pages `status: draft` on initial ingest; a human or a lint pass can promote to `review` or `stable`
 - Never delete content on update — move superseded content to a `<!-- deprecated -->` comment block

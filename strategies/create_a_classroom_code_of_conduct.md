@@ -39,8 +39,8 @@ Teachers and students collaborate to establish a classroom code of conduct based
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe classroom behavior and interactions, gather student feedback through surveys or discussions, track disciplinary incidents.

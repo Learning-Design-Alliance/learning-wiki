@@ -39,15 +39,15 @@ Authentic projects that focus on issues of justice engage students by having the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Solution Development](/elements/solution-development.md)
-- [Application of Knowledge](/elements/application-of-knowledge.md)
-- [Reflection](/elements/reflection.md)
-- [Decision-Making](/elements/decision-making.md)
-- [Research](/elements/research.md)
-- [Position Development](/elements/position-development.md)
-- [Argumentation](/elements/argumentation.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
+- [Reflection](../elements/reflection.md)
+- [Decision-Making](../elements/decision-making.md)
+- [Research](../elements/research.md)
+- [Position Development](../elements/position-development.md)
+- [Argumentation](../elements/argumentation.md)
 
 ## Assessment Evidence
 - Depth of research and understanding of social justice issues, effectiveness of proposed solutions, engagement and participation in project activities, demonstration of empathy and compassion

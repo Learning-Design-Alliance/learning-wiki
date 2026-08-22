@@ -39,7 +39,7 @@ When learners are struggling with a difficult task, clutter in the classroom or 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to stay on task. Track the frequency of distractions. Collect feedback on the learner's sense of focus.

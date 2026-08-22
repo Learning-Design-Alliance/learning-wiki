@@ -39,10 +39,10 @@ Self-monitoring of performance is a strategy where learners monitor an aspect of
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track rate of work completion and accuracy of performance. Compare data before and after implementation to gauge effectiveness. Monitor consistency of self-monitoring procedures.

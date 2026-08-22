@@ -39,9 +39,9 @@ School newsletters are visual aids designed to keep staff, students, and parents
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track readership and engagement. Evaluate the clarity and effectiveness of communication. Collect feedback on content and design.

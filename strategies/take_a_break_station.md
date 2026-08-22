@@ -39,9 +39,9 @@ A designated space in the classroom where children can take a moment to decompre
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe student behavior before and after using the station for changes in emotional state and behavior. Collect student reflections on their experience at the station. Track frequency of use to identify students who may need additional support.

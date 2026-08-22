@@ -39,8 +39,8 @@ Students interact with content by organizing chunks of it into graphic organizer
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Application](/elements/application.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Quality of interactions and analyses of content.

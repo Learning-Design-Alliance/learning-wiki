@@ -39,9 +39,9 @@ One learner flashes a dot card to another for 3 seconds, then hides it. The seco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Evaluate the learner's ability to accurately recreate the dot card arrangement from memory. Note the number of attempts needed to recreate the card correctly.

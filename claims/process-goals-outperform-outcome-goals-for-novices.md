@@ -23,7 +23,7 @@ evidence_strength: moderate
 In the initial stages of learning complex tasks, focusing on the specific techniques or steps (process goals) is more effective for building expertise than focusing solely on the final result (outcome goals).
 
 ## Subclaims
-`q3 i2` Novices who set process-oriented learning goals outperform those who set result-oriented performance goals. [→ Zimmerman & Kitsantas 1999](#zimmerman-&-kitsantas-1999)
+`q3 i2` Novices who set process-oriented learning goals outperform those who set result-oriented performance goals. [→ Zimmerman & Kitsantas 1999](#zimmerman-kitsantas-1999)
 `q3 i2` Focusing on task execution strategies (process) enhances self-efficacy and subsequent performance more than focusing on achievement (outcome). [→ Zimmerman 2000](#zimmerman-2000)
 
 ## Evidence
@@ -50,5 +50,5 @@ Zimmerman provides a robust theoretical framework for self-regulated learning (S
 This suggests that instructional design for novices should prioritize "how-to" goals before transitioning to achievement-oriented targets.
 
 ## Related Claims
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md)
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md)
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](specific-difficult-goals-lead-to-higher-performance.md)
+- [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md)

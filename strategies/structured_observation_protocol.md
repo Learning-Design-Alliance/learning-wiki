@@ -39,11 +39,11 @@ A structured observation protocol involves using a template or guide to record f
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Case Study](../elements/case-study.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Detailed notes and observations, summaries of findings, reflections on insights gained, and action plans for addressing identified issues.

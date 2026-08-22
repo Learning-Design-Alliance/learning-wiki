@@ -39,7 +39,7 @@ Avoid lengthy instructions, especially for learners with low English proficiency
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Learner comprehension and task completion.

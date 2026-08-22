@@ -39,8 +39,8 @@ Heat transfer investigations involve exploring how different materials and envir
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in temperature measurements, correct identification of best materials for insulation, logical reasoning in explaining observations

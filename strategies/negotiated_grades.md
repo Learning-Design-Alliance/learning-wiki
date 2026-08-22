@@ -39,9 +39,9 @@ Grades should be negotiated between students and teachers according to agreed up
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Student participation in grading, alignment of grades with learning goals

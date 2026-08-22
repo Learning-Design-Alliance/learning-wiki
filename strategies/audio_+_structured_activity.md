@@ -39,10 +39,10 @@ Students engage with audio resources (music, podcasts, voice-recorded lectures) 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Lectures](/elements/lectures.md)
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Lectures](../elements/lectures.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Completion and quality of structured activities, learner feedback, performance on related assignments.

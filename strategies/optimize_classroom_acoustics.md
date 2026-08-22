@@ -39,7 +39,7 @@ Reducing noise levels in classrooms can greatly affect teacher and student perfo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track noise levels in classrooms and correlate with student engagement and achievement. Monitor teacher satisfaction and stress levels.

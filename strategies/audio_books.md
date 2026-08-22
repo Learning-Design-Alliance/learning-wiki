@@ -39,8 +39,8 @@ Audio books provide an auditory learning experience where the text of a book is 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess listening comprehension through quizzes, discussions, and written summaries. Track vocabulary growth and fluency improvements. Monitor student engagement and preferences.

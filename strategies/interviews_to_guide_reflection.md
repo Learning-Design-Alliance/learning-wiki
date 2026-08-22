@@ -39,7 +39,7 @@ Set aside time at the end of a learning sequence—a lesson, a unit, a school da
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [individual reflection](/elements/individual-reflection.md)
+- [individual reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track the frequency and quality of peer interactions, noting instances of mutual support and advice-giving. Observe the level of comfort and openness in sharing weaknesses and challenges.

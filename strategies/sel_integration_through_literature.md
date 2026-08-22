@@ -39,9 +39,9 @@ Integrating social and emotional learning (SEL) into language arts curricula inv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions, analyze written reflections, and assess understanding of character motivations and themes.

@@ -68,11 +68,11 @@ The pattern is especially useful when material is conceptually dense or when nov
 
 ### Claims
 #### Supporting
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](/claims/worked-examples-example-problem-sequences.md) [+M]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [+M]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 #### Contradicting
-- [Worked examples can become redundant or counterproductive for advanced learners.](/claims/worked-examples-expertise-reversal.md) [+M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-expertise-reversal.md) [+M]
 
 ## Design
 
@@ -84,16 +84,16 @@ The pattern is especially useful when material is conceptually dense or when nov
 5. Shift toward more independent and variable tasks.
 
 ### Elements Used
-- [Part-task Practice](/elements/part-task-practice.md)
-- [Practice](/elements/practice.md)
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Assessment](/elements/assessment.md)
+- [Part-task Practice](../elements/part-task-practice.md)
+- [Practice](../elements/practice.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [Worked Examples](/principles/worked-examples.md)
-- [Guided Practice](/principles/guided-practice.md)
-- [Creating Visual Representations](/principles/creating-visual-representations.md)
-- [Multimodal Instruction](/principles/multimodal-instruction.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Multimodal Instruction](../principles/multimodal-instruction.md)
 
 ### Personalization
 - The amount of guidance can be adjusted by prior knowledge.
@@ -101,8 +101,8 @@ The pattern is especially useful when material is conceptually dense or when nov
 - Tasks can be chunked differently depending on where overload is occurring.
 
 ## Related Patterns
-- [Four-Component Instructional Design](/patterns/4cid-four-component-instructional-design.md)
-- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
+- [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
+- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
 
 ## Examples
 - Example-problem sequences in math or programming.

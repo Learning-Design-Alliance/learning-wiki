@@ -39,9 +39,9 @@ Activating background knowledge involves prompting learners to recall and connec
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Analogies and prior knowledge activation](/elements/analogies-and-prior-knowledge-activation.md)
-- [Activation](/elements/activation.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Analogies and prior knowledge activation](../elements/analogies-and-prior-knowledge-activation.md)
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Observe the level of learner engagement in discussions, the depth of connections they make between new and existing knowledge, and their ability to apply prior knowledge to solve problems or answer questions.

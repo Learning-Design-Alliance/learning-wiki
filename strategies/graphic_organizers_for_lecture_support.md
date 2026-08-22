@@ -39,9 +39,9 @@ Instructors deliver lectures using a graphic organizer to visually connect conce
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [State objectives](../elements/state-objectives.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Ability to explain the relationships between concepts, quality of notes taken during the lecture.

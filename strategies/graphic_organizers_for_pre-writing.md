@@ -39,9 +39,9 @@ Students use graphic organizers to plan and structure their ideas before draftin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Improved organization and clarity of written pieces.

@@ -39,9 +39,9 @@ Providing learners with a variety of resources in multiple formats, such as blog
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student engagement with different types of resources. Assess student work (e.g., compositions) for improved quality and depth of understanding. Conduct surveys to gauge student interest and motivation.

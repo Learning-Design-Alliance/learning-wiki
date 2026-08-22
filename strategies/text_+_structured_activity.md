@@ -39,10 +39,10 @@ Students engage with text resources (physical or digital) accompanied by a struc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Completion and quality of structured activities, learner feedback, performance on related assignments.

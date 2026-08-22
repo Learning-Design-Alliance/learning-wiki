@@ -26,13 +26,13 @@ Collaboration is the short-form canonical target for learners working together t
 - Support shared reasoning, participation, and collective problem solving.
 
 ### Affordances
-- [Social Learning](/principles/social-learning.md)
-- [Social Interdependence](/principles/social-interdependence.md)
+- [Social Learning](../principles/social-learning.md)
+- [Social Interdependence](../principles/social-interdependence.md)
 
 ## Related Elements
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Group Work](/elements/group-work.md)
-- [Collaborative Discussion](/elements/collaborative-discussion.md)
+- [Peer Collaboration](peer-collaboration.md)
+- [Group Work](group-work.md)
+- [Collaborative Discussion](collaborative-discussion.md)
 
 ## Key Sources
 - Dillenbourg, P. (1999). *Collaborative-learning: Cognitive and computational approaches*. Elsevier.

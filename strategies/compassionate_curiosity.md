@@ -39,8 +39,8 @@ Act as a non-judgmental investigator to better understand students and respond w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Question Formulation](/elements/question-formulation.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student behavior, gather student feedback, assess changes in teacher-student interactions

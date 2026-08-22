@@ -39,13 +39,13 @@ Resistance reading and writing counter-narratives are strategies to develop lear
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Assigned Positions](/elements/assigned-positions.md)
-- [Argument Construction](/elements/argument-construction.md)
-- [Role Reversal](/elements/role-reversal.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Assigned Positions](../elements/assigned-positions.md)
+- [Argument Construction](../elements/argument-construction.md)
+- [Role Reversal](../elements/role-reversal.md)
 
 ## Assessment Evidence
 - Review student-created rebuttals and rewritten texts. Assess the ability to identify biases and power structures in original texts. Evaluate the clarity and persuasiveness of alternative perspectives presented.

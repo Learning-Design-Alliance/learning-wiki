@@ -39,9 +39,9 @@ This strategy emphasizes the importance of developing self-advocacy and self-det
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track student participation in self-advocacy activities, analyze their ability to articulate their needs and rights, monitor their progress in achieving established goals, and observe their engagement in problem-solving and reflection.

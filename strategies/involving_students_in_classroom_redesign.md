@@ -39,10 +39,10 @@ Involving learners in the process of designing and transforming their learning e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Question Formulation](/elements/question-formulation.md)
-- [Knowledge-Building Discourse](/elements/knowledge-building-discourse.md)
-- [Pre-Seminar Preparation](/elements/pre-seminar-preparation.md)
-- [Open-Ended Discussion](/elements/open-ended-discussion.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Knowledge-Building Discourse](../elements/knowledge-building-discourse.md)
+- [Pre-Seminar Preparation](../elements/pre-seminar-preparation.md)
+- [Open-Ended Discussion](../elements/open-ended-discussion.md)
 
 ## Assessment Evidence
 - Survey student satisfaction with the classroom environment, observe student engagement and participation in class activities, track student feedback on classroom design changes, assess the impact of the redesigned classroom on student learning outcomes

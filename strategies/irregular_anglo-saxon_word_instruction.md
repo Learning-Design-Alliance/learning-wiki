@@ -39,8 +39,8 @@ Teaching methods for irregular words include: grouping words with some memorable
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess accuracy in spelling irregular words. Monitor progress in sight word recognition.

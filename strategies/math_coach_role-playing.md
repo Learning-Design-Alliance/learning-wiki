@@ -39,8 +39,8 @@ Organize students into small groups where they take turns acting as "math coache
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Application](/elements/application.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe students' ability to provide accurate advice and feedback as math coaches. Assess students' accuracy in solving word problems during role-playing.

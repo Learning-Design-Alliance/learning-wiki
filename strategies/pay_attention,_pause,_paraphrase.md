@@ -39,9 +39,9 @@ Pay Attention, Pause, Paraphrase is a structured conversation strategy for small
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately paraphrase their peers' statements, track the quality of their responses.

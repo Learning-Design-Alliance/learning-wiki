@@ -39,8 +39,8 @@ This evidence-based strategy involves using visual representations, such as sche
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the accuracy and clarity of the visual representations. Assess the learners' ability to use the diagrams to solve problems correctly. Analyze the explanations of the solutions.

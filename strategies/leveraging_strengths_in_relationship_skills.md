@@ -39,10 +39,10 @@ This method involves an educator identifying specific learner strengths and/or c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Modeling](/elements/modeling.md)
-- [Coaching](/elements/coaching.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Modeling](../elements/modeling.md)
+- [Coaching](../elements/coaching.md)
 
 ## Assessment Evidence
 - Assessments should focus on identifying specific strengths and challenges related to relationship skills. Teachers can observe learners’ interactions with peers and adults to assess their communication skills, cooperation, and conflict management abilities. Reflection questions may be helpful to the learner to consider their own interactions and skills.

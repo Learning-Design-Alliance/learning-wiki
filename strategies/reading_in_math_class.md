@@ -39,8 +39,8 @@ Have students read articles from sources such as Math Horizons or Martin Gardner
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Demonstration](/elements/demonstration.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Assess learners' ability to summarize and analyze the articles they read. Look for improvements in their own writing about math.

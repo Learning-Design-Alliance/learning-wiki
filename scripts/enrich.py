@@ -198,20 +198,20 @@ generated:
 
 ### Theory
 #### Supporting
-- [Theory Name](/theories/slug.md) — brief explanation of the connection
+- [Theory Name](../theories/slug.md) — brief explanation of the connection
 #### Contradicting / Qualifying
 - [or leave as "- None identified"]
 
 ### Claims
-<!-- Link claims with evidence tags: [Claim](/claims/claim-slug.md) [+M] -->
+<!-- Link claims with evidence tags: [Claim](../claims/claim-slug.md) [+M] -->
 - <!-- TODO: add claim links when evidence pages exist -->
 
 ## Related Principles
-- [Related Principle Name](/principles/slug.md)
+- [Related Principle Name](slug.md)
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [Element Name](/elements/slug.md) or [Pattern Name](/patterns/slug.md) — brief note on how it applies
+- [Element Name](../elements/slug.md) or [Pattern Name](../patterns/slug.md) — brief note on how it applies
 
 ## Key Sources
 - [APA citation with DOI link if available]
@@ -245,19 +245,19 @@ generated:
 - [conditions where this element is less effective]
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 - [who benefits most]
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 - [types of objectives this element serves]
 
 ### Affordances
-<!-- Links to principles applied: [Principle](/principles/principle-slug.md) -->
-- [Principle Name](/principles/slug.md) — [how this element enacts that principle]
+<!-- Links to principles applied: [Principle](../principles/principle-slug.md) -->
+- [Principle Name](../principles/slug.md) — [how this element enacts that principle]
 
 ## Related Elements
-- [Related Element](/elements/slug.md)
+- [Related Element](slug.md)
 
 ## Examples
 <!-- Links to strategies that use this element -->
@@ -309,7 +309,7 @@ grain_size: {grain_size}
 
 ### Theory
 #### Supporting
-- [Theory Name](/theories/slug.md) — brief explanation
+- [Theory Name](../theories/slug.md) — brief explanation
 #### Contradicting / Qualifying
 - [or "- None identified"]
 
@@ -323,17 +323,17 @@ grain_size: {grain_size}
 
 ### Sequence
 <!-- Steps with links to elements -->
-1. [Step] — [Element Name](/elements/slug.md)
+1. [Step] — [Element Name](../elements/slug.md)
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Principle Name](/principles/slug.md) — [how the pattern applies this principle]
+- [Principle Name](../principles/slug.md) — [how the pattern applies this principle]
 
 ### Personalization
 - [how to adapt for different learners]
 
 ## Related Patterns
-- [Related Pattern](/patterns/slug.md)
+- [Related Pattern](slug.md)
 
 ## Examples
 - [Concrete example with context]
@@ -373,18 +373,18 @@ generated:
 - [variations or adaptations]
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 - [who benefits most]
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 - [types of objectives served]
 
 ### Instructions
-1. [Step with links to elements: [Element](/elements/slug.md)]
+1. [Step with links to elements: [Element](../elements/slug.md)]
 
 ## Related Strategies
-- [Related Strategy](/strategies/slug.md)
+- [Related Strategy](slug.md)
 
 ## Examples
 - [Concrete example in a real context]
@@ -423,7 +423,7 @@ page's topic:
 **Direction rule:** Claims in a Constraints section MUST use [-] or [~], never [+].
 A constraint describes a condition where the approach fails — the tag must reflect that direction.
 
-Always link to a claim page when one exists: [Display Name](/claims/slug.md) [+M]
+Always link to a claim page when one exists: [Display Name](../claims/slug.md) [+M]
 
 ## Rules
 

@@ -39,9 +39,9 @@ Standards-/Mastery-Based Grading emphasizes grading based on the level of master
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [State objectives](../elements/state-objectives.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track alignment of grades with mastery levels, measure student understanding of grading criteria, compare outcomes to traditional grading methods

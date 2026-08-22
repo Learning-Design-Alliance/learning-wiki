@@ -39,9 +39,9 @@ Brain breaks are short periods of time when learners change up the routine of in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track changes in focus, behavior, and engagement levels. Observe participation during activities.

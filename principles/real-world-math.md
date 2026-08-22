@@ -25,7 +25,7 @@ Real-world math connects mathematical ideas to situations learners recognize as 
 This principle also broadens what counts as mathematical experience. When instructors draw on learners' cultural practices, workplace tasks, and informal problem-solving, math becomes something learners already use and can extend, not just something delivered by school. The quality of the context matters: examples should be authentic enough to support transfer without adding unnecessary complexity or stereotyping learner experience.
 
 ## Implications
-Real-world math improves engagement and transfer when the mathematical structure is tied to situations learners actually care about. Authentic contexts can make the purpose of a concept clearer and support whole-task application [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S], but relevance alone is not enough. Learners still need help seeing the underlying structure, explaining why the math fits the situation [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S], and navigating the extra complexity that context can introduce [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]. The best real-world math tasks respect learner experience without letting the context overshadow the mathematics.
+Real-world math improves engagement and transfer when the mathematical structure is tied to situations learners actually care about. Authentic contexts can make the purpose of a concept clearer and support whole-task application [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S], but relevance alone is not enough. Learners still need help seeing the underlying structure, explaining why the math fits the situation [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S], and navigating the extra complexity that context can introduce [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. The best real-world math tasks respect learner experience without letting the context overshadow the mathematics.
 
 ### Context
 #### Requirements
@@ -61,21 +61,21 @@ Real-world math improves engagement and transfer when the mathematical structure
 - Context should support abstraction, not trap learning inside a single familiar example.
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S] — math tied to meaningful situations can support later application better than decontextualized drill alone
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — contextual math tasks often need responsive support so the situation clarifies rather than obscures the concept
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S] — learners understand applied math more deeply when they justify why a model or method fits the real situation
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S] — math tied to meaningful situations can support later application better than decontextualized drill alone
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — contextual math tasks often need responsive support so the situation clarifies rather than obscures the concept
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — learners understand applied math more deeply when they justify why a model or method fits the real situation
 
 ## Related Principles
-- [Explicit Instruction: Math Strategies](/principles/explicit-instruction-math-strategies.md) — real-world tasks still benefit from direct teaching of methods and representations.
-- [Creating Visual Representations](/principles/creating-visual-representations.md) — diagrams, tables, and models help learners connect context to mathematical structure.
-- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md) — relevance grows when math supports meaningful tasks and decisions.
-- [Problem-based Learning](/principles/problem-based-learning.md) — real-world math often works through applied, open-ended problems.
+- [Explicit Instruction: Math Strategies](explicit-instruction-math-strategies.md) — real-world tasks still benefit from direct teaching of methods and representations.
+- [Creating Visual Representations](creating-visual-representations.md) — diagrams, tables, and models help learners connect context to mathematical structure.
+- [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — relevance grows when math supports meaningful tasks and decisions.
+- [Problem-based Learning](problem-based-learning.md) — real-world math often works through applied, open-ended problems.
 
 ## Examples
 - **Budget comparison task**: Learners compare phone plans, wages, or household expenses using proportional reasoning and estimation.
 - **Workplace measurement problem**: Learners calculate materials, time, or error tolerance for a job-related task.
 - **Community data inquiry**: Learners interpret local charts, rates, or survey results to make an argument.
-- [Cognitively Guided Instruction (CGI) for Math](/patterns/cognitively-guided-instruction-cgi-for-math.md)
+- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)
 
 ## Key Sources
 - Brooks, C. (2015). Making maths useful: How two teachers prepare adult learners to apply their numeracy skills in their lives outside the classroom. *Adults Learning Mathematics, 10*(1), 24-39.

@@ -39,10 +39,10 @@ SMART goal setting ensures goals are Specific, Measurable, Attainable, Relevant,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [State objectives](../elements/state-objectives.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Progress can be measured by tracking the completion of specific, measurable components of each goal within the set timeframe.

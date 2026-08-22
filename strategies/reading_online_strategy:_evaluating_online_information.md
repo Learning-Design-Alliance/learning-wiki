@@ -39,9 +39,9 @@ Students learn to analyze and evaluate the information they encounter online by 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate students' ability to identify reliable sources. Track their use of evaluation strategies. Collect student reflections on their learning process.

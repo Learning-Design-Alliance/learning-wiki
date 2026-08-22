@@ -39,8 +39,8 @@ This strategy focuses on learners' awareness of their thought processes as they 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evidence of learners' ability to identify areas for improvement. Learners' application of reflection to future work. Growth in self-awareness and self-regulation.

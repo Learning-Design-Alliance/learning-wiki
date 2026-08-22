@@ -39,8 +39,8 @@ Demonstrating a belief in excellence and setting high expectations is essential 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Coaching](/elements/coaching.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Coaching](../elements/coaching.md)
 
 ## Assessment Evidence
 - Evaluate student work for evidence of high-quality performance. Assess student growth and progress toward achieving high expectations. Review the effectiveness of scaffolding strategies.

@@ -39,8 +39,8 @@ Instructors begin the year having the learners do an 'All About Me' presentation
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Improved instructor-learner relationships, increased class engagement, and enhanced understanding of learners' interests.

@@ -14,9 +14,9 @@ generated:
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
 
 ## Affordances
-- [Creating Visual Representations](/principles/creating-visual-representations.md)
-- [Dual Coding](/principles/dual-coding.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Dual Coding](../principles/dual-coding.md)
 
 ## Related Elements
-- [Conceptual Overviews](/elements/conceptual-overviews.md)
-- [Representational Drawing](/elements/representational-drawing.md)
+- [Conceptual Overviews](conceptual-overviews.md)
+- [Representational Drawing](representational-drawing.md)

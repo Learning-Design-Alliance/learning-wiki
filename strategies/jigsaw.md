@@ -39,10 +39,10 @@ In the Jigsaw method, learners are divided into 'expert groups' to master a spec
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Expert Groups](/elements/expert-groups.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Expert Groups](../elements/expert-groups.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Observe the quality of peer teaching and the depth of understanding demonstrated in group discussions. Assess individual comprehension through quizzes or written assignments.

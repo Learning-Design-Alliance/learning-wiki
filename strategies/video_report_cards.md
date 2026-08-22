@@ -39,9 +39,9 @@ Sending parents a link to a personalized video that provides context about their
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Gather feedback from parents on the usefulness of video report cards, track parent understanding of student progress

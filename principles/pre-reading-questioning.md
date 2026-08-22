@@ -23,7 +23,7 @@ sources:
 Pre-reading questioning is the instructional principle of using questions before a text, source, or reading task to activate prior knowledge, orient attention, and establish a purpose for reading. The value lies less in predicting the "right" answer than in helping learners notice what they already know, what they wonder, and what they should look for. When used well, pre-reading questions can improve comprehension by reducing aimless reading and by surfacing misconceptions early enough to address them.
 
 ## Implications
-Pre-reading questioning improves comprehension when it gives learners a reason to read and a frame for what to notice. Orienting questions can reduce aimless attention by narrowing what must be held and tracked during reading [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S], and they can support more deliberate monitoring as learners compare early predictions to what the text actually shows [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. The key design risk is over-directing interpretation: questions should focus attention without predetermining every conclusion.
+Pre-reading questioning improves comprehension when it gives learners a reason to read and a frame for what to notice. Orienting questions can reduce aimless attention by narrowing what must be held and tracked during reading [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S], and they can support more deliberate monitoring as learners compare early predictions to what the text actually shows [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. The key design risk is over-directing interpretation: questions should focus attention without predetermining every conclusion.
 
 ### Context
 #### Requirements
@@ -59,14 +59,14 @@ Pre-reading questioning improves comprehension when it gives learners a reason t
 - Some texts are better entered first with open noticing before specific questions are introduced.
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S] — orienting prompts can reduce the amount of undirected information learners try to manage at once
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — pre-reading questions help learners check what they already think and revise it as they read
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — orienting prompts can reduce the amount of undirected information learners try to manage at once
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — pre-reading questions help learners check what they already think and revise it as they read
 
 ## Related Principles
-- [Graphic Organizers](/principles/graphic-organizers.md) — graphic organizers can make pre-reading questions more visible and usable.
-- [Note-taking](/principles/note-taking.md) — pre-reading questions help determine what learners should attend to and record.
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md) — question generation before reading can frame the text as evidence for inquiry.
-- [Handouts/Online Guides/Visual Reading Aids](/principles/handoutsonline-guidesvisual-reading-aids.md) — reading guides often embed pre-reading questions as orientation tools.
+- [Graphic Organizers](graphic-organizers.md) — graphic organizers can make pre-reading questions more visible and usable.
+- [Note-taking](note-taking.md) — pre-reading questions help determine what learners should attend to and record.
+- [Inquiry-based Learning](inquiry-based-learning.md) — question generation before reading can frame the text as evidence for inquiry.
+- [Handouts/Online Guides/Visual Reading Aids](handoutsonline-guidesvisual-reading-aids.md) — reading guides often embed pre-reading questions as orientation tools.
 
 ## Examples
 - **Prediction and purpose prompts**: Learners answer a small set of questions before reading and revisit them afterward.

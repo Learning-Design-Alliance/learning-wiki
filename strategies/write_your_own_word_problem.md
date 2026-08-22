@@ -39,9 +39,9 @@ For homework, assign learners the task of writing some of their own word problem
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Application](../elements/application.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess learners' original word problems to see if they appropriately incorporated key words to indicate specific mathematical operations.

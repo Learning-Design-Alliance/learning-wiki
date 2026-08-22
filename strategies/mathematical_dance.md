@@ -39,10 +39,10 @@ Mathematical dance involves using movement to illustrate mathematical concepts. 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Integration](/elements/integration.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Evaluate understanding of mathematical concepts through performance, assess audience comprehension

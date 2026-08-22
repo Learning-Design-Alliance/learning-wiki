@@ -39,8 +39,8 @@ Color-coding school supplies can make organization easier and more streamlined f
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner's ability to quickly identify and retrieve supplies. Track the organization of learning materials. Gather feedback from the learner on the usefulness of the color-coding system.

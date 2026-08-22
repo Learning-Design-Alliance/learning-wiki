@@ -39,8 +39,8 @@ Use sentence frames to help structure respectful responses in debate or disagree
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe online interactions, gather feedback from participants, assess clarity and respectfulness of communications

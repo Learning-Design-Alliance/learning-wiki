@@ -64,11 +64,11 @@ The pattern is useful across in-person, online, synchronous, and asynchronous se
 
 ### Claims
 #### Supporting
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 
 ## Design
 
@@ -80,16 +80,16 @@ The pattern is useful across in-person, online, synchronous, and asynchronous se
 5. End with synthesis, reflection, or a written takeaway.
 
 ### Elements Used
-- [Discussion Prompt](/elements/discussion-prompt.md)
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Feedback](/elements/feedback.md)
+- [Discussion Prompt](../elements/discussion-prompt.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Feedback](../elements/feedback.md)
 
 ### Affordances
-- [Peer Discussion](/principles/peer-discussion.md)
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
-- [Perspective-Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md)
-- [Purposeful Reflection](/principles/purposeful-reflection.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ### Personalization
 - Discussion can be synchronous or asynchronous, oral or text-based.
@@ -97,8 +97,8 @@ The pattern is useful across in-person, online, synchronous, and asynchronous se
 - Prompts can be more scaffolded for novice groups and more open for experienced groups.
 
 ## Related Patterns
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
-- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Collaborative Inquiry](collaborative-inquiry.md)
+- [Socratic Seminar](socratic-seminar.md)
 
 ## Examples
 - Online forum discussions tied to a case, reading, or weekly question.

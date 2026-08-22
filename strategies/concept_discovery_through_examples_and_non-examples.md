@@ -39,9 +39,9 @@ Expose learners to a wide range of examples and nonexamples and allow them to di
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Solution Development](/elements/solution-development.md)
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Assess learners' ability to articulate the key attributes of the concept and classify new instances accurately.

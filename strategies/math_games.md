@@ -39,9 +39,9 @@ Math games are structured activities designed to stimulate enthusiasm for math l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe student strategies during gameplay. Review recorded equations or representations. Analyze student reflections on skills, strategies, and potential improvements.

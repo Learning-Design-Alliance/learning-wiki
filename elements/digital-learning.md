@@ -26,17 +26,17 @@ Digital learning is the element in which instruction, resources, or interaction 
 - Support flexible access, interactive learning, and networked exploration.
 
 ### Affordances
-- [Multimodal Instruction](/principles/multimodal-instruction.md)
-- [Active Learning](/principles/active-learning.md)
+- [Multimodal Instruction](../principles/multimodal-instruction.md)
+- [Active Learning](../principles/active-learning.md)
 
 ## Related Elements
-- [Hypertext Navigation](/elements/hypertext-navigation.md)
-- [Multimedia Learning](/elements/multimedia-learning.md)
-- [Self-Paced Learning](/elements/self-paced-learning.md)
+- [Hypertext Navigation](hypertext-navigation.md)
+- [Multimedia Learning](multimedia-learning.md)
+- [Self-Paced Learning](self-paced-learning.md)
 
 ## Patterns That Use This Element
-- [Flipped Learning](/patterns/flipped-learning.md)
-- [Game-Based Mastery Learning](/patterns/game-based-mastery-learning.md)
+- [Flipped Learning](../patterns/flipped-learning.md)
+- [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md)
 
 ## Examples
 - Interactive modules, linked resources, adaptive practice systems, and online collaborative spaces.

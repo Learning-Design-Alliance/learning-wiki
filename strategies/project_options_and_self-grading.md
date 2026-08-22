@@ -39,8 +39,8 @@ Offer up plenty of options in types of projects and also collaborate with studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess Performance](/elements/assess-performance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Self-assessments, project evaluations, and reflective writing. Observations of student participation and engagement.

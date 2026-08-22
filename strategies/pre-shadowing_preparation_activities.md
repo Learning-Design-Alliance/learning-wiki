@@ -39,10 +39,10 @@ Pre-shadowing preparation involves several activities to set up a meaningful sha
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Practice](/elements/practice.md)
-- [Cognitive Conflict](/elements/cognitive-conflict.md)
+- [State objectives](../elements/state-objectives.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Written learning goals, list of assumptions, coordination notes, and feedback from students, parents, and staff.

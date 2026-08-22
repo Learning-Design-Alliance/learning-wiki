@@ -39,8 +39,8 @@ Beginning the day by asking students how they are feeling helps to identify pote
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately express emotions; track participation and engagement; monitor ability to connect emotions to daily activities

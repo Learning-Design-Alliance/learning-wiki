@@ -35,10 +35,10 @@ Bandura later extended the theory to emphasize *self-efficacy* — a learner's b
 ## Claims
 
 ## Related Theories
-- [Cognitive Apprenticeship](/theories/cognitive-apprenticeship.md) — operationalizes social learning via modeling, coaching, and fading in authentic contexts
-- [Situated Learning](/theories/situated-learning.md) — extends observational learning to communities of practice
-- [Self-Regulated Learning](/theories/self-regulated-learning.md) — incorporates self-efficacy as a regulatory mechanism
-- [Constructivism](/theories/constructivism.md) — shares emphasis on active sense-making; differs in granting social observation a direct instructional role
+- [Cognitive Apprenticeship](cognitive-apprenticeship.md) — operationalizes social learning via modeling, coaching, and fading in authentic contexts
+- [Situated Learning](situated-learning.md) — extends observational learning to communities of practice
+- [Self-Regulated Learning](self-regulated-learning.md) — incorporates self-efficacy as a regulatory mechanism
+- [Constructivism](constructivism.md) — shares emphasis on active sense-making; differs in granting social observation a direct instructional role
 
 ## Examples
 

@@ -39,9 +39,9 @@ Provides access to a collection of poems and poetry-related resources to enhance
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learner engagement with the poems and resources. Assess comprehension through discussions, creative writing activities, or presentations. Track the types of poems learners choose and the resources they explore.

@@ -39,9 +39,9 @@ Grades should reflect learning over time rather than be an end in and of itself.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Student progress over time, recognition of diverse learning styles

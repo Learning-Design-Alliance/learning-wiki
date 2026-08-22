@@ -26,13 +26,13 @@ Small-group instruction is the element in which learners work with an instructor
 - Support targeted instruction, discussion, and responsive feedback.
 
 ### Affordances
-- [Flexible Grouping](/principles/flexible-grouping.md)
-- [Engagement](/principles/engagement.md)
+- [Flexible Grouping](../principles/flexible-grouping.md)
+- [Engagement](../principles/engagement.md)
 
 ## Related Elements
-- [Group Work](/elements/group-work.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Guided Practice](/elements/guided-practice.md)
+- [Group Work](group-work.md)
+- [Peer Collaboration](peer-collaboration.md)
+- [Guided Practice](guided-practice.md)
 
 ## Key Sources
 - Tomlinson, C. A. (2014). *The differentiated classroom* (2nd ed.). ASCD.

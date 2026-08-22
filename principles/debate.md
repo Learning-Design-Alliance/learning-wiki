@@ -19,7 +19,7 @@ sources:
 Debate structures learning around the preparation, presentation, and critique of competing arguments. When designed well, it pushes learners to research evidence, understand multiple perspectives, justify claims publicly, and respond under challenge. The value is not argument for its own sake; it is disciplined reasoning made visible through structured speaking and rebuttal.
 
 ## Implications
-Debate improves learning when it requires learners to justify positions with evidence, anticipate counterarguments, and revise claims under challenge. Those demands make reasoning visible in ways that simple opinion sharing does not, which is why debate can deepen conceptual understanding when learners must explain and defend their thinking explicitly [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design caution is that debate can easily reward confidence over thinking, so novices need explicit claim-evidence-reasoning routines [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], clear quality criteria [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S], and facilitator support that keeps the exchange focused on evidence and reasoning rather than mere performance [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M].
+Debate improves learning when it requires learners to justify positions with evidence, anticipate counterarguments, and revise claims under challenge. Those demands make reasoning visible in ways that simple opinion sharing does not, which is why debate can deepen conceptual understanding when learners must explain and defend their thinking explicitly [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design caution is that debate can easily reward confidence over thinking, so novices need explicit claim-evidence-reasoning routines [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], clear quality criteria [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S], and facilitator support that keeps the exchange focused on evidence and reasoning rather than mere performance [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -59,21 +59,21 @@ Debate improves learning when it requires learners to justify positions with evi
 - Forced-position or perspective-switch formats can deepen learning, but they need psychological safety and careful topic selection
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — debate requires learners to explain and justify ideas rather than only recognize them
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — facilitator prompts and structured rebuttal coaching improve transfer from speaking to reasoning
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice debaters benefit from explicit routines for claim-evidence-reasoning rather than only being told to "argue well"
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — debates are more educative when quality criteria for evidence, rebuttal, and participation are explicit
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — debate requires learners to explain and justify ideas rather than only recognize them
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — facilitator prompts and structured rebuttal coaching improve transfer from speaking to reasoning
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice debaters benefit from explicit routines for claim-evidence-reasoning rather than only being told to "argue well"
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — debates are more educative when quality criteria for evidence, rebuttal, and participation are explicit
 
 ## Related Principles
-- [Peer Discussion](/principles/peer-discussion.md) — debate is a more structured, adversarial form of discussion
-- [Perspective Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md) — debate can force consideration of alternative viewpoints
-- [Explaining Their Thinking](/principles/explaining-their-thinking.md) — debate externalizes reasoning under pressure
-- [Evaluating Sources](/principles/evaluating-sources.md) — evidence quality matters as much as speaking performance
+- [Peer Discussion](peer-discussion.md) — debate is a more structured, adversarial form of discussion
+- [Perspective Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — debate can force consideration of alternative viewpoints
+- [Explaining Their Thinking](explaining-their-thinking.md) — debate externalizes reasoning under pressure
+- [Evaluating Sources](evaluating-sources.md) — evidence quality matters as much as speaking performance
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [Debate Format](/patterns/debate-format.md) — formalized opening, rebuttal, and closing sequence
-- [Debate for the Opposite Team](/strategies/debate_for_the_opposite_team.md) — learners argue against their initial position to deepen perspective-taking
+- [Debate Format](../patterns/debate-format.md) — formalized opening, rebuttal, and closing sequence
+- [Debate for the Opposite Team](../strategies/debate_for_the_opposite_team.md) — learners argue against their initial position to deepen perspective-taking
 - Policy, ethics, clinical decision, and civic issues often work better than purely factual prompts
 - Structured prep sheets for claim, evidence, counterclaim, and rebuttal help novices participate more equitably
 

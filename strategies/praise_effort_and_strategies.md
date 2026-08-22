@@ -39,8 +39,8 @@ When learners succeed, praise their efforts and strategies rather than their int
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner persistence in the face of challenges, monitor their task enjoyment, and track their overall performance. Compare the effectiveness of praising effort and strategies versus praising intelligence.

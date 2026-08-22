@@ -50,8 +50,8 @@ Goal-Based Scenarios organize learning around a mission or role-based objective 
 - Scenario immersion alone does not guarantee learning without debrief and support.
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Design
 
@@ -62,17 +62,17 @@ Goal-Based Scenarios organize learning around a mission or role-based objective 
 4. Debrief decisions and connect them to future use.
 
 ### Elements Used
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Feedback](/elements/feedback.md)
-- [Reflection](/elements/reflection.md)
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Feedback](../elements/feedback.md)
+- [Reflection](../elements/reflection.md)
 
 ### Affordances
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Experiential Learning](/principles/experiential-learning.md)
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Experiential Learning](../principles/experiential-learning.md)
+- [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 
 ## Related Patterns
-- [Goal-Based Scenarios (GBS)](/patterns/goal-based-scenarios-gbs.md)
+- [Goal-Based Scenarios (GBS)](goal-based-scenarios-gbs.md)
 
 ## Examples
 - Clinical, business, or technical training built around mission execution under realistic constraints.

@@ -39,9 +39,9 @@ Self-reinforcement involves individuals selecting a reinforcer and rewarding the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Measure the substantial improvement in the student's performance.

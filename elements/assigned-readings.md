@@ -31,19 +31,19 @@ Learners engage with pre-selected texts, articles, or book chapters to build fou
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Cognitive Load Management](/principles/cognitive-load-management.md)
-- [Constructivist Learning](/principles/constructivist-learning.md)
-- [Metacognition](/principles/metacognition.md)
+- [Cognitive Load Management](../principles/cognitive-load-management.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Pre-Class Preparation](/elements/pre-class-preparation.md)
-- [Case Studies](/elements/case-studies.md)
-- [Discussion-Based Learning](/elements/discussion-based-learning.md)
+- [Pre-Class Preparation](pre-class-preparation.md)
+- [Case Studies](case-studies.md)
+- [Discussion-Based Learning](discussion-based-learning.md)
 
 ## Patterns That Use This Element
-- [Flipped Classroom](/patterns/flipped-classroom.md)
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Inquiry-Based Learning](/patterns/inquiry-based-learning.md)
+- [Flipped Classroom](../patterns/flipped-classroom.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Inquiry-Based Learning](../patterns/inquiry-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -39,10 +39,10 @@ Instructors share their written work with learners, soliciting feedback and crit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Peer Feedback/Peer Review](/elements/peer-feedbackpeer-review.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased learner participation in feedback activities, improved quality of learner feedback, changes in learners' attitudes towards receiving feedback on their own work.

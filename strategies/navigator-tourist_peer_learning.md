@@ -39,12 +39,12 @@ Pair struggling learners ('tourists') with learners who have mastered the conten
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Articulation](/elements/articulation.md)
-- [Perspective-Taking](/elements/perspective-taking.md)
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Articulation](../elements/articulation.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners’ engagement, participation, and teaching/learning skills within groups. Collect data from formative assessments, group projects, and peer evaluations. Track changes in performance following implementation of navigator-tourist learning.

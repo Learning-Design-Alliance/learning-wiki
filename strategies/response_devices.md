@@ -39,9 +39,9 @@ Response devices allow learners to anonymously share answers with the whole clas
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Practice](/elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track participation rates, monitor answer accuracy, assess the depth of learner engagement, analyze the feedback provided by learners

@@ -39,7 +39,7 @@ Playing classical music (Bach, not Mahler) at a low volume when learners enter t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
+- [Gain attention](../elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe student behavior upon entering the classroom. Monitor the overall atmosphere and noise levels.

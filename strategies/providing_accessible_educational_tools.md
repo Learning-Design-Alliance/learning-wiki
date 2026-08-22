@@ -39,9 +39,9 @@ Providing easy access to a variety of educational tools empowers students to tak
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe students' use of educational tools, their engagement in learning, and their ability to overcome challenges. Measure students' independence and self-direction in their learning.

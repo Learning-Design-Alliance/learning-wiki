@@ -39,9 +39,9 @@ Set aside a dedicated, positive reflection space in the classroom where kids can
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' use of the corner and ability to apply skills in classroom activities

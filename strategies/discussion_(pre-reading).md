@@ -39,9 +39,9 @@ In this pre-reading activity, the instructor prepares several sentences expressi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Argument Construction](/elements/argument-construction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Argument Construction](../elements/argument-construction.md)
 
 ## Assessment Evidence
 - Observe the depth of discussion, the quality of reasons provided, and the level of engagement. Collect feedback on how the activity prepared learners for the reading.

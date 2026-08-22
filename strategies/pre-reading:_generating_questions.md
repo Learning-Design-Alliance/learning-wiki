@@ -39,7 +39,7 @@ Generating a list of pre-reading questions that will help learners achieve their
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Question Formulation](/elements/question-formulation.md)
+- [Question Formulation](../elements/question-formulation.md)
 
 ## Assessment Evidence
 - Learners are active and engaged in learning and have questions about the reading materials.

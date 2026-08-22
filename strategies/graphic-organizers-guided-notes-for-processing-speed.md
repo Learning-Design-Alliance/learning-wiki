@@ -24,11 +24,11 @@ During lecture, learners are provided with graphic organizers or guided notes to
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Learners who struggle with processing speed, those who have difficulty taking effective notes, and students who benefit from structured learning environments.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Support information processing, improve note-taking skills, enhance comprehension of key concepts, and increase engagement during lectures.
 
 ### Affordances
@@ -39,8 +39,8 @@ During lecture, learners are provided with graphic organizers or guided notes to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to fill in key information accurately and effectively. Review the completed graphic organizers or guided notes to assess comprehension.

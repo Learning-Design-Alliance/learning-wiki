@@ -26,13 +26,13 @@ Communication channels are the element in which learners use designated tools or
 - Support coordination, discussion, and timely communication.
 
 ### Affordances
-- [Community of Inquiry](/principles/community-of-inquiry.md)
-- [Social Interdependence](/principles/social-interdependence.md)
+- [Community of Inquiry](../principles/community-of-inquiry.md)
+- [Social Interdependence](../principles/social-interdependence.md)
 
 ## Related Elements
-- [Collaboration](/elements/collaboration.md)
-- [Task Management](/elements/task-management.md)
-- [Group Work](/elements/group-work.md)
+- [Collaboration](collaboration.md)
+- [Task Management](task-management.md)
+- [Group Work](group-work.md)
 
 ## Key Sources
 - Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment. *The Internet and Higher Education, 2*(2-3), 87-105. [https://doi.org/10.1016/S1096-7516(00)00016-6](https://doi.org/10.1016/S1096-7516(00)00016-6)

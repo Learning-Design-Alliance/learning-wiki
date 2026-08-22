@@ -39,8 +39,8 @@ When a student expresses frustration or negativity (e.g., 'I can’t do this stu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student responses to challenging situations and their use of reframing techniques.

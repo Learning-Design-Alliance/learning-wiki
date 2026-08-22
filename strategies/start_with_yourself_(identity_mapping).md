@@ -39,8 +39,8 @@ This principle encourages educators to reflect on their own intersectional ident
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe changes in educator behavior and interactions with students, gather feedback from students about the inclusiveness of the classroom environment, and track the implementation of more equitable practices.

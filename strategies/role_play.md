@@ -39,9 +39,9 @@ Role playing involves acting out different scenarios in a safe environment, allo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe participant interactions and feedback sessions to gauge improvements in communication, problem-solving, and confidence.

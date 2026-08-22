@@ -39,8 +39,8 @@ Using songs and rhymes to memorize information is a mnemonic technique that leve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Assess the number of items recalled correctly after learning a song or rhyme. Monitor the ease with which learners can generate and remember their own songs and rhymes.

@@ -39,11 +39,11 @@ Pre-recording instructional videos in advance is a versatile teaching strategy. 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Lectures](/elements/lectures.md)
-- [Demonstration](/elements/demonstration.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Lectures](../elements/lectures.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Video views, completion rates, learner feedback, performance on related assignments, and engagement in synchronous class activities.

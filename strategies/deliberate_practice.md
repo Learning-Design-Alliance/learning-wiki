@@ -39,9 +39,9 @@ Deliberate practice involves focused, strategic efforts to improve specific skil
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track progress toward specific goals, monitor performance on practice activities, and collect feedback from instructors, mentors, or peers. Use self-reflection and goal-setting activities to assess learner engagement.

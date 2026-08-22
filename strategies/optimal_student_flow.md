@@ -39,7 +39,7 @@ Organizing the classroom layout to match the flow of the day, such as moving fro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student transitions and behavior in different learning centers. Gather feedback on the effectiveness of the classroom layout.

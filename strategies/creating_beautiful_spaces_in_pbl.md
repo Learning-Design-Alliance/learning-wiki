@@ -39,9 +39,9 @@ Creating beautiful spaces in PBL involves displaying student work from projects 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Increased student engagement, a stronger sense of pride in their work, and a more positive and welcoming school environment.

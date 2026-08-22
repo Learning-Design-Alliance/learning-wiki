@@ -28,18 +28,18 @@ Group work is the element in which learners work together on a shared task, prod
 - Build collaboration, problem solving, and collective reasoning.
 
 ### Affordances
-- [Collaborative Learning](/principles/collaborative-learning.md)
-- [Community of Inquiry](/principles/community-of-inquiry.md)
-- [Social Learning](/principles/social-learning.md)
+- [Collaborative Learning](../principles/collaborative-learning.md)
+- [Community of Inquiry](../principles/community-of-inquiry.md)
+- [Social Learning](../principles/social-learning.md)
 
 ## Related Elements
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Collaborative Discussion](/elements/collaborative-discussion.md)
-- [Differentiated Team Roles](/elements/differentiated-team-roles.md)
+- [Peer Collaboration](peer-collaboration.md)
+- [Collaborative Discussion](collaborative-discussion.md)
+- [Differentiated Team Roles](differentiated-team-roles.md)
 
 ## Patterns That Use This Element
-- [Jigsaw Method](/patterns/jigsaw-method.md)
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Jigsaw Method](../patterns/jigsaw-method.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
 
 ## Examples
 - Small groups producing a joint explanation, solution, or artifact.

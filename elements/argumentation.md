@@ -31,18 +31,18 @@ Learners construct logical, evidence-based arguments to support their claims.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Constructivist Learning](/principles/constructivist-learning.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
-- [Perspective-Taking](/principles/perspective-taking.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
 
 ## Related Elements
-- [Position Development](/elements/position-development.md)
-- [Debate](/elements/debate.md)
-- [Structured Discussion](/elements/structured-discussion.md)
+- [Position Development](position-development.md)
+- [Debate](debate.md)
+- [Structured Discussion](structured-discussion.md)
 
 ## Patterns That Use This Element
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
-- [Debate](/patterns/debate.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
+- [Debate](../patterns/debate.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -39,8 +39,8 @@ Students think back on their experiences and outcomes to gain a greater understa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Review students' journal entries for evidence of self-awareness, reflection, and goal-setting. Track their progress toward meeting their goals.

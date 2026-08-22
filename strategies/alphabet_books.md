@@ -39,9 +39,9 @@ Alphabet books involve students creating entries for each letter of the alphabet
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Revision](/elements/revision.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Revision](../elements/revision.md)
 
 ## Assessment Evidence
 - Assess the accuracy and depth of vocabulary definitions and examples. Evaluate the effectiveness of the representations and the overall quality of the book.

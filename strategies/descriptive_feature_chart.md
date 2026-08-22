@@ -39,8 +39,8 @@ A descriptive feature chart is a graphic organizer with horizontal and vertical 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy of the chart in representing the organism's features; completeness of information; ability to use the chart to write a description of the organism; presentation of findings to the class

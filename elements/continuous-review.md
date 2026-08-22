@@ -31,19 +31,19 @@ Learning materials and concepts are revisited systematically to reinforce retent
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Cognitive Load Management](/principles/cognitive-load-management.md)
-- [Memory Consolidation](/principles/memory-consolidation.md)
-- [Spaced Learning](/principles/spaced-learning.md)
+- [Cognitive Load Management](../principles/cognitive-load-management.md)
+- [Memory Consolidation](../principles/memory-consolidation.md)
+- [Spaced Learning](../principles/spaced-learning.md)
 
 ## Related Elements
-- [Spaced Repetition](/elements/spaced-repetition.md)
-- [Retrieval Practice](/elements/retrieval-practice.md)
-- [Spiral Curriculum](/elements/spiral-curriculum.md)
+- [Spaced Repetition](spaced-repetition.md)
+- [Retrieval Practice](retrieval-practice.md)
+- [Spiral Curriculum](spiral-curriculum.md)
 
 ## Patterns That Use This Element
-- [Mastery Learning](/patterns/mastery-learning.md)
-- [Competency-Based Learning](/patterns/competency-based-learning.md)
-- [Spaced Learning](/patterns/spaced-learning.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
+- [Spaced Learning](../patterns/spaced-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

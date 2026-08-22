@@ -39,8 +39,8 @@ This approach involves asking and answering four key questions to provide qualit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe changes in learner performance. Track learner progress. Analyze the effectiveness of the feedback.

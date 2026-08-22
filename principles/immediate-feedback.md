@@ -27,7 +27,7 @@ sources:
 Immediate feedback is feedback delivered close enough to a learner's action that it can still shape interpretation, correction, and the next attempt. Its value is not just speed, but timeliness relative to the learner's current thinking: when feedback arrives while the reasoning path, misconception, or uncertainty is still active, it is easier to adjust strategy and avoid rehearsing errors. Immediate feedback is especially useful during skill acquisition, guided practice, and high-frequency retrieval or problem-solving tasks.
 
 ## Implications
-Immediate feedback works because correction is most usable while the learner’s reasoning path is still active. Timely explanation can interrupt repeated error [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [+S], improve self-monitoring [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M], and make the next attempt meaningfully different from the last one when the support is actually responsive to the learner’s move [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]. But immediacy is not a universal good: some tasks benefit from sustained effort before review, and fast feedback that is vague or misaligned can misdirect learning just as efficiently as it helps. The design question is not “How fast can feedback be?” but “When will feedback most improve the next action?”
+Immediate feedback works because correction is most usable while the learner’s reasoning path is still active. Timely explanation can interrupt repeated error [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S], improve self-monitoring [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M], and make the next attempt meaningfully different from the last one when the support is actually responsive to the learner’s move [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. But immediacy is not a universal good: some tasks benefit from sustained effort before review, and fast feedback that is vague or misaligned can misdirect learning just as efficiently as it helps. The design question is not “How fast can feedback be?” but “When will feedback most improve the next action?”
 
 ### Context
 #### Requirements
@@ -63,15 +63,15 @@ Immediate feedback works because correction is most usable while the learner’s
 - The effect depends on feedback quality. Fast but vague feedback often adds little.
 
 ### Claims
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [+S] — feedback is especially powerful when it interrupts and corrects an active misconception before it is rehearsed again
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — timely feedback helps learners connect outcome to strategy while the attempt is still fresh
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — immediate feedback helps most when it addresses the actual decision or misconception that just occurred
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — feedback is especially powerful when it interrupts and corrects an active misconception before it is rehearsed again
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — timely feedback helps learners connect outcome to strategy while the attempt is still fresh
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — immediate feedback helps most when it addresses the actual decision or misconception that just occurred
 
 ## Related Principles
-- [Formative Assessment](/principles/formative-assessment.md) — immediate feedback is one of the most actionable forms of formative assessment.
-- [Guided Practice](/principles/guided-practice.md) — guided practice depends on feedback that arrives while practice is still underway.
-- [Error Analysis](/principles/error-analysis.md) — timely correction helps learners understand and revise errors before they harden.
-- [Check-ins](/principles/check-ins.md) — quick check-ins can trigger immediate feedback and support adjustments.
+- [Formative Assessment](formative-assessment.md) — immediate feedback is one of the most actionable forms of formative assessment.
+- [Guided Practice](guided-practice.md) — guided practice depends on feedback that arrives while practice is still underway.
+- [Error Analysis](error-analysis.md) — timely correction helps learners understand and revise errors before they harden.
+- [Check-ins](check-ins.md) — quick check-ins can trigger immediate feedback and support adjustments.
 
 ## Examples
 - **Step-level tutoring feedback**: A digital system flags an incorrect move and gives a hint before the learner proceeds.

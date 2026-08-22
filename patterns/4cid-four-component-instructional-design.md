@@ -61,11 +61,11 @@ The pattern is strongest when learners need transfer to authentic performance. I
 
 ### Claims
 #### Supporting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [+M]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 #### Contradicting
-- [Worked examples can become redundant or counterproductive for advanced learners.](/claims/worked-examples-expertise-reversal.md) [~M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-expertise-reversal.md) [~M]
 
 ## Design
 
@@ -77,16 +77,16 @@ The pattern is strongest when learners need transfer to authentic performance. I
 5. Increase task variability and complexity while fading supports.
 
 ### Elements Used
-- [Whole-task Performance](/elements/whole-task-performance.md)
-- [Part-task Practice](/elements/part-task-practice.md)
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Assessment](/elements/assessment.md)
+- [Whole-task Performance](../elements/whole-task-performance.md)
+- [Part-task Practice](../elements/part-task-practice.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [Guided Practice](/principles/guided-practice.md)
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Competency-Based Learning & Assessment](/principles/competency-based-learning-assessment.md)
-- [Worked Examples](/principles/worked-examples.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-learning-assessment.md)
+- [Worked Examples](../principles/worked-examples.md)
 
 ### Personalization
 - Task complexity can be adjusted by changing constraints, support, and variability.
@@ -94,8 +94,8 @@ The pattern is strongest when learners need transfer to authentic performance. I
 - Part-task practice can be targeted only to the subskills a learner has not yet automated.
 
 ## Related Patterns
-- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
-- [Cognitive Load Reduction (CLT Scaffolding Approach)](/patterns/cognitive-load-reduction-clt-scaffolding-approach.md)
+- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](cognitive-load-reduction-clt-scaffolding-approach.md)
 
 ## Examples
 - Clinical training programs that move from simpler to more complex patient cases while fading support.

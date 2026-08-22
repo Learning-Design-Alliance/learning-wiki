@@ -39,10 +39,10 @@ generated:
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Lectures](/elements/lectures.md)
-- [Cognitive Conflict](/elements/cognitive-conflict.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Lectures](../elements/lectures.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Evaluate learner's ability to identify and categorize their self-talk.

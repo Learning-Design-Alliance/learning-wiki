@@ -33,7 +33,7 @@ A strengths-based approach starts from the assumption that learners bring assets
 In practice, a strengths-based approach changes how instructors frame feedback, design participation, interpret prior experience, and assign responsibility. Learners are more likely to persist when they see themselves as capable contributors whose existing resources matter. The approach is especially important in contexts where learners have been historically pathologized, underestimated, or reduced to labels.
 
 ## Implications
-A strengths-based approach improves learning when instructors make existing capability visible and connect it to next-step growth. Naming what learners can already do can strengthen goal commitment and make challenging work feel more attainable [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S], while structured reflection on effective strategies can support more deliberate self-regulation [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. The main caution is that strengths-based teaching is not generic positivity: it has to identify usable assets without denying barriers or freezing learners into static “strength” roles.
+A strengths-based approach improves learning when instructors make existing capability visible and connect it to next-step growth. Naming what learners can already do can strengthen goal commitment and make challenging work feel more attainable [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S], while structured reflection on effective strategies can support more deliberate self-regulation [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. The main caution is that strengths-based teaching is not generic positivity: it has to identify usable assets without denying barriers or freezing learners into static “strength” roles.
 
 ### Context
 #### Requirements
@@ -69,14 +69,14 @@ A strengths-based approach improves learning when instructors make existing capa
 - Strengths matter most when they are linked to real task demands and growth opportunities.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — learners benefit when they can identify which strategies and assets are already working for them
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — concrete recognition of strengths can support more credible and challenging goal pursuit
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — learners benefit when they can identify which strategies and assets are already working for them
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — concrete recognition of strengths can support more credible and challenging goal pursuit
 
 ## Related Principles
-- [Learner Choice](/principles/learner-choice.md) — strengths-based design often creates multiple legitimate pathways into a task.
-- [Foster Growth Mindset](/principles/foster-growth-mindset.md) — asset framing helps learners interpret challenge as workable rather than identity-defining.
-- [Developing Your Cultural Awareness](/principles/developing-your-cultural-awareness.md) — instructors need cultural awareness to recognize strengths accurately.
-- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md) — learners' strengths are easier to see when work resembles meaningful practice.
+- [Learner Choice](learner-choice.md) — strengths-based design often creates multiple legitimate pathways into a task.
+- [Foster Growth Mindset](foster-growth-mindset.md) — asset framing helps learners interpret challenge as workable rather than identity-defining.
+- [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) — instructors need cultural awareness to recognize strengths accurately.
+- [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — learners' strengths are easier to see when work resembles meaningful practice.
 
 ## Examples
 - **Strengths conference**: Instructor and learner identify effective strategies, prior experiences, and useful supports before setting goals.

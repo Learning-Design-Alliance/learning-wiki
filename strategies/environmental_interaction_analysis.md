@@ -39,8 +39,8 @@ These activities explore the relationships between people and their environments
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in describing environmental characteristics, correctness in analyzing relationships, creativity in writing

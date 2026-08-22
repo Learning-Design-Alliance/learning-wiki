@@ -39,7 +39,7 @@ Playing classical music (e.g., Bach) at a low volume when students enter the roo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
+- [Gain attention](../elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe student behavior and mood upon entering the classroom. Monitor classroom noise levels before and after playing music.

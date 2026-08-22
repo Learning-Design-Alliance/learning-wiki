@@ -39,9 +39,9 @@ Learners create their own word problems to enhance awareness and sharpen basic m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Evaluate the quality and complexity of problems created by learners. Assess the accuracy and completeness of solutions provided by learners. Observe learner engagement and participation in the problem-solving process.

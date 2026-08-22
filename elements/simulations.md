@@ -16,12 +16,12 @@ Simulations are the element in which learners engage with realistic, model-based
 ## Design Implications
 
 ### Affordances
-- [Simulations/Immersive Virtual Environments](/principles/simulations-immersive-virtual-environments.md)
-- [Experiential Learning](/principles/experiential-learning.md)
+- [Simulations/Immersive Virtual Environments](../principles/simulations-immersive-virtual-environments.md)
+- [Experiential Learning](../principles/experiential-learning.md)
 
 ## Related Elements
-- [Scenario-Based Learning](/elements/scenario-based-learning.md)
-- [Role-Playing](/elements/role-playing.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
+- [Role-Playing](role-playing.md)
 
 ## Key Sources
 - de Freitas, S. (2006). Learning in immersive worlds. JISC.

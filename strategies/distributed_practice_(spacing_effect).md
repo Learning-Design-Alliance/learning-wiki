@@ -39,8 +39,8 @@ Distributed practice, also known as the spacing effect, is a learning technique 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Continuous Review](/elements/continuous-review.md)
-- [Practice](/elements/practice.md)
+- [Continuous Review](../elements/continuous-review.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Improved scores on delayed recall tests, better ability to apply concepts to novel situations

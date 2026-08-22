@@ -39,8 +39,8 @@ Learners use the EQ Feeling Chart to identify and communicate their feelings wit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the depth and honesty of learners' sharing. Assess learners' ability to identify and articulate their feelings.

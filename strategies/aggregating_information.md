@@ -39,9 +39,9 @@ Aggregating involves finding and displaying patterns in discussions and other co
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Improved student understanding of key themes, increased ability to connect ideas, and positive feedback on the facilitation of discussions.

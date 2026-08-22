@@ -39,8 +39,8 @@ Start with simple examples when introducing a concept, then progress to more com
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess learners' ability to classify both simple and complex instances of the concept correctly.

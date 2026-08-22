@@ -39,12 +39,12 @@ Explicit spelling instruction involves directly teaching spelling rules, pattern
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Continuous Review](/elements/continuous-review.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Continuous Review](../elements/continuous-review.md)
 
 ## Assessment Evidence
 - Track spelling accuracy on weekly tests, monitor the reduction of frequently misspelled words, and assess the application of spelling rules in writing samples.

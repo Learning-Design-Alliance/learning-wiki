@@ -36,18 +36,18 @@ Socratic questioning is the element in which prompts are used to probe assumptio
 - Clarify assumptions, test evidence, and deepen reasoning.
 
 ### Affordances
-- [Explaining Their Thinking](/principles/explaining-their-thinking.md)
-- [Social Learning](/principles/social-learning.md)
-- [Constructivism](/principles/constructivism.md)
+- [Explaining Their Thinking](../principles/explaining-their-thinking.md)
+- [Social Learning](../principles/social-learning.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Related Elements
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Conceptual Questioning](conceptual-questioning.md)
+- [Class Discussion](class-discussion.md)
+- [Peer Discussion](peer-discussion.md)
 
 ## Patterns That Use This Element
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 - Asking learners what evidence supports a claim and what would count against it.

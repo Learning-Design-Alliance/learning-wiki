@@ -39,9 +39,9 @@ Incorporating mindfulness techniques helps students manage their initial emotion
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe changes in student behavior and emotional responses. Review student reflection on the effect of their mindfulness. Collect student reflections on the effectiveness of mindfulness.

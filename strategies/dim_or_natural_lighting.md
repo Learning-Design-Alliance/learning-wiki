@@ -39,10 +39,10 @@ Using dim or natural lighting in classrooms or learning spaces to promote a calm
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Lectures](/elements/lectures.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Lectures](../elements/lectures.md)
 
 ## Assessment Evidence
 - Observe learner behavior and focus levels under different lighting conditions. Collect feedback from learners on their comfort and concentration levels. Monitor the frequency of distractions or sensory-related issues.

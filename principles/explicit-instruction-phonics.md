@@ -23,7 +23,7 @@ sources:
 Adult learners who struggle with foundational reading skills, including decoding and phonemic awareness, can benefit from explicit phonics instruction. Phonics instruction specifically addresses word-level reading by connecting letters to sounds, aiding learners in reading and comprehending text. Direct instruction that resembles early reading instruction assists adult literacy learning, particularly as adult readers may need to unlearn ineffective reading and writing habits. This process requires explicit teaching and sufficient practice to ensure retention of skills for transfer into long-term memory.
 
 ## Implications
-Explicit phonics instruction is appropriate when word-level reading is the bottleneck preventing broader comprehension. Systematic teaching of sound-symbol patterns, combined with guided practice and adult-appropriate materials, can reduce the cognitive effort required for decoding and make later reading more fluent and less effortful [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S]. Beginning readers benefit from explicit process routines for decoding rather than being pushed directly to independent outcome performance [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], and decoding support is strongest when instructors respond to the specific breakdown in sound-symbol mapping rather than giving generic correction [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]. The instructional caution is that phonics should function as a bridge into meaningful reading, not as an isolated drill system, so transfer into connected text and real literacy goals needs to happen quickly and deliberately [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S].
+Explicit phonics instruction is appropriate when word-level reading is the bottleneck preventing broader comprehension. Systematic teaching of sound-symbol patterns, combined with guided practice and adult-appropriate materials, can reduce the cognitive effort required for decoding and make later reading more fluent and less effortful [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]. Beginning readers benefit from explicit process routines for decoding rather than being pushed directly to independent outcome performance [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], and decoding support is strongest when instructors respond to the specific breakdown in sound-symbol mapping rather than giving generic correction [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]. The instructional caution is that phonics should function as a bridge into meaningful reading, not as an isolated drill system, so transfer into connected text and real literacy goals needs to happen quickly and deliberately [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S].
 
 ### Context
 #### Requirements
@@ -55,28 +55,28 @@ Explicit phonics instruction is appropriate when word-level reading is the bottl
 - Information-processing perspectives support explicit, sequenced instruction for foundational decoding routines
 - Systematic skill-building models fit phonics well because patterns build cumulatively and require repeated practice
 - Adult-learning perspectives qualify delivery: adults still need explicit foundational instruction, but the materials and rationale must respect their maturity and goals
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) supports reducing the burden of word-level processing so attention can later be freed for comprehension
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) supports reducing the burden of word-level processing so attention can later be freed for comprehension
 
 #### Contradicting / Qualifying
 - Phonics is most important when decoding is the bottleneck; it is not the whole reading curriculum
 - Adults need transfer into meaningful reading quickly, or foundational drills may feel disconnected and demotivating
-- Support should move gradually from highly guided decoding to more independent reading and writing [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
+- Support should move gradually from highly guided decoding to more independent reading and writing [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
 
 ### Claims
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — beginning readers benefit from explicit process routines for decoding rather than being pushed directly to outcome performance
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — systematic phonics reduces the cognitive burden of word recognition by building more efficient pattern processing
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — decoding support is stronger when instructors respond to specific breakdowns in sound-symbol mapping
-- [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — learners need support to shift from guided pattern practice toward independent reading of connected text
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — beginning readers benefit from explicit process routines for decoding rather than being pushed directly to outcome performance
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — systematic phonics reduces the cognitive burden of word recognition by building more efficient pattern processing
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — decoding support is stronger when instructors respond to specific breakdowns in sound-symbol mapping
+- [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — learners need support to shift from guided pattern practice toward independent reading of connected text
 
 ## Related Principles
-- [Accessible Vocabulary & Syntax](/principles/accessible-vocabulary-syntax.md) — easier language access supports transfer from decoding practice into meaningful reading
-- [Explicit Instruction: Vocabulary](/principles/explicit-instruction-vocabulary.md) — phonics supports word recognition, while vocabulary supports meaning; both are needed
-- [Chunking](/principles/chunking.md) — phonics instruction often relies on systematic segmentation and manageable pattern sets
-- [Scaffolding and Fading](/principles/scaffolding-and-fading.md) — foundational reading instruction requires temporary support that should be withdrawn gradually
+- [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — easier language access supports transfer from decoding practice into meaningful reading
+- [Explicit Instruction: Vocabulary](explicit-instruction-vocabulary.md) — phonics supports word recognition, while vocabulary supports meaning; both are needed
+- [Chunking](chunking.md) — phonics instruction often relies on systematic segmentation and manageable pattern sets
+- [Scaffolding and Fading](scaffolding-and-fading.md) — foundational reading instruction requires temporary support that should be withdrawn gradually
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [Word Study](/strategies/word_study.md) — pattern-based work on spelling and word structure
+- [Word Study](../strategies/word_study.md) — pattern-based work on spelling and word structure
 - Adult decoding lessons focused on high-value sound-symbol correspondences and transfer to authentic reading tasks
 - Guided reading of short adult-appropriate texts that reuse taught patterns
 - Spelling and proofreading practice tied to taught phonics patterns can reinforce transfer into writing

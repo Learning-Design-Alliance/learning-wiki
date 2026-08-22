@@ -39,9 +39,9 @@ Students identify the text structure prior to reading (e.g., compare and contras
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Activation](/elements/activation.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Activation](../elements/activation.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Accurate completion of graphic organizer.

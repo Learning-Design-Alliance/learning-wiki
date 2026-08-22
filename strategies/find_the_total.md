@@ -39,8 +39,8 @@ Learners are shown two dot cards and asked to find the total number of dots. In 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor the accuracy of the total found. Observe the strategies used to find the total.

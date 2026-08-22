@@ -39,10 +39,10 @@ Establish physical spaces where learners can invent, design, and build things us
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Solution Development](/elements/solution-development.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Evaluate learner creativity and innovation in their projects. Assess their ability to apply theoretical knowledge to real-world problems. Observe their collaboration and problem-solving skills.

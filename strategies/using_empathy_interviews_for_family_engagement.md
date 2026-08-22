@@ -39,8 +39,8 @@ Empathy interviews involve targeted, one-on-one conversations with a small sampl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Question Formulation](/elements/question-formulation.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track community responses

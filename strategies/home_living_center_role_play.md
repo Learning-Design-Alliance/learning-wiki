@@ -39,8 +39,8 @@ Learners visit the home living center to role play different characters and rela
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - The facilitator can observe how the learner uses vocabulary to create their story. Ask learners to do an individual reflection of how they used emotions and what they learned in the role playing exercise.

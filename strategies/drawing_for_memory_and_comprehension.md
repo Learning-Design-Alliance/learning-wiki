@@ -39,10 +39,10 @@ Drawing involves visually, kinesthetically, and semantically processing informat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Measure improvements in recall and comprehension through pre- and post-drawing assessments. Evaluate the depth and complexity of students’ drawings and explanations. Observe students’ engagement and enthusiasm during drawing activities.

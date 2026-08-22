@@ -39,8 +39,8 @@ Designing classroom activities that involve cooperative work encourages a growth
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Team-Based Inquiry](/elements/team-based-inquiry.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Team-Based Inquiry](../elements/team-based-inquiry.md)
 
 ## Assessment Evidence
 - Monitor group dynamics, assess individual contributions, and observe changes in learner attitudes towards collaboration and effort.

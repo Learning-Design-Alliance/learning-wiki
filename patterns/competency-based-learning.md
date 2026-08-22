@@ -42,13 +42,13 @@ Competency-Based Learning is a pattern that organizes progression around demonst
 ### Theory
 #### Supporting
 - Mastery learning and criterion-referenced assessment traditions.
-- [Self-Regulated Learning](/theories/self-regulated-learning.md)
+- [Self-Regulated Learning](../theories/self-regulated-learning.md)
 #### Contradicting / Qualifying
 - Competency frameworks can become reductive if complex performance is broken into isolated fragments.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Design
 
@@ -60,17 +60,17 @@ Competency-Based Learning is a pattern that organizes progression around demonst
 5. Reassess and advance on demonstrated competence.
 
 ### Elements Used
-- [Assessment](/elements/assessment.md)
-- [Feedback](/elements/feedback.md)
-- [Reassessment](/elements/reassessment.md)
+- [Assessment](../elements/assessment.md)
+- [Feedback](../elements/feedback.md)
+- [Reassessment](../elements/reassessment.md)
 
 ### Affordances
-- [Competency-Based Learning & Assessment](/principles/competency-based-learning-assessment.md)
-- [Mastery Learning](/principles/mastery-learning.md)
-- [Formative Assessment](/principles/formative-assessment.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-learning-assessment.md)
+- [Mastery Learning](../principles/mastery-learning.md)
+- [Formative Assessment](../principles/formative-assessment.md)
 
 ## Related Patterns
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Mastery Learning](mastery-learning.md)
 
 ## Examples
 - A competency map that lets learners reassess specific standards until they show proficiency.

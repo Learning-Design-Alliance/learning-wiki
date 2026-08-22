@@ -39,9 +39,9 @@ Helps kids learn to use numbers and master them in a visual way, offering moveab
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Monitor performance in visual grouping and sorting exercises.

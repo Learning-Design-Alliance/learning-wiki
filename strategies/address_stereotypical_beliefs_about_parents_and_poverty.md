@@ -39,8 +39,8 @@ Teachers and educators should challenge and avoid stereotypical beliefs about pa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Monitor changes in attitudes and behaviors. Gather feedback from parents and educators.

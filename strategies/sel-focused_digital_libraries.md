@@ -39,8 +39,8 @@ This strategy involves curating digital libraries to include a section of books 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Hypertext Navigation](/elements/hypertext-navigation.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Hypertext Navigation](../elements/hypertext-navigation.md)
 
 ## Assessment Evidence
 - Track usage of SEL-focused books, survey teachers about their use of the digital library, and assess students' SEL skills before and after implementation.

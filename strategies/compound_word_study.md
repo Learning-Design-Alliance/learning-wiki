@@ -39,9 +39,9 @@ Begin teaching how to spell multisyllable words by beginning with compounds. The
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Assess accuracy in spelling compound words. Monitor progress in spelling and vocabulary skills.

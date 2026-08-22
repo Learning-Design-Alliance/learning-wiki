@@ -39,9 +39,9 @@ Pair strategy instruction with written prompts to guide students toward independ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review written responses to prompts to assess ability to evaluate sources and weigh evidence. Evaluate ability to recognize and consider new ideas against existing beliefs.

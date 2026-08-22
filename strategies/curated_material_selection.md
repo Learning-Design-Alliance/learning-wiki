@@ -39,7 +39,7 @@ Regularly assessing materials for relevance and discarding broken, old, or usele
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor the level of clutter and organization in the classroom. Observe how easily students and teachers can access necessary materials.

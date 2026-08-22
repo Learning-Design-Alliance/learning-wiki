@@ -31,18 +31,18 @@ Real-world problems are tasks framed around authentic issues, needs, or dilemmas
 - Support application, transfer, and learner investment through authentic context.
 
 ### Affordances
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md)
-- [Engagement](/principles/engagement.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
+- [Engagement](../principles/engagement.md)
 
 ## Related Elements
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Scenario-Based Learning](/elements/scenario-based-learning.md)
-- [Contextualization](/elements/contextualization.md)
+- [Problem Presentation](problem-presentation.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
+- [Contextualization](contextualization.md)
 
 ## Patterns That Use This Element
-- [Anchored Instruction](/patterns/anchored-instruction.md)
-- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
+- [Anchored Instruction](../patterns/anchored-instruction.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 - Learners address a local civic issue, client problem, or design challenge with real constraints.

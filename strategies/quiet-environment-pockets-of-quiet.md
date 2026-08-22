@@ -24,11 +24,11 @@ Reducing background noise in classrooms supports increased learner attention. Th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - All learners who struggle with focus due to environmental distractions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Increase learner attention, foster self-regulation, reduce distractions
 
 ### Affordances
@@ -39,8 +39,8 @@ Reducing background noise in classrooms supports increased learner attention. Th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student focus and engagement in quiet spaces. Collect feedback from students on the effectiveness of quiet spaces. Measure noise levels in classroom.

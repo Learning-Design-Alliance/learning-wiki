@@ -39,9 +39,9 @@ A pedagogical approach that focuses on planning with learners’ strengths at th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Learner participation in discussions, quality of connections made between learners, ability to share different perspectives

@@ -39,8 +39,8 @@ Combining two or more calming sensory strategies can create a more effective and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the child's behavior and emotional state before, during, and after using the combination of strategies. Monitor the child's self-regulation and ability to manage sensory input.

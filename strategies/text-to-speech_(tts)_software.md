@@ -39,9 +39,9 @@ Text-to-speech (TTS) software allows written text to be read aloud. It can conve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Improved reading comprehension, increased fluency, enhanced productivity, and positive user feedback. Assess user's ability to proofread, manage time, and engage with digital content more effectively.

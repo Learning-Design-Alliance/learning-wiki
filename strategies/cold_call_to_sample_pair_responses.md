@@ -39,8 +39,8 @@ Using cold call to select students to share their pair's responses reinforces ex
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess Performance](/elements/assess-performance.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the level of student engagement and participation. Assess the quality and depth of student responses. Monitor whether students are listening to and building on each other's ideas.

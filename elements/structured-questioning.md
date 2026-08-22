@@ -31,18 +31,18 @@ Instructors guide learners with sequenced, purposeful questions to scaffold deep
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Constructivism](/principles/constructivism.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
+- [Constructivism](../principles/constructivism.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [Socratic Questioning](/elements/socratic-questioning.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Guided Inquiry](/elements/guided-inquiry.md)
+- [Socratic Questioning](socratic-questioning.md)
+- [Peer Discussion](peer-discussion.md)
+- [Guided Inquiry](guided-inquiry.md)
 
 ## Patterns That Use This Element
-- [POGIL](/patterns/pogil.md)
-- [Inquiry-Based Learning](/patterns/inquiry-based-learning.md)
+- [POGIL](../patterns/pogil.md)
+- [Inquiry-Based Learning](../patterns/inquiry-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

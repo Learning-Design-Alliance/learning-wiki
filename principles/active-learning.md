@@ -23,7 +23,7 @@ sources:
 Active learning is the principle that learners should do meaningful cognitive work with content rather than only receive it. The core move is not activity for its own sake, but requiring learners to explain, apply, compare, predict, generate, or revise so that understanding is constructed through use.
 
 ## Implications
-Active learning improves learning when the activity requires learners to think with the content rather than merely touch it. Explanation, prediction, retrieval, and comparison are especially valuable because they force learners to surface assumptions, test understanding, and revise mental models [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. That is why active learning typically works best when tasks are focused, accountable, and supported with feedback: poorly structured activity can still become busywork, while well-designed activity can even turn confidently expressed mistakes into opportunities for stronger retention when those errors are corrected and discussed [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [~S].
+Active learning improves learning when the activity requires learners to think with the content rather than merely touch it. Explanation, prediction, retrieval, and comparison are especially valuable because they force learners to surface assumptions, test understanding, and revise mental models [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. That is why active learning typically works best when tasks are focused, accountable, and supported with feedback: poorly structured activity can still become busywork, while well-designed activity can even turn confidently expressed mistakes into opportunities for stronger retention when those errors are corrected and discussed [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S].
 
 ### Context
 #### Requirements
@@ -43,19 +43,19 @@ Active learning improves learning when the activity requires learners to think w
 
 ### Theory
 #### Supporting
-- [Constructivism](/principles/constructivism.md)
-- [Information Processing Theory](/theories/information-processing-theory.md)
+- [Constructivism](constructivism.md)
+- [Information Processing Theory](../theories/information-processing-theory.md)
 #### Contradicting / Qualifying
 - Active learning still needs structure, modeling, and feedback to be instructionally effective.
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — active tasks are strongest when learners explain, compare, or justify rather than only complete an action
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [~S] — prediction and discussion tasks can make errors instructionally valuable when they are surfaced and corrected
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — active tasks are strongest when learners explain, compare, or justify rather than only complete an action
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — prediction and discussion tasks can make errors instructionally valuable when they are surfaced and corrected
 
 ## Related Principles
-- [Guided Practice](/principles/guided-practice.md)
-- [Explaining Their Thinking](/principles/explaining-their-thinking.md)
-- [Social Learning](/principles/social-learning.md)
+- [Guided Practice](guided-practice.md)
+- [Explaining Their Thinking](explaining-their-thinking.md)
+- [Social Learning](social-learning.md)
 
 ## Examples
 - Learners solve, discuss, and compare approaches instead of only hearing a lecture.

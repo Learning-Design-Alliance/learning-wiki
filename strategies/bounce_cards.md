@@ -39,10 +39,10 @@ Bounce cards provide a structured way for students to engage in cooperative lear
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Modeling](/elements/modeling.md)
-- [Practice](/elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Modeling](../elements/modeling.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Increased student participation, improved quality of dialogue, enhanced listening skills, more respectful interactions, greater collaboration in group activities

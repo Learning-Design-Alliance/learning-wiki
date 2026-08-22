@@ -39,8 +39,8 @@ Promote a balance between screen time and physical activity by encouraging child
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Supportive information](/elements/supportive-information.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Tracking of screen time habits, monitoring of physical activity levels, self-reported well-being.

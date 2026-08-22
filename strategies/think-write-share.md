@@ -39,10 +39,10 @@ Think-Write-Share is a strategy that involves learners thinking about a question
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Response](/elements/individual-response.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Reassessment](/elements/reassessment.md)
+- [Individual Response](../elements/individual-response.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Reassessment](../elements/reassessment.md)
 
 ## Assessment Evidence
 - Monitor the initial responses to identify common misconceptions. Assess the quality of revisions following the sharing and discussion phase. Track overall participation and engagement levels.

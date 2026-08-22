@@ -24,11 +24,11 @@ After a formative assessment or test the class may have a discussion about what 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Students
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Reflect on problems, discuss mathematical processes
 
 ### Affordances
@@ -39,8 +39,8 @@ After a formative assessment or test the class may have a discussion about what 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Improved student understanding, increased student communication, and deeper reflection on learning experiences.

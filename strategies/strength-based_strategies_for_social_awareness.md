@@ -39,13 +39,13 @@ Educators identify students' strengths related to social awareness and leverage 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Case Study](/elements/case-study.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Case Study](../elements/case-study.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions, analyze student reflections, assess the quality of communication and conflict resolution skills, and monitor changes in student behavior and relationships. Gather feedback from students on the effectiveness of the strategies.

@@ -39,10 +39,10 @@ Multisensory instruction uses a combination of visual, auditory, and tactile-kin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved reading accuracy, fluency, and comprehension. Increased engagement and participation.

@@ -39,12 +39,12 @@ A digital library includes a dedicated section of books focused on social and em
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Demonstration](/elements/demonstration.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Track usage of the SEL section, survey teachers and students about the usefulness of the resources, and analyze student work for evidence of improved SEL skills. Monitor the diversity and relevance of titles to ensure the collection meets the needs of the school community.

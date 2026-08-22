@@ -39,8 +39,8 @@ Knowing what you know and don’t know focuses learning. Feedback is an integral
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Improved tutee performance, increased self-awareness, positive feedback from tutees about feedback.

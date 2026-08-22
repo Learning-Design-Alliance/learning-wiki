@@ -39,9 +39,9 @@ Emotion Charades involves a student acting out a scenario that makes them feel a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Practice](/elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' ability to accurately portray emotions and interpret others' portrayals. Assess the depth and complexity of the emotions explored.

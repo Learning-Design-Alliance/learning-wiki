@@ -39,9 +39,9 @@ This strategy involves monitoring the temperature of a learning environment and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track learner performance metrics (e.g., test scores, task completion rates) in relation to temperature levels. Monitor learner feedback regarding thermal comfort and its impact on concentration. Observe changes in learner behavior (e.g., fidgeting, drowsiness) as indicators of temperature-related discomfort.

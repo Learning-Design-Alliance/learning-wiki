@@ -39,9 +39,9 @@ Speech-to-text technology converts spoken language into written text, benefiting
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Measure writing speed and fluency with and without speech recognition software. Evaluate the accuracy of transcriptions produced by the software. Gather feedback from users on their experience and perceived benefits. Track improvements in writing quality and confidence over time.

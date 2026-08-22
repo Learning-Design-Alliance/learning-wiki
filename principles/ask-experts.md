@@ -32,7 +32,7 @@ Give learners structured access to people with deeper domain expertise so they c
 
 ## Implications
 
-Asking experts works best when the interaction helps learners move from vague confusion to more precise reasoning. The expert's role is not only to provide answers, but to make disciplinary judgment visible, surface key vocabulary and distinctions, and redirect learners toward productive next steps. This is strongest when support is contingent on what the learner actually understands [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M], when the expert prompts learners to explain their own reasoning instead of merely listening to answers [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S], and when the expert gradually hands responsibility back to the learner rather than remaining the permanent problem-solver [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S]. In practice this often overlaps with [Coaching](/elements/coaching.md), [Feedback](/elements/feedback.md), [Demonstration](/elements/demonstration.md), and [Conceptual Questioning](/elements/conceptual-questioning.md).
+Asking experts works best when the interaction helps learners move from vague confusion to more precise reasoning. The expert's role is not only to provide answers, but to make disciplinary judgment visible, surface key vocabulary and distinctions, and redirect learners toward productive next steps. This is strongest when support is contingent on what the learner actually understands [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M], when the expert prompts learners to explain their own reasoning instead of merely listening to answers [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and when the expert gradually hands responsibility back to the learner rather than remaining the permanent problem-solver [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]. In practice this often overlaps with [Coaching](../elements/coaching.md), [Feedback](../elements/feedback.md), [Demonstration](../elements/demonstration.md), and [Conceptual Questioning](../elements/conceptual-questioning.md).
 
 ### Context
 #### Requirements
@@ -44,7 +44,7 @@ Asking experts works best when the interaction helps learners move from vague co
 #### Constraints
 - Hard to scale with fidelity in large-group settings; responsive expert interaction is time-intensive and depends on scarce human attention
 - Quality varies with the expert's instructional skill; deep content knowledge alone does not guarantee clear explanation or effective questioning
-- Can produce dependency if experts solve problems for learners instead of diagnosing understanding and fading support [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
+- Can produce dependency if experts solve problems for learners instead of diagnosing understanding and fading support [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
 - Less effective when learners lack enough background knowledge to ask meaningful questions or interpret expert answers without additional scaffolding
 - Can intimidate learners with low confidence, low status, or limited language proficiency unless the interaction is deliberately structured and supportive
 
@@ -66,33 +66,33 @@ Asking experts works best when the interaction helps learners move from vague co
 #### Supporting
 - Social constructivist accounts (Vygotsky, Bruner) support expert interaction as a way to extend learner performance through guided dialogue and shared meaning-making
 - Social learning theory (Bandura) supports learning through observation, modeling, and guided imitation of more capable others
-- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md) operationalizes the principle by making expert thinking visible and combining modeling, coaching, scaffolding, and fading
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) qualifies expert support as most useful when it reduces unproductive search and clarifies decisions for novices
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) operationalizes the principle by making expert thinking visible and combining modeling, coaching, scaffolding, and fading
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) qualifies expert support as most useful when it reduces unproductive search and clarifies decisions for novices
 
 #### Contradicting / Qualifying
 - Overly directive expert help can suppress generative processing if learners are positioned as passive recipients rather than active explainers
-- The value of expert access depends on contingency; interactive questioning and hints outperform simple explanation for transfer in tutoring studies [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
-- Support should fade as competence grows; keeping experts as constant problem-solvers can interfere with independence [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
+- The value of expert access depends on contingency; interactive questioning and hints outperform simple explanation for transfer in tutoring studies [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- Support should fade as competence grows; keeping experts as constant problem-solvers can interfere with independence [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
 
 ### Claims
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — expert interaction is more effective when support is responsive to learner understanding, especially through hints and questioning rather than explanation alone
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — expert questioning is especially valuable when it prompts learners to explain their own reasoning instead of only listening to answers
-- [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — expert involvement should decrease as competence increases so learners assume more responsibility for performance
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — experts can improve novice learning by redirecting attention from "getting the right answer" to strategies, criteria, and process
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — expert interaction is more effective when support is responsive to learner understanding, especially through hints and questioning rather than explanation alone
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — expert questioning is especially valuable when it prompts learners to explain their own reasoning instead of only listening to answers
+- [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — expert involvement should decrease as competence increases so learners assume more responsibility for performance
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — experts can improve novice learning by redirecting attention from "getting the right answer" to strategies, criteria, and process
 
 ## Related Principles
-- [Mentoring/Coaching](/principles/mentoringcoaching.md) — a broader relationship structure in which expert guidance is sustained over time rather than episodic
-- [Communities of Practice](/principles/communities-of-practice.md) — extends expert access into sustained participation in a practice community
-- [Guided Practice](/principles/guided-practice.md) — turns expert explanation into coached performance on real tasks
-- [Explaining Their Thinking](/principles/explaining-their-thinking.md) — experts are most useful when they elicit learner reasoning rather than replacing it
-- [Purposeful Reflection](/principles/purposeful-reflection.md) — follow-up reflection helps consolidate what was learned from the interaction and what remains uncertain
+- [Mentoring/Coaching](mentoringcoaching.md) — a broader relationship structure in which expert guidance is sustained over time rather than episodic
+- [Communities of Practice](communities-of-practice.md) — extends expert access into sustained participation in a practice community
+- [Guided Practice](guided-practice.md) — turns expert explanation into coached performance on real tasks
+- [Explaining Their Thinking](explaining-their-thinking.md) — experts are most useful when they elicit learner reasoning rather than replacing it
+- [Purposeful Reflection](purposeful-reflection.md) — follow-up reflection helps consolidate what was learned from the interaction and what remains uncertain
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md) — learners observe expert reasoning, attempt similar work, and receive coaching with gradually fading support
-- [Leveraging Instructor Office Hours](/strategies/leveraging_instructor_office_hours.md) — scheduled access to disciplinary experts for question-driven clarification, feedback, and advice
-- [Coaching](/elements/coaching.md) — one-to-one or small-group expert guidance during performance
-- [Demonstration](/elements/demonstration.md) — experts make tacit processes visible before learners attempt the task themselves
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — learners observe expert reasoning, attempt similar work, and receive coaching with gradually fading support
+- [Leveraging Instructor Office Hours](../strategies/leveraging_instructor_office_hours.md) — scheduled access to disciplinary experts for question-driven clarification, feedback, and advice
+- [Coaching](../elements/coaching.md) — one-to-one or small-group expert guidance during performance
+- [Demonstration](../elements/demonstration.md) — experts make tacit processes visible before learners attempt the task themselves
 - Clinical rounds, design critiques, code reviews, and studio conferences are common real-world forms of this principle when experts respond directly to learner work
 
 ## Key Sources

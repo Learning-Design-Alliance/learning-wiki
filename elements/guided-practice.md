@@ -16,12 +16,12 @@ Guided practice is the element in which learners attempt a task with active supp
 ## Design Implications
 
 ### Affordances
-- [Guided Practice](/principles/guided-practice.md)
-- [Scaffolding](/principles/scaffolding.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Scaffolding](../principles/scaffolding.md)
 
 ## Related Elements
-- [Practice](/elements/practice.md)
-- [Immediate Feedback](/elements/immediate-feedback.md)
+- [Practice](practice.md)
+- [Immediate Feedback](immediate-feedback.md)
 
 ## Key Sources
 - Rosenshine, B. (2012). Principles of instruction. *American Educator, 36*(1), 12-19.

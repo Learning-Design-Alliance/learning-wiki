@@ -39,8 +39,8 @@ Creating a classroom culture where errors become learning opportunities involves
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
 
 ## Assessment Evidence
 - Observe changes in student participation, willingness to take risks, and attitudes toward errors. Collect feedback from students on their perceptions of the classroom environment and their feelings about math. Analyze student work to identify common errors and misconceptions.

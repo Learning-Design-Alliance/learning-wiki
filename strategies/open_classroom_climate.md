@@ -39,9 +39,9 @@ An open classroom climate is a learning environment where students feel safe to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Monitor student participation and engagement in discussions, assess the quality of their arguments and reasoning, and evaluate their ability to consider diverse perspectives. Journal entries and written reflections can provide insights into student learning and attitude shifts.

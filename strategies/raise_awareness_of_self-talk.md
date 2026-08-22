@@ -39,8 +39,8 @@ Raise awareness by helping students understand the concept of self-talk: what it
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Student journals or notebooks reflecting identified patterns in self-talk.

@@ -39,8 +39,8 @@ Using graphics or gestures can help learners who face auditory processing challe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe the frequency and effectiveness of visual cue use. Review notes to see if students take advantage of the visual aids.

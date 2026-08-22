@@ -39,8 +39,8 @@ Learners use different colors to represent different emotions in art, which crea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learners' ability to connect colors with appropriate emotions. Assess their participation and engagement in the activity.

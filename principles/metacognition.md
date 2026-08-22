@@ -19,7 +19,7 @@ sources:
 Metacognition is the principle of helping learners monitor, evaluate, and regulate their own thinking. It matters when learners need to notice what they understand, where they are confused, and what strategy or support they should use next.
 
 ## Implications
-Metacognition improves learning when learners can compare their current understanding against a visible standard and decide what to do next. Prompts that ask learners to predict performance, explain confidence, or select a next strategy can strengthen self-regulation [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M], but only if the environment also provides usable feedback and room to adjust. For novices, that often means focusing reflection on actionable process rather than only distant outcomes [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. The practical risk is ritualized reflection: generic self-reporting without criteria, examples, or consequences can sound metacognitive without actually improving judgment.
+Metacognition improves learning when learners can compare their current understanding against a visible standard and decide what to do next. Prompts that ask learners to predict performance, explain confidence, or select a next strategy can strengthen self-regulation [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M], but only if the environment also provides usable feedback and room to adjust. For novices, that often means focusing reflection on actionable process rather than only distant outcomes [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. The practical risk is ritualized reflection: generic self-reporting without criteria, examples, or consequences can sound metacognitive without actually improving judgment.
 
 ### Context
 #### Requirements
@@ -38,19 +38,19 @@ Metacognition improves learning when learners can compare their current understa
 
 ### Theory
 #### Supporting
-- [Self-Regulated Learning](/theories/self-regulated-learning.md)
+- [Self-Regulated Learning](../theories/self-regulated-learning.md)
 - Information-processing traditions that emphasize monitoring and control of cognition.
 #### Contradicting / Qualifying
 - Metacognitive prompts work best when paired with feedback, examples, or criteria rather than reflection alone.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — metacognitive routines improve learning when learners monitor understanding and strategy against visible criteria
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice learners often need reflection focused on what to do next, not just whether they reached the endpoint
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — metacognitive routines improve learning when learners monitor understanding and strategy against visible criteria
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice learners often need reflection focused on what to do next, not just whether they reached the endpoint
 
 ## Related Principles
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Purposeful Reflection](/principles/purposeful-reflection.md)
+- [Goal Setting & Monitoring](goal-setting-monitoring.md)
+- [Formative Assessment](formative-assessment.md)
+- [Purposeful Reflection](purposeful-reflection.md)
 
 ## Examples
 - Learners predict performance before a quiz and compare the result afterward.

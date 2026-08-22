@@ -39,9 +39,9 @@ The approach involves specifically identifying student strengths and challenges 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Modeling](/elements/modeling.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Discussion Sections](/elements/discussion-sections.md)
+- [Modeling](../elements/modeling.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Discussion Sections](../elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Observe student interactions and communication skills to gauge their level of empathy and understanding. Collect student reflections on their experiences and growth in social awareness. Use formative assessments to track student progress and adjust strategies as needed.

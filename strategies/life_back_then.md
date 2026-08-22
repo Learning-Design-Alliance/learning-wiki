@@ -39,11 +39,11 @@ Learners pick a time in history and a character who lived then, researching and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Research](/elements/research.md)
-- [Demonstration](/elements/demonstration.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Research](../elements/research.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess the depth of research, the accuracy of representation, and the level of empathy demonstrated in the presentation. Monitor changes in learners' attitudes towards different historical periods and cultures.

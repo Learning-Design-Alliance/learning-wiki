@@ -39,10 +39,10 @@ When teaching a new technique, providing multiple examples helps students unders
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Student writing samples demonstrating the application of the technique. Participation in discussions and analyses of examples. Student reflections on their writing process.

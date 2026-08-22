@@ -39,9 +39,9 @@ Use simulated environments or situations that mirror real-world challenges. Enga
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Role Reversal](/elements/role-reversal.md)
-- [Case Study](/elements/case-study.md)
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Role Reversal](../elements/role-reversal.md)
+- [Case Study](../elements/case-study.md)
 
 ## Assessment Evidence
 - Assess learners' decision-making skills within the scenario. Evaluate their ability to apply concepts to solve problems.

@@ -39,11 +39,11 @@ The key step is building a trusting community by giving students time to reflect
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Case Study](/elements/case-study.md)
-- [Application](/elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Case Study](../elements/case-study.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe the depth and quality of student discussions, assess changes in attitudes and behaviors related to race and equity, and evaluate the effectiveness of interventions designed to promote positive racial identity formation.

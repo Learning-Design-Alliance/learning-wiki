@@ -31,18 +31,18 @@ Learners explain concepts to peers, reinforcing their own understanding.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Metacognition](/principles/metacognition.md)
+- [Social Learning](../principles/social-learning.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Expert Groups](/elements/expert-groups.md)
-- [Reciprocal Teaching](/elements/reciprocal-teaching.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Expert Groups](expert-groups.md)
+- [Reciprocal Teaching](reciprocal-teaching.md)
+- [Knowledge Synthesis](knowledge-synthesis.md)
 
 ## Patterns That Use This Element
-- [Jigsaw](/patterns/jigsaw.md)
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
-- [Peer Instruction](/patterns/peer-instruction.md)
+- [Jigsaw](../patterns/jigsaw.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Peer Instruction](../patterns/peer-instruction.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

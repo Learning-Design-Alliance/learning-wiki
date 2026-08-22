@@ -39,11 +39,11 @@ Establish clear guidelines for group discussions, emphasizing engagement, comfor
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Argument Construction](/elements/argument-construction.md)
-- [Role Reversal](/elements/role-reversal.md)
-- [Consensus Building](/elements/consensus-building.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Argument Construction](../elements/argument-construction.md)
+- [Role Reversal](../elements/role-reversal.md)
+- [Consensus Building](../elements/consensus-building.md)
 
 ## Assessment Evidence
 - Observe the quality of interactions, the level of engagement, and the degree of respect shown among participants. Collect feedback on the effectiveness of the guidelines in promoting productive dialogue.

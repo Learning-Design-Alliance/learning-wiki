@@ -39,7 +39,7 @@ Display student work. Feature inspiring role models. Avoid clutter. Visual aidsâ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Student Feedback

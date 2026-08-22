@@ -39,8 +39,8 @@ Developing cultural awareness as an educator includes building empathy for diver
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track changes in attitudes and behaviors. Monitor implementation of inclusive practices. Gather feedback from learners and families.

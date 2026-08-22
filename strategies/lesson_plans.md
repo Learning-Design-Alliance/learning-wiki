@@ -39,9 +39,9 @@ Lesson plans are visual aids used by educators to stay organized and inspire the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Demonstration](/elements/demonstration.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Evaluate the organization and clarity of the lesson plan. Assess the effectiveness of visual elements. Track student engagement and outcomes.

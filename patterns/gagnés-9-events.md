@@ -37,14 +37,14 @@ Gagné's 9 Events is a lesson pattern that sequences attention, objectives, reca
 
 ### Theory
 #### Supporting
-- [Information Processing Theory](/theories/information-processing-theory.md)
+- [Information Processing Theory](../theories/information-processing-theory.md)
 - Guided instruction traditions
 #### Contradicting / Qualifying
 - Inquiry-heavy work may need nonlinear movement across the events.
 
 ### Claims
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 
 ## Design
 
@@ -60,18 +60,18 @@ Gagné's 9 Events is a lesson pattern that sequences attention, objectives, reca
 9. Enhance retention and transfer.
 
 ### Elements Used
-- [Activation](/elements/activation.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assessment](/elements/assessment.md)
+- [Activation](../elements/activation.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [Guided Practice](/principles/guided-practice.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
-- [Formative Assessment](/principles/formative-assessment.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Formative Assessment](../principles/formative-assessment.md)
 
 ## Related Patterns
-- [Gagné's 9 Events of Instruction](/patterns/gagnés-9-events-of-instruction.md)
+- [Gagné's 9 Events of Instruction](gagnés-9-events-of-instruction.md)
 
 ## Examples
 - A direct-instruction lesson that moves from prior knowledge activation to guided practice and transfer.

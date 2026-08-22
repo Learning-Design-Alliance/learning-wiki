@@ -39,9 +39,9 @@ Assessing and differentiating language skills in project-based learning (PBL) in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Improved student performance, enhanced language skills observed in project work, and positive feedback from students and educators.

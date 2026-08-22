@@ -39,8 +39,8 @@ Time plus energy equals learning. There is no substitute for time on task. Learn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Improved assignment completion rates, better time management skills, positive feedback from tutees about session structure.

@@ -39,8 +39,8 @@ Find a public park or walkable street where you can post pages of a book to crea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Application](/elements/application.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Track participation, gather feedback from families

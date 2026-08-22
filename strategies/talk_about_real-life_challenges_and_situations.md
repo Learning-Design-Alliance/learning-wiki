@@ -39,8 +39,8 @@ Facilitating discussions about the challenges learners are facing and how they f
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Learners' ability to articulate their feelings and identify positive aspects of challenging situations. Self-reported changes in mindset and behavior.

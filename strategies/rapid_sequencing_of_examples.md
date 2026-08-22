@@ -39,8 +39,8 @@ Present instances of a concept in rapid sequence or allow all instances to be vi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Demonstration](../elements/demonstration.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Observe learners' ability to identify common features and accurately classify new examples.

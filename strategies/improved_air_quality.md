@@ -39,7 +39,7 @@ Indoor air quality is also a concern because poor air quality is a major contrib
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - School absentee

@@ -39,8 +39,8 @@ Skimming involves reviewing a text quickly, focusing on headings, captions, and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Activation](/elements/activation.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Activation](../elements/activation.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Improved reading comprehension, demonstrated understanding of the key points in the text.

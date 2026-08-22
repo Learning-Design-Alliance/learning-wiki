@@ -39,8 +39,8 @@ Providing students authorship and allowing them to share their stories empowers 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Evaluate student contributions to class discussions and projects. Assess student leadership and agency in learning activities. Review student reflections on their learning experiences.

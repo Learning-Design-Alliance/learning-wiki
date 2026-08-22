@@ -39,9 +39,9 @@ The keyword strategy is a mnemonic technique that enhances memory by linking new
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Demonstration](/elements/demonstration.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Improved vocabulary test scores, increased ability to recall definitions, enhanced application of new vocabulary in context, and positive student feedback on the strategy.

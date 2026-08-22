@@ -39,9 +39,9 @@ Addressing speed of processing involves identifying students' strengths and chal
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student work samples demonstrating the use of aligned strategies, student reflections on the effectiveness of the strategies used, educator reflections on the impact of the strategies on student learning

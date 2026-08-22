@@ -39,9 +39,9 @@ Learners identify, label, or match facial expressions and feelings. This can inc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately identify and label feelings in themselves and others. Review written or verbal responses for depth of emotional understanding.

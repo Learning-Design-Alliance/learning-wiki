@@ -39,9 +39,9 @@ This strategy focuses on understanding and addressing the differences between in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe reduced conflicts and increased collaboration among students. Gather student feedback on their sense of cultural validation and belonging.

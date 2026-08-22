@@ -47,14 +47,14 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - Can help systems respond to readiness without forcing a uniform pace
 
 ## Related Elements
-- [Adaptive Mastery Learning](/elements/adaptive-mastery-learning.md)
-- [Mastery Progression](/elements/mastery-progression.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Quizzes](/elements/quizzes.md)
+- [Adaptive Mastery Learning](adaptive-mastery-learning.md)
+- [Mastery Progression](mastery-progression.md)
+- [Provide Feedback](provide-feedback.md)
+- [Quizzes](quizzes.md)
 
 ## Patterns That Use This Element
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](/patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
-- [Cognitive Load Reduction (CLT + Scaffolding Approach)](/patterns/cognitive-load-reduction-clt-scaffolding-approach.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Cognitive Load Reduction (CLT + Scaffolding Approach)](../patterns/cognitive-load-reduction-clt-scaffolding-approach.md)
 
 ## Examples
 - A math platform raises problem complexity after consistent accuracy and lowers it after repeated errors

@@ -39,10 +39,10 @@ Free play is a child-led activity where learners explore and develop skills thro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe children's engagement, interactions, and skill development during free play. Document patterns of play, social dynamics, and individual interests. Discuss experiences with children to validate observations and guide resource selection.

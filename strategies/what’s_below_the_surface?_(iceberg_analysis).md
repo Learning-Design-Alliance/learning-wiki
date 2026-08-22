@@ -39,9 +39,9 @@ This strategy involves using the metaphor of an iceberg to encourage students to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Case Study](../elements/case-study.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess student illustrations of icebergs, quality of discussions, and depth of analysis of character motivations.

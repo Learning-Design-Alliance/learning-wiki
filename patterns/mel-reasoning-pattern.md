@@ -37,17 +37,17 @@ MEL Reasoning Pattern is the short-form canonical target for the Model-Evidence-
 
 ### Theory
 #### Supporting
-- [Epistemic Cognition](/principles/epistemic-cognition.md)
-- [Constructivism](/principles/constructivism.md)
+- [Epistemic Cognition](../principles/epistemic-cognition.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Design
 
 ### Elements Used
-- [Justification & Argumentation](/elements/justification-argumentation.md)
-- [Evidence-Based Reasoning](/elements/evidence-based-reasoning.md)
+- [Justification & Argumentation](../elements/justification-argumentation.md)
+- [Evidence-Based Reasoning](../elements/evidence-based-reasoning.md)
 
 ## Related Patterns
-- [Model-Evidence-Link (MEL) Reasoning Pattern](/patterns/model-evidence-link-mel-reasoning-pattern.md)
+- [Model-Evidence-Link (MEL) Reasoning Pattern](model-evidence-link-mel-reasoning-pattern.md)
 
 ## Key Sources
 - Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility judgments in conceptual change and epistemic cognition. *Educational Psychologist, 48*(1), 35-56. [https://doi.org/10.1080/00461520.2013.767515](https://doi.org/10.1080/00461520.2013.767515)

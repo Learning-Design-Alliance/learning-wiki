@@ -39,8 +39,8 @@ Tasks involve studying the food pyramid, learning about daily requirements, and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in understanding the food pyramid, correctness in meeting daily requirements, appropriateness of dietary plans

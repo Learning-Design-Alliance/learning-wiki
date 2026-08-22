@@ -39,8 +39,8 @@ This strategy involves actively seeking particular details or information within
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Lectures](/elements/lectures.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Lectures](../elements/lectures.md)
 
 ## Assessment Evidence
 - Learner performance on comprehension tasks, ability to extract specific information, accuracy of inferences

@@ -25,7 +25,7 @@ As learners develop stronger schemas in a domain, studying complete worked examp
 ## Subclaims
 `q3 i2` Advanced learners often benefit less from full worked examples than novices do. [→ Kalyuga et al. 2003](#kalyuga-et-al-2003)
 
-`q3 i2` Example-heavy guidance should be reduced as learners move toward independent problem solving. [→ Renkl & Atkinson 2003](#renkl--atkinson-2003)
+`q3 i2` Example-heavy guidance should be reduced as learners move toward independent problem solving. [→ Renkl & Atkinson 2003](#renkl-atkinson-2003)
 
 ## Evidence
 
@@ -49,9 +49,9 @@ The paper argues that effective instruction must manage the transition away from
 
 ## Discussion
 
-This is the worked-example-specific form of the broader [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md) claim.
+This is the worked-example-specific form of the broader [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) claim.
 
 ## Related Claims
-- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md)
-- [Worked-example guidance becomes less effective as learner expertise increases.](/claims/worked-examples-less-effective-with-expertise.md)
-- [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md)
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
+- [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md)
+- [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)

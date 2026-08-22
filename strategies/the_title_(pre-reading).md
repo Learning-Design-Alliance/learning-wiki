@@ -39,8 +39,8 @@ Learners are given the title of the reading and asked to form small groups to po
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the range and depth of knowledge shared by each group. Collect feedback on how well the activity prepared learners for the reading.

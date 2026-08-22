@@ -39,8 +39,8 @@ Provide students with the language tools, such as sentence starters and stems, n
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Advance Organizers](/elements/advance-organizers.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Increased language accuracy, improved communication skills, and better project outcomes.

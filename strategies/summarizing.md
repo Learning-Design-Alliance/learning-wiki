@@ -39,9 +39,9 @@ Summarizing involves integrating important information from a text or problem to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Improved comprehension, better retention, and the ability to create concise summaries.

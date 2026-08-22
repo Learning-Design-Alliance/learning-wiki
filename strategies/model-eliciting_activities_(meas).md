@@ -39,11 +39,11 @@ Model-eliciting activities (MEAs) are activities that encourage learners to inve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Application of Knowledge](/elements/application-of-knowledge.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
 
 ## Assessment Evidence
 - Assess the quality of their final product, and evaluate their ability to apply knowledge and skills to real-world problems. Measure gains in content knowledge, self-confidence, collaboration, and engagement through pre- and post-assessments.

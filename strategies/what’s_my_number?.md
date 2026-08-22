@@ -39,8 +39,8 @@ A guessing game where one person thinks of a number and provides clues, and othe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Application of Knowledge](/elements/application-of-knowledge.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to use clues to deduce the number. Track the number of clues needed to guess the correct number.

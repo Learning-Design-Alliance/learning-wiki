@@ -24,11 +24,11 @@ If the teacher says a number greater than 10, students expand their bodies to ta
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - K-4, adaptable to other grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Reinforce the concepts of greater than, less than, and equal to. Promote kinesthetic learning, enhance active recall, provide an opportunity for movement.
 
 ### Affordances
@@ -39,9 +39,9 @@ If the teacher says a number greater than 10, students expand their bodies to ta
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe students' physical expressions in response to the given numbers. Assess their math comprehension through their physical responses.

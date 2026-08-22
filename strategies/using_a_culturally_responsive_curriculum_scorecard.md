@@ -39,9 +39,9 @@ The Culturally Responsive Curriculum Scorecard is a tool designed to evaluate th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Criteria Development](/elements/criteria-development.md)
-- [Resource Evaluation](/elements/resource-evaluation.md)
-- [Consensus Discussion](/elements/consensus-discussion.md)
+- [Criteria Development](../elements/criteria-development.md)
+- [Resource Evaluation](../elements/resource-evaluation.md)
+- [Consensus Discussion](../elements/consensus-discussion.md)
 
 ## Assessment Evidence
 - The final scorecard provides a detailed assessment of various aspects of the curriculum, indicating strengths and areas for improvement. Results can be shared to drive changes in curriculum design and implementation.

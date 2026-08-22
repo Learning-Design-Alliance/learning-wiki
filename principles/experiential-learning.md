@@ -14,7 +14,7 @@ generated:
 Experiential learning is learning by doing, which may include self-directed learning activities. Helping learners make sense of experiences is foundational to adult learning. There are four key elements of experiential learning: concrete experience, reflection and observation, development of new ideas, and experimenting with new ideas. Active participation in experiential learning benefits both learners and the community. Adult learners gain concrete experiences and reflect on them by comparing the new experiences with Background Knowledge. It fosters the upgrading of life skills, such as a respect for diversity, exposure to multiple perspectives, and offers opportunities for critical reflection and Cognitive Flexibility. Experiential learning can also foster personal autonomy, self-fulfillment, interpersonal effectiveness and Social Awareness and Relationship Skills.
 
 ## Implications
-Experiential learning works because it puts learners in situations where concepts have consequences. Integrated tasks, realistic roles, and repeated cycles of action and reflection tend to improve transfer more than isolated practice alone [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S], but only when experience is interpreted rather than merely lived through. That is the central design point: reflection and explanation are what turn experience into learning [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S], and coaching is often necessary so learners can revise decisions in real time rather than simply repeat them [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]. Without those supports, learners may simply reinforce ineffective habits or mistake activity for progress, especially if novices are immersed without guidance on what to notice or how to act [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
+Experiential learning works because it puts learners in situations where concepts have consequences. Integrated tasks, realistic roles, and repeated cycles of action and reflection tend to improve transfer more than isolated practice alone [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S], but only when experience is interpreted rather than merely lived through. That is the central design point: reflection and explanation are what turn experience into learning [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and coaching is often necessary so learners can revise decisions in real time rather than simply repeat them [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]. Without those supports, learners may simply reinforce ineffective habits or mistake activity for progress, especially if novices are immersed without guidance on what to notice or how to act [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Experiential learning works because it puts learners in situations where concept
 - Kolb’s experiential cycle directly supports the move from concrete experience to reflection, abstraction, and experimentation
 - Deweyan and constructivist perspectives support learning through doing and meaning-making from consequences
 - Sociocultural perspectives qualify experiential learning by emphasizing the role of guided participation, context, and tools
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S] supports integrated performance tasks as especially useful for transfer
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] supports integrated performance tasks as especially useful for transfer
 
 #### Contradicting / Qualifying
 - Unguided experiential learning can impose too much cognitive load on novices
@@ -54,22 +54,22 @@ Experiential learning works because it puts learners in situations where concept
 - Some foundational knowledge may need explicit instruction before an authentic experience becomes productive
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S] — integrated experiences support transfer better than fragmented subskill drills
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — reflection and explanation are what convert experience into insight
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — experiential tasks are stronger when coaching responds to learner decisions in real time
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices in experiential settings benefit from guidance on what to attend to and how to act, not only from immersion
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] — integrated experiences support transfer better than fragmented subskill drills
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — reflection and explanation are what convert experience into insight
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — experiential tasks are stronger when coaching responds to learner decisions in real time
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices in experiential settings benefit from guidance on what to attend to and how to act, not only from immersion
 
 ## Related Principles
-- [Debriefing](/principles/debriefing.md) — a core mechanism for making experience educative
-- [Problem-Based Learning](/principles/problem-based-learning.md) — one form of experiential design centered on complex problems
-- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md) — real stakes and users strengthen the relevance of experience
-- [Communities of Practice](/principles/communities-of-practice.md) — experiential learning deepens when learners participate in real social practices over time
+- [Debriefing](debriefing.md) — a core mechanism for making experience educative
+- [Problem-Based Learning](problem-based-learning.md) — one form of experiential design centered on complex problems
+- [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — real stakes and users strengthen the relevance of experience
+- [Communities of Practice](communities-of-practice.md) — experiential learning deepens when learners participate in real social practices over time
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
 - Simulations, internships, clinical rounds, labs, community projects, and field-based inquiry
-- [Project-Based Learning (PBL)](/strategies/project-based_learning_(pbl).md) — learners build knowledge through extended authentic work
-- [Anchored Instruction](/patterns/anchored-instruction.md) — realistic scenarios anchor inquiry and applied reasoning
+- [Project-Based Learning (PBL)](../strategies/project-based_learning_(pbl).md) — learners build knowledge through extended authentic work
+- [Anchored Instruction](../patterns/anchored-instruction.md) — realistic scenarios anchor inquiry and applied reasoning
 - Reflection journals, post-task debriefs, and iteration cycles are typical implementation supports
 
 ## Key Sources

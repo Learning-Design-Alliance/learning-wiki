@@ -39,10 +39,10 @@ Self-advocacy involves understanding one's needs, knowing what support might hel
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Increased communication of needs, improved problem-solving skills, greater confidence in learning and working, active participation in IEP meetings

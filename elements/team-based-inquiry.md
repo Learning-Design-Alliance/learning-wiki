@@ -31,17 +31,17 @@ Students work in structured groups to analyze problems, construct solutions, and
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Constructivism](/principles/social-constructivism.md)
-- [Peer Learning](/principles/peer-learning.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Social Constructivism](../principles/social-constructivism.md)
+- [Peer Learning](../principles/peer-learning.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Guided Inquiry](/elements/guided-inquiry.md)
-- [Scaffolding](/elements/scaffolding.md)
+- [Collaborative Learning](collaborative-learning.md)
+- [Guided Inquiry](guided-inquiry.md)
+- [Scaffolding](scaffolding.md)
 
 ## Patterns That Use This Element
-- [Process-Oriented Guided Inquiry Learning (POGIL)](/patterns/process-oriented-guided-inquiry-learning-pogil.md)
+- [Process-Oriented Guided Inquiry Learning (POGIL)](../patterns/process-oriented-guided-inquiry-learning-pogil.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

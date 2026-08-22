@@ -24,11 +24,11 @@ Using multiple surfaces or screens for instruction and collaboration. This strat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - K-12, higher education, and professional settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Enhance engagement, improve accessibility, facilitate collaboration, visualize work seamlessly
 
 ### Affordances
@@ -39,9 +39,9 @@ Using multiple surfaces or screens for instruction and collaboration. This strat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation in collaborative activities. Assess the quality and quantity of work produced on shared screens. Monitor student understanding and retention of information through formative assessments.

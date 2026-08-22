@@ -39,8 +39,8 @@ Projects center on authentic issues that matter to students and their communitie
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Solution Development](/elements/solution-development.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Evaluate student understanding of social justice issues. Assess student proposals and actions aimed at addressing these issues. Review student reflections on their role as change agents.

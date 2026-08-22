@@ -39,9 +39,9 @@ Task analysis involves breaking down a writing assignment into smaller, manageab
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Assess performance](/elements/assess-performance.md)
+- [State objectives](../elements/state-objectives.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Assess student's ability to explain the writing task in their own words; track completion of task analysis steps; monitor student engagement and frustration levels

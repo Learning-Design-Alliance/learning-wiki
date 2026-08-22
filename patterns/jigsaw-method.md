@@ -55,11 +55,11 @@ Its value comes from combining preparation, peer teaching, and synthesis. Jigsaw
 
 ### Claims
 #### Supporting
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 
 ## Design
 
@@ -71,16 +71,16 @@ Its value comes from combining preparation, peer teaching, and synthesis. Jigsaw
 5. Assess whole-group or individual understanding of the complete content.
 
 ### Elements Used
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Assessment](/elements/assessment.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [Peer Discussion](/principles/peer-discussion.md)
-- [Communities of Practice](/principles/communities-of-practice.md)
-- [Perspective-Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md)
-- [Mentoring/Coaching](/principles/mentoringcoaching.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Communities of Practice](../principles/communities-of-practice.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Mentoring/Coaching](../principles/mentoringcoaching.md)
 
 ### Personalization
 - Different learners can take roles aligned with interest or readiness.
@@ -88,8 +88,8 @@ Its value comes from combining preparation, peer teaching, and synthesis. Jigsaw
 - Accountability can be individual, group-based, or mixed.
 
 ## Related Patterns
-- [Fostering Communities of Learning (FCL)](/patterns/fostering-communities-of-learning-fcl.md)
-- [Discussion Group](/patterns/discussion-group.md)
+- [Fostering Communities of Learning (FCL)](fostering-communities-of-learning-fcl.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - History learners examining different primary sources and teaching their significance to peers.

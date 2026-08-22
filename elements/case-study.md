@@ -31,18 +31,18 @@ Learners analyze a real or hypothetical scenario to apply concepts.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Situated Learning](/principles/situated-learning.md)
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
-- [Constructivism](/principles/constructivism.md)
+- [Situated Learning](../principles/situated-learning.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Related Elements
-- [Scenario-Based Learning](/elements/scenario-based-learning.md)
-- [Problem-Based Learning](/elements/problem-based-learning.md)
-- [Anchored Instruction](/elements/anchored-instruction.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
+- [Problem-Based Learning](problem-based-learning.md)
+- [Anchored Instruction](anchored-instruction.md)
 
 ## Patterns That Use This Element
-- [Case-Based Learning](/patterns/case-based-learning.md)
-- [Anchored Instruction](/patterns/anchored-instruction.md)
+- [Case-Based Learning](../patterns/case-based-learning.md)
+- [Anchored Instruction](../patterns/anchored-instruction.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

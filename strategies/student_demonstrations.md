@@ -39,9 +39,9 @@ Student demonstrations involve learners showcasing their understanding of a topi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track learner performance against predefined criteria. Analyze depth and accuracy of presented content. Measure audience engagement and understanding of the demonstration.

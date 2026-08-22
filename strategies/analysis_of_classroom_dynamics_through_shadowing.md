@@ -39,11 +39,11 @@ This strategy involves a teacher or coach shadowing students to analyze classroo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Detailed observation notes, reflections on teaching practices, and changes in classroom activities and student engagement.

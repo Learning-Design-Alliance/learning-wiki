@@ -31,18 +31,18 @@ Learners construct and refine their stance on an issue through evidence-based re
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Constructivist Learning](/principles/constructivist-learning.md)
-- [Perspective-Taking](/principles/perspective-taking.md)
+- [Social Learning](../principles/social-learning.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
 
 ## Related Elements
-- [Argumentation](/elements/argumentation.md)
-- [Peer Review](/elements/peer-review.md)
-- [Structured Academic Controversy](/elements/structured-academic-controversy.md)
+- [Argumentation](argumentation.md)
+- [Peer Review](peer-review.md)
+- [Structured Academic Controversy](structured-academic-controversy.md)
 
 ## Patterns That Use This Element
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
-- [Debate](/patterns/debate.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
+- [Debate](../patterns/debate.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

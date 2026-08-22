@@ -41,18 +41,18 @@ Peer review is the element in which learners examine and respond to one another'
 - Improve drafts, strengthen criteria use, and develop feedback literacy.
 
 ### Affordances
-- [Peer Feedback/Peer Review](/principles/peer-feedbackpeer-review.md)
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Feedback Loops](/principles/feedback-loops.md)
+- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Feedback Loops](../principles/feedback-loops.md)
 
 ## Related Elements
-- [Feedback](/elements/feedback.md)
-- [Revision](/elements/revision.md)
-- [Rubrics](/elements/rubrics.md)
+- [Feedback](feedback.md)
+- [Revision](revision.md)
+- [Rubrics](rubrics.md)
 
 ## Patterns That Use This Element
-- [Structured Peer Review](/patterns/structured-peer-review.md)
-- [Formative Assessment](/patterns/formative-assessment.md)
+- [Structured Peer Review](../patterns/structured-peer-review.md)
+- [Formative Assessment](../patterns/formative-assessment.md)
 
 ## Examples
 - Learners exchange drafts and leave rubric-based comments before revision.

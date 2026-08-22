@@ -39,8 +39,8 @@ When new students come to the classroom, ask them to read books in their home la
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe students' reading fluency, comprehension, and expression in their home language.

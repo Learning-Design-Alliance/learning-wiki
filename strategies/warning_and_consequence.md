@@ -39,8 +39,8 @@ This technique involves giving high school students a clear warning that talking
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor classroom noise levels after implementing the warning system. Track the number of students kept behind for talking.

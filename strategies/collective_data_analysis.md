@@ -39,11 +39,11 @@ Collective data analysis involves a systematic and iterative process of making s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Data Analysis](/elements/data-analysis.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Data Analysis](../elements/data-analysis.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Assess the rigor of the analysis, the validity of the conclusions, and the extent to which the findings are used to inform action.

@@ -31,17 +31,17 @@ Instructors provide individualized support and guidance.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Scaffolding](/principles/scaffolding.md)
-- [Cognitive Load Management](/principles/cognitive-load-management.md)
+- [Scaffolding](../principles/scaffolding.md)
+- [Cognitive Load Management](../principles/cognitive-load-management.md)
 
 ## Related Elements
-- [Scaffolding](/elements/scaffolding.md)
-- [Feedback](/elements/feedback.md)
-- [Cognitive Apprenticeship](/elements/cognitive-apprenticeship.md)
+- [Scaffolding](scaffolding.md)
+- [Feedback](feedback.md)
+- [Cognitive Apprenticeship](cognitive-apprenticeship.md)
 
 ## Patterns That Use This Element
-- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
-- [Guided Discovery](/patterns/guided-discovery.md)
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
+- [Guided Discovery](../patterns/guided-discovery.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

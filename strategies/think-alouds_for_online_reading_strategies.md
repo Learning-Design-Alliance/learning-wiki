@@ -39,9 +39,9 @@ Teachers model their online reading strategies through think-alouds. This involv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Modeling](/elements/modeling.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Modeling](../elements/modeling.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe students' online reading behaviors and strategies. Collect student reflections on their own information-seeking processes. Compare pre- and post-intervention scores on online reading comprehension assessments.

@@ -39,12 +39,12 @@ Probing questions are used to encourage deeper reflection and critical thinking 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Response](/elements/individual-response.md)
-- [Reassessment](/elements/reassessment.md)
-- [Inquiry-Based Exploration](/elements/inquiry-based-exploration.md)
-- [Solution Development](/elements/solution-development.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Response](../elements/individual-response.md)
+- [Reassessment](../elements/reassessment.md)
+- [Inquiry-Based Exploration](../elements/inquiry-based-exploration.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Analyze the depth and specificity of learner responses. Track the types of questions learners generate themselves.

@@ -31,17 +31,17 @@ Learners analyze real-world scenarios to apply theoretical concepts.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Situated Learning](/principles/situated-learning.md)
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
+- [Situated Learning](../principles/situated-learning.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [Case Study](/elements/case-study.md)
-- [Problem-Based Learning](/elements/problem-based-learning.md)
-- [Decision-Making](/elements/decision-making.md)
+- [Case Study](case-study.md)
+- [Problem-Based Learning](problem-based-learning.md)
+- [Decision-Making](decision-making.md)
 
 ## Patterns That Use This Element
-- [Case-Based Learning](/patterns/case-based-learning.md)
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
+- [Case-Based Learning](../patterns/case-based-learning.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

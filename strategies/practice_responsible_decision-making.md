@@ -39,9 +39,9 @@ Give students opportunities to practice responsible decision-making by using pai
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Case Study](/elements/case-study.md)
-- [Class Discussion](/elements/class-discussion.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
 
 ## Assessment Evidence
 - Improved student decision-making skills, increased student analysis of situations and consequences, and greater ethical responsibility.

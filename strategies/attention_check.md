@@ -39,9 +39,9 @@ An attention check is a practice where a teacher announces a short pause, and st
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track changes in focus, behavior, and self-reported stress levels. Observe engagement and participation during mindfulness activities.

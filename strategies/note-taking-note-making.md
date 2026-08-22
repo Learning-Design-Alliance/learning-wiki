@@ -24,11 +24,11 @@ Note-taking/note-making involves students taking notes on key points from a less
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Suitable for all grade levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Extend understanding of concepts, encourage reflection, foster connections between new and previously learned material, and promote personal engagement.
 
 ### Affordances
@@ -39,9 +39,9 @@ Note-taking/note-making involves students taking notes on key points from a less
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Note-taking](/elements/note-taking.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Note-taking](../elements/note-taking.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review both the notes taken and the reflections made to assess understanding and personal connections. Look for evidence of critical thinking and integration of concepts.

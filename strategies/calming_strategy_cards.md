@@ -39,9 +39,9 @@ Calming strategy cards provide learners with reminders of emotional regulation s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the frequency and effectiveness of learners using the cards to manage their emotions. Track the strategies that learners find most helpful.

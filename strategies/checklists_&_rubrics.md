@@ -39,13 +39,13 @@ Checklists and rubrics provide clear criteria for self- and peer-assessments. Th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track learner-identified areas for improvement to gauge self-awareness. Compare self-assessments with instructor assessments to evaluate accuracy. Analyze depth and specificity of learner feedback to assess comprehension and engagement.

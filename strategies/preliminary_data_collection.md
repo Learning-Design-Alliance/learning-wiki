@@ -39,11 +39,11 @@ Preliminary data collection involves gathering contextual data to gain a deeper 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Research](/elements/research.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Data Analysis](/elements/data-analysis.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Research](../elements/research.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Data Analysis](../elements/data-analysis.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Evaluate the comprehensiveness and quality of the data collected. Assess the extent to which the data informs the development of research questions and actions.

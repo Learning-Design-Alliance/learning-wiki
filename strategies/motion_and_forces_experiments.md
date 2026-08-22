@@ -39,8 +39,8 @@ Motion and forces experiments involve exploring how forces affect the motion of 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in measuring distances and angles, correct identification of variables affecting motion, logical explanations of energy transfer

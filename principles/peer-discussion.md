@@ -23,7 +23,7 @@ sources:
 Peer discussion is the instructional principle of using structured talk among learners to deepen interpretation, explanation, and understanding. Its value comes from learners having to articulate ideas, compare reasoning, respond to alternatives, and make meaning together rather than only receiving information individually. Peer discussion can support retention, disciplinary language, perspective-taking, and critical thinking, but it is strongest when the discussion task is purposeful and well-scaffolded.
 
 ## Implications
-Peer discussion improves learning when learners have to explain, compare, and revise ideas in response to other people’s reasoning. That social comparison can deepen understanding because articulation itself improves conceptual learning [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S], and it can support reflective revision as learners hear where their own reasoning is strong or weak [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. But discussion quality is highly sensitive to task design: without a real problem to think about and norms that require explanation, peer talk can drift into answer trading or uneven participation. The instructional move is to structure discussion so that reasoning, not just talking, becomes visible.
+Peer discussion improves learning when learners have to explain, compare, and revise ideas in response to other people’s reasoning. That social comparison can deepen understanding because articulation itself improves conceptual learning [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and it can support reflective revision as learners hear where their own reasoning is strong or weak [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. But discussion quality is highly sensitive to task design: without a real problem to think about and norms that require explanation, peer talk can drift into answer trading or uneven participation. The instructional move is to structure discussion so that reasoning, not just talking, becomes visible.
 
 ### Context
 #### Requirements
@@ -59,14 +59,14 @@ Peer discussion improves learning when learners have to explain, compare, and re
 - Some learners may need sentence stems, wait time, or alternate participation modes to benefit fully.
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — peer talk improves learning when learners must articulate and justify reasoning rather than only trade answers
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — discussion helps learners notice the strengths and gaps in their own reasoning by comparing it with peers
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — peer talk improves learning when learners must articulate and justify reasoning rather than only trade answers
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — discussion helps learners notice the strengths and gaps in their own reasoning by comparing it with peers
 
 ## Related Principles
-- [Peer Feedback/Peer Review](/principles/peer-feedbackpeer-review.md) — feedback is one specific form of peer discussion centered on improvement of work.
-- [Communities of Practice](/principles/communities-of-practice.md) — recurring peer discussion helps sustain shared practice and meaning-making.
-- [Perspective Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md) — discussion is a core mechanism for surfacing alternative views.
-- [Building Empathy](/principles/building-empathy.md) — structured peer talk can deepen understanding of others' experience and reasoning.
+- [Peer Feedback/Peer Review](peer-feedbackpeer-review.md) — feedback is one specific form of peer discussion centered on improvement of work.
+- [Communities of Practice](communities-of-practice.md) — recurring peer discussion helps sustain shared practice and meaning-making.
+- [Perspective Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — discussion is a core mechanism for surfacing alternative views.
+- [Building Empathy](building-empathy.md) — structured peer talk can deepen understanding of others' experience and reasoning.
 
 ## Examples
 - **Think-pair-share**: Learners explain an initial idea to a partner before whole-group discussion.

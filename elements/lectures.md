@@ -31,19 +31,19 @@ Instructor-led presentations that deliver structured content to learners.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
-- [Direct Instruction](/principles/direct-instruction.md)
-- [Multimedia Learning](/principles/multimedia-learning.md)
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
+- [Direct Instruction](../principles/direct-instruction.md)
+- [Multimedia Learning](../principles/multimedia-learning.md)
 
 ## Related Elements
-- [Direct Instruction](/elements/direct-instruction.md)
-- [Multimedia Learning](/elements/multimedia-learning.md)
-- [Explicit Teaching](/elements/explicit-teaching.md)
+- [Direct Instruction](direct-instruction.md)
+- [Multimedia Learning](multimedia-learning.md)
+- [Explicit Teaching](explicit-teaching.md)
 
 ## Patterns That Use This Element
-- [Direct Instruction](/patterns/direct-instruction.md)
-- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
-- [Explicit Teaching](/patterns/explicit-teaching.md)
+- [Direct Instruction](../patterns/direct-instruction.md)
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Explicit Teaching](../patterns/explicit-teaching.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -39,9 +39,9 @@ Creating space for student reflection involves integrating moments for students 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Journaling](/elements/journaling.md)
-- [Self-monitoring](/elements/self-monitoring.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Journaling](../elements/journaling.md)
+- [Self-monitoring](../elements/self-monitoring.md)
 
 ## Assessment Evidence
 - Increased student well-being, improved self-awareness, and more meaningful and reflective project outcomes.

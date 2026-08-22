@@ -39,8 +39,8 @@ Using lights with different colors to create a fresh perspective. Change allows 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Activation](/elements/activation.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

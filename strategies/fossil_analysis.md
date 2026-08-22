@@ -39,8 +39,8 @@ Fossil analysis tasks involve examining and describing fossils to develop a 'Fos
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in identifying fossils, correctness in descriptions, quality of drawings

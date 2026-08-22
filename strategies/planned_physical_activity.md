@@ -39,7 +39,7 @@ Planning for physical activity is essential for pre-teens and teenagers to ensur
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Tracking of physical activity levels, monitoring adherence to planned activities, self-reported well-being.

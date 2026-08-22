@@ -39,9 +39,9 @@ Learners create visual maps to track the links and sites they visit while readin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Review the maps created by learners to assess their awareness of their own online reading processes and their ability to make informed decisions about which sources to trust and which links to follow. Observe the quality of their reflections on their decision-making processes.

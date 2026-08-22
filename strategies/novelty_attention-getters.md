@@ -39,8 +39,8 @@ Novelty attention-getters use unique and unexpected stimuli to capture young stu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe how quickly students respond to the novelty item. Monitor classroom noise levels before and after using the attention-getter.

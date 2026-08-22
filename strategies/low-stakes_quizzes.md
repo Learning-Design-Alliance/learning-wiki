@@ -39,8 +39,8 @@ Low-stakes quizzes are brief assessments designed to help learners gauge their u
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Quizzes](/elements/quizzes.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Quizzes](../elements/quizzes.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track quiz scores over time to measure improvement. Analyze common incorrect answers to identify areas for reteaching.

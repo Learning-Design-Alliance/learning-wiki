@@ -39,8 +39,8 @@ Model empathy and explain different perspectives in current events and fictional
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor learner participation

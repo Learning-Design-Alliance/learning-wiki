@@ -39,8 +39,8 @@ Teachers can boost student engagement and knowledge retention by connecting lear
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe student engagement levels, monitor knowledge retention through assessments, gather student feedback through surveys or discussions.

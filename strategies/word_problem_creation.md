@@ -39,9 +39,9 @@ Learners select math operations and create multistep word problems for peers to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Individual Response](/elements/individual-response.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Individual Response](../elements/individual-response.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Evaluate the quality, complexity, and accuracy of the word problems created by learners. Assess the completeness and correctness of solutions provided by learners. Observe learner engagement and participation in problem-solving activities.

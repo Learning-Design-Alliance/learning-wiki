@@ -39,9 +39,9 @@ Basic facts should be taught using number relationships and reasoning strategies
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [State objectives](../elements/state-objectives.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Evaluates learners’ ability to articulate number relationships and reasoning strategies through explanations, applications, and problem-solving tasks. Assesses learners’ strategic flexibility and conceptual understanding using multiple-choice questions.

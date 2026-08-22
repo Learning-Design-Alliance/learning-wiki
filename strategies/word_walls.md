@@ -39,10 +39,10 @@ Word walls are a strategy for supporting vocabulary development and retention by
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learners' use of vocabulary words from the word wall in their writing and discussions. Assess their ability to define and explain the meanings of the words. Evaluate their understanding of the relationships between words on the word wall.

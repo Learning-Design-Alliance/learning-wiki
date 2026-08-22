@@ -39,12 +39,12 @@ Project-Based Learning (PBL) is a teaching method where learners gain knowledge 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-task performance](/elements/whole-task-performance.md)
-- [Application](/elements/application.md)
-- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Solution Development](/elements/solution-development.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Application](../elements/application.md)
+- [Collaborative Problem-Solving](../elements/collaborative-problem-solving.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
 
 ## Assessment Evidence
 - Achievement and content knowledge gains, self-confidence, collaboration skills, engagement levels, ability to apply mathematical concepts to real-world problems

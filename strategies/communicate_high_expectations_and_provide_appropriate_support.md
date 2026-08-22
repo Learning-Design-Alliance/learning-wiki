@@ -39,8 +39,8 @@ Expect more and you will get it. High expectations are important for everyone â€
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased tutee confidence, improved performance, positive feedback about tutor support.

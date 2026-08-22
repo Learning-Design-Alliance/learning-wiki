@@ -42,19 +42,19 @@ Research-Based Learning is a pattern in which learners investigate questions, ga
 
 ### Theory
 #### Supporting
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
-- [Constructivism](/principles/constructivism.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Design
 
 ### Elements Used
-- [Information Literacy](/elements/information-literacy.md)
-- [Research](/elements/research.md)
-- [Resource Evaluation](/elements/resource-evaluation.md)
+- [Information Literacy](../elements/information-literacy.md)
+- [Research](../elements/research.md)
+- [Resource Evaluation](../elements/resource-evaluation.md)
 
 ### Affordances
-- [Evaluating Sources](/principles/evaluating-sources.md)
-- [Explicit Instruction in Internet Search](/principles/explicit-instruction-internet-search.md)
+- [Evaluating Sources](../principles/evaluating-sources.md)
+- [Explicit Instruction in Internet Search](../principles/explicit-instruction-internet-search.md)
 
 ## Examples
 - Students research a local issue and build a recommendation supported by sources.

@@ -39,8 +39,8 @@ Providing manipulatives to help make complex concepts concrete and support proce
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student's engagement and understanding through the use of manipulatives. Assess their ability to apply concepts to problem-solving tasks.

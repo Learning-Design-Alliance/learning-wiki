@@ -39,11 +39,11 @@ Write-aloud lessons, also known as modeled writing, involve an experienced write
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Modeling](/elements/modeling.md)
-- [Articulation](/elements/articulation.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
+- [Modeling](../elements/modeling.md)
+- [Articulation](../elements/articulation.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Improvements in learner writing quality as evidenced by better structure, clarity, and use of techniques modeled. Increased metacognitive awareness demonstrated through self-reflection and peer feedback.

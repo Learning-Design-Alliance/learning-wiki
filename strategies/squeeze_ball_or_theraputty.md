@@ -39,8 +39,8 @@ Providing a squeeze ball or Theraputty offers a tactile outlet for students to m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior for signs of reduced frustration and improved focus. Collect student feedback on the helpfulness of the sensory tools.

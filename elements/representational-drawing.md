@@ -14,5 +14,5 @@ generated:
 Representational drawing is the element in which learners sketch, diagram, or draw structures and relationships to support understanding.
 
 ## Affordances
-- [Creating Visual Representations](/principles/creating-visual-representations.md)
-- [Dual Coding](/principles/dual-coding.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Dual Coding](../principles/dual-coding.md)

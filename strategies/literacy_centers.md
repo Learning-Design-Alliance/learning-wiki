@@ -39,10 +39,10 @@ Literacy centers are designated areas in the classroom where students work indep
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Small Group Instruction](/elements/small-group-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Small Group Instruction](../elements/small-group-instruction.md)
 
 ## Assessment Evidence
 - Observe student engagement, accuracy, and completeness of work at literacy centers. Monitor student progress during small group instruction. Collect student work samples to assess skill development. Track student adherence to classroom guidelines and procedures.

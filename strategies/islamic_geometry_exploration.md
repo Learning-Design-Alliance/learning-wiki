@@ -39,8 +39,8 @@ Exploring Islamic geometry with students centers on exploration, joy, and solida
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, their ability to identify patterns and geometries, and their connections between art and mathematics.

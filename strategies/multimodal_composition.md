@@ -39,9 +39,9 @@ Multimodal composition involves creating texts using various modes of communicat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-task performance](/elements/whole-task-performance.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Assess the effective use of multiple modes, clarity of communication, technical skill, and overall impact of the composition.

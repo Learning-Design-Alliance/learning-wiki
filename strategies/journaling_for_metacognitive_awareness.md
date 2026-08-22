@@ -39,9 +39,9 @@ Journaling involves writing or recording thoughts and feelings to develop metaco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Integration](/elements/integration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Review journal entries to identify patterns in behavior and emotional responses. Monitor the learner’s ability to use self-regulation strategies based on their reflections. Collect self-reports from learners regarding their awareness of their internal processes.

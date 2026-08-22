@@ -39,10 +39,10 @@ Writing conferences are brief, individualized meetings between a teacher and a s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assess Performance](/elements/assess-performance.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Improved writing quality in revised drafts. Increased student engagement and motivation in writing. Enhanced self-assessment skills and ability to identify areas for improvement. Positive student feedback on the conference process.

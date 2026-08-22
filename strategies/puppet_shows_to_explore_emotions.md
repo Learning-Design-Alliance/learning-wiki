@@ -39,9 +39,9 @@ Puppet shows can be used to act out different scenarios and explore the emotions
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' participation and engagement in the puppet show and discussion. Assess their ability to identify and discuss the emotions displayed.

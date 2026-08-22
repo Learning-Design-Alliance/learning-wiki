@@ -39,10 +39,10 @@ PALS is a peer tutoring strategy designed to improve reading comprehension and f
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Modeling](/elements/modeling.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
+- [Modeling](../elements/modeling.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor student progress in reading fluency and comprehension through observation and assessment. Collect feedback from students regarding their experience with the PALS activities. Assess student ability to summarize and identify main ideas effectively.

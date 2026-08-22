@@ -39,9 +39,9 @@ Prompt cards, particularly emotion cue cards, offer accessible reminders of self
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the frequency and effectiveness of card use during moments of emotional distress. Track the learner's ability to independently apply the strategies over time. Gather feedback from learners on the usefulness of the cards and specific strategies.

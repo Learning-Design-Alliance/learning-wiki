@@ -39,9 +39,9 @@ Direct Phonics instruction connects letters to sounds to decode and comprehend t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess improvements in decoding skills, phonemic awareness, and reading comprehension through regular assessments. Monitor progress and adjust instruction as needed.

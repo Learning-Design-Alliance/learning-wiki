@@ -54,11 +54,11 @@ The pattern is widely useful because it is lightweight and adaptable. It works e
 
 ### Claims
 #### Supporting
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 
 ## Design
 
@@ -70,16 +70,16 @@ The pattern is widely useful because it is lightweight and adaptable. It works e
 5. Synthesize key ideas or connect the discussion to the lesson goal.
 
 ### Elements Used
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Discussion Prompt](/elements/discussion-prompt.md)
-- [Feedback](/elements/feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Discussion Prompt](../elements/discussion-prompt.md)
+- [Feedback](../elements/feedback.md)
 
 ### Affordances
-- [Peer Discussion](/principles/peer-discussion.md)
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Purposeful Reflection](/principles/purposeful-reflection.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
 
 ### Personalization
 - Pairs can be assigned intentionally or randomly.
@@ -87,8 +87,8 @@ The pattern is widely useful because it is lightweight and adaptable. It works e
 - Supports can include sentence stems or note-catchers for learners who need more scaffolding.
 
 ## Related Patterns
-- [Peer Instruction](/patterns/peer-instruction.md)
-- [Discussion Group](/patterns/discussion-group.md)
+- [Peer Instruction](peer-instruction.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - A class concept question answered silently, discussed in pairs, and then synthesized whole-group.

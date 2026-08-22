@@ -39,11 +39,11 @@ Interdisciplinary activities present issues, themes, and problems that require s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Activation](/elements/activation.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Solution Development](/elements/solution-development.md)
+- [Activation](../elements/activation.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Improvements in critical thinking, enhanced bias recognition, ability to solve complex problems, development of informed understandings, increased engagement

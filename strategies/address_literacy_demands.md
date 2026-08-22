@@ -39,8 +39,8 @@ Recognize that students may not share the ability to automatically read, interpr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor student comprehension through feedback, quizzes, and class participation; assess clarity of communication through student feedback.

@@ -33,18 +33,18 @@ Non-examples are intentionally chosen instances that do not meet the target conc
 - Improve discrimination, concept clarity, and error detection.
 
 ### Affordances
-- [Pairing Non-Examples with Examples](/principles/pairing-non-examples-with-examples.md)
-- [Error Analysis](/principles/error-analysis.md)
-- [Worked Examples](/principles/worked-examples.md)
+- [Pairing Non-Examples with Examples](../principles/pairing-non-examples-with-examples.md)
+- [Error Analysis](../principles/error-analysis.md)
+- [Worked Examples](../principles/worked-examples.md)
 
 ## Related Elements
-- [Erroneous Examples](/elements/erroneous-examples.md)
-- [Demonstration](/elements/demonstration.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Erroneous Examples](erroneous-examples.md)
+- [Demonstration](demonstration.md)
+- [Conceptual Questioning](conceptual-questioning.md)
 
 ## Patterns That Use This Element
-- [Guided Discovery Learning](/patterns/guided-discovery-learning.md)
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 - Showing a correct thesis statement beside a weak one and asking learners to identify the difference.

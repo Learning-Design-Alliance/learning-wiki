@@ -39,7 +39,7 @@ Teacher performance management processes can be viewed as part of a growth minds
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track teacher participation in feedback activities. Collect teacher reflections on their teaching practices and professional growth. Evaluate the impact of feedback on student learning outcomes.

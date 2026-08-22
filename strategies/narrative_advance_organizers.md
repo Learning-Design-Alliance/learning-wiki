@@ -39,8 +39,8 @@ Narrative advance organizers involve storytelling at the beginning of a lesson t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Student engagement and discussion, demonstrated understanding of the connection between the story and the lesson concepts.

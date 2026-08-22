@@ -39,11 +39,11 @@ Cumulative review involves systematically revisiting previously learned concepts
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Continuous Review](/elements/continuous-review.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Practice](/elements/practice.md)
+- [Continuous Review](../elements/continuous-review.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track learner performance on review quizzes and activities. Monitor learner engagement during review sessions. Compare pre- and post-review assessment scores to measure improvement.

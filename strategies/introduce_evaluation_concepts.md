@@ -39,8 +39,8 @@ Introduce concepts like “relevance, accuracy, bias, and reliability” and usi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' ability to define and apply the concepts in discussions and source analyses. Assess their ability to identify relevance, accuracy, bias, and reliability in various sources.

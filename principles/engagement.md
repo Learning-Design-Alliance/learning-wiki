@@ -24,7 +24,7 @@ Engagement is the principle of designing learning so that learners attend, parti
 
 ## Implications
 
-Engagement matters because even strong content design has little effect if learners do not attend, participate, or persist long enough to benefit from it. The principle is broader than “interest.” It includes behavioral participation, cognitive investment, and emotional willingness to stay with the work. Engagement can be supported through relevance, challenge, autonomy, interaction, and visible progress, and learners are often more likely to persist when goals are challenging but intelligible [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S], when progress is visible enough to monitor [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M], and when novices can focus on actionable process rather than distant outcomes [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. It is still easy to mistake surface activity for meaningful involvement. The core design question is not whether learners are busy; it is whether they are invested in thinking and continuing.
+Engagement matters because even strong content design has little effect if learners do not attend, participate, or persist long enough to benefit from it. The principle is broader than “interest.” It includes behavioral participation, cognitive investment, and emotional willingness to stay with the work. Engagement can be supported through relevance, challenge, autonomy, interaction, and visible progress, and learners are often more likely to persist when goals are challenging but intelligible [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S], when progress is visible enough to monitor [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M], and when novices can focus on actionable process rather than distant outcomes [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. It is still easy to mistake surface activity for meaningful involvement. The core design question is not whether learners are busy; it is whether they are invested in thinking and continuing.
 
 ### Context
 #### Requirements
@@ -47,30 +47,30 @@ Engagement matters because even strong content design has little effect if learn
 
 ### Theory
 #### Supporting
-- [Motivation](/principles/motivation.md) — engagement is often the visible behavioral and cognitive expression of motivated learning
-- [Active Learning](/principles/active-learning.md) — participation can increase engagement when the activity requires meaningful thought
-- [Self-Determination Theory](/theories/self-determination-theory.md) — autonomy, competence, and relatedness help explain when engagement rises or falls
+- [Motivation](motivation.md) — engagement is often the visible behavioral and cognitive expression of motivated learning
+- [Active Learning](active-learning.md) — participation can increase engagement when the activity requires meaningful thought
+- [Self-Determination Theory](../theories/self-determination-theory.md) — autonomy, competence, and relatedness help explain when engagement rises or falls
 
 #### Contradicting / Qualifying
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — tasks can appear engaging yet still fail if they overload learners or split attention
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — tasks can appear engaging yet still fail if they overload learners or split attention
 
 ### Claims
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — appropriately challenging goals can increase effort and persistence when learners are committed and supported
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — visible progress can help sustain engagement by showing learners that effort is going somewhere
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — engagement may be easier to sustain when novices can focus on actionable process rather than distant outcomes
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — appropriately challenging goals can increase effort and persistence when learners are committed and supported
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — visible progress can help sustain engagement by showing learners that effort is going somewhere
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — engagement may be easier to sustain when novices can focus on actionable process rather than distant outcomes
 
 ## Related Principles
-- [Learner Choice](/principles/learner-choice.md) — meaningful choice is one common route to stronger engagement
-- [Game-Based Learning](/principles/game-based-learning.md) — can increase participation and persistence when challenge, progress, and feedback are well designed
-- [Motivation](/principles/motivation.md) — engagement is often the most visible outcome of motivational conditions
+- [Learner Choice](learner-choice.md) — meaningful choice is one common route to stronger engagement
+- [Game-Based Learning](game-based-learning.md) — can increase participation and persistence when challenge, progress, and feedback are well designed
+- [Motivation](motivation.md) — engagement is often the most visible outcome of motivational conditions
 
 ## Examples
 
 ### Illustrative
 
-**[Learner Choice](/principles/learner-choice.md)** — Giving learners meaningful options can increase ownership and persistence when choices remain aligned to goals.
+**[Learner Choice](learner-choice.md)** — Giving learners meaningful options can increase ownership and persistence when choices remain aligned to goals.
 
-**[Video Prompts](/elements/video-prompts.md)** — A short, concrete stimulus can focus attention and launch interpretation, especially when followed by explanation or discussion.
+**[Video Prompts](../elements/video-prompts.md)** — A short, concrete stimulus can focus attention and launch interpretation, especially when followed by explanation or discussion.
 
 **Project launches with visible purpose** — Learners are more likely to stay engaged when they know what the work is for, who it matters to, and what success looks like.
 

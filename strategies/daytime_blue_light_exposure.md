@@ -39,9 +39,9 @@ Exposure to blue light (sunlight, full-spectrum LEDs, digital screens) during th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Measure alertness levels and cognitive performance during the day. Track sleep patterns and academic outcomes.

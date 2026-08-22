@@ -39,7 +39,7 @@ Research shows that, along with traditional reading comprehension strategies, st
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Reading comprehension, navigation skills, strategy use.

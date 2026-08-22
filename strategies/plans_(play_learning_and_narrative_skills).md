@@ -39,9 +39,9 @@ The PLaNS approach supports writing skills through guided play and includes prac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Enhance Retention and Transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance Retention and Transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Learner writing samples. Participation in collaborative storytelling activities. Creativity and narrative skills.

@@ -39,8 +39,8 @@ Recognizing and positively reinforcing positive actions when they are observed. 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe student behavior, track the frequency of positive behaviors, gather student feedback through surveys or discussions.

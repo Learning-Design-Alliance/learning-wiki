@@ -23,7 +23,7 @@ sources:
 Problem-based learning organizes learning around complex, meaningful problems that do not have a single obvious answer. Learners investigate the problem, identify what they need to know, gather evidence, propose solutions, and revise their thinking as they work. The strength of PBL is that it ties knowledge to use and makes learning purposeful, but it is not equivalent to leaving learners on their own. Strong PBL depends on careful facilitation, scaffolds for inquiry and collaboration, and enough domain grounding that the problem is challenging without becoming chaotic.
 
 ## Implications
-Problem-based learning is strongest when the problem requires learners to integrate knowledge in ways that resemble real use, which is why whole-task work often supports transfer better than fragmented drill alone [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]. At the same time, open problems can impose too much search on novices without enough prior structure [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md) [~M], so facilitation and scaffolding matter [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]. Novice learners often need process guidance for how to investigate, compare evidence, and decide what to do next [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M], not just exposure to a challenging problem.
+Problem-based learning is strongest when the problem requires learners to integrate knowledge in ways that resemble real use, which is why whole-task work often supports transfer better than fragmented drill alone [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]. At the same time, open problems can impose too much search on novices without enough prior structure [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M], so facilitation and scaffolding matter [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]. Novice learners often need process guidance for how to investigate, compare evidence, and decide what to do next [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M], not just exposure to a challenging problem.
 
 ### Context
 #### Requirements
@@ -59,16 +59,16 @@ Problem-based learning is strongest when the problem requires learners to integr
 - Not every objective requires full PBL; some foundational skills are acquired more efficiently through explicit instruction and guided practice.
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S] — integrated, authentic problem solving is often better preparation for later transfer than isolated subskill practice
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — learners benefit when facilitation responds to where their inquiry or reasoning is actually breaking down
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need explicit investigation and decision routines before open-ended success criteria become productive
-- [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md) [~M] — beginners can waste effort on unguided search unless the problem space is structured well enough to support learning
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] — integrated, authentic problem solving is often better preparation for later transfer than isolated subskill practice
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — learners benefit when facilitation responds to where their inquiry or reasoning is actually breaking down
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need explicit investigation and decision routines before open-ended success criteria become productive
+- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — beginners can waste effort on unguided search unless the problem space is structured well enough to support learning
 
 ## Related Principles
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.
-- [Experiential Learning](/principles/experiential-learning.md) — problem-centered work often provides the concrete experience that later reflection builds on.
-- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md) — real stakeholders or consequences often strengthen PBL design.
-- [Guided Practice](/principles/guided-practice.md) — novices often need coached practice with inquiry and problem-solving moves inside PBL.
+- [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.
+- [Experiential Learning](experiential-learning.md) — problem-centered work often provides the concrete experience that later reflection builds on.
+- [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — real stakeholders or consequences often strengthen PBL design.
+- [Guided Practice](guided-practice.md) — novices often need coached practice with inquiry and problem-solving moves inside PBL.
 
 ## Examples
 - **Community issue investigation**: Learners analyze a local problem, gather evidence, and propose responses.

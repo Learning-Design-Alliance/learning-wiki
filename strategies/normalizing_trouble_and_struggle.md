@@ -39,10 +39,10 @@ Creating a classroom culture where challenges and failures are seen as opportuni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased student persistence in the face of challenges, improved problem-solving skills, and positive attitudes towards failure.

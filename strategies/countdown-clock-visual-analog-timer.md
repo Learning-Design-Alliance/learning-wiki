@@ -24,11 +24,11 @@ A countdown clock or visual analog timer can help kids get a better sense of how
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Learners who struggle with time management, visual learners, learners with ADHD
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Improve time management skills, enhance understanding of time duration, reduce time-related anxiety
 
 ### Affordances
@@ -39,8 +39,8 @@ A countdown clock or visual analog timer can help kids get a better sense of how
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner's ability to manage time during tasks. Track the frequency of on-time task completion. Gather feedback from the learner on the usefulness of the timer.

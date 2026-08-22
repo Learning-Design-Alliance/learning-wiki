@@ -39,10 +39,10 @@ Educational infographics are visual aids that simplify complex information into 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
-- [Demonstration](/elements/demonstration.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Assess learner comprehension through quizzes or discussions. Evaluate the effectiveness of the infographic in simplifying complex concepts. Observe learner engagement and participation.

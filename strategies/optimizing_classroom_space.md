@@ -39,7 +39,7 @@ Overcrowded classrooms are linked to increased aggression and decreased engageme
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student engagement and achievement, monitor levels of aggression, assess the use of 21st-century learning skills.

@@ -44,13 +44,13 @@ Mastery Learning is a pattern in which instruction is organized around clear cri
 ### Theory
 #### Supporting
 - Bloom's mastery learning tradition.
-- [Self-Regulated Learning](/theories/self-regulated-learning.md)
+- [Self-Regulated Learning](../theories/self-regulated-learning.md)
 #### Contradicting / Qualifying
 - Not all complex performances can be reduced to a single mastery threshold.
 
 ### Claims
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 
 ## Design
 
@@ -62,17 +62,17 @@ Mastery Learning is a pattern in which instruction is organized around clear cri
 5. Reassess before advancing.
 
 ### Elements Used
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Feedback](/elements/feedback.md)
-- [Reassessment](/elements/reassessment.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Feedback](../elements/feedback.md)
+- [Reassessment](../elements/reassessment.md)
 
 ### Affordances
-- [Mastery Learning](/principles/mastery-learning.md)
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Competency-Based Learning & Assessment](/principles/competency-based-learning-assessment.md)
+- [Mastery Learning](../principles/mastery-learning.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-learning-assessment.md)
 
 ## Related Patterns
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](/patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Examples
 - A unit where learners receive targeted reteaching and then reassess until they meet the rubric threshold.

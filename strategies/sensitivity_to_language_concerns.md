@@ -39,10 +39,10 @@ Celebrating diversity of language and tailoring instructional materials to non-n
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Supportive information](/elements/supportive-information.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Student progress in English language acquisition, student participation in class, student feedback on instructional materials.

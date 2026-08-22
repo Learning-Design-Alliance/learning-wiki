@@ -14,9 +14,9 @@ generated:
 Jigsaw is the element in which parts of a topic are distributed across learners who then teach one another to assemble the whole.
 
 ## Affordances
-- [Jigsaw](/patterns/jigsaw.md)
-- [Collaborative Learning](/principles/collaborative-learning.md)
+- [Jigsaw](../patterns/jigsaw.md)
+- [Collaborative Learning](../principles/collaborative-learning.md)
 
 ## Related Elements
-- [Group Work](/elements/group-work.md)
-- [Peer Teaching](/elements/peer-teaching.md)
+- [Group Work](group-work.md)
+- [Peer Teaching](peer-teaching.md)

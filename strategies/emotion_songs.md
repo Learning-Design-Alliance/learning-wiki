@@ -39,9 +39,9 @@ Emotion songs involve creating or adapting songs to explore different emotions. 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe learners' participation and engagement in singing and movement. Assess their ability to connect emotions with appropriate lyrics and expressions.

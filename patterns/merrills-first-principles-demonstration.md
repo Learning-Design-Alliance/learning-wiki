@@ -48,8 +48,8 @@ This page captures the demonstration-focused slice of Merrill's First Principles
 - Demonstration should lead into practice, feedback, and integration rather than remain passive viewing.
 
 ### Claims
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](/claims/worked-examples-example-problem-sequences.md) [+M]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Design
 
@@ -60,17 +60,17 @@ This page captures the demonstration-focused slice of Merrill's First Principles
 4. Transition learners into supported application.
 
 ### Elements Used
-- [Demonstration](/elements/demonstration.md)
-- [Think-Aloud](/elements/think-aloud.md)
-- [Worked Examples](/elements/worked-examples.md)
+- [Demonstration](../elements/demonstration.md)
+- [Think-Aloud](../elements/think-aloud.md)
+- [Worked Examples](../elements/worked-examples.md)
 
 ### Affordances
-- [Modeling](/principles/modeling.md)
-- [Worked Examples](/principles/worked-examples.md)
-- [Scaffolding and Fading](/principles/scaffolding-and-fading.md)
+- [Modeling](../principles/modeling.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
 
 ## Related Patterns
-- [Merrill's First Principles of Instruction](/patterns/merrills-first-principles-of-instruction.md)
+- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
 
 ## Examples
 - An instructor models a complete solution path before learners solve a similar problem with support.

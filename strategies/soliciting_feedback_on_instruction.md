@@ -39,8 +39,8 @@ Instructors should encourage learners to provide feedback on their teaching. By 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Analyze student feedback. Observe changes in teaching practices. Monitor the effectiveness of the changes.

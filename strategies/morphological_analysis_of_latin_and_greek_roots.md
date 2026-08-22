@@ -39,9 +39,9 @@ Morphological analysis of Latin and Greek roots involves teaching learners about
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor vocabulary growth, track progress in reading comprehension, and assess the learners' ability to identify and explain the meanings of morphological components.

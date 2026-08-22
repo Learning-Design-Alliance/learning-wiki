@@ -39,9 +39,9 @@ Multisyllable word instruction focuses on teaching learners how to break words i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor spelling accuracy on regular spelling tests, track progress in reading assessments, and assess the learners' ability to identify and apply syllabication rules correctly.

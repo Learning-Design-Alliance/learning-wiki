@@ -39,11 +39,11 @@ Teaching higher-level thinking skills and analyzing mentor texts can be a new ex
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Coaching](/elements/coaching.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Coaching](../elements/coaching.md)
 
 ## Assessment Evidence
 - Student reflections on their learning process. Observation of student engagement and persistence. Student writing samples demonstrating improved skills and confidence.

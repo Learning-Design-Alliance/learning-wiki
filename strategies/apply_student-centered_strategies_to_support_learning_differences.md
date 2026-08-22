@@ -39,9 +39,9 @@ This strategy involves using a data-driven, student-centered plan to implement s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [individual reflection](/elements/individual-reflection.md)
-- [practice](/elements/practice.md)
-- [provide feedback](/elements/provide-feedback.md)
+- [individual reflection](../elements/individual-reflection.md)
+- [practice](../elements/practice.md)
+- [provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Use pre- and post-assessments to measure student progress and compare results. Observe students' active engagement in learning tasks and note improvements in academic skills.

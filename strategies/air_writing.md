@@ -39,9 +39,9 @@ Air writing involves writing letters or words in the air while simultaneously vi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learners' ability to form letters and spell words correctly after practicing air writing, assess their engagement and participation, evaluate performance on spelling tests and handwriting assessments

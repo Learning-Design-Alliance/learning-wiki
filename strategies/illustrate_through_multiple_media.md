@@ -39,10 +39,10 @@ Making learning come alive with simulations, graphics, activities, and videos en
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of key concepts through discussions, written assignments, or multimedia presentations. Track improvements in comprehension and application of knowledge.

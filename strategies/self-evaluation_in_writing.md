@@ -39,9 +39,9 @@ Self-evaluation involves teaching students how to review their writing to decide
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess student's ability to evaluate their own writing; track improvements in writing quality; monitor student self-awareness and assessment skills

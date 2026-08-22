@@ -39,10 +39,10 @@ The test-study-test technique is a spelling instruction strategy where students 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track spelling accuracy from pretest to final test. Monitor the reduction in specific errors and assess overall improvement in spelling proficiency.

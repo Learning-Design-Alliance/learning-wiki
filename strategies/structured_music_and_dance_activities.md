@@ -39,10 +39,10 @@ Structured music and dance activities involve incorporating movement and rhythm 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe participation, assess motor skill development, monitor engagement with educational content

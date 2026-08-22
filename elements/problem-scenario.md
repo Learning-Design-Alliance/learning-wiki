@@ -31,17 +31,17 @@ Learners engage with a structured real-world scenario that requires problem-solv
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Problem-Based Learning](/principles/problem-based-learning.md)
-- [Situated Learning](/principles/situated-learning.md)
+- [Problem-Based Learning](../principles/problem-based-learning.md)
+- [Situated Learning](../principles/situated-learning.md)
 
 ## Related Elements
-- [Inquiry-Based Exploration](/elements/inquiry-based-exploration.md)
-- [Case Study](/elements/case-study.md)
-- [Decision-Making](/elements/decision-making.md)
+- [Inquiry-Based Exploration](inquiry-based-exploration.md)
+- [Case Study](case-study.md)
+- [Decision-Making](decision-making.md)
 
 ## Patterns That Use This Element
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
-- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

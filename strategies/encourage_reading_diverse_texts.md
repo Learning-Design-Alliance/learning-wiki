@@ -39,8 +39,8 @@ Learners read diverse texts and then think and talk about different genres to ac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Discussion Sections](/elements/discussion-sections.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Discussion Sections](../elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Observe learner participation in discussions, assess learner summaries of texts, review learner application of vocabulary

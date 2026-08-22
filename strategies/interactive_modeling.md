@@ -39,7 +39,7 @@ Interactive Modeling is an instructional practice where the educator provides in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Modeling](/elements/modeling.md)
+- [Modeling](../elements/modeling.md)
 
 ## Assessment Evidence
 - Successful demonstration.

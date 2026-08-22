@@ -64,11 +64,11 @@ The pattern works best when the object being evaluated admits comparison and jus
 
 ### Claims
 #### Supporting
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -80,16 +80,16 @@ The pattern works best when the object being evaluated admits comparison and jus
 5. Reach a consensus or document well-supported disagreement.
 
 ### Elements Used
-- [Assessment](/elements/assessment.md)
-- [Consensus Discussion](/elements/consensus-discussion.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Formative Assessment](/elements/formative-assessment.md)
+- [Assessment](../elements/assessment.md)
+- [Consensus Discussion](../elements/consensus-discussion.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Formative Assessment](../elements/formative-assessment.md)
 
 ### Affordances
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Multiple Methods of Assessment](/principles/multiple-methods-of-assessment.md)
-- [Peer Feedback/Peer Review](/principles/peer-feedbackpeer-review.md)
-- [Evaluating Sources](/principles/evaluating-sources.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
+- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
+- [Evaluating Sources](../principles/evaluating-sources.md)
 
 ### Personalization
 - Learners can contribute different evidence or criteria interpretations from their own backgrounds.
@@ -97,8 +97,8 @@ The pattern works best when the object being evaluated admits comparison and jus
 - Consensus requirements can be tightened or loosened depending on learner experience.
 
 ## Related Patterns
-- [Structured Peer Review](/patterns/structured-peer-review.md)
-- [Discussion Group](/patterns/discussion-group.md)
+- [Structured Peer Review](structured-peer-review.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - Teams comparing possible sources for a research project against credibility criteria.

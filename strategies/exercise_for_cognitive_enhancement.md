@@ -39,9 +39,9 @@ Regular physical exercise boosts cognitive function by increasing neurotransmitt
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Improved mood, enhanced focus and attention, increased long-term memory, better cognitive performance, and reduced risk of cognitive decline.

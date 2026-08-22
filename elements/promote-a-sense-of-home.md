@@ -14,5 +14,5 @@ generated:
 Promote a sense of home is the element of creating belonging, familiarity, and social warmth within a learning environment.
 
 ## Affordances
-- [Holistic Learning](/principles/holistic-learning.md)
-- [Community-Based Learning](/principles/community-based-learning.md)
+- [Holistic Learning](../principles/holistic-learning.md)
+- [Community-Based Learning](../principles/community-based-learning.md)

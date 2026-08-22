@@ -39,7 +39,7 @@ This activity involves having learners think back on their experiences and outco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Teachers can read and observe students' journal writing to evaluate whether or not the goal was achieved.

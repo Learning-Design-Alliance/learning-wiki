@@ -39,9 +39,9 @@ Dual color highlighting is a feature within text-to-speech software that highlig
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track improvements in reading speed, accuracy, and comprehension. Observe increased focus and engagement during reading tasks. Collect student feedback on the usability and helpfulness of the dual color highlighting feature.

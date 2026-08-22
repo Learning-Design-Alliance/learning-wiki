@@ -39,8 +39,8 @@ After completing a collaborative problem-solving task, groups project their work
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Practice](/elements/practice.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe presentations and assess the clarity and accuracy of explanations, evaluate student reflections on their problem-solving process, track student participation and engagement

@@ -16,12 +16,12 @@ Creating visual representations is the element in which learners externalize und
 ## Design Implications
 
 ### Affordances
-- [Creating Visual Representations](/principles/creating-visual-representations.md)
-- [Dual Coding](/principles/dual-coding.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Dual Coding](../principles/dual-coding.md)
 
 ## Related Elements
-- [Graphic Organizers](/elements/graphic-organizers.md)
-- [Concept Mapping](/elements/concept-mapping.md)
+- [Graphic Organizers](graphic-organizers.md)
+- [Concept Mapping](concept-mapping.md)
 
 ## Key Sources
 - Ainsworth, S. (2006). DeFT: A conceptual framework for considering learning with multiple representations. *Learning and Instruction, 16*(3), 183-198.

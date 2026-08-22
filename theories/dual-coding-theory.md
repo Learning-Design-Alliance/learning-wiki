@@ -20,7 +20,7 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - Supports diagrams, concept maps, visual examples, and multimedia design when the visual is instructionally meaningful.
 
 ## Related Theories
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md)
+- [Cognitive Load Theory](cognitive-load-theory.md)
 
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press.

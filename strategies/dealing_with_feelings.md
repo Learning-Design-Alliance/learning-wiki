@@ -39,7 +39,7 @@ Adults can learn to deal with the emotions that arise when they make mistakes, e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Reduced emotional tension, increased ability to self-comfort, and improved self-awareness.

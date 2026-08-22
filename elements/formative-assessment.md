@@ -31,18 +31,18 @@ Ongoing, low-stakes assessment to provide feedback and adjust instruction.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Mastery Learning](/principles/mastery-learning.md)
-- [Feedback Loops](/principles/feedback-loops.md)
-- [Assessment for Learning](/principles/assessment-for-learning.md)
+- [Mastery Learning](../principles/mastery-learning.md)
+- [Feedback Loops](../principles/feedback-loops.md)
+- [Assessment for Learning](../principles/assessment-for-learning.md)
 
 ## Related Elements
-- [Quizzes](/elements/quizzes.md)
-- [Self-Assessment](/elements/self-assessment.md)
-- [Peer Review](/elements/peer-review.md)
+- [Quizzes](quizzes.md)
+- [Self-Assessment](self-assessment.md)
+- [Peer Review](peer-review.md)
 
 ## Patterns That Use This Element
-- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -31,17 +31,17 @@ Spaced repetition is the element in which key material is revisited at strategic
 - Strengthen long-term retention and access to important knowledge.
 
 ### Affordances
-- [Spaced Learning](/principles/spaced-learning.md)
-- [Memory Consolidation](/principles/memory-consolidation.md)
-- [Retrieval Practice](/principles/retrieval-practice.md)
+- [Spaced Learning](../principles/spaced-learning.md)
+- [Memory Consolidation](../principles/memory-consolidation.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
 
 ## Related Elements
-- [Continuous Review](/elements/continuous-review.md)
-- [Retrieval Practice](/elements/retrieval-practice.md)
+- [Continuous Review](continuous-review.md)
+- [Retrieval Practice](retrieval-practice.md)
 
 ## Patterns That Use This Element
-- [Spaced Learning](/patterns/spaced-learning.md)
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Spaced Learning](../patterns/spaced-learning.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 - Recurrent low-stakes review of vocabulary or formulas at increasing intervals.

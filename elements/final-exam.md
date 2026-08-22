@@ -31,17 +31,17 @@ A cumulative assessment evaluating learners' mastery of the entire course materi
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Competency-Based Assessment](/principles/competency-based-assessment.md)
-- [Mastery Learning](/principles/mastery-learning.md)
-- [Summative Assessment](/principles/summative-assessment.md)
+- [Competency-Based Assessment](../principles/competency-based-assessment.md)
+- [Mastery Learning](../principles/mastery-learning.md)
+- [Summative Assessment](../principles/summative-assessment.md)
 
 ## Related Elements
-- [Summative Assessment](/elements/summative-assessment.md)
-- [Performance-Based Assessment](/elements/performance-based-assessment.md)
+- [Summative Assessment](summative-assessment.md)
+- [Performance-Based Assessment](performance-based-assessment.md)
 
 ## Patterns That Use This Element
-- [Competency-Based Learning](/patterns/competency-based-learning.md)
-- [Summative Assessment](/patterns/summative-assessment.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
+- [Summative Assessment](../patterns/summative-assessment.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

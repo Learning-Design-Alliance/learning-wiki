@@ -39,9 +39,9 @@ Empowering students to become self-advocates involves helping them understand th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe students' willingness to participate in discussions, request help when needed, and articulate their learning preferences. Measure students' ability to set goals, solve problems, and advocate for themselves.

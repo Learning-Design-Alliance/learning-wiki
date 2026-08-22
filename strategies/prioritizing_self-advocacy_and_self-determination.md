@@ -39,9 +39,9 @@ Making self-advocacy and self-determination critical priorities in education sys
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [State objectives](../elements/state-objectives.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved teacher preparation, enhanced assessments, reduced chronic absenteeism

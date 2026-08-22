@@ -39,9 +39,9 @@ Action-oriented feedback focuses on providing students with specific steps they 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the specificity and actionability of feedback provided. Monitor student's ability to implement feedback and improve their writing skills over time.

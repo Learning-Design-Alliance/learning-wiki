@@ -39,8 +39,8 @@ There are many roads to learning. People bring different talents and styles of l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased tutee engagement, improved performance in diverse activities, positive feedback about tutor adaptability.

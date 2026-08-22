@@ -39,8 +39,8 @@ Integrating text chats into instruction involves using real-time messaging platf
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Analyze chat logs to assess participation, comprehension, and collaboration skills. Monitor the quality of feedback and support provided by learners. Track the use of text chats to improve communication practices.

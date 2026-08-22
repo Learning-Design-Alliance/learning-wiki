@@ -39,8 +39,8 @@ This strategy involves prompting learners to reflect on their learning more ofte
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Honesty and detail in learners’ responses, evidence of growth in self-assessment skills, and connections made with other classes or in the community.

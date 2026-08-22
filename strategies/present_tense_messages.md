@@ -39,8 +39,8 @@ This strategy involves shifting the focus of internal dialogue from future anxie
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track changes in self-reported anxiety levels using questionnaires or journals. Observe improvements in productivity, task completion, and proactive behavior. Analyze ability to identify and shift focus from future worries to present actions.

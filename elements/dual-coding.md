@@ -16,12 +16,12 @@ Dual coding is the element in which verbal and visual representations are used t
 ## Design Implications
 
 ### Affordances
-- [Dual Coding](/principles/dual-coding.md)
-- [Dual Coding Theory](/theories/dual-coding-theory.md)
+- [Dual Coding](../principles/dual-coding.md)
+- [Dual Coding Theory](../theories/dual-coding-theory.md)
 
 ## Related Elements
-- [Graphic Organizers](/elements/graphic-organizers.md)
-- [Multimedia Learning](/elements/multimedia-learning.md)
+- [Graphic Organizers](graphic-organizers.md)
+- [Multimedia Learning](multimedia-learning.md)
 
 ## Key Sources
 - Paivio, A. (1986). *Mental representations*. Oxford University Press.

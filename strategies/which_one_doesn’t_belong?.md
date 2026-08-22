@@ -39,8 +39,8 @@ The instructor or learners place 3-4 dot cards on the table. Two or three cards 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to accurately identify the card that doesn't belong. Assess the justification provided for their choice.

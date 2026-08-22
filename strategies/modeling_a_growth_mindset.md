@@ -39,7 +39,7 @@ Teachers, like the students they teach, can learn to develop a growth mindset, b
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Track participation and engagement in professional development activities. Observe changes in teacher attitudes toward challenges and new teaching methods. Collect feedback from teachers on their learning experiences and professional growth.

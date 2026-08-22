@@ -24,7 +24,7 @@ Motivation is the principle of designing learning so that learners see value, fe
 
 ## Implications
 
-Motivation matters because learners do not invest effort purely because instruction is available. They persist when the work seems worthwhile, manageable, and connected to some meaningful goal or identity. As a design principle, motivation is not one tactic. It is the interaction of value, challenge, autonomy, competence, and social meaning — and these dimensions operate somewhat independently. Learners who find work interesting but doubt their capability still avoid it [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](/claims/self-efficacy-predicts-academic-persistence.md) [+S]. Learners who feel capable but see no reason to care still disengage [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](/claims/task-value-increases-motivation-and-engagement.md) [+S]. Learners who see value and feel capable but feel externally controlled show lower quality engagement than those acting from internal reasons [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](/claims/autonomy-supports-intrinsic-motivation.md) [+S]. Some motivational designs rely too heavily on novelty, entertainment, or external reward. Those can start participation, but they often do not sustain high-quality effort unless learners also see progress and purpose [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. Motivation is also easier to sustain when challenge is clear and meaningful [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S], and for novices that challenge is often more workable when goals focus on manageable process rather than distant outcomes [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M].
+Motivation matters because learners do not invest effort purely because instruction is available. They persist when the work seems worthwhile, manageable, and connected to some meaningful goal or identity. As a design principle, motivation is not one tactic. It is the interaction of value, challenge, autonomy, competence, and social meaning — and these dimensions operate somewhat independently. Learners who find work interesting but doubt their capability still avoid it [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]. Learners who feel capable but see no reason to care still disengage [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+S]. Learners who see value and feel capable but feel externally controlled show lower quality engagement than those acting from internal reasons [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. Some motivational designs rely too heavily on novelty, entertainment, or external reward. Those can start participation, but they often do not sustain high-quality effort unless learners also see progress and purpose [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. Motivation is also easier to sustain when challenge is clear and meaningful [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S], and for novices that challenge is often more workable when goals focus on manageable process rather than distant outcomes [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M].
 
 ### Context
 #### Requirements
@@ -47,33 +47,33 @@ Motivation matters because learners do not invest effort purely because instruct
 
 ### Theory
 #### Supporting
-- [Self-Determination Theory](/theories/self-determination-theory.md) — motivation increases when autonomy, competence, and relatedness are supported
-- [Game-Based Learning](/principles/game-based-learning.md) — challenge, progress, and feedback can shape motivational conditions
-- [Engagement](/principles/engagement.md) — engagement is often the visible expression of motivated learning
+- [Self-Determination Theory](../theories/self-determination-theory.md) — motivation increases when autonomy, competence, and relatedness are supported
+- [Game-Based Learning](game-based-learning.md) — challenge, progress, and feedback can shape motivational conditions
+- [Engagement](engagement.md) — engagement is often the visible expression of motivated learning
 
 #### Contradicting / Qualifying
-- [Behaviorism](/theories/behaviorism.md) — external reinforcement can help shape effort, but motivation as a broader construct usually requires more than reward contingencies alone
+- [Behaviorism](../theories/behaviorism.md) — external reinforcement can help shape effort, but motivation as a broader construct usually requires more than reward contingencies alone
 
 ### Claims
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](/claims/autonomy-supports-intrinsic-motivation.md) [+S] — learners show higher intrinsic motivation and persistence when they experience meaningful choice and self-determination rather than external control
-- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](/claims/self-efficacy-predicts-academic-persistence.md) [+S] — task-specific confidence predicts initiation, effort, and recovery from difficulty more reliably than ability alone
-- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](/claims/task-value-increases-motivation-and-engagement.md) [+S] — learners invest more effort when they perceive tasks as interesting, personally important, or useful to their goals
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — clear and challenging goals can increase effort and persistence when learners are committed
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — motivation may be more sustainable for novices when goals focus on manageable process rather than distant outcomes
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — visible progress can strengthen motivation by making effort feel productive
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+S] — learners show higher intrinsic motivation and persistence when they experience meaningful choice and self-determination rather than external control
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+S] — task-specific confidence predicts initiation, effort, and recovery from difficulty more reliably than ability alone
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+S] — learners invest more effort when they perceive tasks as interesting, personally important, or useful to their goals
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — clear and challenging goals can increase effort and persistence when learners are committed
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — motivation may be more sustainable for novices when goals focus on manageable process rather than distant outcomes
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — visible progress can strengthen motivation by making effort feel productive
 
 ## Related Principles
-- [Learner Choice](/principles/learner-choice.md) — one route to stronger ownership and autonomy
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md) — motivation often strengthens when learners can see progress toward meaningful goals
-- [Engagement](/principles/engagement.md) — motivation and engagement are closely linked but not identical
+- [Learner Choice](learner-choice.md) — one route to stronger ownership and autonomy
+- [Goal Setting & Monitoring](goal-setting-monitoring.md) — motivation often strengthens when learners can see progress toward meaningful goals
+- [Engagement](engagement.md) — motivation and engagement are closely linked but not identical
 
 ## Examples
 
 ### Illustrative
 
-**[Learner Choice](/principles/learner-choice.md)** — Meaningful options can increase ownership when they remain aligned to shared goals.
+**[Learner Choice](learner-choice.md)** — Meaningful options can increase ownership when they remain aligned to shared goals.
 
-**[Game-Based Learning](/principles/game-based-learning.md)** — Carefully designed challenge, progression, and feedback can increase willingness to persist.
+**[Game-Based Learning](game-based-learning.md)** — Carefully designed challenge, progression, and feedback can increase willingness to persist.
 
 **Visible progress routines** — Learners are more likely to continue when they can see improvement, checkpoint completion, or movement toward a meaningful target.
 

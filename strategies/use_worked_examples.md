@@ -32,18 +32,18 @@ The instructor presents a fully solved problem — showing each step and explain
 
 ## Design Implications
 
-By externalizing the solution process, worked examples let novices study task structure before attempting problems themselves, reducing the unproductive search that characterizes early skill acquisition [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md) [+M]. The strategy works best when it is not passive: prompting learners to explain each step to themselves (self-explanation) substantially amplifies learning beyond silent study. Examples should be followed immediately by a practice problem of comparable difficulty — the example-then-problem sequence improves both cognitive load and transfer outcomes compared to problem-only practice [Example–problem sequences reduce cognitive load and improve learning outcomes](/claims/worked-examples-example-problem-sequences.md) [+S].
+By externalizing the solution process, worked examples let novices study task structure before attempting problems themselves, reducing the unproductive search that characterizes early skill acquisition [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. The strategy works best when it is not passive: prompting learners to explain each step to themselves (self-explanation) substantially amplifies learning beyond silent study. Examples should be followed immediately by a practice problem of comparable difficulty — the example-then-problem sequence improves both cognitive load and transfer outcomes compared to problem-only practice [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S].
 
 ### Context
 #### Requirements
-- A [worked example](/elements/demonstration.md) that is clear, correctly solved, and annotated with reasoning — not just the steps
-- An immediate [practice problem](/elements/practice.md) at comparable difficulty
-- Optional: [self-explanation prompts](/elements/eliciting-student-thinking.md) ("Why did we do this step?") before moving to independent practice
+- A [worked example](../elements/demonstration.md) that is clear, correctly solved, and annotated with reasoning — not just the steps
+- An immediate [practice problem](../elements/practice.md) at comparable difficulty
+- Optional: [self-explanation prompts](../elements/eliciting-student-thinking.md) ("Why did we do this step?") before moving to independent practice
 
 #### Constraints
-- Does not substitute for practice; learners who only study examples without solving problems do not develop fluency [Pairing worked examples with practice or fading supports transfer better than examples alone.](/claims/worked-examples-with-practice-improve-transfer.md) [-S]
+- Does not substitute for practice; learners who only study examples without solving problems do not develop fluency [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Less effective for open-ended or design tasks where there is no single correct approach
-- Benefits diminish as expertise grows; continuing to use worked examples past the novice stage can become redundant or counterproductive [Worked-example guidance becomes less effective as learner expertise increases.](/claims/worked-examples-less-effective-with-expertise.md) [~M]
+- Benefits diminish as expertise grows; continuing to use worked examples past the novice stage can become redundant or counterproductive [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 #### Implementation Variability
 - **Faded examples:** Progressively remove steps from successive examples, requiring learners to complete the missing parts — bridges toward fully independent problem solving
@@ -52,8 +52,8 @@ By externalizing the solution process, worked examples let novices study task st
 
 ### Target Learners
 - Novices in any domain where problem-solving involves learnable steps: mathematics, programming, science, writing, clinical reasoning
-- Learners at risk of cognitive overload during unguided problem solving [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md) [+M]
-- Less beneficial once learners have sufficient prior knowledge [Worked-example guidance becomes less effective as learner expertise increases.](/claims/worked-examples-less-effective-with-expertise.md) [~M]
+- Learners at risk of cognitive overload during unguided problem solving [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
+- Less beneficial once learners have sufficient prior knowledge [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 ### Target Learning Goals
 - Early procedural fluency: understanding the steps of a solution process
@@ -62,16 +62,16 @@ By externalizing the solution process, worked examples let novices study task st
 
 ### Instructions
 1. Select or write a problem that exemplifies the target skill or procedure
-2. Solve it fully, annotating each step with a brief explanation of *why*, not just *what* — use [think-aloud](/elements/think-aloud.md) if delivering live
+2. Solve it fully, annotating each step with a brief explanation of *why*, not just *what* — use [think-aloud](../elements/think-aloud.md) if delivering live
 3. Ask learners to study the example and, if time permits, prompt self-explanation: "In your own words, why does this step work?"
-4. Present a near-transfer [practice problem](/elements/practice.md) of similar structure before providing feedback
+4. Present a near-transfer [practice problem](../elements/practice.md) of similar structure before providing feedback
 5. Repeat with a second example-problem pair, optionally fading detail from the example
 6. As learners gain confidence, shift to problem-only practice
 
 ## Related Strategies
-- [Worked Example Routine](/strategies/worked_example_routine.md) — a structured classroom routine that formalizes this cycle
-- [Comparing Multiple Solution Methods](/strategies/comparing_multiple_solution_methods.md) — an extension that pairs two worked examples for comparison
-- [Think-Aloud Modeling](/strategies/think-aloud-modeling.md) — the live narration technique for delivering demonstrations
+- [Worked Example Routine](worked_example_routine.md) — a structured classroom routine that formalizes this cycle
+- [Comparing Multiple Solution Methods](comparing_multiple_solution_methods.md) — an extension that pairs two worked examples for comparison
+- [Think-Aloud Modeling](think-aloud-modeling.md) — the live narration technique for delivering demonstrations
 
 ## Examples
 

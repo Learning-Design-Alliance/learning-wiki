@@ -39,10 +39,10 @@ Teachers read aloud stories about social and emotional learning and facilitate d
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Modeling](/elements/modeling.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Modeling](../elements/modeling.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions, analyze student reflections, and assess their ability to apply SEL skills in real-life situations.

@@ -39,7 +39,7 @@ A handy acronym to help students remember six key concepts for evaluating inform
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Ability to answer questions about the credibility of a news story

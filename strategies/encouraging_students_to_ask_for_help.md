@@ -39,9 +39,9 @@ This strategy focuses on creating a classroom environment where students feel co
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe students' willingness to ask for help, track their usage of problem-solving strategies, analyze their ability to articulate their needs, and monitor their participation in collaborative activities.

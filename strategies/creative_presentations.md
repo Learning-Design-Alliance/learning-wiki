@@ -39,9 +39,9 @@ Creative presentations are visual aids designed to engage learners and keep thei
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation during presentations. Collect feedback on the effectiveness of visuals. Assess learner comprehension and recall of key points.

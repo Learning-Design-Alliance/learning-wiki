@@ -31,18 +31,18 @@ Encourages learners to apply new knowledge or skills through structured activiti
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Deliberate Practice](/principles/deliberate-practice.md)
-- [Active Learning](/principles/active-learning.md)
-- [Retrieval Practice](/principles/retrieval-practice.md)
+- [Deliberate Practice](../principles/deliberate-practice.md)
+- [Active Learning](../principles/active-learning.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
 
 ## Related Elements
-- [Problem-Based Learning](/elements/problem-based-learning.md)
-- [Worked Examples](/elements/worked-examples.md)
-- [Hands-on Learning](/elements/hands-on-learning.md)
+- [Problem-Based Learning](problem-based-learning.md)
+- [Worked Examples](worked-examples.md)
+- [Hands-on Learning](hands-on-learning.md)
 
 ## Patterns That Use This Element
-- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
-- [Merrill’s First Principles (Application)](/patterns/merrills-first-principles-application.md)
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Merrill’s First Principles (Application)](../patterns/merrills-first-principles-application.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

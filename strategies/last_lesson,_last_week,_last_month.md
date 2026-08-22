@@ -39,7 +39,7 @@ This activity involves looking back to the most important information presented 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Quizzes](/elements/quizzes.md)
+- [Quizzes](../elements/quizzes.md)
 
 ## Assessment Evidence
 - Assess learners' understanding through their answers to the questions.

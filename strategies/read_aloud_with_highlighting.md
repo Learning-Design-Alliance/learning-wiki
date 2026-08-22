@@ -39,7 +39,7 @@ Read aloud features, often combined with word and sentence highlighting, provide
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe improvements in reading fluency, accuracy, and comprehension. Collect user feedback on the usefulness of highlighting. Measure the time it takes to complete reading tasks with and without read aloud and highlighting.

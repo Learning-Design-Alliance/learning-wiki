@@ -39,8 +39,8 @@ Mass, density, and buoyancy experiments involve exploring how the mass and densi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in measuring buoyancy, correct correlation of weight and water displacement, logical explanations of buoyancy effects

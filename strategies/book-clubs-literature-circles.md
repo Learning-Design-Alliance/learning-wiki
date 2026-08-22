@@ -24,11 +24,11 @@ Book clubs, also known as literature circles, are a grouping system to organize 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Middle school students (Grades 6-8), but adaptable for other grade levels and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Motivate reading and writing, enhance comprehension, strengthen verbal reasoning, expand social networks, promote knowledge sharing
 
 ### Affordances
@@ -39,12 +39,12 @@ Book clubs, also known as literature circles, are a grouping system to organize 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Case Study](/elements/case-study.md)
-- [Application](/elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Case Study](../elements/case-study.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe student engagement, track knowledge sharing, analyze depth of discussions and blog posts, review student reflections and projects.

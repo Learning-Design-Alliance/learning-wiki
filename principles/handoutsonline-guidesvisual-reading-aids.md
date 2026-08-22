@@ -19,7 +19,7 @@ sources:
 Handouts, online guides, and visual reading aids support learning by externalizing structure, highlighting key information, and reducing the amount learners must infer or hold in working memory while reading. They can take the form of annotated handouts, reading guides, visual cues, glosses, diagrams, highlighted sections, or structured digital supports. Their main value is not decoration but orientation: they help learners see what matters, where to look, and how parts of a text or task fit together.
 
 ## Implications
-Handouts, online guides, and visual reading aids are most useful when learners would otherwise spend too much effort figuring out where to focus and how a text or task is organized. Well-designed cues, chunking, and readable formatting can reduce extraneous processing and make important relationships visible, especially in dense or unfamiliar materials [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S]. The instructional risk is over-support: if guides do all the interpretive work, learners may never develop independent reading strategies. These aids should therefore orient attention and model structure without permanently replacing the learner’s own sense-making, which is why they work better when learners are prompted to explain and use the guide actively rather than simply receive it [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S].
+Handouts, online guides, and visual reading aids are most useful when learners would otherwise spend too much effort figuring out where to focus and how a text or task is organized. Well-designed cues, chunking, and readable formatting can reduce extraneous processing and make important relationships visible, especially in dense or unfamiliar materials [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]. The instructional risk is over-support: if guides do all the interpretive work, learners may never develop independent reading strategies. These aids should therefore orient attention and model structure without permanently replacing the learner’s own sense-making, which is why they work better when learners are prompted to explain and use the guide actively rather than simply receive it [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S].
 
 ### Context
 #### Requirements
@@ -48,21 +48,21 @@ Handouts, online guides, and visual reading aids are most useful when learners w
 ### Theory
 #### Supporting
 - Multimedia and dual-coding perspectives — aligned visual and verbal supports can improve comprehension when they clarify rather than duplicate aimlessly.
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — reading aids can reduce extraneous processing by making task structure and key cues visible.
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — reading aids can reduce extraneous processing by making task structure and key cues visible.
 - Information processing views — guides help learners orient attention and encode important information more deliberately.
 #### Contradicting / Qualifying
 - Reading aids should be faded or varied when the long-term goal is independent reading without heavy support.
 - Not all visual supports help; poorly designed cues can fragment attention or oversimplify meaning.
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — reading aids can lower extraneous processing by making structure and emphasis visible
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S] — guides are more effective when learners use them to interpret, annotate, or explain rather than only follow them passively
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — reading aids can lower extraneous processing by making structure and emphasis visible
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — guides are more effective when learners use them to interpret, annotate, or explain rather than only follow them passively
 
 ## Related Principles
-- [Clear Structure & Presentation](/principles/clear-structure-presentation.md) — reading aids are one way to make instructional structure visible.
-- [Creating Visual Representations](/principles/creating-visual-representations.md) — learners can also build their own guides and representations, not just receive them.
-- [Graphic Organizers](/principles/graphic-organizers.md) — many reading aids are organizer-like supports for sequencing and comparison.
-- [Accessible Vocabulary & Syntax](/principles/accessible-vocabulary-syntax.md) — readable wording and readable formatting reinforce one another.
+- [Clear Structure & Presentation](clear-structure-presentation.md) — reading aids are one way to make instructional structure visible.
+- [Creating Visual Representations](creating-visual-representations.md) — learners can also build their own guides and representations, not just receive them.
+- [Graphic Organizers](graphic-organizers.md) — many reading aids are organizer-like supports for sequencing and comparison.
+- [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — readable wording and readable formatting reinforce one another.
 
 ## Examples
 - **Annotated handouts**: Headings, callouts, examples, and margin notes help learners identify what matters during reading.

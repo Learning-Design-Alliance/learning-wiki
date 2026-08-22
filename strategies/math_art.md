@@ -39,10 +39,10 @@ Math Art involves creating drawings and designs that explore mathematical concep
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Application](/elements/application.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Assess student's understanding of mathematical concepts through their artwork and explanations. Observe student's ability to identify and explain mathematical patterns in their art.

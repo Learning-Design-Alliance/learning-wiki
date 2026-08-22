@@ -39,9 +39,9 @@ Recognize and address adult learners' fears related to technology, such as data 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Solicit feedback on anxiety levels and support resources, observe learner participation and engagement, track usage of technical support

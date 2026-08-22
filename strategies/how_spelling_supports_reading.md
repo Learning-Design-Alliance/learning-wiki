@@ -39,7 +39,7 @@ Instruction on the relationship between spelling and reading. Research shows tha
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Assessments include spelling tests, writing samples, and reading comprehension measures to show a correlation in performance.

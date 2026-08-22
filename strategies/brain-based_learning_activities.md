@@ -39,10 +39,10 @@ Activities that engage multiple senses (visual, auditory, kinesthetic, tactile) 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation. Monitor learner understanding and retention of content. Gather feedback from learners about their experience. Assess performance on related tasks or assessments.

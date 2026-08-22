@@ -52,6 +52,6 @@ Renkl and Atkinson argue that instructional design should not stop at example st
 This claim is about sequence design, not mere inclusion. Examples that are never followed by application can produce familiarity without independent competence.
 
 ## Related Claims
-- [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md)
-- [Worked-example guidance becomes less effective as learner expertise increases.](/claims/worked-examples-less-effective-with-expertise.md)
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](/claims/worked-examples-example-problem-sequences.md)
+- [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
+- [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md)
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-examples-example-problem-sequences.md)

@@ -39,7 +39,7 @@ Remove non-academic criteria, like behavior or participation, from grades, focus
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Focus on content mastery

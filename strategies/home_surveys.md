@@ -39,8 +39,8 @@ Sending weekly, biweekly, or monthly surveys home can provide ongoing data and i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Response](/elements/individual-response.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Individual Response](../elements/individual-response.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track response rates, analyze survey data

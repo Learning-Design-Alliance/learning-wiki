@@ -26,12 +26,12 @@ Peer feedback/peer review is the element in which learners evaluate one another'
 - Improve revision, evaluative judgment, and accountability.
 
 ### Affordances
-- [Peer Feedback/Peer Review](/principles/peer-feedbackpeer-review.md)
-- [Metacognition](/principles/metacognition.md)
+- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Peer Review](/elements/peer-review.md)
-- [Peer Assessment](/elements/peer-assessment.md)
+- [Peer Review](peer-review.md)
+- [Peer Assessment](peer-assessment.md)
 
 ## Key Sources
 - Topping, K. J. (1998). Peer assessment between students in colleges and universities. *Review of Educational Research, 68*(3), 249-276.

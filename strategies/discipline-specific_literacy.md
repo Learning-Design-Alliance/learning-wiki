@@ -39,10 +39,10 @@ Discipline-specific literacy involves teaching reading, writing, speaking, and t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student improvement in discipline-specific writing assignments. Monitor student engagement in interactive activities and the quality of their contributions to discussions. Evaluate student self-monitoring skills using checklists and rubrics.

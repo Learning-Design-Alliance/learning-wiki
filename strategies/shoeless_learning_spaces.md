@@ -39,8 +39,8 @@ Creating shoeless learning spaces where children often learn with shoes off, per
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Create a relaxed learning environment](/elements/create-a-relaxed-learning-environment.md)
-- [Promote a sense of home](/elements/promote-a-sense-of-home.md)
+- [Create a relaxed learning environment](../elements/create-a-relaxed-learning-environment.md)
+- [Promote a sense of home](../elements/promote-a-sense-of-home.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

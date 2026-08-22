@@ -31,17 +31,17 @@ Goal setting is the element in which learners or instructors establish clear tar
 - Focus effort, guide monitoring, and support persistence.
 
 ### Affordances
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
-- [Self-Regulation](/principles/self-regulation.md)
+- [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
+- [Self-Regulation](../principles/self-regulation.md)
 
 ## Related Elements
-- [Learning Outcomes](/elements/learning-outcomes.md)
-- [Self-Assessment](/elements/self-assessment.md)
-- [SMARTER Goals](/elements/smarter-goals.md)
+- [Learning Outcomes](learning-outcomes.md)
+- [Self-Assessment](self-assessment.md)
+- [SMARTER Goals](smarter-goals.md)
 
 ## Patterns That Use This Element
-- [Self-Regulated Learning](/patterns/self-regulated-learning.md)
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Self-Regulated Learning](../patterns/self-regulated-learning.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 - Learners set a process goal before practice and review it after feedback.

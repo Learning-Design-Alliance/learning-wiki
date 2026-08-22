@@ -39,7 +39,7 @@ Students spend 10-15 minutes every week reflecting on their learning experiences
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [individual reflection](/elements/individual-reflection.md)
+- [individual reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess student growth in content knowledge, self-awareness, metacognition, and their ability to strengthen relationships within the class.

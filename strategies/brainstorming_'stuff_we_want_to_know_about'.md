@@ -39,9 +39,9 @@ Learners and instructors co-create an ongoing list of topics of interest and que
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Individual Response](/elements/individual-response.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Individual Response](../elements/individual-response.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student engagement and motivation levels. Assess the quality of student inquiry projects. Collect student feedback on the brainstorming process.

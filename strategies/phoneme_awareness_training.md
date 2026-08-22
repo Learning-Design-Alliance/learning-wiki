@@ -39,8 +39,8 @@ Direct instruction in phoneme awareness helps children in the early stages of le
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess accuracy in identifying and segmenting phonemes. Monitor progress in spelling and reading skills.

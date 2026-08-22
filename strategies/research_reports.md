@@ -39,9 +39,9 @@ Research reports are visual aids designed to present data and insights in an eng
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Evaluate the clarity and effectiveness of communication. Assess reader comprehension and engagement. Track the impact of research findings.

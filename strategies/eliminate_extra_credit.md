@@ -39,7 +39,7 @@ Avoid extra credit opportunities as they depend on resources and time, and shoul
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - <!-- TODO -->

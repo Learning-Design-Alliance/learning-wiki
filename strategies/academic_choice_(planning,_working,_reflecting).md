@@ -39,9 +39,9 @@ Academic Choice empowers learners by providing them with options in their learni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Assess performance](/elements/assess-performance.md)
+- [State objectives](../elements/state-objectives.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe learner engagement and motivation levels. Assess the quality of learner work. Collect learner feedback on their experience.

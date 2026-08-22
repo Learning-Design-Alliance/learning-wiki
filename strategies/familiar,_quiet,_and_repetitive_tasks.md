@@ -39,8 +39,8 @@ Using familiar, quiet, and repetitive fine motor and visual tasks can be a calmi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the child's behavior and emotional state before, during, and after engaging in the task. Monitor the child's ability to focus and remain calm.

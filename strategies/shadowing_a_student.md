@@ -39,8 +39,8 @@ Shadowing is a direct observation technique where an adult follows a student thr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Notes and observations recorded during the shadowing experience, summaries of findings, reflections on insights gained, and plans for action based on the shadowing data. Analysis of student interactions, teacher practices, and school environment.

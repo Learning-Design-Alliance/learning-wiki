@@ -14,7 +14,7 @@ generated:
 Process-based writing treats writing as a sequence of intentional moves such as generating ideas, planning, drafting, revising, editing, and reflecting rather than as a one-shot product. Its core premise is that writers improve when the process itself is taught, supported, and made visible. This is especially useful for learners developing complex writing skills, because it breaks writing into revisable stages while still keeping the final communicative purpose in view.
 
 ## Implications
-Process-based writing helps because strong writing rarely emerges from a single unsupported attempt. Staging planning, drafting, revising, and editing can make the task more manageable and regulate cognitive load [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M], while reflection across drafts can improve monitoring and self-correction [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]. Novice writers often benefit from process goals for what to do in the next stage [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], and explaining revision choices can deepen understanding of what stronger writing requires [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. The main caution is over-fragmentation: the process should support the communicative whole, not replace it.
+Process-based writing helps because strong writing rarely emerges from a single unsupported attempt. Staging planning, drafting, revising, and editing can make the task more manageable and regulate cognitive load [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M], while reflection across drafts can improve monitoring and self-correction [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]. Novice writers often benefit from process goals for what to do in the next stage [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], and explaining revision choices can deepen understanding of what stronger writing requires [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The main caution is over-fragmentation: the process should support the communicative whole, not replace it.
 
 ### Context
 #### Requirements
@@ -50,16 +50,16 @@ Process-based writing helps because strong writing rarely emerges from a single 
 - Process instruction should not make writing feel like a rigid formula that ignores audience, voice, or purpose.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — writers improve when they can track what is working across drafts and choose better next steps
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining revision decisions strengthens understanding of genre, clarity, and purpose
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — developing writers often need concrete stage-by-stage goals rather than only a final performance target
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — coaching and feedback are most useful when they target the learner’s current bottleneck in the writing process
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — writers improve when they can track what is working across drafts and choose better next steps
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining revision decisions strengthens understanding of genre, clarity, and purpose
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — developing writers often need concrete stage-by-stage goals rather than only a final performance target
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — coaching and feedback are most useful when they target the learner’s current bottleneck in the writing process
 
 ## Related Principles
-- [Journaling](/principles/journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.
-- [Peer Feedback/Peer Review](/principles/peer-feedbackpeer-review.md) — revision is stronger when learners get and use feedback before final submission.
-- [Guided Practice](/principles/guided-practice.md) — early writing stages often benefit from teacher modeling and coached rehearsal.
-- [Graphic Organizers](/principles/graphic-organizers.md) — organizers can support planning and structural revision.
+- [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.
+- [Peer Feedback/Peer Review](peer-feedbackpeer-review.md) — revision is stronger when learners get and use feedback before final submission.
+- [Guided Practice](guided-practice.md) — early writing stages often benefit from teacher modeling and coached rehearsal.
+- [Graphic Organizers](graphic-organizers.md) — organizers can support planning and structural revision.
 
 ## Examples
 - **Draft-revise cycles**: Learners submit early drafts, receive feedback, and revise before final evaluation.

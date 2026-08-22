@@ -39,8 +39,8 @@ Learners are provided with manipulatives to help make complex concepts concrete.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to use manipulatives to solve problems and demonstrate understanding. Assess comprehension through hands-on activities and discussions.

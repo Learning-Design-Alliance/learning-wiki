@@ -39,10 +39,10 @@ Think-Write-Pair-Share is a collaborative learning strategy where students first
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Practice](/elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement during pair and whole-class discussions, assess the quality and diversity of ideas generated, and collect written responses for formative assessment.

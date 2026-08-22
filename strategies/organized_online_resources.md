@@ -39,7 +39,7 @@ Storing lesson plan ideas, instructional websites, and electronic copies of work
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track time spent finding and accessing digital resources. Monitor the ease of sharing resources among educators and students. Assess the level of student engagement with organized digital content.

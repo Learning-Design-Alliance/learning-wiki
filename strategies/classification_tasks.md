@@ -39,8 +39,8 @@ Classification tasks involve sorting objects or concepts into categories based o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Quality of the classification scheme, justification of the scheme, accuracy of observations

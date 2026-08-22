@@ -20,7 +20,7 @@ Holistic learning is the principle of helping learners grasp the overall structu
 
 ## Implications
 
-Holistic learning matters when learners are likely to lose meaning by encountering details before they have a coherent sense of the larger structure. The principle does not reject detail or analysis. It argues that details are more learnable when learners can place them inside a meaningful whole, because organizing parts into a larger structure can reduce memory burden and improve coherence [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S]. In practice, holistic designs often start with an overview, model, framework, or authentic whole task and then elaborate parts without severing them from the larger purpose [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]. The main design risk is vagueness: a “big picture” that is too abstract to guide later understanding does not help much, and some novices still need staged simplification before the whole becomes usable [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M].
+Holistic learning matters when learners are likely to lose meaning by encountering details before they have a coherent sense of the larger structure. The principle does not reject detail or analysis. It argues that details are more learnable when learners can place them inside a meaningful whole, because organizing parts into a larger structure can reduce memory burden and improve coherence [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]. In practice, holistic designs often start with an overview, model, framework, or authentic whole task and then elaborate parts without severing them from the larger purpose [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]. The main design risk is vagueness: a “big picture” that is too abstract to guide later understanding does not help much, and some novices still need staged simplification before the whole becomes usable [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M].
 
 ### Context
 #### Requirements
@@ -44,27 +44,27 @@ Holistic learning matters when learners are likely to lose meaning by encounteri
 ### Theory
 #### Supporting
 - Sequencing and schema-building traditions — learners often understand details better when they can place them into a larger structure
-- [Cognitive Load Management](/principles/cognitive-load-management.md) — a useful overview can reduce disorientation and help learners organize incoming detail
-- [Information Processing Theory](/theories/information-processing-theory.md) — organized, meaningful structures improve encoding and later retrieval
+- [Cognitive Load Management](cognitive-load-management.md) — a useful overview can reduce disorientation and help learners organize incoming detail
+- [Information Processing Theory](../theories/information-processing-theory.md) — organized, meaningful structures improve encoding and later retrieval
 
 #### Contradicting / Qualifying
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M] — very complex wholes may still need simplification or staged entry for absolute novices
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — very complex wholes may still need simplification or staged entry for absolute novices
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — holistic structures can reduce memory burden when they help learners organize parts into meaningful units
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S] — seeing and practicing the whole can improve transfer in complex domains
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M] — wholes still need calibration when the initial complexity is too high
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — holistic structures can reduce memory burden when they help learners organize parts into meaningful units
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] — seeing and practicing the whole can improve transfer in complex domains
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — wholes still need calibration when the initial complexity is too high
 
 ## Related Principles
-- [Creating Visual Representations](/principles/creating-visual-representations.md) — diagrams and maps often make the whole visible
-- [Scaffolding](/principles/scaffolding.md) — holistic designs still need supports so learners can move from overview to workable understanding
-- [Knowledge Organization](/principles/knowledge-organization.md) — holistic learning depends on preserving meaningful conceptual structure
+- [Creating Visual Representations](creating-visual-representations.md) — diagrams and maps often make the whole visible
+- [Scaffolding](scaffolding.md) — holistic designs still need supports so learners can move from overview to workable understanding
+- [Knowledge Organization](knowledge-organization.md) — holistic learning depends on preserving meaningful conceptual structure
 
 ## Examples
 
 ### Illustrative
 
-**[Reigeluth's Elaboration Theory](/patterns/reigeluths-elaboration-theory.md)** — Learners begin with an epitome or simple whole, then elaborate progressively while keeping the larger structure in view.
+**[Reigeluth's Elaboration Theory](../patterns/reigeluths-elaboration-theory.md)** — Learners begin with an epitome or simple whole, then elaborate progressively while keeping the larger structure in view.
 
 **Whole-task previews before subskill focus** — In writing, programming, or design, learners first see the complete workflow or product before analyzing individual components.
 

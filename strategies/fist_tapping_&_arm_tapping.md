@@ -39,9 +39,9 @@ Fist tapping and arm tapping are multisensory spelling strategies that involve t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learners' ability to spell words correctly after practicing fist tapping or arm tapping, assess their phonemic awareness, evaluate performance on spelling tests

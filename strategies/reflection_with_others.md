@@ -39,9 +39,9 @@ This strategy involves teachers reflecting on their teaching practice by engagin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved teaching practice, identification of areas for improvement, and incorporation of best practices.

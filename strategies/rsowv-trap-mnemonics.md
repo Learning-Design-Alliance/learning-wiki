@@ -24,11 +24,11 @@ RSOWV (Relax, Slowdown, Organize, Write, Visualize) and TRAP (Translate, Repeat,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - All learner levels, particularly useful for learners who need structured approaches to memorization and test preparation
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Improve memory recall, enhance focus and concentration, facilitate effective information processing, encourage active learning strategies
 
 ### Affordances
@@ -39,10 +39,10 @@ RSOWV (Relax, Slowdown, Organize, Write, Visualize) and TRAP (Translate, Repeat,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Monitor learners' ability to recall information using the strategies, assess the effectiveness of the chosen strategies through self-reflection and feedback, evaluate performance on tests and quizzes after using the mnemonics

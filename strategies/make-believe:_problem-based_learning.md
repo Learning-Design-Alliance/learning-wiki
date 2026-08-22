@@ -39,9 +39,9 @@ Providing learners with real-world experiences and problems, and allowing them t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Solution Development](/elements/solution-development.md)
-- [Application of Knowledge](/elements/application-of-knowledge.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
 
 ## Assessment Evidence
 - Learner projects and solutions. Participation in problem-solving activities. Critical thinking and collaboration skills.

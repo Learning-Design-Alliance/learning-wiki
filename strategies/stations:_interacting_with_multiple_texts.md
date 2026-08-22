@@ -39,11 +39,11 @@ The Stations strategy involves small groups of learners rotating through differe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Quality of student responses to station activities, participation in debriefing discussions, ability to synthesize information from multiple sources.

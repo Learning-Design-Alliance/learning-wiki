@@ -39,8 +39,8 @@ Brief breaks for active play can help children who struggle with attention. This
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to stay on task after physical activity breaks. Track the frequency and duration of attention spans. Monitor the reduction of restless behavior.

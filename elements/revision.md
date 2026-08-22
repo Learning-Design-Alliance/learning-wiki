@@ -31,17 +31,17 @@ Learners improve their work based on feedback and self-reflection.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Self-Regulated Learning](/principles/self-regulated-learning.md)
-- [Mastery Learning](/principles/mastery-learning.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
+- [Mastery Learning](../principles/mastery-learning.md)
 
 ## Related Elements
-- [Feedback](/elements/feedback.md)
-- [Self-Assessment](/elements/self-assessment.md)
-- [Iterative Learning](/elements/iterative-learning.md)
+- [Feedback](feedback.md)
+- [Self-Assessment](self-assessment.md)
+- [Iterative Learning](iterative-learning.md)
 
 ## Patterns That Use This Element
-- [Formative Assessment](/patterns/formative-assessment.md)
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Formative Assessment](../patterns/formative-assessment.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

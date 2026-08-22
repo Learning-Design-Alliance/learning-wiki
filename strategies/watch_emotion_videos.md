@@ -39,8 +39,8 @@ Share helpful videos that explains big emotions to kids. Reinforce topic using d
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe students' ability to apply techniques from videos.

@@ -14,8 +14,8 @@ generated:
 Investigate is the element in which learners collect information, examine evidence, or test ideas to answer a question.
 
 ## Affordances
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Guided Inquiry](/elements/guided-inquiry.md)
-- [Data Analysis](/elements/data-analysis.md)
+- [Guided Inquiry](guided-inquiry.md)
+- [Data Analysis](data-analysis.md)

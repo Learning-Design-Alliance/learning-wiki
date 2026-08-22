@@ -39,9 +39,9 @@ A web-search scavenger hunt is a fun way to help students learn how to effective
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Application](/elements/application.md)
+- [Practice](../elements/practice.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Every credible website students identify to correctly answer the questions.

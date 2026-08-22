@@ -55,11 +55,11 @@ The pattern is useful when instructors want inquiry without abandoning structure
 
 ### Claims
 #### Supporting
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -71,16 +71,16 @@ The pattern is useful when instructors want inquiry without abandoning structure
 5. Debrief both the content and the group's inquiry process.
 
 ### Elements Used
-- [Scaffolded Inquiry](/elements/scaffolded-inquiry.md)
-- [Structured Questioning](/elements/structured-questioning.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Practice](/elements/practice.md)
+- [Scaffolded Inquiry](../elements/scaffolded-inquiry.md)
+- [Structured Questioning](../elements/structured-questioning.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Practice](../elements/practice.md)
 
 ### Affordances
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
-- [Peer Discussion](/principles/peer-discussion.md)
-- [Guided Practice](/principles/guided-practice.md)
-- [Purposeful Reflection](/principles/purposeful-reflection.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ### Personalization
 - Teams can have differentiated roles that support participation and accountability.
@@ -88,8 +88,8 @@ The pattern is useful when instructors want inquiry without abandoning structure
 - Application tasks can be tuned for different pacing or complexity levels.
 
 ## Related Patterns
-- [Guided Discovery Learning](/patterns/guided-discovery-learning.md)
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Guided Discovery Learning](guided-discovery-learning.md)
+- [Collaborative Inquiry](collaborative-inquiry.md)
 
 ## Examples
 - Chemistry learners using data and representations to infer a concept before solving related problems.

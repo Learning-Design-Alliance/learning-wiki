@@ -39,8 +39,8 @@ Friendly message from teacher to foster open, comfortable communication systems 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track response rates

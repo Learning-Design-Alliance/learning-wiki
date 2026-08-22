@@ -39,8 +39,8 @@ Providing a variety of different furniture that allows students to work in diffe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

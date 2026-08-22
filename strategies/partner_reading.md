@@ -39,10 +39,10 @@ Partner reading is a cooperative learning strategy in which two learners work to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Modeling](/elements/modeling.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Modeling](../elements/modeling.md)
 
 ## Assessment Evidence
 - Monitor reading accuracy, fluency, and comprehension during partner reading sessions. Collect data on error correction and student participation. Analyze student summaries and retellings to assess comprehension.

@@ -39,8 +39,8 @@ Movement breaks are brief, structured activities incorporated into classroom set
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation levels. Track changes in student focus and attention after implementing movement breaks. Gather feedback from students on their preferences and perceived benefits.

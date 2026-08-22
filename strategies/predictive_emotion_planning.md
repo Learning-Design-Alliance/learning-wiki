@@ -39,9 +39,9 @@ Learners anticipate emotions linked to upcoming activities. Identifying potentia
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track the use of coping strategies in real-time scenarios. Monitor changes in emotional responses over time. Assess the clarity and relevance of learner-developed plans.

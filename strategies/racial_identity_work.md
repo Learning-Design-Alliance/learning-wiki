@@ -39,9 +39,9 @@ Racial identity work involves examining one's own racial identity, confronting p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Case Study](/elements/case-study.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Case Study](../elements/case-study.md)
 
 ## Assessment Evidence
 - Monitor learners' engagement and participation in learning activities, track their progress in developing self-awareness and cultural competence, and gather feedback on their experiences in the classroom.

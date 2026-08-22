@@ -39,7 +39,7 @@ This strategy involves teachers reflecting on each lesson before and after teach
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Improved teaching practice, identification of areas for improvement, and necessary adjustments made for future lessons.

@@ -14,9 +14,9 @@ generated:
 Multimedia projects are the element in which learners create artifacts that combine text, visuals, audio, video, or interaction.
 
 ## Affordances
-- [Multimedia Projects](/principles/multimedia-projects.md)
-- [Multimodal Instruction](/principles/multimodal-instruction.md)
+- [Multimedia Projects](../principles/multimedia-projects.md)
+- [Multimodal Instruction](../principles/multimodal-instruction.md)
 
 ## Related Elements
-- [Multimedia Learning](/elements/multimedia-learning.md)
-- [Public Product](/elements/public-product.md)
+- [Multimedia Learning](multimedia-learning.md)
+- [Public Product](public-product.md)

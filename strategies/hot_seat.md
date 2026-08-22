@@ -39,9 +39,9 @@ One learner assumes the role of a book character, significant figure in history,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
-- [Peer Interaction](/elements/peer-interaction.md)
+- [Application](../elements/application.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
+- [Peer Interaction](../elements/peer-interaction.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the activity, review the quality of their responses to questions, collect feedback from learners about their experience.

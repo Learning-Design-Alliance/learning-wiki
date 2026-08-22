@@ -39,9 +39,9 @@ Instructors ask thought-provoking questions to encourage reflection and emotiona
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Individual Response](/elements/individual-response.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Individual Response](../elements/individual-response.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student participation in answering the questions. Assess the thoughtfulness and specificity of students' responses.

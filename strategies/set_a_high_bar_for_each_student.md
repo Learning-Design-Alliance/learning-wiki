@@ -39,8 +39,8 @@ Hold high expectations for all students. Convince students that they can learn a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assess Performance](/elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track improvements in student performance, monitor changes in self-efficacy and mindset, observe student engagement and participation

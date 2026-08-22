@@ -26,12 +26,12 @@ Worked examples are the element in which learners study complete or partial solu
 - Reduce novice search burden and support schema formation.
 
 ### Affordances
-- [Worked Examples](/principles/worked-examples.md)
-- [Scaffolding](/principles/scaffolding.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Scaffolding](../principles/scaffolding.md)
 
 ## Related Elements
-- [Demonstration](/elements/demonstration.md)
-- [Fading](/elements/fading.md)
+- [Demonstration](demonstration.md)
+- [Fading](fading.md)
 
 ## Key Sources
 - van Gog, T., & Rummel, N. (2010). Example-based learning. *Educational Psychology Review, 22*(2), 155-174.

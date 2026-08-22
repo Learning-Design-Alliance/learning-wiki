@@ -39,9 +39,9 @@ This technique involves changing one’s mindset from anxiety to excitement, lev
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Improved math performance, increased problem-solving focus, positive mindset

@@ -39,8 +39,8 @@ Repairing harm is a restorative practice where, instead of simply being sent off
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the student's engagement in the process, the quality of the repair plan, and the impact of the repair on the stakeholders involved.

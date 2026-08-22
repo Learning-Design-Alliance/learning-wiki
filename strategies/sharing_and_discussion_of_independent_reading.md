@@ -39,9 +39,9 @@ After independent reading, gather students to talk about their books through var
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Application](/elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe student participation in sharing sessions. Collect feedback from students on their reading experiences. Monitor the number of books students take home and read.

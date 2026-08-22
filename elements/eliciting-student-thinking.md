@@ -31,17 +31,17 @@ Encourages learners to express their ideas, reasoning, and problem-solving appro
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Constructivism](/principles/constructivism.md)
-- [Scaffolding](/principles/scaffolding.md)
-- [Metacognition](/principles/metacognition.md)
+- [Constructivism](../principles/constructivism.md)
+- [Scaffolding](../principles/scaffolding.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Self-Explanation](/elements/self-explanation.md)
-- [Metacognition](/elements/metacognition.md)
+- [Peer Discussion](peer-discussion.md)
+- [Self-Explanation](self-explanation.md)
+- [Metacognition](metacognition.md)
 
 ## Patterns That Use This Element
-- [Cognitively Guided Instruction (CGI) for Math](/patterns/cognitively-guided-instruction-cgi-for-math.md)
+- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

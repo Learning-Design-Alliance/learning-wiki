@@ -39,12 +39,12 @@ Direct instruction in spelling involves explicitly teaching spelling patterns, h
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Continuous Review](/elements/continuous-review.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Continuous Review](../elements/continuous-review.md)
 
 ## Assessment Evidence
 - Pretests and posttests to measure spelling accuracy, observation of student application of spelling rules in writing, and analysis of student errors to inform instruction.

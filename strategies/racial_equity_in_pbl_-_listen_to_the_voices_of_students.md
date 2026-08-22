@@ -39,8 +39,8 @@ Give students authorship in sharing and telling their own stories, which a good 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Collaboration](/elements/collaboration.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Collaboration](../elements/collaboration.md)
 
 ## Assessment Evidence
 - Student participation, confidence in sharing, leadership skills demonstrated.

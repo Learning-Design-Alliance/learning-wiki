@@ -39,8 +39,8 @@ A research map is a visual representation of research topics and their interconn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Research](/elements/research.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Research](../elements/research.md)
 
 ## Assessment Evidence
 - Track user engagement with the research map. Monitor the number of articles and connections explored. Assess the quality of research questions and investigations informed by the map.

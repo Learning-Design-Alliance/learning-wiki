@@ -39,7 +39,7 @@ Replace negative messages from the inner voice with positive affirmations. A neg
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track frequency of positive affirmations used and reported changes in mood or self-perception.

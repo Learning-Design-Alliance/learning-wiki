@@ -31,18 +31,18 @@ Deliberately introduces contradictions or challenges to a learner’s existing k
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Constructivist Learning](/principles/constructivist-learning.md)
-- [Cognitive Flexibility](/principles/cognitive-flexibility.md)
-- [Cognitive Disequilibrium](/principles/cognitive-disequilibrium.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Cognitive Flexibility](../principles/cognitive-flexibility.md)
+- [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md)
 
 ## Related Elements
-- [Discrepant Events](/elements/discrepant-events.md)
-- [Debate](/elements/debate.md)
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
+- [Discrepant Events](discrepant-events.md)
+- [Debate](debate.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [Cognitive Flexibility Theory](/patterns/cognitive-flexibility-theory.md)
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
+- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

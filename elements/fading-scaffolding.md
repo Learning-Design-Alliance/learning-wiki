@@ -26,17 +26,17 @@ Fading scaffolding is the element in which supports such as hints, prompts, or m
 - Increase independence while preserving successful performance.
 
 ### Affordances
-- [Scaffolding & Fading](/principles/scaffolding-fading.md)
-- [Procedural Learning](/principles/procedural-learning.md)
+- [Scaffolding & Fading](../principles/scaffolding-fading.md)
+- [Procedural Learning](../principles/procedural-learning.md)
 
 ## Related Elements
-- [Fading](/elements/fading.md)
-- [Procedural Information](/elements/procedural-information.md)
-- [Hints](/elements/hints.md)
+- [Fading](fading.md)
+- [Procedural Information](procedural-information.md)
+- [Hints](hints.md)
 
 ## Patterns That Use This Element
-- [Four-Component Instructional Design](/patterns/4cid.md)
-- [Merrill's First Principles (Application)](/patterns/merrills-first-principles-application.md)
+- [Four-Component Instructional Design](../patterns/4cid.md)
+- [Merrill's First Principles (Application)](../patterns/merrills-first-principles-application.md)
 
 ## Examples
 - Hints become shorter or less explicit over repeated practice attempts.

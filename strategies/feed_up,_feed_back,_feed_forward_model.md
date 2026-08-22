@@ -39,9 +39,9 @@ The Feed Up, Feed Back, Feed Forward Model is a structured approach to providing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track learner progress towards goals. Analyze learner self-assessments and reflections. Monitor the effectiveness of learning activities based on feedback.

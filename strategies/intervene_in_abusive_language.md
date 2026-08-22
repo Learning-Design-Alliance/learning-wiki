@@ -39,11 +39,11 @@ Teachers must step in when abusive language occurs. This involves addressing the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Case Study](/elements/case-study.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Perspective-Taking](/elements/perspective-taking.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Case Study](../elements/case-study.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
 
 ## Assessment Evidence
 - Observe the frequency and severity of abusive language in the classroom, assess student understanding of the impact of their words, and gather feedback from students about the safety and respectfulness of the learning environment.

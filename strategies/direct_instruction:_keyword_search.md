@@ -39,11 +39,11 @@ Explicit instruction in keyword search strategies involves teaching learners how
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the effectiveness of search queries by measuring the relevance and accuracy of search results. Evaluate learner's ability to identify credible and unreliable sources based on established criteria (CRAAP test, checklist). Assess learner's ability to verify information across multiple sources.

@@ -39,8 +39,8 @@ The Ladder of Feedback is a structured protocol to guide peer feedback that incl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Review of feedback provided by learners to assess the depth and quality of their critique. Observation of group interactions to assess learners' ability to follow the protocol and provide constructive feedback.

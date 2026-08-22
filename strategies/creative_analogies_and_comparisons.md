@@ -39,8 +39,8 @@ Simplify complex ideas by linking them to familiar situations, making them easie
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Analogies and prior knowledge activation](/elements/analogies-and-prior-knowledge-activation.md)
-- [Supportive information](/elements/supportive-information.md)
+- [Analogies and prior knowledge activation](../elements/analogies-and-prior-knowledge-activation.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Assess learners' ability to explain the concept using the analogy. Evaluate their ability to apply the concept in new situations.

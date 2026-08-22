@@ -39,7 +39,7 @@ Creating consistent interfaces and repetitive structures or frameworks in learni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior (e.g., reduced anxiety, increased focus). Gather feedback on the clarity and effectiveness of routines and structures.

@@ -39,9 +39,9 @@ Teacher presence in synchronous sessions helps to reduce feelings of isolation i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Modeling](/elements/modeling.md)
-- [Demonstration](/elements/demonstration.md)
-- [Peer Interaction](/elements/peer-interaction.md)
+- [Modeling](../elements/modeling.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Interaction](../elements/peer-interaction.md)
 
 ## Assessment Evidence
 - Increased student engagement.

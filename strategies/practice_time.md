@@ -39,9 +39,9 @@ Give students time to practice what they just learned in a low-stakes environmen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Student writing samples demonstrating experimentation with new techniques. Participation in exercises and activities. Student reflections on their learning process.

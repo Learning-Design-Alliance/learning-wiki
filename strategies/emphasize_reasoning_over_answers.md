@@ -39,9 +39,9 @@ De-emphasizing correct answers and spending more time on reasoning involves shif
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess students’ reasoning skills through written explanations, verbal discussions, and problem-solving tasks. Look for evidence of critical thinking, logical reasoning, and the ability to explain and justify their approaches. Provide feedback that focuses on the quality of their reasoning, not just the correctness of their answers.

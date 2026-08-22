@@ -39,9 +39,9 @@ Using word processing software like Google Docs allows learners to write, share,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track revisions and progress within the document, analyze peer feedback and revisions made based on feedback, observe engagement with software features and improvements in writing quality.

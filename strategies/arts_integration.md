@@ -39,10 +39,10 @@ Integrate arts activities like fiction writing, dance, drama, graphic design, mu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Individual Response](/elements/individual-response.md)
-- [Peer Feedback/Peer Review](/elements/peer-feedbackpeer-review.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Individual Response](../elements/individual-response.md)
+- [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md)
 
 ## Assessment Evidence
 - Evaluate learner creativity and self-expression in their art projects. Assess their ability to apply concepts learned in other subjects through arts activities. Gather feedback from learners about their experiences.

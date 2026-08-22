@@ -39,10 +39,10 @@ Liberation literature involves exposing learners to literature that places out-g
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions and activities. Review student-created graphic organizers and writings. Assess student understanding of different social identities and perspectives.

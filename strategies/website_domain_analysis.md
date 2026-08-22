@@ -39,9 +39,9 @@ Learners are taught the differences between .com, .gov, .org, and .edu domains t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Assess learners' ability to accurately identify the domain type of a website and to explain the potential implications for its reliability. Observe the quality of their source evaluations and the arguments they make to support their conclusions.

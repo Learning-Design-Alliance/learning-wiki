@@ -39,8 +39,8 @@ Treat others the way they want and need to be treated. Focus on understanding wh
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Perspective-Taking](/elements/perspective-taking.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
 
 ## Assessment Evidence
 - Observe interactions, gather feedback from others

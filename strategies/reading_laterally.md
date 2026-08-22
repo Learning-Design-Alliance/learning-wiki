@@ -39,8 +39,8 @@ Reading Laterally is the practice of verifying information by consulting multipl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Research](/elements/research.md)
-- [Resource Evaluation](/elements/resource-evaluation.md)
+- [Research](../elements/research.md)
+- [Resource Evaluation](../elements/resource-evaluation.md)
 
 ## Assessment Evidence
 - Observe learners' ability to identify unreliable sources and misinformation. Assess the quality of their source evaluations based on external evidence. Measure improvements in their critical thinking and information literacy skills.

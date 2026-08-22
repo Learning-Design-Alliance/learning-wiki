@@ -31,7 +31,7 @@ sources:
 Seeing and using new words repeatedly and across contexts is critical for vocabulary acquisition. In discussions, reading, and writing, instructors can provide explicit vocabulary instruction and give learners multiple opportunities to see, understand, and apply new words, as well as chances to use strategies for identifying unfamiliar words.
 
 ## Implications
-Explicit vocabulary instruction works when it treats words as tools for meaning-making rather than as isolated definitions to memorize. Selecting a manageable set of high-value terms, explaining them clearly, and requiring repeated use across speaking, reading, and writing helps move vocabulary from recognition into productive use [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design implication is to prioritize the words that unlock upcoming texts and tasks, then revisit them in context, because large undifferentiated word lists usually spread attention too thin to produce durable learning [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S]. Novice learners also benefit from explicit routines for noticing, defining, and applying unfamiliar words [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], with support that responds to actual misuse or background-knowledge gaps [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M].
+Explicit vocabulary instruction works when it treats words as tools for meaning-making rather than as isolated definitions to memorize. Selecting a manageable set of high-value terms, explaining them clearly, and requiring repeated use across speaking, reading, and writing helps move vocabulary from recognition into productive use [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design implication is to prioritize the words that unlock upcoming texts and tasks, then revisit them in context, because large undifferentiated word lists usually spread attention too thin to produce durable learning [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]. Novice learners also benefit from explicit routines for noticing, defining, and applying unfamiliar words [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], with support that responds to actual misuse or background-knowledge gaps [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -68,25 +68,25 @@ Explicit vocabulary instruction works when it treats words as tools for meaning-
 #### Contradicting / Qualifying
 - Vocabulary is learned more deeply through use than through exposure alone
 - Instruction should prioritize the most generative and reusable words rather than long undifferentiated lists
-- Support should move from explicit explanation toward independent contextual inference over time [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
+- Support should move from explicit explanation toward independent contextual inference over time [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — vocabulary becomes more durable when learners explain and use words in their own reasoning
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice vocabulary learners benefit from explicit routines for noticing, defining, and applying words
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — instruction should limit and organize target words so learners can attend to the most generative terms
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — vocabulary support is stronger when instructors respond to actual misuse, confusion, or missing background knowledge
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — vocabulary becomes more durable when learners explain and use words in their own reasoning
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice vocabulary learners benefit from explicit routines for noticing, defining, and applying words
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — instruction should limit and organize target words so learners can attend to the most generative terms
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — vocabulary support is stronger when instructors respond to actual misuse, confusion, or missing background knowledge
 
 ## Related Principles
-- [Accessible Vocabulary & Syntax](/principles/accessible-vocabulary-syntax.md) — explicit vocabulary instruction is a direct mechanism for making language more usable
-- [Explicit Instruction: Phonics](/principles/explicit-instruction-phonics.md) — some learners need word-level decoding support alongside meaning instruction
-- [Annotating](/principles/annotating.md) — annotation can be used to capture, define, and revisit target terms
-- [Multimodal Instruction](/principles/multimodal-instruction.md) — examples, visuals, and oral use can all reinforce vocabulary learning
+- [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — explicit vocabulary instruction is a direct mechanism for making language more usable
+- [Explicit Instruction: Phonics](explicit-instruction-phonics.md) — some learners need word-level decoding support alongside meaning instruction
+- [Annotating](annotating.md) — annotation can be used to capture, define, and revisit target terms
+- [Multimodal Instruction](multimodal-instruction.md) — examples, visuals, and oral use can all reinforce vocabulary learning
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [Teach Academic Vocabulary](/strategies/teach_academic_vocabulary.md) — direct teaching of project-critical terms before and during use
-- [Tiered Vocabulary Instruction](/strategies/tiered_vocabulary_instruction.md) — selecting high-utility words intentionally
-- [Word Study](/strategies/word_study.md) — examining patterns and morphology to reinforce word learning
+- [Teach Academic Vocabulary](../strategies/teach_academic_vocabulary.md) — direct teaching of project-critical terms before and during use
+- [Tiered Vocabulary Instruction](../strategies/tiered_vocabulary_instruction.md) — selecting high-utility words intentionally
+- [Word Study](../strategies/word_study.md) — examining patterns and morphology to reinforce word learning
 - Requiring learners to use target words in explanation, discussion, and writing tasks rather than only on quizzes
 
 ## Key Sources

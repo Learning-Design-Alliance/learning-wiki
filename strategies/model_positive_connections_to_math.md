@@ -31,8 +31,8 @@ Model positive connections to math is a strategy in which educators explicitly d
 - Respond to mistakes as part of learning rather than as failure.
 
 ## Related Elements
-- [Real-World Math](/elements/real-world-math.md)
-- [Create a Low-Stress Environment](/elements/create-a-low-stress-environment.md)
+- [Real-World Math](../elements/real-world-math.md)
+- [Create a Low-Stress Environment](../elements/create-a-low-stress-environment.md)
 
 ## Key Sources
 - Boaler, J. (2016). *Mathematical mindsets*. Jossey-Bass.

@@ -39,9 +39,9 @@ Game-based learning involves designing learning activities so that game characte
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess student performance within the game environment. Observe collaboration and problem-solving skills during gameplay. Gather student feedback on engagement and learning.

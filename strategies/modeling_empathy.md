@@ -39,8 +39,8 @@ Teachers' behaviors and actions create the culture in the classroom. Treat stude
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior, monitor classroom climate, gather student feedback on their sense of safety and respect.

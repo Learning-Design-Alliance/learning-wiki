@@ -46,8 +46,8 @@ Flipped Learning is a pattern that moves some initial content exposure outside c
 - The quality of the in-class redesign matters more than the label.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Design
 
@@ -57,17 +57,17 @@ Flipped Learning is a pattern that moves some initial content exposure outside c
 3. Use class for problem solving, discussion, and feedback.
 
 ### Elements Used
-- [Pre-Class Video/Lecture](/elements/pre-class-videolecture.md)
-- [In-Class Activities](/elements/in-class-activities.md)
-- [Formative Assessment](/elements/formative-assessment.md)
+- [Pre-Class Video/Lecture](../elements/pre-class-videolecture.md)
+- [In-Class Activities](../elements/in-class-activities.md)
+- [Formative Assessment](../elements/formative-assessment.md)
 
 ### Affordances
-- [Guided Practice](/principles/guided-practice.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
-- [Active Learning](/principles/active-learning.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Active Learning](../principles/active-learning.md)
 
 ## Related Patterns
-- [Flipped Classroom](/patterns/flipped-classroom.md)
+- [Flipped Classroom](flipped-classroom.md)
 
 ## Examples
 - Short pre-class videos followed by in-class coached application.

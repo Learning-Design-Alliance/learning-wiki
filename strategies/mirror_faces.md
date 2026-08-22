@@ -39,8 +39,8 @@ Learners pair up, and one makes an emotional face while the other mirrors it, pr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately mirror facial expressions. Assess their ability to identify and discuss the emotions displayed.

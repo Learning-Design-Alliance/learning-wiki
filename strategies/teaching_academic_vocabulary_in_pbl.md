@@ -39,9 +39,9 @@ In project-based learning (PBL), teaching academic vocabulary involves identifyi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved student comprehension, accurate use of academic vocabulary in project work, and positive feedback from students and educators.

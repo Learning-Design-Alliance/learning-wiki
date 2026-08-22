@@ -39,8 +39,8 @@ Breaking down directions into smaller, more manageable sections to support susta
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student's ability to follow directions when presented in smaller chunks. Assess comprehension through task completion and verbal feedback.

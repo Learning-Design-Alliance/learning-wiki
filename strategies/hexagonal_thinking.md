@@ -39,8 +39,8 @@ Hexagonal thinking is a mixed retrieval and elaboration strategy that uses hexag
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Argument Construction](/elements/argument-construction.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Argument Construction](../elements/argument-construction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess the accuracy and depth of the connections proposed by learners.

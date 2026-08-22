@@ -24,7 +24,7 @@ Studying a hypothetical peer's incorrect solution and being prompted to find, ex
 
 ## Subclaims
 `q3 i2` Analyzing and explaining errors in erroneous examples improves conceptual knowledge and procedural transfer more than studying correct examples alone. [→ Rittle-Johnson 2017](#rittle-johnson-2017)
-`q3 i2` Comparison of correct and erroneous examples is more effective than studying erroneous examples in isolation. [→ Durkin & Rittle-Johnson 2012](#durkin-&-rittle-johnson-2012)
+`q3 i2` Comparison of correct and erroneous examples is more effective than studying erroneous examples in isolation. [→ Durkin & Rittle-Johnson 2012](#durkin-rittle-johnson-2012)
 
 ## Evidence
 
@@ -50,5 +50,5 @@ Researchers studied middle-schoolers learning decimal magnitudes. Students who c
 Erroneous examples are most effective for learners with at least some prior knowledge; they can be confusing or lead to cognitive overload for absolute novices.
 
 ## Related Claims
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md)
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md)
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md)
+- [Self-explanation improves conceptual understanding and problem-solving performance.](self-explanation-improves-conceptual-understanding.md)

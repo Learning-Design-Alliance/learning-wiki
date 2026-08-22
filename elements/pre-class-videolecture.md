@@ -31,18 +31,18 @@ Instructional content is delivered via video or recorded lecture before in-class
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
-- [Flipped Learning](/principles/flipped-learning.md)
-- [Direct Instruction](/principles/direct-instruction.md)
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
+- [Flipped Learning](../principles/flipped-learning.md)
+- [Direct Instruction](../principles/direct-instruction.md)
 
 ## Related Elements
-- [Flipped Classroom](/elements/flipped-classroom.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Multimedia Learning](/elements/multimedia-learning.md)
+- [Flipped Classroom](flipped-classroom.md)
+- [Assigned Readings](assigned-readings.md)
+- [Multimedia Learning](multimedia-learning.md)
 
 ## Patterns That Use This Element
-- [Flipped Classroom](/patterns/flipped-classroom.md)
-- [Blended Learning](/patterns/blended-learning.md)
+- [Flipped Classroom](../patterns/flipped-classroom.md)
+- [Blended Learning](../patterns/blended-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

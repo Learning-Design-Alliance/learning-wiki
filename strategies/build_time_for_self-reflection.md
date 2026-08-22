@@ -39,7 +39,7 @@ Providing a chance for teachers to reflect upon their new ideas and consider wha
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track teacher participation in reflection activities. Collect teacher reflections on their teaching practices and professional growth. Evaluate the impact of reflection on student learning outcomes.

@@ -97,5 +97,5 @@ A second qualification is the Swanson and Lussier finding: explicit strategy tra
 Finally, van de Pol et al. treat contingency as definitionally necessary for scaffolding — support that is not contingent is not scaffolding, it is instruction. This means some evidence cited for "scaffolding effectiveness" may conflate genuinely contingent support with structured-but-fixed instructional sequences.
 
 ## Related Claims
-- [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md)
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md)
+- [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)
+- [Self-explanation improves conceptual understanding and problem-solving performance.](self-explanation-improves-conceptual-understanding.md)

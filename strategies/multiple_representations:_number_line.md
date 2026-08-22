@@ -39,8 +39,8 @@ The number line is used as a visual representation of numerical relationships. S
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learner's ability to use the number line to solve problems. Track their understanding of place value and magnitude through game-based activities. Assess their number sense development over time.

@@ -14,8 +14,8 @@ generated:
 Debriefing is the element in which learners reflect on an activity, simulation, or performance to consolidate what happened and why.
 
 ## Affordances
-- [Debriefing](/principles/debriefing.md)
-- [Reflection](/principles/reflection.md)
+- [Debriefing](../principles/debriefing.md)
+- [Reflection](../principles/reflection.md)
 
 ## Related Elements
-- [Reflection Activities](/elements/reflection-activities.md)
+- [Reflection Activities](reflection-activities.md)

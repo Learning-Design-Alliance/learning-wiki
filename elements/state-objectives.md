@@ -31,17 +31,17 @@ Clearly communicates the learning goals to set expectations and focus attention.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
-- [Metacognition](/principles/metacognition.md)
+- [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Learning Outcomes](/elements/learning-outcomes.md)
-- [Goal Setting](/elements/goal-setting.md)
-- [Scaffolding](/elements/scaffolding.md)
+- [Learning Outcomes](learning-outcomes.md)
+- [Goal Setting](goal-setting.md)
+- [Scaffolding](scaffolding.md)
 
 ## Patterns That Use This Element
-- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
-- [Competency-Based Learning](/patterns/competency-based-learning.md)
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

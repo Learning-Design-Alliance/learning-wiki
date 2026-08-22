@@ -34,9 +34,9 @@ In instructional design, behaviorist principles underlie practices such as direc
 ## Claims
 
 ## Related Theories
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — arose partly in reaction to behaviorism's neglect of internal cognitive processes
-- [Constructivism](/theories/constructivism.md) — contrasts with behaviorism by centering the learner's active construction of meaning
-- [Information Processing Theory](/theories/information-processing-theory.md) — replaced behaviorist black-box assumptions with explicit models of memory and attention
+- [Cognitive Load Theory](cognitive-load-theory.md) — arose partly in reaction to behaviorism's neglect of internal cognitive processes
+- [Constructivism](constructivism.md) — contrasts with behaviorism by centering the learner's active construction of meaning
+- [Information Processing Theory](information-processing-theory.md) — replaced behaviorist black-box assumptions with explicit models of memory and attention
 
 ## Examples
 

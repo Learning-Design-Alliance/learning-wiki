@@ -39,11 +39,11 @@ A thinking routine developed by Project Zero to stimulate curiosity, normalize e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain Attention](/elements/gain-attention.md)
-- [Individual Response](/elements/individual-response.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Cognitive Conflict](/elements/cognitive-conflict.md)
+- [Gain Attention](../elements/gain-attention.md)
+- [Individual Response](../elements/individual-response.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Depth and breadth of student responses, evidence of critical thinking, number and quality of questions asked, level of engagement in discussions

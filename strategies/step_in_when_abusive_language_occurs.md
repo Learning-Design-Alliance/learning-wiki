@@ -39,9 +39,9 @@ Addressing offensive language promptly and consistently is crucial for creating 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Decreased use of offensive language in the classroom. Increased student understanding of the impact of their words. Improved classroom climate and sense of safety.

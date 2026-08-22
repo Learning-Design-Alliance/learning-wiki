@@ -39,7 +39,7 @@ Journaling strategies include instructional practices that promote self-reflecti
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Students provide valuable insights into themselves.

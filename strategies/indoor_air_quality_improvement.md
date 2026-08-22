@@ -39,7 +39,7 @@ Improving indoor air quality reduces absenteeism, particularly for students with
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student attendance, monitor air quality, assess student health outcomes.

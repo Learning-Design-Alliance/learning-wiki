@@ -39,10 +39,10 @@ Schema-based instruction involves teaching learners to recognize and understand 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Track learner accuracy in identifying problem structures, monitor the correct application of problem-solving strategies, and assess improvements in overall problem-solving performance.

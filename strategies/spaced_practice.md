@@ -39,10 +39,10 @@ Spaced practice involves distributing learning sessions over time, contrasting w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Continuous Review](/elements/continuous-review.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Continuous Review](../elements/continuous-review.md)
 
 ## Assessment Evidence
 - Track learner performance over time to measure retention. Compare results of spaced practice versus massed practice. Monitor learner engagement and adherence to study schedules.

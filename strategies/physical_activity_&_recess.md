@@ -39,8 +39,8 @@ Integrating physical activity, such as games, walking, or jogging, with learning
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Track improvements in student focus and attention. Measure increases in physical activity during the school day. Assess gains in social skills and teamwork through observation and feedback.

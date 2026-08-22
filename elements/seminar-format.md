@@ -26,17 +26,17 @@ Seminar format is the element in which learning is organized around sustained di
 - Support interpretive dialogue, critical reasoning, and sustained discussion.
 
 ### Affordances
-- [Peer Discussion](/principles/peer-discussion.md)
-- [Social Constructivism](/principles/social-constructivism.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Social Constructivism](../principles/social-constructivism.md)
 
 ## Related Elements
-- [Open-Ended Discussion](/elements/open-ended-discussion.md)
-- [Structured Discussion](/elements/structured-discussion.md)
-- [Pre-Seminar Preparation](/elements/pre-seminar-preparation.md)
+- [Open-Ended Discussion](open-ended-discussion.md)
+- [Structured Discussion](structured-discussion.md)
+- [Pre-Seminar Preparation](pre-seminar-preparation.md)
 
 ## Patterns That Use This Element
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 - Text-centered seminar where learners respond to each other around a common prompt.

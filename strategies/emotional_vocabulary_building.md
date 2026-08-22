@@ -39,9 +39,9 @@ Learners are provided direct access to emotion words, using a word wall or chart
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor the use of emotion words in daily conversations and written work. Track the accuracy of emotion identification in literature and scenarios.

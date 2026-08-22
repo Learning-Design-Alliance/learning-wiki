@@ -39,10 +39,10 @@ Collaborative writing using online platforms involves students jointly composing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Evaluate the quality of collaborative writing products, assess the depth and specificity of peer feedback, and track student participation and engagement in online discussions.

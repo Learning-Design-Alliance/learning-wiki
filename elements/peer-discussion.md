@@ -31,19 +31,19 @@ Learners engage in structured conversations with classmates to explore and refin
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Constructivism](/principles/constructivism.md)
-- [Perspective-Taking](/principles/perspective-taking.md)
+- [Social Learning](../principles/social-learning.md)
+- [Constructivism](../principles/constructivism.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
 
 ## Related Elements
-- [Socratic Questioning](/elements/socratic-questioning.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Socratic Questioning](socratic-questioning.md)
+- [Peer Teaching](peer-teaching.md)
+- [Conceptual Questioning](conceptual-questioning.md)
 
 ## Patterns That Use This Element
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Peer Instruction](/patterns/peer-instruction.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Peer Instruction](../patterns/peer-instruction.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

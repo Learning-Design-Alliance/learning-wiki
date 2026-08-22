@@ -39,9 +39,9 @@ The letter strategy is a mnemonic technique that involves using acronyms and acr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Demonstration](/elements/demonstration.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Improved test scores on list-based questions, increased ability to recall sequences, enhanced retention of factual information, and positive student feedback on the strategy.

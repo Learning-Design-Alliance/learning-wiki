@@ -39,9 +39,9 @@ Interactive storytelling involves creating narratives where the reader or user c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Demonstration](/elements/demonstration.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess the creativity and coherence of the narrative, the effectiveness of the interactive elements, and the overall impact of the story.

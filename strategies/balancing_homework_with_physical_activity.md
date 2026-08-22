@@ -39,7 +39,7 @@ Encourage children to balance homework with physical activity by talking to teac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Monitoring of study habits, tracking of physical activity during study time, self-reported focus and concentration.

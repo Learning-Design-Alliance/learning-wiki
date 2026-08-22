@@ -39,8 +39,8 @@ Increase student-to-student interaction with academic language. Have students tr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Practice](/elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor student participation in discussions, review writing samples

@@ -39,7 +39,7 @@ Verbal feedback uses voice recording technology to provide balanced feedback and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improvement in student writing quality, increased student engagement with feedback, and positive changes in student attitudes towards writing and revision.

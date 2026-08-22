@@ -39,7 +39,7 @@ A set of questions to determine the credibility of a news story. These include a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Ability to answer questions about the credibility of a news story

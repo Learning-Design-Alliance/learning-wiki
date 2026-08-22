@@ -50,5 +50,5 @@ The authors studied different ways of transitioning from worked examples to prob
 This is sometimes called the "completion effect" in cognitive load literature. However, fading must be carefully timed; removing support too early can cause cognitive overload.
 
 ## Related Claims
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md)
-- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md)
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)

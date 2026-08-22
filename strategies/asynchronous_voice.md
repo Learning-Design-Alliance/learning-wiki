@@ -39,9 +39,9 @@ One of the limitations of discussion is that rich, face-to-face conversations ca
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Review learner contributions to the voice messaging platform, collect feedback from learners about their experience.

@@ -50,4 +50,4 @@ This series of experiments investigated the mechanism of chunking, confirming th
 Chunking efficiency is highly dependent on prior knowledge; an expert can form much larger and more meaningful chunks than a novice in the same domain.
 
 ## Related Claims
-- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md)
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)

@@ -31,13 +31,13 @@ Task management is the element in which learners organize, track, assign, or seq
 - Improve planning, coordination, and follow-through.
 
 ### Affordances
-- [Self-Regulation](/principles/self-regulation.md)
-- [Social Interdependence](/principles/social-interdependence.md)
+- [Self-Regulation](../principles/self-regulation.md)
+- [Social Interdependence](../principles/social-interdependence.md)
 
 ## Related Elements
-- [Collaboration](/elements/collaboration.md)
-- [Group Work](/elements/group-work.md)
-- [Goal Setting](/elements/goal-setting.md)
+- [Collaboration](collaboration.md)
+- [Group Work](group-work.md)
+- [Goal Setting](goal-setting.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

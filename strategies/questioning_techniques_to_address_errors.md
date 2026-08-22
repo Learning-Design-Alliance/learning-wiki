@@ -39,9 +39,9 @@ Strategic questioning is used to guide students to recognize their errors and co
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Changes in student thinking and reasoning, accuracy in correcting errors, ability to explain concepts in their own words, improved performance on subsequent assessments

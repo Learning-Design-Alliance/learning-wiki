@@ -39,9 +39,9 @@ Sound walls help educators reinforce the importance of explicitly teaching the s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student use of the sound wall. Track student progress in phonemic awareness and phonics skills. Monitor reading accuracy and fluency improvements.

@@ -39,9 +39,9 @@ A mindful break involves students ringing a bell when they feel the class needs 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track changes in focus, behavior, and self-reported stress levels. Observe engagement and participation during mindfulness activities.

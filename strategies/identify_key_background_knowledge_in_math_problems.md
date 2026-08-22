@@ -39,7 +39,7 @@ Identify what kinds of background knowledge learners need to understand a math p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Monitor learner's understanding, assess the impact of the instruction

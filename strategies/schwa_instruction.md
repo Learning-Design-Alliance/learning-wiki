@@ -39,9 +39,9 @@ Teach children about schwa (/ ə/), the unaccented vowel sound that has been emp
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Assess accuracy in identifying and marking schwa sounds. Monitor progress in spelling skills.

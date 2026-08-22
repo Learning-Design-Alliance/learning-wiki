@@ -39,10 +39,10 @@ Incorporating web dictionaries and thesauruses into vocabulary lessons allows le
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Track frequency of dictionary use, assess accuracy of definitions and explanations, and monitor improvement in vocabulary knowledge through pre- and post-assessments.

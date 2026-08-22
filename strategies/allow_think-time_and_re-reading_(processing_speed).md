@@ -39,8 +39,8 @@ Allowing plenty of think-time and time for re-reading for students who might nee
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor student's engagement during think-time and re-reading. Assess their ability to recall, apply, and reflect on the information.

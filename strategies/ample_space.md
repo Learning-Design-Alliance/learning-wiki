@@ -39,7 +39,7 @@ Classrooms with ample space are more conducive to providing appropriate learning
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Surveys

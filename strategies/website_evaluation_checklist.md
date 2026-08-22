@@ -39,9 +39,9 @@ Learners examine websites (both reliable and unreliable) using a checklist to as
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assessment](/elements/assessment.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assessment](../elements/assessment.md)
 
 ## Assessment Evidence
 - Learners' ability to accurately apply the checklist criteria and justify their evaluations of website reliability.

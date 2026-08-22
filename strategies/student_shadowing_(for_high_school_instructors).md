@@ -39,8 +39,8 @@ A veteran teacher or coach shadows one or two students for a couple of days to g
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Changes in teaching practices, increased student engagement, improved student outcomes

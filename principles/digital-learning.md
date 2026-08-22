@@ -20,7 +20,7 @@ Digital learning is the principle of using digital environments and tools to sup
 
 ## Implications
 
-Digital learning matters when technology changes what learners can access, rehearse, replay, produce, or collaborate on. At its best, it is not a separate pedagogy but a delivery and interaction layer that makes strong instructional design more available: replayable explanation, adaptive practice, distributed collaboration, multimodal representation, and flexible pacing. Digital systems are especially useful when they make progress visible and usable for learner adjustment [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M], when they provide adaptive hints or support that responds to performance [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M], and when they prompt annotation, explanation, or reasoning rather than passive consumption [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. At its worst, digital delivery simply digitizes weak instruction. The quality of the learning design still matters more than the presence of devices or platforms.
+Digital learning matters when technology changes what learners can access, rehearse, replay, produce, or collaborate on. At its best, it is not a separate pedagogy but a delivery and interaction layer that makes strong instructional design more available: replayable explanation, adaptive practice, distributed collaboration, multimodal representation, and flexible pacing. Digital systems are especially useful when they make progress visible and usable for learner adjustment [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M], when they provide adaptive hints or support that responds to performance [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M], and when they prompt annotation, explanation, or reasoning rather than passive consumption [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. At its worst, digital delivery simply digitizes weak instruction. The quality of the learning design still matters more than the presence of devices or platforms.
 
 ### Context
 #### Requirements
@@ -44,32 +44,32 @@ Digital learning matters when technology changes what learners can access, rehea
 
 ### Theory
 #### Supporting
-- [Multimedia Learning](/principles/multimedia-learning.md) — many digital environments coordinate words, visuals, audio, and interaction in ways that can improve comprehension when designed well
-- [Multimodal Instruction](/principles/multimodal-instruction.md) — digital platforms often make multiple modes practical at scale
-- [Self-Regulated Learning](/theories/self-regulated-learning.md) — replayable content, progress indicators, and flexible pacing can support learner planning and monitoring
+- [Multimedia Learning](multimedia-learning.md) — many digital environments coordinate words, visuals, audio, and interaction in ways that can improve comprehension when designed well
+- [Multimodal Instruction](multimodal-instruction.md) — digital platforms often make multiple modes practical at scale
+- [Self-Regulated Learning](../theories/self-regulated-learning.md) — replayable content, progress indicators, and flexible pacing can support learner planning and monitoring
 
 #### Contradicting / Qualifying
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — digital environments can either reduce or increase load depending on interface design, modality choices, and tool complexity
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — digital environments can either reduce or increase load depending on interface design, modality choices, and tool complexity
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — digital systems are often most effective when they make progress visible and usable for learner adjustment
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — adaptive hints, feedback, and platform supports can help when they respond to learner performance rather than staying generic
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — digital tools that prompt explanation, annotation, or reasoning can outperform passive content delivery
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — digital systems are often most effective when they make progress visible and usable for learner adjustment
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — adaptive hints, feedback, and platform supports can help when they respond to learner performance rather than staying generic
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — digital tools that prompt explanation, annotation, or reasoning can outperform passive content delivery
 
 ## Related Principles
-- [Flipped Learning](/principles/flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible
-- [Learner Choice](/principles/learner-choice.md) — platforms can support alternative pathways, modalities, and pacing
-- [Multimedia Learning](/principles/multimedia-learning.md) — digital environments frequently instantiate multimedia principles in practice
+- [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible
+- [Learner Choice](learner-choice.md) — platforms can support alternative pathways, modalities, and pacing
+- [Multimedia Learning](multimedia-learning.md) — digital environments frequently instantiate multimedia principles in practice
 
 ## Examples
 
 ### Illustrative
 
-**[Flipped Learning](/patterns/flipped-learning.md)** — Learners access short digital explanations before class, then use live time for practice, discussion, and feedback. The gain comes from redesigning class time, not just posting videos.
+**[Flipped Learning](../patterns/flipped-learning.md)** — Learners access short digital explanations before class, then use live time for practice, discussion, and feedback. The gain comes from redesigning class time, not just posting videos.
 
 **[ASSISTments](https://www.assistments.org)** — A digital math platform that combines practice, hints, and immediate feedback. It shows the value of digital learning when the environment supports reasoning and feedback rather than just answer submission.
 
-**[Shared Documents](/elements/shared-documents.md)** — Learners jointly annotate, revise, and synthesize ideas in a shared digital workspace, turning the platform into a medium for collaboration rather than just content storage.
+**[Shared Documents](../elements/shared-documents.md)** — Learners jointly annotate, revise, and synthesize ideas in a shared digital workspace, turning the platform into a medium for collaboration rather than just content storage.
 
 ## Key Sources
 - Means, B., Toyama, Y., Murphy, R., Bakia, M., & Jones, K. (2010). *Evaluation of evidence-based practices in online learning*. U.S. Department of Education.

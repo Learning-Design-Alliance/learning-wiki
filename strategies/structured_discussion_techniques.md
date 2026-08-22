@@ -39,10 +39,10 @@ Facilitating productive discussions requires clear expectations, modeling, sente
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
 
 ## Assessment Evidence
 - Observe learner participation and analyze the depth and quality of discussion.

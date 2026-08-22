@@ -39,9 +39,9 @@ Shared reflection involves creating a classroom culture where each student is re
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Peer Teaching](/elements/peer-teaching.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Peer Teaching](../elements/peer-teaching.md)
 
 ## Assessment Evidence
 - Increased student participation in discussions, evidence of peer support, and a positive classroom climate.

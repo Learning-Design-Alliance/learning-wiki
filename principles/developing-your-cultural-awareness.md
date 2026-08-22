@@ -27,7 +27,7 @@ sources:
 Developing cultural awareness is the ongoing practice of examining how one's own background, assumptions, language, and institutional context shape teaching and learning across difference. For educators, this includes noticing bias, understanding how identity and power affect classroom experience, and designing instruction in ways that reduce stereotype threat and exclusion. It is not a one-time competency; it is a sustained reflective and relational practice that changes how instructors interpret learner behavior, choose materials, and respond to participation.
 
 ## Implications
-Developing cultural awareness improves instruction when it changes how educators interpret learners and make design decisions. Reflection, feedback, and observation can help instructors notice where hidden assumptions shape expectations, examples, responses to participation, or judgments about ability [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]. But awareness only matters if it alters practice: the goal is not self-description, but better decisions about curriculum, facilitation, and support that reduce avoidable exclusion and widen legitimate ways for learners to participate. That usually requires both responsive adjustment in the moment [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] and explicit articulation of what assumptions are shaping interpretation in the first place [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S].
+Developing cultural awareness improves instruction when it changes how educators interpret learners and make design decisions. Reflection, feedback, and observation can help instructors notice where hidden assumptions shape expectations, examples, responses to participation, or judgments about ability [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]. But awareness only matters if it alters practice: the goal is not self-description, but better decisions about curriculum, facilitation, and support that reduce avoidable exclusion and widen legitimate ways for learners to participate. That usually requires both responsive adjustment in the moment [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] and explicit articulation of what assumptions are shaping interpretation in the first place [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S].
 
 ### Context
 #### Requirements
@@ -63,15 +63,15 @@ Developing cultural awareness improves instruction when it changes how educators
 - Awareness alone is insufficient if it is not paired with changes to interaction, materials, and instructional decision-making.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — instructors improve cultural awareness when they monitor recurring patterns in their own interpretation and practice
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — awareness becomes instructionally meaningful when it changes how support is calibrated for real learners
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S] — reflective articulation helps educators make tacit assumptions visible enough to revise
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — instructors improve cultural awareness when they monitor recurring patterns in their own interpretation and practice
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — awareness becomes instructionally meaningful when it changes how support is calibrated for real learners
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — reflective articulation helps educators make tacit assumptions visible enough to revise
 
 ## Related Principles
-- [Cultural & Life Experiences Connections](/principles/cultural-life-experiences-connections.md) — cultural awareness helps instructors connect content to learner experience without stereotyping.
-- [Building Empathy](/principles/building-empathy.md) — empathy supports more careful interpretation of learner experience and perspective.
-- [Discussing Race](/principles/discussing-race.md) — race-conscious dialogue requires instructor reflection and cultural awareness to be facilitative rather than harmful.
-- [Strengths-Based Approach](/principles/strengths-based-approach.md) — awareness is more useful when it shifts interpretation toward learner assets and possibilities.
+- [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) — cultural awareness helps instructors connect content to learner experience without stereotyping.
+- [Building Empathy](building-empathy.md) — empathy supports more careful interpretation of learner experience and perspective.
+- [Discussing Race](discussing-race.md) — race-conscious dialogue requires instructor reflection and cultural awareness to be facilitative rather than harmful.
+- [Strengths-Based Approach](strengths-based-approach.md) — awareness is more useful when it shifts interpretation toward learner assets and possibilities.
 
 ## Examples
 - **Bias review of materials**: Instructors audit examples, language, images, and case studies for hidden assumptions or exclusions.

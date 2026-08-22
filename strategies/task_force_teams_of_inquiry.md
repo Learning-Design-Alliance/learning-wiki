@@ -39,8 +39,8 @@ Forming task force teams of inquiry by letting teams form (or helping with this)
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Demonstration](/elements/demonstration.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Assessments can include team presentations, research reports, and individual reflections. Peer evaluations can provide insights into team dynamics and individual contributions.

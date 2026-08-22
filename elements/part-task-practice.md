@@ -31,19 +31,19 @@ Isolated, repeated practice of elements that require automation for efficient ta
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Spaced Learning](/principles/spaced-learning.md)
-- [Retrieval Practice](/principles/retrieval-practice.md)
-- [Deliberate Practice](/principles/deliberate-practice.md)
+- [Spaced Learning](../principles/spaced-learning.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
+- [Deliberate Practice](../principles/deliberate-practice.md)
 
 ## Related Elements
-- [Drill & Practice](/elements/drill-practice.md)
-- [Spaced Learning](/elements/spaced-learning.md)
-- [Mastery Learning](/elements/mastery-learning.md)
+- [Drill & Practice](drill-practice.md)
+- [Spaced Learning](spaced-learning.md)
+- [Mastery Learning](mastery-learning.md)
 
 ## Patterns That Use This Element
-- [Four-Component Instructional Design](/patterns/4cid.md)
-- [Competency-Based Learning](/patterns/competency-based-learning.md)
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Four-Component Instructional Design](../patterns/4cid.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -42,14 +42,14 @@ generated:
 - Creates conditions for reflection, debrief, and iteration
 
 ## Related Elements
-- [Application](/elements/application.md)
-- [Solution Development](/elements/solution-development.md)
-- [Research](/elements/research.md)
-- [Decision Making](/elements/decision-making.md)
+- [Application](application.md)
+- [Solution Development](solution-development.md)
+- [Research](research.md)
+- [Decision Making](decision-making.md)
 
 ## Patterns That Use This Element
-- [Goal-Based Scenarios (GBS)](/patterns/goal-based-scenarios-gbs.md)
-- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
+- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios-gbs.md)
+- [Problem-Based Learning (PBL)](../patterns/problem-based-learning-pbl.md)
 
 ## Examples
 - Learners launch a community information campaign after researching a local issue

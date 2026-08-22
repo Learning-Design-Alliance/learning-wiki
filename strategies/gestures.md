@@ -39,8 +39,8 @@ Gestures are physical movements, typically of the hands or arms, used to communi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner accuracy in tasks involving counting or memory recall. Measure comprehension through formative assessments following instruction with and without gestures.

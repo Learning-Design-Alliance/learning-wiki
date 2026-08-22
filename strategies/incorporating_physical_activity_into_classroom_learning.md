@@ -39,8 +39,8 @@ Incorporate movement into classroom instruction by having science classes explor
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Track student engagement levels, assess knowledge retention through tests and quizzes, observe student behavior and participation in class

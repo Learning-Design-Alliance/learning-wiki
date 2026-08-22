@@ -39,9 +39,9 @@ If you have time to scroll Facebook or watch the news, you probably have a momen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Question Formulation](/elements/question-formulation.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Criteria Development](/elements/criteria-development.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Criteria Development](../elements/criteria-development.md)
 
 ## Assessment Evidence
 - Observe learners' ability to apply the questions to evaluate news stories and identify red flags.

@@ -39,10 +39,10 @@ Replacing negative messages from the inner voice with positive affirmations. Pos
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe students' engagement and enthusiasm when using affirmations. Assess students' ability to articulate the impact of affirmations on their emotions. Review students' journals or reflections for evidence of positive self-talk.

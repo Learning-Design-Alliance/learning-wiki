@@ -39,9 +39,9 @@ Exit tickets are short prompts given at the end of a lesson to encourage self-as
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess Performance](/elements/assess-performance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Thoughtfulness and honesty of student responses, alignment between student self-assessment and actual performance, changes in mindset over time

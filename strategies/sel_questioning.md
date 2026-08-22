@@ -39,8 +39,8 @@ Teachers can implement simple SEL questions focused on kindess, metaphors, chall
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement in the discussions. Collect student feedback on the activity to assess its effectiveness. Monitor student behavior and academic performance to assess the impact of the activity on their social and emotional learning.

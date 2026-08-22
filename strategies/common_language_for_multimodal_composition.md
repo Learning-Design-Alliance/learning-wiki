@@ -39,9 +39,9 @@ Creating a shared vocabulary or metalanguage empowers learners to analyze and di
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the depth and specificity of learner discussions about multimodal works. Analyze the extent to which learners use the common language in their own compositions and analyses.

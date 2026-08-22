@@ -39,9 +39,9 @@ Training staff in behaviors, attitudes, and policies that enable effective cross
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess staff's cultural competency skills through surveys, observations, and feedback from families. Monitor improvements in family-school partnerships and student outcomes.

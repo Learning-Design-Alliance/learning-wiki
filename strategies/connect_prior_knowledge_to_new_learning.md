@@ -39,8 +39,8 @@ Building connections to prior understandings and experiences helps learners inte
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Activation](/elements/activation.md)
-- [Analogies and prior knowledge activation](/elements/analogies-and-prior-knowledge-activation.md)
+- [Activation](../elements/activation.md)
+- [Analogies and prior knowledge activation](../elements/analogies-and-prior-knowledge-activation.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of key concepts through discussions or written assignments. Track improvements in comprehension and application of knowledge.

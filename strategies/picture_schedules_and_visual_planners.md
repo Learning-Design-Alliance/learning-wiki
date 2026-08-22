@@ -39,8 +39,8 @@ Picture schedules or visual planners use images to lay out the steps to do a tas
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner's ability to follow the schedule independently. Track the completion rate of tasks on the schedule. Gather feedback from the learner on the usefulness of the schedule.

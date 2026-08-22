@@ -39,10 +39,10 @@ Teachers strategically select and read aloud stories that incorporate social-emo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, analyze their reflections and insights shared during and after the read-aloud sessions, assess their ability to apply SEL concepts to real-life situations.

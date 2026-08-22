@@ -39,9 +39,9 @@ Students use an individualized "highlighter tool" (e.g., a Google Doc add-on) to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Application of Knowledge](/elements/application-of-knowledge.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Effectiveness of the color-coding scheme, quality of the summaries, and depth of analysis.

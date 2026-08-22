@@ -39,9 +39,9 @@ Distributed practice, also known as spaced learning, involves reviewing informat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Continuous Review](/elements/continuous-review.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Continuous Review](../elements/continuous-review.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Compare retention rates between spaced and massed practice groups. Monitor learner recall and application of knowledge over time.

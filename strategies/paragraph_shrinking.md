@@ -39,10 +39,10 @@ A PALS activity focused on identifying main ideas and summarizing paragraphs. St
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Modeling](/elements/modeling.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Modeling](../elements/modeling.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe summarization skills, assess ability to identify main ideas, collect student feedback

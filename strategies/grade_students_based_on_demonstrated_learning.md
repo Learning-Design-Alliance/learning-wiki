@@ -39,9 +39,9 @@ Instead of averaging scores over time, emphasize grading students on their ultim
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Student mastery levels, growth over time

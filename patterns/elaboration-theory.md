@@ -35,11 +35,11 @@ Elaboration Theory is the short-form canonical target for Reigeluth's elaboratio
 
 ### Theory
 #### Supporting
-- [Scaffolding](/principles/scaffolding.md)
-- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
+- [Scaffolding](../principles/scaffolding.md)
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
 
 ## Related Patterns
-- [Reigeluth's Elaboration Theory](/patterns/reigeluths-elaboration-theory.md)
+- [Reigeluth's Elaboration Theory](reigeluths-elaboration-theory.md)
 
 ## Key Sources
 - Reigeluth, C. M. (1979). In search of a better way to organize instruction. *Journal of Instructional Development, 2*(3), 8-15.

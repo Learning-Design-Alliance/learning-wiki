@@ -31,18 +31,18 @@ Drill and practice is the element in which learners repeatedly perform a focused
 - Improve fluency, accuracy, and automaticity on foundational subskills.
 
 ### Affordances
-- [Deliberate Practice](/principles/deliberate-practice.md)
-- [Behaviorism](/principles/behaviorism.md)
-- [Retrieval Practice](/principles/retrieval-practice.md)
+- [Deliberate Practice](../principles/deliberate-practice.md)
+- [Behaviorism](../principles/behaviorism.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
 
 ## Related Elements
-- [Part-Task Practice](/elements/part-task-practice.md)
-- [Spaced Repetition](/elements/spaced-repetition.md)
-- [Immediate Feedback](/elements/immediate-feedback.md)
+- [Part-Task Practice](part-task-practice.md)
+- [Spaced Repetition](spaced-repetition.md)
+- [Immediate Feedback](immediate-feedback.md)
 
 ## Patterns That Use This Element
-- [Game-Based Mastery Learning](/patterns/game-based-mastery-learning.md)
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 - Timed factual retrieval, repeated skill drills, or rapid practice sets targeting automaticity.

@@ -39,8 +39,8 @@ Creating classrooms as comfortable spaces where students feel at home. This incl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Activation](/elements/activation.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in reading activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward reading.

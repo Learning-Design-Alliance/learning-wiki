@@ -39,9 +39,9 @@ This strategy encourages learners to record their responses to a text as they re
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Learner responses in the journal; participation in sharing and discussion; demonstrated comprehension of the text.

@@ -27,7 +27,7 @@ sources:
 Mindfulness activities are short structured practices that help learners attend to the present moment, notice internal state, and regulate reaction before acting. In learning settings, these activities are often used to support focus, emotional regulation, transition into challenging work, or recovery from stress. Their instructional value is usually indirect: they do not teach content by themselves, but they can improve the conditions under which learners are ready to engage, persist, and monitor themselves.
 
 ## Implications
-Mindfulness activities are best treated as readiness supports rather than as core instruction. Brief, bounded routines can help some learners settle attention, notice stress, and transition into demanding work with more self-control, which may improve later engagement and use of feedback by strengthening self-monitoring and regulation [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. But the benefits are indirect and variable, so the design principle is modesty: make participation low-pressure, connect the routine to a concrete learning demand, and avoid treating mindfulness as a substitute for instruction, accommodation, or broader support.
+Mindfulness activities are best treated as readiness supports rather than as core instruction. Brief, bounded routines can help some learners settle attention, notice stress, and transition into demanding work with more self-control, which may improve later engagement and use of feedback by strengthening self-monitoring and regulation [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. But the benefits are indirect and variable, so the design principle is modesty: make participation low-pressure, connect the routine to a concrete learning demand, and avoid treating mindfulness as a substitute for instruction, accommodation, or broader support.
 
 ### Context
 #### Requirements
@@ -63,13 +63,13 @@ Mindfulness activities are best treated as readiness supports rather than as cor
 - Mindfulness is supportive rather than sufficient; it does not replace instruction, accommodation, or mental-health care.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — mindfulness routines are most defensible when they help learners notice and regulate attention or stress before engaging in work
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — mindfulness routines are most defensible when they help learners notice and regulate attention or stress before engaging in work
 
 ## Related Principles
-- [Check-ins](/principles/check-ins.md) — mindfulness routines can function as a brief transition or readiness check-in.
-- [Positive Self-Talk](/principles/positive-self-talk.md) — both principles aim to improve how learners respond to challenge and internal state.
-- [Instructor Accessibility](/principles/instructor-accessibility.md) — mindfulness should be optional and framed within a responsive learning environment.
-- [Immediate Feedback](/principles/immediate-feedback.md) — regulation routines can help learners use feedback more productively when they are emotionally activated.
+- [Check-ins](check-ins.md) — mindfulness routines can function as a brief transition or readiness check-in.
+- [Positive Self-Talk](positive-self-talk.md) — both principles aim to improve how learners respond to challenge and internal state.
+- [Instructor Accessibility](instructor-accessibility.md) — mindfulness should be optional and framed within a responsive learning environment.
+- [Immediate Feedback](immediate-feedback.md) — regulation routines can help learners use feedback more productively when they are emotionally activated.
 
 ## Examples
 - **Breathing reset before a demanding task**: Learners take one or two minutes to settle attention before starting.

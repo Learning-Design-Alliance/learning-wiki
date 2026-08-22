@@ -39,9 +39,9 @@ Growth mindset development involves cultivating the belief that abilities and in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe changes in learner behavior, such as increased persistence, willingness to take risks, and positive self-talk. Track learner responses to challenges and setbacks. Analyze learner reflections on their growth and learning experiences. Measure the impact of growth mindset interventions on learner performance and achievement.

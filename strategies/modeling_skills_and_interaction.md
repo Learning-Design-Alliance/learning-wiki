@@ -39,9 +39,9 @@ Modeling involves demonstrating the skills you expect from your students, both i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Modeling](/elements/modeling.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Modeling](../elements/modeling.md)
 
 ## Assessment Evidence
 - Improved student performance on assessments, increased quality of student work, and positive feedback on the clarity of the instruction.

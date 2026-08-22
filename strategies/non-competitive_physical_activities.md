@@ -39,8 +39,8 @@ Encourage pre-teens and teenagers who dislike organized sports to explore non-co
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Tracking of participation rates, self-reported enjoyment and confidence, observation of skill development.

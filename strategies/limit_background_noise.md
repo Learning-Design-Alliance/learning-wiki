@@ -39,9 +39,9 @@ Minimizing background noise, such as television, conversations, or lyrical music
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track reading comprehension scores, measure task completion rates, conduct self-reports on focus and concentration in quiet environments.

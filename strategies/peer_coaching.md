@@ -39,9 +39,9 @@ Peer coaching is a reciprocal helping relationship between equals who support ea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Modeling](/elements/modeling.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Peer Interaction](/elements/peer-interaction.md)
+- [Modeling](../elements/modeling.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Interaction](../elements/peer-interaction.md)
 
 ## Assessment Evidence
 - Improved communication, increased collaboration, positive feedback from participants.

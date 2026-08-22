@@ -39,10 +39,10 @@ An adult shadows a child closely (within arm's reach) to prevent specific harmfu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Modeling](/elements/modeling.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Modeling](../elements/modeling.md)
 
 ## Assessment Evidence
 - Reduction in the frequency of target behaviors, increased use of alternative communication strategies, improved social interactions, and a safer classroom environment. Data can be collected through direct observation and incident reports.

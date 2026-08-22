@@ -39,10 +39,10 @@ Dialogic reading is an interactive reading technique where the adult helps the c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe the child's language development, vocabulary acquisition, story comprehension, and expressive fluency. Track the child's responses to different types of prompts and their ability to relate the book to real-world experiences.

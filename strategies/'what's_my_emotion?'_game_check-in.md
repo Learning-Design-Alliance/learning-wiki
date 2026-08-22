@@ -39,9 +39,9 @@ Students use the EQ Feeling Chart to identify their feelings. One student acts o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe student participation in acting out and guessing emotions. Assess the accuracy of students' guesses and the expressiveness of their actions.

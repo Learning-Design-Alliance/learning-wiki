@@ -16,12 +16,12 @@ Rubrics are the element in which criteria and performance levels are made explic
 ## Design Implications
 
 ### Affordances
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Multiple Methods of Assessment](/principles/multiple-methods-of-assessment.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
 
 ## Related Elements
-- [Rubric Design](/elements/rubric-design.md)
-- [Criteria Development](/elements/criteria-development.md)
+- [Rubric Design](rubric-design.md)
+- [Criteria Development](criteria-development.md)
 
 ## Key Sources
 - Brookhart, S. M. (2013). *How to create and use rubrics for formative assessment and grading*. ASCD.

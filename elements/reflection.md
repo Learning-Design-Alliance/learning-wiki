@@ -31,19 +31,19 @@ Learners analyze their experiences, actions, or decisions to deepen learning.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Metacognition](/principles/metacognition.md)
-- [Self-Regulated Learning](/principles/self-regulated-learning.md)
-- [Reflective Practice](/principles/reflective-practice.md)
+- [Metacognition](../principles/metacognition.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
+- [Reflective Practice](../principles/reflective-practice.md)
 
 ## Related Elements
-- [Journaling](/elements/journaling.md)
-- [Self-Assessment](/elements/self-assessment.md)
-- [Metacognitive Strategies](/elements/metacognitive-strategies.md)
+- [Journaling](journaling.md)
+- [Self-Assessment](self-assessment.md)
+- [Metacognitive Strategies](metacognitive-strategies.md)
 
 ## Patterns That Use This Element
-- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
-- [Self-Regulated Learning](/patterns/self-regulated-learning.md)
-- [Reflective Practice](/patterns/reflective-practice.md)
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
+- [Self-Regulated Learning](../patterns/self-regulated-learning.md)
+- [Reflective Practice](../patterns/reflective-practice.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

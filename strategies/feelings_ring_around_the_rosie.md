@@ -39,8 +39,8 @@ During recess, learners play 'Ring Around the Rosie' while acting out different 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately portray emotions through movement. Assess their participation and engagement in the activity.

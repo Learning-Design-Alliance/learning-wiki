@@ -39,9 +39,9 @@ This strategy involves the use of images, videos, and other visual aids to enhan
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Measure improvement in comprehension and retention through quizzes and tests. Observe learner engagement and participation in discussions. Analyze learner-created visuals and graphic organizers for understanding and application of concepts.

@@ -24,7 +24,7 @@ Peer learning is the principle that learners can deepen understanding by explain
 
 ## Implications
 
-Peer learning is strongest when learners are asked to do real intellectual work with and for one another rather than merely sit in groups. Its value comes from explanation, comparison, and mutual response. Learners often make their own thinking clearer when they have to explain it to someone else [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S], and peer settings are stronger when learners monitor contribution, progress, and understanding rather than assuming interaction alone is enough [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. The main instructional challenge is quality control: peers can also amplify misconceptions or normalize shallow reasoning if tasks and facilitation are weak, which is why peer learning often benefits from structures and prompts that respond to learner needs rather than leaving interaction fully unshaped [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M].
+Peer learning is strongest when learners are asked to do real intellectual work with and for one another rather than merely sit in groups. Its value comes from explanation, comparison, and mutual response. Learners often make their own thinking clearer when they have to explain it to someone else [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and peer settings are stronger when learners monitor contribution, progress, and understanding rather than assuming interaction alone is enough [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. The main instructional challenge is quality control: peers can also amplify misconceptions or normalize shallow reasoning if tasks and facilitation are weak, which is why peer learning often benefits from structures and prompts that respond to learner needs rather than leaving interaction fully unshaped [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M].
 
 ### Context
 #### Requirements
@@ -47,30 +47,30 @@ Peer learning is strongest when learners are asked to do real intellectual work 
 
 ### Theory
 #### Supporting
-- [Social Learning](/principles/social-learning.md) — peers can act as models, interpreters, and feedback sources
-- [Social Constructivism](/principles/social-constructivism.md) — understanding is often co-constructed in interaction
-- [Community of Inquiry](/principles/community-of-inquiry.md) — peer learning is stronger when discourse is both socially and cognitively supported
+- [Social Learning](social-learning.md) — peers can act as models, interpreters, and feedback sources
+- [Social Constructivism](social-constructivism.md) — understanding is often co-constructed in interaction
+- [Community of Inquiry](community-of-inquiry.md) — peer learning is stronger when discourse is both socially and cognitively supported
 
 #### Contradicting / Qualifying
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — peer interaction can add coordination demands that need to be managed through structure and task design
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — peer interaction can add coordination demands that need to be managed through structure and task design
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining to peers can deepen conceptual understanding
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — peer contexts are stronger when learners monitor contribution, progress, and understanding
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — peer learning often benefits from instructor or peer structures that respond to learner needs
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining to peers can deepen conceptual understanding
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — peer contexts are stronger when learners monitor contribution, progress, and understanding
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — peer learning often benefits from instructor or peer structures that respond to learner needs
 
 ## Related Principles
-- [Peer Discussion](/principles/peer-discussion.md) — one of the clearest vehicles for peer learning
-- [Community of Inquiry](/principles/community-of-inquiry.md) — explains how peer interaction can become substantive inquiry rather than social activity alone
-- [Collaborative Learning](/principles/collaborative-learning.md) — peer learning is a narrower principle focused on learner-to-learner explanation and response
+- [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning
+- [Community of Inquiry](community-of-inquiry.md) — explains how peer interaction can become substantive inquiry rather than social activity alone
+- [Collaborative Learning](collaborative-learning.md) — peer learning is a narrower principle focused on learner-to-learner explanation and response
 
 ## Examples
 
 ### Illustrative
 
-**[Peer Instruction](/patterns/peer-instruction.md)** — Learners answer a conceptual question individually, discuss reasoning with peers, then revise their answer.
+**[Peer Instruction](../patterns/peer-instruction.md)** — Learners answer a conceptual question individually, discuss reasoning with peers, then revise their answer.
 
-**[Jigsaw Method](/patterns/jigsaw-method.md)** — Each learner becomes a temporary expert and teaches part of the whole to peers.
+**[Jigsaw Method](../patterns/jigsaw-method.md)** — Each learner becomes a temporary expert and teaches part of the whole to peers.
 
 **Peer revision or peer explanation routines** — Learners respond to drafts, interpretations, or solutions and improve their own understanding through explaining what works and why.
 

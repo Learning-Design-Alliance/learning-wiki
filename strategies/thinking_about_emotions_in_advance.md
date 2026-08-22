@@ -39,9 +39,9 @@ Begin the school day by asking your students a question to find out how they are
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Activation](/elements/activation.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Activation](../elements/activation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student willingness to share and demonstrate understanding of emotions

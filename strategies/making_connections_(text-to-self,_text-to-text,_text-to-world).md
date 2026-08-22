@@ -39,11 +39,11 @@ Making Connections is a comprehension strategy that helps learners relate a text
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Depth and relevance of connections made by learners, participation in discussions, quality of written reflections.

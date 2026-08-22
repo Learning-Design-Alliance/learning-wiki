@@ -39,8 +39,8 @@ Alternative assessments to timed tests in math focus on accurately measuring a l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Compare performance across different assessment types, observe learner engagement and comfort levels, analyze the variety and depth of responses

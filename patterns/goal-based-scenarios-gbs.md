@@ -60,11 +60,11 @@ GBS is especially useful when the instructional target involves judgment, proced
 
 ### Claims
 #### Supporting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 #### Contradicting
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -76,16 +76,16 @@ GBS is especially useful when the instructional target involves judgment, proced
 5. Debrief the reasoning and connect it to target concepts or future situations.
 
 ### Elements Used
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Feedback](/elements/feedback.md)
-- [Reflection](/elements/reflection.md)
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Feedback](../elements/feedback.md)
+- [Reflection](../elements/reflection.md)
 
 ### Affordances
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md)
-- [Experiential Learning](/principles/experiential-learning.md)
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
+- [Experiential Learning](../principles/experiential-learning.md)
+- [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 
 ### Personalization
 - Different learners can pursue different paths within the same scenario.
@@ -93,8 +93,8 @@ GBS is especially useful when the instructional target involves judgment, proced
 - Roles, stakes, and domain framing can be adapted for different audiences.
 
 ## Related Patterns
-- [Anchored Instruction](/patterns/anchored-instruction.md)
-- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
+- [Anchored Instruction](anchored-instruction.md)
+- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
 
 ## Examples
 - Clinical training scenarios where learners manage a patient case through evolving decisions.

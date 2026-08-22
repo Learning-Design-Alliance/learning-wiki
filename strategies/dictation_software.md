@@ -39,8 +39,8 @@ Dictation software allows learners to speak their ideas and have them transcribe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess writing quality, track improvements in writing fluency, gather learner feedback on the effectiveness of the software.

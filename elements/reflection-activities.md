@@ -28,18 +28,18 @@ Reflection activities are structured tasks that ask learners to examine what the
 - Support metacognition, transfer, and self-regulation.
 
 ### Affordances
-- [Reflection](/principles/reflection.md)
-- [Self-Regulation](/principles/self-regulation.md)
-- [Metacognition](/principles/metacognition.md)
+- [Reflection](../principles/reflection.md)
+- [Self-Regulation](../principles/self-regulation.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Journaling](/elements/journaling.md)
-- [Self-Assessment](/elements/self-assessment.md)
+- [Individual Reflection](individual-reflection.md)
+- [Journaling](journaling.md)
+- [Self-Assessment](self-assessment.md)
 
 ## Patterns That Use This Element
-- [Reflective Practice](/patterns/reflective-practice.md)
-- [Journaling](/patterns/journaling.md)
+- [Reflective Practice](../patterns/reflective-practice.md)
+- [Journaling](../patterns/journaling.md)
 
 ## Examples
 - Exit reflections, debrief prompts, confidence checks, and after-action reviews.

@@ -39,7 +39,7 @@ A tool for teaching a concept, not isolated facts.  Includes four pieces: Defini
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Cognitive Conflict](/elements/cognitive-conflict.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Compare a complete Frayer Model to a mere definition and see how powerful it is to offer essential characteristics, examples, and non-examples.

@@ -39,8 +39,8 @@ These tasks involve the study of traits, requiring learners to identify animal b
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in identifying animal traits, correctness in constructions, precision in measurements

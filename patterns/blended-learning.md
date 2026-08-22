@@ -28,7 +28,7 @@ Blended Learning is the pattern-level target for instruction that intentionally 
 - Combine flexibility of digital learning with the support or interaction of live learning.
 
 ### Related Patterns
-- [Flipped Learning](/patterns/flipped-learning.md)
+- [Flipped Learning](flipped-learning.md)
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

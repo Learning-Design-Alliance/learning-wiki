@@ -39,13 +39,13 @@ Projects driven by student-generated questions allow learners to investigate top
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Question Formulation](/elements/question-formulation.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Collaborative Problem-Solving](../elements/collaborative-problem-solving.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Quality of student-generated questions, depth of inquiry and research, evidence of critical thinking and problem-solving, engagement and participation in project activities

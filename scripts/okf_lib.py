@@ -248,6 +248,41 @@ def markdown_link(name: str, folder: str) -> str:
     return f"[{name}](/{folder}/{slugify(name)}.md)"
 
 
+def to_relative(target_path: str, from_folder: str | None) -> str:
+    """Convert a bundle-root-absolute path ('/claims/foo.md', '/CLAUDE.md') into a path
+    relative to the current file's location. `from_folder` is the current file's
+    containing content folder ('principles', 'claims', ...), or None for a file that
+    lives at the wiki root (index.md, log.md, CLAUDE.md, README.md). Every content
+    folder is exactly one level deep, so the relative form is always one of:
+    'slug.md' (same folder), '../folder/slug.md' (sibling folder), or 'folder/slug.md'
+    / '../name.md' (to/from a root-level file)."""
+    parts = target_path.lstrip("/").split("/", 1)
+    if len(parts) == 1:
+        return parts[0] if from_folder is None else f"../{parts[0]}"
+    folder, rest = parts
+    if from_folder is None:
+        return f"{folder}/{rest}"
+    if from_folder == folder:
+        return rest
+    return f"../{folder}/{rest}"
+
+
+LINK_TARGET_RE = re.compile(r"(\]\()(/[^)\s]+\.md)(\))")
+
+
+def relativize_links(text: str, from_folder: str | None) -> str:
+    """Rewrite every bundle-root-absolute markdown link target in `text` to a path
+    relative to a file located in `from_folder` (or the wiki root, if None)."""
+    return LINK_TARGET_RE.sub(lambda m: m.group(1) + to_relative(m.group(2), from_folder) + m.group(3), text)
+
+
+def relative_link(name: str, target_folder: str, from_folder: str | None) -> str:
+    """Build a cross-link from a file in `from_folder` (or the wiki root, if None) to
+    `name` in `target_folder`, already in relative form."""
+    slug = slugify(name)
+    return f"[{name}]({to_relative(f'/{target_folder}/{slug}.md', from_folder)})"
+
+
 def append_log_entries(bullet_lines: list) -> None:
     """Insert one or more '* **Op**: ...' bullets under today's '## YYYY-MM-DD'
     heading in log.md (OKF's date-grouped, newest-first log convention),

@@ -39,8 +39,8 @@ Practice attentive behavior during non-crucial times during the school day. At p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the frequency of self-marked attention lapses. Monitor the improvement of attentive behavior over time. Collect feedback from learners on their self-awareness.

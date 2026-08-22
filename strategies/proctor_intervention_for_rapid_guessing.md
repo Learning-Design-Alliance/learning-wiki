@@ -39,8 +39,8 @@ When learners are flagged for rapid guessing during assessments, proctors should
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Reduction in rapid guessing rates, improved engagement and focus during assessments, increased validity of assessment data.

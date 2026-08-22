@@ -39,9 +39,9 @@ Flashcards are a study tool used for memorization and reinforcement of knowledge
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [continuous review](/elements/continuous-review.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [continuous review](../elements/continuous-review.md)
 
 ## Assessment Evidence
 - Track progress through Anki's review scheduling and performance ratings. Monitor recall accuracy and adjust review intervals based on user performance.

@@ -31,17 +31,17 @@ Data analysis is the element in which learners inspect, interpret, organize, or 
 - Improve interpretation of evidence and support justified conclusions from data.
 
 ### Affordances
-- [Epistemic Cognition](/principles/epistemic-cognition.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Epistemic Cognition](../principles/epistemic-cognition.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Research](/elements/research.md)
-- [Scientific Reasoning](/elements/scientific-reasoning.md)
-- [Justification](/elements/justification.md)
+- [Research](research.md)
+- [Scientific Reasoning](scientific-reasoning.md)
+- [Justification](justification.md)
 
 ## Patterns That Use This Element
-- [Research-Based Learning](/patterns/research-based-learning.md)
-- [MEL Reasoning Pattern](/patterns/mel-reasoning-pattern.md)
+- [Research-Based Learning](../patterns/research-based-learning.md)
+- [MEL Reasoning Pattern](../patterns/mel-reasoning-pattern.md)
 
 ## Examples
 - Learners interpret a data set to evaluate an explanatory model.

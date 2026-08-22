@@ -39,9 +39,9 @@ Reflective journaling is a technique used to encourage reflective learning by hi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Analyze journal entries to assess learners' understanding of concepts, critical thinking skills, and personal reflections. Track changes in learners' thinking over time. Evaluate the depth and quality of learners' responses to prompts.

@@ -36,18 +36,18 @@ Immediate feedback is the element in which response information is delivered clo
 - Correct errors, strengthen strategy adjustment, and keep misconceptions from hardening.
 
 ### Affordances
-- [Immediate Feedback](/principles/immediate-feedback.md)
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Feedback Loops](/principles/feedback-loops.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Feedback Loops](../principles/feedback-loops.md)
 
 ## Related Elements
-- [Feedback](/elements/feedback.md)
-- [Hints](/elements/hints.md)
-- [Reassessment](/elements/reassessment.md)
+- [Feedback](feedback.md)
+- [Hints](hints.md)
+- [Reassessment](reassessment.md)
 
 ## Patterns That Use This Element
-- [Gagné's 9 Events](/patterns/gagnés-9-events.md)
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Gagné's 9 Events](../patterns/gagnés-9-events.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 - Step-level correction in a tutoring system.

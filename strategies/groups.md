@@ -39,9 +39,9 @@ The teacher calls out a number (e.g., 3), and the students have 10 seconds to ge
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe students' ability to quickly form groups based on the given number. Assess students' ability to solve the math problems.

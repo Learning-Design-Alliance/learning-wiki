@@ -28,17 +28,17 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - Strengthen application, procedural fluency, and experiential understanding.
 
 ### Affordances
-- [Active Learning](/principles/active-learning.md)
-- [Experiential Learning](/principles/experiential-learning.md)
+- [Active Learning](../principles/active-learning.md)
+- [Experiential Learning](../principles/experiential-learning.md)
 
 ## Related Elements
-- [Application](/elements/application.md)
-- [Simulations](/elements/simulations.md)
-- [In-Class Activities](/elements/in-class-activities.md)
+- [Application](application.md)
+- [Simulations](simulations.md)
+- [In-Class Activities](in-class-activities.md)
 
 ## Patterns That Use This Element
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
-- [Merrill's First Principles](/patterns/merrills-first-principles.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Merrill's First Principles](../patterns/merrills-first-principles.md)
 
 ## Examples
 - Lab work, manipulatives, prototyping, and live practice tasks.

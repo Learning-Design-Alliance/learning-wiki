@@ -19,7 +19,7 @@ sources:
 Social interdependence is the principle that the structure of relationships among learners shapes the quality of collaboration, motivation, and learning. It is useful when tasks require learners to depend on each other's contributions rather than merely work side by side.
 
 ## Implications
-Social interdependence means that collaboration quality depends less on putting learners in groups than on whether the task creates real mutual reliance. Shared goals, role clarity, and accountability usually improve cooperation because each learner’s contribution affects the group’s success, and [Worked examples improve mathematics performance, especially for novices.](/claims/worked-examples-improve-math-performance.md) supports the broader point that structured guidance can produce measurable learning benefits beyond leaving learners to coordinate on their own. When those structures are weak, collaboration often degrades into free-riding, domination, or shallow division of labor instead of stronger reasoning. This is why [Worked-example guidance becomes less effective as learner expertise increases.](/claims/worked-examples-less-effective-with-expertise.md) is also relevant here as a qualification: support and structure need to change with learner capability rather than remain fixed or disappear prematurely.
+Social interdependence means that collaboration quality depends less on putting learners in groups than on whether the task creates real mutual reliance. Shared goals, role clarity, and accountability usually improve cooperation because each learner’s contribution affects the group’s success, and [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) supports the broader point that structured guidance can produce measurable learning benefits beyond leaving learners to coordinate on their own. When those structures are weak, collaboration often degrades into free-riding, domination, or shallow division of labor instead of stronger reasoning. This is why [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) is also relevant here as a qualification: support and structure need to change with learner capability rather than remain fixed or disappear prematurely.
 
 ### Context
 #### Requirements
@@ -34,15 +34,15 @@ Social interdependence means that collaboration quality depends less on putting 
 ### Theory
 #### Supporting
 - Cooperative learning and group dynamics traditions.
-- [Community of Inquiry](/principles/community-of-inquiry.md)
+- [Community of Inquiry](community-of-inquiry.md)
 
 ### Claims
-- [Worked-example guidance becomes less effective as learner expertise increases.](/claims/worked-examples-less-effective-with-expertise.md) [+S] — Collaboration structures need to be responsive to learner capability; fixed guidance can become redundant or poorly matched over time.
-- [Worked examples improve mathematics performance, especially for novices.](/claims/worked-examples-improve-math-performance.md) [~S] — Well-structured guidance can improve outcomes more than leaving learners to rely on loosely organized collaboration alone.
+- [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [+S] — Collaboration structures need to be responsive to learner capability; fixed guidance can become redundant or poorly matched over time.
+- [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [~S] — Well-structured guidance can improve outcomes more than leaving learners to rely on loosely organized collaboration alone.
 
 ## Related Principles
-- [Collaborative Learning](/principles/collaborative-learning.md)
-- [Social Learning](/principles/social-learning.md)
+- [Collaborative Learning](collaborative-learning.md)
+- [Social Learning](social-learning.md)
 
 ## Examples
 - In a jigsaw discussion, each learner becomes responsible for one source and the final synthesis depends on every member bringing that expertise back to the group.

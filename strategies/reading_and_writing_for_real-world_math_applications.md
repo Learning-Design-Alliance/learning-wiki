@@ -39,10 +39,10 @@ Learners select and summarize published articles that highlight the ways math is
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Research](/elements/research.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
-- [Demonstration](/elements/demonstration.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Research](../elements/research.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Assess content understanding, clarity of communication, editing, critical thinking, initiative, and creativity.

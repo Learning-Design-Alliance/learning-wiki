@@ -39,8 +39,8 @@ Applied science testing involves using scientific principles to evaluate real-wo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in testing solubility, correct comparison of product quality and price, logical justifications of evaluations

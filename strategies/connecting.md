@@ -39,9 +39,9 @@ Connecting involves relating a current problem or text to prior knowledge and ex
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved comprehension, better retention, and the ability to make meaningful connections.

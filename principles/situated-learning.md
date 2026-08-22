@@ -20,7 +20,7 @@ Situated learning is the principle that learning is shaped by the contexts, prac
 
 ## Implications
 
-Situated learning is strongest where knowledge is inseparable from the settings, tools, roles, and social practices in which it is used. The principle pushes against the assumption that learning transfers cleanly from abstract explanation to performance without participation in authentic or practice-linked activity, and [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) supports keeping integrated task structure visible when transfer matters. It does not mean every lesson must happen in the “real world.” It means instruction should preserve enough of the context, tools, interaction, and purpose of actual practice that learners can recognize how knowledge functions. At the same time, [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) qualifies that absolute novices may still need simplification, and [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) supports calibrating support inside authentic activity rather than removing guidance entirely.
+Situated learning is strongest where knowledge is inseparable from the settings, tools, roles, and social practices in which it is used. The principle pushes against the assumption that learning transfers cleanly from abstract explanation to performance without participation in authentic or practice-linked activity, and [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) supports keeping integrated task structure visible when transfer matters. It does not mean every lesson must happen in the “real world.” It means instruction should preserve enough of the context, tools, interaction, and purpose of actual practice that learners can recognize how knowledge functions. At the same time, [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) qualifies that absolute novices may still need simplification, and [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) supports calibrating support inside authentic activity rather than removing guidance entirely.
 
 ### Context
 #### Requirements
@@ -42,28 +42,28 @@ Situated learning is strongest where knowledge is inseparable from the settings,
 
 ### Theory
 #### Supporting
-- [Situated Learning](/theories/situated-learning.md) — provides the primary explanatory basis for learning through participation in social practice
-- [Community-Based Learning](/principles/community-based-learning.md) — community contexts can provide the authentic participation structures that situated learning values
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md) — makes situated participation teachable through modeling, coaching, and scaffolding
+- [Situated Learning](../theories/situated-learning.md) — provides the primary explanatory basis for learning through participation in social practice
+- [Community-Based Learning](community-based-learning.md) — community contexts can provide the authentic participation structures that situated learning values
+- [Cognitive Apprenticeship](cognitive-apprenticeship.md) — makes situated participation teachable through modeling, coaching, and scaffolding
 
 #### Contradicting / Qualifying
-- [Information Processing Theory](/theories/information-processing-theory.md) — some abstraction and decontextualized practice still matter, especially when learners need generalized schemas that can travel across contexts
+- [Information Processing Theory](../theories/information-processing-theory.md) — some abstraction and decontextualized practice still matter, especially when learners need generalized schemas that can travel across contexts
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S] — whole, integrated tasks support transfer better than fragmented practice alone in many complex domains
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M] — situated whole-task participation may still need staged simplification for absolute novices
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — authentic participation is more productive when support is calibrated to learner capability
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] — whole, integrated tasks support transfer better than fragmented practice alone in many complex domains
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — situated whole-task participation may still need staged simplification for absolute novices
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — authentic participation is more productive when support is calibrated to learner capability
 
 ## Related Principles
-- [Experiential Learning](/principles/experiential-learning.md) — experiential tasks are often the vehicle through which situated participation occurs
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md) — provides an instructional bridge between observation and authentic participation
-- [Communities of Practice](/principles/communities-of-practice.md) — highlights the social dimension of becoming a participant in a practice
+- [Experiential Learning](experiential-learning.md) — experiential tasks are often the vehicle through which situated participation occurs
+- [Cognitive Apprenticeship](cognitive-apprenticeship.md) — provides an instructional bridge between observation and authentic participation
+- [Communities of Practice](communities-of-practice.md) — highlights the social dimension of becoming a participant in a practice
 
 ## Examples
 
 ### Illustrative
 
-**[Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)** — Learners observe, practice, and receive coaching in tasks that preserve the logic of real work.
+**[Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)** — Learners observe, practice, and receive coaching in tasks that preserve the logic of real work.
 
 **Clinical simulations and rounds** — Medical learners apply conceptual knowledge in settings that approximate the decision pressures, tools, and communication patterns of actual practice.
 

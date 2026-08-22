@@ -17,11 +17,11 @@ Guided discovery is the short-form canonical pattern for learner exploration sup
 ## Design
 
 ### Elements Used
-- [Guided Discovery](/elements/guided-discovery.md)
-- [Guided Inquiry](/elements/guided-inquiry.md)
+- [Guided Discovery](../elements/guided-discovery.md)
+- [Guided Inquiry](../elements/guided-inquiry.md)
 
 ## Related Patterns
-- [Guided Discovery Learning](/patterns/guided-discovery-learning.md)
+- [Guided Discovery Learning](guided-discovery-learning.md)
 
 ## Key Sources
 - Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1-18.

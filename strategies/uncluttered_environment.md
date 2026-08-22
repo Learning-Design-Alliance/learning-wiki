@@ -39,7 +39,7 @@ A learning environment with minimal visual distractions is created by storing su
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' ability to focus and engage in learning activities. Collect feedback from learners on the impact of the uncluttered environment on their learning experience. Compare academic performance and behavior before and after implementing the strategy.

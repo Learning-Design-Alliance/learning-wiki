@@ -39,10 +39,10 @@ This strategy involves readers activating their existing knowledge and using it 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Analogies and prior knowledge activation](/elements/analogies-and-prior-knowledge-activation.md)
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Analogies and prior knowledge activation](../elements/analogies-and-prior-knowledge-activation.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' ability to make connections between their existing knowledge and the text. Assess comprehension through discussions, summaries, or written responses that demonstrate the use of background knowledge.

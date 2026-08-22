@@ -39,13 +39,13 @@ Interest-Based Negotiation involves establishing different perspectives, backgro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Positions](/elements/assigned-positions.md)
-- [Argument Construction](/elements/argument-construction.md)
-- [Role Reversal](/elements/role-reversal.md)
-- [Consensus Building](/elements/consensus-building.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Individual Response](/elements/individual-response.md)
-- [Reassessment](/elements/reassessment.md)
+- [Assigned Positions](../elements/assigned-positions.md)
+- [Argument Construction](../elements/argument-construction.md)
+- [Role Reversal](../elements/role-reversal.md)
+- [Consensus Building](../elements/consensus-building.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Individual Response](../elements/individual-response.md)
+- [Reassessment](../elements/reassessment.md)
 
 ## Assessment Evidence
 - Observation of collaborative behavior, participation in negotiation activities, quality of solutions developed, feedback from learners.

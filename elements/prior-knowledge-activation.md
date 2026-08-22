@@ -26,18 +26,18 @@ Prior knowledge activation is the element in which learners recall, surface, or 
 - Prepare learners to connect new material to what they already know.
 
 ### Affordances
-- [Activation](/principles/activation.md)
-- [Metacognition](/principles/metacognition.md)
-- [Retrieval Practice](/principles/retrieval-practice.md)
+- [Activation](../principles/activation.md)
+- [Metacognition](../principles/metacognition.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
 
 ## Related Elements
-- [Activation](/elements/activation.md)
-- [Concept Mapping](/elements/concept-mapping.md)
-- [Pre-Reading Activities](/elements/pre-reading-activities.md)
+- [Activation](activation.md)
+- [Concept Mapping](concept-mapping.md)
+- [Pre-Reading Activities](pre-reading-activities.md)
 
 ## Patterns That Use This Element
-- [Merrill's First Principles](/patterns/merrills-first-principles.md)
-- [Gagné's 9 Events](/patterns/gagnés-9-events.md)
+- [Merrill's First Principles](../patterns/merrills-first-principles.md)
+- [Gagné's 9 Events](../patterns/gagnés-9-events.md)
 
 ## Examples
 - Quick-write prompts about what learners already know before a new unit.

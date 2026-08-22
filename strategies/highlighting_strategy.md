@@ -39,8 +39,8 @@ The highlighting strategy is a digital approach to enhance text engagement, usin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Practice](../elements/practice.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - That provides good reflection and consolidation of the information they just picked out. Since some kids have difficulty prioritizing what to highlight, a teacher could limit the number of items for each color.

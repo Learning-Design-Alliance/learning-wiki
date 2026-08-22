@@ -39,8 +39,8 @@ Tell students they have the right to feel the way they feel. Recognize that the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Monitor student emotional well-being, observe interactions, gather feedback from students

@@ -39,8 +39,8 @@ Students participate in a guided body scan meditation to bring calmness and awar
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student engagement in the meditation. Gather feedback from students on their experience with the meditation.

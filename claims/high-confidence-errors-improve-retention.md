@@ -24,7 +24,7 @@ The "hypercorrection effect" describes the phenomenon where errors committed wit
 
 ## Subclaims
 `q4 i3` Correcting high-confidence errors leads to superior long-term retention of the correct information compared to correcting low-confidence errors. [→ Metcalfe 2017](#metcalfe-2017)
-`q3 i2` The surprise of being wrong triggers deeper attention and memory reconsolidation for high-confidence errors. [→ Fazio & Marsh 2009](#fazio-&-marsh-2009)
+`q3 i2` The surprise of being wrong triggers deeper attention and memory reconsolidation for high-confidence errors. [→ Fazio & Marsh 2009](#fazio-marsh-2009)
 
 ## Evidence
 
@@ -50,5 +50,5 @@ Experiments in this study confirmed that feedback is more effectively processed 
 The effect is dependent on receiving immediate, non-punitive, and clear corrective feedback; without feedback, errors can be reinforced as misconceptions.
 
 ## Related Claims
-- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](/claims/erroneous-examples-build-conceptual-knowledge.md)
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md)
+- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md)
+- [Self-explanation improves conceptual understanding and problem-solving performance.](self-explanation-improves-conceptual-understanding.md)

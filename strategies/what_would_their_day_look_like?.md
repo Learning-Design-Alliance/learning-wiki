@@ -39,11 +39,11 @@ Learners select a photo of a person or animal in an unfamiliar situation and ima
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Research](/elements/research.md)
-- [Demonstration](/elements/demonstration.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Research](../elements/research.md)
+- [Demonstration](../elements/demonstration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess the depth of research, the accuracy of representations, and the level of empathy demonstrated in presentations or diary entries. Monitor changes in learners' attitudes towards different groups.

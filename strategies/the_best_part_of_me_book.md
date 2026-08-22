@@ -39,8 +39,8 @@ Have the class create a book in which each student tells one thing they like abo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student participation and self-expression, gather feedback from students

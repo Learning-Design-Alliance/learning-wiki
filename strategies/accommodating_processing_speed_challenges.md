@@ -39,13 +39,13 @@ This strategy focuses on identifying and addressing the learning needs of studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Gain attention](/elements/gain-attention.md)
-- [State objectives](/elements/state-objectives.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Gain attention](../elements/gain-attention.md)
+- [State objectives](../elements/state-objectives.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Student performance on tests and assignments, student engagement and participation in class, student self-reflection on their learning process, teacher observations of student behavior and learning patterns

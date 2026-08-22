@@ -31,7 +31,7 @@ sources:
 In an increasingly digital world, adults who struggle with using technology can benefit from direct instruction for an array of digital tools. This type of instruction, which supports Digital Literacy, includes understanding the basic functions of computer hardware (trackpads, monitors, and USB components) and navigating basic digital functions (setting up email accounts, using search engines, starting files). Adults who are explicitly taught how to use digital technology often show improvements in Composition skills and Disciplinary Literacy, specifically when using technology for health purposes. One-on-one direct instruction tailored to the learner is most effective.
 
 ## Implications
-Explicit instruction in computer basics is often necessary because many foundational digital routines are invisible to experienced users but cognitively demanding for novices. Modeling steps, naming interface conventions, and providing guided hands-on practice reduce the unproductive search and anxiety that can otherwise block participation in digital tasks altogether [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S]. The key is to tie instruction to real learner goals and provide responsive support during hands-on use [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M], then fade support toward independent use so “computer basics” does not remain abstract training that never transfers beyond the lesson [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S].
+Explicit instruction in computer basics is often necessary because many foundational digital routines are invisible to experienced users but cognitively demanding for novices. Modeling steps, naming interface conventions, and providing guided hands-on practice reduce the unproductive search and anxiety that can otherwise block participation in digital tasks altogether [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]. The key is to tie instruction to real learner goals and provide responsive support during hands-on use [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M], then fade support toward independent use so “computer basics” does not remain abstract training that never transfers beyond the lesson [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S].
 
 ### Context
 #### Requirements
@@ -62,29 +62,29 @@ Explicit instruction in computer basics is often necessary because many foundati
 #### Supporting
 - Information-processing perspectives support highly explicit, sequenced demonstration for basic digital routines
 - Adult-learning perspectives support instruction that is goal-relevant, respectful, and immediately useful to real tasks
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) supports reducing interface complexity and introducing procedures in manageable chunks
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) supports reducing interface complexity and introducing procedures in manageable chunks
 - Gagne-style sequencing fits well because learners often need demonstration, guided practice, and immediate feedback for foundational technical skills
 
 #### Contradicting / Qualifying
 - Learners still need opportunities to explore and adapt once basic procedures are secure; permanent over-direction can block transfer
 - One-to-one or small-group support is often more effective than mass instruction because breakdown points vary widely across learners
-- Support should gradually shift from full demonstration toward independent use on real tasks [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
+- Support should gradually shift from full demonstration toward independent use on real tasks [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
 
 ### Claims
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice technology users benefit from explicit “how to do it” routines before being asked to complete independent outcomes
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — basic computer procedures should be broken into manageable steps to reduce overload
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — responsive support during hands-on practice is more effective than generic explanation alone
-- [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — support should be withdrawn gradually as learners begin to navigate devices independently
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice technology users benefit from explicit “how to do it” routines before being asked to complete independent outcomes
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — basic computer procedures should be broken into manageable steps to reduce overload
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — responsive support during hands-on practice is more effective than generic explanation alone
+- [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — support should be withdrawn gradually as learners begin to navigate devices independently
 
 ## Related Principles
-- [Clear Structure & Presentation](/principles/clear-structure-presentation.md) — digital-skills instruction benefits from visible step structure and stable conventions
-- [Accessible Vocabulary & Syntax](/principles/accessible-vocabulary-syntax.md) — interface language and technology jargon often need explicit unpacking
-- [Explicit Instruction: Internet Search](/principles/explicit-instruction-internet-search.md) — search instruction depends on a foundation of basic device and browser competence
-- [Scaffolding and Fading](/principles/scaffolding-and-fading.md) — support should narrow as competence develops
+- [Clear Structure & Presentation](clear-structure-presentation.md) — digital-skills instruction benefits from visible step structure and stable conventions
+- [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — interface language and technology jargon often need explicit unpacking
+- [Explicit Instruction: Internet Search](explicit-instruction-internet-search.md) — search instruction depends on a foundation of basic device and browser competence
+- [Scaffolding and Fading](scaffolding-and-fading.md) — support should narrow as competence develops
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [Address Digital Literacy](/strategies/address_digital_literacy.md) — introduces basic digital tools and terminology explicitly
+- [Address Digital Literacy](../strategies/address_digital_literacy.md) — introduces basic digital tools and terminology explicitly
 - Browser and email onboarding with modeled steps, guided repetition, and immediate troubleshooting
 - File-management mini-lessons tied to real tasks such as uploading assignments or attaching documents
 - Small-group digital-skills labs where learners practice the same routine repeatedly with support nearby

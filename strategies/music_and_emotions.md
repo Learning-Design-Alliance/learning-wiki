@@ -39,9 +39,9 @@ Learners listen to different types of music and discuss how it makes them feel, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Observe learners' ability to connect specific music types with corresponding emotions. Assess their participation and engagement in the activity.

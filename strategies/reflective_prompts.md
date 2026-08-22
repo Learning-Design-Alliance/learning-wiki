@@ -39,7 +39,7 @@ Reflection prompts encourage learners to think deeply about their learning exper
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Depth and thoughtfulness of student responses, ability to connect learning to personal experiences, and evidence of metacognitive awareness.

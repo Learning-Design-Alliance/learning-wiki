@@ -39,10 +39,10 @@ A method for empowering learners by focusing on their strengths rather than thei
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Learner Choice](/elements/learner-choice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Learner Choice](../elements/learner-choice.md)
 
 ## Assessment Evidence
 - Increased learner confidence, engagement, and motivation. Positive feedback from learners and peers. Improved collaboration and communication.

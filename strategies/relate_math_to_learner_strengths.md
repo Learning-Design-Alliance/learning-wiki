@@ -39,8 +39,8 @@ Help learners understand how math gets used in the world in ways that relate to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Application](/elements/application.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Monitor learners' engagement and motivation in math activities. Evaluate their ability to apply math concepts to real-world situations.

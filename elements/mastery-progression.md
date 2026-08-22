@@ -31,17 +31,17 @@ Learners cannot advance until they demonstrate mastery of foundational content.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Behaviorism](/principles/behaviorism.md)
-- [Deliberate Practice](/principles/deliberate-practice.md)
-- [Reinforcement Theory](/principles/reinforcement-theory.md)
+- [Behaviorism](../principles/behaviorism.md)
+- [Deliberate Practice](../principles/deliberate-practice.md)
+- [Reinforcement Theory](../principles/reinforcement-theory.md)
 
 ## Related Elements
-- [Mastery Learning](/elements/mastery-learning.md)
-- [Competency-Based Learning](/elements/competency-based-learning.md)
-- [Spaced Repetition](/elements/spaced-repetition.md)
+- [Mastery Learning](mastery-learning.md)
+- [Competency-Based Learning](competency-based-learning.md)
+- [Spaced Repetition](spaced-repetition.md)
 
 ## Patterns That Use This Element
-- [Game-Based Mastery Learning](/patterns/game-based-mastery-learning.md)
+- [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -39,9 +39,9 @@ Learners draw pictures of a time when they felt specific emotions and share with
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - The facilitator can observe how the learners perform. Ask learners to do an individual reflection of how they used emotions and what they learned from the activity.

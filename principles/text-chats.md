@@ -21,7 +21,7 @@ Text chats use live or near-live written exchange as a learning space for discus
 Text chats are not just casual add-ons. They can serve instructional purposes such as brainstorming, peer response, vocabulary practice, clarification during presentations, and collaborative sense-making. Their value depends on prompt quality, facilitation, and whether the pace of the chat matches the linguistic and cognitive demands placed on learners.
 
 ## Implications
-Text chats are useful when they create a lower-stakes written channel for learners to ask questions, respond to peers, and make thinking visible in real time. They can support monitoring and clarification because learners are able to check others’ responses against their own understanding as the exchange unfolds [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. The design challenge is pace: when too many threads move at once, chats can overload attention and require more facilitation, prompting, and responsive support to stay productive [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]. Chats help most when the prompt is focused and the moderator keeps participation legible.
+Text chats are useful when they create a lower-stakes written channel for learners to ask questions, respond to peers, and make thinking visible in real time. They can support monitoring and clarification because learners are able to check others’ responses against their own understanding as the exchange unfolds [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. The design challenge is pace: when too many threads move at once, chats can overload attention and require more facilitation, prompting, and responsive support to stay productive [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. Chats help most when the prompt is focused and the moderator keeps participation legible.
 
 ### Context
 #### Requirements
@@ -57,19 +57,19 @@ Text chats are useful when they create a lower-stakes written channel for learne
 - Chat works best for focused exchange, not for every deep discussion or extended explanation.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — live written exchange can help learners compare their understanding with others and adjust quickly
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — chat discussions often need active prompting and moderation to remain focused and useful
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — live written exchange can help learners compare their understanding with others and adjust quickly
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — chat discussions often need active prompting and moderation to remain focused and useful
 
 ## Related Principles
-- [Peer Discussion](/principles/peer-discussion.md) — text chat is one medium for structured peer exchange.
-- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md) — chats give learners immediate audiences for communication.
-- [Multimodal Instruction](/principles/multimodal-instruction.md) — text chat adds a written interaction mode alongside oral or visual channels.
-- [Speech-to-text](/principles/speech-to-text.md) — dictation tools can help some learners participate in chat-based environments.
+- [Peer Discussion](peer-discussion.md) — text chat is one medium for structured peer exchange.
+- [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — chats give learners immediate audiences for communication.
+- [Multimodal Instruction](multimodal-instruction.md) — text chat adds a written interaction mode alongside oral or visual channels.
+- [Speech-to-text](speech-to-text.md) — dictation tools can help some learners participate in chat-based environments.
 
 ## Examples
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Discussion Prompt](/elements/discussion-prompt.md)
-- [Discussion Group](/patterns/discussion-group.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Discussion Prompt](../elements/discussion-prompt.md)
+- [Discussion Group](../patterns/discussion-group.md)
 - **Backchannel during presentation**: Learners post questions, examples, and clarifications while a lesson is in progress.
 
 ## Key Sources

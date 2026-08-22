@@ -23,7 +23,7 @@ sources:
 Feedback loops are the principle of using learner performance to generate information that changes the next action for the learner, the instructor, or the system. A loop is only complete when evidence leads to adjustment. The key design move is not merely telling learners how they did, but ensuring that the feedback, interpretation, and next attempt are connected closely enough to improve performance.
 
 ## Implications
-Feedback loops matter because information about performance is useful only when it changes what happens next. Timely, interpretable feedback can improve self-monitoring [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M], guide strategy adjustment through responsive support [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M], and prevent errors from hardening, especially when confident mistakes are corrected while the task is still live [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [~S]. That means a good loop includes not just a signal, but a path for response: retrying, revising, regrouping, or changing support. Without that response phase, feedback remains commentary rather than instruction.
+Feedback loops matter because information about performance is useful only when it changes what happens next. Timely, interpretable feedback can improve self-monitoring [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M], guide strategy adjustment through responsive support [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M], and prevent errors from hardening, especially when confident mistakes are corrected while the task is still live [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S]. That means a good loop includes not just a signal, but a path for response: retrying, revising, regrouping, or changing support. Without that response phase, feedback remains commentary rather than instruction.
 
 ### Context
 #### Requirements
@@ -56,15 +56,15 @@ Feedback loops matter because information about performance is useful only when 
 - Fast loops are helpful only when the feedback is aligned and interpretable.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — feedback loops help learners notice the gap between current performance and the target
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — loops are instructionally valuable when they trigger adaptive changes in support or strategy
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [~S] — timely correction inside a loop can make important errors more memorable and less likely to recur
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — feedback loops help learners notice the gap between current performance and the target
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — loops are instructionally valuable when they trigger adaptive changes in support or strategy
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — timely correction inside a loop can make important errors more memorable and less likely to recur
 
 ## Related Principles
-- [Immediate Feedback](/principles/immediate-feedback.md)
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Check-ins](/principles/check-ins.md)
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
+- [Immediate Feedback](immediate-feedback.md)
+- [Formative Assessment](formative-assessment.md)
+- [Check-ins](check-ins.md)
+- [Goal Setting & Monitoring](goal-setting-monitoring.md)
 
 ## Examples
 - Learners solve a problem, see an explanation for the mistake, and retry immediately.

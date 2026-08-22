@@ -39,12 +39,12 @@ Identify students with challenging behaviors who exhibit leadership qualities. A
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Role Reversal](/elements/role-reversal.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Role Reversal](../elements/role-reversal.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners’ engagement, participation, and leadership skills within groups. Collect data from formative assessments, group projects, and peer evaluations. Track changes in behavior and academic performance.

@@ -39,8 +39,8 @@ Sets of printable flash cards for Dolch sight words, organized by grade level. E
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess student speed and accuracy in identifying sight words. Monitor progress in recognizing words over time.

@@ -31,17 +31,17 @@ Conceptual scaffolding is the element in which learners are given temporary stru
 - Build conceptual understanding while managing complexity.
 
 ### Affordances
-- [Scaffolding](/principles/scaffolding.md)
-- [Constructivist Learning](/principles/constructivist-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
 
 ## Related Elements
-- [Conceptual Overviews](/elements/conceptual-overviews.md)
-- [Simple-to-Complex Sequencing](/elements/simple-to-complex-sequencing.md)
-- [Advance Organizers](/elements/advance-organizers.md)
+- [Conceptual Overviews](conceptual-overviews.md)
+- [Simple-to-Complex Sequencing](simple-to-complex-sequencing.md)
+- [Advance Organizers](advance-organizers.md)
 
 ## Patterns That Use This Element
-- [Elaboration Theory](/patterns/elaboration-theory.md)
-- [Merrill's First Principles](/patterns/merrills-first-principles.md)
+- [Elaboration Theory](../patterns/elaboration-theory.md)
+- [Merrill's First Principles](../patterns/merrills-first-principles.md)
 
 ## Examples
 - Providing a simplified conceptual model before asking learners to interpret a more complex case.

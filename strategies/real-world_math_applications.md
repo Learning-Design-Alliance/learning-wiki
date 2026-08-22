@@ -39,9 +39,9 @@ Connecting math concepts to real-world applications is a strategy that can be us
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
-- [Problem Scenario](/elements/problem-scenario.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Problem Scenario](../elements/problem-scenario.md)
 
 ## Assessment Evidence
 - Track learner progress on project milestones, assess the quality of their final product, and evaluate their ability to apply knowledge and skills to real-world problems. Measure gains in content knowledge, self-confidence, collaboration, and engagement through pre- and post-assessments.

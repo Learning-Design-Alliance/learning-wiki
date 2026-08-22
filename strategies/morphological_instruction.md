@@ -39,9 +39,9 @@ Instruction that makes students aware of inflections (–ed, –s, –es, –ing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Assess accuracy in spelling words with inflections and other morphemes. Monitor progress in spelling and vocabulary skills.

@@ -31,18 +31,18 @@ Concept mapping is the element in which learners represent concepts and their re
 - Organize knowledge, surface misconceptions, and strengthen integration across ideas.
 
 ### Affordances
-- [Dual Coding](/principles/dual-coding.md)
-- [Metacognition](/principles/metacognition.md)
-- [Creating Visual Representations](/principles/creating-visual-representations.md)
+- [Dual Coding](../principles/dual-coding.md)
+- [Metacognition](../principles/metacognition.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)
 
 ## Related Elements
-- [Graphic Organizers](/elements/graphic-organizers.md)
-- [Advance Organizers](/elements/advance-organizers.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Graphic Organizers](graphic-organizers.md)
+- [Advance Organizers](advance-organizers.md)
+- [Knowledge Synthesis](knowledge-synthesis.md)
 
 ## Patterns That Use This Element
-- [Elaboration Theory](/patterns/elaboration-theory.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Elaboration Theory](../patterns/elaboration-theory.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 - Learners map relationships among causes, effects, and stakeholders in a history unit.

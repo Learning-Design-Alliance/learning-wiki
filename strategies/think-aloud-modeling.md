@@ -29,9 +29,9 @@ Think-aloud modeling is a strategy in which an instructor performs a task while 
 - Make expert reasoning visible and support later independent use
 
 ### Instructions
-- [Demonstration](/elements/demonstration.md)
-- [Think-Aloud](/elements/think-aloud.md)
-- [Practice](/elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
+- [Think-Aloud](../elements/think-aloud.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Learners can articulate the reasoning behind a modeled process and apply it in a similar task.

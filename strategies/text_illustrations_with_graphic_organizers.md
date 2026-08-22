@@ -39,9 +39,9 @@ Learners add graphic organizers to finished expository or argumentative writing 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Application](../elements/application.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Improved reader comprehension, clarity of explanations, and ability to connect visual aids with textual content.

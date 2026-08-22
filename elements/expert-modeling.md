@@ -26,17 +26,17 @@ Expert modeling is the element in which a skilled performer demonstrates not onl
 - Make expert reasoning visible and support transfer to learner performance.
 
 ### Affordances
-- [Social Learning](/principles/social-learning.md)
-- [Explicit Instruction](/principles/explicit-instruction.md)
+- [Social Learning](../principles/social-learning.md)
+- [Explicit Instruction](../principles/explicit-instruction.md)
 
 ## Related Elements
-- [Modeling](/elements/modeling.md)
-- [Demonstration](/elements/demonstration.md)
-- [Think-Aloud](/elements/think-aloud.md)
+- [Modeling](modeling.md)
+- [Demonstration](demonstration.md)
+- [Think-Aloud](think-aloud.md)
 
 ## Patterns That Use This Element
-- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
-- [Merrill's First Principles](/patterns/merrills-first-principles.md)
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
+- [Merrill's First Principles](../patterns/merrills-first-principles.md)
 
 ## Examples
 - A clinician verbalizes why a particular diagnosis step matters while examining a case.

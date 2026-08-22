@@ -39,10 +39,10 @@ The "Positive Intention & Generosity in Networking" strategy emphasizes focusing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Feedback/Peer Review](/elements/peer-feedbackpeer-review.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Positive feedback from contacts, increased opportunities for collaboration, stronger relationships, enhanced reputation, a sense of fulfillment from helping others.

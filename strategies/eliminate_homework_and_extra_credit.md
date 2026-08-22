@@ -39,8 +39,8 @@ Eliminate the inclusion of homework and extra credit in final grades. Homework g
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Homework completion rates, mastery levels

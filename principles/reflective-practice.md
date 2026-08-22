@@ -15,7 +15,7 @@ Reflective practice is the principle of examining actions, decisions, and outcom
 
 ## Implications
 
-Reflective practice matters most in domains where improvement depends on interpreting experience rather than merely repeating procedures. The principle assumes that performance alone does not automatically generate learning. Learners and practitioners need a structured way to revisit what happened, name why it happened, and decide what to change next, and reflective practice is strongest when learners compare performance to explicit goals or criteria [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]. Reflection also benefits from focusing on process changes rather than only end results [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M], and from explaining reasoning in enough detail that future action can actually improve [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. Reflection becomes powerful when it is tied to future action; it becomes weak when it remains generic, purely expressive, or disconnected from the next attempt.
+Reflective practice matters most in domains where improvement depends on interpreting experience rather than merely repeating procedures. The principle assumes that performance alone does not automatically generate learning. Learners and practitioners need a structured way to revisit what happened, name why it happened, and decide what to change next, and reflective practice is strongest when learners compare performance to explicit goals or criteria [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]. Reflection also benefits from focusing on process changes rather than only end results [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M], and from explaining reasoning in enough detail that future action can actually improve [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Reflection becomes powerful when it is tied to future action; it becomes weak when it remains generic, purely expressive, or disconnected from the next attempt.
 
 ### Context
 #### Requirements
@@ -39,34 +39,34 @@ Reflective practice matters most in domains where improvement depends on interpr
 
 ### Theory
 #### Supporting
-- [Reflection](/principles/reflection.md) — reflective practice is one of the most direct applications of the broader reflection principle
-- [Self-Regulated Learning](/theories/self-regulated-learning.md) — reflection supports self-monitoring, evaluation, and tactical adjustment
-- [Metacognition](/principles/metacognition.md) — reflective practice makes internal reasoning, criteria, and blind spots more visible
+- [Reflection](reflection.md) — reflective practice is one of the most direct applications of the broader reflection principle
+- [Self-Regulated Learning](../theories/self-regulated-learning.md) — reflection supports self-monitoring, evaluation, and tactical adjustment
+- [Metacognition](metacognition.md) — reflective practice makes internal reasoning, criteria, and blind spots more visible
 
 #### Contradicting / Qualifying
-- [Deliberate Practice](/principles/deliberate-practice.md) — qualifies that reflection alone is not enough unless it is paired with repetition, feedback, and another attempt
+- [Deliberate Practice](deliberate-practice.md) — qualifies that reflection alone is not enough unless it is paired with repetition, feedback, and another attempt
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — reflective practice is stronger when learners compare performance to explicit goals or criteria
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — reflection often benefits from focusing on process changes rather than only end results
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining one’s reasoning can deepen the learning value of reflection beyond simple description
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — reflective practice is stronger when learners compare performance to explicit goals or criteria
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — reflection often benefits from focusing on process changes rather than only end results
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining one’s reasoning can deepen the learning value of reflection beyond simple description
 
 ## Related Principles
-- [Reflection](/principles/reflection.md) — reflective practice is a performance-anchored form of reflection
-- [Purposeful Reflection](/principles/purposeful-reflection.md) — emphasizes that reflection should be directed toward usable insight and next steps
-- [Self-Regulated Learning](/principles/self-regulated-learning.md) — supplies the mechanism by which reflection informs future action
+- [Reflection](reflection.md) — reflective practice is a performance-anchored form of reflection
+- [Purposeful Reflection](purposeful-reflection.md) — emphasizes that reflection should be directed toward usable insight and next steps
+- [Self-Regulated Learning](self-regulated-learning.md) — supplies the mechanism by which reflection informs future action
 
 ## Related Patterns
-- [Reflective Practice](/patterns/reflective-practice.md)
-- [LDA Reflection](/patterns/lda-reflection.md)
+- [Reflective Practice](../patterns/reflective-practice.md)
+- [LDA Reflection](../patterns/lda-reflection.md)
 
 ## Examples
 
 ### Illustrative
 
-**[Reflective Practice](/patterns/reflective-practice.md)** — A structured cycle of action, analysis, adjustment, and re-application.
+**[Reflective Practice](../patterns/reflective-practice.md)** — A structured cycle of action, analysis, adjustment, and re-application.
 
-**[Video-Based Reflection](/elements/video-based-reflection.md)** — Learners review a recording of their own performance, identify decision points, and name one concrete change for the next attempt.
+**[Video-Based Reflection](../elements/video-based-reflection.md)** — Learners review a recording of their own performance, identify decision points, and name one concrete change for the next attempt.
 
 **Post-practicum or post-clinical debriefs** — Learners examine what happened in a professional situation, identify the reasoning behind their actions, and plan a better response for the next similar case.
 

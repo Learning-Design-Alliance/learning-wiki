@@ -39,9 +39,9 @@ Using digital tools to facilitate peer feedback can make the process easier and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Digital Tools](/elements/digital-tools.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Digital Tools](../elements/digital-tools.md)
 
 ## Assessment Evidence
 - Assess the quality and relevance of digital feedback. Observe student engagement and participation in feedback activities. Measure improvements in the quality of revised work based on feedback.

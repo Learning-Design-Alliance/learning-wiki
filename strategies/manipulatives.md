@@ -39,8 +39,8 @@ Provide manipulatives to help make complex concepts concrete. Abstract concepts 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe whether students make connections between the manipulatives and concepts. Use assessment results to see if they are learning from the manipulatives.

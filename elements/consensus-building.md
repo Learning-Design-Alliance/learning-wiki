@@ -31,19 +31,19 @@ Learners work collaboratively to synthesize differing viewpoints into a shared u
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Constructivism](/principles/social-constructivism.md)
-- [Collaborative Learning](/principles/collaborative-learning.md)
-- [Perspective-Taking](/principles/perspective-taking.md)
+- [Social Constructivism](../principles/social-constructivism.md)
+- [Collaborative Learning](../principles/collaborative-learning.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
 
 ## Related Elements
-- [Collaborative Discussion](/elements/collaborative-discussion.md)
-- [Peer Review](/elements/peer-review.md)
-- [Structured Debate](/elements/structured-debate.md)
+- [Collaborative Discussion](collaborative-discussion.md)
+- [Peer Review](peer-review.md)
+- [Structured Debate](structured-debate.md)
 
 ## Patterns That Use This Element
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
-- [Jigsaw Method](/patterns/jigsaw-method.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Jigsaw Method](../patterns/jigsaw-method.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -39,9 +39,9 @@ Utilize real-world events and fictional narratives to explore social dynamics, e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Observe learner participation and contributions to discussions. Assess learner understanding of social dynamics through written assignments or presentations. Collect learner reflections on their learning and growth.

@@ -39,10 +39,10 @@ Creating collaborative learning spaces involves intentionally designing classroo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Reflection](/elements/reflection.md)
-- [Team-Based Inquiry](/elements/team-based-inquiry.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Reflection](../elements/reflection.md)
+- [Team-Based Inquiry](../elements/team-based-inquiry.md)
 
 ## Assessment Evidence
 - Observe group dynamics and interactions during collaborative activities, assess the quality of collaborative work products, survey students about their experiences with group work, track student engagement and participation in class discussions

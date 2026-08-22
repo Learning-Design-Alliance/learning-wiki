@@ -39,8 +39,8 @@ Present students with a graphic organizer to show how the parts of a unit fit to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [State objectives](../elements/state-objectives.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Student understanding of the unit's structure and objectives.

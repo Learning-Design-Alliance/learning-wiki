@@ -39,11 +39,11 @@ Instructors demonstrate the writing process in real-time, in front of learners, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Modeling](/elements/modeling.md)
-- [Articulation](/elements/articulation.md)
-- [Peer Feedback/Peer Review](/elements/peer-feedbackpeer-review.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Modeling](../elements/modeling.md)
+- [Articulation](../elements/articulation.md)
+- [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Improvements in learner writing quality as evidenced by better structure, clarity, and use of techniques observed in the demonstration. Increased learner participation in writing activities and peer feedback.

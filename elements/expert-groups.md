@@ -31,17 +31,17 @@ Learners become subject-matter experts on a topic and teach their peers.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Constructivism](/principles/social-constructivism.md)
-- [Distributed Cognition](/principles/distributed-cognition.md)
+- [Social Constructivism](../principles/social-constructivism.md)
+- [Distributed Cognition](../principles/distributed-cognition.md)
 
 ## Related Elements
-- [Jigsaw Learning](/elements/jigsaw-learning.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Jigsaw Learning](jigsaw-learning.md)
+- [Peer Teaching](peer-teaching.md)
+- [Knowledge Synthesis](knowledge-synthesis.md)
 
 ## Patterns That Use This Element
-- [Jigsaw](/patterns/jigsaw.md)
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Jigsaw](../patterns/jigsaw.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

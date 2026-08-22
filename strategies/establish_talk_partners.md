@@ -39,8 +39,8 @@ Establishing pre-arranged talk partners helps to streamline pair talk activities
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe the dynamics of established pairs during discussions. Assess whether both partners are actively participating and contributing ideas. Gather feedback from students about their experiences with their talk partners.

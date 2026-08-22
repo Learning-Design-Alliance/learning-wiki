@@ -39,7 +39,7 @@ For so many of our students, their communities and homes are not always beautifu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Public Display](/elements/public-display.md)
+- [Public Display](../elements/public-display.md)
 
 ## Assessment Evidence
 - Student engagement, sense of pride and belonging, transformation of the learning space.

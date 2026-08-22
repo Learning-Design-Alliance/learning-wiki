@@ -39,9 +39,9 @@ Adding the word "yet" to responses when learners express frustration or inabilit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Modeling](/elements/modeling.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Modeling](../elements/modeling.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe changes in learner behavior, such as increased persistence, positive self-talk, and willingness to seek help. Track learner responses to challenges after the introduction of "yet". Analyze learner reflections on their growth and learning experiences.

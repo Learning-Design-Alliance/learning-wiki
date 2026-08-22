@@ -39,7 +39,7 @@ Put the most important classroom policies, procedures, and expectations into gra
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
+- [State objectives](../elements/state-objectives.md)
 
 ## Assessment Evidence
 - Improved classroom behavior and adherence to rules.

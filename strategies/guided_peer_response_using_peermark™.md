@@ -39,10 +39,10 @@ Guided peer response using Turnitin PeerMark™ involves instructors pre-setting
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Structured Questioning](/elements/structured-questioning.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Structured Questioning](../elements/structured-questioning.md)
 
 ## Assessment Evidence
 - Assess the quality and relevance of guided peer feedback. Measure engagement and participation in the feedback process. Evaluate the impact of feedback on the quality of revised work.

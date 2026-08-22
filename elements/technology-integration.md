@@ -16,12 +16,12 @@ Technology integration is the element in which digital tools are used in direct 
 ## Design Implications
 
 ### Affordances
-- [Digital Learning](/principles/digital-learning.md)
-- [Multimodal Instruction](/principles/multimodal-instruction.md)
+- [Digital Learning](../principles/digital-learning.md)
+- [Multimodal Instruction](../principles/multimodal-instruction.md)
 
 ## Related Elements
-- [Digital Tools](/elements/digital-tools.md)
-- [Digital Learning](/elements/digital-learning.md)
+- [Digital Tools](digital-tools.md)
+- [Digital Learning](digital-learning.md)
 
 ## Key Sources
 - Mishra, P., & Koehler, M. J. (2006). Technological pedagogical content knowledge. *Teachers College Record, 108*(6), 1017-1054.

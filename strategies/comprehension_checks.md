@@ -39,9 +39,9 @@ During reading activities, instructors periodically check for understanding by a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Formative Assessment](/elements/formative-assessment.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Formative Assessment](../elements/formative-assessment.md)
 
 ## Assessment Evidence
 - Monitor learner responses for accuracy and depth of understanding.

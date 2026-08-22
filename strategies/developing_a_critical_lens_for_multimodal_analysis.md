@@ -39,10 +39,10 @@ Increasing students' awareness of effective and ineffective multimodal combinati
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the quality and depth of student analysis during discussions. Analyze students' ability to identify effective and ineffective multimodal combinations. Assess the extent to which students apply their critical lens in their own compositions.

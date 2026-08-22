@@ -39,8 +39,8 @@ Reaction observations involve observing and describing the properties of liquids
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in describing observations, correct identification of properties, logical explanations of reactions

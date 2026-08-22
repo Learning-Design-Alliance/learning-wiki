@@ -39,8 +39,8 @@ Encourage students to see connections between their languages to better understa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe students' ability to make connections between languages and their understanding of language structures.

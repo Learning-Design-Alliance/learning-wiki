@@ -39,8 +39,8 @@ Students work in small groups, with each group given an envelope containing key 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Application](/elements/application.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - A particularly good categorization in a final review of the material or position that chunk of content with what’s to be learned next.

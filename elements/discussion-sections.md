@@ -31,18 +31,18 @@ Smaller, instructor- or TA-led sessions where learners analyze and discuss cours
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Constructivist Learning](/principles/constructivist-learning.md)
-- [Metacognition](/principles/metacognition.md)
+- [Social Learning](../principles/social-learning.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Socratic Questioning](/elements/socratic-questioning.md)
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
+- [Peer Discussion](peer-discussion.md)
+- [Socratic Questioning](socratic-questioning.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

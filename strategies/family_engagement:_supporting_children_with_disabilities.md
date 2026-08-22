@@ -39,9 +39,9 @@ Family engagement is a practice in which families and school personnel collabora
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Discussion Sections](/elements/discussion-sections.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Discussion Sections](../elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Track student achievement, behavior, and social-emotional skills. Gather feedback from families and educators. Monitor IEP goal attainment.

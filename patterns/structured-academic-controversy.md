@@ -41,11 +41,11 @@ Structured Academic Controversy is a discussion pattern in which learners examin
 
 ### Theory
 #### Supporting
-- [Perspective-Taking](/principles/perspective-taking.md)
-- [Social Learning](/principles/social-learning.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
+- [Social Learning](../principles/social-learning.md)
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 
 ## Design
 
@@ -57,16 +57,16 @@ Structured Academic Controversy is a discussion pattern in which learners examin
 5. Synthesize a more defensible conclusion.
 
 ### Elements Used
-- [Structured Discussion](/elements/structured-discussion.md)
-- [Perspective-Taking](/elements/perspective-taking.md)
-- [Rebuttals](/elements/rebuttals.md)
+- [Structured Discussion](../elements/structured-discussion.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
+- [Rebuttals](../elements/rebuttals.md)
 
 ### Affordances
-- [Perspective-Taking](/principles/perspective-taking.md)
-- [Social Learning](/principles/social-learning.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
+- [Social Learning](../principles/social-learning.md)
 
 ## Related Patterns
-- [Structured Academic Controversy (SAC)](/patterns/structured-academic-controversy-sac.md)
+- [Structured Academic Controversy (SAC)](structured-academic-controversy-sac.md)
 
 ## Examples
 - Students debate a policy question, switch sides, and then produce a joint synthesis.

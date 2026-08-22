@@ -39,8 +39,8 @@ Mature learners decide what to learn when they discover there’s something they
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [State objectives](../elements/state-objectives.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assessment of independent learning skills and self-directedness. Evaluation of content selected and questions framed by learners. Student reflections and self-evaluations.

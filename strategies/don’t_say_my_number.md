@@ -39,8 +39,8 @@ A counting game where a chosen number is forbidden, and learners must skip it wh
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to skip the forbidden number. Track the highest number reached without making a mistake.

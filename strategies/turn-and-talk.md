@@ -39,8 +39,8 @@ Turn-and-talk involves having learners engage in short, structured discussions w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Observe the depth and specificity of student responses to assess comprehension and engagement.

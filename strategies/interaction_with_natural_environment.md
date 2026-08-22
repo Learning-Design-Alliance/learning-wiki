@@ -39,8 +39,8 @@ Incorporating natural elements (views of nature, plants) into the learning envir
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Measure focus levels, behavior, and academic performance. Track instances of sick leave and disciplinary events.

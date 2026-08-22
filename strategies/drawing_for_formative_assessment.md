@@ -39,9 +39,9 @@ Inviting learners to express their understanding through drawings provides insig
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Analyze drawings for understanding of facts, relationships, sequences, overlooked key elements, misrepresented factors, and patterns among students' drawings. Compare drawings to see insights about the content.

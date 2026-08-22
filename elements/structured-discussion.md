@@ -36,18 +36,18 @@ Structured discussion is the element in which talk is guided by prompts, roles, 
 - Improve quality of dialogue, reasoning, and equitable participation.
 
 ### Affordances
-- [Social Learning](/principles/social-learning.md)
-- [Peer Discussion](/principles/peer-discussion.md)
-- [Perspective-Taking](/principles/perspective-taking.md)
+- [Social Learning](../principles/social-learning.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
 
 ## Related Elements
-- [Discussion Prompt](/elements/discussion-prompt.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Socratic Questioning](/elements/socratic-questioning.md)
+- [Discussion Prompt](discussion-prompt.md)
+- [Peer Discussion](peer-discussion.md)
+- [Socratic Questioning](socratic-questioning.md)
 
 ## Patterns That Use This Element
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
 
 ## Examples
 - Turn-and-talk with evidence stems.

@@ -39,9 +39,9 @@ Learners individually solve a problem on sticky notes, then share and discuss th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student interactions and discussions, review individual and group responses, assess the quality and depth of collaborative answers

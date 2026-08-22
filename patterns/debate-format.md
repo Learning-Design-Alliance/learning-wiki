@@ -60,11 +60,11 @@ The pattern can take many forms, but the core features are role clarity, timed t
 
 ### Claims
 #### Supporting
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -76,16 +76,16 @@ The pattern can take many forms, but the core features are role clarity, timed t
 5. Debrief the quality of reasoning, evidence use, and what learners now think.
 
 ### Elements Used
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Feedback](/elements/feedback.md)
-- [Assessment](/elements/assessment.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Feedback](../elements/feedback.md)
+- [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [Debate](/principles/debate.md)
-- [Perspective-Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md)
-- [Peer Discussion](/principles/peer-discussion.md)
-- [Positive Self-Talk](/principles/positive-self-talk.md)
+- [Debate](../principles/debate.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Positive Self-Talk](../principles/positive-self-talk.md)
 
 ### Personalization
 - Learners can debate individually, in pairs, or in teams depending on confidence and skill.
@@ -93,8 +93,8 @@ The pattern can take many forms, but the core features are role clarity, timed t
 - Some debates can culminate in position revision rather than fixed winner/loser outcomes.
 
 ## Related Patterns
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Structured Academic Controversy (SAC)](/patterns/structured-academic-controversy-sac.md)
+- [Socratic Seminar](socratic-seminar.md)
+- [Structured Academic Controversy (SAC)](structured-academic-controversy-sac.md)
 
 ## Examples
 - Civics learners debating policy approaches using evidence from assigned sources.

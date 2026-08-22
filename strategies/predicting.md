@@ -39,9 +39,9 @@ Predicting involves anticipating what will happen next in a text or problem. Thi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Activation](/elements/activation.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
+- [Activation](../elements/activation.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Increased engagement, improved comprehension, and better problem-solving accuracy.

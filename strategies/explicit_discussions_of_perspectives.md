@@ -39,9 +39,9 @@ Facilitating structured conversations where learners explore multiple viewpoints
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Case Study](/elements/case-study.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Case Study](../elements/case-study.md)
 
 ## Assessment Evidence
 - Observe learners’ participation in discussions. Review learners’ written or verbal reflections on different perspectives. Evaluate learners’ understanding of social issues and cultural diversity.

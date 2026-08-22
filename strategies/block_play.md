@@ -39,9 +39,9 @@ Block play involves using blocks to create structures and designs, either indepe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe children's problem-solving strategies, creativity in design, application of mathematical concepts, and social interactions during play. Assess the complexity and stability of structures built.

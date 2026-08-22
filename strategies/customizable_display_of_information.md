@@ -39,10 +39,10 @@ Providing adjustable settings and accessible formats to accommodate individual n
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track learner use of customization features. Gather feedback on the effectiveness of customization options in supporting learning. Monitor learner performance and engagement with customized materials.

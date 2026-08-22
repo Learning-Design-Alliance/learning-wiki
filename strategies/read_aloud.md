@@ -39,8 +39,8 @@ Encouraging learners to read questions and their own writing aloud helps leverag
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess reading fluency, track improvements in writing quality, gather learner feedback on the effectiveness of reading aloud.

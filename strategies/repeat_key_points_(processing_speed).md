@@ -39,8 +39,8 @@ Repeating key points for students several times and in several different ways to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor student's recall of key points through quizzes, discussions, and assignments. Observe for improved comprehension and retention.

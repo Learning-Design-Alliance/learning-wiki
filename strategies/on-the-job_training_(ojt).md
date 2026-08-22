@@ -39,9 +39,9 @@ On-the-job training (OJT) involves designing experiential activities for groups 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Observation/Shadowing](/elements/observationshadowing.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
 
 ## Assessment Evidence
 - Observe learner performance in real-world situations, provide feedback on learner performance, and assess learner understanding of the situations.

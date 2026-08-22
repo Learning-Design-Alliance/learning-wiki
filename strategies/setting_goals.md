@@ -39,7 +39,7 @@ Lessons have clear learning intentions with goals that clarify what success look
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
+- [State objectives](../elements/state-objectives.md)
 
 ## Assessment Evidence
 - Student understanding of lesson objectives, alignment of activities with goals.

@@ -39,9 +39,9 @@ Creating designated areas within the classroom to serve specific functions, such
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-task performance](/elements/whole-task-performance.md)
-- [Supportive information](/elements/supportive-information.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student engagement levels in different spaces, collect feedback through surveys or discussions, monitor task completion rates in each zone

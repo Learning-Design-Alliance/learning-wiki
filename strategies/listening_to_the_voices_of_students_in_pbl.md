@@ -39,9 +39,9 @@ Listening to the voices of students involves giving them authorship in sharing a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Moderation](/elements/moderation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Moderation](../elements/moderation.md)
 
 ## Assessment Evidence
 - Increased student engagement, more meaningful contributions to discussions, and evidence of students taking ownership of their learning.

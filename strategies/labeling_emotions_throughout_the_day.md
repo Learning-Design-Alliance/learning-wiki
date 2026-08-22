@@ -39,9 +39,9 @@ Labeling emotions involves intentionally naming and describing one's own emotion
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Modeling](/elements/modeling.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Modeling](../elements/modeling.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the frequency and accuracy of emotion labeling. Track the use of emotion words and the ability to connect emotions with experiences.

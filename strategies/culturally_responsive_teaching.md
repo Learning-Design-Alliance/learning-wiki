@@ -39,9 +39,9 @@ Culturally responsive teaching involves engaging students in the learning proces
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Observe educators' behavior in the classroom, their interactions with students, and their responses to issues of race and equity. Measure students' sense of belonging and their perceptions of fairness and inclusion.

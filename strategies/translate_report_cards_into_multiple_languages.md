@@ -39,8 +39,8 @@ Using communication apps to translate report cards into multiple languages (e.g.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Gather feedback from parents on the usefulness of translations, track parent understanding of student progress

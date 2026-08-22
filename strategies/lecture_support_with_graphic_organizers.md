@@ -39,9 +39,9 @@ Instructors present lecture content using graphic organizers rather than standar
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Lectures](/elements/lectures.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Lectures](../elements/lectures.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Student understanding of relationships between concepts, participation in discussions, and performance on related assessments.

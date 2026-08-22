@@ -14,8 +14,8 @@ generated:
 Engage is the element in which instruction opens with an activity or prompt that draws attention and establishes interest.
 
 ## Affordances
-- [Engagement](/principles/engagement.md)
-- [Activation](/principles/activation.md)
+- [Engagement](../principles/engagement.md)
+- [Activation](../principles/activation.md)
 
 ## Related Elements
-- [Gain Attention](/elements/gain-attention.md)
+- [Gain Attention](gain-attention.md)

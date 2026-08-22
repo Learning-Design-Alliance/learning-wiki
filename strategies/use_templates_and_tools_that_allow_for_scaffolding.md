@@ -39,10 +39,10 @@ Using templates and tools that allow for scaffolding involves providing students
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Whole-task performance](/elements/whole-task-performance.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
 
 ## Assessment Evidence
 - Increased use of planning and organizational tools in student writing. Improved ability to construct well-organized writing. Enhanced confidence and independence.

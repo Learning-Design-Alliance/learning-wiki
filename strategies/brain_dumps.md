@@ -39,7 +39,7 @@ Brain dumps involve learners writing down everything they can recall about a spe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Assess the amount of information recalled and the accuracy of the information.

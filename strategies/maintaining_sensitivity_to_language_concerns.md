@@ -39,9 +39,9 @@ In traditional classrooms, students who are not native English speakers often fe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Increased student participation and engagement, improved language proficiency, and greater confidence in using both English and their primary language.

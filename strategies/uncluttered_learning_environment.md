@@ -39,7 +39,7 @@ A clean, organized, and uncluttered learning environment is free from distractio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior and focus levels. Gather feedback on the impact of the environment on learning.

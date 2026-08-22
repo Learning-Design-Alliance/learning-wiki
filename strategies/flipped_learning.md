@@ -39,15 +39,15 @@ Flipped learning is a pedagogical approach that reverses the traditional learnin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Pre-Class Video/Lecture](/elements/pre-class-videolecture.md)
-- [In-Class Activities](/elements/in-class-activities.md)
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Case Study](/elements/case-study.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Decision-Making](/elements/decision-making.md)
-- [Reflection](/elements/reflection.md)
-- [Application](/elements/application.md)
+- [Pre-Class Video/Lecture](../elements/pre-class-videolecture.md)
+- [In-Class Activities](../elements/in-class-activities.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Decision-Making](../elements/decision-making.md)
+- [Reflection](../elements/reflection.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Improved performance on exams and assignments measuring foundational knowledge, higher-order thinking, and applied skills. Enhanced student engagement and identification with the course or discipline. Development of metacognitive skills (time management, learning strategies). Increased student satisfaction with the course and instruction.

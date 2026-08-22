@@ -39,9 +39,9 @@ Math talks are structured conversations focused on mathematical reasoning and pr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
 
 ## Assessment Evidence
 - Observe the level of engagement and participation in math talks. Evaluate learners’ ability to explain their thinking and reasoning. Assess the depth of understanding demonstrated during discussions.

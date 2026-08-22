@@ -39,10 +39,10 @@ Classroom time for tutoring is completely eliminated in this model. Educators, l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Lectures](/elements/lectures.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Lectures](../elements/lectures.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Completion rates of online assignments, utilization of office hours, overall academic performance.

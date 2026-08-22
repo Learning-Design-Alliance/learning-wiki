@@ -39,9 +39,9 @@ A memory game where learners match pairs of word cards to reinforce vocabulary a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the number of matches achieved. Observe learners' ability to use words in sentences. Collect anecdotal notes on participation and peer support.

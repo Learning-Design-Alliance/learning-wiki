@@ -31,18 +31,18 @@ Journaling is the element in which learners record reflections, observations, qu
 - Support reflection, synthesis, and noticing change over time.
 
 ### Affordances
-- [Reflection](/principles/reflection.md)
-- [Metacognition](/principles/metacognition.md)
-- [Self-Regulated Learning](/principles/self-regulated-learning.md)
+- [Reflection](../principles/reflection.md)
+- [Metacognition](../principles/metacognition.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
 
 ## Related Elements
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Self-Assessment](/elements/self-assessment.md)
-- [Metacognitive Strategies](/elements/metacognitive-strategies.md)
+- [Individual Reflection](individual-reflection.md)
+- [Self-Assessment](self-assessment.md)
+- [Metacognitive Strategies](metacognitive-strategies.md)
 
 ## Patterns That Use This Element
-- [Journaling](/patterns/journaling.md)
-- [Reflective Practice](/patterns/reflective-practice.md)
+- [Journaling](../patterns/journaling.md)
+- [Reflective Practice](../patterns/reflective-practice.md)
 
 ## Examples
 - Weekly learning journals that track confusion points and strategy changes.

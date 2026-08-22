@@ -39,8 +39,8 @@ Learners pull a 'feeling face' card and eat their snack while showing the matchi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately portray emotions while eating their snack. Assess their participation and engagement in the activity.

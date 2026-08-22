@@ -39,9 +39,9 @@ To do this work, a teacher must be confident in her belief that such discussions
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Argument Construction](/elements/argument-construction.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Argument Construction](../elements/argument-construction.md)
 
 ## Assessment Evidence
 - Track parental feedback and support, review curriculum plans for alignment with state standards, and gather feedback from administrators and colleagues.

@@ -39,10 +39,10 @@ Provide low-pressure exercises for students to experiment with the writing techn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Student writing samples demonstrating experimentation with new techniques. Participation in exercises and activities. Student reflections on their learning process.

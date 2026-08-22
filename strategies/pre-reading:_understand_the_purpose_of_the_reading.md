@@ -39,8 +39,8 @@ Understanding the purpose of pre-reading is to increase the capacity to comprehe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [State objectives](/elements/state-objectives.md)
+- [Gain attention](../elements/gain-attention.md)
+- [State objectives](../elements/state-objectives.md)
 
 ## Assessment Evidence
 - Assess the learner's ability to summarize the main points of the text after pre-reading and detailed reading.

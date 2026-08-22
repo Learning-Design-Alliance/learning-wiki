@@ -39,8 +39,8 @@ Students need to encounter reflective role models. Modeling reflection can invol
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved student understanding of reflection and increased use of reflection strategies.

@@ -39,8 +39,8 @@ Explicitly teach mathematical academic vocabulary, including math-specific terms
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess learner's use of math vocabulary in context, monitor learner's comprehension of mathematical concepts

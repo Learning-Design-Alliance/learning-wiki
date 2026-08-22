@@ -39,8 +39,8 @@ This approach involves communicating with learners the purpose for an assessment
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Demonstration](/elements/demonstration.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe changes in learner performance. Track learner progress. Analyze the effectiveness of the models and examples.

@@ -39,11 +39,11 @@ Classroom games transform review time into engaging, collaborative activities th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Team-Based Inquiry](/elements/team-based-inquiry.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Team-Based Inquiry](../elements/team-based-inquiry.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation levels. Collect data on team performance and individual contributions. Assess learner understanding through game outcomes and feedback.

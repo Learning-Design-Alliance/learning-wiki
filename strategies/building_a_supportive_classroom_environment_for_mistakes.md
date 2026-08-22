@@ -39,12 +39,12 @@ This strategy focuses on specific actions to foster a learning environment where
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Increased student participation, willingness to take risks, improved problem-solving skills, and positive attitudes toward mistakes. Observable changes in teacher feedback and evaluation practices.

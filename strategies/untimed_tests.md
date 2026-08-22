@@ -39,8 +39,8 @@ Untimed tests remove the pressure of completing assessments within a set time li
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Compare performance on timed vs. untimed tests to assess the impact of time pressure. Observe learners' problem-solving approaches and depth of engagement during untimed tests.

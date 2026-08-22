@@ -39,7 +39,7 @@ One simple search tip you can give students is to check the domain on search res
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Successful identification of correct domains.

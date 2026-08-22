@@ -39,7 +39,7 @@ A framework for fact-checking that includes four key moves: Check for previous w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Ability to apply the four moves and a habit to evaluate online information

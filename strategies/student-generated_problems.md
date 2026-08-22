@@ -39,10 +39,10 @@ Learners create their own problems based on concepts they're learning, share the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Solution Development](/elements/solution-development.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Application](/elements/application.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Evaluate the quality and complexity of problems created by learners. Assess the accuracy and completeness of solutions provided by learners. Observe learner engagement and participation in the problem-solving process.

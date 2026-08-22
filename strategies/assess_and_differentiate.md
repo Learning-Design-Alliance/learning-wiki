@@ -39,8 +39,8 @@ It is important to assess not only the content but also the language as you scaf
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Reassessment](/elements/reassessment.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Reassessment](../elements/reassessment.md)
 
 ## Assessment Evidence
 - Improved student performance, increased engagement, and a more supportive learning environment.

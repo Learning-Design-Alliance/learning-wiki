@@ -39,9 +39,9 @@ Incorporating web dictionaries and thesauruses into vocabulary lessons allows le
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learners' use of dictionaries and thesauruses while reading. Review digital notes (vocabulary definitions or explanations). Score each definition according to a Vocabulary Rubric. Identify common misconceptions, misunderstandings, or lack of knowledge.

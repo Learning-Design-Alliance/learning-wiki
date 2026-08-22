@@ -39,9 +39,9 @@ Learning is not a spectator sport. No one learns much just sitting in classes li
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
-- [Inquiry-Based Exploration](/elements/inquiry-based-exploration.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Inquiry-Based Exploration](../elements/inquiry-based-exploration.md)
 
 ## Assessment Evidence
 - Increased participation in discussions, improved quality of written assignments, positive feedback from tutees about engagement.

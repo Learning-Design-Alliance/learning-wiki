@@ -31,17 +31,17 @@ Rubric design is the element in which criteria and performance levels are made e
 - Clarify quality expectations and support more reliable judgment.
 
 ### Affordances
-- [Competency-Based Assessment](/principles/competency-based-assessment.md)
-- [Metacognition](/principles/metacognition.md)
+- [Competency-Based Assessment](../principles/competency-based-assessment.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Criteria Development](/elements/criteria-development.md)
-- [Peer Assessment](/elements/peer-assessment.md)
-- [Self-Assessment](/elements/self-assessment.md)
+- [Criteria Development](criteria-development.md)
+- [Peer Assessment](peer-assessment.md)
+- [Self-Assessment](self-assessment.md)
 
 ## Patterns That Use This Element
-- [Structured Peer Review](/patterns/structured-peer-review.md)
-- [Competency-Based Learning](/patterns/competency-based-learning.md)
+- [Structured Peer Review](../patterns/structured-peer-review.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
 
 ## Examples
 - Learners co-design rubric descriptors before assessing exemplars or peer work.

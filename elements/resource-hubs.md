@@ -26,13 +26,13 @@ Resource hubs are centralized collections of materials, links, tools, or referen
 - Improve access to needed resources and reduce search friction.
 
 ### Affordances
-- [Knowledge Organization](/principles/knowledge-organization.md)
-- [Self-Regulation](/principles/self-regulation.md)
+- [Knowledge Organization](../principles/knowledge-organization.md)
+- [Self-Regulation](../principles/self-regulation.md)
 
 ## Related Elements
-- [Task Management](/elements/task-management.md)
-- [Digital Learning](/elements/digital-learning.md)
-- [Information Literacy](/elements/information-literacy.md)
+- [Task Management](task-management.md)
+- [Digital Learning](digital-learning.md)
+- [Information Literacy](information-literacy.md)
 
 ## Key Sources
 - Ambrose, S. A., et al. (2010). *How learning works*. Jossey-Bass.

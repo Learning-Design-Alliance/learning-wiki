@@ -39,9 +39,9 @@ Educational charts are visual aids that present data in an accessible and unders
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess learner comprehension of data through quizzes or discussions. Evaluate the effectiveness of charts in simplifying complex information. Observe learner engagement and participation.

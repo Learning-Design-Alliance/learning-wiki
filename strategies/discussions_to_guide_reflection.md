@@ -39,7 +39,7 @@ Invite students to think about their thinking. Conduct discussions about student
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [peer discussion](/elements/peer-discussion.md)
+- [peer discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track the frequency and quality of peer interactions, noting instances of mutual support and advice-giving. Observe the level of comfort and openness in sharing weaknesses and challenges.

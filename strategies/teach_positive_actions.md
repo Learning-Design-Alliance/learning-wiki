@@ -39,8 +39,8 @@ Education on positive actions for a healthy body (nutrition, exercise, and sleep
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student behaviors, gather student feedback through surveys or discussions, track student progress toward goals.

@@ -24,25 +24,25 @@ sources:
 # Error Analysis
 
 ## Description
-Error analysis is an instructional principle that treats learner errors as valuable opportunities for deepening conceptual understanding and improving long-term retention. By actively analyzing their own mistakes or studying [erroneous examples](/elements/erroneous-examples.md), learners develop metacognitive monitoring and critical reasoning skills [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [+S].
+Error analysis is an instructional principle that treats learner errors as valuable opportunities for deepening conceptual understanding and improving long-term retention. By actively analyzing their own mistakes or studying [erroneous examples](../elements/erroneous-examples.md), learners develop metacognitive monitoring and critical reasoning skills [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S].
 
 ## Implications
-Error analysis works when mistakes are treated as information rather than only as failure. Comparing incorrect and correct solutions, explaining why an error happened, and receiving timely corrective feedback can deepen conceptual understanding and improve retention [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](/claims/erroneous-examples-build-conceptual-knowledge.md) [+M], especially when the error was made with high confidence [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [+S]. The practical limit is that learners need enough knowledge and support to analyze the mistake productively; for complete novices, poorly timed error work can add confusion instead of insight.
+Error analysis works when mistakes are treated as information rather than only as failure. Comparing incorrect and correct solutions, explaining why an error happened, and receiving timely corrective feedback can deepen conceptual understanding and improve retention [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M], especially when the error was made with high confidence [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S]. The practical limit is that learners need enough knowledge and support to analyze the mistake productively; for complete novices, poorly timed error work can add confusion instead of insight.
 
 ### Context
 #### Requirements
-- **Corrective Feedback**: Errors only lead to learning if they are followed by clear, immediate, and non-punitive corrective feedback [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [+S].
-- **Comparison Opportunities**: Comparing a correct model with an incorrect one is more effective than studying errors in isolation [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](/claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
+- **Corrective Feedback**: Errors only lead to learning if they are followed by clear, immediate, and non-punitive corrective feedback [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S].
+- **Comparison Opportunities**: Comparing a correct model with an incorrect one is more effective than studying errors in isolation [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
 - **Explanation Prompts**: Learners should be prompted to explain *why* an error occurred and *how* to correct it.
 
 #### Constraints
-- **Low Confidence Errors**: Mistakes made due to a pure lack of knowledge are less likely to lead to long-term learning than high-confidence errors [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [~M].
-- **Novice Overload**: For absolute novices, seeing errors before mastering the correct procedure can be confusing and increase extraneous cognitive load [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](/claims/erroneous-examples-build-conceptual-knowledge.md) [-M].
+- **Low Confidence Errors**: Mistakes made due to a pure lack of knowledge are less likely to lead to long-term learning than high-confidence errors [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M].
+- **Novice Overload**: For absolute novices, seeing errors before mastering the correct procedure can be confusing and increase extraneous cognitive load [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](../claims/erroneous-examples-build-conceptual-knowledge.md) [-M].
 - **Cultural Barriers**: In some instructional contexts, errors are seen as failures to be avoided rather than learning opportunities, requiring a shift toward a growth mindset.
 
 ### Target Learners
 - **Intermediate Learners**: Most capable of benefiting from erroneous examples after they have a basic grasp of a topic.
-- **Learners with Deep-Seated Misconceptions**: Essential for surfacing and correcting intuitive but incorrect beliefs [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](/claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
+- **Learners with Deep-Seated Misconceptions**: Essential for surfacing and correcting intuitive but incorrect beliefs [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
 - **All Learners (for Hypercorrection)**: Any learner who makes a high-confidence mistake is primed for deep learning upon correction.
 
 ### Target Learning Objectives
@@ -52,18 +52,18 @@ Error analysis works when mistakes are treated as information rather than only a
 
 ### Theory
 #### Supporting
-- [Constructivism](/theories/constructivism.md) — knowledge is actively built through the correction of mental models.
-- [Information Processing Theory](/theories/information-processing-theory.md) — surprise from a high-confidence error triggers deeper attention and memory reconsolidation [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [+S].
+- [Constructivism](../theories/constructivism.md) — knowledge is actively built through the correction of mental models.
+- [Information Processing Theory](../theories/information-processing-theory.md) — surprise from a high-confidence error triggers deeper attention and memory reconsolidation [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S].
 - **Generative Learning** — guessing an answer (even incorrectly) before being told is more effective than passive reading.
 
 ### Claims
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [+S] — confidently held mistakes can become especially memorable learning opportunities when corrected clearly
-- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](/claims/erroneous-examples-build-conceptual-knowledge.md) [+M] — comparing incorrect and correct examples can deepen conceptual understanding when learners can interpret the contrast
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — confidently held mistakes can become especially memorable learning opportunities when corrected clearly
+- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M] — comparing incorrect and correct examples can deepen conceptual understanding when learners can interpret the contrast
 
 ## Related Principles
-- [Explaining Their Thinking](/principles/explaining-their-thinking.md) — self-explanation is the mechanism by which error analysis works.
-- [Worked Examples](/principles/worked-examples.md) — can be modified into erroneous examples.
-- [Foster Growth Mindset](/principles/foster-growth-mindset.md) — error analysis requires a safe environment where mistakes are valued.
+- [Explaining Their Thinking](explaining-their-thinking.md) — self-explanation is the mechanism by which error analysis works.
+- [Worked Examples](worked-examples.md) — can be modified into erroneous examples.
+- [Foster Growth Mindset](foster-growth-mindset.md) — error analysis requires a safe environment where mistakes are valued.
 
 ## Examples
 - **Erroneous Examples in Math**: Showing a student a hypothetical peer's calculation error and asking them to find and fix it.

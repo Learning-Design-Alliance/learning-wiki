@@ -27,7 +27,7 @@ sources:
 Graphic organizers are visual structures that help learners sort, connect, sequence, compare, or hierarchize information. Their instructional value comes from making the structure of knowledge visible: instead of holding relationships only in working memory, learners can externalize categories, links, and patterns in a shared visual form. This makes graphic organizers especially useful for reading, writing, planning, problem solving, and any task where the arrangement of ideas matters as much as the ideas themselves.
 
 ## Implications
-Graphic organizers help when the structure of a task matters as much as its content. By externalizing categories, sequences, and relationships, they can reduce working-memory demands and make it easier for learners to inspect how ideas fit together [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S]. Their value depends on fit: a well-chosen organizer clarifies reasoning, while a mismatched template can flatten or distort it. That is why organizers work best when instructors explain why this representation fits this task and when learners use the organizer to discuss, write, or solve rather than merely fill blanks [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Graphic organizers help when the structure of a task matters as much as its content. By externalizing categories, sequences, and relationships, they can reduce working-memory demands and make it easier for learners to inspect how ideas fit together [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]. Their value depends on fit: a well-chosen organizer clarifies reasoning, while a mismatched template can flatten or distort it. That is why organizers work best when instructors explain why this representation fits this task and when learners use the organizer to discuss, write, or solve rather than merely fill blanks [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -38,7 +38,7 @@ Graphic organizers help when the structure of a task matters as much as its cont
 #### Constraints
 - **Template misuse**: A mismatched organizer can confuse learners or flatten the structure of the task.
 - **Over-scaffolding**: Highly prefilled organizers can reduce thinking if learners only complete labels mechanically.
-- **Visual overload**: Dense layouts with too many branches or symbols can add rather than reduce cognitive burden [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S].
+- **Visual overload**: Dense layouts with too many branches or symbols can add rather than reduce cognitive burden [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S].
 - **Weak transfer**: Learners may not generalize organizer use unless they understand why the representation fits the task.
 
 ### Target Learners
@@ -63,14 +63,14 @@ Graphic organizers help when the structure of a task matters as much as its cont
 - Advanced learners may need less structured organizers or may prefer building their own representations.
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — organizers reduce working-memory burden by making categories, sequence, and relationships externally visible
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — organizers teach more when learners explain how the visual structure represents the idea or task
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — organizers reduce working-memory burden by making categories, sequence, and relationships externally visible
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — organizers teach more when learners explain how the visual structure represents the idea or task
 
 ## Related Principles
-- [Creating Visual Representations](/principles/creating-visual-representations.md) — graphic organizers are one concrete form of visual externalization.
-- [Metaphors & Analogies](/principles/metaphors-analogies.md) — organizers can help make analogical or conceptual relationships visible.
-- [Process-Based Writing](/principles/process-based-writing.md) — organizers often support planning, sequencing, and revision in writing.
-- [Pre-Reading Questioning](/principles/pre-reading-questioning.md) — organizers can structure anticipation and comprehension before or during reading.
+- [Creating Visual Representations](creating-visual-representations.md) — graphic organizers are one concrete form of visual externalization.
+- [Metaphors & Analogies](metaphors-analogies.md) — organizers can help make analogical or conceptual relationships visible.
+- [Process-Based Writing](process-based-writing.md) — organizers often support planning, sequencing, and revision in writing.
+- [Pre-Reading Questioning](pre-reading-questioning.md) — organizers can structure anticipation and comprehension before or during reading.
 
 ## Examples
 - **Cause-and-effect maps**: Learners trace how events, policies, or variables influence one another.

@@ -39,9 +39,9 @@ This activity increases awareness of personal stereotypes and prejudices, helpin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the level of engagement in self-reflection, the ability to identify personal biases, and the willingness to consider alternative interpretations. Monitor changes in learners' attitudes and behaviors towards others.

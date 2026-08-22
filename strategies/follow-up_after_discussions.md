@@ -39,10 +39,10 @@ Teachers encourage students to take actions to address inequities revealed durin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Track student participation in follow-up activities, assess the impact of their actions on the school or community, and gather feedback on their experiences.

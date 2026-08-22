@@ -39,10 +39,10 @@ This is a specific model targeting young learners. The aim is to replace the hom
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Lectures](/elements/lectures.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Lectures](../elements/lectures.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Learner engagement with videos, participation in one-to-one sessions, academic performance.

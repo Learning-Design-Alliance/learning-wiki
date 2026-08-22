@@ -39,8 +39,8 @@ These tasks involve examining and sorting waste items in a garbage can, categori
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in sorting and categorizing waste, correctness in proposing solutions, logical justification of solutions

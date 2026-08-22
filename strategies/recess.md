@@ -39,7 +39,7 @@ Offer daily recess to allow students to be active, which can improve memory, con
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor behavior and engagement in class, track recess participation rates, assess improvements in memory and cognitive skills

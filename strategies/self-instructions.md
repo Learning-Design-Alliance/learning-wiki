@@ -39,9 +39,9 @@ Teachers model articulating how they solve a problem and prompt students to expl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Articulation](/elements/articulation.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
+- [Articulation](../elements/articulation.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student explanations to identify strengths and areas for improvement in their understanding. Collect data on the frequency and quality of student self-explanations.

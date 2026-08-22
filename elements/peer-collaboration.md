@@ -31,19 +31,19 @@ Learners work together to complete tasks or solve problems.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Constructivism](/principles/constructivism.md)
-- [Community of Inquiry](/principles/community-of-inquiry.md)
+- [Social Learning](../principles/social-learning.md)
+- [Constructivism](../principles/constructivism.md)
+- [Community of Inquiry](../principles/community-of-inquiry.md)
 
 ## Related Elements
-- [Group Work](/elements/group-work.md)
-- [Collaborative Inquiry](/elements/collaborative-inquiry.md)
-- [Peer Teaching](/elements/peer-teaching.md)
+- [Group Work](group-work.md)
+- [Collaborative Inquiry](collaborative-inquiry.md)
+- [Peer Teaching](peer-teaching.md)
 
 ## Patterns That Use This Element
-- [Jigsaw](/patterns/jigsaw.md)
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
-- [Peer Teaching](/patterns/peer-teaching.md)
+- [Jigsaw](../patterns/jigsaw.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Peer Teaching](../patterns/peer-teaching.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

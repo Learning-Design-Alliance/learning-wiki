@@ -39,8 +39,8 @@ De-emphasizing answers and spending more time on reasoning can build confidence.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess the quality of learner reasoning and problem-solving skills.

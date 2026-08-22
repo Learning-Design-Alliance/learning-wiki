@@ -26,12 +26,12 @@ Retrieval practice is the element in which learners recall information from memo
 - Strengthen retention, access, and transfer.
 
 ### Affordances
-- [Retrieval Practice](/principles/retrieval-practice.md)
-- [Memory Consolidation](/principles/memory-consolidation.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
+- [Memory Consolidation](../principles/memory-consolidation.md)
 
 ## Related Elements
-- [Self-Testing](/elements/self-testing.md)
-- [Spaced Repetition](/elements/spaced-repetition.md)
+- [Self-Testing](self-testing.md)
+- [Spaced Repetition](spaced-repetition.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. *Psychological Science, 17*(3), 249-255.

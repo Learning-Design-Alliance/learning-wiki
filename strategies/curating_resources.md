@@ -39,9 +39,9 @@ Curating involves selecting and arranging readings, videos, and other resources 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Advance Organizers](/elements/advance-organizers.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Advance Organizers](../elements/advance-organizers.md)
 
 ## Assessment Evidence
 - Improved student comprehension, increased use of curated resources, and positive feedback on the organization of the course.

@@ -39,8 +39,8 @@ This strategy combines art activities with science concepts to teach specific sc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Demonstration](/elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Assess the scientific accuracy of the art projects. Evaluate the learners' ability to explain the science concepts. Observe engagement and participation during hands-on activities.

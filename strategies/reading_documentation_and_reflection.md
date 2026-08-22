@@ -39,9 +39,9 @@ Have students record details about their reading such as book titles, number of 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Review students' reading records to assess their reflection and progress. Monitor vocabulary development based on recorded words.

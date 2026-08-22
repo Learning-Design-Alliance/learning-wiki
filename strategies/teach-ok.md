@@ -39,9 +39,9 @@ A peer teaching strategy that begins with the teacher spending a few minutes int
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Guided Practice](/elements/guided-practice.md)
-- [Demonstration](/elements/demonstration.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Guided Practice](../elements/guided-practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the activity, review the quality of their re-teaching, collect feedback from learners about their experience.

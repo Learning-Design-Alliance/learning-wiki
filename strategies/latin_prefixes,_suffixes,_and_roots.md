@@ -39,9 +39,9 @@ Direct teaching about the meaningful parts of words begins with the most common 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Assess accuracy in spelling words with Latin prefixes, suffixes, and roots. Monitor progress in spelling and vocabulary skills.

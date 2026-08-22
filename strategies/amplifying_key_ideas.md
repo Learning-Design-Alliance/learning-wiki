@@ -39,9 +39,9 @@ Amplifying involves drawing attention to important ideas and concepts, both in t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Improved student performance on assessments, increased focus on key concepts in student work, and positive feedback on the clarity of instruction.

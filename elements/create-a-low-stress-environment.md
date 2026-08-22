@@ -14,8 +14,8 @@ generated:
 Create a low-stress environment is the element of designing routines, norms, and spaces that reduce unnecessary anxiety during learning.
 
 ## Affordances
-- [Holistic Learning](/principles/holistic-learning.md)
-- [Strengths-Based Approach](/principles/strengths-based-approach.md)
+- [Holistic Learning](../principles/holistic-learning.md)
+- [Strengths-Based Approach](../principles/strengths-based-approach.md)
 
 ## Related Elements
-- [Create a Relaxed Learning Environment](/elements/create-a-relaxed-learning-environment.md)
+- [Create a Relaxed Learning Environment](create-a-relaxed-learning-environment.md)

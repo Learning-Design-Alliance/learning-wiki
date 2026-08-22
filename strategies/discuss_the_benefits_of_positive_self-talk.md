@@ -39,8 +39,8 @@ Openly communicating what self-talk is and how it can help. This involves explai
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Learners' willingness to try positive self-talk strategies. Changes in their attitudes and beliefs about the power of mindset.

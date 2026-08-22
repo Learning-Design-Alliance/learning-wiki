@@ -39,9 +39,9 @@ This strategy encourages learners to express their emotions through journaling, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Review journal entries or artwork for emotional content; track frequency of expressive activities; observe changes in emotional regulation

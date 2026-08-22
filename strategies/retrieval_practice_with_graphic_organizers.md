@@ -39,8 +39,8 @@ After students do a Brain Dump, where they try to recall as much as they can abo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Continuous Review](/elements/continuous-review.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Continuous Review](../elements/continuous-review.md)
 
 ## Assessment Evidence
 - Student feedback on gaps in their knowledge.

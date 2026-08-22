@@ -39,9 +39,9 @@ Assigning homework that reinforces learning, encourages real-world application, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Review homework submissions to assess learning progress. Monitor student engagement and participation in homework assignments. Gather feedback from learners on the relevance and value of assignments.

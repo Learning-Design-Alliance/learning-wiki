@@ -27,18 +27,18 @@ Guided inquiry is the element in which learners investigate questions or problem
 - Support inquiry, explanation building, and evidence-based sensemaking.
 
 ### Affordances
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
-- [Scaffolding](/principles/scaffolding.md)
-- [Constructivist Learning](/principles/constructivist-learning.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
 
 ## Related Elements
-- [Guided Discovery](/elements/guided-discovery.md)
-- [Structured Questioning](/elements/structured-questioning.md)
-- [Team-Based Inquiry](/elements/team-based-inquiry.md)
+- [Guided Discovery](guided-discovery.md)
+- [Structured Questioning](structured-questioning.md)
+- [Team-Based Inquiry](team-based-inquiry.md)
 
 ## Patterns That Use This Element
-- [POGIL](/patterns/pogil.md)
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
+- [POGIL](../patterns/pogil.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
 - Learners investigate a phenomenon with sequenced prompts and evidence sources rather than being given the explanation upfront.

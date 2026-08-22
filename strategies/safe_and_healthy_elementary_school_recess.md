@@ -39,11 +39,11 @@ Implementing a safe and healthy recess with programs like Playworks TeamUp aims 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Modeling](/elements/modeling.md)
-- [Coaching](/elements/coaching.md)
+- [Application](../elements/application.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Modeling](../elements/modeling.md)
+- [Coaching](../elements/coaching.md)
 
 ## Assessment Evidence
 - Monitor recess organization, student activity levels, conflict resolution skills, and reported incidents of bullying and disciplinary referrals.

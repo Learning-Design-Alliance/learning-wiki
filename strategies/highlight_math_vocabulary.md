@@ -39,8 +39,8 @@ Model how to highlight or circle mathematical words in word problems that prompt
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe whether learners are accurately highlighting key words in word problems. Assess the completeness and accuracy of the word wall or graphic organizer.

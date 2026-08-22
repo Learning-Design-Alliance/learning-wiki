@@ -39,8 +39,8 @@ Shadowing is a strategy used to address harmful behaviors in children, such as b
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - The primary measure of effectiveness is the reduction or elimination of the targeted behavior. Progress is tracked by monitoring incidents and noting the child's development of alternative social skills.

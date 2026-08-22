@@ -39,8 +39,8 @@ Students complete a graphic organizer that shows relationships between terms or 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Accuracy and completeness of the relationships depicted in the organizer.

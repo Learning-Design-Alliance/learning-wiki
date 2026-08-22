@@ -39,8 +39,8 @@ Providing learners with access to multiple resources, including blogs, videos, a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Demonstration](/elements/demonstration.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Track resource selections to gauge learner interests. Assess learner comprehension and knowledge gains related to the chosen resources. Monitor engagement levels.

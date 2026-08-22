@@ -39,9 +39,9 @@ This strategy entails providing instruction that empowers students intellectuall
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Application](/elements/application.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Application](../elements/application.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe increased student engagement and participation. Analyze student work for connections to their cultures. Gather student feedback on relevance and accessibility of content.

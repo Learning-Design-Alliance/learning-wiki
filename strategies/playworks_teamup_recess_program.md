@@ -39,9 +39,9 @@ The Playworks TeamUp program aims to make recess more organized, safe, and healt
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track changes in recess organization, student behavior, conflict resolution skills, and disciplinary referrals.

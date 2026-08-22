@@ -39,9 +39,9 @@ Gamification is the integration of game elements like point systems, leaderboard
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student participation and engagement with gamified activities. Compare learning outcomes between gamified and non-gamified courses. Monitor student feedback regarding motivation and engagement.

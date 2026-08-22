@@ -39,8 +39,8 @@ Measurement tasks involve using measurement tools and techniques to quantify phy
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in measurements, correct use of measurement tools, clear reporting of results

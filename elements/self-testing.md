@@ -31,17 +31,17 @@ Self-testing is the element in which learners quiz themselves or otherwise attem
 - Improve retention and support self-monitoring of knowledge.
 
 ### Affordances
-- [Retrieval Practice](/principles/retrieval-practice.md)
-- [Self-Regulation](/principles/self-regulation.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
+- [Self-Regulation](../principles/self-regulation.md)
 
 ## Related Elements
-- [Retrieval Practice](/elements/retrieval-practice.md)
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Self-Assessment](/elements/self-assessment.md)
+- [Retrieval Practice](retrieval-practice.md)
+- [Formative Assessment](formative-assessment.md)
+- [Self-Assessment](self-assessment.md)
 
 ## Patterns That Use This Element
-- [Flipped Learning](/patterns/flipped-learning.md)
-- [Traditional Lecture-Based Instruction](/patterns/traditional-lecture-based-instruction.md)
+- [Flipped Learning](../patterns/flipped-learning.md)
+- [Traditional Lecture-Based Instruction](../patterns/traditional-lecture-based-instruction.md)
 
 ## Examples
 - Learners answer quick checks on their own before class discussion or review.

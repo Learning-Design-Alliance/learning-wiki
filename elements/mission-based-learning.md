@@ -31,17 +31,17 @@ Learners engage in a structured, goal-oriented challenge.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Active Learning](/principles/active-learning.md)
-- [Constructivism](/principles/constructivism.md)
+- [Active Learning](../principles/active-learning.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Related Elements
-- [Problem-Based Learning](/elements/problem-based-learning.md)
-- [Scenario-Based Learning](/elements/scenario-based-learning.md)
-- [Just-in-Time Learning](/elements/just-in-time-learning.md)
+- [Problem-Based Learning](problem-based-learning.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
+- [Just-in-Time Learning](just-in-time-learning.md)
 
 ## Patterns That Use This Element
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
-- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

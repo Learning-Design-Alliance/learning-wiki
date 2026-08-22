@@ -39,8 +39,8 @@ Using a content "word of the week" to signal that it’s time for silence. Examp
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Observe how quickly and effectively students respond to the signal word. Monitor student recall and understanding of the vocabulary word.

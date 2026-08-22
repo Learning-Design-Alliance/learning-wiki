@@ -39,8 +39,8 @@ Combining visual elements with engaging narratives to capture the learners' atte
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Demonstration](../elements/demonstration.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Assess learners' ability to recall and explain the concept after watching the animation or video. Evaluate their ability to apply the concept in new situations.

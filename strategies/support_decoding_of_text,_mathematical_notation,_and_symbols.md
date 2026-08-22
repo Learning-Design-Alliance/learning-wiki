@@ -39,8 +39,8 @@ Ensuring that text and symbols do not impede the learning goal involves providin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner reading fluency and comprehension. Assess learner understanding of mathematical notation and symbols. Track improvements in reading and mathematical skills.

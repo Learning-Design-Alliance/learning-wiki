@@ -39,9 +39,9 @@ Audiobooks can reinforce and inspire literacy skills and enjoyment for all stude
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation in discussions about the audiobooks. Assess comprehension through quizzes, summaries, or creative projects.

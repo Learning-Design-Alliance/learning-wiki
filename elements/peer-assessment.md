@@ -31,17 +31,17 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - Improve evaluative judgment, feedback literacy, and revision quality.
 
 ### Affordances
-- [Peer Feedback/Peer Review](/principles/peer-feedbackpeer-review.md)
-- [Metacognition](/principles/metacognition.md)
+- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Peer Review](/elements/peer-review.md)
-- [Criteria Development](/elements/criteria-development.md)
-- [Self-Assessment](/elements/self-assessment.md)
+- [Peer Review](peer-review.md)
+- [Criteria Development](criteria-development.md)
+- [Self-Assessment](self-assessment.md)
 
 ## Patterns That Use This Element
-- [Structured Peer Review](/patterns/structured-peer-review.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Structured Peer Review](../patterns/structured-peer-review.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 - Learners score peer work with a rubric and justify their ratings.

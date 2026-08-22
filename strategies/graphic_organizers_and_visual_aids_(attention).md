@@ -39,8 +39,8 @@ Using graphic organizers and visual aids to help students identify the most impo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor student's ability to extract key information using graphic organizers. Review completed graphic organizers for accuracy and completeness.

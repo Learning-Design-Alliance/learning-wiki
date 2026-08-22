@@ -39,8 +39,8 @@ Learners identify two- and three-dimensional shapes in their surroundings, promo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to identify and name shapes accurately. Track the number of shapes correctly identified within a given time.

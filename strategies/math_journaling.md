@@ -39,8 +39,8 @@ In their math journals, students can write about things they are having trouble 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Practice](/elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Review journal entries to assess learners' understanding and identify areas of struggle. Look for evidence of self-reflection and improved clarity of thinking.

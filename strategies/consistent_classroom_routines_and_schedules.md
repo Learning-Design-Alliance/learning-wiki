@@ -39,8 +39,8 @@ Maintaining predictable classroom routines and schedules provides students with 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [State objectives](/elements/state-objectives.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [State objectives](../elements/state-objectives.md)
 
 ## Assessment Evidence
 - Observe student behavior for signs of reduced anxiety and improved emotional regulation. Solicit student feedback on the helpfulness of the routines and schedules.

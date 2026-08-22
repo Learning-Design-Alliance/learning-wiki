@@ -39,10 +39,10 @@ Explicitly teaching vocabulary words and their definitions, along with providing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Lectures](/elements/lectures.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Lectures](../elements/lectures.md)
 
 ## Assessment Evidence
 - Vocabulary quizzes. Student use of new words in writing and speaking. Observation of student engagement during reading activities.

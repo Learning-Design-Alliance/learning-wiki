@@ -39,9 +39,9 @@ This instructional strategy involves directly teaching learners how to construct
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate the quality and relevance of evidence used to support claims, assess the ability to understand and address opposing viewpoints, and track participation in online discussions.

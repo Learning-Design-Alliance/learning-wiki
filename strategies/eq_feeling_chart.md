@@ -39,8 +39,8 @@ Pair students and check-in with each other using an EQ Feeling Chart. Facilitate
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement in discussions. Collect student feedback on the activity to assess its effectiveness.

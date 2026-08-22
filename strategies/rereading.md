@@ -39,8 +39,8 @@ Rereading is a literacy strategy where a reader revisits a sentence, paragraph, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learner's fluency and expression during oral reading. Assess comprehension through questioning or summarizing after rereading. Monitor decoding accuracy and sight word recognition. Track improvement in reading speed and accuracy over time.

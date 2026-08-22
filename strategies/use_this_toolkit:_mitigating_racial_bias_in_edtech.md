@@ -39,9 +39,9 @@ This toolkit is designed to guide educational technology (edtech) companies in i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Procedural information](/elements/procedural-information.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Procedural information](../elements/procedural-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Improvements in product design, reduced bias in algorithms, increased user satisfaction among Black and Brown students, and alignment with culturally responsive teaching practices.

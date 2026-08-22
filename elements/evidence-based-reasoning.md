@@ -31,17 +31,17 @@ Learners evaluate competing models based on real-world evidence and refine their
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
-- [Epistemic Cognition](/principles/epistemic-cognition.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
+- [Epistemic Cognition](../principles/epistemic-cognition.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Argumentation](/elements/argumentation.md)
-- [Justification](/elements/justification.md)
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
+- [Argumentation](argumentation.md)
+- [Justification](justification.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [Model-Evidence Link (MEL) Reasoning Pattern](/patterns/model-evidence-link-mel-reasoning-pattern.md)
+- [Model-Evidence Link (MEL) Reasoning Pattern](../patterns/model-evidence-link-mel-reasoning-pattern.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

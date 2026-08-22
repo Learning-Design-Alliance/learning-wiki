@@ -54,11 +54,11 @@ Its strength is coherence: each event sets up the next. Its limitation is rigidi
 
 ### Claims
 #### Supporting
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]
 
 ## Design
 
@@ -74,16 +74,16 @@ Its strength is coherence: each event sets up the next. Its limitation is rigidi
 9. Enhance retention and transfer.
 
 ### Elements Used
-- [Activation](/elements/activation.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assessment](/elements/assessment.md)
+- [Activation](../elements/activation.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [Guided Practice](/principles/guided-practice.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Multiple Methods of Assessment](/principles/multiple-methods-of-assessment.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
 
 ### Personalization
 - Individual events can be emphasized differently depending on learner readiness.
@@ -91,8 +91,8 @@ Its strength is coherence: each event sets up the next. Its limitation is rigidi
 - Instructors can shorten or merge events when the lesson does not require full elaboration.
 
 ## Related Patterns
-- [Develop Understanding](/patterns/develop-understanding.md)
-- [Merrill's First Principles of Instruction](/patterns/merrills-first-principles-of-instruction.md)
+- [Develop Understanding](develop-understanding.md)
+- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
 
 ## Examples
 - A short online lesson that activates prior knowledge, teaches a new concept, and checks application with feedback.

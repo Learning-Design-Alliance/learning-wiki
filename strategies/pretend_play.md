@@ -39,9 +39,9 @@ Pretend play, also known as dramatic play or make-believe, involves learners exp
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe learners' communication skills, interaction with peers, and integration of math concepts during play. Track the level of engagement and creativity displayed during the play scenarios.

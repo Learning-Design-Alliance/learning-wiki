@@ -39,8 +39,8 @@ After feeling and expressing emotions related to a mistake, engaging in calm and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Perspective-Taking](/elements/perspective-taking.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
 
 ## Assessment Evidence
 - Evidence of increased self-awareness, ability to recognize triggers, and consideration of alternative viewpoints.

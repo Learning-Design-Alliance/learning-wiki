@@ -25,7 +25,7 @@ Skills sprints are short, intensive learning cycles organized around producing s
 The instructional value of a sprint does not come from speed alone. A sprint works when the scope is disciplined, the success criteria are clear, and learners have enough support to stay productive under pressure. Without that structure, sprints can become chaotic bursts of activity that reward prior expertise more than learning.
 
 ## Implications
-Skills sprints are effective when a short, tightly bounded cycle focuses attention on a concrete challenge with visible criteria. Clear, difficult goals can improve effort and coordination under time pressure [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S], and sprint formats often support transfer because learners are integrating multiple skills into a whole task rather than practicing isolated fragments [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]. But the same compression can punish novices unless coaching and feedback are built into the cycle [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]. Speed by itself is not the pedagogy; disciplined scope and fast iteration are.
+Skills sprints are effective when a short, tightly bounded cycle focuses attention on a concrete challenge with visible criteria. Clear, difficult goals can improve effort and coordination under time pressure [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S], and sprint formats often support transfer because learners are integrating multiple skills into a whole task rather than practicing isolated fragments [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]. But the same compression can punish novices unless coaching and feedback are built into the cycle [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. Speed by itself is not the pedagogy; disciplined scope and fast iteration are.
 
 ### Context
 #### Requirements
@@ -61,15 +61,15 @@ Skills sprints are effective when a short, tightly bounded cycle focuses attenti
 - Reflection and debriefing are necessary if the sprint is supposed to produce learning, not just output.
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S] — sprint tasks can support transfer because they require integrated application under realistic constraints
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — short cycles work better when success criteria and checkpoints are explicit
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — rapid cycles still need responsive coaching so learners do not just repeat weak moves faster
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S] — sprint tasks can support transfer because they require integrated application under realistic constraints
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — short cycles work better when success criteria and checkpoints are explicit
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — rapid cycles still need responsive coaching so learners do not just repeat weak moves faster
 
 ## Related Principles
-- [Problem-based Learning](/principles/problem-based-learning.md) — sprints often organize work around a concrete challenge or problem.
-- [Experiential Learning](/principles/experiential-learning.md) — sprint cycles create action, feedback, and reflection opportunities.
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md) — clear milestones and visible progress are central to sprint structure.
-- [Peer Feedback/Peer Review](/principles/peer-feedbackpeer-review.md) — rapid critique helps teams improve within the sprint window.
+- [Problem-based Learning](problem-based-learning.md) — sprints often organize work around a concrete challenge or problem.
+- [Experiential Learning](experiential-learning.md) — sprint cycles create action, feedback, and reflection opportunities.
+- [Goal Setting & Monitoring](goal-setting-monitoring.md) — clear milestones and visible progress are central to sprint structure.
+- [Peer Feedback/Peer Review](peer-feedbackpeer-review.md) — rapid critique helps teams improve within the sprint window.
 
 ## Examples
 - **Design sprint**: Teams prototype a service, test assumptions, and present a revised concept within a week.

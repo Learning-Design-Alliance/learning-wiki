@@ -31,18 +31,18 @@ Learners conduct investigations to explore topics, gather evidence, and develop 
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
-- [Constructivism](/principles/constructivism.md)
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Constructivism](../principles/constructivism.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
-- [Literature Review](/elements/literature-review.md)
-- [Data Analysis](/elements/data-analysis.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
+- [Literature Review](literature-review.md)
+- [Data Analysis](data-analysis.md)
 
 ## Patterns That Use This Element
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

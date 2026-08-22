@@ -31,17 +31,17 @@ Instruction is provided at the point of need rather than upfront.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Constructivist Learning](/principles/constructivist-learning.md)
-- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
 
 ## Related Elements
-- [Scaffolding](/elements/scaffolding.md)
-- [Procedural Learning](/elements/procedural-learning.md)
-- [Cognitive Load Management](/elements/cognitive-load-management.md)
+- [Scaffolding](scaffolding.md)
+- [Procedural Learning](procedural-learning.md)
+- [Cognitive Load Management](cognitive-load-management.md)
 
 ## Patterns That Use This Element
-- [Just-in-Time Learning](/patterns/just-in-time-learning.md)
-- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
+- [Just-in-Time Learning](../patterns/just-in-time-learning.md)
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

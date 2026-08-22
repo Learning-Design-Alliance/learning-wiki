@@ -39,8 +39,8 @@ Provide explicit instruction on academic vocabulary that will be encountered dur
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Improved vocabulary test scores, increased use of academic language in projects, and better content comprehension.

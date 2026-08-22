@@ -39,11 +39,11 @@ A process-oriented approach to writing instruction that places the learner at th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Revision](/elements/revision.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Revision](../elements/revision.md)
 
 ## Assessment Evidence
 - Improvements in writing quality, student engagement, and collaboration. Assessment of student progress through writing samples, feedback, and self-reflection.

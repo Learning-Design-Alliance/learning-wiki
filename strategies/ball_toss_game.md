@@ -39,9 +39,9 @@ A simple game involving tossing a ball, often used with preschoolers to develop 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Gain attention](/elements/gain-attention.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Gain attention](../elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe counting accuracy and participation during the game. Assess motor skills development through throwing and coordination. Monitor engagement and enjoyment levels.

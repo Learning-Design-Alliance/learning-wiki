@@ -39,9 +39,9 @@ Feedback can be delivered in various formats, including written, verbal, or vide
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Technology Integration](/elements/technology-integration.md)
-- [Individual Response](/elements/individual-response.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Technology Integration](../elements/technology-integration.md)
+- [Individual Response](../elements/individual-response.md)
 
 ## Assessment Evidence
 - Assess learner engagement and preference for different feedback formats. Measure improvements in the quality of revised work based on different feedback formats. Evaluate the clarity and usefulness of feedback provided in various formats.

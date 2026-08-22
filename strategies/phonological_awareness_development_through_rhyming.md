@@ -39,8 +39,8 @@ Using rhyming as a literacy tool to develop phonological awareness. During a rea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Assess student's ability to identify rhyming words in texts, monitor their participation and engagement during read-aloud sessions, and observe their use of rhyming in writing and speaking.

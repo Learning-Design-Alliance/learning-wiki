@@ -39,9 +39,9 @@ This strategy involves repeating empowering statements to oneself during times o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Monitor participants' self-reported confidence levels; track frequency of affirmation repetition; observe changes in mindset and resilience

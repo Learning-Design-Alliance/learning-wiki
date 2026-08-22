@@ -39,9 +39,9 @@ Text-to-Text, Text-to-Self, Text-to-World is a strategy that helps learners conn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Depth and relevance of connections made by learners, participation in discussions, quality of written reflections.

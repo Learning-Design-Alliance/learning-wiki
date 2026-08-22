@@ -39,8 +39,8 @@ Badges are a digital way to acknowledge learner work. Learners can receive a bad
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track badge completion rates. Observe learner engagement with badge-earning activities. Gather feedback on the perceived value of badges.

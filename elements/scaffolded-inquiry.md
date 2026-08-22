@@ -31,18 +31,18 @@ Gradually shifts learners from guided exploration to independent inquiry.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Scaffolding](/principles/scaffolding.md)
-- [Constructivism](/principles/constructivism.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
+- [Constructivism](../principles/constructivism.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Guided Discovery](/elements/guided-discovery.md)
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
-- [Cognitive Apprenticeship](/elements/cognitive-apprenticeship.md)
+- [Guided Discovery](guided-discovery.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
+- [Cognitive Apprenticeship](cognitive-apprenticeship.md)
 
 ## Patterns That Use This Element
-- [POGIL](/patterns/pogil.md)
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
+- [POGIL](../patterns/pogil.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

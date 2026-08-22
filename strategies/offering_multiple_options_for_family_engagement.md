@@ -39,10 +39,10 @@ Providing a variety of options will improve overall participation, particularly 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Track family participation rates, evaluate the effectiveness of different engagement options, and monitor family-school partnerships.

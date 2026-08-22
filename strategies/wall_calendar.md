@@ -39,8 +39,8 @@ A large calendar for family appointments and events can help kids see that organ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to recall and anticipate events. Track the frequency of on-time arrival at appointments. Gather feedback from the learner on the usefulness of the calendar.

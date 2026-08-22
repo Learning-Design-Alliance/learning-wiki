@@ -39,8 +39,8 @@ Word sorts are a hands-on activity where learners categorize words based on shar
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately categorize words and explain their reasoning. Analyze learners' ability to identify patterns and make connections between words.

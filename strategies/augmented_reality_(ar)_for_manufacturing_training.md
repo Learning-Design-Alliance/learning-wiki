@@ -39,11 +39,11 @@ AR provides step-by-step instructions while a trainee is practicing, using AR he
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Application](/elements/application.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Task completion time, error reduction, productivity improvement, new hire ramp-up times.

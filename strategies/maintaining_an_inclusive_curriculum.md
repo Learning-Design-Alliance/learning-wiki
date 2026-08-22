@@ -39,9 +39,9 @@ A culturally responsive curriculum is both inclusive in that it ensures that all
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Case Study](/elements/case-study.md)
-- [Discussion Sections](/elements/discussion-sections.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Case Study](../elements/case-study.md)
+- [Discussion Sections](../elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Increased student engagement, improved classroom climate, and greater understanding of cultural diversity.

@@ -39,9 +39,9 @@ Focusing project-based learning (PBL) projects on issues of justice involves des
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Solution Development](/elements/solution-development.md)
-- [Application of Knowledge](/elements/application-of-knowledge.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
 
 ## Assessment Evidence
 - Increased student engagement, positive impact on the community, and evidence of students acting as change agents.

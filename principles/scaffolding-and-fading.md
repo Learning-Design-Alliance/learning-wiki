@@ -27,21 +27,21 @@ sources:
 Scaffolding provides temporary, contingent support to learners as they develop new skills or knowledge. Fading is the systematic and gradual removal of those supports as the learner gains competence, leading to independent performance and the transfer of responsibility.
 
 ## Implications
-Scaffolding and fading work because novices often need temporary support to perform productively, but that support only remains helpful when it responds to actual learner need [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+S]. The long-term aim is transfer of responsibility, so support has to be reduced as competence grows [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [+S]. If scaffolds remain too long they can create redundant load or dependency, and if they disappear too early they can trigger overload or failure. The design problem is calibration, not just support provision.
+Scaffolding and fading work because novices often need temporary support to perform productively, but that support only remains helpful when it responds to actual learner need [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]. The long-term aim is transfer of responsibility, so support has to be reduced as competence grows [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]. If scaffolds remain too long they can create redundant load or dependency, and if they disappear too early they can trigger overload or failure. The design problem is calibration, not just support provision.
 
 ### Context
 #### Requirements
-- **Contingency (Diagnosis)**: The instructor or system must constantly assess the learner's current performance to provide support only when and where it is needed [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+S].
-- **Transfer of Responsibility**: The goal is always the internalization of the skill, not just the completion of the task [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [+S].
-- **Variety of Scaffolds**: Supports can include [think-aloud modeling](/elements/think-aloud.md), [worked examples](/elements/worked-examples.md), [hints](/elements/hints.md), or [coaching](/elements/coaching.md).
+- **Contingency (Diagnosis)**: The instructor or system must constantly assess the learner's current performance to provide support only when and where it is needed [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S].
+- **Transfer of Responsibility**: The goal is always the internalization of the skill, not just the completion of the task [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S].
+- **Variety of Scaffolds**: Supports can include [think-aloud modeling](../elements/think-aloud.md), [worked examples](../elements/worked-examples.md), [hints](../elements/hints.md), or [coaching](../elements/coaching.md).
 
 #### Constraints
-- **Expertise Reversal**: Scaffolding that remains in place for an expert can cause redundant cognitive load and hinder performance [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md).
+- **Expertise Reversal**: Scaffolding that remains in place for an expert can cause redundant cognitive load and hinder performance [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md).
 - **Over-Scaffolding**: Support that is too high or not faded quickly enough can lead to learner dependence.
 - **Premature Fading**: Withdrawing support before the learner has developed the necessary internal schemas can lead to cognitive overload and failure.
 
 ### Target Learners
-- **Novice Learners**: Benefit from high-fidelity scaffolding during initial skill acquisition to manage intrinsic load [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+S].
+- **Novice Learners**: Benefit from high-fidelity scaffolding during initial skill acquisition to manage intrinsic load [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S].
 - **Learners in the "Zone of Proximal Development"**: Scaffolding is specifically designed to support learners as they tackle tasks just beyond their independent capability.
 
 ### Target Learning Objectives
@@ -52,17 +52,17 @@ Scaffolding and fading work because novices often need temporary support to perf
 ### Theory
 #### Supporting
 - **Zone of Proximal Development (Vygotsky)** — the distance between what a learner can do unassisted and what they can do with guidance.
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — scaffolding manages extraneous load for novices; fading prevents redundant load for experts [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — scaffolding manages extraneous load for novices; fading prevents redundant load for experts [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 - **Cognitive Apprenticeship** — utilizes modeling, coaching, and scaffolding/fading as core instructional methods.
 
 ### Claims
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+S] — support is most effective when it adapts to the learner’s current difficulty instead of staying fixed
-- [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [+S] — the purpose of scaffolding is growing independence, so support should be withdrawn deliberately as competence develops
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S] — support is most effective when it adapts to the learner’s current difficulty instead of staying fixed
+- [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S] — the purpose of scaffolding is growing independence, so support should be withdrawn deliberately as competence develops
 
 ## Related Principles
-- [Worked Examples](/principles/worked-examples.md) — often the first stage in a scaffolded sequence.
-- [Chunking](/principles/chunking.md) — breaking the task into units that can be individually scaffolded.
-- [Modeling](/principles/modeling.md) — a type of scaffold where expert performance is demonstrated.
+- [Worked Examples](worked-examples.md) — often the first stage in a scaffolded sequence.
+- [Chunking](chunking.md) — breaking the task into units that can be individually scaffolded.
+- [Modeling](modeling.md) — a type of scaffold where expert performance is demonstrated.
 
 ## Examples
 - **[Khan Academy Hints](https://www.khanacademy.org)** — Provides on-demand, progressive hints that scaffold a problem-solving task; the learner is encouraged to use fewer hints as they progress.

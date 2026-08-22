@@ -31,13 +31,13 @@ Progress tracking is the element in which learners or instructors monitor advanc
 - Improve monitoring, accountability, and awareness of next steps.
 
 ### Affordances
-- [Self-Regulation](/principles/self-regulation.md)
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
+- [Self-Regulation](../principles/self-regulation.md)
+- [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 
 ## Related Elements
-- [Task Management](/elements/task-management.md)
-- [Goal Setting](/elements/goal-setting.md)
-- [Self-Assessment](/elements/self-assessment.md)
+- [Task Management](task-management.md)
+- [Goal Setting](goal-setting.md)
+- [Self-Assessment](self-assessment.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

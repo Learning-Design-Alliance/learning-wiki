@@ -64,7 +64,7 @@ See [CLAUDE.md](CLAUDE.md) for the full schema, page templates, and agent operat
 
 ## Browse locally
 
-**Any markdown viewer:** every cross-link is a standard markdown link (`[Title](/folder/slug.md)`), so the wiki reads and navigates natively in GitHub, VS Code, or any markdown-aware editor — no special plugin required.
+**Any markdown viewer:** every cross-link is a standard markdown link (`[Title](folder/slug.md)`), so the wiki reads and navigates natively in GitHub, VS Code, or any markdown-aware editor — no special plugin required.
 
 **Docs site locally:**
 ```bash

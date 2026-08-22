@@ -31,17 +31,17 @@ Facilitated dialogue where learners explore topics without predetermined answers
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Constructivism](/principles/social-constructivism.md)
-- [Perspective-Taking](/principles/perspective-taking.md)
+- [Social Constructivism](../principles/social-constructivism.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
 
 ## Related Elements
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Seminar Format](/elements/seminar-format.md)
-- [Collaborative Inquiry](/elements/collaborative-inquiry.md)
+- [Peer Discussion](peer-discussion.md)
+- [Seminar Format](seminar-format.md)
+- [Collaborative Inquiry](collaborative-inquiry.md)
 
 ## Patterns That Use This Element
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -39,7 +39,7 @@ Model empathy and explain explicitly discuss different perspectives have explici
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Teachers can listen and observe learners' conversations to evaluate whether or not the goal was achieved.

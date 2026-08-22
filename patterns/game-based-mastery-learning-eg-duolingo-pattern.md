@@ -55,11 +55,11 @@ This pattern can be highly effective for incremental skill development, especial
 
 ### Claims
 #### Supporting
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [Worked examples can become redundant or counterproductive for advanced learners.](/claims/worked-examples-expertise-reversal.md) [~M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-expertise-reversal.md) [~M]
 
 ## Design
 
@@ -71,16 +71,16 @@ This pattern can be highly effective for incremental skill development, especial
 5. Increase difficulty or reduce support as competence grows.
 
 ### Elements Used
-- [Adaptive Difficulty](/elements/adaptive-difficulty.md)
-- [Adaptive Mastery Learning](/elements/adaptive-mastery-learning.md)
-- [Feedback](/elements/feedback.md)
-- [Practice](/elements/practice.md)
+- [Adaptive Difficulty](../elements/adaptive-difficulty.md)
+- [Adaptive Mastery Learning](../elements/adaptive-mastery-learning.md)
+- [Feedback](../elements/feedback.md)
+- [Practice](../elements/practice.md)
 
 ### Affordances
-- [Game-Based Learning](/principles/game-based-learning.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
-- [Competency-Based Learning & Assessment](/principles/competency-based-learning-assessment.md)
-- [Self-monitoring](/principles/self-monitoring.md)
+- [Game-Based Learning](../principles/game-based-learning.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-learning-assessment.md)
+- [Self-monitoring](../principles/self-monitoring.md)
 
 ### Personalization
 - Difficulty can adapt to learner performance.
@@ -88,8 +88,8 @@ This pattern can be highly effective for incremental skill development, especial
 - Feedback and hints can be faded as mastery grows.
 
 ## Related Patterns
-- [Cognitive Load Reduction (CLT Scaffolding Approach)](/patterns/cognitive-load-reduction-clt-scaffolding-approach.md)
-- [Traditional Lecture / Reading / Midterm / Final Assessment](/patterns/traditional-lecture-reading-midterm-final-assessment.md)
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](cognitive-load-reduction-clt-scaffolding-approach.md)
+- [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-reading-midterm-final-assessment.md)
 
 ## Examples
 - Duolingo-style language progression with retries, streaks, and review loops.

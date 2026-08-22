@@ -39,9 +39,9 @@ Parents demonstrate the value of reading by being reading role models themselves
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Application](/elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe children's attitudes towards reading, frequency of independent reading, and engagement during shared reading activities. Monitor whether children imitate parental reading habits.

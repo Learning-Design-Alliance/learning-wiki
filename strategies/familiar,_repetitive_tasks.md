@@ -39,8 +39,8 @@ Providing learners with familiar, quiet, and repetitive fine motor and visual ta
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation in these tasks. Collect feedback from learners on the effectiveness of different tasks. Track changes in learners' behavior, attention, and emotional regulation.

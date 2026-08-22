@@ -39,9 +39,9 @@ Using short video clips on SEL topics followed by discussions and/or related act
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe the level of learner engagement in discussions and activities. Assess the depth of connections learners make between video content and their own lives.

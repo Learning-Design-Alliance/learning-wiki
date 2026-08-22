@@ -39,8 +39,8 @@ Using creative activities to reinforce positive self-talk, such as making crafts
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Learners' use of the craft as a tool for self-support. Self-reported changes in mindset and behavior.

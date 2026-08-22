@@ -39,9 +39,9 @@ Instructors can use equity-focused, inclusive teaching strategies that put stude
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Pre-Class Video/Lecture](/elements/pre-class-videolecture.md)
-- [In-Class Activities](/elements/in-class-activities.md)
-- [Formative Assessment](/elements/formative-assessment.md)
+- [Pre-Class Video/Lecture](../elements/pre-class-videolecture.md)
+- [In-Class Activities](../elements/in-class-activities.md)
+- [Formative Assessment](../elements/formative-assessment.md)
 
 ## Assessment Evidence
 - Students show up more to class and instructors feel that they are better supporting learners in the class.

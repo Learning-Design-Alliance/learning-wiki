@@ -39,9 +39,9 @@ Facilitating discourse in online learning involves more than simply requiring st
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Peer Interaction](/elements/peer-interaction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Interaction](../elements/peer-interaction.md)
 
 ## Assessment Evidence
 - Increased student participation, improved quality of discussion postings, and positive feedback on the instructor's facilitation skills.

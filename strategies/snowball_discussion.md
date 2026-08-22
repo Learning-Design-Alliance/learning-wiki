@@ -39,10 +39,10 @@ Learners begin in pairs, responding to a discussion question only with a single 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Consensus Discussion](/elements/consensus-discussion.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Consensus Discussion](../elements/consensus-discussion.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the activity, review the quality of their responses to the discussion question, collect feedback from learners about their experience.

@@ -39,8 +39,8 @@ Technology is a powerful tool in math instruction for ELLs. Look for educational
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - By seeing students' improvement.

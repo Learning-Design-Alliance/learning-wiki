@@ -39,10 +39,10 @@ Using current events and fictional characters as tools to teach social awareness
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Case Study](../elements/case-study.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe learners’ participation in discussions. Review learners’ written or verbal reflections on current events or fictional characters. Evaluate learners’ understanding of social awareness and empathy.

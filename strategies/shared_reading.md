@@ -39,10 +39,10 @@ Shared reading is an interactive reading experience where an adult reads aloud w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess through observation of child's engagement and participation. Monitor comprehension through questioning and analysis of predictions. Evaluate improvement in fluency through oral reading assessments.

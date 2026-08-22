@@ -39,8 +39,8 @@ Applying learning to new contexts helps learners develop the ability to use what
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of key concepts through discussions, written assignments, or problem-solving tasks. Track improvements in problem-solving skills and application of knowledge.

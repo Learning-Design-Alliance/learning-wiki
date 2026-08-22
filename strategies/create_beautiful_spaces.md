@@ -39,8 +39,8 @@ Transforming schools into beautiful spaces by displaying high-quality student wo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Public Product](/elements/public-product.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Public Product](../elements/public-product.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Evaluate the impact of the school environment on student engagement and motivation. Assess student pride and ownership of their school building. Review student reflections on the impact of the school environment.

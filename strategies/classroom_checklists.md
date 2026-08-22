@@ -39,9 +39,9 @@ Classroom checklists are visual aids used to help students, teachers, and parent
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Demonstration](/elements/demonstration.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Evaluate the clarity and effectiveness of the checklist. Assess student compliance and completion rates. Track improvements in organization.

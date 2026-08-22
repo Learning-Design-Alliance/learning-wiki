@@ -39,9 +39,9 @@ Developing a critical lens involves analyzing the affordances and constraints of
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate the depth and specificity of learners' analyses of multimodal works. Assess the extent to which learners apply their critical lens in their own compositions.

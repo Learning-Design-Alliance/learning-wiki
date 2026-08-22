@@ -39,9 +39,9 @@ De-emphasizing correct answers and focusing on the reasoning process can build s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Cognitive Conflict](/elements/cognitive-conflict.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Evaluate the depth and clarity of students' explanations of their reasoning. Assess student engagement in discussions and their ability to identify errors in worked examples.

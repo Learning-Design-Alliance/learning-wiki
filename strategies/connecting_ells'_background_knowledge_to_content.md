@@ -39,14 +39,14 @@ This strategy involves making instruction more culturally relevant by connecting
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Lectures](/elements/lectures.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Discussion Sections](/elements/discussion-sections.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Lectures](../elements/lectures.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Discussion Sections](../elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Increased student engagement, improved comprehension, richer class discussions, deeper understanding of cultural perspectives

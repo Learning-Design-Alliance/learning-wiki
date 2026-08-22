@@ -39,8 +39,8 @@ Mobile communication apps (e.g., ClassDojo, Spotlight, Remind, and Seesaw) offer
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track frequency of communication, gather feedback from parents and teachers

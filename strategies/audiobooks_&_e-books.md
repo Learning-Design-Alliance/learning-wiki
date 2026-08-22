@@ -39,10 +39,10 @@ Audiobooks and e-books can be used to enhance literacy skills, comprehension, an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
-- [Demonstration](/elements/demonstration.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Monitor learners' reading progress, comprehension levels, and engagement in class discussions. Observe their ability to follow along with the text while listening and track their recommendations to peers. Collect data on learners' attitudes toward reading and their self-perception as readers.

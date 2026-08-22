@@ -24,11 +24,11 @@ Acting and role-playing are active learning strategies in which learners physica
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - All learner levels, particularly beneficial for K–12 and adult learners in professional development
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Strengthen comprehension, explore different perspectives, build empathy, develop social skills, enhance problem-solving abilities
 
 ### Affordances
@@ -39,12 +39,12 @@ Acting and role-playing are active learning strategies in which learners physica
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Case Study](/elements/case-study.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Role Reversal](/elements/role-reversal.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Case Study](../elements/case-study.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Role Reversal](../elements/role-reversal.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation. Assess the depth of understanding demonstrated in their portrayals. Evaluate their ability to apply learning to new scenarios. Measure improvement in social skills and empathy through role-playing activities.

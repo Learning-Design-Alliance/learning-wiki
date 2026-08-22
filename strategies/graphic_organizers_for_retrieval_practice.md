@@ -39,8 +39,8 @@ Students recall as much as they can about a topic (Brain Dump) and then sort the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Practice](/elements/practice.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Completeness of recalled information and quality of organization.

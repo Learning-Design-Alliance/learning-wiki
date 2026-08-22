@@ -60,11 +60,11 @@ The pattern is useful when the goal is to build conceptual understanding through
 
 ### Claims
 #### Supporting
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]
 #### Contradicting
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -76,16 +76,16 @@ The pattern is useful when the goal is to build conceptual understanding through
 5. Consolidate the discovered principle and connect it to later use.
 
 ### Elements Used
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Scaffolded Inquiry](/elements/scaffolded-inquiry.md)
-- [Reflection](/elements/reflection.md)
-- [Feedback](/elements/feedback.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Scaffolded Inquiry](../elements/scaffolded-inquiry.md)
+- [Reflection](../elements/reflection.md)
+- [Feedback](../elements/feedback.md)
 
 ### Affordances
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
-- [Guided Practice](/principles/guided-practice.md)
-- [Pre-reading Questioning](/principles/pre-reading-questioning.md)
-- [Purposeful Reflection](/principles/purposeful-reflection.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Pre-reading Questioning](../principles/pre-reading-questioning.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ### Personalization
 - Learners can work with different examples or contexts while pursuing the same conceptual target.
@@ -93,8 +93,8 @@ The pattern is useful when the goal is to build conceptual understanding through
 - Discovery products can be oral, visual, or written depending on learner needs.
 
 ## Related Patterns
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
-- [Process-Oriented Guided Inquiry Learning (POGIL)](/patterns/process-oriented-guided-inquiry-learning-pogil.md)
+- [Collaborative Inquiry](collaborative-inquiry.md)
+- [Process-Oriented Guided Inquiry Learning (POGIL)](process-oriented-guided-inquiry-learning-pogil.md)
 
 ## Examples
 - Science learners inferring relationships from data patterns.

@@ -39,9 +39,9 @@ This strategy involves taking actions that might change inequities revealed duri
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student participation in action-oriented activities, track changes in student attitudes and behaviors, and document the impact of student actions on the school or community

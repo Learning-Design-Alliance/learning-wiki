@@ -39,8 +39,8 @@ Model learning by reading aloud an article on a current event or topic of study,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct Instruction](/elements/direct-instruction.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Direct Instruction](../elements/direct-instruction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observations of student participation and engagement. Assessment of critical thinking and reflection skills.

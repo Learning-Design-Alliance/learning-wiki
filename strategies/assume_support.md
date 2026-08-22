@@ -39,7 +39,7 @@ Be aware that families’ attitudes and beliefs about education may vary, and it
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track improvements in family engagement, student well-being, and academic performance.

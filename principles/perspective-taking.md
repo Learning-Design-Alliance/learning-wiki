@@ -19,7 +19,7 @@ sources:
 Perspective-taking is the principle of intentionally examining a situation, text, problem, or decision from viewpoints other than one's own. It supports empathy, argument quality, and more flexible reasoning by forcing learners to compare assumptions, evidence, and consequences across positions.
 
 ## Implications
-Perspective-taking helps learners move beyond their default frame by requiring them to reason through how another person or stakeholder might interpret the same situation. That can improve empathy and argument quality because learners must compare assumptions, evidence, and likely consequences rather than treating their first reading as complete, and the explanatory work itself can deepen understanding [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]. For novices, this often works best when the perspective-taking task is structured with prompts, roles, or comparison routines rather than left open-ended [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. The design caution is that perspective-taking should deepen analysis, not perform shallow role-play or imply that all perspectives are equally well supported or ethically acceptable.
+Perspective-taking helps learners move beyond their default frame by requiring them to reason through how another person or stakeholder might interpret the same situation. That can improve empathy and argument quality because learners must compare assumptions, evidence, and likely consequences rather than treating their first reading as complete, and the explanatory work itself can deepen understanding [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]. For novices, this often works best when the perspective-taking task is structured with prompts, roles, or comparison routines rather than left open-ended [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. The design caution is that perspective-taking should deepen analysis, not perform shallow role-play or imply that all perspectives are equally well supported or ethically acceptable.
 
 ### Context
 #### Requirements
@@ -43,13 +43,13 @@ Perspective-taking helps learners move beyond their default frame by requiring t
 - Perspective-taking should deepen analysis, not flatten real differences in power, evidence, or consequence.
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S] — perspective-taking improves analysis when learners explain another viewpoint rather than merely naming it
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need structured roles or prompts before perspective-taking becomes analytically useful
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — perspective-taking improves analysis when learners explain another viewpoint rather than merely naming it
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need structured roles or prompts before perspective-taking becomes analytically useful
 
 ## Related Principles
-- [Perspective-Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md)
-- [Social Learning](/principles/social-learning.md)
-- [Building Empathy](/principles/building-empathy.md)
+- [Perspective-Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md)
+- [Social Learning](social-learning.md)
+- [Building Empathy](building-empathy.md)
 
 ## Examples
 - Debates that require learners to articulate the strongest case for an opposing position.

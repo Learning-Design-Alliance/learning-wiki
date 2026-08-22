@@ -39,7 +39,7 @@ Maximize the use of natural lighting in classrooms. Research has shown that arti
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student and teacher mood and energy levels. Monitor off-task behavior and academic achievement in classrooms with optimized lighting.

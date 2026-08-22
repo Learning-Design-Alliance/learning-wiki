@@ -39,11 +39,11 @@ This strategy leverages learners’ existing strengths and interests to make mat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
-- [Whole-task performance](/elements/whole-task-performance.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
 
 ## Assessment Evidence
 - Observe increases in learner engagement and participation. Assess improvements in confidence and attitudes toward math.

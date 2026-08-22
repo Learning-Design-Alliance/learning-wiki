@@ -39,9 +39,9 @@ Teachers can actively demonstrate genuine care for students' cultural, emotional
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Increased student participation in cultural sharing activities, improved classroom climate, and greater cultural understanding among students.

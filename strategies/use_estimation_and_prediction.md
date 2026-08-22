@@ -39,9 +39,9 @@ Students use estimation and prediction skills. Ask them how they might do on an 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Compare student estimates with their actual performance to assess the accuracy of their predictions. Track their ability to improve their estimation skills over time.

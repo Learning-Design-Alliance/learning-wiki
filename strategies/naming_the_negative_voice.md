@@ -39,8 +39,8 @@ Students give their negative inner voice a name to externalize it, allowing them
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe students' engagement and enthusiasm during the naming activity. Assess students' ability to articulate the difference between themselves and their negative voice. Review students' reflections on how naming the voice has impacted their self-perception.

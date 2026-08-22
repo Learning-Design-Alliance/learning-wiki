@@ -39,9 +39,9 @@ This strategy focuses on intentionally minimizing exposure to negative external 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Coaching](/elements/coaching.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Coaching](../elements/coaching.md)
 
 ## Assessment Evidence
 - Track changes in self-reported mood and optimism using questionnaires or journals. Observe improvements in social interactions, relationship quality, and sense of belonging. Analyze the frequency and type of social and environmental influences experienced.

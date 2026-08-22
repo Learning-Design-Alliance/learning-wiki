@@ -39,9 +39,9 @@ Learning logs are short, reflective writing activities completed at the beginnin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Review the content and depth of student responses to assess their understanding and ability to make connections. Track improvements in discussion quality following the implementation of learning logs.

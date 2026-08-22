@@ -17,12 +17,12 @@ Explicit teaching is the short-form canonical pattern for clearly stating goals,
 ## Design
 
 ### Elements Used
-- [Explicit Teaching](/elements/explicit-teaching.md)
-- [Modeling](/elements/modeling.md)
-- [Guided Practice](/elements/guided-practice.md)
+- [Explicit Teaching](../elements/explicit-teaching.md)
+- [Modeling](../elements/modeling.md)
+- [Guided Practice](../elements/guided-practice.md)
 
 ## Related Patterns
-- [Direct Instruction](/patterns/direct-instruction.md)
+- [Direct Instruction](direct-instruction.md)
 
 ## Key Sources
 - Rosenshine, B. (2012). Principles of instruction. *American Educator, 36*(1), 12-19.

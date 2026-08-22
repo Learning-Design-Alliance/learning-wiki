@@ -59,11 +59,11 @@ The pattern can work reasonably well for broad content coverage and for learners
 
 ### Claims
 #### Supporting
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S]
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 #### Contradicting
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Design
 
@@ -74,16 +74,16 @@ The pattern can work reasonably well for broad content coverage and for learners
 4. Evaluate learning primarily through a midterm and final assessment.
 
 ### Elements Used
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Assessment](/elements/assessment.md)
-- [Optional Quizzes or Discussion Sections](/elements/optional-quizzes-or-discussion-sections.md)
-- [Feedback](/elements/feedback.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Assessment](../elements/assessment.md)
+- [Optional Quizzes or Discussion Sections](../elements/optional-quizzes-or-discussion-sections.md)
+- [Feedback](../elements/feedback.md)
 
 ### Affordances
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
-- [Guided Practice](/principles/guided-practice.md)
-- [Multiple Methods of Assessment](/principles/multiple-methods-of-assessment.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
 
 ### Personalization
 - Learners often control pace of reading and independent review outside class.
@@ -91,8 +91,8 @@ The pattern can work reasonably well for broad content coverage and for learners
 - Instructors can strengthen the model by adding low-stakes checks and application tasks without abandoning the overall structure.
 
 ## Related Patterns
-- [Flipped Classroom](/patterns/flipped-classroom.md)
-- [Gagne's 9 Events of Instruction](/patterns/gagnés-9-events-of-instruction.md)
+- [Flipped Classroom](flipped-classroom.md)
+- [Gagne's 9 Events of Instruction](gagnés-9-events-of-instruction.md)
 
 ## Examples
 - Large introductory survey courses organized around lectures, textbook reading, and two major exams.

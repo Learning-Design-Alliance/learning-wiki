@@ -39,9 +39,9 @@ Visual timers help teach the concept of time to children with special needs. It 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to transition between activities. Track compliance with time limits. Collect feedback on the effectiveness of the timer.

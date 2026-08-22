@@ -26,16 +26,16 @@ Literature review is the element in which learners gather, evaluate, and synthes
 - Build research judgment, synthesis, and understanding of existing knowledge.
 
 ### Affordances
-- [Evaluating Sources](/principles/evaluating-sources.md)
-- [Epistemic Cognition](/principles/epistemic-cognition.md)
+- [Evaluating Sources](../principles/evaluating-sources.md)
+- [Epistemic Cognition](../principles/epistemic-cognition.md)
 
 ## Related Elements
-- [Research](/elements/research.md)
-- [Information Literacy](/elements/information-literacy.md)
-- [Resource Evaluation](/elements/resource-evaluation.md)
+- [Research](research.md)
+- [Information Literacy](information-literacy.md)
+- [Resource Evaluation](resource-evaluation.md)
 
 ## Patterns That Use This Element
-- [Research-Based Learning](/patterns/research-based-learning.md)
+- [Research-Based Learning](../patterns/research-based-learning.md)
 
 ## Examples
 - Learners compare sources to identify major positions, gaps, or recurring findings.

@@ -39,8 +39,8 @@ Using a five-point Likert scale to quantitatively measure student interest and u
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess Performance](/elements/assess-performance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Data collected from Likert scales and fill-in responses. Analysis of trends and patterns in student feedback.

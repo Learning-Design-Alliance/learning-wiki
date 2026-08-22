@@ -39,9 +39,9 @@ Have explicit conversations about emotions and social issues, including issues o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Lectures](/elements/lectures.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Lectures](../elements/lectures.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Track the depth and quality of learner discussions. Monitor the ability to understand diverse perspectives. Assess the awareness of social issues.

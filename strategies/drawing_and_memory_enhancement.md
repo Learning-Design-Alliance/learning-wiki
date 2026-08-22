@@ -39,9 +39,9 @@ Drawing is a powerful technique to enhance memory and recall by engaging learner
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Measure recall of information through quizzes or tests. Compare recall rates between learners who use drawing and those who use other methods. Observe the depth and complexity of learners' drawings to assess understanding.

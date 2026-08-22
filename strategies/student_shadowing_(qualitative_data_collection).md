@@ -39,8 +39,8 @@ A school leader spends time shadowing a student to gather qualitative data about
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Identification of areas needing improvement in instructional practices and school climate. Changes in school policies and practices based on shadowing data.

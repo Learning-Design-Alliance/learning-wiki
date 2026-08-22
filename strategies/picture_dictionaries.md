@@ -39,9 +39,9 @@ Picture dictionaries are reference tools that use illustrations to define words 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Assess vocabulary acquisition through tests, quizzes, and writing samples. Observe engagement and participation during reading activities. Gather feedback from learners on the usefulness of picture dictionaries.

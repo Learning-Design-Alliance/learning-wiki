@@ -39,8 +39,8 @@ Monitoring student learning through observations and conversations helps determi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Collect anecdotal notes on student understanding and problem-solving processes. Analyze responses to key questions to assess conceptual understanding. Track changes in student performance based on observational data.

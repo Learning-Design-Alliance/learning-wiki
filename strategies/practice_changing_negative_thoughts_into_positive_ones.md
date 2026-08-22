@@ -39,8 +39,8 @@ Challenging learners to reframe negative thoughts into positive affirmations. Th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Learners' ability to reframe negative thoughts in various situations. Self-reported changes in mindset and behavior.

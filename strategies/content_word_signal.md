@@ -39,8 +39,8 @@ Using a content "word of the week" to signal that it's time for silence involves
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe how quickly students respond to the word signal. Monitor classroom noise levels before and after the signal.

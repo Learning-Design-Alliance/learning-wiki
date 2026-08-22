@@ -39,10 +39,10 @@ This strategy involves the ability of readers to know when they understand what 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Solution Development](/elements/solution-development.md)
-- [Question Formulation](/elements/question-formulation.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
+- [Question Formulation](../elements/question-formulation.md)
 
 ## Assessment Evidence
 - Assess learners' ability to monitor comprehension through self-assessments, think-aloud protocols, and the use of fix-up strategies. Look for increased awareness of comprehension levels and the ability to address difficulties.

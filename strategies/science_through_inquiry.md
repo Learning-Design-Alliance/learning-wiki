@@ -39,10 +39,10 @@ Engage learners in hands-on, exploratory science activities that encourage quest
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Question Formulation](/elements/question-formulation.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Evidence-Based Reasoning](/elements/evidence-based-reasoning.md)
-- [Model Revision](/elements/model-revision.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Evidence-Based Reasoning](../elements/evidence-based-reasoning.md)
+- [Model Revision](../elements/model-revision.md)
 
 ## Assessment Evidence
 - Evaluate learner scientific inquiry skills and critical thinking. Assess their ability to design and conduct experiments. Observe their collaboration and communication skills. Assess the quality of their proposed solutions.

@@ -39,10 +39,10 @@ Videos are dynamic resources for supporting curricula, engaging students through
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track student engagement and participation during and after video viewing. Assess comprehension through embedded questions, quizzes, and discussions. Analyze improvements in reading and literacy skills through pre- and post-video assessments.

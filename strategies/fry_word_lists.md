@@ -39,8 +39,8 @@ The Fry word list contains 1,000 high-frequency words divided into ten levels, f
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess fluency in reading Fry words in context. Track progress in sight word recognition over time. Observe student engagement and confidence in reading tasks.

@@ -39,10 +39,10 @@ Book clubs are small groups of learners who choose, read, and discuss a shared t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Monitor participation and engagement in discussions. Review written reflections and project submissions for evidence of critical thinking and comprehension. Assess group dynamics and collaboration through observation.

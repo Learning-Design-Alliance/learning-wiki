@@ -39,7 +39,7 @@ Before launching a project, teachers should analyze it through the lens of Engli
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Reduced language-related barriers, increased participation of ELLs, and improved language skills.

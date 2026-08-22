@@ -39,9 +39,9 @@ Educators should avoid assumptions about learners' digital literacy and provide 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Administer pre- and post-tests to measure digital literacy. Observe learners' ability to use digital tools in class.

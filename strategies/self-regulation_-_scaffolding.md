@@ -39,7 +39,7 @@ Scaffolding can help learners learn how to manage their responses in an emotiona
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Teachers can listen and observe students' emotions to evaluate whether or not the goal was achieved.

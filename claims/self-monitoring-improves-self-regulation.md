@@ -25,7 +25,7 @@ When learners are prompted to check their current performance against a goal or 
 ## Subclaims
 `q3 i2` Self-monitoring is a core mechanism in self-regulated learning models and predicts more adaptive strategy use. [→ Zimmerman 2002](#zimmerman-2002)
 
-`q3 i2` Feedback becomes instructionally useful when learners compare current performance with a target and make revisions. [→ Butler & Winne 1995](#butler--winne-1995)
+`q3 i2` Feedback becomes instructionally useful when learners compare current performance with a target and make revisions. [→ Butler & Winne 1995](#butler-winne-1995)
 
 ## Evidence
 
@@ -52,6 +52,6 @@ Butler and Winne argue that feedback influences learning through the learner's i
 Self-monitoring is not mere self-report. It is strongest when learners have explicit criteria, visible progress indicators, and a realistic chance to act on what they notice.
 
 ## Related Claims
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md)
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md)
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md)
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](specific-difficult-goals-lead-to-higher-performance.md)
+- [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md)
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)

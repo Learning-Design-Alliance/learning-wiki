@@ -39,7 +39,7 @@ Cloud Text-to-Speech allows developers to create natural-sounding, synthetic hum
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Evaluate the quality and naturalness of the synthesized speech. Measure the effectiveness of the API in different applications. Collect user feedback on the accessibility and usability of the resulting audio content.

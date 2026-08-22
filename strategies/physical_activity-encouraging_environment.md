@@ -39,8 +39,8 @@ Design school environments that encourage physical activity by including playgro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student activity levels, monitor use of facilities, gather feedback on environment

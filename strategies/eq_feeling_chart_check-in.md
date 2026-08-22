@@ -39,9 +39,9 @@ Students use a provided EQ Feeling Chart to identify and communicate their curre
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student participation in paired discussions and whole-class sharing. Assess the depth and specificity of students' reflections on their emotions. Gather feedback from students on the usefulness of the EQ Feeling Chart.

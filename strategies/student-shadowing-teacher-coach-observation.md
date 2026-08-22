@@ -24,11 +24,11 @@ A teacher or coach shadows a student to gain insights into their experiences and
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Teachers and coaches seeking to improve their understanding of student needs and adjust their instructional practices
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Understand student experiences, improve teaching practices, increase student engagement
 
 ### Affordances
@@ -39,8 +39,8 @@ A teacher or coach shadows a student to gain insights into their experiences and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Changes in teaching practices based on shadowing observations, increased student engagement and participation, and improved student outcomes.

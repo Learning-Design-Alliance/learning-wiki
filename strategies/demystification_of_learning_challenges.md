@@ -39,9 +39,9 @@ Demystification involves explaining to learners how memory and learning work, es
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learners' attitudes and behaviors related to learning, assess their self-awareness and understanding of their learning challenges, evaluate their use of effective strategies

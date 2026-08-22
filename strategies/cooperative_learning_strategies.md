@@ -39,9 +39,9 @@ Using structured group activities to enhance learning and social interaction. Th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Application](../elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation and collaboration. Assess understanding through group presentations and discussions. Evaluate individual contributions to group tasks.

@@ -39,10 +39,10 @@ Cognitive Load Theory is the short-form canonical target for CLT-informed instru
 
 ### Theory
 #### Supporting
-- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
 
 ## Related Patterns
-- [Cognitive Load Reduction (CLT Scaffolding Approach)](/patterns/cognitive-load-reduction-clt-scaffolding-approach.md)
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](cognitive-load-reduction-clt-scaffolding-approach.md)
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)

@@ -39,10 +39,10 @@ This strategy involves educators identifying students with strengths or challeng
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Modeling](/elements/modeling.md)
-- [Coaching](/elements/coaching.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Modeling](../elements/modeling.md)
+- [Coaching](../elements/coaching.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Student reflection, observation of behavior, educator reflection, work examples, assessment rubrics

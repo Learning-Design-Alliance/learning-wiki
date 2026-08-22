@@ -27,7 +27,7 @@ sources:
 Metaphors and analogies help learners understand unfamiliar ideas by mapping them onto more familiar experiences, systems, or images. Their instructional power lies in comparative structure: they can make abstract concepts more concrete, reveal patterns, and help learners reason about relationships they might otherwise miss. Used carefully, they support explanation, transfer, and conceptual flexibility. Used carelessly, they can oversimplify or mislead.
 
 ## Implications
-Metaphors and analogies work because they let learners reason from a known structure toward an unfamiliar one. A good analogy can reduce the effort of building a concept from scratch and make abstract relationships easier to grasp [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S], especially when learners explain the mapping in their own words [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design caution is that analogies are only partial bridges: unless instructors explicitly mark where the comparison fits and where it breaks, learners may overextend the metaphor and build durable misconceptions.
+Metaphors and analogies work because they let learners reason from a known structure toward an unfamiliar one. A good analogy can reduce the effort of building a concept from scratch and make abstract relationships easier to grasp [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S], especially when learners explain the mapping in their own words [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The design caution is that analogies are only partial bridges: unless instructors explicitly mark where the comparison fits and where it breaks, learners may overextend the metaphor and build durable misconceptions.
 
 ### Context
 #### Requirements
@@ -63,14 +63,14 @@ Metaphors and analogies work because they let learners reason from a known struc
 - Learners may need help separating productive metaphor from literal truth, especially in science, mathematics, and policy topics.
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — analogies teach more when learners explain how the source and target actually map
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S] — a strong analogy can reduce interpretive burden by giving learners a familiar structure to think with
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — analogies teach more when learners explain how the source and target actually map
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — a strong analogy can reduce interpretive burden by giving learners a familiar structure to think with
 
 ## Related Principles
-- [Creating Visual Representations](/principles/creating-visual-representations.md) — analogies often become more useful when represented visually.
-- [Graphic Organizers](/principles/graphic-organizers.md) — organizers can help learners map which parts of an analogy align and where it breaks.
-- [Explaining Their Thinking](/principles/explaining-their-thinking.md) — asking learners to explain an analogy surfaces whether the mapping is actually understood.
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md) — learners can generate and test analogies while exploring new concepts.
+- [Creating Visual Representations](creating-visual-representations.md) — analogies often become more useful when represented visually.
+- [Graphic Organizers](graphic-organizers.md) — organizers can help learners map which parts of an analogy align and where it breaks.
+- [Explaining Their Thinking](explaining-their-thinking.md) — asking learners to explain an analogy surfaces whether the mapping is actually understood.
+- [Inquiry-based Learning](inquiry-based-learning.md) — learners can generate and test analogies while exploring new concepts.
 
 ## Examples
 - **Math analogies**: A teacher uses balance-scale imagery to explain equation solving and then asks learners to test where the analogy holds.

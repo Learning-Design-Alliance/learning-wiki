@@ -47,14 +47,14 @@ Formative Assessment is a pattern in which instruction repeatedly cycles through
 
 ### Theory
 #### Supporting
-- [Self-Regulated Learning](/theories/self-regulated-learning.md)
-- [Information Processing Theory](/theories/information-processing-theory.md)
+- [Self-Regulated Learning](../theories/self-regulated-learning.md)
+- [Information Processing Theory](../theories/information-processing-theory.md)
 #### Contradicting / Qualifying
 - Frequent checks do not help if they interrupt meaningful task flow without improving the next step.
 
 ### Claims
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 
 ## Design
 
@@ -65,17 +65,17 @@ Formative Assessment is a pattern in which instruction repeatedly cycles through
 4. Let learners revise or retry.
 
 ### Elements Used
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Feedback](/elements/feedback.md)
-- [Self-Assessment](/elements/self-assessment.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Feedback](../elements/feedback.md)
+- [Self-Assessment](../elements/self-assessment.md)
 
 ### Affordances
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Assessment for Learning](/principles/assessment-for-learning.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Assessment for Learning](../principles/assessment-for-learning.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
 
 ## Related Patterns
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Mastery Learning](mastery-learning.md)
 
 ## Examples
 - Exit-ticket-driven reteaching decisions.

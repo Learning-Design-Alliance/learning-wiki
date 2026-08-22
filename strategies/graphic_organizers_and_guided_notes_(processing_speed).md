@@ -39,8 +39,8 @@ Providing students with graphic organizers or guided notes during lectures to he
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Review student's completed graphic organizers and guided notes for accuracy and completeness. Assess their ability to recall and apply information from the lecture.

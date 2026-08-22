@@ -31,17 +31,17 @@ Learners apply concepts to real-world problems or case studies.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Active Learning](/principles/active-learning.md)
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
+- [Active Learning](../principles/active-learning.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [Hands-on Learning](/elements/hands-on-learning.md)
-- [Problem-Based Learning](/elements/problem-based-learning.md)
-- [Simulations](/elements/simulations.md)
+- [Hands-on Learning](hands-on-learning.md)
+- [Problem-Based Learning](problem-based-learning.md)
+- [Simulations](simulations.md)
 
 ## Patterns That Use This Element
-- [Merrill’s First Principles](/patterns/merrills-first-principles.md)
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
+- [Merrill’s First Principles](../patterns/merrills-first-principles.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

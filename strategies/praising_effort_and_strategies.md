@@ -39,7 +39,7 @@ Praising effort and strategies focuses on acknowledging the process and hard wor
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learners' responses to challenges and setbacks. Track changes in learners' attitudes toward effort. Measure the effectiveness of different praise strategies.

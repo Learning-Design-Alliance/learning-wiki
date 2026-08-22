@@ -39,7 +39,7 @@ Designating a quiet space in the learning environment where learners can take br
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' use of the quiet space and their ability to self-regulate. Collect feedback from learners on the effectiveness of the quiet space in helping them calm down and refocus. Track the frequency and duration of learners' visits to the quiet space.

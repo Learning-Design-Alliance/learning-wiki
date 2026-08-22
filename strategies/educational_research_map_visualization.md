@@ -39,12 +39,12 @@ This strategy involves using a research map visualization tool to explore educat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Advance Organizers](/elements/advance-organizers.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Inquiry-Based Exploration](/elements/inquiry-based-exploration.md)
-- [Just-in-Time Information](/elements/just-in-time-information.md)
-- [Resource Evaluation](/elements/resource-evaluation.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Inquiry-Based Exploration](../elements/inquiry-based-exploration.md)
+- [Just-in-Time Information](../elements/just-in-time-information.md)
+- [Resource Evaluation](../elements/resource-evaluation.md)
 
 ## Assessment Evidence
 - Track usage of the visualization tool, survey users about the usefulness of the resources, and monitor the extent to which educators incorporate research findings into their practice.

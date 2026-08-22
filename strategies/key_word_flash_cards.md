@@ -39,8 +39,8 @@ Create flash cards for the four mathematical operations (addition, subtraction, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' use of flash cards to identify key words and operations. Assess students' accuracy in solving word problems using the flash cards as a guide.

@@ -39,9 +39,9 @@ Make a point to check sites that do not agree with your politics. You may discov
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Submission](/elements/submission.md)
-- [Review](/elements/review.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Submission](../elements/submission.md)
+- [Review](../elements/review.md)
 
 ## Assessment Evidence
 - Observe learners' ability to identify and engage with diverse perspectives in news sources.

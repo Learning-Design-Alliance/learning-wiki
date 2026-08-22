@@ -39,8 +39,8 @@ A short video relating to the topic of the reading is shown. Discussion question
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Pre-Class Video/Lecture](/elements/pre-class-videolecture.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Pre-Class Video/Lecture](../elements/pre-class-videolecture.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the engagement and quality of discussions. Collect feedback on how well the video prepared learners for the reading.

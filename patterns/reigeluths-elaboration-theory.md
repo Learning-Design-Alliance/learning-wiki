@@ -60,11 +60,11 @@ It is especially useful for curriculum-scale design where content complexity is 
 
 ### Claims
 #### Supporting
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S]
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]
 #### Contradicting
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -76,16 +76,16 @@ It is especially useful for curriculum-scale design where content complexity is 
 5. Revisit and apply the expanded structure across increasingly complex tasks.
 
 ### Elements Used
-- [Activation](/elements/activation.md)
-- [Analogies](/elements/analogies.md)
-- [Practice](/elements/practice.md)
-- [Reflection](/elements/reflection.md)
+- [Activation](../elements/activation.md)
+- [Analogies](../elements/analogies.md)
+- [Practice](../elements/practice.md)
+- [Reflection](../elements/reflection.md)
 
 ### Affordances
-- [Metaphors & Analogies](/principles/metaphors-analogies.md)
-- [Creating Visual Representations](/principles/creating-visual-representations.md)
-- [Guided Practice](/principles/guided-practice.md)
-- [Worked Examples](/principles/worked-examples.md)
+- [Metaphors & Analogies](../principles/metaphors-analogies.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Worked Examples](../principles/worked-examples.md)
 
 ### Personalization
 - Learners can move more slowly or quickly through later elaborations once the big picture is established.
@@ -93,8 +93,8 @@ It is especially useful for curriculum-scale design where content complexity is 
 - Analogies and examples can be chosen to fit learner background and domain familiarity.
 
 ## Related Patterns
-- [Four-Component Instructional Design](/patterns/4cid-four-component-instructional-design.md)
-- [Merrill's First Principles of Instruction](/patterns/merrills-first-principles-of-instruction.md)
+- [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
+- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
 
 ## Examples
 - Anatomy curricula that begin with major systems before elaborating organs, tissues, and specialized cases.

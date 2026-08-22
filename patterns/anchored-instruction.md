@@ -60,11 +60,11 @@ The pattern is useful when learners need to reason through messy situations rath
 
 ### Claims
 #### Supporting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 #### Contradicting
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -76,16 +76,16 @@ The pattern is useful when learners need to reason through messy situations rath
 5. Debrief the reasoning and connect it back to the target concepts.
 
 ### Elements Used
-- [Anchored Instruction](/elements/anchored-instruction.md)
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Peer Interaction](/elements/peer-interaction.md)
+- [Anchored Instruction](../elements/anchored-instruction.md)
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Peer Interaction](../elements/peer-interaction.md)
 
 ### Affordances
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
-- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md)
-- [Creating Visual Representations](/principles/creating-visual-representations.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)
 
 ### Personalization
 - Anchors can be chosen or adapted to different learner interests and backgrounds.
@@ -93,8 +93,8 @@ The pattern is useful when learners need to reason through messy situations rath
 - Teams can take different roles or analyze different facets of the same anchor.
 
 ## Related Patterns
-- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
-- [Goal-Based Scenarios (GBS)](/patterns/goal-based-scenarios-gbs.md)
+- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
+- [Goal-Based Scenarios (GBS)](goal-based-scenarios-gbs.md)
 
 ## Examples
 - Jasper-style video math problems that embed quantitative reasoning in a narrative.

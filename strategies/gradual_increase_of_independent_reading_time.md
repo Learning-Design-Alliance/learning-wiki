@@ -39,9 +39,9 @@ Start with short independent reading sessions and gradually increase the amount 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Monitor students' ability to focus during reading sessions. Track the amount of time students can read independently. Collect feedback from students on their reading experiences.

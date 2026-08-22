@@ -31,17 +31,17 @@ Learners investigate a topic through questioning and data gathering.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
-- [Constructivism](/principles/constructivism.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Related Elements
-- [Inquiry-Based Exploration](/elements/inquiry-based-exploration.md)
-- [Knowledge-Building](/elements/knowledge-building.md)
-- [Research](/elements/research.md)
+- [Inquiry-Based Exploration](inquiry-based-exploration.md)
+- [Knowledge-Building](knowledge-building.md)
+- [Research](research.md)
 
 ## Patterns That Use This Element
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

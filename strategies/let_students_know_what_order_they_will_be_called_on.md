@@ -39,8 +39,8 @@ This strategy allows students who are prone to challenges with inhibition to pla
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track student participation and self-regulation. Monitor frequency of impulsive responses. Gather student feedback on the effectiveness of the strategy.

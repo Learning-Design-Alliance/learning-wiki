@@ -39,7 +39,7 @@ Identify specific student strengths and/or challenges related to attention then 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track on-task behavior, monitor student engagement and comprehension, and gather student feedback on strategies.

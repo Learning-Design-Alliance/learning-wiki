@@ -39,9 +39,9 @@ Digital publishing involves using online platforms and tools to share student wr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Increased student participation in writing activities, improved quality of student work, positive feedback from online audiences, and evidence of digital citizenship skills.

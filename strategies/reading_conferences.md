@@ -39,9 +39,9 @@ Reading conferences involve one-on-one interactions between an instructor and a 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe improvements in reading comprehension skills, track progress in genre knowledge, monitor the application of comprehension strategies, and analyze learner responses during conferences to gauge understanding and engagement.

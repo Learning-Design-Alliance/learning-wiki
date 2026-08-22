@@ -40,6 +40,6 @@ This synthesis reviews a set of cognitive load studies showing that instructiona
 The claim does not mean experts need no support. It means support should change form: less completion of routine steps, more emphasis on challenge, transfer, and selective feedback.
 
 ## Related Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md)
-- [Worked examples can become redundant or counterproductive for advanced learners.](/claims/worked-examples-expertise-reversal.md)
-- [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md)
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md)
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md)
+- [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)

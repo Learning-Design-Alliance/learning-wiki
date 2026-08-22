@@ -34,7 +34,7 @@ Pollock, E., Chandler, P., & Sweller, J. (2002). Assimilating complex informatio
 The researchers found that for complex tasks with high element interactivity, novices performed better when initially presented with isolated parts of the task before being required to perform the whole integrated task.
 
 ## Discussion
-This finding qualifies the whole-task approach, suggesting that [part-task practice](/elements/part-task-practice.md) is a necessary precursor or scaffold when the "whole" is too complex for the learner's current expertise.
+This finding qualifies the whole-task approach, suggesting that [part-task practice](../elements/part-task-practice.md) is a necessary precursor or scaffold when the "whole" is too complex for the learner's current expertise.
 
 ## Related Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md)
+- [Whole-task performance improves transfer of complex skills to real-world settings.](whole-task-performance-improves-transfer.md)

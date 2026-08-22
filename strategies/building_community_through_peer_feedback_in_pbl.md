@@ -39,11 +39,11 @@ Building community through peer feedback involves giving students opportunities 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Submission](/elements/submission.md)
-- [Review](/elements/review.md)
-- [Feedback](/elements/feedback.md)
-- [Revision](/elements/revision.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Submission](../elements/submission.md)
+- [Review](../elements/review.md)
+- [Feedback](../elements/feedback.md)
+- [Revision](../elements/revision.md)
 
 ## Assessment Evidence
 - Increased student engagement, improved quality of work, and a stronger sense of community in the classroom.

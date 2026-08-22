@@ -31,17 +31,17 @@ A simplified version of the full concept is introduced first before elaborating 
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Holistic Learning](/principles/holistic-learning.md)
-- [Scaffolding](/principles/scaffolding.md)
-- [Cognitive Load Management](/principles/cognitive-load-management.md)
+- [Holistic Learning](../principles/holistic-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
+- [Cognitive Load Management](../principles/cognitive-load-management.md)
 
 ## Related Elements
-- [Scaffolding](/elements/scaffolding.md)
-- [Conceptual Overviews](/elements/conceptual-overviews.md)
-- [Advance Organizers](/elements/advance-organizers.md)
+- [Scaffolding](scaffolding.md)
+- [Conceptual Overviews](conceptual-overviews.md)
+- [Advance Organizers](advance-organizers.md)
 
 ## Patterns That Use This Element
-- [Elaboration Theory](/patterns/elaboration-theory.md)
+- [Elaboration Theory](../patterns/elaboration-theory.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

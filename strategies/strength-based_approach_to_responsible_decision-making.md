@@ -39,10 +39,10 @@ This approach involves identifying and leveraging a student’s strengths to add
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student progress in decision-making, analyze their reflections, and assess their ability to apply strengths to overcome challenges.

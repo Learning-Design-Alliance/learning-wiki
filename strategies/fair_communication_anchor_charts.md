@@ -39,9 +39,9 @@ Displaying anchor charts outlining fair communication protocols for class discus
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the learners' communication behaviors during class discussions and activities. Gather feedback from the learners about their experiences and perceptions of the classroom environment. Assess the extent to which the learners adhere to the communication protocols and demonstrate respectful and inclusive behaviors.

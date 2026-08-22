@@ -39,8 +39,8 @@ To understand the writing process, teachers have to write also. Start by writing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Modeling](/elements/modeling.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Modeling](../elements/modeling.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe teacher attitudes and behaviors towards student writing. Review teacher writing to assess improvement.

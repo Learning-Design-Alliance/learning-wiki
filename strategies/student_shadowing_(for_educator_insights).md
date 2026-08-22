@@ -39,8 +39,8 @@ Educators spend the majority of a school day shadowing a student to gain real-ti
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Changes in instructional practices, addressing of biases, improved student engagement and outcomes

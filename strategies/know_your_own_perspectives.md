@@ -39,7 +39,7 @@ Reflect deeply on your own attitudes and beliefs and how they may impact your op
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track changes in communication patterns, increased awareness of personal biases, improvements in culturally responsive teaching practices

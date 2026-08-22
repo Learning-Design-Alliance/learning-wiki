@@ -39,10 +39,10 @@ Using project management tools such as Project Pals, Headrush, and Student Corne
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Task Management](/elements/task-management.md)
-- [Progress Tracking](/elements/progress-tracking.md)
-- [Communication Channels](/elements/communication-channels.md)
-- [Resource Hubs](/elements/resource-hubs.md)
+- [Task Management](../elements/task-management.md)
+- [Progress Tracking](../elements/progress-tracking.md)
+- [Communication Channels](../elements/communication-channels.md)
+- [Resource Hubs](../elements/resource-hubs.md)
 
 ## Assessment Evidence
 - Project completion rate, quality of project management, effectiveness of communication, student engagement.

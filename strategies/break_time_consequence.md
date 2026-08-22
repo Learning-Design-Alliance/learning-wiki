@@ -39,8 +39,8 @@ Writing instructions in bold letters on the chalkboard stating that students who
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor the noise levels at the start of the lesson. Track the number of students who are kept behind during break time.

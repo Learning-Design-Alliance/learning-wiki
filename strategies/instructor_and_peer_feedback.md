@@ -39,9 +39,9 @@ Combining instructor feedback with peer feedback enhances the learning process. 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Assess the quality and relevance of both instructor and peer feedback. Measure improvements in the quality of revised work based on combined feedback. Observe the level of engagement and support within the learning community.

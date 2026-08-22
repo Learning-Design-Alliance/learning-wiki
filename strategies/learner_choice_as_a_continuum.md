@@ -39,8 +39,8 @@ Learner choice involves transitioning from teacher-led content delivery to learn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Learner Choice](/elements/learner-choice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Learner Choice](../elements/learner-choice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Learner engagement and motivation can be measured through observation and self-report surveys. The quality of learner work can be assessed using criteria aligned with learning objectives. Reflective writing can provide insights into learner experiences and perceptions of ownership.

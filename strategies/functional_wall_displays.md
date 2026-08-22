@@ -39,7 +39,7 @@ Using walls for bulletin boards displaying student work and curricular supports,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe how frequently students use the wall displays as resources. Gather feedback on the usefulness and clarity of displays. Monitor student engagement and behavior near the displays.

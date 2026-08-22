@@ -39,7 +39,7 @@ When it comes to background knowledge, learners may have relevant experiences th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - How well students understand the concept using the different methods

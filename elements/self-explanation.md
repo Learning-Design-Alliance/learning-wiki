@@ -31,17 +31,17 @@ Self-explanation is the element in which learners explain to themselves why some
 - Strengthen conceptual understanding, integration, and transfer.
 
 ### Affordances
-- [Metacognition](/principles/metacognition.md)
-- [Explaining Their Thinking](/principles/explaining-their-thinking.md)
+- [Metacognition](../principles/metacognition.md)
+- [Explaining Their Thinking](../principles/explaining-their-thinking.md)
 
 ## Related Elements
-- [Articulation](/elements/articulation.md)
-- [Think-Aloud](/elements/think-aloud.md)
-- [Justification](/elements/justification.md)
+- [Articulation](articulation.md)
+- [Think-Aloud](think-aloud.md)
+- [Justification](justification.md)
 
 ## Patterns That Use This Element
-- [Peer Instruction](/patterns/peer-instruction.md)
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Peer Instruction](../patterns/peer-instruction.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 - Learners explain why each step in a worked solution is valid before moving on.

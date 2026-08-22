@@ -39,9 +39,9 @@ This involves recognizing and addressing unconscious attitudes, stereotypes, and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Feedback](/elements/feedback.md)
-- [Application](/elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Feedback](../elements/feedback.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Changes in teaching practices, improved student-teacher interactions, and more equitable student outcomes.

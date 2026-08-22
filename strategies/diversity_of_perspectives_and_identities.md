@@ -39,9 +39,9 @@ Learning from multiple and varying perspectives involves incorporating diverse v
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe learner engagement in discussions and activities. Assess learner understanding of diverse perspectives through written assignments or presentations. Track improvements in empathy and cultural awareness through surveys or reflections.

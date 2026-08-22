@@ -39,8 +39,8 @@ The SOAR method helps maximize the impact of feedback on student writing by ensu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Improvement in student writing quality over time, increased student engagement with the writing process, and positive changes in student attitudes towards writing and feedback.

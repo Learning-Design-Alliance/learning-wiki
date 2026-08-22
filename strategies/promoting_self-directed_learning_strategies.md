@@ -39,9 +39,9 @@ Promoting self-directed learning involves explicitly teaching students strategie
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe students' ability to apply strategies to solve problems, their level of metacognitive awareness, and their capacity for self-reflection. Measure students' independence and self-direction in their learning.

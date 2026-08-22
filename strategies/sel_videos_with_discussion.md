@@ -39,10 +39,10 @@ This strategy involves showing short video clips on Social and Emotional Learnin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Application](/elements/application.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Demonstration](../elements/demonstration.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Application](../elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe learner participation in discussions. Review responses in related activities to assess comprehension and application of SEL concepts. Collect learner feedback on relevance and meaningfulness of the videos and activities.

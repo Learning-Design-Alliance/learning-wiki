@@ -31,18 +31,18 @@ Learners actively apply knowledge in meaningful tasks.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Active Learning](/principles/active-learning.md)
-- [Constructivism](/principles/constructivism.md)
-- [Scaffolding](/principles/scaffolding.md)
+- [Active Learning](../principles/active-learning.md)
+- [Constructivism](../principles/constructivism.md)
+- [Scaffolding](../principles/scaffolding.md)
 
 ## Related Elements
-- [Hands-on Learning](/elements/hands-on-learning.md)
-- [Cognitive Apprenticeship](/elements/cognitive-apprenticeship.md)
-- [Simulations](/elements/simulations.md)
+- [Hands-on Learning](hands-on-learning.md)
+- [Cognitive Apprenticeship](cognitive-apprenticeship.md)
+- [Simulations](simulations.md)
 
 ## Patterns That Use This Element
-- [Merrill’s First Principles](/patterns/merrills-first-principles.md)
-- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
+- [Merrill’s First Principles](../patterns/merrills-first-principles.md)
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

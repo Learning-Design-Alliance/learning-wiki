@@ -39,9 +39,9 @@ A classroom library is a dedicated space within the classroom stocked with a var
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student engagement with books, track reading frequency and completion rates, monitor book check-out patterns, and assess comprehension through discussions and written reflections.

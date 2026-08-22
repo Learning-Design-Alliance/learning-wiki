@@ -39,8 +39,8 @@ An activity that uses cards with different representations of the same numerical
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe children's ability to match cards with equivalent answers and explain how the different cards are equivalent

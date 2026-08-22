@@ -39,8 +39,8 @@ Before engaging in text-based discussions, instructors activate learners' backgr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Activation](/elements/activation.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Observe learner participation and analyze connections made during discussions.

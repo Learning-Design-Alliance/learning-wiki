@@ -39,9 +39,9 @@ Student Hand Signals is a strategy where learners use non-verbal cues to indicat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the distribution of hand signals to gauge overall understanding, track participation rates of shy learners.

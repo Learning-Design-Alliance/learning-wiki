@@ -29,7 +29,7 @@ Simulations and immersive virtual environments let learners practice decisions, 
 These environments can support motivation and transfer because learners are doing something closer to the eventual task, not merely hearing about it. At the same time, simulation quality varies widely. If the interface is confusing, the scenario is unrealistic, or the task lacks debriefing and feedback, the medium can add distraction without improving learning.
 
 ## Implications
-Simulations and immersive environments work when they let learners rehearse meaningful whole performances under conditions that are safer, cheaper, or more repeatable than real life [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]. They are especially useful for novices when complexity is staged and support is available [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M], and when coaching or debriefing responds to how the learner actually performed [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]. High fidelity alone is not enough: if the interface is confusing or the scenario misrepresents the real task, the medium adds distraction rather than transfer.
+Simulations and immersive environments work when they let learners rehearse meaningful whole performances under conditions that are safer, cheaper, or more repeatable than real life [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]. They are especially useful for novices when complexity is staged and support is available [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M], and when coaching or debriefing responds to how the learner actually performed [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. High fidelity alone is not enough: if the interface is confusing or the scenario misrepresents the real task, the medium adds distraction rather than transfer.
 
 ### Context
 #### Requirements
@@ -65,21 +65,21 @@ Simulations and immersive environments work when they let learners rehearse mean
 - Simulations should often be sequenced from simpler to more complex cases, especially for novices.
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S] — realistic, integrated task rehearsal can prepare learners for later application better than abstract explanation alone
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — simulations are stronger when facilitation targets the learner’s actual decision or performance breakdowns
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M] — novices often need simplified or staged practice before full simulation complexity becomes productive
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S] — realistic, integrated task rehearsal can prepare learners for later application better than abstract explanation alone
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — simulations are stronger when facilitation targets the learner’s actual decision or performance breakdowns
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — novices often need simplified or staged practice before full simulation complexity becomes productive
 
 ## Related Principles
-- [Experiential Learning](/principles/experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.
-- [Problem-based Learning](/principles/problem-based-learning.md) — many simulations organize learning around decisions in realistic scenarios.
-- [Immediate Feedback](/principles/immediate-feedback.md) — simulations are more effective when consequences and coaching are visible.
-- [Guided Practice](/principles/guided-practice.md) — novice learners often need supported runs before independent performance.
+- [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.
+- [Problem-based Learning](problem-based-learning.md) — many simulations organize learning around decisions in realistic scenarios.
+- [Immediate Feedback](immediate-feedback.md) — simulations are more effective when consequences and coaching are visible.
+- [Guided Practice](guided-practice.md) — novice learners often need supported runs before independent performance.
 
 ## Examples
 - **Clinical decision simulator**: Learners diagnose, prioritize, and respond to a changing patient scenario.
 - **Virtual workplace rehearsal**: Learners practice safety, customer interaction, or troubleshooting in a modeled environment.
 - **Civic or historical simulation**: Learners make decisions within a constrained system and analyze outcomes.
-- [Goal-Based Scenarios (GBS)](/patterns/goal-based-scenarios-gbs.md)
+- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios-gbs.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

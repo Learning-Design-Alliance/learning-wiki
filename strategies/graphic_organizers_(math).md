@@ -39,8 +39,8 @@ Graphic organizers break down math problems into steps, which helps students fig
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' ability to break down problems into steps, identify key information, and choose appropriate operations. Review completed graphic organizers for accuracy and completeness.

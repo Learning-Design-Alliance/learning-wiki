@@ -39,10 +39,10 @@ Sharing information through various modalities beyond text and images, such as a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Measure learner engagement with different modalities. Gather feedback on the effectiveness of each modality in supporting learning. Assess learner performance across different modalities.

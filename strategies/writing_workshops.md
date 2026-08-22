@@ -39,11 +39,11 @@ Writing workshops create environments with multiple stations focusing on differe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Expert Groups](/elements/expert-groups.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Expert Groups](../elements/expert-groups.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Improvements in learner writing quality as evidenced by targeted skill development. Increased learner participation in writing activities and peer feedback.

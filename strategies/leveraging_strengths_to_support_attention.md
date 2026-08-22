@@ -39,8 +39,8 @@ This strategy focuses on identifying a learner's strengths and using those stren
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the learners' ability to stay on task and follow directions. Collect feedback from the learners on the effectiveness of the strategies. Review student work to assess the impact on learning.

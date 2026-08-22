@@ -39,7 +39,7 @@ Modeling a skill or assignment by verbalizing thought processes while working th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learner's application of modeled strategies in independent practice. Assess the learner's ability to articulate their own thought processes when solving similar problems. Track the learner's progress in mastering the modeled skill.

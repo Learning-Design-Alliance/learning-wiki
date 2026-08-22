@@ -39,7 +39,7 @@ Before the advent of cheap electricity, schools often relied on natural lighting
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Test Score Statistics

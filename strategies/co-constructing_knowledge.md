@@ -39,8 +39,8 @@ Co-constructing knowledge involves teachers and students dialoguing and creating
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Assessments can include group projects, presentations, and discussions. Student reflections and self-evaluations can provide insights into their learning and participation. Observations of group dynamics and collaborative skills can also be assessed.

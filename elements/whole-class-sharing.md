@@ -31,19 +31,19 @@ The entire class participates in discussion or presentation of ideas, often foll
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Constructivist Learning](/principles/constructivist-learning.md)
-- [Community-Based Learning](/principles/community-based-learning.md)
+- [Social Learning](../principles/social-learning.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Community-Based Learning](../principles/community-based-learning.md)
 
 ## Related Elements
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
+- [Peer Discussion](peer-discussion.md)
+- [Collaborative Learning](collaborative-learning.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
-- [Jigsaw](/patterns/jigsaw.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Jigsaw](../patterns/jigsaw.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

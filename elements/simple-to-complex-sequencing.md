@@ -31,17 +31,17 @@ Learning progresses from basic concepts to more detailed, complex ideas.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Sequencing](/principles/sequencing.md)
-- [Cognitive Load Management](/principles/cognitive-load-management.md)
-- [Scaffolding](/principles/scaffolding.md)
+- [Sequencing](../principles/sequencing.md)
+- [Cognitive Load Management](../principles/cognitive-load-management.md)
+- [Scaffolding](../principles/scaffolding.md)
 
 ## Related Elements
-- [Conceptual Scaffolding](/elements/conceptual-scaffolding.md)
-- [Gradual Release](/elements/gradual-release.md)
-- [Mastery Learning](/elements/mastery-learning.md)
+- [Conceptual Scaffolding](conceptual-scaffolding.md)
+- [Gradual Release](gradual-release.md)
+- [Mastery Learning](mastery-learning.md)
 
 ## Patterns That Use This Element
-- [Elaboration Theory](/patterns/elaboration-theory.md)
+- [Elaboration Theory](../patterns/elaboration-theory.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

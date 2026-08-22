@@ -26,17 +26,17 @@ Public speaking is the element in which learners present ideas aloud to an audie
 - Build oral communication, audience adaptation, and delivery skill.
 
 ### Affordances
-- [Rhetorical Skill Development](/principles/rhetorical-skill-development.md)
-- [Engagement](/principles/engagement.md)
+- [Rhetorical Skill Development](../principles/rhetorical-skill-development.md)
+- [Engagement](../principles/engagement.md)
 
 ## Related Elements
-- [Persuasion](/elements/persuasion.md)
-- [Rebuttals](/elements/rebuttals.md)
-- [Justification](/elements/justification.md)
+- [Persuasion](persuasion.md)
+- [Rebuttals](rebuttals.md)
+- [Justification](justification.md)
 
 ## Patterns That Use This Element
-- [Debate](/patterns/debate.md)
-- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Debate](../patterns/debate.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 - Short presentations, oral defenses, and persuasive speeches with peer feedback.

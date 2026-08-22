@@ -39,10 +39,10 @@ Students are asked to create videos demonstrating their understanding. Students 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-task performance](/elements/whole-task-performance.md)
-- [Application](/elements/application.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Peer Teaching](/elements/peer-teaching.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Application](../elements/application.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Teaching](../elements/peer-teaching.md)
 
 ## Assessment Evidence
 - Quality of videos, depth of understanding demonstrated, engagement with the creation process.

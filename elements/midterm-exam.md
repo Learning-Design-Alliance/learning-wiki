@@ -31,17 +31,17 @@ A structured, formal assessment given at the midpoint of a course.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Competency-Based Assessment](/principles/competency-based-assessment.md)
-- [Mastery Learning](/principles/mastery-learning.md)
+- [Competency-Based Assessment](../principles/competency-based-assessment.md)
+- [Mastery Learning](../principles/mastery-learning.md)
 
 ## Related Elements
-- [Summative Assessment](/elements/summative-assessment.md)
-- [Quizzes](/elements/quizzes.md)
-- [Formative Assessment](/elements/formative-assessment.md)
+- [Summative Assessment](summative-assessment.md)
+- [Quizzes](quizzes.md)
+- [Formative Assessment](formative-assessment.md)
 
 ## Patterns That Use This Element
-- [Competency-Based Learning](/patterns/competency-based-learning.md)
-- [Summative Assessment](/patterns/summative-assessment.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
+- [Summative Assessment](../patterns/summative-assessment.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

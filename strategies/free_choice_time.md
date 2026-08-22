@@ -39,10 +39,10 @@ Provide learners with the autonomy to select their learning activities, mirrorin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [State objectives](../elements/state-objectives.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learner engagement and motivation during free choice activities. Assess the depth of understanding and quality of work produced by learners. Gather feedback from learners about their experiences with free choice time.

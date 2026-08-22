@@ -39,9 +39,9 @@ Provide adolescents with opportunities to see the value of a healthy skepticism 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions and small group activities. Evaluate their ability to apply critical thinking skills and consider multiple perspectives.

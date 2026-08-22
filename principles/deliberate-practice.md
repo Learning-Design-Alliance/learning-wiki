@@ -20,7 +20,7 @@ Deliberate practice is the principle of engaging learners in focused, feedback-r
 
 ## Implications
 
-Deliberate practice is most useful when the goal is not just exposure or time-on-task, but measurable improvement in performance quality. The principle treats practice as diagnostic and targeted: learners work on a specific aspect of performance, receive feedback, adjust, and try again. This makes it different from repetition alone, and it works best when the target is challenging and explicit enough to focus attention on a real performance gap [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]. Learners often improve more when practice targets process and execution rather than only final outcomes [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M], and the cycle becomes more powerful when they can monitor patterns in their own errors and progress across attempts [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M].
+Deliberate practice is most useful when the goal is not just exposure or time-on-task, but measurable improvement in performance quality. The principle treats practice as diagnostic and targeted: learners work on a specific aspect of performance, receive feedback, adjust, and try again. This makes it different from repetition alone, and it works best when the target is challenging and explicit enough to focus attention on a real performance gap [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]. Learners often improve more when practice targets process and execution rather than only final outcomes [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M], and the cycle becomes more powerful when they can monitor patterns in their own errors and progress across attempts [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M].
 
 ### Context
 #### Requirements
@@ -45,27 +45,27 @@ Deliberate practice is most useful when the goal is not just exposure or time-on
 ### Theory
 #### Supporting
 - Expertise-development traditions — high-level performance develops through focused refinement, not mere repetition
-- [Mastery Learning](/principles/mastery-learning.md) — progression depends on actual performance improvement rather than time alone
-- [Immediate Feedback](/principles/immediate-feedback.md) — timely correction is one of the core mechanisms that makes deliberate practice work
+- [Mastery Learning](mastery-learning.md) — progression depends on actual performance improvement rather than time alone
+- [Immediate Feedback](immediate-feedback.md) — timely correction is one of the core mechanisms that makes deliberate practice work
 
 #### Contradicting / Qualifying
-- [Self-Determination Theory](/theories/self-determination-theory.md) — deliberate practice can be highly effective but still motivationally brittle if challenge, autonomy, and competence support are poorly balanced
+- [Self-Determination Theory](../theories/self-determination-theory.md) — deliberate practice can be highly effective but still motivationally brittle if challenge, autonomy, and competence support are poorly balanced
 
 ### Claims
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — focused, challenging goals improve the effectiveness of practice
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — learners often improve more when practice targets process and execution than when it targets end results alone
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — deliberate practice becomes more powerful when learners can monitor errors and progress across attempts
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — focused, challenging goals improve the effectiveness of practice
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — learners often improve more when practice targets process and execution than when it targets end results alone
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — deliberate practice becomes more powerful when learners can monitor errors and progress across attempts
 
 ## Related Principles
-- [Immediate Feedback](/principles/immediate-feedback.md) — needed so learners can adjust performance quickly
-- [Mastery Learning](/principles/mastery-learning.md) — often supplies the progression logic around deliberate practice
-- [Scaffolding](/principles/scaffolding.md) — supports can help learners practice just beyond current ability without losing task integrity
+- [Immediate Feedback](immediate-feedback.md) — needed so learners can adjust performance quickly
+- [Mastery Learning](mastery-learning.md) — often supplies the progression logic around deliberate practice
+- [Scaffolding](scaffolding.md) — supports can help learners practice just beyond current ability without losing task integrity
 
 ## Examples
 
 ### Illustrative
 
-**[Mastery Learning](/patterns/mastery-learning.md)** — Learners repeat focused practice-and-feedback cycles until a defined performance standard is met.
+**[Mastery Learning](../patterns/mastery-learning.md)** — Learners repeat focused practice-and-feedback cycles until a defined performance standard is met.
 
 **Targeted revision rounds** — Writers practice only thesis clarity, evidence integration, or sentence control in one cycle rather than vaguely “improving the paper.”
 

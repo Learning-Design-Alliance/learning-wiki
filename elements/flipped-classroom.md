@@ -14,9 +14,9 @@ generated:
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
 
 ## Affordances
-- [Flipped Learning](/principles/flipped-learning.md)
-- [Digital Learning](/principles/digital-learning.md)
+- [Flipped Learning](../principles/flipped-learning.md)
+- [Digital Learning](../principles/digital-learning.md)
 
 ## Related Elements
-- [Pre-Class Preparation](/elements/pre-class-preparation.md)
-- [In-Class Activities](/elements/in-class-activities.md)
+- [Pre-Class Preparation](pre-class-preparation.md)
+- [In-Class Activities](in-class-activities.md)

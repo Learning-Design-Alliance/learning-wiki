@@ -39,9 +39,9 @@ Normalizing struggle involves creating a classroom culture where challenges and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Modeling](/elements/modeling.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Modeling](../elements/modeling.md)
 
 ## Assessment Evidence
 - Observe students' responses to challenges, their willingness to try new strategies, and their ability to articulate their problem-solving processes. Measure students' resilience and perseverance in the face of difficulties.

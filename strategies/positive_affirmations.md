@@ -39,8 +39,8 @@ Using positive affirmations involves creating and repeating positive statements 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track changes in self-reported self-esteem and confidence using questionnaires or journals. Observe improvements in mood, motivation, and goal achievement. Analyze ability to articulate and embody positive beliefs in real-life situations.

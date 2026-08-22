@@ -39,9 +39,9 @@ This strategy involves creating activities that allow students to reflect on the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Practice](/elements/practice.md)
-- [Creating Visual Representations](/elements/creating-visual-representations.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Creating Visual Representations](../elements/creating-visual-representations.md)
 
 ## Assessment Evidence
 - Improved student self-awareness, increased student ownership of learning, and deeper understanding of math concepts.

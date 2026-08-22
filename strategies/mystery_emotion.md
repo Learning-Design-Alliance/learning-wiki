@@ -39,8 +39,8 @@ Learners are challenged to guess the emotion the instructor is acting out in ord
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - The facilitator can observe how the learners perform. Ask learners to do an individual reflection of how they used emotions and what they learned from the activity.

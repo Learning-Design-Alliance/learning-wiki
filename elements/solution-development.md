@@ -31,17 +31,17 @@ Learners synthesize information to propose and test solutions.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Constructivist Learning](/principles/constructivist-learning.md)
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [Problem Solving](/elements/problem-solving.md)
-- [Case-Based Learning](/elements/case-based-learning.md)
-- [Decision-Making](/elements/decision-making.md)
+- [Problem Solving](problem-solving.md)
+- [Case-Based Learning](case-based-learning.md)
+- [Decision-Making](decision-making.md)
 
 ## Patterns That Use This Element
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
-- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

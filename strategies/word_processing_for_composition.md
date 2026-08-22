@@ -39,9 +39,9 @@ Word processing involves using computer software to write, edit, and format text
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Improved composition quality, increased student engagement in writing activities, and frequency of feedback exchanged between students and teachers.

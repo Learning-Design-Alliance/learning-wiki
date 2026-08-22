@@ -39,8 +39,8 @@ When teachers adopt explicit teaching practices they clearly show students what 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Student understanding of learning intentions, ability to explain concepts, and successful completion of tasks.

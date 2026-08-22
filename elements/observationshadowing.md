@@ -26,12 +26,12 @@ Observation/shadowing is the element in which learners watch practice in context
 - Build noticing, contextual understanding, and preparation for later performance.
 
 ### Affordances
-- [Observation/Shadowing](/principles/observationshadowing.md)
-- [Metacognition](/principles/metacognition.md)
+- [Observation/Shadowing](../principles/observationshadowing.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Observation](/elements/observation.md)
-- [Demonstration](/elements/demonstration.md)
+- [Observation](observation.md)
+- [Demonstration](demonstration.md)
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.

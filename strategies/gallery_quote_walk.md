@@ -39,8 +39,8 @@ Students pick a quote that expresses how they feel in the moment. Display quotes
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement in the activity. Collect student feedback on the activity to assess its effectiveness.

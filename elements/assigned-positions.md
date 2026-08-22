@@ -31,18 +31,18 @@ Learners are assigned a specific stance on an issue and must argue from that per
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Perspective-Taking](/principles/perspective-taking.md)
-- [Cognitive Flexibility](/principles/cognitive-flexibility.md)
+- [Social Learning](../principles/social-learning.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
+- [Cognitive Flexibility](../principles/cognitive-flexibility.md)
 
 ## Related Elements
-- [Debate](/elements/debate.md)
-- [Structured Academic Controversy](/elements/structured-academic-controversy.md)
-- [Argumentation](/elements/argumentation.md)
+- [Debate](debate.md)
+- [Structured Academic Controversy](structured-academic-controversy.md)
+- [Argumentation](argumentation.md)
 
 ## Patterns That Use This Element
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
-- [Debate](/patterns/debate.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
+- [Debate](../patterns/debate.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

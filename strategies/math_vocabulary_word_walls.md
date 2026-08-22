@@ -39,8 +39,8 @@ Create a class word wall displaying mathematical terms and vocabulary to support
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' ability to identify key words in word problems. Assess students' use of math vocabulary in explanations and problem-solving.

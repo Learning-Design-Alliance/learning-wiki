@@ -39,10 +39,10 @@ Implicit vocabulary instruction involves teaching words 'in the moment' using he
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Lectures](/elements/lectures.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Lectures](../elements/lectures.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' ability to use context to understand new words. Monitor comprehension of texts containing implicitly taught vocabulary.

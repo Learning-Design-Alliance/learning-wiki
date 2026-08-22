@@ -26,17 +26,17 @@ Learning outcomes are explicit statements of what learners should know, understa
 - Clarify expectations and make progress visible.
 
 ### Affordances
-- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
-- [Competency-Based Assessment](/principles/competency-based-assessment.md)
+- [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
+- [Competency-Based Assessment](../principles/competency-based-assessment.md)
 
 ## Related Elements
-- [State Objectives](/elements/state-objectives.md)
-- [Assessment](/elements/assessment.md)
-- [Goal Setting](/elements/goal-setting.md)
+- [State Objectives](state-objectives.md)
+- [Assessment](assessment.md)
+- [Goal Setting](goal-setting.md)
 
 ## Patterns That Use This Element
-- [Competency-Based Learning](/patterns/competency-based-learning.md)
-- [Gagné's 9 Events](/patterns/gagnés-9-events.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
+- [Gagné's 9 Events](../patterns/gagnés-9-events.md)
 
 ## Examples
 - Course or lesson targets written in performance terms and revisited during assessment.

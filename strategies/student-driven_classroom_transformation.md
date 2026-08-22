@@ -39,10 +39,10 @@ Involving students in the design and transformation of their learning environmen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Cognitive Conflict](/elements/cognitive-conflict.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Observe student engagement, collect student feedback, and assess the overall impact on teaching and learning.

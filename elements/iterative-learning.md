@@ -27,18 +27,18 @@ Iterative learning is the element in which learners improve through repeated cyc
 - Improve quality through revision and refinement.
 
 ### Affordances
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Feedback Loops](/principles/feedback-loops.md)
-- [Mastery Learning](/principles/mastery-learning.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Feedback Loops](../principles/feedback-loops.md)
+- [Mastery Learning](../principles/mastery-learning.md)
 
 ## Related Elements
-- [Revision](/elements/revision.md)
-- [Feedback](/elements/feedback.md)
-- [Reassessment](/elements/reassessment.md)
+- [Revision](revision.md)
+- [Feedback](feedback.md)
+- [Reassessment](reassessment.md)
 
 ## Patterns That Use This Element
-- [Mastery Learning](/patterns/mastery-learning.md)
-- [Reflective Practice](/patterns/reflective-practice.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
+- [Reflective Practice](../patterns/reflective-practice.md)
 
 ## Key Sources
 - Kolodner, J. L. (1983). Towards an understanding of the role of experience in the evolution from novice to expert. *International Journal of Man-Machine Studies, 19*(5), 497-518.

@@ -39,9 +39,9 @@ This is a visual representation of education and learning sciences research publ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Hypertext Navigation](/elements/hypertext-navigation.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Hypertext Navigation](../elements/hypertext-navigation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Usage patterns, frequency of article downloads, and feedback from users on the utility of the map.

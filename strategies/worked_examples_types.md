@@ -39,8 +39,8 @@ Modelling examples provide maximum guidance by paying explicit attention to the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Student understanding of the processes and the ability to apply them in real-world scenarios.

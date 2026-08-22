@@ -39,8 +39,8 @@ Using a minimally invasive hand gesture to secure student attention. This techni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Practice](/elements/practice.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor how quickly and effectively students respond to the hand gesture. Observe the reduction in classroom disruptions.

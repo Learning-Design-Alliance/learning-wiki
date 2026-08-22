@@ -39,8 +39,8 @@ Learners use estimation and prediction skills by asking how they might do on an 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Compare estimated performance with actual outcomes. Review student reflections for insights gained and adjustments made.

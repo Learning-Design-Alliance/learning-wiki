@@ -39,10 +39,10 @@ Direct instruction of genre-specific writing strategies involves explicitly teac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assessment can include student writing samples, participation in discussions, and completion of genre-specific writing tasks. Success is measured by students' ability to effectively apply genre conventions in their writing.

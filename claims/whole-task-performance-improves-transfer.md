@@ -34,7 +34,7 @@ van Merriënboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rath
 This study compared whole-task and part-task instruction in a complex domain. Results showed that while part-task practice might be easier during training, whole-task performance led to significantly better transfer to new, real-world-like problems.
 
 ## Discussion
-The effect is strongest when tasks are sequenced from simple-to-complex and include appropriate [scaffolding](/elements/scaffolding.md).
+The effect is strongest when tasks are sequenced from simple-to-complex and include appropriate [scaffolding](../elements/scaffolding.md).
 
 ## Related Claims
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md)
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md)

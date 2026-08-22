@@ -64,11 +64,11 @@ The pattern works best when pre-class work is tightly tied to in-class activity.
 
 ### Claims
 #### Supporting
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 #### Contradicting
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 
 ## Design
 
@@ -80,16 +80,16 @@ The pattern works best when pre-class work is tightly tied to in-class activity.
 5. Close with synthesis or a follow-up task that consolidates learning.
 
 ### Elements Used
-- [Pre-Class Video/Lecture](/elements/pre-class-videolecture.md)
-- [In-Class Activities](/elements/in-class-activities.md)
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Pre-Class Video/Lecture](../elements/pre-class-videolecture.md)
+- [In-Class Activities](../elements/in-class-activities.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
 
 ### Affordances
-- [Guided Practice](/principles/guided-practice.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
-- [Multimodal Instruction](/principles/multimodal-instruction.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Multimodal Instruction](../principles/multimodal-instruction.md)
 
 ### Personalization
 - Learners can pause, replay, or revisit pre-class materials at their own pace.
@@ -97,8 +97,8 @@ The pattern works best when pre-class work is tightly tied to in-class activity.
 - Pre-class input can be offered in multiple formats when needed.
 
 ## Related Patterns
-- [Discussion Group](/patterns/discussion-group.md)
-- [Traditional Lecture / Reading / Midterm / Final Assessment](/patterns/traditional-lecture-reading-midterm-final-assessment.md)
+- [Discussion Group](discussion-group.md)
+- [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-reading-midterm-final-assessment.md)
 
 ## Examples
 - Physics courses with short pre-class explanations followed by in-class problem solving.

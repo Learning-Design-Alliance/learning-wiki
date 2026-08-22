@@ -39,9 +39,9 @@ Explicitly discuss different perspectives, encouraging students to consider view
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Assigned Positions](/elements/assigned-positions.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Assigned Positions](../elements/assigned-positions.md)
 
 ## Assessment Evidence
 - Assess student openness and participation.

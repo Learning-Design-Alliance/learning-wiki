@@ -39,8 +39,8 @@ Educators develop their own understanding of self-awareness and how it affects l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Educators' ability to articulate their understanding of self-awareness and its impact on learning. Their use of evidence-based strategies to support their students' self-awareness.

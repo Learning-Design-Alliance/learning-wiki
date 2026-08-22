@@ -39,8 +39,8 @@ These tools help learners identify the most important information and focus on i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe improvements in learner's ability to identify and recall key information. Review the effectiveness of graphic organizers and visual aids through student feedback and performance.

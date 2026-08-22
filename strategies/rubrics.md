@@ -39,9 +39,9 @@ Rubrics are evaluation tools consisting of a set of criteria, a fixed scale, and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [State objectives](/elements/state-objectives.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [State objectives](../elements/state-objectives.md)
 
 ## Assessment Evidence
 - Track alignment between self-assessments and teacher evaluations. Monitor improvements in performance over time. Analyze depth and specificity of feedback provided based on rubric results. Measure student engagement with self-assessment and goal-setting activities.

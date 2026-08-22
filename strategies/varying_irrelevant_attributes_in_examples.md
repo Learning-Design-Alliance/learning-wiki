@@ -39,7 +39,7 @@ When teaching concepts, use examples in which the irrelevant attributes vary wid
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately classify new instances of the concept despite variations in irrelevant attributes.

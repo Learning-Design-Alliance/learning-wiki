@@ -39,11 +39,11 @@ Multiplicative double counting involves tracking all three units (groups, unit r
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
-- [Simple-to-complex sequencing](/elements/simple-to-complex-sequencing.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md)
 
 ## Assessment Evidence
 - Assess learners' ability to track all three units (groups, unit rate, and total) by stopping them during their counting sequence and asking about each unit. Check for improved performance in related math concepts (division, fractions, etc.).

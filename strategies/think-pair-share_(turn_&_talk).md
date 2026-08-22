@@ -39,9 +39,9 @@ Think-Pair-Share is a cooperative learning strategy designed to encourage indivi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the level of student participation and engagement during each step. Assess the quality and depth of student responses during pair and whole-class discussions. Monitor the types of questions students ask and the connections they make between ideas.

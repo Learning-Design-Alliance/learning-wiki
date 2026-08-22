@@ -39,8 +39,8 @@ Take the time to consider each student’s perspective and the challenges they m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe interactions, monitor communication patterns, gather feedback from students and colleagues

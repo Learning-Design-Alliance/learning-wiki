@@ -28,7 +28,7 @@ Traditional Lecture-Based Instruction is the short-form canonical target for des
 - Provide structured content delivery at scale.
 
 ### Related Patterns
-- [Traditional Lecture / Reading / Midterm / Final Assessment](/patterns/traditional-lecture-reading-midterm-final-assessment.md)
+- [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-reading-midterm-final-assessment.md)
 
 ## Key Sources
 - Bligh, D. A. (2000). *What's the use of lectures?* Jossey-Bass.

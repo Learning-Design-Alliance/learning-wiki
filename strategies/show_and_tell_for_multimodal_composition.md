@@ -39,9 +39,9 @@ Devoting a few minutes each week for learners to show the effects of different m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the depth and specificity of learner reflections on their design decisions. Assess the quality and relevance of peer feedback. Evaluate the extent to which learners incorporate feedback into their own compositions.

@@ -46,10 +46,10 @@ Teacher-led physical activities integrate movement and mathematical practice in 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Part-task practice](/elements/part-task-practice.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Part-task practice](../elements/part-task-practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe student engagement, participation, and mathematical accuracy during the activities.

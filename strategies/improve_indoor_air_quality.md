@@ -39,9 +39,9 @@ Poor indoor air quality in schools is a major contributor to absenteeism, especi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student and teacher absenteeism, measure indoor air quality, collect feedback from teachers and students.

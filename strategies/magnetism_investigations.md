@@ -39,8 +39,8 @@ Magnetism investigations involve exploring how magnets interact with different o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in predicting magnetic attraction, correct mapping of compass deviations, logical explanations of magnetic effects

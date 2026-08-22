@@ -39,9 +39,9 @@ Learners use estimation and prediction skills to reflect on their abilities. Act
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the accuracy of learner estimates over time. Monitor the depth and consistency of learner reflections. Assess the clarity and realism of learner expectations.

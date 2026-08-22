@@ -39,9 +39,9 @@ Choice boards offer learners options for how they demonstrate their learning, in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe engagement levels and task completion rates. Analyze the quality and depth of learner work on chosen tasks. Gather feedback from learners about their experiences with the choice board.

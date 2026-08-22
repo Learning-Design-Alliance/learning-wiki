@@ -64,11 +64,11 @@ The pattern works best when the review process is designed carefully. Unstructur
 
 ### Claims
 #### Supporting
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -80,16 +80,16 @@ The pattern works best when the review process is designed carefully. Unstructur
 5. Reflect on what was learned from both reviewing and being reviewed.
 
 ### Elements Used
-- [Feedback](/elements/feedback.md)
-- [Assessment](/elements/assessment.md)
-- [Reflection](/elements/reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Feedback](../elements/feedback.md)
+- [Assessment](../elements/assessment.md)
+- [Reflection](../elements/reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ### Affordances
-- [Peer Feedback/Peer Review](/principles/peer-feedbackpeer-review.md)
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Multiple Methods of Assessment](/principles/multiple-methods-of-assessment.md)
-- [Process-Based Writing](/principles/process-based-writing.md)
+- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
+- [Process-Based Writing](../principles/process-based-writing.md)
 
 ### Personalization
 - Reviews can be anonymous or named depending on context and trust.
@@ -97,8 +97,8 @@ The pattern works best when the review process is designed carefully. Unstructur
 - Different artifact types can use different prompt sets while keeping the same overall review cycle.
 
 ## Related Patterns
-- [Collaborative Evaluation](/patterns/collaborative-evaluation.md)
-- [LDA Reflection](/patterns/lda-reflection.md)
+- [Collaborative Evaluation](collaborative-evaluation.md)
+- [LDA Reflection](lda-reflection.md)
 
 ## Examples
 - Graduate seminar proposal reviews using a shared rubric.

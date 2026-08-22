@@ -39,8 +39,8 @@ Acronyms use the first letter of each word in a list or phrase to create a new, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track the number of items recalled correctly after using an acronym or acrostic. Monitor the ease with which learners can generate and use these devices.

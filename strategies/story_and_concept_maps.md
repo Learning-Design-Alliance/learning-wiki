@@ -39,9 +39,9 @@ Story and concept maps are visual representations used to organize information a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Evaluate the completeness and accuracy of the story or concept map, assess the depth of understanding demonstrated by the connections made between elements, track learner progress in identifying key details and summarizing main ideas

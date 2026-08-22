@@ -39,10 +39,10 @@ Activating the different parts of the brain involved with the various senses dur
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement in brain-based activities. Assess student retention of information learned through brain-based methods.

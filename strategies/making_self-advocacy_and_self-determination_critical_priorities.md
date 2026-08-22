@@ -39,10 +39,10 @@ Integrating self-advocacy and self-determination into education systems to empow
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Individual Response](/elements/individual-response.md)
-- [Research](/elements/research.md)
-- [Problem Presentation](/elements/problem-presentation.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Individual Response](../elements/individual-response.md)
+- [Research](../elements/research.md)
+- [Problem Presentation](../elements/problem-presentation.md)
 
 ## Assessment Evidence
 - Changes in student participation in IEP meetings, increased self-advocacy skills, and improved life outcomes.

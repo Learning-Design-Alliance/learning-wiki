@@ -39,8 +39,8 @@ Using artwork along with life lesson statements can help adolescents write essay
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Assess the depth of students' thoughts, the connections they make between visuals and experiences, and the quality of their essays.

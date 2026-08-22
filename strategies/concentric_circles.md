@@ -39,9 +39,9 @@ Learners form two circles, one inside circle and one outside circle. Each learne
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the activity, review the quality of their responses to the discussion questions, collect feedback from learners about their experience.

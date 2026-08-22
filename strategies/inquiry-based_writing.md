@@ -39,9 +39,9 @@ Engage in focused investigation with “immediate and concrete data” that lear
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Solution Development](/elements/solution-development.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased research skills, greater critical thinking

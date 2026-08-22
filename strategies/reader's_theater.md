@@ -39,9 +39,9 @@ Reader's Theater is a strategy that combines reading practice and performing by 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Argument Construction](/elements/argument-construction.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Argument Construction](../elements/argument-construction.md)
 
 ## Assessment Evidence
 - Assess students' abilities to read aloud with comprehension, expression, and fluency.

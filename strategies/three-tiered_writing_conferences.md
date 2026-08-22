@@ -39,10 +39,10 @@ The Three-Tiered Writing Conference approach provides a structured format for br
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Articulation](/elements/articulation.md)
-- [Modeling](/elements/modeling.md)
-- [Coaching](/elements/coaching.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Articulation](../elements/articulation.md)
+- [Modeling](../elements/modeling.md)
+- [Coaching](../elements/coaching.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased student engagement, enhanced self-reflection skills, positive conference experiences

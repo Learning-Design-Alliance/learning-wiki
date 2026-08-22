@@ -39,8 +39,8 @@ Share parts of the reflection brought them to another level of understanding as 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [individual reflection](/elements/individual-reflection.md)
-- [demonstration](/elements/demonstration.md)
+- [individual reflection](../elements/individual-reflection.md)
+- [demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Learner ability to reflect.

@@ -39,8 +39,8 @@ Providing structured opportunities for students to pause, reflect, and think abo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Evaluate student reflections for depth of insight and self-awareness. Assess changes in student behavior and emotional regulation. Review student journals and other reflective work.

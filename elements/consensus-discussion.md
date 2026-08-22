@@ -31,17 +31,17 @@ Learners work collaboratively to agree on a shared perspective or decision.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Constructivism](/principles/constructivism.md)
+- [Social Learning](../principles/social-learning.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Related Elements
-- [Debate](/elements/debate.md)
-- [Negotiation](/elements/negotiation.md)
-- [Structured Academic Controversy](/elements/structured-academic-controversy.md)
+- [Debate](debate.md)
+- [Negotiation](negotiation.md)
+- [Structured Academic Controversy](structured-academic-controversy.md)
 
 ## Patterns That Use This Element
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

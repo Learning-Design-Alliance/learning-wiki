@@ -39,7 +39,7 @@ When students are doing online research in her class, Je Hen enforces the three-
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Ability to find 3 valid sources.

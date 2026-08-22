@@ -39,9 +39,9 @@ Acknowledge that access to technology and digital literacy can vary based on soc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track participation rates from different socio-economic and cultural backgrounds, solicit feedback on cultural relevance of materials, measure access to technology and internet

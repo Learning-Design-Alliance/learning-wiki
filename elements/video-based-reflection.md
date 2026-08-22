@@ -14,5 +14,5 @@ generated:
 Video-based reflection is the element in which learners review recorded performance to analyze choices, patterns, and next steps.
 
 ## Affordances
-- [Video Replay Analysis](/principles/video-replay-analysis.md)
-- [Reflection](/principles/reflection.md)
+- [Video Replay Analysis](../principles/video-replay-analysis.md)
+- [Reflection](../principles/reflection.md)

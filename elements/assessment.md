@@ -47,14 +47,14 @@ Assessment is the structured collection of evidence about learner understanding,
 - Creates opportunities for self-assessment, peer review, and revision
 
 ## Related Elements
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Quizzes](/elements/quizzes.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Reassessment](/elements/reassessment.md)
+- [Formative Assessment](formative-assessment.md)
+- [Quizzes](quizzes.md)
+- [Provide Feedback](provide-feedback.md)
+- [Reassessment](reassessment.md)
 
 ## Patterns That Use This Element
-- [Traditional Lecture, Reading, Midterm, Final Assessment](/patterns/traditional-lecture-reading-midterm-final-assessment.md)
-- [Collaborative Evaluation](/patterns/collaborative-evaluation.md)
+- [Traditional Lecture, Reading, Midterm, Final Assessment](../patterns/traditional-lecture-reading-midterm-final-assessment.md)
+- [Collaborative Evaluation](../patterns/collaborative-evaluation.md)
 
 ## Examples
 - A rubric-scored project submission

@@ -39,8 +39,8 @@ This strategy involves using short, focused prompts at the end of a class period
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Quality and depth of learner responses; participation in sharing activities; evidence of deeper understanding.

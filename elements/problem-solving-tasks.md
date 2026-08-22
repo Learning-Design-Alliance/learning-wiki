@@ -31,17 +31,17 @@ Learners complete structured activities that require critical thinking and appli
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Problem-Based Learning](/principles/problem-based-learning.md)
-- [Situated Learning](/principles/situated-learning.md)
+- [Problem-Based Learning](../principles/problem-based-learning.md)
+- [Situated Learning](../principles/situated-learning.md)
 
 ## Related Elements
-- [Case-Based Learning](/elements/case-based-learning.md)
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
-- [Scenario-Based Learning](/elements/scenario-based-learning.md)
+- [Case-Based Learning](case-based-learning.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
 
 ## Patterns That Use This Element
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
-- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

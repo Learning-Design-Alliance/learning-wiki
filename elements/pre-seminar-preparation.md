@@ -31,17 +31,17 @@ Learners review content before engaging in discussion-based activities.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Active Learning](/principles/active-learning.md)
-- [Metacognition](/principles/metacognition.md)
+- [Active Learning](../principles/active-learning.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Reflection](/elements/reflection.md)
-- [Concept Mapping](/elements/concept-mapping.md)
+- [Assigned Readings](assigned-readings.md)
+- [Reflection](reflection.md)
+- [Concept Mapping](concept-mapping.md)
 
 ## Patterns That Use This Element
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Flipped Learning](/patterns/flipped-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Flipped Learning](../patterns/flipped-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

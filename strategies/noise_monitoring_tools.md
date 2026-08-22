@@ -39,7 +39,7 @@ Noise monitoring tools are technological aids used to visually or audibly signal
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the frequency of alerts from the noise monitoring tool. Observe the overall noise level in the classroom before and after implementing the tool. Collect student feedback on their awareness of and ability to manage noise levels.

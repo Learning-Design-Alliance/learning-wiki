@@ -39,8 +39,8 @@ Constructing meaning from words, symbols, and numbers using different representa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of vocabulary and concepts through quizzes or discussions. Track improvements in comprehension and application of knowledge.

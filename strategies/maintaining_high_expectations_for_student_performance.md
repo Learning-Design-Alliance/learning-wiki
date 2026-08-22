@@ -39,9 +39,9 @@ Given that culturally responsive instruction is a student-centered philosophy, i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Increased student achievement, improved student motivation, and a stronger growth mindset.

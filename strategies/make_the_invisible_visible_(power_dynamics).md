@@ -39,9 +39,9 @@ This principle focuses on bringing power dynamics to the forefront and acknowled
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Criteria Development](/elements/criteria-development.md)
-- [Consensus Discussion](/elements/consensus-discussion.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Criteria Development](../elements/criteria-development.md)
+- [Consensus Discussion](../elements/consensus-discussion.md)
 
 ## Assessment Evidence
 - Measure student perceptions of power and belonging in the school environment, track the implementation of more equitable policies and practices, and assess the impact of interventions on student identity development.

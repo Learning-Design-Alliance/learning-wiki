@@ -39,8 +39,8 @@ A belief in excellence, demonstrated by setting high expectations, is the fuel t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Modeling](/elements/modeling.md)
-- [Coaching](/elements/coaching.md)
+- [Modeling](../elements/modeling.md)
+- [Coaching](../elements/coaching.md)
 
 ## Assessment Evidence
 - Student achievement, demonstration of growth, meeting of high expectations.

@@ -39,9 +39,9 @@ Design classroom activities that involve cooperative work rather than competitiv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Application](/elements/application.md)
-- [Consensus Building](/elements/consensus-building.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Application](../elements/application.md)
+- [Consensus Building](../elements/consensus-building.md)
 
 ## Assessment Evidence
 - Observe learner engagement in cooperative activities, monitor their success rates, and assess their sense of responsibility and teamwork. Compare the effectiveness of cooperative activities versus competitive or individualistic activities.

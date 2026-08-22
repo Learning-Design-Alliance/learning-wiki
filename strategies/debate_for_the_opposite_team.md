@@ -39,12 +39,12 @@ Learners are assigned to argue a position that is opposite to their own, requiri
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Positions](/elements/assigned-positions.md)
-- [Argument Construction](/elements/argument-construction.md)
-- [Rebuttals](/elements/rebuttals.md)
-- [Role Reversal](/elements/role-reversal.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Assigned Positions](../elements/assigned-positions.md)
+- [Argument Construction](../elements/argument-construction.md)
+- [Rebuttals](../elements/rebuttals.md)
+- [Role Reversal](../elements/role-reversal.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Assess the quality of arguments, the ability to understand and articulate opposing viewpoints, and the level of critical thinking demonstrated in the debate. Monitor changes in learners' attitudes towards different perspectives.

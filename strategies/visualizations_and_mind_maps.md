@@ -39,8 +39,8 @@ Use visuals such as infographics and mind maps to help transform abstract concep
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Advance Organizers](/elements/advance-organizers.md)
-- [Supportive information](/elements/supportive-information.md)
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Assess learners' ability to explain concepts using the visuals they created or analyzed.

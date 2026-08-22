@@ -39,9 +39,9 @@ Engaging learners in explicit conversations about emotions and social issues, in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Class Discussion](/elements/class-discussion.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Perspective-Taking](/elements/perspective-taking.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
 
 ## Assessment Evidence
 - Observe learners' ability to articulate emotions, demonstrate understanding of social issues, and engage in respectful discussions.

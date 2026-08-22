@@ -39,10 +39,10 @@ Ten research-backed strategies that encourage playful learning, innovative think
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Collaboration](/elements/collaboration.md)
-- [Reflection](/elements/reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Collaboration](../elements/collaboration.md)
+- [Reflection](../elements/reflection.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation in activities. Evaluate the quality of student projects and presentations. Gather feedback from students on their learning experiences. Assess improvements in problem-solving and critical thinking skills.

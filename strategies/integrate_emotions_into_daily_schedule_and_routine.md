@@ -39,9 +39,9 @@ Integrate the teaching of emotions into daily schedules and routines. When revie
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [State objectives](../elements/state-objectives.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track students' ability to anticipate emotions, use coping strategies, and manage behaviors

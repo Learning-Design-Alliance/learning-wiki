@@ -39,8 +39,8 @@ Actively circulating and listening to pair discussions allows teachers to monito
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assess Performance](/elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe the level of student engagement and participation. Listen for evidence of understanding or misconceptions. Note the types of questions students are asking and the connections they are making.

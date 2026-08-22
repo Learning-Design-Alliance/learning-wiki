@@ -19,7 +19,7 @@ sources:
 Instruction should make its structure visible. Learners need to know what they are learning, why it matters, how the content is organized, and what successful performance looks like. Clear structure and presentation reduce avoidable confusion, support attention, and let learners spend effort on the idea or task itself rather than on guessing the lesson's logic.
 
 ## Implications
-Clear structure and presentation matter because learners often waste effort trying to infer what the task is, where the lesson is going, and what counts as success. Visible organization, signaling, and consistent formats reduce that avoidable load and make it easier for learners to focus on the substance of the work [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S]. The practical implication is not just “make materials neat,” but make sequence, goals, and emphasis legible enough that novices can orient themselves without having to decode the design first. Clear goals and criteria also improve focus and task commitment [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S], especially when presentations make the process and sequence of success visible rather than only naming the final destination [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
+Clear structure and presentation matter because learners often waste effort trying to infer what the task is, where the lesson is going, and what counts as success. Visible organization, signaling, and consistent formats reduce that avoidable load and make it easier for learners to focus on the substance of the work [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]. The practical implication is not just “make materials neat,” but make sequence, goals, and emphasis legible enough that novices can orient themselves without having to decode the design first. Clear goals and criteria also improve focus and task commitment [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S], especially when presentations make the process and sequence of success visible rather than only naming the final destination [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
 
 ### Context
 #### Requirements
@@ -49,7 +49,7 @@ Clear structure and presentation matter because learners often waste effort tryi
 ### Theory
 #### Supporting
 - Information-processing perspectives support clear sequencing and signaling because learners remember better when information is organized and cued
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) supports reducing extraneous load through coherent presentation and visible structure
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) supports reducing extraneous load through coherent presentation and visible structure
 - Multimedia and signaling principles support combining words, visuals, and layout in ways that direct attention to important relationships
 - Adult-learning perspectives support transparent expectations and relevance cues, especially for learners balancing multiple responsibilities
 
@@ -59,22 +59,22 @@ Clear structure and presentation matter because learners often waste effort tryi
 - Presentation clarity is strongest when paired with explicit goals and calibrated support rather than generic neatness
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — structured presentation helps learners process fewer, more meaningful units at once
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — clear goals and criteria improve focus and task commitment
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — structure is strongest when instructors also respond to actual learner confusion during delivery
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices benefit when presentations make the process and sequence of success visible, not only the final objective
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — structured presentation helps learners process fewer, more meaningful units at once
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — clear goals and criteria improve focus and task commitment
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — structure is strongest when instructors also respond to actual learner confusion during delivery
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices benefit when presentations make the process and sequence of success visible, not only the final objective
 
 ## Related Principles
-- [Accessible Vocabulary & Syntax](/principles/accessible-vocabulary-syntax.md) — wording clarity and structural clarity are mutually reinforcing
-- [Chunking](/principles/chunking.md) — one of the main mechanisms for clear presentation
-- [Scaffolding and Fading](/principles/scaffolding-and-fading.md) — early structure should support learners until they can navigate more independently
-- [Multimodal Instruction](/principles/multimodal-instruction.md) — multiple modes can clarify structure when they are coherent rather than cluttered
+- [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — wording clarity and structural clarity are mutually reinforcing
+- [Chunking](chunking.md) — one of the main mechanisms for clear presentation
+- [Scaffolding and Fading](scaffolding-and-fading.md) — early structure should support learners until they can navigate more independently
+- [Multimodal Instruction](multimodal-instruction.md) — multiple modes can clarify structure when they are coherent rather than cluttered
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
 - Module overviews, lesson roadmaps, worked agendas, and slide decks with consistent signaling
-- [Flipped Classroom](/patterns/flipped-classroom.md) — especially dependent on clear structure because pre-class and in-class phases must align visibly
-- [State Objectives](/elements/state-objectives.md) and [Advance Organizers](/elements/advance-organizers.md) are concrete ways to implement this principle
+- [Flipped Classroom](../patterns/flipped-classroom.md) — especially dependent on clear structure because pre-class and in-class phases must align visibly
+- [State Objectives](../elements/state-objectives.md) and [Advance Organizers](../elements/advance-organizers.md) are concrete ways to implement this principle
 - Numbered procedures, exemplars, and checklists help make task structure inspectable for novices
 
 ## Key Sources

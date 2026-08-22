@@ -39,9 +39,9 @@ Classroom noise levels significantly impact teacher and student performance. Exc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Measure noise levels in classrooms, track student engagement and achievement, collect feedback from teachers and students.

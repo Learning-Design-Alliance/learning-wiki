@@ -39,8 +39,8 @@ Create an atmosphere that enables teachers to meet the needs of all students. Kn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe classroom climate, gather student and teacher feedback, track changes in student engagement and well-being.

@@ -39,9 +39,9 @@ Allowing or requiring retakes emphasizes a growth mindset and reinforces perseve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Reassessment](/elements/reassessment.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Reassessment](../elements/reassessment.md)
 
 ## Assessment Evidence
 - Number of retakes, improvement in scores over time

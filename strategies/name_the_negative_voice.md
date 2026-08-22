@@ -39,7 +39,7 @@ Have students name their negative inner voice (e.g., Adverse Antoine, Ruthless R
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe how students refer to and interact with their named negative voice.

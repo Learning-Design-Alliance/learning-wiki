@@ -39,9 +39,9 @@ Learners examine famous website hoaxes to identify clues that suggest the site i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assessment](/elements/assessment.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assessment](../elements/assessment.md)
 
 ## Assessment Evidence
 - Learners' ability to identify clues and justify their conclusions about the authenticity of hoax websites.

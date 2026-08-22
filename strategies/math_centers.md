@@ -39,9 +39,9 @@ Math centers involve setting up various stations in the classroom where learners
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation in activities. Collect and review work produced at each station to assess understanding. Monitor collaborative interactions to gauge peer learning.

@@ -39,10 +39,10 @@ Challenge the Text is a strategy that encourages students to critically examine 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Individual Response](/elements/individual-response.md)
-- [Reassessment](/elements/reassessment.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Individual Response](../elements/individual-response.md)
+- [Reassessment](../elements/reassessment.md)
 
 ## Assessment Evidence
 - Quality and depth of student-generated questions. Ability to provide evidence-based responses.

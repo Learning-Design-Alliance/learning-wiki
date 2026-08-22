@@ -39,9 +39,9 @@ This activity enhances empathy and emotional regulation by presenting students w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Case Study](../elements/case-study.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Assess student participation in group discussions, quality of presentations, and depth of reflection on personal biases and emotions.

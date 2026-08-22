@@ -39,8 +39,8 @@ A silent game incentive uses a gamified approach to encourage students to quiet 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the speed and effectiveness of students returning to quiet. Track progress on the game board and reward distribution.

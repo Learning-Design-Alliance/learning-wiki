@@ -39,8 +39,8 @@ Reasonable feedback involves providing feedback that is manageable and not overw
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the focus and balance of feedback provided. Monitor student's ability to identify strengths and areas for improvement in their writing.

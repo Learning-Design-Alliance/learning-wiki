@@ -64,11 +64,11 @@ It is particularly useful when learners need to evaluate explanations in the fac
 
 ### Claims
 #### Supporting
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 
 ## Design
 
@@ -80,16 +80,16 @@ It is particularly useful when learners need to evaluate explanations in the fac
 5. Debrief the reasoning and revise explanations.
 
 ### Elements Used
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Reflection](/elements/reflection.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Reflection](../elements/reflection.md)
 
 ### Affordances
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
-- [Peer Discussion](/principles/peer-discussion.md)
-- [Purposeful Reflection](/principles/purposeful-reflection.md)
-- [Creating Visual Representations](/principles/creating-visual-representations.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)
 
 ### Personalization
 - The number of models and complexity of the evidence can be adjusted by learner readiness.
@@ -97,8 +97,8 @@ It is particularly useful when learners need to evaluate explanations in the fac
 - Supports can include comparison charts, sentence stems, or partially completed evidence tables.
 
 ## Related Patterns
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
-- [Discussion Group](/patterns/discussion-group.md)
+- [Collaborative Inquiry](collaborative-inquiry.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - Earth science learners comparing climate explanations against observational data.

@@ -39,8 +39,8 @@ Shifting from deficit to strengths thinking, which views families as having sign
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess staff's application of leveraging strengths through surveys, observations, and feedback from families. Monitor improvements in family-school partnerships and student outcomes.

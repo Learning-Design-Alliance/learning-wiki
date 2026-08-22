@@ -39,8 +39,8 @@ Use slides or the board to provide another way for learners to get the informati
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe how frequently students rely on this strategy to fill in learning gaps. Talk to students and see if they feel supported.

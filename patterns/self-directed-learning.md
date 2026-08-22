@@ -32,8 +32,8 @@ Self-Directed Learning is the pattern-level target for designs in which learners
 
 ### Theory
 #### Supporting
-- [Self-Directed Learning](/principles/self-directed-learning.md)
-- [Self-Regulation](/principles/self-regulation.md)
+- [Self-Directed Learning](../principles/self-directed-learning.md)
+- [Self-Regulation](../principles/self-regulation.md)
 
 ## Key Sources
 - Knowles, M. S. (1975). *Self-directed learning*. Follett.

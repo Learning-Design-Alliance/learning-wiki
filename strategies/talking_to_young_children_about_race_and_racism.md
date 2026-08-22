@@ -39,9 +39,9 @@ This strategy involves parents and caregivers initiating conversations with youn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Observe the level of engagement in conversations, analyze children's questions and comments, track changes in attitudes and behaviors, and gather feedback from parents and caregivers.

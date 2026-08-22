@@ -39,7 +39,7 @@ Creating schools that buffer external noise from classrooms can improve student 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Teacher surveys, and student surveys

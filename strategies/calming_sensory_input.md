@@ -39,7 +39,7 @@ Providing access to calming sensory input through various means, such as tactile
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation in sensory activities. Collect feedback from learners on the effectiveness of different sensory tools and activities. Track changes in learners' behavior, attention, and emotional regulation.

@@ -39,8 +39,8 @@ These are strategies used to leverage student strengths in order to address chal
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track changes in focus, behavior, and self-reported stress levels. Observe engagement and participation during activities.

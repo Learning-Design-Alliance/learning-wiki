@@ -34,12 +34,12 @@ This page is the short-form canonical target for the integration move within Mer
 
 ### Theory
 #### Supporting
-- [Transfer of Learning](/principles/transfer-of-learning.md)
-- [Reflection](/principles/reflection.md)
+- [Transfer of Learning](../principles/transfer-of-learning.md)
+- [Reflection](../principles/reflection.md)
 
 ## Related Patterns
-- [Merrill's First Principles](/patterns/merrills-first-principles.md)
-- [Merrill's First Principles of Instruction](/patterns/merrills-first-principles-of-instruction.md)
+- [Merrill's First Principles](merrills-first-principles.md)
+- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)

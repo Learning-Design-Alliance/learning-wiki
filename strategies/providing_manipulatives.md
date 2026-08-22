@@ -39,8 +39,8 @@ Providing manipulatives to help make complex concepts concrete supports understa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Concrete modeling](/elements/concrete-modeling.md)
-- [Representational drawing](/elements/representational-drawing.md)
+- [Concrete modeling](../elements/concrete-modeling.md)
+- [Representational drawing](../elements/representational-drawing.md)
 
 ## Assessment Evidence
 - Observe student understanding through manipulation and interaction. Assess improvement in comprehension through problem-solving tasks.

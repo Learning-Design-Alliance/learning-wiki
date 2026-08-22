@@ -39,9 +39,9 @@ A hands-on activity that integrates movement with learning, often involving the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Gain attention](/elements/gain-attention.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Gain attention](../elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation levels. Assess skill development through performance during the tossing activity. Monitor enjoyment and interest in the subject matter.

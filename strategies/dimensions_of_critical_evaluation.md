@@ -39,9 +39,9 @@ Talk with learners about the multiple dimensions of critical evaluation, includi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess learners' ability to define and differentiate between the dimensions of critical evaluation in discussions and written assignments. Evaluate their ability to apply these dimensions when analyzing sources.

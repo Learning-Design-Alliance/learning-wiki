@@ -39,9 +39,9 @@ Distributed practice involves practicing content in short sessions spaced out ov
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Compare long-term retention rates between learners using distributed practice and massed practice. Track decreasing errors in successive distributed practice sessions.

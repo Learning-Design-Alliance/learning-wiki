@@ -39,8 +39,8 @@ Praising learners' efforts and strategies—as opposed to their intelligence—c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track changes in learner motivation and persistence. Measure performance improvements following effort-based praise. Assess the extent to which learners adopt a growth mindset.

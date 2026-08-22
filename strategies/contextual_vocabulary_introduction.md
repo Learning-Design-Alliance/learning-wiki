@@ -39,9 +39,9 @@ Introducing vocabulary words within the context of a story or reading passage al
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Discussion Sections](/elements/discussion-sections.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Discussion Sections](../elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Track learner participation in discussions, analysis of vocabulary in written responses, and demonstration of understanding of the author's use of language. Monitor improvement in reading comprehension and vocabulary acquisition.

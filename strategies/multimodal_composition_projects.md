@@ -39,9 +39,9 @@ Multimodal composition involves learners combining different modes of communicat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate the effectiveness of mode combinations in conveying the intended message. Assess the depth of learner reflection on their design decisions and the feedback they incorporate.

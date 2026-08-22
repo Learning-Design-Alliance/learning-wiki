@@ -39,9 +39,9 @@ Devoting time each week for students to show the effects of different multimodal
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the quality of student explanations and feedback. Analyze the depth of metacognitive reflection. Assess the extent to which students apply the feedback in their own compositions.

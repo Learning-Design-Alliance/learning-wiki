@@ -39,9 +39,9 @@ Integrating art with other subjects like science and history to enhance learning
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess student understanding of the subject matter, creativity, and ability to connect art with the subject.

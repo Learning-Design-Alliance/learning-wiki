@@ -39,8 +39,8 @@ Action planning involves developing explicit plans to consciously modify behavio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Integration](/elements/integration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Evidence of behavioral change, self-reported progress toward goals, and application of learning in new situations.

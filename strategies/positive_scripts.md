@@ -39,8 +39,8 @@ Creating positive scripts involves regularly constructing and narrating upliftin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track changes in self-reported motivation and optimism using questionnaires or journals. Observe improvements in mood, goal-setting, and goal-achievement. Analyze the level of detail and emotional engagement in the created scripts.

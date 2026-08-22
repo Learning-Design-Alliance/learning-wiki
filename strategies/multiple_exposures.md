@@ -39,7 +39,7 @@ Multiple exposures provide students with multiple opportunities to encounter, en
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Retention over time, ability to apply knowledge in different contexts.

@@ -39,9 +39,9 @@ Get used to regularly consulting fact-checking sites. These three nonpartisan si
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Resource Evaluation](/elements/resource-evaluation.md)
-- [Research](/elements/research.md)
-- [Application](/elements/application.md)
+- [Resource Evaluation](../elements/resource-evaluation.md)
+- [Research](../elements/research.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' ability to use fact-checking sites to verify claims and check the authenticity of images.

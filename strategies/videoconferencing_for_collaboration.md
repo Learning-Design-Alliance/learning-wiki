@@ -39,10 +39,10 @@ Videoconferencing platforms with built-in collaboration features such as Microso
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
-- [Shared Documents](/elements/shared-documents.md)
-- [Virtual Whiteboards](/elements/virtual-whiteboards.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Collaborative Problem-Solving](../elements/collaborative-problem-solving.md)
+- [Shared Documents](../elements/shared-documents.md)
+- [Virtual Whiteboards](../elements/virtual-whiteboards.md)
 
 ## Assessment Evidence
 - Participation in online collaboration, quality of teamwork and brainstorming, effectiveness of problem-solving, engagement and communication.

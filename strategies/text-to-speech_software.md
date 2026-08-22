@@ -39,11 +39,11 @@ Text-to-speech (TTS) software converts written text into spoken words, aiding in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
-- [Demonstration](/elements/demonstration.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track usage patterns and student feedback to assess engagement. Compare reading comprehension scores with and without TTS. Monitor the quality of spoken output and customization options used.

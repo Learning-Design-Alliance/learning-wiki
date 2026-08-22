@@ -31,17 +31,17 @@ Learners explore interconnected digital content at their own pace.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Constructivist Learning](/principles/constructivist-learning.md)
-- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
 
 ## Related Elements
-- [Digital Learning](/elements/digital-learning.md)
-- [Multimedia Learning](/elements/multimedia-learning.md)
-- [Self-Paced Learning](/elements/self-paced-learning.md)
+- [Digital Learning](digital-learning.md)
+- [Multimedia Learning](multimedia-learning.md)
+- [Self-Paced Learning](self-paced-learning.md)
 
 ## Patterns That Use This Element
-- [Adaptive Learning](/patterns/adaptive-learning.md)
-- [Multimedia Learning](/patterns/multimedia-learning.md)
+- [Adaptive Learning](../patterns/adaptive-learning.md)
+- [Multimedia Learning](../patterns/multimedia-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

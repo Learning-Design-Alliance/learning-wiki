@@ -31,18 +31,18 @@ Uses comparisons to familiar concepts to support understanding.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Analogical Reasoning](/principles/analogical-reasoning.md)
-- [Constructivist Learning](/principles/constructivist-learning.md)
-- [Cognitive Load Reduction](/principles/cognitive-load-reduction.md)
+- [Analogical Reasoning](../principles/analogical-reasoning.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Cognitive Load Reduction](../principles/cognitive-load-reduction.md)
 
 ## Related Elements
-- [Metaphors](/elements/metaphors.md)
-- [Prior Knowledge Activation](/elements/prior-knowledge-activation.md)
-- [Dual Coding](/elements/dual-coding.md)
+- [Metaphors](metaphors.md)
+- [Prior Knowledge Activation](prior-knowledge-activation.md)
+- [Dual Coding](dual-coding.md)
 
 ## Patterns That Use This Element
-- [Elaboration Theory](/patterns/elaboration-theory.md)
-- [Cognitive Flexibility Theory](/patterns/cognitive-flexibility-theory.md)
+- [Elaboration Theory](../patterns/elaboration-theory.md)
+- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

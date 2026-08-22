@@ -39,8 +39,8 @@ Explicitly model empathy by demonstrating understanding and sharing in the feeli
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Modeling](/elements/modeling.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Modeling](../elements/modeling.md)
 
 ## Assessment Evidence
 - Observe learner interactions and participation in group activities.  Assess learner responses to scenarios requiring empathy.  Collect learner reflections on their understanding and demonstration of empathy.

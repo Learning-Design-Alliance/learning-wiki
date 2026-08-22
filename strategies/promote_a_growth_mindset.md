@@ -39,8 +39,8 @@ Promoting a growth mindset involves giving feedback that values effort and encou
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess students’ attitudes toward learning through observation and participation. Collect feedback from students on their perceptions of the classroom environment and their feelings about their own learning. Analyze student work to identify evidence of effort, persistence, and a growth mindset.

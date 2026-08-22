@@ -31,18 +31,18 @@ Learners counter opposing viewpoints with evidence-based arguments.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Perspective-Taking](/principles/perspective-taking.md)
-- [Rhetorical Skill Development](/principles/rhetorical-skill-development.md)
+- [Social Learning](../principles/social-learning.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
+- [Rhetorical Skill Development](../principles/rhetorical-skill-development.md)
 
 ## Related Elements
-- [Argumentation](/elements/argumentation.md)
-- [Role Reversal](/elements/role-reversal.md)
-- [Perspective-Taking](/elements/perspective-taking.md)
+- [Argumentation](argumentation.md)
+- [Role Reversal](role-reversal.md)
+- [Perspective-Taking](perspective-taking.md)
 
 ## Patterns That Use This Element
-- [Debate](/patterns/debate.md)
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
+- [Debate](../patterns/debate.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

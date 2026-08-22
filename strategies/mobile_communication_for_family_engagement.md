@@ -39,8 +39,8 @@ Utilizing text messages to inform families about their student’s progress, as 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student outcomes and correlate them with the use of mobile communication. Collect feedback from families to assess the relevance and effectiveness of the messages.

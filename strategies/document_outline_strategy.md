@@ -39,9 +39,9 @@ Using the “Document outline” tool in Google Docs, students pick out evidence
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Evaluate students' outlines for accuracy and completeness. Track their ability to summarize information. Collect student reflections on their learning process.

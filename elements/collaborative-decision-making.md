@@ -26,17 +26,17 @@ Collaborative decision-making is the element in which learners evaluate options 
 - Improve shared reasoning, tradeoff analysis, and negotiated judgment.
 
 ### Affordances
-- [Community of Inquiry](/principles/community-of-inquiry.md)
-- [Social Learning](/principles/social-learning.md)
+- [Community of Inquiry](../principles/community-of-inquiry.md)
+- [Social Learning](../principles/social-learning.md)
 
 ## Related Elements
-- [Decision-Making](/elements/decision-making.md)
-- [Consensus Building](/elements/consensus-building.md)
-- [Group Work](/elements/group-work.md)
+- [Decision-Making](decision-making.md)
+- [Consensus Building](consensus-building.md)
+- [Group Work](group-work.md)
 
 ## Patterns That Use This Element
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
 
 ## Examples
 - A team weighs evidence and agrees on a recommendation for a client or case response.

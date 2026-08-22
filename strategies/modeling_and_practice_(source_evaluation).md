@@ -39,9 +39,9 @@ Explicitly model how to evaluate each dimension of source evaluation, and provid
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess learners' ability to apply evaluation strategies in research projects and assignments. Evaluate their ability to verify information, investigate credentials, detect bias, and negotiate perspectives.

@@ -39,10 +39,10 @@ Normalizing struggle involves acknowledging that challenges and failures are a n
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learners' responses to challenges and setbacks, track their progress in overcoming difficulties, and gather feedback on their attitudes towards learning.

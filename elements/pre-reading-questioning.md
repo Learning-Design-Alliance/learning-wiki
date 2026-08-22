@@ -16,12 +16,12 @@ Pre-reading questioning is the element in which learners preview a text through 
 ## Design Implications
 
 ### Affordances
-- [Pre-Reading Questioning](/principles/pre-reading-questioning.md)
-- [Activation](/principles/activation.md)
+- [Pre-Reading Questioning](../principles/pre-reading-questioning.md)
+- [Activation](../principles/activation.md)
 
 ## Related Elements
-- [Pre-Reading Activities](/elements/pre-reading-activities.md)
-- [Prior Knowledge Activation](/elements/prior-knowledge-activation.md)
+- [Pre-Reading Activities](pre-reading-activities.md)
+- [Prior Knowledge Activation](prior-knowledge-activation.md)
 
 ## Key Sources
 - Pressley, M. (2006). *Reading instruction that works*. Guilford Press.

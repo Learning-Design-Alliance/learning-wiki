@@ -39,9 +39,9 @@ Communication boards are visual aids that display symbols, pictures, words, or p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe the frequency and effectiveness of communication board use, assess the user's ability to express thoughts and needs using the board, and gather feedback from users and communication partners.

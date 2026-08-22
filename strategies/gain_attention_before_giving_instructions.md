@@ -39,7 +39,7 @@ Use techniques such as clapping or knocking to signal students to stop, look, an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
+- [Gain attention](../elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe student responsiveness to the attention signal.

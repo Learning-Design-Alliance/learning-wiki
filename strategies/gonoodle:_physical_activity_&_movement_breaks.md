@@ -39,8 +39,8 @@ GoNoodle offers videos and activities to encourage physical activity and movemen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' engagement and participation in the activities. Assess their understanding of the concepts being taught.

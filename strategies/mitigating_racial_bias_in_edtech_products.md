@@ -39,9 +39,9 @@ The AI in Education Toolkit for Racial Equity provides guidance on how to mitiga
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Reduced racial bias in edtech products, improved outcomes for Black and Brown students, and a more equitable educational experience for all.

@@ -39,10 +39,10 @@ Learners engage in problem-solving scenarios in pairs or small groups, connectin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Solution Development](/elements/solution-development.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Reflection](/elements/reflection.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Reflection](../elements/reflection.md)
 
 ## Assessment Evidence
 - Observe the quality of group discussions, the depth of scenario analysis, and the level of self-reflection.

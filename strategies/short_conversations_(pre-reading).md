@@ -39,7 +39,7 @@ Learners are given a sentence from the reading and engage in a conversation with
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the creativity and depth of the conversations. Collect feedback on how well the activity prepared learners for the reading.

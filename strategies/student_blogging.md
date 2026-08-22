@@ -39,8 +39,8 @@ Student blogs allow time to reflect on their mathematical process. Students can 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Application](/elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Improved student understanding, increased student communication, and deeper reflection on learning experiences.

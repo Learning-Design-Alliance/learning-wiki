@@ -17,11 +17,11 @@ Collaborative learning is the short-form canonical pattern for shared work, disc
 ## Design
 
 ### Elements Used
-- [Group Work](/elements/group-work.md)
-- [Collaboration](/elements/collaboration.md)
+- [Group Work](../elements/group-work.md)
+- [Collaboration](../elements/collaboration.md)
 
 ## Related Patterns
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Collaborative Inquiry](collaborative-inquiry.md)
 
 ## Key Sources
 - Johnson, D. W., Johnson, R. T., & Smith, K. A. (2014). Cooperative learning. *Journal on Excellence in College Teaching, 25*(3-4), 85-118.

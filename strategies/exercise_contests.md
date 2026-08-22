@@ -39,8 +39,8 @@ Organize contests to incentivize students to be more physically active, such as 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assess Performance](/elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track participation rates, monitor activity levels, gather feedback from students

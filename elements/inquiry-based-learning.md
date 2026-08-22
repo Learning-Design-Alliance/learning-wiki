@@ -26,12 +26,12 @@ Inquiry-based learning is the element in which learners investigate questions, e
 - Build investigation, explanation, and evidence-based reasoning.
 
 ### Affordances
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
-- [Active Learning](/principles/active-learning.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Active Learning](../principles/active-learning.md)
 
 ## Related Elements
-- [Guided Inquiry](/elements/guided-inquiry.md)
-- [Problem-Based Learning](/elements/problem-based-learning.md)
+- [Guided Inquiry](guided-inquiry.md)
+- [Problem-Based Learning](problem-based-learning.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning. *Educational Psychologist, 42*(2), 99-107.

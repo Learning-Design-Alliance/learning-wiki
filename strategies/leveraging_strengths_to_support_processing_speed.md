@@ -39,8 +39,8 @@ This strategy involves identifying a student’s strengths and using them to add
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student reflection on the effectiveness of the strategy, educator observation of student engagement and performance, analysis of student work samples.

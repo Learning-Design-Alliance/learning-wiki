@@ -55,11 +55,11 @@ LfU is especially useful when designers want inquiry to remain conceptually grou
 
 ### Claims
 #### Supporting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 #### Contradicting
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -70,16 +70,16 @@ LfU is especially useful when designers want inquiry to remain conceptually grou
 4. Revisit what was learned to strengthen transfer and future use.
 
 ### Elements Used
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Scaffolded Inquiry](/elements/scaffolded-inquiry.md)
-- [Practice](/elements/practice.md)
-- [Reflection](/elements/reflection.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Scaffolded Inquiry](../elements/scaffolded-inquiry.md)
+- [Practice](../elements/practice.md)
+- [Reflection](../elements/reflection.md)
 
 ### Affordances
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
-- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md)
-- [Real-world Math](/principles/real-world-math.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
+- [Real-world Math](../principles/real-world-math.md)
 
 ### Personalization
 - Problems can be varied to fit learner interests, roles, or community relevance.
@@ -87,8 +87,8 @@ LfU is especially useful when designers want inquiry to remain conceptually grou
 - Application tasks can take multiple forms as long as they require use of the constructed knowledge.
 
 ## Related Patterns
-- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
-- [Anchored Instruction](/patterns/anchored-instruction.md)
+- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
+- [Anchored Instruction](anchored-instruction.md)
 
 ## Examples
 - Science learners exploring environmental data because they need it to explain a local problem.

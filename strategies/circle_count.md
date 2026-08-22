@@ -39,9 +39,9 @@ Stand in a circle and try to count off as quickly as possible all the way around
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Collaboration](/elements/collaboration.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Collaboration](../elements/collaboration.md)
 
 ## Assessment Evidence
 - Assess students' accuracy and speed in counting. Observe their ability to work seamlessly as a team.

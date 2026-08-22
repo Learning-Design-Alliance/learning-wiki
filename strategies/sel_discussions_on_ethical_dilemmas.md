@@ -39,9 +39,9 @@ This strategy involves using age-appropriate, real-life ethical dilemmas as disc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Decision-Making](/elements/decision-making.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Decision-Making](../elements/decision-making.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, analyze their reasoning and problem-solving approaches, and assess their ability to consider multiple perspectives and ethical principles.

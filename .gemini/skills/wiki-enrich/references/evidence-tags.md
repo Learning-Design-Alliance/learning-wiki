@@ -13,10 +13,10 @@ Embed inline in prose wherever a claim is made. The tag describes the **directio
 
 **Direction rule:** Claims in a **Constraints** section MUST use `[-]` or `[~]`, never `[+]`. A constraint is a condition where the approach fails — the tag must reflect that direction.
 
-**Cross-link + tag format.** Always use a standard markdown link to the bundle-relative path. The correct format is:
+**Cross-link + tag format.** Always use a standard markdown link, relative to the page being written (`../claims/slug.md` from any other content folder). The correct format is:
 
 ```
-[Claim statement](/claims/slug.md) [+M]
+[Claim statement](../claims/slug.md) [+M]
 ```
 
 NOT plain text like `claims/slug [+M]`. The markdown link is required — without it the reference won't resolve.

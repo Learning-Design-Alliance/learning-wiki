@@ -39,9 +39,9 @@ Integrate direct instruction on understanding and managing emotions, as well as 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe learner participation and contributions to discussions. Assess learner understanding of emotional literacy and social issues through written assignments or presentations. Collect learner reflections on their learning and growth.

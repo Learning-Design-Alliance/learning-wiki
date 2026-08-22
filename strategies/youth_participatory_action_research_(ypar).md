@@ -39,14 +39,14 @@ Youth Participatory Action Research (YPAR) is an approach where young people col
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Solution Development](/elements/solution-development.md)
-- [Application](/elements/application.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assess Performance](/elements/assess-performance.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
+- [Application](../elements/application.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the number of youth involved in YPAR projects, the types of issues addressed, and the actions taken as a result of the research. Collect feedback from youth and adults involved in the process to assess their experiences and learning. Measure the impact of YPAR projects on community change, such as policy changes or improved outcomes.

@@ -39,8 +39,8 @@ Creative activities such as arts and crafts can help learners explore their crea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Demonstration](/elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observation of learner engagement and creativity

@@ -39,8 +39,8 @@ Shadowing involves following a student throughout their school day to gain insig
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation](/elements/observation.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Observation](../elements/observation.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess changes in teacher behavior, improvements in student support strategies, gather feedback from students and educators

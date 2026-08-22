@@ -39,10 +39,10 @@ Collaborative storytelling involves students working in pairs to co-create a nar
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Evaluate the quality and complexity of the written stories, observe student participation and collaboration during pair work, assess the clarity and creativity of story presentations.

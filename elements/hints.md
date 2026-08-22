@@ -40,18 +40,18 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - Maintain momentum while supporting independence and strategy use.
 
 ### Affordances
-- [Scaffolding and Fading](/principles/scaffolding-and-fading.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
-- [Guided Practice](/principles/guided-practice.md)
+- [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Guided Practice](../principles/guided-practice.md)
 
 ## Related Elements
-- [Feedback](/elements/feedback.md)
-- [Coaching](/elements/coaching.md)
-- [Worked Examples](/elements/worked-examples.md)
+- [Feedback](feedback.md)
+- [Coaching](coaching.md)
+- [Worked Examples](worked-examples.md)
 
 ## Patterns That Use This Element
-- [Mastery Learning](/patterns/mastery-learning.md)
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](/patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Examples
 - A tutoring system offers a first hint that points to the next subgoal, then a later hint that shows the relevant formula.

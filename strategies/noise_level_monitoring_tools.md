@@ -39,8 +39,8 @@ Using electronic tools to monitor classroom noise levels and provide auditory or
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the frequency and duration of noise level alerts. Monitor the overall noise level in the classroom. Gather student feedback on the effectiveness of the tool.

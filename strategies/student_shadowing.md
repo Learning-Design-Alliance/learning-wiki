@@ -39,13 +39,13 @@ An adult (educator, administrator, or school leader) follows a student throughou
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Solution Development](/elements/solution-development.md)
-- [Question Formulation](/elements/question-formulation.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Observations of student engagement, interactions, and access to resources; educator reflections on insights gained; changes in teaching practices or school policies; student feedback on implemented changes.

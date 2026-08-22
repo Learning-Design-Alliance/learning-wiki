@@ -14,5 +14,5 @@ generated:
 Virtual whiteboards are the element in which learners sketch, annotate, and collaborate in a shared digital visual workspace.
 
 ## Affordances
-- [Digital Learning](/principles/digital-learning.md)
-- [Creating Visual Representations](/principles/creating-visual-representations.md)
+- [Digital Learning](../principles/digital-learning.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)

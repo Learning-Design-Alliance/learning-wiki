@@ -26,12 +26,12 @@ Observation is the short-form canonical target for instructional activities in w
 - Improve noticing, evidence gathering, and situated understanding.
 
 ### Affordances
-- [Observation/Shadowing](/principles/observationshadowing.md)
-- [Metacognition](/principles/metacognition.md)
+- [Observation/Shadowing](../principles/observationshadowing.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Demonstration](/elements/demonstration.md)
-- [Contextualization](/elements/contextualization.md)
+- [Demonstration](demonstration.md)
+- [Contextualization](contextualization.md)
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.

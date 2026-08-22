@@ -39,8 +39,8 @@ Ask students to bring something from home that makes their classroom feel more l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student behavior and engagement, gather feedback from students

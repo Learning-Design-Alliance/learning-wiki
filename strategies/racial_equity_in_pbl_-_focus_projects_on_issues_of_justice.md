@@ -39,8 +39,8 @@ Authentic projects that address issues of justice lead to higher student engagem
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Solution Development](/elements/solution-development.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Student participation, depth of engagement with the issue, quality of proposed solutions.

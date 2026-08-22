@@ -31,17 +31,17 @@ Supplementary activities designed to reinforce learning and provide formative fe
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Retrieval Practice](/principles/retrieval-practice.md)
-- [Formative Assessment](/principles/formative-assessment.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
+- [Formative Assessment](../principles/formative-assessment.md)
 
 ## Related Elements
-- [Formative Assessment](/elements/formative-assessment.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Self-Testing](/elements/self-testing.md)
+- [Formative Assessment](formative-assessment.md)
+- [Peer Discussion](peer-discussion.md)
+- [Self-Testing](self-testing.md)
 
 ## Patterns That Use This Element
-- [Traditional Lecture-Based Instruction](/patterns/traditional-lecture-based-instruction.md)
-- [Flipped Classroom](/patterns/flipped-classroom.md)
+- [Traditional Lecture-Based Instruction](../patterns/traditional-lecture-based-instruction.md)
+- [Flipped Classroom](../patterns/flipped-classroom.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

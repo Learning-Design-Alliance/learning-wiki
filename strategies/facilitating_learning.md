@@ -39,9 +39,9 @@ Teachers should redirect their role in the classroom from instructor to facilita
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Inquiry-based Learning](/elements/inquiry-based-learning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Inquiry-based Learning](../elements/inquiry-based-learning.md)
 
 ## Assessment Evidence
 - Increased student engagement and participation, improved classroom climate, and greater student ownership of learning.

@@ -39,10 +39,10 @@ Using problem-based learning in multi-cultural groups helps learners get used to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
-- [Consensus Building](/elements/consensus-building.md)
-- [Perspective-Taking](/elements/perspective-taking.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Problem-Solving](../elements/collaborative-problem-solving.md)
+- [Consensus Building](../elements/consensus-building.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
 
 ## Assessment Evidence
 - Observe team dynamics, assess the quality of collaborative solutions, and evaluate individual contributions to the team effort.

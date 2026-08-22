@@ -39,10 +39,10 @@ This strategy requires readers to evaluate or draw conclusions from information 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Response](/elements/individual-response.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Reassessment](/elements/reassessment.md)
-- [Case Study](/elements/case-study.md)
+- [Individual Response](../elements/individual-response.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Reassessment](../elements/reassessment.md)
+- [Case Study](../elements/case-study.md)
 
 ## Assessment Evidence
 - Assess learners' ability to make accurate inferences through discussions, written responses, or graphic organizers that demonstrate their reasoning and connection of ideas.

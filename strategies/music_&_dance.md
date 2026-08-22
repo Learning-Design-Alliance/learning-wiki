@@ -39,9 +39,9 @@ Incorporate music and dance into the learning environment to engage verbal, visu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in movement activities. Assess retention of content taught through music and dance. Collect feedback from learners on their experience and understanding.

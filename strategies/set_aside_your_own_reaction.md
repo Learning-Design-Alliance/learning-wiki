@@ -39,7 +39,7 @@ Responding with empathy means letting studentsâ€™ reactions come first. You donâ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Monitor communication patterns, observe interactions, gather feedback from students

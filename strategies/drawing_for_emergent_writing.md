@@ -39,11 +39,11 @@ Drawing activities support emergent writing by allowing unstructured drawing tim
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe students' drawings and writing samples for increasing complexity, detail, and coherence. Assess students' ability to verbally connect their drawings to their writing and ideas.

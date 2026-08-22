@@ -39,7 +39,7 @@ Implement short exercise sessions throughout the school day, such as encouraging
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student behavior and attention levels, track student participation in exercise breaks, gather feedback from students and teachers

@@ -31,17 +31,17 @@ Learners assess the credibility and relevance of sources.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Metacognition](/principles/metacognition.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Metacognition](../principles/metacognition.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Research](/elements/research.md)
-- [Criteria Development](/elements/criteria-development.md)
-- [Information Literacy](/elements/information-literacy.md)
+- [Research](research.md)
+- [Criteria Development](criteria-development.md)
+- [Information Literacy](information-literacy.md)
 
 ## Patterns That Use This Element
-- [Inquiry-Based Learning](/patterns/inquiry-based-learning.md)
-- [Research-Based Learning](/patterns/research-based-learning.md)
+- [Inquiry-Based Learning](../patterns/inquiry-based-learning.md)
+- [Research-Based Learning](../patterns/research-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

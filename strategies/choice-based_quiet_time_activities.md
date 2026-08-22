@@ -39,8 +39,8 @@ Choice-based activities during quiet time give students the power to select thei
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student behavior and engagement during quiet time. Track the types of activities students choose.

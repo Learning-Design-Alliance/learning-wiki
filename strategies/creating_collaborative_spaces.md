@@ -39,9 +39,9 @@ Creating collaborative spaces involves designing the learning environment to fac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Application](/elements/application.md)
+- [Practice](../elements/practice.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learner interaction and collaboration in group activities. Collect learner feedback on the impact of collaborative spaces on their learning. Measure learner achievement and compare outcomes in collaborative learning environments versus traditional learning environments.

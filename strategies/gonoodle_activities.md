@@ -39,10 +39,10 @@ GoNoodle provides interactive videos that encourage learners to engage in moveme
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Gain attention](/elements/gain-attention.md)
-- [Application](/elements/application.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Monitor student engagement, participation, and focus during and after GoNoodle activities.

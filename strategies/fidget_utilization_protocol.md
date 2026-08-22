@@ -39,9 +39,9 @@ Fidgets are tools to aid focus and self-regulation, not toys. This strategy invo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observation of improved focus, reduced fidgeting, and adherence to rules. Monitoring of self-regulation skills.

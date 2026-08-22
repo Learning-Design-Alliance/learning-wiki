@@ -39,10 +39,10 @@ Student models are examples of writing produced by other students, typically cur
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Improvements in learner writing quality as evidenced by better structure, clarity, and use of techniques observed in the models. Increased self-awareness and critical analysis skills demonstrated through reflective writing and peer feedback.

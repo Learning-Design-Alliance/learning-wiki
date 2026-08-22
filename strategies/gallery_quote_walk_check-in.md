@@ -39,8 +39,8 @@ Students read displayed quotes and choose one that reflects their current feelin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation in selecting and sharing quotes. Assess the thoughtfulness and specificity of students' explanations of their quotes.

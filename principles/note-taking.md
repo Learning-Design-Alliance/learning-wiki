@@ -27,7 +27,7 @@ sources:
 Note-taking is the instructional principle of helping learners externalize important information, structure, and interpretation while reading, listening, observing, or solving problems. Good notes do more than record facts: they direct attention, support later review, and help learners decide what matters, how ideas connect, and what they still do not understand. Because poor notes can also reinforce confusion, note-taking usually needs explicit teaching, modeling, and adaptation to the type of task.
 
 ## Implications
-Note-taking helps when it turns attention into an organized external record rather than into frantic transcription. Selective, structured notes can reduce working-memory demands by chunking and externalizing information [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S], and they can improve monitoring because learners have to decide what matters and where gaps remain [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]. The main instructional risk is that note-taking can split attention or preserve misunderstanding if learners capture too much, too little, or the wrong thing. Strong note-taking instruction therefore models how to transform information, not just how to write it down, so that notes support explanation and later reuse rather than passive copying [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S].
+Note-taking helps when it turns attention into an organized external record rather than into frantic transcription. Selective, structured notes can reduce working-memory demands by chunking and externalizing information [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S], and they can improve monitoring because learners have to decide what matters and where gaps remain [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]. The main instructional risk is that note-taking can split attention or preserve misunderstanding if learners capture too much, too little, or the wrong thing. Strong note-taking instruction therefore models how to transform information, not just how to write it down, so that notes support explanation and later reuse rather than passive copying [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S].
 
 ### Context
 #### Requirements
@@ -56,22 +56,22 @@ Note-taking helps when it turns attention into an organized external record rath
 ### Theory
 #### Supporting
 - Information processing views — note-taking can strengthen encoding and retrieval when learners process material actively.
-- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — structured notes can reduce working-memory demands by externalizing information and relationships.
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — structured notes can reduce working-memory demands by externalizing information and relationships.
 - Self-regulated learning — notes support monitoring, planning, and later strategy adjustment.
 #### Contradicting / Qualifying
 - Notes help most when learners transform information rather than simply transcribe it.
 - Some fast-paced or conceptually dense moments may require provided scaffolds or partial notes so learners can still comprehend in real time.
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — structured notes help by externalizing and organizing information that would otherwise compete for working memory
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — note-taking supports learners in noticing what they understand, what they missed, and what they need next
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S] — notes become more powerful when they transform information through summary, connection, or question rather than copying
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — structured notes help by externalizing and organizing information that would otherwise compete for working memory
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — note-taking supports learners in noticing what they understand, what they missed, and what they need next
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — notes become more powerful when they transform information through summary, connection, or question rather than copying
 
 ## Related Principles
-- [Graphic Organizers](/principles/graphic-organizers.md) — graphic note formats can make structure and relationships more visible.
-- [Handouts/Online Guides/Visual Reading Aids](/principles/handoutsonline-guidesvisual-reading-aids.md) — guided notes and visual cues can improve note quality.
-- [Journaling](/principles/journaling.md) — both practices externalize thinking, but note-taking is usually more selective and task-focused.
-- [Pre-Reading Questioning](/principles/pre-reading-questioning.md) — questions can shape what learners attend to and record.
+- [Graphic Organizers](graphic-organizers.md) — graphic note formats can make structure and relationships more visible.
+- [Handouts/Online Guides/Visual Reading Aids](handoutsonline-guidesvisual-reading-aids.md) — guided notes and visual cues can improve note quality.
+- [Journaling](journaling.md) — both practices externalize thinking, but note-taking is usually more selective and task-focused.
+- [Pre-Reading Questioning](pre-reading-questioning.md) — questions can shape what learners attend to and record.
 
 ## Examples
 - **Cornell-style notes**: Learners separate key ideas, details, and later summary or questions.

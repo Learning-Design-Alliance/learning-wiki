@@ -39,7 +39,7 @@ Call-and-response involves the instructor initiating a phrase or word, and the s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
+- [Gain attention](../elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe how quickly and consistently students respond to the call-and-response. Monitor the noise level in the classroom before and after using the technique.

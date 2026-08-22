@@ -39,7 +39,7 @@ Poor indoor air quality is a major contributor to absenteeism. This strategy inv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student engagement levels, observe student health levels, measure productivity (e.g., task completion rates). Compare academic outcomes in classrooms with and without air quality adjustment.

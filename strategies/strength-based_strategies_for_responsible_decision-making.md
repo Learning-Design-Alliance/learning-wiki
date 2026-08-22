@@ -39,13 +39,13 @@ Educators identify students' strengths related to responsible decision-making an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Problem Scenario](/elements/problem-scenario.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Problem Scenario](../elements/problem-scenario.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions, analyze graphic organizers and decision-making tools, assess student reflections, and monitor changes in student behavior and ethical decision-making. Gather feedback from students on the effectiveness of the strategies.

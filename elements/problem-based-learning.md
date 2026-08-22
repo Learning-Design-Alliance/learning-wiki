@@ -36,18 +36,18 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - Use problems to drive knowledge construction and solution development.
 
 ### Affordances
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Active Learning](/principles/active-learning.md)
-- [Constructivism](/principles/constructivism.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Active Learning](../principles/active-learning.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Related Elements
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Scenario-Based Learning](/elements/scenario-based-learning.md)
-- [Collaborative Problem Solving](/elements/collaborative-problem-solving.md)
+- [Problem Scenario](problem-scenario.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
+- [Collaborative Problem Solving](collaborative-problem-solving.md)
 
 ## Patterns That Use This Element
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
-- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 - A case, challenge, or scenario that learners must investigate before formal explanation.

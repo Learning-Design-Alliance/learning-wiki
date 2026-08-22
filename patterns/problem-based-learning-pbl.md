@@ -64,11 +64,11 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 
 ### Claims
 #### Supporting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
 #### Contradicting
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -80,16 +80,16 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 5. Debrief what was learned about both the problem and the inquiry process.
 
 ### Elements Used
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Problem-Solving Tasks](/elements/problem-solving-tasks.md)
-- [Reflection](/elements/reflection.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Problem-Solving Tasks](../elements/problem-solving-tasks.md)
+- [Reflection](../elements/reflection.md)
 
 ### Affordances
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
-- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md)
-- [Guided Practice](/principles/guided-practice.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
+- [Guided Practice](../principles/guided-practice.md)
 
 ### Personalization
 - Problems can be selected or adapted for learner context and domain.
@@ -97,8 +97,8 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 - Products can vary, including presentations, proposals, designs, or cases.
 
 ## Related Patterns
-- [Anchored Instruction](/patterns/anchored-instruction.md)
-- [Case-Based Learning (Harvard Method)](/patterns/case-based-learning-harvard-method.md)
+- [Anchored Instruction](anchored-instruction.md)
+- [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md)
 
 ## Examples
 - Medical learners diagnosing and responding to a patient scenario.

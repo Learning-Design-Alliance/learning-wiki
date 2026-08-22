@@ -39,10 +39,10 @@ Learners regularly select work samples, reflect on their choices, and organize t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Review portfolio content for evidence of student learning and reflection. Assess the depth and quality of student reflections. Gather feedback from students and teachers regarding the value of portfolio development.

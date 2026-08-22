@@ -39,8 +39,8 @@ One-on-one conferences involve providing individualized feedback to a learner in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe changes in learner performance and attitude. Track learner progress. Analyze the effectiveness of the conference.

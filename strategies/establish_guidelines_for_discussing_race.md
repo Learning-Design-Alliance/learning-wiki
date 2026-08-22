@@ -39,9 +39,9 @@ Establish guidelines or agreements for group members to make when having discuss
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Assigned Positions](/elements/assigned-positions.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Assigned Positions](../elements/assigned-positions.md)
 
 ## Assessment Evidence
 - Observe the level of engagement in discussions, track the use of respectful language and behaviors, gather feedback from participants, and analyze the depth of understanding and empathy demonstrated.

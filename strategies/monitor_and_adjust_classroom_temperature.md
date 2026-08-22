@@ -39,7 +39,7 @@ Maintaining an optimal temperature range (68º and 74º Fahrenheit) in classroom
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student engagement levels, observe concentration and focus, measure productivity (e.g., task completion rates). Compare academic outcomes in classrooms with and without temperature control.

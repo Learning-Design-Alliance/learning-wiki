@@ -37,9 +37,9 @@ Novices in all example-based conditions outperformed the problem-only condition 
 
 ## Discussion
 
-This page exists because multiple principle and index pages reference `[Example-problem sequences reduce cognitive load and improve learning outcomes.](/claims/example-problem-sequences-reduce-cognitive-load.md)`. The fuller treatment of the same claim is in [Example–problem sequences reduce cognitive load and improve learning outcomes](/claims/worked-examples-example-problem-sequences.md).
+This page exists because multiple principle and index pages reference `[Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md)`. The fuller treatment of the same claim is in [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-examples-example-problem-sequences.md).
 
 ## Related Claims
-- [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md)
-- [Pairing worked examples with practice or fading supports transfer better than examples alone.](/claims/worked-examples-with-practice-improve-transfer.md)
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](/claims/worked-examples-example-problem-sequences.md)
+- [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
+- [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md)
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-examples-example-problem-sequences.md)

@@ -39,9 +39,9 @@ Educational posters are visual aids that add color and helpful resources to a cl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student engagement and interaction. Evaluate the clarity and effectiveness of visual elements. Assess understanding of key concepts.

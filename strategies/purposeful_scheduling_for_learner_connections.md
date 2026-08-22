@@ -39,8 +39,8 @@ Instructors can allocate class time specifically for getting to know learners th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe increased learner participation, positive feedback, and reduced behavioral issues. The instructor can gather insights into learner interests and experiences through class discussions and individual responses.

@@ -24,7 +24,7 @@ Analogical reasoning is the principle of using relational similarity between a f
 
 ## Implications
 
-Analogical reasoning is most valuable when learners need help seeing a new concept through the structure of something they already understand. The principle works best when the analogy highlights deep relational similarity rather than superficial resemblance alone, because a coherent mapping can reduce interpretive burden and help learners organize new information [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S]. In instruction, that means the teacher or task must help learners map the source and target explicitly, notice where the analogy is helpful, and identify where it breaks down; analogies become even stronger when learners explain why the mapping works [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. Poor analogies do not merely fail to help; they can actively mislead by inviting false transfer from surface features, though even confident misreadings can become productive if the mismatch is made explicit and corrected [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [~M].
+Analogical reasoning is most valuable when learners need help seeing a new concept through the structure of something they already understand. The principle works best when the analogy highlights deep relational similarity rather than superficial resemblance alone, because a coherent mapping can reduce interpretive burden and help learners organize new information [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]. In instruction, that means the teacher or task must help learners map the source and target explicitly, notice where the analogy is helpful, and identify where it breaks down; analogies become even stronger when learners explain why the mapping works [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Poor analogies do not merely fail to help; they can actively mislead by inviting false transfer from surface features, though even confident misreadings can become productive if the mismatch is made explicit and corrected [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M].
 
 ### Context
 #### Requirements
@@ -49,29 +49,29 @@ Analogical reasoning is most valuable when learners need help seeing a new conce
 ### Theory
 #### Supporting
 - Structure-mapping perspectives on analogy — analogical reasoning works when relational correspondences are preserved across domains
-- [Metaphors & Analogies](/principles/metaphors-analogies.md) — provides the broader family of instructional moves that analogical reasoning belongs to
-- [Information Processing Theory](/theories/information-processing-theory.md) — analogies can reduce interpretive burden by linking new content to existing schema
+- [Metaphors & Analogies](metaphors-analogies.md) — provides the broader family of instructional moves that analogical reasoning belongs to
+- [Information Processing Theory](../theories/information-processing-theory.md) — analogies can reduce interpretive burden by linking new content to existing schema
 
 #### Contradicting / Qualifying
-- [Constructivism](/theories/constructivism.md) — analogies support construction of meaning, but only if learners actively interpret and test the mapping rather than accept it uncritically
+- [Constructivism](../theories/constructivism.md) — analogies support construction of meaning, but only if learners actively interpret and test the mapping rather than accept it uncritically
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S] — analogies can support chunking and organization when the relational mapping is coherent
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — analogies become stronger when learners explain why the mapping works
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [~M] — analogies that trigger confident but incorrect predictions can still be instructionally useful if the mismatch is corrected explicitly
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — analogies can support chunking and organization when the relational mapping is coherent
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — analogies become stronger when learners explain why the mapping works
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — analogies that trigger confident but incorrect predictions can still be instructionally useful if the mismatch is corrected explicitly
 
 ## Related Principles
-- [Metaphors & Analogies](/principles/metaphors-analogies.md) — analogical reasoning is one of the strongest structured forms of analogy use in teaching
-- [Activation](/principles/activation.md) — analogies often work by activating prior knowledge before introducing a new concept
-- [Constructivist Learning](/principles/constructivist-learning.md) — analogies help learners build new understanding out of familiar structures
+- [Metaphors & Analogies](metaphors-analogies.md) — analogical reasoning is one of the strongest structured forms of analogy use in teaching
+- [Activation](activation.md) — analogies often work by activating prior knowledge before introducing a new concept
+- [Constructivist Learning](constructivist-learning.md) — analogies help learners build new understanding out of familiar structures
 
 ## Examples
 
 ### Illustrative
 
-**[Analogies](/elements/analogies.md)** — A teacher explains electric current through a water-flow analogy, then explicitly identifies where the analogy helps and where it breaks down.
+**[Analogies](../elements/analogies.md)** — A teacher explains electric current through a water-flow analogy, then explicitly identifies where the analogy helps and where it breaks down.
 
-**[Metaphors](/elements/metaphors.md)** — Learners compare the structure of an atom to a solar system model, then critique the limits of the comparison so the metaphor does not harden into misconception.
+**[Metaphors](../elements/metaphors.md)** — Learners compare the structure of an atom to a solar system model, then critique the limits of the comparison so the metaphor does not harden into misconception.
 
 **Comparing parallel cases** — In math or science, learners study two situations with different surface details but the same underlying relationship, then explain the shared structure before solving a new transfer problem.
 

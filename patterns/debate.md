@@ -17,12 +17,12 @@ Debate is the short-form canonical pattern for structured instructional argument
 ## Design
 
 ### Elements Used
-- [Debate](/elements/debate.md)
-- [Structured Debate](/elements/structured-debate.md)
-- [Justification](/elements/justification.md)
+- [Debate](../elements/debate.md)
+- [Structured Debate](../elements/structured-debate.md)
+- [Justification](../elements/justification.md)
 
 ## Related Patterns
-- [Debate Format](/patterns/debate-format.md)
+- [Debate Format](debate-format.md)
 
 ## Key Sources
 - Kuhn, D. (1991). *The skills of argument*. Cambridge University Press.

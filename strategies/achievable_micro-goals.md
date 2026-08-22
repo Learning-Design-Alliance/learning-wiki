@@ -39,9 +39,9 @@ Setting achievable micro-goals encourages consistent, incremental progress, lead
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [State objectives](../elements/state-objectives.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track learner progress towards micro-goals, monitor their confidence levels, and observe their persistence in the face of challenges. Compare performance between learners who are using micro-goals and those who are not.

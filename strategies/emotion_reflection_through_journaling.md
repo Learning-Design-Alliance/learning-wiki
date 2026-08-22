@@ -39,9 +39,9 @@ Learners reflect on experiences, tracking patterns in their emotions and behavio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track the depth and consistency of journal entries. Monitor the learner's ability to identify patterns in their emotions and behaviors. Assess the clarity and achievability of learner-set goals.

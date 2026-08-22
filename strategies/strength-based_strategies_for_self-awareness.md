@@ -39,13 +39,13 @@ Educators identify and support students by recognizing their strengths related t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Argument Construction](/elements/argument-construction.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Argument Construction](../elements/argument-construction.md)
 
 ## Assessment Evidence
 - Observe student participation in activities, analyze journal entries and reflections, assess the accuracy of estimations and predictions, and monitor changes in student behavior and emotional identification. Gather feedback from students on the effectiveness of the strategies.

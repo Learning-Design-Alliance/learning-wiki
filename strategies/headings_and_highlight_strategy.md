@@ -39,10 +39,10 @@ Students read an excerpt of a difficult article in Google Docs. First, they high
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Evaluate students' headings and highlights for accuracy and relevance. Track their ability to justify their thinking. Collect student reflections on their learning process.

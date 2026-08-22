@@ -39,7 +39,7 @@ A set of six questions designed to help evaluate the trustworthiness of a news s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Ability to answer questions about the credibility of a news story

@@ -33,7 +33,7 @@ Quiet learning spaces reduce competing demands on attention so learners can focu
 This principle matters most when the task requires concentration, comprehension, memory, or self-regulation. Quiet spaces are not the only effective learning environments, and total silence is not always necessary, but instructors should deliberately reduce avoidable distractions when the cognitive demands of the task are high.
 
 ## Implications
-Quiet learning spaces matter when the task places heavy demands on concentration, comprehension, or self-regulation. Reducing interruptions and noise can lower extraneous processing demands [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S] and make it easier for learners to monitor and protect their own attention [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. The design implication is not universal silence. It is better alignment between environment and task: some work requires calm and low interruption, while other work depends on purposeful interaction.
+Quiet learning spaces matter when the task places heavy demands on concentration, comprehension, or self-regulation. Reducing interruptions and noise can lower extraneous processing demands [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] and make it easier for learners to monitor and protect their own attention [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. The design implication is not universal silence. It is better alignment between environment and task: some work requires calm and low interruption, while other work depends on purposeful interaction.
 
 ### Context
 #### Requirements
@@ -69,14 +69,14 @@ Quiet learning spaces matter when the task places heavy demands on concentration
 - Collaborative discussion, oral rehearsal, and socially interactive work may require intentionally non-quiet settings.
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S] — reducing distraction can leave more working-memory capacity available for the actual learning task
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — focus-friendly routines can help learners notice and manage distraction more deliberately
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — reducing distraction can leave more working-memory capacity available for the actual learning task
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — focus-friendly routines can help learners notice and manage distraction more deliberately
 
 ## Related Principles
-- [Instructor Accessibility](/principles/instructor-accessibility.md) — accessible learning conditions include environmental supports, not just interpersonal support.
-- [Check-ins](/principles/check-ins.md) — regular check-ins can surface environmental barriers that undermine focus.
-- [Physical Activity](/principles/physical-activity.md) — learners may need a mix of calm focus conditions and intentional movement breaks.
-- [Clear Structure & Presentation](/principles/clear-structure-presentation.md) — environmental clarity and instructional clarity often work together.
+- [Instructor Accessibility](instructor-accessibility.md) — accessible learning conditions include environmental supports, not just interpersonal support.
+- [Check-ins](check-ins.md) — regular check-ins can surface environmental barriers that undermine focus.
+- [Physical Activity](physical-activity.md) — learners may need a mix of calm focus conditions and intentional movement breaks.
+- [Clear Structure & Presentation](clear-structure-presentation.md) — environmental clarity and instructional clarity often work together.
 
 ## Examples
 - **Dedicated reading zone**: A library corner, side room, or protected class interval used for uninterrupted reading or writing.

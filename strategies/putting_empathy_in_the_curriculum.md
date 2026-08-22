@@ -39,8 +39,8 @@ Explicitly discuss empathy with students and integrate it into existing lessons.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Case Study](/elements/case-study.md)
-- [Role Reversal](/elements/role-reversal.md)
+- [Case Study](../elements/case-study.md)
+- [Role Reversal](../elements/role-reversal.md)
 
 ## Assessment Evidence
 - Assess student understanding of empathy through written assignments, class discussions, and role-playing activities.

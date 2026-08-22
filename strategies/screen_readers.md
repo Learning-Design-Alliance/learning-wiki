@@ -39,8 +39,8 @@ Screen readers convert text into spoken audio, enabling learners to listen to wr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess comprehension through quizzes, discussions, or written assignments, compare performance with traditional reading tasks.

@@ -39,10 +39,10 @@ Picture writing unlocks the imagination, builds confidence, and develops foundat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Assess children's ability to match their words to their pictures. Evaluate the development of their writing skills over time. Observe their engagement and enthusiasm during picture writing activities.

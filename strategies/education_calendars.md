@@ -39,9 +39,9 @@ Education calendars are visual aids designed to keep students, parents, and teac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Demonstration](/elements/demonstration.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Track readership and engagement. Evaluate the clarity and effectiveness of communication. Collect feedback on content and design.

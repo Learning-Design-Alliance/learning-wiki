@@ -39,14 +39,14 @@ CRA is an instructional approach that uses concrete materials, visual representa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
-- [Procedural information](/elements/procedural-information.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Simple-to-complex sequencing](/elements/simple-to-complex-sequencing.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Procedural information](../elements/procedural-information.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md)
 
 ## Assessment Evidence
 - Learner mastery at each level (concrete, representational, and abstract) can be assessed through observation, performance-based tasks, and formal assessments. Ability to explain solutions and problem-solving processes.

@@ -23,7 +23,7 @@ sources:
 Assessment for learning is the principle that assessment should be used during instruction to support learning, not only after instruction to certify it. The central question is not "What grade does this produce?" but "What does this evidence suggest we should do next?" It overlaps strongly with formative assessment, but highlights the instructional purpose of assessment evidence: clarifying goals, surfacing current understanding, and guiding revision.
 
 ## Implications
-Assessment for learning works when evidence changes what happens next for the learner or the instructor. Midstream checks are most useful when they clarify the target, expose current misunderstandings, and create an immediate next move such as regrouping, reteaching, revising, or choosing a new strategy [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]. This is also why low-stakes design matters: learners are more likely to reveal uncertainty when the checkpoint is framed as information for improvement rather than judgment, and that makes the evidence more instructionally useful for both self-monitoring [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] and process-focused revision rather than mere answer chasing [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M].
+Assessment for learning works when evidence changes what happens next for the learner or the instructor. Midstream checks are most useful when they clarify the target, expose current misunderstandings, and create an immediate next move such as regrouping, reteaching, revising, or choosing a new strategy [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]. This is also why low-stakes design matters: learners are more likely to reveal uncertainty when the checkpoint is framed as information for improvement rather than judgment, and that makes the evidence more instructionally useful for both self-monitoring [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] and process-focused revision rather than mere answer chasing [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M].
 
 ### Context
 #### Requirements
@@ -55,15 +55,15 @@ Assessment for learning works when evidence changes what happens next for the le
 - High-stakes accountability systems can distort the learning function of assessment.
 
 ### Claims
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — assessment evidence matters when it leads to a responsive next instructional move
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — low-stakes checks help learners notice what they understand and what still needs work
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — assessment for learning is stronger when it directs attention toward revision strategy and criteria, not only correctness
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — assessment evidence matters when it leads to a responsive next instructional move
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — low-stakes checks help learners notice what they understand and what still needs work
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — assessment for learning is stronger when it directs attention toward revision strategy and criteria, not only correctness
 
 ## Related Principles
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
-- [Multiple Methods of Assessment](/principles/multiple-methods-of-assessment.md)
-- [Competency-Based Learning & Assessment](/principles/competency-based-learning-assessment.md)
+- [Formative Assessment](formative-assessment.md)
+- [Immediate Feedback](immediate-feedback.md)
+- [Multiple Methods of Assessment](multiple-methods-of-assessment.md)
+- [Competency-Based Learning & Assessment](competency-based-learning-assessment.md)
 
 ## Examples
 - Using exit tickets to decide whether the next lesson should reteach, extend, or regroup.

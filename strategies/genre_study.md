@@ -39,10 +39,10 @@ Genre study is an approach to teaching literature that involves exploring the ch
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Application](/elements/application.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Student participation in discussions, completion of book reviews and bookmarks, ability to identify genre characteristics in texts, quality of contributions to group charts

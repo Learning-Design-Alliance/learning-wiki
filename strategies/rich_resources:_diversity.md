@@ -39,7 +39,7 @@ Providing diverse materials in the classroom helps learners deepen their self-un
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Measure learner engagement with diverse materials, assess learner understanding of diverse perspectives through discussions or written assignments, and track changes in learner attitudes and beliefs related to diversity and inclusion.

@@ -39,9 +39,9 @@ Brainstorm with students a process for constructive decision-making and display 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Cognitive Conflict](/elements/cognitive-conflict.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Improved student decision-making skills, increased student problem-solving abilities, and greater ethical responsibility.

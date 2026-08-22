@@ -39,9 +39,9 @@ Creating a classroom environment where students feel comfortable asking for help
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Peer Interaction](/elements/peer-interaction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Interaction](../elements/peer-interaction.md)
 
 ## Assessment Evidence
 - Increased student participation in discussions, proactive seeking of support, and positive attitudes towards asking for help.

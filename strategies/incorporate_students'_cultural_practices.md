@@ -39,10 +39,10 @@ This strategy involves integrating students' cultural backgrounds and experience
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Application](/elements/application.md)
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Application](../elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe increased student participation and engagement. Analyze student work for connections to their cultural backgrounds. Gather feedback from students on their sense of belonging and cultural validation.

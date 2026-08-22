@@ -31,17 +31,17 @@ Learners generate their own questions to guide inquiry.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Metacognition](/principles/metacognition.md)
-- [Self-Regulated Learning](/principles/self-regulated-learning.md)
+- [Metacognition](../principles/metacognition.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
 
 ## Related Elements
-- [Socratic Questioning](/elements/socratic-questioning.md)
-- [Research](/elements/research.md)
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
+- [Socratic Questioning](socratic-questioning.md)
+- [Research](research.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [Inquiry-Based Learning](/patterns/inquiry-based-learning.md)
-- [Problem-Based Learning](/patterns/problem-based-learning.md)
+- [Inquiry-Based Learning](../patterns/inquiry-based-learning.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -39,13 +39,13 @@ Challenge Based Learning (CBL) provides an efficient and effective framework for
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Engage](/elements/engage.md)
-- [Investigate](/elements/investigate.md)
-- [Act](/elements/act.md)
-- [Challenge identification](/elements/challenge-identification.md)
-- [Solution development](/elements/solution-development.md)
-- [Collaboration](/elements/collaboration.md)
-- [Problem-Solving](/elements/problem-solving.md)
+- [Engage](../elements/engage.md)
+- [Investigate](../elements/investigate.md)
+- [Act](../elements/act.md)
+- [Challenge identification](../elements/challenge-identification.md)
+- [Solution development](../elements/solution-development.md)
+- [Collaboration](../elements/collaboration.md)
+- [Problem-Solving](../elements/problem-solving.md)
 
 ## Assessment Evidence
 - Quality of solutions developed, demonstration of collaboration and communication skills, application of knowledge to real-world problems.

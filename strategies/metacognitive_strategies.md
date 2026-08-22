@@ -39,7 +39,7 @@ Metacognitive strategies teach students to think about their thinking. When stud
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Student self-awareness, ability to plan and evaluate learning, and improved self-regulation.

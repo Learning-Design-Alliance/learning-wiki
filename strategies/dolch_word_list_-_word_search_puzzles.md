@@ -39,8 +39,8 @@ Word search puzzles using Dolch sight words. Available as free, printable worksh
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student speed and accuracy in completing the word searches. Track the number of sight words correctly identified.

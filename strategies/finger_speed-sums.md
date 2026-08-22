@@ -39,9 +39,9 @@ Students meet in pairs with one hand behind their back. On the count of three, t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Collaboration](/elements/collaboration.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Collaboration](../elements/collaboration.md)
 
 ## Assessment Evidence
 - Assess students' speed and accuracy in calculating the sum. Observe their engagement and participation.

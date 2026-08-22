@@ -24,11 +24,11 @@ Using literature or social stories to explicitly teach relationship skills invol
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Learners of all ages and backgrounds, particularly those who may struggle with social interactions, communication, or conflict resolution
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Develop empathy and perspective-taking skills, provide models of positive social interactions and communication strategies, and increase understanding of social dynamics.
 
 ### Affordances
@@ -39,9 +39,9 @@ Using literature or social stories to explicitly teach relationship skills invol
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Case Study](/elements/case-study.md)
-- [Perspective-Taking](/elements/perspective-taking.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Case Study](../elements/case-study.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
 
 ## Assessment Evidence
 - Observe the learners' responses to the literature or social stories, including their discussions, reflections, and analyses. Gather feedback from the learners about their experiences and perceptions of the stories. Assess the extent to which the learners demonstrate improved social skills, empathy, and perspective-taking abilities.

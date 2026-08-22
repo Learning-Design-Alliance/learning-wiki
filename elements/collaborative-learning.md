@@ -31,17 +31,17 @@ Learners work in structured teams to solve problems and complete tasks.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Constructivism](/principles/social-constructivism.md)
-- [Community of Inquiry](/principles/community-of-inquiry.md)
+- [Social Constructivism](../principles/social-constructivism.md)
+- [Community of Inquiry](../principles/community-of-inquiry.md)
 
 ## Related Elements
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Group Work](/elements/group-work.md)
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
+- [Peer Collaboration](peer-collaboration.md)
+- [Group Work](group-work.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [Jigsaw](/patterns/jigsaw.md)
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Jigsaw](../patterns/jigsaw.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

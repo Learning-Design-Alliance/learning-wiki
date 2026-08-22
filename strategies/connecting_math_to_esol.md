@@ -39,9 +39,9 @@ This strategy brings a little bit of math could make for some interesting discus
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Application](/elements/application.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Track learner progress on language and math skills through observation, participation, and assessment tasks. Evaluate the quality of their final product, and evaluate their ability to apply knowledge and skills to real-world problems. Measure gains in content knowledge, self-confidence, collaboration, and engagement through pre- and post-assessments.

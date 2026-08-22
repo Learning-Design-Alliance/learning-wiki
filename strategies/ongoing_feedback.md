@@ -39,9 +39,9 @@ Ongoing feedback involves providing feedback at various stages of the writing pr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the frequency and timeliness of feedback provided. Monitor student progress at different stages of the writing process.

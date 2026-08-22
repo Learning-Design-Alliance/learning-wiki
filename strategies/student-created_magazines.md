@@ -39,9 +39,9 @@ In Alessandra King’s algebra class, students created a magazine with dozens of
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Research](/elements/research.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Application](/elements/application.md)
+- [Research](../elements/research.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Review student magazines to assess research, writing, and understanding of math concepts.

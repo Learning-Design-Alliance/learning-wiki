@@ -37,11 +37,11 @@ Reflective Practice is a pattern in which learners or practitioners act, examine
 
 ### Theory
 #### Supporting
-- [Reflection](/principles/reflection.md)
-- [Metacognition](/principles/metacognition.md)
+- [Reflection](../principles/reflection.md)
+- [Metacognition](../principles/metacognition.md)
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 
 ## Design
 
@@ -52,13 +52,13 @@ Reflective Practice is a pattern in which learners or practitioners act, examine
 4. Apply that adjustment in the next attempt.
 
 ### Elements Used
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Metacognitive Strategies](/elements/metacognitive-strategies.md)
-- [Feedback](/elements/feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Metacognitive Strategies](../elements/metacognitive-strategies.md)
+- [Feedback](../elements/feedback.md)
 
 ### Affordances
-- [Reflection](/principles/reflection.md)
-- [Self-Regulated Learning](/principles/self-regulated-learning.md)
+- [Reflection](../principles/reflection.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
 
 ## Examples
 - Post-practicum debriefs that identify one concrete change for the next round.

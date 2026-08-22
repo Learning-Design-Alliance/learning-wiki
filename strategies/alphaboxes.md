@@ -39,10 +39,10 @@ Alphaboxes is a strategy that encourages collaborative interaction with text by 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor the quality and depth of student responses in the Alphaboxes grid. Evaluate the level of cognitive processing demonstrated in the responses. Assess the effectiveness of group collaboration through observation and participation.

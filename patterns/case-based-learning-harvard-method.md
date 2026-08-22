@@ -60,11 +60,11 @@ This pattern is especially useful when the goal is judgment under uncertainty. I
 
 ### Claims
 #### Supporting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 #### Contradicting
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -76,16 +76,16 @@ This pattern is especially useful when the goal is judgment under uncertainty. I
 5. Debrief the decision process and key lessons.
 
 ### Elements Used
-- [Case Study](/elements/case-study.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Reflection](/elements/reflection.md)
-- [Assessment](/elements/assessment.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Reflection](../elements/reflection.md)
+- [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [Case Studies/Case-Based Learning](/principles/case-studiescase-based-learning.md)
-- [Debate](/principles/debate.md)
-- [Perspective-Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md)
-- [Peer Discussion](/principles/peer-discussion.md)
+- [Case Studies/Case-Based Learning](../principles/case-studiescase-based-learning.md)
+- [Debate](../principles/debate.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Peer Discussion](../principles/peer-discussion.md)
 
 ### Personalization
 - Cases can be selected for discipline, role, or stakeholder relevance.
@@ -93,8 +93,8 @@ This pattern is especially useful when the goal is judgment under uncertainty. I
 - Facilitation can vary from tightly guided questioning to more open Socratic exchange.
 
 ## Related Patterns
-- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
-- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
+- [Socratic Seminar](socratic-seminar.md)
 
 ## Examples
 - Business strategy cases where learners recommend a course of action to a leadership team.

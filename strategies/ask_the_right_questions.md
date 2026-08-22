@@ -39,9 +39,9 @@ Before you hit “share,” what questions should you ask? You might share On th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Resource Evaluation](/elements/resource-evaluation.md)
-- [Question Formulation](/elements/question-formulation.md)
-- [Consensus Discussion](/elements/consensus-discussion.md)
+- [Resource Evaluation](../elements/resource-evaluation.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Consensus Discussion](../elements/consensus-discussion.md)
 
 ## Assessment Evidence
 - Observe learners' ability to apply the questions to evaluate online information and identify reliable sources.

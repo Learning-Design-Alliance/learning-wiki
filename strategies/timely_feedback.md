@@ -39,7 +39,7 @@ Timely feedback involves providing feedback as soon as possible after the learne
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe changes in learner performance. Track learner progress. Analyze the effectiveness of timely feedback.

@@ -39,8 +39,8 @@ Using digital libraries with audio and visual components to engage learners with
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Assess student's engagement with the digital library, their ability to select and analyze poems, and their understanding of poetic devices and themes. Monitor participation in discussions and written reflections on the poems.

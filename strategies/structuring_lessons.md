@@ -39,7 +39,7 @@ A lesson structure maps the teaching and learning that occurs in class. Sound le
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Simple-to-complex sequencing](/elements/simple-to-complex-sequencing.md)
+- [Simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md)
 
 ## Assessment Evidence
 - Effective time management, smooth transitions, and student engagement.

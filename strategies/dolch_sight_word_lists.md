@@ -39,9 +39,9 @@ The Dolch Sight word list includes the most common 220 words and 95 nouns encoun
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Quizzes](/elements/quizzes.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Quizzes](../elements/quizzes.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess fluency in reading Dolch words in context. Track progress in sight word recognition over time. Observe student engagement and confidence in reading tasks.

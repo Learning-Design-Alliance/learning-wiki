@@ -39,7 +39,7 @@ Projects driven by student-generated questions result in increased engagement an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Question Formulation](/elements/question-formulation.md)
+- [Question Formulation](../elements/question-formulation.md)
 
 ## Assessment Evidence
 - Student participation, investment in project, quality of student-generated questions.

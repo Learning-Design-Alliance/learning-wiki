@@ -39,9 +39,9 @@ Establishing a dedicated computer as a station for exploration allows learners t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe how learners use the exploration station to discover their preferred composition pathways. Assess the extent to which learners incorporate their discoveries into their own compositions.

@@ -39,7 +39,7 @@ Periodically ask students to reread their journals, comparing what they knew at 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [individual reflection](/elements/individual-reflection.md)
+- [individual reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Check for journal quality and depth. Observe improvements in performance on subsequent tasks based on insights from previous reflections.

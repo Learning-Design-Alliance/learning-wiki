@@ -36,18 +36,18 @@ Erroneous examples are worked examples that intentionally contain a mistake for 
 - Strengthen conceptual understanding, misconception detection, and self-monitoring.
 
 ### Affordances
-- [Error Analysis](/principles/error-analysis.md)
-- [Worked Examples](/principles/worked-examples.md)
-- [Explaining Their Thinking](/principles/explaining-their-thinking.md)
+- [Error Analysis](../principles/error-analysis.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Explaining Their Thinking](../principles/explaining-their-thinking.md)
 
 ## Related Elements
-- [Worked Examples](/elements/worked-examples.md)
-- [Feedback](/elements/feedback.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Worked Examples](worked-examples.md)
+- [Feedback](feedback.md)
+- [Conceptual Questioning](conceptual-questioning.md)
 
 ## Patterns That Use This Element
-- [Mastery Learning](/patterns/mastery-learning.md)
-- [Guided Discovery Learning](/patterns/guided-discovery-learning.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
+- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
 
 ## Examples
 - Students inspect a flawed algebra solution and explain where the reasoning breaks.

@@ -39,10 +39,10 @@ Educators use data-driven, student-centered plans to implement strategies that s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
-- [Application](/elements/application.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Student work samples showing improved performance after strategy implementation. Observations of student engagement and motivation. Data from formative and summative assessments demonstrating progress toward learning goals. Student self-reflections on their learning experiences.

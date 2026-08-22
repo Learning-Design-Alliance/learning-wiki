@@ -39,8 +39,8 @@ Expository advance organizers give students a broad idea of the lesson’s purpo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [State objectives](../elements/state-objectives.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Student understanding of lesson goals, participation in activities aligned with those goals, and ability to articulate what they have learned.

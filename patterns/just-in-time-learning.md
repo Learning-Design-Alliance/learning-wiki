@@ -17,11 +17,11 @@ Just-in-time learning is the short-form canonical pattern for providing support,
 ## Design
 
 ### Elements Used
-- [Just-in-Time Learning](/elements/just-in-time-learning.md)
-- [Just-in-Time Information](/elements/just-in-time-information.md)
+- [Just-in-Time Learning](../elements/just-in-time-learning.md)
+- [Just-in-Time Information](../elements/just-in-time-information.md)
 
 ## Related Patterns
-- [Merrill's First Principles Application](/patterns/merrills-first-principles-application.md)
+- [Merrill's First Principles Application](merrills-first-principles-application.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59.

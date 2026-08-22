@@ -39,8 +39,8 @@ Students formulate questions and investigate topics they are curious about or co
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Question Formulation](/elements/question-formulation.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
 
 ## Assessment Evidence
 - Evaluate the depth and quality of student-generated questions. Assess student engagement and participation in inquiry-based activities. Review student projects and presentations for evidence of learning and understanding.

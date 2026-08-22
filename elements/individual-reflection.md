@@ -31,19 +31,19 @@ Learners independently analyze their experiences, thoughts, or learning progress
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Reflection](/principles/reflection.md)
-- [Metacognition](/principles/metacognition.md)
-- [Self-Regulated Learning](/principles/self-regulated-learning.md)
+- [Reflection](../principles/reflection.md)
+- [Metacognition](../principles/metacognition.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
 
 ## Related Elements
-- [Self-Assessment](/elements/self-assessment.md)
-- [Journaling](/elements/journaling.md)
-- [Metacognitive Strategies](/elements/metacognitive-strategies.md)
+- [Self-Assessment](self-assessment.md)
+- [Journaling](journaling.md)
+- [Metacognitive Strategies](metacognitive-strategies.md)
 
 ## Patterns That Use This Element
-- [Reflective Practice](/patterns/reflective-practice.md)
-- [Self-Regulated Learning](/patterns/self-regulated-learning.md)
-- [Journaling](/patterns/journaling.md)
+- [Reflective Practice](../patterns/reflective-practice.md)
+- [Self-Regulated Learning](../patterns/self-regulated-learning.md)
+- [Journaling](../patterns/journaling.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

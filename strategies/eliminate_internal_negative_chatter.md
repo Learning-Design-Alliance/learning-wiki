@@ -39,8 +39,8 @@ Becoming aware of your negative thoughts and actively working to eliminate them.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track changes in frequency and intensity of negative thoughts using thought logs or journals. Observe improvements in mood, self-esteem, and coping strategies. Analyze ability to identify and challenge negative thoughts in real-time situations.

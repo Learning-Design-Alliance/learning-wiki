@@ -33,7 +33,7 @@ Video replay analysis uses recorded performance, instruction, or interaction as 
 The principle is especially valuable for performance domains where timing, communication, physical execution, or situational judgment matter. Replay creates distance from the original event, which can support more accurate reflection and discussion. Its usefulness depends on focus: simply watching video again is less powerful than analyzing it against a question, standard, or goal.
 
 ## Implications
-Video replay analysis is powerful because it gives learners a stable record of performance instead of relying on memory alone. Replay can strengthen self-monitoring by making discrepancies between intention and action more visible [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M], and it becomes especially useful when learners have to explain what happened and why [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]. Replay rarely teaches on its own, though; insight depends on analytic focus, pause-and-discuss structure, and responsive coaching that helps learners interpret what they are seeing [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M].
+Video replay analysis is powerful because it gives learners a stable record of performance instead of relying on memory alone. Replay can strengthen self-monitoring by making discrepancies between intention and action more visible [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M], and it becomes especially useful when learners have to explain what happened and why [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]. Replay rarely teaches on its own, though; insight depends on analytic focus, pause-and-discuss structure, and responsive coaching that helps learners interpret what they are seeing [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M].
 
 ### Context
 #### Requirements
@@ -69,19 +69,19 @@ Video replay analysis is powerful because it gives learners a stable record of p
 - Learners may need to analyze others before analyzing themselves if self-review is too cognitively or emotionally demanding at first.
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — replay makes it easier for learners to compare actual performance to intended performance
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S] — explaining specific replay moments can deepen understanding of what went right or wrong
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — guided questioning and feedback help learners extract more from replay than unguided rewatching
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — replay makes it easier for learners to compare actual performance to intended performance
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — explaining specific replay moments can deepen understanding of what went right or wrong
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — guided questioning and feedback help learners extract more from replay than unguided rewatching
 
 ## Related Principles
-- [Purposeful Reflection](/principles/purposeful-reflection.md) — replay provides concrete evidence for reflection instead of relying on memory alone.
-- [Immediate Feedback](/principles/immediate-feedback.md) — replay can make feedback more specific and discussable.
-- [Self-monitoring](/principles/self-monitoring.md) — video helps learners compare what they intended with what they actually did.
-- [Multimodal Instruction](/principles/multimodal-instruction.md) — replay adds a visual and auditory record that learners can revisit.
+- [Purposeful Reflection](purposeful-reflection.md) — replay provides concrete evidence for reflection instead of relying on memory alone.
+- [Immediate Feedback](immediate-feedback.md) — replay can make feedback more specific and discussable.
+- [Self-monitoring](self-monitoring.md) — video helps learners compare what they intended with what they actually did.
+- [Multimodal Instruction](multimodal-instruction.md) — replay adds a visual and auditory record that learners can revisit.
 
 ## Examples
-- [Reflection](/elements/reflection.md)
-- [Feedback](/elements/feedback.md)
+- [Reflection](../elements/reflection.md)
+- [Feedback](../elements/feedback.md)
 - **Teaching practicum replay**: Candidates pause classroom footage to analyze questioning, pacing, or responses to learners.
 - **Presentation review**: Learners examine a recorded talk to identify clarity, structure, and delivery choices.
 

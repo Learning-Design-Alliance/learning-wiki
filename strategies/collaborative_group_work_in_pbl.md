@@ -39,9 +39,9 @@ In project-based learning (PBL), collaborative group work involves intentionally
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Consensus-Building](/elements/consensus-building.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Consensus-Building](../elements/consensus-building.md)
 
 ## Assessment Evidence
 - Improved student communication, enhanced collaboration skills observed in group activities, and positive feedback from students and educators.

@@ -39,10 +39,10 @@ Promoting belonging involves using small, but powerful cues in the environment t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Integration](/elements/integration.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Student participation, classroom climate, student feedback.

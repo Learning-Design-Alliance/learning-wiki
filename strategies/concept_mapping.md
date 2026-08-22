@@ -39,9 +39,9 @@ Concept maps are visual tools that help learners organize and articulate what th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Advance Organizers](/elements/advance-organizers.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate the clarity and accuracy of the concept maps to assess comprehension and engagement.

@@ -39,8 +39,8 @@ Non-confrontational check-ins involve engaging students in informal, positive in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor student behavior and engagement in the classroom. Track the number of disruptions and disciplinary actions. Collect student feedback on their relationships with teachers and the classroom environment.

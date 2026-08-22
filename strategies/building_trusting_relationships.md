@@ -39,8 +39,8 @@ Prioritizing building relationships with learners can create a supportive and sa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased learner participation, positive feedback, reduced behavioral issues, and improved attendance.

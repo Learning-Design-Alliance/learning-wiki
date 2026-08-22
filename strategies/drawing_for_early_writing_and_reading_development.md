@@ -39,9 +39,9 @@ Drawing is a strategy to foster creativity, planning, and the development of fou
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the child's drawings and writing to track progress in creativity, planning, and literacy skills. Assess the child's understanding of the connection between pictures and words. Track the child's confidence and engagement in writing activities.

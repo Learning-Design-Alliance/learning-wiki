@@ -39,9 +39,9 @@ Implement Kagan Cooperative Learning Strategies to encourage active participatio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Collaboration](/elements/collaboration.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Collaboration](../elements/collaboration.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in cooperative learning activities. Assess collaboration and communication skills. Collect feedback from learners on their experience and understanding.

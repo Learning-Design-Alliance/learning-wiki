@@ -39,7 +39,7 @@ Temperature regulation is an important finding across individuals of all ages is
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Test scores

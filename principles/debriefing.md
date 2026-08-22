@@ -27,7 +27,7 @@ sources:
 Debriefing is a structured reflection after an activity, simulation, discussion, or performance in which learners revisit what happened, why it happened, and what should change next time. Its value lies in making experience interpretable. Without debriefing, learners may leave with strong impressions but weak insight; with it, they can compare mental models, surface errors, consolidate learning, and plan transfer.
 
 ## Implications
-Debriefing matters because experience by itself does not reliably produce learning. Learners often need help naming what happened, why it happened, and what should change next time, especially after complex or high-stakes activity. That is why debriefs work best when they focus on reasoning, evidence, and future action rather than vague recap: analyzing decisions explicitly turns experience into explanation [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S], and examining confident mistakes after performance can make later correction more durable [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [+S]. Debriefs are strongest when facilitator questioning is responsive to what learners actually noticed and missed [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M], especially for novices who benefit from reflection on cues, process, and strategy rather than only whether the result was correct [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
+Debriefing matters because experience by itself does not reliably produce learning. Learners often need help naming what happened, why it happened, and what should change next time, especially after complex or high-stakes activity. That is why debriefs work best when they focus on reasoning, evidence, and future action rather than vague recap: analyzing decisions explicitly turns experience into explanation [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and examining confident mistakes after performance can make later correction more durable [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S]. Debriefs are strongest when facilitator questioning is responsive to what learners actually noticed and missed [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M], especially for novices who benefit from reflection on cues, process, and strategy rather than only whether the result was correct [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M].
 
 ### Context
 #### Requirements
@@ -59,7 +59,7 @@ Debriefing matters because experience by itself does not reliably produce learni
 - Experiential-learning theories support debriefing as the reflection phase that converts activity into learning
 - Metacognitive and self-regulated-learning perspectives support post-event analysis of decisions, gaps, and strategy use
 - Information-processing perspectives support immediate review while memory traces are still available and reorganizable
-- [Error Analysis](/principles/error-analysis.md) overlaps strongly: both require examining mistakes as information rather than only as outcomes
+- [Error Analysis](error-analysis.md) overlaps strongly: both require examining mistakes as information rather than only as outcomes
 
 #### Contradicting / Qualifying
 - Debriefing is not automatically helpful; quality depends on structure, facilitator skill, and psychological safety
@@ -67,22 +67,22 @@ Debriefing matters because experience by itself does not reliably produce learni
 - Debriefs should surface reasoning and future action, not just emotional reaction or summary
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — debriefing is powerful when learners explain their thinking and decisions explicitly
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [+S] — examining confidently held mistakes after a performance can create durable learning
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — facilitator prompts and responsive questioning improve the quality of post-event reflection
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice debriefs benefit from process-focused reflection on strategies and cues, not only whether the outcome was correct
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — debriefing is powerful when learners explain their thinking and decisions explicitly
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — examining confidently held mistakes after a performance can create durable learning
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — facilitator prompts and responsive questioning improve the quality of post-event reflection
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice debriefs benefit from process-focused reflection on strategies and cues, not only whether the outcome was correct
 
 ## Related Principles
-- [Purposeful Reflection](/principles/purposeful-reflection.md) — debriefing is one of the most structured forms of reflection after action
-- [Error Analysis](/principles/error-analysis.md) — strong debriefs convert mistakes into inspectable evidence
-- [Check-ins](/principles/check-ins.md) — emotionally charged debriefs may need brief regulation or climate-setting before analytic discussion
-- [Explaining Their Thinking](/principles/explaining-their-thinking.md) — debriefing depends on making reasoning visible
+- [Purposeful Reflection](purposeful-reflection.md) — debriefing is one of the most structured forms of reflection after action
+- [Error Analysis](error-analysis.md) — strong debriefs convert mistakes into inspectable evidence
+- [Check-ins](check-ins.md) — emotionally charged debriefs may need brief regulation or climate-setting before analytic discussion
+- [Explaining Their Thinking](explaining-their-thinking.md) — debriefing depends on making reasoning visible
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
 - Post-simulation analysis in healthcare, aviation, and emergency-response training
 - After-action review following a collaborative project, case discussion, or team exercise
-- [Debriefing Emotional Experiences](/strategies/debriefing_emotional_experiences.md) — a SEL-oriented version focused on emotional processing and meaning-making
+- [Debriefing Emotional Experiences](../strategies/debriefing_emotional_experiences.md) — a SEL-oriented version focused on emotional processing and meaning-making
 - Short debrief protocols such as “What happened? Why? What next?” can scale the principle to everyday classroom use
 
 ## Key Sources

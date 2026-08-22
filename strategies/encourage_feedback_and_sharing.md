@@ -39,10 +39,10 @@ Encouraging learners to share their work with peers and online fosters a collabo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Feedback/Peer Review](/elements/peer-feedbackpeer-review.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased learner participation in peer feedback activities. Improvements in writing quality as evidenced by feedback received and revisions made.

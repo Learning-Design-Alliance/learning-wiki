@@ -39,8 +39,8 @@ Stop and Jot is a processing activity that provides structured opportunities for
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review the content and depth of student jots to assess comprehension and critical thinking. Observe the level of engagement during sharing and discussion. Analyze the connections made between new and previously learned material.

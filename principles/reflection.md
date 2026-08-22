@@ -14,7 +14,7 @@ generated:
 Reflection is the principle of deliberately examining one's experience, reasoning, performance, or progress in order to extract lessons and guide future action. It is most valuable when it is tied to decisions, evidence, or revision rather than open-ended rumination.
 
 ## Implications
-Reflection improves learning when it turns a past action or judgment into evidence for a better next move. Learners are more likely to regulate effectively when they examine what happened against a visible standard and decide what to change [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]. The key design constraint is specificity: vague reflection prompts often produce generic recap, while focused prompts tied to evidence, strategy, or revision are more likely to shape future performance.
+Reflection improves learning when it turns a past action or judgment into evidence for a better next move. Learners are more likely to regulate effectively when they examine what happened against a visible standard and decide what to change [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]. The key design constraint is specificity: vague reflection prompts often produce generic recap, while focused prompts tied to evidence, strategy, or revision are more likely to shape future performance.
 
 ### Context
 #### Requirements
@@ -33,15 +33,15 @@ Reflection improves learning when it turns a past action or judgment into eviden
 
 ### Theory
 #### Supporting
-- [Metacognition](/principles/metacognition.md)
-- [Self-Regulated Learning](/theories/self-regulated-learning.md)
+- [Metacognition](metacognition.md)
+- [Self-Regulated Learning](../theories/self-regulated-learning.md)
 
 ### Claims
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — reflection is most useful when it helps learners evaluate current performance and choose a stronger next action
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — reflection is most useful when it helps learners evaluate current performance and choose a stronger next action
 
 ## Related Principles
-- [Purposeful Reflection](/principles/purposeful-reflection.md)
-- [Metacognition](/principles/metacognition.md)
+- [Purposeful Reflection](purposeful-reflection.md)
+- [Metacognition](metacognition.md)
 
 ## Examples
 - Post-task reflection that identifies one strong move, one weak move, and one next adjustment.

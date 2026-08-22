@@ -39,10 +39,10 @@ A PALS activity that emphasizes making predictions while reading. Students each 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Modeling](/elements/modeling.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Modeling](../elements/modeling.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Assess prediction accuracy, evaluate reading comprehension, collect student feedback

@@ -39,8 +39,8 @@ Repeat key points multiple times in simple language. Repeating key points allows
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe whether students take advantage of the repetition and can respond accurately. Encourage learners to self-assess if they feel supported by the strategy.

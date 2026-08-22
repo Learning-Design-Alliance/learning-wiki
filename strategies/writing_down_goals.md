@@ -39,9 +39,9 @@ Writing down goals makes them tangible and helps prioritize them. This practice 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [State objectives](../elements/state-objectives.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Regular review of written goals can indicate progress and areas needing adjustment. Success is measured by the completion of specific goals within the defined timeframe.

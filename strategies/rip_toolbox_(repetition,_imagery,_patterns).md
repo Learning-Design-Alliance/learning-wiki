@@ -39,10 +39,10 @@ The RIP Toolbox is a memory-enhancing strategy that utilizes three key elements:
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Supportive information](/elements/supportive-information.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Monitor learners' ability to recall information using the strategies, assess the effectiveness of the chosen strategies through self-reflection and feedback, evaluate performance on tests and quizzes after using the RIP Toolbox

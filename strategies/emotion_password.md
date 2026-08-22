@@ -39,8 +39,8 @@ Learners are required to make a particular face to enter the classroom. This sim
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - The facilitator can observe how the learners perform. Ask learners to do an individual reflection of how they used emotions and what they learned from the activity.

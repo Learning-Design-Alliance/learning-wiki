@@ -39,8 +39,8 @@ An awesome app with an intuitive, user-friendly interface that works more as a t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Procedural information](/elements/procedural-information.md)
-- [Supportive information](/elements/supportive-information.md)
+- [Procedural information](../elements/procedural-information.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Evaluate proficiency in performing complex calculations.

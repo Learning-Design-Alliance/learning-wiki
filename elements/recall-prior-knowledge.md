@@ -31,18 +31,18 @@ Activates learners' existing mental models to connect new information.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Activation](/principles/activation.md)
-- [Retrieval Practice](/principles/retrieval-practice.md)
-- [Scaffolding](/principles/scaffolding.md)
+- [Activation](../principles/activation.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
+- [Scaffolding](../principles/scaffolding.md)
 
 ## Related Elements
-- [Concept Mapping](/elements/concept-mapping.md)
-- [Pre-Reading Questioning](/elements/pre-reading-questioning.md)
-- [Analogies](/elements/analogies.md)
+- [Concept Mapping](concept-mapping.md)
+- [Pre-Reading Questioning](pre-reading-questioning.md)
+- [Analogies](analogies.md)
 
 ## Patterns That Use This Element
-- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
-- [Merrill’s First Principles (Activation)](/patterns/merrills-first-principles-activation.md)
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Merrill’s First Principles (Activation)](../patterns/merrills-first-principles-activation.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

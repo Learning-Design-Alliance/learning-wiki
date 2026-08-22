@@ -39,8 +39,8 @@ Combining two or more calming sensory strategies to create a more comprehensive 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation in these strategies. Collect feedback from learners on the effectiveness of different combinations of strategies. Track changes in learners' behavior, attention, and emotional regulation.

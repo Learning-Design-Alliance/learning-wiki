@@ -39,7 +39,7 @@ Managing classroom acoustics and noise levels greatly impacts teacher and studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Measure noise levels in classrooms, assess student engagement and achievement, survey teacher and student satisfaction.

@@ -39,8 +39,8 @@ Sensory stimulation involves providing experiences that engage a person's senses
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe changes in attention, focus, fidgeting, and behavior. Monitor the frequency and purpose of fidget use, as well as feedback from learners about the effectiveness of different sensory tools.

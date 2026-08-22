@@ -39,8 +39,8 @@ Interim and summative assessments both measure learning over time. Interim asses
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess Performance](/elements/assess-performance.md)
-- [Continuous Review](/elements/continuous-review.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Continuous Review](../elements/continuous-review.md)
 
 ## Assessment Evidence
 - Test scores, performance assessment results, and demonstrated skills in real-life contexts.

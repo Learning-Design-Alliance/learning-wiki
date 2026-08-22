@@ -39,8 +39,8 @@ Electricity and circuit tasks involve investigating how electricity flows in sim
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in identifying complete circuits, correct prediction of electrical flow, successful problem-solving

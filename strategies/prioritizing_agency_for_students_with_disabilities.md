@@ -39,10 +39,10 @@ Prioritizing agency for students with disabilities involves fostering self-advoc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Modeling](/elements/modeling.md)
-- [Articulation](/elements/articulation.md)
-- [Consensus-Building](/elements/consensus-building.md)
+- [Application](../elements/application.md)
+- [Modeling](../elements/modeling.md)
+- [Articulation](../elements/articulation.md)
+- [Consensus-Building](../elements/consensus-building.md)
 
 ## Assessment Evidence
 - Track student participation in decision-making meetings, monitor their ability to articulate their needs, and observe improvements in their educational and life outcomes.

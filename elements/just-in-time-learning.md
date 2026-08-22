@@ -36,18 +36,18 @@ Just-in-time learning is the element in which information, guidance, or resource
 - Improve transfer and reduce unnecessary upfront cognitive load.
 
 ### Affordances
-- [Active Learning](/principles/active-learning.md)
-- [Scaffolding and Fading](/principles/scaffolding-and-fading.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
+- [Active Learning](../principles/active-learning.md)
+- [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
 
 ## Related Elements
-- [Just-in-Time Information](/elements/just-in-time-information.md)
-- [Hints](/elements/hints.md)
-- [Coaching](/elements/coaching.md)
+- [Just-in-Time Information](just-in-time-information.md)
+- [Hints](hints.md)
+- [Coaching](coaching.md)
 
 ## Patterns That Use This Element
-- [Goal-Based Scenarios (GBS)](/patterns/goal-based-scenarios-gbs.md)
-- [Mastery Learning](/patterns/mastery-learning.md)
+- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios-gbs.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 - A system surfaces a short reference only when a learner reaches the relevant procedure step.

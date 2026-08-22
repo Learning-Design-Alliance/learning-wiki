@@ -39,9 +39,9 @@ Small groups of learners work together to solve word problems. One learner reads
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Application](/elements/application.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe whether learners are actively participating in the math coaching process. Check whether groups accurately solve each of the ten word problems and underline appropriate key words.

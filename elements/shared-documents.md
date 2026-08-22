@@ -14,9 +14,9 @@ generated:
 Shared documents are the element in which multiple learners contribute to a common editable artifact.
 
 ## Affordances
-- [Collaborative Learning](/principles/collaborative-learning.md)
-- [Digital Learning](/principles/digital-learning.md)
+- [Collaborative Learning](../principles/collaborative-learning.md)
+- [Digital Learning](../principles/digital-learning.md)
 
 ## Related Elements
-- [Resource Hubs](/elements/resource-hubs.md)
-- [Communication Channels](/elements/communication-channels.md)
+- [Resource Hubs](resource-hubs.md)
+- [Communication Channels](communication-channels.md)

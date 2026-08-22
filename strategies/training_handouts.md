@@ -39,10 +39,10 @@ Training handouts are supplementary materials distributed during training sessio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Discussion Sections](/elements/discussion-sections.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Discussion Sections](../elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Observe learner engagement with handouts during the session. Collect feedback on the usefulness of handouts. Assess retention of key content after the session.

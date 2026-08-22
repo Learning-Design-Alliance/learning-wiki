@@ -39,9 +39,9 @@ Emphasizing and valuing the process of learning, rather than solely focusing on 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track changes in learner attitudes towards learning. Measure the depth of learner understanding. Assess the quality of learner reflections. Observe changes in learner engagement and motivation.

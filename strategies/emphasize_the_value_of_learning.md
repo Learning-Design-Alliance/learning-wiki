@@ -39,9 +39,9 @@ Help learners focus on and value the process of learning rather than solely on g
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [State objectives](/elements/state-objectives.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [State objectives](../elements/state-objectives.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learner engagement in learning activities, monitor their self-perception of intelligence and worth, and track their grades. Compare the effectiveness of emphasizing learning versus emphasizing grades.

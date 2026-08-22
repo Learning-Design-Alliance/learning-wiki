@@ -39,9 +39,9 @@ Hyperlinked teaching provides students with direct avenues for further inquiry a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Evaluate student projects, presentations, or reports for evidence of research, synthesis, and critical thinking. Assess learner engagement and motivation through observation and self-reflection.

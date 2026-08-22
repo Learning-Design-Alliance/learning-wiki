@@ -39,8 +39,8 @@ Maintaining a positive attitude in all interactions, from classrooms to playgrou
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Lectures](/elements/lectures.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Lectures](../elements/lectures.md)
 
 ## Assessment Evidence
 - Observe school climate, gather feedback from students and staff, track student well-being and success.

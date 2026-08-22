@@ -39,8 +39,8 @@ Word shape worksheets for Dolch sight words. These provide practice in identifyi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess student accuracy in matching word shapes. Monitor improvement in visual discrimination skills.

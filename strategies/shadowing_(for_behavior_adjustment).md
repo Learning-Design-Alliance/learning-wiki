@@ -39,8 +39,8 @@ An adult follows a child everywhere they go, staying within arm's reach to preve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Reduction in behavior incidents, improved social interactions, development of new coping strategies

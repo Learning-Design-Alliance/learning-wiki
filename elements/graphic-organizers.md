@@ -16,12 +16,12 @@ Graphic organizers are visual structures that help learners sort, compare, and c
 ## Design Implications
 
 ### Affordances
-- [Graphic Organizers](/principles/graphic-organizers.md)
-- [Dual Coding](/principles/dual-coding.md)
+- [Graphic Organizers](../principles/graphic-organizers.md)
+- [Dual Coding](../principles/dual-coding.md)
 
 ## Related Elements
-- [Concept Mapping](/elements/concept-mapping.md)
-- [Creating Visual Representations](/elements/creating-visual-representations.md)
+- [Concept Mapping](concept-mapping.md)
+- [Creating Visual Representations](creating-visual-representations.md)
 
 ## Key Sources
 - Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps. *Review of Educational Research, 76*(3), 413-448.

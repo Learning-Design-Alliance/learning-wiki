@@ -39,8 +39,8 @@ An activity where children have cubes and a cup. They hide some cubes in the cup
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe children's ability to quickly and accurately determine the number of hidden cubes

@@ -39,10 +39,10 @@ A statement that has two possible responses—agree or disagree—is read out lo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Positions](/elements/assigned-positions.md)
-- [Argument Construction](/elements/argument-construction.md)
-- [Role Reversal](/elements/role-reversal.md)
-- [Consensus Building](/elements/consensus-building.md)
+- [Assigned Positions](../elements/assigned-positions.md)
+- [Argument Construction](../elements/argument-construction.md)
+- [Role Reversal](../elements/role-reversal.md)
+- [Consensus Building](../elements/consensus-building.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the debate, review the quality of their arguments and evidence, collect feedback from learners about their experience.

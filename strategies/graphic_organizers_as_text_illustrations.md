@@ -39,8 +39,8 @@ Students add a graphic organizer to a finished expository or argumentative writi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Clarity and effectiveness of the illustration in supporting the written content.

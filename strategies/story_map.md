@@ -39,12 +39,12 @@ Story maps are graphic organizers that help learners visually represent and unde
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Advance Organizers](/elements/advance-organizers.md)
-- [Practice](/elements/practice.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Practice](../elements/practice.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess learners' ability to identify and organize story elements, track improvements in comprehension of narrative text, analyze the depth and specificity of student responses in story maps

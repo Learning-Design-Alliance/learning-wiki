@@ -39,10 +39,10 @@ Free math worksheets provide accessible and structured practice materials to sup
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Track completion rates and accuracy on worksheets. Monitor learner progress over time. Identify common errors to inform instruction.

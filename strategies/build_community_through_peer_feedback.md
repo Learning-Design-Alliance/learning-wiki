@@ -39,8 +39,8 @@ Offering students frequent opportunities to share feedback and revise their work
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Feedback](/elements/feedback.md)
-- [Revision](/elements/revision.md)
+- [Feedback](../elements/feedback.md)
+- [Revision](../elements/revision.md)
 
 ## Assessment Evidence
 - Evaluate the quality and effectiveness of student feedback. Assess student revisions and improvements to their work. Review student reflections on the peer feedback process.

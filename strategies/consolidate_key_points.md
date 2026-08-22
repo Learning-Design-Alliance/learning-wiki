@@ -39,8 +39,8 @@ Summarizing and consolidating key points after pair talk helps to solidify under
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe whether students are using the summary to check their understanding. Ask students to explain the key points in their own words. Assess whether the summary addresses any misconceptions or areas of confusion.

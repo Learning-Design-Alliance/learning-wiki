@@ -31,17 +31,17 @@ Pre-class preparation is the element in which learners engage with readings, vid
 - Build readiness for deeper in-class engagement.
 
 ### Affordances
-- [Active Learning](/principles/active-learning.md)
-- [Metacognition](/principles/metacognition.md)
+- [Active Learning](../principles/active-learning.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Pre-Reading Activities](/elements/pre-reading-activities.md)
-- [Pre-Class Video/Lecture](/elements/pre-class-videolecture.md)
+- [Assigned Readings](assigned-readings.md)
+- [Pre-Reading Activities](pre-reading-activities.md)
+- [Pre-Class Video/Lecture](pre-class-videolecture.md)
 
 ## Patterns That Use This Element
-- [Flipped Learning](/patterns/flipped-learning.md)
-- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Flipped Learning](../patterns/flipped-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
 
 ## Examples
 - Assigned reading with a prompt that must be used in the following class discussion.

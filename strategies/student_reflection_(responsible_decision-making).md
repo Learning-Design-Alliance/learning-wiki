@@ -39,7 +39,7 @@ This strategy focuses on using student reflection to leverage strengths and addr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [individual reflection](/elements/individual-reflection.md)
+- [individual reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Evaluate the use of ethical tools to assess growth and reflect on whether the decisions made were ethical.

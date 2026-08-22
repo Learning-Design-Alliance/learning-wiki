@@ -32,12 +32,12 @@ This page is the short-form canonical target for Duolingo-style game-based maste
 
 ### Theory
 #### Supporting
-- [Mastery Learning](/principles/mastery-learning.md)
-- [Game-Based Learning](/principles/game-based-learning.md)
+- [Mastery Learning](../principles/mastery-learning.md)
+- [Game-Based Learning](../principles/game-based-learning.md)
 
 ## Related Patterns
-- [Game-Based Mastery Learning](/patterns/game-based-mastery-learning.md)
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](/patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Game-Based Mastery Learning](game-based-mastery-learning.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Key Sources
 - Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan.

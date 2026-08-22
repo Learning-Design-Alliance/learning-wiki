@@ -26,12 +26,12 @@ Scaffolding is the element in which support is added temporarily so learners can
 - Extend capability while building toward independence.
 
 ### Affordances
-- [Scaffolding](/principles/scaffolding.md)
-- [Scaffolding and Fading](/principles/scaffolding-fading.md)
+- [Scaffolding](../principles/scaffolding.md)
+- [Scaffolding and Fading](../principles/scaffolding-fading.md)
 
 ## Related Elements
-- [Fading](/elements/fading.md)
-- [Fading Scaffolding](/elements/fading-scaffolding.md)
+- [Fading](fading.md)
+- [Fading Scaffolding](fading-scaffolding.md)
 
 ## Key Sources
 - Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89-100.

@@ -39,8 +39,8 @@ Use repeated encounters with a word in various authentic contexts to help learne
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Application](/elements/application.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Assess learner use of vocabulary in writing and speaking.

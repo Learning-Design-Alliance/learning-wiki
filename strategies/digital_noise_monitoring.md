@@ -39,8 +39,8 @@ Digital noise monitoring involves using apps or devices like Super Sound Box, Cl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track noise levels over time using monitoring tools. Observe student responses to auditory or visual cues.

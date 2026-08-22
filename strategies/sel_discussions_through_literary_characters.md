@@ -39,15 +39,15 @@ Students read and discuss social and emotional learning (SEL) topics through the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Individual Response](/elements/individual-response.md)
-- [Reassessment](/elements/reassessment.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Case Study](/elements/case-study.md)
-- [Class Discussion](/elements/class-discussion.md)
-- [Reflection](/elements/reflection.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Individual Response](../elements/individual-response.md)
+- [Reassessment](../elements/reassessment.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Reflection](../elements/reflection.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions, analyze written reflections on character relationships and themes, and assess the application of SEL skills in real-life scenarios. Track changes in student attitudes and behaviors related to empathy, communication, and problem-solving.

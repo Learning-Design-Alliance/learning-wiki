@@ -39,10 +39,10 @@ Learners pick a character from a short story or book and relive the main events 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Role Reversal](/elements/role-reversal.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Role Reversal](../elements/role-reversal.md)
 
 ## Assessment Evidence
 - Assess the depth of analysis, the accuracy of interpretation, and the level of empathy demonstrated in the analysis. Monitor changes in learners' attitudes towards different characters and themes.

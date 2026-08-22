@@ -39,8 +39,8 @@ Using physical objects to represent parts of speech in sentences. Learners write
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learner's ability to correctly represent sentences with manipulatives. Assess the complexity and accuracy of the sentences they construct.

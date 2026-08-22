@@ -39,9 +39,9 @@ Engage in brainstorming before beginning to draft a composition. Has a positive 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased idea generation, greater vocabulary use

@@ -39,10 +39,10 @@ Inclusive Cultural Response involves addressing gaps in cultural learning and re
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Lectures](/elements/lectures.md)
-- [Discussion Sections](/elements/discussion-sections.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Lectures](../elements/lectures.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Diversity of authors and perspectives represented in curriculum, student engagement with diverse materials, participation in inclusive discussions.

@@ -16,12 +16,12 @@ Collaborative inquiry is the element in which learners investigate a question to
 ## Design Implications
 
 ### Affordances
-- [Collaborative Learning](/principles/collaborative-learning.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Collaborative Learning](../principles/collaborative-learning.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Group Work](/elements/group-work.md)
-- [Guided Inquiry](/elements/guided-inquiry.md)
+- [Group Work](group-work.md)
+- [Guided Inquiry](guided-inquiry.md)
 
 ## Key Sources
 - Wells, G. (2000). Dialogic inquiry in education. In C. D. Lee & P. Smagorinsky (Eds.), *Vygotskian perspectives on literacy research*.

@@ -39,9 +39,9 @@ Teachers demonstrate how to perform a task or skill by verbalizing their thought
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners as they attempt the task, noting whether they apply the strategies modeled. Review learner-created models to assess their understanding of the process.

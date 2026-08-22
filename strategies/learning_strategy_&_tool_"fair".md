@@ -39,9 +39,9 @@ A 'Learning Strategy & Tool Fair' allows learners to explore a variety of learni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learner engagement with different strategies and tools. Collect feedback on which strategies learners found most helpful. Track the adoption of new strategies in learner workflows.

@@ -39,7 +39,7 @@ Ask learners to rate the level of challenge in an activity on a scale of 1 to 10
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track the learner's ratings of task difficulty. Monitor changes in engagement and frustration levels. Collect feedback on the effectiveness of task adjustments.

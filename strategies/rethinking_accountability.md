@@ -39,8 +39,8 @@ Recognize that students did not choose the current situation and should not be u
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess Performance](/elements/assess-performance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor student engagement, well-being, and academic progress; gather feedback from students on assessment fairness.

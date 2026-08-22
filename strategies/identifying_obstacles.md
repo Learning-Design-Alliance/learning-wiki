@@ -39,9 +39,9 @@ Identifying obstacles involves recognizing potential challenges that could imped
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Cognitive Conflict](/elements/cognitive-conflict.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Effectiveness is measured by the ability to anticipate and mitigate obstacles, as evidenced by progress towards goals despite challenges.

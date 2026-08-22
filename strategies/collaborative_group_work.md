@@ -39,8 +39,8 @@ Teachers should emphasize collaborative learning within a project. It allows ELL
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Team-Based Inquiry](/elements/team-based-inquiry.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Team-Based Inquiry](../elements/team-based-inquiry.md)
 
 ## Assessment Evidence
 - Increased language use, improved communication skills, and positive peer interactions.

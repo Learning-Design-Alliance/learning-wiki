@@ -39,9 +39,9 @@ This strategy involves forming educated guesses or anticipations about the conte
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Lectures](/elements/lectures.md)
-- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Lectures](../elements/lectures.md)
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
 
 ## Assessment Evidence
 - Learner accuracy in predicting content, ability to confirm or revise predictions, depth of engagement with the material

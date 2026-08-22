@@ -39,8 +39,8 @@ Generating a collection of affirmative statements for learners to read and inter
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Learners' ability to recall and use affirmations in challenging situations. Self-reported changes in mindset and behavior.

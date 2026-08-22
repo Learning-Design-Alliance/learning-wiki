@@ -39,8 +39,8 @@ Growth mindset feedback focuses on praising effort, strategies, and persistence 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track changes in learners' attitudes toward challenges and effort. Measure improvements in academic performance and persistence. Observe learners' responses to feedback and their willingness to take on difficult tasks.

@@ -59,11 +59,11 @@ The pattern is especially effective for conceptual questions that require reason
 
 ### Claims
 #### Supporting
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -75,16 +75,16 @@ The pattern is especially effective for conceptual questions that require reason
 5. Debrief the reasoning and clarify the concept.
 
 ### Elements Used
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Reassessment](/elements/reassessment.md)
-- [Feedback](/elements/feedback.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Reassessment](../elements/reassessment.md)
+- [Feedback](../elements/feedback.md)
 
 ### Affordances
-- [Peer Discussion](/principles/peer-discussion.md)
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Immediate Feedback](/principles/immediate-feedback.md)
-- [Purposeful Reflection](/principles/purposeful-reflection.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ### Personalization
 - Questions can be delivered through clickers, cards, hand signals, or digital polls.
@@ -92,8 +92,8 @@ The pattern is especially effective for conceptual questions that require reason
 - The amount of instructor explanation after the repoll can vary depending on the quality of peer reasoning.
 
 ## Related Patterns
-- [Think-Pair-Share](/patterns/think-pair-share.md)
-- [Discussion Group](/patterns/discussion-group.md)
+- [Think-Pair-Share](think-pair-share.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - Physics learners debating force or motion concept questions before repolling.

@@ -39,9 +39,9 @@ A simple classroom exercise to demonstrate the effectiveness of spaced practice 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess the amount of information recalled over successive practice sessions. Compare the amount of yellow highlighting in the charts from day to day.

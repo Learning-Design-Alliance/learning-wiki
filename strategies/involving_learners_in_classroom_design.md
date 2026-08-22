@@ -39,9 +39,9 @@ Involving learners in classroom design means actively soliciting their input and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in class activities. Collect learner feedback on the impact of the classroom design on their learning. Measure learner achievement and compare outcomes in classrooms designed with learner input versus those designed without learner input.

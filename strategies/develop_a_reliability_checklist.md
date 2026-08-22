@@ -39,9 +39,9 @@ Bring learners together and explain that different sources online present differ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Application](/elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Assess learners' ability to generate relevant questions and apply the checklist to evaluate sources.

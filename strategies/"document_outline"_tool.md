@@ -39,9 +39,9 @@ Students use the "Document outline" tool in Google Docs to extract evidence supp
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Argument Construction](/elements/argument-construction.md)
-- [Application of Knowledge](/elements/application-of-knowledge.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Argument Construction](../elements/argument-construction.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
 
 ## Assessment Evidence
 - Quality of the outline, accuracy of the extracted evidence, and depth of analysis.

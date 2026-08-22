@@ -31,17 +31,17 @@ Instructors or advanced learners demonstrate expert thinking and behavior.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
+- [Social Learning](../principles/social-learning.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [Cognitive Apprenticeship](/elements/cognitive-apprenticeship.md)
-- [Worked Examples](/elements/worked-examples.md)
-- [Expert Modeling](/elements/expert-modeling.md)
+- [Cognitive Apprenticeship](cognitive-apprenticeship.md)
+- [Worked Examples](worked-examples.md)
+- [Expert Modeling](expert-modeling.md)
 
 ## Patterns That Use This Element
-- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
-- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

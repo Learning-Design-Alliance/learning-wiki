@@ -39,8 +39,8 @@ Learning is enhanced when it is more like a team effort than a solo race. Good l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Increased participation in group activities, improved quality of collaborative work, positive feedback from tutees about teamwork.

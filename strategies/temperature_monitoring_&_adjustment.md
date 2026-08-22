@@ -39,9 +39,9 @@ Monitoring the temperature of a learning environment and making adjustments to m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Measure learner focus and engagement levels under different temperature conditions, track performance metrics (e.g., test scores) in relation to temperature, survey learners about their comfort levels and perceived impact on learning.

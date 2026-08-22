@@ -39,9 +39,9 @@ Pairing learners with peers who demonstrate strong relationship skills involves 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Modeling](/elements/modeling.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Modeling](../elements/modeling.md)
 
 ## Assessment Evidence
 - Observe changes in the learner's social interactions, communication skills, and conflict resolution abilities. Gather feedback from the learner, the role model, and other educators or caregivers. Monitor the frequency and quality of positive interactions between the learner and their peers.

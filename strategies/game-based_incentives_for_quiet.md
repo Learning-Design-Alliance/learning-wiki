@@ -39,8 +39,8 @@ Implementing a game-based incentive, such as "Silent 20," where students are giv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the speed and consistency with which students comply with the “Silent 20” rule. Monitor student engagement and participation in the game.

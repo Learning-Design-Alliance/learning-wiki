@@ -39,9 +39,9 @@ Utilizing an AI in Education Toolkit for Racial Equity involves taking a more in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Question Formulation](/elements/question-formulation.md)
-- [Just-in-Time Information](/elements/just-in-time-information.md)
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Just-in-Time Information](../elements/just-in-time-information.md)
 
 ## Assessment Evidence
 - Track the implementation of the toolkit's recommended actions, measure changes in product outcomes for Black and Brown students, and gather feedback from students and teachers

@@ -39,8 +39,8 @@ Incorporating mindfulness practices such as yoga, breathing exercises, and medit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation in mindfulness activities. Collect feedback from learners on the effectiveness of different mindfulness practices. Track changes in learners' behavior, attention, and emotional regulation.

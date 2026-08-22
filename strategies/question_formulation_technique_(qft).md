@@ -39,11 +39,11 @@ The Question Formulation Technique (QFT) is a structured method for generating a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Practice](/elements/practice.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - The quality and quantity of questions generated, the ability to categorize and prioritize questions, and the depth of reflection on the learning process can be assessed. Participants' feedback on the usefulness of the technique and their plans for applying what they learned can also be evaluated.

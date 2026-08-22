@@ -39,8 +39,8 @@ Using yoga, breathing, and meditation techniques in educational settings involve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the child's behavior and emotional state before, during, and after yoga, breathing, and meditation. Monitor the child's self-regulation and ability to manage stress.

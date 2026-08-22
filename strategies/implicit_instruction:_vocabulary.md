@@ -39,10 +39,10 @@ Implicit vocabulary instruction involves teaching vocabulary “in the moment”
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Informal observation of students' use of new vocabulary in discussions and written work, improved comprehension of content-specific texts, and anecdotal evidence of students' ability to explain new terms

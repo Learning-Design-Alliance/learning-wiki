@@ -39,8 +39,8 @@ Breaking up instructions into short, concrete steps allows learners to pay atten
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' ability to follow multi-step instructions. Track error rates in task completion. Gather feedback on clarity and effectiveness of instructions.

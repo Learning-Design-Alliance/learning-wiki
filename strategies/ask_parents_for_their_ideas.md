@@ -39,8 +39,8 @@ Schools can include parents by regularly asking for feedback regarding issues of
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
-- [Individual Response](/elements/individual-response.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Individual Response](../elements/individual-response.md)
 
 ## Assessment Evidence
 - Track frequency of feedback, gather data on parent satisfaction

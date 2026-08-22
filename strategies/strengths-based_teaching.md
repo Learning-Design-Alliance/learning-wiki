@@ -39,10 +39,10 @@ A teaching approach that focuses on identifying and leveraging learners’ stren
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Learner Choice](/elements/learner-choice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Learner Choice](../elements/learner-choice.md)
 
 ## Assessment Evidence
 - Increased learner engagement, improved academic performance, greater self-confidence, positive feedback from learners

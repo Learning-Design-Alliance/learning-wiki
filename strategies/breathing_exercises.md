@@ -39,8 +39,8 @@ Breathing exercises can help learners to focus and settle their feelings and tho
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Self-reported improvements in focus and emotional regulation

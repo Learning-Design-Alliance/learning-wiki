@@ -39,8 +39,8 @@ Students record the messages from their inner voice over the course of a week in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Review students' journals or notebooks for patterns and themes in their self-talk. Assess students' ability to accurately identify and document their inner voice. Observe students' engagement and participation in discussions about self-talk.

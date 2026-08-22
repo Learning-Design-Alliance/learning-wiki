@@ -39,9 +39,9 @@ Students try to give a high-five to five different classmates. When they’ve go
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Collaboration](/elements/collaboration.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Collaboration](../elements/collaboration.md)
 
 ## Assessment Evidence
 - Observe students' interactions and teamwork. Assess their ability to recognize and explain the patterns.

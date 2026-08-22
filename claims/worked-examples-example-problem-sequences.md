@@ -34,17 +34,17 @@ Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example�
 
 `q3 · peer-reviewed experiment, not pre-registered` · `i2 · medium effect` · `n=48`
 
-Forty-eight secondary-school novices in electrical-circuits troubleshooting were randomly assigned to four training conditions: four consecutive [worked examples](/elements/demonstration.md), alternating [example](/elements/demonstration.md)–[problem](/elements/practice.md) pairs, alternating [problem](/elements/practice.md)–[example](/elements/demonstration.md) pairs, or four consecutive [problem-solving](/elements/practice.md) tasks. After training, learners completed a transfer test and rated cognitive load. All three example-based conditions produced lower cognitive load and higher test scores than the problem-only condition; the three example-based conditions did not differ significantly from each other, suggesting the presence of examples matters more than their ordering.
+Forty-eight secondary-school novices in electrical-circuits troubleshooting were randomly assigned to four training conditions: four consecutive [worked examples](../elements/demonstration.md), alternating [example](../elements/demonstration.md)–[problem](../elements/practice.md) pairs, alternating [problem](../elements/practice.md)–[example](../elements/demonstration.md) pairs, or four consecutive [problem-solving](../elements/practice.md) tasks. After training, learners completed a transfer test and rated cognitive load. All three example-based conditions produced lower cognitive load and higher test scores than the problem-only condition; the three example-based conditions did not differ significantly from each other, suggesting the presence of examples matters more than their ordering.
 
 ## Discussion
 
-**Expertise reversal.** The benefit of worked examples diminishes as learner expertise grows. For more advanced learners, example-based sequences can become redundant or counterproductive — see [Worked examples can become redundant or counterproductive for advanced learners.](/claims/worked-examples-expertise-reversal.md). Designers should fade examples and shift toward independent problem-solving as competence develops.
+**Expertise reversal.** The benefit of worked examples diminishes as learner expertise grows. For more advanced learners, example-based sequences can become redundant or counterproductive — see [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md). Designers should fade examples and shift toward independent problem-solving as competence develops.
 
 **Single-study limitation.** Both subclaims currently rest on one experiment with 48 participants in a single domain. Replication in other domains and with larger samples would substantially strengthen confidence.
 
 ## Related Claims
 
-- [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md) — worked examples reduce unnecessary search for novices
-- [Pairing worked examples with practice or fading supports transfer better than examples alone.](/claims/worked-examples-with-practice-improve-transfer.md) — pairing examples with practice or fading supports transfer
-- [Worked examples can become redundant or counterproductive for advanced learners.](/claims/worked-examples-expertise-reversal.md) — expertise reversal effect
-- [Worked examples improve mathematics performance, especially for novices.](/claims/worked-examples-improve-math-performance.md) — worked examples improve math performance (meta-analysis)
+- [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — worked examples reduce unnecessary search for novices
+- [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md) — pairing examples with practice or fading supports transfer
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md) — expertise reversal effect
+- [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — worked examples improve math performance (meta-analysis)

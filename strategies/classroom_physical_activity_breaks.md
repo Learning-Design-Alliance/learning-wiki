@@ -39,9 +39,9 @@ Integrating movement-based activities into the classroom to energize learners, r
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Demonstration](/elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement. Monitor changes in student behavior and focus after implementing breaks.

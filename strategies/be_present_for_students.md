@@ -39,9 +39,9 @@ When students talk openly about race, they can feel some anxiety. It's essential
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Class Discussion](/elements/class-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Class Discussion](../elements/class-discussion.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions, track student attendance at office hours, and gather feedback from students

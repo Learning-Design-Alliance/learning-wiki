@@ -39,9 +39,9 @@ Phoneme-grapheme mapping is a strategy used to match the letters or letter combi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student performance on spelling assessments, monitor improvements in reading accuracy, and analyze the correctness of phoneme-grapheme mapping exercises.

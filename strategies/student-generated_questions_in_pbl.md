@@ -39,9 +39,9 @@ Sparking engagement with student-generated questions involves encouraging studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Question Formulation](/elements/question-formulation.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Collaborative Problem-Solving](../elements/collaborative-problem-solving.md)
 
 ## Assessment Evidence
 - Increased student engagement, higher levels of participation in discussions, and more meaningful and relevant project outcomes.

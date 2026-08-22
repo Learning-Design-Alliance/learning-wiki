@@ -37,22 +37,22 @@ Merrill's First Principles is the short-form canonical target for task-centered 
 
 ### Theory
 #### Supporting
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Scaffolding](/principles/scaffolding.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
 
 ## Design
 
 ### Elements Used
-- [Activation](/elements/activation.md)
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Reflection](/elements/reflection.md)
+- [Activation](../elements/activation.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Reflection](../elements/reflection.md)
 
 ## Related Patterns
-- [Merrill's First Principles of Instruction](/patterns/merrills-first-principles-of-instruction.md)
+- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)

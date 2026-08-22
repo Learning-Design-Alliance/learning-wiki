@@ -39,7 +39,7 @@ Pre-entry socialization involves engaging students in brief, positive interactio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior and mood upon entering the classroom. Track the frequency and severity of disruptions.

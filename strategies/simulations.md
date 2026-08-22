@@ -39,11 +39,11 @@ Simulations use electronic or software-based activities to simulate a real-world
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Decision-Making](/elements/decision-making.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Decision-Making](../elements/decision-making.md)
 
 ## Assessment Evidence
 - Track learner decisions in the simulation, provide feedback on learner decisions, and assess learner understanding of the consequences of different decisions.

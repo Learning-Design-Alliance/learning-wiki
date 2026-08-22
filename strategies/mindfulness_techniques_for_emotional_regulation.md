@@ -39,9 +39,9 @@ Incorporating mindfulness techniques helps students manage their initial emotion
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe changes in emotional reactivity and impulsivity. Track student's use of mindfulness techniques in challenging situations. Monitor self-reported levels of calmness and self-awareness.

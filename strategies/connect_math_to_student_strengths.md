@@ -39,9 +39,9 @@ Help learners understand how math is used in ways that relate to their personal 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
-- [Integration](/elements/integration.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe changes in learner motivation, monitor increased engagement in math activities, and assess the relevance of math examples.

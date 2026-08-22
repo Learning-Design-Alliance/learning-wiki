@@ -39,9 +39,9 @@ Encourage participation in informal games and jam sessions to foster creativity,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Practice](/elements/practice.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in activities. Assess their creativity and self-expression through their contributions. Gather feedback from learners about their experiences.

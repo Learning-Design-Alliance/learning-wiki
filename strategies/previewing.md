@@ -39,8 +39,8 @@ Prepare learners for upcoming tasks or materials. Previewing is one of the simpl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Observe learners' preparedness and engagement with upcoming tasks.

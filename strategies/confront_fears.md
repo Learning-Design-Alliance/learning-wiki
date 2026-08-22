@@ -39,9 +39,9 @@ This strategy involves actively identifying and addressing fears that hold indiv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Coaching](/elements/coaching.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Coaching](../elements/coaching.md)
 
 ## Assessment Evidence
 - Track changes in self-reported anxiety levels using questionnaires or journals. Observe improvements in risk-taking, proactive behavior, and goal-achievement. Analyze ability to identify and confront fears in real-time situations.

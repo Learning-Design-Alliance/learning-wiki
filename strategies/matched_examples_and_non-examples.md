@@ -39,8 +39,8 @@ Present matched examples and nonexamples for concepts with related attributes. N
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Cognitive Conflict](/elements/cognitive-conflict.md)
+- [Demonstration](../elements/demonstration.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Assess learners' ability to distinguish between examples and non-examples and explain the key differences.

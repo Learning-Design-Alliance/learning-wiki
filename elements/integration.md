@@ -31,18 +31,18 @@ Learners reflect on and connect learning to their own experiences and future app
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Reflection](/principles/reflection.md)
-- [Metacognition](/principles/metacognition.md)
-- [Self-Regulation](/principles/self-regulation.md)
+- [Reflection](../principles/reflection.md)
+- [Metacognition](../principles/metacognition.md)
+- [Self-Regulation](../principles/self-regulation.md)
 
 ## Related Elements
-- [Reflection Activities](/elements/reflection-activities.md)
-- [Case-Based Learning](/elements/case-based-learning.md)
-- [Self-Monitoring](/elements/self-monitoring.md)
+- [Reflection Activities](reflection-activities.md)
+- [Case-Based Learning](case-based-learning.md)
+- [Self-Monitoring](self-monitoring.md)
 
 ## Patterns That Use This Element
-- [Merrill’s First Principles](/patterns/merrills-first-principles.md)
-- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
+- [Merrill’s First Principles](../patterns/merrills-first-principles.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

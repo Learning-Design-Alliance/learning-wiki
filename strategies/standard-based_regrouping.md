@@ -39,11 +39,11 @@ Form homogeneous groups based on learners' mastery of specific standards. Assess
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess Performance](/elements/assess-performance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Application](/elements/application.md)
-- [Practice](/elements/practice.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners’ engagement, participation, and mastery of standards within groups. Collect data from formative assessments, exit tickets, and group projects. Track changes in performance following implementation of standard-based regrouping.

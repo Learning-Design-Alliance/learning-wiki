@@ -39,9 +39,9 @@ Turn and Talk involves learners engaging in short discussions with a partner to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the depth and accuracy of learners' explanations during partner discussions, collect feedback on the clarity of their explanations.

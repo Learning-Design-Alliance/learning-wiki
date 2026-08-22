@@ -39,8 +39,8 @@ Instructors teach terms that help learners understand prompts and perform well o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Assess learner performance on practice tests.

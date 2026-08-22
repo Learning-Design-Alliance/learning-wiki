@@ -54,11 +54,11 @@ The pattern is especially useful at the end of a lesson, discussion, simulation,
 
 ### Claims
 #### Supporting
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
-- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
 #### Contradicting
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -69,16 +69,16 @@ The pattern is especially useful at the end of a lesson, discussion, simulation,
 4. End with a concrete next step, revision target, or transfer commitment.
 
 ### Elements Used
-- [Reflection](/elements/reflection.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Feedback](/elements/feedback.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Reflection](../elements/reflection.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Feedback](../elements/feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ### Affordances
-- [Purposeful Reflection](/principles/purposeful-reflection.md)
-- [Self-monitoring](/principles/self-monitoring.md)
-- [Experiential Learning](/principles/experiential-learning.md)
-- [Peer Discussion](/principles/peer-discussion.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Self-monitoring](../principles/self-monitoring.md)
+- [Experiential Learning](../principles/experiential-learning.md)
+- [Peer Discussion](../principles/peer-discussion.md)
 
 ### Personalization
 - Reflection can be written, spoken, paired, or shared with the whole group.
@@ -86,8 +86,8 @@ The pattern is especially useful at the end of a lesson, discussion, simulation,
 - The pattern can be very brief or expanded into longer journaling or conferencing.
 
 ## Related Patterns
-- [Discussion Group](/patterns/discussion-group.md)
-- [Structured Peer Review](/patterns/structured-peer-review.md)
+- [Discussion Group](discussion-group.md)
+- [Structured Peer Review](structured-peer-review.md)
 
 ## Examples
 - End-of-lesson exit reflection focused on one success, one challenge, and one next step.

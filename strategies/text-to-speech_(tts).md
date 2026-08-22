@@ -39,8 +39,8 @@ Text-to-speech (TTS) technology converts written text into spoken words, enhanci
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Measure reading comprehension with and without TTS. Evaluate the speed and accuracy of reading aloud. Gather feedback from users on their experience and perceived benefits. Track improvements in reading skills and vocabulary development over time.

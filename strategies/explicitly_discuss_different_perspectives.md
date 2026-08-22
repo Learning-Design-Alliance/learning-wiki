@@ -39,9 +39,9 @@ Engage learners in structured discussions that explore diverse viewpoints and co
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Discussion Sections](/elements/discussion-sections.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Discussion Sections](../elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Observe learner participation and contributions to discussions. Assess learner understanding of diverse perspectives through written assignments or presentations. Collect learner reflections on their learning and growth.

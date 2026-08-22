@@ -39,8 +39,8 @@ ELL teachers and math teachers collaborate to identify target content, key vocab
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner's performance on language-focused tasks in math, assess learner understanding of mathematical concepts

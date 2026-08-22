@@ -39,7 +39,7 @@ Maintaining an ideal temperature range (68-74°F) in classrooms can significantl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student engagement and productivity levels at different temperatures. Monitor test scores and academic achievement in classrooms with optimized temperatures.

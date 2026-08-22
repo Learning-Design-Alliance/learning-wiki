@@ -39,9 +39,9 @@ Peergrade is a platform that allows learners to give and receive feedback effect
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Review of feedback provided by learners to assess the depth and quality of their critique. Analysis of learner ratings and responses to feedback to assess their engagement with the process.

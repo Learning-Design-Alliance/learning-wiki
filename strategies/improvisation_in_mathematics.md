@@ -39,10 +39,10 @@ This strategy involves using improvisation and acting exercises to enhance mathe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Application](/elements/application.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in improv activities; assess learner understanding of mathematical concepts through performance and verbal explanations; use reflections or journals to assess learner's ability to connect improv to concepts

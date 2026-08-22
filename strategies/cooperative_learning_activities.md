@@ -39,8 +39,8 @@ Designing classroom activities that involve cooperative—rather than competitiv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Collaboration](/elements/peer-collaboration.md)
-- [Team-Based Inquiry](/elements/team-based-inquiry.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Team-Based Inquiry](../elements/team-based-inquiry.md)
 
 ## Assessment Evidence
 - Track changes in learner motivation and engagement. Measure the quality of group work. Assess individual contributions to group projects. Observe changes in learner attitudes towards collaboration.

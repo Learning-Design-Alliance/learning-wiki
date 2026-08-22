@@ -39,7 +39,7 @@ Incorporating natural lighting in classrooms boosts morale, reduces off-task beh
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student engagement and achievement, monitor off-task behavior, assess teacher and student morale.

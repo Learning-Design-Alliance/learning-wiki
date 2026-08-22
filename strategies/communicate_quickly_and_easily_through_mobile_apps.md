@@ -39,8 +39,8 @@ Mobile apps like Remind can provide a quick and easy way for parents, teachers, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track frequency of communication between teachers and parents. Monitor student attendance and academic performance. Gather feedback from parents on the usefulness of the app.

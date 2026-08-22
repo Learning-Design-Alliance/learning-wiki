@@ -39,9 +39,9 @@ Cognitively demanding tasks require a high level of cognitive engagement to comp
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-task performance](/elements/whole-task-performance.md)
-- [Cognitive Conflict](/elements/cognitive-conflict.md)
-- [Application](/elements/application.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Assess the level of cognitive demand in tasks by observing student engagement and depth of discussion. Evaluate the types of questions that are asked and whether they raise or lower the cognitive demand. Assess student communication and use of mathematical terms and representations.

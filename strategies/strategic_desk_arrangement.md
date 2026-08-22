@@ -39,7 +39,7 @@ Arranging desks strategically can support different learning activities. Small g
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation in different seating arrangements. Gather feedback on the impact of desk arrangement on learning.

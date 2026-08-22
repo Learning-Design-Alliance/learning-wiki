@@ -39,8 +39,8 @@ Spend more time on reasoning than on finding the correct answer. Teachers can pr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Modeling](/elements/modeling.md)
-- [Articulation](/elements/articulation.md)
+- [Modeling](../elements/modeling.md)
+- [Articulation](../elements/articulation.md)
 
 ## Assessment Evidence
 - Observe changes in learner participation, monitor increased exploration of different strategies, and assess improvements in reasoning skills.

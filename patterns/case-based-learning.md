@@ -17,11 +17,11 @@ Case-based learning is the short-form canonical pattern for learning through ana
 ## Design
 
 ### Elements Used
-- [Case Studies](/elements/case-studies.md)
-- [Discussion-Based Learning](/elements/discussion-based-learning.md)
+- [Case Studies](../elements/case-studies.md)
+- [Discussion-Based Learning](../elements/discussion-based-learning.md)
 
 ## Related Patterns
-- [Case-Based Learning (Harvard Method)](/patterns/case-based-learning-harvard-method.md)
+- [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md)
 
 ## Key Sources
 - Herreid, C. F. (2011). *Case study teaching*. NSTA Press.

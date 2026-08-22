@@ -39,7 +39,7 @@ Activating students’ background knowledge about a topic before reading involve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Activation](/elements/activation.md)
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Increased participation in discussions, improved comprehension of new material

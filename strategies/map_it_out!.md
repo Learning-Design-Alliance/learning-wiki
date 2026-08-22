@@ -39,8 +39,8 @@ Before a trip, children map the route, calculate mileage, estimate travel time, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Application](/elements/application.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Application](../elements/application.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to read and interpret the map accurately. Evaluate the accuracy of calculated distances and travel times.

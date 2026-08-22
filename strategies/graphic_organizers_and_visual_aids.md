@@ -39,7 +39,7 @@ Tools that help students identify and focus on the most important information by
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior (e.g., improved focus, enhanced organization). Collect feedback from students on the helpfulness of the tools.

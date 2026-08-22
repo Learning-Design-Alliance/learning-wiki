@@ -39,7 +39,7 @@ Shift away from the 0-100 scale, which punishes students severely for missing wo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Number of failing grades

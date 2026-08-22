@@ -39,9 +39,9 @@ Schools outline specific ways for parents to help in the classroom and at school
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Track volunteer hours, gather feedback from parents and educators

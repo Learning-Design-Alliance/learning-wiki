@@ -39,9 +39,9 @@ Integrating children's literature, especially multicultural literature, into mat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Demonstration](/elements/demonstration.md)
-- [Application](/elements/application.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learner engagement, assess comprehension through discussions and activities related to the literature, and measure improvements in math skills.

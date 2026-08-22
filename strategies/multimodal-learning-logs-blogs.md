@@ -24,11 +24,11 @@ Learning logs or blogs are used for groups to reflect on their learning, documen
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Middle school students (Grades 6-8), but adaptable for other grade levels and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](/claims/claim-slug.md) -->
+<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
 - Promote reflection, document learning process, facilitate knowledge sharing, synthesize multimodal resources, enhance communication skills
 
 ### Affordances
@@ -39,10 +39,10 @@ Learning logs or blogs are used for groups to reflect on their learning, documen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Application](/elements/application.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Analyze student reflections, review content of learning logs/blogs, assess student engagement in peer feedback and discussions.

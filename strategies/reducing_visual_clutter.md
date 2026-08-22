@@ -39,8 +39,8 @@ Reducing visual clutter involves minimizing the amount of unnecessary or distrac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learner focus and attention in class activities. Collect learner feedback on the impact of visual clutter on their learning. Measure learner achievement and compare outcomes in less cluttered environments versus more cluttered environments.

@@ -31,18 +31,18 @@ Gives learners corrective or reinforcing feedback to improve performance.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Feedback Loops](/principles/feedback-loops.md)
-- [Formative Assessment](/principles/formative-assessment.md)
-- [Mastery Learning](/principles/mastery-learning.md)
+- [Feedback Loops](../principles/feedback-loops.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Mastery Learning](../principles/mastery-learning.md)
 
 ## Related Elements
-- [Immediate Feedback](/elements/immediate-feedback.md)
-- [Peer Review](/elements/peer-review.md)
-- [Formative Assessment](/elements/formative-assessment.md)
+- [Immediate Feedback](immediate-feedback.md)
+- [Peer Review](peer-review.md)
+- [Formative Assessment](formative-assessment.md)
 
 ## Patterns That Use This Element
-- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
-- [Competency-Based Learning](/patterns/competency-based-learning.md)
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

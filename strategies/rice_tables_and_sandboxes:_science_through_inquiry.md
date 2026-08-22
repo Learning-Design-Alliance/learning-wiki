@@ -39,9 +39,9 @@ Engaging learners in hands-on exploration and inquiry-based science education al
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Solution Development](/elements/solution-development.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Learner projects and experiments. Participation in inquiry-based activities. Scientific inquiry skills.

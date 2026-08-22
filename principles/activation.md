@@ -20,7 +20,7 @@ Activation is the principle of prompting learners to surface prior knowledge, ex
 
 ## Implications
 
-Activation is most useful when new content will make more sense if learners first retrieve what they already know, what they assume, or what experiences they can connect to the topic. In strong instruction, activation is not just a warm-up: it can support meaningful chunking and prior organization before new material arrives [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S], and it becomes more powerful when learners explain their predictions or prior ideas rather than merely listing them [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. The same mechanism can also backfire if incorrect prior knowledge is activated and then left unexamined, which is why confidently expressed errors need prompt correction if they are going to become productive learning moments [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [~M].
+Activation is most useful when new content will make more sense if learners first retrieve what they already know, what they assume, or what experiences they can connect to the topic. In strong instruction, activation is not just a warm-up: it can support meaningful chunking and prior organization before new material arrives [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S], and it becomes more powerful when learners explain their predictions or prior ideas rather than merely listing them [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The same mechanism can also backfire if incorrect prior knowledge is activated and then left unexamined, which is why confidently expressed errors need prompt correction if they are going to become productive learning moments [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M].
 
 ### Context
 #### Requirements
@@ -42,32 +42,32 @@ Activation is most useful when new content will make more sense if learners firs
 
 ### Theory
 #### Supporting
-- [Information Processing Theory](/theories/information-processing-theory.md) — retrieval of relevant prior knowledge helps organize incoming information and reduces the burden of interpreting content from scratch
-- [Cognitive Activation](/principles/cognitive-activation.md) — activation increases the chance that learners will engage conceptually rather than passively receive content
-- [Analogical Reasoning](/principles/analogical-reasoning.md) — analogies and prior examples can provide the bridge that makes new ideas interpretable
+- [Information Processing Theory](../theories/information-processing-theory.md) — retrieval of relevant prior knowledge helps organize incoming information and reduces the burden of interpreting content from scratch
+- [Cognitive Activation](cognitive-activation.md) — activation increases the chance that learners will engage conceptually rather than passively receive content
+- [Analogical Reasoning](analogical-reasoning.md) — analogies and prior examples can provide the bridge that makes new ideas interpretable
 
 #### Contradicting / Qualifying
-- [Constructivism](/theories/constructivism.md) — supports the role of prior knowledge, but qualifies that learners may construct flawed understandings if activation is not followed by feedback, contradiction, or refinement
+- [Constructivism](../theories/constructivism.md) — supports the role of prior knowledge, but qualifies that learners may construct flawed understandings if activation is not followed by feedback, contradiction, or refinement
 
 ### Claims
-- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S] — activation helps when it supports meaningful chunking and prior organization, but weak prior knowledge limits the benefit
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — prompts that ask learners to explain predictions or prior ideas can deepen the value of activation
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md) [~M] — surfacing confidently held misconceptions can be instructionally productive if corrected promptly, but risky if left unresolved
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — activation helps when it supports meaningful chunking and prior organization, but weak prior knowledge limits the benefit
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — prompts that ask learners to explain predictions or prior ideas can deepen the value of activation
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — surfacing confidently held misconceptions can be instructionally productive if corrected promptly, but risky if left unresolved
 
 ## Related Principles
-- [Pre-Reading Questioning](/principles/pre-reading-questioning.md) — one of the most direct operationalizations of activation before reading or explanation
-- [Explicit Instruction](/principles/explicit-instruction.md) — activation strengthens explicit teaching when prior knowledge is deliberately tied to new content rather than assumed
-- [Knowledge Organization](/principles/knowledge-organization.md) — activation helps learners fit new information into a meaningful structure
+- [Pre-Reading Questioning](pre-reading-questioning.md) — one of the most direct operationalizations of activation before reading or explanation
+- [Explicit Instruction](explicit-instruction.md) — activation strengthens explicit teaching when prior knowledge is deliberately tied to new content rather than assumed
+- [Knowledge Organization](knowledge-organization.md) — activation helps learners fit new information into a meaningful structure
 
 ## Examples
 
 ### Illustrative
 
-**[Pre-Reading Activities](/elements/pre-reading-activities.md)** — Before a dense article or textbook section, learners generate predictions, define likely key terms, or answer a short anticipatory question set. The value comes from making prior ideas visible so the reading can confirm, refine, or contradict them.
+**[Pre-Reading Activities](../elements/pre-reading-activities.md)** — Before a dense article or textbook section, learners generate predictions, define likely key terms, or answer a short anticipatory question set. The value comes from making prior ideas visible so the reading can confirm, refine, or contradict them.
 
-**[Prior Knowledge Activation](/elements/prior-knowledge-activation.md)** — In a science lesson, learners first explain what they think causes seasons or why objects float, then compare those ideas to a demonstration or text. This turns activation into a diagnostic starting point rather than a ritual opener.
+**[Prior Knowledge Activation](../elements/prior-knowledge-activation.md)** — In a science lesson, learners first explain what they think causes seasons or why objects float, then compare those ideas to a demonstration or text. This turns activation into a diagnostic starting point rather than a ritual opener.
 
-**[Background Knowledge Activation](/strategies/background_knowledge_activation.md)** — A routine in which an instructor uses a quick write, brainstorm, or concept map to surface what learners already know before introducing new material. Strongest when the teacher refers back to the activation during the lesson rather than abandoning it after the opener.
+**[Background Knowledge Activation](../strategies/background_knowledge_activation.md)** — A routine in which an instructor uses a quick write, brainstorm, or concept map to surface what learners already know before introducing new material. Strongest when the teacher refers back to the activation during the lesson rather than abandoning it after the opener.
 
 ## Key Sources
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart and Winston.

@@ -39,8 +39,8 @@ Encouraging students to read questions and their own writing aloud leverages str
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor improvements in writing quality through student work samples. Observe student engagement and participation in reading aloud activities. Gather student feedback on the effectiveness of reading aloud.

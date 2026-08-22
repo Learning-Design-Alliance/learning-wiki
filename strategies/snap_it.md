@@ -39,8 +39,8 @@ A game where children make a train of connecting cubes, snap the train into two 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe children's ability to quickly and accurately determine the missing number

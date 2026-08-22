@@ -39,11 +39,11 @@ Challenge advanced learners with real-world extension projects that apply their 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Whole-task performance](/elements/whole-task-performance.md)
-- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
-- [Application of Knowledge](/elements/application-of-knowledge.md)
-- [Research](/elements/research.md)
-- [Solution Development](/elements/solution-development.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Collaborative Problem-Solving](../elements/collaborative-problem-solving.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
+- [Research](../elements/research.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Observe learners’ engagement, participation, and problem-solving skills within projects. Collect data from project deliverables, presentations, and peer evaluations. Track changes in performance following implementation of extension projects.

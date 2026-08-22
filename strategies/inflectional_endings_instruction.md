@@ -39,9 +39,9 @@ Inflectional endings instruction focuses on teaching the rules for adding suffix
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor spelling accuracy on regular spelling tests, track progress in writing assignments, and assess the learners' ability to apply inflectional ending rules correctly.

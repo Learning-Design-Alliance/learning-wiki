@@ -39,9 +39,9 @@ Presenting information in more ways than images and text alone enhances comprehe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Demonstration](/elements/demonstration.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in multimodal activities. Assess comprehension through varied formats like written, visual, or oral presentations. Track improvements in retention and application of knowledge in diverse contexts.

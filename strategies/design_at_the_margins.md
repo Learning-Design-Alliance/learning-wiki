@@ -39,9 +39,9 @@ This principle involves designing with the students at the edges of a community 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Inquiry and Research](/elements/inquiry-and-research.md)
-- [Solution Development](/elements/solution-development.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Track achievement gaps between different student groups, measure student perceptions of inclusion and belonging, and assess the impact of interventions on marginalized students.

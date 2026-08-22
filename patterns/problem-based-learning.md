@@ -42,11 +42,11 @@ Problem-Based Learning uses an authentic or ill-structured problem to drive inqu
 
 ### Theory
 #### Supporting
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Constructivism](/principles/constructivism.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Constructivism](../principles/constructivism.md)
 
 ### Claims
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
 
 ## Design
 
@@ -57,16 +57,16 @@ Problem-Based Learning uses an authentic or ill-structured problem to drive inqu
 4. Test, justify, and refine a response.
 
 ### Elements Used
-- [Problem-Based Learning](/elements/problem-based-learning.md)
-- [Problem Scenario](/elements/problem-scenario.md)
-- [Solution Development](/elements/solution-development.md)
+- [Problem-Based Learning](../elements/problem-based-learning.md)
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Solution Development](../elements/solution-development.md)
 
 ### Affordances
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Active Learning](/principles/active-learning.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Active Learning](../principles/active-learning.md)
 
 ## Related Patterns
-- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
+- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
 
 ## Examples
 - A unit organized around diagnosing and responding to a realistic problem case.

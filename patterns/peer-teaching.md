@@ -17,12 +17,12 @@ Peer teaching is the short-form canonical pattern for learners teaching concepts
 ## Design
 
 ### Elements Used
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Related Patterns
-- [Jigsaw](/patterns/jigsaw.md)
-- [Peer Instruction](/patterns/peer-instruction.md)
+- [Jigsaw](jigsaw.md)
+- [Peer Instruction](peer-instruction.md)
 
 ## Key Sources
 - Fiorella, L., & Mayer, R. E. (2013). The relative benefits of learning by teaching. *Contemporary Educational Psychology, 38*(4), 281-288.

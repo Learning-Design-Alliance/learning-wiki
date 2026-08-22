@@ -39,10 +39,10 @@ A PALS activity aimed at improving reading fluency and summarization skills. Stu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Modeling](/elements/modeling.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Practice](/elements/practice.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Modeling](../elements/modeling.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe reading fluency, assess quality of retell, gather student feedback

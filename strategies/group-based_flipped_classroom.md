@@ -39,11 +39,11 @@ The group-based model focuses on group learning. After the students have studied
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Lectures](/elements/lectures.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
-- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
-- [Peer Teaching](/elements/peer-teaching.md)
+- [Lectures](../elements/lectures.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
+- [Peer Teaching](../elements/peer-teaching.md)
 
 ## Assessment Evidence
 - Group performance on assignments, quality of peer explanations, individual contribution.

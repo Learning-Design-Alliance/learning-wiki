@@ -39,7 +39,7 @@ Tools developed collaboratively by educators, parents, students and researchers 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Criteria Development](/elements/criteria-development.md)
+- [Criteria Development](../elements/criteria-development.md)
 
 ## Assessment Evidence
 - Evaluate the curriculum scores in representation, social justice, and teacher materials to gauge its cultural responsiveness and identify gaps for improvement.

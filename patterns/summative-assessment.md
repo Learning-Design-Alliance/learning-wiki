@@ -37,14 +37,14 @@ Summative Assessment is the pattern-level target for end-of-sequence judgment of
 
 ### Theory
 #### Supporting
-- [Summative Assessment](/principles/summative-assessment.md)
+- [Summative Assessment](../principles/summative-assessment.md)
 
 ## Design
 
 ### Elements Used
-- [Summative Assessment](/elements/summative-assessment.md)
-- [Final Exam](/elements/final-exam.md)
-- [Performance-Based Assessment](/elements/performance-based-assessment.md)
+- [Summative Assessment](../elements/summative-assessment.md)
+- [Final Exam](../elements/final-exam.md)
+- [Performance-Based Assessment](../elements/performance-based-assessment.md)
 
 ## Examples
 - End-of-course exams and capstone evaluations.

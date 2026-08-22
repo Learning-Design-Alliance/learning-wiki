@@ -31,17 +31,17 @@ Learners consider multiple viewpoints to develop empathy and deeper understandin
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Perspective-Taking](/principles/perspective-taking.md)
+- [Social Learning](../principles/social-learning.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
 
 ## Related Elements
-- [Role Reversal](/elements/role-reversal.md)
-- [Debate](/elements/debate.md)
-- [Structured Discussion](/elements/structured-discussion.md)
+- [Role Reversal](role-reversal.md)
+- [Debate](debate.md)
+- [Structured Discussion](structured-discussion.md)
 
 ## Patterns That Use This Element
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
-- [Debate](/patterns/debate.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
+- [Debate](../patterns/debate.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -43,10 +43,10 @@ Pair-based games facilitate active learning through friendly competition, requir
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Peer Interaction](/elements/peer-interaction.md)
-- [Whole-Class Sharing](/elements/whole-class-sharing.md)
-- [Application](/elements/application.md)
+- [Practice](../elements/practice.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe the accuracy and speed of mathematical responses, as well as participation and engagement levels.

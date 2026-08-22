@@ -39,10 +39,10 @@ Using audiobooks and Braille texts to reinforce and inspire literacy skills. Thi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor student engagement with audiobooks, assess comprehension through quizzes and discussions, and evaluate improvements in literacy skills over time.

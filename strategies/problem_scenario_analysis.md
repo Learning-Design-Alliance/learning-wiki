@@ -39,10 +39,10 @@ Providing students with real-life problem scenarios (e.g., cheating, bullying) a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Problem Presentation](/elements/problem-presentation.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Case Study](/elements/case-study.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Case Study](../elements/case-study.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions. Review student-generated analyses of scenarios. Evaluate student reflections on their decision-making processes.

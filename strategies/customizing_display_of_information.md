@@ -39,7 +39,7 @@ Customizing the display of information involves modifying the appearance of digi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe improvements in reading speed, accuracy, and comprehension. Collect user feedback on the effectiveness of different customization settings. Measure the time spent on reading tasks with and without customized display settings.

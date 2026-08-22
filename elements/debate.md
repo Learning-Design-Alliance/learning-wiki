@@ -26,12 +26,12 @@ Debate is the element in which learners take positions, justify them with eviden
 - Build argumentation, evidence use, and perspective taking.
 
 ### Affordances
-- [Debate](/principles/debate.md)
-- [Epistemic Cognition](/principles/epistemic-cognition.md)
+- [Debate](../principles/debate.md)
+- [Epistemic Cognition](../principles/epistemic-cognition.md)
 
 ## Related Elements
-- [Structured Debate](/elements/structured-debate.md)
-- [Justification](/elements/justification.md)
+- [Structured Debate](structured-debate.md)
+- [Justification](justification.md)
 
 ## Key Sources
 - Kuhn, D. (1991). *The skills of argument*. Cambridge University Press.

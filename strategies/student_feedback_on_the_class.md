@@ -39,8 +39,8 @@ This strategy involves asking for student feedback to inform your teaching pract
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved student engagement, a more positive classroom environment, and improved teaching practice.

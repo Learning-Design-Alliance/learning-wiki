@@ -39,8 +39,8 @@ Verbal repetition is a strategy where learners repeat information verbally to re
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Peer Teaching](/elements/peer-teaching.md)
+- [Practice](../elements/practice.md)
+- [Peer Teaching](../elements/peer-teaching.md)
 
 ## Assessment Evidence
 - Observe the accuracy and clarity of learners' verbal explanations, track improvements in retention and comprehension.

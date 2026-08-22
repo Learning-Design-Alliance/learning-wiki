@@ -39,8 +39,8 @@ This strategy involves having students think back on their experiences and outco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Review student journal entries to assess their level of self-awareness, metacognition, and goal-setting skills. Look for evidence of reflection on experiences, identification of patterns, and articulation of learning goals.

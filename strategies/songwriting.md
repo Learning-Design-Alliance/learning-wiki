@@ -39,10 +39,10 @@ Songwriting involves students creating their own verses or entire songs to enhan
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Practice](/elements/practice.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Evaluate student illustrations and verses for accuracy and creativity. Track letter sounds and vocabulary words used correctly. Observe engagement and participation during songwriting and illustration activities.

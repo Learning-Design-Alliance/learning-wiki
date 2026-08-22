@@ -31,17 +31,17 @@ Learners take turns guiding discussion and questioning content.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Social Learning](/principles/social-learning.md)
-- [Scaffolding](/principles/scaffolding.md)
+- [Social Learning](../principles/social-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
 
 ## Related Elements
-- [Peer Teaching](/elements/peer-teaching.md)
-- [Knowledge-Building](/elements/knowledge-building.md)
-- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
+- [Peer Teaching](peer-teaching.md)
+- [Knowledge-Building](knowledge-building.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
-- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

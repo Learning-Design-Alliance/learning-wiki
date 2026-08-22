@@ -39,8 +39,8 @@ Plan and organize instructions beforehand, grouping similar tasks together to st
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Direct instruction](/elements/direct-instruction.md)
-- [State objectives](/elements/state-objectives.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [State objectives](../elements/state-objectives.md)
 
 ## Assessment Evidence
 - Observe clarity and organization of instruction delivery.

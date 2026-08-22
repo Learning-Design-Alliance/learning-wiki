@@ -39,9 +39,9 @@ Scaffolded peer review involves providing learners with structured support and g
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide guidance](/elements/provide-guidance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Review of feedback provided by learners to assess the depth and quality of their critique. Observation of group interactions to assess learners' confidence and engagement in the process.

@@ -39,8 +39,8 @@ Allowing students to record lessons so they can play them back and go over anyth
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe if learners revisit recordings and use them during study sessions. Encourage learners to self-assess if they feel supported by the strategy.

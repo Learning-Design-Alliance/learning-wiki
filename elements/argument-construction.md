@@ -31,17 +31,17 @@ Learners develop structured arguments with supporting evidence.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [Constructivist Learning](/principles/constructivist-learning.md)
-- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [Research](/elements/research.md)
-- [Rebuttals](/elements/rebuttals.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Research](research.md)
+- [Rebuttals](rebuttals.md)
+- [Peer Discussion](peer-discussion.md)
 
 ## Patterns That Use This Element
-- [Debate](/patterns/debate.md)
-- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
+- [Debate](../patterns/debate.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

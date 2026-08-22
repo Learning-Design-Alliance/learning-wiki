@@ -39,9 +39,9 @@ Progress monitoring involves identifying skills that students have mastered and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
-- [Continuous Review](/elements/continuous-review.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Continuous Review](../elements/continuous-review.md)
 
 ## Assessment Evidence
 - Improved student performance, targeted instruction, increased self-awareness

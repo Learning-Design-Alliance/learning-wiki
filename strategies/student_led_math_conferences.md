@@ -39,8 +39,8 @@ Throughout the year, teachers can have personal math conferences with the studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved student understanding, increased student communication, and deeper reflection on learning experiences.

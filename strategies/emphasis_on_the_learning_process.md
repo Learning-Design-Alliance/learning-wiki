@@ -39,8 +39,8 @@ Helping learners focus on and value the process of learning, rather than just th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Monitor changes in learner attitudes towards learning, observe increased engagement in the learning process, and assess the depth of self-reflection.

@@ -14,12 +14,12 @@ generated:
 Cognitive apprenticeship is the element in which learners observe expert thinking, practice with coaching, and gradually assume more responsibility.
 
 ## Affordances
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
-- [Modeling](/principles/modeling.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
+- [Modeling](../principles/modeling.md)
 
 ## Related Elements
-- [Modeling](/elements/modeling.md)
-- [Coaching](/elements/coaching.md)
+- [Modeling](modeling.md)
+- [Coaching](coaching.md)
 
 ## Key Sources
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship. In *Knowing, learning, and instruction*.

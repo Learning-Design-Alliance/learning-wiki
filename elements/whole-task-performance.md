@@ -28,16 +28,16 @@ Whole-task performance engages learners in authentic, complex tasks that integra
 
 ## Design Implications
 
-Whole-task performance accelerates skill acquisition and transfer by embedding learning within realistic contexts, allowing learners to understand how component skills operate interdependently [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]. By grounding instruction in the authentic cognitive and social demands of a discipline, this approach helps learners overcome the "transfer problem"—the difficulty of applying decontextualized knowledge to novel, complex situations. Effective whole-task design often follows a simple-to-complex sequence, where learners perform a "whole" task from the start but with high levels of support that gradually fade [Scaffolding and Fading](/principles/scaffolding-and-fading.md) [+M].
+Whole-task performance accelerates skill acquisition and transfer by embedding learning within realistic contexts, allowing learners to understand how component skills operate interdependently [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]. By grounding instruction in the authentic cognitive and social demands of a discipline, this approach helps learners overcome the "transfer problem"—the difficulty of applying decontextualized knowledge to novel, complex situations. Effective whole-task design often follows a simple-to-complex sequence, where learners perform a "whole" task from the start but with high levels of support that gradually fade [Scaffolding and Fading](../principles/scaffolding-and-fading.md) [+M].
 
 ### Context
 #### Requirements
 - High-fidelity environments or simulations that permit genuine decision-making and reflect the complexity of professional practice.
-- Instructional scaffolds, such as [coaching](/elements/coaching.md) or [worked examples](/elements/worked-examples.md), to manage cognitive load during initial phases.
+- Instructional scaffolds, such as [coaching](coaching.md) or [worked examples](worked-examples.md), to manage cognitive load during initial phases.
 - Explicit performance criteria that align with professional standards rather than arbitrary classroom benchmarks.
 
 #### Constraints
-- Less effective for absolute novices who lack the prerequisite procedural fluency or vocabulary to engage with the task; initial part-task practice may be required to prevent cognitive overload [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M].
+- Less effective for absolute novices who lack the prerequisite procedural fluency or vocabulary to engage with the task; initial part-task practice may be required to prevent cognitive overload [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M].
 - High implementation cost, often requiring specialized equipment, expert mentors, or longitudinal time commitments.
 - Risk of learner disorientation if task complexity is not carefully modulated or if scaffolding is removed prematurely.
 
@@ -52,23 +52,23 @@ Whole-task performance accelerates skill acquisition and transfer by embedding l
 - Development of metacognitive judgment and situational awareness through repeated, integrated practice.
 
 ### Affordances
-- [Situated Learning](/principles/situated-learning.md) — grounds knowledge construction in authentic contexts, ensuring that skills are encoded with the environmental cues necessary for successful future application.
-- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md) — provides the social structure for learners to observe and gradually adopt the tacit reasoning and decision-making processes of experts during complex tasks.
-- [Scaffolding](/principles/scaffolding.md) — manages the inherent complexity of whole tasks by providing temporary, fading supports that allow learners to experience the "whole" before they have mastered every "part."
-- [Authentic Audiences and Purposes](/principles/authentic-audiences-purposes.md) — increases learner investment by anchoring performance in real-world consequences and professional standards.
-- [Explaining Their Thinking](/principles/explaining-their-thinking.md) — requires learners to articulate the rationale behind their integrative decisions, fostering metacognitive monitoring and deeper schema formation.
+- [Situated Learning](../principles/situated-learning.md) — grounds knowledge construction in authentic contexts, ensuring that skills are encoded with the environmental cues necessary for successful future application.
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md) — provides the social structure for learners to observe and gradually adopt the tacit reasoning and decision-making processes of experts during complex tasks.
+- [Scaffolding](../principles/scaffolding.md) — manages the inherent complexity of whole tasks by providing temporary, fading supports that allow learners to experience the "whole" before they have mastered every "part."
+- [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md) — increases learner investment by anchoring performance in real-world consequences and professional standards.
+- [Explaining Their Thinking](../principles/explaining-their-thinking.md) — requires learners to articulate the rationale behind their integrative decisions, fostering metacognitive monitoring and deeper schema formation.
 
 ## Related Elements
-- [Problem-Based Learning](/elements/problem-based-learning.md) — drives inquiry through the structure of an authentic, ill-structured problem.
-- [Simulations](/elements/simulations.md) — provides the high-fidelity environment necessary for safe, repeated whole-task performance.
-- [Coaching](/elements/coaching.md) — offers the targeted guidance required as learners navigate integrated challenges.
-- [Debriefing](/elements/debriefing.md) — essential for reflecting on the integrated decision-making process after the task is complete.
-- [Part-task practice](/elements/part-task-practice.md) — often a necessary precursor or supplement for routine skills that must be automated to free up working memory.
+- [Problem-Based Learning](problem-based-learning.md) — drives inquiry through the structure of an authentic, ill-structured problem.
+- [Simulations](simulations.md) — provides the high-fidelity environment necessary for safe, repeated whole-task performance.
+- [Coaching](coaching.md) — offers the targeted guidance required as learners navigate integrated challenges.
+- [Debriefing](debriefing.md) — essential for reflecting on the integrated decision-making process after the task is complete.
+- [Part-task practice](part-task-practice.md) — often a necessary precursor or supplement for routine skills that must be automated to free up working memory.
 
 ## Patterns That Use This Element
-- [Four-Component Instructional Design](/patterns/4cid-four-component-instructional-design.md) — makes "Learning Tasks" (whole tasks) the backbone of the entire instructional sequence.
-- [Merrill's First Principles](/patterns/merrills-first-principles-of-instruction.md) — centers all instruction around a series of real-world problems (whole tasks).
-- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md) — sequences learning from global (whole-task) to local (part-task) and back to global.
+- [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — makes "Learning Tasks" (whole tasks) the backbone of the entire instructional sequence.
+- [Merrill's First Principles](../patterns/merrills-first-principles-of-instruction.md) — centers all instruction around a series of real-world problems (whole tasks).
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — sequences learning from global (whole-task) to local (part-task) and back to global.
 
 ## Examples
 

@@ -39,8 +39,8 @@ Instead of eliminating grades for behavior and participation, differentiate betw
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide feedback](/elements/provide-feedback.md)
-- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Student understanding of grading, effectiveness of feedback

@@ -39,9 +39,9 @@ After completing collaborative problem-solving tasks, learners examine leveled e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Demonstration](../elements/demonstration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student discussions, review the content and clarity of posters/anchor charts, assess student self-assessments and peer feedback

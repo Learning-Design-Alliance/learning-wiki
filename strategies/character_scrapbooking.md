@@ -39,9 +39,9 @@ Students select four key events from a novel and create scrapbook entries repres
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Assess scrapbook entries, quality of discussions, and depth of analysis of character relationships.

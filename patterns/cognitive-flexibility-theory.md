@@ -60,11 +60,11 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 
 ### Claims
 #### Supporting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
-- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -76,16 +76,16 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 5. Return to earlier cases with a richer interpretive lens.
 
 ### Elements Used
-- [Case-Based Learning](/elements/case-based-learning.md)
-- [Case Study](/elements/case-study.md)
-- [Problem-Solving Tasks](/elements/problem-solving-tasks.md)
-- [Peer Discussion](/elements/peer-discussion.md)
+- [Case-Based Learning](../elements/case-based-learning.md)
+- [Case Study](../elements/case-study.md)
+- [Problem-Solving Tasks](../elements/problem-solving-tasks.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ### Affordances
-- [Perspective-Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md)
-- [Case Studies/Case-Based Learning](/principles/case-studiescase-based-learning.md)
-- [Problem-based Learning](/principles/problem-based-learning.md)
-- [Creating Visual Representations](/principles/creating-visual-representations.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Case Studies/Case-Based Learning](../principles/case-studiescase-based-learning.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)
 
 ### Personalization
 - Learners can explore different case pathways while still returning to shared synthesis prompts.
@@ -93,8 +93,8 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 - Advanced learners can handle more independent cross-case navigation than novices.
 
 ## Related Patterns
-- [Case-Based Learning (Harvard Method)](/patterns/case-based-learning-harvard-method.md)
-- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
+- [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md)
+- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
 
 ## Examples
 - Legal reasoning sequences where the same doctrine is interpreted across multiple precedents.

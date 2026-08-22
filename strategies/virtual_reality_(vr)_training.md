@@ -39,10 +39,10 @@ Virtual Reality (VR) training is a method of using VR technology to create simul
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Application](/elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Metrics on skill improvement, error reduction, task completion time, knowledge retention, and learner engagement can be collected and analyzed.

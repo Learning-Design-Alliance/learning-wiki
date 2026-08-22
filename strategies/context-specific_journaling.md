@@ -39,8 +39,8 @@ Context-specific journaling requires individuals to reflect on specific experien
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Individual Reflection](/elements/individual-reflection.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Analyze journal entries to assess the depth of reflection, the quality of observations, and the understanding of the significance of actions. Evaluate changes in thinking and behavior over time.

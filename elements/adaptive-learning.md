@@ -47,13 +47,13 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - Helps instructors manage variation when used transparently
 
 ## Related Elements
-- [Adaptive Difficulty](/elements/adaptive-difficulty.md)
-- [Adaptive Mastery Learning](/elements/adaptive-mastery-learning.md)
-- [Mastery Progression](/elements/mastery-progression.md)
-- [Provide Guidance](/elements/provide-guidance.md)
+- [Adaptive Difficulty](adaptive-difficulty.md)
+- [Adaptive Mastery Learning](adaptive-mastery-learning.md)
+- [Mastery Progression](mastery-progression.md)
+- [Provide Guidance](provide-guidance.md)
 
 ## Patterns That Use This Element
-- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](/patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Examples
 - A tutoring system recommends new tasks based on recent error patterns

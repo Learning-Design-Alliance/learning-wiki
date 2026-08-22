@@ -39,9 +39,9 @@ Creating a culture of error involves fostering a classroom or learning environme
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Gain attention](/elements/gain-attention.md)
-- [Application](/elements/application.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe changes in learner behavior, such as increased willingness to ask questions and participate in activities. Track the types of questions learners ask to assess their understanding of concepts. Analyze the quality and depth of learner reflections on their mistakes. Measure the impact of the culture of error on learner performance and growth over time.

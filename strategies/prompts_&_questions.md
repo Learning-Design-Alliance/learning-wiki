@@ -39,7 +39,7 @@ Providing guiding prompts and questions for students to use when reading or part
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Quality of discussions, depth of understanding, thoughtfulness of responses.

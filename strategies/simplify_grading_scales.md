@@ -39,8 +39,8 @@ Eliminate the 0 to 100 scale as it disproportionately punishes missed assignment
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assess performance](/elements/assess-performance.md)
-- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Distribution of grades, student understanding

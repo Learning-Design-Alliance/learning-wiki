@@ -39,9 +39,9 @@ Quiet signals are predetermined cues or actions used by teachers to quickly and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Gain attention](/elements/gain-attention.md)
-- [Direct instruction](/elements/direct-instruction.md)
-- [Provide guidance](/elements/provide-guidance.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe the speed and effectiveness with which students respond to the quiet signal. Track the reduction in classroom noise levels.

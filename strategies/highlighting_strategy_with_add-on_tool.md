@@ -39,9 +39,9 @@ Students use a Google Doc add-on tool to create individualized highlighters in d
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Practice](/elements/practice.md)
-- [Provide Feedback](/elements/provide-feedback.md)
-- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Evaluate students' highlighted sections and summaries for accuracy and completeness. Track their ability to categorize information. Collect student reflections on their learning process.

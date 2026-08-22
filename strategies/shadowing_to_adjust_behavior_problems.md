@@ -39,9 +39,9 @@ This is a behavior management technique where an adult closely follows a child, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Observation/Shadowing](/elements/observationshadowing.md)
-- [Provide Guidance](/elements/provide-guidance.md)
-- [Provide Feedback](/elements/provide-feedback.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Frequency of target behavior incidents before and during shadowing. Duration of shadowing required to eliminate the behavior. Observations of the child's interactions and behavior during and after shadowing.

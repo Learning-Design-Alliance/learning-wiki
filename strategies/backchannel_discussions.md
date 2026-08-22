@@ -39,9 +39,9 @@ A backchannel is a conversation that happens right alongside another activity. W
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Peer Discussion](/elements/peer-discussion.md)
-- [In-Class Activities](/elements/in-class-activities.md)
-- [Reflection](/elements/reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [In-Class Activities](../elements/in-class-activities.md)
+- [Reflection](../elements/reflection.md)
 
 ## Assessment Evidence
 - Review learner contributions to the backchannel platform, collect feedback from learners about their experience.

@@ -39,8 +39,8 @@ Leveraging the native language in project-based learning (PBL) involves using st
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Resource Evaluation](/elements/resource-evaluation.md)
-- [Criteria Development](/elements/criteria-development.md)
+- [Resource Evaluation](../elements/resource-evaluation.md)
+- [Criteria Development](../elements/criteria-development.md)
 
 ## Assessment Evidence
 - Increased student engagement, enhanced communication skills in multiple languages, and positive feedback from students and educators.

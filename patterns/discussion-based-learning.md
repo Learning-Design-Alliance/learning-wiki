@@ -44,14 +44,14 @@ Discussion-Based Learning is a pattern in which understanding is built through s
 
 ### Theory
 #### Supporting
-- [Social Learning](/principles/social-learning.md)
-- [Constructivism](/principles/constructivism.md)
+- [Social Learning](../principles/social-learning.md)
+- [Constructivism](../principles/constructivism.md)
 #### Contradicting / Qualifying
 - Discussion needs structure; open talk alone does not ensure conceptual progress.
 
 ### Claims
-- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 
 ## Design
 
@@ -62,19 +62,19 @@ Discussion-Based Learning is a pattern in which understanding is built through s
 4. Synthesize what changed or what remains contested.
 
 ### Elements Used
-- [Discussion Prompt](/elements/discussion-prompt.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Socratic Questioning](/elements/socratic-questioning.md)
+- [Discussion Prompt](../elements/discussion-prompt.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Socratic Questioning](../elements/socratic-questioning.md)
 
 ### Affordances
-- [Peer Discussion](/principles/peer-discussion.md)
-- [Perspective-Taking](/principles/perspective-taking.md)
-- [Social Learning](/principles/social-learning.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
+- [Social Learning](../principles/social-learning.md)
 
 ## Related Patterns
-- [Socratic Seminar](/patterns/socratic-seminar.md)
-- [Structured Academic Controversy (SAC)](/patterns/structured-academic-controversy-sac.md)
-- [Discussion Group](/patterns/discussion-group.md)
+- [Socratic Seminar](socratic-seminar.md)
+- [Structured Academic Controversy (SAC)](structured-academic-controversy-sac.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - Seminar-style text discussion with facilitator prompts and synthesis.

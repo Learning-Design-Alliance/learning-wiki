@@ -39,9 +39,9 @@ An emotion guessing game involves an instructor or student making an emotion fac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Demonstration](/elements/demonstration.md)
-- [Peer Discussion](/elements/peer-discussion.md)
-- [Practice](/elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately identify emotions and connect them with appropriate situations. Assess the depth and complexity of the emotions discussed.

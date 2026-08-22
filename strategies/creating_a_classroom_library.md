@@ -39,7 +39,7 @@ Setting up a classroom library involves acquiring books and materials, organizin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [Assigned Readings](/elements/assigned-readings.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Increased reading engagement, improved book selection skills, positive feedback from learners regarding the library.
