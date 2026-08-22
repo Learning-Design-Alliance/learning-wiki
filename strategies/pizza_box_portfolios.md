@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pizza Box Portfolios
+description: Pizza box portfolios are a great space-saving solution.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pizza Box Portfolios
@@ -35,8 +39,8 @@ Pizza box portfolios are a great space-saving solution. They stack right on top 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe the organization of materials in the pizza box portfolios. Track the learner's ability to locate specific items in the portfolios. Gather feedback from the learner on the usefulness of the portfolios.

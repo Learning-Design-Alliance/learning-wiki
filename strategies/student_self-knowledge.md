@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Self-Knowledge
+description: Student self-knowledge involves helping learners understand their strengths, interests, and areas for growth as learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Self-Knowledge
@@ -35,9 +39,9 @@ Student self-knowledge involves helping learners understand their strengths, int
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor learners' self-assessment skills, track their use of self-advocacy strategies, and gather feedback on their experiences with different learning options.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Poetry Exploration through Digital Libraries
+description: Using digital libraries with audio and visual components to engage learners with a variety of poems.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Poetry Exploration through Digital Libraries
@@ -35,8 +39,8 @@ Using digital libraries with audio and visual components to engage learners with
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Assess student's engagement with the digital library, their ability to select and analyze poems, and their understanding of poetic devices and themes. Monitor participation in discussions and written reflections on the poems.

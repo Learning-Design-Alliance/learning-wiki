@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Inclusive Cultural Response
+description: Inclusive Cultural Response involves addressing gaps in cultural learning and representation by adding and including texts and making changes in units of study.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Inclusive Cultural Response
@@ -35,10 +39,10 @@ Inclusive Cultural Response involves addressing gaps in cultural learning and re
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/lectures|Lectures]]
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Lectures](/elements/lectures.md)
+- [Discussion Sections](/elements/discussion-sections.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Diversity of authors and perspectives represented in curriculum, student engagement with diverse materials, participation in inclusive discussions.

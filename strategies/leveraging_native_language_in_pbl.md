@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leveraging Native Language in PBL
+description: "Leveraging the native language in project-based learning (PBL) involves using students' multilingual abilities as an asset."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leveraging Native Language in PBL
@@ -35,8 +39,8 @@ Leveraging the native language in project-based learning (PBL) involves using st
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/resource-evaluation|Resource Evaluation]]
-- [[elements/criteria-development|Criteria Development]]
+- [Resource Evaluation](/elements/resource-evaluation.md)
+- [Criteria Development](/elements/criteria-development.md)
 
 ## Assessment Evidence
 - Increased student engagement, enhanced communication skills in multiple languages, and positive feedback from students and educators.

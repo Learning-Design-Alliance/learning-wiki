@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating a Strengths-Based Culture
+description: A method for empowering learners by focusing on their strengths rather than their weaknesses, creating authentic learning experiences that enable them to develop skills and talents.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating a Strengths-Based Culture
@@ -35,10 +39,10 @@ A method for empowering learners by focusing on their strengths rather than thei
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/learner-choice|Learner Choice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Learner Choice](/elements/learner-choice.md)
 
 ## Assessment Evidence
 - Increased learner confidence, engagement, and motivation. Positive feedback from learners and peers. Improved collaboration and communication.

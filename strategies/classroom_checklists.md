@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Classroom Checklists
+description: Classroom checklists are visual aids used to help students, teachers, and parents stay on track with various tasks and assignments.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Classroom Checklists
@@ -35,9 +39,9 @@ Classroom checklists are visual aids used to help students, teachers, and parent
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](/elements/demonstration.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Evaluate the clarity and effectiveness of the checklist. Assess student compliance and completion rates. Track improvements in organization.

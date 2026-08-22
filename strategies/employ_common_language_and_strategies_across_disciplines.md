@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Employ Common Language and Strategies Across Disciplines
+description: Employing common language and strategies across disciplines involves aligning writing expectations and terminology across different subject areas.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Employ Common Language and Strategies Across Disciplines
@@ -35,11 +39,11 @@ Employing common language and strategies across disciplines involves aligning wr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Increased consistency in student writing across disciplines. Improved transfer of writing skills. Reduced cognitive load for students.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Modified Jigsaw Activities
+description: The jigsaw strategy involves dividing a task into subtopics, assigning one to each group member.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Modified Jigsaw Activities
@@ -35,9 +39,9 @@ The jigsaw strategy involves dividing a task into subtopics, assigning one to ea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/expert-groups|Expert Groups]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Expert Groups](/elements/expert-groups.md)
+- [Collaborative Learning](/elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Observe student interactions and collaboration skills, assess individual understanding of the material through quizzes or assignments, and gather feedback from students about their experience with jigsaw activities.

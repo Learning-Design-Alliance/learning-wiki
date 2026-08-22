@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Identify Self-Talk
+description: Have students record messages from their inner voice over a week in a journal or notebook.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Identify Self-Talk
@@ -35,7 +39,7 @@ Have students record messages from their inner voice over a week in a journal or
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review journal entries for frequency, patterns, and content of self-talk messages.

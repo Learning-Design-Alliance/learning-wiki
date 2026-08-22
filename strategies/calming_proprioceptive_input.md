@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Calming Proprioceptive Input
+description: "Using proprioceptive input, also known as \"heavy work,\" involves engaging muscles and joints to provide a calming and organizing sensory experience."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Calming Proprioceptive Input
@@ -35,8 +39,8 @@ Using proprioceptive input, also known as "heavy work," involves engaging muscle
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe the child's behavior and emotional state before, during, and after proprioceptive input. Monitor the child's self-regulation and ability to manage sensory input.

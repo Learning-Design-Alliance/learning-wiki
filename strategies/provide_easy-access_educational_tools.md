@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Provide Easy-Access Educational Tools
+description: Providing easy-access educational tools involves making a variety of resources readily available to students to support their learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Provide Easy-Access Educational Tools
@@ -35,9 +39,9 @@ Providing easy-access educational tools involves making a variety of resources r
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/resource-evaluation|Resource Evaluation]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Resource Evaluation](/elements/resource-evaluation.md)
 
 ## Assessment Evidence
 - Observe student use of the tools, track their ability to independently manage their learning, and monitor improvements in academic performance.

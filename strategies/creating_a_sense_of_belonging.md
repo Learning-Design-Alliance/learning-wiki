@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating A Sense of Belonging
+description: Learners who feel like they belong in school are more motivated, engaged, and ultimately show higher performance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating A Sense of Belonging
@@ -35,9 +39,9 @@ Learners who feel like they belong in school are more motivated, engaged, and ul
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Positive learner feedback, improved classroom culture, increased enthusiasm to participate in class, etc.

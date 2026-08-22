@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Live Writing Demonstrations
+description: Instructors demonstrate the writing process in real-time, in front of learners, to make the thinking and decision-making involved in writing visible.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Live Writing Demonstrations
@@ -35,11 +39,11 @@ Instructors demonstrate the writing process in real-time, in front of learners, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/modeling|Modeling]]
-- [[elements/articulation|Articulation]]
-- [[elements/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Modeling](/elements/modeling.md)
+- [Articulation](/elements/articulation.md)
+- [Peer Feedback/Peer Review](/elements/peer-feedbackpeer-review.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Improvements in learner writing quality as evidenced by better structure, clarity, and use of techniques observed in the demonstration. Increased learner participation in writing activities and peer feedback.

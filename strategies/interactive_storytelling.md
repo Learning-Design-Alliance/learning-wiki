@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Interactive Storytelling
+description: "Interactive storytelling involves creating narratives where the reader or user can make choices that affect the story's direction and outcome."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Interactive Storytelling
@@ -35,9 +39,9 @@ Interactive storytelling involves creating narratives where the reader or user c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Application](/elements/application.md)
+- [Demonstration](/elements/demonstration.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess the creativity and coherence of the narrative, the effectiveness of the interactive elements, and the overall impact of the story.

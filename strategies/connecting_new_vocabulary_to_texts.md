@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connecting New Vocabulary to Texts
+description: This approach involves integrating vocabulary instruction directly with texts to enhance understanding and retention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connecting New Vocabulary to Texts
@@ -35,10 +39,10 @@ This approach involves integrating vocabulary instruction directly with texts to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [State objectives](/elements/state-objectives.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Vocabulary quizzes, comprehension assessments, and student discussions that demonstrate understanding and use of the new vocabulary in context.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Estimation and Prediction Activities
+description: Estimation and prediction activities help learners to develop an understanding of self-awareness as they learn to understand how they do work.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Estimation and Prediction Activities
@@ -35,9 +39,9 @@ Estimation and prediction activities help learners to develop an understanding o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](/elements/practice.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor learner participation

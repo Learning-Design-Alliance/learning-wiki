@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teach Key Words for Standardized Test Prompts
+description: Instructors teach terms that help learners understand prompts and perform well on standardized tests.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teach Key Words for Standardized Test Prompts
@@ -35,8 +39,8 @@ Instructors teach terms that help learners understand prompts and perform well o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Assess learner performance on practice tests.

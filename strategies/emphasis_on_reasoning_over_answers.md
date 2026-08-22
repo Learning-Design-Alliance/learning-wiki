@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emphasis on Reasoning over Answers
+description: De-emphasizing answers and spending more time on reasoning can build confidence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emphasis on Reasoning over Answers
@@ -35,8 +39,8 @@ De-emphasizing answers and spending more time on reasoning can build confidence.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/eliciting-student-thinking|Eliciting Student Thinking]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess the quality of learner reasoning and problem-solving skills.

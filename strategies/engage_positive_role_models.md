@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Engage Positive Role Models
+description: Involving families and community members in classroom and school activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Engage Positive Role Models
@@ -35,8 +39,8 @@ Involving families and community members in classroom and school activities. Int
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/expert-groups|Expert Groups]]
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Expert Groups](/elements/expert-groups.md)
 
 ## Assessment Evidence
 - Gather feedback from students, families, and community members. Observe student engagement and motivation.

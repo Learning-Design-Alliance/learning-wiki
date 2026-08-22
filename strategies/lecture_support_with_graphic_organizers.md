@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Lecture Support with Graphic Organizers
+description: Instructors present lecture content using graphic organizers rather than standard PowerPoints or outlines, visualizing how concepts are related to each other.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Lecture Support with Graphic Organizers
@@ -35,9 +39,9 @@ Instructors present lecture content using graphic organizers rather than standar
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/lectures|Lectures]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Lectures](/elements/lectures.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Student understanding of relationships between concepts, participation in discussions, and performance on related assessments.

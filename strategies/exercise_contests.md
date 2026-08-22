@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Exercise Contests
+description: Organize contests to incentivize students to be more physically active, such as a month-long or year-long challenge.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Exercise Contests
@@ -35,8 +39,8 @@ Organize contests to incentivize students to be more physically active, such as 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess Performance]]
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Assess Performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track participation rates, monitor activity levels, gather feedback from students

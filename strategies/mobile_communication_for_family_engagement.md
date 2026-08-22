@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mobile Communication for Family Engagement
+description: Utilizing text messages to inform families about their student’s progress, as well as general tips for supporting children’s learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mobile Communication for Family Engagement
@@ -35,8 +39,8 @@ Utilizing text messages to inform families about their student’s progress, as 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student outcomes and correlate them with the use of mobile communication. Collect feedback from families to assess the relevance and effectiveness of the messages.

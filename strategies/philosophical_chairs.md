@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Philosophical Chairs
+description: A statement that has two possible responses—agree or disagree—is read out loud.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Philosophical Chairs
@@ -35,10 +39,10 @@ A statement that has two possible responses—agree or disagree—is read out lo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-positions|Assigned Positions]]
-- [[elements/argument-construction|Argument Construction]]
-- [[elements/role-reversal|Role Reversal]]
-- [[elements/consensus-building|Consensus Building]]
+- [Assigned Positions](/elements/assigned-positions.md)
+- [Argument Construction](/elements/argument-construction.md)
+- [Role Reversal](/elements/role-reversal.md)
+- [Consensus Building](/elements/consensus-building.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the debate, review the quality of their arguments and evidence, collect feedback from learners about their experience.

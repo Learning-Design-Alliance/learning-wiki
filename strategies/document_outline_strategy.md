@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Document Outline Strategy
+description: "Using the “Document outline” tool in Google Docs, students pick out evidence that supports the main ideas they've found."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Document Outline Strategy
@@ -35,9 +39,9 @@ Using the “Document outline” tool in Google Docs, students pick out evidence
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Evaluate students' outlines for accuracy and completeness. Track their ability to summarize information. Collect student reflections on their learning process.

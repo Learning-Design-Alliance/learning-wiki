@@ -1,8 +1,11 @@
 ---
 type: element
+title: Peer Feedback/Peer Review
+description: "Peer feedback/peer review is the element in which learners evaluate one another's work against criteria and provide revision-oriented feedback."
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Peer Feedback/Peer Review
@@ -23,12 +26,12 @@ Peer feedback/peer review is the element in which learners evaluate one another'
 - Improve revision, evaluative judgment, and accountability.
 
 ### Affordances
-- [[principles/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
-- [[principles/metacognition|Metacognition]]
+- [Peer Feedback/Peer Review](/principles/peer-feedbackpeer-review.md)
+- [Metacognition](/principles/metacognition.md)
 
 ## Related Elements
-- [[elements/peer-review|Peer Review]]
-- [[elements/peer-assessment|Peer Assessment]]
+- [Peer Review](/elements/peer-review.md)
+- [Peer Assessment](/elements/peer-assessment.md)
 
 ## Key Sources
 - Topping, K. J. (1998). Peer assessment between students in colleges and universities. *Review of Educational Research, 68*(3), 249-276.

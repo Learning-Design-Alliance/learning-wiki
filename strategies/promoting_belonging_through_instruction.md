@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Promoting Belonging Through Instruction
+description: Teachers promote belonging in the math classroom through instructional choices and practices that address equity and opportunity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Promoting Belonging Through Instruction
@@ -35,10 +39,10 @@ Teachers promote belonging in the math classroom through instructional choices a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Improved student engagement, higher academic performance, increased self-esteem, and positive classroom environment.

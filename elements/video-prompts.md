@@ -1,8 +1,11 @@
 ---
 type: element
+title: Video Prompts
+description: Video prompts are short video clips used to launch attention, curiosity, discussion, or analysis.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Video Prompts
@@ -23,17 +26,17 @@ Video prompts are short video clips used to launch attention, curiosity, discuss
 - Capture attention and initiate analysis or discussion.
 
 ### Affordances
-- [[principles/engagement|Engagement]]
-- [[principles/cognitive-activation|Cognitive Activation]]
+- [Engagement](/principles/engagement.md)
+- [Cognitive Activation](/principles/cognitive-activation.md)
 
 ## Related Elements
-- [[elements/gain-attention|Gain Attention]]
-- [[elements/discussion-prompt|Discussion Prompt]]
-- [[elements/real-world-problems|Real-World Problems]]
+- [Gain Attention](/elements/gain-attention.md)
+- [Discussion Prompt](/elements/discussion-prompt.md)
+- [Real-World Problems](/elements/real-world-problems.md)
 
 ## Patterns That Use This Element
-- [[patterns/anchored-instruction|Anchored Instruction]]
-- [[patterns/flipped-learning|Flipped Learning]]
+- [Anchored Instruction](/patterns/anchored-instruction.md)
+- [Flipped Learning](/patterns/flipped-learning.md)
 
 ## Examples
 - A short clip introduces a dilemma or phenomenon that learners must explain or discuss.

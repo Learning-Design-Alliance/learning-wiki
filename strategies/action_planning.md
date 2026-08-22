@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Action Planning
+description: Action planning involves developing explicit plans to consciously modify behaviors and improve future performance based on self-reflection.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Action Planning
@@ -35,8 +39,8 @@ Action planning involves developing explicit plans to consciously modify behavio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/integration|Integration]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Integration](/elements/integration.md)
 
 ## Assessment Evidence
 - Evidence of behavioral change, self-reported progress toward goals, and application of learning in new situations.

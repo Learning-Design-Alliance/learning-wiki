@@ -1,7 +1,11 @@
 ---
 type: element
+title: Peer Teaching
+description: Learners explain concepts to peers, reinforcing their own understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Peer Teaching
@@ -27,18 +31,18 @@ Learners explain concepts to peers, reinforcing their own understanding.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/metacognition|Metacognition]]
+- [Social Learning](/principles/social-learning.md)
+- [Metacognition](/principles/metacognition.md)
 
 ## Related Elements
-- [[elements/expert-groups|Expert Groups]]
-- [[elements/reciprocal-teaching|Reciprocal Teaching]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
+- [Expert Groups](/elements/expert-groups.md)
+- [Reciprocal Teaching](/elements/reciprocal-teaching.md)
+- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
 
 ## Patterns That Use This Element
-- [[patterns/jigsaw|Jigsaw]]
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
-- [[patterns/peer-instruction|Peer Instruction]]
+- [Jigsaw](/patterns/jigsaw.md)
+- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Peer Instruction](/patterns/peer-instruction.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

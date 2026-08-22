@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Low-Stakes Quizzes
+description: Low-stakes quizzes are brief assessments designed to help learners gauge their understanding without the pressure of high grades.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Low-Stakes Quizzes
@@ -35,8 +39,8 @@ Low-stakes quizzes are brief assessments designed to help learners gauge their u
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/quizzes|Quizzes]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Quizzes](/elements/quizzes.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track quiz scores over time to measure improvement. Analyze common incorrect answers to identify areas for reteaching.

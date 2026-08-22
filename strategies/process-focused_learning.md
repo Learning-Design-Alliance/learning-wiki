@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Process-Focused Learning
+description: Emphasizing and valuing the process of learning, rather than solely focusing on grades, promotes a growth mindset and encourages learners to embrace challenges.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Process-Focused Learning
@@ -35,9 +39,9 @@ Emphasizing and valuing the process of learning, rather than solely focusing on 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track changes in learner attitudes towards learning. Measure the depth of learner understanding. Assess the quality of learner reflections. Observe changes in learner engagement and motivation.

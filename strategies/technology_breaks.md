@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Technology Breaks
+description: Taking short, scheduled breaks from technology during study periods reduces the negative effects of media multitasking.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Technology Breaks
@@ -35,10 +39,10 @@ Taking short, scheduled breaks from technology during study periods reduces the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/self-monitoring|Self-monitoring]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Self-monitoring](/elements/self-monitoring.md)
 
 ## Assessment Evidence
 - Track study time and frequency of technology breaks, measure task completion rates, conduct self-reports on focus and concentration.

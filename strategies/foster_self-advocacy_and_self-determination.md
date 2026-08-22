@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Foster Self-Advocacy and Self-Determination
+description: This strategy emphasizes the importance of developing self-advocacy and self-determination skills in students, particularly those with disabilities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Foster Self-Advocacy and Self-Determination
@@ -35,9 +39,9 @@ This strategy emphasizes the importance of developing self-advocacy and self-det
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track student participation in self-advocacy activities, analyze their ability to articulate their needs and rights, monitor their progress in achieving established goals, and observe their engagement in problem-solving and reflection.

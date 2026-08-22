@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Embracing Errors as Learning
+description: This strategy involves creating a classroom culture where errors are seen as opportunities for learning rather than indicators of failure.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Embracing Errors as Learning
@@ -35,11 +39,11 @@ This strategy involves creating a classroom culture where errors are seen as opp
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/cognitive-conflict|Cognitive Conflict]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Cognitive Conflict](/elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Observe shifts in learner attitudes and behaviors related to errors. Assess improvements in reasoning skills and persistence on challenging tasks.

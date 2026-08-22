@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Shadowing (Behavior Adjustment)
+description: "An adult follows a child closely, within arm's reach, to provide constant direct supervision and prevent unwanted behaviors (e.g., biting) before they occur."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Shadowing (Behavior Adjustment)
@@ -35,8 +39,8 @@ An adult follows a child closely, within arm's reach, to provide constant direct
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Observation/Shadowing](/elements/observationshadowing.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Decrease in targeted behavior incidents over time.

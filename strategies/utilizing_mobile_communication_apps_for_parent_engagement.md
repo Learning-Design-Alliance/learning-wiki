@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Utilizing Mobile Communication Apps for Parent Engagement
+description: Mobile communication apps (e.g., ClassDojo, Spotlight, Remind, and Seesaw) offer simple ways for educators to send texts, video summaries, and alerts to parents about school activities or their child’s progress.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Utilizing Mobile Communication Apps for Parent Engagement
@@ -35,8 +39,8 @@ Mobile communication apps (e.g., ClassDojo, Spotlight, Remind, and Seesaw) offer
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track frequency of communication, gather feedback from parents and teachers

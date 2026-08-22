@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Anchored Instruction
+description: "Anchored instruction organizes learning around a rich, shared scenario that acts as the \"anchor\" for inquiry, discussion, and problem solving."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: cognition-and-technology-group-at-vanderbilt-1992
+    resource: "https://doi.org/10.1007/BF02296729"
+    title: "Cognition and Technology Group at Vanderbilt. (1992). The Jasper experiment: An exploration of issues in learning and instructional design. *Educational Technology Research and Development, 40*(1), 65-80"
+    author: Cognition and Technology Group at Vanderbilt
 author: John Bransford and the Cognition and Technology Group at Vanderbilt
 grain_size: lesson
 ---
@@ -52,11 +60,11 @@ The pattern is useful when learners need to reason through messy situations rath
 
 ### Claims
 #### Supporting
-- [[claims/whole-task-performance-improves-transfer]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
 #### Contradicting
-- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -68,16 +76,16 @@ The pattern is useful when learners need to reason through messy situations rath
 5. Debrief the reasoning and connect it back to the target concepts.
 
 ### Elements Used
-- [[elements/anchored-instruction|Anchored Instruction]]
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/peer-interaction|Peer Interaction]]
+- [Anchored Instruction](/elements/anchored-instruction.md)
+- [Problem Scenario](/elements/problem-scenario.md)
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Peer Interaction](/elements/peer-interaction.md)
 
 ### Affordances
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/inquiry-based-learning|Inquiry-based Learning]]
-- [[principles/authentic-audiences-purposes|Authentic Audiences & Purposes]]
-- [[principles/creating-visual-representations|Creating Visual Representations]]
+- [Problem-based Learning](/principles/problem-based-learning.md)
+- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
+- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md)
+- [Creating Visual Representations](/principles/creating-visual-representations.md)
 
 ### Personalization
 - Anchors can be chosen or adapted to different learner interests and backgrounds.
@@ -85,8 +93,8 @@ The pattern is useful when learners need to reason through messy situations rath
 - Teams can take different roles or analyze different facets of the same anchor.
 
 ## Related Patterns
-- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
-- [[patterns/goal-based-scenarios-gbs|Goal-Based Scenarios (GBS)]]
+- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
+- [Goal-Based Scenarios (GBS)](/patterns/goal-based-scenarios-gbs.md)
 
 ## Examples
 - Jasper-style video math problems that embed quantitative reasoning in a narrative.

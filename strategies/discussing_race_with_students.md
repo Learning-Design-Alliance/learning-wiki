@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Discussing Race with Students
+description: This strategy involves creating a classroom environment conducive to complex conversations about race through activities that help students notice and celebrate similarities and differences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Discussing Race with Students
@@ -35,11 +39,11 @@ This strategy involves creating a classroom environment conducive to complex con
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Case Study](/elements/case-study.md)
+- [Class Discussion](/elements/class-discussion.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe the depth and quality of student discussions, assess changes in attitudes and behaviors related to race and equity, and evaluate the effectiveness of interventions designed to promote positive racial identity formation.

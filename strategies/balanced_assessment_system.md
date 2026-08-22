@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Balanced Assessment System
+description: The system should inform core instruction as well as intervention needs in your school.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Balanced Assessment System
@@ -35,12 +39,12 @@ The system should inform core instruction as well as intervention needs in your 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Activation](/elements/activation.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Use of assessments that provide appropriate and valid outcomes.

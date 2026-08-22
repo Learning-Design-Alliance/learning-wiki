@@ -1,8 +1,20 @@
 ---
 type: claim
-id: ea-2
+title: Erroneous examples improve conceptual understanding by forcing comparison with correct models.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
+sources:
+  - id: rittle-johnson-2017
+    resource: "https://doi.org/10.1007/s11858-017-0834-z"
+    title: "Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)"
+    author: Rittle-Johnson, B
+  - id: durkin-rittle-johnson-2012
+    resource: "https://doi.org/10.1016/j.learninstruc.2011.11.001"
+    title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206–214. [https://doi.org/10.1016/j.learninstruc.2011.11.001](https://doi.org/10.1016/j.learninstruc.2011.11.001)"
+    author: "Durkin, K., & Rittle-Johnson, B"
+id: ea-2
 evidence_strength: moderate
 ---
 
@@ -38,5 +50,5 @@ Researchers studied middle-schoolers learning decimal magnitudes. Students who c
 Erroneous examples are most effective for learners with at least some prior knowledge; they can be confusing or lead to cognitive overload for absolute novices.
 
 ## Related Claims
-- [[claims/high-confidence-errors-improve-retention]]
-- [[claims/self-explanation-improves-conceptual-understanding]]
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](/claims/high-confidence-errors-improve-retention.md)
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md)

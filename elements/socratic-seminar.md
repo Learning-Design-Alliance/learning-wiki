@@ -1,8 +1,11 @@
 ---
 type: element
+title: Socratic Seminar
+description: Socratic seminar is the element in which learners build understanding through text-centered questioning and discussion.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Socratic Seminar
@@ -11,5 +14,5 @@ edited_by: Codex
 Socratic seminar is the element in which learners build understanding through text-centered questioning and discussion.
 
 ## Affordances
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[principles/peer-discussion|Peer Discussion]]
+- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Peer Discussion](/principles/peer-discussion.md)

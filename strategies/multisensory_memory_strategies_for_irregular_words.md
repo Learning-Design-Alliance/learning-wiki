@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multisensory Memory Strategies for Irregular Words
+description: Multisensory memory strategies for irregular words involve using multiple senses (visual, auditory, kinesthetic, and tactile) to enhance memory and retention of irregularly spelled words.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multisensory Memory Strategies for Irregular Words
@@ -35,9 +39,9 @@ Multisensory memory strategies for irregular words involve using multiple senses
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor spelling accuracy on regular spelling tests, track progress in writing assignments, and assess the effective use of mnemonic devices.

@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Journaling
+description: Journaling is the pattern-level target for recurring written reflection used to track learning, sensemaking, or growth over time.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: reflective writing tradition
 grain_size: unit
 ---
@@ -32,17 +35,17 @@ Journaling is the pattern-level target for recurring written reflection used to 
 
 ### Theory
 #### Supporting
-- [[principles/reflection|Reflection]]
-- [[principles/metacognition|Metacognition]]
+- [Reflection](/principles/reflection.md)
+- [Metacognition](/principles/metacognition.md)
 
 ## Design
 
 ### Elements Used
-- [[elements/journaling|Journaling]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Journaling](/elements/journaling.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Related Patterns
-- [[patterns/reflective-practice|Reflective Practice]]
+- [Reflective Practice](/patterns/reflective-practice.md)
 
 ## Key Sources
 - Moon, J. A. (2006). *Learning journals*. Routledge.

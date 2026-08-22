@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multiple Ways to Perceive Information
+description: Presenting information in more ways than images and text alone enhances comprehension and caters to diverse learning preferences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multiple Ways to Perceive Information
@@ -35,9 +39,9 @@ Presenting information in more ways than images and text alone enhances comprehe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/demonstration|Demonstration]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in multimodal activities. Assess comprehension through varied formats like written, visual, or oral presentations. Track improvements in retention and application of knowledge in diverse contexts.

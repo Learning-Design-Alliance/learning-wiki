@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Case-Based Learning (Harvard Method)
+description: Case-based learning in the Harvard method uses a carefully written case as the center of discussion, analysis, and decision making.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: kim-2006
+    resource: "https://doi.org/10.1111/j.1365-2929.2006.02544.x"
+    title: "Kim, S., Phillips, W. R., Pinsky, L., Brock, D., Phillips, K., & Keary, J. (2006). A conceptual framework for developing teaching cases: A review and synthesis of the literature across disciplines. *Medical Education, 40*(9), 867-876"
+    author: "Kim, S., Phillips, W. R., Pinsky, L., Brock, D., Phillips, K., & Keary, J"
 author: Harvard Business School tradition
 grain_size: lesson
 ---
@@ -52,11 +60,11 @@ This pattern is especially useful when the goal is judgment under uncertainty. I
 
 ### Claims
 #### Supporting
-- [[claims/whole-task-performance-improves-transfer]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
 #### Contradicting
-- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -68,16 +76,16 @@ This pattern is especially useful when the goal is judgment under uncertainty. I
 5. Debrief the decision process and key lessons.
 
 ### Elements Used
-- [[elements/case-study|Case Study]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/reflection|Reflection]]
-- [[elements/assessment|Assessment]]
+- [Case Study](/elements/case-study.md)
+- [Class Discussion](/elements/class-discussion.md)
+- [Reflection](/elements/reflection.md)
+- [Assessment](/elements/assessment.md)
 
 ### Affordances
-- [[principles/case-studiescase-based-learning|Case Studies/Case-Based Learning]]
-- [[principles/debate|Debate]]
-- [[principles/perspective-seekingmultiple-perspectives|Perspective-Seeking/Multiple Perspectives]]
-- [[principles/peer-discussion|Peer Discussion]]
+- [Case Studies/Case-Based Learning](/principles/case-studiescase-based-learning.md)
+- [Debate](/principles/debate.md)
+- [Perspective-Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md)
+- [Peer Discussion](/principles/peer-discussion.md)
 
 ### Personalization
 - Cases can be selected for discipline, role, or stakeholder relevance.
@@ -85,8 +93,8 @@ This pattern is especially useful when the goal is judgment under uncertainty. I
 - Facilitation can vary from tightly guided questioning to more open Socratic exchange.
 
 ## Related Patterns
-- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
-- [[patterns/socratic-seminar|Socratic Seminar]]
+- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
+- [Socratic Seminar](/patterns/socratic-seminar.md)
 
 ## Examples
 - Business strategy cases where learners recommend a course of action to a leadership team.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Provide Writing Models
+description: Providing writing models involves sharing exemplary pieces of writing with learners to illustrate effective writing techniques and structures.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Provide Writing Models
@@ -35,10 +39,10 @@ Providing writing models involves sharing exemplary pieces of writing with learn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improvements in learner writing quality as evidenced by better structure, clarity, and use of techniques observed in the models. Increased self-awareness and critical analysis skills demonstrated through reflective writing and peer feedback.

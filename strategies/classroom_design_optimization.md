@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Classroom Design Optimization
+description: Optimizing classroom design (noise levels, temperature, seating arrangement) can minimize distractions and improve learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Classroom Design Optimization
@@ -35,9 +39,9 @@ Optimizing classroom design (noise levels, temperature, seating arrangement) can
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Measure noise levels, temperature, and seating arrangement types. Track instances of distraction and academic performance.

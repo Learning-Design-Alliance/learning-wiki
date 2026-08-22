@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: How Close to 100?
+description: A game played in partners where children roll two dice to determine the dimensions of an array to draw on a 100 grid, aiming to fill the grid as much as possible.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # How Close to 100?
@@ -35,8 +39,8 @@ A game played in partners where children roll two dice to determine the dimensio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe children's ability to strategically place arrays and accurately write number sentences

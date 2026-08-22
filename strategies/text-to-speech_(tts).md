@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Text-to-Speech (TTS)
+description: Text-to-speech (TTS) technology converts written text into spoken words, enhancing accessibility and comprehension for individuals with dyslexia, visual impairments, or other learning differences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Text-to-Speech (TTS)
@@ -35,8 +39,8 @@ Text-to-speech (TTS) technology converts written text into spoken words, enhanci
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Measure reading comprehension with and without TTS. Evaluate the speed and accuracy of reading aloud. Gather feedback from users on their experience and perceived benefits. Track improvements in reading skills and vocabulary development over time.

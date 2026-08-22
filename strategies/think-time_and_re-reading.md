@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Think-Time and Re-Reading
+description: Sufficient time is allowed for learners to process information and re-read materials if needed.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Think-Time and Re-Reading
@@ -35,8 +39,8 @@ Sufficient time is allowed for learners to process information and re-read mater
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to provide thoughtful responses. Assess comprehension through detailed assignments and discussions.

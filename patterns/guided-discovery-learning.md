@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Guided Discovery Learning
+description: Guided Discovery Learning is a pattern in which learners investigate examples, data, or problems and are led by prompts, questions, and scaffolds toward important concepts or principles.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: alfieri-2011
+    resource: "https://doi.org/10.1037/a0021017"
+    title: "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1-18"
+    author: "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R"
 author: Jerome Bruner
 grain_size: lesson
 ---
@@ -52,11 +60,11 @@ The pattern is useful when the goal is to build conceptual understanding through
 
 ### Claims
 #### Supporting
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/whole-task-performance-improves-transfer]] [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
 #### Contradicting
-- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -68,16 +76,16 @@ The pattern is useful when the goal is to build conceptual understanding through
 5. Consolidate the discovered principle and connect it to later use.
 
 ### Elements Used
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/scaffolded-inquiry|Scaffolded Inquiry]]
-- [[elements/reflection|Reflection]]
-- [[elements/feedback|Feedback]]
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Scaffolded Inquiry](/elements/scaffolded-inquiry.md)
+- [Reflection](/elements/reflection.md)
+- [Feedback](/elements/feedback.md)
 
 ### Affordances
-- [[principles/inquiry-based-learning|Inquiry-based Learning]]
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/pre-reading-questioning|Pre-reading Questioning]]
-- [[principles/purposeful-reflection|Purposeful Reflection]]
+- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
+- [Guided Practice](/principles/guided-practice.md)
+- [Pre-reading Questioning](/principles/pre-reading-questioning.md)
+- [Purposeful Reflection](/principles/purposeful-reflection.md)
 
 ### Personalization
 - Learners can work with different examples or contexts while pursuing the same conceptual target.
@@ -85,8 +93,8 @@ The pattern is useful when the goal is to build conceptual understanding through
 - Discovery products can be oral, visual, or written depending on learner needs.
 
 ## Related Patterns
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
-- [[patterns/process-oriented-guided-inquiry-learning-pogil|Process-Oriented Guided Inquiry Learning (POGIL)]]
+- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Process-Oriented Guided Inquiry Learning (POGIL)](/patterns/process-oriented-guided-inquiry-learning-pogil.md)
 
 ## Examples
 - Science learners inferring relationships from data patterns.

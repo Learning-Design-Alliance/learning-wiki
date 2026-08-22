@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Combination of Strategies
+description: Combining two or more calming sensory strategies to create a more comprehensive and effective approach to self-regulation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Combination of Strategies
@@ -35,8 +39,8 @@ Combining two or more calming sensory strategies to create a more comprehensive 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Practice](/elements/practice.md)
+- [Provide Guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation in these strategies. Collect feedback from learners on the effectiveness of different combinations of strategies. Track changes in learners' behavior, attention, and emotional regulation.

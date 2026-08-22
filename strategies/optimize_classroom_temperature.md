@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Optimize Classroom Temperature
+description: Maintaining an ideal temperature range (68-74°F) in classrooms can significantly impact student engagement and achievement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Optimize Classroom Temperature
@@ -35,7 +39,7 @@ Maintaining an ideal temperature range (68-74°F) in classrooms can significantl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student engagement and productivity levels at different temperatures. Monitor test scores and academic achievement in classrooms with optimized temperatures.

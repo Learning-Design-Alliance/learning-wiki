@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strategy Instruction (Self-Regulated Strategy Development - SRSD)
+description: Explicit teaching of writing strategies, especially self-regulated strategy development (SRSD).
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strategy Instruction (Self-Regulated Strategy Development - SRSD)
@@ -35,10 +39,10 @@ Explicit teaching of writing strategies, especially self-regulated strategy deve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased self-regulation, reduced negative self-talk

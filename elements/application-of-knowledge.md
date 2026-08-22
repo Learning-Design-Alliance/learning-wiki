@@ -1,7 +1,11 @@
 ---
 type: element
+title: Application of Knowledge
+description: Learners apply concepts to real-world problems or case studies.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Application of Knowledge
@@ -27,17 +31,17 @@ Learners apply concepts to real-world problems or case studies.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/active-learning|Active Learning]]
-- [[principles/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Active Learning](/principles/active-learning.md)
+- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [[elements/hands-on-learning|Hands-on Learning]]
-- [[elements/problem-based-learning|Problem-Based Learning]]
-- [[elements/simulations|Simulations]]
+- [Hands-on Learning](/elements/hands-on-learning.md)
+- [Problem-Based Learning](/elements/problem-based-learning.md)
+- [Simulations](/elements/simulations.md)
 
 ## Patterns That Use This Element
-- [[patterns/merrills-first-principles|Merrill’s First Principles]]
-- [[patterns/problem-based-learning|Problem-Based Learning]]
+- [Merrill’s First Principles](/patterns/merrills-first-principles.md)
+- [Problem-Based Learning](/patterns/problem-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

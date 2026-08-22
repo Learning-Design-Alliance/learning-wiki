@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pencil Grasp Activities
+description: Activities aimed at promoting a functional pencil grasp, which is essential for comfortable and efficient handwriting.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pencil Grasp Activities
@@ -35,10 +39,10 @@ Activities aimed at promoting a functional pencil grasp, which is essential for 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe improvements in pencil grasp, including thumb opposition and open web space. Assess comfort and efficiency in handwriting.

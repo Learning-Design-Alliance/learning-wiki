@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Discipline-Specific Literacy
+description: Discipline-specific literacy involves teaching reading, writing, speaking, and thinking skills unique to each subject area.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Discipline-Specific Literacy
@@ -35,10 +39,10 @@ Discipline-specific literacy involves teaching reading, writing, speaking, and t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student improvement in discipline-specific writing assignments. Monitor student engagement in interactive activities and the quality of their contributions to discussions. Evaluate student self-monitoring skills using checklists and rubrics.

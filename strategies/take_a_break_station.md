@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Take A Break Station
+description: A designated space in the classroom where children can take a moment to decompress, reset, and self-regulate their emotions and behaviors.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Take A Break Station
@@ -35,9 +39,9 @@ A designated space in the classroom where children can take a moment to decompre
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/application|Application]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe student behavior before and after using the station for changes in emotional state and behavior. Collect student reflections on their experience at the station. Track frequency of use to identify students who may need additional support.

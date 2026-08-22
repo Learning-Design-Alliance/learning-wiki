@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Number Relationships and Reasoning Strategies
+description: Basic facts should be taught using number relationships and reasoning strategies, not memorization.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Number Relationships and Reasoning Strategies
@@ -35,9 +39,9 @@ Basic facts should be taught using number relationships and reasoning strategies
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/direct-instruction|Direct instruction]]
+- [State objectives](/elements/state-objectives.md)
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Evaluates learners’ ability to articulate number relationships and reasoning strategies through explanations, applications, and problem-solving tasks. Assesses learners’ strategic flexibility and conceptual understanding using multiple-choice questions.

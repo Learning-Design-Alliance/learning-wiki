@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: The Title (Pre-Reading)
+description: Learners are given the title of the reading and asked to form small groups to pool their knowledge about the topic.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # The Title (Pre-Reading)
@@ -35,8 +39,8 @@ Learners are given the title of the reading and asked to form small groups to po
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the range and depth of knowledge shared by each group. Collect feedback on how well the activity prepared learners for the reading.

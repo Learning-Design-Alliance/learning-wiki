@@ -1,8 +1,20 @@
 ---
 type: claim
-id: ch-1
+title: Chunking reduces working memory load by grouping information into fewer, more meaningful units.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
+sources:
+  - id: miller-1956
+    resource: "https://doi.org/10.1037/h0043158"
+    title: "Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review, 63*(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158)"
+    author: Miller, G. A
+  - id: thalmann-et-al-2019
+    resource: "https://doi.org/10.1037/xlm0000578"
+    title: "Thalmann, M., Souza, A. S., & Oberauer, K. (2019). How does chunking help working memory? *Journal of Experimental Psychology: Learning, Memory, and Cognition, 45*(1), 37–55. [https://doi.org/10.1037/xlm0000578](https://doi.org/10.1037/xlm0000578)"
+    author: "Thalmann, M., Souza, A. S., & Oberauer, K"
+id: ch-1
 evidence_strength: strong
 ---
 
@@ -38,4 +50,4 @@ This series of experiments investigated the mechanism of chunking, confirming th
 Chunking efficiency is highly dependent on prior knowledge; an expert can form much larger and more meaningful chunks than a novice in the same domain.
 
 ## Related Claims
-- [[claims/expertise-reversal-effect]]
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md)

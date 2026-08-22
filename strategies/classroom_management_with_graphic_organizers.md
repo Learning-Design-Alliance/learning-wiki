@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Classroom Management with Graphic Organizers
+description: Teachers put the most important policies, procedures, and expectations into graphic form to increase the likelihood that students will follow them.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Classroom Management with Graphic Organizers
@@ -35,8 +39,8 @@ Teachers put the most important policies, procedures, and expectations into grap
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/provide-guidance|Provide guidance]]
+- [State objectives](/elements/state-objectives.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Classroom follows expectations.

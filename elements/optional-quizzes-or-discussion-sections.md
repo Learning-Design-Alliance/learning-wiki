@@ -1,7 +1,11 @@
 ---
 type: element
+title: Optional Quizzes or Discussion Sections
+description: Supplementary activities designed to reinforce learning and provide formative feedback.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Optional Quizzes or Discussion Sections
@@ -27,17 +31,17 @@ Supplementary activities designed to reinforce learning and provide formative fe
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/retrieval-practice|Retrieval Practice]]
-- [[principles/formative-assessment|Formative Assessment]]
+- [Retrieval Practice](/principles/retrieval-practice.md)
+- [Formative Assessment](/principles/formative-assessment.md)
 
 ## Related Elements
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/self-testing|Self-Testing]]
+- [Formative Assessment](/elements/formative-assessment.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Self-Testing](/elements/self-testing.md)
 
 ## Patterns That Use This Element
-- [[patterns/traditional-lecture-based-instruction|Traditional Lecture-Based Instruction]]
-- [[patterns/flipped-classroom|Flipped Classroom]]
+- [Traditional Lecture-Based Instruction](/patterns/traditional-lecture-based-instruction.md)
+- [Flipped Classroom](/patterns/flipped-classroom.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

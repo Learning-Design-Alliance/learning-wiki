@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Collaborative Problem-Solving with Sticky Notes
+description: Learners individually solve a problem on sticky notes, then share and discuss their responses in small groups.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collaborative Problem-Solving with Sticky Notes
@@ -35,9 +39,9 @@ Learners individually solve a problem on sticky notes, then share and discuss th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Application](/elements/application.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student interactions and discussions, review individual and group responses, assess the quality and depth of collaborative answers

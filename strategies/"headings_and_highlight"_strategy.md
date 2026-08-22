@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "\"Headings and Highlight\" Strategy"
+description: "The \"Headings and Highlight\" Strategy is a digital reading technique designed to slow down reading and encourage dialogue."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # "Headings and Highlight" Strategy
@@ -35,8 +39,8 @@ The "Headings and Highlight" Strategy is a digital reading technique designed to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/practice|Practice]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe the quality of group discussions and justifications. Review the accuracy of the headings and highlights. Assess student reflections on the process.

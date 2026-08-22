@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Indoor Air Quality Improvement
+description: Improving indoor air quality reduces absenteeism, particularly for students with asthma, and addresses “sick building syndrome.” Proper ventilation systems and pollutant reduction create a healthier learning environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Indoor Air Quality Improvement
@@ -35,7 +39,7 @@ Improving indoor air quality reduces absenteeism, particularly for students with
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student attendance, monitor air quality, assess student health outcomes.

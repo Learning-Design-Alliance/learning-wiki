@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Pre-reading: 4 Ps (Preview, Predict, Prior Knowledge, Purpose)"
+description: The 4 Ps of pre-reading include previewing the text, predicting the content, activating prior knowledge, and defining the purpose for reading.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-reading: 4 Ps (Preview, Predict, Prior Knowledge, Purpose)
@@ -35,8 +39,8 @@ The 4 Ps of pre-reading include previewing the text, predicting the content, act
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/advance-organizers|Advance Organizers]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
+- [Advance Organizers](/elements/advance-organizers.md)
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Assess the learner's ability to summarize the main points of the text after applying the 4 Ps.

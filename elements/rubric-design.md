@@ -1,8 +1,16 @@
 ---
 type: element
+title: Rubric Design
+description: Rubric design is the element in which criteria and performance levels are made explicit through a structured evaluative framework.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: andrade-2005
+    resource: "https://doi.org/10.3200/CTCH.53.1.27-31"
+    title: "Andrade, H. G. (2005). Teaching with rubrics. *College Teaching, 53*(1), 27-31"
+    author: Andrade, H. G
 ---
 
 # Rubric Design
@@ -23,17 +31,17 @@ Rubric design is the element in which criteria and performance levels are made e
 - Clarify quality expectations and support more reliable judgment.
 
 ### Affordances
-- [[principles/competency-based-assessment|Competency-Based Assessment]]
-- [[principles/metacognition|Metacognition]]
+- [Competency-Based Assessment](/principles/competency-based-assessment.md)
+- [Metacognition](/principles/metacognition.md)
 
 ## Related Elements
-- [[elements/criteria-development|Criteria Development]]
-- [[elements/peer-assessment|Peer Assessment]]
-- [[elements/self-assessment|Self-Assessment]]
+- [Criteria Development](/elements/criteria-development.md)
+- [Peer Assessment](/elements/peer-assessment.md)
+- [Self-Assessment](/elements/self-assessment.md)
 
 ## Patterns That Use This Element
-- [[patterns/structured-peer-review|Structured Peer Review]]
-- [[patterns/competency-based-learning|Competency-Based Learning]]
+- [Structured Peer Review](/patterns/structured-peer-review.md)
+- [Competency-Based Learning](/patterns/competency-based-learning.md)
 
 ## Examples
 - Learners co-design rubric descriptors before assessing exemplars or peer work.

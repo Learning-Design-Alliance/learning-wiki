@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Ball Toss Game
+description: A simple game involving tossing a ball, often used with preschoolers to develop counting skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Ball Toss Game
@@ -35,9 +39,9 @@ A simple game involving tossing a ball, often used with preschoolers to develop 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/gain-attention|Gain attention]]
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Gain attention](/elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe counting accuracy and participation during the game. Assess motor skills development through throwing and coordination. Monitor engagement and enjoyment levels.

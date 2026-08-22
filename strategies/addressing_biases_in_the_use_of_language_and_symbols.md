@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Addressing Biases in the Use of Language and Symbols
+description: Actively working to identify and eliminate biases in language and symbols to promote inclusivity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Addressing Biases in the Use of Language and Symbols
@@ -35,11 +39,11 @@ Actively working to identify and eliminate biases in language and symbols to pro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Monitor the use of biased language and symbols in learning materials and classroom discussions. Gather feedback on the effectiveness of strategies for addressing bias. Assess learner understanding of issues related to diversity and inclusion.

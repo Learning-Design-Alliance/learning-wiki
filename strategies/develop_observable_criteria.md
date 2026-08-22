@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Develop Observable Criteria
+description: "Using Bloom's Taxonomy, Webb's Depth of Knowledge, and Marzano's Dimensions of Learning to develop measurable course objectives that are concise, student-friendly, and clearly communicated."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Develop Observable Criteria
@@ -35,9 +39,9 @@ Using Bloom's Taxonomy, Webb's Depth of Knowledge, and Marzano's Dimensions of L
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student understanding of criteria, effectiveness of communication

@@ -1,7 +1,11 @@
 ---
 type: element
+title: Discussion Sections
+description: Smaller, instructor- or TA-led sessions where learners analyze and discuss course material in depth.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Discussion Sections
@@ -27,18 +31,18 @@ Smaller, instructor- or TA-led sessions where learners analyze and discuss cours
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/constructivist-learning|Constructivist Learning]]
-- [[principles/metacognition|Metacognition]]
+- [Social Learning](/principles/social-learning.md)
+- [Constructivist Learning](/principles/constructivist-learning.md)
+- [Metacognition](/principles/metacognition.md)
 
 ## Related Elements
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/socratic-questioning|Socratic Questioning]]
-- [[elements/inquiry-based-learning|Inquiry-Based Learning]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Socratic Questioning](/elements/socratic-questioning.md)
+- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

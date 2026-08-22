@@ -1,7 +1,11 @@
 ---
 type: element
+title: Reciprocal Teaching
+description: Learners take turns guiding discussion and questioning content.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reciprocal Teaching
@@ -27,17 +31,17 @@ Learners take turns guiding discussion and questioning content.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/scaffolding|Scaffolding]]
+- [Social Learning](/principles/social-learning.md)
+- [Scaffolding](/principles/scaffolding.md)
 
 ## Related Elements
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/knowledge-building|Knowledge-Building]]
-- [[elements/inquiry-based-learning|Inquiry-Based Learning]]
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Knowledge-Building](/elements/knowledge-building.md)
+- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
-- [[patterns/socratic-seminar|Socratic Seminar]]
+- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Socratic Seminar](/patterns/socratic-seminar.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

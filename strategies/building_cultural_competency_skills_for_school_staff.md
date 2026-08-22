@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Building Cultural Competency Skills for School Staff
+description: Training staff in behaviors, attitudes, and policies that enable effective cross-cultural relationships.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Building Cultural Competency Skills for School Staff
@@ -35,9 +39,9 @@ Training staff in behaviors, attitudes, and policies that enable effective cross
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess staff's cultural competency skills through surveys, observations, and feedback from families. Monitor improvements in family-school partnerships and student outcomes.

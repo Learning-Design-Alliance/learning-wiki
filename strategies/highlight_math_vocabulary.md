@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Highlight Math Vocabulary
+description: Model how to highlight or circle mathematical words in word problems that prompt multiplication or division.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Highlight Math Vocabulary
@@ -35,8 +39,8 @@ Model how to highlight or circle mathematical words in word problems that prompt
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe whether learners are accurately highlighting key words in word problems. Assess the completeness and accuracy of the word wall or graphic organizer.

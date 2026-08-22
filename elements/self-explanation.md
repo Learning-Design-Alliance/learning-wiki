@@ -1,8 +1,16 @@
 ---
 type: element
+title: Self-Explanation
+description: Self-explanation is the element in which learners explain to themselves why something is true, why a step works, or how a solution fits the problem.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: chi-1994
+    resource: "https://doi.org/10.1207/s15516709cog1803_3"
+    title: "Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439-477"
+    author: "Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C"
 ---
 
 # Self-Explanation
@@ -23,17 +31,17 @@ Self-explanation is the element in which learners explain to themselves why some
 - Strengthen conceptual understanding, integration, and transfer.
 
 ### Affordances
-- [[principles/metacognition|Metacognition]]
-- [[principles/explaining-their-thinking|Explaining Their Thinking]]
+- [Metacognition](/principles/metacognition.md)
+- [Explaining Their Thinking](/principles/explaining-their-thinking.md)
 
 ## Related Elements
-- [[elements/articulation|Articulation]]
-- [[elements/think-aloud|Think-Aloud]]
-- [[elements/justification|Justification]]
+- [Articulation](/elements/articulation.md)
+- [Think-Aloud](/elements/think-aloud.md)
+- [Justification](/elements/justification.md)
 
 ## Patterns That Use This Element
-- [[patterns/peer-instruction|Peer Instruction]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Peer Instruction](/patterns/peer-instruction.md)
+- [Mastery Learning](/patterns/mastery-learning.md)
 
 ## Examples
 - Learners explain why each step in a worked solution is valid before moving on.

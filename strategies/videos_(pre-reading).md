@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Videos (Pre-Reading)
+description: A short video relating to the topic of the reading is shown.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Videos (Pre-Reading)
@@ -35,8 +39,8 @@ A short video relating to the topic of the reading is shown. Discussion question
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/pre-class-videolecture|Pre-Class Video/Lecture]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Pre-Class Video/Lecture](/elements/pre-class-videolecture.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the engagement and quality of discussions. Collect feedback on how well the video prepared learners for the reading.

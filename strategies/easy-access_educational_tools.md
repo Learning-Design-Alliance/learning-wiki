@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Easy-Access Educational Tools
+description: Making educational tools readily available to students supports self-advocacy by fostering independence and choice.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Easy-Access Educational Tools
@@ -35,9 +39,9 @@ Making educational tools readily available to students supports self-advocacy by
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/supportive-information|Supportive information]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Supportive information](/elements/supportive-information.md)
 
 ## Assessment Evidence
 - Increased student independence, improved accessibility, diverse learning methods

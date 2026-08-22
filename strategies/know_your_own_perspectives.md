@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Know Your Own Perspectives
+description: Reflect deeply on your own attitudes and beliefs and how they may impact your opinions and actions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Know Your Own Perspectives
@@ -35,7 +39,7 @@ Reflect deeply on your own attitudes and beliefs and how they may impact your op
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track changes in communication patterns, increased awareness of personal biases, improvements in culturally responsive teaching practices

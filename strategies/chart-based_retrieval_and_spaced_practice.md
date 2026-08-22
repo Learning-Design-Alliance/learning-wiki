@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Chart-Based Retrieval and Spaced Practice
+description: A simple classroom exercise to demonstrate the effectiveness of spaced practice using a chart.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Chart-Based Retrieval and Spaced Practice
@@ -35,9 +39,9 @@ A simple classroom exercise to demonstrate the effectiveness of spaced practice 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Practice](/elements/practice.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess the amount of information recalled over successive practice sessions. Compare the amount of yellow highlighting in the charts from day to day.

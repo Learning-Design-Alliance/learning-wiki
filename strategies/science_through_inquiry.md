@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Science Through Inquiry
+description: Engage learners in hands-on, exploratory science activities that encourage questioning, discovery, and testing to develop new understandings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Science Through Inquiry
@@ -35,10 +39,10 @@ Engage learners in hands-on, exploratory science activities that encourage quest
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/evidence-based-reasoning|Evidence-Based Reasoning]]
-- [[elements/model-revision|Model Revision]]
+- [Question Formulation](/elements/question-formulation.md)
+- [Inquiry and Research](/elements/inquiry-and-research.md)
+- [Evidence-Based Reasoning](/elements/evidence-based-reasoning.md)
+- [Model Revision](/elements/model-revision.md)
 
 ## Assessment Evidence
 - Evaluate learner scientific inquiry skills and critical thinking. Assess their ability to design and conduct experiments. Observe their collaboration and communication skills. Assess the quality of their proposed solutions.

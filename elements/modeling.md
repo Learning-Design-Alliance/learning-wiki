@@ -1,7 +1,11 @@
 ---
 type: element
+title: Modeling
+description: Instructors or advanced learners demonstrate expert thinking and behavior.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Modeling
@@ -27,17 +31,17 @@ Instructors or advanced learners demonstrate expert thinking and behavior.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Social Learning](/principles/social-learning.md)
+- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [[elements/cognitive-apprenticeship|Cognitive Apprenticeship]]
-- [[elements/worked-examples|Worked Examples]]
-- [[elements/expert-modeling|Expert Modeling]]
+- [Cognitive Apprenticeship](/elements/cognitive-apprenticeship.md)
+- [Worked Examples](/elements/worked-examples.md)
+- [Expert Modeling](/elements/expert-modeling.md)
 
 ## Patterns That Use This Element
-- [[patterns/cognitive-apprenticeship|Cognitive Apprenticeship]]
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
+- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
+- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

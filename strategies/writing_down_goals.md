@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Writing Down Goals
+description: Writing down goals makes them tangible and helps prioritize them.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Writing Down Goals
@@ -35,9 +39,9 @@ Writing down goals makes them tangible and helps prioritize them. This practice 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [State objectives](/elements/state-objectives.md)
+- [Practice](/elements/practice.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Regular review of written goals can indicate progress and areas needing adjustment. Success is measured by the completion of specific goals within the defined timeframe.

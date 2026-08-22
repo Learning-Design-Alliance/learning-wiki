@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Led Math Conferences
+description: Throughout the year, teachers can have personal math conferences with the students.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Led Math Conferences
@@ -35,8 +39,8 @@ Throughout the year, teachers can have personal math conferences with the studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved student understanding, increased student communication, and deeper reflection on learning experiences.

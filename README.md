@@ -4,7 +4,7 @@ A persistent, LLM-maintained knowledge base for learning design — research-bac
 
 **Browse online:** [learning-design-alliance.github.io/learning-wiki](https://learning-design-alliance.github.io/learning-wiki/)
 
-**Browse locally:** Open this folder as an [Obsidian](https://obsidian.md) vault for the full interactive experience with graph view and backlinks.
+**Format:** This wiki is an [Open Knowledge Format (OKF) v0.2](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) bundle — plain markdown with YAML frontmatter and standard markdown cross-links, readable and diffable without any special tooling.
 
 ---
 
@@ -64,7 +64,7 @@ See [CLAUDE.md](CLAUDE.md) for the full schema, page templates, and agent operat
 
 ## Browse locally
 
-**Obsidian (recommended for exploration):** Open this folder as a vault. Wikilinks (`[[page]]`), graph view, and backlinks all work natively.
+**Any markdown viewer:** every cross-link is a standard markdown link (`[Title](/folder/slug.md)`), so the wiki reads and navigates natively in GitHub, VS Code, or any markdown-aware editor — no special plugin required.
 
 **Docs site locally:**
 ```bash
@@ -81,7 +81,7 @@ Pages use structured YAML frontmatter and follow strict templates. See [CLAUDE.m
 - Page templates (principle, element, pattern, strategy, theory, claim)
 - Evidence tagging system
 - Ingest, query, and lint procedures
-- Wikilink conventions and folder map
+- Cross-link conventions and folder map
 
 ---
 

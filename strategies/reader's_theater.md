@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Reader's Theater"
+description: "Reader's Theater is a strategy that combines reading practice and performing by having learners read scripts created from books or stories aloud."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reader's Theater
@@ -35,9 +39,9 @@ Reader's Theater is a strategy that combines reading practice and performing by 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/argument-construction|Argument Construction]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Argument Construction](/elements/argument-construction.md)
 
 ## Assessment Evidence
 - Assess students' abilities to read aloud with comprehension, expression, and fluency.

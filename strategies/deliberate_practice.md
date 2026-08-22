@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Deliberate Practice
+description: Deliberate practice involves focused, strategic efforts to improve specific skills or knowledge areas.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Deliberate Practice
@@ -35,9 +39,9 @@ Deliberate practice involves focused, strategic efforts to improve specific skil
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track progress toward specific goals, monitor performance on practice activities, and collect feedback from instructors, mentors, or peers. Use self-reflection and goal-setting activities to assess learner engagement.

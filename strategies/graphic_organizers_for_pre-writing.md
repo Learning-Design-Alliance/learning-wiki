@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers for Pre-Writing
+description: Students use graphic organizers to plan and structure their ideas before drafting a written piece, jotting down notes rather than writing complete sentences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers for Pre-Writing
@@ -35,9 +39,9 @@ Students use graphic organizers to plan and structure their ideas before draftin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Improved organization and clarity of written pieces.

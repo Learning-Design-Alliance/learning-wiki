@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Standard Inverted Classroom
+description: Learners are asked to go through lecture videos and other study material that are prerequisites for the next class.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Standard Inverted Classroom
@@ -35,11 +39,11 @@ Learners are asked to go through lecture videos and other study material that ar
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/lectures|Lectures]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Lectures](/elements/lectures.md)
+- [Practice](/elements/practice.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Pre-class material completion rates, in-class engagement, performance on application-based tasks.

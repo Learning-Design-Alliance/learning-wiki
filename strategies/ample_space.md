@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Ample Space
+description: Classrooms with ample space are more conducive to providing appropriate learning environments for students and associated with increased student engagement and learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Ample Space
@@ -35,7 +39,7 @@ Classrooms with ample space are more conducive to providing appropriate learning
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Surveys

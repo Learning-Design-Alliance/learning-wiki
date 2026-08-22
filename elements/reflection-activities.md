@@ -1,8 +1,11 @@
 ---
 type: element
+title: Reflection Activities
+description: Reflection activities are structured tasks that ask learners to examine what they did, understood, or would change next.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Reflection Activities
@@ -25,18 +28,18 @@ Reflection activities are structured tasks that ask learners to examine what the
 - Support metacognition, transfer, and self-regulation.
 
 ### Affordances
-- [[principles/reflection|Reflection]]
-- [[principles/self-regulation|Self-Regulation]]
-- [[principles/metacognition|Metacognition]]
+- [Reflection](/principles/reflection.md)
+- [Self-Regulation](/principles/self-regulation.md)
+- [Metacognition](/principles/metacognition.md)
 
 ## Related Elements
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/journaling|Journaling]]
-- [[elements/self-assessment|Self-Assessment]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Journaling](/elements/journaling.md)
+- [Self-Assessment](/elements/self-assessment.md)
 
 ## Patterns That Use This Element
-- [[patterns/reflective-practice|Reflective Practice]]
-- [[patterns/journaling|Journaling]]
+- [Reflective Practice](/patterns/reflective-practice.md)
+- [Journaling](/patterns/journaling.md)
 
 ## Examples
 - Exit reflections, debrief prompts, confidence checks, and after-action reviews.

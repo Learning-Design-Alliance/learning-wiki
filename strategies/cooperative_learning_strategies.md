@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cooperative Learning Strategies
+description: Using structured group activities to enhance learning and social interaction.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cooperative Learning Strategies
@@ -35,9 +39,9 @@ Using structured group activities to enhance learning and social interaction. Th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Application](/elements/application.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation and collaboration. Assess understanding through group presentations and discussions. Evaluate individual contributions to group tasks.

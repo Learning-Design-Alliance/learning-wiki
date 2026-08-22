@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Use Visual Aids
+description: "Supplement verbal instructions with visual aids to support learners' understanding, especially for low-level students."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Use Visual Aids
@@ -35,8 +39,8 @@ Supplement verbal instructions with visual aids to support learners' understandi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' ability to follow instructions with visual aids.

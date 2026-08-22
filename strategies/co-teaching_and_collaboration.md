@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Co-Teaching and Collaboration
+description: ELL teachers and math teachers collaborate to identify target content, key vocabulary, academic language, and language-focused tasks for lessons.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Co-Teaching and Collaboration
@@ -35,8 +39,8 @@ ELL teachers and math teachers collaborate to identify target content, key vocab
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner's performance on language-focused tasks in math, assess learner understanding of mathematical concepts

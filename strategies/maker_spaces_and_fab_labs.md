@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Maker Spaces and Fab Labs
+description: Establish physical spaces where learners can invent, design, and build things using a variety of materials and tools, from wood scraps to technology.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Maker Spaces and Fab Labs
@@ -35,10 +39,10 @@ Establish physical spaces where learners can invent, design, and build things us
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/solution-development|Solution Development]]
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Solution Development](/elements/solution-development.md)
 
 ## Assessment Evidence
 - Evaluate learner creativity and innovation in their projects. Assess their ability to apply theoretical knowledge to real-world problems. Observe their collaboration and problem-solving skills.

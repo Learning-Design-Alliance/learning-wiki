@@ -1,7 +1,11 @@
 ---
 type: element
+title: Scaffolded Inquiry
+description: Gradually shifts learners from guided exploration to independent inquiry.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Scaffolded Inquiry
@@ -27,18 +31,18 @@ Gradually shifts learners from guided exploration to independent inquiry.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/scaffolding|Scaffolding]]
-- [[principles/constructivism|Constructivism]]
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
+- [Scaffolding](/principles/scaffolding.md)
+- [Constructivism](/principles/constructivism.md)
+- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [[elements/guided-discovery|Guided Discovery]]
-- [[elements/inquiry-based-learning|Inquiry-Based Learning]]
-- [[elements/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Guided Discovery](/elements/guided-discovery.md)
+- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
+- [Cognitive Apprenticeship](/elements/cognitive-apprenticeship.md)
 
 ## Patterns That Use This Element
-- [[patterns/pogil|POGIL]]
-- [[patterns/problem-based-learning|Problem-Based Learning]]
+- [POGIL](/patterns/pogil.md)
+- [Problem-Based Learning](/patterns/problem-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

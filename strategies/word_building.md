@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Word Building
+description: Word building is a literacy strategy used to reinforce vocabulary and spelling skills by having learners manipulate letter tiles or squares to construct words.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Word Building
@@ -35,10 +39,10 @@ Word building is a literacy strategy used to reinforce vocabulary and spelling s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learners' ability to rearrange letters accurately and efficiently. Collect and review the words they build to assess spelling skills. Track progress over time to measure improvement in word recognition and construction.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: The Pencil Pledge
+description: The Pencil Pledge is a classroom management technique that helps create a positive learning environment by promoting respect for materials and self-regulation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # The Pencil Pledge
@@ -35,8 +39,8 @@ The Pencil Pledge is a classroom management technique that helps create a positi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/state-objectives|State objectives]]
+- [Gain attention](/elements/gain-attention.md)
+- [State objectives](/elements/state-objectives.md)
 
 ## Assessment Evidence
 - Observe student behavior and respect for materials. Monitor classroom environment and student interactions. Track instances of responsible behavior.

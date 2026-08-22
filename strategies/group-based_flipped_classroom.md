@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Group-Based Flipped Classroom
+description: The group-based model focuses on group learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Group-Based Flipped Classroom
@@ -35,11 +39,11 @@ The group-based model focuses on group learning. After the students have studied
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/lectures|Lectures]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
-- [[elements/peer-teaching|Peer Teaching]]
+- [Lectures](/elements/lectures.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Peer Teaching](/elements/peer-teaching.md)
 
 ## Assessment Evidence
 - Group performance on assignments, quality of peer explanations, individual contribution.

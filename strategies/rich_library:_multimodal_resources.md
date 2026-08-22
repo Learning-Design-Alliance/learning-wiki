@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Rich Library: Multimodal Resources"
+description: Providing learners with access to multiple resources, including blogs, videos, audiobooks, and digital books, exposes them to diverse genres and can increase interest and motivation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rich Library: Multimodal Resources
@@ -35,8 +39,8 @@ Providing learners with access to multiple resources, including blogs, videos, a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/demonstration|Demonstration]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Track resource selections to gauge learner interests. Assess learner comprehension and knowledge gains related to the chosen resources. Monitor engagement levels.

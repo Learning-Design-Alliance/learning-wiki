@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Sentence Starters
+description: When you ask a question, rather than just having students raise hands and you picking one volunteer, have every student in the class write a sentence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Sentence Starters
@@ -35,9 +39,9 @@ When you ask a question, rather than just having students raise hands and you pi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement. Review student sentences to assess understanding.

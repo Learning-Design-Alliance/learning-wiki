@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cooperative Learning
+description: Designing classroom activities that involve cooperative work encourages a growth mindset.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cooperative Learning
@@ -35,8 +39,8 @@ Designing classroom activities that involve cooperative work encourages a growth
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/team-based-inquiry|Team-Based Inquiry]]
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Team-Based Inquiry](/elements/team-based-inquiry.md)
 
 ## Assessment Evidence
 - Monitor group dynamics, assess individual contributions, and observe changes in learner attitudes towards collaboration and effort.

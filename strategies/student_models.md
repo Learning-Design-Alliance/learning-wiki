@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Models
+description: Student models are examples of writing produced by other students, typically curated by instructors and made available for learners to reference.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Models
@@ -35,10 +39,10 @@ Student models are examples of writing produced by other students, typically cur
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Demonstration](/elements/demonstration.md)
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Improvements in learner writing quality as evidenced by better structure, clarity, and use of techniques observed in the models. Increased self-awareness and critical analysis skills demonstrated through reflective writing and peer feedback.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Braille Texts for Literacy Development
+description: Braille texts are used to build literacy skills such as decoding and syntax.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Braille Texts for Literacy Development
@@ -35,8 +39,8 @@ Braille texts are used to build literacy skills such as decoding and syntax. Bra
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/practice|Practice]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Assess decoding skills through braille reading assessments. Evaluate comprehension of syntax through writing samples and discussions.

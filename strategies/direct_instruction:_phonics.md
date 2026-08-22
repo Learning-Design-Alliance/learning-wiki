@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Direct Instruction: Phonics"
+description: Direct Phonics instruction connects letters to sounds to decode and comprehend text.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Direct Instruction: Phonics
@@ -35,9 +39,9 @@ Direct Phonics instruction connects letters to sounds to decode and comprehend t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess improvements in decoding skills, phonemic awareness, and reading comprehension through regular assessments. Monitor progress and adjust instruction as needed.

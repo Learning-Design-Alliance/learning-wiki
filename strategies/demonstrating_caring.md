@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Demonstrating Caring
+description: Demonstrating caring is a powerful way to build positive relationships with learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Demonstrating Caring
@@ -35,9 +39,9 @@ Demonstrating caring is a powerful way to build positive relationships with lear
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Learners respond positively to the instructor. They are motivated and work hard.

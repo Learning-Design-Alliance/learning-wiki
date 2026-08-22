@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Process-Oriented Guided Inquiry Learning (POGIL)
+description: POGIL is a team-based inquiry pattern in which learners work through carefully designed activities that move from exploration to concept invention to application.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: Moog and Spencer
 grain_size: lesson
 ---
@@ -52,11 +55,11 @@ The pattern is useful when instructors want inquiry without abandoning structure
 
 ### Claims
 #### Supporting
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -68,16 +71,16 @@ The pattern is useful when instructors want inquiry without abandoning structure
 5. Debrief both the content and the group's inquiry process.
 
 ### Elements Used
-- [[elements/scaffolded-inquiry|Scaffolded Inquiry]]
-- [[elements/structured-questioning|Structured Questioning]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/practice|Practice]]
+- [Scaffolded Inquiry](/elements/scaffolded-inquiry.md)
+- [Structured Questioning](/elements/structured-questioning.md)
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Practice](/elements/practice.md)
 
 ### Affordances
-- [[principles/inquiry-based-learning|Inquiry-based Learning]]
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/purposeful-reflection|Purposeful Reflection]]
+- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
+- [Peer Discussion](/principles/peer-discussion.md)
+- [Guided Practice](/principles/guided-practice.md)
+- [Purposeful Reflection](/principles/purposeful-reflection.md)
 
 ### Personalization
 - Teams can have differentiated roles that support participation and accountability.
@@ -85,8 +88,8 @@ The pattern is useful when instructors want inquiry without abandoning structure
 - Application tasks can be tuned for different pacing or complexity levels.
 
 ## Related Patterns
-- [[patterns/guided-discovery-learning|Guided Discovery Learning]]
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
+- [Guided Discovery Learning](/patterns/guided-discovery-learning.md)
+- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
 
 ## Examples
 - Chemistry learners using data and representations to infer a concept before solving related problems.

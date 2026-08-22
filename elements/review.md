@@ -1,7 +1,11 @@
 ---
 type: element
+title: Review
+description: Learners reflect on their own or peers’ work before finalizing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Review
@@ -27,17 +31,17 @@ Learners reflect on their own or peers’ work before finalizing.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/metacognition|Metacognition]]
-- [[principles/formative-assessment|Formative Assessment]]
+- [Metacognition](/principles/metacognition.md)
+- [Formative Assessment](/principles/formative-assessment.md)
 
 ## Related Elements
-- [[elements/peer-review|Peer Review]]
-- [[elements/self-assessment|Self-Assessment]]
-- [[elements/revision|Revision]]
+- [Peer Review](/elements/peer-review.md)
+- [Self-Assessment](/elements/self-assessment.md)
+- [Revision](/elements/revision.md)
 
 ## Patterns That Use This Element
-- [[patterns/formative-assessment|Formative Assessment]]
-- [[patterns/self-regulated-learning|Self-Regulated Learning]]
+- [Formative Assessment](/patterns/formative-assessment.md)
+- [Self-Regulated Learning](/patterns/self-regulated-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

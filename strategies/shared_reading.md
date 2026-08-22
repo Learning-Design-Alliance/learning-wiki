@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Shared Reading
+description: Shared reading is an interactive reading experience where an adult reads aloud while children follow along.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Shared Reading
@@ -35,10 +39,10 @@ Shared reading is an interactive reading experience where an adult reads aloud w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Demonstration](/elements/demonstration.md)
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess through observation of child's engagement and participation. Monitor comprehension through questioning and analysis of predictions. Evaluate improvement in fluency through oral reading assessments.

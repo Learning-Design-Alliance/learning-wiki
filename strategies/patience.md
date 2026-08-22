@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Patience
+description: "Teaching higher-level thinking skills and analyzing mentor texts can be a new experience for struggling learners, and it doesn't come easily."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Patience
@@ -35,11 +39,11 @@ Teaching higher-level thinking skills and analyzing mentor texts can be a new ex
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/coaching|Coaching]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Coaching](/elements/coaching.md)
 
 ## Assessment Evidence
 - Student reflections on their learning process. Observation of student engagement and persistence. Student writing samples demonstrating improved skills and confidence.

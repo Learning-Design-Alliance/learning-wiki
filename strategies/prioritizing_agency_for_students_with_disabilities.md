@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Prioritizing Agency for Students With Disabilities
+description: Prioritizing agency for students with disabilities involves fostering self-advocacy and self-determination skills to enable them to engage more effectively in their education.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Prioritizing Agency for Students With Disabilities
@@ -35,10 +39,10 @@ Prioritizing agency for students with disabilities involves fostering self-advoc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/modeling|Modeling]]
-- [[elements/articulation|Articulation]]
-- [[elements/consensus-building|Consensus-Building]]
+- [Application](/elements/application.md)
+- [Modeling](/elements/modeling.md)
+- [Articulation](/elements/articulation.md)
+- [Consensus-Building](/elements/consensus-building.md)
 
 ## Assessment Evidence
 - Track student participation in decision-making meetings, monitor their ability to articulate their needs, and observe improvements in their educational and life outcomes.

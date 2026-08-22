@@ -1,7 +1,11 @@
 ---
 type: element
+title: Peer Interaction
+description: Learners engage with one another through discussions, debates, or collaborative tasks.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Peer Interaction
@@ -27,17 +31,17 @@ Learners engage with one another through discussions, debates, or collaborative 
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/community-of-inquiry|Community of Inquiry]]
+- [Social Learning](/principles/social-learning.md)
+- [Community of Inquiry](/principles/community-of-inquiry.md)
 
 ## Related Elements
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/group-work|Group Work]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Group Work](/elements/group-work.md)
+- [Collaborative Learning](/elements/collaborative-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/collaborative-learning|Collaborative Learning]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Collaborative Learning](/patterns/collaborative-learning.md)
+- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

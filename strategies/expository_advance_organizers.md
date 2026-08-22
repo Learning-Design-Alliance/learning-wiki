@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Expository Advance Organizers
+description: Expository advance organizers give students a broad idea of the lesson’s purpose before it begins by clearly stating the goals of the lesson.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Expository Advance Organizers
@@ -35,8 +39,8 @@ Expository advance organizers give students a broad idea of the lesson’s purpo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/direct-instruction|Direct instruction]]
+- [State objectives](/elements/state-objectives.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Student understanding of lesson goals, participation in activities aligned with those goals, and ability to articulate what they have learned.

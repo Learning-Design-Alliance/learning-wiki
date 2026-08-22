@@ -1,8 +1,16 @@
 ---
 type: principle
+title: Empathy Interviews
+description: Empathy interviews are structured, open-ended conversations designed to help educators or designers understand how learners experience school, work, systems, and support.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: meyers-2019
+    resource: "https://doi.org/10.1080/87567555.2019.1579699"
+    title: "Meyers, S., Rowell, K., Wells, M., & Smith, B. C. (2019). Teacher empathy: A model of empathy for teaching for student success. *College Teaching, 67*(3), 160-168"
+    author: "Meyers, S., Rowell, K., Wells, M., & Smith, B. C"
 ---
 
 # Empathy Interviews
@@ -11,7 +19,7 @@ edited_by: Codex
 Empathy interviews are structured, open-ended conversations designed to help educators or designers understand how learners experience school, work, systems, and support. Unlike a survey or diagnostic checklist, the goal is not only to collect facts but to hear how learners interpret challenges, strengths, motivations, and belonging in their own words. Used well, empathy interviews improve the instructor's model of the learner and can lead to more responsive supports, stronger relationships, and better alignment between instruction and lived reality.
 
 ## Implications
-Empathy interviews are valuable because they replace assumption with direct evidence about how learners experience the system. Open-ended listening can reveal barriers, strengths, and motivations that standard diagnostics miss, and that usually leads to better instructional fit when the information is actually used to change supports or communication. These conversations depend heavily on learners explaining their experience in their own words [[claims/self-explanation-improves-conceptual-understanding]] [~M], and they are most useful when what is learned feeds into more authentic, context-sensitive design rather than abstract learner profiles [[claims/whole-task-performance-improves-transfer]] [~M]. The design risk is extractive listening: if interviews gather stories without altering practice, they produce the appearance of care without the instructional value.
+Empathy interviews are valuable because they replace assumption with direct evidence about how learners experience the system. Open-ended listening can reveal barriers, strengths, and motivations that standard diagnostics miss, and that usually leads to better instructional fit when the information is actually used to change supports or communication. These conversations depend heavily on learners explaining their experience in their own words [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~M], and they are most useful when what is learned feeds into more authentic, context-sensitive design rather than abstract learner profiles [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~M]. The design risk is extractive listening: if interviews gather stories without altering practice, they produce the appearance of care without the instructional value.
 
 ### Context
 #### Requirements
@@ -47,16 +55,16 @@ Empathy interviews are valuable because they replace assumption with direct evid
 - Listening to learners is not the same as agreeing with every preference or turning every interview into an individualized curriculum.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [~M] — empathy interviews depend on learners narrating and interpreting their own experience in ways that reveal real barriers and strengths
-- [[claims/whole-task-performance-improves-transfer]] [~M] — interviews are most instructionally valuable when they reshape authentic tasks, supports, and contexts rather than staying as detached listening exercises
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~M] — empathy interviews depend on learners narrating and interpreting their own experience in ways that reveal real barriers and strengths
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~M] — interviews are most instructionally valuable when they reshape authentic tasks, supports, and contexts rather than staying as detached listening exercises
 
 These are indirect anchors: empathy interviews rely on explanation, authentic context, and reflective interpretation, but the current claim inventory does not yet include a dedicated empathy-interview claim.
 
 ## Related Principles
-- [[principles/building-empathy|Building Empathy]] — empathy interviews are one concrete way to build grounded understanding of learner experience.
-- [[principles/cultural-life-experiences-connections|Cultural & Life Experiences Connections]] — interviews help instructors connect instruction to real learner contexts.
-- [[principles/instructor-accessibility|Instructor Accessibility]] — these conversations are more useful when learners see the instructor as approachable and responsive.
-- [[principles/debriefing|Debriefing]] — post-interview reflection helps convert what was heard into changed instructional choices.
+- [Building Empathy](/principles/building-empathy.md) — empathy interviews are one concrete way to build grounded understanding of learner experience.
+- [Cultural & Life Experiences Connections](/principles/cultural-life-experiences-connections.md) — interviews help instructors connect instruction to real learner contexts.
+- [Instructor Accessibility](/principles/instructor-accessibility.md) — these conversations are more useful when learners see the instructor as approachable and responsive.
+- [Debriefing](/principles/debriefing.md) — post-interview reflection helps convert what was heard into changed instructional choices.
 
 ## Examples
 - **Beginning-of-course learner interviews**: Short structured conversations about goals, barriers, prior experience, and support needs.

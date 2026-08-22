@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Learning Through Reflection
+description: Link and construct meaning from experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Learning Through Reflection
@@ -35,9 +39,9 @@ Link and construct meaning from experiences. Reflection has many facets. For exa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Improved student decision-making skills, increased student problem-solving abilities, and greater ethical responsibility.

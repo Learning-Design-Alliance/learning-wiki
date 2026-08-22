@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Address Digital Literacy
+description: "Educators should avoid assumptions about learners' digital literacy and provide explicit instruction on fundamental digital skills."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Address Digital Literacy
@@ -35,9 +39,9 @@ Educators should avoid assumptions about learners' digital literacy and provide 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Administer pre- and post-tests to measure digital literacy. Observe learners' ability to use digital tools in class.

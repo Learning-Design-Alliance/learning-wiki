@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Finger-Painting: Arts Integration"
+description: Integrating arts like fiction writing, dance, drama, graphic design, music, drawing, painting, or ceramics into all subjects helps learners learn and find their talents and interests.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Finger-Painting: Arts Integration
@@ -35,9 +39,9 @@ Integrating arts like fiction writing, dance, drama, graphic design, music, draw
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance Retention and Transfer]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
+- [Enhance Retention and Transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Learner projects and creations. Participation in art-based activities. Creativity and imagination.

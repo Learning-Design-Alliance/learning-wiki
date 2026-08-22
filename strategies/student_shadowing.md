@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Shadowing
+description: An adult (educator, administrator, or school leader) follows a student throughout their school day to observe their experiences, interactions, and environment firsthand.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Shadowing
@@ -35,13 +39,13 @@ An adult (educator, administrator, or school leader) follows a student throughou
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
+- [Observation/Shadowing](/elements/observationshadowing.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Inquiry and Research](/elements/inquiry-and-research.md)
+- [Solution Development](/elements/solution-development.md)
+- [Question Formulation](/elements/question-formulation.md)
+- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Observations of student engagement, interactions, and access to resources; educator reflections on insights gained; changes in teaching practices or school policies; student feedback on implemented changes.

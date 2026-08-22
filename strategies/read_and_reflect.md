@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Read and Reflect
+description: Read and reflect involves students engaging in discussions or summarizing activities after reading independently.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Read and Reflect
@@ -35,9 +39,9 @@ Read and reflect involves students engaging in discussions or summarizing activi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Improved comprehension, critical thinking, and summarization skills. Increased student engagement and participation in discussions.

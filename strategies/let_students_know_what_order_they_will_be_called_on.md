@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Let students know what order they will be called on
+description: This strategy allows students who are prone to challenges with inhibition to plan their response and wait until their turn.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Let students know what order they will be called on
@@ -35,8 +39,8 @@ This strategy allows students who are prone to challenges with inhibition to pla
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Track student participation and self-regulation. Monitor frequency of impulsive responses. Gather student feedback on the effectiveness of the strategy.

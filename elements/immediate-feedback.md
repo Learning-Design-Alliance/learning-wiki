@@ -1,8 +1,16 @@
 ---
 type: element
+title: Immediate Feedback
+description: "Immediate feedback is the element in which response information is delivered close to the learner's action so it can still shape the next step."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: hattie-2007
+    resource: "https://doi.org/10.3102/003465430298487"
+    title: "Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81-112"
+    author: "Hattie, J., & Timperley, H"
 ---
 
 # Immediate Feedback
@@ -28,18 +36,18 @@ Immediate feedback is the element in which response information is delivered clo
 - Correct errors, strengthen strategy adjustment, and keep misconceptions from hardening.
 
 ### Affordances
-- [[principles/immediate-feedback|Immediate Feedback]]
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/feedback-loops|Feedback Loops]]
+- [Immediate Feedback](/principles/immediate-feedback.md)
+- [Formative Assessment](/principles/formative-assessment.md)
+- [Feedback Loops](/principles/feedback-loops.md)
 
 ## Related Elements
-- [[elements/feedback|Feedback]]
-- [[elements/hints|Hints]]
-- [[elements/reassessment|Reassessment]]
+- [Feedback](/elements/feedback.md)
+- [Hints](/elements/hints.md)
+- [Reassessment](/elements/reassessment.md)
 
 ## Patterns That Use This Element
-- [[patterns/gagnés-9-events|Gagné's 9 Events]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Gagné's 9 Events](/patterns/gagnés-9-events.md)
+- [Mastery Learning](/patterns/mastery-learning.md)
 
 ## Examples
 - Step-level correction in a tutoring system.

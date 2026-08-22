@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Five-Stage Problem-Solving Model
+description: A five-stage model to help learners understand, identify, and resolve issues.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Five-Stage Problem-Solving Model
@@ -35,10 +39,10 @@ A five-stage model to help learners understand, identify, and resolve issues. Th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess learners' ability to apply the five-stage model to different problems. Evaluate the quality of learners' self-assessments.

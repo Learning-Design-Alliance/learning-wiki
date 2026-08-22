@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Culturally Responsive Instruction (CREATE Model)
+description: This strategy entails providing instruction that empowers students intellectually, socially, emotionally, and politically by using cultural referents to impart knowledge, skills, and attitudes.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Culturally Responsive Instruction (CREATE Model)
@@ -35,9 +39,9 @@ This strategy entails providing instruction that empowers students intellectuall
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/application|Application]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Application](/elements/application.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe increased student engagement and participation. Analyze student work for connections to their cultures. Gather student feedback on relevance and accessibility of content.

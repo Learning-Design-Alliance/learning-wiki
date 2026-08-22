@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: The Role of Background Knowledge
+description: When it comes to background knowledge, learners may have relevant experiences that just need to be drawn out.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # The Role of Background Knowledge
@@ -35,7 +39,7 @@ When it comes to background knowledge, learners may have relevant experiences th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - How well students understand the concept using the different methods

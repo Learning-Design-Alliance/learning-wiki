@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotion-Based Story Discussions
+description: "Emotion-based story discussions involve reading stories and having learners identify and discuss the characters' feelings."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotion-Based Story Discussions
@@ -35,9 +39,9 @@ Emotion-based story discussions involve reading stories and having learners iden
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately identify and discuss characters' emotions. Assess the depth and complexity of their responses.

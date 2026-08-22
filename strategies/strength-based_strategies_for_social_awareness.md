@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strength-Based Strategies for Social Awareness
+description: "Educators identify students' strengths related to social awareness and leverage these strengths to address challenges."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strength-Based Strategies for Social Awareness
@@ -35,13 +39,13 @@ Educators identify students' strengths related to social awareness and leverage 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/case-study|Case Study]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Case Study](/elements/case-study.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions, analyze student reflections, assess the quality of communication and conflict resolution skills, and monitor changes in student behavior and relationships. Gather feedback from students on the effectiveness of the strategies.

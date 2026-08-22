@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Calm-Down Corner
+description: Dedicated, positive space where learners practice emotional regulation skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Calm-Down Corner
@@ -35,9 +39,9 @@ Dedicated, positive space where learners practice emotional regulation skills. S
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track the frequency and effectiveness of using the calm-down corner. Monitor changes in behavior and emotional regulation over time.

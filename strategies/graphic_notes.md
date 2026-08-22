@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Notes
+description: Use visual cues in note-taking to help learners organize the information you are sharing with them orally.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Notes
@@ -35,8 +39,8 @@ Use visual cues in note-taking to help learners organize the information you are
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/note-taking|Note-taking]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Note-taking](/elements/note-taking.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe how learners use graphic organizers. Provide feedback on the organizational techniques. Track test grades or other assessment results to determine if this tool is helpful.

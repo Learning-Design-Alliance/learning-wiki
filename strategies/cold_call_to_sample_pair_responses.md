@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cold Call to Sample Pair Responses
+description: "Using cold call to select students to share their pair's responses reinforces expectations around engagement and attention."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cold Call to Sample Pair Responses
@@ -35,8 +39,8 @@ Using cold call to select students to share their pair's responses reinforces ex
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess Performance]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Assess Performance](/elements/assess-performance.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the level of student engagement and participation. Assess the quality and depth of student responses. Monitor whether students are listening to and building on each other's ideas.

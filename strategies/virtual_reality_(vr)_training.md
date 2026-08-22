@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Virtual Reality (VR) Training
+description: Virtual Reality (VR) training is a method of using VR technology to create simulated environments where learners can engage in interactive training scenarios.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Virtual Reality (VR) Training
@@ -35,10 +39,10 @@ Virtual Reality (VR) training is a method of using VR technology to create simul
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/application|Application]]
+- [Demonstration](/elements/demonstration.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Metrics on skill improvement, error reduction, task completion time, knowledge retention, and learner engagement can be collected and analyzed.

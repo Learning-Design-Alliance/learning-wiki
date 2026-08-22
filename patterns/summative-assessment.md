@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Summative Assessment
+description: Summative Assessment is the pattern-level target for end-of-sequence judgment of learner performance against defined expectations.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: harlen-2005
+    resource: "https://doi.org/10.1080/09585170500136093"
+    title: "Harlen, W. (2005). Teachers' summative practices and assessment for learning. *The Curriculum Journal, 16*(2), 207-223"
+    author: Harlen, W
 author: assessment design tradition
 grain_size: unit
 ---
@@ -29,14 +37,14 @@ Summative Assessment is the pattern-level target for end-of-sequence judgment of
 
 ### Theory
 #### Supporting
-- [[principles/summative-assessment|Summative Assessment]]
+- [Summative Assessment](/principles/summative-assessment.md)
 
 ## Design
 
 ### Elements Used
-- [[elements/summative-assessment|Summative Assessment]]
-- [[elements/final-exam|Final Exam]]
-- [[elements/performance-based-assessment|Performance-Based Assessment]]
+- [Summative Assessment](/elements/summative-assessment.md)
+- [Final Exam](/elements/final-exam.md)
+- [Performance-Based Assessment](/elements/performance-based-assessment.md)
 
 ## Examples
 - End-of-course exams and capstone evaluations.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Physical Activity Breaks
+description: Physical activity breaks are short periods of movement integrated into daily routines to improve focus, energy levels, and physical well-being.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Physical Activity Breaks
@@ -35,9 +39,9 @@ Physical activity breaks are short periods of movement integrated into daily rou
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Improved focus, reduced fatigue, increased productivity, enhanced mood, and self-reported improvements in physical well-being.

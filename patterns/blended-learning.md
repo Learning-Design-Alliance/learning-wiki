@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Blended Learning
+description: Blended Learning is the pattern-level target for instruction that intentionally combines in-person and digital learning experiences so each mode does some work the other does not.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 author: blended learning tradition
 grain_size: course
 ---
@@ -25,7 +28,7 @@ Blended Learning is the pattern-level target for instruction that intentionally 
 - Combine flexibility of digital learning with the support or interaction of live learning.
 
 ### Related Patterns
-- [[patterns/flipped-learning|Flipped Learning]]
+- [Flipped Learning](/patterns/flipped-learning.md)
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

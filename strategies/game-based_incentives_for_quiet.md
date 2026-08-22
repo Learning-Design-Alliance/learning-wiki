@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Game-Based Incentives for Quiet
+description: "Implementing a game-based incentive, such as \"Silent 20,\" where students are given 20 seconds to return to their seats and be completely quiet."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Game-Based Incentives for Quiet
@@ -35,8 +39,8 @@ Implementing a game-based incentive, such as "Silent 20," where students are giv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the speed and consistency with which students comply with the “Silent 20” rule. Monitor student engagement and participation in the game.

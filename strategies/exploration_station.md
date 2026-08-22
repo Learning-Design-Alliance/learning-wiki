@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Exploration Station
+description: Establishing a dedicated computer as a station for exploration allows learners to discover their preferred composition pathway.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Exploration Station
@@ -35,9 +39,9 @@ Establishing a dedicated computer as a station for exploration allows learners t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe how learners use the exploration station to discover their preferred composition pathways. Assess the extent to which learners incorporate their discoveries into their own compositions.

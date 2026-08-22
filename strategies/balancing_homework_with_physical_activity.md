@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Balancing Homework with Physical Activity
+description: Encourage children to balance homework with physical activity by talking to teachers, setting up standing desks, and breaking up long periods of sitting with short bursts of physical activity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Balancing Homework with Physical Activity
@@ -35,7 +39,7 @@ Encourage children to balance homework with physical activity by talking to teac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
+- [Supportive information](/elements/supportive-information.md)
 
 ## Assessment Evidence
 - Monitoring of study habits, tracking of physical activity during study time, self-reported focus and concentration.

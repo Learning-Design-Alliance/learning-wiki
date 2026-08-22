@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Blackout Conversation
+description: "Students transform conversational text selections into poetry by blacking out sections to reveal only key terms and phrases, focusing on the meaning, nuances, and silences of each character's dialogue."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Blackout Conversation
@@ -35,9 +39,9 @@ Students transform conversational text selections into poetry by blacking out se
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess student interpretations of character motivations, quality of blackout poetry, and participation in partner discussions.

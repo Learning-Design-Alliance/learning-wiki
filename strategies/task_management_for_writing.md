@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Task Management for Writing
+description: Task management focuses on helping students plan and manage their time and distractions while working on writing assignments.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Task Management for Writing
@@ -35,9 +39,9 @@ Task management focuses on helping students plan and manage their time and distr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [State objectives](/elements/state-objectives.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Assess student's ability to manage time and distractions; track progress on writing assignments; monitor student engagement and productivity levels

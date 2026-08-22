@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Make-Believe: Problem-Based Learning"
+description: Providing learners with real-world experiences and problems, and allowing them to work alongside experts, fosters engagement and prepares them for real-world challenges.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Make-Believe: Problem-Based Learning
@@ -35,9 +39,9 @@ Providing learners with real-world experiences and problems, and allowing them t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/application-of-knowledge|Application of Knowledge]]
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Solution Development](/elements/solution-development.md)
+- [Application of Knowledge](/elements/application-of-knowledge.md)
 
 ## Assessment Evidence
 - Learner projects and solutions. Participation in problem-solving activities. Critical thinking and collaboration skills.

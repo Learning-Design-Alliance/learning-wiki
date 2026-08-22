@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Practice Responsible Decision-Making
+description: Give students opportunities to practice responsible decision-making by using pairs or small groups to analyze problem scenarios (e.g., cheating, bullying) that connect to their everyday lives at school, in order to make decisions about,…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Practice Responsible Decision-Making
@@ -35,9 +39,9 @@ Give students opportunities to practice responsible decision-making by using pai
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/case-study|Case Study]]
-- [[elements/class-discussion|Class Discussion]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Case Study](/elements/case-study.md)
+- [Class Discussion](/elements/class-discussion.md)
 
 ## Assessment Evidence
 - Improved student decision-making skills, increased student analysis of situations and consequences, and greater ethical responsibility.

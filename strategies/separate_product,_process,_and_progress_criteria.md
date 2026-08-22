@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Separate Product, Process, and Progress Criteria
+description: Instead of eliminating grades for behavior and participation, differentiate between grades for product, process, and progress criteria.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Separate Product, Process, and Progress Criteria
@@ -35,8 +39,8 @@ Instead of eliminating grades for behavior and participation, differentiate betw
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Student understanding of grading, effectiveness of feedback

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Peer Coaching
+description: "Peer coaching is a reciprocal helping relationship between equals who support each other's learning through mutual trust and open discussion."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Peer Coaching
@@ -35,9 +39,9 @@ Peer coaching is a reciprocal helping relationship between equals who support ea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/peer-interaction|Peer Interaction]]
+- [Modeling](/elements/modeling.md)
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Peer Interaction](/elements/peer-interaction.md)
 
 ## Assessment Evidence
 - Improved communication, increased collaboration, positive feedback from participants.

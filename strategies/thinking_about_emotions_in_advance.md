@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Thinking About Emotions in Advance
+description: Begin the school day by asking your students a question to find out how they are feeling or what might be bothering them.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Thinking About Emotions in Advance
@@ -35,9 +39,9 @@ Begin the school day by asking your students a question to find out how they are
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Activation](/elements/activation.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student willingness to share and demonstrate understanding of emotions

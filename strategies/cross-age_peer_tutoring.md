@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cross-Age Peer Tutoring
+description: Cross-age peer tutoring involves pairing students from different grade levels, with older students acting as tutors for younger students.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cross-Age Peer Tutoring
@@ -35,9 +39,9 @@ Cross-age peer tutoring involves pairing students from different grade levels, w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track student progress, observe student interactions and collaboration skills, and gather feedback from students and teachers about their experience with cross-age peer tutoring.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Address Literacy Demands
+description: Recognize that students may not share the ability to automatically read, interpret, and reply to textual information at the same level as educators.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Address Literacy Demands
@@ -35,8 +39,8 @@ Recognize that students may not share the ability to automatically read, interpr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide Guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor student comprehension through feedback, quizzes, and class participation; assess clarity of communication through student feedback.

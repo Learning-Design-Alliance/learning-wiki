@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Read-Alouds with Deliberate Topics
+description: Teachers strategically select and read aloud stories that incorporate social-emotional learning (SEL) themes to foster self-reflection, promote social awareness, and strengthen relationship skills among students.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Read-Alouds with Deliberate Topics
@@ -35,10 +39,10 @@ Teachers strategically select and read aloud stories that incorporate social-emo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Assigned Readings](/elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, analyze their reflections and insights shared during and after the read-aloud sessions, assess their ability to apply SEL concepts to real-life situations.

@@ -1,7 +1,11 @@
 ---
 type: element
+title: Resource Evaluation
+description: Learners assess the credibility and relevance of sources.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Resource Evaluation
@@ -27,17 +31,17 @@ Learners assess the credibility and relevance of sources.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/metacognition|Metacognition]]
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
+- [Metacognition](/principles/metacognition.md)
+- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [[elements/research|Research]]
-- [[elements/criteria-development|Criteria Development]]
-- [[elements/information-literacy|Information Literacy]]
+- [Research](/elements/research.md)
+- [Criteria Development](/elements/criteria-development.md)
+- [Information Literacy](/elements/information-literacy.md)
 
 ## Patterns That Use This Element
-- [[patterns/inquiry-based-learning|Inquiry-Based Learning]]
-- [[patterns/research-based-learning|Research-Based Learning]]
+- [Inquiry-Based Learning](/patterns/inquiry-based-learning.md)
+- [Research-Based Learning](/patterns/research-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

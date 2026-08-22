@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Content-Related Signal Word
+description: "Using a content \"word of the week\" to signal that it’s time for silence."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Content-Related Signal Word
@@ -35,8 +39,8 @@ Using a content "word of the week" to signal that it’s time for silence. Examp
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
+- [Gain attention](/elements/gain-attention.md)
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Observe how quickly and effectively students respond to the signal word. Monitor student recall and understanding of the vocabulary word.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Maintaining Sensitivity to Language Concerns
+description: In traditional classrooms, students who are not native English speakers often feel marginalized, lost, and pressured into discarding their original language in favor of English.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Maintaining Sensitivity to Language Concerns
@@ -35,9 +39,9 @@ In traditional classrooms, students who are not native English speakers often fe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Increased student participation and engagement, improved language proficiency, and greater confidence in using both English and their primary language.

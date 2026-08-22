@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Modeling Positive Self-Talk
+description: Demonstrating positive thinking skills aloud when talking about oneself and others.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Modeling Positive Self-Talk
@@ -35,8 +39,8 @@ Demonstrating positive thinking skills aloud when talking about oneself and othe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe changes in learners' language and behavior, such as increased use of positive statements or a more optimistic outlook. Gather feedback from learners about the impact of the modeling on their thinking and attitudes.

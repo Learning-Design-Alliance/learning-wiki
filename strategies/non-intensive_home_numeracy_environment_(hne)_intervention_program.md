@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Non-intensive Home Numeracy Environment (HNE) Intervention Program
+description: Teachers can provide families information and suggestions for providing students more math exploration and play in their homes.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Non-intensive Home Numeracy Environment (HNE) Intervention Program
@@ -35,8 +39,8 @@ Teachers can provide families information and suggestions for providing students
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Track student engagement with math at school and at home. Monitor improvements in arithmetic fact retrieval skills.

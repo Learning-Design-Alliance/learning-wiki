@@ -1,8 +1,11 @@
 ---
 type: element
+title: Peer Instruction
+description: Peer instruction is the element in which learners explain, compare, and revise answers with one another around conceptual questions.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Peer Instruction
@@ -13,12 +16,12 @@ Peer instruction is the element in which learners explain, compare, and revise a
 ## Design Implications
 
 ### Affordances
-- [[patterns/peer-instruction|Peer Instruction]]
-- [[principles/peer-discussion|Peer Discussion]]
+- [Peer Instruction](/patterns/peer-instruction.md)
+- [Peer Discussion](/principles/peer-discussion.md)
 
 ## Related Elements
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/peer-collaboration|Peer Collaboration]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Peer Collaboration](/elements/peer-collaboration.md)
 
 ## Key Sources
 - Mazur, E. (1997). *Peer instruction*. Prentice Hall.

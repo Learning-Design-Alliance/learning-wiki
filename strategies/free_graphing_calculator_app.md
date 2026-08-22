@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Free Graphing Calculator App
+description: An awesome app with an intuitive, user-friendly interface that works more as a tool to do complex calculations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Free Graphing Calculator App
@@ -35,8 +39,8 @@ An awesome app with an intuitive, user-friendly interface that works more as a t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/procedural-information|Procedural information]]
-- [[elements/supportive-information|Supportive information]]
+- [Procedural information](/elements/procedural-information.md)
+- [Supportive information](/elements/supportive-information.md)
 
 ## Assessment Evidence
 - Evaluate proficiency in performing complex calculations.

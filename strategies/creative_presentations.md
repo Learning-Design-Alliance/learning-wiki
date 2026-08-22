@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creative Presentations
+description: Creative presentations are visual aids designed to engage learners and keep their attention through the use of bright colors, creative fonts, and a combination of photos, charts, and icons.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creative Presentations
@@ -35,9 +39,9 @@ Creative presentations are visual aids designed to engage learners and keep thei
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation during presentations. Collect feedback on the effectiveness of visuals. Assess learner comprehension and recall of key points.

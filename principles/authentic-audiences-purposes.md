@@ -1,8 +1,11 @@
 ---
 type: principle
+title: "Authentic Audiences & Purposes"
+description: Design learning tasks for real or realistically consequential audiences beyond the teacher-as-grader.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 ---
 
 # Authentic Audiences & Purposes
@@ -11,7 +14,7 @@ edited_by: Codex
 Design learning tasks for real or realistically consequential audiences beyond the teacher-as-grader. When learners write, present, build, or investigate for an authentic purpose, the work becomes more than an academic exercise: it carries audience expectations, real constraints, and a reason to revise. This tends to increase relevance, accountability, and transfer, but only when the audience and task are genuinely aligned rather than superficially "real-world" in name only.
 
 ## Implications
-Authentic audiences and purposes improve learning when they change the quality of the task rather than just the packaging around it. Work for a real stakeholder or believable public reader usually increases relevance, revision effort, and whole-task integration because learners have to coordinate multiple decisions in something closer to full performance [[claims/whole-task-performance-improves-transfer]] [+S]. At the same time, authenticity raises complexity, so novices often need models, checkpoints, and explicit criteria to keep the audience from becoming a source of anxiety or performance theater instead of meaningful learning [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]. Clear success criteria still matter even in authentic work, because realistic stakes do not by themselves tell learners what strong performance looks like [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S].
+Authentic audiences and purposes improve learning when they change the quality of the task rather than just the packaging around it. Work for a real stakeholder or believable public reader usually increases relevance, revision effort, and whole-task integration because learners have to coordinate multiple decisions in something closer to full performance [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]. At the same time, authenticity raises complexity, so novices often need models, checkpoints, and explicit criteria to keep the audience from becoming a source of anxiety or performance theater instead of meaningful learning [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]. Clear success criteria still matter even in authentic work, because realistic stakes do not by themselves tell learners what strong performance looks like [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
 
 ### Context
 #### Requirements
@@ -43,30 +46,30 @@ Authentic audiences and purposes improve learning when they change the quality o
 - Situated-learning perspectives support authentic audiences because learning becomes tied to real communicative situations and norms of practice
 - Constructivist perspectives support learner meaning-making through consequential tasks rather than decontextualized exercises
 - Self-determination theory helps explain motivational gains when learners experience autonomy, competence, and relatedness through real purposes
-- [[claims/whole-task-performance-improves-transfer]] [+S] supports integrated performance tasks as stronger preparation for transfer than isolated subskills alone
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S] supports integrated performance tasks as stronger preparation for transfer than isolated subskills alone
 
 #### Contradicting / Qualifying
 - Authenticity increases complexity; novices may need more scaffolds, models, and checkpoints than advocates sometimes assume
-- Public audience alone does not guarantee quality learning; learners still need explicit goals and criteria [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S]
+- Public audience alone does not guarantee quality learning; learners still need explicit goals and criteria [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
 - The strongest designs balance authenticity with instructional support rather than choosing one over the other
 
 ### Claims
-- [[claims/whole-task-performance-improves-transfer]] [+S] — authentic audience tasks often require integrated performance closer to real use than isolated drills
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S] — public or stakeholder-facing work benefits from explicit quality targets and success criteria
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — novices need process supports for revision, research, and audience analysis, not only the expectation of a polished final product
-- [[claims/contingent-scaffolding-improves-learning]] [+M] — authentic tasks work best when instructors coach learners responsively as complexity rises
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S] — authentic audience tasks often require integrated performance closer to real use than isolated drills
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — public or stakeholder-facing work benefits from explicit quality targets and success criteria
+- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices need process supports for revision, research, and audience analysis, not only the expectation of a polished final product
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — authentic tasks work best when instructors coach learners responsively as complexity rises
 
 ## Related Principles
-- [[principles/inquiry-based-learning|Inquiry-based Learning]] — authentic audiences often emerge from real questions and investigations
-- [[principles/competency-based-learning-assessment|Competency-based Learning & Assessment]] — authentic products can serve as demonstrations of competence
-- [[principles/learner-choice|Learner Choice]] — choice over topic, format, or audience can amplify authenticity when still aligned to goals
-- [[principles/clear-structure-presentation|Clear Structure & Presentation]] — real-world work still needs explicit expectations and supports
+- [Inquiry-based Learning](/principles/inquiry-based-learning.md) — authentic audiences often emerge from real questions and investigations
+- [Competency-based Learning & Assessment](/principles/competency-based-learning-assessment.md) — authentic products can serve as demonstrations of competence
+- [Learner Choice](/principles/learner-choice.md) — choice over topic, format, or audience can amplify authenticity when still aligned to goals
+- [Clear Structure & Presentation](/principles/clear-structure-presentation.md) — real-world work still needs explicit expectations and supports
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [[strategies/digital_publishing|Digital Publishing]] — student work is shared with real readers beyond the classroom
-- [[strategies/student_blogging|Student Blogging]] — learners document process and communicate to peers or wider audiences
-- [[strategies/project-based_learning_(pbl)|Project-Based Learning (PBL)]] — projects framed around real community or workplace problems
+- [Digital Publishing](/strategies/digital_publishing.md) — student work is shared with real readers beyond the classroom
+- [Student Blogging](/strategies/student_blogging.md) — learners document process and communicate to peers or wider audiences
+- [Project-Based Learning (PBL)](/strategies/project-based_learning_(pbl).md) — projects framed around real community or workplace problems
 - Reports for community partners, public explainers, policy briefs, exhibitions, or client-facing presentations are all viable forms when the audience actually matters
 
 ## Key Sources

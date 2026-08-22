@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teach Mindfulness Strategies
+description: Teach students various mindfulness strategies, from meditation and deep breathing to journaling and drawing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teach Mindfulness Strategies
@@ -35,9 +39,9 @@ Teach students various mindfulness strategies, from meditation and deep breathin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor students' ability to use mindfulness techniques to manage their emotions and behaviors, observe changes in stress levels and anxiety

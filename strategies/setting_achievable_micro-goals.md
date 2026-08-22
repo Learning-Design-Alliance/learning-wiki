@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Setting Achievable Micro-Goals
+description: Micro-goals involve breaking down larger objectives into smaller, manageable steps.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Setting Achievable Micro-Goals
@@ -35,9 +39,9 @@ Micro-goals involve breaking down larger objectives into smaller, manageable ste
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [State objectives](/elements/state-objectives.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the completion of micro-goals. Measure learners' confidence and motivation levels. Observe learners' ability to tackle larger tasks.

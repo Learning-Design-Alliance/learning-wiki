@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Bounce Cards
+description: Bounce cards provide a structured way for students to engage in cooperative learning by promoting active listening, turn-taking, and perspective sharing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Bounce Cards
@@ -35,10 +39,10 @@ Bounce cards provide a structured way for students to engage in cooperative lear
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/modeling|Modeling]]
-- [[elements/practice|Practice]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Modeling](/elements/modeling.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Increased student participation, improved quality of dialogue, enhanced listening skills, more respectful interactions, greater collaboration in group activities

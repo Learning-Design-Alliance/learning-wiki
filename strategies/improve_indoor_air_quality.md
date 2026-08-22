@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Improve Indoor Air Quality
+description: Poor indoor air quality in schools is a major contributor to absenteeism, especially for students with asthma.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Improve Indoor Air Quality
@@ -35,9 +39,9 @@ Poor indoor air quality in schools is a major contributor to absenteeism, especi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student and teacher absenteeism, measure indoor air quality, collect feedback from teachers and students.

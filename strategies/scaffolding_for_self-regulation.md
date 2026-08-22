@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Scaffolding for Self-Regulation
+description: Scaffolding involves providing temporary support to learners to help them manage their emotional and behavioral responses in new or challenging situations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Scaffolding for Self-Regulation
@@ -35,9 +39,9 @@ Scaffolding involves providing temporary support to learners to help them manage
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe changes in emotional reactivity and behavioral control. Monitor the learner’s ability to use self-regulation strategies independently. Collect self-reports from learners regarding their confidence and ability to manage challenging situations.

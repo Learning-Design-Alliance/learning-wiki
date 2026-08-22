@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Gradual Release of Responsibility in Multimodal Composition
+description: Using the gradual release of responsibility model to support students in multimodal composition.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Gradual Release of Responsibility in Multimodal Composition
@@ -35,10 +39,10 @@ Using the gradual release of responsibility model to support students in multimo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe students' ability to select and analyze multimodal resources independently. Analyze the quality and depth of their independent analysis. Assess the extent to which students apply recursive design skills in their own compositions.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Selecting Culturally Responsive Texts
+description: This strategy involves selecting and incorporating culturally responsive texts into the curriculum and classroom libraries.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Selecting Culturally Responsive Texts
@@ -35,10 +39,10 @@ This strategy involves selecting and incorporating culturally responsive texts i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Discussion Sections](/elements/discussion-sections.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Analyze representation and diversity in classroom and library collections. Observe learners' engagement, discussions, and reflections on diverse texts. Assess the inclusion of multiple perspectives and voices in learning activities.

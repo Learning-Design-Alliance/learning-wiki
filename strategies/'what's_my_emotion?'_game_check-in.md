@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "'What's My Emotion?' Game Check-In"
+description: Students use the EQ Feeling Chart to identify their feelings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # 'What's My Emotion?' Game Check-In
@@ -35,9 +39,9 @@ Students use the EQ Feeling Chart to identify their feelings. One student acts o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/demonstration|Demonstration]]
+- [Practice](/elements/practice.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe student participation in acting out and guessing emotions. Assess the accuracy of students' guesses and the expressiveness of their actions.

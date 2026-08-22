@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Demonstrations
+description: Student demonstrations involve learners showcasing their understanding of a topic or skill through a performance, presentation, or hands-on activity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Demonstrations
@@ -35,9 +39,9 @@ Student demonstrations involve learners showcasing their understanding of a topi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Track learner performance against predefined criteria. Analyze depth and accuracy of presented content. Measure audience engagement and understanding of the demonstration.

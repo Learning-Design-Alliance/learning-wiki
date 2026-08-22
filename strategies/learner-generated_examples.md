@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Learner-Generated Examples
+description: Provide opportunities for learners to generate their own examples of a concept.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Learner-Generated Examples
@@ -35,8 +39,8 @@ Provide opportunities for learners to generate their own examples of a concept. 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate the accuracy and relevance of learners' generated examples. Observe their ability to explain and justify their choices.

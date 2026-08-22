@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Alphaboxes
+description: Alphaboxes is a strategy that encourages collaborative interaction with text by using a grid with boxes labeled with letters of the alphabet.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Alphaboxes
@@ -35,10 +39,10 @@ Alphaboxes is a strategy that encourages collaborative interaction with text by 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Practice](/elements/practice.md)
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor the quality and depth of student responses in the Alphaboxes grid. Evaluate the level of cognitive processing demonstrated in the responses. Assess the effectiveness of group collaboration through observation and participation.

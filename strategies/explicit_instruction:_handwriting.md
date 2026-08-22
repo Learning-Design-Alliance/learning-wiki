@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Explicit Instruction: Handwriting"
+description: Direct teaching approach to handwriting, breaking down essential components like letter formation, size, and spacing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicit Instruction: Handwriting
@@ -35,10 +39,10 @@ Direct teaching approach to handwriting, breaking down essential components like
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe improvements in letter formation, size consistency, and spacing. Assess legibility and fluency of handwritten work.

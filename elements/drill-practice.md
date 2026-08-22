@@ -1,8 +1,16 @@
 ---
 type: element
+title: "Drill & Practice"
+description: Drill and practice is the element in which learners repeatedly perform a focused skill or response pattern until it becomes more fluent or automatic.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: ericsson-1993
+    resource: "https://doi.org/10.1037/0033-295X.100.3.363"
+    title: "Ericsson, K. A., Krampe, R. T., & Tesch-Romer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review, 100*(3), 363-406"
+    author: "Ericsson, K. A., Krampe, R. T., & Tesch-Romer, C"
 ---
 
 # Drill & Practice
@@ -23,18 +31,18 @@ Drill and practice is the element in which learners repeatedly perform a focused
 - Improve fluency, accuracy, and automaticity on foundational subskills.
 
 ### Affordances
-- [[principles/deliberate-practice|Deliberate Practice]]
-- [[principles/behaviorism|Behaviorism]]
-- [[principles/retrieval-practice|Retrieval Practice]]
+- [Deliberate Practice](/principles/deliberate-practice.md)
+- [Behaviorism](/principles/behaviorism.md)
+- [Retrieval Practice](/principles/retrieval-practice.md)
 
 ## Related Elements
-- [[elements/part-task-practice|Part-Task Practice]]
-- [[elements/spaced-repetition|Spaced Repetition]]
-- [[elements/immediate-feedback|Immediate Feedback]]
+- [Part-Task Practice](/elements/part-task-practice.md)
+- [Spaced Repetition](/elements/spaced-repetition.md)
+- [Immediate Feedback](/elements/immediate-feedback.md)
 
 ## Patterns That Use This Element
-- [[patterns/game-based-mastery-learning|Game-Based Mastery Learning]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Game-Based Mastery Learning](/patterns/game-based-mastery-learning.md)
+- [Mastery Learning](/patterns/mastery-learning.md)
 
 ## Examples
 - Timed factual retrieval, repeated skill drills, or rapid practice sets targeting automaticity.

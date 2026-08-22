@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Visual Timers
+description: Visual timers help teach the concept of time to children with special needs.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Visual Timers
@@ -35,9 +39,9 @@ Visual timers help teach the concept of time to children with special needs. It 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to transition between activities. Track compliance with time limits. Collect feedback on the effectiveness of the timer.

@@ -1,8 +1,16 @@
 ---
 type: element
+title: Guided Discovery
+description: Guided discovery is the element in which learners investigate, infer, or notice patterns for themselves, but with prompts, constraints, examples, or feedback that keep the exploration productive.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: alfieri-2011
+    resource: "https://doi.org/10.1037/a0021017"
+    title: "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1-18"
+    author: "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R"
 ---
 
 # Guided Discovery
@@ -28,18 +36,18 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 - Build conceptual understanding, noticing, and transfer through supported exploration.
 
 ### Affordances
-- [[principles/constructivism|Constructivism]]
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
-- [[principles/scaffolding|Scaffolding]]
+- [Constructivism](/principles/constructivism.md)
+- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Scaffolding](/principles/scaffolding.md)
 
 ## Related Elements
-- [[elements/scaffolded-inquiry|Scaffolded Inquiry]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/feedback|Feedback]]
+- [Scaffolded Inquiry](/elements/scaffolded-inquiry.md)
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Feedback](/elements/feedback.md)
 
 ## Patterns That Use This Element
-- [[patterns/guided-discovery-learning|Guided Discovery Learning]]
-- [[patterns/pogil|POGIL]]
+- [Guided Discovery Learning](/patterns/guided-discovery-learning.md)
+- [POGIL](/patterns/pogil.md)
 
 ## Examples
 - Learners compare several examples and infer the governing rule from prompts.

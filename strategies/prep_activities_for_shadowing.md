@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Prep Activities for Shadowing
+description: This involves creating learning goals for the shadowing day, choosing a student to shadow, and coordinating with the student, their parents, and school staff to ensure a smooth and meaningful experience.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Prep Activities for Shadowing
@@ -35,9 +39,9 @@ This involves creating learning goals for the shadowing day, choosing a student 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [State objectives](/elements/state-objectives.md)
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Learning goals are clearly defined and aligned with the shadowing experience. Student selection criteria are well-considered. Coordination efforts are thorough and effective. Reflections demonstrate an open and unbiased approach to observation.

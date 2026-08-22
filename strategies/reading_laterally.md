@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reading Laterally
+description: Reading Laterally is the practice of verifying information by consulting multiple external sources to evaluate the credibility of a source before engaging deeply with it.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reading Laterally
@@ -35,8 +39,8 @@ Reading Laterally is the practice of verifying information by consulting multipl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/research|Research]]
-- [[elements/resource-evaluation|Resource Evaluation]]
+- [Research](/elements/research.md)
+- [Resource Evaluation](/elements/resource-evaluation.md)
 
 ## Assessment Evidence
 - Observe learners' ability to identify unreliable sources and misinformation. Assess the quality of their source evaluations based on external evidence. Measure improvements in their critical thinking and information literacy skills.

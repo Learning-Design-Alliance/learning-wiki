@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Remove Visual Distractions
+description: When learners are struggling with a difficult task, clutter in the classroom or on the desk can make it impossible to keep the brain focused.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Remove Visual Distractions
@@ -35,7 +39,7 @@ When learners are struggling with a difficult task, clutter in the classroom or 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to stay on task. Track the frequency of distractions. Collect feedback on the learner's sense of focus.

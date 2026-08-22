@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Greek Combining Forms
+description: Because scholars have drawn from the Greek language to name scientific concepts and discoveries since the Renaissance, middle school students will encounter hundreds of words derived from Greek in math, science, and philosophy texts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Greek Combining Forms
@@ -35,9 +39,9 @@ Because scholars have drawn from the Greek language to name scientific concepts 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Assess accuracy in spelling words with Greek combining forms. Monitor progress in spelling and vocabulary skills.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Give Prompt Feedback
+description: Knowing what you know and don’t know focuses learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Give Prompt Feedback
@@ -35,8 +39,8 @@ Knowing what you know and don’t know focuses learning. Feedback is an integral
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Improved tutee performance, increased self-awareness, positive feedback from tutees about feedback.

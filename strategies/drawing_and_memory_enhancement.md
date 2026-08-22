@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Drawing and Memory Enhancement
+description: Drawing is a powerful technique to enhance memory and recall by engaging learners in multiple cognitive processes.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Drawing and Memory Enhancement
@@ -35,9 +39,9 @@ Drawing is a powerful technique to enhance memory and recall by engaging learner
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Measure recall of information through quizzes or tests. Compare recall rates between learners who use drawing and those who use other methods. Observe the depth and complexity of learners' drawings to assess understanding.

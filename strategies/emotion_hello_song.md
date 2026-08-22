@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotion Hello Song
+description: The Emotion Hello Song involves singing a greeting song with different emotional expressions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotion Hello Song
@@ -35,9 +39,9 @@ The Emotion Hello Song involves singing a greeting song with different emotional
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe learners' participation and engagement in the song. Assess their ability to connect emotions with appropriate facial expressions and actions.

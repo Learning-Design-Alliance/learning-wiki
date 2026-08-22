@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creative Writing
+description: Former teachers Ed Kang and Amy Schwartzbach-Kang incorporated storytelling and creative writing into their after-school program’s science lessons.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creative Writing
@@ -35,8 +39,8 @@ Former teachers Ed Kang and Amy Schwartzbach-Kang incorporated storytelling and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
-- [[elements/application|Application]]
+- [Modeling](/elements/modeling.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Review student stories to assess creativity, understanding of science concepts, and writing skills.

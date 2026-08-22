@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Timely Peer Review
+description: This strategy involves conducting peer reviews at multiple points in the writing process, including before the assignment is due, on the day it is due, and after it has been graded.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Timely Peer Review
@@ -35,9 +39,9 @@ This strategy involves conducting peer reviews at multiple points in the writing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Tracking of revisions made by learners based on peer feedback. Comparison of drafts before and after peer review to assess the impact of feedback on the quality of writing.

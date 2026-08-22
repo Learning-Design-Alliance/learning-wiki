@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cooperative Teaching
+description: Cooperative teaching involves structuring learning activities so that students work together, teaching each other concepts and skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cooperative Teaching
@@ -35,9 +39,9 @@ Cooperative teaching involves structuring learning activities so that students w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-collaboration|Peer Collaboration]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Peer Collaboration](/elements/peer-collaboration.md)
 
 ## Assessment Evidence
 - Observe student participation and interaction during teaching activities. Assess comprehension through explanations, problem-solving, and peer evaluations. Gather feedback from students on the effectiveness of cooperative teaching methods.

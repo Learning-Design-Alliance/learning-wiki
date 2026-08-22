@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Physical Activity & Recess"
+description: "Integrating physical activity, such as games, walking, or jogging, with learning activities can improve students' health, focus, and social skills."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Physical Activity & Recess
@@ -35,8 +39,8 @@ Integrating physical activity, such as games, walking, or jogging, with learning
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Track improvements in student focus and attention. Measure increases in physical activity during the school day. Assess gains in social skills and teamwork through observation and feedback.

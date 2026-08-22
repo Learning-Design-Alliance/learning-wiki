@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Classical Music
+description: Playing classical music (Bach, not Mahler) at a low volume when learners enter the room to set a professional tone.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Classical Music
@@ -35,7 +39,7 @@ Playing classical music (Bach, not Mahler) at a low volume when learners enter t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
+- [Gain attention](/elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe student behavior upon entering the classroom. Monitor the overall atmosphere and noise levels.

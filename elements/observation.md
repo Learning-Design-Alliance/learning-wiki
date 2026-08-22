@@ -1,8 +1,11 @@
 ---
 type: element
+title: Observation
+description: Observation is the short-form canonical target for instructional activities in which learners watch people, processes, or contexts carefully in order to notice patterns, behaviors, or constraints.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Observation
@@ -23,12 +26,12 @@ Observation is the short-form canonical target for instructional activities in w
 - Improve noticing, evidence gathering, and situated understanding.
 
 ### Affordances
-- [[principles/observationshadowing|Observation/Shadowing]]
-- [[principles/metacognition|Metacognition]]
+- [Observation/Shadowing](/principles/observationshadowing.md)
+- [Metacognition](/principles/metacognition.md)
 
 ## Related Elements
-- [[elements/demonstration|Demonstration]]
-- [[elements/contextualization|Contextualization]]
+- [Demonstration](/elements/demonstration.md)
+- [Contextualization](/elements/contextualization.md)
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.

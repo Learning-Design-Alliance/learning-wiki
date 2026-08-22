@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Create a Character Profile
+description: Creating a character profile helps students form a deeper understanding of a book’s characters.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Create a Character Profile
@@ -35,9 +39,9 @@ Creating a character profile helps students form a deeper understanding of a boo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/creating-visual-representations|Creating Visual Representations]]
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Creating Visual Representations](/elements/creating-visual-representations.md)
 
 ## Assessment Evidence
 - Improved character understanding, analytical skills, and empathy. Increased student engagement and creativity.

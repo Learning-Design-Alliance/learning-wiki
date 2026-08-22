@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Using Technology
+description: Technology is a powerful tool in math instruction for ELLs.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Using Technology
@@ -35,8 +39,8 @@ Technology is a powerful tool in math instruction for ELLs. Look for educational
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - By seeing students' improvement.

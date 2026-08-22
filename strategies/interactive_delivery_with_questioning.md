@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Interactive Delivery with Questioning
+description: Engage students through interactive discussions driven by questions and answers.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Interactive Delivery with Questioning
@@ -35,10 +39,10 @@ Engage students through interactive discussions driven by questions and answers.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased student participation, improved understanding of concepts, higher test scores, and positive classroom environment.

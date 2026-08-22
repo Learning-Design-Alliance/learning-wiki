@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Language Experience Approach
+description: "The language experience approach is a whole language method that integrates the development of reading, writing, listening, and speaking skills through the use of learners' experiences."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Language Experience Approach
@@ -35,11 +39,11 @@ The language experience approach is a whole language method that integrates the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Learner's ability to read and write about their experiences. Participation in discussions and activities. Growth in language skills.

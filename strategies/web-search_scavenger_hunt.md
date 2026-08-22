@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Web-Search Scavenger Hunt
+description: A web-search scavenger hunt is a fun way to help students learn how to effectively use search engines to find accurate information.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Web-Search Scavenger Hunt
@@ -35,9 +39,9 @@ A web-search scavenger hunt is a fun way to help students learn how to effective
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/application|Application]]
+- [Practice](/elements/practice.md)
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Every credible website students identify to correctly answer the questions.

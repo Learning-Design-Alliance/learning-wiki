@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Racial Identity Work for Educators
+description: "Racial identity work for educators involves understanding one's own racial identity, privilege, and biases to create a more inclusive and equitable learning environment."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Racial Identity Work for Educators
@@ -35,9 +39,9 @@ Racial identity work for educators involves understanding one's own racial ident
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Observe educators' behavior in the classroom, their interactions with students, and their responses to issues of race and equity. Measure students' sense of belonging and their perceptions of fairness and inclusion.

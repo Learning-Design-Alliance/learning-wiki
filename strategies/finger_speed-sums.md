@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Finger Speed-Sums
+description: Students meet in pairs with one hand behind their back.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Finger Speed-Sums
@@ -35,9 +39,9 @@ Students meet in pairs with one hand behind their back. On the count of three, t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/collaboration|Collaboration]]
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Collaboration](/elements/collaboration.md)
 
 ## Assessment Evidence
 - Assess students' speed and accuracy in calculating the sum. Observe their engagement and participation.

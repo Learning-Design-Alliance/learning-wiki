@@ -1,7 +1,11 @@
 ---
 type: element
+title: Perspective-Taking
+description: Learners consider multiple viewpoints to develop empathy and deeper understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Perspective-Taking
@@ -27,17 +31,17 @@ Learners consider multiple viewpoints to develop empathy and deeper understandin
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/perspective-taking|Perspective-Taking]]
+- [Social Learning](/principles/social-learning.md)
+- [Perspective-Taking](/principles/perspective-taking.md)
 
 ## Related Elements
-- [[elements/role-reversal|Role Reversal]]
-- [[elements/debate|Debate]]
-- [[elements/structured-discussion|Structured Discussion]]
+- [Role Reversal](/elements/role-reversal.md)
+- [Debate](/elements/debate.md)
+- [Structured Discussion](/elements/structured-discussion.md)
 
 ## Patterns That Use This Element
-- [[patterns/structured-academic-controversy|Structured Academic Controversy]]
-- [[patterns/debate|Debate]]
+- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
+- [Debate](/patterns/debate.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Actively Listen to What Students Say
+description: Give your full attention and listen to both a student’s words and tone of voice.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Actively Listen to What Students Say
@@ -35,8 +39,8 @@ Give your full attention and listen to both a student’s words and tone of voic
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Monitor communication patterns, observe interactions, gather feedback from students

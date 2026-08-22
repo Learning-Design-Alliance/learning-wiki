@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Faux-Flipped Classroom
+description: This is a specific model targeting young learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Faux-Flipped Classroom
@@ -35,10 +39,10 @@ This is a specific model targeting young learners. The aim is to replace the hom
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/lectures|Lectures]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Lectures](/elements/lectures.md)
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Learner engagement with videos, participation in one-to-one sessions, academic performance.

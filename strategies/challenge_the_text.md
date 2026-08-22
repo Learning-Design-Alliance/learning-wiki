@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Challenge the Text
+description: Challenge the Text is a strategy that encourages students to critically examine texts by asking and answering their own text-dependent questions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Challenge the Text
@@ -35,10 +39,10 @@ Challenge the Text is a strategy that encourages students to critically examine 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/reassessment|Reassessment]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Individual Response](/elements/individual-response.md)
+- [Reassessment](/elements/reassessment.md)
 
 ## Assessment Evidence
 - Quality and depth of student-generated questions. Ability to provide evidence-based responses.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Calming Visual Input
+description: Managing visual input involves altering the visual environment to reduce overstimulation and promote relaxation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Calming Visual Input
@@ -35,8 +39,8 @@ Managing visual input involves altering the visual environment to reduce oversti
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe the child's behavior and emotional state before, during, and after changes in visual input. Monitor the child's self-regulation and ability to manage visual input.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Discussing Emotions
+description: This strategy involves incorporating discussions about emotions into the learning environment through whole-class discussions and individual reflections.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Discussing Emotions
@@ -35,8 +39,8 @@ This strategy involves incorporating discussions about emotions into the learnin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learners' ability to identify and express emotions, track their use of coping strategies, and monitor their engagement in emotional discussions

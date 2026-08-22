@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Matched Examples and Non-examples
+description: Present matched examples and nonexamples for concepts with related attributes.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Matched Examples and Non-examples
@@ -35,8 +39,8 @@ Present matched examples and nonexamples for concepts with related attributes. N
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/cognitive-conflict|Cognitive Conflict]]
+- [Demonstration](/elements/demonstration.md)
+- [Cognitive Conflict](/elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Assess learners' ability to distinguish between examples and non-examples and explain the key differences.

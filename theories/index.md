@@ -1,25 +1,21 @@
----
-type: index
-title: Theories
-last_edited: 2026-04-08
----
-
 # Theories
 
 Explanatory frameworks that ground principles and claims.
 
-**9 entries** · 0 stable · 9 in review · 0 drafts
+**11 entries** · 0 stable · 11 in review · 0 drafts
 
 ---
 
 ## In Review
 
-- [[theories/cognitive-apprenticeship|Cognitive Apprenticeship]]
-- [[theories/cognitive-load-theory|Cognitive Load Theory]]
-- [[theories/constructivism|Constructivism]]
-- [[theories/dual-coding-theory|Dual Coding Theory]]
-- [[theories/expertise-reversal-effect|Expertise Reversal Effect]]
-- [[theories/information-processing-theory|Information Processing Theory]]
-- [[theories/self-determination-theory|Self-Determination Theory]]
-- [[theories/self-regulated-learning|Self-Regulated Learning]]
-- [[theories/situated-learning|Situated Learning]]
+* [Behaviorism](behaviorism.md) - Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies.
+* [Cognitive Apprenticeship](cognitive-apprenticeship.md) - Cognitive apprenticeship is the theory that complex thinking is learned through modeled expert performance, coached participation, scaffolding, articulation, reflection, and gradual fading in authentic tasks.
+* [Cognitive Load Theory](cognitive-load-theory.md) - Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory.
+* [Constructivism](constructivism.md) - Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know.
+* [Dual Coding Theory](dual-coding-theory.md) - Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems.
+* [Expertise Reversal Effect](expertise-reversal-effect.md) - The expertise reversal effect is the idea that instructional guidance that helps novices can become redundant or counterproductive as learner expertise increases.
+* [Information Processing Theory](information-processing-theory.md) - Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval.
+* [Self-Determination Theory](self-determination-theory.md) - Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected.
+* [Self-Regulated Learning](self-regulated-learning.md) - Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance.
+* [Situated Learning](situated-learning.md) - Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used.
+* [Social Learning Theory](social-learning-theory.md) - Social Learning Theory, developed primarily by Albert Bandura, proposes that learning occurs not only through direct reinforcement (as behaviorism holds) but also through observation of others and the cognitive processing of those…

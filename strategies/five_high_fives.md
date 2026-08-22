@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Five High Fives
+description: Students try to give a high-five to five different classmates.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Five High Fives
@@ -35,9 +39,9 @@ Students try to give a high-five to five different classmates. When they’ve go
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/collaboration|Collaboration]]
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Collaboration](/elements/collaboration.md)
 
 ## Assessment Evidence
 - Observe students' interactions and teamwork. Assess their ability to recognize and explain the patterns.

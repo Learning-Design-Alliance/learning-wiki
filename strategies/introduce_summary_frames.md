@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Introduce Summary Frames
+description: Learners read a section of text to themselves before verbally summarizing the passage to a partner or completing sentence frames.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Introduce Summary Frames
@@ -35,8 +39,8 @@ Learners read a section of text to themselves before verbally summarizing the pa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Practice](/elements/practice.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Review learner summaries for accuracy and completeness.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Virtual Embodiment
+description: Virtual embodiment is used to give people the experience of the golden rule in operation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Virtual Embodiment
@@ -35,12 +39,12 @@ Virtual embodiment is used to give people the experience of the golden rule in o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Gain attention](/elements/gain-attention.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Changes in implicit attitudes.

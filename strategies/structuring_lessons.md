@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Structuring Lessons
+description: A lesson structure maps the teaching and learning that occurs in class.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Structuring Lessons
@@ -35,7 +39,7 @@ A lesson structure maps the teaching and learning that occurs in class. Sound le
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/simple-to-complex-sequencing|Simple-to-complex sequencing]]
+- [Simple-to-complex sequencing](/elements/simple-to-complex-sequencing.md)
 
 ## Assessment Evidence
 - Effective time management, smooth transitions, and student engagement.

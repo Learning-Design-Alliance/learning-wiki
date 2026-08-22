@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Choice-Based Quiet Time Activities
+description: Choice-based activities during quiet time give students the power to select their preferred independent tasks, enhancing engagement and promoting a sense of control.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Choice-Based Quiet Time Activities
@@ -35,8 +39,8 @@ Choice-based activities during quiet time give students the power to select thei
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Practice](/elements/practice.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student behavior and engagement during quiet time. Track the types of activities students choose.

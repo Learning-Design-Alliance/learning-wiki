@@ -1,8 +1,20 @@
 ---
 type: theory
+title: Self-Regulated Learning
+description: Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: zimmerman-2002
+    resource: "https://doi.org/10.1207/s15430421tip4102_2"
+    title: "Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70"
+    author: Zimmerman, B. J
+  - id: zimmerman-2000
+    resource: "https://doi.org/10.1016/B978-012109890-2/50031-7"
+    title: "Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13-39). Academic Press"
+    author: Zimmerman, B. J
 ---
 
 # Self-Regulated Learning
@@ -31,19 +43,19 @@ Barry Zimmerman's work is one of the most influential formulations of SRL. In th
 - Building persistence and more accurate self-evaluation
 
 ## Claims
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
 
 ## Related Theories
-- [[theories/self-determination-theory]] — motivation and autonomy shape whether learners engage in self-regulatory behaviors
-- [[theories/cognitive-load-theory]] — working-memory demands can constrain learners' ability to monitor and regulate effectively, especially when they are novices
+- [Self-Determination Theory](/theories/self-determination-theory.md) — motivation and autonomy shape whether learners engage in self-regulatory behaviors
+- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — working-memory demands can constrain learners' ability to monitor and regulate effectively, especially when they are novices
 
 ## Examples
-- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]]
-- [[principles/self-monitoring|Self-monitoring]]
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/immediate-feedback|Immediate Feedback]]
+- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
+- [Self-monitoring](/principles/self-monitoring.md)
+- [Formative Assessment](/principles/formative-assessment.md)
+- [Immediate Feedback](/principles/immediate-feedback.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

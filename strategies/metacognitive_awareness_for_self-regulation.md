@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Metacognitive Awareness for Self-Regulation
+description: Journaling (or recording in an alternative form) can help students develop their metacognitive awareness to build self-regulation skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Metacognitive Awareness for Self-Regulation
@@ -35,8 +39,8 @@ Journaling (or recording in an alternative form) can help students develop their
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe changes in journaling.

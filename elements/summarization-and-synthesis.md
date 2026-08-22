@@ -1,7 +1,11 @@
 ---
 type: element
+title: Summarization and Synthesis
+description: Learners distill key concepts from a discussion, reading, or experience.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Summarization and Synthesis
@@ -27,19 +31,19 @@ Learners distill key concepts from a discussion, reading, or experience.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/retrieval-practice|Retrieval Practice]]
-- [[principles/knowledge-organization|Knowledge Organization]]
-- [[principles/cognitive-load-reduction|Cognitive Load Reduction]]
+- [Retrieval Practice](/principles/retrieval-practice.md)
+- [Knowledge Organization](/principles/knowledge-organization.md)
+- [Cognitive Load Reduction](/principles/cognitive-load-reduction.md)
 
 ## Related Elements
-- [[elements/note-taking|Note-Taking]]
-- [[elements/concept-mapping|Concept Mapping]]
-- [[elements/reflection|Reflection]]
+- [Note-Taking](/elements/note-taking.md)
+- [Concept Mapping](/elements/concept-mapping.md)
+- [Reflection](/elements/reflection.md)
 
 ## Patterns That Use This Element
-- [[patterns/elaboration-theory|Elaboration Theory]]
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Elaboration Theory](/patterns/elaboration-theory.md)
+- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

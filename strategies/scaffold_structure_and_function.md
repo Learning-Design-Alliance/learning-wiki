@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Scaffold Structure and Function
+description: Provide students with the language tools, such as sentence starters and stems, necessary for project success.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Scaffold Structure and Function
@@ -35,8 +39,8 @@ Provide students with the language tools, such as sentence starters and stems, n
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/advance-organizers|Advance Organizers]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Advance Organizers](/elements/advance-organizers.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Increased language accuracy, improved communication skills, and better project outcomes.

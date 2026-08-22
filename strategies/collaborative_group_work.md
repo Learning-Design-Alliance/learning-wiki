@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Collaborative Group Work
+description: Teachers should emphasize collaborative learning within a project.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collaborative Group Work
@@ -35,8 +39,8 @@ Teachers should emphasize collaborative learning within a project. It allows ELL
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/team-based-inquiry|Team-Based Inquiry]]
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Team-Based Inquiry](/elements/team-based-inquiry.md)
 
 ## Assessment Evidence
 - Increased language use, improved communication skills, and positive peer interactions.

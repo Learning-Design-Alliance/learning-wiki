@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Temperature Monitoring & Adjustment"
+description: Monitoring the temperature of a learning environment and making adjustments to maintain an optimal temperature range can improve learner focus and reduce distractions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Temperature Monitoring & Adjustment
@@ -35,9 +39,9 @@ Monitoring the temperature of a learning environment and making adjustments to m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Measure learner focus and engagement levels under different temperature conditions, track performance metrics (e.g., test scores) in relation to temperature, survey learners about their comfort levels and perceived impact on learning.

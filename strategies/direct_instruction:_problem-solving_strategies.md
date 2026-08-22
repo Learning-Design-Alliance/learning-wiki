@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Direct Instruction: Problem-solving Strategies"
+description: Instructors teach and model various strategies for tackling problems, then give learners the opportunity to choose which strategies they use and reflect on the outcomes of their choices.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Direct Instruction: Problem-solving Strategies
@@ -35,9 +39,9 @@ Instructors teach and model various strategies for tackling problems, then give 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the strategies learners choose and the outcomes of those choices. Analyze the quality of learners' reflections on their problem-solving processes.

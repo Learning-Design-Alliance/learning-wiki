@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connection of Prior Knowledge to New Learning
+description: Building connections to prior understandings and experiences to facilitate new learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connection of Prior Knowledge to New Learning
@@ -35,12 +39,12 @@ Building connections to prior understandings and experiences to facilitate new l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Activation](/elements/activation.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Assess learner prior knowledge through pre-assessments and discussions. Monitor the connections learners make between prior knowledge and new concepts. Gather feedback on the effectiveness of strategies for connecting prior knowledge.

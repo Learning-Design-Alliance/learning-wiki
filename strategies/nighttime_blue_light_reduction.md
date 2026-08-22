@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Nighttime Blue Light Reduction
+description: Reducing exposure to blue light from digital screens before bed can improve sleep quality and quantity, which enhances learning by preventing disruptions to sleep patterns and storage processes.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Nighttime Blue Light Reduction
@@ -35,8 +39,8 @@ Reducing exposure to blue light from digital screens before bed can improve slee
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track sleep patterns, alertness levels, and academic outcomes. Monitor screen time habits before bed.

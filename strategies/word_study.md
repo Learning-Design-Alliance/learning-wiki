@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Word Study
+description: Word study is an approach to spelling instruction that emphasizes the investigation and understanding of patterns in words rather than rote memorization.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Word Study
@@ -35,11 +39,11 @@ Word study is an approach to spelling instruction that emphasizes the investigat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess students' pattern knowledge rather than their ability to memorize single words. Evaluate their ability to transfer knowledge of spelling patterns to new words not explicitly taught. Monitor progress through word sorts, pattern hunts, and word study notebooks.

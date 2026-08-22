@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Developing Positive Classroom Pride
+description: Instilling pride is a powerful way to develop positive teacher-learner relationships.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Developing Positive Classroom Pride
@@ -35,9 +39,9 @@ Instilling pride is a powerful way to develop positive teacher-learner relations
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observation of positive classroom environment, respectful students, and increased participation.

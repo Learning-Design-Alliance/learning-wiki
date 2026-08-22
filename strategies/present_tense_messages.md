@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Present Tense Messages
+description: This strategy involves shifting the focus of internal dialogue from future anxieties to actionable steps in the present to manage overwhelming feelings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Present Tense Messages
@@ -35,8 +39,8 @@ This strategy involves shifting the focus of internal dialogue from future anxie
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track changes in self-reported anxiety levels using questionnaires or journals. Observe improvements in productivity, task completion, and proactive behavior. Analyze ability to identify and shift focus from future worries to present actions.

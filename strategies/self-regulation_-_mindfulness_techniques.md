@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Regulation - Mindfulness Techniques
+description: Incorporate mindfulness techniques to help learners manage their initial emotional impulses and reactivity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Regulation - Mindfulness Techniques
@@ -35,7 +39,7 @@ Incorporate mindfulness techniques to help learners manage their initial emotion
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
+- [Provide Guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Teachers can listen and observe students' emotions to evaluate whether or not the goal was achieved.

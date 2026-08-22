@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Primary Language Support with Bilingual Texts
+description: "Using bilingual picture books and resources in a learner's primary language to support their comprehension and engagement with new content."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Primary Language Support with Bilingual Texts
@@ -35,8 +39,8 @@ Using bilingual picture books and resources in a learner's primary language to s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Provide Guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and comprehension when using bilingual texts. Assess their ability to make connections between their primary language and the target language.

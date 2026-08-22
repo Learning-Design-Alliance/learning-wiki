@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reasoning-Focused Instruction
+description: De-emphasizing correct answers and focusing on the reasoning process can build student confidence and provide insight into problem-solving strategies.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reasoning-Focused Instruction
@@ -35,9 +39,9 @@ De-emphasizing correct answers and focusing on the reasoning process can build s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/cognitive-conflict|Cognitive Conflict]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Cognitive Conflict](/elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Evaluate the depth and clarity of students' explanations of their reasoning. Assess student engagement in discussions and their ability to identify errors in worked examples.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Ask Parents for Their Ideas
+description: Schools can include parents by regularly asking for feedback regarding issues of concern.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Ask Parents for Their Ideas
@@ -35,8 +39,8 @@ Schools can include parents by regularly asking for feedback regarding issues of
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/individual-response|Individual Response]]
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Individual Response](/elements/individual-response.md)
 
 ## Assessment Evidence
 - Track frequency of feedback, gather data on parent satisfaction

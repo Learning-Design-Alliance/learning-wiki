@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Peer Observation
+description: "Peer observation is a collaborative process where teachers observe each other's classroom practices to improve teaching and learning."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Peer Observation
@@ -35,9 +39,9 @@ Peer observation is a collaborative process where teachers observe each other's 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Observation/Shadowing](/elements/observationshadowing.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improvements in teaching practices, increased collaboration among teachers, and a more open and sharing school culture.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Drawing and Writing Developmental Stages
+description: "Understanding the developmental stages of drawing and writing can help educators tailor activities to match a child's current abilities."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Drawing and Writing Developmental Stages
@@ -35,10 +39,10 @@ Understanding the developmental stages of drawing and writing can help educators
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe a child's drawings and writing for characteristics of each developmental stage. Assess a child's ability to express ideas and tell stories through their art.

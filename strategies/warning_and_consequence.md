@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Warning and Consequence
+description: This technique involves giving high school students a clear warning that talking during the lesson will result in a consequence, such as taking time off their break.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Warning and Consequence
@@ -35,8 +39,8 @@ This technique involves giving high school students a clear warning that talking
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor classroom noise levels after implementing the warning system. Track the number of students kept behind for talking.

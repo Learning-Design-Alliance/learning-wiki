@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Debriefing Emotional Experiences
+description: Debriefing emotional experiences involves a structured discussion at the end of the day where each child expresses an emotion they experienced and shares the context.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Debriefing Emotional Experiences
@@ -35,9 +39,9 @@ Debriefing emotional experiences involves a structured discussion at the end of 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the frequency and depth of emotional expression. Track the use of emotion words and the ability to connect emotions with experiences.

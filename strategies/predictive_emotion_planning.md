@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Predictive Emotion Planning
+description: Learners anticipate emotions linked to upcoming activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Predictive Emotion Planning
@@ -35,9 +39,9 @@ Learners anticipate emotions linked to upcoming activities. Identifying potentia
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Practice](/elements/practice.md)
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track the use of coping strategies in real-time scenarios. Monitor changes in emotional responses over time. Assess the clarity and relevance of learner-developed plans.

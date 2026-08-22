@@ -1,8 +1,11 @@
 ---
 type: element
+title: Performance-Based Assessment
+description: Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Performance-Based Assessment
@@ -25,17 +28,17 @@ Performance-based assessment is the element in which learners demonstrate knowle
 - Assess applied competence, transfer, and integrated performance.
 
 ### Affordances
-- [[principles/competency-based-assessment|Competency-Based Assessment]]
-- [[principles/authentic-audiences-purposes|Authentic Audiences & Purposes]]
+- [Competency-Based Assessment](/principles/competency-based-assessment.md)
+- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md)
 
 ## Related Elements
-- [[elements/summative-assessment|Summative Assessment]]
-- [[elements/assessment|Assessment]]
-- [[elements/demonstration|Demonstration]]
+- [Summative Assessment](/elements/summative-assessment.md)
+- [Assessment](/elements/assessment.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Patterns That Use This Element
-- [[patterns/competency-based-learning|Competency-Based Learning]]
-- [[patterns/problem-based-learning|Problem-Based Learning]]
+- [Competency-Based Learning](/patterns/competency-based-learning.md)
+- [Problem-Based Learning](/patterns/problem-based-learning.md)
 
 ## Examples
 - Oral exams, presentations, live demonstrations, portfolios, and capstone performances.

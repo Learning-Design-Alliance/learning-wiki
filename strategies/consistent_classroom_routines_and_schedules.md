@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Consistent Classroom Routines and Schedules
+description: Maintaining predictable classroom routines and schedules provides students with a sense of security and predictability, which supports emotional regulation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Consistent Classroom Routines and Schedules
@@ -35,8 +39,8 @@ Maintaining predictable classroom routines and schedules provides students with 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/state-objectives|State objectives]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [State objectives](/elements/state-objectives.md)
 
 ## Assessment Evidence
 - Observe student behavior for signs of reduced anxiety and improved emotional regulation. Solicit student feedback on the helpfulness of the routines and schedules.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mini-Lessons on Features
+description: Create mini-lessons for each writing feature you want students to emulate (organization, title, sentence variety, imagery, evidence, introduction).
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mini-Lessons on Features
@@ -35,10 +39,10 @@ Create mini-lessons for each writing feature you want students to emulate (organ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Student writing samples demonstrating improved writing features. Participation in mini-lessons and activities. Student reflections on their learning process.

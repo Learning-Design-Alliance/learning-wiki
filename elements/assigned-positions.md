@@ -1,7 +1,11 @@
 ---
 type: element
+title: Assigned Positions
+description: Learners are assigned a specific stance on an issue and must argue from that perspective.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Assigned Positions
@@ -27,18 +31,18 @@ Learners are assigned a specific stance on an issue and must argue from that per
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/perspective-taking|Perspective-Taking]]
-- [[principles/cognitive-flexibility|Cognitive Flexibility]]
+- [Social Learning](/principles/social-learning.md)
+- [Perspective-Taking](/principles/perspective-taking.md)
+- [Cognitive Flexibility](/principles/cognitive-flexibility.md)
 
 ## Related Elements
-- [[elements/debate|Debate]]
-- [[elements/structured-academic-controversy|Structured Academic Controversy]]
-- [[elements/argumentation|Argumentation]]
+- [Debate](/elements/debate.md)
+- [Structured Academic Controversy](/elements/structured-academic-controversy.md)
+- [Argumentation](/elements/argumentation.md)
 
 ## Patterns That Use This Element
-- [[patterns/structured-academic-controversy|Structured Academic Controversy]]
-- [[patterns/debate|Debate]]
+- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
+- [Debate](/patterns/debate.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

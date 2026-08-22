@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Introduce Evaluation Concepts
+description: Introduce concepts like “relevance, accuracy, bias, and reliability” and using these terms regularly as a part of classroom discourse can help students get used to questioning sources and the motivations authors may have.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Introduce Evaluation Concepts
@@ -35,8 +39,8 @@ Introduce concepts like “relevance, accuracy, bias, and reliability” and usi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' ability to define and apply the concepts in discussions and source analyses. Assess their ability to identify relevance, accuracy, bias, and reliability in various sources.

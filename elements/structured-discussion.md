@@ -1,8 +1,16 @@
 ---
 type: element
+title: Structured Discussion
+description: Structured discussion is the element in which talk is guided by prompts, roles, turns, protocols, or evidence requirements rather than left entirely open.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: mercer-2004
+    resource: "https://doi.org/10.1080/01411920410001689689"
+    title: "Mercer, N., Dawes, L., Wegerif, R., & Sams, C. (2004). Reasoning as a scientist: Ways of helping children to use language to learn science. *British Educational Research Journal, 30*(3), 359-377"
+    author: "Mercer, N., Dawes, L., Wegerif, R., & Sams, C"
 ---
 
 # Structured Discussion
@@ -28,18 +36,18 @@ Structured discussion is the element in which talk is guided by prompts, roles, 
 - Improve quality of dialogue, reasoning, and equitable participation.
 
 ### Affordances
-- [[principles/social-learning|Social Learning]]
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/perspective-taking|Perspective-Taking]]
+- [Social Learning](/principles/social-learning.md)
+- [Peer Discussion](/principles/peer-discussion.md)
+- [Perspective-Taking](/principles/perspective-taking.md)
 
 ## Related Elements
-- [[elements/discussion-prompt|Discussion Prompt]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/socratic-questioning|Socratic Questioning]]
+- [Discussion Prompt](/elements/discussion-prompt.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Socratic Questioning](/elements/socratic-questioning.md)
 
 ## Patterns That Use This Element
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
-- [[patterns/structured-academic-controversy|Structured Academic Controversy]]
+- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
 
 ## Examples
 - Turn-and-talk with evidence stems.

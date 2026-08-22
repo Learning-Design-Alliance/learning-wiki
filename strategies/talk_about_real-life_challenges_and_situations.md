@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Talk About Real-Life Challenges and Situations
+description: Facilitating discussions about the challenges learners are facing and how they feel about those situations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Talk About Real-Life Challenges and Situations
@@ -35,8 +39,8 @@ Facilitating discussions about the challenges learners are facing and how they f
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Learners' ability to articulate their feelings and identify positive aspects of challenging situations. Self-reported changes in mindset and behavior.

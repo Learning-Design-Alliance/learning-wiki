@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Collect My Data
+description: Learners choose a category of items to collect data on, creating tally charts to record observations, and then graph the data to visualize findings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collect My Data
@@ -35,8 +39,8 @@ Learners choose a category of items to collect data on, creating tally charts to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/assess-performance|Assess performance]]
+- [Application](/elements/application.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to collect and organize data accurately. Evaluate the completeness and accuracy of the resulting graphs.

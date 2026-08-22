@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Varying Levels of Choice in Assessments
+description: Give students a choice about the areas of focus in a paper or project.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Varying Levels of Choice in Assessments
@@ -35,8 +39,8 @@ Give students a choice about the areas of focus in a paper or project. For in-cl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess Performance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Assess Performance](/elements/assess-performance.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluation of project outcomes, student reflections, and feedback surveys.

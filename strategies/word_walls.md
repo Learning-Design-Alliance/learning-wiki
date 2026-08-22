@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Word Walls
+description: Word walls are a strategy for supporting vocabulary development and retention by providing learners with constant access to important content vocabulary.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Word Walls
@@ -35,10 +39,10 @@ Word walls are a strategy for supporting vocabulary development and retention by
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learners' use of vocabulary words from the word wall in their writing and discussions. Assess their ability to define and explain the meanings of the words. Evaluate their understanding of the relationships between words on the word wall.

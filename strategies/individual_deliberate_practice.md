@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Individual Deliberate Practice
+description: Deliberate practice is a structured approach to skill development that focuses on intentional, effective, and consistent effort to improve performance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Individual Deliberate Practice
@@ -35,9 +39,9 @@ Deliberate practice is a structured approach to skill development that focuses o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/part-task-practice|Part-task practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
+- [Part-task practice](/elements/part-task-practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Track the number of hours spent practicing, improvements in specific skills, and the level of automaticity achieved. Observe changes in performance and the ability to take on more challenging tasks.

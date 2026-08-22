@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Augmented Reality (AR) in Classroom
+description: Augmented reality can be used to turn an ordinary class into an engaging experience.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Augmented Reality (AR) in Classroom
@@ -35,11 +39,11 @@ Augmented reality can be used to turn an ordinary class into an engaging experie
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Gain attention](/elements/gain-attention.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student engagement, retention of learned material, interaction during class.

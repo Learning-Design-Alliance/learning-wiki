@@ -1,7 +1,11 @@
 ---
 type: element
+title: Enhance retention and transfer
+description: Helps learners apply knowledge to new contexts through reflection and extension activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Enhance retention and transfer
@@ -27,18 +31,18 @@ Helps learners apply knowledge to new contexts through reflection and extension 
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/transfer-of-learning|Transfer of Learning]]
-- [[principles/constructivism|Constructivism]]
-- [[principles/reflection|Reflection]]
+- [Transfer of Learning](/principles/transfer-of-learning.md)
+- [Constructivism](/principles/constructivism.md)
+- [Reflection](/principles/reflection.md)
 
 ## Related Elements
-- [[elements/problem-solving-tasks|Problem-Solving Tasks]]
-- [[elements/analogies|Analogies]]
-- [[elements/case-studies|Case Studies]]
+- [Problem-Solving Tasks](/elements/problem-solving-tasks.md)
+- [Analogies](/elements/analogies.md)
+- [Case Studies](/elements/case-studies.md)
 
 ## Patterns That Use This Element
-- [[patterns/gagnés-9-events|Gagné’s 9 Events]]
-- [[patterns/merrills-first-principles-integration|Merrill’s First Principles (Integration)]]
+- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
+- [Merrill’s First Principles (Integration)](/patterns/merrills-first-principles-integration.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

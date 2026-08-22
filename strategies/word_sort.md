@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Word Sort
+description: Students work in small groups, with each group given an envelope containing key terms on separate slips of paper.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Word Sort
@@ -35,8 +39,8 @@ Students work in small groups, with each group given an envelope containing key 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/application|Application]]
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - A particularly good categorization in a final review of the material or position that chunk of content with what’s to be learned next.

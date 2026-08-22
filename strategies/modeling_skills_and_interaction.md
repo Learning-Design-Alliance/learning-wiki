@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Modeling Skills and Interaction
+description: Modeling involves demonstrating the skills you expect from your students, both in terms of interaction and analysis.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Modeling Skills and Interaction
@@ -35,9 +39,9 @@ Modeling involves demonstrating the skills you expect from your students, both i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/modeling|Modeling]]
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Modeling](/elements/modeling.md)
 
 ## Assessment Evidence
 - Improved student performance on assessments, increased quality of student work, and positive feedback on the clarity of the instruction.

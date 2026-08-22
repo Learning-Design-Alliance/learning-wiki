@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Model Reflection
+description: Students need to encounter reflective role models.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Model Reflection
@@ -35,8 +39,8 @@ Students need to encounter reflective role models. Modeling reflection can invol
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved student understanding of reflection and increased use of reflection strategies.

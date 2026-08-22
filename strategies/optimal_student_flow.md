@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Optimal Student Flow
+description: Organizing the classroom layout to match the flow of the day, such as moving from reading to math centers, can enhance efficiency.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Optimal Student Flow
@@ -35,7 +39,7 @@ Organizing the classroom layout to match the flow of the day, such as moving fro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student transitions and behavior in different learning centers. Gather feedback on the effectiveness of the classroom layout.

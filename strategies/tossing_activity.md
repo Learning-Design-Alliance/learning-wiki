@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Tossing Activity
+description: A hands-on activity that integrates movement with learning, often involving the physical act of tossing objects.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Tossing Activity
@@ -35,9 +39,9 @@ A hands-on activity that integrates movement with learning, often involving the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/gain-attention|Gain attention]]
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Gain attention](/elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation levels. Assess skill development through performance during the tossing activity. Monitor enjoyment and interest in the subject matter.

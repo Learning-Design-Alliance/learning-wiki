@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Relevant Vocabulary Instruction
+description: Instructors should present vocabulary that is useful and/or necessary for learners, based on their learning goals.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Relevant Vocabulary Instruction
@@ -35,8 +39,8 @@ Instructors should present vocabulary that is useful and/or necessary for learne
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Learners use new vocabulary in conversation or role play, write original sentences

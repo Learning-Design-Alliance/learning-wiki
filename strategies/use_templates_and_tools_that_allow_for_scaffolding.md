@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Use Templates and Tools That Allow for Scaffolding
+description: Using templates and tools that allow for scaffolding involves providing students with structured supports to guide their writing process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Use Templates and Tools That Allow for Scaffolding
@@ -35,10 +39,10 @@ Using templates and tools that allow for scaffolding involves providing students
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/whole-task-performance|Whole-task performance]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Whole-task performance](/elements/whole-task-performance.md)
 
 ## Assessment Evidence
 - Increased use of planning and organizational tools in student writing. Improved ability to construct well-organized writing. Enhanced confidence and independence.

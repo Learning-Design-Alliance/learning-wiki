@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Sensory Stimulation
+description: "Sensory stimulation involves providing experiences that engage a person's senses to improve regulation, attention, and focus."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Sensory Stimulation
@@ -35,8 +39,8 @@ Sensory stimulation involves providing experiences that engage a person's senses
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe changes in attention, focus, fidgeting, and behavior. Monitor the frequency and purpose of fidget use, as well as feedback from learners about the effectiveness of different sensory tools.

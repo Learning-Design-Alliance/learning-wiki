@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Awareness - Journal Reflections
+description: This activity involves having learners think back on their experiences and outcomes, which helps provide them with a greater understanding of themselves.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Awareness - Journal Reflections
@@ -35,7 +39,7 @@ This activity involves having learners think back on their experiences and outco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Teachers can read and observe students' journal writing to evaluate whether or not the goal was achieved.

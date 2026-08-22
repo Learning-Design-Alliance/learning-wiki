@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mindfulness Techniques
+description: Incorporate mindfulness techniques to help students manage their initial emotional impulses and reactivity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mindfulness Techniques
@@ -35,8 +39,8 @@ Incorporate mindfulness techniques to help students manage their initial emotion
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe changes in emotional reactivity, track the frequency and intensity of emotional outbursts, assess the learner's ability to use mindfulness techniques to manage emotions in real-time.

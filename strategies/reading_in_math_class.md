@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reading in Math Class
+description: "Have students read articles from sources such as Math Horizons or Martin Gardner's Scientific American columns."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reading in Math Class
@@ -35,8 +39,8 @@ Have students read articles from sources such as Math Horizons or Martin Gardner
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/demonstration|Demonstration]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Assess learners' ability to summarize and analyze the articles they read. Look for improvements in their own writing about math.

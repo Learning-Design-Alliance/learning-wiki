@@ -1,7 +1,11 @@
 ---
 type: element
+title: Peer Explanation
+description: Learners verbalize their thinking to peers, strengthening their own understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Peer Explanation
@@ -27,18 +31,18 @@ Learners verbalize their thinking to peers, strengthening their own understandin
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-constructivism|Social Constructivism]]
-- [[principles/metacognition|Metacognition]]
-- [[principles/peer-learning|Peer Learning]]
+- [Social Constructivism](/principles/social-constructivism.md)
+- [Metacognition](/principles/metacognition.md)
+- [Peer Learning](/principles/peer-learning.md)
 
 ## Related Elements
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/reciprocal-teaching|Reciprocal Teaching]]
-- [[elements/social-learning|Social Learning]]
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Reciprocal Teaching](/elements/reciprocal-teaching.md)
+- [Social Learning](/elements/social-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/cgi-for-math|CGI for Math]]
-- [[patterns/pogil|POGIL]]
+- [CGI for Math](/patterns/cgi-for-math.md)
+- [POGIL](/patterns/pogil.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

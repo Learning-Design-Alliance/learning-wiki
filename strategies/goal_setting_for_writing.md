@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Goal Setting for Writing
+description: Setting clear goals for writing, encouraging peer support, self-assessment, and providing feedback on progress.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Goal Setting for Writing
@@ -35,10 +39,10 @@ Setting clear goals for writing, encouraging peer support, self-assessment, and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [State objectives](/elements/state-objectives.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Increased writing quality, improved self-assessment accuracy, greater goal attainment

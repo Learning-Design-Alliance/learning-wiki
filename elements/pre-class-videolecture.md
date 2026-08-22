@@ -1,7 +1,11 @@
 ---
 type: element
+title: Pre-Class Video/Lecture
+description: Instructional content is delivered via video or recorded lecture before in-class activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-Class Video/Lecture
@@ -27,18 +31,18 @@ Instructional content is delivered via video or recorded lecture before in-class
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/cognitive-load-theory|Cognitive Load Theory]]
-- [[principles/flipped-learning|Flipped Learning]]
-- [[principles/direct-instruction|Direct Instruction]]
+- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
+- [Flipped Learning](/principles/flipped-learning.md)
+- [Direct Instruction](/principles/direct-instruction.md)
 
 ## Related Elements
-- [[elements/flipped-classroom|Flipped Classroom]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/multimedia-learning|Multimedia Learning]]
+- [Flipped Classroom](/elements/flipped-classroom.md)
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Multimedia Learning](/elements/multimedia-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/flipped-classroom|Flipped Classroom]]
-- [[patterns/blended-learning|Blended Learning]]
+- [Flipped Classroom](/patterns/flipped-classroom.md)
+- [Blended Learning](/patterns/blended-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

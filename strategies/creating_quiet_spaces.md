@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating Quiet Spaces
+description: Creating quiet spaces involves designating areas in the learning environment where learners can retreat for individual reflection, focused work, or relaxation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating Quiet Spaces
@@ -35,8 +39,8 @@ Creating quiet spaces involves designating areas in the learning environment whe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner use of quiet spaces and their impact on behavior. Collect learner feedback on the effectiveness of quiet spaces in promoting well-being and concentration. Measure learner stress levels and compare outcomes in environments with quiet spaces versus those without quiet spaces.

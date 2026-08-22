@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Prepare Instructions Carefully
+description: Plan and organize instructions beforehand, grouping similar tasks together to streamline the instruction-giving process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Prepare Instructions Carefully
@@ -35,8 +39,8 @@ Plan and organize instructions beforehand, grouping similar tasks together to st
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/state-objectives|State objectives]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [State objectives](/elements/state-objectives.md)
 
 ## Assessment Evidence
 - Observe clarity and organization of instruction delivery.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "\"Document Outline\" Tool"
+description: "Students use the \"Document outline\" tool in Google Docs to extract evidence supporting the main ideas they've found in a text."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # "Document Outline" Tool
@@ -35,9 +39,9 @@ Students use the "Document outline" tool in Google Docs to extract evidence supp
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/argument-construction|Argument Construction]]
-- [[elements/application-of-knowledge|Application of Knowledge]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Argument Construction](/elements/argument-construction.md)
+- [Application of Knowledge](/elements/application-of-knowledge.md)
 
 ## Assessment Evidence
 - Quality of the outline, accuracy of the extracted evidence, and depth of analysis.

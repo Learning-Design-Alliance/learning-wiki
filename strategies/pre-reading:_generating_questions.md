@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Pre-reading: Generating Questions"
+description: Generating a list of pre-reading questions that will help learners achieve their purpose for reading.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-reading: Generating Questions
@@ -35,7 +39,7 @@ Generating a list of pre-reading questions that will help learners achieve their
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/question-formulation|Question Formulation]]
+- [Question Formulation](/elements/question-formulation.md)
 
 ## Assessment Evidence
 - Learners are active and engaged in learning and have questions about the reading materials.

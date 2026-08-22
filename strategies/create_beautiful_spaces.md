@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Create Beautiful Spaces
+description: Transforming schools into beautiful spaces by displaying high-quality student work from projects can have a transformative impact, especially for students whose communities and homes are not always beautiful places.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Create Beautiful Spaces
@@ -35,8 +39,8 @@ Transforming schools into beautiful spaces by displaying high-quality student wo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/public-product|Public Product]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Public Product](/elements/public-product.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Evaluate the impact of the school environment on student engagement and motivation. Assess student pride and ownership of their school building. Review student reflections on the impact of the school environment.

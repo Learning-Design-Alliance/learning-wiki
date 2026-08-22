@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Flexible Seating Patterns and Configurations
+description: Providing a variety of different furniture that allows students to work in different areas, depending on the project or time of day.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Flexible Seating Patterns and Configurations
@@ -35,8 +39,8 @@ Providing a variety of different furniture that allows students to work in diffe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/application|Application]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

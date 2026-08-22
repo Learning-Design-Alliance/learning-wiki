@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Write with a Transition Handout
+description: Before learners write, provide a handout of transitions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Write with a Transition Handout
@@ -35,8 +39,8 @@ Before learners write, provide a handout of transitions. Model where transitions
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Review student writing for effective use of transitions.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Inhibition Support Strategies
+description: These are strategies used to leverage student strengths in order to address challenges with inhibition, such as the ability to suppress attention to irrelevant input and to focus on pertinent stimuli or information.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Inhibition Support Strategies
@@ -35,8 +39,8 @@ These are strategies used to leverage student strengths in order to address chal
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track changes in focus, behavior, and self-reported stress levels. Observe engagement and participation during activities.

@@ -1,7 +1,11 @@
 ---
 type: element
+title: Final Exam
+description: "A cumulative assessment evaluating learners' mastery of the entire course material."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Final Exam
@@ -27,17 +31,17 @@ A cumulative assessment evaluating learners' mastery of the entire course materi
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/competency-based-assessment|Competency-Based Assessment]]
-- [[principles/mastery-learning|Mastery Learning]]
-- [[principles/summative-assessment|Summative Assessment]]
+- [Competency-Based Assessment](/principles/competency-based-assessment.md)
+- [Mastery Learning](/principles/mastery-learning.md)
+- [Summative Assessment](/principles/summative-assessment.md)
 
 ## Related Elements
-- [[elements/summative-assessment|Summative Assessment]]
-- [[elements/performance-based-assessment|Performance-Based Assessment]]
+- [Summative Assessment](/elements/summative-assessment.md)
+- [Performance-Based Assessment](/elements/performance-based-assessment.md)
 
 ## Patterns That Use This Element
-- [[patterns/competency-based-learning|Competency-Based Learning]]
-- [[patterns/summative-assessment|Summative Assessment]]
+- [Competency-Based Learning](/patterns/competency-based-learning.md)
+- [Summative Assessment](/patterns/summative-assessment.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

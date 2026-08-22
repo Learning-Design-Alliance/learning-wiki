@@ -1,10 +1,17 @@
 ---
 type: claim
-id: example-problem-sequences-reduce-cognitive-load
+title: Example-problem sequences reduce cognitive load and improve learning outcomes.
 status: review
-last_edited: 2026-04-07
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: van-gog-et-al-2011
+    resource: "https://doi.org/10.1016/j.cedpsych.2010.10.004"
+    title: "Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212-218. [https://doi.org/10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)"
+    author: "Van Gog, T., Kester, L., & Paas, F"
+id: example-problem-sequences-reduce-cognitive-load
 evidence_strength: moderate
-edited_by: Codex
 ---
 
 # Example-problem sequences reduce cognitive load and improve learning outcomes.
@@ -30,9 +37,9 @@ Novices in all example-based conditions outperformed the problem-only condition 
 
 ## Discussion
 
-This page exists because multiple principle and index pages reference `[[claims/example-problem-sequences-reduce-cognitive-load]]`. The fuller treatment of the same claim is in [[claims/worked-examples-example-problem-sequences]].
+This page exists because multiple principle and index pages reference `[Example-problem sequences reduce cognitive load and improve learning outcomes.](/claims/example-problem-sequences-reduce-cognitive-load.md)`. The fuller treatment of the same claim is in [Example–problem sequences reduce cognitive load and improve learning outcomes](/claims/worked-examples-example-problem-sequences.md).
 
 ## Related Claims
-- [[claims/worked-examples-reduce-novice-search]]
-- [[claims/worked-examples-with-practice-improve-transfer]]
-- [[claims/worked-examples-example-problem-sequences]]
+- [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md)
+- [Pairing worked examples with practice or fading supports transfer better than examples alone.](/claims/worked-examples-with-practice-improve-transfer.md)
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](/claims/worked-examples-example-problem-sequences.md)

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Songwriting
+description: Songwriting involves students creating their own verses or entire songs to enhance language development, phonemic awareness, and vocabulary.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Songwriting
@@ -35,10 +39,10 @@ Songwriting involves students creating their own verses or entire songs to enhan
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Evaluate student illustrations and verses for accuracy and creativity. Track letter sounds and vocabulary words used correctly. Observe engagement and participation during songwriting and illustration activities.

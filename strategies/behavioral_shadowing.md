@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Behavioral Shadowing
+description: "An adult shadows a child closely (within arm's reach) to prevent specific harmful behaviors (e.g., biting, hitting) before they occur."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Behavioral Shadowing
@@ -35,10 +39,10 @@ An adult shadows a child closely (within arm's reach) to prevent specific harmfu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/modeling|Modeling]]
+- [Observation/Shadowing](/elements/observationshadowing.md)
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Modeling](/elements/modeling.md)
 
 ## Assessment Evidence
 - Reduction in the frequency of target behaviors, increased use of alternative communication strategies, improved social interactions, and a safer classroom environment. Data can be collected through direct observation and incident reports.

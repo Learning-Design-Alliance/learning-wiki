@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Process Writing Approach
+description: Includes many related activities, including a greatly increased quantity of writing (only some of which is completed to publication) and a focus on writing throughout the course, along with mini-lessons on embedded skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Process Writing Approach
@@ -35,9 +39,9 @@ Includes many related activities, including a greatly increased quantity of writ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased fluency, greater skill mastery

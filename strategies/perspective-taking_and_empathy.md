@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Perspective-taking and Empathy
+description: Take the time to consider each student’s perspective and the challenges they may be facing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Perspective-taking and Empathy
@@ -35,8 +39,8 @@ Take the time to consider each student’s perspective and the challenges they m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe interactions, monitor communication patterns, gather feedback from students and colleagues

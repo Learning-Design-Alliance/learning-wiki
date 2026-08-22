@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Increase Student Language Production
+description: Increase student-to-student interaction with academic language.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Increase Student Language Production
@@ -35,8 +39,8 @@ Increase student-to-student interaction with academic language. Have students tr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/practice|Practice]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Monitor student participation in discussions, review writing samples

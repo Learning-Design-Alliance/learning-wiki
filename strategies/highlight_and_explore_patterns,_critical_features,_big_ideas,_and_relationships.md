@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Highlight and Explore Patterns, Critical Features, Big Ideas, and Relationships
+description: Accentuating important information and how it relates to the learning goal helps learners focus their attention and understand the key concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Highlight and Explore Patterns, Critical Features, Big Ideas, and Relationships
@@ -35,8 +39,8 @@ Accentuating important information and how it relates to the learning goal helps
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/advance-organizers|Advance Organizers]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Advance Organizers](/elements/advance-organizers.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of key concepts through discussions or written assignments. Track improvements in comprehension and knowledge organization.

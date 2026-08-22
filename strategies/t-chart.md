@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: T-Chart
+description: A T-chart is a graphic organizer shaped like the letter T, with a horizontal line at the top to signify a broad category and a vertical line that allows learners to compare attributes of a concept, organism, or phenomenon.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # T-Chart
@@ -35,10 +39,10 @@ A T-chart is a graphic organizer shaped like the letter T, with a horizontal lin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Accuracy and completeness of the information recorded on the T-chart. Ability to identify key similarities and differences between the two aspects being compared. Clarity and organization of the information presented.

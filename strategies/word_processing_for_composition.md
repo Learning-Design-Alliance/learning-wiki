@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Word Processing for Composition
+description: Word processing involves using computer software to write, edit, and format text.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Word Processing for Composition
@@ -35,9 +39,9 @@ Word processing involves using computer software to write, edit, and format text
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Improved composition quality, increased student engagement in writing activities, and frequency of feedback exchanged between students and teachers.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Through the Eyes of the People in a Story
+description: Learners pick a character from a short story or book and relive the main events from that character’s point of view.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Through the Eyes of the People in a Story
@@ -35,10 +39,10 @@ Learners pick a character from a short story or book and relive the main events 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/role-reversal|Role Reversal]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Role Reversal](/elements/role-reversal.md)
 
 ## Assessment Evidence
 - Assess the depth of analysis, the accuracy of interpretation, and the level of empathy demonstrated in the analysis. Monitor changes in learners' attitudes towards different characters and themes.

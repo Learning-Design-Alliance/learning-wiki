@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Organizing Information and Taking Notes
+description: This strategy involves effectively structuring and recording information to enhance understanding and retention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Organizing Information and Taking Notes
@@ -35,9 +39,9 @@ This strategy involves effectively structuring and recording information to enha
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Quality of notes, ability to summarize and synthesize information, performance on comprehension tasks

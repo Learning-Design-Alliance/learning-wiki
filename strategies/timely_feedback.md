@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Timely Feedback
+description: Timely feedback involves providing feedback as soon as possible after the learner demonstrates proof of learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Timely Feedback
@@ -35,7 +39,7 @@ Timely feedback involves providing feedback as soon as possible after the learne
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe changes in learner performance. Track learner progress. Analyze the effectiveness of timely feedback.

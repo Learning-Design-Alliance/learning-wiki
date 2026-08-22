@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Complete Scripts of Academic Routines
+description: Provide scaffolding, like speech examples, for discourse routines that may not be obvious to learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Complete Scripts of Academic Routines
@@ -35,8 +39,8 @@ Provide scaffolding, like speech examples, for discourse routines that may not b
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner presentations for clarity and organization.

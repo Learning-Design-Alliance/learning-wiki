@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Needs and Wants Assessment with Likert Scales
+description: Using Likert scales and fill-in questions to gauge student interest and understanding allows educators to inform their planning based on student needs.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Needs and Wants Assessment with Likert Scales
@@ -35,9 +39,9 @@ Using Likert scales and fill-in questions to gauge student interest and understa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Analyze student responses to identify areas of interest and understanding. Track student engagement and motivation levels.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Tiered Vocabulary Instruction
+description: Tiered vocabulary instruction categorizes words into three tiers based on their frequency and utility.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Tiered Vocabulary Instruction
@@ -35,9 +39,9 @@ Tiered vocabulary instruction categorizes words into three tiers based on their 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Track learner use of Tier Two words in writing and speaking. Assess comprehension of texts containing Tier Two words. Monitor engagement and participation in activities focused on vocabulary development.

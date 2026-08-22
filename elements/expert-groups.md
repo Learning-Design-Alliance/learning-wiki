@@ -1,7 +1,11 @@
 ---
 type: element
+title: Expert Groups
+description: Learners become subject-matter experts on a topic and teach their peers.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Expert Groups
@@ -27,17 +31,17 @@ Learners become subject-matter experts on a topic and teach their peers.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-constructivism|Social Constructivism]]
-- [[principles/distributed-cognition|Distributed Cognition]]
+- [Social Constructivism](/principles/social-constructivism.md)
+- [Distributed Cognition](/principles/distributed-cognition.md)
 
 ## Related Elements
-- [[elements/jigsaw-learning|Jigsaw Learning]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
+- [Jigsaw Learning](/elements/jigsaw-learning.md)
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
 
 ## Patterns That Use This Element
-- [[patterns/jigsaw|Jigsaw]]
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
+- [Jigsaw](/patterns/jigsaw.md)
+- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

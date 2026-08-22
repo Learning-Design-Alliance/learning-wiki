@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Address Stereotypical Beliefs About Parents and Poverty
+description: Teachers and educators should challenge and avoid stereotypical beliefs about parents and families living in poverty.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Address Stereotypical Beliefs About Parents and Poverty
@@ -35,8 +39,8 @@ Teachers and educators should challenge and avoid stereotypical beliefs about pa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Monitor changes in attitudes and behaviors. Gather feedback from parents and educators.

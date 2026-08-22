@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Morphological Instruction
+description: Instruction that makes students aware of inflections (–ed, –s, –es, –ing, –er, –est, which are also called grammatical suffixes), morphemes that change the number, person, or tense of the word to which they are added, but they do not…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Morphological Instruction
@@ -35,9 +39,9 @@ Instruction that makes students aware of inflections (–ed, –s, –es, –ing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Assess accuracy in spelling words with inflections and other morphemes. Monitor progress in spelling and vocabulary skills.

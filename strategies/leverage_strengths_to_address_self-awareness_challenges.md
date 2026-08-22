@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leverage Strengths to Address Self-Awareness Challenges
+description: Educator identifies specific student strengths and/or challenges related to self- awareness, and uses/justifies aligned strategies to leverage student strengths to support student learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leverage Strengths to Address Self-Awareness Challenges
@@ -35,9 +39,9 @@ Educator identifies specific student strengths and/or challenges related to self
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe changes in self-awareness, track progress toward goals

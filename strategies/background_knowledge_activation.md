@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Background Knowledge Activation
+description: "Before engaging in text-based discussions, instructors activate learners' background knowledge related to the text's setting and themes."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Background Knowledge Activation
@@ -35,8 +39,8 @@ Before engaging in text-based discussions, instructors activate learners' backgr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/activation|Activation]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Activation](/elements/activation.md)
 
 ## Assessment Evidence
 - Observe learner participation and analyze connections made during discussions.

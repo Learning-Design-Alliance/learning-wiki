@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Training Handouts
+description: Training handouts are supplementary materials distributed during training sessions to enhance learner engagement, structure interactions, and provide a reference for key content.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Training Handouts
@@ -35,10 +39,10 @@ Training handouts are supplementary materials distributed during training sessio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/discussion-sections|Discussion Sections]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Discussion Sections](/elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Observe learner engagement with handouts during the session. Collect feedback on the usefulness of handouts. Assess retention of key content after the session.

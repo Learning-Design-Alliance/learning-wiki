@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Implicit Vocabulary Instruction
+description: "Implicit vocabulary instruction involves teaching words 'in the moment' using heavy context, often with Tier III words."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Implicit Vocabulary Instruction
@@ -35,10 +39,10 @@ Implicit vocabulary instruction involves teaching words 'in the moment' using he
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/lectures|Lectures]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Lectures](/elements/lectures.md)
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' ability to use context to understand new words. Monitor comprehension of texts containing implicitly taught vocabulary.

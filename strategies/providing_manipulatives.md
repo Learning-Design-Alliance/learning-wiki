@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Providing Manipulatives
+description: Providing manipulatives to help make complex concepts concrete supports understanding and processing, particularly in subjects like math or science.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Providing Manipulatives
@@ -35,8 +39,8 @@ Providing manipulatives to help make complex concepts concrete supports understa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/concrete-modeling|Concrete modeling]]
-- [[elements/representational-drawing|Representational drawing]]
+- [Concrete modeling](/elements/concrete-modeling.md)
+- [Representational drawing](/elements/representational-drawing.md)
 
 ## Assessment Evidence
 - Observe student understanding through manipulation and interaction. Assess improvement in comprehension through problem-solving tasks.

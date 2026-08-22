@@ -1,8 +1,11 @@
 ---
 type: element
+title: Flipped Classroom
+description: Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Flipped Classroom
@@ -11,9 +14,9 @@ edited_by: Codex
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
 
 ## Affordances
-- [[principles/flipped-learning|Flipped Learning]]
-- [[principles/digital-learning|Digital Learning]]
+- [Flipped Learning](/principles/flipped-learning.md)
+- [Digital Learning](/principles/digital-learning.md)
 
 ## Related Elements
-- [[elements/pre-class-preparation|Pre-Class Preparation]]
-- [[elements/in-class-activities|In-Class Activities]]
+- [Pre-Class Preparation](/elements/pre-class-preparation.md)
+- [In-Class Activities](/elements/in-class-activities.md)

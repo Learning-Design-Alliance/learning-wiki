@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Brain-Based Classroom Redesign
+description: Redesigning the classroom environment based on brain-based methods involves creating a space that supports reflective thinking, movement, choice, and collaboration.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Brain-Based Classroom Redesign
@@ -35,11 +39,11 @@ Redesigning the classroom environment based on brain-based methods involves crea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased room for movement and collaboration, more natural time for reflection, improved emotional feel of the space, inspiring and welcoming atmosphere

@@ -1,7 +1,11 @@
 ---
 type: element
+title: Peer Discussion
+description: Learners engage in structured conversations with classmates to explore and refine ideas.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Peer Discussion
@@ -27,19 +31,19 @@ Learners engage in structured conversations with classmates to explore and refin
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/constructivism|Constructivism]]
-- [[principles/perspective-taking|Perspective-Taking]]
+- [Social Learning](/principles/social-learning.md)
+- [Constructivism](/principles/constructivism.md)
+- [Perspective-Taking](/principles/perspective-taking.md)
 
 ## Related Elements
-- [[elements/socratic-questioning|Socratic Questioning]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Socratic Questioning](/elements/socratic-questioning.md)
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
 
 ## Patterns That Use This Element
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[patterns/peer-instruction|Peer Instruction]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Peer Instruction](/patterns/peer-instruction.md)
+- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

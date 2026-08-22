@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Shadowing for Behavior Adjustment
+description: Shadowing is a strategy used to address harmful behaviors in children, such as biting or hitting.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Shadowing for Behavior Adjustment
@@ -35,8 +39,8 @@ Shadowing is a strategy used to address harmful behaviors in children, such as b
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Observation/Shadowing](/elements/observationshadowing.md)
+- [Provide Guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - The primary measure of effectiveness is the reduction or elimination of the targeted behavior. Progress is tracked by monitoring incidents and noting the child's development of alternative social skills.

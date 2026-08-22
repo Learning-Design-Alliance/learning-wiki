@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Journal Reflections for Self-Awareness
+description: This strategy involves having students think back on their experiences and outcomes and then record them in a journal.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Journal Reflections for Self-Awareness
@@ -35,8 +39,8 @@ This strategy involves having students think back on their experiences and outco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Review student journal entries to assess their level of self-awareness, metacognition, and goal-setting skills. Look for evidence of reflection on experiences, identification of patterns, and articulation of learning goals.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Racial Equity in PBL - Spark Engagement with Student-Generated Questions
+description: Projects driven by student-generated questions result in increased engagement and investment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Racial Equity in PBL - Spark Engagement with Student-Generated Questions
@@ -35,7 +39,7 @@ Projects driven by student-generated questions result in increased engagement an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/question-formulation|Question Formulation]]
+- [Question Formulation](/elements/question-formulation.md)
 
 ## Assessment Evidence
 - Student participation, investment in project, quality of student-generated questions.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Racial Equity in PBL - Expect Excellence
+description: A belief in excellence, demonstrated by setting high expectations, is the fuel that runs a successful PBL culture.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Racial Equity in PBL - Expect Excellence
@@ -35,8 +39,8 @@ A belief in excellence, demonstrated by setting high expectations, is the fuel t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
-- [[elements/coaching|Coaching]]
+- [Modeling](/elements/modeling.md)
+- [Coaching](/elements/coaching.md)
 
 ## Assessment Evidence
 - Student achievement, demonstration of growth, meeting of high expectations.

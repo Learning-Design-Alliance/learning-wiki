@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mindfulness Techniques for Self-Regulation
+description: This approach incorporates mindfulness techniques to help students manage their initial emotional impulses and reactivity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mindfulness Techniques for Self-Regulation
@@ -35,9 +39,9 @@ This approach incorporates mindfulness techniques to help students manage their 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Monitor the student’s ability to manage emotions and responses; track frequency of mindfulness practice; observe changes in reactivity

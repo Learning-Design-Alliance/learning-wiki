@@ -1,8 +1,11 @@
 ---
 type: principle
+title: Constructivist Learning
+description: Constructivist learning is the short-form canonical target for instructional links that emphasize learners actively building meaning through explanation, comparison, inquiry, and revision.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 ---
 
 # Constructivist Learning
@@ -11,7 +14,7 @@ edited_by: Codex
 Constructivist learning is the short-form canonical target for instructional links that emphasize learners actively building meaning through explanation, comparison, inquiry, and revision.
 
 ## Implications
-Constructivist learning implies that understanding strengthens when learners do more than receive information: they explain, compare, test, and revise their ideas against evidence or feedback. Self-explanation in particular often improves conceptual understanding because it forces learners to make relationships and assumptions explicit [[claims/self-explanation-improves-conceptual-understanding]] [+S]. The practical design consequence is that activity alone is not enough; tasks need comparison, feedback, or social checking so misconceptions are surfaced rather than simply rehearsed.
+Constructivist learning implies that understanding strengthens when learners do more than receive information: they explain, compare, test, and revise their ideas against evidence or feedback. Self-explanation in particular often improves conceptual understanding because it forces learners to make relationships and assumptions explicit [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. The practical design consequence is that activity alone is not enough; tasks need comparison, feedback, or social checking so misconceptions are surfaced rather than simply rehearsed.
 
 ### Context
 #### Requirements
@@ -26,13 +29,13 @@ Constructivist learning implies that understanding strengthens when learners do 
 
 ### Theory
 #### Supporting
-- [[theories/constructivism|Constructivism]]
+- [Constructivism](/theories/constructivism.md)
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — active meaning-making is strongest when learners explain the relationships and assumptions inside their own understanding
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — active meaning-making is strongest when learners explain the relationships and assumptions inside their own understanding
 
 ## Related Principles
-- [[principles/constructivism|Constructivism]]
+- [Constructivism](/principles/constructivism.md)
 
 ## Examples
 - After a physics demonstration, learners explain why two objects accelerated differently, compare explanations with peers, and revise them after seeing force diagrams.

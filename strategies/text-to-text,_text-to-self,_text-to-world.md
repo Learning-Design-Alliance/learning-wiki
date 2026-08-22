@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Text-to-Text, Text-to-Self, Text-to-World
+description: Text-to-Text, Text-to-Self, Text-to-World is a strategy that helps learners connect ideas in a text to their own experiences and beliefs (text-to-self), events happening in the world (text-to-world), and other texts they have encountered…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Text-to-Text, Text-to-Self, Text-to-World
@@ -35,9 +39,9 @@ Text-to-Text, Text-to-Self, Text-to-World is a strategy that helps learners conn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Depth and relevance of connections made by learners, participation in discussions, quality of written reflections.

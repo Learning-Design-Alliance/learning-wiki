@@ -1,7 +1,11 @@
 ---
 type: element
+title: Reassessment
+description: Learners revisit and revise their responses after discussion or additional learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reassessment
@@ -27,18 +31,18 @@ Learners revisit and revise their responses after discussion or additional learn
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/metacognition|Metacognition]]
-- [[principles/self-regulated-learning|Self-Regulated Learning]]
-- [[principles/constructivist-learning|Constructivist Learning]]
+- [Metacognition](/principles/metacognition.md)
+- [Self-Regulated Learning](/principles/self-regulated-learning.md)
+- [Constructivist Learning](/principles/constructivist-learning.md)
 
 ## Related Elements
-- [[elements/peer-instruction|Peer Instruction]]
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/metacognitive-reflection|Metacognitive Reflection]]
+- [Peer Instruction](/elements/peer-instruction.md)
+- [Formative Assessment](/elements/formative-assessment.md)
+- [Metacognitive Reflection](/elements/metacognitive-reflection.md)
 
 ## Patterns That Use This Element
-- [[patterns/peer-instruction|Peer Instruction]]
-- [[patterns/formative-assessment|Formative Assessment]]
+- [Peer Instruction](/patterns/peer-instruction.md)
+- [Formative Assessment](/patterns/formative-assessment.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Digital Word Detectives: Building Vocabulary With e-Book Readers"
+description: Students read e-books and use digital tools (dictionaries and notes) to support their vocabulary development.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Digital Word Detectives: Building Vocabulary With e-Book Readers
@@ -35,13 +39,13 @@ Students read e-books and use digital tools (dictionaries and notes) to support 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Vocabulary Pre-Assessment handouts, vocabulary observation form, digital reading tools assessment.

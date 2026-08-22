@@ -1,7 +1,11 @@
 ---
 type: element
+title: Research
+description: Learners conduct investigations to explore topics, gather evidence, and develop conclusions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Research
@@ -27,18 +31,18 @@ Learners conduct investigations to explore topics, gather evidence, and develop 
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
-- [[principles/constructivism|Constructivism]]
-- [[principles/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Constructivism](/principles/constructivism.md)
+- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [[elements/inquiry-based-learning|Inquiry-Based Learning]]
-- [[elements/literature-review|Literature Review]]
-- [[elements/data-analysis|Data Analysis]]
+- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
+- [Literature Review](/elements/literature-review.md)
+- [Data Analysis](/elements/data-analysis.md)
 
 ## Patterns That Use This Element
-- [[patterns/problem-based-learning|Problem-Based Learning]]
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
+- [Problem-Based Learning](/patterns/problem-based-learning.md)
+- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

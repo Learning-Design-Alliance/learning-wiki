@@ -1,8 +1,28 @@
 ---
 type: principle
+title: Strengths-based Approach
+description: A strengths-based approach starts from the assumption that learners bring assets, knowledge, strategies, identities, and capabilities that instruction should recognize and build on.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: garwood-2019
+    resource: "https://doi.org/10.1177/1053451219837737"
+    title: "Garwood, J. D., & Ampuja, A. A. (2019). Inclusion of students with learning, emotional, and behavioral disabilities through strength-based approaches. *Intervention in School and Clinic, 55*(1), 46-51"
+    author: "Garwood, J. D., & Ampuja, A. A"
+  - id: linkins-2015
+    resource: "https://doi.org/10.1080/17439760.2014.888581"
+    title: "Linkins, M., Niemiec, R. M., Gillham, J., & Mayerson, D. (2015). Through the lens of strength: A framework for educating the heart. *The Journal of Positive Psychology, 10*(1), 64-68"
+    author: "Linkins, M., Niemiec, R. M., Gillham, J., & Mayerson, D"
+  - id: lopez-2009
+    resource: "https://doi.org/10.2202/1940-1639.1041"
+    title: "Lopez, S. J., & Louis, M. C. (2009). The principles of strengths-based education. *Journal of College and Character, 10*(4)"
+    author: "Lopez, S. J., & Louis, M. C"
+  - id: uink-2021
+    resource: "https://doi.org/10.1080/07294360.2020.1735313"
+    title: "Uink, B., Bennett, R., & van den Berg, C. (2021). Factors that enable Australian Aboriginal women's persistence at university: A strengths-based approach. *Higher Education Research & Development, 40*(1), 178-193"
+    author: "Uink, B., Bennett, R., & van den Berg, C"
 ---
 
 # Strengths-based Approach
@@ -13,7 +33,7 @@ A strengths-based approach starts from the assumption that learners bring assets
 In practice, a strengths-based approach changes how instructors frame feedback, design participation, interpret prior experience, and assign responsibility. Learners are more likely to persist when they see themselves as capable contributors whose existing resources matter. The approach is especially important in contexts where learners have been historically pathologized, underestimated, or reduced to labels.
 
 ## Implications
-A strengths-based approach improves learning when instructors make existing capability visible and connect it to next-step growth. Naming what learners can already do can strengthen goal commitment and make challenging work feel more attainable [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S], while structured reflection on effective strategies can support more deliberate self-regulation [[claims/self-monitoring-improves-self-regulation]] [~M]. The main caution is that strengths-based teaching is not generic positivity: it has to identify usable assets without denying barriers or freezing learners into static “strength” roles.
+A strengths-based approach improves learning when instructors make existing capability visible and connect it to next-step growth. Naming what learners can already do can strengthen goal commitment and make challenging work feel more attainable [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S], while structured reflection on effective strategies can support more deliberate self-regulation [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. The main caution is that strengths-based teaching is not generic positivity: it has to identify usable assets without denying barriers or freezing learners into static “strength” roles.
 
 ### Context
 #### Requirements
@@ -49,14 +69,14 @@ A strengths-based approach improves learning when instructors make existing capa
 - Strengths matter most when they are linked to real task demands and growth opportunities.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — learners benefit when they can identify which strategies and assets are already working for them
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S] — concrete recognition of strengths can support more credible and challenging goal pursuit
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — learners benefit when they can identify which strategies and assets are already working for them
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — concrete recognition of strengths can support more credible and challenging goal pursuit
 
 ## Related Principles
-- [[principles/learner-choice|Learner Choice]] — strengths-based design often creates multiple legitimate pathways into a task.
-- [[principles/foster-growth-mindset|Foster Growth Mindset]] — asset framing helps learners interpret challenge as workable rather than identity-defining.
-- [[principles/developing-your-cultural-awareness|Developing Your Cultural Awareness]] — instructors need cultural awareness to recognize strengths accurately.
-- [[principles/authentic-audiences-purposes|Authentic Audiences & Purposes]] — learners' strengths are easier to see when work resembles meaningful practice.
+- [Learner Choice](/principles/learner-choice.md) — strengths-based design often creates multiple legitimate pathways into a task.
+- [Foster Growth Mindset](/principles/foster-growth-mindset.md) — asset framing helps learners interpret challenge as workable rather than identity-defining.
+- [Developing Your Cultural Awareness](/principles/developing-your-cultural-awareness.md) — instructors need cultural awareness to recognize strengths accurately.
+- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md) — learners' strengths are easier to see when work resembles meaningful practice.
 
 ## Examples
 - **Strengths conference**: Instructor and learner identify effective strategies, prior experiences, and useful supports before setting goals.

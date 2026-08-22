@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creative Analogies and Comparisons
+description: Simplify complex ideas by linking them to familiar situations, making them easier to understand and remember.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creative Analogies and Comparisons
@@ -35,8 +39,8 @@ Simplify complex ideas by linking them to familiar situations, making them easie
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/analogies-and-prior-knowledge-activation|Analogies and prior knowledge activation]]
-- [[elements/supportive-information|Supportive information]]
+- [Analogies and prior knowledge activation](/elements/analogies-and-prior-knowledge-activation.md)
+- [Supportive information](/elements/supportive-information.md)
 
 ## Assessment Evidence
 - Assess learners' ability to explain the concept using the analogy. Evaluate their ability to apply the concept in new situations.

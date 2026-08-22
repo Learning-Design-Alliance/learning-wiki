@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Arts Integration
+description: Integrate arts activities like fiction writing, dance, drama, graphic design, music, drawing, painting, or ceramics into all subjects to enhance learning and engagement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Arts Integration
@@ -35,10 +39,10 @@ Integrate arts activities like fiction writing, dance, drama, graphic design, mu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
+- [Individual Response](/elements/individual-response.md)
+- [Peer Feedback/Peer Review](/elements/peer-feedbackpeer-review.md)
 
 ## Assessment Evidence
 - Evaluate learner creativity and self-expression in their art projects. Assess their ability to apply concepts learned in other subjects through arts activities. Gather feedback from learners about their experiences.

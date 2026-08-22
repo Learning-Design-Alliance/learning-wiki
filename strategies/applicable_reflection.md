@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Applicable Reflection
+description: Applicable reflection involves guiding students to consider how their past performance will influence their future work.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Applicable Reflection
@@ -35,9 +39,9 @@ Applicable reflection involves guiding students to consider how their past perfo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Improvements in student work over time, ability to articulate connections between past and future tasks.

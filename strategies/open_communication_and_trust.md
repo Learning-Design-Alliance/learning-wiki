@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Open Communication and Trust
+description: Friendly message from teacher to foster open, comfortable communication systems and mutual respect, and when helping students succeed becomes a group effort, academics and attitudes improve.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Open Communication and Trust
@@ -35,8 +39,8 @@ Friendly message from teacher to foster open, comfortable communication systems 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track response rates

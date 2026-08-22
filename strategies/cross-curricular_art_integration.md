@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cross-Curricular Art Integration
+description: Integrating art with other subjects like science and history to enhance learning experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cross-Curricular Art Integration
@@ -35,9 +39,9 @@ Integrating art with other subjects like science and history to enhance learning
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Case Study](/elements/case-study.md)
+- [Class Discussion](/elements/class-discussion.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess student understanding of the subject matter, creativity, and ability to connect art with the subject.

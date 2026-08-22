@@ -1,8 +1,16 @@
 ---
 type: element
+title: Pre-Class Preparation
+description: Pre-class preparation is the element in which learners engage with readings, videos, prompts, or other materials before a live class session so that class time can focus on discussion, application, or problem solving.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: bishop-2013
+    resource: "https://doi.org/10.18260/1-2--22585"
+    title: "Bishop, J. L., & Verleger, M. A. (2013). The flipped classroom: A survey of the research. In *2013 ASEE Annual Conference & Exposition Proceedings*"
+    author: "Bishop, J. L., & Verleger, M. A"
 ---
 
 # Pre-Class Preparation
@@ -23,17 +31,17 @@ Pre-class preparation is the element in which learners engage with readings, vid
 - Build readiness for deeper in-class engagement.
 
 ### Affordances
-- [[principles/active-learning|Active Learning]]
-- [[principles/metacognition|Metacognition]]
+- [Active Learning](/principles/active-learning.md)
+- [Metacognition](/principles/metacognition.md)
 
 ## Related Elements
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/pre-reading-activities|Pre-Reading Activities]]
-- [[elements/pre-class-videolecture|Pre-Class Video/Lecture]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Pre-Reading Activities](/elements/pre-reading-activities.md)
+- [Pre-Class Video/Lecture](/elements/pre-class-videolecture.md)
 
 ## Patterns That Use This Element
-- [[patterns/flipped-learning|Flipped Learning]]
-- [[patterns/socratic-seminar|Socratic Seminar]]
+- [Flipped Learning](/patterns/flipped-learning.md)
+- [Socratic Seminar](/patterns/socratic-seminar.md)
 
 ## Examples
 - Assigned reading with a prompt that must be used in the following class discussion.

@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Traditional Lecture-Based Instruction
+description: Traditional Lecture-Based Instruction is the short-form canonical target for designs centered on lecture, assigned study, and subsequent discussion or assessment.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 author: lecture-centered instruction tradition
 grain_size: course
 ---
@@ -25,7 +28,7 @@ Traditional Lecture-Based Instruction is the short-form canonical target for des
 - Provide structured content delivery at scale.
 
 ### Related Patterns
-- [[patterns/traditional-lecture-reading-midterm-final-assessment|Traditional Lecture / Reading / Midterm / Final Assessment]]
+- [Traditional Lecture / Reading / Midterm / Final Assessment](/patterns/traditional-lecture-reading-midterm-final-assessment.md)
 
 ## Key Sources
 - Bligh, D. A. (2000). *What's the use of lectures?* Jossey-Bass.

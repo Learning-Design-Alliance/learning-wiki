@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Introducing Yourself Via Video
+description: Providing a personal video introduction at the start of the course allows students to see you as a human being which can mitigate the anonymity of text-based conversation and encourage human connections.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Introducing Yourself Via Video
@@ -35,9 +39,9 @@ Providing a personal video introduction at the start of the course allows studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/gain-attention|Gain attention]]
-- [[elements/state-objectives|State objectives]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Gain attention](/elements/gain-attention.md)
+- [State objectives](/elements/state-objectives.md)
 
 ## Assessment Evidence
 - Increased student engagement, positive student feedback on the instructor's approachability, and improved student perceptions of the instructor.

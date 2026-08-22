@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Speed Chatting (Pre-Reading)
+description: Speed chatting is a pre-reading activity where learners form two rows facing each other and ask simple questions related to the reading topic.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Speed Chatting (Pre-Reading)
@@ -35,8 +39,8 @@ Speed chatting is a pre-reading activity where learners form two rows facing eac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/gain-attention|Gain attention]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Gain attention](/elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe the level of engagement and participation. Collect feedback on how well the activity prepared learners for the reading.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reflection Prompts
+description: Reflection prompts are specific questions or statements used to guide learners in thinking deeply about their learning process, content understanding, and personal growth.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflection Prompts
@@ -35,9 +39,9 @@ Reflection prompts are specific questions or statements used to guide learners i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Depth and insightfulness of student responses. Evidence of metacognition and application of knowledge. Changes in attitude and engagement.

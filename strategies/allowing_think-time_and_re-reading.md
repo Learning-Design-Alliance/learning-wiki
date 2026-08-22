@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Allowing Think-Time and Re-Reading
+description: Allowing plenty of think-time and time for re-reading provides students who need more time to process information the space they need to fully understand the material.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Allowing Think-Time and Re-Reading
@@ -35,8 +39,8 @@ Allowing plenty of think-time and time for re-reading provides students who need
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/practice|Practice]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe student engagement and comprehension during think-time and re-reading. Assess improvement in understanding through questioning and feedback.

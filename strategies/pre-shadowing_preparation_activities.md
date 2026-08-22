@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pre-Shadowing Preparation Activities
+description: Pre-shadowing preparation involves several activities to set up a meaningful shadowing experience.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-Shadowing Preparation Activities
@@ -35,10 +39,10 @@ Pre-shadowing preparation involves several activities to set up a meaningful sha
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/practice|Practice]]
-- [[elements/cognitive-conflict|Cognitive Conflict]]
+- [State objectives](/elements/state-objectives.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](/elements/practice.md)
+- [Cognitive Conflict](/elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Written learning goals, list of assumptions, coordination notes, and feedback from students, parents, and staff.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Racial Equity in PBL - Listen to the Voices of Students
+description: Give students authorship in sharing and telling their own stories, which a good project allows them to do.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Racial Equity in PBL - Listen to the Voices of Students
@@ -35,8 +39,8 @@ Give students authorship in sharing and telling their own stories, which a good 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/collaboration|Collaboration]]
+- [Peer Interaction](/elements/peer-interaction.md)
+- [Collaboration](/elements/collaboration.md)
 
 ## Assessment Evidence
 - Student participation, confidence in sharing, leadership skills demonstrated.

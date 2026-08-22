@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Dot Card Flash
+description: One learner flashes a dot card to another for 3 seconds, then hides it.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Dot Card Flash
@@ -35,9 +39,9 @@ One learner flashes a dot card to another for 3 seconds, then hides it. The seco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Evaluate the learner's ability to accurately recreate the dot card arrangement from memory. Note the number of attempts needed to recreate the card correctly.

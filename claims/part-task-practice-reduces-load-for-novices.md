@@ -1,8 +1,16 @@
 ---
 type: claim
-id: wt-2
+title: Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
+sources:
+  - id: pollock-et-al-2002
+    resource: "https://doi.org/10.1016/S0959-4752(01"
+    title: "Pollock, E., Chandler, P., & Sweller, J. (2002). Assimilating complex information. *Learning and Instruction, 12*(1), 61–86. [https://doi.org/10.1016/S0959-4752(01)00016-0](https://doi.org/10.1016/S0959-4752(01)00016-0)"
+    author: "Pollock, E., Chandler, P., & Sweller, J"
+id: wt-2
 evidence_strength: moderate
 ---
 
@@ -26,7 +34,7 @@ Pollock, E., Chandler, P., & Sweller, J. (2002). Assimilating complex informatio
 The researchers found that for complex tasks with high element interactivity, novices performed better when initially presented with isolated parts of the task before being required to perform the whole integrated task.
 
 ## Discussion
-This finding qualifies the whole-task approach, suggesting that [[elements/part-task-practice|part-task practice]] is a necessary precursor or scaffold when the "whole" is too complex for the learner's current expertise.
+This finding qualifies the whole-task approach, suggesting that [part-task practice](/elements/part-task-practice.md) is a necessary precursor or scaffold when the "whole" is too complex for the learner's current expertise.
 
 ## Related Claims
-- [[claims/whole-task-performance-improves-transfer]]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md)

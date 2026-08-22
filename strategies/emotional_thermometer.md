@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotional Thermometer
+description: An emotional thermometer is a visual tool used to help children recognize and gauge the intensity of their emotions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotional Thermometer
@@ -35,8 +39,8 @@ An emotional thermometer is a visual tool used to help children recognize and ga
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Monitor children's ability to accurately gauge their emotional intensity. Observe their use of coping strategies after assessing their emotional state.

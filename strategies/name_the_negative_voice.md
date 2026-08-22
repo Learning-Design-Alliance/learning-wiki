@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Name the Negative Voice
+description: Have students name their negative inner voice (e.g., Adverse Antoine, Ruthless Ralph, Cranky Kirsten).
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Name the Negative Voice
@@ -35,7 +39,7 @@ Have students name their negative inner voice (e.g., Adverse Antoine, Ruthless R
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe how students refer to and interact with their named negative voice.

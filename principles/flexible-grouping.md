@@ -1,8 +1,20 @@
 ---
 type: principle
+title: Flexible Grouping
+description: Flexible grouping is a classroom practice that temporarily places learners together in groups to work collaboratively toward specific learning goals or activities.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: burris-2006
+    resource: "https://doi.org/10.3102/00028312043001137"
+    title: "Burris, C. C., Heubert, J. P., & Levin, H. M. (2006). Accelerating mathematics achievement using heterogeneous grouping. *American Educational Research Journal, 43*(1), 137-154"
+    author: "Burris, C. C., Heubert, J. P., & Levin, H. M"
+  - id: castle-2005
+    resource: "https://doi.org/10.1177/0013124504270787"
+    title: "Castle, S., Deniz, C. B., & Tortora, M. (2005). Flexible grouping and student learning in a high-needs school. *Education and Urban Society, 37*(2), 139-150"
+    author: "Castle, S., Deniz, C. B., & Tortora, M"
 ---
 
 # Flexible Grouping
@@ -11,7 +23,7 @@ edited_by: Codex
 Flexible grouping is a classroom practice that temporarily places learners together in groups to work collaboratively toward specific learning goals or activities. These groups are adaptive, accommodating learners' evolving needs and interests based on instructor observations, formative assessments, and learner feedback. Encouraging learners to move flexibly between groups allows them to bring their own strengths to the class and provides opportunities to learn with and from each other, thereby strengthening social awareness and relationship skills. This practice supports all adults, including those with learning disabilities and multilingual learners, by allowing them to participate alongside their peers, showcase their strengths, and learn from others intentionally.
 
 ## Implications
-Flexible grouping is most useful when learner need changes across tasks and over time. Regrouping can make responsive support [[claims/contingent-scaffolding-improves-learning]] [+M], peer explanation [[claims/self-explanation-improves-conceptual-understanding]] [+S], and targeted challenge easier than one fixed whole-class format, but only if groups remain genuinely fluid and tied to a clear purpose. The main design risk is quiet tracking: once groups start signaling status instead of current need, the principle breaks. Strong implementation therefore depends on low-stigma movement, explicit task goals [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S], and regular use of formative evidence to decide who should work together and why. Group-based support should also not become a fixed placement that prevents independent performance [[claims/fading-support-promotes-transfer-of-responsibility]] [~S].
+Flexible grouping is most useful when learner need changes across tasks and over time. Regrouping can make responsive support [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M], peer explanation [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S], and targeted challenge easier than one fixed whole-class format, but only if groups remain genuinely fluid and tied to a clear purpose. The main design risk is quiet tracking: once groups start signaling status instead of current need, the principle breaks. Strong implementation therefore depends on low-stigma movement, explicit task goals [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S], and regular use of formative evidence to decide who should work together and why. Group-based support should also not become a fixed placement that prevents independent performance [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S].
 
 ### Context
 #### Requirements
@@ -51,20 +63,20 @@ Flexible grouping is most useful when learner need changes across tasks and over
 - Peer learning is strongest when learners are accountable for explanation and contribution, not when one learner simply carries the work
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — grouping pays off when learners must explain ideas to peers rather than work side by side silently
-- [[claims/contingent-scaffolding-improves-learning]] [+M] — small-group configurations can make responsive support more feasible than whole-class instruction alone
-- [[claims/fading-support-promotes-transfer-of-responsibility]] [~S] — group-based support should not become a fixed placement that prevents independent performance
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [+S] — groups work better when roles, products, and success criteria are explicit
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — grouping pays off when learners must explain ideas to peers rather than work side by side silently
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — small-group configurations can make responsive support more feasible than whole-class instruction alone
+- [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — group-based support should not become a fixed placement that prevents independent performance
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — groups work better when roles, products, and success criteria are explicit
 
 ## Related Principles
-- [[principles/peer-discussion|Peer Discussion]] — flexible grouping often structures when and how peer talk happens
-- [[principles/check-ins|Check-ins]] — short check-ins can help instructors decide when regrouping is needed
-- [[principles/scaffolding-and-fading|Scaffolding and Fading]] — grouping can be one way to vary support intensity over time
-- [[principles/communities-of-practice|Communities of Practice]] — repeated regrouping can broaden participation and expertise sharing across the class
+- [Peer Discussion](/principles/peer-discussion.md) — flexible grouping often structures when and how peer talk happens
+- [Check-ins](/principles/check-ins.md) — short check-ins can help instructors decide when regrouping is needed
+- [Scaffolding and Fading](/principles/scaffolding-and-fading.md) — grouping can be one way to vary support intensity over time
+- [Communities of Practice](/principles/communities-of-practice.md) — repeated regrouping can broaden participation and expertise sharing across the class
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [[strategies/small_group_instruction|Small Group Instruction]] — targeted support groups formed around a current need
+- [Small Group Instruction](/strategies/small_group_instruction.md) — targeted support groups formed around a current need
 - Heterogeneous groups for discussion and homogeneous temporary groups for a short focused mini-lesson
 - Regrouping by interest, strategy use, error pattern, or project role rather than by fixed ability labels
 - Rotating roles can keep group membership fluid while making contribution expectations explicit

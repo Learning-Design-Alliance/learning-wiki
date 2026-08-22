@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Game Design
+description: In this approach, learners build their own game around a specific course topic or principle.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Game Design
@@ -35,9 +39,9 @@ In this approach, learners build their own game around a specific course topic o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Evaluate the quality and accuracy of the game's content. Assess the creativity and effectiveness of the game mechanics. Gather learner feedback on the learning experience.

@@ -1,7 +1,11 @@
 ---
 type: element
+title: Midterm Exam
+description: A structured, formal assessment given at the midpoint of a course.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Midterm Exam
@@ -27,17 +31,17 @@ A structured, formal assessment given at the midpoint of a course.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/competency-based-assessment|Competency-Based Assessment]]
-- [[principles/mastery-learning|Mastery Learning]]
+- [Competency-Based Assessment](/principles/competency-based-assessment.md)
+- [Mastery Learning](/principles/mastery-learning.md)
 
 ## Related Elements
-- [[elements/summative-assessment|Summative Assessment]]
-- [[elements/quizzes|Quizzes]]
-- [[elements/formative-assessment|Formative Assessment]]
+- [Summative Assessment](/elements/summative-assessment.md)
+- [Quizzes](/elements/quizzes.md)
+- [Formative Assessment](/elements/formative-assessment.md)
 
 ## Patterns That Use This Element
-- [[patterns/competency-based-learning|Competency-Based Learning]]
-- [[patterns/summative-assessment|Summative Assessment]]
+- [Competency-Based Learning](/patterns/competency-based-learning.md)
+- [Summative Assessment](/patterns/summative-assessment.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

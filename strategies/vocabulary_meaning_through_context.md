@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Vocabulary Meaning Through Context
+description: Instructors should present vocabulary in context so that learners can deduce the meaning for themselves, aiding understanding and retention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Vocabulary Meaning Through Context
@@ -35,9 +39,9 @@ Instructors should present vocabulary in context so that learners can deduce the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Learners use new vocabulary in conversation or role play, write original sentences

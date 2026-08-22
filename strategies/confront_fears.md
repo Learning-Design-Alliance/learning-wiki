@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Confront Fears
+description: This strategy involves actively identifying and addressing fears that hold individuals back from achieving success.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Confront Fears
@@ -35,9 +39,9 @@ This strategy involves actively identifying and addressing fears that hold indiv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/coaching|Coaching]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Coaching](/elements/coaching.md)
 
 ## Assessment Evidence
 - Track changes in self-reported anxiety levels using questionnaires or journals. Observe improvements in risk-taking, proactive behavior, and goal-achievement. Analyze ability to identify and confront fears in real-time situations.

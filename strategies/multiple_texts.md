@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multiple Texts
+description: "Reading multiple texts on the same topic expands learners' understanding, encourages critical thinking, and fosters synthesis skills."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multiple Texts
@@ -35,10 +39,10 @@ Reading multiple texts on the same topic expands learners' understanding, encour
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/lectures|Lectures]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Lectures](/elements/lectures.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Quality of notes and summaries recorded in Inquiry Charts, participation in discussions, depth and accuracy of written or sketched responses.

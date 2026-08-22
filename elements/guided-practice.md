@@ -1,8 +1,11 @@
 ---
 type: element
+title: Guided Practice
+description: Guided practice is the element in which learners attempt a task with active support before moving to independent work.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Guided Practice
@@ -13,12 +16,12 @@ Guided practice is the element in which learners attempt a task with active supp
 ## Design Implications
 
 ### Affordances
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/scaffolding|Scaffolding]]
+- [Guided Practice](/principles/guided-practice.md)
+- [Scaffolding](/principles/scaffolding.md)
 
 ## Related Elements
-- [[elements/practice|Practice]]
-- [[elements/immediate-feedback|Immediate Feedback]]
+- [Practice](/elements/practice.md)
+- [Immediate Feedback](/elements/immediate-feedback.md)
 
 ## Key Sources
 - Rosenshine, B. (2012). Principles of instruction. *American Educator, 36*(1), 12-19.

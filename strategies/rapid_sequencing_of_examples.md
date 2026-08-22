@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Rapid Sequencing of Examples
+description: Present instances of a concept in rapid sequence or allow all instances to be viewed simultaneously.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rapid Sequencing of Examples
@@ -35,8 +39,8 @@ Present instances of a concept in rapid sequence or allow all instances to be vi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
+- [Demonstration](/elements/demonstration.md)
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Observe learners' ability to identify common features and accurately classify new examples.

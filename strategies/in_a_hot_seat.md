@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: In a Hot Seat
+description: Using a stimulus like a photo or item, learners create a character different from themselves, developing details about the character’s life.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # In a Hot Seat
@@ -35,10 +39,10 @@ Using a stimulus like a photo or item, learners create a character different fro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Demonstration](/elements/demonstration.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess the creativity and depth of character development, the ability to answer questions from the character's perspective, and the level of engagement in role-playing. Monitor changes in learners' attitudes towards different identities.

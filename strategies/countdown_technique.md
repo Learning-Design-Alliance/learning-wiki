@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Countdown Technique
+description: "The countdown technique involves the teacher counting down from a number, such as \"I need two people..."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Countdown Technique
@@ -35,8 +39,8 @@ The countdown technique involves the teacher counting down from a number, such a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Gain attention](/elements/gain-attention.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe how quickly students respond to the countdown. Monitor classroom noise levels during and after the countdown.

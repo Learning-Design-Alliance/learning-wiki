@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Portfolio Creation
+description: Student portfolio creation involves students selecting and organizing their best work samples to demonstrate their progress, reflect on their learning, and set goals.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Portfolio Creation
@@ -35,11 +39,11 @@ Student portfolio creation involves students selecting and organizing their best
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/practice|Practice]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Practice](/elements/practice.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Depth and quality of student reflections, variety of work samples, evidence of progress over time, and engagement in portfolio creation process.

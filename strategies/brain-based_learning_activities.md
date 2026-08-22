@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Brain-Based Learning Activities
+description: Activities that engage multiple senses (visual, auditory, kinesthetic, tactile) to activate different parts of the brain, enhancing learning and retention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Brain-Based Learning Activities
@@ -35,10 +39,10 @@ Activities that engage multiple senses (visual, auditory, kinesthetic, tactile) 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation. Monitor learner understanding and retention of content. Gather feedback from learners about their experience. Assess performance on related tasks or assessments.

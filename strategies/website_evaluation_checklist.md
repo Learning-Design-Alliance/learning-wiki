@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Website Evaluation Checklist
+description: Learners examine websites (both reliable and unreliable) using a checklist to assess various elements such as the corroboration of information, writer reliability, information currency, documentation, advocacy, and conflict of interest.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Website Evaluation Checklist
@@ -35,9 +39,9 @@ Learners examine websites (both reliable and unreliable) using a checklist to as
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assessment|Assessment]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assessment](/elements/assessment.md)
 
 ## Assessment Evidence
 - Learners' ability to accurately apply the checklist criteria and justify their evaluations of website reliability.

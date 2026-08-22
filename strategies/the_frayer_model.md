@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: The Frayer Model
+description: A tool for teaching a concept, not isolated facts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # The Frayer Model
@@ -35,7 +39,7 @@ A tool for teaching a concept, not isolated facts.  Includes four pieces: Defini
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/cognitive-conflict|Cognitive Conflict]]
+- [Cognitive Conflict](/elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Compare a complete Frayer Model to a mere definition and see how powerful it is to offer essential characteristics, examples, and non-examples.

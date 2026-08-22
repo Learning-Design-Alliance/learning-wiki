@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Repetition
+description: Repeat key points multiple times in simple language.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Repetition
@@ -35,8 +39,8 @@ Repeat key points multiple times in simple language. Repeating key points allows
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe whether students take advantage of the repetition and can respond accurately. Encourage learners to self-assess if they feel supported by the strategy.

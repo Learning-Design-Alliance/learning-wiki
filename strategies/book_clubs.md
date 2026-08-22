@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Book Clubs
+description: Book clubs are small groups of learners who choose, read, and discuss a shared text.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Book Clubs
@@ -35,10 +39,10 @@ Book clubs are small groups of learners who choose, read, and discuss a shared t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Collaborative Learning](/elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Monitor participation and engagement in discussions. Review written reflections and project submissions for evidence of critical thinking and comprehension. Assess group dynamics and collaboration through observation.

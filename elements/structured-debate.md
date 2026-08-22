@@ -1,8 +1,11 @@
 ---
 type: element
+title: Structured Debate
+description: Structured debate is the element in which learners examine opposing claims using explicit roles, turn structures, evidence requirements, and response rules.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Structured Debate
@@ -24,18 +27,18 @@ Structured debate is the element in which learners examine opposing claims using
 - Build argument quality, evidence use, and perspective comparison.
 
 ### Affordances
-- [[principles/debate|Debate]]
-- [[principles/perspective-taking|Perspective-Taking]]
-- [[principles/social-learning|Social Learning]]
+- [Debate](/principles/debate.md)
+- [Perspective-Taking](/principles/perspective-taking.md)
+- [Social Learning](/principles/social-learning.md)
 
 ## Related Elements
-- [[elements/rebuttals|Rebuttals]]
-- [[elements/argumentation|Argumentation]]
-- [[elements/structured-discussion|Structured Discussion]]
+- [Rebuttals](/elements/rebuttals.md)
+- [Argumentation](/elements/argumentation.md)
+- [Structured Discussion](/elements/structured-discussion.md)
 
 ## Patterns That Use This Element
-- [[patterns/structured-academic-controversy|Structured Academic Controversy]]
-- [[patterns/debate-format|Debate Format]]
+- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
+- [Debate Format](/patterns/debate-format.md)
 
 ## Examples
 - Learners defend and rebut positions using evidence stems and timed turns.

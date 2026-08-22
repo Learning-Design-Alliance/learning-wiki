@@ -1,8 +1,16 @@
 ---
 type: principle
+title: Mastery Learning
+description: Mastery learning is the principle that progression should depend on demonstrated competence rather than time spent, first exposure, or one-shot performance.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: kulik-1990
+    resource: "https://doi.org/10.3102/00346543060002265"
+    title: "Kulik, C. L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265-299"
+    author: "Kulik, C. L. C., Kulik, J. A., & Bangert-Drowns, R. L"
 ---
 
 # Mastery Learning
@@ -11,7 +19,7 @@ edited_by: Codex
 Mastery learning is the principle that progression should depend on demonstrated competence rather than time spent, first exposure, or one-shot performance. Learners are given clear targets, supported practice, feedback, and additional attempts until they reach an acceptable level of understanding or skill. The value of the principle is not repetition by itself, but the combination of clear criteria, corrective support, and another opportunity to succeed.
 
 ## Implications
-Mastery learning works when progression is tied to credible performance and learners have a real chance to improve before moving on. Clear criteria, corrective feedback, and another attempt can prevent early misunderstandings from compounding [[claims/contingent-scaffolding-improves-learning]] [+M], make progress more inspectable for learners themselves [[claims/self-monitoring-improves-self-regulation]] [+M], and make advancement more trustworthy than time-based promotion alone. The design challenge is capacity: mastery systems require usable checkpoints, targeted reteaching, and enough flexibility in pacing to support learners who need more time without turning the whole model into administrative overload or narrow test chasing. Clear standards still matter because “mastery” that is vague or shifting cannot reliably focus effort [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S].
+Mastery learning works when progression is tied to credible performance and learners have a real chance to improve before moving on. Clear criteria, corrective feedback, and another attempt can prevent early misunderstandings from compounding [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M], make progress more inspectable for learners themselves [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M], and make advancement more trustworthy than time-based promotion alone. The design challenge is capacity: mastery systems require usable checkpoints, targeted reteaching, and enough flexibility in pacing to support learners who need more time without turning the whole model into administrative overload or narrow test chasing. Clear standards still matter because “mastery” that is vague or shifting cannot reliably focus effort [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S].
 
 ### Context
 #### Requirements
@@ -44,15 +52,15 @@ Mastery learning works when progression is tied to credible performance and lear
 - The principle is weaker when mastery is defined only as repeated test performance.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [+M] — mastery cycles improve learning when feedback and reteaching respond to the learner’s current gap
-- [[claims/self-monitoring-improves-self-regulation]] [+M] — visible progress toward mastery helps learners judge readiness and adjust effort
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S] — mastery learning depends on standards that are clear enough to guide attention and persistence
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — mastery cycles improve learning when feedback and reteaching respond to the learner’s current gap
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — visible progress toward mastery helps learners judge readiness and adjust effort
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — mastery learning depends on standards that are clear enough to guide attention and persistence
 
 ## Related Principles
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/immediate-feedback|Immediate Feedback]]
-- [[principles/competency-based-learning-assessment|Competency-Based Learning & Assessment]]
-- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]]
+- [Formative Assessment](/principles/formative-assessment.md)
+- [Immediate Feedback](/principles/immediate-feedback.md)
+- [Competency-Based Learning & Assessment](/principles/competency-based-learning-assessment.md)
+- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
 
 ## Examples
 - A unit where learners reassess after targeted feedback until they meet the rubric threshold.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotional Walking Game
+description: The Emotional Walking Game involves learners walking around while embodying different emotions upon hearing a signal.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotional Walking Game
@@ -35,8 +39,8 @@ The Emotional Walking Game involves learners walking around while embodying diff
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/demonstration|Demonstration]]
+- [Practice](/elements/practice.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately portray emotions through movement. Assess their participation and engagement in the activity.

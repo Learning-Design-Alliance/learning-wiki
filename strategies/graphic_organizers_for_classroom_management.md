@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers for Classroom Management
+description: Put the most important classroom policies, procedures, and expectations into graphic form to increase the likelihood that students will follow them.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers for Classroom Management
@@ -35,7 +39,7 @@ Put the most important classroom policies, procedures, and expectations into gra
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
+- [State objectives](/elements/state-objectives.md)
 
 ## Assessment Evidence
 - Improved classroom behavior and adherence to rules.

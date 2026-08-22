@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Enrichment Through Art and Music
+description: Teachers integrate art and music from diverse cultures into their lessons to enrich learning, engage students, and promote cultural understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Enrichment Through Art and Music
@@ -35,9 +39,9 @@ Teachers integrate art and music from diverse cultures into their lessons to enr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Demonstration](/elements/demonstration.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Increased student participation, enhanced understanding of content, improved cultural awareness, positive feedback from students and families.

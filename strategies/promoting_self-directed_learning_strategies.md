@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Promoting Self-Directed Learning Strategies
+description: Promoting self-directed learning involves explicitly teaching students strategies for problem-solving, metacognition, and self-reflection to become independent learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Promoting Self-Directed Learning Strategies
@@ -35,9 +39,9 @@ Promoting self-directed learning involves explicitly teaching students strategie
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe students' ability to apply strategies to solve problems, their level of metacognitive awareness, and their capacity for self-reflection. Measure students' independence and self-direction in their learning.

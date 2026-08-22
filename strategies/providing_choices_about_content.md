@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Providing Choices About Content
+description: Mature learners decide what to learn when they discover there’s something they need to know or something about which they need to know more.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Providing Choices About Content
@@ -35,8 +39,8 @@ Mature learners decide what to learn when they discover there’s something they
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [State objectives](/elements/state-objectives.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assessment of independent learning skills and self-directedness. Evaluation of content selected and questions framed by learners. Student reflections and self-evaluations.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Story and Concept Maps
+description: Story and concept maps are visual representations used to organize information and enhance comprehension, particularly of narratives and complex relationships.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Story and Concept Maps
@@ -35,9 +39,9 @@ Story and concept maps are visual representations used to organize information a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Practice](/elements/practice.md)
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Assigned Readings](/elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Evaluate the completeness and accuracy of the story or concept map, assess the depth of understanding demonstrated by the connections made between elements, track learner progress in identifying key details and summarizing main ideas

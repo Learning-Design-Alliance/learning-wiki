@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: "Merrill's First Principles (Activation)"
+description: "This page is the short-form canonical target for the activation move within Merrill's First Principles: prompting learners to recall or connect relevant prior knowledge before new instruction or application."
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: merrill-2002
+    resource: "https://doi.org/10.1007/BF02505024"
+    title: "Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59"
+    author: Merrill, M. D
 author: M. David Merrill
 grain_size: lesson
 ---
@@ -28,12 +36,12 @@ This page is the short-form canonical target for the activation move within Merr
 
 ### Theory
 #### Supporting
-- [[principles/activation|Activation]]
-- [[principles/retrieval-practice|Retrieval Practice]]
+- [Activation](/principles/activation.md)
+- [Retrieval Practice](/principles/retrieval-practice.md)
 
 ## Related Patterns
-- [[patterns/merrills-first-principles|Merrill's First Principles]]
-- [[patterns/merrills-first-principles-of-instruction|Merrill's First Principles of Instruction]]
+- [Merrill's First Principles](/patterns/merrills-first-principles.md)
+- [Merrill's First Principles of Instruction](/patterns/merrills-first-principles-of-instruction.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)

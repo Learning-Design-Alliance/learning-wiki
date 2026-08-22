@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Keep Instructions Concise
+description: Avoid lengthy instructions, especially for learners with low English proficiency.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Keep Instructions Concise
@@ -35,7 +39,7 @@ Avoid lengthy instructions, especially for learners with low English proficiency
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Learner comprehension and task completion.

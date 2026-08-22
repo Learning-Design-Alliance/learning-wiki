@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Inquiry-Based Learning
+description: Inquiry-based learning is the short-form canonical pattern for organizing learning around investigation, evidence, and guided explanation.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 grain_size: lesson
 ---
 
@@ -14,12 +17,12 @@ Inquiry-based learning is the short-form canonical pattern for organizing learni
 ## Design
 
 ### Elements Used
-- [[elements/inquiry-based-learning|Inquiry-Based Learning]]
-- [[elements/guided-inquiry|Guided Inquiry]]
-- [[elements/problem-scenarios|Problem Scenarios]]
+- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
+- [Guided Inquiry](/elements/guided-inquiry.md)
+- [Problem Scenarios](/elements/problem-scenarios.md)
 
 ## Related Patterns
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
+- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning. *Educational Psychologist, 42*(2), 99-107.

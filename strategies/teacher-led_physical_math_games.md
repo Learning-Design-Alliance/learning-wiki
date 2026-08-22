@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teacher-Led Physical Math Games
+description: Teacher-led physical activities integrate movement and mathematical practice in an abbreviated time frame, suitable for station breaks and transitions, and are adaptable to different grade levels.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teacher-Led Physical Math Games
@@ -42,10 +46,10 @@ Teacher-led physical activities integrate movement and mathematical practice in 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/part-task-practice|Part-task practice]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Practice](/elements/practice.md)
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Part-task practice](/elements/part-task-practice.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe student engagement, participation, and mathematical accuracy during the activities.

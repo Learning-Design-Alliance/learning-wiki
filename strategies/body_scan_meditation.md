@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Body Scan Meditation
+description: Incorporate a body scan meditation to bring calmness and awareness to the classroom, maximizing students’ potential.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Body Scan Meditation
@@ -35,8 +39,8 @@ Incorporate a body scan meditation to bring calmness and awareness to the classr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement in the activity. Collect student feedback on the activity to assess its effectiveness. Monitor student behavior and academic performance to assess the impact of meditation on their self-regulation and focus.

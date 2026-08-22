@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Scaffolding Self-Regulation
+description: Scaffolding can help students learn how to manage their responses in an emotionally safe context.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Scaffolding Self-Regulation
@@ -35,8 +39,8 @@ Scaffolding can help students learn how to manage their responses in an emotiona
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe changes in student behavior and skill development.

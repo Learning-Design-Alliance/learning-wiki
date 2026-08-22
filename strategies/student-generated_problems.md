@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student-generated Problems
+description: "Learners create their own problems based on concepts they're learning, share them with peers, and solve each other's problems."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student-generated Problems
@@ -35,10 +39,10 @@ Learners create their own problems based on concepts they're learning, share the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/application|Application]]
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Solution Development](/elements/solution-development.md)
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Evaluate the quality and complexity of problems created by learners. Assess the accuracy and completeness of solutions provided by learners. Observe learner engagement and participation in the problem-solving process.

@@ -1,8 +1,16 @@
 ---
 type: element
+title: Peer Assessment
+description: Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: topping-1998
+    resource: "https://doi.org/10.3102/00346543068003249"
+    title: "Topping, K. J. (1998). Peer assessment between students in colleges and universities. *Review of Educational Research, 68*(3), 249-276"
+    author: Topping, K. J
 ---
 
 # Peer Assessment
@@ -23,17 +31,17 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - Improve evaluative judgment, feedback literacy, and revision quality.
 
 ### Affordances
-- [[principles/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
-- [[principles/metacognition|Metacognition]]
+- [Peer Feedback/Peer Review](/principles/peer-feedbackpeer-review.md)
+- [Metacognition](/principles/metacognition.md)
 
 ## Related Elements
-- [[elements/peer-review|Peer Review]]
-- [[elements/criteria-development|Criteria Development]]
-- [[elements/self-assessment|Self-Assessment]]
+- [Peer Review](/elements/peer-review.md)
+- [Criteria Development](/elements/criteria-development.md)
+- [Self-Assessment](/elements/self-assessment.md)
 
 ## Patterns That Use This Element
-- [[patterns/structured-peer-review|Structured Peer Review]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Structured Peer Review](/patterns/structured-peer-review.md)
+- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
 
 ## Examples
 - Learners score peer work with a rubric and justify their ratings.

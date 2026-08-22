@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating an Action Plan
+description: Creating an action plan involves outlining the specific steps needed to achieve a goal.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating an Action Plan
@@ -35,9 +39,9 @@ Creating an action plan involves outlining the specific steps needed to achieve 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/supportive-information|Supportive information]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Supportive information](/elements/supportive-information.md)
 
 ## Assessment Evidence
 - Success is measured by the completion of tasks and milestones outlined in the action plan, leading to the achievement of the overall goal.

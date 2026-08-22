@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Rich Resources: Diversity"
+description: Providing diverse materials in the classroom helps learners deepen their self-understanding and understanding of others, positively impacting their perceptions of themselves and each other.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rich Resources: Diversity
@@ -35,7 +39,7 @@ Providing diverse materials in the classroom helps learners deepen their self-un
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
+- [Assigned Readings](/elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Measure learner engagement with diverse materials, assess learner understanding of diverse perspectives through discussions or written assignments, and track changes in learner attitudes and beliefs related to diversity and inclusion.

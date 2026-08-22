@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Simulations
+description: Simulations use electronic or software-based activities to simulate a real-world situation to which a learner must react.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Simulations
@@ -35,11 +39,11 @@ Simulations use electronic or software-based activities to simulate a real-world
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/decision-making|Decision-Making]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Problem Scenario](/elements/problem-scenario.md)
+- [Decision-Making](/elements/decision-making.md)
 
 ## Assessment Evidence
 - Track learner decisions in the simulation, provide feedback on learner decisions, and assess learner understanding of the consequences of different decisions.

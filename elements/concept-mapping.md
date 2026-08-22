@@ -1,8 +1,11 @@
 ---
 type: element
+title: Concept Mapping
+description: Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 ---
 
 # Concept Mapping
@@ -28,18 +31,18 @@ Concept mapping is the element in which learners represent concepts and their re
 - Organize knowledge, surface misconceptions, and strengthen integration across ideas.
 
 ### Affordances
-- [[principles/dual-coding|Dual Coding]]
-- [[principles/metacognition|Metacognition]]
-- [[principles/creating-visual-representations|Creating Visual Representations]]
+- [Dual Coding](/principles/dual-coding.md)
+- [Metacognition](/principles/metacognition.md)
+- [Creating Visual Representations](/principles/creating-visual-representations.md)
 
 ## Related Elements
-- [[elements/graphic-organizers|Graphic Organizers]]
-- [[elements/advance-organizers|Advance Organizers]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
+- [Graphic Organizers](/elements/graphic-organizers.md)
+- [Advance Organizers](/elements/advance-organizers.md)
+- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
 
 ## Patterns That Use This Element
-- [[patterns/elaboration-theory|Elaboration Theory]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Elaboration Theory](/patterns/elaboration-theory.md)
+- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
 
 ## Examples
 - Learners map relationships among causes, effects, and stakeholders in a history unit.

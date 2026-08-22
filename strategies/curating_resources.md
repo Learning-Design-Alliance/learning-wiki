@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Curating Resources
+description: Curating involves selecting and arranging readings, videos, and other resources to scaffold concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Curating Resources
@@ -35,9 +39,9 @@ Curating involves selecting and arranging readings, videos, and other resources 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/advance-organizers|Advance Organizers]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Advance Organizers](/elements/advance-organizers.md)
 
 ## Assessment Evidence
 - Improved student comprehension, increased use of curated resources, and positive feedback on the organization of the course.

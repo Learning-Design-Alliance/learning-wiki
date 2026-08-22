@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Making Inferences
+description: This strategy requires readers to evaluate or draw conclusions from information in a text, even when the author does not explicitly state it.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Making Inferences
@@ -35,10 +39,10 @@ This strategy requires readers to evaluate or draw conclusions from information 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-response|Individual Response]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/reassessment|Reassessment]]
-- [[elements/case-study|Case Study]]
+- [Individual Response](/elements/individual-response.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Reassessment](/elements/reassessment.md)
+- [Case Study](/elements/case-study.md)
 
 ## Assessment Evidence
 - Assess learners' ability to make accurate inferences through discussions, written responses, or graphic organizers that demonstrate their reasoning and connection of ideas.

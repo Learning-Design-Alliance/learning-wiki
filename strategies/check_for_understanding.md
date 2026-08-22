@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Check for Understanding
+description: After giving instructions, check for understanding by asking related questions and observing compliance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Check for Understanding
@@ -35,8 +39,8 @@ After giving instructions, check for understanding by asking related questions a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Learners' responses to questions and observed compliance.

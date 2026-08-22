@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Fair Communication Anchor Charts
+description: Displaying anchor charts outlining fair communication protocols for class discussions and/or projects requiring teamwork involves creating visual aids that articulate the rules and expectations for respectful and inclusive communication.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Fair Communication Anchor Charts
@@ -35,9 +39,9 @@ Displaying anchor charts outlining fair communication protocols for class discus
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Discussion Sections](/elements/discussion-sections.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the learners' communication behaviors during class discussions and activities. Gather feedback from the learners about their experiences and perceptions of the classroom environment. Assess the extent to which the learners adhere to the communication protocols and demonstrate respectful and inclusive behaviors.

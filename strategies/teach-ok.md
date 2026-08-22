@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teach-OK
+description: A peer teaching strategy that begins with the teacher spending a few minutes introducing a concept to the class.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teach-OK
@@ -35,9 +39,9 @@ A peer teaching strategy that begins with the teacher spending a few minutes int
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/guided-practice|Guided Practice]]
-- [[elements/demonstration|Demonstration]]
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Guided Practice](/elements/guided-practice.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the activity, review the quality of their re-teaching, collect feedback from learners about their experience.

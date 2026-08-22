@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Structured Music and Dance Activities
+description: Structured music and dance activities involve incorporating movement and rhythm into educational content, particularly for preschoolers.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Structured Music and Dance Activities
@@ -35,10 +39,10 @@ Structured music and dance activities involve incorporating movement and rhythm 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
-- [[elements/demonstration|Demonstration]]
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Integration](/elements/integration.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe participation, assess motor skill development, monitor engagement with educational content

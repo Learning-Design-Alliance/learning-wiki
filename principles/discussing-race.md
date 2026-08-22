@@ -1,8 +1,20 @@
 ---
 type: principle
+title: Discussing Race
+description: Discussing race is the instructional principle of addressing racial identity, racism, and racialized experience directly rather than treating them as peripheral or unspeakable.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: day-2021
+    resource: "https://doi.org/10.1002/jcad.12382"
+    title: "Day, V. N. L., Cluxton, K. F., Agorsor, C., & Gubara, S. (2021). Strategies for broaching the subjects of race, ethnicity, and culture. *Journal of Counseling & Development, 99*(3), 348-357"
+    author: "Day, V. N. L., Cluxton, K. F., Agorsor, C., & Gubara, S"
+  - id: sanchez-2021
+    resource: "https://doi.org/10.1037/pspi0000338"
+    title: "Sanchez, K. L., Kalkstein, D. A., & Walton, G. M. (2021). A threatening opportunity: The prospect of conversations about race-related experiences between Black and White friends. *Journal of Personality and Social Psychology, 121*(2), 313-334"
+    author: "Sanchez, K. L., Kalkstein, D. A., & Walton, G. M"
 ---
 
 # Discussing Race
@@ -11,7 +23,7 @@ edited_by: Codex
 Discussing race is the instructional principle of addressing racial identity, racism, and racialized experience directly rather than treating them as peripheral or unspeakable. In educational settings, these discussions can support critical literacy, social awareness, historical understanding, and more honest collaborative norms, but only when they are carefully facilitated. The goal is not to force disclosure or consensus. It is to make race discussable with enough structure, safety, and accountability that learners can engage seriously without being reduced to representatives of a group.
 
 ## Implications
-Discussing race productively requires more than openness or good intentions. Learners need explicit norms, substantive material, and careful facilitation so that dialogue can support analysis and reflection rather than collapse into avoidance, harm, or performative disclosure. The instructional payoff is that race becomes available as an object of serious inquiry instead of a topic learners are expected to either manage privately or discuss without structure, and that inquiry is stronger when learners articulate interpretations explicitly rather than leaving assumptions unspoken [[claims/self-explanation-improves-conceptual-understanding]] [~S]. The practical constraint is that unequal risk is built into these conversations, so optionality, boundaries, and debriefing are not extras. Strong discussions also depend on learner and facilitator monitoring of emotion, participation, and misunderstanding [[claims/self-monitoring-improves-self-regulation]] [~M], along with responsive facilitation that adjusts support as the conversation unfolds [[claims/contingent-scaffolding-improves-learning]] [~M].
+Discussing race productively requires more than openness or good intentions. Learners need explicit norms, substantive material, and careful facilitation so that dialogue can support analysis and reflection rather than collapse into avoidance, harm, or performative disclosure. The instructional payoff is that race becomes available as an object of serious inquiry instead of a topic learners are expected to either manage privately or discuss without structure, and that inquiry is stronger when learners articulate interpretations explicitly rather than leaving assumptions unspoken [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]. The practical constraint is that unequal risk is built into these conversations, so optionality, boundaries, and debriefing are not extras. Strong discussions also depend on learner and facilitator monitoring of emotion, participation, and misunderstanding [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M], along with responsive facilitation that adjusts support as the conversation unfolds [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M].
 
 ### Context
 #### Requirements
@@ -47,15 +59,15 @@ Discussing race productively requires more than openness or good intentions. Lea
 - Not all learners experience the same risk in these conversations, so equal participation demands are often inequitable.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S] — race-conscious dialogue is stronger when learners make their reasoning explicit and open it to examination
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — these discussions require active monitoring of participation, emotion, and understanding
-- [[claims/contingent-scaffolding-improves-learning]] [~M] — productive race discussion depends on facilitation that responds to actual tension, confusion, and risk in the room
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S] — race-conscious dialogue is stronger when learners make their reasoning explicit and open it to examination
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — these discussions require active monitoring of participation, emotion, and understanding
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — productive race discussion depends on facilitation that responds to actual tension, confusion, and risk in the room
 
 ## Related Principles
-- [[principles/developing-your-cultural-awareness|Developing Your Cultural Awareness]] — instructors need reflective preparation before facilitating race-conscious dialogue well.
-- [[principles/building-empathy|Building Empathy]] — discussion about race often requires careful perspective-taking without demanding agreement.
-- [[principles/perspective-seekingmultiple-perspectives|Perspective Seeking/Multiple Perspectives]] — structured comparison of perspectives can deepen racial and social analysis.
-- [[principles/peer-discussion|Peer Discussion]] — race discussion is one high-stakes form of structured peer dialogue.
+- [Developing Your Cultural Awareness](/principles/developing-your-cultural-awareness.md) — instructors need reflective preparation before facilitating race-conscious dialogue well.
+- [Building Empathy](/principles/building-empathy.md) — discussion about race often requires careful perspective-taking without demanding agreement.
+- [Perspective Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md) — structured comparison of perspectives can deepen racial and social analysis.
+- [Peer Discussion](/principles/peer-discussion.md) — race discussion is one high-stakes form of structured peer dialogue.
 
 ## Examples
 - **Normed seminar on racialized texts**: Learners discuss a shared text with explicit discussion norms and optional written entry points.

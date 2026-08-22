@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Establish Guidelines for Discussions
+description: "Establish clear guidelines for group discussions, emphasizing engagement, comfort with discomfort, speaking one's truth, and accepting non-closure."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Establish Guidelines for Discussions
@@ -35,11 +39,11 @@ Establish clear guidelines for group discussions, emphasizing engagement, comfor
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/argument-construction|Argument Construction]]
-- [[elements/role-reversal|Role Reversal]]
-- [[elements/consensus-building|Consensus Building]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Argument Construction](/elements/argument-construction.md)
+- [Role Reversal](/elements/role-reversal.md)
+- [Consensus Building](/elements/consensus-building.md)
 
 ## Assessment Evidence
 - Observe the quality of interactions, the level of engagement, and the degree of respect shown among participants. Collect feedback on the effectiveness of the guidelines in promoting productive dialogue.

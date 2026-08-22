@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Repeating Key Points in Different Ways
+description: Repeating the key points for students several times and in several different ways helps reinforce understanding and supports learners who need more time to process information.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Repeating Key Points in Different Ways
@@ -35,9 +39,9 @@ Repeating the key points for students several times and in several different way
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe student understanding through questioning and feedback. Assess improvement in retention through quizzes or summaries.

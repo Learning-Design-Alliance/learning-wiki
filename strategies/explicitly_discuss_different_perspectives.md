@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicitly Discuss Different Perspectives
+description: Engage learners in structured discussions that explore diverse viewpoints and consider the experiences of others.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicitly Discuss Different Perspectives
@@ -35,9 +39,9 @@ Engage learners in structured discussions that explore diverse viewpoints and co
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/discussion-sections|Discussion Sections]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Discussion Sections](/elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Observe learner participation and contributions to discussions. Assess learner understanding of diverse perspectives through written assignments or presentations. Collect learner reflections on their learning and growth.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: GoNoodle Activities
+description: GoNoodle provides interactive videos that encourage learners to engage in movement and play, supporting attention and learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # GoNoodle Activities
@@ -35,10 +39,10 @@ GoNoodle provides interactive videos that encourage learners to engage in moveme
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/gain-attention|Gain attention]]
-- [[elements/application|Application]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Gain attention](/elements/gain-attention.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Monitor student engagement, participation, and focus during and after GoNoodle activities.

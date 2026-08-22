@@ -1,7 +1,11 @@
 ---
 type: element
+title: Eliciting Student Thinking
+description: Encourages learners to express their ideas, reasoning, and problem-solving approaches verbally.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Eliciting Student Thinking
@@ -27,17 +31,17 @@ Encourages learners to express their ideas, reasoning, and problem-solving appro
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/constructivism|Constructivism]]
-- [[principles/scaffolding|Scaffolding]]
-- [[principles/metacognition|Metacognition]]
+- [Constructivism](/principles/constructivism.md)
+- [Scaffolding](/principles/scaffolding.md)
+- [Metacognition](/principles/metacognition.md)
 
 ## Related Elements
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/self-explanation|Self-Explanation]]
-- [[elements/metacognition|Metacognition]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Self-Explanation](/elements/self-explanation.md)
+- [Metacognition](/elements/metacognition.md)
 
 ## Patterns That Use This Element
-- [[patterns/cognitively-guided-instruction-cgi-for-math|Cognitively Guided Instruction (CGI) for Math]]
+- [Cognitively Guided Instruction (CGI) for Math](/patterns/cognitively-guided-instruction-cgi-for-math.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

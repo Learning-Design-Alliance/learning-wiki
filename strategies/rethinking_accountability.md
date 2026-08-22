@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Rethinking Accountability
+description: Recognize that students did not choose the current situation and should not be unjustly penalized for its challenges.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rethinking Accountability
@@ -35,8 +39,8 @@ Recognize that students did not choose the current situation and should not be u
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess Performance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Assess Performance](/elements/assess-performance.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor student engagement, well-being, and academic progress; gather feedback from students on assessment fairness.

@@ -1,8 +1,16 @@
 ---
 type: element
+title: Comparing Cases
+description: Comparing cases is the element in which learners inspect two or more examples, solutions, texts, or scenarios side by side in order to notice meaningful similarities, differences, and governing principles.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: rittle-johnson-2009
+    resource: "https://doi.org/10.1007/s10648-009-9112-7"
+    title: "Rittle-Johnson, B., Star, J. R., & Durkin, K. (2009). The importance of prior knowledge when comparing examples. *Educational Psychology Review, 21*(4), 321-344"
+    author: "Rittle-Johnson, B., Star, J. R., & Durkin, K"
 ---
 
 # Comparing Cases
@@ -25,18 +33,18 @@ Comparing cases is the element in which learners inspect two or more examples, s
 - Build conceptual understanding, pattern detection, and transfer.
 
 ### Affordances
-- [[principles/metaphors-analogies|Metaphors & Analogies]]
-- [[principles/worked-examples|Worked Examples]]
-- [[principles/error-analysis|Error Analysis]]
+- [Metaphors & Analogies](/principles/metaphors-analogies.md)
+- [Worked Examples](/principles/worked-examples.md)
+- [Error Analysis](/principles/error-analysis.md)
 
 ## Related Elements
-- [[elements/non-examples|Non-Examples]]
-- [[elements/erroneous-examples|Erroneous Examples]]
-- [[elements/demonstration|Demonstration]]
+- [Non-Examples](/elements/non-examples.md)
+- [Erroneous Examples](/elements/erroneous-examples.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Patterns That Use This Element
-- [[patterns/guided-discovery-learning|Guided Discovery Learning]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Guided Discovery Learning](/patterns/guided-discovery-learning.md)
+- [Mastery Learning](/patterns/mastery-learning.md)
 
 ## Examples
 - Comparing two worked solutions to identify where one method is more efficient.

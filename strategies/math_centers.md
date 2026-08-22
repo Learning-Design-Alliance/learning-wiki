@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Math Centers
+description: Math centers involve setting up various stations in the classroom where learners can practice and apply mathematical concepts through activities like games and tablets.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Math Centers
@@ -35,9 +39,9 @@ Math centers involve setting up various stations in the classroom where learners
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
+- [Practice](/elements/practice.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation in activities. Collect and review work produced at each station to assess understanding. Monitor collaborative interactions to gauge peer learning.

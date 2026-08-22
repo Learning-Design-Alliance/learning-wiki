@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Spaced Learning Through Activity Breaks
+description: "Breaking up learning or work into short chunks of time interspersed with activity breaks leverages the 'spacing effect,' a well-replicated phenomenon in psychology."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Spaced Learning Through Activity Breaks
@@ -35,9 +39,9 @@ Breaking up learning or work into short chunks of time interspersed with activit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Improved recall and retention of information, enhanced focus and attention, increased creativity, and reduced mental fatigue.

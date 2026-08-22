@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: TPRI Diagnostic Assessment
+description: The TPRI (Texas Primary Reading Inventory) is a diagnostic instrument designed to identify the reading development of students in kindergarten through third grade.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # TPRI Diagnostic Assessment
@@ -35,7 +39,7 @@ The TPRI (Texas Primary Reading Inventory) is a diagnostic instrument designed t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - The TPRI assessment provides data on various reading skills, such as letter sound, blending, word reading, phonemic awareness, graphophonemic knowledge, reading accuracy, fluency, and listening/reading comprehension.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Focus on Enjoyable Moments
+description: "This strategy entails consciously choosing to fill one's mind with positive images and thoughts, making it a habit to bring the mind back every time it goes astray."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Focus on Enjoyable Moments
@@ -35,8 +39,8 @@ This strategy entails consciously choosing to fill one's mind with positive imag
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track changes in self-reported mood and gratitude levels using questionnaires or journals. Observe improvements in positive emotions, resilience, and coping strategies. Analyze ability to identify and focus on enjoyable moments in real-life situations.

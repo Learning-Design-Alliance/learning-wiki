@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicit Discussion of Perspectives
+description: Explicitly discuss different perspectives, encouraging students to consider viewpoints other than their own.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicit Discussion of Perspectives
@@ -35,9 +39,9 @@ Explicitly discuss different perspectives, encouraging students to consider view
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/assigned-positions|Assigned Positions]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Assigned Positions](/elements/assigned-positions.md)
 
 ## Assessment Evidence
 - Assess student openness and participation.

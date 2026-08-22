@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Bridging Cultures
+description: The Bridging Cultures Project helps teachers understand assumptions underlying individualism and collectivism, highlighting cultural differences that may diverge from school-based practices and values.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Bridging Cultures
@@ -35,11 +39,11 @@ The Bridging Cultures Project helps teachers understand assumptions underlying i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Changes in teacher practices, improved student engagement, enhanced classroom harmony, increased task completion, higher homework return rates

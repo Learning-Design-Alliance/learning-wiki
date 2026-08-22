@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Maximize Transfer and Generalization
+description: Applying learning to new contexts helps learners develop the ability to use what they have learned in real-world situations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Maximize Transfer and Generalization
@@ -35,8 +39,8 @@ Applying learning to new contexts helps learners develop the ability to use what
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Application](/elements/application.md)
+- [Integration](/elements/integration.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of key concepts through discussions, written assignments, or problem-solving tasks. Track improvements in problem-solving skills and application of knowledge.

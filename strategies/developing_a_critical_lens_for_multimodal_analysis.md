@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Developing a Critical Lens for Multimodal Analysis
+description: "Increasing students' awareness of effective and ineffective multimodal combinations by analyzing a mode's affordances and constraints."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Developing a Critical Lens for Multimodal Analysis
@@ -35,10 +39,10 @@ Increasing students' awareness of effective and ineffective multimodal combinati
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Demonstration](/elements/demonstration.md)
+- [Practice](/elements/practice.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the quality and depth of student analysis during discussions. Analyze students' ability to identify effective and ineffective multimodal combinations. Assess the extent to which students apply their critical lens in their own compositions.

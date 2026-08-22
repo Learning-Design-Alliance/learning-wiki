@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Extension Projects for Advanced Students
+description: Challenge advanced learners with real-world extension projects that apply their knowledge in meaningful ways.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Extension Projects for Advanced Students
@@ -35,11 +39,11 @@ Challenge advanced learners with real-world extension projects that apply their 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-task-performance|Whole-task performance]]
-- [[elements/collaborative-problem-solving|Collaborative Problem-Solving]]
-- [[elements/application-of-knowledge|Application of Knowledge]]
-- [[elements/research|Research]]
-- [[elements/solution-development|Solution Development]]
+- [Whole-task performance](/elements/whole-task-performance.md)
+- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
+- [Application of Knowledge](/elements/application-of-knowledge.md)
+- [Research](/elements/research.md)
+- [Solution Development](/elements/solution-development.md)
 
 ## Assessment Evidence
 - Observe learners’ engagement, participation, and problem-solving skills within projects. Collect data from project deliverables, presentations, and peer evaluations. Track changes in performance following implementation of extension projects.

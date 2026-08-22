@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Natural Lighting
+description: Before the advent of cheap electricity, schools often relied on natural lighting.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Natural Lighting
@@ -35,7 +39,7 @@ Before the advent of cheap electricity, schools often relied on natural lighting
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Test Score Statistics

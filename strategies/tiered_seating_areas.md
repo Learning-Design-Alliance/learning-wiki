@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Tiered Seating Areas
+description: Tiered areas allow for groups to convene to discuss ideas and communicate procedures.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Tiered Seating Areas
@@ -35,8 +39,8 @@ Tiered areas allow for groups to convene to discuss ideas and communicate proced
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/application|Application]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

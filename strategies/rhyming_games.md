@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Rhyming Games
+description: Rhyming games involve activities that focus on identifying and creating rhyming words to enhance phonological awareness.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rhyming Games
@@ -35,11 +39,11 @@ Rhyming games involve activities that focus on identifying and creating rhyming 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track participation and engagement in rhyming activities. Assess learners’ ability to identify and generate rhymes. Collect and review completed activities and word charts.

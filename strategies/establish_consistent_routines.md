@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Establish Consistent Routines
+description: Use consistent routines and methods of giving instructions to help students know what is expected of them.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Establish Consistent Routines
@@ -35,7 +39,7 @@ Use consistent routines and methods of giving instructions to help students know
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' ability to follow routines independently.

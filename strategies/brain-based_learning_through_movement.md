@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Brain-Based Learning Through Movement
+description: Brain-based learning strategies involve engaging multiple senses and encouraging movement to improve learning and retention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Brain-Based Learning Through Movement
@@ -35,10 +39,10 @@ Brain-based learning strategies involve engaging multiple senses and encouraging
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation, assess understanding through peer teaching sessions, monitor retention through post-activity quizzes or discussions.

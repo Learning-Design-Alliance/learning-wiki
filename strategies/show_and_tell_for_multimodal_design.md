@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Show and Tell for Multimodal Design
+description: Devoting time each week for students to show the effects of different multimodal combinations or tell about their multimodal composition process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Show and Tell for Multimodal Design
@@ -35,9 +39,9 @@ Devoting time each week for students to show the effects of different multimodal
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the quality of student explanations and feedback. Analyze the depth of metacognitive reflection. Assess the extent to which students apply the feedback in their own compositions.

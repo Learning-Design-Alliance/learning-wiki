@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Assessing Needs and Wants with Likert Scales
+description: Using a five-point Likert scale to quantitatively measure student interest and understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Assessing Needs and Wants with Likert Scales
@@ -35,8 +39,8 @@ Using a five-point Likert scale to quantitatively measure student interest and u
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess Performance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Assess Performance](/elements/assess-performance.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Data collected from Likert scales and fill-in responses. Analysis of trends and patterns in student feedback.

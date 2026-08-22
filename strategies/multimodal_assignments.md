@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multimodal Assignments
+description: Multimodal assignments involve a variety of assessment methods that challenge learners to create video or audio projects, write personal essays, or complete quizzes.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multimodal Assignments
@@ -35,14 +39,14 @@ Multimodal assignments involve a variety of assessment methods that challenge le
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
-- [[elements/procedural-information|Procedural information]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Supportive information](/elements/supportive-information.md)
+- [Procedural information](/elements/procedural-information.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Evaluate the creativity, depth of understanding, and quality of the projects. Assess performance on quizzes and essays. Gather feedback from learners on their experiences with multimodal assignments.

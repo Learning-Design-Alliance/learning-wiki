@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pre-Entry Socialization
+description: Pre-entry socialization involves engaging students in brief, positive interactions before they enter the classroom to set a productive tone.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-Entry Socialization
@@ -35,7 +39,7 @@ Pre-entry socialization involves engaging students in brief, positive interactio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior and mood upon entering the classroom. Track the frequency and severity of disruptions.

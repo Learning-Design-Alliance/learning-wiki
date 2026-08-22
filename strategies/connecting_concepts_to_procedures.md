@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connecting Concepts to Procedures
+description: Conceptual understanding must precede and coincide with instruction on procedures.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connecting Concepts to Procedures
@@ -35,9 +39,9 @@ Conceptual understanding must precede and coincide with instruction on procedure
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Evaluates learners’ ability to articulate connections between concepts and procedures through explanations, applications, and problem-solving tasks. Assesses learners’ conceptual understanding using multiple-choice questions and their ability to apply procedures correctly in context.

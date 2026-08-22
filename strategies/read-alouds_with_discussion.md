@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Read-Alouds with Discussion
+description: Teachers read aloud stories about social and emotional learning and facilitate discussions that prompt student self-reflection.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Read-Alouds with Discussion
@@ -35,10 +39,10 @@ Teachers read aloud stories about social and emotional learning and facilitate d
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/modeling|Modeling]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Class Discussion](/elements/class-discussion.md)
+- [Modeling](/elements/modeling.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions, analyze student reflections, and assess their ability to apply SEL skills in real-life situations.

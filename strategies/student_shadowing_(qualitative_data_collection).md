@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Shadowing (Qualitative Data Collection)
+description: A school leader spends time shadowing a student to gather qualitative data about their lived experiences in the school.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Shadowing (Qualitative Data Collection)
@@ -35,8 +39,8 @@ A school leader spends time shadowing a student to gather qualitative data about
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Observation/Shadowing](/elements/observationshadowing.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Identification of areas needing improvement in instructional practices and school climate. Changes in school policies and practices based on shadowing data.

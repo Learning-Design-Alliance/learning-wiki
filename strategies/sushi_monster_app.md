@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Sushi Monster App
+description: A free math app with a playful interface and characters to help kids expand their math skills and knowledge.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Sushi Monster App
@@ -35,9 +39,9 @@ A free math app with a playful interface and characters to help kids expand thei
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track progress and completion rates in the app.

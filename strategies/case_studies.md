@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Case Studies
+description: Case studies involve the use of real-life situations that have occurred.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Case Studies
@@ -35,12 +39,12 @@ Case studies involve the use of real-life situations that have occurred. Cases c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/solution-development|Solution Development]]
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Solution Development](/elements/solution-development.md)
 
 ## Assessment Evidence
 - Assess the learner's answers to open-ended questions and solutions to open-ended problems.

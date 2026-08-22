@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Activities for Student Self-Reflection
+description: This strategy involves creating activities that allow students to reflect on their own learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Activities for Student Self-Reflection
@@ -35,9 +39,9 @@ This strategy involves creating activities that allow students to reflect on the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/practice|Practice]]
-- [[elements/creating-visual-representations|Creating Visual Representations]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](/elements/practice.md)
+- [Creating Visual Representations](/elements/creating-visual-representations.md)
 
 ## Assessment Evidence
 - Improved student self-awareness, increased student ownership of learning, and deeper understanding of math concepts.

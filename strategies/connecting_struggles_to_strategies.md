@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connecting Struggles to Strategies
+description: Connecting struggles to strategies involves explicitly teaching students various problem-solving strategies and helping them understand when and why to use each strategy effectively.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connecting Struggles to Strategies
@@ -35,10 +39,10 @@ Connecting struggles to strategies involves explicitly teaching students various
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/articulation|Articulation]]
-- [[elements/peer-explanation|Peer Explanation]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Articulation](/elements/articulation.md)
+- [Peer Explanation](/elements/peer-explanation.md)
 
 ## Assessment Evidence
 - Track student use of problem-solving strategies, monitor their ability to articulate their learning processes, and observe their success in solving challenging problems.

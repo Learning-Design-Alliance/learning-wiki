@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Putting Empathy in the Curriculum
+description: Explicitly discuss empathy with students and integrate it into existing lessons.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Putting Empathy in the Curriculum
@@ -35,8 +39,8 @@ Explicitly discuss empathy with students and integrate it into existing lessons.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/role-reversal|Role Reversal]]
+- [Case Study](/elements/case-study.md)
+- [Role Reversal](/elements/role-reversal.md)
 
 ## Assessment Evidence
 - Assess student understanding of empathy through written assignments, class discussions, and role-playing activities.

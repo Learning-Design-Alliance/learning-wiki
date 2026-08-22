@@ -1,10 +1,21 @@
 ---
 type: claim
-id: worked-examples-improve-math-performance
+title: Worked examples improve mathematics performance, especially for novices.
 status: review
-last_edited: 2026-04-07
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: sweller-cooper-1985
+    resource: "https://doi.org/10.1037/0022-0663.77.1.59"
+    title: "Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Journal of Educational Psychology, 77*(1), 59-89. [https://doi.org/10.1037/0022-0663.77.1.59](https://doi.org/10.1037/0022-0663.77.1.59)"
+    author: "Sweller, J., & Cooper, G. A"
+  - id: barbieri-booth-2016
+    resource: "https://doi.org/10.1016/j.lindif.2016.04.001"
+    title: "Barbieri, C., & Booth, J. L. (2016). Support for struggling students in algebra: Contributions of incorrect worked examples. *Learning and Individual Differences, 48*, 36-44. [https://doi.org/10.1016/j.lindif.2016.04.001](https://doi.org/10.1016/j.lindif.2016.04.001)"
+    author: "Barbieri, C., & Booth, J. L"
+id: worked-examples-improve-math-performance
 evidence_strength: moderate
-edited_by: Codex
 ---
 
 # Worked examples improve mathematics performance, especially for novices.
@@ -41,6 +52,6 @@ This algebra study found that worked-example variants, including incorrect worke
 The current page supports a moderate claim about mathematics performance, not a definitive universal estimate across all grade bands and formats. Stronger confidence would require a dedicated meta-analysis page or broader synthesis.
 
 ## Related Claims
-- [[claims/worked-examples-reduce-novice-search]]
-- [[claims/worked-examples-with-practice-improve-transfer]]
-- [[claims/erroneous-examples-build-conceptual-knowledge]]
+- [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md)
+- [Pairing worked examples with practice or fading supports transfer better than examples alone.](/claims/worked-examples-with-practice-improve-transfer.md)
+- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](/claims/erroneous-examples-build-conceptual-knowledge.md)

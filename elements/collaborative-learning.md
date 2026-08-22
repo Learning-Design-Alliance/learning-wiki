@@ -1,7 +1,11 @@
 ---
 type: element
+title: Collaborative Learning
+description: Learners work in structured teams to solve problems and complete tasks.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collaborative Learning
@@ -27,17 +31,17 @@ Learners work in structured teams to solve problems and complete tasks.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-constructivism|Social Constructivism]]
-- [[principles/community-of-inquiry|Community of Inquiry]]
+- [Social Constructivism](/principles/social-constructivism.md)
+- [Community of Inquiry](/principles/community-of-inquiry.md)
 
 ## Related Elements
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/group-work|Group Work]]
-- [[elements/inquiry-based-learning|Inquiry-Based Learning]]
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Group Work](/elements/group-work.md)
+- [Inquiry-Based Learning](/elements/inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/jigsaw|Jigsaw]]
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
+- [Jigsaw](/patterns/jigsaw.md)
+- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

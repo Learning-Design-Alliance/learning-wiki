@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Identifying Feelings
+description: Learners identify, label, or match facial expressions and feelings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Identifying Feelings
@@ -35,9 +39,9 @@ Learners identify, label, or match facial expressions and feelings. This can inc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately identify and label feelings in themselves and others. Review written or verbal responses for depth of emotional understanding.

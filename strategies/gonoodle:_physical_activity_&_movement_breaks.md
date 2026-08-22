@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "GoNoodle: Physical Activity & Movement Breaks"
+description: GoNoodle offers videos and activities to encourage physical activity and movement breaks through gestures and movement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # GoNoodle: Physical Activity & Movement Breaks
@@ -35,8 +39,8 @@ GoNoodle offers videos and activities to encourage physical activity and movemen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' engagement and participation in the activities. Assess their understanding of the concepts being taught.

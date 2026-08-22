@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Fostering Self-Advocacy and Self-Determination
+description: This involves prioritizing self-advocacy and self-determination skills in education systems to improve educational and life outcomes for students with disabilities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Fostering Self-Advocacy and Self-Determination
@@ -35,10 +39,10 @@ This involves prioritizing self-advocacy and self-determination skills in educat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Measure self-advocacy skills and self-determination. Track educational and life outcomes. Assess student engagement and satisfaction.

@@ -1,8 +1,28 @@
 ---
 type: principle
+title: Self-monitoring
+description: "Self-monitoring is the practice of checking one's current understanding, performance, strategy use, or progress against a goal, model, or success criterion."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: bol-2016
+    resource: "https://doi.org/10.1080/10668926.2015.1068718"
+    title: "Bol, L., Campbell, K. D. Y., Perez, T., & Yen, C. J. (2016). The effects of self-regulated learning training on community college students' metacognition and achievement in developmental math courses. *Community College Journal of Research and Practice, 40*(6), 480-495"
+    author: "Bol, L., Campbell, K. D. Y., Perez, T., & Yen, C. J"
+  - id: cho-2010
+    resource: "https://doi.org/10.1080/10494820802602670"
+    title: "Cho, K., Cho, M. H., & Hacker, D. J. (2010). Self-monitoring support for learning to write. *Interactive Learning Environments, 18*(2), 101-113"
+    author: "Cho, K., Cho, M. H., & Hacker, D. J"
+  - id: farrell-2008
+    resource: "https://doi.org/10.1007/BF03391729"
+    title: "Farrell, A., & McDougall, D. (2008). Self-monitoring of pace to improve math fluency of high school students with disabilities. *Behavior Analysis in Practice, 1*(2), 26-35"
+    author: "Farrell, A., & McDougall, D"
+  - id: ghanizadeh-2017
+    resource: "https://doi.org/10.1007/s10734-016-0031-y"
+    title: "Ghanizadeh, A. (2017). The interplay between reflective thinking, critical thinking, self-monitoring, and academic achievement in higher education. *Higher Education, 74*(1), 101-114"
+    author: Ghanizadeh, A
 ---
 
 # Self-monitoring
@@ -13,7 +33,7 @@ Self-monitoring is the practice of checking one's current understanding, perform
 Self-monitoring can be applied to reading comprehension, writing, math problem solving, behavior, pacing, attention, or persistence. It is strongest when learners have explicit criteria and some realistic action they can take in response to what they notice. Without that structure, requests to "monitor yourself" often collapse into vague self-report rather than useful regulation.
 
 ## Implications
-Self-monitoring improves learning because effort becomes more useful when learners can compare current performance to a target and respond while the task is still in progress [[claims/self-monitoring-improves-self-regulation]] [+M]. Clear goals also matter: learners monitor more accurately when they know what success looks like and what counts as progress [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]. For novices, self-monitoring often needs process cues and structured checkpoints before it becomes accurate or efficient [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]. Without those supports, “monitor yourself” often collapses into vague self-report.
+Self-monitoring improves learning because effort becomes more useful when learners can compare current performance to a target and respond while the task is still in progress [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]. Clear goals also matter: learners monitor more accurately when they know what success looks like and what counts as progress [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]. For novices, self-monitoring often needs process cues and structured checkpoints before it becomes accurate or efficient [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. Without those supports, “monitor yourself” often collapses into vague self-report.
 
 ### Context
 #### Requirements
@@ -49,15 +69,15 @@ Self-monitoring improves learning because effort becomes more useful when learne
 - Learners often need modeling, calibration, and prompts before self-monitoring becomes accurate or efficient.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [+M] — learners regulate better when they regularly check their understanding or performance against a target
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S] — monitoring works better when the learner has a clear, challenging standard to compare against
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M] — beginners often need concrete monitoring routines tied to process, not only end-state outcomes
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — learners regulate better when they regularly check their understanding or performance against a target
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — monitoring works better when the learner has a clear, challenging standard to compare against
+- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — beginners often need concrete monitoring routines tied to process, not only end-state outcomes
 
 ## Related Principles
-- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]] — monitoring depends on having a target worth tracking.
-- [[principles/formative-assessment|Formative Assessment]] — monitoring improves when learners receive evidence about current performance.
-- [[principles/purposeful-reflection|Purposeful Reflection]] — reflection often uses self-monitoring data to plan next steps.
-- [[principles/guided-practice|Guided Practice]] — learners often need coached monitoring before doing it independently.
+- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md) — monitoring depends on having a target worth tracking.
+- [Formative Assessment](/principles/formative-assessment.md) — monitoring improves when learners receive evidence about current performance.
+- [Purposeful Reflection](/principles/purposeful-reflection.md) — reflection often uses self-monitoring data to plan next steps.
+- [Guided Practice](/principles/guided-practice.md) — learners often need coached monitoring before doing it independently.
 
 ## Examples
 - **Reading check stops**: Learners pause after a section to summarize, note confusion, and choose a repair strategy.

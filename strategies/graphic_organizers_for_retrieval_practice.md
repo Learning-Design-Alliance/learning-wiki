@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers for Retrieval Practice
+description: Students recall as much as they can about a topic (Brain Dump) and then sort their dumped information into a graphic organizer.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers for Retrieval Practice
@@ -35,8 +39,8 @@ Students recall as much as they can about a topic (Brain Dump) and then sort the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/practice|Practice]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Completeness of recalled information and quality of organization.

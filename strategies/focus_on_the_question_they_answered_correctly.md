@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Focus on the Question They Answered Correctly
+description: Instead of focusing on a student’s mistake, instructors identify the question a student answered correctly, even if it’s different than the one asked.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Focus on the Question They Answered Correctly
@@ -35,8 +39,8 @@ Instead of focusing on a student’s mistake, instructors identify the question 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Increased student confidence, increased class participation, higher test scores

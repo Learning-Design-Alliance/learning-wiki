@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Establish Ground Rules for Peer Critique
+description: Establishing ground rules for peer critique ensures that the process is productive, respectful, and beneficial for all learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Establish Ground Rules for Peer Critique
@@ -35,9 +39,9 @@ Establishing ground rules for peer critique ensures that the process is producti
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observation of group interactions to assess learners' adherence to the ground rules. Analysis of feedback provided by learners to assess the quality and effectiveness of their critique.

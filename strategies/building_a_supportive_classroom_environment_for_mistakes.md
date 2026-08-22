@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Building a Supportive Classroom Environment for Mistakes
+description: This strategy focuses on specific actions to foster a learning environment where mistakes are seen as opportunities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Building a Supportive Classroom Environment for Mistakes
@@ -35,12 +39,12 @@ This strategy focuses on specific actions to foster a learning environment where
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Practice](/elements/practice.md)
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Increased student participation, willingness to take risks, improved problem-solving skills, and positive attitudes toward mistakes. Observable changes in teacher feedback and evaluation practices.

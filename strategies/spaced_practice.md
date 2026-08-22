@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Spaced Practice
+description: Spaced practice involves distributing learning sessions over time, contrasting with massed practice (cramming).
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Spaced Practice
@@ -35,10 +39,10 @@ Spaced practice involves distributing learning sessions over time, contrasting w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/continuous-review|Continuous Review]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Continuous Review](/elements/continuous-review.md)
 
 ## Assessment Evidence
 - Track learner performance over time to measure retention. Compare results of spaced practice versus massed practice. Monitor learner engagement and adherence to study schedules.

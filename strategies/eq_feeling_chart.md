@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: EQ Feeling Chart
+description: Pair students and check-in with each other using an EQ Feeling Chart.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # EQ Feeling Chart
@@ -35,8 +39,8 @@ Pair students and check-in with each other using an EQ Feeling Chart. Facilitate
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement in discussions. Collect student feedback on the activity to assess its effectiveness.

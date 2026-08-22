@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Discussion Web
+description: A discussion web is a graphic organizer that enables students to examine both sides of an issue before agreeing on a conclusion, promoting deeper processing of texts through meaningful conversational discussion.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Discussion Web
@@ -35,10 +39,10 @@ A discussion web is a graphic organizer that enables students to examine both si
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/argument-construction|Argument Construction]]
-- [[elements/assigned-positions|Assigned Positions]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Argument Construction](/elements/argument-construction.md)
+- [Assigned Positions](/elements/assigned-positions.md)
 
 ## Assessment Evidence
 - Monitor the quality and depth of student responses in the discussion web. Evaluate the level of critical thinking demonstrated in the responses. Assess the effectiveness of group collaboration through observation and participation.

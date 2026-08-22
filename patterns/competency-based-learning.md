@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Competency-Based Learning
+description: Competency-Based Learning is a pattern that organizes progression around demonstrated competence on defined outcomes rather than uniform pacing.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: competency-based education tradition
 grain_size: course
 ---
@@ -39,13 +42,13 @@ Competency-Based Learning is a pattern that organizes progression around demonst
 ### Theory
 #### Supporting
 - Mastery learning and criterion-referenced assessment traditions.
-- [[theories/self-regulated-learning|Self-Regulated Learning]]
+- [Self-Regulated Learning](/theories/self-regulated-learning.md)
 #### Contradicting / Qualifying
 - Competency frameworks can become reductive if complex performance is broken into isolated fragments.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Design
 
@@ -57,17 +60,17 @@ Competency-Based Learning is a pattern that organizes progression around demonst
 5. Reassess and advance on demonstrated competence.
 
 ### Elements Used
-- [[elements/assessment|Assessment]]
-- [[elements/feedback|Feedback]]
-- [[elements/reassessment|Reassessment]]
+- [Assessment](/elements/assessment.md)
+- [Feedback](/elements/feedback.md)
+- [Reassessment](/elements/reassessment.md)
 
 ### Affordances
-- [[principles/competency-based-learning-assessment|Competency-Based Learning & Assessment]]
-- [[principles/mastery-learning|Mastery Learning]]
-- [[principles/formative-assessment|Formative Assessment]]
+- [Competency-Based Learning & Assessment](/principles/competency-based-learning-assessment.md)
+- [Mastery Learning](/principles/mastery-learning.md)
+- [Formative Assessment](/principles/formative-assessment.md)
 
 ## Related Patterns
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Mastery Learning](/patterns/mastery-learning.md)
 
 ## Examples
 - A competency map that lets learners reassess specific standards until they show proficiency.

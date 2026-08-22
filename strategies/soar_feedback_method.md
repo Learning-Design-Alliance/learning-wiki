@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: SOAR Feedback Method
+description: The SOAR method helps maximize the impact of feedback on student writing by ensuring it is Specific, Ongoing, Action-Oriented, and Reasonable.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # SOAR Feedback Method
@@ -35,8 +39,8 @@ The SOAR method helps maximize the impact of feedback on student writing by ensu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Improvement in student writing quality over time, increased student engagement with the writing process, and positive changes in student attitudes towards writing and feedback.

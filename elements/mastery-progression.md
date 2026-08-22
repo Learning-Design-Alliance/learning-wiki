@@ -1,7 +1,11 @@
 ---
 type: element
+title: Mastery Progression
+description: Learners cannot advance until they demonstrate mastery of foundational content.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mastery Progression
@@ -27,17 +31,17 @@ Learners cannot advance until they demonstrate mastery of foundational content.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/behaviorism|Behaviorism]]
-- [[principles/deliberate-practice|Deliberate Practice]]
-- [[principles/reinforcement-theory|Reinforcement Theory]]
+- [Behaviorism](/principles/behaviorism.md)
+- [Deliberate Practice](/principles/deliberate-practice.md)
+- [Reinforcement Theory](/principles/reinforcement-theory.md)
 
 ## Related Elements
-- [[elements/mastery-learning|Mastery Learning]]
-- [[elements/competency-based-learning|Competency-Based Learning]]
-- [[elements/spaced-repetition|Spaced Repetition]]
+- [Mastery Learning](/elements/mastery-learning.md)
+- [Competency-Based Learning](/elements/competency-based-learning.md)
+- [Spaced Repetition](/elements/spaced-repetition.md)
 
 ## Patterns That Use This Element
-- [[patterns/game-based-mastery-learning|Game-Based Mastery Learning]]
+- [Game-Based Mastery Learning](/patterns/game-based-mastery-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

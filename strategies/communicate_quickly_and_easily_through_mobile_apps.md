@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Communicate Quickly and Easily Through Mobile Apps
+description: Mobile apps like Remind can provide a quick and easy way for parents, teachers, and students to communicate about student progress, assignments, and other school-related activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Communicate Quickly and Easily Through Mobile Apps
@@ -35,8 +39,8 @@ Mobile apps like Remind can provide a quick and easy way for parents, teachers, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track frequency of communication between teachers and parents. Monitor student attendance and academic performance. Gather feedback from parents on the usefulness of the app.

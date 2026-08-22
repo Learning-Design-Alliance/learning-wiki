@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Expressing Interest in Ethnic Background
+description: "Teachers demonstrate genuine care for students' cultural needs by encouraging them to research and share their ethnic backgrounds, fostering a trusting classroom environment."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Expressing Interest in Ethnic Background
@@ -35,10 +39,10 @@ Teachers demonstrate genuine care for students' cultural needs by encouraging th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Student presentations and research papers, classroom discussions, teacher observations of student interactions.

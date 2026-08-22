@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers as Text Illustrations
+description: Students add a graphic organizer to a finished expository or argumentative writing piece to illustrate a key concept or process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers as Text Illustrations
@@ -35,8 +39,8 @@ Students add a graphic organizer to a finished expository or argumentative writi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Application](/elements/application.md)
+- [Integration](/elements/integration.md)
 
 ## Assessment Evidence
 - Clarity and effectiveness of the illustration in supporting the written content.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Culture Responsive Instruction
+description: Creating culture responsive instruction asks teachers to provide culturally responsive instruction for their students by making standards-based content and curricula accessible to students and teaching in a way that students can understand.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Culture Responsive Instruction
@@ -35,10 +39,10 @@ Creating culture responsive instruction asks teachers to provide culturally resp
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student engagement, participation, cultural understanding, and improved academic performance.

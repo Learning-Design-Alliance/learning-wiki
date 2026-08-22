@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Encouraging Help-Seeking Behavior
+description: Creating a classroom environment where students feel comfortable asking for help.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Encouraging Help-Seeking Behavior
@@ -35,9 +39,9 @@ Creating a classroom environment where students feel comfortable asking for help
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-interaction|Peer Interaction]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Peer Interaction](/elements/peer-interaction.md)
 
 ## Assessment Evidence
 - Increased student participation in discussions, proactive seeking of support, and positive attitudes towards asking for help.

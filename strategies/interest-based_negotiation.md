@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Interest-Based Negotiation
+description: Interest-Based Negotiation involves establishing different perspectives, backgrounds, interests, and options for resolution, creating a single team out of the interested parties.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Interest-Based Negotiation
@@ -35,13 +39,13 @@ Interest-Based Negotiation involves establishing different perspectives, backgro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-positions|Assigned Positions]]
-- [[elements/argument-construction|Argument Construction]]
-- [[elements/role-reversal|Role Reversal]]
-- [[elements/consensus-building|Consensus Building]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/reassessment|Reassessment]]
+- [Assigned Positions](/elements/assigned-positions.md)
+- [Argument Construction](/elements/argument-construction.md)
+- [Role Reversal](/elements/role-reversal.md)
+- [Consensus Building](/elements/consensus-building.md)
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Individual Response](/elements/individual-response.md)
+- [Reassessment](/elements/reassessment.md)
 
 ## Assessment Evidence
 - Observation of collaborative behavior, participation in negotiation activities, quality of solutions developed, feedback from learners.

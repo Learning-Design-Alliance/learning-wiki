@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Historically Responsive Literacy
+description: Historically Responsive Literacy (HRL) is a framework that seeks to cultivate literacy, intellect, and self-efficacy by connecting learning deeply to who we are and what agency we have in the world.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Historically Responsive Literacy
@@ -35,9 +39,9 @@ Historically Responsive Literacy (HRL) is a framework that seeks to cultivate li
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Discussion Sections](/elements/discussion-sections.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Increased student engagement and participation, improved literacy skills, and greater understanding of Black history and culture.

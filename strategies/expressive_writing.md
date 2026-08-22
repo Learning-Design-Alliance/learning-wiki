@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Expressive Writing
+description: Expressive writing involves putting thoughts and feelings into words, often focusing on emotionally charged or stressful experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Expressive Writing
@@ -35,9 +39,9 @@ Expressive writing involves putting thoughts and feelings into words, often focu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved test scores, reduced math anxiety, enhanced emotional regulation, decreased stress levels, improved working memory capacity.

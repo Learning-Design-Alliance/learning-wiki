@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Class Book
+description: Class books involve students creating individual pages that are compiled into a single book.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Class Book
@@ -35,9 +39,9 @@ Class books involve students creating individual pages that are compiled into a 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/revision|Revision]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Revision](/elements/revision.md)
 
 ## Assessment Evidence
 - Assess the quality and accuracy of individual pages, looking for clear explanations and effective representations of concepts. Evaluate the overall coherence and completeness of the class book.

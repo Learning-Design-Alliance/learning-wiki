@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Prewriting Activities
+description: Engage in brainstorming before beginning to draft a composition.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Prewriting Activities
@@ -35,9 +39,9 @@ Engage in brainstorming before beginning to draft a composition. Has a positive 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Gain attention](/elements/gain-attention.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased idea generation, greater vocabulary use

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Dolch Sight Word List - Flash Cards
+description: Sets of printable flash cards for Dolch sight words, organized by grade level.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Dolch Sight Word List - Flash Cards
@@ -35,8 +39,8 @@ Sets of printable flash cards for Dolch sight words, organized by grade level. E
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess student speed and accuracy in identifying sight words. Monitor progress in recognizing words over time.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student-Driven Classroom Transformation
+description: Involving students in the design and transformation of their learning environment to promote ownership, engagement, and a sense of community.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student-Driven Classroom Transformation
@@ -35,10 +39,10 @@ Involving students in the design and transformation of their learning environmen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/cognitive-conflict|Cognitive Conflict]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Cognitive Conflict](/elements/cognitive-conflict.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Observe student engagement, collect student feedback, and assess the overall impact on teaching and learning.

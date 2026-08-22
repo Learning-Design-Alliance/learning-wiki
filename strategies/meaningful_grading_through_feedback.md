@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Meaningful Grading Through Feedback
+description: Grades should represent multiple opportunities for students to demonstrate learning based on descriptive, concrete, and actionable feedback.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Meaningful Grading Through Feedback
@@ -35,9 +39,9 @@ Grades should represent multiple opportunities for students to demonstrate learn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Student understanding of grading criteria, quality of feedback

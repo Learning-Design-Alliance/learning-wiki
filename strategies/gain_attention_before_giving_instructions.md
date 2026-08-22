@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Gain Attention Before Giving Instructions
+description: Use techniques such as clapping or knocking to signal students to stop, look, and listen before giving instructions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Gain Attention Before Giving Instructions
@@ -35,7 +39,7 @@ Use techniques such as clapping or knocking to signal students to stop, look, an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
+- [Gain attention](/elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe student responsiveness to the attention signal.

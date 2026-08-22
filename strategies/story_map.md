@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Story Map
+description: Story maps are graphic organizers that help learners visually represent and understand the key elements of a narrative, such as characters, setting, plot, conflict, and resolution.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Story Map
@@ -35,12 +39,12 @@ Story maps are graphic organizers that help learners visually represent and unde
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/advance-organizers|Advance Organizers]]
-- [[elements/practice|Practice]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Advance Organizers](/elements/advance-organizers.md)
+- [Practice](/elements/practice.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess learners' ability to identify and organize story elements, track improvements in comprehension of narrative text, analyze the depth and specificity of student responses in story maps

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Free Math Worksheets
+description: Free math worksheets provide accessible and structured practice materials to support math learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Free Math Worksheets
@@ -35,10 +39,10 @@ Free math worksheets provide accessible and structured practice materials to sup
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Assigned Readings](/elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Track completion rates and accuracy on worksheets. Monitor learner progress over time. Identify common errors to inform instruction.

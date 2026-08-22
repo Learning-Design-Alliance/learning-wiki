@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Incorporate Technology into Reflection
+description: "This strategy involves leveraging students' familiarity with technology to create more engaging and interactive reflection opportunities."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Incorporate Technology into Reflection
@@ -35,9 +39,9 @@ This strategy involves leveraging students' familiarity with technology to creat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased student engagement, deeper understanding of math concepts, and improved metacognition.

@@ -1,7 +1,11 @@
 ---
 type: element
+title: Hypertext Navigation
+description: Learners explore interconnected digital content at their own pace.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Hypertext Navigation
@@ -27,17 +31,17 @@ Learners explore interconnected digital content at their own pace.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/constructivist-learning|Constructivist Learning]]
-- [[principles/cognitive-load-theory|Cognitive Load Theory]]
+- [Constructivist Learning](/principles/constructivist-learning.md)
+- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
 
 ## Related Elements
-- [[elements/digital-learning|Digital Learning]]
-- [[elements/multimedia-learning|Multimedia Learning]]
-- [[elements/self-paced-learning|Self-Paced Learning]]
+- [Digital Learning](/elements/digital-learning.md)
+- [Multimedia Learning](/elements/multimedia-learning.md)
+- [Self-Paced Learning](/elements/self-paced-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/adaptive-learning|Adaptive Learning]]
-- [[patterns/multimedia-learning|Multimedia Learning]]
+- [Adaptive Learning](/patterns/adaptive-learning.md)
+- [Multimedia Learning](/patterns/multimedia-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

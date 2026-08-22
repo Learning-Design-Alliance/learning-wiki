@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Modified Grading Scale
+description: Shift away from the 0-100 scale, which punishes students severely for missing work, and use a more compressed scale like 0-4 to diminish the impact of a single missed assignment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Modified Grading Scale
@@ -35,7 +39,7 @@ Shift away from the 0-100 scale, which punishes students severely for missing wo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Number of failing grades

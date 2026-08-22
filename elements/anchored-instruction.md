@@ -1,8 +1,16 @@
 ---
 type: element
+title: Anchored Instruction
+description: "Anchored instruction situates learning around a shared, meaningful scenario or \"anchor\" that gives learners a concrete context for inquiry, analysis, and problem solving."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: cognition-and-technology-group-at-vanderbilt-1990
+    resource: "https://doi.org/10.3102/0013189X019006002"
+    title: "Cognition and Technology Group at Vanderbilt. (1990). Anchored instruction and its relationship to situated cognition. *Educational Researcher, 19*(6), 2-10"
+    author: Cognition and Technology Group at Vanderbilt
 ---
 
 # Anchored Instruction
@@ -39,13 +47,13 @@ Anchored instruction situates learning around a shared, meaningful scenario or "
 - Creates a natural bridge between explanation and application
 
 ## Related Elements
-- [[elements/case-study|Case Study]]
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/application|Application]]
+- [Case Study](/elements/case-study.md)
+- [Problem Scenario](/elements/problem-scenario.md)
+- [Application](/elements/application.md)
 
 ## Patterns That Use This Element
-- [[patterns/anchored-instruction|Anchored Instruction]]
-- [[patterns/goal-based-scenarios-gbs|Goal-Based Scenarios (GBS)]]
+- [Anchored Instruction](/patterns/anchored-instruction.md)
+- [Goal-Based Scenarios (GBS)](/patterns/goal-based-scenarios-gbs.md)
 
 ## Examples
 - A video case anchors a unit on environmental decision making

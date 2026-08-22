@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Exercise for Cognitive Enhancement
+description: Regular physical exercise boosts cognitive function by increasing neurotransmitter levels, promoting neurogenesis in the hippocampus, and improving focus and attention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Exercise for Cognitive Enhancement
@@ -35,9 +39,9 @@ Regular physical exercise boosts cognitive function by increasing neurotransmitt
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Improved mood, enhanced focus and attention, increased long-term memory, better cognitive performance, and reduced risk of cognitive decline.

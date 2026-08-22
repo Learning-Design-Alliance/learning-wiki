@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Video Report Cards
+description: Sending parents a link to a personalized video that provides context about their child’s report card, such as a history of the child’s performance in core subjects, areas for growth, and recommendations to further support the child’s…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Video Report Cards
@@ -35,9 +39,9 @@ Sending parents a link to a personalized video that provides context about their
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Demonstration](/elements/demonstration.md)
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Gather feedback from parents on the usefulness of video report cards, track parent understanding of student progress

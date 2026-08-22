@@ -1,7 +1,11 @@
 ---
 type: element
+title: Class Discussion
+description: Structured conversations where learners analyze and reflect on content.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Class Discussion
@@ -27,17 +31,17 @@ Structured conversations where learners analyze and reflect on content.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-constructivism|Social Constructivism]]
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
+- [Social Constructivism](/principles/social-constructivism.md)
+- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [[elements/socratic-questioning|Socratic Questioning]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Socratic Questioning](/elements/socratic-questioning.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Patterns That Use This Element
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

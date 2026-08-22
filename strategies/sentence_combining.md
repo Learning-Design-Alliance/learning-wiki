@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Sentence Combining
+description: Practice how to combine two simple sentences into a compound or complex sentence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Sentence Combining
@@ -35,9 +39,9 @@ Practice how to combine two simple sentences into a compound or complex sentence
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased sentence variety, greater reading comprehension

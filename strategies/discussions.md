@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Discussions
+description: Engage learners in text-based discussions where they discuss what they read with each other, and teachers set expectations and routines for productive discussions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Discussions
@@ -35,9 +39,9 @@ Engage learners in text-based discussions where they discuss what they read with
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Participation in discussions, demonstrated understanding of the text, and ability to articulate ideas and respond to others.

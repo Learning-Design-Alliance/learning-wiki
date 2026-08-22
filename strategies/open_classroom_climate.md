@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Open Classroom Climate
+description: An open classroom climate is a learning environment where students feel safe to discuss social and political issues and express their opinions freely without judgment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Open Classroom Climate
@@ -35,9 +39,9 @@ An open classroom climate is a learning environment where students feel safe to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Monitor student participation and engagement in discussions, assess the quality of their arguments and reasoning, and evaluate their ability to consider diverse perspectives. Journal entries and written reflections can provide insights into student learning and attitude shifts.

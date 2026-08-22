@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Provide Instructions Before Starting Work
+description: Ensure instructions are given before learners begin their tasks to avoid confusion and errors.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Provide Instructions Before Starting Work
@@ -35,7 +39,7 @@ Ensure instructions are given before learners begin their tasks to avoid confusi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
+- [State objectives](/elements/state-objectives.md)
 
 ## Assessment Evidence
 - Observe task completion rates and accuracy.

@@ -1,8 +1,11 @@
 ---
 type: element
+title: Challenge Identification
+description: Challenge identification is the element in which learners or instructors surface the central obstacle, tension, or problem to be addressed.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Challenge Identification
@@ -11,7 +14,7 @@ edited_by: Codex
 Challenge identification is the element in which learners or instructors surface the central obstacle, tension, or problem to be addressed.
 
 ## Affordances
-- [[principles/problem-based-learning|Problem-Based Learning]]
+- [Problem-Based Learning](/principles/problem-based-learning.md)
 
 ## Related Elements
-- [[elements/problem-scenarios|Problem Scenarios]]
+- [Problem Scenarios](/elements/problem-scenarios.md)

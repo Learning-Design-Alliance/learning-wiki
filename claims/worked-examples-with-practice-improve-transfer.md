@@ -1,10 +1,21 @@
 ---
 type: claim
-id: worked-examples-with-practice-improve-transfer
+title: Pairing worked examples with practice or fading supports transfer better than examples alone.
 status: review
-last_edited: 2026-04-07
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: van-gog-et-al-2011
+    resource: "https://doi.org/10.1016/j.cedpsych.2010.10.004"
+    title: "Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212-218. [https://doi.org/10.1016/j.cedpsych.2010.10.004](https://doi.org/10.1016/j.cedpsych.2010.10.004)"
+    author: "Van Gog, T., Kester, L., & Paas, F"
+  - id: renkl-atkinson-2003
+    resource: "https://doi.org/10.1207/S15326985EP3801_3"
+    title: "Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. *Educational Psychologist, 38*(1), 15-22. [https://doi.org/10.1207/S15326985EP3801_3](https://doi.org/10.1207/S15326985EP3801_3)"
+    author: "Renkl, A., & Atkinson, R. K"
+id: worked-examples-with-practice-improve-transfer
 evidence_strength: moderate
-edited_by: Codex
 ---
 
 # Pairing worked examples with practice or fading supports transfer better than examples alone.
@@ -41,6 +52,6 @@ Renkl and Atkinson argue that instructional design should not stop at example st
 This claim is about sequence design, not mere inclusion. Examples that are never followed by application can produce familiarity without independent competence.
 
 ## Related Claims
-- [[claims/worked-examples-reduce-novice-search]]
-- [[claims/worked-examples-less-effective-with-expertise]]
-- [[claims/worked-examples-example-problem-sequences]]
+- [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md)
+- [Worked-example guidance becomes less effective as learner expertise increases.](/claims/worked-examples-less-effective-with-expertise.md)
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](/claims/worked-examples-example-problem-sequences.md)

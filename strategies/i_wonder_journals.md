@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: I Wonder Journals
+description: At Crellin Elementary School in Oakland, Maryland, teachers encouraged students to ask “I wonder” questions to push their learning beyond the classroom.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # I Wonder Journals
@@ -35,8 +39,8 @@ At Crellin Elementary School in Oakland, Maryland, teachers encouraged students 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/question-formulation|Question Formulation]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Question Formulation](/elements/question-formulation.md)
 
 ## Assessment Evidence
 - Review student journals to assess understanding and identify areas of curiosity.

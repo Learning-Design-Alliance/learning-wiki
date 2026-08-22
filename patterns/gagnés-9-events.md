@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: "Gagné's 9 Events"
+description: "Gagné's 9 Events is a lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: Robert Gagne
 grain_size: lesson
 ---
@@ -34,14 +37,14 @@ Gagné's 9 Events is a lesson pattern that sequences attention, objectives, reca
 
 ### Theory
 #### Supporting
-- [[theories/information-processing-theory|Information Processing Theory]]
+- [Information Processing Theory](/theories/information-processing-theory.md)
 - Guided instruction traditions
 #### Contradicting / Qualifying
 - Inquiry-heavy work may need nonlinear movement across the events.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
 
 ## Design
 
@@ -57,18 +60,18 @@ Gagné's 9 Events is a lesson pattern that sequences attention, objectives, reca
 9. Enhance retention and transfer.
 
 ### Elements Used
-- [[elements/activation|Activation]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assessment|Assessment]]
+- [Activation](/elements/activation.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Assessment](/elements/assessment.md)
 
 ### Affordances
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/immediate-feedback|Immediate Feedback]]
-- [[principles/formative-assessment|Formative Assessment]]
+- [Guided Practice](/principles/guided-practice.md)
+- [Immediate Feedback](/principles/immediate-feedback.md)
+- [Formative Assessment](/principles/formative-assessment.md)
 
 ## Related Patterns
-- [[patterns/gagnés-9-events-of-instruction|Gagné's 9 Events of Instruction]]
+- [Gagné's 9 Events of Instruction](/patterns/gagnés-9-events-of-instruction.md)
 
 ## Examples
 - A direct-instruction lesson that moves from prior knowledge activation to guided practice and transfer.

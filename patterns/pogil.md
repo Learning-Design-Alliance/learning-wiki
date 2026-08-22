@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: POGIL
+description: POGIL is the short-form canonical target for Process-Oriented Guided Inquiry Learning.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: POGIL tradition
 grain_size: lesson
 ---
@@ -33,21 +36,21 @@ POGIL is the short-form canonical target for Process-Oriented Guided Inquiry Lea
 
 ### Theory
 #### Supporting
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
-- [[principles/social-learning|Social Learning]]
+- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Social Learning](/principles/social-learning.md)
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
 
 ## Design
 
 ### Elements Used
-- [[elements/guided-discovery|Guided Discovery]]
-- [[elements/differentiated-team-roles|Differentiated Team Roles]]
-- [[elements/peer-explanation|Peer Explanation]]
+- [Guided Discovery](/elements/guided-discovery.md)
+- [Differentiated Team Roles](/elements/differentiated-team-roles.md)
+- [Peer Explanation](/elements/peer-explanation.md)
 
 ### Related Patterns
-- [[patterns/process-oriented-guided-inquiry-learning-pogil|Process-Oriented Guided Inquiry Learning (POGIL)]]
+- [Process-Oriented Guided Inquiry Learning (POGIL)](/patterns/process-oriented-guided-inquiry-learning-pogil.md)
 
 ## Key Sources
 - Moog, R. S., & Spencer, J. N. (Eds.). (2008). *Process oriented guided inquiry learning (POGIL)*. ACS Symposium Series.

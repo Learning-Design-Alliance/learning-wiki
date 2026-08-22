@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Debate Format
+description: Debate format is a structured discussion pattern in which learners prepare positions, present arguments, respond to opposing claims, and justify conclusions within a defined sequence.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: vo-2006
+    resource: "https://doi.org/10.3200/JECE.37.3.315-331"
+    title: "Vo, H. X., & Morris, R. L. (2006). Debate as a tool in teaching economics: Rationale, techniques, and some evidence. *Journal of Economic Education, 37*(3), 315-331"
+    author: "Vo, H. X., & Morris, R. L"
 author: classical rhetoric tradition
 grain_size: lesson
 ---
@@ -52,11 +60,11 @@ The pattern can take many forms, but the core features are role clarity, timed t
 
 ### Claims
 #### Supporting
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -68,16 +76,16 @@ The pattern can take many forms, but the core features are role clarity, timed t
 5. Debrief the quality of reasoning, evidence use, and what learners now think.
 
 ### Elements Used
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/feedback|Feedback]]
-- [[elements/assessment|Assessment]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Class Discussion](/elements/class-discussion.md)
+- [Feedback](/elements/feedback.md)
+- [Assessment](/elements/assessment.md)
 
 ### Affordances
-- [[principles/debate|Debate]]
-- [[principles/perspective-seekingmultiple-perspectives|Perspective-Seeking/Multiple Perspectives]]
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/positive-self-talk|Positive Self-Talk]]
+- [Debate](/principles/debate.md)
+- [Perspective-Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md)
+- [Peer Discussion](/principles/peer-discussion.md)
+- [Positive Self-Talk](/principles/positive-self-talk.md)
 
 ### Personalization
 - Learners can debate individually, in pairs, or in teams depending on confidence and skill.
@@ -85,8 +93,8 @@ The pattern can take many forms, but the core features are role clarity, timed t
 - Some debates can culminate in position revision rather than fixed winner/loser outcomes.
 
 ## Related Patterns
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[patterns/structured-academic-controversy-sac|Structured Academic Controversy (SAC)]]
+- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Structured Academic Controversy (SAC)](/patterns/structured-academic-controversy-sac.md)
 
 ## Examples
 - Civics learners debating policy approaches using evidence from assigned sources.

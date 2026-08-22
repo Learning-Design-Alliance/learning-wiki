@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Home Literacy Environment Checklist
+description: This checklist is a tool designed to help parents assess and enhance the literacy-richness of their home environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Home Literacy Environment Checklist
@@ -35,10 +39,10 @@ This checklist is a tool designed to help parents assess and enhance the literac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - The number of statements checked as 'true' provides a quantitative measure of the home literacy environment. Qualitative insights can be gained through follow-up discussions with parents about their responses and planned actions.

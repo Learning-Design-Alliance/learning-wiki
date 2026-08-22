@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Project-Based Learning (PBL)
+description: Project Based Learning is a teaching method in which learners gain knowledge and skills by working for an extended period of time to investigate and respond to an engaging and complex question, problem, or challenge.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Project-Based Learning (PBL)
@@ -35,12 +39,12 @@ Project Based Learning is a teaching method in which learners gain knowledge and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-task-performance|Whole-task performance]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/solution-development|Solution Development]]
+- [Whole-task performance](/elements/whole-task-performance.md)
+- [Application](/elements/application.md)
+- [Integration](/elements/integration.md)
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Inquiry and Research](/elements/inquiry-and-research.md)
+- [Solution Development](/elements/solution-development.md)
 
 ## Assessment Evidence
 - Track learner progress on project milestones, assess the quality of their final product, and evaluate their ability to apply knowledge and skills to real-world problems. Measure gains in content knowledge, self-confidence, collaboration, and engagement through pre- and post-assessments.

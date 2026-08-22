@@ -1,8 +1,11 @@
 ---
 type: element
+title: Spiral Curriculum
+description: Spiral curriculum is the element in which important ideas are revisited repeatedly over time, with each return expanding complexity or depth.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Spiral Curriculum
@@ -23,17 +26,17 @@ Spiral curriculum is the element in which important ideas are revisited repeated
 - Build cumulative understanding and more durable transfer over time.
 
 ### Affordances
-- [[principles/memory-consolidation|Memory Consolidation]]
-- [[principles/spaced-learning|Spaced Learning]]
+- [Memory Consolidation](/principles/memory-consolidation.md)
+- [Spaced Learning](/principles/spaced-learning.md)
 
 ## Related Elements
-- [[elements/continuous-review|Continuous Review]]
-- [[elements/spaced-repetition|Spaced Repetition]]
-- [[elements/scaffolding|Scaffolding]]
+- [Continuous Review](/elements/continuous-review.md)
+- [Spaced Repetition](/elements/spaced-repetition.md)
+- [Scaffolding](/elements/scaffolding.md)
 
 ## Patterns That Use This Element
-- [[patterns/elaboration-theory|Elaboration Theory]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Elaboration Theory](/patterns/elaboration-theory.md)
+- [Mastery Learning](/patterns/mastery-learning.md)
 
 ## Examples
 - Revisiting proportional reasoning across grades with increasing abstraction and application.

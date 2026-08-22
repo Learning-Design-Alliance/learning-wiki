@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Content Word Signal
+description: "Using a content \"word of the week\" to signal that it's time for silence involves selecting a term related to the current curriculum (e.g., integer, renaissance, circuit) and using it as a cue for students to become quiet."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Content Word Signal
@@ -35,8 +39,8 @@ Using a content "word of the week" to signal that it's time for silence involves
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Gain attention](/elements/gain-attention.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe how quickly students respond to the word signal. Monitor classroom noise levels before and after the signal.

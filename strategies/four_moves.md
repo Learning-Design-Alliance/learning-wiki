@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Four Moves
+description: If you have time to scroll Facebook or watch the news, you probably have a moment to decide if a news story seems credible.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Four Moves
@@ -35,9 +39,9 @@ If you have time to scroll Facebook or watch the news, you probably have a momen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/criteria-development|Criteria Development]]
+- [Question Formulation](/elements/question-formulation.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Criteria Development](/elements/criteria-development.md)
 
 ## Assessment Evidence
 - Observe learners' ability to apply the questions to evaluate news stories and identify red flags.

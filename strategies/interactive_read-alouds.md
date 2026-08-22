@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Interactive Read-Alouds
+description: Interactive read-alouds involve stopping during the reading process to engage learners in discussions and activities that promote deeper understanding of the text.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Interactive Read-Alouds
@@ -35,15 +39,15 @@ Interactive read-alouds involve stopping during the reading process to engage le
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/state-objectives|State objectives]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Gain attention](/elements/gain-attention.md)
+- [State objectives](/elements/state-objectives.md)
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learner participation in discussions, analyze learner responses to questions and activities, and track comprehension through formative assessments.

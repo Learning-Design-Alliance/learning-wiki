@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Positive Affirmations
+description: Using positive affirmations involves creating and repeating positive statements about oneself to build inroads into the subconscious mind, opening up the possibility of a new state of thoughts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Positive Affirmations
@@ -35,8 +39,8 @@ Using positive affirmations involves creating and repeating positive statements 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Track changes in self-reported self-esteem and confidence using questionnaires or journals. Observe improvements in mood, motivation, and goal achievement. Analyze ability to articulate and embody positive beliefs in real-life situations.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Expressing Interest in Students' Ethnic Backgrounds"
+description: "Teachers can actively demonstrate genuine care for students' cultural, emotional, and intellectual needs by encouraging students to research and share information about their ethnic backgrounds."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Expressing Interest in Students' Ethnic Backgrounds
@@ -35,9 +39,9 @@ Teachers can actively demonstrate genuine care for students' cultural, emotional
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Discussion Sections](/elements/discussion-sections.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Assigned Readings](/elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Increased student participation in cultural sharing activities, improved classroom climate, and greater cultural understanding among students.

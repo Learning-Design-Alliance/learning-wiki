@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Naming the Negative Voice
+description: Students give their negative inner voice a name to externalize it, allowing them to treat it as a separate entity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Naming the Negative Voice
@@ -35,8 +39,8 @@ Students give their negative inner voice a name to externalize it, allowing them
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe students' engagement and enthusiasm during the naming activity. Assess students' ability to articulate the difference between themselves and their negative voice. Review students' reflections on how naming the voice has impacted their self-perception.

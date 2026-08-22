@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Classroom Library
+description: A classroom library is a dedicated space within the classroom stocked with a variety of books to promote reading engagement and literacy skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Classroom Library
@@ -35,9 +39,9 @@ A classroom library is a dedicated space within the classroom stocked with a var
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student engagement with books, track reading frequency and completion rates, monitor book check-out patterns, and assess comprehension through discussions and written reflections.

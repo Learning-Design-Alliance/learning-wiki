@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Think-Alouds
+description: Model learning by reading aloud an article on a current event or topic of study, pausing to ask questions and make comments and connections to prior knowledge.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Think-Alouds
@@ -35,8 +39,8 @@ Model learning by reading aloud an article on a current event or topic of study,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct Instruction]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Direct Instruction](/elements/direct-instruction.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observations of student participation and engagement. Assessment of critical thinking and reflection skills.

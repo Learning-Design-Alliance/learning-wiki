@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Multiple Representations: Number Line"
+description: The number line is used as a visual representation of numerical relationships.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multiple Representations: Number Line
@@ -35,8 +39,8 @@ The number line is used as a visual representation of numerical relationships. S
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe learner's ability to use the number line to solve problems. Track their understanding of place value and magnitude through game-based activities. Assess their number sense development over time.

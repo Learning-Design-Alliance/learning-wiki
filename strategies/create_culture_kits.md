@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Create culture kits
+description: Creating culture kits involves students creating their own collections of items that represent their culture to bring their culture alive as a way of sharing and discussing what can be learned from different multicultural traditions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Create culture kits
@@ -35,9 +39,9 @@ Creating culture kits involves students creating their own collections of items 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Quality of student presentations, depth of cultural understanding, engagement during discussions, and positive feedback.

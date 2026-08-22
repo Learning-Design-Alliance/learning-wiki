@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Take Action, Be Intentional
+description: Create an atmosphere that enables teachers to meet the needs of all students.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Take Action, Be Intentional
@@ -35,8 +39,8 @@ Create an atmosphere that enables teachers to meet the needs of all students. Kn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe classroom climate, gather student and teacher feedback, track changes in student engagement and well-being.

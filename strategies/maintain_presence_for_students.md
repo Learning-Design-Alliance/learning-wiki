@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Maintain Presence for Students
+description: Teachers should make themselves available for short talks with students before and after school or between classes.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Maintain Presence for Students
@@ -35,11 +39,11 @@ Teachers should make themselves available for short talks with students before a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
-- [[elements/coaching|Coaching]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/perspective-taking|Perspective-Taking]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Modeling](/elements/modeling.md)
+- [Coaching](/elements/coaching.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Perspective-Taking](/elements/perspective-taking.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the frequency and severity of abusive language in the classroom, assess student understanding of the impact of their words, and gather feedback from students about the safety and respectfulness of the learning environment.

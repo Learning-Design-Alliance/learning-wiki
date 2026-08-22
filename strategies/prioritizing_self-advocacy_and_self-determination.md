@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Prioritizing Self-Advocacy and Self-Determination
+description: Making self-advocacy and self-determination critical priorities in education systems involves prioritizing them throughout, such as by incorporating them into teacher preparation and assessments of learning and through associated measures…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Prioritizing Self-Advocacy and Self-Determination
@@ -35,9 +39,9 @@ Making self-advocacy and self-determination critical priorities in education sys
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [State objectives](/elements/state-objectives.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved teacher preparation, enhanced assessments, reduced chronic absenteeism

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Collaborative Margin Comments
+description: Collaborative margin comments involve using collaborative document platforms like Google Docs or Microsoft Word Online to provide direct feedback within the document.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collaborative Margin Comments
@@ -35,10 +39,10 @@ Collaborative margin comments involve using collaborative document platforms lik
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/digital-tools|Digital Tools]]
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Peer Interaction](/elements/peer-interaction.md)
+- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Digital Tools](/elements/digital-tools.md)
 
 ## Assessment Evidence
 - Assess the quality and relevance of margin comments. Observe engagement and participation in collaborative feedback activities. Measure improvements in the quality of revised documents based on margin comments.

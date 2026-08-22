@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: SMART Goal Setting
+description: SMART goal setting ensures goals are Specific, Measurable, Attainable, Relevant, and Time-Specific.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # SMART Goal Setting
@@ -35,10 +39,10 @@ SMART goal setting ensures goals are Specific, Measurable, Attainable, Relevant,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [State objectives](/elements/state-objectives.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Progress can be measured by tracking the completion of specific, measurable components of each goal within the set timeframe.

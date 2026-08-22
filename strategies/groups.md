@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Groups
+description: The teacher calls out a number (e.g., 3), and the students have 10 seconds to get themselves into groups of that size.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Groups
@@ -35,9 +39,9 @@ The teacher calls out a number (e.g., 3), and the students have 10 seconds to ge
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe students' ability to quickly form groups based on the given number. Assess students' ability to solve the math problems.

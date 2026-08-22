@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Don’t Jump Into \"Fix It\" Mode"
+description: Resist the urge to immediately find solutions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Don’t Jump Into "Fix It" Mode
@@ -35,8 +39,8 @@ Resist the urge to immediately find solutions. Sometimes, it’s more useful to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-problem-solving|Collaborative Problem-Solving]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
 
 ## Assessment Evidence
 - Observe student problem-solving skills, monitor communication patterns, gather feedback from students

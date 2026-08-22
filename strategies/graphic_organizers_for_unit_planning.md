@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers for Unit Planning
+description: Present students with a graphic organizer to show how the parts of a unit fit together, providing a sense of where they are in the unit and why they are learning the individual parts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers for Unit Planning
@@ -35,8 +39,8 @@ Present students with a graphic organizer to show how the parts of a unit fit to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/direct-instruction|Direct instruction]]
+- [State objectives](/elements/state-objectives.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Student understanding of the unit's structure and objectives.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Listening and reading for specific information
+description: This strategy involves actively seeking particular details or information within a text or audio material to understand the overall message.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Listening and reading for specific information
@@ -35,8 +39,8 @@ This strategy involves actively seeking particular details or information within
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/lectures|Lectures]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Lectures](/elements/lectures.md)
 
 ## Assessment Evidence
 - Learner performance on comprehension tasks, ability to extract specific information, accuracy of inferences

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Monitoring of Attention (SMA)
+description: Self-monitoring of attention is a strategy where learners self-assess their behavior and record the results.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Monitoring of Attention (SMA)
@@ -35,10 +39,10 @@ Self-monitoring of attention is a strategy where learners self-assess their beha
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track frequency and duration of targeted behaviors. Compare data before and after implementation to gauge effectiveness. Monitor consistency of self-monitoring procedures.

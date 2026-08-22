@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Sentence Frames
+description: Use sentence frames to help structure respectful responses in debate or disagreement situations online.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Sentence Frames
@@ -35,8 +39,8 @@ Use sentence frames to help structure respectful responses in debate or disagree
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe online interactions, gather feedback from participants, assess clarity and respectfulness of communications

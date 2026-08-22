@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Study of Written Models
+description: Direct, guided practice was found to be an effective instructional strategy, especially for students with low skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Study of Written Models
@@ -35,9 +39,9 @@ Direct, guided practice was found to be an effective instructional strategy, esp
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Demonstration](/elements/demonstration.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased genre awareness, greater writing effectiveness

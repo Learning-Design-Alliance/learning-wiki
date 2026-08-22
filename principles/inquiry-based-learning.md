@@ -1,8 +1,20 @@
 ---
 type: principle
+title: Inquiry-based Learning
+description: Inquiry-based learning organizes learning around questions, investigation, evidence, and explanation rather than around direct transmission alone.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: moon-2019
+    resource: "https://doi.org/10.1080/15391523.2018.1470483"
+    title: "Moon, J. A., & Brockway, D. (2019). Facilitating learning in an interactive science simulation: The effects of task segmentation guidance on adults' inquiry-based learning and cognitive load. *Journal of Research on Technology in Education, 51*(1), 77-100"
+    author: "Moon, J. A., & Brockway, D"
+  - id: mataniari-2020
+    resource: "https://doi.org/10.36681/tused.2020.26"
+    title: "Mataniari, R., Willison, J., Hasibuan, E., Sulistiyo, U., & Dewi, F. (2020). Portraying students' critical thinking skills through research skill development (RSD) framework: A case of a biology course in an Indonesian university. *Journal of Turkish Science Education, 17*(2), 302-314"
+    author: "Mataniari, R., Willison, J., Hasibuan, E., Sulistiyo, U., & Dewi, F"
 ---
 
 # Inquiry-based Learning
@@ -11,7 +23,7 @@ edited_by: Codex
 Inquiry-based learning organizes learning around questions, investigation, evidence, and explanation rather than around direct transmission alone. Learners are asked to pose or pursue questions, gather and interpret information, test ideas, and communicate what they have found. The core promise of inquiry is that learners become more active sense-makers, but strong inquiry design is not the same as leaving learners alone. It usually depends on well-scaffolded tasks, structured prompts, and explicit support for evidence use and explanation.
 
 ## Implications
-Inquiry-based learning is powerful when learners investigate genuine questions and build explanations from evidence rather than only consume finished answers. That can strengthen reasoning, ownership, and transfer [[claims/whole-task-performance-improves-transfer]] [+M], but only when inquiry is scaffolded enough that learners know how to search, compare, interpret, and synthesize [[claims/contingent-scaffolding-improves-learning]] [+M]. The central design tradeoff is openness: too little structure turns inquiry into unguided search [[claims/worked-examples-reduce-novice-search]] [~M], while too much structure collapses it back into compliance. Strong inquiry keeps the question authentic while making the investigative moves teachable.
+Inquiry-based learning is powerful when learners investigate genuine questions and build explanations from evidence rather than only consume finished answers. That can strengthen reasoning, ownership, and transfer [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+M], but only when inquiry is scaffolded enough that learners know how to search, compare, interpret, and synthesize [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]. The central design tradeoff is openness: too little structure turns inquiry into unguided search [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md) [~M], while too much structure collapses it back into compliance. Strong inquiry keeps the question authentic while making the investigative moves teachable.
 
 ### Context
 #### Requirements
@@ -43,19 +55,19 @@ Inquiry-based learning is powerful when learners investigate genuine questions a
 - Self-regulated learning — inquiry can strengthen planning, monitoring, and adaptation when learners have enough support.
 - Experiential and sociocultural perspectives — investigation is often strongest when tied to interaction, tools, and authentic contexts.
 #### Contradicting / Qualifying
-- For novices, unguided inquiry can create excessive search and confusion; instruction often needs to begin with more support [[claims/worked-examples-reduce-novice-search]] [~M].
+- For novices, unguided inquiry can create excessive search and confusion; instruction often needs to begin with more support [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md) [~M].
 - Inquiry quality depends heavily on scaffolding. Without it, learners may gather information without building sound explanations.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [+M] — inquiry improves when support helps learners make better investigative moves without taking over the question
-- [[claims/whole-task-performance-improves-transfer]] [+M] — inquiry can improve transfer because learners are practicing integrated question-driven reasoning rather than isolated recall
-- [[claims/worked-examples-reduce-novice-search]] [~M] — novices often need more structure than open inquiry advocates sometimes assume because unguided search can waste effort
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — inquiry improves when support helps learners make better investigative moves without taking over the question
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+M] — inquiry can improve transfer because learners are practicing integrated question-driven reasoning rather than isolated recall
+- [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md) [~M] — novices often need more structure than open inquiry advocates sometimes assume because unguided search can waste effort
 
 ## Related Principles
-- [[principles/problem-based-learning|Problem-Based Learning]] — inquiry and problem-based designs overlap when questions are organized around authentic problems.
-- [[principles/evaluating-sources|Evaluating Sources]] — inquiry requires judging the quality and relevance of evidence.
-- [[principles/explaining-their-thinking|Explaining Their Thinking]] — inquiry culminates in explanation, justification, and revision.
-- [[principles/guided-practice|Guided Practice]] — inquiry often works better when investigative moves are practiced with support before becoming independent.
+- [Problem-Based Learning](/principles/problem-based-learning.md) — inquiry and problem-based designs overlap when questions are organized around authentic problems.
+- [Evaluating Sources](/principles/evaluating-sources.md) — inquiry requires judging the quality and relevance of evidence.
+- [Explaining Their Thinking](/principles/explaining-their-thinking.md) — inquiry culminates in explanation, justification, and revision.
+- [Guided Practice](/principles/guided-practice.md) — inquiry often works better when investigative moves are practiced with support before becoming independent.
 
 ## Examples
 - **Source-based investigation**: Learners pursue a question using multiple texts, data, or cases and justify their conclusion.

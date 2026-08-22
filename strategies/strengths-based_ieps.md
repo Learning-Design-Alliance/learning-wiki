@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strengths-Based IEPs
+description: A shift in mindset where the Individualized Education Program (IEP) focuses as much on the learner’s strengths as it does on their weaknesses, leveraging abilities to help address needs.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strengths-Based IEPs
@@ -35,10 +39,10 @@ A shift in mindset where the Individualized Education Program (IEP) focuses as m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [State objectives](/elements/state-objectives.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Whether IEP goals are written in a strengths-based manner, the level of learner involvement in IEP meetings, and the inclusion of the learner's strengths, interests, and preferences in IEP goals.

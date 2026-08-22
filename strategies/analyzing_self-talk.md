@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Analyzing Self-Talk
+description: Students identify patterns or themes in their self-talk, such as recurring thoughts or feelings related to specific situations or times of day.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Analyzing Self-Talk
@@ -35,9 +39,9 @@ Students identify patterns or themes in their self-talk, such as recurring thoug
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Review students' analyses for accuracy and depth of insight. Assess students' ability to articulate patterns and themes in their self-talk. Observe students' engagement and participation in discussions about self-talk.

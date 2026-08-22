@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reflex Math App
+description: Among all the math fluency apps listed here, Reflex stands out with a research-based system of learning math for students ages 2-8.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflex Math App
@@ -35,9 +39,9 @@ Among all the math fluency apps listed here, Reflex stands out with a research-b
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track progress in math fact fluency and problem-solving skills.

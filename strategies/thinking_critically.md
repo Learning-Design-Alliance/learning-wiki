@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Thinking Critically
+description: This strategy encompasses questioning, reflection, and evaluation to understand, solve problems, and make informed decisions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Thinking Critically
@@ -35,9 +39,9 @@ This strategy encompasses questioning, reflection, and evaluation to understand,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/reassessment|Reassessment]]
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Individual Response](/elements/individual-response.md)
+- [Reassessment](/elements/reassessment.md)
 
 ## Assessment Evidence
 - Quality of responses to open-ended questions, ability to analyze and evaluate information, problem-solving skills

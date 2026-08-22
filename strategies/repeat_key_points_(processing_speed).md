@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Repeat Key Points (Processing Speed)
+description: Repeating key points for students several times and in several different ways to support processing speed.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Repeat Key Points (Processing Speed)
@@ -35,8 +39,8 @@ Repeating key points for students several times and in several different ways to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Monitor student's recall of key points through quizzes, discussions, and assignments. Observe for improved comprehension and retention.

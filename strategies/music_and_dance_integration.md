@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Music and Dance Integration
+description: This strategy uses movement, rhythm, and music to enhance learning and understanding of various concepts, particularly in mathematics.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Music and Dance Integration
@@ -35,10 +39,10 @@ This strategy uses movement, rhythm, and music to enhance learning and understan
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Application](/elements/application.md)
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the dance activities; assess learner understanding of mathematical concepts through performance and verbal explanations; use reflections or journals to assess learner's ability to connect movement to concepts.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Block Play
+description: Block play involves using blocks to create structures and designs, either independently or collaboratively.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Block Play
@@ -35,9 +39,9 @@ Block play involves using blocks to create structures and designs, either indepe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe children's problem-solving strategies, creativity in design, application of mathematical concepts, and social interactions during play. Assess the complexity and stability of structures built.

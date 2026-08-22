@@ -1,7 +1,11 @@
 ---
 type: element
+title: Assess performance
+description: Measures learner progress and determines mastery of content.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Assess performance
@@ -27,17 +31,17 @@ Measures learner progress and determines mastery of content.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/assessment-for-learning|Assessment for Learning]]
-- [[principles/competency-based-assessment|Competency-Based Assessment]]
+- [Assessment for Learning](/principles/assessment-for-learning.md)
+- [Competency-Based Assessment](/principles/competency-based-assessment.md)
 
 ## Related Elements
-- [[elements/summative-assessment|Summative Assessment]]
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/rubrics|Rubrics]]
+- [Summative Assessment](/elements/summative-assessment.md)
+- [Formative Assessment](/elements/formative-assessment.md)
+- [Rubrics](/elements/rubrics.md)
 
 ## Patterns That Use This Element
-- [[patterns/gagnés-9-events|Gagné’s 9 Events]]
-- [[patterns/competency-based-learning|Competency-Based Learning]]
+- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
+- [Competency-Based Learning](/patterns/competency-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

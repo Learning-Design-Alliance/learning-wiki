@@ -1,8 +1,28 @@
 ---
 type: principle
+title: Text-to-Speech
+description: Text-to-speech (TTS) converts written text into spoken audio, giving learners an additional way to access reading materials, instructions, and feedback.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: hillaire-2019
+    resource: "https://doi.org/10.5334/jime.510"
+    title: "Hillaire, G., Iniesto, F., & Rienties, B. (2019). Humanising text-to-speech through emotional expression in online courses. *Journal of Interactive Media in Education, 2019*(1), 12"
+    author: "Hillaire, G., Iniesto, F., & Rienties, B"
+  - id: podsiadlo-2016
+    resource: "https://doi.org/10.21437/Interspeech.2016-1289"
+    title: "Podsiadlo, M., & Chahar, S. (2016). Text-to-speech for individuals with vision loss: A user study. In *Interspeech 2016* (pp. 347-351)"
+    author: "Podsiadlo, M., & Chahar, S"
+  - id: stodden-2012
+    resource: "https://doi.org/10.1016/j.procs.2012.10.041"
+    title: "Stodden, R. A., Roberts, K. D., Takahashi, K., Park, H. J., & Stodden, N. J. (2012). Use of text-to-speech software to improve reading skills of high school struggling readers. *Procedia Computer Science, 14*, 359-362"
+    author: "Stodden, R. A., Roberts, K. D., Takahashi, K., Park, H. J., & Stodden, N. J"
+  - id: wood-2018
+    resource: "https://doi.org/10.1177/0022219416688170"
+    title: "Wood, S. G., Moxley, J. H., Tighe, E. L., & Wagner, R. K. (2018). Does use of text-to-speech and related read-aloud tools improve reading comprehension for students with reading disabilities? A meta-analysis. *Journal of Learning Disabilities, 51*(1), 73-84"
+    author: "Wood, S. G., Moxley, J. H., Tighe, E. L., & Wagner, R. K"
 ---
 
 # Text-to-Speech
@@ -13,7 +33,7 @@ Text-to-speech (TTS) converts written text into spoken audio, giving learners an
 TTS is most effective when it is treated as an access and support tool, not as a substitute for all reading instruction. Learners still need support in comprehension, vocabulary, annotation, and independent meaning-making. The tool helps when it removes unnecessary access barriers so that the learner's effort can shift toward understanding and using the content.
 
 ## Implications
-Text-to-speech is most useful when reading access, not conceptual ability, is the main barrier to engagement. By shifting part of the processing burden from print decoding to coordinated listening and reading, TTS can make dense text more manageable [[claims/chunking-reduces-working-memory-load]] [~S]. But its value depends on active use: learners still need to pause, replay, annotate, and monitor comprehension rather than letting audio wash over them [[claims/self-monitoring-improves-self-regulation]] [~M]. TTS works best as an access support inside a broader reading routine, not as a substitute for strategy instruction.
+Text-to-speech is most useful when reading access, not conceptual ability, is the main barrier to engagement. By shifting part of the processing burden from print decoding to coordinated listening and reading, TTS can make dense text more manageable [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S]. But its value depends on active use: learners still need to pause, replay, annotate, and monitor comprehension rather than letting audio wash over them [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. TTS works best as an access support inside a broader reading routine, not as a substitute for strategy instruction.
 
 ### Context
 #### Requirements
@@ -49,14 +69,14 @@ Text-to-speech is most useful when reading access, not conceptual ability, is th
 - The tool supports access, but it does not replace explicit reading strategy instruction.
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [~S] — audio support can reduce some of the access burden that print alone places on working memory
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — TTS is strongest when learners actively check and regulate comprehension while listening
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S] — audio support can reduce some of the access burden that print alone places on working memory
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — TTS is strongest when learners actively check and regulate comprehension while listening
 
 ## Related Principles
-- [[principles/accessible-vocabulary-syntax|Accessible Vocabulary & Syntax]] — simpler language and audio support often work together.
-- [[principles/instructor-accessibility|Instructor Accessibility]] — TTS is one route for improving access to written materials.
-- [[principles/annotating|Annotating]] — learners can combine audio playback with highlighting, notes, and questions.
-- [[principles/speech-to-text|Speech-to-text]] — reading and writing access tools often complement one another.
+- [Accessible Vocabulary & Syntax](/principles/accessible-vocabulary-syntax.md) — simpler language and audio support often work together.
+- [Instructor Accessibility](/principles/instructor-accessibility.md) — TTS is one route for improving access to written materials.
+- [Annotating](/principles/annotating.md) — learners can combine audio playback with highlighting, notes, and questions.
+- [Speech-to-text](/principles/speech-to-text.md) — reading and writing access tools often complement one another.
 
 ## Examples
 - **Read-aloud support for assigned text**: Learners listen while following along in the print version.

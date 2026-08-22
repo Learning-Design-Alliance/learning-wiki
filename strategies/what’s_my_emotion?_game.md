@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: What’s My Emotion? Game
+description: One learner demonstrates an emotion through body language and facial expressions, while the rest of the class guesses the emotion.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # What’s My Emotion? Game
@@ -35,8 +39,8 @@ One learner demonstrates an emotion through body language and facial expressions
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Interaction](/elements/peer-interaction.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe learners' ability to identify and interpret emotions. Assess learners' understanding of body language and facial expressions.

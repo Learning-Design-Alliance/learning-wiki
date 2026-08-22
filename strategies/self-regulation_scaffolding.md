@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Regulation Scaffolding
+description: Scaffolding provides learners with a safe and emotionally supportive context to learn how to manage their responses to challenging or stimulating situations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Regulation Scaffolding
@@ -35,8 +39,8 @@ Scaffolding provides learners with a safe and emotionally supportive context to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor learner participation

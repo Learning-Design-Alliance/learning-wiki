@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Shadowing (for behavior adjustment)
+description: "An adult follows a child everywhere they go, staying within arm's reach to prevent unwanted behavior before it happens."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Shadowing (for behavior adjustment)
@@ -35,8 +39,8 @@ An adult follows a child everywhere they go, staying within arm's reach to preve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Observation/Shadowing](/elements/observationshadowing.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Reduction in behavior incidents, improved social interactions, development of new coping strategies

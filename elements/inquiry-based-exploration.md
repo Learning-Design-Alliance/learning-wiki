@@ -1,7 +1,11 @@
 ---
 type: element
+title: Inquiry-Based Exploration
+description: Learners investigate open-ended problems and generate solutions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Inquiry-Based Exploration
@@ -27,17 +31,17 @@ Learners investigate open-ended problems and generate solutions.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
-- [[principles/constructivism|Constructivism]]
+- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Constructivism](/principles/constructivism.md)
 
 ## Related Elements
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/collaborative-problem-solving|Collaborative Problem-Solving]]
-- [[elements/research|Research]]
+- [Problem Scenario](/elements/problem-scenario.md)
+- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
+- [Research](/elements/research.md)
 
 ## Patterns That Use This Element
-- [[patterns/problem-based-learning|Problem-Based Learning]]
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
+- [Problem-Based Learning](/patterns/problem-based-learning.md)
+- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

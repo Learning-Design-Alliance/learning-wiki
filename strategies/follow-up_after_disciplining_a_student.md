@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Follow-Up After Disciplining a Student
+description: "After disciplining a learner, the instructor should do the following: touch base with the learner, acknowledge post-disciplinary successes, and don't give up too quickly."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Follow-Up After Disciplining a Student
@@ -35,9 +39,9 @@ After disciplining a learner, the instructor should do the following: touch base
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Learners will demonstrate improved behavior and respect for the instructor.

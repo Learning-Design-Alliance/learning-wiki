@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reflect on Learning
+description: Student reflection on learning, particularly when done collaboratively, is critical for moving knowledge of content and strategies into Long-term Memory.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflect on Learning
@@ -35,9 +39,9 @@ Student reflection on learning, particularly when done collaboratively, is criti
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Depth of reflection, self-assessment accuracy, long-term retention.

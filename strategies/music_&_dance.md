@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Music & Dance"
+description: Incorporate music and dance into the learning environment to engage verbal, visual, and kinesthetic senses.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Music & Dance
@@ -35,9 +39,9 @@ Incorporate music and dance into the learning environment to engage verbal, visu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/demonstration|Demonstration]]
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in movement activities. Assess retention of content taught through music and dance. Collect feedback from learners on their experience and understanding.

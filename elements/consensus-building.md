@@ -1,7 +1,11 @@
 ---
 type: element
+title: Consensus Building
+description: Learners work collaboratively to synthesize differing viewpoints into a shared understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Consensus Building
@@ -27,19 +31,19 @@ Learners work collaboratively to synthesize differing viewpoints into a shared u
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-constructivism|Social Constructivism]]
-- [[principles/collaborative-learning|Collaborative Learning]]
-- [[principles/perspective-taking|Perspective-Taking]]
+- [Social Constructivism](/principles/social-constructivism.md)
+- [Collaborative Learning](/principles/collaborative-learning.md)
+- [Perspective-Taking](/principles/perspective-taking.md)
 
 ## Related Elements
-- [[elements/collaborative-discussion|Collaborative Discussion]]
-- [[elements/peer-review|Peer Review]]
-- [[elements/structured-debate|Structured Debate]]
+- [Collaborative Discussion](/elements/collaborative-discussion.md)
+- [Peer Review](/elements/peer-review.md)
+- [Structured Debate](/elements/structured-debate.md)
 
 ## Patterns That Use This Element
-- [[patterns/structured-academic-controversy|Structured Academic Controversy]]
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
-- [[patterns/jigsaw-method|Jigsaw Method]]
+- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
+- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
+- [Jigsaw Method](/patterns/jigsaw-method.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

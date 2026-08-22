@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Empathy for Educators
+description: Engage in actions to build an empathic mindset.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Empathy for Educators
@@ -35,8 +39,8 @@ Engage in actions to build an empathic mindset. Read stories from the perspectiv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track changes in educator behavior, monitor student feedback, observe classroom climate, assess improvements in communication.

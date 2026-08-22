@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)"
+description: PALS is a peer tutoring strategy designed to improve reading comprehension and fluency among students, primarily in grades 2–6.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)
@@ -35,10 +39,10 @@ PALS is a peer tutoring strategy designed to improve reading comprehension and f
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
+- [Modeling](/elements/modeling.md)
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Monitor student progress in reading fluency and comprehension through observation and assessment. Collect feedback from students regarding their experience with the PALS activities. Assess student ability to summarize and identify main ideas effectively.

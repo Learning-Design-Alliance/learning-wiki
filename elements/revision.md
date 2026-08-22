@@ -1,7 +1,11 @@
 ---
 type: element
+title: Revision
+description: Learners improve their work based on feedback and self-reflection.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Revision
@@ -27,17 +31,17 @@ Learners improve their work based on feedback and self-reflection.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/self-regulated-learning|Self-Regulated Learning]]
-- [[principles/mastery-learning|Mastery Learning]]
+- [Self-Regulated Learning](/principles/self-regulated-learning.md)
+- [Mastery Learning](/principles/mastery-learning.md)
 
 ## Related Elements
-- [[elements/feedback|Feedback]]
-- [[elements/self-assessment|Self-Assessment]]
-- [[elements/iterative-learning|Iterative Learning]]
+- [Feedback](/elements/feedback.md)
+- [Self-Assessment](/elements/self-assessment.md)
+- [Iterative Learning](/elements/iterative-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/formative-assessment|Formative Assessment]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Formative Assessment](/patterns/formative-assessment.md)
+- [Mastery Learning](/patterns/mastery-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

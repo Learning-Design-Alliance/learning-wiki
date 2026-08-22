@@ -1,8 +1,11 @@
 ---
 type: element
+title: Case Studies
+description: Case studies are the element in which learners analyze a concrete scenario, incident, or example in order to reason about concepts, decisions, or consequences.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Case Studies
@@ -23,17 +26,17 @@ Case studies are the element in which learners analyze a concrete scenario, inci
 - Support applied analysis, judgment, and discussion.
 
 ### Affordances
-- [[principles/case-studiescase-based-learning|Case Studies/Case-based Learning]]
-- [[principles/constructivist-learning|Constructivist Learning]]
+- [Case Studies/Case-based Learning](/principles/case-studiescase-based-learning.md)
+- [Constructivist Learning](/principles/constructivist-learning.md)
 
 ## Related Elements
-- [[elements/case-study|Case Study]]
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Case Study](/elements/case-study.md)
+- [Problem Scenario](/elements/problem-scenario.md)
+- [Assigned Readings](/elements/assigned-readings.md)
 
 ## Patterns That Use This Element
-- [[patterns/case-based-learning-harvard-method|Case-Based Learning (Harvard Method)]]
-- [[patterns/problem-based-learning|Problem-Based Learning]]
+- [Case-Based Learning (Harvard Method)](/patterns/case-based-learning-harvard-method.md)
+- [Problem-Based Learning](/patterns/problem-based-learning.md)
 
 ## Examples
 - Learners analyze a business case, patient case, or legal case and justify a response.

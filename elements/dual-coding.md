@@ -1,8 +1,11 @@
 ---
 type: element
+title: Dual Coding
+description: Dual coding is the element in which verbal and visual representations are used together to support understanding and memory.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Dual Coding
@@ -13,12 +16,12 @@ Dual coding is the element in which verbal and visual representations are used t
 ## Design Implications
 
 ### Affordances
-- [[principles/dual-coding|Dual Coding]]
-- [[theories/dual-coding-theory|Dual Coding Theory]]
+- [Dual Coding](/principles/dual-coding.md)
+- [Dual Coding Theory](/theories/dual-coding-theory.md)
 
 ## Related Elements
-- [[elements/graphic-organizers|Graphic Organizers]]
-- [[elements/multimedia-learning|Multimedia Learning]]
+- [Graphic Organizers](/elements/graphic-organizers.md)
+- [Multimedia Learning](/elements/multimedia-learning.md)
 
 ## Key Sources
 - Paivio, A. (1986). *Mental representations*. Oxford University Press.

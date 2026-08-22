@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Affirmation Repetition
+description: This strategy involves repeating empowering statements to oneself during times of stress.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Affirmation Repetition
@@ -35,9 +39,9 @@ This strategy involves repeating empowering statements to oneself during times o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Monitor participants' self-reported confidence levels; track frequency of affirmation repetition; observe changes in mindset and resilience

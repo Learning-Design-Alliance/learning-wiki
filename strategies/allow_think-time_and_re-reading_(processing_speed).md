@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Allow Think-Time and Re-reading (Processing Speed)
+description: Allowing plenty of think-time and time for re-reading for students who might need more time to process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Allow Think-Time and Re-reading (Processing Speed)
@@ -35,8 +39,8 @@ Allowing plenty of think-time and time for re-reading for students who might nee
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor student's engagement during think-time and re-reading. Assess their ability to recall, apply, and reflect on the information.

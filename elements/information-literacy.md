@@ -1,8 +1,11 @@
 ---
 type: element
+title: Information Literacy
+description: Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 ---
 
 # Information Literacy
@@ -24,16 +27,16 @@ Information literacy is the element in which learners identify information needs
 - Improve source evaluation, evidence use, and research judgment.
 
 ### Affordances
-- [[principles/evaluating-sources|Evaluating Sources]]
-- [[principles/explicit-instruction-internet-search|Explicit Instruction in Internet Search]]
+- [Evaluating Sources](/principles/evaluating-sources.md)
+- [Explicit Instruction in Internet Search](/principles/explicit-instruction-internet-search.md)
 
 ## Related Elements
-- [[elements/resource-evaluation|Resource Evaluation]]
-- [[elements/research|Research]]
-- [[elements/question-formulation|Question Formulation]]
+- [Resource Evaluation](/elements/resource-evaluation.md)
+- [Research](/elements/research.md)
+- [Question Formulation](/elements/question-formulation.md)
 
 ## Patterns That Use This Element
-- [[patterns/research-based-learning|Research-Based Learning]]
+- [Research-Based Learning](/patterns/research-based-learning.md)
 
 ## Key Sources
 - Association of College and Research Libraries. (2016). *Framework for information literacy for higher education*.

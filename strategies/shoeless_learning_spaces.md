@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Shoeless Learning Spaces
+description: Creating shoeless learning spaces where children often learn with shoes off, perhaps because it reminds them of home and creates a relaxed learning environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Shoeless Learning Spaces
@@ -35,8 +39,8 @@ Creating shoeless learning spaces where children often learn with shoes off, per
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/create-a-relaxed-learning-environment|Create a relaxed learning environment]]
-- [[elements/promote-a-sense-of-home|Promote a sense of home]]
+- [Create a relaxed learning environment](/elements/create-a-relaxed-learning-environment.md)
+- [Promote a sense of home](/elements/promote-a-sense-of-home.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

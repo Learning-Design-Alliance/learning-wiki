@@ -1,7 +1,11 @@
 ---
 type: element
+title: Rebuttals
+description: Learners counter opposing viewpoints with evidence-based arguments.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rebuttals
@@ -27,18 +31,18 @@ Learners counter opposing viewpoints with evidence-based arguments.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/perspective-taking|Perspective-Taking]]
-- [[principles/rhetorical-skill-development|Rhetorical Skill Development]]
+- [Social Learning](/principles/social-learning.md)
+- [Perspective-Taking](/principles/perspective-taking.md)
+- [Rhetorical Skill Development](/principles/rhetorical-skill-development.md)
 
 ## Related Elements
-- [[elements/argumentation|Argumentation]]
-- [[elements/role-reversal|Role Reversal]]
-- [[elements/perspective-taking|Perspective-Taking]]
+- [Argumentation](/elements/argumentation.md)
+- [Role Reversal](/elements/role-reversal.md)
+- [Perspective-Taking](/elements/perspective-taking.md)
 
 ## Patterns That Use This Element
-- [[patterns/debate|Debate]]
-- [[patterns/structured-academic-controversy|Structured Academic Controversy]]
+- [Debate](/patterns/debate.md)
+- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

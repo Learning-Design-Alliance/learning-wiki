@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Text-to-Speech (TTS) Software
+description: Text-to-speech (TTS) software allows written text to be read aloud.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Text-to-Speech (TTS) Software
@@ -35,9 +39,9 @@ Text-to-speech (TTS) software allows written text to be read aloud. It can conve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Improved reading comprehension, increased fluency, enhanced productivity, and positive user feedback. Assess user's ability to proofread, manage time, and engage with digital content more effectively.

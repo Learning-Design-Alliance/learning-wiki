@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Phonological Awareness Development through Rhyming
+description: Using rhyming as a literacy tool to develop phonological awareness.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Phonological Awareness Development through Rhyming
@@ -35,8 +39,8 @@ Using rhyming as a literacy tool to develop phonological awareness. During a rea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Assess student's ability to identify rhyming words in texts, monitor their participation and engagement during read-aloud sessions, and observe their use of rhyming in writing and speaking.

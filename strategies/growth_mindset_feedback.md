@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Growth Mindset Feedback
+description: Growth mindset feedback focuses on praising effort, strategies, and persistence rather than innate abilities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Growth Mindset Feedback
@@ -35,8 +39,8 @@ Growth mindset feedback focuses on praising effort, strategies, and persistence 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Track changes in learners' attitudes toward challenges and effort. Measure improvements in academic performance and persistence. Observe learners' responses to feedback and their willingness to take on difficult tasks.

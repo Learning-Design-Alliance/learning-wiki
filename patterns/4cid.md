@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: 4C/ID
+description: 4C/ID is the short-form canonical target for Four-Component Instructional Design, a whole-task instructional pattern that combines learning tasks, supportive information, procedural information, and part-task practice.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 author: van Merrienboer
 grain_size: course
 ---
@@ -25,7 +28,7 @@ grain_size: course
 - Build complex skill performance through whole tasks plus targeted support.
 
 ### Related Patterns
-- [[patterns/4cid-four-component-instructional-design|Four-Component Instructional Design]]
+- [Four-Component Instructional Design](/patterns/4cid-four-component-instructional-design.md)
 
 ## Key Sources
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2017). *Ten steps to complex learning* (3rd ed.). Routledge.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Contextual Vocabulary Introduction
+description: Introducing vocabulary words within the context of a story or reading passage allows learners to understand their meanings in relation to the surrounding text.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Contextual Vocabulary Introduction
@@ -35,9 +39,9 @@ Introducing vocabulary words within the context of a story or reading passage al
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/discussion-sections|Discussion Sections]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Discussion Sections](/elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Track learner participation in discussions, analysis of vocabulary in written responses, and demonstration of understanding of the author's use of language. Monitor improvement in reading comprehension and vocabulary acquisition.

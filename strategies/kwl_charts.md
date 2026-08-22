@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: KWL Charts
+description: KWL (Know, Want to know, Learned) charts are advance organizers that help students activate prior knowledge, identify learning goals, and reflect on what they have learned.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # KWL Charts
@@ -35,10 +39,10 @@ KWL (Know, Want to know, Learned) charts are advance organizers that help studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/state-objectives|State objectives]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [State objectives](/elements/state-objectives.md)
+- [Practice](/elements/practice.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Completed KWL charts, student participation in discussions, and summaries of learning based on the chart.

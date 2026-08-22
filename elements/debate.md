@@ -1,8 +1,11 @@
 ---
 type: element
+title: Debate
+description: Debate is the element in which learners take positions, justify them with evidence, and respond to alternatives in a structured exchange.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Debate
@@ -23,12 +26,12 @@ Debate is the element in which learners take positions, justify them with eviden
 - Build argumentation, evidence use, and perspective taking.
 
 ### Affordances
-- [[principles/debate|Debate]]
-- [[principles/epistemic-cognition|Epistemic Cognition]]
+- [Debate](/principles/debate.md)
+- [Epistemic Cognition](/principles/epistemic-cognition.md)
 
 ## Related Elements
-- [[elements/structured-debate|Structured Debate]]
-- [[elements/justification|Justification]]
+- [Structured Debate](/elements/structured-debate.md)
+- [Justification](/elements/justification.md)
 
 ## Key Sources
 - Kuhn, D. (1991). *The skills of argument*. Cambridge University Press.

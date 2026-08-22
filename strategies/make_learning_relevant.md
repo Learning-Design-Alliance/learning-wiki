@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Make Learning Relevant
+description: "Teachers can boost student engagement and knowledge retention by connecting learning to students' interests, talents, learning styles, and sense of ownership in the education process."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Make Learning Relevant
@@ -35,8 +39,8 @@ Teachers can boost student engagement and knowledge retention by connecting lear
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe student engagement levels, monitor knowledge retention through assessments, gather student feedback through surveys or discussions.

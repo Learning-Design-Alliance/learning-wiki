@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Daily Class Schedules
+description: Structuring the school day with specific time allocations for various subjects and activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Daily Class Schedules
@@ -35,10 +39,10 @@ Structuring the school day with specific time allocations for various subjects a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student engagement, monitor time on task, and collect feedback from students and teachers on schedule effectiveness.

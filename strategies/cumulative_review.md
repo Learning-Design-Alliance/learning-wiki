@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cumulative Review
+description: Cumulative review involves systematically revisiting previously learned concepts and skills throughout a course or learning period.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cumulative Review
@@ -35,11 +39,11 @@ Cumulative review involves systematically revisiting previously learned concepts
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/continuous-review|Continuous Review]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/practice|Practice]]
+- [Continuous Review](/elements/continuous-review.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Track learner performance on review quizzes and activities. Monitor learner engagement during review sessions. Compare pre- and post-review assessment scores to measure improvement.

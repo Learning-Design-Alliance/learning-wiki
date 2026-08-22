@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Magnetism Investigations
+description: Magnetism investigations involve exploring how magnets interact with different objects and mapping the effects of magnets on compasses.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Magnetism Investigations
@@ -35,8 +39,8 @@ Magnetism investigations involve exploring how magnets interact with different o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in predicting magnetic attraction, correct mapping of compass deviations, logical explanations of magnetic effects

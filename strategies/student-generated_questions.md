@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student-Generated Questions
+description: Projects driven by student-generated questions allow learners to investigate topics they are curious about or think are important.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student-Generated Questions
@@ -35,13 +39,13 @@ Projects driven by student-generated questions allow learners to investigate top
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/collaborative-problem-solving|Collaborative Problem-Solving]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Question Formulation](/elements/question-formulation.md)
+- [Inquiry and Research](/elements/inquiry-and-research.md)
+- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Quality of student-generated questions, depth of inquiry and research, evidence of critical thinking and problem-solving, engagement and participation in project activities

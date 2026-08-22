@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Blocks and Legos: Maker Spaces and Fab Labs"
+description: Maker spaces and fab labs provide learners with opportunities to invent, design, and build things.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Blocks and Legos: Maker Spaces and Fab Labs
@@ -35,9 +39,9 @@ Maker spaces and fab labs provide learners with opportunities to invent, design,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Learner projects and creations. Participation in collaborative activities. Problem-solving skills.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Structured Questioning for Pair Talk
+description: Using structured questions with clear goals and timeframes provides focus and scaffolding for pair talk activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Structured Questioning for Pair Talk
@@ -35,8 +39,8 @@ Using structured questions with clear goals and timeframes provides focus and sc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe whether students stay on task and address the key components of the question. Assess the quality and depth of their responses. Monitor how well they manage their time during the discussion.

@@ -1,7 +1,11 @@
 ---
 type: element
+title: Articulation
+description: Learners verbalize their thought processes and reasoning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Articulation
@@ -27,17 +31,17 @@ Learners verbalize their thought processes and reasoning.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/metacognition|Metacognition]]
-- [[principles/constructivist-learning|Constructivist Learning]]
+- [Metacognition](/principles/metacognition.md)
+- [Constructivist Learning](/principles/constructivist-learning.md)
 
 ## Related Elements
-- [[elements/self-explanation|Self-Explanation]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/socratic-questioning|Socratic Questioning]]
+- [Self-Explanation](/elements/self-explanation.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Socratic Questioning](/elements/socratic-questioning.md)
 
 ## Patterns That Use This Element
-- [[patterns/cognitive-apprenticeship|Cognitive Apprenticeship]]
-- [[patterns/peer-instruction|Peer Instruction]]
+- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
+- [Peer Instruction](/patterns/peer-instruction.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

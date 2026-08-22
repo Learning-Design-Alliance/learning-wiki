@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Chalkboard Math App
+description: App for students to practice basic math.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Chalkboard Math App
@@ -35,9 +39,9 @@ App for students to practice basic math. The app, as the name suggests, comes wi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track scores and completion rates in the app.

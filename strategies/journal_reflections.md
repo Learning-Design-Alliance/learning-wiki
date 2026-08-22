@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Journal Reflections
+description: Students think back on their experiences and outcomes to gain a greater understanding of themselves.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Journal Reflections
@@ -35,8 +39,8 @@ Students think back on their experiences and outcomes to gain a greater understa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Review students' journal entries for evidence of self-awareness, reflection, and goal-setting. Track their progress toward meeting their goals.

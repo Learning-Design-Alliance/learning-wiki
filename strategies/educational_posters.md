@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Educational Posters
+description: Educational posters are visual aids that add color and helpful resources to a classroom environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Educational Posters
@@ -35,9 +39,9 @@ Educational posters are visual aids that add color and helpful resources to a cl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Demonstration](/elements/demonstration.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student engagement and interaction. Evaluate the clarity and effectiveness of visual elements. Assess understanding of key concepts.

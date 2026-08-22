@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Note-Taking Using Graphic Organizers
+description: Learners use graphic organizers to take notes on their reading, research, films, or podcasts, visually structuring information and relationships between concepts to enhance comprehension and retention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Note-Taking Using Graphic Organizers
@@ -35,10 +39,10 @@ Learners use graphic organizers to take notes on their reading, research, films,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/lectures|Lectures]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Lectures](/elements/lectures.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Quality and completeness of notes, ability to summarize and synthesize information, and performance on related assessments.

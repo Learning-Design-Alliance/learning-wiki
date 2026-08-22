@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Metacognitive Journaling
+description: "Metacognitive journaling involves writing about one's own thinking, including tendencies, changes in thinking over time, biases, or blind spots."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Metacognitive Journaling
@@ -35,8 +39,8 @@ Metacognitive journaling involves writing about one's own thinking, including te
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Analyze journal entries to assess the depth of reflection on thinking processes, the identification of biases and blind spots, and the development of self-directed learning skills.

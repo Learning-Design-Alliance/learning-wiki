@@ -1,8 +1,24 @@
 ---
 type: principle
+title: Journaling
+description: Journaling is the practice of having learners write regularly to externalize thinking, notice experience, and make learning more visible to themselves or to an instructor.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: dunlap-2006
+    resource: "https://doi.org/10.1007/s11528-006-7614-x"
+    title: "Dunlap, J. C. (2006). Using guided reflective journaling activities to capture students' changing perceptions. *TechTrends, 50*(6), 20-26"
+    author: Dunlap, J. C
+  - id: larrotta-2009
+    resource: "https://doi.org/10.1002/ace.325"
+    title: "Larrotta, C. (2009). Journaling in an adult ESL literacy program. *New Directions for Adult and Continuing Education, 121*, 35-44"
+    author: Larrotta, C
+  - id: sage-2015
+    resource: "https://doi.org/10.1080/10437797.2015.1076264"
+    title: "Sage, M., & Sele, P. (2015). Reflective journaling as a flipped classroom technique to increase reading and participation with social work students. *Journal of Social Work Education, 51*(4), 668-681"
+    author: "Sage, M., & Sele, P"
 ---
 
 # Journaling
@@ -11,7 +27,7 @@ edited_by: Codex
 Journaling is the practice of having learners write regularly to externalize thinking, notice experience, and make learning more visible to themselves or to an instructor. Journals can be reflective, dialogic, disciplinary, metacognitive, or affective, but the common mechanism is structured written sense-making. By writing about what they understand, what they are struggling with, and how new learning connects to prior experience, learners can process meaning more deliberately and track change over time.
 
 ## Implications
-Journaling helps when writing is used to inspect thinking rather than just record events. Regular prompts that ask learners to explain, connect, or plan can deepen conceptual understanding [[claims/self-explanation-improves-conceptual-understanding]] [+S] and strengthen self-monitoring [[claims/self-monitoring-improves-self-regulation]] [+M] because the learner has to articulate what is clear, what is confusing, and what should happen next. The design risk is empty compliance writing: journals lose value quickly if prompts are generic, never revisited, or treated as heavily graded performance instead of a space for low-stakes sense-making.
+Journaling helps when writing is used to inspect thinking rather than just record events. Regular prompts that ask learners to explain, connect, or plan can deepen conceptual understanding [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] and strengthen self-monitoring [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] because the learner has to articulate what is clear, what is confusing, and what should happen next. The design risk is empty compliance writing: journals lose value quickly if prompts are generic, never revisited, or treated as heavily graded performance instead of a space for low-stakes sense-making.
 
 ### Context
 #### Requirements
@@ -47,14 +63,14 @@ Journaling helps when writing is used to inspect thinking rather than just recor
 - Some learners may reflect better through speech, drawing, or other modalities unless journaling is adapted flexibly.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — journals deepen learning when they require learners to explain connections, decisions, or shifts in understanding
-- [[claims/self-monitoring-improves-self-regulation]] [+M] — journaling supports learners in noticing confusion, tracking progress, and planning next steps
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — journals deepen learning when they require learners to explain connections, decisions, or shifts in understanding
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [+M] — journaling supports learners in noticing confusion, tracking progress, and planning next steps
 
 ## Related Principles
-- [[principles/purposeful-reflection|Purposeful Reflection]] — journaling is one concrete routine for structured reflection.
-- [[principles/process-based-writing|Process-Based Writing]] — journals can support regular low-stakes writing and revision habits.
-- [[principles/building-empathy|Building Empathy]] — some journal forms help learners reflect on perspective and lived experience.
-- [[principles/positive-self-talk|Positive Self-Talk]] — reflective writing can reshape how learners narrate challenge and progress.
+- [Purposeful Reflection](/principles/purposeful-reflection.md) — journaling is one concrete routine for structured reflection.
+- [Process-Based Writing](/principles/process-based-writing.md) — journals can support regular low-stakes writing and revision habits.
+- [Building Empathy](/principles/building-empathy.md) — some journal forms help learners reflect on perspective and lived experience.
+- [Positive Self-Talk](/principles/positive-self-talk.md) — reflective writing can reshape how learners narrate challenge and progress.
 
 ## Examples
 - **Reflection journals**: Learners respond regularly to prompts about what they learned, where they struggled, and what they will try next.

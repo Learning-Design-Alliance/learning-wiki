@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Eliminate Homework and Extra Credit
+description: Eliminate the inclusion of homework and extra credit in final grades.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Eliminate Homework and Extra Credit
@@ -35,8 +39,8 @@ Eliminate the inclusion of homework and extra credit in final grades. Homework g
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](/elements/practice.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Homework completion rates, mastery levels

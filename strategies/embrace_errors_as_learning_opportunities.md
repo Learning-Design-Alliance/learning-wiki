@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Embrace Errors as Learning Opportunities
+description: "Creating a classroom culture where errors become learning opportunities involves changing the assumption that math ability is binary—either you're good at it or not."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Embrace Errors as Learning Opportunities
@@ -35,8 +39,8 @@ Creating a classroom culture where errors become learning opportunities involves
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/eliciting-student-thinking|Eliciting Student Thinking]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
 
 ## Assessment Evidence
 - Observe changes in student participation, willingness to take risks, and attitudes toward errors. Collect feedback from students on their perceptions of the classroom environment and their feelings about math. Analyze student work to identify common errors and misconceptions.

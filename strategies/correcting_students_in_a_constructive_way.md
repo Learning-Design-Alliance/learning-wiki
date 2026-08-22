@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Correcting Students in a Constructive Way
+description: Correcting and disciplining learners for inappropriate behaviors is a necessary part of the job.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Correcting Students in a Constructive Way
@@ -35,9 +39,9 @@ Correcting and disciplining learners for inappropriate behaviors is a necessary 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Learners will show improved behavior and demonstrate respect for the instructor.

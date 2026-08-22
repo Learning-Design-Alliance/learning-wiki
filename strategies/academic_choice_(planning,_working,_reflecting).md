@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Academic Choice (Planning, Working, Reflecting)
+description: "Academic Choice empowers learners by providing them with options in their learning and involves a three-phase process: planning, working, and reflecting."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Academic Choice (Planning, Working, Reflecting)
@@ -35,9 +39,9 @@ Academic Choice empowers learners by providing them with options in their learni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/assess-performance|Assess performance]]
+- [State objectives](/elements/state-objectives.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe learner engagement and motivation levels. Assess the quality of learner work. Collect learner feedback on their experience.

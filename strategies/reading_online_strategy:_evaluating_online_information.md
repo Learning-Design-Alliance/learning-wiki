@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Reading Online Strategy: Evaluating Online Information"
+description: Students learn to analyze and evaluate the information they encounter online by assessing the reliability of websites.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reading Online Strategy: Evaluating Online Information
@@ -35,9 +39,9 @@ Students learn to analyze and evaluate the information they encounter online by 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate students' ability to identify reliable sources. Track their use of evaluation strategies. Collect student reflections on their learning process.

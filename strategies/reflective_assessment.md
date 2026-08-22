@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reflective Assessment
+description: Grades should reflect learning over time rather than be an end in and of itself.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflective Assessment
@@ -35,9 +39,9 @@ Grades should reflect learning over time rather than be an end in and of itself.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Student progress over time, recognition of diverse learning styles

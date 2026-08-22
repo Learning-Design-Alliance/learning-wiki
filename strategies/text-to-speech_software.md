@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Text-to-Speech Software
+description: Text-to-speech (TTS) software converts written text into spoken words, aiding individuals who benefit from auditory learning or have reading difficulties.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Text-to-Speech Software
@@ -35,11 +39,11 @@ Text-to-speech (TTS) software converts written text into spoken words, aiding in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/application|Application]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Application](/elements/application.md)
+- [Demonstration](/elements/demonstration.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track usage patterns and student feedback to assess engagement. Compare reading comprehension scores with and without TTS. Monitor the quality of spoken output and customization options used.

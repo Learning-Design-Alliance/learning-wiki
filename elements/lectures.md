@@ -1,7 +1,11 @@
 ---
 type: element
+title: Lectures
+description: Instructor-led presentations that deliver structured content to learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Lectures
@@ -27,19 +31,19 @@ Instructor-led presentations that deliver structured content to learners.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/cognitive-load-theory|Cognitive Load Theory]]
-- [[principles/direct-instruction|Direct Instruction]]
-- [[principles/multimedia-learning|Multimedia Learning]]
+- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
+- [Direct Instruction](/principles/direct-instruction.md)
+- [Multimedia Learning](/principles/multimedia-learning.md)
 
 ## Related Elements
-- [[elements/direct-instruction|Direct Instruction]]
-- [[elements/multimedia-learning|Multimedia Learning]]
-- [[elements/explicit-teaching|Explicit Teaching]]
+- [Direct Instruction](/elements/direct-instruction.md)
+- [Multimedia Learning](/elements/multimedia-learning.md)
+- [Explicit Teaching](/elements/explicit-teaching.md)
 
 ## Patterns That Use This Element
-- [[patterns/direct-instruction|Direct Instruction]]
-- [[patterns/gagnés-9-events|Gagné’s 9 Events]]
-- [[patterns/explicit-teaching|Explicit Teaching]]
+- [Direct Instruction](/patterns/direct-instruction.md)
+- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
+- [Explicit Teaching](/patterns/explicit-teaching.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

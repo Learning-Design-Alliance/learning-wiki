@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Visual Representations in Mathematics
+description: This evidence-based strategy involves using visual representations, such as schematic diagrams, to help learners understand abstract mathematics concepts and solve problems.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Visual Representations in Mathematics
@@ -35,8 +39,8 @@ This evidence-based strategy involves using visual representations, such as sche
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe the accuracy and clarity of the visual representations. Assess the learners' ability to use the diagrams to solve problems correctly. Analyze the explanations of the solutions.

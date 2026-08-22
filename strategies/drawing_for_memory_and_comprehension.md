@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Drawing for Memory and Comprehension
+description: Drawing involves visually, kinesthetically, and semantically processing information, which forces learners to grapple with what they’re learning and reconstruct it in a way that makes sense to them.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Drawing for Memory and Comprehension
@@ -35,10 +39,10 @@ Drawing involves visually, kinesthetically, and semantically processing informat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Application](/elements/application.md)
+- [Integration](/elements/integration.md)
 
 ## Assessment Evidence
 - Measure improvements in recall and comprehension through pre- and post-drawing assessments. Evaluate the depth and complexity of students’ drawings and explanations. Observe students’ engagement and enthusiasm during drawing activities.

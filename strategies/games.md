@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Games
+description: Gaming involves using games as a way to help learners learn by doing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Games
@@ -35,9 +39,9 @@ Gaming involves using games as a way to help learners learn by doing. Games can 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track participation and measure game outcomes to assess the learning of valuable lessons about how to deal with on-the-job situations.

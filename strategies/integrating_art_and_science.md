@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Integrating Art and Science
+description: This strategy combines art activities with science concepts to teach specific scientific principles through artistic expression.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Integrating Art and Science
@@ -35,8 +39,8 @@ This strategy combines art activities with science concepts to teach specific sc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/demonstration|Demonstration]]
+- [Application](/elements/application.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Assess the scientific accuracy of the art projects. Evaluate the learners' ability to explain the science concepts. Observe engagement and participation during hands-on activities.

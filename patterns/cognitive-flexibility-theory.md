@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Cognitive Flexibility Theory
+description: Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: jacobson-1995
+    resource: "https://doi.org/10.2190/4T1B-6E7P-7J9M-3X4M"
+    title: "Jacobson, M. J., & Spiro, R. J. (1995). Hypertext learning environments, cognitive flexibility, and the transfer of complex knowledge. *Journal of Educational Computing Research, 12*(4), 301-333"
+    author: "Jacobson, M. J., & Spiro, R. J"
 author: Rand Spiro et al.
 grain_size: unit
 ---
@@ -52,11 +60,11 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 
 ### Claims
 #### Supporting
-- [[claims/whole-task-performance-improves-transfer]] [~S]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -68,16 +76,16 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 5. Return to earlier cases with a richer interpretive lens.
 
 ### Elements Used
-- [[elements/case-based-learning|Case-Based Learning]]
-- [[elements/case-study|Case Study]]
-- [[elements/problem-solving-tasks|Problem-Solving Tasks]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Case-Based Learning](/elements/case-based-learning.md)
+- [Case Study](/elements/case-study.md)
+- [Problem-Solving Tasks](/elements/problem-solving-tasks.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ### Affordances
-- [[principles/perspective-seekingmultiple-perspectives|Perspective-Seeking/Multiple Perspectives]]
-- [[principles/case-studiescase-based-learning|Case Studies/Case-Based Learning]]
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/creating-visual-representations|Creating Visual Representations]]
+- [Perspective-Seeking/Multiple Perspectives](/principles/perspective-seekingmultiple-perspectives.md)
+- [Case Studies/Case-Based Learning](/principles/case-studiescase-based-learning.md)
+- [Problem-based Learning](/principles/problem-based-learning.md)
+- [Creating Visual Representations](/principles/creating-visual-representations.md)
 
 ### Personalization
 - Learners can explore different case pathways while still returning to shared synthesis prompts.
@@ -85,8 +93,8 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 - Advanced learners can handle more independent cross-case navigation than novices.
 
 ## Related Patterns
-- [[patterns/case-based-learning-harvard-method|Case-Based Learning (Harvard Method)]]
-- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
+- [Case-Based Learning (Harvard Method)](/patterns/case-based-learning-harvard-method.md)
+- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
 
 ## Examples
 - Legal reasoning sequences where the same doctrine is interpreted across multiple precedents.

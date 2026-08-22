@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Sensitivity to Language Concerns
+description: Celebrating diversity of language and tailoring instructional materials to non-native English speakers are essential for a culturally responsive classroom.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Sensitivity to Language Concerns
@@ -35,10 +39,10 @@ Celebrating diversity of language and tailoring instructional materials to non-n
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/supportive-information|Supportive information]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Supportive information](/elements/supportive-information.md)
 
 ## Assessment Evidence
 - Student progress in English language acquisition, student participation in class, student feedback on instructional materials.

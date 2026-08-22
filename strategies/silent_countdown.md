@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Silent Countdown
+description: The Silent Countdown is a technique where the teacher uses a visual countdown (e.g., with fingers) to signal the students to become quiet and attentive.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Silent Countdown
@@ -35,7 +39,7 @@ The Silent Countdown is a technique where the teacher uses a visual countdown (e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
+- [Gain attention](/elements/gain-attention.md)
 
 ## Assessment Evidence
 - Monitor the time it takes for students to become quiet after the countdown begins. Observe student compliance and engagement in the classroom.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Micro-Goal Setting
+description: Setting achievable micro-goals encourages consistent, incremental learner progress.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Micro-Goal Setting
@@ -35,11 +39,11 @@ Setting achievable micro-goals encourages consistent, incremental learner progre
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [State objectives](/elements/state-objectives.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the completion rate of micro-goals. Measure changes in learner confidence and motivation. Assess overall achievement of learning objectives.

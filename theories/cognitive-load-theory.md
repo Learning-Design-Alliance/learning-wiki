@@ -1,8 +1,32 @@
 ---
 type: theory
+title: Cognitive Load Theory
+description: Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory.
 status: review
-last_edited: 2026-04-06
-edited_by: Claude
+generated:
+  by: claude/unspecified
+  at: 2026-04-06
+sources:
+  - id: sweller-1988
+    resource: "https://doi.org/10.1207/s15516709cog1202_4"
+    title: "Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285"
+    author: Sweller, J
+  - id: sweller-1998
+    resource: "https://doi.org/10.1023/A:1022193728205"
+    title: "Sweller, J., van Merriënboer, J. J. G., & Paas, F. G. W. C. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251–296"
+    author: "Sweller, J., van Merriënboer, J. J. G., & Paas, F. G. W. C"
+  - id: paas-2003
+    resource: "https://doi.org/10.1207/S15326985EP3801_1"
+    title: "Paas, F., Renkl, A., & Sweller, J. (2003). Cognitive load theory and instructional design: Recent developments. *Educational Psychologist, 38*(1), 1–4"
+    author: "Paas, F., Renkl, A., & Sweller, J"
+  - id: sweller-2019
+    resource: "https://doi.org/10.1007/s10648-019-09465-5"
+    title: "Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review, 31*(2), 261–292"
+    author: "Sweller, J., van Merriënboer, J. J. G., & Paas, F"
+  - id: van-merriënboer-2018
+    resource: "https://doi.org/10.4324/9781315113210"
+    title: "van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge"
+    author: "van Merriënboer, J. J. G., & Kirschner, P. A"
 ---
 
 # Cognitive Load Theory
@@ -24,7 +48,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 
 ### Context
 - Applies wherever learning requires holding multiple interacting elements in working memory simultaneously — mathematics, programming, language acquisition, clinical reasoning, reading comprehension
-- Effect is strongest with novices; as expertise develops, previously separated elements are chunked into single schemas and cease to impose separate load demands (the basis of the [[theories/expertise-reversal-effect|expertise reversal effect]])
+- Effect is strongest with novices; as expertise develops, previously separated elements are chunked into single schemas and cease to impose separate load demands (the basis of the [expertise reversal effect](/theories/expertise-reversal-effect.md))
 - Design choices that reduce extraneous load are never harmful; but scaffolding that reduces intrinsic load too aggressively can prevent the element-interactivity processing needed for schema formation
 
 ### Target Learners
@@ -39,24 +63,24 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 
 ## Claims
 
-- [[claims/worked-examples-example-problem-sequences]] [+S] — example-based sequences reduce load compared to problem-only practice for novices; provides direct experimental evidence for the worked example effect as a CLT application
-- [[claims/worked-examples-reduce-novice-search]] [+M] — worked examples reduce unnecessary search load, freeing working memory for schema construction
-- [[claims/worked-examples-less-effective-with-expertise]] [~M] — expertise reversal: as schemas develop, the same guidance that reduced load for novices begins to impose redundancy load on more experienced learners
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](/claims/worked-examples-example-problem-sequences.md) [+S] — example-based sequences reduce load compared to problem-only practice for novices; provides direct experimental evidence for the worked example effect as a CLT application
+- [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md) [+M] — worked examples reduce unnecessary search load, freeing working memory for schema construction
+- [Worked-example guidance becomes less effective as learner expertise increases.](/claims/worked-examples-less-effective-with-expertise.md) [~M] — expertise reversal: as schemas develop, the same guidance that reduced load for novices begins to impose redundancy load on more experienced learners
 
 ## Related Theories
 
-- [[theories/situated-learning]] — CLT treats working memory as an individual cognitive limit; situated learning argues that cognition is distributed across tools, people, and environment, which can extend effective working memory capacity
-- [[theories/self-regulated-learning]] — SRL requires learners to monitor and regulate their own processing; CLT explains why novices often cannot self-regulate effectively — metacognitive monitoring itself consumes working memory
-- [[theories/dual-coding-theory]] — Paivio's dual coding theory (separate verbal and visual channels) is a compatible model; multimedia learning theory (Mayer) applies both CLT and dual coding to instructional media design
-- [[theories/constructivism]] — tension point: constructivist approaches favor active discovery, which can impose high extraneous load; CLT favors explicit instruction for novices, but converges with constructivism for more expert learners (see expertise reversal)
+- [Situated Learning](/theories/situated-learning.md) — CLT treats working memory as an individual cognitive limit; situated learning argues that cognition is distributed across tools, people, and environment, which can extend effective working memory capacity
+- [Self-Regulated Learning](/theories/self-regulated-learning.md) — SRL requires learners to monitor and regulate their own processing; CLT explains why novices often cannot self-regulate effectively — metacognitive monitoring itself consumes working memory
+- [Dual Coding Theory](/theories/dual-coding-theory.md) — Paivio's dual coding theory (separate verbal and visual channels) is a compatible model; multimedia learning theory (Mayer) applies both CLT and dual coding to instructional media design
+- [Constructivism](/theories/constructivism.md) — tension point: constructivist approaches favor active discovery, which can impose high extraneous load; CLT favors explicit instruction for novices, but converges with constructivism for more expert learners (see expertise reversal)
 
 ## Examples
 
-**[[patterns/cognitive-apprenticeship]]** — implements CLT by sequencing the modeling → coaching → fading arc: the modeling phase offloads element-interactivity processing onto the expert's narrated demonstration, reducing load during initial acquisition and fading support as schemas form.
+**[Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)** — implements CLT by sequencing the modeling → coaching → fading arc: the modeling phase offloads element-interactivity processing onto the expert's narrated demonstration, reducing load during initial acquisition and fading support as schemas form.
 
-**[[elements/demonstration]]** — the worked example is CLT's most direct instructional expression; by presenting a fully solved problem, demonstration eliminates the search component of problem solving, which is the primary source of extraneous load for novices.
+**[Demonstration](/elements/demonstration.md)** — the worked example is CLT's most direct instructional expression; by presenting a fully solved problem, demonstration eliminates the search component of problem solving, which is the primary source of extraneous load for novices.
 
-**[[strategies/use_worked_examples]]** — concrete application of CLT's worked example effect; the study-then-solve cycle is a direct implementation of the example-problem sequence shown to reduce load and improve transfer.
+**[Use Worked Examples](/strategies/use_worked_examples.md)** — concrete application of CLT's worked example effect; the study-then-solve cycle is a direct implementation of the example-problem sequence shown to reduce load and improve transfer.
 
 ## Key Sources
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Organized Online Resources
+description: Storing lesson plan ideas, instructional websites, and electronic copies of worksheets using organizational sites such as Livebinders.com, or desktop applications such as Evernote can streamline the organizational process and increase…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Organized Online Resources
@@ -35,7 +39,7 @@ Storing lesson plan ideas, instructional websites, and electronic copies of work
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track time spent finding and accessing digital resources. Monitor the ease of sharing resources among educators and students. Assess the level of student engagement with organized digital content.

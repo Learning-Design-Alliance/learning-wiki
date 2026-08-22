@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Multiple Representations: Visual Representations"
+description: Using visual representations can lead to clearer delivery of content and greater retention of key concepts in long-term memory.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multiple Representations: Visual Representations
@@ -35,11 +39,11 @@ Using visual representations can lead to clearer delivery of content and greater
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
+- [Integration](/elements/integration.md)
 
 ## Assessment Evidence
 - Track learner engagement with visual materials, assess learner understanding through visual representations, compare learner performance with and without visual aids.

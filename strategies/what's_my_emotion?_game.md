@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "What's My Emotion? Game"
+description: Using an EQ Feeling Chart, students identify how they are feeling individually.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # What's My Emotion? Game
@@ -35,8 +39,8 @@ Using an EQ Feeling Chart, students identify how they are feeling individually. 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement in the activity. Collect student feedback on the activity to assess its effectiveness.

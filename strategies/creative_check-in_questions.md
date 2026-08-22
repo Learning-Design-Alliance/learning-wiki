@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creative Check-In Questions
+description: Instructors ask thought-provoking questions to encourage reflection and emotional awareness.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creative Check-In Questions
@@ -35,9 +39,9 @@ Instructors ask thought-provoking questions to encourage reflection and emotiona
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
+- [Individual Response](/elements/individual-response.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student participation in answering the questions. Assess the thoughtfulness and specificity of students' responses.

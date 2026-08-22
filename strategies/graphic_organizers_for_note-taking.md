@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers for Note-Taking
+description: Learners use graphic organizers to structure notes from readings, research, films, or podcasts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers for Note-Taking
@@ -35,9 +39,9 @@ Learners use graphic organizers to structure notes from readings, research, film
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Quality of notes, accuracy of information presented, and learner ability to synthesize information.

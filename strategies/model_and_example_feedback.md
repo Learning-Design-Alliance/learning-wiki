@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Model and Example Feedback
+description: This approach involves communicating with learners the purpose for an assessment and/or student feedback.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Model and Example Feedback
@@ -35,8 +39,8 @@ This approach involves communicating with learners the purpose for an assessment
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/demonstration|Demonstration]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe changes in learner performance. Track learner progress. Analyze the effectiveness of the models and examples.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Organized Learning Groups
+description: Learning cohorts can be formed for employees to learn from each other on topics like improving Scrum processes or new skills such as technical tools or programming languages.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Organized Learning Groups
@@ -35,9 +39,9 @@ Learning cohorts can be formed for employees to learn from each other on topics 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
-- [[elements/peer-collaboration|Peer Collaboration]]
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Peer Collaboration](/elements/peer-collaboration.md)
 
 ## Assessment Evidence
 - Success can be measured by tracking employee participation in learning groups, skill development, and knowledge sharing within the organization.

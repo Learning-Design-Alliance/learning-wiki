@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mix It Up
+description: "The \"Mix It Up\" strategy involves intentionally creating opportunities for individuals to interact with people outside of their normal social circles to foster understanding and break down social barriers."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mix It Up
@@ -35,10 +39,10 @@ The "Mix It Up" strategy involves intentionally creating opportunities for indiv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Activation](/elements/activation.md)
+- [Discussion Sections](/elements/discussion-sections.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Increased interaction among diverse groups, positive feedback from participants, observed reduction in social barriers, enhanced awareness and understanding of different perspectives

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Normalizing Trouble and Struggle
+description: Creating a classroom culture where challenges and failures are seen as opportunities for growth and learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Normalizing Trouble and Struggle
@@ -35,10 +39,10 @@ Creating a classroom culture where challenges and failures are seen as opportuni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/application|Application]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Application](/elements/application.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased student persistence in the face of challenges, improved problem-solving skills, and positive attitudes towards failure.

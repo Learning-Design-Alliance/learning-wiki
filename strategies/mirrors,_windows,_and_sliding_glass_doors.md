@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mirrors, Windows, and Sliding Glass Doors
+description: Using the concept of mirrors, windows, and sliding glass doors helps students engage with diverse stories and experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mirrors, Windows, and Sliding Glass Doors
@@ -35,9 +39,9 @@ Using the concept of mirrors, windows, and sliding glass doors helps students en
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Increased student engagement with diverse resources. Improved ability to express empathy and understanding. Evidence of reflection and action.

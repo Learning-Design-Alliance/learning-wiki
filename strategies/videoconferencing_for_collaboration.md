@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Videoconferencing for Collaboration
+description: Videoconferencing platforms with built-in collaboration features such as Microsoft Teams and Google Meet can help teachers replicate teamwork experiences online.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Videoconferencing for Collaboration
@@ -35,10 +39,10 @@ Videoconferencing platforms with built-in collaboration features such as Microso
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/collaborative-problem-solving|Collaborative Problem-Solving]]
-- [[elements/shared-documents|Shared Documents]]
-- [[elements/virtual-whiteboards|Virtual Whiteboards]]
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Collaborative Problem-Solving](/elements/collaborative-problem-solving.md)
+- [Shared Documents](/elements/shared-documents.md)
+- [Virtual Whiteboards](/elements/virtual-whiteboards.md)
 
 ## Assessment Evidence
 - Participation in online collaboration, quality of teamwork and brainstorming, effectiveness of problem-solving, engagement and communication.

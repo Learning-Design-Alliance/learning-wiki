@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Learning Logs
+description: Learning logs are short, reflective writing activities completed at the beginning or end of a class to review previously learned material or focus on new concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Learning Logs
@@ -35,9 +39,9 @@ Learning logs are short, reflective writing activities completed at the beginnin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
+- [Practice](/elements/practice.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Review the content and depth of student responses to assess their understanding and ability to make connections. Track improvements in discussion quality following the implementation of learning logs.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Rubrics
+description: Rubrics are evaluation tools consisting of a set of criteria, a fixed scale, and descriptors that distinguish the differences in the levels of the scale.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rubrics
@@ -35,9 +39,9 @@ Rubrics are evaluation tools consisting of a set of criteria, a fixed scale, and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/state-objectives|State objectives]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [State objectives](/elements/state-objectives.md)
 
 ## Assessment Evidence
 - Track alignment between self-assessments and teacher evaluations. Monitor improvements in performance over time. Analyze depth and specificity of feedback provided based on rubric results. Measure student engagement with self-assessment and goal-setting activities.

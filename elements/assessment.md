@@ -1,8 +1,16 @@
 ---
 type: element
+title: Assessment
+description: Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: black-1998
+    resource: "https://doi.org/10.1080/0969595980050102"
+    title: "Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7-74"
+    author: "Black, P., & Wiliam, D"
 ---
 
 # Assessment
@@ -39,14 +47,14 @@ Assessment is the structured collection of evidence about learner understanding,
 - Creates opportunities for self-assessment, peer review, and revision
 
 ## Related Elements
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/quizzes|Quizzes]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/reassessment|Reassessment]]
+- [Formative Assessment](/elements/formative-assessment.md)
+- [Quizzes](/elements/quizzes.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Reassessment](/elements/reassessment.md)
 
 ## Patterns That Use This Element
-- [[patterns/traditional-lecture-reading-midterm-final-assessment|Traditional Lecture, Reading, Midterm, Final Assessment]]
-- [[patterns/collaborative-evaluation|Collaborative Evaluation]]
+- [Traditional Lecture, Reading, Midterm, Final Assessment](/patterns/traditional-lecture-reading-midterm-final-assessment.md)
+- [Collaborative Evaluation](/patterns/collaborative-evaluation.md)
 
 ## Examples
 - A rubric-scored project submission

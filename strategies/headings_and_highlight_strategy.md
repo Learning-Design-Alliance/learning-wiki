@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Headings and Highlight Strategy
+description: Students read an excerpt of a difficult article in Google Docs.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Headings and Highlight Strategy
@@ -35,10 +39,10 @@ Students read an excerpt of a difficult article in Google Docs. First, they high
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Evaluate students' headings and highlights for accuracy and relevance. Track their ability to justify their thinking. Collect student reflections on their learning process.

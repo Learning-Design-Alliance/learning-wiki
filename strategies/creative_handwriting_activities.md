@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creative Handwriting Activities
+description: Engaging and enjoyable writing activities that move away from traditional pencil and paper tasks.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creative Handwriting Activities
@@ -35,10 +39,10 @@ Engaging and enjoyable writing activities that move away from traditional pencil
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe improvements in skills during creative activities, such as consistent letter sizing or spacing. Track progress when transitioning to formal writing tasks.

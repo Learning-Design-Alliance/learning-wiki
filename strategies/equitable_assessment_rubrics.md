@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Equitable Assessment Rubrics
+description: Rubrics aligned to learning standards, objectives, and activities that illuminate student learning and mastery, with meaningful comments for formative assessment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Equitable Assessment Rubrics
@@ -35,9 +39,9 @@ Rubrics aligned to learning standards, objectives, and activities that illuminat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Student understanding, equitable grading

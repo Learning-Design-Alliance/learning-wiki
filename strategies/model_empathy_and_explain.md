@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Model Empathy and Explain
+description: Explicitly model empathy by demonstrating understanding and sharing in the feelings of others, then explain the thought process behind showing empathy.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Model Empathy and Explain
@@ -35,8 +39,8 @@ Explicitly model empathy by demonstrating understanding and sharing in the feeli
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/modeling|Modeling]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Modeling](/elements/modeling.md)
 
 ## Assessment Evidence
 - Observe learner interactions and participation in group activities.  Assess learner responses to scenarios requiring empathy.  Collect learner reflections on their understanding and demonstration of empathy.

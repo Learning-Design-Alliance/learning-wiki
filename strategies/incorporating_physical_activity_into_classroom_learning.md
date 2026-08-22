@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Incorporating Physical Activity Into Classroom Learning
+description: Incorporate movement into classroom instruction by having science classes explore natural settings, using physical movements to teach math, or acting out stories in language arts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Incorporating Physical Activity Into Classroom Learning
@@ -35,8 +39,8 @@ Incorporate movement into classroom instruction by having science classes explor
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Track student engagement levels, assess knowledge retention through tests and quizzes, observe student behavior and participation in class

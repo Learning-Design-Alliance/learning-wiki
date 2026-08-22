@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Action-Oriented Feedback
+description: Action-oriented feedback focuses on providing students with specific steps they can take to improve their writing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Action-Oriented Feedback
@@ -35,9 +39,9 @@ Action-oriented feedback focuses on providing students with specific steps they 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](/elements/practice.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the specificity and actionability of feedback provided. Monitor student's ability to implement feedback and improve their writing skills over time.

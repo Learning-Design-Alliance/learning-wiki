@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pinwheel Discussion
+description: Learners are divided into 4 groups.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pinwheel Discussion
@@ -35,9 +39,9 @@ Learners are divided into 4 groups. Three of these groups are assigned to repres
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/expert-groups|Expert Groups]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Expert Groups](/elements/expert-groups.md)
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Collaborative Learning](/elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the discussion, review the quality of their arguments and evidence, collect feedback from learners about their experience.

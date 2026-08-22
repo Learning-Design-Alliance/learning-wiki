@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicit Conversations about Emotions and Social Issues
+description: Engaging learners in explicit conversations about emotions and social issues, including issues of social justice, helps them develop a deeper understanding of social awareness and empathy.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicit Conversations about Emotions and Social Issues
@@ -35,9 +39,9 @@ Engaging learners in explicit conversations about emotions and social issues, in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/perspective-taking|Perspective-Taking]]
+- [Class Discussion](/elements/class-discussion.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Perspective-Taking](/elements/perspective-taking.md)
 
 ## Assessment Evidence
 - Observe learners' ability to articulate emotions, demonstrate understanding of social issues, and engage in respectful discussions.

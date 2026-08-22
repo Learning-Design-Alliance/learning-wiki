@@ -1,7 +1,11 @@
 ---
 type: element
+title: In-Class Activities
+description: Learners engage in active, structured tasks during class to apply knowledge.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # In-Class Activities
@@ -27,18 +31,18 @@ Learners engage in active, structured tasks during class to apply knowledge.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/active-learning|Active Learning]]
-- [[principles/constructivism|Constructivism]]
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
+- [Active Learning](/principles/active-learning.md)
+- [Constructivism](/principles/constructivism.md)
+- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/problem-based-learning|Problem-Based Learning]]
-- [[elements/hands-on-learning|Hands-on Learning]]
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Problem-Based Learning](/elements/problem-based-learning.md)
+- [Hands-on Learning](/elements/hands-on-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/flipped-classroom|Flipped Classroom]]
-- [[patterns/problem-based-learning|Problem-Based Learning]]
+- [Flipped Classroom](/patterns/flipped-classroom.md)
+- [Problem-Based Learning](/patterns/problem-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

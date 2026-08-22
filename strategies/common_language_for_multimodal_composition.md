@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Common Language for Multimodal Composition
+description: Creating a shared vocabulary or metalanguage empowers learners to analyze and discuss their multimodal composition process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Common Language for Multimodal Composition
@@ -35,9 +39,9 @@ Creating a shared vocabulary or metalanguage empowers learners to analyze and di
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the depth and specificity of learner discussions about multimodal works. Analyze the extent to which learners use the common language in their own compositions and analyses.

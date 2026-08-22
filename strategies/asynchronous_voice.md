@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Asynchronous Voice
+description: One of the limitations of discussion is that rich, face-to-face conversations can only happen when all parties are available, so we’re limited to the time we have in class.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Asynchronous Voice
@@ -35,9 +39,9 @@ One of the limitations of discussion is that rich, face-to-face conversations ca
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Review learner contributions to the voice messaging platform, collect feedback from learners about their experience.

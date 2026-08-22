@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Analogies
+description: Analogies are comparisons of two things that are alike in some way, used as advance organizers to help students realize that a new topic relates to something familiar.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Analogies
@@ -35,9 +39,9 @@ Analogies are comparisons of two things that are alike in some way, used as adva
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Student explanations of the analogy and its relationship to the target concept, performance on related tasks, and application of the concept in new contexts.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotion Identification through Literature
+description: "This strategy involves using emotion posters as a tool during read-alouds to help students infer and name a character's emotions through language and pictures."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotion Identification through Literature
@@ -35,9 +39,9 @@ This strategy involves using emotion posters as a tool during read-alouds to hel
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Class Discussion](/elements/class-discussion.md)
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, analyze their responses to questions about characters' emotions, and assess their ability to connect emotions to specific textual and visual cues.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Establish Guidelines for Discussing Race
+description: Establish guidelines or agreements for group members to make when having discussions of race to ensure respectful and productive dialogue.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Establish Guidelines for Discussing Race
@@ -35,9 +39,9 @@ Establish guidelines or agreements for group members to make when having discuss
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/assigned-positions|Assigned Positions]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Assigned Positions](/elements/assigned-positions.md)
 
 ## Assessment Evidence
 - Observe the level of engagement in discussions, track the use of respectful language and behaviors, gather feedback from participants, and analyze the depth of understanding and empathy demonstrated.

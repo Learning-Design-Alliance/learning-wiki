@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multiple Exposures
+description: Multiple exposures provide students with multiple opportunities to encounter, engage with, and elaborate on new knowledge and skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multiple Exposures
@@ -35,7 +39,7 @@ Multiple exposures provide students with multiple opportunities to encounter, en
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Retention over time, ability to apply knowledge in different contexts.

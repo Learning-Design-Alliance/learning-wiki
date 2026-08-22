@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Role-Playing Emotional Scenarios
+description: Learners act out how to manage emotions in different scenarios.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Role-Playing Emotional Scenarios
@@ -35,9 +39,9 @@ Learners act out how to manage emotions in different scenarios. Writing scenario
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the creativity and appropriateness of learner-generated solutions. Monitor the effectiveness of role-playing in improving real-world behavior. Assess the depth of understanding demonstrated during discussions.

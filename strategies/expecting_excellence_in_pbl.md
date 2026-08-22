@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Expecting Excellence in PBL
+description: "Expecting excellence in PBL involves setting high expectations for all students and actively dispelling the myth that PBL does not work for \"those kids.\" By ensuring proper scaffolding and understanding students' current realities,…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Expecting Excellence in PBL
@@ -35,9 +39,9 @@ Expecting excellence in PBL involves setting high expectations for all students 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/model-revision|Model Revision]]
-- [[elements/structured-questioning|Structured Questioning]]
-- [[elements/mastery-progression|Mastery Progression]]
+- [Model Revision](/elements/model-revision.md)
+- [Structured Questioning](/elements/structured-questioning.md)
+- [Mastery Progression](/elements/mastery-progression.md)
 
 ## Assessment Evidence
 - Increased student achievement, a stronger culture of excellence, and evidence of students reaching their full potential.

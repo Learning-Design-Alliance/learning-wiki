@@ -1,8 +1,11 @@
 ---
 type: element
+title: Public Product
+description: Public product is the element in which learners create work intended for real audiences beyond the teacher alone.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Public Product
@@ -11,7 +14,7 @@ edited_by: Codex
 Public product is the element in which learners create work intended for real audiences beyond the teacher alone.
 
 ## Affordances
-- [[principles/authentic-audiences-purposes|Authentic Audiences/Purposes]]
+- [Authentic Audiences/Purposes](/principles/authentic-audiences-purposes.md)
 
 ## Related Elements
-- [[elements/public-display|Public Display]]
+- [Public Display](/elements/public-display.md)

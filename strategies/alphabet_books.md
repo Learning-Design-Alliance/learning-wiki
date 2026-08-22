@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Alphabet Books
+description: Alphabet books involve students creating entries for each letter of the alphabet related to a specific topic, such as mathematics vocabulary.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Alphabet Books
@@ -35,9 +39,9 @@ Alphabet books involve students creating entries for each letter of the alphabet
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/revision|Revision]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Revision](/elements/revision.md)
 
 ## Assessment Evidence
 - Assess the accuracy and depth of vocabulary definitions and examples. Evaluate the effectiveness of the representations and the overall quality of the book.

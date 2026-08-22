@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Which One Doesn’t Belong?
+description: The instructor or learners place 3-4 dot cards on the table.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Which One Doesn’t Belong?
@@ -35,8 +39,8 @@ The instructor or learners place 3-4 dot cards on the table. Two or three cards 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to accurately identify the card that doesn't belong. Assess the justification provided for their choice.

@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Collaborative Inquiry
+description: Collaborative inquiry is a pattern in which learners pose questions together, investigate possible answers, critique emerging explanations, and revise their understanding in public.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: hmelo-silver-2007
+    resource: "https://doi.org/10.1080/00461520701263368"
+    title: "Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning. *Educational Psychologist, 42*(2), 99-107"
+    author: "Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A"
 author: Scardamalia and Bereiter
 grain_size: unit
 ---
@@ -52,11 +60,11 @@ The pattern is most useful when the instructional goal is not just finding infor
 
 ### Claims
 #### Supporting
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/whole-task-performance-improves-transfer]] [~S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -68,16 +76,16 @@ The pattern is most useful when the instructional goal is not just finding infor
 5. Revise explanations and identify next questions.
 
 ### Elements Used
-- [[elements/scaffolded-inquiry|Scaffolded Inquiry]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/reflection|Reflection]]
-- [[elements/formative-assessment|Formative Assessment]]
+- [Scaffolded Inquiry](/elements/scaffolded-inquiry.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Reflection](/elements/reflection.md)
+- [Formative Assessment](/elements/formative-assessment.md)
 
 ### Affordances
-- [[principles/inquiry-based-learning|Inquiry-based Learning]]
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/purposeful-reflection|Purposeful Reflection]]
+- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
+- [Peer Discussion](/principles/peer-discussion.md)
+- [Problem-based Learning](/principles/problem-based-learning.md)
+- [Purposeful Reflection](/principles/purposeful-reflection.md)
 
 ### Personalization
 - Different learners or teams can pursue different subquestions within a shared inquiry frame.
@@ -85,8 +93,8 @@ The pattern is most useful when the instructional goal is not just finding infor
 - Inquiry artifacts can be oral, visual, written, or mixed depending on the group and context.
 
 ## Related Patterns
-- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
-- [[patterns/discussion-group|Discussion Group]]
+- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
+- [Discussion Group](/patterns/discussion-group.md)
 
 ## Examples
 - Learners jointly investigating a community issue and synthesizing evidence into a shared explanation.

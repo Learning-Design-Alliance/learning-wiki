@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Relationship Skills Identification and Support
+description: This strategy involves educators identifying students with strengths or challenges in relationship skills and implementing targeted supports.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Relationship Skills Identification and Support
@@ -35,10 +39,10 @@ This strategy involves educators identifying students with strengths or challeng
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
-- [[elements/coaching|Coaching]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Modeling](/elements/modeling.md)
+- [Coaching](/elements/coaching.md)
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Student reflection, observation of behavior, educator reflection, work examples, assessment rubrics

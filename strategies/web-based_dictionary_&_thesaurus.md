@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Web-based Dictionary & Thesaurus"
+description: Incorporating web dictionaries and thesauruses into vocabulary lessons allows learners to quickly search for and understand unfamiliar words.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Web-based Dictionary & Thesaurus
@@ -35,10 +39,10 @@ Incorporating web dictionaries and thesauruses into vocabulary lessons allows le
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assigned Readings](/elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Track frequency of dictionary use, assess accuracy of definitions and explanations, and monitor improvement in vocabulary knowledge through pre- and post-assessments.

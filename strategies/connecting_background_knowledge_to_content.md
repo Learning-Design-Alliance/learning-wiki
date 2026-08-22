@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connecting Background Knowledge to Content
+description: A method for making instruction more culturally relevant by connecting content to learners’ experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connecting Background Knowledge to Content
@@ -39,10 +43,10 @@ A method for making instruction more culturally relevant by connecting content t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Learner participation in discussions, quality of connections made between content and personal experiences, ability to explain cultural relevance of artifacts and stories

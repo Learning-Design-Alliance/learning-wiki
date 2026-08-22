@@ -1,8 +1,11 @@
 ---
 type: element
+title: Debriefing
+description: Debriefing is the element in which learners reflect on an activity, simulation, or performance to consolidate what happened and why.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Debriefing
@@ -11,8 +14,8 @@ edited_by: Codex
 Debriefing is the element in which learners reflect on an activity, simulation, or performance to consolidate what happened and why.
 
 ## Affordances
-- [[principles/debriefing|Debriefing]]
-- [[principles/reflection|Reflection]]
+- [Debriefing](/principles/debriefing.md)
+- [Reflection](/principles/reflection.md)
 
 ## Related Elements
-- [[elements/reflection-activities|Reflection Activities]]
+- [Reflection Activities](/elements/reflection-activities.md)

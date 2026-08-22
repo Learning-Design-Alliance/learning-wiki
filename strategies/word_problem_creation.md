@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Word Problem Creation
+description: Learners select math operations and create multistep word problems for peers to solve, integrating math and literacy skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Word Problem Creation
@@ -35,9 +39,9 @@ Learners select math operations and create multistep word problems for peers to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Application](/elements/application.md)
+- [Individual Response](/elements/individual-response.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Evaluate the quality, complexity, and accuracy of the word problems created by learners. Assess the completeness and correctness of solutions provided by learners. Observe learner engagement and participation in problem-solving activities.

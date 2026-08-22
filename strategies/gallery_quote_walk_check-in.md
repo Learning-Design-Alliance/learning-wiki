@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Gallery Quote Walk Check-In
+description: Students read displayed quotes and choose one that reflects their current feelings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Gallery Quote Walk Check-In
@@ -35,8 +39,8 @@ Students read displayed quotes and choose one that reflects their current feelin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation in selecting and sharing quotes. Assess the thoughtfulness and specificity of students' explanations of their quotes.

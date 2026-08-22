@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Enriched Learning Environment
+description: Creating a brain-friendly and enriched classroom environment involves optimizing the learning space by considering layout, furniture choices, color selections, lighting, nature, environmental print, and organization of materials.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Enriched Learning Environment
@@ -35,10 +39,10 @@ Creating a brain-friendly and enriched classroom environment involves optimizing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe learner focus and engagement. Collect feedback from learners on their perceptions of the learning environment. Measure academic outcomes in enriched vs. traditional classrooms.

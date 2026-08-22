@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Positive Scripts
+description: Creating positive scripts involves regularly constructing and narrating uplifting stories with a positive outline, visualizing goals as already achieved to internalize them.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Positive Scripts
@@ -35,8 +39,8 @@ Creating positive scripts involves regularly constructing and narrating upliftin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Track changes in self-reported motivation and optimism using questionnaires or journals. Observe improvements in mood, goal-setting, and goal-achievement. Analyze the level of detail and emotional engagement in the created scripts.

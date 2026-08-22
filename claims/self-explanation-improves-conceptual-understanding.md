@@ -1,8 +1,20 @@
 ---
 type: claim
-id: se-1
+title: Self-explanation improves conceptual understanding and problem-solving performance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
+sources:
+  - id: chi-et-al-1989
+    resource: "https://doi.org/10.1207/s15516709cog1302_1"
+    title: "Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [https://doi.org/10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)"
+    author: "Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R"
+  - id: rittle-johnson-2017
+    resource: "https://doi.org/10.1007/s11858-017-0834-z"
+    title: "Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)"
+    author: Rittle-Johnson, B
+id: se-1
 evidence_strength: strong
 ---
 
@@ -38,5 +50,5 @@ A meta-analysis of studies in mathematics education. It found that prompted self
 The effectiveness of self-explanation can be limited by a learner's prior knowledge; if a learner lacks the necessary background to generate a correct explanation, they may reinforce misconceptions.
 
 ## Related Claims
-- [[claims/expertise-reversal-effect]]
-- [[claims/chunking-reduces-working-memory-load]]
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md)
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md)

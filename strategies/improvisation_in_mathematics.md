@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Improvisation in Mathematics
+description: This strategy involves using improvisation and acting exercises to enhance mathematical understanding and creativity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Improvisation in Mathematics
@@ -35,10 +39,10 @@ This strategy involves using improvisation and acting exercises to enhance mathe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/application|Application]]
+- [Practice](/elements/practice.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in improv activities; assess learner understanding of mathematical concepts through performance and verbal explanations; use reflections or journals to assess learner's ability to connect improv to concepts

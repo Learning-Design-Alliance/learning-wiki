@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Optimize Natural Lighting
+description: Artificial lighting has negative impacts on those in schools, while natural lighting has positive impacts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Optimize Natural Lighting
@@ -35,9 +39,9 @@ Artificial lighting has negative impacts on those in schools, while natural ligh
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student behavior, measure test scores, and collect feedback from teachers and students.

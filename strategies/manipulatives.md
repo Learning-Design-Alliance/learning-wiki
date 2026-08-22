@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Manipulatives
+description: Provide manipulatives to help make complex concepts concrete.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Manipulatives
@@ -35,8 +39,8 @@ Provide manipulatives to help make complex concepts concrete. Abstract concepts 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe whether students make connections between the manipulatives and concepts. Use assessment results to see if they are learning from the manipulatives.

@@ -1,8 +1,16 @@
 ---
 type: element
+title: Conceptual Overviews
+description: Conceptual overviews are elements that present the broad structure, central idea, or organizing logic of a topic before moving into details.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: ausubel-1960
+    resource: "https://doi.org/10.1037/h0046669"
+    title: "Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267-272"
+    author: Ausubel, D. P
 ---
 
 # Conceptual Overviews
@@ -23,17 +31,17 @@ Conceptual overviews are elements that present the broad structure, central idea
 - Support schema formation and orientation to the whole.
 
 ### Affordances
-- [[principles/holistic-learning|Holistic Learning]]
-- [[principles/cognitive-load-management|Cognitive Load Management]]
+- [Holistic Learning](/principles/holistic-learning.md)
+- [Cognitive Load Management](/principles/cognitive-load-management.md)
 
 ## Related Elements
-- [[elements/advance-organizers|Advance Organizers]]
-- [[elements/concept-mapping|Concept Mapping]]
-- [[elements/epitome-elaboration-theory|Epitome (Elaboration Theory)]]
+- [Advance Organizers](/elements/advance-organizers.md)
+- [Concept Mapping](/elements/concept-mapping.md)
+- [Epitome (Elaboration Theory)](/elements/epitome-elaboration-theory.md)
 
 ## Patterns That Use This Element
-- [[patterns/elaboration-theory|Elaboration Theory]]
-- [[patterns/gagnés-9-events|Gagné's 9 Events]]
+- [Elaboration Theory](/patterns/elaboration-theory.md)
+- [Gagné's 9 Events](/patterns/gagnés-9-events.md)
 
 ## Examples
 - A simple course map that shows how major ideas connect before individual lessons begin.

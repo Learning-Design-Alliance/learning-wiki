@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Racial Equity in PBL - Create Space for Students to Reflect
+description: Reflection is rare in traditional classrooms, where the emphasis is on urgency and doing assignments quickly.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Racial Equity in PBL - Create Space for Students to Reflect
@@ -35,7 +39,7 @@ Reflection is rare in traditional classrooms, where the emphasis is on urgency a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Depth of reflection, demonstration of socio-emotional learning, improved well-being.

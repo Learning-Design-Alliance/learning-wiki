@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teacher-Student Reading Conferences
+description: Schedule regular conferences with students to get a sense of their independent reading and provide instructional support.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teacher-Student Reading Conferences
@@ -35,10 +39,10 @@ Schedule regular conferences with students to get a sense of their independent r
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/coaching|Coaching]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Coaching](/elements/coaching.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Document conference notes and observations. Track student progress based on conference feedback. Monitor the effectiveness of instructional support provided during conferences.

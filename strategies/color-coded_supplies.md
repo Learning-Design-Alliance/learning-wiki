@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Color-Coded Supplies
+description: Color-coding school supplies can make organization easier and more streamlined for kids and the adults in charge.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Color-Coded Supplies
@@ -35,8 +39,8 @@ Color-coding school supplies can make organization easier and more streamlined f
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner's ability to quickly identify and retrieve supplies. Track the organization of learning materials. Gather feedback from the learner on the usefulness of the color-coding system.

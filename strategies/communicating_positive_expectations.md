@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Communicating Positive Expectations
+description: Teacher expectations have a dramatic impact on learner performance and behavior.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Communicating Positive Expectations
@@ -35,9 +39,9 @@ Teacher expectations have a dramatic impact on learner performance and behavior.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increase in learner participation, improved academic performance, and reduced behavioral issues. Observation of equitable participation and the effectiveness of supportive feedback and encouragement.

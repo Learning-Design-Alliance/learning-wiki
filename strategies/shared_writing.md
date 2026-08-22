@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Shared Writing
+description: Shared writing involves a teacher and students collaboratively composing a text, with the teacher acting as a scribe.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Shared Writing
@@ -35,10 +39,10 @@ Shared writing involves a teacher and students collaboratively composing a text,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/revision|Revision]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Revision](/elements/revision.md)
 
 ## Assessment Evidence
 - Assess the quality of the final shared writing, looking for accurate and detailed explanations of concepts. Observe student engagement and participation during the collaborative process.

@@ -1,8 +1,16 @@
 ---
 type: element
+title: Collaborative Discussion
+description: Collaborative discussion is the element in which learners build understanding together through shared talk, comparison of ideas, and negotiated meaning.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: mercer-2012
+    resource: "https://doi.org/10.1016/j.lcsi.2012.03.001"
+    title: "Mercer, N., & Howe, C. (2012). Explaining the dialogic processes of teaching and learning. *Learning, Culture and Social Interaction, 1*(1), 12-21"
+    author: "Mercer, N., & Howe, C"
 ---
 
 # Collaborative Discussion
@@ -24,17 +32,17 @@ Collaborative discussion is the element in which learners build understanding to
 - Support co-construction, perspective comparison, and shared synthesis.
 
 ### Affordances
-- [[principles/social-constructivism|Social Constructivism]]
-- [[principles/social-learning|Social Learning]]
+- [Social Constructivism](/principles/social-constructivism.md)
+- [Social Learning](/principles/social-learning.md)
 
 ## Related Elements
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/structured-discussion|Structured Discussion]]
-- [[elements/consensus-building|Consensus Building]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Structured Discussion](/elements/structured-discussion.md)
+- [Consensus Building](/elements/consensus-building.md)
 
 ## Patterns That Use This Element
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
+- [Discussion-Based Learning](/patterns/discussion-based-learning.md)
+- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
 
 ## Examples
 - Small-group discussion where learners must build a shared interpretation from different evidence.

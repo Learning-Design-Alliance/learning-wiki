@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Attention Signals
+description: Attention signals are techniques used by instructors to regain focus and quiet a noisy learning environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Attention Signals
@@ -35,8 +39,8 @@ Attention signals are techniques used by instructors to regain focus and quiet a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/state-objectives|State objectives]]
+- [Gain attention](/elements/gain-attention.md)
+- [State objectives](/elements/state-objectives.md)
 
 ## Assessment Evidence
 - Observe how quickly and effectively learners respond to the attention signal. Track the number of times the signal needs to be used during a lesson.

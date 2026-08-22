@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Key Word Flash Cards
+description: Create flash cards for the four mathematical operations (addition, subtraction, multiplication, and division).
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Key Word Flash Cards
@@ -35,8 +39,8 @@ Create flash cards for the four mathematical operations (addition, subtraction, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' use of flash cards to identify key words and operations. Assess students' accuracy in solving word problems using the flash cards as a guide.

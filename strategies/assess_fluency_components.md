@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Assess Fluency Components
+description: Assessing must attend to fluency components and the learner.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Assess Fluency Components
@@ -35,9 +39,9 @@ Assessing must attend to fluency components and the learner. Assessments often a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Evaluates learner skill through performance tasks, oral examinations, and portfolio reviews, examining accuracy, efficiency, and adaptability. Collects learner perceptions via surveys and assesses conceptual understanding with open-ended problems.

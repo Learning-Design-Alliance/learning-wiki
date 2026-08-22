@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers for Math
+description: Graphic organizers help learners break down math problems into steps to understand what’s being asked or which operation to use.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers for Math
@@ -35,8 +39,8 @@ Graphic organizers help learners break down math problems into steps to understa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner's ability to accurately complete steps, identify key information, select appropriate operations, and solve problems using the organizer. Assess the depth of understanding demonstrated through the completed organizer.

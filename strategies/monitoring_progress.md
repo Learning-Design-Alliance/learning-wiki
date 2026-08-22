@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Monitoring Progress
+description: Monitoring progress involves regularly assessing advancement towards goals.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Monitoring Progress
@@ -35,9 +39,9 @@ Monitoring progress involves regularly assessing advancement towards goals. This
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Success is measured by the ability to identify and address deviations from the plan, leading to the timely achievement of goals.

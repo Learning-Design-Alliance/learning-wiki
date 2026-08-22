@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Home Living Center Role Play
+description: Learners visit the home living center to role play different characters and relate these characters to different emotions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Home Living Center Role Play
@@ -35,8 +39,8 @@ Learners visit the home living center to role play different characters and rela
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - The facilitator can observe how the learner uses vocabulary to create their story. Ask learners to do an individual reflection of how they used emotions and what they learned in the role playing exercise.

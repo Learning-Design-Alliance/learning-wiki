@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Frequent Student Reflections
+description: This strategy involves prompting learners to reflect on their learning more often, allowing them to better understand their strengths and weaknesses, make connections between topics and disciplines, and grow as they self-assess their…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Frequent Student Reflections
@@ -35,8 +39,8 @@ This strategy involves prompting learners to reflect on their learning more ofte
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Honesty and detail in learners’ responses, evidence of growth in self-assessment skills, and connections made with other classes or in the community.

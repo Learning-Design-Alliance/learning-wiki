@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Speak the Future, Design the Future (Changing the Discourse)
+description: This principle emphasizes that the language used to discuss education shapes the limits of our imagination.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Speak the Future, Design the Future (Changing the Discourse)
@@ -35,9 +39,9 @@ This principle emphasizes that the language used to discuss education shapes the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/discussion-prompt|Discussion Prompt]]
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Question Formulation](/elements/question-formulation.md)
+- [Discussion Prompt](/elements/discussion-prompt.md)
 
 ## Assessment Evidence
 - Analyze the language used in school policies, communications, and curriculum materials, track changes in the use of DI and DII language, and assess the impact of these changes on student outcomes.

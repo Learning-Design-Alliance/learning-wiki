@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Show Me
+description: Use slides or the board to provide another way for learners to get the information or directions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Show Me
@@ -35,8 +39,8 @@ Use slides or the board to provide another way for learners to get the informati
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe how frequently students rely on this strategy to fill in learning gaps. Talk to students and see if they feel supported.

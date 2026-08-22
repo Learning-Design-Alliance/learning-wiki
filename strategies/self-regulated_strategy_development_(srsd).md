@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Regulated Strategy Development (SRSD)
+description: "SRSD is an instructional approach designed to enhance students' writing skills by addressing their affective, behavioral, and cognitive characteristics."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Regulated Strategy Development (SRSD)
@@ -35,13 +39,13 @@ SRSD is an instructional approach designed to enhance students' writing skills b
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Improvements in writing quality (length, structure, content), changes in attitudes toward writing, and increased use of self-regulation strategies. Observation of strategy use and student self-assessment.

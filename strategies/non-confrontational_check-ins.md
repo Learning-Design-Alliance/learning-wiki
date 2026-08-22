@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Non-Confrontational Check-ins
+description: Non-confrontational check-ins involve engaging students in informal, positive interactions before they enter the classroom to socialize them into productive behaviors.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Non-Confrontational Check-ins
@@ -35,8 +39,8 @@ Non-confrontational check-ins involve engaging students in informal, positive in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor student behavior and engagement in the classroom. Track the number of disruptions and disciplinary actions. Collect student feedback on their relationships with teachers and the classroom environment.

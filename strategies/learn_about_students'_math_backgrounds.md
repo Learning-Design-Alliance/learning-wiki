@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Learn About Students' Math Backgrounds"
+description: "Understanding learners' math backgrounds is important."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Learn About Students' Math Backgrounds
@@ -35,8 +39,8 @@ Understanding learners' math backgrounds is important. Some may have strong skil
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/application|Application]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Assess learner's math background, monitor engagement in math activities

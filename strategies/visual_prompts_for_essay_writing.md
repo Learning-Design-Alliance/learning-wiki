@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Visual Prompts for Essay Writing
+description: Using artwork along with life lesson statements can help adolescents write essays.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Visual Prompts for Essay Writing
@@ -35,8 +39,8 @@ Using artwork along with life lesson statements can help adolescents write essay
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Assigned Readings](/elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Assess the depth of students' thoughts, the connections they make between visuals and experiences, and the quality of their essays.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers and Visual Aids
+description: Tools that help students identify and focus on the most important information by presenting it in a structured and visual format.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers and Visual Aids
@@ -35,7 +39,7 @@ Tools that help students identify and focus on the most important information by
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior (e.g., improved focus, enhanced organization). Collect feedback from students on the helpfulness of the tools.

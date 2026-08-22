@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leveraging Strengths to Improve Relationship Skills
+description: "This strategy focuses on identifying and supporting students' relationship skills by leveraging their existing strengths."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leveraging Strengths to Improve Relationship Skills
@@ -35,10 +39,10 @@ This strategy focuses on identifying and supporting students' relationship skill
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student interactions and collaboration skills, assess individual understanding of the material through quizzes or assignments, and gather feedback from students about their experience with jigsaw activities.

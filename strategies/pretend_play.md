@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pretend Play
+description: Pretend play, also known as dramatic play or make-believe, involves learners exploring imagined situations and roles.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pretend Play
@@ -35,9 +39,9 @@ Pretend play, also known as dramatic play or make-believe, involves learners exp
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
+- [Integration](/elements/integration.md)
 
 ## Assessment Evidence
 - Observe learners' communication skills, interaction with peers, and integration of math concepts during play. Track the level of engagement and creativity displayed during the play scenarios.

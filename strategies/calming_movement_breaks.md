@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Calming Movement Breaks
+description: Integrating repetitive and rhythmic vestibular input, such as rocking, swaying, or gentle swinging, into the learning environment to help learners reset when they are overstimulated, overwhelmed, or dealing with tantrums.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Calming Movement Breaks
@@ -35,8 +39,8 @@ Integrating repetitive and rhythmic vestibular input, such as rocking, swaying, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Practice](/elements/practice.md)
+- [Provide Guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation in movement activities. Collect feedback from learners on the effectiveness of different movement activities. Track changes in learners' behavior, attention, and emotional regulation.

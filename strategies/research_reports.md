@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Research Reports
+description: Research reports are visual aids designed to present data and insights in an engaging and accessible format.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Research Reports
@@ -35,9 +39,9 @@ Research reports are visual aids designed to present data and insights in an eng
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Evaluate the clarity and effectiveness of communication. Assess reader comprehension and engagement. Track the impact of research findings.

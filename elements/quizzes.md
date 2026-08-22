@@ -1,7 +1,11 @@
 ---
 type: element
+title: Quizzes
+description: Short, low-stakes assessments that reinforce learning and provide feedback.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Quizzes
@@ -27,19 +31,19 @@ Short, low-stakes assessments that reinforce learning and provide feedback.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/cognitive-load-theory|Cognitive Load Theory]]
-- [[principles/mastery-learning|Mastery Learning]]
-- [[principles/formative-assessment|Formative Assessment]]
+- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
+- [Mastery Learning](/principles/mastery-learning.md)
+- [Formative Assessment](/principles/formative-assessment.md)
 
 ## Related Elements
-- [[elements/retrieval-practice|Retrieval Practice]]
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/spaced-repetition|Spaced Repetition]]
+- [Retrieval Practice](/elements/retrieval-practice.md)
+- [Formative Assessment](/elements/formative-assessment.md)
+- [Spaced Repetition](/elements/spaced-repetition.md)
 
 ## Patterns That Use This Element
-- [[patterns/formative-assessment|Formative Assessment]]
-- [[patterns/mastery-learning|Mastery Learning]]
-- [[patterns/competency-based-learning|Competency-Based Learning]]
+- [Formative Assessment](/patterns/formative-assessment.md)
+- [Mastery Learning](/patterns/mastery-learning.md)
+- [Competency-Based Learning](/patterns/competency-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

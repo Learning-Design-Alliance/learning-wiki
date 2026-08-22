@@ -1,8 +1,11 @@
 ---
 type: element
+title: Promote a Sense of Home
+description: Promote a sense of home is the element of creating belonging, familiarity, and social warmth within a learning environment.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Promote a Sense of Home
@@ -11,5 +14,5 @@ edited_by: Codex
 Promote a sense of home is the element of creating belonging, familiarity, and social warmth within a learning environment.
 
 ## Affordances
-- [[principles/holistic-learning|Holistic Learning]]
-- [[principles/community-based-learning|Community-Based Learning]]
+- [Holistic Learning](/principles/holistic-learning.md)
+- [Community-Based Learning](/principles/community-based-learning.md)

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Ask Open-Ended Questions
+description: Don’t assume you know how a student is feeling.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Ask Open-Ended Questions
@@ -35,8 +39,8 @@ Don’t assume you know how a student is feeling. Be attentive to nonverbal cues
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-response|Individual Response]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Response](/elements/individual-response.md)
 
 ## Assessment Evidence
 - Track student responses, monitor changes in communication patterns, gather student feedback

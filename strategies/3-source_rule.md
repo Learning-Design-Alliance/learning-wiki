@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: 3-Source Rule
+description: When students are doing online research in her class, Je Hen enforces the three-source rule.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # 3-Source Rule
@@ -35,7 +39,7 @@ When students are doing online research in her class, Je Hen enforces the three-
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Ability to find 3 valid sources.

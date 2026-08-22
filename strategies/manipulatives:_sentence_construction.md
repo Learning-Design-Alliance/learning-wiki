@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Manipulatives: Sentence Construction"
+description: Using physical objects to represent parts of speech in sentences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Manipulatives: Sentence Construction
@@ -35,8 +39,8 @@ Using physical objects to represent parts of speech in sentences. Learners write
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/demonstration|Demonstration]]
+- [Practice](/elements/practice.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learner's ability to correctly represent sentences with manipulatives. Assess the complexity and accuracy of the sentences they construct.

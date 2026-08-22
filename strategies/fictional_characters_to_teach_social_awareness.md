@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Fictional Characters to Teach Social Awareness
+description: Use current events and fictional characters to teach social awareness.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Fictional Characters to Teach Social Awareness
@@ -35,9 +39,9 @@ Use current events and fictional characters to teach social awareness.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-response|Individual Response]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Response](/elements/individual-response.md)
 
 ## Assessment Evidence
 - Assess student connections.

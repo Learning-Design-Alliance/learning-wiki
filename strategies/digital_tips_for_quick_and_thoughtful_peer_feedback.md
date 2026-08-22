@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Digital Tips for Quick and Thoughtful Peer Feedback
+description: Using digital tools to facilitate peer feedback can make the process easier and more efficient.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Digital Tips for Quick and Thoughtful Peer Feedback
@@ -35,9 +39,9 @@ Using digital tools to facilitate peer feedback can make the process easier and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/digital-tools|Digital Tools]]
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Peer Interaction](/elements/peer-interaction.md)
+- [Digital Tools](/elements/digital-tools.md)
 
 ## Assessment Evidence
 - Assess the quality and relevance of digital feedback. Observe student engagement and participation in feedback activities. Measure improvements in the quality of revised work based on feedback.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Literature Circles
+description: Literature circles involve small groups of students who choose a book, meet to discuss it, and complete projects to demonstrate understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Literature Circles
@@ -35,10 +39,10 @@ Literature circles involve small groups of students who choose a book, meet to d
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/application|Application]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe discussions for evidence of thoughtful engagement and comprehension. Review projects and reflections for understanding and creative expression. Provide feedback on discussions and projects to guide student learning.

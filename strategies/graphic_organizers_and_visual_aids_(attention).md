@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers and Visual Aids (Attention)
+description: Using graphic organizers and visual aids to help students identify the most important information and focus on it.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers and Visual Aids (Attention)
@@ -35,8 +39,8 @@ Using graphic organizers and visual aids to help students identify the most impo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Monitor student's ability to extract key information using graphic organizers. Review completed graphic organizers for accuracy and completeness.

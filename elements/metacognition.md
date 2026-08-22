@@ -1,8 +1,11 @@
 ---
 type: element
+title: Metacognition
+description: Metacognition is the element in which learners monitor, explain, and regulate their own thinking.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Metacognition
@@ -11,9 +14,9 @@ edited_by: Codex
 Metacognition is the element in which learners monitor, explain, and regulate their own thinking.
 
 ## Affordances
-- [[principles/metacognition|Metacognition]]
-- [[principles/self-regulation|Self-Regulation]]
+- [Metacognition](/principles/metacognition.md)
+- [Self-Regulation](/principles/self-regulation.md)
 
 ## Related Elements
-- [[elements/metacognitive-strategies|Metacognitive Strategies]]
-- [[elements/self-monitoring|Self-Monitoring]]
+- [Metacognitive Strategies](/elements/metacognitive-strategies.md)
+- [Self-Monitoring](/elements/self-monitoring.md)

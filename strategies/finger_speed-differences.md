@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Finger Speed-Differences
+description: Same as speed-sums, except whoever find the difference between the two numbers first wins.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Finger Speed-Differences
@@ -35,9 +39,9 @@ Same as speed-sums, except whoever find the difference between the two numbers f
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/collaboration|Collaboration]]
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Collaboration](/elements/collaboration.md)
 
 ## Assessment Evidence
 - Assess students' speed and accuracy in calculating the difference. Observe their engagement and participation.

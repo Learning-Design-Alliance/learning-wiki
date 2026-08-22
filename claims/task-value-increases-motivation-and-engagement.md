@@ -1,8 +1,20 @@
 ---
 type: claim
-id: motiv-3
+title: Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.
 status: review
-last_edited: 2026-04-13
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-13
+sources:
+  - id: eccles-wigfield-2002
+    resource: "https://doi.org/10.1146/annurev.psych.53.100901.135153"
+    title: "Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. *Annual Review of Psychology, 53*, 109–132. [https://doi.org/10.1146/annurev.psych.53.100901.135153](https://doi.org/10.1146/annurev.psych.53.100901.135153)"
+    author: "Eccles, J. S., & Wigfield, A"
+  - id: wigfield-cambria-2010
+    resource: "https://doi.org/10.1016/j.dr.2009.12.001"
+    title: "Wigfield, A., & Cambria, J. (2010). Students' achievement values, goal orientations, and interest: Definitions, development, and relations to achievement outcomes. *Developmental Review, 30*(1), 1–35. [https://doi.org/10.1016/j.dr.2009.12.001](https://doi.org/10.1016/j.dr.2009.12.001)"
+    author: "Wigfield, A., & Cambria, J"
+id: motiv-3
 evidence_strength: strong
 ---
 
@@ -45,6 +57,6 @@ Utility value is actionable through explicit framing: studies show that simply a
 Intrinsic interest is less reliably shapeable in the short term than utility value, but situational interest — triggered by novelty, social context, or surprising information — can serve as a bridge to deeper individual interest over time. See Hidi & Renninger's four-phase model of interest development.
 
 ## Related Claims
-- [[claims/autonomy-supports-intrinsic-motivation]] — intrinsic value and autonomous motivation often co-occur: tasks learners find interesting are also those they pursue for internal reasons
-- [[claims/self-efficacy-predicts-academic-persistence]] — expectancy-value theory explicitly pairs expectancy (self-efficacy) with task value; both are needed to predict effort investment
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] — task value provides the motivation to commit to challenging goals; goal commitment is low when value is low regardless of goal specificity
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](/claims/autonomy-supports-intrinsic-motivation.md) — intrinsic value and autonomous motivation often co-occur: tasks learners find interesting are also those they pursue for internal reasons
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](/claims/self-efficacy-predicts-academic-persistence.md) — expectancy-value theory explicitly pairs expectancy (self-efficacy) with task value; both are needed to predict effort investment
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) — task value provides the motivation to commit to challenging goals; goal commitment is low when value is low regardless of goal specificity

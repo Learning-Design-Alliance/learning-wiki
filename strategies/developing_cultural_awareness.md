@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Developing Cultural Awareness
+description: "Developing cultural awareness as an educator is an ongoing process that includes building empathy for diverse learners, intentionally recognizing how one's own identity intersects with learners' identities, and creating an awareness of…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Developing Cultural Awareness
@@ -35,9 +39,9 @@ Developing cultural awareness as an educator is an ongoing process that includes
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide Guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Increased self-awareness of biases, improved relationships with diverse learners, and more inclusive curriculum and instructional practices.

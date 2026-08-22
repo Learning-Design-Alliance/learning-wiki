@@ -1,8 +1,11 @@
 ---
 type: element
+title: Rubrics
+description: Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Rubrics
@@ -13,12 +16,12 @@ Rubrics are the element in which criteria and performance levels are made explic
 ## Design Implications
 
 ### Affordances
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/multiple-methods-of-assessment|Multiple Methods of Assessment]]
+- [Formative Assessment](/principles/formative-assessment.md)
+- [Multiple Methods of Assessment](/principles/multiple-methods-of-assessment.md)
 
 ## Related Elements
-- [[elements/rubric-design|Rubric Design]]
-- [[elements/criteria-development|Criteria Development]]
+- [Rubric Design](/elements/rubric-design.md)
+- [Criteria Development](/elements/criteria-development.md)
 
 ## Key Sources
 - Brookhart, S. M. (2013). *How to create and use rubrics for formative assessment and grading*. ASCD.

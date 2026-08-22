@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Picture Schedules and Visual Planners
+description: Picture schedules or visual planners use images to lay out the steps to do a task.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Picture Schedules and Visual Planners
@@ -35,8 +39,8 @@ Picture schedules or visual planners use images to lay out the steps to do a tas
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner's ability to follow the schedule independently. Track the completion rate of tasks on the schedule. Gather feedback from the learner on the usefulness of the schedule.

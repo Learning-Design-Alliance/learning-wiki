@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Safe and Healthy Elementary School Recess
+description: Implementing a safe and healthy recess with programs like Playworks TeamUp aims to build a positive school climate by promoting social, emotional, physical, and academic development.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Safe and Healthy Elementary School Recess
@@ -35,11 +39,11 @@ Implementing a safe and healthy recess with programs like Playworks TeamUp aims 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/modeling|Modeling]]
-- [[elements/coaching|Coaching]]
+- [Application](/elements/application.md)
+- [Peer Interaction](/elements/peer-interaction.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Modeling](/elements/modeling.md)
+- [Coaching](/elements/coaching.md)
 
 ## Assessment Evidence
 - Monitor recess organization, student activity levels, conflict resolution skills, and reported incidents of bullying and disciplinary referrals.

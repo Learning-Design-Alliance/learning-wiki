@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Islamic Geometry Exploration
+description: Exploring Islamic geometry with students centers on exploration, joy, and solidarity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Islamic Geometry Exploration
@@ -35,8 +39,8 @@ Exploring Islamic geometry with students centers on exploration, joy, and solida
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, their ability to identify patterns and geometries, and their connections between art and mathematics.

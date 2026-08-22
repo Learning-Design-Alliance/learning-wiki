@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pre-Writing Skills Activities
+description: Activities focused on building foundational skills necessary before formal handwriting instruction begins, such as line awareness, spatial awareness, and pencil grasp.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-Writing Skills Activities
@@ -35,10 +39,10 @@ Activities focused on building foundational skills necessary before formal handw
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe improvements in line tracking, shape formation, and pencil control. Assess readiness for formal handwriting instruction.

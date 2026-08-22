@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Distributed Practice (Spaced Learning)
+description: Distributed practice, also known as spaced learning, involves reviewing information or practicing skills across multiple sessions spread out over time, rather than in one continuous session (massed practice).
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Distributed Practice (Spaced Learning)
@@ -35,9 +39,9 @@ Distributed practice, also known as spaced learning, involves reviewing informat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/continuous-review|Continuous Review]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Continuous Review](/elements/continuous-review.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Compare retention rates between spaced and massed practice groups. Monitor learner recall and application of knowledge over time.

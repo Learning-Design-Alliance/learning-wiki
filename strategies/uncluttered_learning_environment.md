@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Uncluttered Learning Environment
+description: A clean, organized, and uncluttered learning environment is free from distractions and allows the focus to be on learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Uncluttered Learning Environment
@@ -35,7 +39,7 @@ A clean, organized, and uncluttered learning environment is free from distractio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior and focus levels. Gather feedback on the impact of the environment on learning.

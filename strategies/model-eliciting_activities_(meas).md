@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Model-Eliciting Activities (MEAs)
+description: Model-eliciting activities (MEAs) are activities that encourage learners to invent and test models.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Model-Eliciting Activities (MEAs)
@@ -35,11 +39,11 @@ Model-eliciting activities (MEAs) are activities that encourage learners to inve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/application-of-knowledge|Application of Knowledge]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/eliciting-student-thinking|Eliciting Student Thinking]]
+- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Application of Knowledge](/elements/application-of-knowledge.md)
+- [Knowledge Synthesis](/elements/knowledge-synthesis.md)
+- [Problem Scenario](/elements/problem-scenario.md)
+- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
 
 ## Assessment Evidence
 - Assess the quality of their final product, and evaluate their ability to apply knowledge and skills to real-world problems. Measure gains in content knowledge, self-confidence, collaboration, and engagement through pre- and post-assessments.

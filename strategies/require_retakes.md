@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Require Retakes
+description: Allowing or requiring retakes emphasizes a growth mindset and reinforces perseverance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Require Retakes
@@ -35,9 +39,9 @@ Allowing or requiring retakes emphasizes a growth mindset and reinforces perseve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/reassessment|Reassessment]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Reassessment](/elements/reassessment.md)
 
 ## Assessment Evidence
 - Number of retakes, improvement in scores over time

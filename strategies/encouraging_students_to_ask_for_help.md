@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Encouraging Students to Ask for Help
+description: This strategy focuses on creating a classroom environment where students feel comfortable asking for help when they are struggling.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Encouraging Students to Ask for Help
@@ -35,9 +39,9 @@ This strategy focuses on creating a classroom environment where students feel co
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe students' willingness to ask for help, track their usage of problem-solving strategies, analyze their ability to articulate their needs, and monitor their participation in collaborative activities.

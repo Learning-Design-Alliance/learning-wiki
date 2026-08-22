@@ -1,8 +1,16 @@
 ---
 type: element
+title: Goal Setting
+description: Goal setting is the element in which learners or instructors establish clear targets for performance, progress, or improvement.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: locke-2002
+    resource: "https://doi.org/10.1037/0003-066X.57.9.705"
+    title: "Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation. *American Psychologist, 57*(9), 705-717"
+    author: "Locke, E. A., & Latham, G. P"
 ---
 
 # Goal Setting
@@ -23,17 +31,17 @@ Goal setting is the element in which learners or instructors establish clear tar
 - Focus effort, guide monitoring, and support persistence.
 
 ### Affordances
-- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]]
-- [[principles/self-regulation|Self-Regulation]]
+- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
+- [Self-Regulation](/principles/self-regulation.md)
 
 ## Related Elements
-- [[elements/learning-outcomes|Learning Outcomes]]
-- [[elements/self-assessment|Self-Assessment]]
-- [[elements/smarter-goals|SMARTER Goals]]
+- [Learning Outcomes](/elements/learning-outcomes.md)
+- [Self-Assessment](/elements/self-assessment.md)
+- [SMARTER Goals](/elements/smarter-goals.md)
 
 ## Patterns That Use This Element
-- [[patterns/self-regulated-learning|Self-Regulated Learning]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Self-Regulated Learning](/patterns/self-regulated-learning.md)
+- [Mastery Learning](/patterns/mastery-learning.md)
 
 ## Examples
 - Learners set a process goal before practice and review it after feedback.

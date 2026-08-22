@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Accommodating Processing Speed Challenges
+description: This strategy focuses on identifying and addressing the learning needs of students with varying processing speeds.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Accommodating Processing Speed Challenges
@@ -35,13 +39,13 @@ This strategy focuses on identifying and addressing the learning needs of studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
-- [[elements/gain-attention|Gain attention]]
-- [[elements/state-objectives|State objectives]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](/elements/practice.md)
+- [Gain attention](/elements/gain-attention.md)
+- [State objectives](/elements/state-objectives.md)
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Student performance on tests and assignments, student engagement and participation in class, student self-reflection on their learning process, teacher observations of student behavior and learning patterns

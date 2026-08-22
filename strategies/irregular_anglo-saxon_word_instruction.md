@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Irregular Anglo-Saxon Word Instruction
+description: "Teaching methods for irregular words include: grouping words with some memorable similarity, calling attention to the odd part of the word that must be learned by heart, using a multisensory memory strategy that gives the students many…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Irregular Anglo-Saxon Word Instruction
@@ -35,8 +39,8 @@ Teaching methods for irregular words include: grouping words with some memorable
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess accuracy in spelling irregular words. Monitor progress in sight word recognition.

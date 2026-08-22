@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: On-the-Job Training (OJT)
+description: On-the-job training (OJT) involves designing experiential activities for groups of trainees, based at the actual location where they will be working.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # On-the-Job Training (OJT)
@@ -35,9 +39,9 @@ On-the-job training (OJT) involves designing experiential activities for groups 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/observationshadowing|Observation/Shadowing]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Observation/Shadowing](/elements/observationshadowing.md)
 
 ## Assessment Evidence
 - Observe learner performance in real-world situations, provide feedback on learner performance, and assess learner understanding of the situations.

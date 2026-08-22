@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Promote a Growth Mindset
+description: Promoting a growth mindset involves giving feedback that values effort and encourages persistence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Promote a Growth Mindset
@@ -35,8 +39,8 @@ Promoting a growth mindset involves giving feedback that values effort and encou
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess students’ attitudes toward learning through observation and participation. Collect feedback from students on their perceptions of the classroom environment and their feelings about their own learning. Analyze student work to identify evidence of effort, persistence, and a growth mindset.

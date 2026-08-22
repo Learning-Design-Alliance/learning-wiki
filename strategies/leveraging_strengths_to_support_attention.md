@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leveraging Strengths to Support Attention
+description: "This strategy focuses on identifying a learner's strengths and using those strengths to support their attention during learning."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leveraging Strengths to Support Attention
@@ -35,8 +39,8 @@ This strategy focuses on identifying a learner's strengths and using those stren
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the learners' ability to stay on task and follow directions. Collect feedback from the learners on the effectiveness of the strategies. Review student work to assess the impact on learning.

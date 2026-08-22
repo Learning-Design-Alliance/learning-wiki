@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Guided Play
+description: Guided play combines the child-directed aspects of free play with intentional learning goals through light adult scaffolding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Guided Play
@@ -35,8 +39,8 @@ Guided play combines the child-directed aspects of free play with intentional le
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/application|Application]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe children's engagement and interactions during play to assess understanding of concepts. Evaluate their ability to apply new vocabulary, solve problems, and demonstrate spatial skills within the play context. Track the connections children make between play and real-world applications.

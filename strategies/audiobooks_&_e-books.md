@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Audiobooks & E-books"
+description: Audiobooks and e-books can be used to enhance literacy skills, comprehension, and engagement, especially for emerging readers, English language learners, and students with reading challenges.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Audiobooks & E-books
@@ -35,10 +39,10 @@ Audiobooks and e-books can be used to enhance literacy skills, comprehension, an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/application|Application]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Application](/elements/application.md)
+- [Demonstration](/elements/demonstration.md)
+- [Assigned Readings](/elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Monitor learners' reading progress, comprehension levels, and engagement in class discussions. Observe their ability to follow along with the text while listening and track their recommendations to peers. Collect data on learners' attitudes toward reading and their self-perception as readers.

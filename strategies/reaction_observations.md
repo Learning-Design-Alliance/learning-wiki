@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reaction Observations
+description: Reaction observations involve observing and describing the properties of liquids and their mixtures.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reaction Observations
@@ -35,8 +39,8 @@ Reaction observations involve observing and describing the properties of liquids
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in describing observations, correct identification of properties, logical explanations of reactions

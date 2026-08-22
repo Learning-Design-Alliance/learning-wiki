@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Learning Interest Inventories
+description: Learning interest inventories help instructors and learners identify areas of interest and ways of finding joy in learning and demonstrating that learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Learning Interest Inventories
@@ -35,10 +39,10 @@ Learning interest inventories help instructors and learners identify areas of in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [State objectives](/elements/state-objectives.md)
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Increased student participation, improved engagement, positive feedback from students

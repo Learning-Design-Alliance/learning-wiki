@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Structured Observation Protocol
+description: "A structured observation protocol involves using a template or guide to record factual details about a student's experiences without interpretation, opinion, or judgment."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Structured Observation Protocol
@@ -35,11 +39,11 @@ A structured observation protocol involves using a template or guide to record f
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Case Study](/elements/case-study.md)
+- [Direct instruction](/elements/direct-instruction.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Detailed notes and observations, summaries of findings, reflections on insights gained, and action plans for addressing identified issues.

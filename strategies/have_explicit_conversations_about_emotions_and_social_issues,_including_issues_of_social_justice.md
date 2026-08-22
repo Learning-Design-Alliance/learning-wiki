@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Have explicit conversations about emotions and social issues, including issues of social justice
+description: Integrate direct instruction on understanding and managing emotions, as well as discussing relevant social issues, including social justice, to promote social awareness and emotional intelligence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Have explicit conversations about emotions and social issues, including issues of social justice
@@ -35,9 +39,9 @@ Integrate direct instruction on understanding and managing emotions, as well as 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe learner participation and contributions to discussions. Assess learner understanding of emotional literacy and social issues through written assignments or presentations. Collect learner reflections on their learning and growth.

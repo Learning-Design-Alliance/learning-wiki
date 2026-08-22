@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Motor Images
+description: Motor images, also known as muscle memory, involve using physical movements and actions to enhance learning and recall.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Motor Images
@@ -35,9 +39,9 @@ Motor images, also known as muscle memory, involve using physical movements and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learners' ability to recall information while performing motor activities, assess their engagement and participation, evaluate performance on tests and quizzes after using motor image strategies

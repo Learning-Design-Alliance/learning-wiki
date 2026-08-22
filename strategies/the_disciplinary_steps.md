@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: The Disciplinary Steps
+description: "Follow these steps when disciplining learners: review what happened, identify and accept the learner's feelings, review alternative actions, explain the building policy as it applies to the situation, let the learner know that all…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # The Disciplinary Steps
@@ -35,9 +39,9 @@ Follow these steps when disciplining learners: review what happened, identify an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Learners will demonstrate improved behavior and respect for the instructor.

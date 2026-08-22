@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Home Surveys
+description: Sending weekly, biweekly, or monthly surveys home can provide ongoing data and insight into students and their families.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Home Surveys
@@ -35,8 +39,8 @@ Sending weekly, biweekly, or monthly surveys home can provide ongoing data and i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-response|Individual Response]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Response](/elements/individual-response.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track response rates, analyze survey data

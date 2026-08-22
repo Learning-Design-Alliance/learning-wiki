@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Clarification of Vocabulary, Symbols, and Language Structures
+description: Supporting learners to construct meaning from words, symbols, and numbers using different representations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Clarification of Vocabulary, Symbols, and Language Structures
@@ -35,11 +39,11 @@ Supporting learners to construct meaning from words, symbols, and numbers using 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Assess learner understanding of vocabulary and concepts through quizzes, tests, and discussions. Monitor learner use of clarified language structures in their own writing and speaking. Gather feedback on the effectiveness of clarification techniques.

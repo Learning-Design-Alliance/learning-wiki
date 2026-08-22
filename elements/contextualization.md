@@ -1,8 +1,11 @@
 ---
 type: element
+title: Contextualization
+description: Contextualization is the element in which new ideas, texts, or tasks are framed within a meaningful situation, purpose, domain, or prior experience.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Contextualization
@@ -23,18 +26,18 @@ Contextualization is the element in which new ideas, texts, or tasks are framed 
 - Improve relevance, comprehension, and transfer by situating learning in a meaningful frame.
 
 ### Affordances
-- [[principles/activation|Activation]]
-- [[principles/authentic-audiences-purposes|Authentic Audiences & Purposes]]
-- [[principles/constructivist-learning|Constructivist Learning]]
+- [Activation](/principles/activation.md)
+- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md)
+- [Constructivist Learning](/principles/constructivist-learning.md)
 
 ## Related Elements
-- [[elements/prior-knowledge-activation|Prior Knowledge Activation]]
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/application|Application]]
+- [Prior Knowledge Activation](/elements/prior-knowledge-activation.md)
+- [Problem Scenario](/elements/problem-scenario.md)
+- [Application](/elements/application.md)
 
 ## Patterns That Use This Element
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
-- [[patterns/problem-based-learning|Problem-Based Learning]]
+- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
+- [Problem-Based Learning](/patterns/problem-based-learning.md)
 
 ## Examples
 - Framing a statistics lesson around a real community decision rather than abstract formulas.

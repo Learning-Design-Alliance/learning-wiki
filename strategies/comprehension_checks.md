@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Comprehension Checks
+description: During reading activities, instructors periodically check for understanding by asking questions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Comprehension Checks
@@ -35,9 +39,9 @@ During reading activities, instructors periodically check for understanding by a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/formative-assessment|Formative Assessment]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Formative Assessment](/elements/formative-assessment.md)
 
 ## Assessment Evidence
 - Monitor learner responses for accuracy and depth of understanding.

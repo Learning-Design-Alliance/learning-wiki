@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Collaborative Creation of Exemplars
+description: After completing collaborative problem-solving tasks, learners examine leveled exemplars of responses and identify the characteristics of each level.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collaborative Creation of Exemplars
@@ -35,9 +39,9 @@ After completing collaborative problem-solving tasks, learners examine leveled e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Demonstration](/elements/demonstration.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student discussions, review the content and clarity of posters/anchor charts, assess student self-assessments and peer feedback

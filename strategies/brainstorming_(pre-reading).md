@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Brainstorming (Pre-Reading)
+description: Learners are given a limited time (e.g., five minutes) to brainstorm ideas related to the reading topic.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Brainstorming (Pre-Reading)
@@ -35,8 +39,8 @@ Learners are given a limited time (e.g., five minutes) to brainstorm ideas relat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the range and quality of ideas generated. Collect feedback on how well the activity prepared learners for the reading.

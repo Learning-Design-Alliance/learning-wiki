@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Effort-Based Praise
+description: "Praising learners' efforts and strategies—as opposed to their intelligence—cultivates a growth mindset and enhances motivation and performance."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Effort-Based Praise
@@ -35,8 +39,8 @@ Praising learners' efforts and strategies—as opposed to their intelligence—c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track changes in learner motivation and persistence. Measure performance improvements following effort-based praise. Assess the extent to which learners adopt a growth mindset.

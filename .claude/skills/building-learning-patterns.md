@@ -66,7 +66,7 @@ For each candidate (user-submitted + wiki finds), normalize to this schema:
 
 ```
 Name: [pattern name — use wiki page title or user's name]
-Wiki: [[patterns/slug]]  ← omit if not from wiki
+Wiki: [Title](/patterns/slug.md)  ← omit if not from wiki
 Grain size: [course | unit | lesson]
 Best for: [objective type and learner context — from Target Goals and Target Learners sections]
 Arc phases covered: [list which arc phases this pattern addresses]
@@ -129,7 +129,7 @@ Write approved patterns to `projects/[project-name]/learning-patterns.md`:
 
 **Grain size:** [course | unit | lesson]
 **Best for:** [objective type and learner context]
-**Wiki:** [[patterns/slug]]
+**Wiki:** [Title](/patterns/slug.md)
 **Connects to principle:** [principle name from learning-principles.md]
 
 **Rationale:** [why this pattern fits this project — cite the specific principle and any claims]
@@ -143,7 +143,7 @@ Write approved patterns to `projects/[project-name]/learning-patterns.md`:
 - [Key requirement or affordance from the wiki page]
 - [Key constraint to watch for in this project]
 
-**Evidence:** [1–2 claims with tags, e.g. [[claims/slug]] [+M]]
+**Evidence:** [1–2 claims with tags, e.g. [Claim statement](/claims/slug.md) [+M]]
 
 ---
 ```

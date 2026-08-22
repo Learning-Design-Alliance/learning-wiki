@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Culturally Responsive Curriculum Scorecards
+description: Tools developed collaboratively by educators, parents, students and researchers as a method of evaluating the degree to which learning goals, assignments, books, materials and other elements of curricula are responsive to diverse cultural…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Culturally Responsive Curriculum Scorecards
@@ -35,7 +39,7 @@ Tools developed collaboratively by educators, parents, students and researchers 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/criteria-development|Criteria Development]]
+- [Criteria Development](/elements/criteria-development.md)
 
 ## Assessment Evidence
 - Evaluate the curriculum scores in representation, social justice, and teacher materials to gauge its cultural responsiveness and identify gaps for improvement.

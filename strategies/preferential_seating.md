@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Preferential Seating
+description: Place students who have trouble hearing, seeing, focusing on, or paying attention to instruction happening in seats where they will be best able to focus.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Preferential Seating
@@ -35,7 +39,7 @@ Place students who have trouble hearing, seeing, focusing on, or paying attentio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' focus and engagement in different seating locations.

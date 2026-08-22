@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Cognitively Guided Instruction (CGI) for Math
+description: "CGI for math is a pattern in which instruction begins with learners' own mathematical thinking and strategies rather than with a fixed demonstration of one correct method."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: Carpenter, Fennema, Franke, Levi, and Empson
 grain_size: lesson
 ---
@@ -52,11 +55,11 @@ The pattern is especially strong for building number sense, conceptual understan
 
 ### Claims
 #### Supporting
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/whole-task-performance-improves-transfer]] [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
 #### Contradicting
-- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -68,16 +71,16 @@ The pattern is especially strong for building number sense, conceptual understan
 5. Consolidate what learners should carry forward into later tasks.
 
 ### Elements Used
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/problem-solving-tasks|Problem-Solving Tasks]]
-- [[elements/peer-explanation|Peer Explanation]]
-- [[elements/formative-assessment|Formative Assessment]]
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Problem-Solving Tasks](/elements/problem-solving-tasks.md)
+- [Peer Explanation](/elements/peer-explanation.md)
+- [Formative Assessment](/elements/formative-assessment.md)
 
 ### Affordances
-- [[principles/real-world-math|Real-world Math]]
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/formative-assessment|Formative Assessment]]
+- [Real-world Math](/principles/real-world-math.md)
+- [Peer Discussion](/principles/peer-discussion.md)
+- [Guided Practice](/principles/guided-practice.md)
+- [Formative Assessment](/principles/formative-assessment.md)
 
 ### Personalization
 - Different learners can use different entry strategies on the same task.
@@ -85,8 +88,8 @@ The pattern is especially strong for building number sense, conceptual understan
 - Representations and contexts can be varied while preserving the mathematical structure.
 
 ## Related Patterns
-- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
-- [[patterns/think-pair-share|Think-Pair-Share]]
+- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
+- [Think-Pair-Share](/patterns/think-pair-share.md)
 
 ## Examples
 - Early numeracy lessons where multiple addition or subtraction strategies are surfaced and compared.

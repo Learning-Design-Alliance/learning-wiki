@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Supporting Self-Regulation
+description: Identifying and supporting students who have learning strengths or challenges related to self-regulation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Supporting Self-Regulation
@@ -35,9 +39,9 @@ Identifying and supporting students who have learning strengths or challenges re
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student behavior and emotional responses, assess student reflection through journal entries, and evaluate the effectiveness of strategies used.

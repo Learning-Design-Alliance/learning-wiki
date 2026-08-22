@@ -1,10 +1,21 @@
 ---
 type: claim
-id: we-xr-1
+title: Worked examples can become redundant or counterproductive for advanced learners.
 status: review
-last_edited: 2026-04-07
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: kalyuga-et-al-2003
+    resource: "https://doi.org/10.1207/S15326985EP3801_4"
+    title: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)"
+    author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J"
+  - id: renkl-atkinson-2003
+    resource: "https://doi.org/10.1207/S15326985EP3801_3"
+    title: "Renkl, A., & Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. *Educational Psychologist, 38*(1), 15-22. [https://doi.org/10.1207/S15326985EP3801_3](https://doi.org/10.1207/S15326985EP3801_3)"
+    author: "Renkl, A., & Atkinson, R. K"
+id: we-xr-1
 evidence_strength: moderate
-edited_by: Codex
 ---
 
 # Worked examples can become redundant or counterproductive for advanced learners.
@@ -38,9 +49,9 @@ The paper argues that effective instruction must manage the transition away from
 
 ## Discussion
 
-This is the worked-example-specific form of the broader [[claims/expertise-reversal-effect]] claim.
+This is the worked-example-specific form of the broader [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md) claim.
 
 ## Related Claims
-- [[claims/expertise-reversal-effect]]
-- [[claims/worked-examples-less-effective-with-expertise]]
-- [[claims/fading-support-promotes-transfer-of-responsibility]]
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](/claims/expertise-reversal-effect.md)
+- [Worked-example guidance becomes less effective as learner expertise increases.](/claims/worked-examples-less-effective-with-expertise.md)
+- [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md)

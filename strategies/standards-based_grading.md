@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Standards-Based Grading
+description: Shift from arbitrary points and percentages to evaluating students on mastery of specific learning standards, making expectations clear and grades meaningful.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Standards-Based Grading
@@ -35,9 +39,9 @@ Shift from arbitrary points and percentages to evaluating students on mastery of
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [State objectives](/elements/state-objectives.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Correlation with standardized tests

@@ -1,8 +1,24 @@
 ---
 type: principle
+title: Multimedia Projects
+description: Multimedia projects ask learners to create meaning through more than one medium, such as text, image, audio, video, interaction, or digital composition.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: yang-2012
+    resource: "https://doi.org/10.1016/j.compedu.2011.12.012"
+    title: "Yang, Y. T. C., & Wu, W. C. I. (2012). Digital storytelling for enhancing student academic achievement, critical thinking, and learning motivation: A year-long experimental study. *Computers & Education, 59*(2), 339-352"
+    author: "Yang, Y. T. C., & Wu, W. C. I"
+  - id: kitalong-2017
+    resource: "https://doi.org/10.1016/j.compcom.2017.08.001"
+    title: "Kitalong, K. S., & Miner, R. L. (2017). Multimodal composition pedagogy designed to enhance authors' personal agency: Lessons from non-academic and academic composing environments. *Computers and Composition, 46*, 39-55"
+    author: "Kitalong, K. S., & Miner, R. L"
+  - id: lim-2020
+    resource: "https://doi.org/10.1016/j.jslw.2020.100713"
+    title: "Lim, J., & Polio, C. (2020). Multimodal assignments in higher education: Implications for multimodal writing tasks for L2 writers. *Journal of Second Language Writing, 47*, 100713"
+    author: "Lim, J., & Polio, C"
 ---
 
 # Multimedia Projects
@@ -11,7 +27,7 @@ edited_by: Codex
 Multimedia projects ask learners to create meaning through more than one medium, such as text, image, audio, video, interaction, or digital composition. The instructional value is not simply using technology; it is requiring learners to make design choices about how best to represent, explain, and communicate an idea. These projects can deepen engagement and expression, but they also raise the complexity of planning, composing, and production.
 
 ## Implications
-Multimedia projects are valuable when the medium choices themselves become part of the learning. Asking learners to decide how to explain an idea through text, image, sound, or interaction can deepen synthesis and communication because they must translate understanding into a designed artifact rather than only restate it [[claims/self-explanation-improves-conceptual-understanding]] [+S]. The main tradeoff is production overhead: if tool use, editing, or format decisions dominate attention, the project can become a technology exercise instead of a learning task. Strong designs therefore constrain scope, clarify criteria, and assess explanation as well as polish, especially when the project is meant to approximate a meaningful whole-task performance rather than just a polished media object [[claims/whole-task-performance-improves-transfer]] [~M].
+Multimedia projects are valuable when the medium choices themselves become part of the learning. Asking learners to decide how to explain an idea through text, image, sound, or interaction can deepen synthesis and communication because they must translate understanding into a designed artifact rather than only restate it [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. The main tradeoff is production overhead: if tool use, editing, or format decisions dominate attention, the project can become a technology exercise instead of a learning task. Strong designs therefore constrain scope, clarify criteria, and assess explanation as well as polish, especially when the project is meant to approximate a meaningful whole-task performance rather than just a polished media object [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~M].
 
 ### Context
 #### Requirements
@@ -47,14 +63,14 @@ Multimedia projects are valuable when the medium choices themselves become part 
 - For novices, the project may need to be constrained so production demands do not eclipse conceptual learning.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — multimedia projects deepen learning when learners must explain ideas through deliberate representational choices
-- [[claims/whole-task-performance-improves-transfer]] [~M] — these projects are strongest when they resemble authentic communication or production tasks rather than isolated tool exercises
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — multimedia projects deepen learning when learners must explain ideas through deliberate representational choices
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~M] — these projects are strongest when they resemble authentic communication or production tasks rather than isolated tool exercises
 
 ## Related Principles
-- [[principles/multimodal-instruction|Multimodal Instruction]] — multimedia projects extend multimodal input into multimodal production.
-- [[principles/creating-visual-representations|Creating Visual Representations]] — many multimedia projects rely on visual representation as part of explanation.
-- [[principles/process-based-writing|Process-Based Writing]] — multimedia composition still benefits from drafting, feedback, and revision cycles.
-- [[principles/learner-choice|Learner Choice]] — projects often work best when learners have some bounded choice over topic, medium, or audience.
+- [Multimodal Instruction](/principles/multimodal-instruction.md) — multimedia projects extend multimodal input into multimodal production.
+- [Creating Visual Representations](/principles/creating-visual-representations.md) — many multimedia projects rely on visual representation as part of explanation.
+- [Process-Based Writing](/principles/process-based-writing.md) — multimedia composition still benefits from drafting, feedback, and revision cycles.
+- [Learner Choice](/principles/learner-choice.md) — projects often work best when learners have some bounded choice over topic, medium, or audience.
 
 ## Examples
 - **Digital storytelling**: Learners combine narration, visuals, and sequencing to explain an experience or concept.

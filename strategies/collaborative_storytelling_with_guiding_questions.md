@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Collaborative Storytelling with Guiding Questions
+description: Collaborative storytelling involves students working in pairs to co-create a narrative by responding to a series of guiding questions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collaborative Storytelling with Guiding Questions
@@ -35,10 +39,10 @@ Collaborative storytelling involves students working in pairs to co-create a nar
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Evaluate the quality and complexity of the written stories, observe student participation and collaboration during pair work, assess the clarity and creativity of story presentations.

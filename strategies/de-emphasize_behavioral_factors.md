@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: De-emphasize Behavioral Factors
+description: "Remove non-academic criteria, like behavior or participation, from grades, focusing instead on academic mastery to provide a more accurate representation of a student's knowledge."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # De-emphasize Behavioral Factors
@@ -35,7 +39,7 @@ Remove non-academic criteria, like behavior or participation, from grades, focus
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Focus on content mastery

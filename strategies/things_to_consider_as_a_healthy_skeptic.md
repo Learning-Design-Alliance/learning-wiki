@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Things to Consider as a Healthy Skeptic
+description: Provide adolescents with opportunities to see the value of a healthy skepticism toward information they encounter in both online and offline contexts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Things to Consider as a Healthy Skeptic
@@ -35,9 +39,9 @@ Provide adolescents with opportunities to see the value of a healthy skepticism 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Case Study](/elements/case-study.md)
+- [Class Discussion](/elements/class-discussion.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions and small group activities. Evaluate their ability to apply critical thinking skills and consider multiple perspectives.

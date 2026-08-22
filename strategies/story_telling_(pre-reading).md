@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Story Telling (Pre-Reading)
+description: The instructor prepares a short, personalized narrative related to the reading topic.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Story Telling (Pre-Reading)
@@ -35,8 +39,8 @@ The instructor prepares a short, personalized narrative related to the reading t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Gain attention](/elements/gain-attention.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe the learners' engagement and interest during the storytelling. Collect feedback on how well the story prepared them for the reading.

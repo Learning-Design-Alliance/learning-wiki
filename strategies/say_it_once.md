@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Say it Once
+description: Repeating instructions can lead to lazy listening habits in learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Say it Once
@@ -35,8 +39,8 @@ Repeating instructions can lead to lazy listening habits in learners. By establi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/direct-instruction|Direct instruction]]
+- [State objectives](/elements/state-objectives.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe learners' ability to follow instructions after they are given once, track instances of learners seeking clarification from peers before the instructor

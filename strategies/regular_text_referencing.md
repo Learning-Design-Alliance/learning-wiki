@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Regular Text Referencing
+description: Regularly referring back to mentor texts in teacher conferences, whole-class lessons, or discussions reinforces learning and helps students internalize new techniques.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Regular Text Referencing
@@ -35,12 +39,12 @@ Regularly referring back to mentor texts in teacher conferences, whole-class les
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Application](/elements/application.md)
+- [Integration](/elements/integration.md)
 
 ## Assessment Evidence
 - Student writing samples demonstrating the application of previously learned techniques. Participation in discussions and analyses of mentor texts. Student reflections on their learning process.

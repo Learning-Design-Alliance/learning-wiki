@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotion Identification Activities
+description: These activities focus on helping learners identify and express emotions through various means, enhancing their emotional literacy and self-awareness.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotion Identification Activities
@@ -35,9 +39,9 @@ These activities focus on helping learners identify and express emotions through
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Demonstration](/elements/demonstration.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor learner participation, observe ability to identify and express emotions, and review learner reflections on emotional experiences.

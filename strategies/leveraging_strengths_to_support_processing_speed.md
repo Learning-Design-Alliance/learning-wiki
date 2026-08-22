@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leveraging Strengths to Support Processing Speed
+description: This strategy involves identifying a student’s strengths and using them to address challenges related to processing speed.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leveraging Strengths to Support Processing Speed
@@ -35,8 +39,8 @@ This strategy involves identifying a student’s strengths and using them to add
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student reflection on the effectiveness of the strategy, educator observation of student engagement and performance, analysis of student work samples.

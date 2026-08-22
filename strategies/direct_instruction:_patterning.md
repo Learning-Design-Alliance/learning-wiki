@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Direct Instruction: Patterning"
+description: Direct instruction of patterning skills involves teaching learners to identify and create patterns using various mediums such as colors, sizes, shapes, sounds, and numbers.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Direct Instruction: Patterning
@@ -35,10 +39,10 @@ Direct instruction of patterning skills involves teaching learners to identify a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Demonstration](/elements/demonstration.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learners' ability to extend, abstract, and identify pattern rules. Assess general math knowledge gains after patterning interventions.

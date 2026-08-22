@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cooperative Classroom Activities
+description: Design classroom activities that involve cooperative work rather than competitive or individualistic work.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cooperative Classroom Activities
@@ -35,9 +39,9 @@ Design classroom activities that involve cooperative work rather than competitiv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/application|Application]]
-- [[elements/consensus-building|Consensus Building]]
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Application](/elements/application.md)
+- [Consensus Building](/elements/consensus-building.md)
 
 ## Assessment Evidence
 - Observe learner engagement in cooperative activities, monitor their success rates, and assess their sense of responsibility and teamwork. Compare the effectiveness of cooperative activities versus competitive or individualistic activities.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Temperature Monitoring for Learning Environments
+description: This strategy involves monitoring the temperature of a learning environment and making adjustments to maintain optimal conditions for learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Temperature Monitoring for Learning Environments
@@ -35,9 +39,9 @@ This strategy involves monitoring the temperature of a learning environment and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track learner performance metrics (e.g., test scores, task completion rates) in relation to temperature levels. Monitor learner feedback regarding thermal comfort and its impact on concentration. Observe changes in learner behavior (e.g., fidgeting, drowsiness) as indicators of temperature-related discomfort.

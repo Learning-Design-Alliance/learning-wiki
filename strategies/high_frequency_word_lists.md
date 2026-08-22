@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: High Frequency Word Lists
+description: High-frequency word lists (e.g., Dolch and Fry) are collections of the most commonly used words in reading and writing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # High Frequency Word Lists
@@ -35,9 +39,9 @@ High-frequency word lists (e.g., Dolch and Fry) are collections of the most comm
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Practice](/elements/practice.md)
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Provide Guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student performance on sight word recognition tests, monitor improvements in reading fluency, assess spelling accuracy in writing assignments, and analyze student engagement in various activities.

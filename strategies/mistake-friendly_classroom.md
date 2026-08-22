@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mistake-Friendly Classroom
+description: Creating a mistake-friendly classroom involves fostering an environment where mistakes are seen as a fundamental part of learning, rather than a source of embarrassment or failure.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mistake-Friendly Classroom
@@ -35,10 +39,10 @@ Creating a mistake-friendly classroom involves fostering an environment where mi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/create-a-low-stress-environment|Create a low-stress environment]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Modeling](/elements/modeling.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Create a low-stress environment](/elements/create-a-low-stress-environment.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe changes in student behavior, such as increased participation, willingness to ask questions, and positive self-talk. Track student responses to mistakes and challenges. Analyze student reflections on their learning experiences. Measure the impact of a mistake-friendly classroom on student performance and achievement.

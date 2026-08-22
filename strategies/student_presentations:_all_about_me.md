@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Student Presentations: All About Me"
+description: "Instructors begin the year having the learners do an 'All About Me' presentation, which involves sharing facts about themselves and including pictures or video."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Presentations: All About Me
@@ -35,8 +39,8 @@ Instructors begin the year having the learners do an 'All About Me' presentation
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Improved instructor-learner relationships, increased class engagement, and enhanced understanding of learners' interests.

@@ -1,8 +1,32 @@
 ---
 type: claim
-id: sf-1
+title: Contingent scaffolding improves learning more than fixed or absent support.
 status: review
-last_edited: 2026-04-07
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-07
+sources:
+  - id: pratt-and-savoy-levine-1998
+    resource: "https://doi.org/10.1016/S0193-3973(99"
+    title: "Pratt, M. W., & Savoy-Levine, K. M. (1998). Contingent tutoring of long-division skills in fourth and fifth graders: Experimental tests of some hypotheses about scaffolding. *Journal of Applied Developmental Psychology, 19*(2), 287–304. [doi:10.1016/S0193-3973(99)80040-2](https://doi.org/10.1016/S0193-3973(99)80040-2)"
+    author: "Pratt, M. W., & Savoy-Levine, K. M"
+  - id: chi-et-al-2001
+    resource: "https://doi.org/10.1207/s15516709cog2504_1"
+    title: "Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G. (2001). Learning from human tutoring. *Cognitive Science, 25*(4), 471–533. [doi:10.1207/s15516709cog2504_1](https://doi.org/10.1207/s15516709cog2504_1)"
+    author: "Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., & Hausmann, R. G"
+  - id: swanson-and-lussier-2001
+    resource: "https://doi.org/10.3102/00346543071002321"
+    title: "Swanson, H. L., & Lussier, C. M. (2001). A selective synthesis of the experimental literature on dynamic assessment. *Review of Educational Research, 71*(2), 321–363. [doi:10.3102/00346543071002321](https://doi.org/10.3102/00346543071002321)"
+    author: "Swanson, H. L., & Lussier, C. M"
+  - id: van-de-pol-et-al-2010
+    resource: "https://doi.org/10.1007/s10648-010-9127-6"
+    title: "van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [doi:10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)"
+    author: "van de Pol, J., Volman, M., & Beishuizen, J"
+  - id: wood-et-al-1976
+    resource: "https://doi.org/10.1111/j.1469-7610.1976.tb00381.x"
+    title: "Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. [doi:10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)"
+    author: "Wood, D., Bruner, J. S., & Ross, G"
+id: sf-1
 evidence_strength: moderate
 ---
 
@@ -73,5 +97,5 @@ A second qualification is the Swanson and Lussier finding: explicit strategy tra
 Finally, van de Pol et al. treat contingency as definitionally necessary for scaffolding — support that is not contingent is not scaffolding, it is instruction. This means some evidence cited for "scaffolding effectiveness" may conflate genuinely contingent support with structured-but-fixed instructional sequences.
 
 ## Related Claims
-- [[claims/fading-support-promotes-transfer-of-responsibility]]
-- [[claims/self-explanation-improves-conceptual-understanding]]
+- [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md)
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md)

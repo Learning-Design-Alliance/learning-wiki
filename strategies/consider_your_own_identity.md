@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Consider Your Own Identity
+description: Educators need to reflect on their own biases and privileges to effectively lead discussions about race.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Consider Your Own Identity
@@ -35,9 +39,9 @@ Educators need to reflect on their own biases and privileges to effectively lead
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/assessment|Assessment]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Assessment](/elements/assessment.md)
 
 ## Assessment Evidence
 - Increased self-awareness and understanding of biases. Improved ability to lead discussions about race effectively. Enhanced classroom climate and sense of inclusivity.

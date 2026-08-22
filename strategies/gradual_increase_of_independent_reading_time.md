@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Gradual Increase of Independent Reading Time
+description: Start with short independent reading sessions and gradually increase the amount of time as students build reading stamina.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Gradual Increase of Independent Reading Time
@@ -35,9 +39,9 @@ Start with short independent reading sessions and gradually increase the amount 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Monitor students' ability to focus during reading sessions. Track the amount of time students can read independently. Collect feedback from students on their reading experiences.

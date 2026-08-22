@@ -1,8 +1,20 @@
 ---
 type: element
+title: SMARTER Goals
+description: SMARTER goals are a structured goal-setting element that asks learners to define goals that are specific, measurable, achievable, relevant, time-bound, evaluated, and revised or rewarded, depending on the local formulation.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: locke-2002
+    resource: "https://doi.org/10.1037/0003-066X.57.9.705"
+    title: "Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705-717"
+    author: "Locke, E. A., & Latham, G. P"
+  - id: zimmerman-1999
+    resource: "https://doi.org/10.1037/0022-0663.91.2.241"
+    title: "Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241-252"
+    author: "Zimmerman, B. J., & Kitsantas, A"
 ---
 
 # SMARTER Goals
@@ -39,12 +51,12 @@ SMARTER goals are a structured goal-setting element that asks learners to define
 - Helps instructors and learners align on the next step
 
 ## Related Elements
-- [[elements/assessment|Assessment]]
-- [[elements/feedback|Feedback]]
-- [[elements/reassessment|Reassessment]]
+- [Assessment](/elements/assessment.md)
+- [Feedback](/elements/feedback.md)
+- [Reassessment](/elements/reassessment.md)
 
 ## Patterns That Use This Element
-- [[patterns/game-based-mastery-learning-eg-duolingo-pattern|Game-Based Mastery Learning (e.g., Duolingo Pattern)]]
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](/patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Examples
 - A learner defines a weekly writing goal with a concrete output and review checkpoint

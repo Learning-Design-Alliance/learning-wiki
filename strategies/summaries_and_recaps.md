@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Summaries and Recaps
+description: Reinforce and clarify concepts, making sure information is both understood and remembered.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Summaries and Recaps
@@ -35,8 +39,8 @@ Reinforce and clarify concepts, making sure information is both understood and r
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/continuous-review|Continuous Review]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Continuous Review](/elements/continuous-review.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Assess learners' ability to recall and explain the key concepts after the summary or recap. Evaluate their ability to apply the concepts in new situations.

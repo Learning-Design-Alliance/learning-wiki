@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Choice
+description: Incorporating student choice involves allowing learners to make decisions about their learning experiences, such as selecting which strategy to use in problem-solving, choosing how to demonstrate their knowledge, or deciding the sequence…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Choice
@@ -35,9 +39,9 @@ Incorporating student choice involves allowing learners to make decisions about 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/assess-performance|Assess performance]]
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe student engagement and motivation levels. Collect student feedback on their choices. Assess student learning outcomes to determine the impact of choice on academic performance.

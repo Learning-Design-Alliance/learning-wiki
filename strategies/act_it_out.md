@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Act It Out
+description: Role-play how to handle different situations, especially those that students struggle with.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Act It Out
@@ -35,9 +39,9 @@ Role-play how to handle different situations, especially those that students str
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Demonstration](/elements/demonstration.md)
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess student participation in discussions, reflective writing, and other activities that demonstrate understanding of emotional concepts

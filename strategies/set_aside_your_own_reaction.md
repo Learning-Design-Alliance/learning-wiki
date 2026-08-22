@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Set Aside Your Own Reaction
+description: Responding with empathy means letting students’ reactions come first.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Set Aside Your Own Reaction
@@ -35,7 +39,7 @@ Responding with empathy means letting students’ reactions come first. You don�
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Monitor communication patterns, observe interactions, gather feedback from students

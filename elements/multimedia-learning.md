@@ -1,8 +1,11 @@
 ---
 type: element
+title: Multimedia Learning
+description: Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Multimedia Learning
@@ -23,18 +26,18 @@ Multimedia learning is the element in which learners engage with coordinated com
 - Improve comprehension and access through coordinated multimodal representation.
 
 ### Affordances
-- [[principles/multimodal-instruction|Multimodal Instruction]]
-- [[principles/dual-coding|Dual Coding]]
-- [[principles/cognitive-load-management|Cognitive Load Management]]
+- [Multimodal Instruction](/principles/multimodal-instruction.md)
+- [Dual Coding](/principles/dual-coding.md)
+- [Cognitive Load Management](/principles/cognitive-load-management.md)
 
 ## Related Elements
-- [[elements/digital-learning|Digital Learning]]
-- [[elements/hypertext-navigation|Hypertext Navigation]]
-- [[elements/self-paced-learning|Self-Paced Learning]]
+- [Digital Learning](/elements/digital-learning.md)
+- [Hypertext Navigation](/elements/hypertext-navigation.md)
+- [Self-Paced Learning](/elements/self-paced-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/multimedia-learning|Multimedia Learning]]
-- [[patterns/flipped-learning|Flipped Learning]]
+- [Multimedia Learning](/patterns/multimedia-learning.md)
+- [Flipped Learning](/patterns/flipped-learning.md)
 
 ## Examples
 - Interactive lessons that combine diagrams, narration, and practice prompts.

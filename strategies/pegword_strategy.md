@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pegword Strategy
+description: The pegword strategy is a mnemonic technique that uses rhyming words to represent numbers or order.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pegword Strategy
@@ -35,9 +39,9 @@ The pegword strategy is a mnemonic technique that uses rhyming words to represen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](/elements/demonstration.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Improved scores on tests involving ordered information, increased ability to recall sequences, enhanced retention of numerical data, and positive student feedback on the strategy.

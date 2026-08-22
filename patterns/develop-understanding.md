@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Develop Understanding
+description: Develop Understanding is a lesson-scale pattern that moves learners from initial exposure to meaningful conceptual grasp by activating prior knowledge, introducing new ideas clearly, giving guided opportunities to use them, and then…
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: Pearson
 grain_size: lesson
 ---
@@ -51,11 +54,11 @@ This is a useful default pattern when the goal is conceptual understanding rathe
 
 ### Claims
 #### Supporting
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/chunking-reduces-working-memory-load]] [~S]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S]
 #### Contradicting
-- [[claims/whole-task-performance-improves-transfer]] [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
 
 ## Design
 
@@ -67,16 +70,16 @@ This is a useful default pattern when the goal is conceptual understanding rathe
 5. Connect the concept to broader contexts, related ideas, or future use.
 
 ### Elements Used
-- [[elements/activation|Activation]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/practice|Practice]]
-- [[elements/formative-assessment|Formative Assessment]]
+- [Activation](/elements/activation.md)
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Practice](/elements/practice.md)
+- [Formative Assessment](/elements/formative-assessment.md)
 
 ### Affordances
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/creating-visual-representations|Creating Visual Representations]]
-- [[principles/immediate-feedback|Immediate Feedback]]
-- [[principles/explicit-instruction-vocabulary|Explicit Instruction: Vocabulary]]
+- [Guided Practice](/principles/guided-practice.md)
+- [Creating Visual Representations](/principles/creating-visual-representations.md)
+- [Immediate Feedback](/principles/immediate-feedback.md)
+- [Explicit Instruction: Vocabulary](/principles/explicit-instruction-vocabulary.md)
 
 ### Personalization
 - Prior-knowledge activation can be adapted to learner experience and background.
@@ -84,8 +87,8 @@ This is a useful default pattern when the goal is conceptual understanding rathe
 - Instructors can adjust the amount of modeling or guided practice based on learner response.
 
 ## Related Patterns
-- [[patterns/gagnés-9-events-of-instruction|Gagne's 9 Events of Instruction]]
-- [[patterns/merrills-first-principles-of-instruction|Merrill's First Principles of Instruction]]
+- [Gagne's 9 Events of Instruction](/patterns/gagnés-9-events-of-instruction.md)
+- [Merrill's First Principles of Instruction](/patterns/merrills-first-principles-of-instruction.md)
 
 ## Examples
 - A concept lesson that starts with a familiar example, introduces a new model, and checks understanding through short application tasks.

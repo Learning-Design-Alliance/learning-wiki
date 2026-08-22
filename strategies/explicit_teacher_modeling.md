@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicit Teacher Modeling
+description: Explicit teacher modeling involves the teacher both describing and modeling a skill or concept.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicit Teacher Modeling
@@ -35,11 +39,11 @@ Explicit teacher modeling involves the teacher both describing and modeling a sk
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](/elements/demonstration.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student performance during guided practice and independent work. Check for student understanding through questioning and discussion. Monitor student progress on related tasks and assessments.

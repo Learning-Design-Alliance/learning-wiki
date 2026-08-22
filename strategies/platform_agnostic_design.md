@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Platform Agnostic Design
+description: Instructional designers create tools that work across any platform, avoiding bias towards specific operating systems or web browsers.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Platform Agnostic Design
@@ -35,9 +39,9 @@ Instructional designers create tools that work across any platform, avoiding bia
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Track access rates from different platforms and browsers. Solicit learner feedback on platform compatibility and usability.

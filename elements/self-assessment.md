@@ -1,8 +1,20 @@
 ---
 type: element
+title: Self-Assessment
+description: Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: andrade-2019
+    resource: "https://doi.org/10.3389/feduc.2019.00087"
+    title: "Andrade, H. (2019). A critical review of research on student self-assessment. *Frontiers in Education, 4*, 87"
+    author: Andrade, H
+  - id: panadero-2016
+    resource: "https://doi.org/10.1007/s10648-015-9350-2"
+    title: "Panadero, E., Brown, G. T. L., & Strijbos, J.-W. (2016). The future of student self-assessment: A review of known unknowns and potential directions. *Educational Psychology Review, 28*(4), 803-830"
+    author: "Panadero, E., Brown, G. T. L., & Strijbos, J.-W"
 ---
 
 # Self-Assessment
@@ -28,18 +40,18 @@ Self-assessment is the element in which learners judge their own work, understan
 - Improve monitoring, revision, and ownership of progress.
 
 ### Affordances
-- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]]
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/feedback-loops|Feedback Loops]]
+- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
+- [Formative Assessment](/principles/formative-assessment.md)
+- [Feedback Loops](/principles/feedback-loops.md)
 
 ## Related Elements
-- [[elements/reflection|Reflection]]
-- [[elements/feedback|Feedback]]
-- [[elements/rubrics|Rubrics]]
+- [Reflection](/elements/reflection.md)
+- [Feedback](/elements/feedback.md)
+- [Rubrics](/elements/rubrics.md)
 
 ## Patterns That Use This Element
-- [[patterns/formative-assessment|Formative Assessment]]
-- [[patterns/lda-reflection|LDA Reflection]]
+- [Formative Assessment](/patterns/formative-assessment.md)
+- [LDA Reflection](/patterns/lda-reflection.md)
 
 ## Examples
 - Learners score a draft against a rubric before submission.

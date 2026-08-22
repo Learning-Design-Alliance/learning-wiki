@@ -1,8 +1,11 @@
 ---
 type: element
+title: Mastery Learning
+description: Mastery learning is the element in which progression depends on demonstrated understanding rather than time alone.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Mastery Learning
@@ -13,12 +16,12 @@ Mastery learning is the element in which progression depends on demonstrated und
 ## Design Implications
 
 ### Affordances
-- [[principles/mastery-learning|Mastery Learning]]
-- [[principles/competency-based-assessment|Competency-Based Assessment]]
+- [Mastery Learning](/principles/mastery-learning.md)
+- [Competency-Based Assessment](/principles/competency-based-assessment.md)
 
 ## Related Elements
-- [[elements/reassessment|Reassessment]]
-- [[elements/formative-assessment|Formative Assessment]]
+- [Reassessment](/elements/reassessment.md)
+- [Formative Assessment](/elements/formative-assessment.md)
 
 ## Key Sources
 - Bloom, B. S. (1968). Learning for mastery. *Evaluation Comment, 1*(2).

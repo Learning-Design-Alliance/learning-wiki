@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Consider the News Source
+description: Who is the news source, anyway?
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Consider the News Source
@@ -35,9 +39,9 @@ Who is the news source, anyway? Traditional news brands may occasionally get it 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/criteria-development|Criteria Development]]
-- [[elements/resource-evaluation|Resource Evaluation]]
-- [[elements/consensus-discussion|Consensus Discussion]]
+- [Criteria Development](/elements/criteria-development.md)
+- [Resource Evaluation](/elements/resource-evaluation.md)
+- [Consensus Discussion](/elements/consensus-discussion.md)
 
 ## Assessment Evidence
 - Observe learners' ability to apply the criteria to evaluate news sources and identify reliable sources.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Incorporating Self-Testing
+description: Reframing the concept of testing involves using frequent, non-graded tests as progress checks to ensure students don’t fall behind.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Incorporating Self-Testing
@@ -35,10 +39,10 @@ Reframing the concept of testing involves using frequent, non-graded tests as pr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Frequency of self-testing, student participation in review sessions, student progress on graded assessments.

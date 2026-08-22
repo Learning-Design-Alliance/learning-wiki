@@ -1,7 +1,11 @@
 ---
 type: element
+title: Persuasion
+description: Learners develop techniques to convince others using logic and evidence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Persuasion
@@ -27,17 +31,17 @@ Learners develop techniques to convince others using logic and evidence.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/rhetorical-skill-development|Rhetorical Skill Development]]
-- [[principles/constructivist-learning|Constructivist Learning]]
+- [Rhetorical Skill Development](/principles/rhetorical-skill-development.md)
+- [Constructivist Learning](/principles/constructivist-learning.md)
 
 ## Related Elements
-- [[elements/argumentation|Argumentation]]
-- [[elements/rhetorical-strategies|Rhetorical Strategies]]
-- [[elements/public-speaking|Public Speaking]]
+- [Argumentation](/elements/argumentation.md)
+- [Rhetorical Strategies](/elements/rhetorical-strategies.md)
+- [Public Speaking](/elements/public-speaking.md)
 
 ## Patterns That Use This Element
-- [[patterns/debate|Debate]]
-- [[patterns/structured-academic-controversy|Structured Academic Controversy]]
+- [Debate](/patterns/debate.md)
+- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

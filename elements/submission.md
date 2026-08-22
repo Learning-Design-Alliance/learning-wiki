@@ -1,7 +1,11 @@
 ---
 type: element
+title: Submission
+description: Learners submit work for assessment, feedback, or peer review.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Submission
@@ -27,17 +31,17 @@ Learners submit work for assessment, feedback, or peer review.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/mastery-learning|Mastery Learning]]
-- [[principles/competency-based-assessment|Competency-Based Assessment]]
+- [Mastery Learning](/principles/mastery-learning.md)
+- [Competency-Based Assessment](/principles/competency-based-assessment.md)
 
 ## Related Elements
-- [[elements/review|Review]]
-- [[elements/feedback|Feedback]]
-- [[elements/revision|Revision]]
+- [Review](/elements/review.md)
+- [Feedback](/elements/feedback.md)
+- [Revision](/elements/revision.md)
 
 ## Patterns That Use This Element
-- [[patterns/competency-based-learning|Competency-Based Learning]]
-- [[patterns/formative-assessment|Formative Assessment]]
+- [Competency-Based Learning](/patterns/competency-based-learning.md)
+- [Formative Assessment](/patterns/formative-assessment.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Adjust Time Frames
+description: Break content into smaller time intervals if learners cannot stay on task.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Adjust Time Frames
@@ -35,9 +39,9 @@ Break content into smaller time intervals if learners cannot stay on task. Child
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Track the completion rate of tasks. Monitor the improvement of focus during intervals. Collect feedback from learners on their sense of overwhelm.

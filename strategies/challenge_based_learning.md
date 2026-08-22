@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Challenge Based Learning
+description: Challenge Based Learning (CBL) provides an efficient and effective framework for learning while solving real-world challenges.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Challenge Based Learning
@@ -35,13 +39,13 @@ Challenge Based Learning (CBL) provides an efficient and effective framework for
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/engage|Engage]]
-- [[elements/investigate|Investigate]]
-- [[elements/act|Act]]
-- [[elements/challenge-identification|Challenge identification]]
-- [[elements/solution-development|Solution development]]
-- [[elements/collaboration|Collaboration]]
-- [[elements/problem-solving|Problem-Solving]]
+- [Engage](/elements/engage.md)
+- [Investigate](/elements/investigate.md)
+- [Act](/elements/act.md)
+- [Challenge identification](/elements/challenge-identification.md)
+- [Solution development](/elements/solution-development.md)
+- [Collaboration](/elements/collaboration.md)
+- [Problem-Solving](/elements/problem-solving.md)
 
 ## Assessment Evidence
 - Quality of solutions developed, demonstration of collaboration and communication skills, application of knowledge to real-world problems.

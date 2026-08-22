@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teacher as Writer
+description: To understand the writing process, teachers have to write also.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teacher as Writer
@@ -35,8 +39,8 @@ To understand the writing process, teachers have to write also. Start by writing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Modeling](/elements/modeling.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe teacher attitudes and behaviors towards student writing. Review teacher writing to assess improvement.

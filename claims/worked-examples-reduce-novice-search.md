@@ -1,10 +1,17 @@
 ---
 type: claim
-id: worked-examples-reduce-novice-search
+title: Worked examples reduce unnecessary search for novices.
 status: review
-last_edited: 2026-04-07
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: sweller-cooper-1985
+    resource: "https://doi.org/10.1037/0022-0663.77.1.59"
+    title: "Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Journal of Educational Psychology, 77*(1), 59-89. [https://doi.org/10.1037/0022-0663.77.1.59](https://doi.org/10.1037/0022-0663.77.1.59)"
+    author: "Sweller, J., & Cooper, G. A"
+id: worked-examples-reduce-novice-search
 evidence_strength: moderate
-edited_by: Codex
 ---
 
 # Worked examples reduce unnecessary search for novices.
@@ -33,6 +40,6 @@ Across algebra-learning conditions, learners who studied worked examples perform
 The claim is strongest for novices. Once learners already possess the underlying schema, the same example can become redundant rather than helpful.
 
 ## Related Claims
-- [[claims/worked-examples-with-practice-improve-transfer]]
-- [[claims/worked-examples-less-effective-with-expertise]]
-- [[claims/worked-examples-example-problem-sequences]]
+- [Pairing worked examples with practice or fading supports transfer better than examples alone.](/claims/worked-examples-with-practice-improve-transfer.md)
+- [Worked-example guidance becomes less effective as learner expertise increases.](/claims/worked-examples-less-effective-with-expertise.md)
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](/claims/worked-examples-example-problem-sequences.md)

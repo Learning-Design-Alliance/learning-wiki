@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Children's Literature Integration"
+description: "Integrating children's literature, especially multicultural literature, into math instruction to enhance engagement and comprehension."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Children's Literature Integration
@@ -35,9 +39,9 @@ Integrating children's literature, especially multicultural literature, into mat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe learner engagement, assess comprehension through discussions and activities related to the literature, and measure improvements in math skills.

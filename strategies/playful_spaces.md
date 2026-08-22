@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Playful Spaces
+description: Bringing fun back into learning by creating playful spaces.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Playful Spaces
@@ -35,8 +39,8 @@ Bringing fun back into learning by creating playful spaces. Play helps teams wor
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/application|Application]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

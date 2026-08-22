@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Turn-around Time
+description: Providing timely feedback is crucial for learners to reflect, correct, and extend their performance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Turn-around Time
@@ -35,9 +39,9 @@ Providing timely feedback is crucial for learners to reflect, correct, and exten
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess Performance]]
-- [[elements/continuous-review|Continuous Review]]
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Assess Performance](/elements/assess-performance.md)
+- [Continuous Review](/elements/continuous-review.md)
 
 ## Assessment Evidence
 - Measure the impact of timely feedback on learner performance and engagement. Assess learner satisfaction with the turn-around time for feedback. Observe the application of feedback in subsequent assignments.

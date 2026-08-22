@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Selecting Tiered Vocabulary Words
+description: "Categorize vocabulary words into three tiers to prioritize instruction: Tier 1 (basic words, rarely require instruction), Tier 2 (high-frequency academic words, crucial for mature language), and Tier 3 (low-frequency, content-specific…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Selecting Tiered Vocabulary Words
@@ -35,10 +39,10 @@ Categorize vocabulary words into three tiers to prioritize instruction: Tier 1 (
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/assess-performance|Assess performance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Learner self-ratings, pre-reading vocabulary charts

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Critical Lens Development
+description: Developing a critical lens involves analyzing the affordances and constraints of different modes of communication to understand how they enhance or inhibit meaning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Critical Lens Development
@@ -35,9 +39,9 @@ Developing a critical lens involves analyzing the affordances and constraints of
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Demonstration](/elements/demonstration.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate the depth and specificity of learners' analyses of multimodal works. Assess the extent to which learners apply their critical lens in their own compositions.

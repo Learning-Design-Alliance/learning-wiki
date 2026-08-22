@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Research Map Visualization
+description: This is a visual representation of education and learning sciences research published in peer-reviewed journals from 2009-2018.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Research Map Visualization
@@ -35,9 +39,9 @@ This is a visual representation of education and learning sciences research publ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/hypertext-navigation|Hypertext Navigation]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Hypertext Navigation](/elements/hypertext-navigation.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Usage patterns, frequency of article downloads, and feedback from users on the utility of the map.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Making Self-Advocacy and Self-Determination Critical Priorities
+description: Integrating self-advocacy and self-determination into education systems to empower students with disabilities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Making Self-Advocacy and Self-Determination Critical Priorities
@@ -35,10 +39,10 @@ Integrating self-advocacy and self-determination into education systems to empow
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/research|Research]]
-- [[elements/problem-presentation|Problem Presentation]]
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Response](/elements/individual-response.md)
+- [Research](/elements/research.md)
+- [Problem Presentation](/elements/problem-presentation.md)
 
 ## Assessment Evidence
 - Changes in student participation in IEP meetings, increased self-advocacy skills, and improved life outcomes.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Enhanced Acoustics and Noise Control
+description: Creating schools that buffer external noise from classrooms can improve student outcomes.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Enhanced Acoustics and Noise Control
@@ -35,7 +39,7 @@ Creating schools that buffer external noise from classrooms can improve student 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Teacher surveys, and student surveys

@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: 4C/ID (Four-Component Instructional Design)
+description: "4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: van-merrienboer-2006
+    resource: "https://doi.org/10.1002/acp.1250"
+    title: "van Merrienboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and germane load to enhance transfer of learning. *Applied Cognitive Psychology, 20*(3), 343-352"
+    author: "van Merrienboer, J. J. G., Kester, L., & Paas, F"
 author: Jeroen J. G. van Merrienboer
 grain_size: unit
 ---
@@ -53,11 +61,11 @@ The pattern is strongest when learners need transfer to authentic performance. I
 
 ### Claims
 #### Supporting
-- [[claims/whole-task-performance-improves-transfer]] [+S]
-- [[claims/part-task-practice-reduces-load-for-novices]] [+M]
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
 #### Contradicting
-- [[claims/worked-examples-expertise-reversal]] [~M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](/claims/worked-examples-expertise-reversal.md) [~M]
 
 ## Design
 
@@ -69,16 +77,16 @@ The pattern is strongest when learners need transfer to authentic performance. I
 5. Increase task variability and complexity while fading supports.
 
 ### Elements Used
-- [[elements/whole-task-performance|Whole-task Performance]]
-- [[elements/part-task-practice|Part-task Practice]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/assessment|Assessment]]
+- [Whole-task Performance](/elements/whole-task-performance.md)
+- [Part-task Practice](/elements/part-task-practice.md)
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Assessment](/elements/assessment.md)
 
 ### Affordances
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/competency-based-learning-assessment|Competency-Based Learning & Assessment]]
-- [[principles/worked-examples|Worked Examples]]
+- [Guided Practice](/principles/guided-practice.md)
+- [Problem-based Learning](/principles/problem-based-learning.md)
+- [Competency-Based Learning & Assessment](/principles/competency-based-learning-assessment.md)
+- [Worked Examples](/principles/worked-examples.md)
 
 ### Personalization
 - Task complexity can be adjusted by changing constraints, support, and variability.
@@ -86,8 +94,8 @@ The pattern is strongest when learners need transfer to authentic performance. I
 - Part-task practice can be targeted only to the subskills a learner has not yet automated.
 
 ## Related Patterns
-- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
-- [[patterns/cognitive-load-reduction-clt-scaffolding-approach|Cognitive Load Reduction (CLT Scaffolding Approach)]]
+- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](/patterns/cognitive-load-reduction-clt-scaffolding-approach.md)
 
 ## Examples
 - Clinical training programs that move from simpler to more complex patient cases while fading support.

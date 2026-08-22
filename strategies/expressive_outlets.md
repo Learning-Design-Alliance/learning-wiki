@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Expressive Outlets
+description: This strategy encourages learners to express their emotions through journaling, drawing, or talking out loud.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Expressive Outlets
@@ -35,9 +39,9 @@ This strategy encourages learners to express their emotions through journaling, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Review journal entries or artwork for emotional content; track frequency of expressive activities; observe changes in emotional regulation

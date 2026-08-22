@@ -1,8 +1,11 @@
 ---
 type: element
+title: Simulations
+description: Simulations are the element in which learners engage with realistic, model-based scenarios that approximate authentic systems or environments.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Simulations
@@ -13,12 +16,12 @@ Simulations are the element in which learners engage with realistic, model-based
 ## Design Implications
 
 ### Affordances
-- [[principles/simulations-immersive-virtual-environments|Simulations/Immersive Virtual Environments]]
-- [[principles/experiential-learning|Experiential Learning]]
+- [Simulations/Immersive Virtual Environments](/principles/simulations-immersive-virtual-environments.md)
+- [Experiential Learning](/principles/experiential-learning.md)
 
 ## Related Elements
-- [[elements/scenario-based-learning|Scenario-Based Learning]]
-- [[elements/role-playing|Role-Playing]]
+- [Scenario-Based Learning](/elements/scenario-based-learning.md)
+- [Role-Playing](/elements/role-playing.md)
 
 ## Key Sources
 - de Freitas, S. (2006). Learning in immersive worlds. JISC.

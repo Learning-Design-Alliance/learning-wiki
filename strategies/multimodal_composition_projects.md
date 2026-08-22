@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multimodal Composition Projects
+description: Multimodal composition involves learners combining different modes of communication (linguistic, visual, audio, gestural, spatial) to enhance the message they want to convey.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multimodal Composition Projects
@@ -35,9 +39,9 @@ Multimodal composition involves learners combining different modes of communicat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate the effectiveness of mode combinations in conveying the intended message. Assess the depth of learner reflection on their design decisions and the feedback they incorporate.

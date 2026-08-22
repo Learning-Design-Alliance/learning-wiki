@@ -1,8 +1,20 @@
 ---
 type: element
+title: Hints
+description: Hints are partial prompts or cues that help learners continue a task without fully giving away the answer.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: koedinger-2007
+    resource: "https://doi.org/10.1007/s10648-007-9049-0"
+    title: "Koedinger, K. R., & Aleven, V. (2007). Exploring the assistance dilemma in experiments with cognitive tutors. *Educational Psychology Review, 19*(3), 239-264"
+    author: "Koedinger, K. R., & Aleven, V"
+  - id: wood-1976
+    resource: "https://doi.org/10.1111/j.1469-7610.1976.tb00381.x"
+    title: "Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89-100"
+    author: "Wood, D., Bruner, J. S., & Ross, G"
 ---
 
 # Hints
@@ -28,18 +40,18 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - Maintain momentum while supporting independence and strategy use.
 
 ### Affordances
-- [[principles/scaffolding-and-fading|Scaffolding and Fading]]
-- [[principles/immediate-feedback|Immediate Feedback]]
-- [[principles/guided-practice|Guided Practice]]
+- [Scaffolding and Fading](/principles/scaffolding-and-fading.md)
+- [Immediate Feedback](/principles/immediate-feedback.md)
+- [Guided Practice](/principles/guided-practice.md)
 
 ## Related Elements
-- [[elements/feedback|Feedback]]
-- [[elements/coaching|Coaching]]
-- [[elements/worked-examples|Worked Examples]]
+- [Feedback](/elements/feedback.md)
+- [Coaching](/elements/coaching.md)
+- [Worked Examples](/elements/worked-examples.md)
 
 ## Patterns That Use This Element
-- [[patterns/mastery-learning|Mastery Learning]]
-- [[patterns/game-based-mastery-learning-eg-duolingo-pattern|Game-Based Mastery Learning (e.g., Duolingo Pattern)]]
+- [Mastery Learning](/patterns/mastery-learning.md)
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](/patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Examples
 - A tutoring system offers a first hint that points to the next subgoal, then a later hint that shows the relevant formula.

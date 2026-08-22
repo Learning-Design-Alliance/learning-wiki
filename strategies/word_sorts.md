@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Word Sorts
+description: Word sorts are a hands-on activity where learners categorize words based on shared features to build phonological processing, morphological knowledge, vocabulary, and spelling skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Word Sorts
@@ -35,8 +39,8 @@ Word sorts are a hands-on activity where learners categorize words based on shar
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately categorize words and explain their reasoning. Analyze learners' ability to identify patterns and make connections between words.

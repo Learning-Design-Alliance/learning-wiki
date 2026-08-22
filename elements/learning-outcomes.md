@@ -1,8 +1,11 @@
 ---
 type: element
+title: Learning Outcomes
+description: Learning outcomes are explicit statements of what learners should know, understand, or be able to do by the end of an instructional experience.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Learning Outcomes
@@ -23,17 +26,17 @@ Learning outcomes are explicit statements of what learners should know, understa
 - Clarify expectations and make progress visible.
 
 ### Affordances
-- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]]
-- [[principles/competency-based-assessment|Competency-Based Assessment]]
+- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
+- [Competency-Based Assessment](/principles/competency-based-assessment.md)
 
 ## Related Elements
-- [[elements/state-objectives|State Objectives]]
-- [[elements/assessment|Assessment]]
-- [[elements/goal-setting|Goal Setting]]
+- [State Objectives](/elements/state-objectives.md)
+- [Assessment](/elements/assessment.md)
+- [Goal Setting](/elements/goal-setting.md)
 
 ## Patterns That Use This Element
-- [[patterns/competency-based-learning|Competency-Based Learning]]
-- [[patterns/gagnés-9-events|Gagné's 9 Events]]
+- [Competency-Based Learning](/patterns/competency-based-learning.md)
+- [Gagné's 9 Events](/patterns/gagnés-9-events.md)
 
 ## Examples
 - Course or lesson targets written in performance terms and revisited during assessment.

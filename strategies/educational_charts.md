@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Educational Charts
+description: Educational charts are visual aids that present data in an accessible and understandable format, revealing patterns and stories behind the numbers.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Educational Charts
@@ -35,9 +39,9 @@ Educational charts are visual aids that present data in an accessible and unders
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess learner comprehension of data through quizzes or discussions. Evaluate the effectiveness of charts in simplifying complex information. Observe learner engagement and participation.

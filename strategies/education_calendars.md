@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Education Calendars
+description: Education calendars are visual aids designed to keep students, parents, and teachers informed about important dates, events, and activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Education Calendars
@@ -35,9 +39,9 @@ Education calendars are visual aids designed to keep students, parents, and teac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/demonstration|Demonstration]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Track readership and engagement. Evaluate the clarity and effectiveness of communication. Collect feedback on content and design.

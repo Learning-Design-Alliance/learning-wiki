@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Digital Storytelling
+description: Digital stories are multimedia narratives that combine various elements such as photographs, video, animation, sound, music, text, and a narrative voice.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Digital Storytelling
@@ -35,9 +39,9 @@ Digital stories are multimedia narratives that combine various elements such as 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-task-performance|Whole-task performance]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Whole-task performance](/elements/whole-task-performance.md)
+- [Application](/elements/application.md)
+- [Integration](/elements/integration.md)
 
 ## Assessment Evidence
 - Assess the quality of the narrative, technical proficiency, effective use of multimedia, and overall impact of the story.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student-Led Conferences
+description: Student-led conferences (SLCs) are meetings where students take the lead in discussions with parents about their progress and learning, supported by the teacher.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student-Led Conferences
@@ -35,12 +39,12 @@ Student-led conferences (SLCs) are meetings where students take the lead in disc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Increased student engagement and ownership, improved communication skills, richer family-teacher interactions, and more student-driven goal setting.

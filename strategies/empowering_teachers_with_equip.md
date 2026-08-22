@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Empowering Teachers with EQUIP
+description: EQUIP is a customizable observation tool designed to track patterns in student participation, empowering teachers to build more equitable classrooms.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Empowering Teachers with EQUIP
@@ -35,10 +39,10 @@ EQUIP is a customizable observation tool designed to track patterns in student p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Changes in teacher practice, improvements in student participation, data-driven insights.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Virtual Reality (VR) for Empathy Training
+description: VR is used to guide new workers through a virtual phone call with a Fidelity “customer” going through a financial crisis, training them about empathy.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Virtual Reality (VR) for Empathy Training
@@ -35,10 +39,10 @@ VR is used to guide new workers through a virtual phone call with a Fidelity “
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/application|Application]]
+- [Demonstration](/elements/demonstration.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Improved employee metrics with customer issues.

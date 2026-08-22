@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Content-Focused Questioning
+description: Asking students questions that focus on the main points of the text and how the author supports those points with evidence and examples.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Content-Focused Questioning
@@ -35,13 +39,13 @@ Asking students questions that focus on the main points of the text and how the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Individual Response](/elements/individual-response.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Student responses to questions. Participation in discussions. Reading comprehension quizzes.

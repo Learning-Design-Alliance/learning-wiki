@@ -1,8 +1,11 @@
 ---
 type: element
+title: Think-Aloud
+description: Think-aloud is the element in which an instructor, peer, or learner verbalizes reasoning while performing a task.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 ---
 
 # Think-Aloud
@@ -28,18 +31,18 @@ Think-aloud is the element in which an instructor, peer, or learner verbalizes r
 - Surface strategies, criteria, and self-monitoring moves.
 
 ### Affordances
-- [[principles/modeling|Modeling]]
-- [[principles/scaffolding-and-fading|Scaffolding and Fading]]
-- [[principles/explaining-their-thinking|Explaining Their Thinking]]
+- [Modeling](/principles/modeling.md)
+- [Scaffolding and Fading](/principles/scaffolding-and-fading.md)
+- [Explaining Their Thinking](/principles/explaining-their-thinking.md)
 
 ## Related Elements
-- [[elements/demonstration|Demonstration]]
-- [[elements/coaching|Coaching]]
-- [[elements/feedback|Feedback]]
+- [Demonstration](/elements/demonstration.md)
+- [Coaching](/elements/coaching.md)
+- [Feedback](/elements/feedback.md)
 
 ## Patterns That Use This Element
-- [[patterns/cognitive-apprenticeship|Cognitive Apprenticeship]]
-- [[patterns/gagnés-9-events|Gagné's 9 Events]]
+- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
+- [Gagné's 9 Events](/patterns/gagnés-9-events.md)
 
 ## Examples
 - An instructor solves a math problem while narrating why each step is chosen.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Word Processing and Technology Tools
+description: Use word processing and other technology tools to support writing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Word Processing and Technology Tools
@@ -35,9 +39,9 @@ Use word processing and other technology tools to support writing. These tools a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased technology use, greater confidence

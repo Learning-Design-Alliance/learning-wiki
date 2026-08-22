@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotion-Focused Pretend Play
+description: Incorporate play by joining in play in the pretend area and starting conversations about how the imaginary characters they are acting out feel.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotion-Focused Pretend Play
@@ -35,8 +39,8 @@ Incorporate play by joining in play in the pretend area and starting conversatio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor learner participation

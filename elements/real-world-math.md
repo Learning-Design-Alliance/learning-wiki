@@ -1,8 +1,11 @@
 ---
 type: element
+title: Real-World Math
+description: Real-world math is the element in which mathematical reasoning is embedded in practical or authentic contexts.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Real-World Math
@@ -11,5 +14,5 @@ edited_by: Codex
 Real-world math is the element in which mathematical reasoning is embedded in practical or authentic contexts.
 
 ## Affordances
-- [[principles/real-world-math|Real-World Math]]
-- [[principles/problem-based-learning|Problem-Based Learning]]
+- [Real-World Math](/principles/real-world-math.md)
+- [Problem-Based Learning](/principles/problem-based-learning.md)

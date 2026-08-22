@@ -1,7 +1,11 @@
 ---
 type: element
+title: Criteria Development
+description: Learners create rubrics or evaluation frameworks for assessment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Criteria Development
@@ -27,17 +31,17 @@ Learners create rubrics or evaluation frameworks for assessment.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/metacognition|Metacognition]]
-- [[principles/self-regulated-learning|Self-Regulated Learning]]
+- [Metacognition](/principles/metacognition.md)
+- [Self-Regulated Learning](/principles/self-regulated-learning.md)
 
 ## Related Elements
-- [[elements/peer-assessment|Peer Assessment]]
-- [[elements/self-assessment|Self-Assessment]]
-- [[elements/rubric-design|Rubric Design]]
+- [Peer Assessment](/elements/peer-assessment.md)
+- [Self-Assessment](/elements/self-assessment.md)
+- [Rubric Design](/elements/rubric-design.md)
 
 ## Patterns That Use This Element
-- [[patterns/inquiry-based-learning|Inquiry-Based Learning]]
-- [[patterns/self-directed-learning|Self-Directed Learning]]
+- [Inquiry-Based Learning](/patterns/inquiry-based-learning.md)
+- [Self-Directed Learning](/patterns/self-directed-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

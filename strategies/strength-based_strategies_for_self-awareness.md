@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strength-Based Strategies for Self-Awareness
+description: Educators identify and support students by recognizing their strengths related to self-awareness and using these strengths to address challenges.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strength-Based Strategies for Self-Awareness
@@ -35,13 +39,13 @@ Educators identify and support students by recognizing their strengths related t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/argument-construction|Argument Construction]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Argument Construction](/elements/argument-construction.md)
 
 ## Assessment Evidence
 - Observe student participation in activities, analyze journal entries and reflections, assess the accuracy of estimations and predictions, and monitor changes in student behavior and emotional identification. Gather feedback from students on the effectiveness of the strategies.

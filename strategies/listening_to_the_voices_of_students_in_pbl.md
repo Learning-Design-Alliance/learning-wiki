@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Listening to the Voices of Students in PBL
+description: Listening to the voices of students involves giving them authorship in sharing and telling their own stories, creating agency and leadership.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Listening to the Voices of Students in PBL
@@ -35,9 +39,9 @@ Listening to the voices of students involves giving them authorship in sharing a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/moderation|Moderation]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Moderation](/elements/moderation.md)
 
 ## Assessment Evidence
 - Increased student engagement, more meaningful contributions to discussions, and evidence of students taking ownership of their learning.

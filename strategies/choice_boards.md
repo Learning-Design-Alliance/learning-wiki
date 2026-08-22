@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Choice Boards
+description: Choice boards offer learners options for how they demonstrate their learning, increasing engagement and ownership.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Choice Boards
@@ -35,9 +39,9 @@ Choice boards offer learners options for how they demonstrate their learning, in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Application](/elements/application.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe engagement levels and task completion rates. Analyze the quality and depth of learner work on chosen tasks. Gather feedback from learners about their experiences with the choice board.

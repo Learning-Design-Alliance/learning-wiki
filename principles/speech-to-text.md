@@ -1,8 +1,24 @@
 ---
 type: principle
+title: Speech-to-text
+description: Speech-to-text converts spoken language into written text, giving learners another route for composing, capturing ideas, and participating in text-based environments.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: bakken-2019
+    resource: "https://doi.org/10.1007/978-981-13-8260-4_16"
+    title: "Bakken, J. P., Uskov, V. L., & Varidireddy, N. (2019). Text-to-voice and voice-to-text software systems and students with disabilities: A research synthesis. In *Smart Innovation, Systems and Technologies* (Vol. 144, pp. 177-188)"
+    author: "Bakken, J. P., Uskov, V. L., & Varidireddy, N"
+  - id: koenecke-2020
+    resource: "https://doi.org/10.1073/pnas.1915768117"
+    title: "Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, A., Mengesha, Z., Toups, C., Rickford, J., Jurafsky, D., & Goel, S. (2020). Racial disparities in automated speech recognition. *Proceedings of the National Academy of Sciences, 117*(14), 7684-7689"
+    author: "Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, A., Mengesha, Z., Toups, C., Rickford, J., Jurafsky, D., & Goel, S"
+  - id: perelmutter-2017
+    resource: "https://doi.org/10.1016/j.compedu.2017.06.005"
+    title: "Perelmutter, B., McGregor, K. K., & Gordon, K. R. (2017). Assistive technology interventions for adolescents and adults with learning disabilities: An evidence-based systematic review and meta-analysis. *Computers & Education, 114*, 139-163"
+    author: "Perelmutter, B., McGregor, K. K., & Gordon, K. R"
 ---
 
 # Speech-to-text
@@ -13,7 +29,7 @@ Speech-to-text converts spoken language into written text, giving learners anoth
 Speech-to-text is most effective when it is treated as a supported composing tool rather than a magical replacement for writing. Learners still need to review output, notice recognition errors, and revise for clarity, structure, and audience. In that sense, speech-to-text often works best as part of a broader writing and self-monitoring process.
 
 ## Implications
-Speech-to-text is most useful when transcription effort, not idea generation, is the main barrier. It can free learners to get language onto the page more efficiently, but its value depends on what happens after dictation: learners still need to review, monitor, and revise the output [[claims/self-monitoring-improves-self-regulation]] [~M]. Because recognition errors and awkward dictation habits vary widely, support is strongest when instructors or tools help learners build workable routines for dictating, checking, and correcting output [[claims/contingent-scaffolding-improves-learning]] [~M]. Speech-to-text supports writing access; it does not replace writing instruction.
+Speech-to-text is most useful when transcription effort, not idea generation, is the main barrier. It can free learners to get language onto the page more efficiently, but its value depends on what happens after dictation: learners still need to review, monitor, and revise the output [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. Because recognition errors and awkward dictation habits vary widely, support is strongest when instructors or tools help learners build workable routines for dictating, checking, and correcting output [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]. Speech-to-text supports writing access; it does not replace writing instruction.
 
 ### Context
 #### Requirements
@@ -49,14 +65,14 @@ Speech-to-text is most useful when transcription effort, not idea generation, is
 - The tool can create new barriers if recognition accuracy is poor or if learners are not taught how to monitor output.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — dictated text becomes more useful when learners actively check and revise what the tool produced
-- [[claims/contingent-scaffolding-improves-learning]] [~M] — learners often need responsive support to develop effective dictation and editing routines
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — dictated text becomes more useful when learners actively check and revise what the tool produced
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — learners often need responsive support to develop effective dictation and editing routines
 
 ## Related Principles
-- [[principles/process-based-writing|Process-Based Writing]] — speech-to-text is often most useful in drafting and revision cycles.
-- [[principles/instructor-accessibility|Instructor Accessibility]] — providing multiple pathways for expression is part of accessible teaching.
-- [[principles/text-to-speech|Text-to-Speech]] — speech and text supports often work together in reciprocal reading-writing workflows.
-- [[principles/self-monitoring|Self-monitoring]] — learners need to check dictated output and revise recognition errors.
+- [Process-Based Writing](/principles/process-based-writing.md) — speech-to-text is often most useful in drafting and revision cycles.
+- [Instructor Accessibility](/principles/instructor-accessibility.md) — providing multiple pathways for expression is part of accessible teaching.
+- [Text-to-Speech](/principles/text-to-speech.md) — speech and text supports often work together in reciprocal reading-writing workflows.
+- [Self-monitoring](/principles/self-monitoring.md) — learners need to check dictated output and revise recognition errors.
 
 ## Examples
 - **Dictated first draft**: Learners speak an initial response, then revise the resulting text for structure and clarity.

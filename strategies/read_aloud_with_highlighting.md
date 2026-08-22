@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Read Aloud with Highlighting
+description: Read aloud features, often combined with word and sentence highlighting, provide auditory support while reading digital text.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Read Aloud with Highlighting
@@ -35,7 +39,7 @@ Read aloud features, often combined with word and sentence highlighting, provide
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
+- [Direct instruction](/elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe improvements in reading fluency, accuracy, and comprehension. Collect user feedback on the usefulness of highlighting. Measure the time it takes to complete reading tasks with and without read aloud and highlighting.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: WWYD Critical Incidents
+description: "Learners are presented with mini case studies that feature a conflict or misunderstanding and are asked, 'What would you do if you were person X/person Y?' This activity encourages learners to consider different perspectives and offer…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # WWYD Critical Incidents
@@ -35,11 +39,11 @@ Learners are presented with mini case studies that feature a conflict or misunde
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/decision-making|Decision-Making]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Case Study](/elements/case-study.md)
+- [Class Discussion](/elements/class-discussion.md)
+- [Decision-Making](/elements/decision-making.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess the quality of problem-solving skills, the ability to consider different perspectives, and the level of critical thinking demonstrated in the analysis. Monitor changes in learners' interpersonal skills and conflict resolution abilities.

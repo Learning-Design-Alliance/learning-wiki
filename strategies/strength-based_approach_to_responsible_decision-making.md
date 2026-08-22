@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strength-Based Approach to Responsible Decision-Making
+description: This approach involves identifying and leveraging a student’s strengths to address challenges in responsible decision-making.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strength-Based Approach to Responsible Decision-Making
@@ -35,10 +39,10 @@ This approach involves identifying and leveraging a student’s strengths to add
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Problem Scenario](/elements/problem-scenario.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student progress in decision-making, analyze their reflections, and assess their ability to apply strengths to overcome challenges.

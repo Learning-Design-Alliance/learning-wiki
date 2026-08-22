@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Watch Emotion Videos
+description: Share helpful videos that explains big emotions to kids.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Watch Emotion Videos
@@ -35,8 +39,8 @@ Share helpful videos that explains big emotions to kids. Reinforce topic using d
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe students' ability to apply techniques from videos.

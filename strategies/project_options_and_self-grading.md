@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Project Options and Self-Grading
+description: Offer up plenty of options in types of projects and also collaborate with students in creating a criteria chart for each project.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Project Options and Self-Grading
@@ -35,8 +39,8 @@ Offer up plenty of options in types of projects and also collaborate with studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess Performance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Assess Performance](/elements/assess-performance.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Self-assessments, project evaluations, and reflective writing. Observations of student participation and engagement.

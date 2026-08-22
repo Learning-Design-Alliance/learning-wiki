@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Heat Transfer Investigations
+description: Heat transfer investigations involve exploring how different materials and environments affect the transfer of heat.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Heat Transfer Investigations
@@ -35,8 +39,8 @@ Heat transfer investigations involve exploring how different materials and envir
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in temperature measurements, correct identification of best materials for insulation, logical reasoning in explaining observations

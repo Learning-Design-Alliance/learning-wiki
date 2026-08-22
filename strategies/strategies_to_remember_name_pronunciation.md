@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strategies to Remember Name Pronunciation
+description: Use time-honored tricks to remember name pronunciation, like word association, writing down each syllable in English phonetics, and rhyming, as well as new-fangled ones like name pronunciation websites.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strategies to Remember Name Pronunciation
@@ -35,9 +39,9 @@ Use time-honored tricks to remember name pronunciation, like word association, w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - If the instructor properly pronounces the learners' names.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Community Involvement
+description: Encouraging community involvement by using online communities to support learning and fostering a sense of collaboration through social media.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Community Involvement
@@ -35,8 +39,8 @@ Encouraging community involvement by using online communities to support learnin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/collaboration|Collaboration]]
-- [[elements/practice|Practice]]
+- [Collaboration](/elements/collaboration.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

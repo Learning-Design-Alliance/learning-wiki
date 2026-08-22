@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Guided Inquiry
+description: Guided inquiry is an educational approach that blends inquiry activities with direct instruction.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Guided Inquiry
@@ -35,11 +39,11 @@ Guided inquiry is an educational approach that blends inquiry activities with di
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe student engagement, problem-solving skills, analytical abilities, motivation, and confidence. Assess learning outcomes based on conceptual understanding and skill development.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Quality Homework Assignments
+description: Assigning homework that reinforces learning, encourages real-world application, and offers enriching experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Quality Homework Assignments
@@ -35,9 +39,9 @@ Assigning homework that reinforces learning, encourages real-world application, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
+- [Assigned Readings](/elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Review homework submissions to assess learning progress. Monitor student engagement and participation in homework assignments. Gather feedback from learners on the relevance and value of assignments.

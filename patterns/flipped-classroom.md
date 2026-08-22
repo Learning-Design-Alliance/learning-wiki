@@ -1,8 +1,20 @@
 ---
 type: pattern
+title: Flipped Classroom
+description: Flipped Classroom is a pattern that shifts some direct instruction or initial content acquisition outside class so that class time can be used for application, discussion, problem solving, and feedback.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: bishop-2013
+    resource: "https://doi.org/10.18260/1-2--22585"
+    title: "Bishop, J. L., & Verleger, M. A. (2013). The flipped classroom: A survey of the research. In *2013 ASEE Annual Conference & Exposition Proceedings*"
+    author: "Bishop, J. L., & Verleger, M. A"
+  - id: lo-2017
+    resource: "https://doi.org/10.1186/s41039-016-0044-2"
+    title: "Lo, C. K., & Hew, K. F. (2017). A critical review of flipped classroom challenges in K-12 education: Possible solutions and recommendations for future research. *Research and Practice in Technology Enhanced Learning, 12*(1), 4"
+    author: "Lo, C. K., & Hew, K. F"
 author: Jonathan Bergmann and Aaron Sams
 grain_size: course
 ---
@@ -52,11 +64,11 @@ The pattern works best when pre-class work is tightly tied to in-class activity.
 
 ### Claims
 #### Supporting
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
 #### Contradicting
-- [[claims/chunking-reduces-working-memory-load]] [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [~S]
 
 ## Design
 
@@ -68,16 +80,16 @@ The pattern works best when pre-class work is tightly tied to in-class activity.
 5. Close with synthesis or a follow-up task that consolidates learning.
 
 ### Elements Used
-- [[elements/pre-class-videolecture|Pre-Class Video/Lecture]]
-- [[elements/in-class-activities|In-Class Activities]]
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/peer-collaboration|Peer Collaboration]]
+- [Pre-Class Video/Lecture](/elements/pre-class-videolecture.md)
+- [In-Class Activities](/elements/in-class-activities.md)
+- [Formative Assessment](/elements/formative-assessment.md)
+- [Peer Collaboration](/elements/peer-collaboration.md)
 
 ### Affordances
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/immediate-feedback|Immediate Feedback]]
-- [[principles/inquiry-based-learning|Inquiry-based Learning]]
-- [[principles/multimodal-instruction|Multimodal Instruction]]
+- [Guided Practice](/principles/guided-practice.md)
+- [Immediate Feedback](/principles/immediate-feedback.md)
+- [Inquiry-based Learning](/principles/inquiry-based-learning.md)
+- [Multimodal Instruction](/principles/multimodal-instruction.md)
 
 ### Personalization
 - Learners can pause, replay, or revisit pre-class materials at their own pace.
@@ -85,8 +97,8 @@ The pattern works best when pre-class work is tightly tied to in-class activity.
 - Pre-class input can be offered in multiple formats when needed.
 
 ## Related Patterns
-- [[patterns/discussion-group|Discussion Group]]
-- [[patterns/traditional-lecture-reading-midterm-final-assessment|Traditional Lecture / Reading / Midterm / Final Assessment]]
+- [Discussion Group](/patterns/discussion-group.md)
+- [Traditional Lecture / Reading / Midterm / Final Assessment](/patterns/traditional-lecture-reading-midterm-final-assessment.md)
 
 ## Examples
 - Physics courses with short pre-class explanations followed by in-class problem solving.

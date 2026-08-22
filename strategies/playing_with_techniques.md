@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Playing with Techniques
+description: Provide low-pressure exercises for students to experiment with the writing techniques they have analyzed.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Playing with Techniques
@@ -35,10 +39,10 @@ Provide low-pressure exercises for students to experiment with the writing techn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Student writing samples demonstrating experimentation with new techniques. Participation in exercises and activities. Student reflections on their learning process.

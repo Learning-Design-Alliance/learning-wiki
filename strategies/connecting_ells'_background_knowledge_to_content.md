@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Connecting ELLs' Background Knowledge to Content"
+description: "This strategy involves making instruction more culturally relevant by connecting content to ELLs' experiences."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connecting ELLs' Background Knowledge to Content
@@ -35,14 +39,14 @@ This strategy involves making instruction more culturally relevant by connecting
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/lectures|Lectures]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/discussion-sections|Discussion Sections]]
+- [Recall prior knowledge](/elements/recall-prior-knowledge.md)
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
+- [Integration](/elements/integration.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Lectures](/elements/lectures.md)
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Discussion Sections](/elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Increased student engagement, improved comprehension, richer class discussions, deeper understanding of cultural perspectives

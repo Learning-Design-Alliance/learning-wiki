@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Dealing with Feelings
+description: Adults can learn to deal with the emotions that arise when they make mistakes, even if they were not sufficiently guided as children.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Dealing with Feelings
@@ -35,7 +39,7 @@ Adults can learn to deal with the emotions that arise when they make mistakes, e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Reduced emotional tension, increased ability to self-comfort, and improved self-awareness.

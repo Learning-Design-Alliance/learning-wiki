@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Interest Inventories
+description: "Interest inventories are surveys used to assess students' areas of interest."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Interest Inventories
@@ -35,9 +39,9 @@ Interest inventories are surveys used to assess students' areas of interest. The
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Activation](/elements/activation.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Analyze the range and variety of student responses, observe student engagement in interest-based groups, track student progress on interest-driven projects.

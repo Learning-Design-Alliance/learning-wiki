@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Classwide Peer Editing
+description: Classwide peer editing involves having students review and critique examples of student writing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Classwide Peer Editing
@@ -35,9 +39,9 @@ Classwide peer editing involves having students review and critique examples of 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe student interactions and collaboration skills, assess individual understanding of the material through quizzes or assignments, and gather feedback from students about their experience with classwide peer editing.

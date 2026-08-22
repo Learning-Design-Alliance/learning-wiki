@@ -1,8 +1,11 @@
 ---
 type: element
+title: Self-Monitoring
+description: Self-monitoring is the element in which learners track their own attention, behavior, progress, or accuracy during learning.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Self-Monitoring
@@ -13,12 +16,12 @@ Self-monitoring is the element in which learners track their own attention, beha
 ## Design Implications
 
 ### Affordances
-- [[principles/self-monitoring|Self-Monitoring]]
-- [[principles/self-regulation|Self-Regulation]]
+- [Self-Monitoring](/principles/self-monitoring.md)
+- [Self-Regulation](/principles/self-regulation.md)
 
 ## Related Elements
-- [[elements/progress-tracking|Progress Tracking]]
-- [[elements/self-assessment|Self-Assessment]]
+- [Progress Tracking](/elements/progress-tracking.md)
+- [Self-Assessment](/elements/self-assessment.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner. *Theory Into Practice, 41*(2), 64-70.

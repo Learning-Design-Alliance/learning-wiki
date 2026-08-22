@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Racial Identity Work
+description: "Racial identity work involves examining one's own racial identity, confronting personal biases, and understanding how privilege and misinformation can affect work as an educator."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Racial Identity Work
@@ -35,9 +39,9 @@ Racial identity work involves examining one's own racial identity, confronting p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/case-study|Case Study]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Case Study](/elements/case-study.md)
 
 ## Assessment Evidence
 - Monitor learners' engagement and participation in learning activities, track their progress in developing self-awareness and cultural competence, and gather feedback on their experiences in the classroom.

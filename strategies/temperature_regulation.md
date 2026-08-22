@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Temperature Regulation
+description: Temperature regulation is an important finding across individuals of all ages is that the temperature in which a person works affects engagement levels and overall productivity—including student achievement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Temperature Regulation
@@ -35,7 +39,7 @@ Temperature regulation is an important finding across individuals of all ages is
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Test scores

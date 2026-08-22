@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Audiobooks
+description: Allowing learners to listen to audiobooks supports learners with auditory processing strengths.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Audiobooks
@@ -35,8 +39,8 @@ Allowing learners to listen to audiobooks supports learners with auditory proces
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Assess comprehension through quizzes, discussions, or written assignments, compare performance with traditional reading tasks.

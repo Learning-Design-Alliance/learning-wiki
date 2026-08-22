@@ -1,7 +1,11 @@
 ---
 type: element
+title: Open-Ended Discussion
+description: Facilitated dialogue where learners explore topics without predetermined answers.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Open-Ended Discussion
@@ -27,17 +31,17 @@ Facilitated dialogue where learners explore topics without predetermined answers
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-constructivism|Social Constructivism]]
-- [[principles/perspective-taking|Perspective-Taking]]
+- [Social Constructivism](/principles/social-constructivism.md)
+- [Perspective-Taking](/principles/perspective-taking.md)
 
 ## Related Elements
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/seminar-format|Seminar Format]]
-- [[elements/collaborative-inquiry|Collaborative Inquiry]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Seminar Format](/elements/seminar-format.md)
+- [Collaborative Inquiry](/elements/collaborative-inquiry.md)
 
 ## Patterns That Use This Element
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[patterns/structured-academic-controversy|Structured Academic Controversy]]
+- [Socratic Seminar](/patterns/socratic-seminar.md)
+- [Structured Academic Controversy](/patterns/structured-academic-controversy.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

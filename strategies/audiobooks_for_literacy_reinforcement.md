@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Audiobooks for Literacy Reinforcement
+description: Audiobooks can reinforce and inspire literacy skills and enjoyment for all students, including emerging readers and ESL/ELL learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Audiobooks for Literacy Reinforcement
@@ -35,9 +39,9 @@ Audiobooks can reinforce and inspire literacy skills and enjoyment for all stude
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation in discussions about the audiobooks. Assess comprehension through quizzes, summaries, or creative projects.

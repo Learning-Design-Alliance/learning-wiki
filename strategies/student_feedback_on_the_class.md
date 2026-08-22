@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Feedback on the Class
+description: This strategy involves asking for student feedback to inform your teaching practice and improve engagement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Feedback on the Class
@@ -35,8 +39,8 @@ This strategy involves asking for student feedback to inform your teaching pract
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved student engagement, a more positive classroom environment, and improved teaching practice.

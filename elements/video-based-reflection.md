@@ -1,8 +1,11 @@
 ---
 type: element
+title: Video-Based Reflection
+description: Video-based reflection is the element in which learners review recorded performance to analyze choices, patterns, and next steps.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Video-Based Reflection
@@ -11,5 +14,5 @@ edited_by: Codex
 Video-based reflection is the element in which learners review recorded performance to analyze choices, patterns, and next steps.
 
 ## Affordances
-- [[principles/video-replay-analysis|Video Replay Analysis]]
-- [[principles/reflection|Reflection]]
+- [Video Replay Analysis](/principles/video-replay-analysis.md)
+- [Reflection](/principles/reflection.md)

@@ -1,8 +1,16 @@
 ---
 type: claim
-id: wt-1
+title: Whole-task performance improves transfer of complex skills to real-world settings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
+sources:
+  - id: van-merriënboer-et-al-2006
+    resource: "https://doi.org/10.1002/acp.1250"
+    title: "van Merriënboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rather than simple tasks: Balancing intrinsic and germane load to enhance transfer of learning. *Applied Cognitive Psychology, 20*(3), 343–352. [https://doi.org/10.1002/acp.1250](https://doi.org/10.1002/acp.1250)"
+    author: "van Merriënboer, J. J. G., Kester, L., & Paas, F"
+id: wt-1
 evidence_strength: strong
 ---
 
@@ -26,7 +34,7 @@ van Merriënboer, J. J. G., Kester, L., & Paas, F. (2006). Teaching complex rath
 This study compared whole-task and part-task instruction in a complex domain. Results showed that while part-task practice might be easier during training, whole-task performance led to significantly better transfer to new, real-world-like problems.
 
 ## Discussion
-The effect is strongest when tasks are sequenced from simple-to-complex and include appropriate [[elements/scaffolding|scaffolding]].
+The effect is strongest when tasks are sequenced from simple-to-complex and include appropriate [scaffolding](/elements/scaffolding.md).
 
 ## Related Claims
-- [[claims/part-task-practice-reduces-load-for-novices]]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md)

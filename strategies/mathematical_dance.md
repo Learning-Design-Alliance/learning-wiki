@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mathematical Dance
+description: Mathematical dance involves using movement to illustrate mathematical concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mathematical Dance
@@ -35,10 +39,10 @@ Mathematical dance involves using movement to illustrate mathematical concepts. 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/integration|Integration]]
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Integration](/elements/integration.md)
 
 ## Assessment Evidence
 - Evaluate understanding of mathematical concepts through performance, assess audience comprehension

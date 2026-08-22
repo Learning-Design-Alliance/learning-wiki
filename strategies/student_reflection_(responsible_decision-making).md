@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Reflection (Responsible Decision-Making)
+description: This strategy focuses on using student reflection to leverage strengths and address challenges related to responsible decision-making, which is the ability to make constructive choices about one’s behavior and social interactions in an…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Reflection (Responsible Decision-Making)
@@ -35,7 +39,7 @@ This strategy focuses on using student reflection to leverage strengths and addr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|individual reflection]]
+- [individual reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Evaluate the use of ethical tools to assess growth and reflect on whether the decisions made were ethical.

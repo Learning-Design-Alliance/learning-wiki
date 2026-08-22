@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Math Journaling
+description: "In their math journals, students can write about things they are having trouble with or things that they've figured out."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Math Journaling
@@ -35,8 +39,8 @@ In their math journals, students can write about things they are having trouble 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/practice|Practice]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Review journal entries to assess learners' understanding and identify areas of struggle. Look for evidence of self-reflection and improved clarity of thinking.

@@ -1,7 +1,11 @@
 ---
 type: element
+title: Solution Development
+description: Learners synthesize information to propose and test solutions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Solution Development
@@ -27,17 +31,17 @@ Learners synthesize information to propose and test solutions.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/constructivist-learning|Constructivist Learning]]
-- [[principles/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Constructivist Learning](/principles/constructivist-learning.md)
+- [Cognitive Apprenticeship](/principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [[elements/problem-solving|Problem Solving]]
-- [[elements/case-based-learning|Case-Based Learning]]
-- [[elements/decision-making|Decision-Making]]
+- [Problem Solving](/elements/problem-solving.md)
+- [Case-Based Learning](/elements/case-based-learning.md)
+- [Decision-Making](/elements/decision-making.md)
 
 ## Patterns That Use This Element
-- [[patterns/problem-based-learning|Problem-Based Learning]]
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
+- [Problem-Based Learning](/patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

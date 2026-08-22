@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Demonstration-Based Flipped Classroom
+description: Subjects like Maths, Chemistry, Physics, etc.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Demonstration-Based Flipped Classroom
@@ -35,10 +39,10 @@ Subjects like Maths, Chemistry, Physics, etc. require careful instructions to de
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Demonstration](/elements/demonstration.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Learners' ability to replicate demonstrations, performance on related tasks.

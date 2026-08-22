@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Turn and Talk
+description: Turn and Talk involves learners engaging in short discussions with a partner to explain what they heard.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Turn and Talk
@@ -35,9 +39,9 @@ Turn and Talk involves learners engaging in short discussions with a partner to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the depth and accuracy of learners' explanations during partner discussions, collect feedback on the clarity of their explanations.

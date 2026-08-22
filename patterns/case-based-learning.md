@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Case-Based Learning
+description: Case-based learning is the short-form canonical pattern for learning through analysis of realistic cases.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 grain_size: lesson
 ---
 
@@ -14,11 +17,11 @@ Case-based learning is the short-form canonical pattern for learning through ana
 ## Design
 
 ### Elements Used
-- [[elements/case-studies|Case Studies]]
-- [[elements/discussion-based-learning|Discussion-Based Learning]]
+- [Case Studies](/elements/case-studies.md)
+- [Discussion-Based Learning](/elements/discussion-based-learning.md)
 
 ## Related Patterns
-- [[patterns/case-based-learning-harvard-method|Case-Based Learning (Harvard Method)]]
+- [Case-Based Learning (Harvard Method)](/patterns/case-based-learning-harvard-method.md)
 
 ## Key Sources
 - Herreid, C. F. (2011). *Case study teaching*. NSTA Press.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pre-Reading Graphic Organizers
+description: Students identify the text structure prior to reading (e.g., compare and contrast, description, problem-solution, cause and effect, sequence of events) and complete a supporting graphic organizer while reading to fill in the components.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-Reading Graphic Organizers
@@ -35,9 +39,9 @@ Students identify the text structure prior to reading (e.g., compare and contras
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/activation|Activation]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Activation](/elements/activation.md)
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Accurate completion of graphic organizer.

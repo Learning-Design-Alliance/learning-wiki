@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Building a Community on Student Voice
+description: Building a community on student voice involves creating opportunities for students to share and discuss their thoughts, ensuring that they feel safe to do so.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Building a Community on Student Voice
@@ -35,9 +39,9 @@ Building a community on student voice involves creating opportunities for studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Feedback/Peer Review](/elements/peer-feedbackpeer-review.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, their willingness to share their thoughts, and their ability to advocate for their learning. Measure students' sense of belonging and their perceptions of safety in the classroom.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Fishbowl
+description: Two learners sit facing each other in the center of the room; the remaining learners sit in a circle around them.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Fishbowl
@@ -35,10 +39,10 @@ Two learners sit facing each other in the center of the room; the remaining lear
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/modeling|Modeling]]
-- [[elements/coaching|Coaching]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Modeling](/elements/modeling.md)
+- [Coaching](/elements/coaching.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the activity, review learner notes and feedback, collect feedback from learners about their experience.

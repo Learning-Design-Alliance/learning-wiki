@@ -1,8 +1,11 @@
 ---
 type: element
+title: Problem Solving
+description: Problem solving is the element in which learners identify, analyze, and respond to a challenge by generating and evaluating possible solutions.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Problem Solving
@@ -23,17 +26,17 @@ Problem solving is the element in which learners identify, analyze, and respond 
 - Develop analytical reasoning, strategy use, and solution generation.
 
 ### Affordances
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/cognitive-activation|Cognitive Activation]]
+- [Problem-based Learning](/principles/problem-based-learning.md)
+- [Cognitive Activation](/principles/cognitive-activation.md)
 
 ## Related Elements
-- [[elements/solution-development|Solution Development]]
-- [[elements/decision-making|Decision-Making]]
-- [[elements/problem-based-learning|Problem-Based Learning]]
+- [Solution Development](/elements/solution-development.md)
+- [Decision-Making](/elements/decision-making.md)
+- [Problem-Based Learning](/elements/problem-based-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/problem-based-learning|Problem-Based Learning]]
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
+- [Problem-Based Learning](/patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](/patterns/goal-based-scenarios.md)
 
 ## Examples
 - Learners compare alternative solutions and justify which best fits the constraints of the problem.

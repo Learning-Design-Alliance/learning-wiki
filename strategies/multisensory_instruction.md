@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multisensory Instruction
+description: Multisensory instruction uses a combination of visual, auditory, and tactile-kinesthetic techniques to enhance memory and learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multisensory Instruction
@@ -35,10 +39,10 @@ Multisensory instruction uses a combination of visual, auditory, and tactile-kin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Demonstration](/elements/demonstration.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved reading accuracy, fluency, and comprehension. Increased engagement and participation.

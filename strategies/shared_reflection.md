@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Shared Reflection
+description: Shared reflection involves creating a classroom culture where each student is recognized as being on an individual path of improvement—and, no student has reached the end of the path, because there is no end.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Shared Reflection
@@ -35,9 +39,9 @@ Shared reflection involves creating a classroom culture where each student is re
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/peer-teaching|Peer Teaching]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Peer Teaching](/elements/peer-teaching.md)
 
 ## Assessment Evidence
 - Increased student participation in discussions, evidence of peer support, and a positive classroom climate.

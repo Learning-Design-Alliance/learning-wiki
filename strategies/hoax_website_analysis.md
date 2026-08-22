@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Hoax Website Analysis
+description: Learners examine famous website hoaxes to identify clues that suggest the site is not genuine.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Hoax Website Analysis
@@ -35,9 +39,9 @@ Learners examine famous website hoaxes to identify clues that suggest the site i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assessment|Assessment]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assessment](/elements/assessment.md)
 
 ## Assessment Evidence
 - Learners' ability to identify clues and justify their conclusions about the authenticity of hoax websites.

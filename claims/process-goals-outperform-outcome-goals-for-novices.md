@@ -1,8 +1,20 @@
 ---
 type: claim
-id: gm-2
+title: Process goals lead to better skill acquisition for novices than outcome goals.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
+sources:
+  - id: zimmerman-kitsantas-1999
+    resource: "https://doi.org/10.1037/0022-0663.91.2.241"
+    title: "Zimmerman, B. J., & Kitsantas, A. (1999). Acquiring writing revision skill: Shifting from process to outcome self-regulatory goals. *Journal of Educational Psychology, 91*(2), 241–252. [https://doi.org/10.1037/0022-0663.91.2.241](https://doi.org/10.1037/0022-0663.91.2.241)"
+    author: "Zimmerman, B. J., & Kitsantas, A"
+  - id: zimmerman-2000
+    resource: "https://doi.org/10.1016/B978-012109890-2/50031-7"
+    title: "Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press. [https://doi.org/10.1016/B978-012109890-2/50031-7](https://doi.org/10.1016/B978-012109890-2/50031-7)"
+    author: Zimmerman, B. J
+id: gm-2
 evidence_strength: moderate
 ---
 
@@ -38,5 +50,5 @@ Zimmerman provides a robust theoretical framework for self-regulated learning (S
 This suggests that instructional design for novices should prioritize "how-to" goals before transitioning to achievement-oriented targets.
 
 ## Related Claims
-- [[claims/specific-difficult-goals-lead-to-higher-performance]]
-- [[claims/self-monitoring-improves-self-regulation]]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md)
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md)

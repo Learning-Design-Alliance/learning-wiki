@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Question-based eLearning Design
+description: Question-based eLearning design is an instructional approach that replaces the traditional expository method with a more inquiry-based one.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Question-based eLearning Design
@@ -35,11 +39,11 @@ Question-based eLearning design is an instructional approach that replaces the t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Gain attention](/elements/gain-attention.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe how learners engage with the questions, their ability to gather and use information to answer them, and their overall performance in problem-solving scenarios.

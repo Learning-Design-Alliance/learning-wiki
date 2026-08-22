@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Text + Structured Activity
+description: Students engage with text resources (physical or digital) accompanied by a structured activity designed to ensure active learning and engagement with the material.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Text + Structured Activity
@@ -35,10 +39,10 @@ Students engage with text resources (physical or digital) accompanied by a struc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Completion and quality of structured activities, learner feedback, performance on related assignments.

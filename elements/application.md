@@ -1,7 +1,11 @@
 ---
 type: element
+title: Application
+description: Learners actively apply knowledge in meaningful tasks.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Application
@@ -27,18 +31,18 @@ Learners actively apply knowledge in meaningful tasks.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/active-learning|Active Learning]]
-- [[principles/constructivism|Constructivism]]
-- [[principles/scaffolding|Scaffolding]]
+- [Active Learning](/principles/active-learning.md)
+- [Constructivism](/principles/constructivism.md)
+- [Scaffolding](/principles/scaffolding.md)
 
 ## Related Elements
-- [[elements/hands-on-learning|Hands-on Learning]]
-- [[elements/cognitive-apprenticeship|Cognitive Apprenticeship]]
-- [[elements/simulations|Simulations]]
+- [Hands-on Learning](/elements/hands-on-learning.md)
+- [Cognitive Apprenticeship](/elements/cognitive-apprenticeship.md)
+- [Simulations](/elements/simulations.md)
 
 ## Patterns That Use This Element
-- [[patterns/merrills-first-principles|Merrill’s First Principles]]
-- [[patterns/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Merrill’s First Principles](/patterns/merrills-first-principles.md)
+- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

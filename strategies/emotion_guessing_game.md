@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotion Guessing Game
+description: An emotion guessing game involves an instructor or student making an emotion face, and the others guess the emotion being expressed.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotion Guessing Game
@@ -35,9 +39,9 @@ An emotion guessing game involves an instructor or student making an emotion fac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/practice|Practice]]
+- [Demonstration](/elements/demonstration.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately identify emotions and connect them with appropriate situations. Assess the depth and complexity of the emotions discussed.

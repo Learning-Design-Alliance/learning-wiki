@@ -1,8 +1,16 @@
 ---
 type: principle
+title: Communities of Practice
+description: Communities of practice are groups that deepen learning through sustained participation around a shared domain, problem space, or profession.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: abedini-2021
+    resource: "https://doi.org/10.1111/bjet.13120"
+    title: "Abedini, A., Abedin, B., & Zowghi, D. (2021). Adult learning in online communities of practice: A systematic review. *British Journal of Educational Technology, 52*(4), 1663-1694"
+    author: "Abedini, A., Abedin, B., & Zowghi, D"
 ---
 
 # Communities of Practice
@@ -11,7 +19,7 @@ edited_by: Codex
 Communities of practice are groups that deepen learning through sustained participation around a shared domain, problem space, or profession. Members do not just exchange information; they build shared language, norms, tools, and standards of practice over time. Learning happens through contribution, observation, feedback, and increasingly central participation in the work of the community.
 
 ## Implications
-Communities of practice support learning because people often learn complex work by participating with others who are already doing it, not by studying rules in isolation. Newcomers gain access to tacit knowledge, language, tools, and standards through recurring contribution, explanation, and feedback, and communities become more educative when members articulate and compare reasoning rather than only exchange resources [[claims/self-explanation-improves-conceptual-understanding]] [+S]. They also become more capable as responsibility gradually shifts toward fuller participation [[claims/fading-support-promotes-transfer-of-responsibility]] [~S], ideally through authentic shared work that stays tied to integrated performance rather than isolated drills [[claims/whole-task-performance-improves-transfer]] [+S]. The design challenge is that communities can easily become exclusionary or vague, so entry points, contribution norms, and authentic shared work have to be deliberately structured, with responsive guidance for newcomers as they enter the practice [[claims/contingent-scaffolding-improves-learning]] [+M].
+Communities of practice support learning because people often learn complex work by participating with others who are already doing it, not by studying rules in isolation. Newcomers gain access to tacit knowledge, language, tools, and standards through recurring contribution, explanation, and feedback, and communities become more educative when members articulate and compare reasoning rather than only exchange resources [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]. They also become more capable as responsibility gradually shifts toward fuller participation [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S], ideally through authentic shared work that stays tied to integrated performance rather than isolated drills [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]. The design challenge is that communities can easily become exclusionary or vague, so entry points, contribution norms, and authentic shared work have to be deliberately structured, with responsive guidance for newcomers as they enter the practice [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -47,26 +55,26 @@ Communities of practice support learning because people often learn complex work
 
 #### Contradicting / Qualifying
 - Communities do not automatically teach well; newcomers often need explicit scaffolds, role clarity, and protected entry points
-- Peer exchange is strongest when members explain and externalize their reasoning, not when they merely trade answers [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- Support should gradually shift from expert-heavy guidance to broader member participation as people gain competence [[claims/fading-support-promotes-transfer-of-responsibility]] [~S]
-- Coaching and feedback inside communities are most effective when responsive to actual learner need rather than generic advice [[claims/contingent-scaffolding-improves-learning]] [+M]
+- Peer exchange is strongest when members explain and externalize their reasoning, not when they merely trade answers [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- Support should gradually shift from expert-heavy guidance to broader member participation as people gain competence [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
+- Coaching and feedback inside communities are most effective when responsive to actual learner need rather than generic advice [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M]
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — communities become more educative when members articulate and compare reasoning, not just exchange resources
-- [[claims/contingent-scaffolding-improves-learning]] [+M] — newcomers benefit when experienced members provide responsive prompts, hints, and mediation
-- [[claims/fading-support-promotes-transfer-of-responsibility]] [~S] — strong communities shift responsibility from experts to broader member participation over time
-- [[claims/whole-task-performance-improves-transfer]] [+S] — communities of practice are especially useful when learning remains tied to authentic, integrated work rather than isolated drills
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — communities become more educative when members articulate and compare reasoning, not just exchange resources
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — newcomers benefit when experienced members provide responsive prompts, hints, and mediation
+- [Fading support promotes the transfer of responsibility from instructor to learner.](/claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — strong communities shift responsibility from experts to broader member participation over time
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S] — communities of practice are especially useful when learning remains tied to authentic, integrated work rather than isolated drills
 
 ## Related Principles
-- [[principles/ask-experts|Ask Experts]] — communities widen access to expertise beyond isolated expert encounters
-- [[principles/mentoringcoaching|Mentoring/Coaching]] — mentoring relationships often serve as entry points into a broader practice community
-- [[principles/peer-discussion|Peer Discussion]] — discussion is one mechanism communities use, but not the whole structure
-- [[principles/authentic-audiences-purposes|Authentic Audiences & Purposes]] — communities provide real audiences, norms, and feedback loops for learner work
+- [Ask Experts](/principles/ask-experts.md) — communities widen access to expertise beyond isolated expert encounters
+- [Mentoring/Coaching](/principles/mentoringcoaching.md) — mentoring relationships often serve as entry points into a broader practice community
+- [Peer Discussion](/principles/peer-discussion.md) — discussion is one mechanism communities use, but not the whole structure
+- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md) — communities provide real audiences, norms, and feedback loops for learner work
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [[patterns/fostering-communities-of-learning-fcl|Fostering Communities of Learning (FCL)]] — a structured pattern for collaborative inquiry and shared knowledge building
-- [[strategies/community_involvement|Community Involvement]] — invites learning relationships that extend beyond the classroom
+- [Fostering Communities of Learning (FCL)](/patterns/fostering-communities-of-learning-fcl.md) — a structured pattern for collaborative inquiry and shared knowledge building
+- [Community Involvement](/strategies/community_involvement.md) — invites learning relationships that extend beyond the classroom
 - Professional learning networks, code review communities, nurse book clubs, teacher inquiry groups, and apprenticeship cohorts are common real-world forms
 - Online communities can function well when they include recurring tasks, visible artifacts, and norms for contribution rather than only informal chat
 

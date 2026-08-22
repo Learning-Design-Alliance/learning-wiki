@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leveraging Family Knowledge
+description: Teachers can enhance curriculum and instructional practices by finding ways for students to contribute their own cultural experience, funds of knowledge, talents, and interests in the classroom.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leveraging Family Knowledge
@@ -35,11 +39,11 @@ Teachers can enhance curriculum and instructional practices by finding ways for 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Demonstration](/elements/demonstration.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Increased student participation, enhanced understanding of content, improved cultural awareness, positive feedback from students and families.

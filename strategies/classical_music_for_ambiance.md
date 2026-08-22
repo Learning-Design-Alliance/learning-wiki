@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Classical Music for Ambiance
+description: Playing classical music (e.g., Bach) at a low volume when students enter the room sets a professional and calming tone.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Classical Music for Ambiance
@@ -35,7 +39,7 @@ Playing classical music (e.g., Bach) at a low volume when students enter the roo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
+- [Gain attention](/elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe student behavior and mood upon entering the classroom. Monitor classroom noise levels before and after playing music.

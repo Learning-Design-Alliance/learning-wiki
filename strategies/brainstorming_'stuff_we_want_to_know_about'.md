@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Brainstorming 'Stuff We Want to Know About'"
+description: Learners and instructors co-create an ongoing list of topics of interest and questions related to course content.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Brainstorming 'Stuff We Want to Know About'
@@ -35,9 +39,9 @@ Learners and instructors co-create an ongoing list of topics of interest and que
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Gain attention](/elements/gain-attention.md)
+- [Individual Response](/elements/individual-response.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student engagement and motivation levels. Assess the quality of student inquiry projects. Collect student feedback on the brainstorming process.

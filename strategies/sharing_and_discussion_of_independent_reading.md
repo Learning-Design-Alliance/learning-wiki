@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Sharing and Discussion of Independent Reading
+description: After independent reading, gather students to talk about their books through various activities such as book clubs or creating commercials to interest others.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Sharing and Discussion of Independent Reading
@@ -35,9 +39,9 @@ After independent reading, gather students to talk about their books through var
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/application|Application]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe student participation in sharing sessions. Collect feedback from students on their reading experiences. Monitor the number of books students take home and read.

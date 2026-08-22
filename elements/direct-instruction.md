@@ -1,7 +1,11 @@
 ---
 type: element
+title: Direct instruction
+description: Presents new content through explicit explanations, lectures, or demonstrations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Direct instruction
@@ -27,19 +31,19 @@ Presents new content through explicit explanations, lectures, or demonstrations.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/direct-instruction|Direct Instruction]]
-- [[principles/cognitive-load-management|Cognitive Load Management]]
-- [[principles/clear-structure|Clear Structure]]
+- [Direct Instruction](/principles/direct-instruction.md)
+- [Cognitive Load Management](/principles/cognitive-load-management.md)
+- [Clear Structure](/principles/clear-structure.md)
 
 ## Related Elements
-- [[elements/explicit-teaching|Explicit Teaching]]
-- [[elements/worked-examples|Worked Examples]]
-- [[elements/multimedia-instruction|Multimedia Instruction]]
+- [Explicit Teaching](/elements/explicit-teaching.md)
+- [Worked Examples](/elements/worked-examples.md)
+- [Multimedia Instruction](/elements/multimedia-instruction.md)
 
 ## Patterns That Use This Element
-- [[patterns/gagnés-9-events|Gagné’s 9 Events]]
-- [[patterns/4cid|Four-Component Instructional Design]]
-- [[patterns/direct-instruction|Direct Instruction]]
+- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
+- [Four-Component Instructional Design](/patterns/4cid.md)
+- [Direct Instruction](/patterns/direct-instruction.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

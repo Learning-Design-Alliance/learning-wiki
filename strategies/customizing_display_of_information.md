@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Customizing Display of Information
+description: Customizing the display of information involves modifying the appearance of digital content to reduce reading effort and improve comprehension.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Customizing Display of Information
@@ -35,7 +39,7 @@ Customizing the display of information involves modifying the appearance of digi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe improvements in reading speed, accuracy, and comprehension. Collect user feedback on the effectiveness of different customization settings. Measure the time spent on reading tasks with and without customized display settings.

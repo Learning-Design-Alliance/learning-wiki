@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Barometer: Taking a Stand on Controversial Issues"
+description: "In this activity, learners express opinions by standing along a continuum labeled with 'Strongly Agree' and 'Strongly Disagree.' After taking a stand, learners explain their positions, referring to evidence and examples."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Barometer: Taking a Stand on Controversial Issues
@@ -35,12 +39,12 @@ In this activity, learners express opinions by standing along a continuum labele
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-response|Individual Response]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/eliciting-student-thinking|Eliciting Student Thinking]]
-- [[elements/argument-construction|Argument Construction]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Individual Response](/elements/individual-response.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Eliciting Student Thinking](/elements/eliciting-student-thinking.md)
+- [Argument Construction](/elements/argument-construction.md)
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Observe the level of engagement in discussions, the ability to articulate and defend positions, the use of evidence, and the willingness to consider alternative viewpoints.

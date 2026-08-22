@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Publicize Volunteer Opportunities and Student Involvement
+description: Schools outline specific ways for parents to help in the classroom and at school, from inviting parents to watch group presentations to asking them to chaperone field trips.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Publicize Volunteer Opportunities and Student Involvement
@@ -35,9 +39,9 @@ Schools outline specific ways for parents to help in the classroom and at school
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/demonstration|Demonstration]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Track volunteer hours, gather feedback from parents and educators

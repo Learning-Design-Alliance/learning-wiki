@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Chunking Directions
+description: Breaking down directions into smaller, more manageable sections to support sustained attention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Chunking Directions
@@ -35,8 +39,8 @@ Breaking down directions into smaller, more manageable sections to support susta
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe student's ability to follow directions when presented in smaller chunks. Assess comprehension through task completion and verbal feedback.

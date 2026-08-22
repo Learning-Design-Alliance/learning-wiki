@@ -1,7 +1,11 @@
 ---
 type: element
+title: Just-in-Time Information
+description: Instruction is provided at the point of need rather than upfront.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Just-in-Time Information
@@ -27,17 +31,17 @@ Instruction is provided at the point of need rather than upfront.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/constructivist-learning|Constructivist Learning]]
-- [[principles/cognitive-load-theory|Cognitive Load Theory]]
+- [Constructivist Learning](/principles/constructivist-learning.md)
+- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
 
 ## Related Elements
-- [[elements/scaffolding|Scaffolding]]
-- [[elements/procedural-learning|Procedural Learning]]
-- [[elements/cognitive-load-management|Cognitive Load Management]]
+- [Scaffolding](/elements/scaffolding.md)
+- [Procedural Learning](/elements/procedural-learning.md)
+- [Cognitive Load Management](/elements/cognitive-load-management.md)
 
 ## Patterns That Use This Element
-- [[patterns/just-in-time-learning|Just-in-Time Learning]]
-- [[patterns/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Just-in-Time Learning](/patterns/just-in-time-learning.md)
+- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

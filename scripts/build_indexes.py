@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-build_indexes.py — Generate per-folder index pages and update the root index hub.
+build_indexes.py — Generate per-folder index pages and update the root index hub,
+in Open Knowledge Format (OKF) v0.2 style.
+
+index.md is a reserved OKF filename: no frontmatter except the bundle-root's
+`okf_version`, plain markdown links (not wikilinks), and a bulleted
+`* [Title](relative-url) - description` listing per section.
 
 Produces:
   principles/index.md
@@ -10,18 +15,19 @@ Produces:
   theories/index.md
   claims/index.md
   sources/index.md
-  index.md  (hub pointing to folder indexes + summary counts)
+  index.md  (hub pointing to folder indexes + summary counts, carries okf_version)
 
 Usage:
     python3 scripts/build_indexes.py
 """
 
-import re
-from datetime import date
+import sys
 from pathlib import Path
 
-WIKI_ROOT = Path(__file__).parent.parent
-TODAY = date.today().isoformat()
+sys.path.insert(0, str(Path(__file__).parent))
+import okf_lib as ok
+
+WIKI_ROOT = ok.WIKI_ROOT
 
 PAGE_TYPES = {
     "principles": {
@@ -64,72 +70,62 @@ PAGE_TYPES = {
 
 ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "strategies", "theories", "claims"]
 
-STATUS_RE = re.compile(r"^status:\s*(.+)$", re.MULTILINE)
-TITLE_RE  = re.compile(r"^# (.+)$", re.MULTILINE)
-
 
 def get_page_meta(path: Path) -> dict:
     text = path.read_text(encoding="utf-8")
-    title_m = TITLE_RE.search(text)
-    status_m = STATUS_RE.search(text)
+    lines, body = ok.split_frontmatter(text)
+    fm = ok.parse_frontmatter_scalars(lines)
     return {
-        "title": title_m.group(1) if title_m else path.stem.replace("-", " ").title(),
-        "status": status_m.group(1).strip() if status_m else "draft",
+        "title": ok.get_title(body, fm, path.stem),
+        "description": fm.get("description", ""),
+        "status": fm.get("status", "draft"),
         "slug": path.stem,
     }
 
 
+def bullet(page_type: str, p: dict) -> str:
+    line = f"* [{p['title']}]({p['slug']}.md)"
+    if p["description"]:
+        line += f" - {p['description']}"
+    return line
+
+
 def build_folder_index(page_type: str, config: dict) -> str:
     folder = WIKI_ROOT / page_type
-    pages = []
-    for p in sorted(folder.glob("*.md")):
-        if p.stem == "index":
-            continue
-        meta = get_page_meta(p)
-        pages.append(meta)
-
+    pages = [get_page_meta(p) for p in sorted(folder.glob("*.md")) if p.stem != "index"]
     pages.sort(key=lambda x: x["title"].lower())
 
-    # Group by status if applicable
     by_status = {"stable": [], "review": [], "draft": []}
     for p in pages:
         status = p["status"] if p["status"] in by_status else "draft"
         by_status[status].append(p)
 
     lines = [
-        f"---",
-        f"type: index",
-        f"title: {config['label']}",
-        *((f"evidence_strength: n/a",) if page_type == "claims" else ()),
-        f"last_edited: {TODAY}",
-        f"---",
-        f"",
         f"# {config['label']}",
-        f"",
+        "",
         config["description"],
-        f"",
+        "",
         f"**{len(pages)} entries** · "
         f"{len(by_status['stable'])} stable · "
         f"{len(by_status['review'])} in review · "
         f"{len(by_status['draft'])} drafts",
-        f"",
-        f"---",
-        f"",
+        "",
+        "---",
+        "",
     ]
 
     if not pages:
-        # Empty section — add a how-to note so it's clear what belongs here
         empty_guidance = {
             "theories": (
                 "## How to add a theory\n\n"
-                "Create a file in `theories/` using the Theory template in [[CLAUDE]].\n\n"
+                "Create a file in `theories/` using the Theory template in [CLAUDE.md](/CLAUDE.md).\n\n"
                 "Examples of theories to add: Cognitive Load Theory, Self-Regulated Learning, "
                 "Constructivism, Information Processing Theory, Situated Cognition, "
                 "Dual Coding Theory, Worked Example Effect."
             ),
             "claims": (
                 "## How to add a claim\n\n"
-                "Create a file in `claims/` using the Claim template in [[CLAUDE]].\n\n"
+                "Create a file in `claims/` using the Claim template in [CLAUDE.md](/CLAUDE.md).\n\n"
                 "Claims are empirical statements with evidence ratings. "
                 "Each claim page needs: an ID (e.g. `CL-0001`), evidence strength, "
                 "at least one source with a DOI, and links to any competing claims.\n\n"
@@ -137,13 +133,15 @@ def build_folder_index(page_type: str, config: dict) -> str:
             ),
             "sources": (
                 "## How to add a source\n\n"
-                "Create a file in `sources/` using the Source template in [[CLAUDE]].\n\n"
+                "Create a file in `sources/` using the Source template in [CLAUDE.md](/CLAUDE.md).\n\n"
                 "Source pages are created when a claim or principle cites a specific paper or book. "
                 "Each source page needs: full citation, DOI/URL, a 2–4 sentence summary, "
                 "and links to claim pages the source supports."
             ),
         }
-        guidance = empty_guidance.get(page_type, "## No entries yet\n\nUse the template in [[CLAUDE]] to add pages.")
+        guidance = empty_guidance.get(
+            page_type, "## No entries yet\n\nUse the template in [CLAUDE.md](/CLAUDE.md) to add pages."
+        )
         lines.append(guidance)
         lines.append("")
     elif config["status_field"]:
@@ -163,26 +161,28 @@ def build_folder_index(page_type: str, config: dict) -> str:
             lines.append(f"## {status_label}")
             lines.append("")
             for p in by_status[status_key]:
-                lines.append(f"- [[{page_type}/{p['slug']}|{p['title']}]]")
+                lines.append(bullet(page_type, p))
             lines.append("")
     else:
         lines.append("## All Entries")
         lines.append("")
         for p in pages:
-            lines.append(f"- [[{page_type}/{p['slug']}|{p['title']}]]")
+            lines.append(bullet(page_type, p))
         lines.append("")
 
     return "\n".join(lines)
 
 
-def build_root_index(counts: dict[str, dict]) -> str:
+def build_root_index(counts: dict) -> str:
     lines = [
+        "---",
+        'okf_version: "0.2"',
+        "---",
+        "",
         "# Learning Design Wiki",
         "",
-        f"*Last updated: {TODAY}*",
-        "",
         "A persistent, LLM-maintained knowledge base for learning design. "
-        "Read [[CLAUDE|CLAUDE.md]] for the schema, page templates, and agent operating instructions.",
+        "Read [CLAUDE.md](/CLAUDE.md) for the schema, page templates, and agent operating instructions.",
         "",
         "---",
         "",
@@ -196,7 +196,7 @@ def build_root_index(counts: dict[str, dict]) -> str:
         desc = config.get("description", "")
         count = counts.get(page_type, {}).get("total", 0)
         stable = counts.get(page_type, {}).get("stable", 0)
-        lines.append(f"### [[{page_type}/index|{label}]] ({count})")
+        lines.append(f"### [{label}](/{page_type}/index.md) ({count})")
         lines.append(f"{desc}")
         if stable:
             lines.append(f"*{stable} stable*")
@@ -207,15 +207,16 @@ def build_root_index(counts: dict[str, dict]) -> str:
         "",
         "## Quick navigation",
         "",
-        "- [[log|Ingest & edit log]]",
-        "- [[CLAUDE|Schema & agent guide]]",
+        "* [Ingest & edit log](/log.md)",
+        "* [Schema & agent guide](/CLAUDE.md)",
         "",
         "## How to use this wiki",
         "",
         "**As an agent**: read `CLAUDE.md` first. Use `index.md` as your entry point, "
-        "follow links in wiki-link format to traverse the graph, and use `grep` for targeted search.",
+        "follow the markdown links in each page to traverse the graph, and use `grep` for targeted search.",
         "",
-        "**As a human**: open this vault in Obsidian or browse the folder indexes above. "
+        "**As a human**: browse the folder indexes above, or open the "
+        "[docs site](https://learning-design-alliance.github.io/learning-wiki/). "
         "Evidence tags (**[+S]**, **[+M]**, **[~M]**, **[-W]**) indicate claim support strength. "
         "Pages marked `status: draft` are stubs; `review` pages need expert check; `stable` pages are reliable.",
         "",

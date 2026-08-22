@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Provide Manipulatives
+description: Learners are provided with manipulatives to help make complex concepts concrete.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Provide Manipulatives
@@ -35,8 +39,8 @@ Learners are provided with manipulatives to help make complex concepts concrete.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to use manipulatives to solve problems and demonstrate understanding. Assess comprehension through hands-on activities and discussions.

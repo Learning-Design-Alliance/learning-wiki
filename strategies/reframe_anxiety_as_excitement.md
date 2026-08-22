@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reframe Anxiety as Excitement
+description: This technique involves changing one’s mindset from anxiety to excitement, leveraging the similar physiological responses (faster heartbeats and cortisol surges) associated with both emotions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reframe Anxiety as Excitement
@@ -35,9 +39,9 @@ This technique involves changing one’s mindset from anxiety to excitement, lev
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Improved math performance, increased problem-solving focus, positive mindset

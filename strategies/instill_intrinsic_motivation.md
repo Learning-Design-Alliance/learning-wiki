@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Instill Intrinsic Motivation
+description: Helping students understand that positive actions lead to positive feelings about themselves.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Instill Intrinsic Motivation
@@ -35,8 +39,8 @@ Helping students understand that positive actions lead to positive feelings abou
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student behavior and attitudes, gather student feedback through surveys or discussions, track student progress in changing negative thoughts.

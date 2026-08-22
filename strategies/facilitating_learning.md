@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Facilitating Learning
+description: Teachers should redirect their role in the classroom from instructor to facilitator to reduce the power differential between the instructor and students.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Facilitating Learning
@@ -35,9 +39,9 @@ Teachers should redirect their role in the classroom from instructor to facilita
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/inquiry-based-learning|Inquiry-based Learning]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Inquiry-based Learning](/elements/inquiry-based-learning.md)
 
 ## Assessment Evidence
 - Increased student engagement and participation, improved classroom climate, and greater student ownership of learning.

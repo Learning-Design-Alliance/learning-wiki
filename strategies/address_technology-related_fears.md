@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Address Technology-Related Fears
+description: "Recognize and address adult learners' fears related to technology, such as data loss, privacy concerns, or damaging equipment."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Address Technology-Related Fears
@@ -35,9 +39,9 @@ Recognize and address adult learners' fears related to technology, such as data 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Solicit feedback on anxiety levels and support resources, observe learner participation and engagement, track usage of technical support

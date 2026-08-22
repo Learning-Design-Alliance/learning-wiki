@@ -1,7 +1,11 @@
 ---
 type: element
+title: Formative Assessment
+description: Ongoing, low-stakes assessment to provide feedback and adjust instruction.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Formative Assessment
@@ -27,18 +31,18 @@ Ongoing, low-stakes assessment to provide feedback and adjust instruction.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/mastery-learning|Mastery Learning]]
-- [[principles/feedback-loops|Feedback Loops]]
-- [[principles/assessment-for-learning|Assessment for Learning]]
+- [Mastery Learning](/principles/mastery-learning.md)
+- [Feedback Loops](/principles/feedback-loops.md)
+- [Assessment for Learning](/principles/assessment-for-learning.md)
 
 ## Related Elements
-- [[elements/quizzes|Quizzes]]
-- [[elements/self-assessment|Self-Assessment]]
-- [[elements/peer-review|Peer Review]]
+- [Quizzes](/elements/quizzes.md)
+- [Self-Assessment](/elements/self-assessment.md)
+- [Peer Review](/elements/peer-review.md)
 
 ## Patterns That Use This Element
-- [[patterns/gagnés-9-events|Gagné’s 9 Events]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Gagné’s 9 Events](/patterns/gagnés-9-events.md)
+- [Mastery Learning](/patterns/mastery-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

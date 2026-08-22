@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Problem Scenario Analysis
+description: Providing students with real-life problem scenarios (e.g., cheating, bullying) and having them analyze the situation, consider possible consequences, share their decisions, and reflect on their reasoning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Problem Scenario Analysis
@@ -35,10 +39,10 @@ Providing students with real-life problem scenarios (e.g., cheating, bullying) a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/case-study|Case Study]]
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Case Study](/elements/case-study.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions. Review student-generated analyses of scenarios. Evaluate student reflections on their decision-making processes.

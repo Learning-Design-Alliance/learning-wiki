@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Promoting Self-Determination and Self-Advocacy in Students with Disabilities
+description: Fostering self-determination and self-advocacy involves empowering students with disabilities to understand their needs, rights, and goals, and to actively participate in decisions about their education and lives.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Promoting Self-Determination and Self-Advocacy in Students with Disabilities
@@ -35,9 +39,9 @@ Fostering self-determination and self-advocacy involves empowering students with
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
+- [Integration](/elements/integration.md)
 
 ## Assessment Evidence
 - Observe students' participation in IEP meetings and other decision-making processes. Track changes in students' self-confidence, self-advocacy skills, and academic outcomes.

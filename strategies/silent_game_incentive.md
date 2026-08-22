@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Silent Game Incentive
+description: A silent game incentive uses a gamified approach to encourage students to quiet down after an activity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Silent Game Incentive
@@ -35,8 +39,8 @@ A silent game incentive uses a gamified approach to encourage students to quiet 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the speed and effectiveness of students returning to quiet. Track progress on the game board and reward distribution.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Awareness of Implicit Biases
+description: This involves recognizing and addressing unconscious attitudes, stereotypes, and categories that affect behavior and understanding, particularly in the context of education.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Awareness of Implicit Biases
@@ -35,9 +39,9 @@ This involves recognizing and addressing unconscious attitudes, stereotypes, and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/feedback|Feedback]]
-- [[elements/application|Application]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Feedback](/elements/feedback.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Changes in teaching practices, improved student-teacher interactions, and more equitable student outcomes.

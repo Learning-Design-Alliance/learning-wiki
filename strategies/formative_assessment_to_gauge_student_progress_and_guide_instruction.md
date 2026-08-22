@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Formative Assessment to Gauge Student Progress and Guide Instruction
+description: Assessing student work on a regular basis provides both the teacher and the student with a sense of the student’s progress, indicates strengths and areas for improvement, and helps the teacher plan appropriately to meet the student’s needs.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Formative Assessment to Gauge Student Progress and Guide Instruction
@@ -35,9 +39,9 @@ Assessing student work on a regular basis provides both the teacher and the stud
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess Performance]]
-- [[elements/practice|Practice]]
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Assess Performance](/elements/assess-performance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Student work samples, reflection videos, photos/screenshots of progress, weekly surveys, and progress trackers.

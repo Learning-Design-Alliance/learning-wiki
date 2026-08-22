@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Character Emotion Analysis
+description: "This strategy involves having students analyze characters' feelings in literature to improve their self-awareness and emotional recognition."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Character Emotion Analysis
@@ -35,9 +39,9 @@ This strategy involves having students analyze characters' feelings in literatur
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Class Discussion](/elements/class-discussion.md)
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, analyze their responses to questions about characters' emotions, and assess their ability to connect emotions to characters' actions and motivations.

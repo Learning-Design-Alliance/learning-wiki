@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Paragraph Shrinking
+description: A PALS activity focused on identifying main ideas and summarizing paragraphs.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Paragraph Shrinking
@@ -35,10 +39,10 @@ A PALS activity focused on identifying main ideas and summarizing paragraphs. St
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/modeling|Modeling]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Modeling](/elements/modeling.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe summarization skills, assess ability to identify main ideas, collect student feedback

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Negotiated Grades
+description: Grades should be negotiated between students and teachers according to agreed upon learning goals and evidence of learning in one or more languages.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Negotiated Grades
@@ -35,9 +39,9 @@ Grades should be negotiated between students and teachers according to agreed up
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Student participation in grading, alignment of grades with learning goals

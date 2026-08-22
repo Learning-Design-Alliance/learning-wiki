@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Visual Reading Aids
+description: Visual reading aids, such as reading guides, colored overlays, and tracking rulers, are tools designed to make text more accessible and readable.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Visual Reading Aids
@@ -35,9 +39,9 @@ Visual reading aids, such as reading guides, colored overlays, and tracking rule
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/supportive-information|Supportive information]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Supportive information](/elements/supportive-information.md)
 
 ## Assessment Evidence
 - Observe improvements in reading speed, accuracy, and fluency. Monitor the frequency of losing place while reading. Collect self-reports from learners regarding their comfort and focus while using the aids. Track the usage and preference for different types of reading aids.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Rich Library: Poetry"
+description: Provides access to a collection of poems and poetry-related resources to enhance literacy and engagement with poetry.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rich Library: Poetry
@@ -35,9 +39,9 @@ Provides access to a collection of poems and poetry-related resources to enhance
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe learner engagement with the poems and resources. Assess comprehension through discussions, creative writing activities, or presentations. Track the types of poems learners choose and the resources they explore.

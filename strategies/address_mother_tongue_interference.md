@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Address Mother Tongue Interference
+description: Be aware of potential mother tongue interference.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Address Mother Tongue Interference
@@ -35,7 +39,7 @@ Be aware of potential mother tongue interference. Position yourself close to stu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' ability to follow instructions with targeted support.

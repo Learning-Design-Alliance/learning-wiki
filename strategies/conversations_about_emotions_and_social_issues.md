@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Conversations about Emotions and Social Issues
+description: Have explicit conversations about emotions and social issues, including issues of social justice.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Conversations about Emotions and Social Issues
@@ -35,9 +39,9 @@ Have explicit conversations about emotions and social issues, including issues o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Conceptual Questioning](/elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Student sharing.

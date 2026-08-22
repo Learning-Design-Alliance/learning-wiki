@@ -1,7 +1,11 @@
 ---
 type: element
+title: "Justification & Argumentation"
+description: Learners defend their conclusions with evidence, fostering critical reasoning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Justification & Argumentation
@@ -27,18 +31,18 @@ Learners defend their conclusions with evidence, fostering critical reasoning.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/epistemic-cognition|Epistemic Cognition]]
-- [[principles/constructivism|Constructivism]]
-- [[principles/social-learning|Social Learning]]
+- [Epistemic Cognition](/principles/epistemic-cognition.md)
+- [Constructivism](/principles/constructivism.md)
+- [Social Learning](/principles/social-learning.md)
 
 ## Related Elements
-- [[elements/structured-academic-controversy|Structured Academic Controversy]]
-- [[elements/argument-construction|Argument Construction]]
-- [[elements/rebuttals|Rebuttals]]
+- [Structured Academic Controversy](/elements/structured-academic-controversy.md)
+- [Argument Construction](/elements/argument-construction.md)
+- [Rebuttals](/elements/rebuttals.md)
 
 ## Patterns That Use This Element
-- [[patterns/mel-reasoning-pattern|MEL Reasoning Pattern]]
-- [[patterns/debate|Debate]]
+- [MEL Reasoning Pattern](/patterns/mel-reasoning-pattern.md)
+- [Debate](/patterns/debate.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

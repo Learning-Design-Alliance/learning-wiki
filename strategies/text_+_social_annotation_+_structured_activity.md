@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Text + Social Annotation + Structured Activity
+description: Students engage with text resources, typically online versions, that are equipped with social annotation tools.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Text + Social Annotation + Structured Activity
@@ -35,10 +39,10 @@ Students engage with text resources, typically online versions, that are equippe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Quality and quantity of annotations, engagement in discussions, completion of structured activities, performance on related assignments.

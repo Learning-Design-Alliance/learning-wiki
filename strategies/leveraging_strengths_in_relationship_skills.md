@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leveraging Strengths in Relationship Skills
+description: This method involves an educator identifying specific learner strengths and/or challenges related to relationship skills and uses or justifies aligned strategies to leverage learner strengths to support learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leveraging Strengths in Relationship Skills
@@ -35,10 +39,10 @@ This method involves an educator identifying specific learner strengths and/or c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/modeling|Modeling]]
-- [[elements/coaching|Coaching]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Modeling](/elements/modeling.md)
+- [Coaching](/elements/coaching.md)
 
 ## Assessment Evidence
 - Assessments should focus on identifying specific strengths and challenges related to relationship skills. Teachers can observe learners’ interactions with peers and adults to assess their communication skills, cooperation, and conflict management abilities. Reflection questions may be helpful to the learner to consider their own interactions and skills.

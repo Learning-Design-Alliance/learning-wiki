@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Structured Academic Controversy
+description: Structured Academic Controversy is a discussion pattern in which learners examine opposing positions, advocate for one side, switch roles, and work toward a more integrated conclusion.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: johnson-2009
+    resource: "https://doi.org/10.3102/0013189X08330540"
+    title: "Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37-51"
+    author: "Johnson, D. W., & Johnson, R. T"
 author: Johnson and Johnson
 grain_size: lesson
 ---
@@ -33,11 +41,11 @@ Structured Academic Controversy is a discussion pattern in which learners examin
 
 ### Theory
 #### Supporting
-- [[principles/perspective-taking|Perspective-Taking]]
-- [[principles/social-learning|Social Learning]]
+- [Perspective-Taking](/principles/perspective-taking.md)
+- [Social Learning](/principles/social-learning.md)
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
 
 ## Design
 
@@ -49,16 +57,16 @@ Structured Academic Controversy is a discussion pattern in which learners examin
 5. Synthesize a more defensible conclusion.
 
 ### Elements Used
-- [[elements/structured-discussion|Structured Discussion]]
-- [[elements/perspective-taking|Perspective-Taking]]
-- [[elements/rebuttals|Rebuttals]]
+- [Structured Discussion](/elements/structured-discussion.md)
+- [Perspective-Taking](/elements/perspective-taking.md)
+- [Rebuttals](/elements/rebuttals.md)
 
 ### Affordances
-- [[principles/perspective-taking|Perspective-Taking]]
-- [[principles/social-learning|Social Learning]]
+- [Perspective-Taking](/principles/perspective-taking.md)
+- [Social Learning](/principles/social-learning.md)
 
 ## Related Patterns
-- [[patterns/structured-academic-controversy-sac|Structured Academic Controversy (SAC)]]
+- [Structured Academic Controversy (SAC)](/patterns/structured-academic-controversy-sac.md)
 
 ## Examples
 - Students debate a policy question, switch sides, and then produce a joint synthesis.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Response Devices
+description: Response devices allow learners to anonymously share answers with the whole class.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Response Devices
@@ -35,9 +39,9 @@ Response devices allow learners to anonymously share answers with the whole clas
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/practice|Practice]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Track participation rates, monitor answer accuracy, assess the depth of learner engagement, analyze the feedback provided by learners

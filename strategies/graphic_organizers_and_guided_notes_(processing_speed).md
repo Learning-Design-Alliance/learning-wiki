@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers and Guided Notes (Processing Speed)
+description: Providing students with graphic organizers or guided notes during lectures to help them pull out the important points.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers and Guided Notes (Processing Speed)
@@ -35,8 +39,8 @@ Providing students with graphic organizers or guided notes during lectures to he
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Review student's completed graphic organizers and guided notes for accuracy and completeness. Assess their ability to recall and apply information from the lecture.

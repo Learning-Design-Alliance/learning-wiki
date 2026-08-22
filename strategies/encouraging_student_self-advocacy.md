@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Encouraging Student Self-Advocacy
+description: Empowering learners to communicate their needs, understand their rights, and actively seek support.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Encouraging Student Self-Advocacy
@@ -35,11 +39,11 @@ Empowering learners to communicate their needs, understand their rights, and act
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/application|Application]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Increased student participation in discussions, improved self-assessment skills, and proactive seeking of support when needed.

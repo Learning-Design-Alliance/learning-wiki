@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Prompt Cards for Emotional Regulation
+description: Prompt cards, particularly emotion cue cards, offer accessible reminders of self-regulation strategies.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Prompt Cards for Emotional Regulation
@@ -35,9 +39,9 @@ Prompt cards, particularly emotion cue cards, offer accessible reminders of self
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the frequency and effectiveness of card use during moments of emotional distress. Track the learner's ability to independently apply the strategies over time. Gather feedback from learners on the usefulness of the cards and specific strategies.

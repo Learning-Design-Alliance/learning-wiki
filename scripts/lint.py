@@ -3,7 +3,7 @@
 lint.py — Health-check the ld-wiki.
 
 Checks:
-  1. Broken [[wikilinks]] (link target not found)
+  1. Broken cross-links (/folder/slug.md link target not found)
   2. Claims pages missing evidence strength
   3. Claims pages missing a source with DOI/URL
   4. Principles missing at least one claim link
@@ -22,13 +22,17 @@ import argparse
 from pathlib import Path
 from collections import defaultdict
 
+sys.path.insert(0, str(Path(__file__).parent))
+import okf_lib as ok
+
 WIKI_ROOT = Path(__file__).parent.parent
 
 PAGE_TYPES = ["principles", "elements", "patterns", "strategies", "theories", "claims", "sources"]
 
-WIKILINK_RE = re.compile(r"\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]")
-STATUS_RE   = re.compile(r"^status:\s*(.+)$", re.MULTILINE)
-DESC_RE     = re.compile(r"## Description\s*\n(.+?)(?=\n##|\Z)", re.DOTALL)
+# OKF cross-links are plain markdown links to bundle-relative paths: [Label](/folder/slug.md)
+LINK_RE   = re.compile(r"\]\(/([a-zA-Z0-9_.\-]+)/([a-zA-Z0-9_.\-]+)\.md\)")
+STATUS_RE = re.compile(r"^status:\s*(.+)$", re.MULTILINE)
+DESC_RE   = re.compile(r"## Description\s*\n(.+?)(?=\n##|\Z)", re.DOTALL)
 
 
 def all_pages() -> dict[str, Path]:
@@ -45,21 +49,25 @@ def all_pages() -> dict[str, Path]:
     return pages
 
 
+DOC_FILES = {"CLAUDE.md", "README.md"}  # contain illustrative example paths, not real links
+
+
 def check_broken_links(pages: dict[str, Path]) -> list[dict]:
     issues = []
     for slug, path in pages.items():
         if "/" in slug:
             continue  # skip duplicates (folder-qualified keys)
+        if path.name in DOC_FILES:
+            continue
         text = path.read_text(encoding="utf-8")
-        for m in WIKILINK_RE.finditer(text):
-            target = m.group(1).strip()
-            # Try as-is, and without folder prefix
-            bare = target.split("/")[-1]
-            if target not in pages and bare not in pages:
+        for m in LINK_RE.finditer(text):
+            folder, target_slug = m.group(1), m.group(2)
+            key = f"{folder}/{target_slug}"
+            if key not in pages and target_slug not in pages:
                 issues.append({
                     "file": str(path.relative_to(WIKI_ROOT)),
                     "type": "broken_link",
-                    "detail": f"[[{target}]] not found",
+                    "detail": f"/{key}.md not found",
                 })
     return issues
 
@@ -92,6 +100,8 @@ def check_claims_missing_evidence(pages: dict[str, Path]) -> list[dict]:
     if not claims_folder.exists():
         return issues
     for path in claims_folder.glob("*.md"):
+        if path.stem == "index":
+            continue
         text = path.read_text(encoding="utf-8")
         # Check evidence strength in frontmatter
         if not re.search(r"evidence_strength:\s*\S+", text):
@@ -118,6 +128,8 @@ def check_principles_missing_claims(pages: dict[str, Path]) -> list[dict]:
     if not principles_folder.exists():
         return issues
     for path in principles_folder.glob("*.md"):
+        if path.stem == "index":
+            continue
         text = path.read_text(encoding="utf-8")
         if "### Claims" not in text and "## Claims" not in text:
             continue
@@ -128,7 +140,7 @@ def check_principles_missing_claims(pages: dict[str, Path]) -> list[dict]:
         if not claims_section:
             continue
         body = claims_section.group(1).strip()
-        has_real_link = bool(re.search(r"\[\[claims/", body))
+        has_real_link = bool(re.search(r"\]\(/claims/", body))
         has_todo = "<!-- TODO" in body
         if not has_real_link and (has_todo or not body):
             issues.append({
@@ -145,6 +157,8 @@ def check_unfilled_competing_claims(pages: dict[str, Path]) -> list[dict]:
     if not claims_folder.exists():
         return issues
     for path in claims_folder.glob("*.md"):
+        if path.stem == "index":
+            continue
         text = path.read_text(encoding="utf-8")
         if "## Competing Claims" not in text:
             continue

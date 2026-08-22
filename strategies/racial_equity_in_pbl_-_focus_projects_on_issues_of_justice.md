@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Racial Equity in PBL - Focus Projects on Issues of Justice
+description: Authentic projects that address issues of justice lead to higher student engagement because students are doing work that matters, work that impacts their community, their lives, the lives of those they love and deeply care about.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Racial Equity in PBL - Focus Projects on Issues of Justice
@@ -35,8 +39,8 @@ Authentic projects that address issues of justice lead to higher student engagem
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/solution-development|Solution Development]]
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Solution Development](/elements/solution-development.md)
 
 ## Assessment Evidence
 - Student participation, depth of engagement with the issue, quality of proposed solutions.

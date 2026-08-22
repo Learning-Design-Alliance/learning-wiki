@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Specific Feedback
+description: This strategy involves providing targeted feedback on student writing that is directly tied to specific words, phrases, sentences, or paragraphs.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Specific Feedback
@@ -35,8 +39,8 @@ This strategy involves providing targeted feedback on student writing that is di
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the specificity of feedback provided and monitor improvements in student writing over time. Observe student's ability to apply feedback to future writing.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reasonable Feedback
+description: Reasonable feedback involves providing feedback that is manageable and not overwhelming for the student.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reasonable Feedback
@@ -35,8 +39,8 @@ Reasonable feedback involves providing feedback that is manageable and not overw
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the focus and balance of feedback provided. Monitor student's ability to identify strengths and areas for improvement in their writing.

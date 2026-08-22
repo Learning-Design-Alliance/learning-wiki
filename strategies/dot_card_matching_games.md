@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Dot Card Matching Games
+description: Learners match dot cards with equal quantities but different arrangements, or match dot cards to corresponding numeral cards.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Dot Card Matching Games
@@ -35,8 +39,8 @@ Learners match dot cards with equal quantities but different arrangements, or ma
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](/elements/practice.md)
+- [Assess performance](/elements/assess-performance.md)
 
 ## Assessment Evidence
 - Monitor the learner's accuracy in matching cards. Observe the strategies used to find the matches.

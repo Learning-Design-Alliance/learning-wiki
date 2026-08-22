@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Sentence Stems for Reflection
+description: Teachers can use sentence stems to stimulate reflection and make it more accessible to learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Sentence Stems for Reflection
@@ -35,8 +39,8 @@ Teachers can use sentence stems to stimulate reflection and make it more accessi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Deeper and more thoughtful reflections.

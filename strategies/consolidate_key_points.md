@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Consolidate Key Points
+description: Summarizing and consolidating key points after pair talk helps to solidify understanding and ensure that all students have a clear takeaway.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Consolidate Key Points
@@ -35,8 +39,8 @@ Summarizing and consolidating key points after pair talk helps to solidify under
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe whether students are using the summary to check their understanding. Ask students to explain the key points in their own words. Assess whether the summary addresses any misconceptions or areas of confusion.

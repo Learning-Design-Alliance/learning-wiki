@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Learning Goal Setting
+description: This strategy involves defining clear objectives prior to engaging in a learning experience, such as shadowing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Learning Goal Setting
@@ -35,8 +39,8 @@ This strategy involves defining clear objectives prior to engaging in a learning
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [State objectives](/elements/state-objectives.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Success is measured by the extent to which the learning goals are achieved, the insights gained, and the changes made as a result of the experience. This can be documented through reflections, action plans, and feedback from participants.

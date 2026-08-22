@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Metacognitive Strategies
+description: Metacognitive strategies teach students to think about their thinking.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Metacognitive Strategies
@@ -35,7 +39,7 @@ Metacognitive strategies teach students to think about their thinking. When stud
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Student self-awareness, ability to plan and evaluate learning, and improved self-regulation.

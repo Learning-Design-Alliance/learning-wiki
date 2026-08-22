@@ -1,7 +1,11 @@
 ---
 type: element
+title: Individual Response
+description: Learners answer a question or solve a problem independently before group discussion.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Individual Response
@@ -27,18 +31,18 @@ Learners answer a question or solve a problem independently before group discuss
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/cognitive-load-theory|Cognitive Load Theory]]
-- [[principles/metacognition|Metacognition]]
-- [[principles/active-learning|Active Learning]]
+- [Cognitive Load Theory](/principles/cognitive-load-theory.md)
+- [Metacognition](/principles/metacognition.md)
+- [Active Learning](/principles/active-learning.md)
 
 ## Related Elements
-- [[elements/retrieval-practice|Retrieval Practice]]
-- [[elements/peer-instruction|Peer Instruction]]
-- [[elements/formative-assessment|Formative Assessment]]
+- [Retrieval Practice](/elements/retrieval-practice.md)
+- [Peer Instruction](/elements/peer-instruction.md)
+- [Formative Assessment](/elements/formative-assessment.md)
 
 ## Patterns That Use This Element
-- [[patterns/peer-instruction|Peer Instruction]]
-- [[patterns/formative-assessment|Formative Assessment]]
+- [Peer Instruction](/patterns/peer-instruction.md)
+- [Formative Assessment](/patterns/formative-assessment.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

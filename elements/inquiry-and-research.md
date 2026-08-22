@@ -1,7 +1,11 @@
 ---
 type: element
+title: Inquiry and Research
+description: Learners investigate a topic through questioning and data gathering.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Inquiry and Research
@@ -27,17 +31,17 @@ Learners investigate a topic through questioning and data gathering.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
-- [[principles/constructivism|Constructivism]]
+- [Inquiry-Based Learning](/principles/inquiry-based-learning.md)
+- [Constructivism](/principles/constructivism.md)
 
 ## Related Elements
-- [[elements/inquiry-based-exploration|Inquiry-Based Exploration]]
-- [[elements/knowledge-building|Knowledge-Building]]
-- [[elements/research|Research]]
+- [Inquiry-Based Exploration](/elements/inquiry-based-exploration.md)
+- [Knowledge-Building](/elements/knowledge-building.md)
+- [Research](/elements/research.md)
 
 ## Patterns That Use This Element
-- [[patterns/problem-based-learning|Problem-Based Learning]]
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
+- [Problem-Based Learning](/patterns/problem-based-learning.md)
+- [Collaborative Inquiry](/patterns/collaborative-inquiry.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

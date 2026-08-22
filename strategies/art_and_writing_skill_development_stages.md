@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Art and Writing Skill Development Stages
+description: Drawing and writing skills in young children develop through distinct stages, progressing from random scribbling to letter and word practice.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Art and Writing Skill Development Stages
@@ -35,9 +39,9 @@ Drawing and writing skills in young children develop through distinct stages, pr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/demonstration|Demonstration]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe the child's drawings and writing to identify the stage of development. Assess the child's creativity, self-expression, and problem-solving skills. Track the child's understanding of the power and meaning of words.

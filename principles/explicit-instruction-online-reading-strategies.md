@@ -1,8 +1,20 @@
 ---
 type: principle
+title: "Explicit Instruction: Online Reading Strategies"
+description: Research shows that, along with traditional reading comprehension strategies, learners use unique strategies to read the non-linear, hyperlinked structure of online texts.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: azevedo-2005
+    resource: "https://doi.org/10.1207/s15326985ep4004_2"
+    title: "Azevedo, R. (2005). Using hypermedia as a metacognitive tool for enhancing student learning? *Educational Psychologist, 40*(4), 199-209"
+    author: Azevedo, R
+  - id: destefano-2007
+    resource: "https://doi.org/10.1016/j.chb.2005.08.012"
+    title: "DeStefano, D., & LeFevre, J. A. (2007). Cognitive load in hypertext reading: A review. *Computers in Human Behavior, 23*(3), 1616-1641"
+    author: "DeStefano, D., & LeFevre, J. A"
 ---
 
 # Explicit Instruction: Online Reading Strategies
@@ -11,7 +23,7 @@ edited_by: Codex
 Research shows that, along with traditional reading comprehension strategies, learners use unique strategies to read the non-linear, hyperlinked structure of online texts. When reading online, learners must infer which hyperlink may be relevant to read, make connections within and between linked texts, and interpret multimedia. Defining a goal and questions prior to reading, creating a map of information when reading, and limiting the number of links to explore are strategies to help learners navigate reading on the Internet. This can also help to reduce the strain on Working Memory while reading online and minimize distractions when using hyperlinks.
 
 ## Implications
-Explicit instruction in online reading strategies helps because digital texts force learners to make many navigation decisions that print reading does not. Setting goals, choosing links selectively, tracking meaning across tabs, and resisting distraction all compete for attention, so novices benefit from modeled routines that reduce unnecessary navigation burden and make skilled choices visible [[claims/chunking-reduces-working-memory-load]] [+S] [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M]. The practical goal is not rigid script-following, but enough structure that learners can read online with purpose instead of getting pulled into unproductive clicking and fragmented comprehension. Online comprehension is also stronger when learners explain why they clicked, skipped, or synthesized particular information [[claims/self-explanation-improves-conceptual-understanding]] [+S], and when guided prompts help them notice where their navigation decisions broke down [[claims/contingent-scaffolding-improves-learning]] [+M].
+Explicit instruction in online reading strategies helps because digital texts force learners to make many navigation decisions that print reading does not. Setting goals, choosing links selectively, tracking meaning across tabs, and resisting distraction all compete for attention, so novices benefit from modeled routines that reduce unnecessary navigation burden and make skilled choices visible [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]. The practical goal is not rigid script-following, but enough structure that learners can read online with purpose instead of getting pulled into unproductive clicking and fragmented comprehension. Online comprehension is also stronger when learners explain why they clicked, skipped, or synthesized particular information [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S], and when guided prompts help them notice where their navigation decisions broke down [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +53,7 @@ Explicit instruction in online reading strategies helps because digital texts fo
 ### Theory
 #### Supporting
 - Information-processing perspectives support explicit routines for navigating complex digital text environments
-- [[theories/cognitive-load-theory|Cognitive Load Theory]] supports reducing unnecessary navigation and decision burden during online reading
+- [Cognitive Load Theory](/theories/cognitive-load-theory.md) supports reducing unnecessary navigation and decision burden during online reading
 - Multimedia-learning perspectives support deliberate integration of text, visuals, and navigation cues rather than unmanaged exposure to all modes at once
 - Guided demonstration is especially relevant because expert online reading behavior is largely invisible unless modeled
 
@@ -51,22 +63,22 @@ Explicit instruction in online reading strategies helps because digital texts fo
 - Online reading competence also depends on search and source-evaluation skill, not comprehension strategies alone
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [+S] — online reading strategies should reduce the number of simultaneous navigation decisions learners must manage
-- [[claims/contingent-scaffolding-improves-learning]] [+M] — think-alouds and guided prompts help learners understand where their online reading decisions break down
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — novices benefit from explicit routines for goal-setting, link choice, and note capture during reading
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — online comprehension deepens when learners explain why they clicked, skipped, or synthesized particular information
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — online reading strategies should reduce the number of simultaneous navigation decisions learners must manage
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — think-alouds and guided prompts help learners understand where their online reading decisions break down
+- [Process goals lead to better skill acquisition for novices than outcome goals.](/claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices benefit from explicit routines for goal-setting, link choice, and note capture during reading
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — online comprehension deepens when learners explain why they clicked, skipped, or synthesized particular information
 
 ## Related Principles
-- [[principles/explicit-instruction-internet-search|Explicit Instruction: Internet Search]] — search often precedes and shapes what online reading becomes
-- [[principles/evaluating-sources|Evaluating Sources]] — online reading requires credibility judgment as well as comprehension
-- [[principles/clear-structure-presentation|Clear Structure & Presentation]] — structured digital environments reduce avoidable navigation burden
-- [[principles/annotating|Annotating]] — note capture and marking can stabilize understanding across tabs and links
+- [Explicit Instruction: Internet Search](/principles/explicit-instruction-internet-search.md) — search often precedes and shapes what online reading becomes
+- [Evaluating Sources](/principles/evaluating-sources.md) — online reading requires credibility judgment as well as comprehension
+- [Clear Structure & Presentation](/principles/clear-structure-presentation.md) — structured digital environments reduce avoidable navigation burden
+- [Annotating](/principles/annotating.md) — note capture and marking can stabilize understanding across tabs and links
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [[strategies/think-alouds_for_online_reading_strategies|Think-Alouds for Online Reading Strategies]] — expert navigation decisions are modeled explicitly
-- [[strategies/reading_online_strategy:_evaluating_online_information|Reading Online Strategy: Evaluating Online Information]] — combines reading with credibility checks
-- [[strategies/reading_online_strategy:_formulating_effective_search_queries|Reading Online Strategy: Formulating Effective Search Queries]] — supports pre-reading goal and query construction
+- [Think-Alouds for Online Reading Strategies](/strategies/think-alouds_for_online_reading_strategies.md) — expert navigation decisions are modeled explicitly
+- [Reading Online Strategy: Evaluating Online Information](/strategies/reading_online_strategy:_evaluating_online_information.md) — combines reading with credibility checks
+- [Reading Online Strategy: Formulating Effective Search Queries](/strategies/reading_online_strategy:_formulating_effective_search_queries.md) — supports pre-reading goal and query construction
 - Guided webquests or hypertext tasks with note-taking and path-tracking prompts
 
 ## Key Sources

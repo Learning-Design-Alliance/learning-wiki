@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Write Your Own Word Problem
+description: For homework, assign learners the task of writing some of their own word problems containing some of the key words discussed in class.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Write Your Own Word Problem
@@ -35,9 +39,9 @@ For homework, assign learners the task of writing some of their own word problem
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Application](/elements/application.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess learners' original word problems to see if they appropriately incorporated key words to indicate specific mathematical operations.

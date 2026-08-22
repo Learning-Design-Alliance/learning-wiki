@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Illustrate Through Multiple Media
+description: Making learning come alive with simulations, graphics, activities, and videos engages learners in a variety of ways and enhances comprehension.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Illustrate Through Multiple Media
@@ -35,10 +39,10 @@ Making learning come alive with simulations, graphics, activities, and videos en
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of key concepts through discussions, written assignments, or multimedia presentations. Track improvements in comprehension and application of knowledge.

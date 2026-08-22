@@ -1,8 +1,11 @@
 ---
 type: element
+title: Digital Learning
+description: Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Digital Learning
@@ -23,17 +26,17 @@ Digital learning is the element in which instruction, resources, or interaction 
 - Support flexible access, interactive learning, and networked exploration.
 
 ### Affordances
-- [[principles/multimodal-instruction|Multimodal Instruction]]
-- [[principles/active-learning|Active Learning]]
+- [Multimodal Instruction](/principles/multimodal-instruction.md)
+- [Active Learning](/principles/active-learning.md)
 
 ## Related Elements
-- [[elements/hypertext-navigation|Hypertext Navigation]]
-- [[elements/multimedia-learning|Multimedia Learning]]
-- [[elements/self-paced-learning|Self-Paced Learning]]
+- [Hypertext Navigation](/elements/hypertext-navigation.md)
+- [Multimedia Learning](/elements/multimedia-learning.md)
+- [Self-Paced Learning](/elements/self-paced-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/flipped-learning|Flipped Learning]]
-- [[patterns/game-based-mastery-learning|Game-Based Mastery Learning]]
+- [Flipped Learning](/patterns/flipped-learning.md)
+- [Game-Based Mastery Learning](/patterns/game-based-mastery-learning.md)
 
 ## Examples
 - Interactive modules, linked resources, adaptive practice systems, and online collaborative spaces.

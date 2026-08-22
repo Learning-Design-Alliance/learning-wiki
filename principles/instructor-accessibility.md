@@ -1,8 +1,24 @@
 ---
 type: principle
+title: Instructor Accessibility
+description: Instructor accessibility is the principle that learners should be able to reach, understand, and get timely support from the instructor when they need it.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: ekmekci-2013
+    resource: "https://doi.org/10.5539/hes.v3n1p29"
+    title: "Ekmekci, O. (2013). Being there: Establishing instructor presence in an online learning environment. *Higher Education Studies, 3*(1), 29-38"
+    author: Ekmekci, O
+  - id: lowenthal-2017
+    resource: "https://doi.org/10.24059/olj.v21i4.1285"
+    title: "Lowenthal, P., Dunlap, J., & Snelson, C. (2017). Live synchronous web meetings in asynchronous online courses: Reconceptualizing virtual office hours. *Online Learning, 21*(4)"
+    author: "Lowenthal, P., Dunlap, J., & Snelson, C"
+  - id: park-2020
+    resource: "https://doi.org/10.28945/4611"
+    title: "Park, C., & Kim, D.-G. (2020). Perception of instructor presence and its effects on learning experience in online classes. *Journal of Information Technology Education: Research, 19*, 475-488"
+    author: "Park, C., & Kim, D.-G"
 ---
 
 # Instructor Accessibility
@@ -11,7 +27,7 @@ edited_by: Codex
 Instructor accessibility is the principle that learners should be able to reach, understand, and get timely support from the instructor when they need it. Accessibility here is relational and instructional, not only physical or technical: it includes visibility, responsiveness, clarity about how to get help, and a learner's sense that asking for support will lead to a constructive response. This is especially important in asynchronous, blended, and adult learning contexts where learners may otherwise navigate challenge in isolation.
 
 ## Implications
-Instructor accessibility matters because learners are less likely to seek help when the route to support feels unclear, high-risk, or unreliable. Visible channels, predictable responsiveness, and a supportive tone can lower the threshold for asking questions before confusion hardens into disengagement. The instructional payoff is not just relationship quality but better timing of support: when learners can reach the instructor while the problem is still live, feedback and scaffolding are more likely to change performance [[claims/contingent-scaffolding-improves-learning]] [~M]. Accessibility also supports self-regulation when learners can ask for clarification early enough to monitor and adjust their own progress rather than waiting until they are already stuck beyond recovery [[claims/self-monitoring-improves-self-regulation]] [~M]. Accessibility still has to be sustainable, though, or it becomes uneven and performative.
+Instructor accessibility matters because learners are less likely to seek help when the route to support feels unclear, high-risk, or unreliable. Visible channels, predictable responsiveness, and a supportive tone can lower the threshold for asking questions before confusion hardens into disengagement. The instructional payoff is not just relationship quality but better timing of support: when learners can reach the instructor while the problem is still live, feedback and scaffolding are more likely to change performance [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]. Accessibility also supports self-regulation when learners can ask for clarification early enough to monitor and adjust their own progress rather than waiting until they are already stuck beyond recovery [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]. Accessibility still has to be sustainable, though, or it becomes uneven and performative.
 
 ### Context
 #### Requirements
@@ -47,14 +63,14 @@ Instructor accessibility matters because learners are less likely to seek help w
 - More contact is not automatically better if the contact is vague, delayed, or misaligned with learner needs.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [~M] — instructor access matters when it leads to timely, responsive support on the learner’s actual problem
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — accessible instructors make it easier for learners to notice confusion and seek help before disengaging
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — instructor access matters when it leads to timely, responsive support on the learner’s actual problem
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — accessible instructors make it easier for learners to notice confusion and seek help before disengaging
 
 ## Related Principles
-- [[principles/immediate-feedback|Immediate Feedback]] — accessibility often determines whether timely feedback is actually available.
-- [[principles/check-ins|Check-ins]] — check-ins are one recurring way to make support visible and reachable.
-- [[principles/inquiry-based-learning|Inquiry-based Learning]] — learners need accessible guidance when working through open-ended tasks.
-- [[principles/cultural-life-experiences-connections|Cultural & Life Experiences Connections]] — accessibility improves when instructors take learner context seriously.
+- [Immediate Feedback](/principles/immediate-feedback.md) — accessibility often determines whether timely feedback is actually available.
+- [Check-ins](/principles/check-ins.md) — check-ins are one recurring way to make support visible and reachable.
+- [Inquiry-based Learning](/principles/inquiry-based-learning.md) — learners need accessible guidance when working through open-ended tasks.
+- [Cultural & Life Experiences Connections](/principles/cultural-life-experiences-connections.md) — accessibility improves when instructors take learner context seriously.
 
 ## Examples
 - **Clear office-hours model**: Learners know when help is available, how to prepare, and what kinds of support to expect.

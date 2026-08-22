@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Unit Planning with Graphic Organizers
+description: When introducing a unit to students, show them how the parts of the unit fit together with a graphic organizer, providing a sense of where they are in the unit at any given time and helping them understand why they are learning the…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Unit Planning with Graphic Organizers
@@ -35,8 +39,8 @@ When introducing a unit to students, show them how the parts of the unit fit tog
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/advance-organizers|Advance Organizers]]
+- [State objectives](/elements/state-objectives.md)
+- [Advance Organizers](/elements/advance-organizers.md)
 
 ## Assessment Evidence
 - Student understanding of the information presented.

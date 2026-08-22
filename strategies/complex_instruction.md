@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Complex Instruction
+description: "A pedagogy that redefines who is 'smart' by utilizing multi-ability access points, norms and roles that support interdependency between learners, and attention to status and accountability for learning."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Complex Instruction
@@ -35,9 +39,9 @@ A pedagogy that redefines who is 'smart' by utilizing multi-ability access point
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/coaching|Coaching]]
+- [Application](/elements/application.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Coaching](/elements/coaching.md)
 
 ## Assessment Evidence
 - Learner engagement, peer feedback, the quality of developed reasoning, and changes in learners’ dispositions towards math.

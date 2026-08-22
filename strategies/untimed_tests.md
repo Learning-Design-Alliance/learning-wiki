@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Untimed Tests
+description: Untimed tests remove the pressure of completing assessments within a set time limit, allowing learners to focus on problem-solving without time-related anxiety.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Untimed Tests
@@ -35,8 +39,8 @@ Untimed tests remove the pressure of completing assessments within a set time li
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Compare performance on timed vs. untimed tests to assess the impact of time pressure. Observe learners' problem-solving approaches and depth of engagement during untimed tests.

@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Goal-Based Scenarios
+description: Goal-Based Scenarios organize learning around a mission or role-based objective pursued inside a realistic scenario.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: schank-1994
+    resource: "https://doi.org/10.1207/s15327809jls0304_3"
+    title: "Schank, R. C. (1994). Goal-based scenarios: A radical look at education. *The Journal of the Learning Sciences, 3*(4), 429-453"
+    author: Schank, R. C
 author: Roger Schank
 grain_size: unit
 ---
@@ -42,8 +50,8 @@ Goal-Based Scenarios organize learning around a mission or role-based objective 
 - Scenario immersion alone does not guarantee learning without debrief and support.
 
 ### Claims
-- [[claims/whole-task-performance-improves-transfer]] [+S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Design
 
@@ -54,17 +62,17 @@ Goal-Based Scenarios organize learning around a mission or role-based objective 
 4. Debrief decisions and connect them to future use.
 
 ### Elements Used
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/feedback|Feedback]]
-- [[elements/reflection|Reflection]]
+- [Problem Scenario](/elements/problem-scenario.md)
+- [Feedback](/elements/feedback.md)
+- [Reflection](/elements/reflection.md)
 
 ### Affordances
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/experiential-learning|Experiential Learning]]
-- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]]
+- [Problem-based Learning](/principles/problem-based-learning.md)
+- [Experiential Learning](/principles/experiential-learning.md)
+- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
 
 ## Related Patterns
-- [[patterns/goal-based-scenarios-gbs|Goal-Based Scenarios (GBS)]]
+- [Goal-Based Scenarios (GBS)](/patterns/goal-based-scenarios-gbs.md)
 
 ## Examples
 - Clinical, business, or technical training built around mission execution under realistic constraints.

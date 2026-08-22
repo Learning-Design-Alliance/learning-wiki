@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Rate (and Change) Tasks
+description: Ask learners to rate the level of challenge in an activity on a scale of 1 to 10.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rate (and Change) Tasks
@@ -35,7 +39,7 @@ Ask learners to rate the level of challenge in an activity on a scale of 1 to 10
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track the learner's ratings of task difficulty. Monitor changes in engagement and frustration levels. Collect feedback on the effectiveness of task adjustments.

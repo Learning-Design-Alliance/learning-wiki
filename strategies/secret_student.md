@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Secret Student
+description: "A classroom management system where a student's name is secretly selected each day, and the teacher observes whether the \"Secret Student\" exhibits good listening and learning behaviors."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Secret Student
@@ -35,7 +39,7 @@ A classroom management system where a student's name is secretly selected each d
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe changes in classroom behavior, track the frequency of rewards given, and gather feedback from students on their motivation and engagement.

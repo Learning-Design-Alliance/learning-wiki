@@ -1,8 +1,11 @@
 ---
 type: element
+title: Gradual Release
+description: Gradual release is the element in which responsibility for performance shifts from teacher or system to learner across stages of modeling, guided practice, and independent work.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Gradual Release
@@ -23,17 +26,17 @@ Gradual release is the element in which responsibility for performance shifts fr
 - Support the transfer of responsibility from guided performance to independent competence.
 
 ### Affordances
-- [[principles/scaffolding-and-fading|Scaffolding and Fading]]
-- [[principles/explicit-instruction|Explicit Instruction]]
+- [Scaffolding and Fading](/principles/scaffolding-and-fading.md)
+- [Explicit Instruction](/principles/explicit-instruction.md)
 
 ## Related Elements
-- [[elements/fading|Fading]]
-- [[elements/conceptual-scaffolding|Conceptual Scaffolding]]
-- [[elements/guided-practice|Guided Practice]]
+- [Fading](/elements/fading.md)
+- [Conceptual Scaffolding](/elements/conceptual-scaffolding.md)
+- [Guided Practice](/elements/guided-practice.md)
 
 ## Patterns That Use This Element
-- [[patterns/merrills-first-principles|Merrill's First Principles]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Merrill's First Principles](/patterns/merrills-first-principles.md)
+- [Mastery Learning](/patterns/mastery-learning.md)
 
 ## Examples
 - Moving from teacher model to joint work to independent problem solving.

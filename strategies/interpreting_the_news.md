@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Interpreting the News
+description: Learners pick a current news item and explore it from different points of view, examining whether the news is reported objectively and what other interpretations might exist.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Interpreting the News
@@ -35,10 +39,10 @@ Learners pick a current news item and explore it from different points of view, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/research|Research]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Research](/elements/research.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Assigned Readings](/elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Assess the depth of analysis, the ability to identify bias and assumptions, and the level of critical thinking demonstrated in the analysis. Monitor changes in learners' attitudes towards media and current affairs.

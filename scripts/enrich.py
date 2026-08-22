@@ -49,6 +49,9 @@ from datetime import date
 from pathlib import Path
 from typing import Optional
 
+sys.path.insert(0, str(Path(__file__).parent))
+import okf_lib as ok
+
 # ── Paths ─────────────────────────────────────────────────────────────────────
 
 WIKI_ROOT   = Path(__file__).parent.parent
@@ -140,26 +143,22 @@ def read_csv_lookup(csv_path: Path, name_col: str) -> dict[str, dict]:
 
 
 def write_enriched_page(path: Path, content: str) -> None:
-    """Write enriched content; ensure status/last_edited/edited_by are set."""
-    # Normalise frontmatter fields
+    """Write enriched content; ensure status/generated are set (OKF style)."""
     content = re.sub(r"^status:\s*.+$", "status: review", content, flags=re.MULTILINE)
-    content = re.sub(r"^last_edited:\s*.+$", f"last_edited: {TODAY}", content, flags=re.MULTILINE)
-    # Insert or update edited_by
-    if "edited_by:" in content:
-        content = re.sub(r"^edited_by:\s*.+$", "edited_by: Claude", content, flags=re.MULTILINE)
+    generated_block = f'generated:\n  by: "claude/unspecified"\n  at: {TODAY}'
+    if re.search(r"^generated:\s*\n\s+by:.*\n\s+at:.*$", content, re.MULTILINE):
+        content = re.sub(r"^generated:\s*\n\s+by:.*\n\s+at:.*$", generated_block, content, flags=re.MULTILINE)
     else:
-        content = content.replace(f"last_edited: {TODAY}",
-                                  f"last_edited: {TODAY}\nedited_by: Claude")
+        content = re.sub(r"^(status:\s*.+)$", r"\1\n" + generated_block, content, count=1, flags=re.MULTILINE)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding="utf-8")
 
 
-def append_log(entries: list[tuple[str, str]]) -> None:
-    """Append enrichment entries to log.md."""
-    log_path = WIKI_ROOT / "log.md"
-    with open(log_path, "a", encoding="utf-8") as f:
-        for page_type, name in entries:
-            f.write(f"\n## [{TODAY}] enrich | {name} | enriched from {page_type} CSV via Claude\n")
+def append_log(entries: list) -> None:
+    """Append enrichment entries to log.md, OKF date-grouped style."""
+    bullets = [f"* **Enrich**: {name} — enriched from {page_type} CSV via Claude" for page_type, name in entries]
+    if bullets:
+        ok.append_log_entries(bullets)
 
 
 # ── Prompt builders ───────────────────────────────────────────────────────────
@@ -167,9 +166,12 @@ def append_log(entries: list[tuple[str, str]]) -> None:
 PRINCIPLE_TEMPLATE = """\
 ---
 type: principle
+title: [Principle Name]
+description: [One-line summary of the recommendation]
 status: review
-last_edited: {TODAY}
-edited_by: Claude
+generated:
+  by: "claude/unspecified"
+  at: {TODAY}
 ---
 
 # [Principle Name]
@@ -196,20 +198,20 @@ edited_by: Claude
 
 ### Theory
 #### Supporting
-- [[theories/slug|Theory Name]] — brief explanation of the connection
+- [Theory Name](/theories/slug.md) — brief explanation of the connection
 #### Contradicting / Qualifying
 - [or leave as "- None identified"]
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
+<!-- Link claims with evidence tags: [Claim](/claims/claim-slug.md) [+M] -->
 - <!-- TODO: add claim links when evidence pages exist -->
 
 ## Related Principles
-- [[principles/slug|Related Principle Name]]
+- [Related Principle Name](/principles/slug.md)
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [[elements/slug|Element Name]] or [[patterns/slug|Pattern Name]] — brief note on how it applies
+- [Element Name](/elements/slug.md) or [Pattern Name](/patterns/slug.md) — brief note on how it applies
 
 ## Key Sources
 - [APA citation with DOI link if available]
@@ -218,9 +220,12 @@ edited_by: Claude
 ELEMENT_TEMPLATE = """\
 ---
 type: element
+title: [Element Name]
+description: [One-line summary of what this element is]
 status: review
-last_edited: {TODAY}
-edited_by: Claude
+generated:
+  by: "claude/unspecified"
+  at: {TODAY}
 ---
 
 # [Element Name]
@@ -240,19 +245,19 @@ edited_by: Claude
 - [conditions where this element is less effective]
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims: [Claim](/claims/claim-slug.md) -->
 - [who benefits most]
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims: [Claim](/claims/claim-slug.md) -->
 - [types of objectives this element serves]
 
 ### Affordances
-<!-- Links to principles applied: [[principles/principle-slug]] -->
-- [[principles/slug|Principle Name]] — [how this element enacts that principle]
+<!-- Links to principles applied: [Principle](/principles/principle-slug.md) -->
+- [Principle Name](/principles/slug.md) — [how this element enacts that principle]
 
 ## Related Elements
-- [[elements/slug|Related Element]]
+- [Related Element](/elements/slug.md)
 
 ## Examples
 <!-- Links to strategies that use this element -->
@@ -265,9 +270,12 @@ edited_by: Claude
 PATTERN_TEMPLATE = """\
 ---
 type: pattern
+title: [Pattern Name]
+description: [One-line summary of what this pattern is]
 status: review
-last_edited: {TODAY}
-edited_by: Claude
+generated:
+  by: "claude/unspecified"
+  at: {TODAY}
 author: {author}
 grain_size: {grain_size}
 ---
@@ -301,7 +309,7 @@ grain_size: {grain_size}
 
 ### Theory
 #### Supporting
-- [[theories/slug|Theory Name]] — brief explanation
+- [Theory Name](/theories/slug.md) — brief explanation
 #### Contradicting / Qualifying
 - [or "- None identified"]
 
@@ -315,17 +323,17 @@ grain_size: {grain_size}
 
 ### Sequence
 <!-- Steps with links to elements -->
-1. [Step] — [[elements/slug|Element Name]]
+1. [Step] — [Element Name](/elements/slug.md)
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/slug|Principle Name]] — [how the pattern applies this principle]
+- [Principle Name](/principles/slug.md) — [how the pattern applies this principle]
 
 ### Personalization
 - [how to adapt for different learners]
 
 ## Related Patterns
-- [[patterns/slug|Related Pattern]]
+- [Related Pattern](/patterns/slug.md)
 
 ## Examples
 - [Concrete example with context]
@@ -337,9 +345,12 @@ grain_size: {grain_size}
 STRATEGY_TEMPLATE = """\
 ---
 type: strategy
+title: [Strategy Name]
+description: [One-line summary of what this strategy is]
 status: review
-last_edited: {TODAY}
-edited_by: Claude
+generated:
+  by: "claude/unspecified"
+  at: {TODAY}
 ---
 
 # [Strategy Name]
@@ -362,18 +373,18 @@ edited_by: Claude
 - [variations or adaptations]
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims: [Claim](/claims/claim-slug.md) -->
 - [who benefits most]
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims: [Claim](/claims/claim-slug.md) -->
 - [types of objectives served]
 
 ### Instructions
-1. [Step with links to elements: [[elements/slug|Element]]]
+1. [Step with links to elements: [Element](/elements/slug.md)]
 
 ## Related Strategies
-- [[strategies/slug|Related Strategy]]
+- [Related Strategy](/strategies/slug.md)
 
 ## Examples
 - [Concrete example in a real context]
@@ -412,13 +423,13 @@ page's topic:
 **Direction rule:** Claims in a Constraints section MUST use [-] or [~], never [+].
 A constraint describes a condition where the approach fails — the tag must reflect that direction.
 
-Always link to a claim page when one exists: [[claims/slug]] [+M]
+Always link to a claim page when one exists: [Display Name](/claims/slug.md) [+M]
 
 ## Rules
 
 1. Match the exemplar exactly in density, structure, and voice.
 2. Follow the template structure — same headings, same order.
-3. Wikilinks: [[folder/slug|Display Name]]
+3. Cross-links: standard markdown links in the OKF bundle-relative form [Display Name](/folder/slug.md)
    IMPORTANT: Only use slugs that appear verbatim in the provided slug list.
    Never invent or guess a slug. Write plain text if a page doesn't exist yet.
 4. Embed claim tags inline in prose — in Description, Implications, Constraints, Target Learners — not only
@@ -775,27 +786,34 @@ def call_gemini_flex(client, model: str, system_prompt: str, user_prompt: str) -
 
 # ── Missing page creation ─────────────────────────────────────────────────────
 
+def _stub(page_type: str, extra: str = "") -> str:
+    return (
+        f"---\ntype: {page_type}\ntitle: {{name}}\nstatus: draft\n"
+        f"generated:\n  by: \"process:wiki-ingest\"\n  at: {{today}}\n{extra}---\n\n# {{name}}\n"
+    )
+
+
 STUB_TEMPLATES = {
-    "elements":   "---\ntype: element\nstatus: draft\nlast_edited: {today}\n---\n\n# {name}\n",
-    "principles": "---\ntype: principle\nstatus: draft\nlast_edited: {today}\n---\n\n# {name}\n",
-    "patterns":   "---\ntype: pattern\nstatus: draft\nlast_edited: {today}\n---\n\n# {name}\n",
-    "strategies": "---\ntype: strategy\nstatus: draft\nlast_edited: {today}\n---\n\n# {name}\n",
-    "theories":   "---\ntype: theory\nstatus: draft\nlast_edited: {today}\n---\n\n# {name}\n",
-    "claims":     "---\ntype: claim\nid: \nstatus: draft\nlast_edited: {today}\nevidence_strength:\n---\n\n# {name}\n",
+    "elements":   _stub("element"),
+    "principles": _stub("principle"),
+    "patterns":   _stub("pattern"),
+    "strategies": _stub("strategy"),
+    "theories":   _stub("theory"),
+    "claims":     _stub("claim", extra="id: \nevidence_strength:\n"),
 }
 
 STUB_FOLDERS = set(STUB_TEMPLATES.keys())
 
 
 def parse_wikilinks(content: str) -> list[tuple[str, str]]:
-    """Return [(folder, slug), ...] for all [[folder/slug]] links in content."""
-    pattern = re.compile(r'\[\[([a-z]+)/([a-z0-9_-]+)(?:\|[^\]]+)?\]\]')
+    """Return [(folder, slug), ...] for all OKF markdown links (/folder/slug.md) in content."""
+    pattern = re.compile(r'\]\(/([a-z]+)/([a-z0-9_-]+)\.md\)')
     return [(m.group(1), m.group(2)) for m in pattern.finditer(content)]
 
 
 def create_missing_stubs(content: str) -> list[str]:
     """
-    Scan content for [[folder/slug]] wikilinks. For any that don't have a
+    Scan content for /folder/slug.md links. For any that don't have a
     corresponding file, create a minimal draft stub. Returns list of created paths.
     """
     created = []

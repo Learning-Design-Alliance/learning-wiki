@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multimodal Composition
+description: Multimodal composition involves creating texts using various modes of communication such as images, words, sound, and movement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multimodal Composition
@@ -35,9 +39,9 @@ Multimodal composition involves creating texts using various modes of communicat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-task-performance|Whole-task performance]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Whole-task performance](/elements/whole-task-performance.md)
+- [Application](/elements/application.md)
+- [Integration](/elements/integration.md)
 
 ## Assessment Evidence
 - Assess the effective use of multiple modes, clarity of communication, technical skill, and overall impact of the composition.

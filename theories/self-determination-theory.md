@@ -1,8 +1,16 @@
 ---
 type: theory
+title: Self-Determination Theory
+description: Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: deci-2000
+    resource: "https://doi.org/10.1207/S15327965PLI1104_01"
+    title: "Deci, E. L., & Ryan, R. M. (2000). The \"what\" and \"why\" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268"
+    author: "Deci, E. L., & Ryan, R. M"
 ---
 
 # Self-Determination Theory
@@ -31,17 +39,17 @@ In instructional design, SDT is most often used to explain why some environments
 - Stronger sense of belonging and participation
 
 ## Claims
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
 
 ## Related Theories
-- [[theories/self-regulated-learning]] — SDT helps explain why learners may or may not take up the self-regulatory behaviors SRL describes
+- [Self-Regulated Learning](/theories/self-regulated-learning.md) — SDT helps explain why learners may or may not take up the self-regulatory behaviors SRL describes
 
 ## Examples
-- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]]
-- [[principles/learner-choice|Learner Choice]]
-- [[principles/strengths-based-approach|Strengths-based Approach]]
-- [[principles/game-based-learning|Game-Based Learning]]
+- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
+- [Learner Choice](/principles/learner-choice.md)
+- [Strengths-based Approach](/principles/strengths-based-approach.md)
+- [Game-Based Learning](/principles/game-based-learning.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

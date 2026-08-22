@@ -1,8 +1,16 @@
 ---
 type: element
+title: Self-Testing
+description: Self-testing is the element in which learners quiz themselves or otherwise attempt to retrieve knowledge without immediate external prompting.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: roediger-2006
+    resource: "https://doi.org/10.1111/j.1467-9280.2006.01693.x"
+    title: "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. *Psychological Science, 17*(3), 249-255"
+    author: "Roediger, H. L., & Karpicke, J. D"
 ---
 
 # Self-Testing
@@ -23,17 +31,17 @@ Self-testing is the element in which learners quiz themselves or otherwise attem
 - Improve retention and support self-monitoring of knowledge.
 
 ### Affordances
-- [[principles/retrieval-practice|Retrieval Practice]]
-- [[principles/self-regulation|Self-Regulation]]
+- [Retrieval Practice](/principles/retrieval-practice.md)
+- [Self-Regulation](/principles/self-regulation.md)
 
 ## Related Elements
-- [[elements/retrieval-practice|Retrieval Practice]]
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/self-assessment|Self-Assessment]]
+- [Retrieval Practice](/elements/retrieval-practice.md)
+- [Formative Assessment](/elements/formative-assessment.md)
+- [Self-Assessment](/elements/self-assessment.md)
 
 ## Patterns That Use This Element
-- [[patterns/flipped-learning|Flipped Learning]]
-- [[patterns/traditional-lecture-based-instruction|Traditional Lecture-Based Instruction]]
+- [Flipped Learning](/patterns/flipped-learning.md)
+- [Traditional Lecture-Based Instruction](/patterns/traditional-lecture-based-instruction.md)
 
 ## Examples
 - Learners answer quick checks on their own before class discussion or review.

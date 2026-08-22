@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Circle Count
+description: Stand in a circle and try to count off as quickly as possible all the way around the circle.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Circle Count
@@ -35,9 +39,9 @@ Stand in a circle and try to count off as quickly as possible all the way around
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/collaboration|Collaboration]]
+- [Practice](/elements/practice.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Collaboration](/elements/collaboration.md)
 
 ## Assessment Evidence
 - Assess students' accuracy and speed in counting. Observe their ability to work seamlessly as a team.

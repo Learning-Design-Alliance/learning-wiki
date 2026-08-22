@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Presentation of Collaborative Work
+description: After completing a collaborative problem-solving task, groups project their work and present their final responses to the class.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Presentation of Collaborative Work
@@ -35,8 +39,8 @@ After completing a collaborative problem-solving task, groups project their work
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/practice|Practice]]
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Observe presentations and assess the clarity and accuracy of explanations, evaluate student reflections on their problem-solving process, track student participation and engagement

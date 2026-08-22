@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Calming Sensory Input
+description: Providing access to calming sensory input through various means, such as tactile bins filled with sand, rice, or beans for tactile stimulation; weighted blankets or stuffed animals for deep pressure; and chewy pendants or snacks for oral…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Calming Sensory Input
@@ -35,7 +39,7 @@ Providing access to calming sensory input through various means, such as tactile
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](/elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation in sensory activities. Collect feedback from learners on the effectiveness of different sensory tools and activities. Track changes in learners' behavior, attention, and emotional regulation.

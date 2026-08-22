@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotion Reflection Through Journaling
+description: Learners reflect on experiences, tracking patterns in their emotions and behaviors to enhance self-understanding and goal-setting.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotion Reflection Through Journaling
@@ -35,9 +39,9 @@ Learners reflect on experiences, tracking patterns in their emotions and behavio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide Guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
 
 ## Assessment Evidence
 - Track the depth and consistency of journal entries. Monitor the learner's ability to identify patterns in their emotions and behaviors. Assess the clarity and achievability of learner-set goals.

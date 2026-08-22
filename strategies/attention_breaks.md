@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Attention Breaks
+description: Practice attentive behavior during non-crucial times during the school day.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Attention Breaks
@@ -35,8 +39,8 @@ Practice attentive behavior during non-crucial times during the school day. At p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the frequency of self-marked attention lapses. Monitor the improvement of attentive behavior over time. Collect feedback from learners on their self-awareness.

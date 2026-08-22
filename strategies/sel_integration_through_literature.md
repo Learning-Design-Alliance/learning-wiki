@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: SEL Integration through Literature
+description: Integrating social and emotional learning (SEL) into language arts curricula involves using literature to explore emotions, build community, handle conflict, and counter bias.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # SEL Integration through Literature
@@ -35,9 +39,9 @@ Integrating social and emotional learning (SEL) into language arts curricula inv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Discussion Sections](/elements/discussion-sections.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions, analyze written reflections, and assess understanding of character motivations and themes.

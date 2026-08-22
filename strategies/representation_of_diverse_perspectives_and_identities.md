@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Representation of Diverse Perspectives and Identities
+description: Incorporating multiple and varying perspectives within learning content to honor and value diverse approaches to learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Representation of Diverse Perspectives and Identities
@@ -35,11 +39,11 @@ Incorporating multiple and varying perspectives within learning content to honor
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Direct instruction](/elements/direct-instruction.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Enhance retention and transfer](/elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Monitor learner engagement with diverse content. Gather feedback on the effectiveness of diverse perspectives in promoting understanding. Assess learner understanding of different cultural contexts.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Racial Equity in PBL - Build Community Through Peer Feedback
+description: When students are given the opportunity during projects to frequently share feedback and revise their work, it creates moments to witness growth and progress.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Racial Equity in PBL - Build Community Through Peer Feedback
@@ -35,9 +39,9 @@ When students are given the opportunity during projects to frequently share feed
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/feedback|Feedback]]
-- [[elements/revision|Revision]]
+- [Peer Interaction](/elements/peer-interaction.md)
+- [Feedback](/elements/feedback.md)
+- [Revision](/elements/revision.md)
 
 ## Assessment Evidence
 - Quality of feedback provided, demonstration of growth and progress, improved relationships and connections.

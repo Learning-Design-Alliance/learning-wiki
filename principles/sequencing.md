@@ -1,8 +1,11 @@
 ---
 type: principle
+title: Sequencing
+description: Sequencing is the principle of arranging instructional content, tasks, or supports in an order that helps learners build understanding progressively.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Sequencing
@@ -11,7 +14,7 @@ edited_by: Codex
 Sequencing is the principle of arranging instructional content, tasks, or supports in an order that helps learners build understanding progressively. It is useful when learning depends on the order in which complexity, support, and ideas are introduced.
 
 ## Implications
-Sequencing matters because the same content can feel coherent or overwhelming depending on the order in which learners meet it. [[claims/chunking-reduces-working-memory-load]] supports breaking material into meaningful units so early encounters do not overload working memory, and [[claims/part-task-practice-reduces-load-for-novices]] suggests that staged complexity can help novices before full-task integration. The implication for design is to order instruction around dependency and readiness rather than convenience, then revisit or reorder supports as learners become more capable.
+Sequencing matters because the same content can feel coherent or overwhelming depending on the order in which learners meet it. [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) supports breaking material into meaningful units so early encounters do not overload working memory, and [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) suggests that staged complexity can help novices before full-task integration. The implication for design is to order instruction around dependency and readiness rather than convenience, then revisit or reorder supports as learners become more capable.
 
 ### Context
 #### Requirements
@@ -25,16 +28,16 @@ Sequencing matters because the same content can feel coherent or overwhelming de
 
 ### Theory
 #### Supporting
-- [[principles/scaffolding|Scaffolding]]
-- [[principles/cognitive-load-management|Cognitive Load Management]]
+- [Scaffolding](/principles/scaffolding.md)
+- [Cognitive Load Management](/principles/cognitive-load-management.md)
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [+S] — Grouping information into meaningful units reduces working-memory strain and makes progressive ordering more manageable.
-- [[claims/part-task-practice-reduces-load-for-novices]] [~S] — Practicing components before full-task performance can reduce overload for novices when tasks are highly complex.
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](/claims/chunking-reduces-working-memory-load.md) [+S] — Grouping information into meaningful units reduces working-memory strain and makes progressive ordering more manageable.
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~S] — Practicing components before full-task performance can reduce overload for novices when tasks are highly complex.
 
 ## Related Principles
-- [[principles/holistic-learning|Holistic Learning]]
-- [[principles/mastery-learning|Mastery Learning]]
+- [Holistic Learning](/principles/holistic-learning.md)
+- [Mastery Learning](/principles/mastery-learning.md)
 
 ## Examples
 - A statistics unit starts with interpreting distributions, then moves to sampling, and only later introduces inference once learners can reason about variation.

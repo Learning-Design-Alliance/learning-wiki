@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Data-Based Decision-Making for Core Instruction
+description: Teachers can use data to guide instructional decisions in Tier 1 settings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Data-Based Decision-Making for Core Instruction
@@ -35,8 +39,8 @@ Teachers can use data to guide instructional decisions in Tier 1 settings.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Assess performance](/elements/assess-performance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student performance data

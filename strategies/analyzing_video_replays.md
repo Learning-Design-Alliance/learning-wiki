@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Analyzing Video Replays
+description: "Video replay analysis involves reviewing short video clips, replays of key segments, or recordings of one's performance to enhance metacognition, improve long-term memory, and cultivate a learner mindset."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Analyzing Video Replays
@@ -35,11 +39,11 @@ Video replay analysis involves reviewing short video clips, replays of key segme
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide feedback](/elements/provide-feedback.md)
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Improved self-awareness and ability to identify areas for improvement, enhanced performance based on video analysis, increased metacognitive skills.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Puppet Shows to Explore Emotions
+description: Puppet shows can be used to act out different scenarios and explore the emotions of the characters involved.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Puppet Shows to Explore Emotions
@@ -35,9 +39,9 @@ Puppet shows can be used to act out different scenarios and explore the emotions
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
+- [Demonstration](/elements/demonstration.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' participation and engagement in the puppet show and discussion. Assess their ability to identify and discuss the emotions displayed.

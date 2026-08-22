@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: "Gagne's 9 Events of Instruction"
+description: "Gagne's 9 Events of Instruction is a structured lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: Robert Gagne
 grain_size: lesson
 ---
@@ -51,11 +54,11 @@ Its strength is coherence: each event sets up the next. Its limitation is rigidi
 
 ### Claims
 #### Supporting
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [[claims/whole-task-performance-improves-transfer]] [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [~S]
 
 ## Design
 
@@ -71,16 +74,16 @@ Its strength is coherence: each event sets up the next. Its limitation is rigidi
 9. Enhance retention and transfer.
 
 ### Elements Used
-- [[elements/activation|Activation]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assessment|Assessment]]
+- [Activation](/elements/activation.md)
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
+- [Assessment](/elements/assessment.md)
 
 ### Affordances
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/immediate-feedback|Immediate Feedback]]
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/multiple-methods-of-assessment|Multiple Methods of Assessment]]
+- [Guided Practice](/principles/guided-practice.md)
+- [Immediate Feedback](/principles/immediate-feedback.md)
+- [Formative Assessment](/principles/formative-assessment.md)
+- [Multiple Methods of Assessment](/principles/multiple-methods-of-assessment.md)
 
 ### Personalization
 - Individual events can be emphasized differently depending on learner readiness.
@@ -88,8 +91,8 @@ Its strength is coherence: each event sets up the next. Its limitation is rigidi
 - Instructors can shorten or merge events when the lesson does not require full elaboration.
 
 ## Related Patterns
-- [[patterns/develop-understanding|Develop Understanding]]
-- [[patterns/merrills-first-principles-of-instruction|Merrill's First Principles of Instruction]]
+- [Develop Understanding](/patterns/develop-understanding.md)
+- [Merrill's First Principles of Instruction](/patterns/merrills-first-principles-of-instruction.md)
 
 ## Examples
 - A short online lesson that activates prior knowledge, teaches a new concept, and checks application with feedback.

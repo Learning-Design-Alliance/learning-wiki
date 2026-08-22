@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Lateral Reading
+description: Lateral reading is a digital literacy strategy that involves evaluating the trustworthiness of online information by leaving the original site and consulting other digital sources to see what they say about it.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Lateral Reading
@@ -35,9 +39,9 @@ Lateral reading is a digital literacy strategy that involves evaluating the trus
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/research|Research]]
-- [[elements/resource-evaluation|Resource Evaluation]]
+- [Case Study](/elements/case-study.md)
+- [Research](/elements/research.md)
+- [Resource Evaluation](/elements/resource-evaluation.md)
 
 ## Assessment Evidence
 - Track the types of sources consulted and the criteria used for evaluation. Compare learners' assessments of source credibility before and after lateral reading. Analyze the quality of arguments and evidence used to support conclusions.

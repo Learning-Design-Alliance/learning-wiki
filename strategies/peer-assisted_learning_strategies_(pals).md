@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Peer-Assisted Learning Strategies (PALS)
+description: PALS is a structured peer tutoring approach that involves pairing learners to work together on academic activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Peer-Assisted Learning Strategies (PALS)
@@ -35,10 +39,10 @@ PALS is a structured peer tutoring approach that involves pairing learners to wo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/modeling|Modeling]]
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
+- [Peer Teaching](/elements/peer-teaching.md)
+- [Modeling](/elements/modeling.md)
 
 ## Assessment Evidence
 - Reading fluency (words correct per minute), comprehension scores, quality of summaries and retellings, observation of learner interactions, and feedback from learners on their experience with PALS.

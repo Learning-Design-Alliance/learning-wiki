@@ -1,8 +1,11 @@
 ---
 type: principle
+title: Cognitive Apprenticeship
+description: Cognitive apprenticeship is the principle of making expert thinking visible through modeling, coaching, scaffolding, and gradual participation in authentic tasks.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Cognitive Apprenticeship
@@ -12,7 +15,7 @@ Cognitive apprenticeship is the principle of making expert thinking visible thro
 
 ## Implications
 
-Cognitive apprenticeship is most valuable where the important knowledge is embedded in judgment, interpretation, and process rather than in declarative rules alone. It treats learning as guided entry into expert practice, and visible models are especially valuable early because they reduce unproductive search for novices [[claims/worked-examples-reduce-novice-search]] [+M]. The instructor does not merely explain content; they model thinking, coach performance, calibrate support, and then fade assistance as learners become more capable [[claims/contingent-scaffolding-improves-learning]] [+M] [[claims/worked-examples-less-effective-with-expertise]] [~M]. The principle is especially strong for writing, diagnosis, inquiry, design, and other domains where expertise is partly tacit and situated.
+Cognitive apprenticeship is most valuable where the important knowledge is embedded in judgment, interpretation, and process rather than in declarative rules alone. It treats learning as guided entry into expert practice, and visible models are especially valuable early because they reduce unproductive search for novices [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md) [+M]. The instructor does not merely explain content; they model thinking, coach performance, calibrate support, and then fade assistance as learners become more capable [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] [Worked-example guidance becomes less effective as learner expertise increases.](/claims/worked-examples-less-effective-with-expertise.md) [~M]. The principle is especially strong for writing, diagnosis, inquiry, design, and other domains where expertise is partly tacit and situated.
 
 ### Context
 #### Requirements
@@ -35,31 +38,31 @@ Cognitive apprenticeship is most valuable where the important knowledge is embed
 
 ### Theory
 #### Supporting
-- [[theories/situated-learning|Situated Learning]] — learning is shaped by participation in authentic practices and communities
-- [[principles/scaffolding|Scaffolding]] — calibrated support is one of the core mechanisms that lets learners do work they cannot yet do alone
-- [[theories/cognitive-load-theory|Cognitive Load Theory]] — modeling and fading can reduce the burden of unguided search during early acquisition
+- [Situated Learning](/theories/situated-learning.md) — learning is shaped by participation in authentic practices and communities
+- [Scaffolding](/principles/scaffolding.md) — calibrated support is one of the core mechanisms that lets learners do work they cannot yet do alone
+- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — modeling and fading can reduce the burden of unguided search during early acquisition
 
 #### Contradicting / Qualifying
-- [[theories/constructivism|Constructivism]] — generally compatible, but qualifies that apprenticeship should still preserve learner sensemaking rather than collapse into imitation alone
+- [Constructivism](/theories/constructivism.md) — generally compatible, but qualifies that apprenticeship should still preserve learner sensemaking rather than collapse into imitation alone
 
 ### Claims
-- [[claims/worked-examples-reduce-novice-search]] [+M] — visible models reduce unproductive search for novices during early learning
-- [[claims/contingent-scaffolding-improves-learning]] [+M] — support is strongest when it adapts to learner performance rather than staying fixed
-- [[claims/worked-examples-less-effective-with-expertise]] [~M] — expert guidance should be faded as learners develop stronger schemas and greater independence
+- [Worked examples reduce unnecessary search for novices.](/claims/worked-examples-reduce-novice-search.md) [+M] — visible models reduce unproductive search for novices during early learning
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [+M] — support is strongest when it adapts to learner performance rather than staying fixed
+- [Worked-example guidance becomes less effective as learner expertise increases.](/claims/worked-examples-less-effective-with-expertise.md) [~M] — expert guidance should be faded as learners develop stronger schemas and greater independence
 
 ## Related Principles
-- [[principles/observationshadowing|Observation/Shadowing]] — observation often provides the first exposure to expert practice before coached participation
-- [[principles/modeling|Modeling]] — cognitive apprenticeship extends modeling into a fuller cycle of coached performance
-- [[principles/scaffolding|Scaffolding]] — explains how support is calibrated and gradually removed
+- [Observation/Shadowing](/principles/observationshadowing.md) — observation often provides the first exposure to expert practice before coached participation
+- [Modeling](/principles/modeling.md) — cognitive apprenticeship extends modeling into a fuller cycle of coached performance
+- [Scaffolding](/principles/scaffolding.md) — explains how support is calibrated and gradually removed
 
 ## Related Patterns
-- [[patterns/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)
 
 ## Examples
 
 ### Illustrative
 
-**[[patterns/cognitive-apprenticeship|Cognitive Apprenticeship]]** — A full instructional pattern in which expert modeling, coaching, articulation, and fading are sequenced over time.
+**[Cognitive Apprenticeship](/patterns/cognitive-apprenticeship.md)** — A full instructional pattern in which expert modeling, coaching, articulation, and fading are sequenced over time.
 
 **Clinical rounds and supervised diagnosis** — Learners observe diagnostic reasoning, attempt their own interpretations, receive targeted coaching, and gradually assume more of the reasoning burden.
 

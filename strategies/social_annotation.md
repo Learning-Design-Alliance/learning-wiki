@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Social Annotation
+description: Social annotation is a collaborative method where learners add notes, comments, and multimedia to texts, images, and other digital content, fostering conversation and deeper understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Social Annotation
@@ -35,9 +39,9 @@ Social annotation is a collaborative method where learners add notes, comments, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Collaborative Learning](/elements/collaborative-learning.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Evaluate the quality and depth of annotations to determine comprehension and critical thinking. Monitor the level of peer interaction and the diversity of perspectives shared. Assess the ability to integrate multimedia elements effectively.

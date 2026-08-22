@@ -1,8 +1,16 @@
 ---
 type: principle
+title: Social Constructivism
+description: Social constructivism is the principle that learners build understanding through interaction with other people, language, and shared activity.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: palincsar-1998
+    resource: "https://doi.org/10.1146/annurev.psych.49.1.345"
+    title: "Palincsar, A. S. (1998). Social constructivist perspectives on teaching and learning. *Annual Review of Psychology, 49*, 345-375"
+    author: Palincsar, A. S
 ---
 
 # Social Constructivism
@@ -12,7 +20,7 @@ Social constructivism is the principle that learners build understanding through
 
 ## Implications
 
-Social constructivism is strongest when learning depends on language, comparison, negotiation, and jointly mediated activity rather than solitary reception alone. The principle does not claim that every group activity produces understanding. It claims that meaning is often co-constructed through dialogue and participation, especially when learners are asked to explain, respond, and revise in relation to others, which aligns with [[claims/self-explanation-improves-conceptual-understanding]]. The main design challenge is to create interaction that actually changes thinking, not simply proximity, participation, or division of labor. [[claims/contingent-scaffolding-improves-learning]] also qualifies that discussion becomes more instructional when teachers or peers can respond adaptively, and [[claims/self-monitoring-improves-self-regulation]] supports routines that help groups monitor the quality of their shared reasoning.
+Social constructivism is strongest when learning depends on language, comparison, negotiation, and jointly mediated activity rather than solitary reception alone. The principle does not claim that every group activity produces understanding. It claims that meaning is often co-constructed through dialogue and participation, especially when learners are asked to explain, respond, and revise in relation to others, which aligns with [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md). The main design challenge is to create interaction that actually changes thinking, not simply proximity, participation, or division of labor. [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) also qualifies that discussion becomes more instructional when teachers or peers can respond adaptively, and [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) supports routines that help groups monitor the quality of their shared reasoning.
 
 ### Context
 #### Requirements
@@ -36,30 +44,30 @@ Social constructivism is strongest when learning depends on language, comparison
 
 ### Theory
 #### Supporting
-- [[theories/constructivism|Constructivism]] — social constructivism extends meaning-making into shared activity and mediated interaction
-- [[theories/situated-learning|Situated Learning]] — understanding often develops through participation in social practice
-- [[principles/community-of-inquiry|Community of Inquiry]] — gives a concrete model for how collaborative discourse can sustain learning
+- [Constructivism](/theories/constructivism.md) — social constructivism extends meaning-making into shared activity and mediated interaction
+- [Situated Learning](/theories/situated-learning.md) — understanding often develops through participation in social practice
+- [Community of Inquiry](/principles/community-of-inquiry.md) — gives a concrete model for how collaborative discourse can sustain learning
 
 #### Contradicting / Qualifying
-- [[theories/cognitive-load-theory|Cognitive Load Theory]] — collaborative meaning-making can still fail when task demands and discussion structures overload learners
+- [Cognitive Load Theory](/theories/cognitive-load-theory.md) — collaborative meaning-making can still fail when task demands and discussion structures overload learners
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — articulation and explanation are central mechanisms in social constructivist learning
-- [[claims/contingent-scaffolding-improves-learning]] [~M] — interaction is strongest when teachers or peers can respond adaptively rather than leaving sensemaking entirely unsupported
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — co-constructed learning improves when learners monitor the quality and direction of their discussion and shared work
+- [Self-explanation improves conceptual understanding and problem-solving performance.](/claims/self-explanation-improves-conceptual-understanding.md) [+S] — articulation and explanation are central mechanisms in social constructivist learning
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M] — interaction is strongest when teachers or peers can respond adaptively rather than leaving sensemaking entirely unsupported
+- [Self-monitoring improves self-regulation and supports better learning decisions.](/claims/self-monitoring-improves-self-regulation.md) [~M] — co-constructed learning improves when learners monitor the quality and direction of their discussion and shared work
 
 ## Related Principles
-- [[principles/social-learning|Social Learning]] — the broader principle that learning can happen through interaction with others
-- [[principles/peer-discussion|Peer Discussion]] — one of the clearest operational forms of social constructivist learning
-- [[principles/collaborative-learning|Collaborative Learning]] — social constructivism helps explain why collaboration can improve understanding
+- [Social Learning](/principles/social-learning.md) — the broader principle that learning can happen through interaction with others
+- [Peer Discussion](/principles/peer-discussion.md) — one of the clearest operational forms of social constructivist learning
+- [Collaborative Learning](/principles/collaborative-learning.md) — social constructivism helps explain why collaboration can improve understanding
 
 ## Examples
 
 ### Illustrative
 
-**[[patterns/discussion-group|Discussion Group]]** — Learners build understanding through structured exchange around a shared prompt, text, or problem.
+**[Discussion Group](/patterns/discussion-group.md)** — Learners build understanding through structured exchange around a shared prompt, text, or problem.
 
-**[[patterns/collaborative-inquiry|Collaborative Inquiry]]** — Groups investigate a question together and co-construct an explanation from evidence.
+**[Collaborative Inquiry](/patterns/collaborative-inquiry.md)** — Groups investigate a question together and co-construct an explanation from evidence.
 
 **Seminar dialogue with instructor facilitation** — Learners interpret a concept or case publicly, respond to one another, and revise ideas through guided discourse.
 

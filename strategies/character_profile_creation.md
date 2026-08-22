@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Character Profile Creation
+description: Students create character profiles to help them form a deeper understanding of a book’s characters.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Character Profile Creation
@@ -35,9 +39,9 @@ Students create character profiles to help them form a deeper understanding of a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Demonstration](/elements/demonstration.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Review student-created character profiles to assess their understanding of characters. Monitor the depth and quality of student reflections.

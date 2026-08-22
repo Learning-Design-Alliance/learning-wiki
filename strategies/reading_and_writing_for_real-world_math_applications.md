@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reading and Writing for Real-World Math Applications
+description: Learners select and summarize published articles that highlight the ways math is present in different facets of the real world.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reading and Writing for Real-World Math Applications
@@ -35,10 +39,10 @@ Learners select and summarize published articles that highlight the ways math is
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/research|Research]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
-- [[elements/demonstration|Demonstration]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Research](/elements/research.md)
+- [Summarization and Synthesis](/elements/summarization-and-synthesis.md)
+- [Demonstration](/elements/demonstration.md)
 
 ## Assessment Evidence
 - Assess content understanding, clarity of communication, editing, critical thinking, initiative, and creativity.

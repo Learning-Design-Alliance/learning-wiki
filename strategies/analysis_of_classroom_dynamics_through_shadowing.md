@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Analysis of Classroom Dynamics Through Shadowing
+description: This strategy involves a teacher or coach shadowing students to analyze classroom dynamics and student experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Analysis of Classroom Dynamics Through Shadowing
@@ -35,11 +39,11 @@ This strategy involves a teacher or coach shadowing students to analyze classroo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Observation/Shadowing](/elements/observationshadowing.md)
+- [Individual Reflection](/elements/individual-reflection.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Detailed observation notes, reflections on teaching practices, and changes in classroom activities and student engagement.

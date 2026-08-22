@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Rich Library: Audio & Braille"
+description: Using audiobooks and Braille texts to reinforce and inspire literacy skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rich Library: Audio & Braille
@@ -35,10 +39,10 @@ Using audiobooks and Braille texts to reinforce and inspire literacy skills. Thi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Provide guidance](/elements/provide-guidance.md)
+- [Practice](/elements/practice.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor student engagement with audiobooks, assess comprehension through quizzes and discussions, and evaluate improvements in literacy skills over time.

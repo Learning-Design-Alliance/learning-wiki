@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connect Prior Knowledge to New Learning
+description: Building connections to prior understandings and experiences helps learners integrate new information into their existing knowledge base.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connect Prior Knowledge to New Learning
@@ -35,8 +39,8 @@ Building connections to prior understandings and experiences helps learners inte
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/analogies-and-prior-knowledge-activation|Analogies and prior knowledge activation]]
+- [Activation](/elements/activation.md)
+- [Analogies and prior knowledge activation](/elements/analogies-and-prior-knowledge-activation.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of key concepts through discussions or written assignments. Track improvements in comprehension and application of knowledge.

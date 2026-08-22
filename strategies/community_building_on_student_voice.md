@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Community Building on Student Voice
+description: Creating a classroom community where student voices are valued involves providing time and opportunities for students to share and discuss their thoughts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Community Building on Student Voice
@@ -35,9 +39,9 @@ Creating a classroom community where student voices are valued involves providin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Increased student participation, improved communication skills, positive classroom environment

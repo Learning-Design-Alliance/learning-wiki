@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Find the Total
+description: Learners are shown two dot cards and asked to find the total number of dots.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Find the Total
@@ -35,8 +39,8 @@ Learners are shown two dot cards and asked to find the total number of dots. In 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](/elements/practice.md)
+- [Provide Feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor the accuracy of the total found. Observe the strategies used to find the total.

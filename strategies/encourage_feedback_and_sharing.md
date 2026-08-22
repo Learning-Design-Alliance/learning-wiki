@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Encourage Feedback and Sharing
+description: Encouraging learners to share their work with peers and online fosters a collaborative writing environment and broadens the audience for their work.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Encourage Feedback and Sharing
@@ -35,10 +39,10 @@ Encouraging learners to share their work with peers and online fosters a collabo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Peer Feedback/Peer Review](/elements/peer-feedbackpeer-review.md)
+- [Peer Discussion](/elements/peer-discussion.md)
+- [Whole-Class Sharing](/elements/whole-class-sharing.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased learner participation in peer feedback activities. Improvements in writing quality as evidenced by feedback received and revisions made.

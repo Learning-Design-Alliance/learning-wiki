@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Rich Library: Complexity"
+description: Providing access to a diverse collection of reading materials that vary in academic vocabulary and syntax complexity supports literacy and reading fluency.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rich Library: Complexity
@@ -35,8 +39,8 @@ Providing access to a diverse collection of reading materials that vary in acade
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/lectures|Lectures]]
+- [Assigned Readings](/elements/assigned-readings.md)
+- [Lectures](/elements/lectures.md)
 
 ## Assessment Evidence
 - Increased reading engagement, improved comprehension scores, and positive feedback from learners regarding the relevance and enjoyment of the materials.

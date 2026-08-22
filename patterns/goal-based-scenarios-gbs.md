@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Goal-Based Scenarios (GBS)
+description: Goal-Based Scenarios organize learning around a mission or role-based objective that learners pursue inside a realistic scenario.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: schank-1994
+    resource: "https://doi.org/10.1207/s15327809jls0304_3"
+    title: "Schank, R. C. (1994). Goal-based scenarios: A radical look at education. *The Journal of the Learning Sciences, 3*(4), 429-453"
+    author: Schank, R. C
 author: Roger Schank
 grain_size: unit
 ---
@@ -52,11 +60,11 @@ GBS is especially useful when the instructional target involves judgment, proced
 
 ### Claims
 #### Supporting
-- [[claims/whole-task-performance-improves-transfer]] [+S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](/claims/whole-task-performance-improves-transfer.md) [+S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](/claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](/claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 #### Contradicting
-- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](/claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -68,16 +76,16 @@ GBS is especially useful when the instructional target involves judgment, proced
 5. Debrief the reasoning and connect it to target concepts or future situations.
 
 ### Elements Used
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/feedback|Feedback]]
-- [[elements/reflection|Reflection]]
+- [Problem Scenario](/elements/problem-scenario.md)
+- [Problem Presentation](/elements/problem-presentation.md)
+- [Feedback](/elements/feedback.md)
+- [Reflection](/elements/reflection.md)
 
 ### Affordances
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/authentic-audiences-purposes|Authentic Audiences & Purposes]]
-- [[principles/experiential-learning|Experiential Learning]]
-- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]]
+- [Problem-based Learning](/principles/problem-based-learning.md)
+- [Authentic Audiences & Purposes](/principles/authentic-audiences-purposes.md)
+- [Experiential Learning](/principles/experiential-learning.md)
+- [Goal Setting & Monitoring](/principles/goal-setting-monitoring.md)
 
 ### Personalization
 - Different learners can pursue different paths within the same scenario.
@@ -85,8 +93,8 @@ GBS is especially useful when the instructional target involves judgment, proced
 - Roles, stakes, and domain framing can be adapted for different audiences.
 
 ## Related Patterns
-- [[patterns/anchored-instruction|Anchored Instruction]]
-- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
+- [Anchored Instruction](/patterns/anchored-instruction.md)
+- [Problem-Based Learning (PBL)](/patterns/problem-based-learning-pbl.md)
 
 ## Examples
 - Clinical training scenarios where learners manage a patient case through evolving decisions.

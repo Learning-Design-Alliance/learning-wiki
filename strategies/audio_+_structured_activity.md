@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Audio + Structured Activity
+description: Students engage with audio resources (music, podcasts, voice-recorded lectures) accompanied by a structured activity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Audio + Structured Activity
@@ -35,10 +39,10 @@ Students engage with audio resources (music, podcasts, voice-recorded lectures) 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/lectures|Lectures]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Lectures](/elements/lectures.md)
+- [Practice](/elements/practice.md)
+- [Application](/elements/application.md)
+- [Individual Reflection](/elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Completion and quality of structured activities, learner feedback, performance on related assignments.

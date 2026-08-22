@@ -1,7 +1,11 @@
 ---
 type: element
+title: Feedback
+description: Learners receive input from instructors or peers to refine their work.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Feedback
@@ -27,17 +31,17 @@ Learners receive input from instructors or peers to refine their work.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/feedback-loops|Feedback Loops]]
-- [[principles/mastery-learning|Mastery Learning]]
+- [Feedback Loops](/principles/feedback-loops.md)
+- [Mastery Learning](/principles/mastery-learning.md)
 
 ## Related Elements
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/coaching|Coaching]]
-- [[elements/scaffolding|Scaffolding]]
+- [Formative Assessment](/elements/formative-assessment.md)
+- [Coaching](/elements/coaching.md)
+- [Scaffolding](/elements/scaffolding.md)
 
 ## Patterns That Use This Element
-- [[patterns/formative-assessment|Formative Assessment]]
-- [[patterns/competency-based-learning|Competency-Based Learning]]
+- [Formative Assessment](/patterns/formative-assessment.md)
+- [Competency-Based Learning](/patterns/competency-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

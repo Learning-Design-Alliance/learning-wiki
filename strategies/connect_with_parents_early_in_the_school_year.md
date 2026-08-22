@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connect with Parents Early in the School Year
+description: Connecting with parents as soon as possible in the school year through personalized phone calls, emails, in-person conversations, or letters home.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connect with Parents Early in the School Year
@@ -35,8 +39,8 @@ Connecting with parents as soon as possible in the school year through personali
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](/elements/provide-guidance.md)
+- [Provide feedback](/elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track frequency of communication, gather feedback from parents

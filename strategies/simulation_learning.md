@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Simulation Learning
+description: Simulation learning engages learners in active learning experiences where they learn from each other, not just from the instructor.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Simulation Learning
@@ -35,10 +39,10 @@ Simulation learning engages learners in active learning experiences where they l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/application-of-knowledge|Application of Knowledge]]
-- [[elements/reflection|Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Problem Scenario](/elements/problem-scenario.md)
+- [Application of Knowledge](/elements/application-of-knowledge.md)
+- [Reflection](/elements/reflection.md)
+- [Peer Discussion](/elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation during the simulation. Assess the depth of reflection and discussion during the debriefing. Evaluate student understanding of course goals and alignment with the simulation. Gather feedback on the simulation's effectiveness from students.

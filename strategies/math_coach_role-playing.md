@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Math Coach Role-Playing
+description: "Organize students into small groups where they take turns acting as \"math coaches.\" One student reads a word problem aloud, and the other students (the math coaches) advise the reader on which mathematical operation to use in solving the…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Math Coach Role-Playing
@@ -35,8 +39,8 @@ Organize students into small groups where they take turns acting as "math coache
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/application|Application]]
+- [Peer Collaboration](/elements/peer-collaboration.md)
+- [Application](/elements/application.md)
 
 ## Assessment Evidence
 - Observe students' ability to provide accurate advice and feedback as math coaches. Assess students' accuracy in solving word problems during role-playing.
