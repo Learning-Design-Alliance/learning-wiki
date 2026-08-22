@@ -10,6 +10,8 @@ Checks:
   5. Pages with status: draft and no description (empty or <!-- TODO -->)
   6. Unfilled ## Competing Claims sections on claim pages
   7. Conflict markers (<!-- CONFLICT: ... -->) — lists open conflicts for review
+  8. status: stable pages with no `verified` entry — "stable" should mean a human
+     actually checked it, not just that it looks finished
 
 Usage:
     python3 scripts/lint.py [--fix] [--type <page_type>]
@@ -196,6 +198,29 @@ def check_open_conflicts(pages: dict[str, Path]) -> list[dict]:
     return conflicts
 
 
+def check_stable_unverified(pages: dict[str, Path]) -> list[dict]:
+    """Flag status: stable pages with no `verified` entry in frontmatter. `evidence_strength`
+    is a separate axis (strength of the underlying research) from `verified` (whether a human
+    has actually checked THIS page) — a page can be evidence_strength: strong and still be
+    entirely unverified."""
+    issues = []
+    for slug, path in pages.items():
+        if "/" in slug:
+            continue
+        text = path.read_text(encoding="utf-8")
+        status_m = STATUS_RE.search(text)
+        if not status_m or status_m.group(1).strip() != "stable":
+            continue
+        if not re.search(r"^verified:\s*$", text, re.MULTILINE):
+            issues.append({
+                "file": str(path.relative_to(WIKI_ROOT)),
+                "type": "stable_unverified",
+                "detail": "status: stable but no verified entry — add one via "
+                          "log_revision.py --verify once a human has actually checked it",
+            })
+    return issues
+
+
 def auto_promote(pages: dict[str, Path], all_issues: list[dict], dry_run: bool = False) -> int:
     """Promote draft pages with no issues to status: review."""
     issue_files = {i["file"] for i in all_issues}
@@ -219,7 +244,7 @@ def auto_promote(pages: dict[str, Path], all_issues: list[dict], dry_run: bool =
 def main():
     parser = argparse.ArgumentParser(description="Lint the ld-wiki")
     parser.add_argument("--fix", action="store_true", help="Auto-promote clean draft pages to review")
-    parser.add_argument("--type", choices=["broken_links", "drafts", "claims", "principles", "conflicts", "all"],
+    parser.add_argument("--type", choices=["broken_links", "drafts", "claims", "principles", "conflicts", "trust", "all"],
                         default="all", help="Which checks to run")
     args = parser.parse_args()
 
@@ -235,6 +260,7 @@ def main():
         "principles":    check_principles_missing_claims,
         "competing":     check_unfilled_competing_claims,
         "conflicts":     check_open_conflicts,
+        "trust":         check_stable_unverified,
     }
 
     selected = list(checks.keys()) if args.type == "all" else [args.type]

@@ -24,11 +24,11 @@ During lecture provide students with graphic organizers or guided notes to help 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Learners who face speed of processing challenges
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Enhance comprehension, improve retention, support learners who face speed of processing challenges
 
 ### Affordances

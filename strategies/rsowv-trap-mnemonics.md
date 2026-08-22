@@ -24,11 +24,11 @@ RSOWV (Relax, Slowdown, Organize, Write, Visualize) and TRAP (Translate, Repeat,
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly useful for learners who need structured approaches to memorization and test preparation
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Improve memory recall, enhance focus and concentration, facilitate effective information processing, encourage active learning strategies
 
 ### Affordances

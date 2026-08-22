@@ -93,9 +93,43 @@ Every content page (principle, element, pattern, strategy, theory, claim) carrie
 | `status` | Recommended | See Status values above |
 | `generated` | Recommended | `{ by: <actor>, at: <date> }` — who/what last wrote the page and when, replacing the old `last_edited`/`edited_by` pair |
 | `sources` | When applicable | List of `{ id, resource, title, author }` entries parsed from `## Key Sources` (or `## Evidence` for claims) — a structured mirror of the citations already in the body, not a replacement for them |
+| `verified` | Optional | List of `{ by: <actor>, at: <date> }` confirmation events — see Trust tiers below. Absent on every page until someone explicitly reviews it; never set this yourself just because a page looks complete |
 | `id`, `evidence_strength`, `author`, `grain_size` | Type-specific | Extra scalar fields kept as-is per page type (see templates below); OKF tolerates extra frontmatter keys |
 
 **Actor convention** for `generated.by` (and any other identity field): `<tool>/unspecified` for an agent/tool (e.g. `claude/unspecified`, `codex/unspecified`), `human:<id>` for a person, `process:<id>` for an unattended batch job (e.g. `process:wiki-ingest`). Never invent a specific model version you're not certain of — `unspecified` is fine.
+
+---
+
+## Trust tiers (`verified`)
+
+`verified` is a **different axis from `evidence_strength`**, and the two should never be conflated:
+
+- `evidence_strength` (and the per-study `q`/`i` codes in a claim's `## Evidence` section) describe how strong the *underlying research* is — is this a meta-analysis or a single case study.
+- `verified` describes whether a **human has actually checked that this wiki page** faithfully represents that research — a claim can have `evidence_strength: strong` and still be completely unverified, because the LLM that wrote the page could have paraphrased a finding wrong, mistagged an effect's direction, or introduced a citation error that nothing has caught yet.
+
+OKF derives three trust tiers from the `verified` field:
+
+| Tier | Condition |
+|------|-----------|
+| **unverified** | No `verified` key present (the default for every freshly ingested or LLM-edited page) |
+| **machine-confirmed** | `verified` present, but only by non-`human:` actors (e.g. a lint pass) |
+| **human-reviewed** | `verified` present with at least one `human:<id>` actor |
+
+Format (a list, so repeated reviews over time each add an entry — OKF also tolerates a bare single mapping):
+
+```yaml
+verified:
+  - by: human:david
+    at: 2026-08-22
+```
+
+Add a `verified` entry when a human substantively reviews a page's content for accuracy — not on every procedural PR approval. The easiest way is:
+
+```bash
+python3 scripts/log_revision.py <page> --by human:<id> --type status --desc "Reviewed for accuracy" --verify
+```
+
+which appends the `verified` entry alongside its normal `generated`/log-update work. Never add a `verified` entry yourself (as an agent) just because a page looks complete or well-sourced — that defeats the point of the tier. `python3 scripts/lint.py` flags any `status: stable` page that has no `verified` entry, since "stable" should mean someone actually checked it, not just that it looks finished.
 
 ---
 

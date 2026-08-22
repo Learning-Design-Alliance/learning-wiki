@@ -24,11 +24,11 @@ Acting and role-playing are active learning strategies in which learners physica
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - All learner levels, particularly beneficial for K–12 and adult learners in professional development
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Strengthen comprehension, explore different perspectives, build empathy, develop social skills, enhance problem-solving abilities
 
 ### Affordances

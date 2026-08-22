@@ -24,11 +24,11 @@ Reducing background noise in classrooms supports increased learner attention. Th
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - All learners who struggle with focus due to environmental distractions
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Increase learner attention, foster self-regulation, reduce distractions
 
 ### Affordances

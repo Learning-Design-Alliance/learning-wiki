@@ -24,11 +24,11 @@ Dictation, also known as speech-to-text or voice recognition, involves using tec
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Individuals with dysgraphia, ADHD, executive functioning deficits, learning disabilities, physical disabilities, vision impairments, limited motor skills, or those learning a second language. Particularly beneficial for middle school, high school, and college students.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Facilitate writing for individuals with dysgraphia, ADHD, or executive functioning deficits, improve writing production, reduce anxiety around writing, and enhance core reading and writing abilities.
 
 ### Affordances

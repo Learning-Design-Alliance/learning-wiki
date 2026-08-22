@@ -24,11 +24,11 @@ The teacher claps/counts out a rhythm. Students imitate the rhythm of the clap a
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - K-4, adaptable to other grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Enhance auditory discrimination, improve coordination, reinforce rhythm, build pattern recognition
 
 ### Affordances

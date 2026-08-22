@@ -24,11 +24,11 @@ A countdown clock or visual analog timer can help kids get a better sense of how
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Learners who struggle with time management, visual learners, learners with ADHD
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Improve time management skills, enhance understanding of time duration, reduce time-related anxiety
 
 ### Affordances

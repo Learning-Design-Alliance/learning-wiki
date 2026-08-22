@@ -24,11 +24,11 @@ A teacher or coach shadows a student to gain insights into their experiences and
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Teachers and coaches seeking to improve their understanding of student needs and adjust their instructional practices
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Understand student experiences, improve teaching practices, increase student engagement
 
 ### Affordances

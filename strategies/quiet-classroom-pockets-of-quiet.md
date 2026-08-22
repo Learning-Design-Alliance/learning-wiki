@@ -24,11 +24,11 @@ Creating a quiet classroom by reducing background noise to support increased Att
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - All learners, especially those sensitive to noise or with attention difficulties
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Increase student attention and self-regulation by reducing noise and providing quiet spaces
 
 ### Affordances

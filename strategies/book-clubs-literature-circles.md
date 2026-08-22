@@ -24,11 +24,11 @@ Book clubs, also known as literature circles, are a grouping system to organize 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Middle school students (Grades 6-8), but adaptable for other grade levels and adult learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Motivate reading and writing, enhance comprehension, strengthen verbal reasoning, expand social networks, promote knowledge sharing
 
 ### Affordances

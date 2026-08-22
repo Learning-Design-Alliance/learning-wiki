@@ -24,11 +24,11 @@ Tactile toys and fidgets are self-regulation tools that promote movement and tac
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Individuals who struggle with attention, focus, and sensory processing challenges, including those with tactile defensiveness or sensory-seeking behaviors
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Improve focus and attention, calm down when overwhelmed, develop self-regulation skills, enhance sensory processing
 
 ### Affordances

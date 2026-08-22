@@ -24,11 +24,11 @@ Math Talks, also known as Number Talks, are short, daily classroom routines wher
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - All grade levels, from early elementary to upper grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Build mental math skills, develop flexibility in thinking about numbers and operations, enhance mathematical communication skills, encourage reasoning and critical thinking, build a community of learning
 
 ### Affordances

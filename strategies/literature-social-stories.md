@@ -24,11 +24,11 @@ Using literature or social stories to explicitly teach relationship skills invol
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Learners of all ages and backgrounds, particularly those who may struggle with social interactions, communication, or conflict resolution
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Develop empathy and perspective-taking skills, provide models of positive social interactions and communication strategies, and increase understanding of social dynamics.
 
 ### Affordances

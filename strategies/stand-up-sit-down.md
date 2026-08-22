@@ -24,11 +24,11 @@ The rules are simple: if the teacher gives the number 10, students stand up. Any
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - K-4, adaptable to other grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Reinforce math skills, increase response time, promote active engagement, encourage kinesthetic learning
 
 ### Affordances

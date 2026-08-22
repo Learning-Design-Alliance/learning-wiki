@@ -24,11 +24,11 @@ If the teacher says a number greater than 10, students expand their bodies to ta
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - K-4, adaptable to other grades
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Reinforce the concepts of greater than, less than, and equal to. Promote kinesthetic learning, enhance active recall, provide an opportunity for movement.
 
 ### Affordances

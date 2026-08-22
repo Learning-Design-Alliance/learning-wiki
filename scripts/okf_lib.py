@@ -29,13 +29,19 @@ FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n?", re.DOTALL)
 KNOWN_AGENTS = {"claude", "codex", "gemini"}
 
 
+ACTOR_FORM_RE = re.compile(r"^(human|process):\S+$|^[a-z0-9_-]+/\S+$")
+
+
 def actor_for(edited_by: str | None) -> str:
     if not edited_by:
         return "process:wiki-ingest"
-    key = edited_by.strip().lower()
+    name = edited_by.strip()
+    if ACTOR_FORM_RE.match(name):
+        return name  # already a well-formed actor string (human:<id>, process:<id>, tool/version)
+    key = name.lower()
     if key in KNOWN_AGENTS:
         return f"{key}/unspecified"
-    return f"process:{slugify(edited_by)}"
+    return f"process:{slugify(name)}"
 
 
 def slugify(text: str) -> str:
@@ -304,6 +310,17 @@ def append_log_entries(bullet_lines: list) -> None:
         text = text[:pos] + f"\n{heading}\n\n{block}\n" + text[pos:]
 
     log_path.write_text(text, encoding="utf-8")
+
+
+def add_verified_entry(fm_text: str, actor: str, at: str) -> str:
+    """Append a `{by, at}` confirmation event to the frontmatter's `verified:` list,
+    creating the list if this is the page's first verification. `fm_text` is the raw
+    frontmatter block (between the `---` delimiters, as returned by text.split('---', 2)[1])."""
+    entry = f"  - by: {yaml_escape(actor)}\n    at: {at}\n"
+    if re.search(r"^verified:\s*$", fm_text, re.MULTILINE):
+        # Insert the new entry right after the `verified:` line, before any existing entries.
+        return re.sub(r"^(verified:\s*\n)", r"\1" + entry, fm_text, count=1, flags=re.MULTILINE)
+    return fm_text.rstrip("\n") + f"\nverified:\n{entry}"
 
 
 def dump_frontmatter(fm: dict) -> str:

@@ -67,12 +67,27 @@ def update_frontmatter(page_path: Path, editor: str):
     page_path.write_text(f"---{fm}---{body}", encoding="utf-8")
 
 
+def add_verified(page_path: Path, editor: str):
+    """Append a `verified: {by, at}` confirmation event to the page's frontmatter.
+    Only call this for a substantive human (or agent) review of the page's accuracy —
+    never automatically, and never just because a page looks complete."""
+    text = page_path.read_text(encoding="utf-8")
+    parts = text.split("---", 2)
+    if len(parts) < 3:
+        return
+    fm, body = parts[1], parts[2]
+    actor = ok.actor_for(editor)
+    fm = ok.add_verified_entry(fm, actor, TODAY)
+    page_path.write_text(f"---{fm}---{body}", encoding="utf-8")
+
+
 def append_revision_card(slug: str, page_type: str, editor: str, change_type: str, description: str):
     """Create or append to revisions/{slug}.md."""
     revisions_dir = WIKI_ROOT / "revisions"
     revisions_dir.mkdir(exist_ok=True)
 
     rev_path = revisions_dir / f"{slug}.md"
+    rel_link = ok.to_relative(f"/{page_type}/{slug}.md", "revisions")  # ../<page_type>/<slug>.md
 
     card = f"""
 ### {TODAY} · {change_type} · {editor}
@@ -82,10 +97,10 @@ def append_revision_card(slug: str, page_type: str, editor: str, change_type: st
     if not rev_path.exists():
         header = f"""---
 type: revisions
-page: /{page_type}/{slug}.md
+page: {rel_link}
 ---
 
-# Revision history: [{page_type}/{slug}](/{page_type}/{slug}.md)
+# Revision history: [{page_type}/{slug}]({rel_link})
 
 """
         rev_path.write_text(header + card.lstrip(), encoding="utf-8")
@@ -96,7 +111,8 @@ page: /{page_type}/{slug}.md
 
 def append_wiki_log(page_type: str, slug: str, change_type: str, description: str):
     """Append a bullet to log.md under today's OKF date-grouped '## YYYY-MM-DD' section."""
-    bullet = f"* **{change_type.capitalize()}**: [{page_type}/{slug}](/{page_type}/{slug}.md) — {description}"
+    rel_link = ok.to_relative(f"/{page_type}/{slug}.md", None)  # log.md lives at the wiki root
+    bullet = f"* **{change_type.capitalize()}**: [{page_type}/{slug}]({rel_link}) — {description}"
     ok.append_log_entries([bullet])
 
 
@@ -111,6 +127,13 @@ def main():
         help="Type of change",
     )
     parser.add_argument("--desc", required=True, help="One-line change description")
+    parser.add_argument(
+        "--verify",
+        action="store_true",
+        help="Also append a verified: {by, at} entry — use only for a substantive review "
+             "of the page's accuracy, e.g. by a human reviewer approving a PR, never just "
+             "because the page looks complete",
+    )
     args = parser.parse_args()
 
     page_path = WIKI_ROOT / args.page
@@ -121,12 +144,16 @@ def main():
     slug, page_type = get_slug_and_type(page_path)
 
     update_frontmatter(page_path, args.by)
+    if args.verify:
+        add_verified(page_path, args.by)
     append_revision_card(slug, page_type, args.by, args.type, args.desc)
     append_wiki_log(page_type, slug, args.type, args.desc)
 
     print(f"Logged revision: {page_type}/{slug}")
     print(f"  Revision card: revisions/{slug}.md")
     print(f"  Frontmatter updated: generated.by={ok.actor_for(args.by)}, generated.at={TODAY}")
+    if args.verify:
+        print(f"  verified entry added: by={ok.actor_for(args.by)}, at={TODAY}")
     print(f"  log.md updated: {TODAY}")
 
 

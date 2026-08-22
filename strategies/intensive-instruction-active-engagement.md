@@ -24,11 +24,11 @@ Intensive instruction involves active learner engagement and plenty of time on t
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Struggling learners, adult learners in basic skills programs, individuals with learning disabilities
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Increase learner engagement and time-on-task; enhance retention of information; promote active learning
 
 ### Affordances

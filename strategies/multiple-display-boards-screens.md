@@ -24,11 +24,11 @@ Using multiple surfaces or screens for instruction and collaboration. This strat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - K-12, higher education, and professional settings
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Enhance engagement, improve accessibility, facilitate collaboration, visualize work seamlessly
 
 ### Affordances

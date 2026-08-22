@@ -24,11 +24,11 @@ Educators should practice techniques to prevent/reduce their stress and frustrat
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - All learners
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Improve instructor's ability to maintain their temper and to be patient with their learners.
 
 ### Affordances

@@ -24,11 +24,11 @@ Note-taking/note-making involves students taking notes on key points from a less
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Suitable for all grade levels.
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Extend understanding of concepts, encourage reflection, foster connections between new and previously learned material, and promote personal engagement.
 
 ### Affordances

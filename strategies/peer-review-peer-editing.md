@@ -24,11 +24,11 @@ Peer review involves students providing feedback on each other's work to foster 
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - K-12 and higher education students learning writing skills
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [Claim Slug](../claims/claim-slug.md) -->
+<!-- Link to sub-claims -->
 - Develop critical thinking skills, improve writing skills, foster collaboration, and promote a growth mindset
 
 ### Affordances
