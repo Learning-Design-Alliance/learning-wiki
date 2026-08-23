@@ -1,0 +1,256 @@
+"""
+validator.py — Deterministic structural checks on a model's JSON contribution
+output. This is the "did it accurately complete all required fields" half of
+quality measurement; judge.py covers the half that needs an LLM (does the
+content actually reflect the source article).
+
+No field being merely present-and-non-empty proves it's correct — that's the
+judge's job — but every field a page template requires is enforced here, along
+with referential integrity (subclaim -> evidence anchors, cross-link slugs)
+that's cheap to check exactly and easy for a smaller model to get wrong.
+"""
+
+import re
+from dataclasses import dataclass, field
+
+ALLOWED_TYPES = {"claim", "principle", "element", "pattern", "strategy", "theory"}
+SLUG_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
+EVIDENCE_TAG_RE = re.compile(r"^[+~-][SMW]$|^X$")
+YEAR_RE = re.compile(r"\b(19|20)\d{2}[a-z]?\b")
+CITATION_LINK_RE = re.compile(r"(doi\.org|https?://)", re.IGNORECASE)
+PLACEHOLDER_RE = re.compile(r"^(\.\.\.|tbd|todo|n/?a|none|\[.*\])$", re.IGNORECASE)
+
+CLAIM_STATUS_VALUES = {"strong", "moderate", "weak", "mixed"}
+
+
+@dataclass
+class Issue:
+    contribution_index: int
+    contribution_slug: str
+    severity: str  # "error" | "warning"
+    field: str
+    message: str
+
+
+@dataclass
+class ValidationReport:
+    has_article_meta: bool
+    n_contributions: int
+    issues: list = field(default_factory=list)
+    fields_checked: int = 0
+    fields_ok: int = 0
+    parse_error: str = ""
+
+    @property
+    def completeness_score(self) -> float:
+        if self.fields_checked == 0:
+            return 0.0
+        return round(self.fields_ok / self.fields_checked, 3)
+
+    @property
+    def error_count(self) -> int:
+        return sum(1 for i in self.issues if i.severity == "error")
+
+    @property
+    def warning_count(self) -> int:
+        return sum(1 for i in self.issues if i.severity == "warning")
+
+    @property
+    def passed(self) -> bool:
+        return not self.parse_error and self.error_count == 0 and self.n_contributions > 0
+
+
+def _is_placeholder(text) -> bool:
+    if not isinstance(text, str) or not text.strip():
+        return True
+    return bool(PLACEHOLDER_RE.match(text.strip()))
+
+
+def _looks_like_real_citation(citation) -> bool:
+    if not isinstance(citation, str) or len(citation.strip()) < 20:
+        return False
+    return bool(YEAR_RE.search(citation)) and bool(CITATION_LINK_RE.search(citation))
+
+
+class _Checker:
+    """Accumulates (checked, ok) pairs and issues for one contribution."""
+
+    def __init__(self, report: ValidationReport, index: int, slug: str):
+        self.report = report
+        self.index = index
+        self.slug = slug or f"contribution[{index}]"
+
+    def error(self, field_name: str, message: str) -> None:
+        self.report.issues.append(Issue(self.index, self.slug, "error", field_name, message))
+
+    def warn(self, field_name: str, message: str) -> None:
+        self.report.issues.append(Issue(self.index, self.slug, "warning", field_name, message))
+
+    def check(self, ok: bool, field_name: str, message: str, severity: str = "error") -> bool:
+        self.report.fields_checked += 1
+        if ok:
+            self.report.fields_ok += 1
+        else:
+            (self.error if severity == "error" else self.warn)(field_name, message)
+        return ok
+
+
+def _existing_slug_set(existing_slugs: dict) -> set:
+    out = set()
+    for slugs in existing_slugs.values():
+        out.update(slugs)
+    return out
+
+
+def validate_output(parsed: dict, existing_slugs: dict) -> ValidationReport:
+    """existing_slugs: {folder: [slug, ...]} — the real wiki slugs offered to the
+    model in the prompt, used to catch invented cross-links."""
+    article = parsed.get("article") if isinstance(parsed, dict) else None
+    contributions = parsed.get("contributions") if isinstance(parsed, dict) else None
+    contributions = contributions if isinstance(contributions, list) else []
+
+    report = ValidationReport(has_article_meta=isinstance(article, dict), n_contributions=len(contributions))
+
+    if not isinstance(parsed, dict):
+        report.parse_error = "Top-level output is not a JSON object."
+        return report
+    if not isinstance(article, dict):
+        report.issues.append(Issue(-1, "article", "error", "article", "Missing or malformed top-level `article` object."))
+    else:
+        for f in ("title", "summary"):
+            c = _Checker(report, -1, "article")
+            c.check(not _is_placeholder(article.get(f)), f, f"article.{f} is missing or a placeholder.")
+
+    if not contributions:
+        report.issues.append(Issue(-1, "-", "warning", "contributions",
+                                    "No contributions extracted — verify this article genuinely offers nothing citable, "
+                                    "rather than the model giving up."))
+        return report
+
+    real_slugs = _existing_slug_set(existing_slugs)
+    sibling_slugs = {c.get("slug") for c in contributions if isinstance(c, dict) and c.get("slug")}
+    known_slugs = real_slugs | sibling_slugs
+
+    for i, contrib in enumerate(contributions):
+        if not isinstance(contrib, dict):
+            report.issues.append(Issue(i, "-", "error", "contribution", "Contribution is not a JSON object."))
+            continue
+        slug = contrib.get("slug", "")
+        c = _Checker(report, i, slug)
+
+        ctype = contrib.get("type")
+        c.check(ctype in ALLOWED_TYPES, "type", f"type '{ctype}' is not one of {sorted(ALLOWED_TYPES)}.")
+        c.check(not _is_placeholder(contrib.get("title")), "title", "title is missing or a placeholder.")
+        c.check(bool(SLUG_RE.match(slug or "")), "slug", f"slug '{slug}' must be lowercase-hyphenated ([a-z0-9-]+).")
+        c.check(contrib.get("status") == "draft", "status", "status should be 'draft' for a freshly ingested page.",
+                severity="warning")
+
+        if real_slugs and slug in real_slugs:
+            c.warn("slug", f"slug '{slug}' collides with an existing wiki page — "
+                            "should this have been an update instead of a new page?")
+
+        if ctype == "claim":
+            _validate_claim(c, contrib, known_slugs)
+        elif ctype in ALLOWED_TYPES:
+            _validate_other(c, contrib, known_slugs)
+
+    return report
+
+
+def _check_cross_links(c: _Checker, contrib: dict, known_slugs: set, list_field: str,
+                        slug_key: str = None) -> None:
+    items = contrib.get(list_field)
+    if not isinstance(items, list):
+        return
+    for item in items:
+        target_slug = item.get(slug_key) if slug_key else item
+        if not target_slug:
+            continue
+        if known_slugs and target_slug not in known_slugs:
+            c.warn(list_field, f"'{target_slug}' in {list_field} is not an existing wiki slug or a "
+                                f"sibling contribution in this output — possible hallucinated link.")
+
+
+def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
+    c.check(bool(re.match(r"^CL-", str(contrib.get("id", "")))), "id", "claim id should look like 'CL-<shortcode>'.")
+    c.check(contrib.get("evidence_strength") in CLAIM_STATUS_VALUES, "evidence_strength",
+            f"evidence_strength must be one of {sorted(CLAIM_STATUS_VALUES)}.")
+
+    subclaims = contrib.get("subclaims")
+    c.check(isinstance(subclaims, list) and len(subclaims) > 0, "subclaims", "claim needs at least one subclaim.")
+    evidence = contrib.get("evidence")
+    c.check(isinstance(evidence, list) and len(evidence) > 0, "evidence", "claim needs at least one evidence entry.")
+
+    evidence_anchors = set()
+    if isinstance(evidence, list):
+        for j, ev in enumerate(evidence):
+            if not isinstance(ev, dict):
+                c.error(f"evidence[{j}]", "evidence entry is not an object.")
+                continue
+            anchor = ev.get("anchor")
+            if anchor:
+                evidence_anchors.add(anchor)
+            c.check(bool(anchor), f"evidence[{j}].anchor", "evidence entry missing an anchor id.")
+            c.check(_looks_like_real_citation(ev.get("citation")), f"evidence[{j}].citation",
+                    "citation should include a year and a DOI/URL.")
+            c.check(isinstance(ev.get("quality"), int) and 1 <= ev["quality"] <= 4,
+                    f"evidence[{j}].quality", "quality must be an integer 1-4.")
+            c.check(isinstance(ev.get("impact"), int) and 0 <= ev["impact"] <= 3,
+                    f"evidence[{j}].impact", "impact must be an integer 0-3.")
+            c.check(isinstance(ev.get("description"), str) and len(ev["description"]) >= 40,
+                    f"evidence[{j}].description", "description should be a substantive 2-4 sentence summary.",
+                    severity="warning")
+
+    if isinstance(subclaims, list):
+        for j, sc in enumerate(subclaims):
+            if not isinstance(sc, dict):
+                c.error(f"subclaims[{j}]", "subclaim is not an object.")
+                continue
+            c.check(isinstance(sc.get("q"), int) and 1 <= sc["q"] <= 4, f"subclaims[{j}].q", "q must be an integer 1-4.")
+            c.check(isinstance(sc.get("i"), int) and 0 <= sc["i"] <= 3, f"subclaims[{j}].i", "i must be an integer 0-3.")
+            c.check(not _is_placeholder(sc.get("text")), f"subclaims[{j}].text", "subclaim text is missing or a placeholder.")
+            ref = sc.get("evidence_ref")
+            ok = bool(ref) and (not evidence_anchors or ref in evidence_anchors)
+            c.check(ok, f"subclaims[{j}].evidence_ref",
+                    f"evidence_ref '{ref}' does not match any evidence[].anchor — broken same-page reference.")
+
+    key_sources = contrib.get("key_sources")
+    c.check(isinstance(key_sources, list) and len(key_sources) > 0, "key_sources", "claim needs at least one key source.")
+
+    _check_cross_links(c, contrib, known_slugs, "related_claims")
+
+
+def _validate_other(c: _Checker, contrib: dict, known_slugs: set) -> None:
+    c.check(isinstance(contrib.get("description"), str) and len(contrib["description"]) >= 20,
+            "description", "description is missing or too short to be substantive.")
+
+    for f in ("target_learners", "target_learning_goals"):
+        vals = contrib.get(f)
+        c.check(isinstance(vals, list) and len(vals) > 0, f, f"{f} should list at least one entry.",
+                severity="warning")
+
+    has_context = bool(contrib.get("requirements")) or bool(contrib.get("constraints"))
+    c.check(has_context, "requirements/constraints", "should specify at least one requirement or constraint.",
+            severity="warning")
+
+    key_sources = contrib.get("key_sources")
+    c.check(isinstance(key_sources, list) and len(key_sources) > 0, "key_sources",
+            f"{contrib.get('type')} needs at least one key source.")
+    if isinstance(key_sources, list):
+        for j, src in enumerate(key_sources):
+            c.check(_looks_like_real_citation(src), f"key_sources[{j}]",
+                    "citation should include a year and a DOI/URL.", severity="warning")
+
+    claims_cited = contrib.get("claims_cited")
+    if isinstance(claims_cited, list):
+        for j, cc in enumerate(claims_cited):
+            if not isinstance(cc, dict):
+                c.error(f"claims_cited[{j}]", "claims_cited entry is not an object.")
+                continue
+            tag = cc.get("tag", "")
+            c.check(bool(EVIDENCE_TAG_RE.match(tag)), f"claims_cited[{j}].tag",
+                    f"tag '{tag}' is not a valid evidence tag (+S/+M/+W, ~S/~M/~W, -S/-M/-W, X).")
+
+    _check_cross_links(c, contrib, known_slugs, "claims_cited", slug_key="slug")
+    _check_cross_links(c, contrib, known_slugs, "related")
+    _check_cross_links(c, contrib, known_slugs, "theory_supporting")
