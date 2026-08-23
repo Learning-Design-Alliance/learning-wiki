@@ -13,6 +13,11 @@ etc.). Every generated page lives as structured JSON under `eval/runs/<run-id>/`
 until you're satisfied with a model's numbers — see "From eval to a real
 batch" below for the next step once you are.
 
+**Running a batch that takes more than an hour or two?** Don't tie up your
+laptop for it — see [deploy/README.md](../deploy/README.md) to run this
+unattended on a cheap DigitalOcean droplet instead, with automatic resume on
+crash/reboot.
+
 ## Setup
 
 ```bash
