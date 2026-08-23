@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Traditional Lecture / Reading / Midterm / Final Assessment
+description: This pattern describes the common lecture-dominant course model in which instructors deliver content primarily through lecture, assign readings for independent study, and evaluate learning mainly through high-stakes midterm and final…
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: freeman-2014
+    resource: "https://doi.org/10.1073/pnas.1319030111"
+    title: "Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410-8415"
+    author: "Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P"
 author: traditional higher education model
 grain_size: course
 ---
@@ -51,11 +59,11 @@ The pattern can work reasonably well for broad content coverage and for learners
 
 ### Claims
 #### Supporting
-- [[claims/chunking-reduces-working-memory-load]] [~S]
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 #### Contradicting
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Design
 
@@ -66,16 +74,16 @@ The pattern can work reasonably well for broad content coverage and for learners
 4. Evaluate learning primarily through a midterm and final assessment.
 
 ### Elements Used
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/assessment|Assessment]]
-- [[elements/optional-quizzes-or-discussion-sections|Optional Quizzes or Discussion Sections]]
-- [[elements/feedback|Feedback]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Assessment](../elements/assessment.md)
+- [Optional Quizzes or Discussion Sections](../elements/optional-quizzes-or-discussion-sections.md)
+- [Feedback](../elements/feedback.md)
 
 ### Affordances
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/immediate-feedback|Immediate Feedback]]
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/multiple-methods-of-assessment|Multiple Methods of Assessment]]
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
 
 ### Personalization
 - Learners often control pace of reading and independent review outside class.
@@ -83,8 +91,8 @@ The pattern can work reasonably well for broad content coverage and for learners
 - Instructors can strengthen the model by adding low-stakes checks and application tasks without abandoning the overall structure.
 
 ## Related Patterns
-- [[patterns/flipped-classroom|Flipped Classroom]]
-- [[patterns/gagnés-9-events-of-instruction|Gagne's 9 Events of Instruction]]
+- [Flipped Classroom](flipped-classroom.md)
+- [Gagne's 9 Events of Instruction](gagnés-9-events-of-instruction.md)
 
 ## Examples
 - Large introductory survey courses organized around lectures, textbook reading, and two major exams.

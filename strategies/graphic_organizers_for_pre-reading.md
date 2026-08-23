@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers for Pre-Reading
+description: Students identify the text structure (compare/contrast, cause/effect, etc.) before reading and complete a graphic organizer that supports that structure as they read.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers for Pre-Reading
@@ -35,8 +39,8 @@ Students identify the text structure (compare/contrast, cause/effect, etc.) befo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/demonstration|Demonstration]]
+- [Activation](../elements/activation.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Improved comprehension and ability to identify text structures.

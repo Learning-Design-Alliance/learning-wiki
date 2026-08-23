@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Home Language Reading Demonstrations
+description: When new students come to the classroom, ask them to read books in their home language to show you what they know about reading.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Home Language Reading Demonstrations
@@ -35,8 +39,8 @@ When new students come to the classroom, ask them to read books in their home la
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/demonstration|Demonstration]]
+- [Practice](../elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe students' reading fluency, comprehension, and expression in their home language.

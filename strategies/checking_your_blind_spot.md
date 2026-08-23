@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Checking Your Blind Spot
+description: Recognizing and addressing unconscious bias involves acknowledging its existence, understanding how it impacts decision-making, and implementing strategies to mitigate its effects.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Checking Your Blind Spot
@@ -35,10 +39,10 @@ Recognizing and addressing unconscious bias involves acknowledging its existence
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Supportive information](../elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Increased diversity in hiring and promotion, reduced incidents of discrimination, improved employee satisfaction.

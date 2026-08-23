@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Focusing Projects on Issues of Justice
+description: Focusing project-based learning (PBL) projects on issues of justice involves designing projects that allow students to work on topics that matter to their community, their lives, and the lives of those they care about.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Focusing Projects on Issues of Justice
@@ -35,9 +39,9 @@ Focusing project-based learning (PBL) projects on issues of justice involves des
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/application-of-knowledge|Application of Knowledge]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
 
 ## Assessment Evidence
 - Increased student engagement, positive impact on the community, and evidence of students acting as change agents.

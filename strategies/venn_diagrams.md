@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Venn Diagrams
+description: Venn diagrams are visual organizers that emphasize comparisons and contrasts between two or more items or concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Venn Diagrams
@@ -35,10 +39,10 @@ Venn diagrams are visual organizers that emphasize comparisons and contrasts bet
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Supportive information](../elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learners' ability to use Venn diagrams to compare and contrast information, assess the accuracy and completeness of their diagrams, evaluate performance on tests and quizzes after using Venn diagrams

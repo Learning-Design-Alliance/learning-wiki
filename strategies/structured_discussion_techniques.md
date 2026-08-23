@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Structured Discussion Techniques
+description: Facilitating productive discussions requires clear expectations, modeling, sentence starters (particularly for English language learners), and routines.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Structured Discussion Techniques
@@ -35,10 +39,10 @@ Facilitating productive discussions requires clear expectations, modeling, sente
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/peer-collaboration|Peer Collaboration]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
 
 ## Assessment Evidence
 - Observe learner participation and analyze the depth and quality of discussion.

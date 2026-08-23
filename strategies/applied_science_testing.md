@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Applied Science Testing
+description: Applied science testing involves using scientific principles to evaluate real-world materials and products.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Applied Science Testing
@@ -35,8 +39,8 @@ Applied science testing involves using scientific principles to evaluate real-wo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in testing solubility, correct comparison of product quality and price, logical justifications of evaluations

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Individualized \"Highlighter Tool\""
+description: "Students use an individualized \"highlighter tool\" (e.g., a Google Doc add-on) to create custom highlighters in different colors."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Individualized "Highlighter Tool"
@@ -35,9 +39,9 @@ Students use an individualized "highlighter tool" (e.g., a Google Doc add-on) to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/application-of-knowledge|Application of Knowledge]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Effectiveness of the color-coding scheme, quality of the summaries, and depth of analysis.

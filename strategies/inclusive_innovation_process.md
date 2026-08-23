@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Inclusive Innovation Process
+description: The Inclusive Innovation Process is a framework that facilitates growth with equity through a student, community, and educator-led research and design process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Inclusive Innovation Process
@@ -35,14 +39,14 @@ The Inclusive Innovation Process is a framework that facilitates growth with equ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/application|Application]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess Performance]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
+- [Application](../elements/application.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the diversity of participants, the level of student involvement, the implementation of solutions, and the impact on equity-related outcomes.

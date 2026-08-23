@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Normalizing Trouble
+description: Normalizing struggle involves acknowledging that challenges and failures are a natural part of the learning process and a sign of growth.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Normalizing Trouble
@@ -35,10 +39,10 @@ Normalizing struggle involves acknowledging that challenges and failures are a n
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Gain attention](../elements/gain-attention.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learners' responses to challenges and setbacks, track their progress in overcoming difficulties, and gather feedback on their attitudes towards learning.

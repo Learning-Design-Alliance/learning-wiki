@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Digital Noise Monitoring
+description: Digital noise monitoring involves using apps or devices like Super Sound Box, Class Dojo, or Too Noisy to detect and signal excessive noise levels in the classroom.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Digital Noise Monitoring
@@ -35,8 +39,8 @@ Digital noise monitoring involves using apps or devices like Super Sound Box, Cl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track noise levels over time using monitoring tools. Observe student responses to auditory or visual cues.

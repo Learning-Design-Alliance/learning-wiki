@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Quick Writes
+description: Quick Writes are short, focused informational writing tasks completed in under ten minutes, aimed at helping students process, organize, and remember information and ideas.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Quick Writes
@@ -35,9 +39,9 @@ Quick Writes are short, focused informational writing tasks completed in under t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess Performance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](../elements/practice.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess the clarity, organization, and accuracy of information in student responses. Track improvement in writing fluency and conciseness over time.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Project-based Learning
+description: Project-based learning (PBL) is an instructional approach that engages learners in real-world, complex problems or challenges.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Project-based Learning
@@ -35,14 +39,14 @@ Project-based learning (PBL) is an instructional approach that engages learners 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/knowledge-building-discourse|Knowledge-Building Discourse]]
-- [[elements/application|Application]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/real-world-math|Real-world Math]]
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Knowledge-Building Discourse](../elements/knowledge-building-discourse.md)
+- [Application](../elements/application.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Real-world Math](../elements/real-world-math.md)
 
 ## Assessment Evidence
 - Learner-generated questions demonstrate investment in the inquiry process. Public products display evidence of high-quality work. Self and peer assessment data reveals growth in skills such as collaboration, communication, critical thinking, and creativity.

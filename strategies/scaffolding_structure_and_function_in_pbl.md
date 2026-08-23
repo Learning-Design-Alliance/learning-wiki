@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Scaffolding Structure and Function in PBL
+description: Scaffolding structure and function in project-based learning (PBL) involves providing students with the necessary tools to demonstrate their understanding of content by giving them specific functions and structures of the language.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Scaffolding Structure and Function in PBL
@@ -35,10 +39,10 @@ Scaffolding structure and function in project-based learning (PBL) involves prov
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Improved student communication, enhanced use of specific language structures in project work, and positive feedback from students and educators.

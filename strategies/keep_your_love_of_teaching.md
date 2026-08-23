@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Keep Your Love of Teaching
+description: Continue creating engaging projects and lessons and keep enjoying the students.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Keep Your Love of Teaching
@@ -35,9 +39,9 @@ Continue creating engaging projects and lessons and keep enjoying the students. 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe the classroom environment, track student engagement, and gather feedback from students and staff.

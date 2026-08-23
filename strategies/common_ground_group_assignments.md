@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Common Ground Group Assignments
+description: Providing group assignments where learners can find common ground and/or interests involves designing collaborative tasks that encourage learners to identify shared interests, values, or goals.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Common Ground Group Assignments
@@ -35,9 +39,9 @@ Providing group assignments where learners can find common ground and/or interes
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/application|Application]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe the learners' interactions, participation, and teamwork during group assignments. Gather feedback from the learners about their experiences and perceptions of the group dynamic. Assess the quality of the group's work, including the depth of their discussions, the level of support they provide to each other, and the overall outcomes of the assignment.

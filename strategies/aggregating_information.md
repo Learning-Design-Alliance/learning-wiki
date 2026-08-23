@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Aggregating Information
+description: Aggregating involves finding and displaying patterns in discussions and other communications.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Aggregating Information
@@ -35,9 +39,9 @@ Aggregating involves finding and displaying patterns in discussions and other co
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Improved student understanding of key themes, increased ability to connect ideas, and positive feedback on the facilitation of discussions.

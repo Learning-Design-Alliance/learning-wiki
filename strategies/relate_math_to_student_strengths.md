@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Relate Math to Student Strengths
+description: "Connecting math to students' personal strengths involves helping students understand how math is used in the real world in ways that align with their interests and expertise."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Relate Math to Student Strengths
@@ -35,8 +39,8 @@ Connecting math to students' personal strengths involves helping students unders
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/analogies-and-prior-knowledge-activation|Analogies and prior knowledge activation]]
+- [Application](../elements/application.md)
+- [Analogies and prior knowledge activation](../elements/analogies-and-prior-knowledge-activation.md)
 
 ## Assessment Evidence
 - Assess students’ engagement and motivation through observation and participation. Collect feedback from students on their perceptions of the relevance of math to their lives. Analyze student work to identify connections to their personal interests and strengths.

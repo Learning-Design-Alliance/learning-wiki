@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: The Best Part of Me Book
+description: Have the class create a book in which each student tells one thing they like about themselves.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # The Best Part of Me Book
@@ -35,8 +39,8 @@ Have the class create a book in which each student tells one thing they like abo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student participation and self-expression, gather feedback from students

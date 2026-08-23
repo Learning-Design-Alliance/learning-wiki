@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Assume Support
+description: Be aware that families’ attitudes and beliefs about education may vary, and it’s a mistake to assume that all students have parents who promote school engagement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Assume Support
@@ -35,7 +39,7 @@ Be aware that families’ attitudes and beliefs about education may vary, and it
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track improvements in family engagement, student well-being, and academic performance.

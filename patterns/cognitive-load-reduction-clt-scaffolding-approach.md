@@ -1,8 +1,24 @@
 ---
 type: pattern
+title: Cognitive Load Reduction (CLT Scaffolding Approach)
+description: This pattern designs instruction to reduce unnecessary load while preserving the mental work that actually contributes to learning.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: sweller-1998
+    resource: "https://doi.org/10.1023/A:1022193728205"
+    title: "Sweller, J., van Merrienboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296"
+    author: "Sweller, J., van Merrienboer, J. J. G., & Paas, F"
+  - id: sweller-2011
+    resource: "https://doi.org/10.1016/B978-0-12-387691-1.00002-8"
+    title: "Sweller, J. (2011). Cognitive load theory. *Psychology of Learning and Motivation, 55*, 37-76"
+    author: Sweller, J
+  - id: van-gog-2011
+    resource: "https://doi.org/10.1016/j.cedpsych.2010.10.004"
+    title: "van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212-218"
+    author: "van Gog, T., Kester, L., & Paas, F"
 author: Sweller, van Merrienboer, and Paas
 grain_size: lesson
 ---
@@ -52,11 +68,11 @@ The pattern is especially useful when material is conceptually dense or when nov
 
 ### Claims
 #### Supporting
-- [[claims/worked-examples-example-problem-sequences]] [+M]
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/part-task-practice-reduces-load-for-novices]] [+M]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 #### Contradicting
-- [[claims/worked-examples-expertise-reversal]] [+M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-expertise-reversal.md) [+M]
 
 ## Design
 
@@ -68,16 +84,16 @@ The pattern is especially useful when material is conceptually dense or when nov
 5. Shift toward more independent and variable tasks.
 
 ### Elements Used
-- [[elements/part-task-practice|Part-task Practice]]
-- [[elements/practice|Practice]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/assessment|Assessment]]
+- [Part-task Practice](../elements/part-task-practice.md)
+- [Practice](../elements/practice.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [[principles/worked-examples|Worked Examples]]
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/creating-visual-representations|Creating Visual Representations]]
-- [[principles/multimodal-instruction|Multimodal Instruction]]
+- [Worked Examples](../principles/worked-examples.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Multimodal Instruction](../principles/multimodal-instruction.md)
 
 ### Personalization
 - The amount of guidance can be adjusted by prior knowledge.
@@ -85,8 +101,8 @@ The pattern is especially useful when material is conceptually dense or when nov
 - Tasks can be chunked differently depending on where overload is occurring.
 
 ## Related Patterns
-- [[patterns/4cid-four-component-instructional-design|Four-Component Instructional Design]]
-- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
+- [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
+- [Problem-Based Learning (PBL)](problem-based-learning-pbl.md)
 
 ## Examples
 - Example-problem sequences in math or programming.

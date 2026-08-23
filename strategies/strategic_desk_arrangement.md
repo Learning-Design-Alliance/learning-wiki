@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strategic Desk Arrangement
+description: Arranging desks strategically can support different learning activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strategic Desk Arrangement
@@ -35,7 +39,7 @@ Arranging desks strategically can support different learning activities. Small g
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation in different seating arrangements. Gather feedback on the impact of desk arrangement on learning.

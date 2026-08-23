@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Augmented Reality (AR) for Space Industry Training
+description: Augmented reality can assist astronauts with tasks such as maintaining a space station by providing visual work instructions without turning to manuals.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Augmented Reality (AR) for Space Industry Training
@@ -35,11 +39,11 @@ Augmented reality can assist astronauts with tasks such as maintaining a space s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/application|Application]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Task completion time, reduced errors, improved collaboration, successful simulations.

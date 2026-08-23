@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Website Domain Analysis
+description: Learners are taught the differences between .com, .gov, .org, and .edu domains to assess the reliability of websites.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Website Domain Analysis
@@ -35,9 +39,9 @@ Learners are taught the differences between .com, .gov, .org, and .edu domains t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Assess learners' ability to accurately identify the domain type of a website and to explain the potential implications for its reliability. Observe the quality of their source evaluations and the arguments they make to support their conclusions.

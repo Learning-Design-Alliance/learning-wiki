@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teacher Modeling
+description: Demonstrating writing strategies and techniques by showing students how you use them yourself.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teacher Modeling
@@ -35,12 +39,12 @@ Demonstrating writing strategies and techniques by showing students how you use 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/modeling|Modeling]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Modeling](../elements/modeling.md)
 
 ## Assessment Evidence
 - Student writing samples demonstrating increased risk-taking and experimentation. Student reflections on their writing process. Observation of student engagement during writing activities.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Familiar, Repetitive Tasks
+description: Providing learners with familiar, quiet, and repetitive fine motor and visual tasks to complete at the beginning of the day or during transition times to promote calmness and focus.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Familiar, Repetitive Tasks
@@ -35,8 +39,8 @@ Providing learners with familiar, quiet, and repetitive fine motor and visual ta
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation in these tasks. Collect feedback from learners on the effectiveness of different tasks. Track changes in learners' behavior, attention, and emotional regulation.

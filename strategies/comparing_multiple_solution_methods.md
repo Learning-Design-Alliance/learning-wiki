@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Comparing Multiple Solution Methods
+description: Learners compare and contrast multiple solution methods for the same problem, as opposed to studying one method at a time.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Comparing Multiple Solution Methods
@@ -35,10 +39,10 @@ Learners compare and contrast multiple solution methods for the same problem, as
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess learners' ability to solve problems using multiple methods. Evaluate their understanding of the concepts underlying the solution methods.

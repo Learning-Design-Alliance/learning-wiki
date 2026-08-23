@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Think-Pair-Share (Turn & Talk)"
+description: Think-Pair-Share is a cooperative learning strategy designed to encourage individual participation and articulate communication.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Think-Pair-Share (Turn & Talk)
@@ -35,9 +39,9 @@ Think-Pair-Share is a cooperative learning strategy designed to encourage indivi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the level of student participation and engagement during each step. Assess the quality and depth of student responses during pair and whole-class discussions. Monitor the types of questions students ask and the connections they make between ideas.

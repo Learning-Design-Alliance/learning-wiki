@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Discussion (Pre-Reading)
+description: In this pre-reading activity, the instructor prepares several sentences expressing different opinions about the reading topic and places them around the room.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Discussion (Pre-Reading)
@@ -35,9 +39,9 @@ In this pre-reading activity, the instructor prepares several sentences expressi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/argument-construction|Argument Construction]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Argument Construction](../elements/argument-construction.md)
 
 ## Assessment Evidence
 - Observe the depth of discussion, the quality of reasons provided, and the level of engagement. Collect feedback on how the activity prepared learners for the reading.

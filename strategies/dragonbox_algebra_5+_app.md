@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: DragonBox Algebra 5+ App
+description: Help kids develop their problem-solving and algebra skills with different levels of difficulties.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # DragonBox Algebra 5+ App
@@ -35,9 +39,9 @@ Help kids develop their problem-solving and algebra skills with different levels
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track progress and skill development through levels.

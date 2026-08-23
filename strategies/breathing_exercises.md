@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Breathing Exercises
+description: Breathing exercises can help learners to focus and settle their feelings and thoughts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Breathing Exercises
@@ -35,8 +39,8 @@ Breathing exercises can help learners to focus and settle their feelings and tho
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Self-reported improvements in focus and emotional regulation

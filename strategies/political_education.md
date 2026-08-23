@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Political Education
+description: Political education involves developing a comprehensive understanding of the historical, social, and political contexts that shape a problem.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Political Education
@@ -35,12 +39,12 @@ Political education involves developing a comprehensive understanding of the his
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the depth of understanding and critical thinking demonstrated in discussions and written work. Track the extent to which participants apply their learning to inform their actions and advocacy.

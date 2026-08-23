@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Empowering Students as Leaders
+description: Identify students with challenging behaviors who exhibit leadership qualities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Empowering Students as Leaders
@@ -35,12 +39,12 @@ Identify students with challenging behaviors who exhibit leadership qualities. A
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/role-reversal|Role Reversal]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
+- [Role Reversal](../elements/role-reversal.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners’ engagement, participation, and leadership skills within groups. Collect data from formative assessments, group projects, and peer evaluations. Track changes in behavior and academic performance.

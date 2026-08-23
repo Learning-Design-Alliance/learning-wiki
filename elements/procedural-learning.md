@@ -1,8 +1,11 @@
 ---
 type: element
+title: Procedural Learning
+description: Procedural learning is the element in which learners acquire stepwise routines, methods, or operations through guided performance.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Procedural Learning
@@ -11,9 +14,9 @@ edited_by: Codex
 Procedural learning is the element in which learners acquire stepwise routines, methods, or operations through guided performance.
 
 ## Affordances
-- [[principles/procedural-learning|Procedural Learning]]
-- [[principles/explicit-instruction|Explicit Instruction]]
+- [Procedural Learning](../principles/procedural-learning.md)
+- [Explicit Instruction](../principles/explicit-instruction.md)
 
 ## Related Elements
-- [[elements/procedural-information|Procedural Information]]
-- [[elements/guided-practice|Guided Practice]]
+- [Procedural Information](procedural-information.md)
+- [Guided Practice](guided-practice.md)

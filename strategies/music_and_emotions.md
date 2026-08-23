@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Music and Emotions
+description: Learners listen to different types of music and discuss how it makes them feel, fostering emotional awareness and providing a creative outlet for emotional expression.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Music and Emotions
@@ -35,9 +39,9 @@ Learners listen to different types of music and discuss how it makes them feel, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Observe learners' ability to connect specific music types with corresponding emotions. Assess their participation and engagement in the activity.

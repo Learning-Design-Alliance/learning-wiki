@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Family Book Club
+description: Choose a book that is representative of your students and in their home language if possible.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Family Book Club
@@ -35,8 +39,8 @@ Choose a book that is representative of your students and in their home language
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track participation, gather feedback from families

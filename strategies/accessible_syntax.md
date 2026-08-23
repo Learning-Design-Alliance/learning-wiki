@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Accessible Syntax
+description: "This strategy involves adjusting the complexity of sentence structures to suit the learner's cognitive capacity."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Accessible Syntax
@@ -35,8 +39,8 @@ This strategy involves adjusting the complexity of sentence structures to suit t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learner participation, evaluate sentence construction skills, and gather feedback on the clarity of instruction.

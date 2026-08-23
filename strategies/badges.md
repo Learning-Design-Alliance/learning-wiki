@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Badges
+description: Badges are a digital way to acknowledge learner work.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Badges
@@ -35,8 +39,8 @@ Badges are a digital way to acknowledge learner work. Learners can receive a bad
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track badge completion rates. Observe learner engagement with badge-earning activities. Gather feedback on the perceived value of badges.

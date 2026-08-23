@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Collaborative Peer Review
+description: Learners connect with others to provide and receive feedback for improvement on writing tasks.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collaborative Peer Review
@@ -35,9 +39,9 @@ Learners connect with others to provide and receive feedback for improvement on 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor student participation and engagement during peer review, assess the quality of feedback provided by students, review the improvements made in writing based on peer feedback.

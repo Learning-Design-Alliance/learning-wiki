@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reflection Exercises
+description: Reflection exercises are activities designed to promote emotional self-awareness and regulation by encouraging learners to think about their feelings and behaviors.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflection Exercises
@@ -35,8 +39,8 @@ Reflection exercises are activities designed to promote emotional self-awareness
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor learner participation

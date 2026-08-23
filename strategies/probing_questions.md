@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Probing Questions
+description: Probing questions are used to encourage deeper reflection and critical thinking by challenging assumptions, exploring reasons and evidence, considering different viewpoints, examining implications, and questioning the basis of the inquiry…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Probing Questions
@@ -35,12 +39,12 @@ Probing questions are used to encourage deeper reflection and critical thinking 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/reassessment|Reassessment]]
-- [[elements/inquiry-based-exploration|Inquiry-Based Exploration]]
-- [[elements/solution-development|Solution Development]]
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Response](../elements/individual-response.md)
+- [Reassessment](../elements/reassessment.md)
+- [Inquiry-Based Exploration](../elements/inquiry-based-exploration.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Analyze the depth and specificity of learner responses. Track the types of questions learners generate themselves.

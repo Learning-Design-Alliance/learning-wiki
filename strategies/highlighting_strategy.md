@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Highlighting Strategy
+description: The highlighting strategy is a digital approach to enhance text engagement, using tools to create individualized highlighters with different colors in digital documents.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Highlighting Strategy
@@ -35,8 +39,8 @@ The highlighting strategy is a digital approach to enhance text engagement, usin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Practice](../elements/practice.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - That provides good reflection and consolidation of the information they just picked out. Since some kids have difficulty prioritizing what to highlight, a teacher could limit the number of items for each color.

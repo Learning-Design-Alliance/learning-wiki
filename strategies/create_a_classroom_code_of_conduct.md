@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Create a Classroom Code of Conduct
+description: Teachers and students collaborate to establish a classroom code of conduct based on respectful, fair, kind, and empathetic behaviors.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Create a Classroom Code of Conduct
@@ -35,8 +39,8 @@ Teachers and students collaborate to establish a classroom code of conduct based
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe classroom behavior and interactions, gather student feedback through surveys or discussions, track disciplinary incidents.

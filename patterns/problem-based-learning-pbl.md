@@ -1,8 +1,20 @@
 ---
 type: pattern
+title: Problem-Based Learning (PBL)
+description: Problem-Based Learning is a pattern that organizes a course, unit, or module around a complex problem that learners must investigate and respond to.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: hmelo-silver-2004
+    resource: "https://doi.org/10.1023/B:EDPR.0000034022.16470.f3"
+    title: "Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266"
+    author: Hmelo-Silver, C. E
+  - id: savery-2006
+    resource: "https://doi.org/10.7771/1541-5015.1002"
+    title: "Savery, J. R. (2006). Overview of problem-based learning: Definitions and distinctions. *Interdisciplinary Journal of Problem-Based Learning, 1*(1), 9-20"
+    author: Savery, J. R
 author: Barrows and Tamblyn
 grain_size: unit
 ---
@@ -52,11 +64,11 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 
 ### Claims
 #### Supporting
-- [[claims/whole-task-performance-improves-transfer]] [+S]
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
 #### Contradicting
-- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -68,16 +80,16 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 5. Debrief what was learned about both the problem and the inquiry process.
 
 ### Elements Used
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/problem-solving-tasks|Problem-Solving Tasks]]
-- [[elements/reflection|Reflection]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Problem-Solving Tasks](../elements/problem-solving-tasks.md)
+- [Reflection](../elements/reflection.md)
 
 ### Affordances
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/inquiry-based-learning|Inquiry-based Learning]]
-- [[principles/authentic-audiences-purposes|Authentic Audiences & Purposes]]
-- [[principles/guided-practice|Guided Practice]]
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
+- [Guided Practice](../principles/guided-practice.md)
 
 ### Personalization
 - Problems can be selected or adapted for learner context and domain.
@@ -85,8 +97,8 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 - Products can vary, including presentations, proposals, designs, or cases.
 
 ## Related Patterns
-- [[patterns/anchored-instruction|Anchored Instruction]]
-- [[patterns/case-based-learning-harvard-method|Case-Based Learning (Harvard Method)]]
+- [Anchored Instruction](anchored-instruction.md)
+- [Case-Based Learning (Harvard Method)](case-based-learning-harvard-method.md)
 
 ## Examples
 - Medical learners diagnosing and responding to a patient scenario.

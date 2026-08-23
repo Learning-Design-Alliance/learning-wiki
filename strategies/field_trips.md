@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Field Trips
+description: Field trips are educational excursions that take learners outside of the classroom to experience real-world environments and engage with content in a multisensory, interactive manner.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Field Trips
@@ -35,9 +39,9 @@ Field trips are educational excursions that take learners outside of the classro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Activation](../elements/activation.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Increased test scores, improved engagement in follow-up activities, enhanced critical thinking skills, positive changes in empathy and tolerance, learner-generated artifacts (e.g., reflections, presentations) that demonstrate learning and connection to real-world experiences.

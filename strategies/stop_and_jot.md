@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Stop and Jot
+description: Stop and Jot is a processing activity that provides structured opportunities for learners to pause and respond in writing to key questions during a lesson.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Stop and Jot
@@ -35,8 +39,8 @@ Stop and Jot is a processing activity that provides structured opportunities for
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review the content and depth of student jots to assess comprehension and critical thinking. Observe the level of engagement during sharing and discussion. Analyze the connections made between new and previously learned material.

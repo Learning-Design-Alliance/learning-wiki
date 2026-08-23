@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Promoting a Growth Mindset
+description: Promoting a growth mindset, particularly in mathematics, encourages learners to believe that intelligence is not fixed.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Promoting a Growth Mindset
@@ -35,8 +39,8 @@ Promoting a growth mindset, particularly in mathematics, encourages learners to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Measure the depth of learner understanding.

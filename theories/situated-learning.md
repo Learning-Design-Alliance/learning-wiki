@@ -1,8 +1,11 @@
 ---
 type: theory
+title: Situated Learning
+description: Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 ---
 
 # Situated Learning
@@ -18,8 +21,8 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - Qualifies theories that treat learning only as internal information processing.
 
 ## Related Theories
-- [[theories/constructivism|Constructivism]]
-- [[theories/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Constructivism](constructivism.md)
+- [Cognitive Apprenticeship](cognitive-apprenticeship.md)
 
 ## Key Sources
 - Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press.

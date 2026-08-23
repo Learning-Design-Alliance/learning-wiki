@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Diversity of Perspectives and Identities
+description: Learning from multiple and varying perspectives involves incorporating diverse voices, experiences, and viewpoints into the curriculum.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Diversity of Perspectives and Identities
@@ -35,9 +39,9 @@ Learning from multiple and varying perspectives involves incorporating diverse v
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe learner engagement in discussions and activities. Assess learner understanding of diverse perspectives through written assignments or presentations. Track improvements in empathy and cultural awareness through surveys or reflections.

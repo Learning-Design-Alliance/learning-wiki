@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Communication Boards
+description: Communication boards are visual aids that display symbols, pictures, words, or phrases to help individuals with limited or no verbal communication express their thoughts, needs, and ideas.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Communication Boards
@@ -35,9 +39,9 @@ Communication boards are visual aids that display symbols, pictures, words, or p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe the frequency and effectiveness of communication board use, assess the user's ability to express thoughts and needs using the board, and gather feedback from users and communication partners.

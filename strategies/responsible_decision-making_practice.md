@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Responsible Decision-Making Practice
+description: Learners engage in problem-solving scenarios in pairs or small groups, connecting to their everyday lives (e.g., cheating, bullying), to make decisions, analyze situations, and consider possible consequences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Responsible Decision-Making Practice
@@ -35,10 +39,10 @@ Learners engage in problem-solving scenarios in pairs or small groups, connectin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/reflection|Reflection]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Reflection](../elements/reflection.md)
 
 ## Assessment Evidence
 - Observe the quality of group discussions, the depth of scenario analysis, and the level of self-reflection.

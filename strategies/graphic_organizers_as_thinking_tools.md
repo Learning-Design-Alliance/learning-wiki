@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers as Thinking Tools
+description: Students interact with content by organizing chunks of it into graphic organizers in groups, pairs, or individually, then comparing their results.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers as Thinking Tools
@@ -35,8 +39,8 @@ Students interact with content by organizing chunks of it into graphic organizer
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/application|Application]]
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Quality of interactions and analyses of content.

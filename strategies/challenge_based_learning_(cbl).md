@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Challenge Based Learning (CBL)
+description: Challenge Based Learning (CBL) is a customizable framework that provides an efficient and effective way for learners to solve real-world challenges.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Challenge Based Learning (CBL)
@@ -35,11 +39,11 @@ Challenge Based Learning (CBL) is a customizable framework that provides an effi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/team-based-inquiry|Team-Based Inquiry]]
-- [[elements/evidence-based-reasoning|Evidence-Based Reasoning]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
+- [Team-Based Inquiry](../elements/team-based-inquiry.md)
+- [Evidence-Based Reasoning](../elements/evidence-based-reasoning.md)
 
 ## Assessment Evidence
 - Quality of solutions developed, depth of subject area knowledge demonstrated, and effectiveness of collaboration and communication skills.

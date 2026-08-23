@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Gamification
+description: Gamification is the integration of game elements like point systems, leaderboards, badges, or other elements related to games into “conventional” learning activities in order to increase engagement and motivation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Gamification
@@ -35,9 +39,9 @@ Gamification is the integration of game elements like point systems, leaderboard
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student participation and engagement with gamified activities. Compare learning outcomes between gamified and non-gamified courses. Monitor student feedback regarding motivation and engagement.

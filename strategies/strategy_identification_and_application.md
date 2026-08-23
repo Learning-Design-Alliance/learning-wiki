@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strategy Identification and Application
+description: "This strategy involves explicitly teaching problem-solving strategies and providing opportunities for students to practice using them when they feel 'stuck.' Students are encouraged to be mindful of how they are getting themselves unstuck…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strategy Identification and Application
@@ -35,13 +39,13 @@ This strategy involves explicitly teaching problem-solving strategies and provid
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Gain attention](../elements/gain-attention.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe learners' ability to identify and apply appropriate problem-solving strategies. Track changes in learners' metacognitive skills. Measure learners' problem-solving abilities.

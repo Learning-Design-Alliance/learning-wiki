@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Pre-reading: Skim a Book Systematically"
+description: Skimming or pre-reading a book involves a systematic approach to discover whether the book requires a more careful reading.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-reading: Skim a Book Systematically
@@ -35,9 +39,9 @@ Skimming or pre-reading a book involves a systematic approach to discover whethe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/advance-organizers|Advance Organizers]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Assess the learner's ability to summarize the book's main topics and structure after skimming.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Reinforcement in Writing
+description: Self-reinforcement involves using effort-based and behavior-specific praise to encourage students during the writing process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Reinforcement in Writing
@@ -35,8 +39,8 @@ Self-reinforcement involves using effort-based and behavior-specific praise to e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor student motivation and engagement levels; track improvements in comfort with writing skills; observe changes in mindset

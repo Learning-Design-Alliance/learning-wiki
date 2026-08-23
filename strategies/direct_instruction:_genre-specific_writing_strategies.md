@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Direct Instruction: Genre-specific Writing Strategies"
+description: "Direct instruction of genre-specific writing strategies involves explicitly teaching the characteristics and conventions of different writing genres to enhance students' understanding and skills in both reading and writing."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Direct Instruction: Genre-specific Writing Strategies
@@ -35,10 +39,10 @@ Direct instruction of genre-specific writing strategies involves explicitly teac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assessment can include student writing samples, participation in discussions, and completion of genre-specific writing tasks. Success is measured by students' ability to effectively apply genre conventions in their writing.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Navigator-Tourist Peer Learning
+description: "Pair struggling learners ('tourists') with learners who have mastered the content ('navigators')."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Navigator-Tourist Peer Learning
@@ -35,12 +39,12 @@ Pair struggling learners ('tourists') with learners who have mastered the conten
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/articulation|Articulation]]
-- [[elements/perspective-taking|Perspective-Taking]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Articulation](../elements/articulation.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners’ engagement, participation, and teaching/learning skills within groups. Collect data from formative assessments, group projects, and peer evaluations. Track changes in performance following implementation of navigator-tourist learning.

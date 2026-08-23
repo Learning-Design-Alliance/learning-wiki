@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Motion and Forces Experiments
+description: Motion and forces experiments involve exploring how forces affect the motion of objects.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Motion and Forces Experiments
@@ -35,8 +39,8 @@ Motion and forces experiments involve exploring how forces affect the motion of 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in measuring distances and angles, correct identification of variables affecting motion, logical explanations of energy transfer

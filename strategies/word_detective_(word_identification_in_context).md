@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Word Detective (Word Identification in Context)
+description: Learners identify target vocabulary within varied contexts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Word Detective (Word Identification in Context)
@@ -35,11 +39,11 @@ Learners identify target vocabulary within varied contexts. Learners search for 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track the words identified within the context. Observe the ability to locate, highlight, and verbally share the vocabulary.

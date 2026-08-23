@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Fidget Utilization Protocol
+description: Fidgets are tools to aid focus and self-regulation, not toys.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Fidget Utilization Protocol
@@ -35,9 +39,9 @@ Fidgets are tools to aid focus and self-regulation, not toys. This strategy invo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observation of improved focus, reduced fidgeting, and adherence to rules. Monitoring of self-regulation skills.

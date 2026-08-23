@@ -1,8 +1,11 @@
 ---
 type: element
+title: Investigate
+description: Investigate is the element in which learners collect information, examine evidence, or test ideas to answer a question.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Investigate
@@ -11,8 +14,8 @@ edited_by: Codex
 Investigate is the element in which learners collect information, examine evidence, or test ideas to answer a question.
 
 ## Affordances
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [[elements/guided-inquiry|Guided Inquiry]]
-- [[elements/data-analysis|Data Analysis]]
+- [Guided Inquiry](guided-inquiry.md)
+- [Data Analysis](data-analysis.md)

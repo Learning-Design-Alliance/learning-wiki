@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Pre-reading: Understand the Purpose of the Reading"
+description: Understanding the purpose of pre-reading is to increase the capacity to comprehend material before starting to read.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-reading: Understand the Purpose of the Reading
@@ -35,8 +39,8 @@ Understanding the purpose of pre-reading is to increase the capacity to comprehe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/state-objectives|State objectives]]
+- [Gain attention](../elements/gain-attention.md)
+- [State objectives](../elements/state-objectives.md)
 
 ## Assessment Evidence
 - Assess the learner's ability to summarize the main points of the text after pre-reading and detailed reading.

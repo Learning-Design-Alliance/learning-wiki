@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Kids React
+description: Perform an online image search for the words “school lunch,” and project the results or create handouts with the images from the search results.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Kids React
@@ -35,9 +39,9 @@ Perform an online image search for the words “school lunch,” and project the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Review students' written reflections and assess their ability to identify assumptions and biases.

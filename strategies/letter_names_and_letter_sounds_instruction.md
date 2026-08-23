@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Letter Names and Letter Sounds Instruction
+description: Explicit and direct instruction of letter names and letter sounds, which is critical for early literacy development.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Letter Names and Letter Sounds Instruction
@@ -35,9 +39,9 @@ Explicit and direct instruction of letter names and letter sounds, which is crit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess letter recognition and sound production. Monitor progress in spelling and reading skills.

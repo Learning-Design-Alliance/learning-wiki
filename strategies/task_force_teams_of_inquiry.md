@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Task Force Teams of Inquiry
+description: Forming task force teams of inquiry by letting teams form (or helping with this) and asking each team to select a topic from the brainstorm list.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Task Force Teams of Inquiry
@@ -35,8 +39,8 @@ Forming task force teams of inquiry by letting teams form (or helping with this)
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/demonstration|Demonstration]]
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Assessments can include team presentations, research reports, and individual reflections. Peer evaluations can provide insights into team dynamics and individual contributions.

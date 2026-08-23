@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Talking to Young Children About Race and Racism
+description: This strategy involves parents and caregivers initiating conversations with young children about race, racism, and anti-racism.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Talking to Young Children About Race and Racism
@@ -35,9 +39,9 @@ This strategy involves parents and caregivers initiating conversations with youn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Observe the level of engagement in conversations, analyze children's questions and comments, track changes in attitudes and behaviors, and gather feedback from parents and caregivers.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Identifying and Supporting Learners with Relationship Skills
+description: Identifying and supporting learners who have learning strengths or challenges related to relationship skills helps them improve and succeed.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Identifying and Supporting Learners with Relationship Skills
@@ -35,9 +39,9 @@ Identifying and supporting learners who have learning strengths or challenges re
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observation of improved interactions between learners.

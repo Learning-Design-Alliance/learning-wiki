@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating a Culture of Error
+description: Creating a culture of error involves fostering a classroom or learning environment where mistakes are viewed as valuable learning opportunities rather than failures.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating a Culture of Error
@@ -35,9 +39,9 @@ Creating a culture of error involves fostering a classroom or learning environme
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/gain-attention|Gain attention]]
-- [[elements/application|Application]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Gain attention](../elements/gain-attention.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe changes in learner behavior, such as increased willingness to ask questions and participate in activities. Track the types of questions learners ask to assess their understanding of concepts. Analyze the quality and depth of learner reflections on their mistakes. Measure the impact of the culture of error on learner performance and growth over time.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Purpose (Pre-Reading)
+description: Learners are given a specific purpose for reading, typically in the form of discussion questions about the content prepared by the teacher.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Purpose (Pre-Reading)
@@ -35,9 +39,9 @@ Learners are given a specific purpose for reading, typically in the form of disc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe the quality of discussions and the answers provided. Collect feedback on how well the questions guided their reading.

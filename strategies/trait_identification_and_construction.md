@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Trait Identification and Construction
+description: These tasks involve the study of traits, requiring learners to identify animal body parts from puzzle pieces and construct either real or mythical animals.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Trait Identification and Construction
@@ -35,8 +39,8 @@ These tasks involve the study of traits, requiring learners to identify animal b
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in identifying animal traits, correctness in constructions, precision in measurements

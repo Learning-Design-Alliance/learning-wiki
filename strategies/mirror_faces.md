@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mirror Faces
+description: Learners pair up, and one makes an emotional face while the other mirrors it, promoting recognition and understanding of facial expressions associated with different emotions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mirror Faces
@@ -35,8 +39,8 @@ Learners pair up, and one makes an emotional face while the other mirrors it, pr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/demonstration|Demonstration]]
+- [Practice](../elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately mirror facial expressions. Assess their ability to identify and discuss the emotions displayed.

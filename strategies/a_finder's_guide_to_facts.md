@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "A Finder's Guide to Facts"
+description: A set of questions to determine the credibility of a news story.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # A Finder's Guide to Facts
@@ -35,7 +39,7 @@ A set of questions to determine the credibility of a news story. These include a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Ability to answer questions about the credibility of a news story

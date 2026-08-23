@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: CRAAP Test
+description: "Teach kids how to confirm the credibility of a website with a scoring guide like the CRAAP test worksheet (Yup, this is a real evaluation tool!)."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # CRAAP Test
@@ -35,8 +39,8 @@ Teach kids how to confirm the credibility of a website with a scoring guide like
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Worksheet scores.

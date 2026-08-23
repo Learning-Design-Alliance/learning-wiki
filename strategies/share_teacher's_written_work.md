@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Share Teacher's Written Work"
+description: Instructors share their written work with learners, soliciting feedback and criticism to model the value of continuous improvement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Share Teacher's Written Work
@@ -35,10 +39,10 @@ Instructors share their written work with learners, soliciting feedback and crit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Demonstration](../elements/demonstration.md)
+- [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased learner participation in feedback activities, improved quality of learner feedback, changes in learners' attitudes towards receiving feedback on their own work.

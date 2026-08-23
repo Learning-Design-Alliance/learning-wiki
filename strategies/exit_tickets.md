@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Exit Tickets
+description: Exit tickets are short prompts given at the end of a lesson to encourage self-assessment, reflection, and growth mindset.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Exit Tickets
@@ -35,9 +39,9 @@ Exit tickets are short prompts given at the end of a lesson to encourage self-as
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess Performance]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assess Performance](../elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Thoughtfulness and honesty of student responses, alignment between student self-assessment and actual performance, changes in mindset over time

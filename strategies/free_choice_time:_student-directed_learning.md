@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Free Choice Time: Student-Directed Learning"
+description: Providing learners with choice in activities promotes engagement, responsibility, and independence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Free Choice Time: Student-Directed Learning
@@ -35,9 +39,9 @@ Providing learners with choice in activities promotes engagement, responsibility
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [State objectives](../elements/state-objectives.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Learner engagement and participation. Quality of completed tasks. Learner feedback on their experience.

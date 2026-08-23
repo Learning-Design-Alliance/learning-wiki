@@ -1,8 +1,16 @@
 ---
 type: element
+title: Conceptual Scaffolding
+description: Conceptual scaffolding is the element in which learners are given temporary structures, prompts, or representations that help them understand the underlying ideas of a domain before handling them independently.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: van-de-pol-2010
+    resource: "https://doi.org/10.1007/s10648-010-9127-6"
+    title: "van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher-student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271-296"
+    author: "van de Pol, J., Volman, M., & Beishuizen, J"
 ---
 
 # Conceptual Scaffolding
@@ -23,17 +31,17 @@ Conceptual scaffolding is the element in which learners are given temporary stru
 - Build conceptual understanding while managing complexity.
 
 ### Affordances
-- [[principles/scaffolding|Scaffolding]]
-- [[principles/constructivist-learning|Constructivist Learning]]
+- [Scaffolding](../principles/scaffolding.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
 
 ## Related Elements
-- [[elements/conceptual-overviews|Conceptual Overviews]]
-- [[elements/simple-to-complex-sequencing|Simple-to-Complex Sequencing]]
-- [[elements/advance-organizers|Advance Organizers]]
+- [Conceptual Overviews](conceptual-overviews.md)
+- [Simple-to-Complex Sequencing](simple-to-complex-sequencing.md)
+- [Advance Organizers](advance-organizers.md)
 
 ## Patterns That Use This Element
-- [[patterns/elaboration-theory|Elaboration Theory]]
-- [[patterns/merrills-first-principles|Merrill's First Principles]]
+- [Elaboration Theory](../patterns/elaboration-theory.md)
+- [Merrill's First Principles](../patterns/merrills-first-principles.md)
 
 ## Examples
 - Providing a simplified conceptual model before asking learners to interpret a more complex case.

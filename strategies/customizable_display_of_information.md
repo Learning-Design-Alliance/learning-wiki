@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Customizable Display of Information
+description: Providing adjustable settings and accessible formats to accommodate individual needs and preferences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Customizable Display of Information
@@ -35,10 +39,10 @@ Providing adjustable settings and accessible formats to accommodate individual n
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Supportive information](../elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track learner use of customization features. Gather feedback on the effectiveness of customization options in supporting learning. Monitor learner performance and engagement with customized materials.

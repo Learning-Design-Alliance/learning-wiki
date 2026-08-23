@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pupil-Generated Word Problems
+description: Learners create their own word problems to enhance awareness and sharpen basic math skills, fostering comfort in solving a variety of math problems.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pupil-Generated Word Problems
@@ -35,9 +39,9 @@ Learners create their own word problems to enhance awareness and sharpen basic m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Application](../elements/application.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Evaluate the quality and complexity of problems created by learners. Assess the accuracy and completeness of solutions provided by learners. Observe learner engagement and participation in the problem-solving process.

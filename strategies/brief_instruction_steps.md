@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Brief Instruction Steps
+description: Breaking up instructions into short, concrete steps allows learners to pay attention to and remember one instruction at a time.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Brief Instruction Steps
@@ -35,8 +39,8 @@ Breaking up instructions into short, concrete steps allows learners to pay atten
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' ability to follow multi-step instructions. Track error rates in task completion. Gather feedback on clarity and effectiveness of instructions.

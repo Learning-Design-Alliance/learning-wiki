@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Interviews to Guide Reflection
+description: Set aside time at the end of a learning sequence—a lesson, a unit, a school day, or a school year—to question each other about what has been learned.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Interviews to Guide Reflection
@@ -35,7 +39,7 @@ Set aside time at the end of a learning sequence—a lesson, a unit, a school da
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|individual reflection]]
+- [individual reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track the frequency and quality of peer interactions, noting instances of mutual support and advice-giving. Observe the level of comfort and openness in sharing weaknesses and challenges.

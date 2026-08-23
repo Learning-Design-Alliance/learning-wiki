@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teaching Academic Vocabulary
+description: Explicitly teach mathematical academic vocabulary, including math-specific terms and the difference between mathematical and common definitions of words.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teaching Academic Vocabulary
@@ -35,8 +39,8 @@ Explicitly teach mathematical academic vocabulary, including math-specific terms
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess learner's use of math vocabulary in context, monitor learner's comprehension of mathematical concepts

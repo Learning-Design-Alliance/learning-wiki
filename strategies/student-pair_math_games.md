@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student-Pair Math Games
+description: Pair-based games facilitate active learning through friendly competition, requiring students to recall and apply math skills in a dynamic setting.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student-Pair Math Games
@@ -39,10 +43,10 @@ Pair-based games facilitate active learning through friendly competition, requir
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/application|Application]]
+- [Practice](../elements/practice.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe the accuracy and speed of mathematical responses, as well as participation and engagement levels.

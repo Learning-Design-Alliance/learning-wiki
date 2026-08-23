@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Logic Puzzles
+description: Logic puzzles are challenges designed to exercise the brain and improve memory, hand-eye coordination, and spatial and cognitive skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Logic Puzzles
@@ -35,9 +39,9 @@ Logic puzzles are challenges designed to exercise the brain and improve memory, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/application-of-knowledge|Application of Knowledge]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
 
 ## Assessment Evidence
 - Observe successful completion of puzzles. Track improvement in spatial reasoning and cognitive skills.

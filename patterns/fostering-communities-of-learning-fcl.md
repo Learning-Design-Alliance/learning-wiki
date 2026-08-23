@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Fostering Communities of Learning (FCL)
+description: Fostering Communities of Learning is a pattern for organizing a class as a knowledge-building community rather than a collection of isolated learners.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: Ann L. Brown and Joseph C. Campione
 grain_size: course
 ---
@@ -52,11 +55,11 @@ FCL is strongest when the curriculum can be organized around sustained inquiry a
 
 ### Claims
 #### Supporting
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -68,16 +71,16 @@ FCL is strongest when the curriculum can be organized around sustained inquiry a
 5. Revisit the community's evolving knowledge and identify next questions.
 
 ### Elements Used
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/reflection|Reflection]]
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Reflection](../elements/reflection.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ### Affordances
-- [[principles/communities-of-practice|Communities of Practice]]
-- [[principles/inquiry-based-learning|Inquiry-based Learning]]
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/mentoringcoaching|Mentoring/Coaching]]
+- [Communities of Practice](../principles/communities-of-practice.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Mentoring/Coaching](../principles/mentoringcoaching.md)
 
 ### Personalization
 - Learners can contribute different strengths, backgrounds, and inquiry responsibilities.
@@ -85,8 +88,8 @@ FCL is strongest when the curriculum can be organized around sustained inquiry a
 - Teachers can vary the degree of structure depending on how mature the learning community is.
 
 ## Related Patterns
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
-- [[patterns/jigsaw-method|Jigsaw Method]]
+- [Collaborative Inquiry](collaborative-inquiry.md)
+- [Jigsaw Method](jigsaw-method.md)
 
 ## Examples
 - Science communities where learners investigate subtopics and teach findings back to the class.

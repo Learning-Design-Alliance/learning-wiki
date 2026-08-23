@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: MEL Reasoning Pattern
+description: MEL Reasoning Pattern is the short-form canonical target for the Model-Evidence-Link reasoning pattern, which asks learners to evaluate how evidence supports, challenges, or revises a model or explanation.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: lombardi-2013
+    resource: "https://doi.org/10.1080/00461520.2013.767515"
+    title: "Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility judgments in conceptual change and epistemic cognition. *Educational Psychologist, 48*(1), 35-56"
+    author: "Lombardi, D., Sinatra, G. M., & Nussbaum, E. M"
 author: MEL instructional tradition
 grain_size: lesson
 ---
@@ -29,17 +37,17 @@ MEL Reasoning Pattern is the short-form canonical target for the Model-Evidence-
 
 ### Theory
 #### Supporting
-- [[principles/epistemic-cognition|Epistemic Cognition]]
-- [[principles/constructivism|Constructivism]]
+- [Epistemic Cognition](../principles/epistemic-cognition.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Design
 
 ### Elements Used
-- [[elements/justification-argumentation|Justification & Argumentation]]
-- [[elements/evidence-based-reasoning|Evidence-Based Reasoning]]
+- [Justification & Argumentation](../elements/justification-argumentation.md)
+- [Evidence-Based Reasoning](../elements/evidence-based-reasoning.md)
 
 ## Related Patterns
-- [[patterns/model-evidence-link-mel-reasoning-pattern|Model-Evidence-Link (MEL) Reasoning Pattern]]
+- [Model-Evidence-Link (MEL) Reasoning Pattern](model-evidence-link-mel-reasoning-pattern.md)
 
 ## Key Sources
 - Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility judgments in conceptual change and epistemic cognition. *Educational Psychologist, 48*(1), 35-56. [https://doi.org/10.1080/00461520.2013.767515](https://doi.org/10.1080/00461520.2013.767515)

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotion Charades
+description: Emotion Charades involves a student acting out a scenario that makes them feel a certain way, while the rest of the group guesses the emotion being portrayed.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotion Charades
@@ -35,9 +39,9 @@ Emotion Charades involves a student acting out a scenario that makes them feel a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/practice|Practice]]
+- [Demonstration](../elements/demonstration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' ability to accurately portray emotions and interpret others' portrayals. Assess the depth and complexity of the emotions explored.

@@ -1,7 +1,11 @@
 ---
 type: theory
+title: Social Learning Theory
+description: Social Learning Theory, developed primarily by Albert Bandura, proposes that learning occurs not only through direct reinforcement (as behaviorism holds) but also through observation of others and the cognitive processing of those…
 status: review
-last_edited: 2026-04-08
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-08
 ---
 
 # Social Learning Theory
@@ -31,10 +35,10 @@ Bandura later extended the theory to emphasize *self-efficacy* — a learner's b
 ## Claims
 
 ## Related Theories
-- [[theories/cognitive-apprenticeship|Cognitive Apprenticeship]] — operationalizes social learning via modeling, coaching, and fading in authentic contexts
-- [[theories/situated-learning|Situated Learning]] — extends observational learning to communities of practice
-- [[theories/self-regulated-learning|Self-Regulated Learning]] — incorporates self-efficacy as a regulatory mechanism
-- [[theories/constructivism|Constructivism]] — shares emphasis on active sense-making; differs in granting social observation a direct instructional role
+- [Cognitive Apprenticeship](cognitive-apprenticeship.md) — operationalizes social learning via modeling, coaching, and fading in authentic contexts
+- [Situated Learning](situated-learning.md) — extends observational learning to communities of practice
+- [Self-Regulated Learning](self-regulated-learning.md) — incorporates self-efficacy as a regulatory mechanism
+- [Constructivism](constructivism.md) — shares emphasis on active sense-making; differs in granting social observation a direct instructional role
 
 ## Examples
 

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Virtual Reality (VR) Skills Management Assessments
+description: Virtual reality is used to prepare employees for the commotion when customers swarm stores on Black Friday and evaluating how workers respond to angry shoppers.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Virtual Reality (VR) Skills Management Assessments
@@ -35,9 +39,9 @@ Virtual reality is used to prepare employees for the commotion when customers sw
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/application|Application]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Performance and response quality.

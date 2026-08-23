@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Research Map
+description: A research map is a visual representation of research topics and their interconnections, allowing users to explore academic literature in a structured and intuitive way.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Research Map
@@ -35,8 +39,8 @@ A research map is a visual representation of research topics and their interconn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/research|Research]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Research](../elements/research.md)
 
 ## Assessment Evidence
 - Track user engagement with the research map. Monitor the number of articles and connections explored. Assess the quality of research questions and investigations informed by the map.

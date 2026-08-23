@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Understand Your Bias
+description: This activity increases awareness of personal stereotypes and prejudices, helping learners recognize how their viewpoint influences their perception of others.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Understand Your Bias
@@ -35,9 +39,9 @@ This activity increases awareness of personal stereotypes and prejudices, helpin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the level of engagement in self-reflection, the ability to identify personal biases, and the willingness to consider alternative interpretations. Monitor changes in learners' attitudes and behaviors towards others.

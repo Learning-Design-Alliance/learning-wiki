@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: No-Zero Grading Policy
+description: Setting the lowest possible grade for any assignment or test at 50 percent, even when students turn in no work at all, to give all students a chance to succeed.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # No-Zero Grading Policy
@@ -35,8 +39,8 @@ Setting the lowest possible grade for any assignment or test at 50 percent, even
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student success rates

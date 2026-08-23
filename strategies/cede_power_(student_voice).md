@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cede Power (Student Voice)
+description: This principle emphasizes sharing power with students and families in the design of learning experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cede Power (Student Voice)
@@ -35,9 +39,9 @@ This principle emphasizes sharing power with students and families in the design
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Measure student perceptions of their voice and influence in school decisions, track student engagement in co-design activities, and assess the impact of student-led initiatives.

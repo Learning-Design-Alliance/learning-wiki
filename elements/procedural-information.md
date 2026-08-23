@@ -1,7 +1,11 @@
 ---
 type: element
+title: Procedural information
+description: Step-by-step instructions and just-in-time guidance to assist learners in acquiring procedural fluency.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Procedural information
@@ -27,19 +31,19 @@ Step-by-step instructions and just-in-time guidance to assist learners in acquir
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/procedural-learning|Procedural Learning]]
-- [[principles/cognitive-load-reduction|Cognitive Load Reduction]]
-- [[principles/scaffolding-fading|Scaffolding & Fading]]
+- [Procedural Learning](../principles/procedural-learning.md)
+- [Cognitive Load Reduction](../principles/cognitive-load-reduction.md)
+- [Scaffolding & Fading](../principles/scaffolding-fading.md)
 
 ## Related Elements
-- [[elements/direct-instruction|Direct Instruction]]
-- [[elements/worked-examples|Worked Examples]]
-- [[elements/fading-scaffolding|Fading Scaffolding]]
+- [Direct Instruction](direct-instruction.md)
+- [Worked Examples](worked-examples.md)
+- [Fading Scaffolding](fading-scaffolding.md)
 
 ## Patterns That Use This Element
-- [[patterns/4cid|Four-Component Instructional Design]]
-- [[patterns/worked-examples|Worked Examples]]
-- [[patterns/cognitive-load-theory|Cognitive Load Theory]]
+- [Four-Component Instructional Design](../patterns/4cid.md)
+- [Worked Examples](../patterns/worked-examples.md)
+- [Cognitive Load Theory](../patterns/cognitive-load-theory.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

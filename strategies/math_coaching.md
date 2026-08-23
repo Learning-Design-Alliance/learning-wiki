@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Math Coaching
+description: Small groups of learners work together to solve word problems.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Math Coaching
@@ -35,9 +39,9 @@ Small groups of learners work together to solve word problems. One learner reads
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/application|Application]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe whether learners are actively participating in the math coaching process. Check whether groups accurately solve each of the ten word problems and underline appropriate key words.

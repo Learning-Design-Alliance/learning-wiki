@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strategy Instruction
+description: Strategy instruction teaches learners how to learn effectively by applying principles, rules, or multi-step processes to solve problems or accomplish learning tasks.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strategy Instruction
@@ -35,11 +39,11 @@ Strategy instruction teaches learners how to learn effectively by applying princ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Learner application of strategies in new contexts; learner articulation of when and how to use specific strategies; improved performance on problem-solving tasks

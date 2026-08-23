@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reading Documentation and Reflection
+description: Have students record details about their reading such as book titles, number of pages read, and new vocabulary.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reading Documentation and Reflection
@@ -35,9 +39,9 @@ Have students record details about their reading such as book titles, number of 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Review students' reading records to assess their reflection and progress. Monitor vocabulary development based on recorded words.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Squeeze Ball or Theraputty
+description: Providing a squeeze ball or Theraputty offers a tactile outlet for students to manage frustration and agitation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Squeeze Ball or Theraputty
@@ -35,8 +39,8 @@ Providing a squeeze ball or Theraputty offers a tactile outlet for students to m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Application](../elements/application.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior for signs of reduced frustration and improved focus. Collect student feedback on the helpfulness of the sensory tools.

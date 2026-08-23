@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Provide Manipulatives (Processing Speed)
+description: Providing manipulatives to help make complex concepts concrete and support processing speed.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Provide Manipulatives (Processing Speed)
@@ -35,8 +39,8 @@ Providing manipulatives to help make complex concepts concrete and support proce
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student's engagement and understanding through the use of manipulatives. Assess their ability to apply concepts to problem-solving tasks.

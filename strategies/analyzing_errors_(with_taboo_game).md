@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Analyzing Errors (with Taboo game)
+description: Learners play Taboo to practice choosing keywords, and the instructor identifies the strategies of finding synonyms and giving precise descriptions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Analyzing Errors (with Taboo game)
@@ -35,10 +39,10 @@ Learners play Taboo to practice choosing keywords, and the instructor identifies
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Students' keyword choices.

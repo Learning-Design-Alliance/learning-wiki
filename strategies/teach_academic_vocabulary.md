@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teach Academic Vocabulary
+description: Provide explicit instruction on academic vocabulary that will be encountered during the project.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teach Academic Vocabulary
@@ -35,8 +39,8 @@ Provide explicit instruction on academic vocabulary that will be encountered dur
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Improved vocabulary test scores, increased use of academic language in projects, and better content comprehension.

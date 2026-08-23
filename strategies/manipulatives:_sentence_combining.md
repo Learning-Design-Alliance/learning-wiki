@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Manipulatives: Sentence Combining"
+description: Using physical or digital manipulatives to combine simple sentences, thereby reducing working memory load and improving syntax knowledge.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Manipulatives: Sentence Combining
@@ -35,8 +39,8 @@ Using physical or digital manipulatives to combine simple sentences, thereby red
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners' ability to combine sentences correctly using manipulatives. Track improvement in sentence complexity and accuracy in writing samples.

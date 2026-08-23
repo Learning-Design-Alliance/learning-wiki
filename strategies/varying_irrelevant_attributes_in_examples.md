@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Varying Irrelevant Attributes in Examples
+description: When teaching concepts, use examples in which the irrelevant attributes vary widely.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Varying Irrelevant Attributes in Examples
@@ -35,7 +39,7 @@ When teaching concepts, use examples in which the irrelevant attributes vary wid
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately classify new instances of the concept despite variations in irrelevant attributes.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Reading Online Strategy: Formulating Effective Search Queries"
+description: This strategy focuses on teaching students how to formulate effective search queries to locate reliable information online.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reading Online Strategy: Formulating Effective Search Queries
@@ -35,9 +39,9 @@ This strategy focuses on teaching students how to formulate effective search que
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate students' ability to formulate effective search queries. Track the reliability and relevance of the information students find. Collect student reflections on their information-seeking process.

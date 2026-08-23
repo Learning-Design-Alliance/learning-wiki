@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Fidget Contracts
+description: Fidget contracts are agreements between a learner and an educator or caregiver that outline specific rules and guidelines for using fidget tools.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Fidget Contracts
@@ -35,9 +39,9 @@ Fidget contracts are agreements between a learner and an educator or caregiver t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe changes in fidget use behaviors, such as frequency, purpose, and compliance with contract rules. Monitor learner focus and attention levels during activities where fidgets are used.

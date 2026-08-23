@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mindfulness Techniques for Emotional Regulation
+description: Incorporating mindfulness techniques helps students manage their initial emotional impulses and reactivity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mindfulness Techniques for Emotional Regulation
@@ -35,9 +39,9 @@ Incorporating mindfulness techniques helps students manage their initial emotion
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe changes in emotional reactivity and impulsivity. Track student's use of mindfulness techniques in challenging situations. Monitor self-reported levels of calmness and self-awareness.

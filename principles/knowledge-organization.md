@@ -1,8 +1,11 @@
 ---
 type: principle
+title: Knowledge Organization
+description: Knowledge organization is the principle of helping learners structure information into meaningful relationships, categories, sequences, or frameworks rather than leaving it as disconnected facts.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Knowledge Organization
@@ -12,7 +15,7 @@ Knowledge organization is the principle of helping learners structure informatio
 
 ## Implications
 
-Knowledge organization matters because learners rarely understand complex content by accumulating isolated facts alone. They need categories, hierarchies, sequences, causal links, and conceptual maps that show how ideas relate. Strong instructional organization gives learners a structure they can think with: organizing information into meaningful units reduces memory burden [[claims/chunking-reduces-working-memory-load]] [+S], and learners often strengthen that structure further by explaining the relationships among ideas [[claims/self-explanation-improves-conceptual-understanding]] [+S]. Weak organization leaves them with fragments that are harder to interpret, remember, and transfer. The challenge is balance: enough structure to support comprehension, but not so much that the representation hides useful complexity or becomes a rigid template. Explicit structure is especially helpful for novices when it reduces unproductive search rather than adding another arbitrary framework [[claims/worked-examples-reduce-novice-search]] [~M].
+Knowledge organization matters because learners rarely understand complex content by accumulating isolated facts alone. They need categories, hierarchies, sequences, causal links, and conceptual maps that show how ideas relate. Strong instructional organization gives learners a structure they can think with: organizing information into meaningful units reduces memory burden [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S], and learners often strengthen that structure further by explaining the relationships among ideas [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Weak organization leaves them with fragments that are harder to interpret, remember, and transfer. The challenge is balance: enough structure to support comprehension, but not so much that the representation hides useful complexity or becomes a rigid template. Explicit structure is especially helpful for novices when it reduces unproductive search rather than adding another arbitrary framework [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M].
 
 ### Context
 #### Requirements
@@ -36,29 +39,29 @@ Knowledge organization matters because learners rarely understand complex conten
 ### Theory
 #### Supporting
 - Schema-building traditions — structured knowledge supports comprehension and later retrieval
-- [[principles/cognitive-load-management|Cognitive Load Management]] — organization can reduce extraneous load and preserve effort for meaning-making
-- [[theories/information-processing-theory|Information Processing Theory]] — organization affects how information is encoded and retrieved
+- [Cognitive Load Management](cognitive-load-management.md) — organization can reduce extraneous load and preserve effort for meaning-making
+- [Information Processing Theory](../theories/information-processing-theory.md) — organization affects how information is encoded and retrieved
 
 #### Contradicting / Qualifying
-- [[theories/constructivism|Constructivism]] — learners still need to actively build and test the structure rather than merely receive a finished framework
+- [Constructivism](../theories/constructivism.md) — learners still need to actively build and test the structure rather than merely receive a finished framework
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [+S] — organizing information into meaningful units reduces memory burden
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — learners often strengthen organization by explaining relationships among ideas
-- [[claims/worked-examples-reduce-novice-search]] [~M] — explicit structure can reduce unproductive search for novices, but the representation has to align with the task
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — organizing information into meaningful units reduces memory burden
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — learners often strengthen organization by explaining relationships among ideas
+- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — explicit structure can reduce unproductive search for novices, but the representation has to align with the task
 
 ## Related Principles
-- [[principles/cognitive-load-management|Cognitive Load Management]] — knowledge organization is often one concrete route to load reduction
-- [[principles/creating-visual-representations|Creating Visual Representations]] — visual structures can make conceptual relations visible
-- [[principles/metacognition|Metacognition]] — organized knowledge is easier for learners to inspect, monitor, and revise
+- [Cognitive Load Management](cognitive-load-management.md) — knowledge organization is often one concrete route to load reduction
+- [Creating Visual Representations](creating-visual-representations.md) — visual structures can make conceptual relations visible
+- [Metacognition](metacognition.md) — organized knowledge is easier for learners to inspect, monitor, and revise
 
 ## Examples
 
 ### Illustrative
 
-**[[elements/concept-mapping|Concept Mapping]]** — Learners build visual maps that make relationships among concepts explicit and revisable.
+**[Concept Mapping](../elements/concept-mapping.md)** — Learners build visual maps that make relationships among concepts explicit and revisable.
 
-**[[elements/graphic-organizers|Graphic Organizers]]** — Compare-contrast charts, timelines, hierarchies, and causal maps give learners a structure for complex information.
+**[Graphic Organizers](../elements/graphic-organizers.md)** — Compare-contrast charts, timelines, hierarchies, and causal maps give learners a structure for complex information.
 
 **Sequenced unit frameworks** — An instructor repeatedly returns to the same conceptual map as new detail is added, helping learners keep the big picture intact.
 

@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Structured Academic Controversy (SAC)
+description: Structured Academic Controversy is a discussion pattern in which learners examine a controversial issue by first preparing and advocating one side, then switching sides to argue the opposing position, and finally working toward a shared…
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: johnson-2009
+    resource: "https://doi.org/10.3102/0013189X08330540"
+    title: "Johnson, D. W., & Johnson, R. T. (2009). Energizing learning: The instructional power of conflict. *Educational Researcher, 38*(1), 37-51"
+    author: "Johnson, D. W., & Johnson, R. T"
 author: David W. Johnson and Roger T. Johnson
 grain_size: lesson
 ---
@@ -52,11 +60,11 @@ SAC is particularly useful when the topic involves legitimate disagreement and l
 
 ### Claims
 #### Supporting
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -68,16 +76,16 @@ SAC is particularly useful when the topic involves legitimate disagreement and l
 5. Ask learners to synthesize areas of agreement, unresolved tension, and their best integrated judgment.
 
 ### Elements Used
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/feedback|Feedback]]
-- [[elements/reflection|Reflection]]
-- [[elements/assessment|Assessment]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Feedback](../elements/feedback.md)
+- [Reflection](../elements/reflection.md)
+- [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [[principles/debate|Debate]]
-- [[principles/perspective-seekingmultiple-perspectives|Perspective-Seeking/Multiple Perspectives]]
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/purposeful-reflection|Purposeful Reflection]]
+- [Debate](../principles/debate.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ### Personalization
 - Topics can be chosen to match learner maturity and domain relevance.
@@ -85,8 +93,8 @@ SAC is particularly useful when the topic involves legitimate disagreement and l
 - The final synthesis can be oral, written, or collaborative depending on the class.
 
 ## Related Patterns
-- [[patterns/debate-format|Debate Format]]
-- [[patterns/socratic-seminar|Socratic Seminar]]
+- [Debate Format](debate-format.md)
+- [Socratic Seminar](socratic-seminar.md)
 
 ## Examples
 - Civics learners examining competing policy responses and then writing a synthesis recommendation.

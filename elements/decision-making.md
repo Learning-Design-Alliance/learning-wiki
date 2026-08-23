@@ -1,7 +1,11 @@
 ---
 type: element
+title: Decision-Making
+description: Learners evaluate options and make informed choices within a structured learning activity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Decision-Making
@@ -27,18 +31,18 @@ Learners evaluate options and make informed choices within a structured learning
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/cognitive-apprenticeship|Cognitive Apprenticeship]]
-- [[principles/metacognition|Metacognition]]
-- [[principles/situated-learning|Situated Learning]]
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
+- [Metacognition](../principles/metacognition.md)
+- [Situated Learning](../principles/situated-learning.md)
 
 ## Related Elements
-- [[elements/problem-based-learning|Problem-Based Learning]]
-- [[elements/collaborative-decision-making|Collaborative Decision-Making]]
-- [[elements/role-playing|Role-Playing]]
+- [Problem-Based Learning](problem-based-learning.md)
+- [Collaborative Decision-Making](collaborative-decision-making.md)
+- [Role-Playing](role-playing.md)
 
 ## Patterns That Use This Element
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
-- [[patterns/problem-based-learning|Problem-Based Learning]]
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mnemonic Devices
+description: Mnemonic devices are memory aids that use patterns, rhymes, acronyms, or other techniques to help learners recall information.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mnemonic Devices
@@ -35,10 +39,10 @@ Mnemonic devices are memory aids that use patterns, rhymes, acronyms, or other t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Supportive information](../elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learners' ability to recall information using mnemonic devices, assess their understanding of the underlying concepts, evaluate performance on tests and quizzes that require memorization

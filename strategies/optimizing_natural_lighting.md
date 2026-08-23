@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Optimizing Natural Lighting
+description: Incorporating natural lighting in classrooms boosts morale, reduces off-task behavior, and improves test scores.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Optimizing Natural Lighting
@@ -35,7 +39,7 @@ Incorporating natural lighting in classrooms boosts morale, reduces off-task beh
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student engagement and achievement, monitor off-task behavior, assess teacher and student morale.

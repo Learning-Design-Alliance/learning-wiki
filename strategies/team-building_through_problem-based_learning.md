@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Team-Building Through Problem-Based Learning
+description: Using problem-based learning in multi-cultural groups helps learners get used to working in a multi-cultural environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Team-Building Through Problem-Based Learning
@@ -35,10 +39,10 @@ Using problem-based learning in multi-cultural groups helps learners get used to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-problem-solving|Collaborative Problem-Solving]]
-- [[elements/consensus-building|Consensus Building]]
-- [[elements/perspective-taking|Perspective-Taking]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Problem-Solving](../elements/collaborative-problem-solving.md)
+- [Consensus Building](../elements/consensus-building.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
 
 ## Assessment Evidence
 - Observe team dynamics, assess the quality of collaborative solutions, and evaluate individual contributions to the team effort.

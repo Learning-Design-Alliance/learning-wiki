@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Circle Time Emotions
+description: End each week with a group circle where students discuss different topics and share their feelings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Circle Time Emotions
@@ -35,8 +39,8 @@ End each week with a group circle where students discuss different topics and sh
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation and emotional expression, gather feedback from students

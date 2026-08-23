@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Summarizing
+description: Summarizing involves integrating important information from a text or problem to create a concise overview.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Summarizing
@@ -35,9 +39,9 @@ Summarizing involves integrating important information from a text or problem to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Improved comprehension, better retention, and the ability to create concise summaries.

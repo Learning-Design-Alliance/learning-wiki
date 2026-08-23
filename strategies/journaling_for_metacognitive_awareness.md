@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Journaling for Metacognitive Awareness
+description: Journaling involves writing or recording thoughts and feelings to develop metacognitive awareness and build self-regulation skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Journaling for Metacognitive Awareness
@@ -35,9 +39,9 @@ Journaling involves writing or recording thoughts and feelings to develop metaco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/integration|Integration]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Review journal entries to identify patterns in behavior and emotional responses. Monitor the learner’s ability to use self-regulation strategies based on their reflections. Collect self-reports from learners regarding their awareness of their internal processes.

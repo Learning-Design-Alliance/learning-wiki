@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Hexagonal Thinking
+description: Hexagonal thinking is a mixed retrieval and elaboration strategy that uses hexagonal cards, paper, or programs to investigate how ideas and concepts are connected.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Hexagonal Thinking
@@ -35,8 +39,8 @@ Hexagonal thinking is a mixed retrieval and elaboration strategy that uses hexag
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/argument-construction|Argument Construction]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Argument Construction](../elements/argument-construction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess the accuracy and depth of the connections proposed by learners.

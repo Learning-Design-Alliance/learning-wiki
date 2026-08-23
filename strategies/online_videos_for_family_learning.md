@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Online Videos for Family Learning
+description: Using online videos to make it easier for families with different language needs to explore and learn together.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Online Videos for Family Learning
@@ -35,9 +39,9 @@ Using online videos to make it easier for families with different language needs
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track video views and engagement. Gather feedback from families on the usefulness of the videos.

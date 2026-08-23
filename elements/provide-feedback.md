@@ -1,7 +1,11 @@
 ---
 type: element
+title: Provide feedback
+description: Gives learners corrective or reinforcing feedback to improve performance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Provide feedback
@@ -27,18 +31,18 @@ Gives learners corrective or reinforcing feedback to improve performance.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/feedback-loops|Feedback Loops]]
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/mastery-learning|Mastery Learning]]
+- [Feedback Loops](../principles/feedback-loops.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Mastery Learning](../principles/mastery-learning.md)
 
 ## Related Elements
-- [[elements/immediate-feedback|Immediate Feedback]]
-- [[elements/peer-review|Peer Review]]
-- [[elements/formative-assessment|Formative Assessment]]
+- [Immediate Feedback](immediate-feedback.md)
+- [Peer Review](peer-review.md)
+- [Formative Assessment](formative-assessment.md)
 
 ## Patterns That Use This Element
-- [[patterns/gagnés-9-events|Gagné’s 9 Events]]
-- [[patterns/competency-based-learning|Competency-Based Learning]]
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

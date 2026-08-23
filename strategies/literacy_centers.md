@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Literacy Centers
+description: Literacy centers are designated areas in the classroom where students work independently or collaboratively on meaningful literacy tasks to explore and expand their learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Literacy Centers
@@ -35,10 +39,10 @@ Literacy centers are designated areas in the classroom where students work indep
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/small-group-instruction|Small Group Instruction]]
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Small Group Instruction](../elements/small-group-instruction.md)
 
 ## Assessment Evidence
 - Observe student engagement, accuracy, and completeness of work at literacy centers. Monitor student progress during small group instruction. Collect student work samples to assess skill development. Track student adherence to classroom guidelines and procedures.

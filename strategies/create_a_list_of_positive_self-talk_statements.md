@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Create a List of Positive Self-Talk Statements
+description: Generating a collection of affirmative statements for learners to read and internalize.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Create a List of Positive Self-Talk Statements
@@ -35,8 +39,8 @@ Generating a collection of affirmative statements for learners to read and inter
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Learners' ability to recall and use affirmations in challenging situations. Self-reported changes in mindset and behavior.

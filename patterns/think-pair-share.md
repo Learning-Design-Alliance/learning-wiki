@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Think-Pair-Share
+description: Think-Pair-Share is a short discussion pattern in which learners first think individually, then discuss with a partner, and finally share outward to a larger group.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: Frank Lyman
 grain_size: lesson
 ---
@@ -51,11 +54,11 @@ The pattern is widely useful because it is lightweight and adaptable. It works e
 
 ### Claims
 #### Supporting
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [[claims/chunking-reduces-working-memory-load]] [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 
 ## Design
 
@@ -67,16 +70,16 @@ The pattern is widely useful because it is lightweight and adaptable. It works e
 5. Synthesize key ideas or connect the discussion to the lesson goal.
 
 ### Elements Used
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/discussion-prompt|Discussion Prompt]]
-- [[elements/feedback|Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Discussion Prompt](../elements/discussion-prompt.md)
+- [Feedback](../elements/feedback.md)
 
 ### Affordances
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/purposeful-reflection|Purposeful Reflection]]
-- [[principles/immediate-feedback|Immediate Feedback]]
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
 
 ### Personalization
 - Pairs can be assigned intentionally or randomly.
@@ -84,8 +87,8 @@ The pattern is widely useful because it is lightweight and adaptable. It works e
 - Supports can include sentence stems or note-catchers for learners who need more scaffolding.
 
 ## Related Patterns
-- [[patterns/peer-instruction|Peer Instruction]]
-- [[patterns/discussion-group|Discussion Group]]
+- [Peer Instruction](peer-instruction.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - A class concept question answered silently, discussed in pairs, and then synthesized whole-group.

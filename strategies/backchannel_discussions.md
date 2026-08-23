@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Backchannel Discussions
+description: A backchannel is a conversation that happens right alongside another activity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Backchannel Discussions
@@ -35,9 +39,9 @@ A backchannel is a conversation that happens right alongside another activity. W
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/in-class-activities|In-Class Activities]]
-- [[elements/reflection|Reflection]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [In-Class Activities](../elements/in-class-activities.md)
+- [Reflection](../elements/reflection.md)
 
 ## Assessment Evidence
 - Review learner contributions to the backchannel platform, collect feedback from learners about their experience.

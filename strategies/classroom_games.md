@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Classroom Games
+description: Classroom games transform review time into engaging, collaborative activities that motivate learners and reinforce learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Classroom Games
@@ -35,11 +39,11 @@ Classroom games transform review time into engaging, collaborative activities th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/team-based-inquiry|Team-Based Inquiry]]
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Team-Based Inquiry](../elements/team-based-inquiry.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation levels. Collect data on team performance and individual contributions. Assess learner understanding through game outcomes and feedback.

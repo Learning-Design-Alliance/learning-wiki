@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Role Play
+description: Role playing involves acting out different scenarios in a safe environment, allowing learners to make mistakes and learn from them.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Role Play
@@ -35,9 +39,9 @@ Role playing involves acting out different scenarios in a safe environment, allo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe participant interactions and feedback sessions to gauge improvements in communication, problem-solving, and confidence.

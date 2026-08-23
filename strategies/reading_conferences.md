@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reading Conferences
+description: Reading conferences involve one-on-one interactions between an instructor and a learner during independent reading time.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reading Conferences
@@ -35,9 +39,9 @@ Reading conferences involve one-on-one interactions between an instructor and a 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe improvements in reading comprehension skills, track progress in genre knowledge, monitor the application of comprehension strategies, and analyze learner responses during conferences to gauge understanding and engagement.

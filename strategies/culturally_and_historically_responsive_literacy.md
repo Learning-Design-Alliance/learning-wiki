@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Culturally and Historically Responsive Literacy
+description: Culturally and historically responsive literacy is an equity framework to help educators teach literacy learning goals such as identity development, literacy skill development, intellectual development, and criticality.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Culturally and Historically Responsive Literacy
@@ -35,12 +39,12 @@ Culturally and historically responsive literacy is an equity framework to help e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/lectures|Lectures]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/case-study|Case Study]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Lectures](../elements/lectures.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe student engagement in discussions and activities. Review student work for evidence of identity development, literacy skill development, intellectual development, and criticality.

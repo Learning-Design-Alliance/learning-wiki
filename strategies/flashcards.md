@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Flashcards
+description: Flashcards are a study tool used for memorization and reinforcement of knowledge.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Flashcards
@@ -35,9 +39,9 @@ Flashcards are a study tool used for memorization and reinforcement of knowledge
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/continuous-review|continuous review]]
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [continuous review](../elements/continuous-review.md)
 
 ## Assessment Evidence
 - Track progress through Anki's review scheduling and performance ratings. Monitor recall accuracy and adjust review intervals based on user performance.

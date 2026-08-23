@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Shadowing to Adjust Behavior Problems
+description: "This is a behavior management technique where an adult closely follows a child, acting as their \"shadow,\" to prevent harmful behaviors like biting or hitting."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Shadowing to Adjust Behavior Problems
@@ -35,9 +39,9 @@ This is a behavior management technique where an adult closely follows a child, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Frequency of target behavior incidents before and during shadowing. Duration of shadowing required to eliminate the behavior. Observations of the child's interactions and behavior during and after shadowing.

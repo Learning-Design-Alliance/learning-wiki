@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Proctor Intervention for Rapid Guessing
+description: When learners are flagged for rapid guessing during assessments, proctors should approach them, pause their test, and engage them in a low-pressure conversation about what’s going on.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Proctor Intervention for Rapid Guessing
@@ -35,8 +39,8 @@ When learners are flagged for rapid guessing during assessments, proctors should
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Reduction in rapid guessing rates, improved engagement and focus during assessments, increased validity of assessment data.

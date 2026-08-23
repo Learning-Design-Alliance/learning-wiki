@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Whole Class Self-Monitoring
+description: Whole class self-monitoring involves the entire class participating in self-monitoring techniques, adapted from individual self-monitoring methods.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Whole Class Self-Monitoring
@@ -35,10 +39,10 @@ Whole class self-monitoring involves the entire class participating in self-moni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Monitor the frequency and accuracy of student self-reports. Observe changes in on-task behavior, classroom interruptions, and overall classroom climate.

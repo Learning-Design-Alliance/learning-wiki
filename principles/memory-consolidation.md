@@ -1,8 +1,20 @@
 ---
 type: principle
+title: Memory Consolidation
+description: Memory consolidation is the principle of designing instruction so that learning is stabilized across time rather than treated as secure after one exposure.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: dudai-2004
+    resource: "https://doi.org/10.1016/j.neuron.2004.09.007"
+    title: "Dudai, Y. (2004). The neurobiology of consolidations. *Neuron, 44*(1), 93-112"
+    author: Dudai, Y
+  - id: cepeda-2006
+    resource: "https://doi.org/10.1037/0033-2909.132.3.354"
+    title: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks. *Psychological Bulletin, 132*(3), 354-380"
+    author: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D"
 ---
 
 # Memory Consolidation
@@ -12,7 +24,7 @@ Memory consolidation is the principle of designing instruction so that learning 
 
 ## Implications
 
-Memory consolidation matters because initial understanding is not the same as durable retention. Learners often appear to know something immediately after explanation or practice, then lose access to it later if the material is not revisited, retrieved, and integrated across time. The principle therefore pushes instruction away from one-and-done exposure and toward designs that revisit important knowledge strategically. Consolidation is strongest when repeated encounters involve active retrieval, varied use, or integration with later work rather than passive re-exposure alone, and corrected prediction errors can sometimes strengthen retention further under the right feedback conditions [[claims/high-confidence-errors-improve-retention]] [~S]. Explanation can also help stabilize knowledge by integrating it more deeply [[claims/self-explanation-improves-conceptual-understanding]] [~S], especially when the material is organized well enough to be encoded and later retrieved as meaningful structure [[claims/chunking-reduces-working-memory-load]] [~S].
+Memory consolidation matters because initial understanding is not the same as durable retention. Learners often appear to know something immediately after explanation or practice, then lose access to it later if the material is not revisited, retrieved, and integrated across time. The principle therefore pushes instruction away from one-and-done exposure and toward designs that revisit important knowledge strategically. Consolidation is strongest when repeated encounters involve active retrieval, varied use, or integration with later work rather than passive re-exposure alone, and corrected prediction errors can sometimes strengthen retention further under the right feedback conditions [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S]. Explanation can also help stabilize knowledge by integrating it more deeply [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S], especially when the material is organized well enough to be encoded and later retrieved as meaningful structure [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S].
 
 ### Context
 #### Requirements
@@ -36,27 +48,27 @@ Memory consolidation matters because initial understanding is not the same as du
 ### Theory
 #### Supporting
 - Spacing and retrieval research — durable memory is strengthened by distributed reactivation and use
-- [[principles/spaced-learning|Spaced Learning]] — one of the clearest scheduling principles for consolidation
-- [[principles/retrieval-practice|Retrieval Practice]] — active recall is a major mechanism for strengthening consolidated memory
+- [Spaced Learning](spaced-learning.md) — one of the clearest scheduling principles for consolidation
+- [Retrieval Practice](retrieval-practice.md) — active recall is a major mechanism for strengthening consolidated memory
 
 #### Contradicting / Qualifying
-- [[theories/cognitive-load-theory|Cognitive Load Theory]] — retrieval and revisiting still need to be calibrated so that effort supports reactivation rather than overload
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — retrieval and revisiting still need to be calibrated so that effort supports reactivation rather than overload
 
 ### Claims
-- [[claims/high-confidence-errors-improve-retention]] [~S] — corrected prediction errors can strengthen later retention under the right feedback conditions
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S] — explanation can help stabilize knowledge by integrating it more deeply
-- [[claims/chunking-reduces-working-memory-load]] [~S] — better organization can support consolidation by making knowledge easier to encode and later retrieve
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~S] — corrected prediction errors can strengthen later retention under the right feedback conditions
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — explanation can help stabilize knowledge by integrating it more deeply
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — better organization can support consolidation by making knowledge easier to encode and later retrieve
 
 ## Related Principles
-- [[principles/spaced-learning|Spaced Learning]] — consolidation often depends on how review is distributed over time
-- [[principles/retrieval-practice|Retrieval Practice]] — active recall is one of the strongest routes to durable retention
-- [[principles/knowledge-organization|Knowledge Organization]] — well-organized knowledge is easier to retain and retrieve later
+- [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time
+- [Retrieval Practice](retrieval-practice.md) — active recall is one of the strongest routes to durable retention
+- [Knowledge Organization](knowledge-organization.md) — well-organized knowledge is easier to retain and retrieve later
 
 ## Examples
 
 ### Illustrative
 
-**[[elements/spaced-repetition|Spaced Repetition]]** — Important terms, concepts, or procedures are revisited at increasing intervals instead of being massed in one session.
+**[Spaced Repetition](../elements/spaced-repetition.md)** — Important terms, concepts, or procedures are revisited at increasing intervals instead of being massed in one session.
 
 **Cumulative quizzes and review prompts** — Earlier material is regularly reactivated in later lessons so retrieval remains part of the learning sequence.
 

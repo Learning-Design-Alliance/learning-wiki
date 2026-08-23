@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Break Tasks into Pieces
+description: Divide tasks into smaller chunks.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Break Tasks into Pieces
@@ -35,8 +39,8 @@ Divide tasks into smaller chunks. The learner can focus long enough to perform p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track task completion rates. Monitor focus during work intervals. Collect feedback on the reduction of overwhelm.

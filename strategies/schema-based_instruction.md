@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Schema-Based Instruction
+description: Schema-based instruction involves teaching learners to recognize and understand the underlying structure (schema) of problems, particularly word problems in mathematics.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Schema-Based Instruction
@@ -35,10 +39,10 @@ Schema-based instruction involves teaching learners to recognize and understand 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Track learner accuracy in identifying problem structures, monitor the correct application of problem-solving strategies, and assess improvements in overall problem-solving performance.

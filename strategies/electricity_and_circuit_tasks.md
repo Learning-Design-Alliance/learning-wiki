@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Electricity and Circuit Tasks
+description: Electricity and circuit tasks involve investigating how electricity flows in simple circuits using tools like electric testers and puzzle boards.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Electricity and Circuit Tasks
@@ -35,8 +39,8 @@ Electricity and circuit tasks involve investigating how electricity flows in sim
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in identifying complete circuits, correct prediction of electrical flow, successful problem-solving

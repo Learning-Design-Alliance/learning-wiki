@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Using Colors for Different Feelings
+description: Learners use different colors to represent different emotions in art, which creates associations between emotions and visual cues, enhancing emotional expression and awareness.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Using Colors for Different Feelings
@@ -35,8 +39,8 @@ Learners use different colors to represent different emotions in art, which crea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/demonstration|Demonstration]]
+- [Practice](../elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learners' ability to connect colors with appropriate emotions. Assess their participation and engagement in the activity.

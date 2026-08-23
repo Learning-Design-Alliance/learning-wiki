@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Model Assignment or Skill
+description: Modeling a skill or assignment by verbalizing thought processes while working through it.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Model Assignment or Skill
@@ -35,7 +39,7 @@ Modeling a skill or assignment by verbalizing thought processes while working th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learner's application of modeled strategies in independent practice. Assess the learner's ability to articulate their own thought processes when solving similar problems. Track the learner's progress in mastering the modeled skill.

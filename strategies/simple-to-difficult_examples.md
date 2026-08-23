@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Simple-to-Difficult Examples
+description: Start with simple examples when introducing a concept, then progress to more complex ones later.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Simple-to-Difficult Examples
@@ -35,8 +39,8 @@ Start with simple examples when introducing a concept, then progress to more com
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess learners' ability to classify both simple and complex instances of the concept correctly.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Skip Counting with Movement
+description: Make up a movement that comes in 2, 3, or more parts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Skip Counting with Movement
@@ -35,9 +39,9 @@ Make up a movement that comes in 2, 3, or more parts. Whisper the first parts, a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/demonstration|Demonstration]]
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe students' ability to coordinate the movement with the skip counting pattern. Assess the accurate of the count.

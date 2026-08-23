@@ -1,8 +1,19 @@
 ---
 type: claim
-id: motiv-2
+title: "Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks."
 status: review
-last_edited: 2026-04-13
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-13
+sources:
+  - id: bandura-1997
+    title: "Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman."
+    author: Bandura, A
+  - id: pajares-1996
+    resource: "https://doi.org/10.3102/00346543066004543"
+    title: "Pajares, F. (1996). Self-efficacy beliefs in academic settings. *Review of Educational Research, 66*(4), 543–578. [https://doi.org/10.3102/00346543066004543](https://doi.org/10.3102/00346543066004543)"
+    author: Pajares, F
+id: motiv-2
 evidence_strength: strong
 ---
 
@@ -43,7 +54,7 @@ Self-efficacy is learnable: it is not fixed ability. The four sources Bandura id
 The key constraint is specificity: telling learners they are "smart" or "good at learning" does not reliably build task-level efficacy and can backfire by creating fragility when difficulty arises (see Dweck's work on fixed vs. growth mindsets, which partially overlaps with this literature). Efficacy-building feedback must be tied to specific, recent performance on specific tasks.
 
 ## Related Claims
-- [[claims/autonomy-supports-intrinsic-motivation]] — SDT's competence need is closely related: autonomy works motivationally when learners believe they can succeed
-- [[claims/task-value-increases-motivation-and-engagement]] — expectancy-value theory explicitly pairs self-efficacy (expectancy component) with task value; both are needed to predict effort investment
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] — goal commitment (a prerequisite for goal-setting effects) depends on efficacy: learners do not commit to challenging goals if they doubt their capability
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] — process goals partly work by raising efficacy: progress on manageable sub-goals accumulates into mastery experiences
+- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — SDT's competence need is closely related: autonomy works motivationally when learners believe they can succeed
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — expectancy-value theory explicitly pairs self-efficacy (expectancy component) with task value; both are needed to predict effort investment
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](specific-difficult-goals-lead-to-higher-performance.md) — goal commitment (a prerequisite for goal-setting effects) depends on efficacy: learners do not commit to challenging goals if they doubt their capability
+- [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) — process goals partly work by raising efficacy: progress on manageable sub-goals accumulates into mastery experiences

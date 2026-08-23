@@ -1,7 +1,11 @@
 ---
 type: element
+title: Knowledge Synthesis
+description: Learners integrate multiple perspectives and sources to develop a cohesive understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Knowledge Synthesis
@@ -27,17 +31,17 @@ Learners integrate multiple perspectives and sources to develop a cohesive under
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/constructivism|Constructivism]]
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
+- [Constructivism](../principles/constructivism.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [[elements/expert-groups|Expert Groups]]
-- [[elements/research|Research]]
-- [[elements/concept-mapping|Concept Mapping]]
+- [Expert Groups](expert-groups.md)
+- [Research](research.md)
+- [Concept Mapping](concept-mapping.md)
 
 ## Patterns That Use This Element
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
-- [[patterns/jigsaw|Jigsaw]]
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Jigsaw](../patterns/jigsaw.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

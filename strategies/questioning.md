@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Questioning
+description: Questioning is a powerful tool and effective teachers regularly use it for a range of purposes.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Questioning
@@ -35,8 +39,8 @@ Questioning is a powerful tool and effective teachers regularly use it for a ran
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/eliciting-student-thinking|Eliciting Student Thinking]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Student participation, quality of responses, and level of engagement.

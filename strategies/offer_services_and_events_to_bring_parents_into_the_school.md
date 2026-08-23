@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Offer Services and Events to Bring Parents into the School
+description: Offer free classes and workshops that focus on topics of interest to parents, such as family nutrition, child development, or homework help.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Offer Services and Events to Bring Parents into the School
@@ -35,8 +39,8 @@ Offer free classes and workshops that focus on topics of interest to parents, su
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track attendance at events, gather feedback from parents

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Interaction with Natural Environment
+description: Incorporating natural elements (views of nature, plants) into the learning environment can improve focus, well-being, and academic performance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Interaction with Natural Environment
@@ -35,8 +39,8 @@ Incorporating natural elements (views of nature, plants) into the learning envir
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Measure focus levels, behavior, and academic performance. Track instances of sick leave and disciplinary events.

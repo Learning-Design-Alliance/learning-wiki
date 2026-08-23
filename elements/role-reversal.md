@@ -1,7 +1,11 @@
 ---
 type: element
+title: Role Reversal
+description: Learners switch sides in a debate or discussion to argue from the opposite perspective.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Role Reversal
@@ -27,19 +31,19 @@ Learners switch sides in a debate or discussion to argue from the opposite persp
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/cognitive-flexibility|Cognitive Flexibility]]
-- [[principles/perspective-taking|Perspective-Taking]]
-- [[principles/social-interdependence|Social Interdependence]]
+- [Cognitive Flexibility](../principles/cognitive-flexibility.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
+- [Social Interdependence](../principles/social-interdependence.md)
 
 ## Related Elements
-- [[elements/perspective-taking|Perspective-Taking]]
-- [[elements/structured-debate|Structured Debate]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Perspective-Taking](perspective-taking.md)
+- [Structured Debate](structured-debate.md)
+- [Peer Discussion](peer-discussion.md)
 
 ## Patterns That Use This Element
-- [[patterns/structured-academic-controversy|Structured Academic Controversy]]
-- [[patterns/debate|Debate]]
-- [[patterns/cognitive-flexibility-theory|Cognitive Flexibility Theory]]
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
+- [Debate](../patterns/debate.md)
+- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

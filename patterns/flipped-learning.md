@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Flipped Learning
+description: Flipped Learning is a pattern that moves some initial content exposure outside class so synchronous time can be used for application, discussion, and feedback.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: Jonathan Bergmann and Aaron Sams
 grain_size: course
 ---
@@ -43,8 +46,8 @@ Flipped Learning is a pattern that moves some initial content exposure outside c
 - The quality of the in-class redesign matters more than the label.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Design
 
@@ -54,17 +57,17 @@ Flipped Learning is a pattern that moves some initial content exposure outside c
 3. Use class for problem solving, discussion, and feedback.
 
 ### Elements Used
-- [[elements/pre-class-videolecture|Pre-Class Video/Lecture]]
-- [[elements/in-class-activities|In-Class Activities]]
-- [[elements/formative-assessment|Formative Assessment]]
+- [Pre-Class Video/Lecture](../elements/pre-class-videolecture.md)
+- [In-Class Activities](../elements/in-class-activities.md)
+- [Formative Assessment](../elements/formative-assessment.md)
 
 ### Affordances
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/immediate-feedback|Immediate Feedback]]
-- [[principles/active-learning|Active Learning]]
+- [Guided Practice](../principles/guided-practice.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Active Learning](../principles/active-learning.md)
 
 ## Related Patterns
-- [[patterns/flipped-classroom|Flipped Classroom]]
+- [Flipped Classroom](flipped-classroom.md)
 
 ## Examples
 - Short pre-class videos followed by in-class coached application.

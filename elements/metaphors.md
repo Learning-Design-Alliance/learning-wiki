@@ -1,8 +1,11 @@
 ---
 type: element
+title: Metaphors
+description: Metaphors are explanatory comparisons that map a less familiar concept onto a more familiar image or experience.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Metaphors
@@ -24,15 +27,15 @@ Metaphors are explanatory comparisons that map a less familiar concept onto a mo
 - Support comprehension, imagination, and conceptual access.
 
 ### Affordances
-- [[principles/analogical-reasoning|Analogical Reasoning]]
-- [[principles/metaphors-analogies|Metaphors & Analogies]]
+- [Analogical Reasoning](../principles/analogical-reasoning.md)
+- [Metaphors & Analogies](../principles/metaphors-analogies.md)
 
 ## Related Elements
-- [[elements/analogies|Analogies]]
-- [[elements/dual-coding|Dual Coding]]
+- [Analogies](analogies.md)
+- [Dual Coding](dual-coding.md)
 
 ## Patterns That Use This Element
-- [[patterns/elaboration-theory|Elaboration Theory]]
+- [Elaboration Theory](../patterns/elaboration-theory.md)
 
 ## Examples
 - Describing electrical current as water flow to introduce relational structure.

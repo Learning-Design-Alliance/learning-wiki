@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Recognizing the Value of Learning from Mistakes
+description: This strategy changes perceptions about mistakes, viewing them as learning opportunities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Recognizing the Value of Learning from Mistakes
@@ -35,10 +39,10 @@ This strategy changes perceptions about mistakes, viewing them as learning oppor
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Increased student participation, willingness to take risks, improved problem-solving skills, and positive attitudes toward mistakes.

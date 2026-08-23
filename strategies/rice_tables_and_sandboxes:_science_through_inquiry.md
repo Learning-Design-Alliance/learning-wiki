@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Rice Tables and Sandboxes: Science Through Inquiry"
+description: Engaging learners in hands-on exploration and inquiry-based science education allows them to discover and test new understandings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rice Tables and Sandboxes: Science Through Inquiry
@@ -35,9 +39,9 @@ Engaging learners in hands-on exploration and inquiry-based science education al
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/solution-development|Solution Development]]
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Learner projects and experiments. Participation in inquiry-based activities. Scientific inquiry skills.

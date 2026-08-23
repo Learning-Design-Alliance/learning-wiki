@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cultivate Multiple Ways of Knowing and Making Meaning
+description: Honoring multiple and diverse ways of developing understandings of the world ensures that learners have opportunities to connect with the material in ways that resonate with their individual strengths and backgrounds.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cultivate Multiple Ways of Knowing and Making Meaning
@@ -35,9 +39,9 @@ Honoring multiple and diverse ways of developing understandings of the world ens
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/multimedia-projects|Multimedia Projects]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Multimedia Projects](../elements/multimedia-projects.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of key concepts through discussions, written assignments, or creative projects. Track improvements in creativity and self-expression.

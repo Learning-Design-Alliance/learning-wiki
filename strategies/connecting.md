@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connecting
+description: Connecting involves relating a current problem or text to prior knowledge and experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connecting
@@ -35,9 +39,9 @@ Connecting involves relating a current problem or text to prior knowledge and ex
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved comprehension, better retention, and the ability to make meaningful connections.

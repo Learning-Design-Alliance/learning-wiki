@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Think Time
+description: Allow plenty of think-time and time for re-reading for students who might need more time to process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Think Time
@@ -35,8 +39,8 @@ Allow plenty of think-time and time for re-reading for students who might need m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Provide assessments where think time can be observed. Use assessment results to see if they are learning from the strategy.

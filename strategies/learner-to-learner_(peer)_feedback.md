@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Learner-to-Learner (Peer) Feedback
+description: "Learner-to-learner (peer) feedback involves having learners provide constructive feedback on each other's work."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Learner-to-Learner (Peer) Feedback
@@ -35,8 +39,8 @@ Learner-to-learner (peer) feedback involves having learners provide constructive
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe changes in learner performance and communication skills. Analyze the quality of feedback provided.

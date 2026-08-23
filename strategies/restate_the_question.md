@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Restate The Question
+description: Restating the question encourages critical reading skills and provides clarity around instructions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Restate The Question
@@ -35,8 +39,8 @@ Restating the question encourages critical reading skills and provides clarity a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Increased student confidence, increased class participation, higher test scores

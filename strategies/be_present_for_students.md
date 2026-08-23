@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Be Present for Students
+description: When students talk openly about race, they can feel some anxiety.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Be Present for Students
@@ -35,9 +39,9 @@ When students talk openly about race, they can feel some anxiety. It's essential
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/class-discussion|Class Discussion]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Class Discussion](../elements/class-discussion.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions, track student attendance at office hours, and gather feedback from students

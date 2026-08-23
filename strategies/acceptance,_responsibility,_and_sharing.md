@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Acceptance, Responsibility, and Sharing
+description: This strategy involves accepting what happened after processing emotions, taking responsibility for any wrong actions, and sharing feelings and experiences with others involved.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Acceptance, Responsibility, and Sharing
@@ -35,8 +39,8 @@ This strategy involves accepting what happened after processing emotions, taking
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Evidence of improved communication, reduced conflict, and increased mutual understanding.

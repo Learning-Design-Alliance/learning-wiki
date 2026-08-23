@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Tactile Toys for Sensory Integration
+description: Providing tactile toys can help awaken sensory receptors, which may decrease fidgeting, attention issues, and behavior problems.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Tactile Toys for Sensory Integration
@@ -35,8 +39,8 @@ Providing tactile toys can help awaken sensory receptors, which may decrease fid
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observation of reduced fidgeting, improved attention span, and fewer behavior problems. Monitoring of learner's emotional regulation.

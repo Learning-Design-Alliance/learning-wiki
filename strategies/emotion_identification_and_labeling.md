@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotion Identification and Labeling
+description: Learners identify, label, and match facial expressions and feelings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotion Identification and Labeling
@@ -35,9 +39,9 @@ Learners identify, label, and match facial expressions and feelings. Categorizin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track accuracy in matching emotions to facial expressions and situations. Monitor the use of emotion words in daily conversations. Assess the depth and complexity of emotion analysis in literature.

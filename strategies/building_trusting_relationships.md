@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Building Trusting Relationships
+description: Prioritizing building relationships with learners can create a supportive and safe learning environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Building Trusting Relationships
@@ -35,8 +39,8 @@ Prioritizing building relationships with learners can create a supportive and sa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased learner participation, positive feedback, reduced behavioral issues, and improved attendance.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Limit Background Noise
+description: Minimizing background noise, such as television, conversations, or lyrical music, enhances concentration and learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Limit Background Noise
@@ -35,9 +39,9 @@ Minimizing background noise, such as television, conversations, or lyrical music
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track reading comprehension scores, measure task completion rates, conduct self-reports on focus and concentration in quiet environments.

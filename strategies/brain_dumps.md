@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Brain Dumps
+description: Brain dumps involve learners writing down everything they can recall about a specific topic within a set time.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Brain Dumps
@@ -35,7 +39,7 @@ Brain dumps involve learners writing down everything they can recall about a spe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Assess the amount of information recalled and the accuracy of the information.

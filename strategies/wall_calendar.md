@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Wall Calendar
+description: A large calendar for family appointments and events can help kids see that organization is a lifelong skill.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Wall Calendar
@@ -35,8 +39,8 @@ A large calendar for family appointments and events can help kids see that organ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to recall and anticipate events. Track the frequency of on-time arrival at appointments. Gather feedback from the learner on the usefulness of the calendar.

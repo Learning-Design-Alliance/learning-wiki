@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Valuing the Learning Process
+description: Valuing the learning process involves emphasizing the importance of understanding, exploration, and growth over achieving high grades.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Valuing the Learning Process
@@ -35,8 +39,8 @@ Valuing the learning process involves emphasizing the importance of understandin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and enthusiasm for learning. Track changes in learners' attitudes toward grades. Measure learners' ability to explain concepts and apply knowledge.

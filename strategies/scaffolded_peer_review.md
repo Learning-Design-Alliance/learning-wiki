@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Scaffolded Peer Review
+description: Scaffolded peer review involves providing learners with structured support and guidance to improve the quality and effectiveness of their feedback.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Scaffolded Peer Review
@@ -35,9 +39,9 @@ Scaffolded peer review involves providing learners with structured support and g
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Review of feedback provided by learners to assess the depth and quality of their critique. Observation of group interactions to assess learners' confidence and engagement in the process.

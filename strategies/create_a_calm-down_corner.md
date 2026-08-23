@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Create a Calm-Down Corner
+description: Set aside a dedicated, positive reflection space in the classroom where kids can go to practice their emotional regulation skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Create a Calm-Down Corner
@@ -35,9 +39,9 @@ Set aside a dedicated, positive reflection space in the classroom where kids can
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' use of the corner and ability to apply skills in classroom activities

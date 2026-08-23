@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Using Empathy Interviews for Family Engagement
+description: Empathy interviews involve targeted, one-on-one conversations with a small sample of people to learn from their lived experiences, such as used by organizations like Stanford d.School and The Learning Accelerator.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Using Empathy Interviews for Family Engagement
@@ -35,8 +39,8 @@ Empathy interviews involve targeted, one-on-one conversations with a small sampl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Question Formulation](../elements/question-formulation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track community responses

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Turn-and-Talk
+description: Turn-and-talk involves having learners engage in short, structured discussions with a partner to review and reinforce what they have learned.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Turn-and-Talk
@@ -35,8 +39,8 @@ Turn-and-talk involves having learners engage in short, structured discussions w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Observe the depth and specificity of student responses to assess comprehension and engagement.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Show and Tell for Multimodal Composition
+description: Devoting a few minutes each week for learners to show the effects of different multimodal combinations or tell about their multimodal composition process creates a space akin to an author’s chair in writing workshops.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Show and Tell for Multimodal Composition
@@ -35,9 +39,9 @@ Devoting a few minutes each week for learners to show the effects of different m
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the depth and specificity of learner reflections on their design decisions. Assess the quality and relevance of peer feedback. Evaluate the extent to which learners incorporate feedback into their own compositions.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Flipped Learning
+description: Flipped learning is a pedagogical approach that reverses the traditional learning environment by delivering instructional content, often via pre-recorded videos or other materials, outside of class, and using class time for active…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Flipped Learning
@@ -35,15 +39,15 @@ Flipped learning is a pedagogical approach that reverses the traditional learnin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/pre-class-videolecture|Pre-Class Video/Lecture]]
-- [[elements/in-class-activities|In-Class Activities]]
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/case-study|Case Study]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/decision-making|Decision-Making]]
-- [[elements/reflection|Reflection]]
-- [[elements/application|Application]]
+- [Pre-Class Video/Lecture](../elements/pre-class-videolecture.md)
+- [In-Class Activities](../elements/in-class-activities.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Decision-Making](../elements/decision-making.md)
+- [Reflection](../elements/reflection.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Improved performance on exams and assignments measuring foundational knowledge, higher-order thinking, and applied skills. Enhanced student engagement and identification with the course or discipline. Development of metacognitive skills (time management, learning strategies). Increased student satisfaction with the course and instruction.

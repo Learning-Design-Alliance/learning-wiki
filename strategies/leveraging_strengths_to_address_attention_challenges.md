@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leveraging Strengths to Address Attention Challenges
+description: Identify specific student strengths and/or challenges related to attention then use strategies to leverage student strengths to support a student’s attention during learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leveraging Strengths to Address Attention Challenges
@@ -35,7 +39,7 @@ Identify specific student strengths and/or challenges related to attention then 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track on-task behavior, monitor student engagement and comprehension, and gather student feedback on strategies.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Model Drawing Strategy
+description: Teaching fraction and percentage word problems using a model-drawing strategy.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Model Drawing Strategy
@@ -35,9 +39,9 @@ Teaching fraction and percentage word problems using a model-drawing strategy. T
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Success in solving fraction and percentage word problems using a model-drawing strategy.

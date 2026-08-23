@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emphasize Reasoning over Answers
+description: De-emphasizing correct answers and spending more time on reasoning involves shifting the focus from finding the right solution to understanding the problem-solving process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emphasize Reasoning over Answers
@@ -35,9 +39,9 @@ De-emphasizing correct answers and spending more time on reasoning involves shif
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess students’ reasoning skills through written explanations, verbal discussions, and problem-solving tasks. Look for evidence of critical thinking, logical reasoning, and the ability to explain and justify their approaches. Provide feedback that focuses on the quality of their reasoning, not just the correctness of their answers.

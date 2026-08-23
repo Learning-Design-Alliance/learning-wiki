@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Calm and Honest Reflection
+description: After feeling and expressing emotions related to a mistake, engaging in calm and honest reflection involves asking oneself what happened and what triggered those feelings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Calm and Honest Reflection
@@ -35,8 +39,8 @@ After feeling and expressing emotions related to a mistake, engaging in calm and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/perspective-taking|Perspective-Taking]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
 
 ## Assessment Evidence
 - Evidence of increased self-awareness, ability to recognize triggers, and consideration of alternative viewpoints.

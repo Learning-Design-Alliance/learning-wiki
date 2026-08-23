@@ -13,10 +13,10 @@ Embed inline in prose wherever a claim is made. The tag describes the **directio
 
 **Direction rule:** Claims in a **Constraints** section MUST use `[-]` or `[~]`, never `[+]`. A constraint is a condition where the approach fails — the tag must reflect that direction.
 
-**Wikilink + tag format.** Always use double brackets around the path. The correct format is:
+**Cross-link + tag format.** Always use a standard markdown link, relative to the page being written (`../claims/slug.md` from any other content folder). The correct format is:
 
 ```
-[[claims/slug]] [+M]
+[Claim statement](../claims/slug.md) [+M]
 ```
 
-NOT plain text like `claims/slug [+M]`. The double brackets are required — without them the link won't render.
+NOT plain text like `claims/slug [+M]`. The markdown link is required — without it the reference won't resolve.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Impressions First
+description: Before diving into specifics, encourage students to share their initial impressions of the mentor text.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Impressions First
@@ -35,9 +39,9 @@ Before diving into specifics, encourage students to share their initial impressi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Student participation in discussions. Student reflections on their impressions. Analysis of student writing samples.

@@ -1,8 +1,24 @@
 ---
 type: principle
+title: Multiple Methods of Assessment
+description: Using multiple methods of assessment means gathering evidence of learning through more than one type of task, representation, or performance.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: andrade-2020
+    resource: "https://doi.org/10.1080/0969594X.2019.1571992"
+    title: "Andrade, H. L., & Brookhart, S. M. (2020). Classroom assessment as the co-regulation of learning. *Assessment in Education: Principles, Policy & Practice, 27*(4), 350-372"
+    author: "Andrade, H. L., & Brookhart, S. M"
+  - id: shepard-2018
+    resource: "https://doi.org/10.1111/emip.12189"
+    title: "Shepard, L. A., Penuel, W. R., & Pellegrino, J. W. (2018). Using learning and motivation theories to coherently link formative assessment, grading practices, and large-scale assessment. *Educational Measurement: Issues and Practice, 37*(1), 21-34"
+    author: "Shepard, L. A., Penuel, W. R., & Pellegrino, J. W"
+  - id: rao-2021
+    resource: "https://doi.org/10.51869/101/kr"
+    title: "Rao, K. (2021). Inclusive instructional design: Applying UDL to online learning. *The Journal of Applied Instructional Design, 10*(1)"
+    author: Rao, K
 ---
 
 # Multiple Methods of Assessment
@@ -11,7 +27,7 @@ edited_by: Codex
 Using multiple methods of assessment means gathering evidence of learning through more than one type of task, representation, or performance. Instead of relying on a single assessment mode to stand in for all understanding, instructors use a mix of written, oral, visual, practical, performance-based, or reflective evidence to build a more credible picture of learner progress. The main value is not variety for its own sake, but better alignment between what is being assessed, how competence is expressed, and how different learners can show what they know.
 
 ## Implications
-Multiple methods of assessment improve judgment when one format alone would underrepresent the target learning. For complex outcomes, integrated performances often give stronger evidence of transfer than isolated fragments [[claims/whole-task-performance-improves-transfer]] [+M], while varied evidence sources can also give learners and instructors more useful information for reflection and adjustment [[claims/self-monitoring-improves-self-regulation]] [~M]. The design challenge is discipline: multiple methods only help when they are aligned to the same underlying goal and judged with comparable standards. Otherwise variety turns into noise rather than better evidence, and the added complexity does not improve instructional responsiveness [[claims/contingent-scaffolding-improves-learning]] [~M].
+Multiple methods of assessment improve judgment when one format alone would underrepresent the target learning. For complex outcomes, integrated performances often give stronger evidence of transfer than isolated fragments [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M], while varied evidence sources can also give learners and instructors more useful information for reflection and adjustment [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. The design challenge is discipline: multiple methods only help when they are aligned to the same underlying goal and judged with comparable standards. Otherwise variety turns into noise rather than better evidence, and the added complexity does not improve instructional responsiveness [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M].
 
 ### Context
 #### Requirements
@@ -47,15 +63,15 @@ Multiple methods of assessment improve judgment when one format alone would unde
 - Some skills still require specific formats for valid assessment, even within a flexible overall design.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [~M] — varied assessment evidence matters when it improves the quality of feedback and the next instructional move
-- [[claims/whole-task-performance-improves-transfer]] [+M] — complex outcomes are often judged more credibly through integrated performances than through one narrow format
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — multiple evidence sources can help learners compare their understanding across formats and adjust accordingly
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — varied assessment evidence matters when it improves the quality of feedback and the next instructional move
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M] — complex outcomes are often judged more credibly through integrated performances than through one narrow format
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — multiple evidence sources can help learners compare their understanding across formats and adjust accordingly
 
 ## Related Principles
-- [[principles/formative-assessment|Formative Assessment]] — multiple methods improve formative interpretation when different evidence streams inform next steps.
-- [[principles/competency-based-learning-assessment|Competency-Based Learning & Assessment]] — varied evidence can strengthen mastery judgments when competence is complex.
-- [[principles/learner-choice|Learner Choice]] — bounded choice in assessment format can increase agency while preserving standards.
-- [[principles/creating-visual-representations|Creating Visual Representations]] — visual forms of evidence can complement written or oral assessment.
+- [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.
+- [Competency-Based Learning & Assessment](competency-based-learning-assessment.md) — varied evidence can strengthen mastery judgments when competence is complex.
+- [Learner Choice](learner-choice.md) — bounded choice in assessment format can increase agency while preserving standards.
+- [Creating Visual Representations](creating-visual-representations.md) — visual forms of evidence can complement written or oral assessment.
 
 ## Examples
 - **Mixed evidence portfolios**: Learners submit written work, reflections, performances, and artifacts to demonstrate growth.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strength-Based Approach to Social Awareness
+description: "This method involves identifying a student's strengths related to social awareness and using those strengths to address their challenges."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strength-Based Approach to Social Awareness
@@ -35,9 +39,9 @@ This method involves identifying a student's strengths related to social awarene
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student's ability to empathize with others, participate in discussions, and understand social norms. Quality of discussions and participation in activities.

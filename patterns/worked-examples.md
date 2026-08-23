@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Worked Examples
+description: Worked examples is the short-form canonical pattern for studying solved models before independent problem solving.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 grain_size: lesson
 ---
 
@@ -14,12 +17,12 @@ Worked examples is the short-form canonical pattern for studying solved models b
 ## Design
 
 ### Elements Used
-- [[elements/worked-examples|Worked Examples]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/fading|Fading]]
+- [Worked Examples](../elements/worked-examples.md)
+- [Demonstration](../elements/demonstration.md)
+- [Fading](../elements/fading.md)
 
 ## Related Patterns
-- [[patterns/cognitive-load-reduction-clt-scaffolding-approach|Cognitive Load Reduction (CLT Scaffolding Approach)]]
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](cognitive-load-reduction-clt-scaffolding-approach.md)
 
 ## Key Sources
 - van Gog, T., & Rummel, N. (2010). Example-based learning. *Educational Psychology Review, 22*(2), 155-174.

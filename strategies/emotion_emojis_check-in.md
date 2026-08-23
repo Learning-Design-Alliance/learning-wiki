@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotion Emojis Check-In
+description: Students express their current feelings by drawing or sharing an emoji that represents their emotional state.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotion Emojis Check-In
@@ -35,8 +39,8 @@ Students express their current feelings by drawing or sharing an emoji that repr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation in creating and sharing emojis. Assess the thoughtfulness and specificity of students' explanations of their emojis.

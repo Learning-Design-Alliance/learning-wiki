@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cultural Responsive Practice
+description: Culturally responsive practice involves engaging students in the learning process through an understanding of how their identity and perspective is shaped by their culture and community experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cultural Responsive Practice
@@ -35,9 +39,9 @@ Culturally responsive practice involves engaging students in the learning proces
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Increased student engagement, improved learning outcomes, enhanced sense of belonging.

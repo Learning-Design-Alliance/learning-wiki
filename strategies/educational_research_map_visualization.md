@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Educational Research Map Visualization
+description: This strategy involves using a research map visualization tool to explore education and learning sciences research.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Educational Research Map Visualization
@@ -35,12 +39,12 @@ This strategy involves using a research map visualization tool to explore educat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/advance-organizers|Advance Organizers]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/inquiry-based-exploration|Inquiry-Based Exploration]]
-- [[elements/just-in-time-information|Just-in-Time Information]]
-- [[elements/resource-evaluation|Resource Evaluation]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Inquiry-Based Exploration](../elements/inquiry-based-exploration.md)
+- [Just-in-Time Information](../elements/just-in-time-information.md)
+- [Resource Evaluation](../elements/resource-evaluation.md)
 
 ## Assessment Evidence
 - Track usage of the visualization tool, survey users about the usefulness of the resources, and monitor the extent to which educators incorporate research findings into their practice.

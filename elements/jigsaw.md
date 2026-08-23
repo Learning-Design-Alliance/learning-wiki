@@ -1,8 +1,11 @@
 ---
 type: element
+title: Jigsaw
+description: Jigsaw is the element in which parts of a topic are distributed across learners who then teach one another to assemble the whole.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Jigsaw
@@ -11,9 +14,9 @@ edited_by: Codex
 Jigsaw is the element in which parts of a topic are distributed across learners who then teach one another to assemble the whole.
 
 ## Affordances
-- [[patterns/jigsaw|Jigsaw]]
-- [[principles/collaborative-learning|Collaborative Learning]]
+- [Jigsaw](../patterns/jigsaw.md)
+- [Collaborative Learning](../principles/collaborative-learning.md)
 
 ## Related Elements
-- [[elements/group-work|Group Work]]
-- [[elements/peer-teaching|Peer Teaching]]
+- [Group Work](group-work.md)
+- [Peer Teaching](peer-teaching.md)

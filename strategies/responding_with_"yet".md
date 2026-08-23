@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Responding with \"Yet\""
+description: "Adding the word \"yet\" to responses when learners express frustration or inability (e.g., \"I can't do this\") introduces the idea of a growth mindset, fostering the belief that abilities can improve over time."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Responding with "Yet"
@@ -35,9 +39,9 @@ Adding the word "yet" to responses when learners express frustration or inabilit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/modeling|Modeling]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Modeling](../elements/modeling.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe changes in learner behavior, such as increased persistence, positive self-talk, and willingness to seek help. Track learner responses to challenges after the introduction of "yet". Analyze learner reflections on their growth and learning experiences.

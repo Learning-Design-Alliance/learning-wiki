@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Math Talks
+description: Math talks are structured conversations focused on mathematical reasoning and problem-solving strategies.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Math Talks
@@ -35,9 +39,9 @@ Math talks are structured conversations focused on mathematical reasoning and pr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/eliciting-student-thinking|Eliciting Student Thinking]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
 
 ## Assessment Evidence
 - Observe the level of engagement and participation in math talks. Evaluate learners’ ability to explain their thinking and reasoning. Assess the depth of understanding demonstrated during discussions.

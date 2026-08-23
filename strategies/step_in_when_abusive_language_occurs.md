@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Step In When Abusive Language Occurs
+description: Addressing offensive language promptly and consistently is crucial for creating a safe and respectful classroom environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Step In When Abusive Language Occurs
@@ -35,9 +39,9 @@ Addressing offensive language promptly and consistently is crucial for creating 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Decreased use of offensive language in the classroom. Increased student understanding of the impact of their words. Improved classroom climate and sense of safety.

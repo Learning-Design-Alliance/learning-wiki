@@ -1,7 +1,11 @@
 ---
 type: element
+title: Case Study
+description: Learners analyze a real or hypothetical scenario to apply concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Case Study
@@ -27,18 +31,18 @@ Learners analyze a real or hypothetical scenario to apply concepts.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/situated-learning|Situated Learning]]
-- [[principles/cognitive-apprenticeship|Cognitive Apprenticeship]]
-- [[principles/constructivism|Constructivism]]
+- [Situated Learning](../principles/situated-learning.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Related Elements
-- [[elements/scenario-based-learning|Scenario-Based Learning]]
-- [[elements/problem-based-learning|Problem-Based Learning]]
-- [[elements/anchored-instruction|Anchored Instruction]]
+- [Scenario-Based Learning](scenario-based-learning.md)
+- [Problem-Based Learning](problem-based-learning.md)
+- [Anchored Instruction](anchored-instruction.md)
 
 ## Patterns That Use This Element
-- [[patterns/case-based-learning|Case-Based Learning]]
-- [[patterns/anchored-instruction|Anchored Instruction]]
+- [Case-Based Learning](../patterns/case-based-learning.md)
+- [Anchored Instruction](../patterns/anchored-instruction.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

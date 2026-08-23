@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teen Exercise as Stress Management
+description: Encourage teens to engage in regular exercise as a way to manage stress, improve focus, and enhance overall well-being.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teen Exercise as Stress Management
@@ -35,7 +39,7 @@ Encourage teens to engage in regular exercise as a way to manage stress, improve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Self-reported stress levels, observation of mood and behavior, tracking of exercise frequency and intensity.

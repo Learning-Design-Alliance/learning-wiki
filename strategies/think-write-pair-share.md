@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Think-Write-Pair-Share
+description: Think-Write-Pair-Share is a collaborative learning strategy where students first think individually about a topic or question, then write down their thoughts, pair with a partner to discuss their responses, and finally share their ideas…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Think-Write-Pair-Share
@@ -35,10 +39,10 @@ Think-Write-Pair-Share is a collaborative learning strategy where students first
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/practice|Practice]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement during pair and whole-class discussions, assess the quality and diversity of ideas generated, and collect written responses for formative assessment.

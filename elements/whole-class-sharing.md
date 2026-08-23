@@ -1,7 +1,11 @@
 ---
 type: element
+title: Whole-Class Sharing
+description: The entire class participates in discussion or presentation of ideas, often following small-group activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Whole-Class Sharing
@@ -27,19 +31,19 @@ The entire class participates in discussion or presentation of ideas, often foll
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/constructivist-learning|Constructivist Learning]]
-- [[principles/community-based-learning|Community-Based Learning]]
+- [Social Learning](../principles/social-learning.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Community-Based Learning](../principles/community-based-learning.md)
 
 ## Related Elements
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/inquiry-based-learning|Inquiry-Based Learning]]
+- [Peer Discussion](peer-discussion.md)
+- [Collaborative Learning](collaborative-learning.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
-- [[patterns/jigsaw|Jigsaw]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Jigsaw](../patterns/jigsaw.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

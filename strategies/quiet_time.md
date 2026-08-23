@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Quiet Time
+description: Quiet time is a structured period of 10–15 minutes where students engage in calming activities like reading, writing, drawing, puzzles, or meditation to transition back into the classroom in a purposeful and relaxed manner.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Quiet Time
@@ -35,8 +39,8 @@ Quiet time is a structured period of 10–15 minutes where students engage in ca
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior before and after quiet time for changes in energy levels, focus, and conflict resolution. Collect student feedback on the helpfulness of quiet time activities.

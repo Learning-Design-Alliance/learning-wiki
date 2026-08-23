@@ -1,8 +1,20 @@
 ---
 type: principle
+title: Learner Choice
+description: Learner choice is the principle of giving learners meaningful decisions about aspects of their learning, such as topic, format, sequence, pacing, strategy, or demonstration of understanding.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: hanewicz-2017
+    resource: "https://doi.org/10.1080/01587919.2017.1369008"
+    title: "Hanewicz, C., Platt, A., & Arendt, A. (2017). Creating a learner-centered teaching environment using student choice in assignments. *Distance Education, 38*(3), 273-287"
+    author: "Hanewicz, C., Platt, A., & Arendt, A"
+  - id: stefanou-2004
+    resource: "https://doi.org/10.1207/s15326985ep3902_2"
+    title: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97-110"
+    author: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C"
 ---
 
 # Learner Choice
@@ -11,7 +23,7 @@ edited_by: Codex
 Learner choice is the principle of giving learners meaningful decisions about aspects of their learning, such as topic, format, sequence, pacing, strategy, or demonstration of understanding. The instructional value of choice comes from agency with purpose: when learners can make decisions that matter, they are more likely to experience ownership, motivation, and relevance. Effective choice is not unlimited freedom. It is bounded in ways that preserve learning goals, quality standards, and sufficient support.
 
 ## Implications
-Learner choice improves motivation and ownership when the options are meaningful and the learner has enough support to choose well. Choice can strengthen self-regulation because learners must weigh options, commit to a path, and monitor whether that path is working [[claims/self-monitoring-improves-self-regulation]] [~M]. But too much freedom too early can create overload or inequity, especially for novices who do not yet know which option fits the goal [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M]. The practical design move is bounded choice: keep outcomes and standards clear [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S] while varying the path, topic, or product in ways that genuinely matter.
+Learner choice improves motivation and ownership when the options are meaningful and the learner has enough support to choose well. Choice can strengthen self-regulation because learners must weigh options, commit to a path, and monitor whether that path is working [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. But too much freedom too early can create overload or inequity, especially for novices who do not yet know which option fits the goal [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]. The practical design move is bounded choice: keep outcomes and standards clear [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] while varying the path, topic, or product in ways that genuinely matter.
 
 ### Context
 #### Requirements
@@ -47,15 +59,15 @@ Learner choice improves motivation and ownership when the options are meaningful
 - Strong learning design often requires more structure for novices before broad choice becomes productive.
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — choice becomes educative when learners track whether their selected path is actually helping them progress
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M] — novices often need more guidance in how to choose and proceed before broad autonomy becomes productive
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S] — choice works better when standards and success criteria remain explicit even as pathways vary
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — choice becomes educative when learners track whether their selected path is actually helping them progress
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need more guidance in how to choose and proceed before broad autonomy becomes productive
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — choice works better when standards and success criteria remain explicit even as pathways vary
 
 ## Related Principles
-- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]] — choice becomes more effective when learners also set goals and monitor progress.
-- [[principles/flexible-grouping|Flexible Grouping]] — choice can include partner, role, or grouping structures.
-- [[principles/competency-based-learning-assessment|Competency-Based Learning & Assessment]] — learner choice often works well when outcomes are fixed but pathways vary.
-- [[principles/inquiry-based-learning|Inquiry-based Learning]] — inquiry often incorporates bounded choice around questions, methods, or products.
+- [Goal Setting & Monitoring](goal-setting-monitoring.md) — choice becomes more effective when learners also set goals and monitor progress.
+- [Flexible Grouping](flexible-grouping.md) — choice can include partner, role, or grouping structures.
+- [Competency-Based Learning & Assessment](competency-based-learning-assessment.md) — learner choice often works well when outcomes are fixed but pathways vary.
+- [Inquiry-based Learning](inquiry-based-learning.md) — inquiry often incorporates bounded choice around questions, methods, or products.
 
 ## Examples
 - **Choice boards**: Learners select from several tasks that address the same learning goal through different formats or contexts.

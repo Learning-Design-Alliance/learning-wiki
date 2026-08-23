@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Build Time for Self-Reflection
+description: Providing a chance for teachers to reflect upon their new ideas and consider what they learned from the process is vitally important.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Build Time for Self-Reflection
@@ -35,7 +39,7 @@ Providing a chance for teachers to reflect upon their new ideas and consider wha
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track teacher participation in reflection activities. Collect teacher reflections on their teaching practices and professional growth. Evaluate the impact of reflection on student learning outcomes.

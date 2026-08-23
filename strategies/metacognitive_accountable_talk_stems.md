@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Metacognitive Accountable Talk Stems
+description: Accountable talk stems are phrases and sentence starters that facilitate structured, text-based discussions and promote higher-order thinking and metacognition.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Metacognitive Accountable Talk Stems
@@ -35,13 +39,13 @@ Accountable talk stems are phrases and sentence starters that facilitate structu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/reassessment|Reassessment]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/reciprocal-teaching|Reciprocal Teaching]]
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Response](../elements/individual-response.md)
+- [Reassessment](../elements/reassessment.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Reciprocal Teaching](../elements/reciprocal-teaching.md)
 
 ## Assessment Evidence
 - Observe the extent to which students use accountable talk stems. Evaluate the depth and quality of student responses and interactions.

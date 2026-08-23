@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Brain-Based Learning with Movement Breaks
+description: Incorporating movement, social interaction, and distributed learning to enhance brain function and retention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Brain-Based Learning with Movement Breaks
@@ -35,12 +39,12 @@ Incorporating movement, social interaction, and distributed learning to enhance 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation in movement activities. Assess understanding through verbal explanations and visual demonstrations. Monitor student focus and attention after movement breaks.

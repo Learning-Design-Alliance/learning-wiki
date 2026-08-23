@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Give Hints and Clues to Help Students Answer Questions
+description: Teachers should do more delving and rephrasing for learners for whom they have high expectations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Give Hints and Clues to Help Students Answer Questions
@@ -35,9 +39,9 @@ Teachers should do more delving and rephrasing for learners for whom they have h
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increase in learner participation, improved academic performance, and reduced behavioral issues. Observation of learners' confidence.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Increase Classroom Space and Reduce Overcrowding
+description: Provide ample classroom space to support student engagement and learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Increase Classroom Space and Reduce Overcrowding
@@ -35,7 +39,7 @@ Provide ample classroom space to support student engagement and learning. Overcr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track levels of aggression and student engagement in classrooms with different sizes. Monitor academic achievement and collaboration skills in classrooms with ample space.

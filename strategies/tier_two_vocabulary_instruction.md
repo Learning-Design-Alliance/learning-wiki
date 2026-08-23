@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Tier Two Vocabulary Instruction
+description: Focuses on teaching high-frequency words used by mature language users that can add significantly to language ability.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Tier Two Vocabulary Instruction
@@ -35,10 +39,10 @@ Focuses on teaching high-frequency words used by mature language users that can 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Vocabulary quizzes, use of new words in writing and speaking, and comprehension of texts containing Tier Two words.

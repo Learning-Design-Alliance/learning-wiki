@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Making Connections (Text-to-Self, Text-to-Text, Text-to-World)
+description: Making Connections is a comprehension strategy that helps learners relate a text to their own lives (text-to-self), to other texts they have read (text-to-text), or to events in the real world (text-to-world).
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Making Connections (Text-to-Self, Text-to-Text, Text-to-World)
@@ -35,11 +39,11 @@ Making Connections is a comprehension strategy that helps learners relate a text
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Depth and relevance of connections made by learners, participation in discussions, quality of written reflections.

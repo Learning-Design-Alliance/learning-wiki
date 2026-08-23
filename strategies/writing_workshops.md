@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Writing Workshops
+description: Writing workshops create environments with multiple stations focusing on different aspects of writing, such as transitions, topic sentences, or source integration.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Writing Workshops
@@ -35,11 +39,11 @@ Writing workshops create environments with multiple stations focusing on differe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/expert-groups|Expert Groups]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Expert Groups](../elements/expert-groups.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Improvements in learner writing quality as evidenced by targeted skill development. Increased learner participation in writing activities and peer feedback.

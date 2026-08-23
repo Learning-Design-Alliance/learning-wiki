@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Start with Yourself (Identity Mapping)
+description: This principle encourages educators to reflect on their own intersectional identities and how these identities shape their perceptions and relationships with others.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Start with Yourself (Identity Mapping)
@@ -35,8 +39,8 @@ This principle encourages educators to reflect on their own intersectional ident
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe changes in educator behavior and interactions with students, gather feedback from students about the inclusiveness of the classroom environment, and track the implementation of more equitable practices.

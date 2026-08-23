@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Develop Educator Understanding
+description: Educators develop their own understanding of self-awareness and how it affects learning by reading up on the resources and research available.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Develop Educator Understanding
@@ -35,8 +39,8 @@ Educators develop their own understanding of self-awareness and how it affects l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Educators' ability to articulate their understanding of self-awareness and its impact on learning. Their use of evidence-based strategies to support their students' self-awareness.

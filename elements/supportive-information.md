@@ -1,8 +1,20 @@
 ---
 type: element
+title: Supportive information
+description: Supportive information provides the cognitive strategies, mental models, and conceptual frameworks necessary for tackling complex tasks.
 status: review
-last_edited: 2026-04-06
-edited_by: Claude
+generated:
+  by: claude/unspecified
+  at: 2026-04-06
+sources:
+  - id: sweller-2011
+    resource: "https://doi.org/10.1007/978-1-4419-8126-4"
+    title: "Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory*. Springer"
+    author: "Sweller, J., Ayres, P., & Kalyuga, S"
+  - id: van-merriënboer-2003
+    resource: "https://doi.org/10.1207/S15326985EP3801_2"
+    title: "van Merriënboer, J. J. G., Kirschner, P. A., & Kester, L. (2003). Taking the load off a learner's mind: Instructional design for complex learning. *Educational Psychologist, 38*(1), 5–13"
+    author: "van Merriënboer, J. J. G., Kirschner, P. A., & Kester, L"
 ---
 
 # Supportive information
@@ -12,7 +24,7 @@ Supportive information provides the cognitive strategies, mental models, and con
 
 ## Design Implications
 
-Supportive information reduces extraneous cognitive load by externalizing the "why" and "how" of domain expertise [[theories/cognitive-load-theory]] [+S]. By providing learners with organized mental models before they engage in high-stakes problem solving, it allows them to dedicate mental resources to schema construction rather than inefficient search strategies [[theories/cognitive-load-theory]] [+M].
+Supportive information reduces extraneous cognitive load by externalizing the "why" and "how" of domain expertise [Cognitive Load Theory](../theories/cognitive-load-theory.md) [+S]. By providing learners with organized mental models before they engage in high-stakes problem solving, it allows them to dedicate mental resources to schema construction rather than inefficient search strategies [Cognitive Load Theory](../theories/cognitive-load-theory.md) [+M].
 
 ### Context
 #### Requirements
@@ -35,21 +47,21 @@ Supportive information reduces extraneous cognitive load by externalizing the "w
 - Facilitating transfer: providing generalizable principles that can be applied to novel, authentic problem contexts.
 
 ### Affordances
-- [[principles/scaffolding|Scaffolding]] — acts as an external cognitive structure that can be gradually faded as internal mental models strengthen.
-- [[principles/worked-examples|Worked Examples]] — provides the theoretical framework that helps learners decode the steps within a worked example.
-- [[principles/clear-structure-presentation|Clear Structure and Presentation]] — organizes complex domain knowledge into hierarchical schemas that facilitate long-term retention.
-- [[principles/explicit-instruction-math-strategies|Explicit Instruction of Strategies]] — makes tacit expert heuristics and reasoning paths visible for novice imitation.
+- [Scaffolding](../principles/scaffolding.md) — acts as an external cognitive structure that can be gradually faded as internal mental models strengthen.
+- [Worked Examples](../principles/worked-examples.md) — provides the theoretical framework that helps learners decode the steps within a worked example.
+- [Clear Structure and Presentation](../principles/clear-structure-presentation.md) — organizes complex domain knowledge into hierarchical schemas that facilitate long-term retention.
+- [Explicit Instruction of Strategies](../principles/explicit-instruction-math-strategies.md) — makes tacit expert heuristics and reasoning paths visible for novice imitation.
 
 ## Related Elements
-- [[elements/demonstration|Demonstration]] — provides the concrete instance for the abstract principles found in supportive information.
-- [[elements/advance-organizers|Advance Organizers]] — primes the learner's cognitive architecture to receive incoming supportive information.
-- [[elements/case-study|Case Study]] — serves as the primary context for applying the mental models delivered via supportive information.
-- [[elements/demonstration|Demonstration]] — visualizes the expert reasoning described in supportive information.
-- [[elements/direct-instruction|Direct Instruction]] — the common delivery method for ensuring foundational knowledge is complete and unambiguous.
+- [Demonstration](demonstration.md) — provides the concrete instance for the abstract principles found in supportive information.
+- [Advance Organizers](advance-organizers.md) — primes the learner's cognitive architecture to receive incoming supportive information.
+- [Case Study](case-study.md) — serves as the primary context for applying the mental models delivered via supportive information.
+- [Demonstration](demonstration.md) — visualizes the expert reasoning described in supportive information.
+- [Direct Instruction](direct-instruction.md) — the common delivery method for ensuring foundational knowledge is complete and unambiguous.
 
 ## Patterns That Use This Element
-- [[patterns/4cid-four-component-instructional-design|Four-Component Instructional Design]] — defines "supportive information" as one of four component types; it is delivered non-recurrently, before or alongside the whole learning task
-- [[patterns/cognitive-apprenticeship|Cognitive Apprenticeship]] — the modeling and coaching phases provide the conceptual scaffolding that functions as supportive information
+- [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — defines "supportive information" as one of four component types; it is delivered non-recurrently, before or alongside the whole learning task
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the modeling and coaching phases provide the conceptual scaffolding that functions as supportive information
 
 ## Examples
 - **4C/ID Model (Software Training)** — Sequences supportive information about logic (e.g., cell reference types in Excel) before requiring learners to build complex formulas.

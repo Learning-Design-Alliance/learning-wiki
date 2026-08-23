@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Checklists
+description: Checklists can be used to measure and document student learning by tracking whether learners are accomplishing specific tasks or expectations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Checklists
@@ -35,8 +39,8 @@ Checklists can be used to measure and document student learning by tracking whet
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track alignment between self-assessments and teacher evaluations. Monitor improvements in performance over time.

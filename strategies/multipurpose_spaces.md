@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multipurpose Spaces
+description: Designing spaces that lend themselves to a variety of learning styles and activities are best.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multipurpose Spaces
@@ -35,8 +39,8 @@ Designing spaces that lend themselves to a variety of learning styles and activi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/application|Application]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

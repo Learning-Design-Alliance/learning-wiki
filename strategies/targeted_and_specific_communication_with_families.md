@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Targeted and Specific Communication with Families
+description: Tailoring message content for different populations, such as non-native English speakers, families with different cultural backgrounds, and those with students in special education.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Targeted and Specific Communication with Families
@@ -35,9 +39,9 @@ Tailoring message content for different populations, such as non-native English 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Collect feedback from families to assess the relevance and clarity of communication. Monitor family participation rates and student outcomes.

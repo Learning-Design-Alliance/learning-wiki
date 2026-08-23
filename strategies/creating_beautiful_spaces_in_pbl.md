@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating Beautiful Spaces in PBL
+description: Creating beautiful spaces in PBL involves displaying student work from projects in the school building to honor and celebrate high-quality student work.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating Beautiful Spaces in PBL
@@ -35,9 +39,9 @@ Creating beautiful spaces in PBL involves displaying student work from projects 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Increased student engagement, a stronger sense of pride in their work, and a more positive and welcoming school environment.

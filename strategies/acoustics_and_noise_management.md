@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Acoustics and Noise Management
+description: Managing classroom acoustics and noise levels greatly impacts teacher and student performance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Acoustics and Noise Management
@@ -35,7 +39,7 @@ Managing classroom acoustics and noise levels greatly impacts teacher and studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Measure noise levels in classrooms, assess student engagement and achievement, survey teacher and student satisfaction.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Optimize Classroom Lighting
+description: Maximize the use of natural lighting in classrooms.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Optimize Classroom Lighting
@@ -35,7 +39,7 @@ Maximize the use of natural lighting in classrooms. Research has shown that arti
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student and teacher mood and energy levels. Monitor off-task behavior and academic achievement in classrooms with optimized lighting.

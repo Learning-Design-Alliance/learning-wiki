@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reflective Journaling
+description: Reflective journaling is a technique used to encourage reflective learning by highlighting students’ thoughts and perceptions about course content.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflective Journaling
@@ -35,9 +39,9 @@ Reflective journaling is a technique used to encourage reflective learning by hi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Analyze journal entries to assess learners' understanding of concepts, critical thinking skills, and personal reflections. Track changes in learners' thinking over time. Evaluate the depth and quality of learners' responses to prompts.

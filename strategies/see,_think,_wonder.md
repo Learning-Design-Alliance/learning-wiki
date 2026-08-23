@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: See, Think, Wonder
+description: A thinking routine developed by Project Zero to stimulate curiosity, normalize error, increase critical thinking skills, and ensure that every learner starts from a place of success.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # See, Think, Wonder
@@ -35,11 +39,11 @@ A thinking routine developed by Project Zero to stimulate curiosity, normalize e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain Attention]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/cognitive-conflict|Cognitive Conflict]]
+- [Gain Attention](../elements/gain-attention.md)
+- [Individual Response](../elements/individual-response.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Depth and breadth of student responses, evidence of critical thinking, number and quality of questions asked, level of engagement in discussions

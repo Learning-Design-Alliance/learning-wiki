@@ -1,8 +1,11 @@
 ---
 type: theory
+title: Constructivism
+description: Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 ---
 
 # Constructivism
@@ -30,20 +33,20 @@ In instruction, constructivism is less a single method than a family resemblance
 - Learner agency in explanation, interpretation, and problem solving
 
 ## Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/whole-task-performance-improves-transfer]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Related Theories
-- [[theories/self-regulated-learning]] — constructivist learning often depends on learners monitoring and revising their own understanding
-- [[theories/cognitive-load-theory]] — constructivist tasks still have to manage working-memory limits, especially for novices
-- [[theories/information-processing-theory]] — active construction still depends on attention, encoding, and retrieval processes
+- [Self-Regulated Learning](self-regulated-learning.md) — constructivist learning often depends on learners monitoring and revising their own understanding
+- [Cognitive Load Theory](cognitive-load-theory.md) — constructivist tasks still have to manage working-memory limits, especially for novices
+- [Information Processing Theory](information-processing-theory.md) — active construction still depends on attention, encoding, and retrieval processes
 
 ## Examples
-- [[principles/inquiry-based-learning|Inquiry-based Learning]]
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/purposeful-reflection|Purposeful Reflection]]
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ## Key Sources
 - Piaget, J. (1970). *Science of education and the psychology of the child*. Viking.

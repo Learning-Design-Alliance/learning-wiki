@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Instructor as Facilitator
+description: Reducing the power differential between instructor and students by acting more as a facilitator than an instructor fosters a nurturing environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Instructor as Facilitator
@@ -35,11 +39,11 @@ Reducing the power differential between instructor and students by acting more a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Response](../elements/individual-response.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Student participation in activities, quality of student-led presentations, student feedback on questionnaires and activities.

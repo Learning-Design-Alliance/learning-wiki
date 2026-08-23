@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connect Math to Student Strengths
+description: Help learners understand how math is used in ways that relate to their personal strengths by relating math to student interests.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connect Math to Student Strengths
@@ -35,9 +39,9 @@ Help learners understand how math is used in ways that relate to their personal 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe changes in learner motivation, monitor increased engagement in math activities, and assess the relevance of math examples.

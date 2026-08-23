@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Screen Readers
+description: Screen readers convert text into spoken audio, enabling learners to listen to written material.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Screen Readers
@@ -35,8 +39,8 @@ Screen readers convert text into spoken audio, enabling learners to listen to wr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess comprehension through quizzes, discussions, or written assignments, compare performance with traditional reading tasks.

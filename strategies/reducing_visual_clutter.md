@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reducing Visual Clutter
+description: Reducing visual clutter involves minimizing the amount of unnecessary or distracting visual stimuli in the learning environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reducing Visual Clutter
@@ -35,8 +39,8 @@ Reducing visual clutter involves minimizing the amount of unnecessary or distrac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learner focus and attention in class activities. Collect learner feedback on the impact of visual clutter on their learning. Measure learner achievement and compare outcomes in less cluttered environments versus more cluttered environments.

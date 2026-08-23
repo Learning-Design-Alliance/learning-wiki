@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Observations and Conversations
+description: Monitoring student learning through observations and conversations helps determine understanding of concepts and problem-solving abilities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Observations and Conversations
@@ -35,8 +39,8 @@ Monitoring student learning through observations and conversations helps determi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Collect anecdotal notes on student understanding and problem-solving processes. Analyze responses to key questions to assess conceptual understanding. Track changes in student performance based on observational data.

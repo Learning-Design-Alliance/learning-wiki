@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Support Decoding of Text, Mathematical Notation, and Symbols
+description: Ensuring that text and symbols do not impede the learning goal involves providing strategies and tools to help learners decode and understand written and symbolic information.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Support Decoding of Text, Mathematical Notation, and Symbols
@@ -35,8 +39,8 @@ Ensuring that text and symbols do not impede the learning goal involves providin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner reading fluency and comprehension. Assess learner understanding of mathematical notation and symbols. Track improvements in reading and mathematical skills.

@@ -63,7 +63,7 @@ For each candidate (user-submitted + wiki finds), normalize to this schema:
 
 ```
 Name: [principle name — use wiki page title or user's name]
-Wiki: [[principles/slug]]  ← omit if not from wiki
+Wiki: [Title](/principles/slug.md)  ← omit if not from wiki
 Category: [motivation | cognition | social | assessment]
 Evidence: [strong | moderate | emerging — infer from claim tags: [+S]/[+M] → strong/moderate; [+W] → emerging]
 Claim: [one sentence — what this principle asserts about learning]
@@ -115,7 +115,7 @@ Write approved principles to `projects/[project-name]/learning-principles.md`:
 
 **Category:** [motivation | cognition | social | assessment]
 **Evidence:** [strong | moderate | emerging]
-**Wiki:** [[principles/slug]]
+**Wiki:** [Title](/principles/slug.md)
 
 **Claim:** [one sentence]
 

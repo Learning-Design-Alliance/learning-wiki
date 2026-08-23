@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Functional Wall Displays
+description: Using walls for bulletin boards displaying student work and curricular supports, such as a word wall or math posters, makes resources easily accessible during instruction.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Functional Wall Displays
@@ -35,7 +39,7 @@ Using walls for bulletin boards displaying student work and curricular supports,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe how frequently students use the wall displays as resources. Gather feedback on the usefulness and clarity of displays. Monitor student engagement and behavior near the displays.

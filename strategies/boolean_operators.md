@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Boolean Operators
+description: "For older students, teach them Boolean Operators (and, or, not, near, ( ), *) to better refine their searches."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Boolean Operators
@@ -35,8 +39,8 @@ For older students, teach them Boolean Operators (and, or, not, near, ( ), *) to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Ability to use boolean operators.

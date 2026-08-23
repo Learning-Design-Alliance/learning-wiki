@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Personalized Math with Cultural Connections
+description: Effective math instruction connects to real-life and culturally relevant contexts, engaging students and making concepts more accessible.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Personalized Math with Cultural Connections
@@ -35,10 +39,10 @@ Effective math instruction connects to real-life and culturally relevant context
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Increased student participation, improved understanding of concepts, enhanced engagement during lessons, and positive feedback.

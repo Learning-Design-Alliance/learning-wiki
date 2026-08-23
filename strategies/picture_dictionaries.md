@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Picture Dictionaries
+description: Picture dictionaries are reference tools that use illustrations to define words and concepts, making them accessible to language learners of all ages.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Picture Dictionaries
@@ -35,9 +39,9 @@ Picture dictionaries are reference tools that use illustrations to define words 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Assess vocabulary acquisition through tests, quizzes, and writing samples. Observe engagement and participation during reading activities. Gather feedback from learners on the usefulness of picture dictionaries.

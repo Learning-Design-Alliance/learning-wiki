@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Uncluttered Environment
+description: A learning environment with minimal visual distractions is created by storing supplies and materials off of tables and desks and limiting decorations and other things hanging on the walls.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Uncluttered Environment
@@ -35,7 +39,7 @@ A learning environment with minimal visual distractions is created by storing su
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' ability to focus and engage in learning activities. Collect feedback from learners on the impact of the uncluttered environment on their learning experience. Compare academic performance and behavior before and after implementing the strategy.

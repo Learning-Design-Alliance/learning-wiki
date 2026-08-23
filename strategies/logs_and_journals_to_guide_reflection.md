@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Logs and Journals to Guide Reflection
+description: Periodically ask students to reread their journals, comparing what they knew at the beginning of a learning sequence with what they know now.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Logs and Journals to Guide Reflection
@@ -35,7 +39,7 @@ Periodically ask students to reread their journals, comparing what they knew at 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|individual reflection]]
+- [individual reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Check for journal quality and depth. Observe improvements in performance on subsequent tasks based on insights from previous reflections.

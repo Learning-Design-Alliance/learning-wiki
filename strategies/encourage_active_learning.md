@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Encourage Active Learning
+description: Learning is not a spectator sport.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Encourage Active Learning
@@ -35,9 +39,9 @@ Learning is not a spectator sport. No one learns much just sitting in classes li
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
-- [[elements/inquiry-based-exploration|Inquiry-Based Exploration]]
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Inquiry-Based Exploration](../elements/inquiry-based-exploration.md)
 
 ## Assessment Evidence
 - Increased participation in discussions, improved quality of written assignments, positive feedback from tutees about engagement.

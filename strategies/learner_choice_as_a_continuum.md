@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Learner Choice as a Continuum
+description: Learner choice involves transitioning from teacher-led content delivery to learner-driven purpose discovery.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Learner Choice as a Continuum
@@ -35,8 +39,8 @@ Learner choice involves transitioning from teacher-led content delivery to learn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/learner-choice|Learner Choice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Learner Choice](../elements/learner-choice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Learner engagement and motivation can be measured through observation and self-report surveys. The quality of learner work can be assessed using criteria aligned with learning objectives. Reflective writing can provide insights into learner experiences and perceptions of ownership.

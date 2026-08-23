@@ -1,8 +1,11 @@
 ---
 type: element
+title: Discrepant Events
+description: Discrepant events are demonstrations, observations, or scenarios that violate learner expectations in a noticeable way.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Discrepant Events
@@ -23,18 +26,18 @@ Discrepant events are demonstrations, observations, or scenarios that violate le
 - Surface misconceptions and create readiness for explanation revision.
 
 ### Affordances
-- [[principles/cognitive-disequilibrium|Cognitive Disequilibrium]]
-- [[principles/cognitive-flexibility|Cognitive Flexibility]]
-- [[principles/error-analysis|Error Analysis]]
+- [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md)
+- [Cognitive Flexibility](../principles/cognitive-flexibility.md)
+- [Error Analysis](../principles/error-analysis.md)
 
 ## Related Elements
-- [[elements/cognitive-conflict|Cognitive Conflict]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/inquiry-based-learning|Inquiry-Based Learning]]
+- [Cognitive Conflict](cognitive-conflict.md)
+- [Demonstration](demonstration.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/guided-discovery-learning|Guided Discovery Learning]]
-- [[patterns/cognitive-flexibility-theory|Cognitive Flexibility Theory]]
+- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
+- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
 
 ## Examples
 - A science demonstration that produces a result opposite to what learners predicted.

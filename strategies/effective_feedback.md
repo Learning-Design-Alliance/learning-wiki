@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Effective Feedback
+description: "Feedback is any response from a teacher regarding a student's performance or behavior."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Effective Feedback
@@ -35,9 +39,9 @@ Feedback is any response from a teacher regarding a student's performance or beh
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe changes in learner performance and attitude towards learning. Track learner progress towards goals. Analyze learner self-assessments and reflections.

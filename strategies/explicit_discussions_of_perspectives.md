@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicit Discussions of Perspectives
+description: Facilitating structured conversations where learners explore multiple viewpoints and consider how different individuals might experience the same event.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicit Discussions of Perspectives
@@ -35,9 +39,9 @@ Facilitating structured conversations where learners explore multiple viewpoints
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/case-study|Case Study]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Case Study](../elements/case-study.md)
 
 ## Assessment Evidence
 - Observe learners’ participation in discussions. Review learners’ written or verbal reflections on different perspectives. Evaluate learners’ understanding of social issues and cultural diversity.

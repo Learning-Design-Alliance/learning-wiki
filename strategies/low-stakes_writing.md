@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Low-Stakes Writing
+description: Teachers at University Park Campus School used daily low-stakes writing activities to foster student voice, self-confidence, and critical thinking skills—a school-wide strategy used in every subject.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Low-Stakes Writing
@@ -35,8 +39,8 @@ Teachers at University Park Campus School used daily low-stakes writing activiti
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Review student writing to assess voice, self-confidence, and critical thinking skills.

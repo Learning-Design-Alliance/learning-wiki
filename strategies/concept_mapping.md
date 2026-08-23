@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Concept Mapping
+description: Concept maps are visual tools that help learners organize and articulate what they know about a given concept or topic.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Concept Mapping
@@ -35,9 +39,9 @@ Concept maps are visual tools that help learners organize and articulate what th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/advance-organizers|Advance Organizers]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate the clarity and accuracy of the concept maps to assess comprehension and engagement.

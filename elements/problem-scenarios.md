@@ -1,8 +1,16 @@
 ---
 type: element
+title: Problem Scenarios
+description: Problem scenarios are concrete situations presented to learners as the context for inquiry, analysis, or solution development.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: hmelo-silver-2004
+    resource: "https://doi.org/10.1023/B:EDPR.0000034022.16470.f3"
+    title: "Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266"
+    author: Hmelo-Silver, C. E
 ---
 
 # Problem Scenarios
@@ -23,17 +31,17 @@ Problem scenarios are concrete situations presented to learners as the context f
 - Support situated problem analysis and authentic application.
 
 ### Affordances
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/situated-learning|Situated Learning]]
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Situated Learning](../principles/situated-learning.md)
 
 ## Related Elements
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/scenario-based-learning|Scenario-Based Learning]]
+- [Problem Scenario](problem-scenario.md)
+- [Problem Presentation](problem-presentation.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/problem-based-learning|Problem-Based Learning]]
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 - A realistic case introduction that frames the decisions learners will need to make.

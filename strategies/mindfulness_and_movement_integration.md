@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mindfulness and Movement Integration
+description: Integrating mindfulness with movement involves combining physical activity with practices that promote awareness, focus, and presence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mindfulness and Movement Integration
@@ -35,9 +39,9 @@ Integrating mindfulness with movement involves combining physical activity with 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Reduced stress levels, improved focus and attention, increased self-awareness, better mood, and enhanced physical fitness.

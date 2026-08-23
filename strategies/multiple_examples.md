@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multiple Examples
+description: When teaching a new technique, providing multiple examples helps students understand and apply the technique in their own writing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multiple Examples
@@ -35,10 +39,10 @@ When teaching a new technique, providing multiple examples helps students unders
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Student writing samples demonstrating the application of the technique. Participation in discussions and analyses of examples. Student reflections on their writing process.

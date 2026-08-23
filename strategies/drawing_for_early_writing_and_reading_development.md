@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Drawing for Early Writing and Reading Development
+description: Drawing is a strategy to foster creativity, planning, and the development of foundational literacy skills in young learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Drawing for Early Writing and Reading Development
@@ -35,9 +39,9 @@ Drawing is a strategy to foster creativity, planning, and the development of fou
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the child's drawings and writing to track progress in creativity, planning, and literacy skills. Assess the child's understanding of the connection between pictures and words. Track the child's confidence and engagement in writing activities.

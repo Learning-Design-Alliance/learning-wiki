@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: EQ Feeling Chart Exploration
+description: Learners use the EQ Feeling Chart to identify and communicate their feelings with a partner.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # EQ Feeling Chart Exploration
@@ -35,8 +39,8 @@ Learners use the EQ Feeling Chart to identify and communicate their feelings wit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the depth and honesty of learners' sharing. Assess learners' ability to identify and articulate their feelings.

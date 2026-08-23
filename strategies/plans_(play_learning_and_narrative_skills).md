@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: PLaNS (Play Learning and Narrative Skills)
+description: The PLaNS approach supports writing skills through guided play and includes practical resources to help with lesson planning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # PLaNS (Play Learning and Narrative Skills)
@@ -35,9 +39,9 @@ The PLaNS approach supports writing skills through guided play and includes prac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance Retention and Transfer]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance Retention and Transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Learner writing samples. Participation in collaborative storytelling activities. Creativity and narrative skills.

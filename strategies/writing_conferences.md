@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Writing Conferences
+description: "Writing conferences are brief, individualized meetings between a teacher and a student focused on the student's writing."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Writing Conferences
@@ -35,10 +39,10 @@ Writing conferences are brief, individualized meetings between a teacher and a s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess Performance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Improved writing quality in revised drafts. Increased student engagement and motivation in writing. Enhanced self-assessment skills and ability to identify areas for improvement. Positive student feedback on the conference process.

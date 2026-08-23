@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotional Check-ins
+description: Beginning the day by asking students how they are feeling helps to identify potential emotional triggers.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotional Check-ins
@@ -35,8 +39,8 @@ Beginning the day by asking students how they are feeling helps to identify pote
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately express emotions; track participation and engagement; monitor ability to connect emotions to daily activities

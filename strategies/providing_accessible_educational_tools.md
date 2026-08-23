@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Providing Accessible Educational Tools
+description: Providing easy access to a variety of educational tools empowers students to take control of their learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Providing Accessible Educational Tools
@@ -35,9 +39,9 @@ Providing easy access to a variety of educational tools empowers students to tak
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe students' use of educational tools, their engagement in learning, and their ability to overcome challenges. Measure students' independence and self-direction in their learning.

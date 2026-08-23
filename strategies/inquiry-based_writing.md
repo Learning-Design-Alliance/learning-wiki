@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Inquiry-Based Writing
+description: Engage in focused investigation with “immediate and concrete data” that learners gather and analyze, as a springboard to higher quality writing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Inquiry-Based Writing
@@ -35,9 +39,9 @@ Engage in focused investigation with “immediate and concrete data” that lear
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/solution-development|Solution Development]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased research skills, greater critical thinking

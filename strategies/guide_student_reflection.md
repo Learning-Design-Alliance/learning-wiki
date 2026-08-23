@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Guide Student Reflection
+description: Teachers use many strategies to guide students through a period of reflection.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Guide Student Reflection
@@ -35,9 +39,9 @@ Teachers use many strategies to guide students through a period of reflection. T
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Improved student problem-solving abilities and greater metacognition.

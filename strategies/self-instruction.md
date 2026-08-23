@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Instruction
+description: Self-instruction, also known as self-talk or self-statements, is a strategy where learners talk themselves through a task or activity to self-regulate their behavior.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Instruction
@@ -35,12 +39,12 @@ Self-instruction, also known as self-talk or self-statements, is a strategy wher
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to articulate and use self-statements during tasks. Monitor improvements in task completion, accuracy, and self-regulation.

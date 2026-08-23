@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Metacognitive Reflection
+description: "This strategy focuses on learners' awareness of their thought processes as they complete tasks, emphasizing self-improvement rather than assessment."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Metacognitive Reflection
@@ -35,8 +39,8 @@ This strategy focuses on learners' awareness of their thought processes as they 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evidence of learners' ability to identify areas for improvement. Learners' application of reflection to future work. Growth in self-awareness and self-regulation.

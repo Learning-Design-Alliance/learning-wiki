@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Feeling Face Snack Time
+description: "Learners pull a 'feeling face' card and eat their snack while showing the matching emotion."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Feeling Face Snack Time
@@ -35,8 +39,8 @@ Learners pull a 'feeling face' card and eat their snack while showing the matchi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/demonstration|Demonstration]]
+- [Practice](../elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately portray emotions while eating their snack. Assess their participation and engagement in the activity.

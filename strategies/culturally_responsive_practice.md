@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Culturally Responsive Practice
+description: Engaging learners cognitively and emotionally by understanding how their identity and perspective are shaped by culture and community experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Culturally Responsive Practice
@@ -35,9 +39,9 @@ Engaging learners cognitively and emotionally by understanding how their identit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Changes in classroom practices, improved student engagement, and increased sense of belonging.

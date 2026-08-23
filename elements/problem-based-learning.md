@@ -1,8 +1,16 @@
 ---
 type: element
+title: Problem-Based Learning
+description: Problem-based learning, as an element, refers to the use of an authentic or ill-structured problem as the immediate driver of inquiry, information seeking, and solution development inside a larger design.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: hmelo-silver-2004
+    resource: "https://doi.org/10.1023/B:EDPR.0000034022.16470.f3"
+    title: "Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266"
+    author: Hmelo-Silver, C. E
 ---
 
 # Problem-Based Learning
@@ -28,18 +36,18 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - Use problems to drive knowledge construction and solution development.
 
 ### Affordances
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/active-learning|Active Learning]]
-- [[principles/constructivism|Constructivism]]
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Active Learning](../principles/active-learning.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Related Elements
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/scenario-based-learning|Scenario-Based Learning]]
-- [[elements/collaborative-problem-solving|Collaborative Problem Solving]]
+- [Problem Scenario](problem-scenario.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
+- [Collaborative Problem Solving](collaborative-problem-solving.md)
 
 ## Patterns That Use This Element
-- [[patterns/problem-based-learning|Problem-Based Learning]]
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 - A case, challenge, or scenario that learners must investigate before formal explanation.

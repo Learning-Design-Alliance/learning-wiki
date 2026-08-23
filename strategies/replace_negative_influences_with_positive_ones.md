@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Replace Negative Influences with Positive Ones
+description: This strategy focuses on intentionally minimizing exposure to negative external factors and actively seeking out positive influences to support a more constructive mindset.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Replace Negative Influences with Positive Ones
@@ -35,9 +39,9 @@ This strategy focuses on intentionally minimizing exposure to negative external 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/coaching|Coaching]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Coaching](../elements/coaching.md)
 
 ## Assessment Evidence
 - Track changes in self-reported mood and optimism using questionnaires or journals. Observe improvements in social interactions, relationship quality, and sense of belonging. Analyze the frequency and type of social and environmental influences experienced.

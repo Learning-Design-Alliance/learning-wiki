@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Direct Instruction (Online)
+description: Direct instruction in online learning involves pre-developed presentations, assessing student work and providing instructive feedback, diagnosing misconceptions, clarifying concepts, and referring students to additional resources or…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Direct Instruction (Online)
@@ -35,9 +39,9 @@ Direct instruction in online learning involves pre-developed presentations, asse
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Improved student performance on assessments, reduction in common misconceptions, and positive feedback on the clarity and helpfulness of the instruction.

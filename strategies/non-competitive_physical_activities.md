@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Non-Competitive Physical Activities
+description: Encourage pre-teens and teenagers who dislike organized sports to explore non-competitive physical activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Non-Competitive Physical Activities
@@ -35,8 +39,8 @@ Encourage pre-teens and teenagers who dislike organized sports to explore non-co
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Tracking of participation rates, self-reported enjoyment and confidence, observation of skill development.

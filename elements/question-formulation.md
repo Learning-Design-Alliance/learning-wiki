@@ -1,7 +1,11 @@
 ---
 type: element
+title: Question Formulation
+description: Learners generate their own questions to guide inquiry.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Question Formulation
@@ -27,17 +31,17 @@ Learners generate their own questions to guide inquiry.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/metacognition|Metacognition]]
-- [[principles/self-regulated-learning|Self-Regulated Learning]]
+- [Metacognition](../principles/metacognition.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
 
 ## Related Elements
-- [[elements/socratic-questioning|Socratic Questioning]]
-- [[elements/research|Research]]
-- [[elements/inquiry-based-learning|Inquiry-Based Learning]]
+- [Socratic Questioning](socratic-questioning.md)
+- [Research](research.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/inquiry-based-learning|Inquiry-Based Learning]]
-- [[patterns/problem-based-learning|Problem-Based Learning]]
+- [Inquiry-Based Learning](../patterns/inquiry-based-learning.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Feedback Through Different Media
+description: Delivering feedback through various media, such as video, allows for a more encouraging tone of voice and relaxed body language compared to impersonal email feedback.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Feedback Through Different Media
@@ -35,12 +39,12 @@ Delivering feedback through various media, such as video, allows for a more enco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Track learner engagement with feedback. Assess the quality and impact of feedback on learner performance. Gather feedback from learners on their experiences with feedback through different media.

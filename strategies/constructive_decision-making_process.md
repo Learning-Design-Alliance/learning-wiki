@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Constructive Decision-Making Process
+description: Brainstorming and displaying a constructive decision-making process as a visual reminder in the classroom helps students make good choices.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Constructive Decision-Making Process
@@ -35,10 +39,10 @@ Brainstorming and displaying a constructive decision-making process as a visual 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe students’ decision-making processes in the classroom. Review student reflections on their decisions and outcomes. Collect feedback on the usefulness of the visual reminder.

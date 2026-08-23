@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Racial Equity in PBL - Create Beautiful Spaces
+description: For so many of our students, their communities and homes are not always beautiful places...
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Racial Equity in PBL - Create Beautiful Spaces
@@ -35,7 +39,7 @@ For so many of our students, their communities and homes are not always beautifu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/public-display|Public Display]]
+- [Public Display](../elements/public-display.md)
 
 ## Assessment Evidence
 - Student engagement, sense of pride and belonging, transformation of the learning space.

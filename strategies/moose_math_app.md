@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Moose Math App
+description: A game app made of funny characters, referred to as the Dust Funnies.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Moose Math App
@@ -35,9 +39,9 @@ A game app made of funny characters, referred to as the Dust Funnies. These char
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Monitor progress through different stages and problem sets.

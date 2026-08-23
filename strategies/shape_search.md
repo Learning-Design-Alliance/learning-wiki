@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Shape Search
+description: Learners identify two- and three-dimensional shapes in their surroundings, promoting geometric awareness and real-world application of geometric concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Shape Search
@@ -35,8 +39,8 @@ Learners identify two- and three-dimensional shapes in their surroundings, promo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to identify and name shapes accurately. Track the number of shapes correctly identified within a given time.

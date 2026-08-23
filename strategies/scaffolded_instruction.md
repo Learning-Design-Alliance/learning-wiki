@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Scaffolded Instruction
+description: Scaffolded instruction involves supporting learners in various ways as they learn and gradually withdrawing supports as they become capable of independent performance of a task or skill.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Scaffolded Instruction
@@ -35,11 +39,11 @@ Scaffolded instruction involves supporting learners in various ways as they lear
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Learner progress toward independent performance; reduction in reliance on support; increased confidence and self-efficacy

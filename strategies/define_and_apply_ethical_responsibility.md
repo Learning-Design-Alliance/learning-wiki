@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Define and Apply Ethical Responsibility
+description: Define responsibility and ethical responsibility.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Define and Apply Ethical Responsibility
@@ -35,9 +39,9 @@ Define responsibility and ethical responsibility. Give students specific tools s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/creating-visual-representations|Creating Visual Representations]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/graphic-organizers|Graphic Organizers]]
+- [Creating Visual Representations](../elements/creating-visual-representations.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Graphic Organizers](../elements/graphic-organizers.md)
 
 ## Assessment Evidence
 - Improved student understanding of responsibility, increased application of ethical responsibility, and improved decision-making skills.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Travel Journals
+description: Every student at Normal Park Museum Magnet, a K–8 school in Chattanooga, Tennessee, created a travel journal to chart their learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Travel Journals
@@ -35,8 +39,8 @@ Every student at Normal Park Museum Magnet, a K–8 school in Chattanooga, Tenne
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/application|Application]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Review student journals to assess learning progress and reflection.

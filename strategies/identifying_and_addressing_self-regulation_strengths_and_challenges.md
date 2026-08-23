@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Identifying and Addressing Self-Regulation Strengths and Challenges
+description: "This strategy involves educators identifying students' strengths and challenges related to self-regulation, and then using strategies to leverage strengths to support learning."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Identifying and Addressing Self-Regulation Strengths and Challenges
@@ -35,10 +39,10 @@ This strategy involves educators identifying students' strengths and challenges 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe changes in student behavior and emotional responses. Review student journal entries for metacognitive awareness. Collect student reflections on the effectiveness of strategies.

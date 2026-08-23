@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Translate Academic to Social Language
+description: Model how to say something in a more academic way or how to paraphrase academic texts into more conversational language.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Translate Academic to Social Language
@@ -35,8 +39,8 @@ Model how to say something in a more academic way or how to paraphrase academic 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Demonstration](../elements/demonstration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Review student translations for accuracy and clarity.

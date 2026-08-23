@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Encourage Cooperation
+description: Learning is enhanced when it is more like a team effort than a solo race.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Encourage Cooperation
@@ -35,8 +39,8 @@ Learning is enhanced when it is more like a team effort than a solo race. Good l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Increased participation in group activities, improved quality of collaborative work, positive feedback from tutees about teamwork.

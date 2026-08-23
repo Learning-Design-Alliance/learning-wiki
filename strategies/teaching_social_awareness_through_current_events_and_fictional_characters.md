@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teaching Social Awareness Through Current Events and Fictional Characters
+description: Model empathy and explain different perspectives in current events and fictional characters.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teaching Social Awareness Through Current Events and Fictional Characters
@@ -35,8 +39,8 @@ Model empathy and explain different perspectives in current events and fictional
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor learner participation

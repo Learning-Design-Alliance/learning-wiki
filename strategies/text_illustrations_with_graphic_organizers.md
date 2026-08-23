@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Text Illustrations with Graphic Organizers
+description: Learners add graphic organizers to finished expository or argumentative writing to illustrate a concept, providing a supportive diagram that aids reader comprehension.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Text Illustrations with Graphic Organizers
@@ -35,9 +39,9 @@ Learners add graphic organizers to finished expository or argumentative writing 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Application](../elements/application.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Improved reader comprehension, clarity of explanations, and ability to connect visual aids with textual content.

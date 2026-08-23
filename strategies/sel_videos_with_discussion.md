@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: SEL Videos with Discussion
+description: This strategy involves showing short video clips on Social and Emotional Learning (SEL) topics, followed by discussions or related activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # SEL Videos with Discussion
@@ -35,10 +39,10 @@ This strategy involves showing short video clips on Social and Emotional Learnin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/application|Application]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Demonstration](../elements/demonstration.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Application](../elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe learner participation in discussions. Review responses in related activities to assess comprehension and application of SEL concepts. Collect learner feedback on relevance and meaningfulness of the videos and activities.

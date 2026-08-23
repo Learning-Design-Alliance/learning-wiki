@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Estimation and Prediction
+description: Asking students to use estimation and prediction skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Estimation and Prediction
@@ -35,10 +39,10 @@ Asking students to use estimation and prediction skills. Asking them how they mi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review students’ recorded estimates and reflections. Observe students’ ability to set goals and monitor their progress. Evaluate students’ accuracy in predicting their performance or time required.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teach Kids to Choose Their Self-Talk
+description: 1) Share a definition of self-talk.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teach Kids to Choose Their Self-Talk
@@ -35,10 +39,10 @@ last_edited: 2026-04-06
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/lectures|Lectures]]
-- [[elements/cognitive-conflict|Cognitive Conflict]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Lectures](../elements/lectures.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Evaluate learner's ability to identify and categorize their self-talk.

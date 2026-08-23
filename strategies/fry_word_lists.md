@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Fry Word Lists
+description: The Fry word list contains 1,000 high-frequency words divided into ten levels, further split into groups of twenty-five words based on frequency and difficulty.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Fry Word Lists
@@ -35,8 +39,8 @@ The Fry word list contains 1,000 high-frequency words divided into ten levels, f
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess fluency in reading Fry words in context. Track progress in sight word recognition over time. Observe student engagement and confidence in reading tasks.

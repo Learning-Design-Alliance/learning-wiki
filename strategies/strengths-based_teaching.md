@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strengths-Based Teaching
+description: A teaching approach that focuses on identifying and leveraging learners’ strengths to improve overall learning and engagement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strengths-Based Teaching
@@ -35,10 +39,10 @@ A teaching approach that focuses on identifying and leveraging learners’ stren
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/learner-choice|Learner Choice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Learner Choice](../elements/learner-choice.md)
 
 ## Assessment Evidence
 - Increased learner engagement, improved academic performance, greater self-confidence, positive feedback from learners

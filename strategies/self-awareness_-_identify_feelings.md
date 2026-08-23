@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Awareness - Identify Feelings
+description: This strategy involves having learners identify, label, or match facial expressions and feelings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Awareness - Identify Feelings
@@ -35,8 +39,8 @@ This strategy involves having learners identify, label, or match facial expressi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Teachers can listen and observe students' conversations to evaluate whether or not the goal was achieved.

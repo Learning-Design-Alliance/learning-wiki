@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Context-Specific Journaling
+description: Context-specific journaling requires individuals to reflect on specific experiences such as team assignments, internships, or professional practices.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Context-Specific Journaling
@@ -35,8 +39,8 @@ Context-specific journaling requires individuals to reflect on specific experien
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Analyze journal entries to assess the depth of reflection, the quality of observations, and the understanding of the significance of actions. Evaluate changes in thinking and behavior over time.

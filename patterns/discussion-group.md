@@ -1,8 +1,20 @@
 ---
 type: pattern
+title: Discussion Group
+description: Discussion Group is a structured pattern for using small-group or whole-group talk to deepen understanding, surface interpretation, and test ideas in relation to a prompt or problem.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: mcandrew-2006
+    resource: "https://doi.org/10.1504/IJLT.2006.010632"
+    title: "McAndrew, P., Goodyear, P., & Dalziel, J. (2006). Patterns, designs and activities: Unifying descriptions of learning structures. *International Journal of Learning Technology, 2*(2-3), 216-242"
+    author: "McAndrew, P., Goodyear, P., & Dalziel, J"
+  - id: mercer-2012
+    resource: "https://doi.org/10.1016/j.lcsi.2012.03.001"
+    title: "Mercer, N., & Howe, C. (2012). Explaining the dialogic processes of teaching and learning: The value and potential of sociocultural theory. *Learning, Culture and Social Interaction, 1*(1), 12-21"
+    author: "Mercer, N., & Howe, C"
 author: McAndrew, Goodyear, and Dalziel
 grain_size: lesson
 ---
@@ -52,11 +64,11 @@ The pattern is useful across in-person, online, synchronous, and asynchronous se
 
 ### Claims
 #### Supporting
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [[claims/chunking-reduces-working-memory-load]] [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 
 ## Design
 
@@ -68,16 +80,16 @@ The pattern is useful across in-person, online, synchronous, and asynchronous se
 5. End with synthesis, reflection, or a written takeaway.
 
 ### Elements Used
-- [[elements/discussion-prompt|Discussion Prompt]]
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/feedback|Feedback]]
+- [Discussion Prompt](../elements/discussion-prompt.md)
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Feedback](../elements/feedback.md)
 
 ### Affordances
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/inquiry-based-learning|Inquiry-based Learning]]
-- [[principles/perspective-seekingmultiple-perspectives|Perspective-Seeking/Multiple Perspectives]]
-- [[principles/purposeful-reflection|Purposeful Reflection]]
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ### Personalization
 - Discussion can be synchronous or asynchronous, oral or text-based.
@@ -85,8 +97,8 @@ The pattern is useful across in-person, online, synchronous, and asynchronous se
 - Prompts can be more scaffolded for novice groups and more open for experienced groups.
 
 ## Related Patterns
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
-- [[patterns/socratic-seminar|Socratic Seminar]]
+- [Collaborative Inquiry](collaborative-inquiry.md)
+- [Socratic Seminar](socratic-seminar.md)
 
 ## Examples
 - Online forum discussions tied to a case, reading, or weekly question.

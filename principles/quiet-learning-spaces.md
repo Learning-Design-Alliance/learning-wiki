@@ -1,8 +1,28 @@
 ---
 type: principle
+title: Quiet Learning Spaces
+description: Quiet learning spaces reduce competing demands on attention so learners can focus on reading, listening, problem solving, and reflection.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: cunningham-2012
+    resource: "https://libjournal.uncg.edu/jls/article/view/280"
+    title: "Cunningham, H. V., & Tabur, S. (2012). Learning space attributes: Reflections on academic library design and its use. *Journal of Learning Spaces, 1*(2)"
+    author: "Cunningham, H. V., & Tabur, S"
+  - id: dietz-2014
+    resource: "https://doi.org/10.1016/j.chb.2014.03.045"
+    title: "Dietz, S., & Henrich, C. (2014). Texting as a distraction to learning in college students. *Computers in Human Behavior, 36*, 163-167"
+    author: "Dietz, S., & Henrich, C"
+  - id: vasilev-2019
+    resource: "https://doi.org/10.1037/xhp0000680"
+    title: "Vasilev, M. R., Liversedge, S. P., Rowan, D., Kirkby, J. A., & Angele, B. (2019). Reading is disrupted by intelligible background speech: Evidence from eye-tracking. *Journal of Experimental Psychology: Human Perception and Performance, 45*(11), 1484-1512"
+    author: "Vasilev, M. R., Liversedge, S. P., Rowan, D., Kirkby, J. A., & Angele, B"
+  - id: rozental-2014
+    resource: "https://doi.org/10.4236/psych.2014.513160"
+    title: "Rozental, A., & Carlbring, P. (2014). Understanding and treating procrastination: A review of a common self-regulatory failure. *Psychology, 5*, 1488-1502"
+    author: "Rozental, A., & Carlbring, P"
 ---
 
 # Quiet Learning Spaces
@@ -13,7 +33,7 @@ Quiet learning spaces reduce competing demands on attention so learners can focu
 This principle matters most when the task requires concentration, comprehension, memory, or self-regulation. Quiet spaces are not the only effective learning environments, and total silence is not always necessary, but instructors should deliberately reduce avoidable distractions when the cognitive demands of the task are high.
 
 ## Implications
-Quiet learning spaces matter when the task places heavy demands on concentration, comprehension, or self-regulation. Reducing interruptions and noise can lower extraneous processing demands [[claims/chunking-reduces-working-memory-load]] [~S] and make it easier for learners to monitor and protect their own attention [[claims/self-monitoring-improves-self-regulation]] [~M]. The design implication is not universal silence. It is better alignment between environment and task: some work requires calm and low interruption, while other work depends on purposeful interaction.
+Quiet learning spaces matter when the task places heavy demands on concentration, comprehension, or self-regulation. Reducing interruptions and noise can lower extraneous processing demands [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] and make it easier for learners to monitor and protect their own attention [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. The design implication is not universal silence. It is better alignment between environment and task: some work requires calm and low interruption, while other work depends on purposeful interaction.
 
 ### Context
 #### Requirements
@@ -49,14 +69,14 @@ Quiet learning spaces matter when the task places heavy demands on concentration
 - Collaborative discussion, oral rehearsal, and socially interactive work may require intentionally non-quiet settings.
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [~S] — reducing distraction can leave more working-memory capacity available for the actual learning task
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — focus-friendly routines can help learners notice and manage distraction more deliberately
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — reducing distraction can leave more working-memory capacity available for the actual learning task
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — focus-friendly routines can help learners notice and manage distraction more deliberately
 
 ## Related Principles
-- [[principles/instructor-accessibility|Instructor Accessibility]] — accessible learning conditions include environmental supports, not just interpersonal support.
-- [[principles/check-ins|Check-ins]] — regular check-ins can surface environmental barriers that undermine focus.
-- [[principles/physical-activity|Physical Activity]] — learners may need a mix of calm focus conditions and intentional movement breaks.
-- [[principles/clear-structure-presentation|Clear Structure & Presentation]] — environmental clarity and instructional clarity often work together.
+- [Instructor Accessibility](instructor-accessibility.md) — accessible learning conditions include environmental supports, not just interpersonal support.
+- [Check-ins](check-ins.md) — regular check-ins can surface environmental barriers that undermine focus.
+- [Physical Activity](physical-activity.md) — learners may need a mix of calm focus conditions and intentional movement breaks.
+- [Clear Structure & Presentation](clear-structure-presentation.md) — environmental clarity and instructional clarity often work together.
 
 ## Examples
 - **Dedicated reading zone**: A library corner, side room, or protected class interval used for uninterrupted reading or writing.

@@ -1,7 +1,11 @@
 ---
 type: element
+title: Pre-Seminar Preparation
+description: Learners review content before engaging in discussion-based activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-Seminar Preparation
@@ -27,17 +31,17 @@ Learners review content before engaging in discussion-based activities.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/active-learning|Active Learning]]
-- [[principles/metacognition|Metacognition]]
+- [Active Learning](../principles/active-learning.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/reflection|Reflection]]
-- [[elements/concept-mapping|Concept Mapping]]
+- [Assigned Readings](assigned-readings.md)
+- [Reflection](reflection.md)
+- [Concept Mapping](concept-mapping.md)
 
 ## Patterns That Use This Element
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[patterns/flipped-learning|Flipped Learning]]
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Flipped Learning](../patterns/flipped-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

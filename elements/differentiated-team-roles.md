@@ -1,7 +1,11 @@
 ---
 type: element
+title: Differentiated Team Roles
+description: Learners take on distinct roles in collaborative learning to enhance accountability and engagement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Differentiated Team Roles
@@ -27,18 +31,18 @@ Learners take on distinct roles in collaborative learning to enhance accountabil
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/community-of-inquiry|Community of Inquiry]]
-- [[principles/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Social Learning](../principles/social-learning.md)
+- [Community of Inquiry](../principles/community-of-inquiry.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [[elements/jigsaw|Jigsaw]]
-- [[elements/group-work|Group Work]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Jigsaw](jigsaw.md)
+- [Group Work](group-work.md)
+- [Collaborative Learning](collaborative-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/pogil|POGIL]]
-- [[patterns/jigsaw-learning|Jigsaw Learning]]
+- [POGIL](../patterns/pogil.md)
+- [Jigsaw Learning](../patterns/jigsaw-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

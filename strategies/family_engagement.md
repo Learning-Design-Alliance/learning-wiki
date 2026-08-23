@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Family Engagement
+description: Family engagement is a practice in which families and school personnel collaborate to support and improve the learning and development of children.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Family Engagement
@@ -35,9 +39,9 @@ Family engagement is a practice in which families and school personnel collabora
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track student achievement, attendance, and behavior. Gather feedback from families and educators.

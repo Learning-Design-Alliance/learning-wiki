@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Virtual Flipped Classroom
+description: Classroom time for tutoring is completely eliminated in this model.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Virtual Flipped Classroom
@@ -35,10 +39,10 @@ Classroom time for tutoring is completely eliminated in this model. Educators, l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/lectures|Lectures]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Lectures](../elements/lectures.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Completion rates of online assignments, utilization of office hours, overall academic performance.

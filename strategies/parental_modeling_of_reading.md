@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Parental Modeling of Reading
+description: Parents demonstrate the value of reading by being reading role models themselves, reading books, magazines, or newspapers regularly at home.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Parental Modeling of Reading
@@ -35,9 +39,9 @@ Parents demonstrate the value of reading by being reading role models themselves
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/application|Application]]
+- [Demonstration](../elements/demonstration.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe children's attitudes towards reading, frequency of independent reading, and engagement during shared reading activities. Monitor whether children imitate parental reading habits.

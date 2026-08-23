@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Seven Blind Mice
+description: "Learners hear the story 'Seven Blind Mice,' stopping after each mouse’s perspective to take notes or engage in jigsaw reading."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Seven Blind Mice
@@ -35,10 +39,10 @@ Learners hear the story 'Seven Blind Mice,' stopping after each mouse’s perspe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Assess the ability to understand and articulate different perspectives, the quality of collaborative problem-solving, and the level of critical thinking demonstrated in the analysis. Monitor changes in learners' attitudes towards different viewpoints.

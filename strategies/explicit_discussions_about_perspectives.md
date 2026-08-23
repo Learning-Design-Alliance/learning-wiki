@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicit Discussions About Perspectives
+description: Have explicit conversations about emotions and social issues, including issues of social justice.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicit Discussions About Perspectives
@@ -35,9 +39,9 @@ Have explicit conversations about emotions and social issues, including issues o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/lectures|Lectures]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Lectures](../elements/lectures.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Track the depth and quality of learner discussions. Monitor the ability to understand diverse perspectives. Assess the awareness of social issues.

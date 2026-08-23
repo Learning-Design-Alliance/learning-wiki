@@ -1,7 +1,11 @@
 ---
 type: element
+title: Analogies and prior knowledge activation
+description: Uses comparisons to familiar concepts to support understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Analogies and prior knowledge activation
@@ -27,18 +31,18 @@ Uses comparisons to familiar concepts to support understanding.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/analogical-reasoning|Analogical Reasoning]]
-- [[principles/constructivist-learning|Constructivist Learning]]
-- [[principles/cognitive-load-reduction|Cognitive Load Reduction]]
+- [Analogical Reasoning](../principles/analogical-reasoning.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Cognitive Load Reduction](../principles/cognitive-load-reduction.md)
 
 ## Related Elements
-- [[elements/metaphors|Metaphors]]
-- [[elements/prior-knowledge-activation|Prior Knowledge Activation]]
-- [[elements/dual-coding|Dual Coding]]
+- [Metaphors](metaphors.md)
+- [Prior Knowledge Activation](prior-knowledge-activation.md)
+- [Dual Coding](dual-coding.md)
 
 ## Patterns That Use This Element
-- [[patterns/elaboration-theory|Elaboration Theory]]
-- [[patterns/cognitive-flexibility-theory|Cognitive Flexibility Theory]]
+- [Elaboration Theory](../patterns/elaboration-theory.md)
+- [Cognitive Flexibility Theory](../patterns/cognitive-flexibility-theory.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

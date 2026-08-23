@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Model the Assignment or Skill
+description: Teachers demonstrate how to perform a task or skill by verbalizing their thought processes while completing it.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Model the Assignment or Skill
@@ -35,9 +39,9 @@ Teachers demonstrate how to perform a task or skill by verbalizing their thought
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners as they attempt the task, noting whether they apply the strategies modeled. Review learner-created models to assess their understanding of the process.

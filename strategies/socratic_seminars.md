@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Socratic Seminars
+description: Socratic seminars are formal discussions based on a text, where the leader asks open-ended questions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Socratic Seminars
@@ -35,14 +39,14 @@ Socratic seminars are formal discussions based on a text, where the leader asks 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/lectures|Lectures]]
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/knowledge-building-discourse|Knowledge-Building Discourse]]
-- [[elements/peer-interaction|Peer Interaction]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Lectures](../elements/lectures.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Knowledge-Building Discourse](../elements/knowledge-building-discourse.md)
+- [Peer Interaction](../elements/peer-interaction.md)
 
 ## Assessment Evidence
 - Monitor the extent to which students engage in text-centered talk. Collect reflective writing where students describe their participation and set goals for future seminars. Evaluate the depth and thoughtfulness of student responses and interactions.

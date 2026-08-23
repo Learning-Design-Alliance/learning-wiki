@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Practice Changing Negative Thoughts into Positive Ones
+description: Challenging learners to reframe negative thoughts into positive affirmations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Practice Changing Negative Thoughts into Positive Ones
@@ -35,8 +39,8 @@ Challenging learners to reframe negative thoughts into positive affirmations. Th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Application](../elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Learners' ability to reframe negative thoughts in various situations. Self-reported changes in mindset and behavior.

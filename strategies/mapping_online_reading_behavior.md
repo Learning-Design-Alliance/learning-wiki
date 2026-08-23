@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mapping Online Reading Behavior
+description: Learners create visual maps to track the links and sites they visit while reading online texts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mapping Online Reading Behavior
@@ -35,9 +39,9 @@ Learners create visual maps to track the links and sites they visit while readin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Review the maps created by learners to assess their awareness of their own online reading processes and their ability to make informed decisions about which sources to trust and which links to follow. Observe the quality of their reflections on their decision-making processes.

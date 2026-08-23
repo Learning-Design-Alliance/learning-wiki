@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Peer Instruction
+description: Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: crouch-2001
+    resource: "https://doi.org/10.1119/1.1374249"
+    title: "Crouch, C. H., & Mazur, E. (2001). Peer instruction: Ten years of experience and results. *American Journal of Physics, 69*(9), 970-977"
+    author: "Crouch, C. H., & Mazur, E"
 author: Eric Mazur
 grain_size: lesson
 ---
@@ -51,11 +59,11 @@ The pattern is especially effective for conceptual questions that require reason
 
 ### Claims
 #### Supporting
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -67,16 +75,16 @@ The pattern is especially effective for conceptual questions that require reason
 5. Debrief the reasoning and clarify the concept.
 
 ### Elements Used
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/reassessment|Reassessment]]
-- [[elements/feedback|Feedback]]
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Reassessment](../elements/reassessment.md)
+- [Feedback](../elements/feedback.md)
 
 ### Affordances
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/immediate-feedback|Immediate Feedback]]
-- [[principles/purposeful-reflection|Purposeful Reflection]]
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ### Personalization
 - Questions can be delivered through clickers, cards, hand signals, or digital polls.
@@ -84,8 +92,8 @@ The pattern is especially effective for conceptual questions that require reason
 - The amount of instructor explanation after the repoll can vary depending on the quality of peer reasoning.
 
 ## Related Patterns
-- [[patterns/think-pair-share|Think-Pair-Share]]
-- [[patterns/discussion-group|Discussion Group]]
+- [Think-Pair-Share](think-pair-share.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - Physics learners debating force or motion concept questions before repolling.

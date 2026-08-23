@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Blogging
+description: Student blogs allow time to reflect on their mathematical process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Blogging
@@ -35,8 +39,8 @@ Student blogs allow time to reflect on their mathematical process. Students can 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/application|Application]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Improved student understanding, increased student communication, and deeper reflection on learning experiences.

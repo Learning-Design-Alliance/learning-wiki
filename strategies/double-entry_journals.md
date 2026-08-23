@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Double-Entry Journals
+description: This strategy encourages learners to record their responses to a text as they read.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Double-Entry Journals
@@ -35,9 +39,9 @@ This strategy encourages learners to record their responses to a text as they re
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Learner responses in the journal; participation in sharing and discussion; demonstrated comprehension of the text.

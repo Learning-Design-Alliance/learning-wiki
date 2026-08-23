@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Dynamically Introduce Academic Vocabulary
+description: Use repeated encounters with a word in various authentic contexts to help learners internalize the definition.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Dynamically Introduce Academic Vocabulary
@@ -35,8 +39,8 @@ Use repeated encounters with a word in various authentic contexts to help learne
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/application|Application]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Assess learner use of vocabulary in writing and speaking.

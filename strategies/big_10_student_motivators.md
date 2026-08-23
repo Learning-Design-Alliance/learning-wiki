@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Big 10 Student Motivators
+description: Ten research-backed strategies that encourage playful learning, innovative thinking, and problem-solving skills while engaging students in core subjects.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Big 10 Student Motivators
@@ -35,10 +39,10 @@ Ten research-backed strategies that encourage playful learning, innovative think
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/collaboration|Collaboration]]
-- [[elements/reflection|Reflection]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Collaboration](../elements/collaboration.md)
+- [Reflection](../elements/reflection.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation in activities. Evaluate the quality of student projects and presentations. Gather feedback from students on their learning experiences. Assess improvements in problem-solving and critical thinking skills.

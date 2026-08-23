@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Soliciting Feedback on Instruction
+description: Instructors should encourage learners to provide feedback on their teaching.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Soliciting Feedback on Instruction
@@ -35,8 +39,8 @@ Instructors should encourage learners to provide feedback on their teaching. By 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Analyze student feedback. Observe changes in teaching practices. Monitor the effectiveness of the changes.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Strategy Identification & Reflection"
+description: This strategy involves having students actively identify and reflect on the strategies they use to overcome challenges.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strategy Identification & Reflection
@@ -35,10 +39,10 @@ This strategy involves having students actively identify and reflect on the stra
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Increased self-awareness, improved problem-solving skills, enhanced metacognition

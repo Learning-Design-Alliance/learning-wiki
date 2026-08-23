@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Digital Literacy Instruction
+description: Digital literacy instruction involves teaching learners how to effectively use digital technology, communication tools, and networks to locate, evaluate, use, and create information.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Digital Literacy Instruction
@@ -35,9 +39,9 @@ Digital literacy instruction involves teaching learners how to effectively use d
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Assess learners' ability to use digital tools effectively, evaluate information critically, and create digital content competently.

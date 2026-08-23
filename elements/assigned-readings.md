@@ -1,7 +1,11 @@
 ---
 type: element
+title: Assigned Readings
+description: Learners engage with pre-selected texts, articles, or book chapters to build foundational knowledge.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Assigned Readings
@@ -27,19 +31,19 @@ Learners engage with pre-selected texts, articles, or book chapters to build fou
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/cognitive-load-management|Cognitive Load Management]]
-- [[principles/constructivist-learning|Constructivist Learning]]
-- [[principles/metacognition|Metacognition]]
+- [Cognitive Load Management](../principles/cognitive-load-management.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [[elements/pre-class-preparation|Pre-Class Preparation]]
-- [[elements/case-studies|Case Studies]]
-- [[elements/discussion-based-learning|Discussion-Based Learning]]
+- [Pre-Class Preparation](pre-class-preparation.md)
+- [Case Studies](case-studies.md)
+- [Discussion-Based Learning](discussion-based-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/flipped-classroom|Flipped Classroom]]
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[patterns/inquiry-based-learning|Inquiry-Based Learning]]
+- [Flipped Classroom](../patterns/flipped-classroom.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Inquiry-Based Learning](../patterns/inquiry-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

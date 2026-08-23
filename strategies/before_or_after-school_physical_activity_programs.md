@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Before or After-School Physical Activity Programs
+description: Offer structured physical activity programs before or after school, such as morning exercises, intramural sports, or opening school facilities for recreational use.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Before or After-School Physical Activity Programs
@@ -35,7 +39,7 @@ Offer structured physical activity programs before or after school, such as morn
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track participation rates, gather feedback from students and parents, monitor improvements in physical fitness and well-being

@@ -1,7 +1,11 @@
 ---
 type: element
+title: Epitome (Elaboration Theory)
+description: A simplified version of the full concept is introduced first before elaborating on details.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Epitome (Elaboration Theory)
@@ -27,17 +31,17 @@ A simplified version of the full concept is introduced first before elaborating 
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/holistic-learning|Holistic Learning]]
-- [[principles/scaffolding|Scaffolding]]
-- [[principles/cognitive-load-management|Cognitive Load Management]]
+- [Holistic Learning](../principles/holistic-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
+- [Cognitive Load Management](../principles/cognitive-load-management.md)
 
 ## Related Elements
-- [[elements/scaffolding|Scaffolding]]
-- [[elements/conceptual-overviews|Conceptual Overviews]]
-- [[elements/advance-organizers|Advance Organizers]]
+- [Scaffolding](scaffolding.md)
+- [Conceptual Overviews](conceptual-overviews.md)
+- [Advance Organizers](advance-organizers.md)
 
 ## Patterns That Use This Element
-- [[patterns/elaboration-theory|Elaboration Theory]]
+- [Elaboration Theory](../patterns/elaboration-theory.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

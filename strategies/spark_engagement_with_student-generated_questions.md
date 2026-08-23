@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Spark Engagement with Student-Generated Questions
+description: Students formulate questions and investigate topics they are curious about or consider important.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Spark Engagement with Student-Generated Questions
@@ -35,8 +39,8 @@ Students formulate questions and investigate topics they are curious about or co
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
+- [Question Formulation](../elements/question-formulation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
 
 ## Assessment Evidence
 - Evaluate the depth and quality of student-generated questions. Assess student engagement and participation in inquiry-based activities. Review student projects and presentations for evidence of learning and understanding.

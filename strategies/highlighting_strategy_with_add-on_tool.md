@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Highlighting Strategy with Add-on Tool
+description: Students use a Google Doc add-on tool to create individualized highlighters in different colors.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Highlighting Strategy with Add-on Tool
@@ -35,9 +39,9 @@ Students use a Google Doc add-on tool to create individualized highlighters in d
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Evaluate students' highlighted sections and summaries for accuracy and completeness. Track their ability to categorize information. Collect student reflections on their learning process.

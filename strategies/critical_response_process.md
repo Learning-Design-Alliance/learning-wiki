@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Critical Response Process
+description: The Critical Response Process is a structured method for giving feedback that puts the learner in control.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Critical Response Process
@@ -35,9 +39,9 @@ The Critical Response Process is a structured method for giving feedback that pu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md)
 
 ## Assessment Evidence
 - Observe changes in learner engagement and ownership of learning. Analyze the quality of feedback and reflection. Monitor the effectiveness of the process.

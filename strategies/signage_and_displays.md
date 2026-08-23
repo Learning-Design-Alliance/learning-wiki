@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Signage and Displays
+description: Small details, such as wall displays are important.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Signage and Displays
@@ -35,8 +39,8 @@ Small details, such as wall displays are important. For example, signage in the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/activation|Activation]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

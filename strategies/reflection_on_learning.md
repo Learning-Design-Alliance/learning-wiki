@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reflection on Learning
+description: Reflection on learning involves linking a current experience to previous learnings (called scaffolding).
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflection on Learning
@@ -35,8 +39,8 @@ Reflection on learning involves linking a current experience to previous learnin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Evidence of linking current experiences to previous learnings in student work. Documentation of reflection in student writing or discussion.

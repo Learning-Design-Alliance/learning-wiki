@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Pictures & Visuals"
+description: This strategy involves the use of images, videos, and other visual aids to enhance learning and memory.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pictures & Visuals
@@ -35,9 +39,9 @@ This strategy involves the use of images, videos, and other visual aids to enhan
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Measure improvement in comprehension and retention through quizzes and tests. Observe learner engagement and participation in discussions. Analyze learner-created visuals and graphic organizers for understanding and application of concepts.

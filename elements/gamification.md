@@ -1,8 +1,11 @@
 ---
 type: element
+title: Gamification
+description: Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Gamification
@@ -11,9 +14,9 @@ edited_by: Codex
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
 
 ## Affordances
-- [[principles/game-based-learning|Game-Based Learning]]
-- [[principles/motivation|Motivation]]
+- [Game-Based Learning](../principles/game-based-learning.md)
+- [Motivation](../principles/motivation.md)
 
 ## Related Elements
-- [[elements/adaptive-difficulty|Adaptive Difficulty]]
-- [[elements/progress-tracking|Progress Tracking]]
+- [Adaptive Difficulty](adaptive-difficulty.md)
+- [Progress Tracking](progress-tracking.md)

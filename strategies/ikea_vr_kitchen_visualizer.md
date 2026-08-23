@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: IKEA VR Kitchen Visualizer
+description: The IKEA VR kitchen visualizer uses VR technology to give customers a better understanding of what to think about when planning and designing their kitchens and reassure them in their decisions by allowing them to walk around in a virtual…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # IKEA VR Kitchen Visualizer
@@ -35,10 +39,10 @@ The IKEA VR kitchen visualizer uses VR technology to give customers a better und
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/application|Application]]
-- [[elements/whole-task-performance|Whole-task performance]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
 
 ## Assessment Evidence
 - Customer satisfaction levels, increased product knowledge, reduce purchasing mistakes.

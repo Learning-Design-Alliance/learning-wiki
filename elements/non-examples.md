@@ -1,8 +1,16 @@
 ---
 type: element
+title: Non-Examples
+description: Non-examples are intentionally chosen instances that do not meet the target concept, criterion, or quality standard.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: durkin-2012
+    resource: "https://doi.org/10.1016/j.learninstruc.2011.11.001"
+    title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206-214"
+    author: "Durkin, K., & Rittle-Johnson, B"
 ---
 
 # Non-Examples
@@ -25,18 +33,18 @@ Non-examples are intentionally chosen instances that do not meet the target conc
 - Improve discrimination, concept clarity, and error detection.
 
 ### Affordances
-- [[principles/pairing-non-examples-with-examples|Pairing Non-Examples with Examples]]
-- [[principles/error-analysis|Error Analysis]]
-- [[principles/worked-examples|Worked Examples]]
+- [Pairing Non-Examples with Examples](../principles/pairing-non-examples-with-examples.md)
+- [Error Analysis](../principles/error-analysis.md)
+- [Worked Examples](../principles/worked-examples.md)
 
 ## Related Elements
-- [[elements/erroneous-examples|Erroneous Examples]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Erroneous Examples](erroneous-examples.md)
+- [Demonstration](demonstration.md)
+- [Conceptual Questioning](conceptual-questioning.md)
 
 ## Patterns That Use This Element
-- [[patterns/guided-discovery-learning|Guided Discovery Learning]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 - Showing a correct thesis statement beside a weak one and asking learners to identify the difference.

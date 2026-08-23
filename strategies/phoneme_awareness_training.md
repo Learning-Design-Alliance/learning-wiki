@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Phoneme Awareness Training
+description: Direct instruction in phoneme awareness helps children in the early stages of learning to spell and helps remediate the problems of poor spellers at any age.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Phoneme Awareness Training
@@ -35,8 +39,8 @@ Direct instruction in phoneme awareness helps children in the early stages of le
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess accuracy in identifying and segmenting phonemes. Monitor progress in spelling and reading skills.

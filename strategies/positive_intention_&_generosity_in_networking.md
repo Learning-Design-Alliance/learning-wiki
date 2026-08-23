@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Positive Intention & Generosity in Networking"
+description: "The \"Positive Intention & Generosity in Networking\" strategy emphasizes focusing on how one's interests and goals align with those of the people they meet and offering valuable resources beyond the obvious."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Positive Intention & Generosity in Networking
@@ -35,10 +39,10 @@ The "Positive Intention & Generosity in Networking" strategy emphasizes focusing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Supportive information](../elements/supportive-information.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Positive feedback from contacts, increased opportunities for collaboration, stronger relationships, enhanced reputation, a sense of fulfillment from helping others.

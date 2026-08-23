@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Pre-reading: Skimming Text"
+description: Pre-reading involves skimming a text to identify key ideas before reading from start to finish.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-reading: Skimming Text
@@ -35,9 +39,9 @@ Pre-reading involves skimming a text to identify key ideas before reading from s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/advance-organizers|Advance Organizers]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Assess the learner's ability to identify key ideas and summarize the text after skimming.

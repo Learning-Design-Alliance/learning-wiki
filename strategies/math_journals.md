@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Math Journals
+description: Math journals are a way to gauge a student’s understanding of particular math concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Math Journals
@@ -35,8 +39,8 @@ Math journals are a way to gauge a student’s understanding of particular math 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved student understanding, increased student communication, and deeper reflection on learning experiences.

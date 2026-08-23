@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Environmental Interaction Analysis
+description: These activities explore the relationships between people and their environments by examining environments, inhabitants, and the tracks they leave behind.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Environmental Interaction Analysis
@@ -35,8 +39,8 @@ These activities explore the relationships between people and their environments
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in describing environmental characteristics, correctness in analyzing relationships, creativity in writing

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Amplifying Key Ideas
+description: Amplifying involves drawing attention to important ideas and concepts, both in the course materials and in student comments or other work.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Amplifying Key Ideas
@@ -35,9 +39,9 @@ Amplifying involves drawing attention to important ideas and concepts, both in t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Improved student performance on assessments, increased focus on key concepts in student work, and positive feedback on the clarity of instruction.

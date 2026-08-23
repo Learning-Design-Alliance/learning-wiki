@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Awareness of Self-Talk
+description: Creating awareness of self-talk involves understanding what self-talk is, how it impacts confidence and self-esteem, and identifying it in real-life situations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Awareness of Self-Talk
@@ -35,11 +39,11 @@ Creating awareness of self-talk involves understanding what self-talk is, how it
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/state-objectives|State objectives]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Gain attention](../elements/gain-attention.md)
+- [State objectives](../elements/state-objectives.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions about self-talk. Review students' self-talk logs or journals for patterns and themes. Assess students' ability to articulate the impact of self-talk on their confidence and self-esteem.

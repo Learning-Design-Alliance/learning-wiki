@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Remote Support with Augmented Reality (AR)
+description: AR apps allow technicians and users to communicate with experts in real time.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Remote Support with Augmented Reality (AR)
@@ -35,11 +39,11 @@ AR apps allow technicians and users to communicate with experts in real time. Th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
+- [Gain attention](../elements/gain-attention.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Time to troubleshoot and repair an issue, feedback from user and expert.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Exploration Station for Multimodal Pathways
+description: Creating a designated computer station where students can explore their preferred composition pathway.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Exploration Station for Multimodal Pathways
@@ -35,8 +39,8 @@ Creating a designated computer station where students can explore their preferre
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe students' engagement and experimentation at the station. Analyze the variety of composition pathways explored. Assess the extent to which students demonstrate ownership and innovation in their compositions.

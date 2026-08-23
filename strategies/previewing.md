@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Previewing
+description: Prepare learners for upcoming tasks or materials.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Previewing
@@ -35,8 +39,8 @@ Prepare learners for upcoming tasks or materials. Previewing is one of the simpl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
+- [Gain attention](../elements/gain-attention.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Observe learners' preparedness and engagement with upcoming tasks.

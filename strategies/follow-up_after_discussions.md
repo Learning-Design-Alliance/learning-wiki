@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Follow-up After Discussions
+description: Teachers encourage students to take actions to address inequities revealed during the discussion, such as writing letters to the editor or meeting with the principal.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Follow-up After Discussions
@@ -35,10 +39,10 @@ Teachers encourage students to take actions to address inequities revealed durin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Track student participation in follow-up activities, assess the impact of their actions on the school or community, and gather feedback on their experiences.

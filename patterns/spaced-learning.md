@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Spaced Learning
+description: Spaced learning is the short-form canonical pattern for distributing study and retrieval over time instead of massing it in one session.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 grain_size: course
 ---
 
@@ -14,11 +17,11 @@ Spaced learning is the short-form canonical pattern for distributing study and r
 ## Design
 
 ### Elements Used
-- [[elements/spaced-repetition|Spaced Repetition]]
-- [[elements/retrieval-practice|Retrieval Practice]]
+- [Spaced Repetition](../elements/spaced-repetition.md)
+- [Retrieval Practice](../elements/retrieval-practice.md)
 
 ## Related Patterns
-- [[patterns/game-based-mastery-learning|Game-Based Mastery Learning]]
+- [Game-Based Mastery Learning](game-based-mastery-learning.md)
 
 ## Key Sources
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks. *Psychological Bulletin, 132*(3), 354-380.

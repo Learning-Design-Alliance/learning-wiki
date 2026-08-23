@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Redirecting Language
+description: Redirecting language is a classroom management tool that uses clear, non-negotiable instructions to redirect student behavior.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Redirecting Language
@@ -35,8 +39,8 @@ Redirecting language is a classroom management tool that uses clear, non-negotia
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student behavior and the effectiveness of the redirection, track instances of off-task behavior, and monitor the overall classroom environment.

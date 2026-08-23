@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Ethical Responsibility Tools
+description: Defining responsibility and ethical responsibility, providing specific tools such as graphic organizers or visual representations to help students consider the ethical and moral responsibilities of their decisions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Ethical Responsibility Tools
@@ -35,10 +39,10 @@ Defining responsibility and ethical responsibility, providing specific tools suc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review student-generated graphic organizers and visual representations. Observe student participation in discussions. Evaluate student reflections on their ethical decision-making.

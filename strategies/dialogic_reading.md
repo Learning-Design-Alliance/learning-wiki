@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Dialogic Reading
+description: Dialogic reading is an interactive reading technique where the adult helps the child become the teller of the story instead of passively listening.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Dialogic Reading
@@ -35,10 +39,10 @@ Dialogic reading is an interactive reading technique where the adult helps the c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/demonstration|Demonstration]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe the child's language development, vocabulary acquisition, story comprehension, and expressive fluency. Track the child's responses to different types of prompts and their ability to relate the book to real-world experiences.

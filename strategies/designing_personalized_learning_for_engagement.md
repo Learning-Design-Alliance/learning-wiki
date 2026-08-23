@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Designing Personalized Learning for Engagement
+description: Ensuring that personalized learning opportunities are designed to maximize the engagement of all students, regardless of disability status, involves making learning choices flexible and accessible for all, with a recognition that…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Designing Personalized Learning for Engagement
@@ -35,9 +39,9 @@ Ensuring that personalized learning opportunities are designed to maximize the e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Increased student engagement, improved learning outcomes, enhanced accessibility

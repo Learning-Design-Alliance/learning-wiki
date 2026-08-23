@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pre-Teaching Vocabulary
+description: Pre-teaching vocabulary involves introducing new words before encountering them in a text or lesson.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-Teaching Vocabulary
@@ -35,9 +39,9 @@ Pre-teaching vocabulary involves introducing new words before encountering them 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/question-formulation|Question Formulation]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Question Formulation](../elements/question-formulation.md)
 
 ## Assessment Evidence
 - Track learner performance on pre- and post-tests, participation in vocabulary activities, and demonstration of understanding during discussions. Monitor improvement in reading comprehension.

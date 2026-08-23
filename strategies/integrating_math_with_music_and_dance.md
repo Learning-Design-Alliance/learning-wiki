@@ -1,8 +1,11 @@
 ---
 type: strategy
+title: Integrating Math with Music and Dance
+description: Integrating math with music and dance is a strategy in which rhythm, pattern, movement, and structure are used to explore mathematical relationships.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Integrating Math with Music and Dance
@@ -28,8 +31,8 @@ Integrating math with music and dance is a strategy in which rhythm, pattern, mo
 - Debrief the mathematical structure they enacted.
 
 ## Related Elements
-- [[elements/real-world-math|Real-World Math]]
-- [[elements/representational-drawing|Representational Drawing]]
+- [Real-World Math](../elements/real-world-math.md)
+- [Representational Drawing](../elements/representational-drawing.md)
 
 ## Key Sources
 - An, S., Kulm, G., & Ma, T. (2008). The effects of music composition as a classroom teaching approach on children's mathematics achievement. *Journal of Instructional Psychology, 35*(3), 244-260.

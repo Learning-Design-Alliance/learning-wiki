@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Timers
+description: Timers, both visual and auditory, are used to help learners gauge how much time remains during an activity, supporting greater attention and task completion.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Timers
@@ -35,9 +39,9 @@ Timers, both visual and auditory, are used to help learners gauge how much time 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to stay on task and complete activities within the allotted time. Track the learner's use of time management skills. Monitor the reduction of distractions or anxiety related to time constraints.

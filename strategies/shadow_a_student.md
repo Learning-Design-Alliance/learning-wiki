@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Shadow a Student
+description: Shadowing involves following a student throughout their school day to gain insights into their experiences, challenges, and needs.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Shadow a Student
@@ -35,8 +39,8 @@ Shadowing involves following a student throughout their school day to gain insig
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observation|Observation]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Observation](../elements/observation.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess changes in teacher behavior, improvements in student support strategies, gather feedback from students and educators

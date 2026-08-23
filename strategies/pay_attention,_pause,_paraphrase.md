@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pay Attention, Pause, Paraphrase
+description: Pay Attention, Pause, Paraphrase is a structured conversation strategy for small groups or pairs to promote active listening.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pay Attention, Pause, Paraphrase
@@ -35,9 +39,9 @@ Pay Attention, Pause, Paraphrase is a structured conversation strategy for small
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately paraphrase their peers' statements, track the quality of their responses.

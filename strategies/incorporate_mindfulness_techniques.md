@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Incorporate Mindfulness Techniques
+description: Incorporate mindfulness techniques to help students manage their initial emotional impulses and reactivity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Incorporate Mindfulness Techniques
@@ -35,9 +39,9 @@ Incorporate mindfulness techniques to help students manage their initial emotion
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe changes in behavior and self-awareness.

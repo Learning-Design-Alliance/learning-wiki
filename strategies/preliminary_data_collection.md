@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Preliminary Data Collection
+description: Preliminary data collection involves gathering contextual data to gain a deeper understanding of the local settings where a problem exists.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Preliminary Data Collection
@@ -35,11 +39,11 @@ Preliminary data collection involves gathering contextual data to gain a deeper 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/research|Research]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/data-analysis|Data Analysis]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Research](../elements/research.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Data Analysis](../elements/data-analysis.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Evaluate the comprehensiveness and quality of the data collected. Assess the extent to which the data informs the development of research questions and actions.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Dolch Sight Word List - Cloze Passage Worksheets
+description: Grade-level cloze passage worksheets using Dolch sight words.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Dolch Sight Word List - Cloze Passage Worksheets
@@ -35,9 +39,9 @@ Grade-level cloze passage worksheets using Dolch sight words. Each grade level i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Assess the number of sight words correctly filled in. Evaluate overall reading comprehension of the passages.

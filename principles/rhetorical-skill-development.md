@@ -1,8 +1,11 @@
 ---
 type: principle
+title: Rhetorical Skill Development
+description: Rhetorical skill development is the principle of helping learners craft arguments, communicate persuasively, respond to audiences, and use language strategically for effect.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Rhetorical Skill Development
@@ -12,7 +15,7 @@ Rhetorical skill development is the principle of helping learners craft argument
 
 ## Implications
 
-Rhetorical skill development matters when learning requires more than having ideas; learners also need to shape those ideas for an audience, purpose, and context. The principle treats communication as strategic rather than neutral. Strong rhetorical instruction helps learners consider evidence, audience expectation, stance, organization, and delivery together, and [[claims/self-explanation-improves-conceptual-understanding]] suggests that learners improve when they are asked to articulate why a rhetorical move works rather than merely imitate it. For novices, [[claims/process-goals-outperform-outcome-goals-for-novices]] also supports teaching concrete drafting and revision moves before judging only the final persuasive impact. Its central risk is superficial polish: persuasive style can be mistaken for strong argument if learners are not also held to standards of evidence and reasoning, and [[claims/self-monitoring-improves-self-regulation]] supports routines that ask learners to check audience fit, evidence quality, and structure while revising.
+Rhetorical skill development matters when learning requires more than having ideas; learners also need to shape those ideas for an audience, purpose, and context. The principle treats communication as strategic rather than neutral. Strong rhetorical instruction helps learners consider evidence, audience expectation, stance, organization, and delivery together, and [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) suggests that learners improve when they are asked to articulate why a rhetorical move works rather than merely imitate it. For novices, [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) also supports teaching concrete drafting and revision moves before judging only the final persuasive impact. Its central risk is superficial polish: persuasive style can be mistaken for strong argument if learners are not also held to standards of evidence and reasoning, and [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) supports routines that ask learners to check audience fit, evidence quality, and structure while revising.
 
 ### Context
 #### Requirements
@@ -35,22 +38,22 @@ Rhetorical skill development matters when learning requires more than having ide
 
 ### Theory
 #### Supporting
-- [[principles/epistemic-cognition|Epistemic Cognition]] — rhetorical quality depends on how claims are warranted and justified
-- [[principles/perspective-taking|Perspective-Taking]] — effective rhetoric requires anticipating audience positions and responses
-- [[principles/peer-learning|Peer Learning]] — rhetorical skill often develops through critique, rehearsal, and response from others
+- [Epistemic Cognition](epistemic-cognition.md) — rhetorical quality depends on how claims are warranted and justified
+- [Perspective-Taking](perspective-taking.md) — effective rhetoric requires anticipating audience positions and responses
+- [Peer Learning](peer-learning.md) — rhetorical skill often develops through critique, rehearsal, and response from others
 
 #### Contradicting / Qualifying
-- [[theories/behaviorism|Behaviorism]] — repeated performance can improve delivery routines, but rhetorical quality depends on judgment and audience adaptation, not habit alone
+- [Behaviorism](../theories/behaviorism.md) — repeated performance can improve delivery routines, but rhetorical quality depends on judgment and audience adaptation, not habit alone
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — learners often strengthen rhetorical quality by explaining and justifying their reasoning explicitly
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [~M] — rhetorical novices often improve more when instruction targets process moves than when it focuses only on final persuasive impact
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — rhetorical performance improves when learners monitor audience, structure, and evidence quality against criteria
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — learners often strengthen rhetorical quality by explaining and justifying their reasoning explicitly
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — rhetorical novices often improve more when instruction targets process moves than when it focuses only on final persuasive impact
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — rhetorical performance improves when learners monitor audience, structure, and evidence quality against criteria
 
 ## Related Principles
-- [[principles/epistemic-cognition|Epistemic Cognition]] — strong rhetoric depends on how claims are justified, not just how they sound
-- [[principles/perspective-taking|Perspective-Taking]] — audience adaptation is one of the main rhetorical demands
-- [[principles/debate|Debate]] — debate often provides a high-pressure environment for developing rhetorical strategy and rebuttal
+- [Epistemic Cognition](epistemic-cognition.md) — strong rhetoric depends on how claims are justified, not just how they sound
+- [Perspective-Taking](perspective-taking.md) — audience adaptation is one of the main rhetorical demands
+- [Debate](debate.md) — debate often provides a high-pressure environment for developing rhetorical strategy and rebuttal
 
 ## Examples
 

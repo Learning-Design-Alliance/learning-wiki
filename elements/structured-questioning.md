@@ -1,7 +1,11 @@
 ---
 type: element
+title: Structured Questioning
+description: Instructors guide learners with sequenced, purposeful questions to scaffold deeper inquiry.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Structured Questioning
@@ -27,18 +31,18 @@ Instructors guide learners with sequenced, purposeful questions to scaffold deep
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/constructivism|Constructivism]]
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
-- [[principles/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Constructivism](../principles/constructivism.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [[elements/socratic-questioning|Socratic Questioning]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/guided-inquiry|Guided Inquiry]]
+- [Socratic Questioning](socratic-questioning.md)
+- [Peer Discussion](peer-discussion.md)
+- [Guided Inquiry](guided-inquiry.md)
 
 ## Patterns That Use This Element
-- [[patterns/pogil|POGIL]]
-- [[patterns/inquiry-based-learning|Inquiry-Based Learning]]
+- [POGIL](../patterns/pogil.md)
+- [Inquiry-Based Learning](../patterns/inquiry-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

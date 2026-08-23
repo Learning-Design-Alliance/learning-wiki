@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Ladder of Feedback
+description: The Ladder of Feedback is a structured protocol to guide peer feedback that includes a sequential framework with specific questions, sentence stems, and success criteria.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Ladder of Feedback
@@ -35,8 +39,8 @@ The Ladder of Feedback is a structured protocol to guide peer feedback that incl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Review of feedback provided by learners to assess the depth and quality of their critique. Observation of group interactions to assess learners' ability to follow the protocol and provide constructive feedback.

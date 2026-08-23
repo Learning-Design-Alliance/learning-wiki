@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Provide Opportunities for Success
+description: Setting reasonable and realistic expectations, changing modifications for every student, and insisting on high-quality and excellent work.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Provide Opportunities for Success
@@ -35,9 +39,9 @@ Setting reasonable and realistic expectations, changing modifications for every 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student achievement, meeting high-quality standards

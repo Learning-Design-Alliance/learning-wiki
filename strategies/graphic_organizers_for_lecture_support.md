@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers for Lecture Support
+description: Instructors deliver lectures using a graphic organizer to visually connect concepts, rather than using PowerPoint or a standard outline.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers for Lecture Support
@@ -35,9 +39,9 @@ Instructors deliver lectures using a graphic organizer to visually connect conce
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [State objectives](../elements/state-objectives.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Ability to explain the relationships between concepts, quality of notes taken during the lecture.

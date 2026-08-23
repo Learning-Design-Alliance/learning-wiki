@@ -1,8 +1,11 @@
 ---
 type: element
+title: Peer Feedback
+description: "Peer feedback is the element in which learners respond to one another's work with comments intended to improve revision or performance."
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Peer Feedback
@@ -11,8 +14,8 @@ edited_by: Codex
 Peer feedback is the element in which learners respond to one another's work with comments intended to improve revision or performance.
 
 ## Affordances
-- [[principles/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
+- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
 
 ## Related Elements
-- [[elements/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
-- [[elements/peer-review|Peer Review]]
+- [Peer Feedback/Peer Review](peer-feedbackpeer-review.md)
+- [Peer Review](peer-review.md)

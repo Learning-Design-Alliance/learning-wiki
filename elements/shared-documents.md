@@ -1,8 +1,11 @@
 ---
 type: element
+title: Shared Documents
+description: Shared documents are the element in which multiple learners contribute to a common editable artifact.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Shared Documents
@@ -11,9 +14,9 @@ edited_by: Codex
 Shared documents are the element in which multiple learners contribute to a common editable artifact.
 
 ## Affordances
-- [[principles/collaborative-learning|Collaborative Learning]]
-- [[principles/digital-learning|Digital Learning]]
+- [Collaborative Learning](../principles/collaborative-learning.md)
+- [Digital Learning](../principles/digital-learning.md)
 
 ## Related Elements
-- [[elements/resource-hubs|Resource Hubs]]
-- [[elements/communication-channels|Communication Channels]]
+- [Resource Hubs](resource-hubs.md)
+- [Communication Channels](communication-channels.md)

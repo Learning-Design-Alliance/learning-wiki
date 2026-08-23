@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Providing Easy-Access Educational Tools
+description: Making educational tools readily available to learners promotes independence and self-directed learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Providing Easy-Access Educational Tools
@@ -35,9 +39,9 @@ Making educational tools readily available to learners promotes independence and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' use of tools, track their progress in applying them effectively, and gather feedback on their experiences with different resources.

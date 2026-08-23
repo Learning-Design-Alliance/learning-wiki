@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Assess and Differentiate
+description: It is important to assess not only the content but also the language as you scaffold and teach vocabulary, structure, and function of the language.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Assess and Differentiate
@@ -35,8 +39,8 @@ It is important to assess not only the content but also the language as you scaf
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/reassessment|Reassessment]]
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Reassessment](../elements/reassessment.md)
 
 ## Assessment Evidence
 - Improved student performance, increased engagement, and a more supportive learning environment.

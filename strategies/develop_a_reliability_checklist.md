@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Develop a Reliability Checklist
+description: Bring learners together and explain that different sources online present different information, even about the same topics.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Develop a Reliability Checklist
@@ -35,9 +39,9 @@ Bring learners together and explain that different sources online present differ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/application|Application]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Assess learners' ability to generate relevant questions and apply the checklist to evaluate sources.

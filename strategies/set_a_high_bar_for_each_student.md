@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Set a High Bar for Each Student
+description: Hold high expectations for all students.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Set a High Bar for Each Student
@@ -35,8 +39,8 @@ Hold high expectations for all students. Convince students that they can learn a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess Performance]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track improvements in student performance, monitor changes in self-efficacy and mindset, observe student engagement and participation

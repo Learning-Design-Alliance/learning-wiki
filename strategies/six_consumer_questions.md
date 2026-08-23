@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Six Consumer Questions
+description: A set of six questions designed to help evaluate the trustworthiness of a news story.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Six Consumer Questions
@@ -35,7 +39,7 @@ A set of six questions designed to help evaluate the trustworthiness of a news s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Ability to answer questions about the credibility of a news story

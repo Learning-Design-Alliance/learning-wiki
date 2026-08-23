@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Jigsaw
+description: Jigsaw is the short-form canonical pattern for dividing a topic into expert roles, peer teaching, and synthesis.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 grain_size: lesson
 ---
 
@@ -14,13 +17,13 @@ Jigsaw is the short-form canonical pattern for dividing a topic into expert role
 ## Design
 
 ### Elements Used
-- [[elements/group-work|Group Work]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Group Work](../elements/group-work.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Related Patterns
-- [[patterns/jigsaw-method|Jigsaw Method]]
-- [[patterns/jigsaw-learning|Jigsaw Learning]]
+- [Jigsaw Method](jigsaw-method.md)
+- [Jigsaw Learning](jigsaw-learning.md)
 
 ## Key Sources
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method*.

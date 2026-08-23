@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multiple Writing Surfaces
+description: Multiple writing surfaces involve providing learners with a variety of spaces where they can write and express their ideas, such as walls, tables, or portable whiteboards.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multiple Writing Surfaces
@@ -35,9 +39,9 @@ Multiple writing surfaces involve providing learners with a variety of spaces wh
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe learner engagement and collaboration on writing surfaces. Collect and analyze written work for understanding and creativity. Gather feedback from learners on their experience with multiple writing surfaces.

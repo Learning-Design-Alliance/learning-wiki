@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Distributed Practice
+description: Distributed practice involves practicing content in short sessions spaced out over time, contrasting with massed practice (cramming) where content is practiced in one long session.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Distributed Practice
@@ -35,9 +39,9 @@ Distributed practice involves practicing content in short sessions spaced out ov
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Compare long-term retention rates between learners using distributed practice and massed practice. Track decreasing errors in successive distributed practice sessions.

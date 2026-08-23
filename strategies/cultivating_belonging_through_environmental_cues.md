@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cultivating Belonging Through Environmental Cues
+description: This strategy involves using simple yet powerful cues in the classroom environment to promote a sense of belonging among students.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cultivating Belonging Through Environmental Cues
@@ -35,10 +39,10 @@ This strategy involves using simple yet powerful cues in the classroom environme
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/supportive-information|Supportive information]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/integration|Integration]]
+- [Gain attention](../elements/gain-attention.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Demonstration](../elements/demonstration.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe student interactions and engagement in the classroom. Gather student feedback on their sense of belonging and safety.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Worked Examples Types
+description: Modelling examples provide maximum guidance by paying explicit attention to the process needed to reach an acceptable solution, such as a librarian internship where the librarian explains what (s)he’s doing and why it’s done in that…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Worked Examples Types
@@ -35,8 +39,8 @@ Modelling examples provide maximum guidance by paying explicit attention to the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Student understanding of the processes and the ability to apply them in real-world scenarios.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Prepare the Ground
+description: Building a trusting community is crucial for honest talks about race.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Prepare the Ground
@@ -35,9 +39,9 @@ Building a trusting community is crucial for honest talks about race. Giving stu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Increased student participation and engagement. Improved classroom climate. Evidence of a more equitable and inclusive environment.

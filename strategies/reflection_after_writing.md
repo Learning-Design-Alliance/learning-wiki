@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reflection After Writing
+description: Reflection involves pausing after completing a writing assignment to consider how the assignment went.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflection After Writing
@@ -35,9 +39,9 @@ Reflection involves pausing after completing a writing assignment to consider ho
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Assess student's ability to reflect on their writing; track improvements in writing strategies; monitor student self-awareness and critical thinking skills

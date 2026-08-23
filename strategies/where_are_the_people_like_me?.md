@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Where Are the People Like Me?
+description: Learners examine media examples to consider who is represented and who is not, then explore the impact of this lack of diversity and how it might affect those who are misrepresented or not represented.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Where Are the People Like Me?
@@ -35,10 +39,10 @@ Learners examine media examples to consider who is represented and who is not, t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Class Discussion](../elements/class-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess the depth of analysis, the ability to identify issues of representation, and the level of critical thinking demonstrated in the analysis. Monitor changes in learners' attitudes towards media and social issues.

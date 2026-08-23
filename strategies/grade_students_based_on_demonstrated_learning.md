@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Grade Students Based on Demonstrated Learning
+description: Instead of averaging scores over time, emphasize grading students on their ultimate level of mastery at the end of a unit.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Grade Students Based on Demonstrated Learning
@@ -35,9 +39,9 @@ Instead of averaging scores over time, emphasize grading students on their ultim
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/application|Application]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Student mastery levels, growth over time

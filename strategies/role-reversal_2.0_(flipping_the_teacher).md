@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Role-Reversal 2.0 (Flipping the Teacher)
+description: Students are asked to create videos demonstrating their understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Role-Reversal 2.0 (Flipping the Teacher)
@@ -35,10 +39,10 @@ Students are asked to create videos demonstrating their understanding. Students 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-task-performance|Whole-task performance]]
-- [[elements/application|Application]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/peer-teaching|Peer Teaching]]
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Application](../elements/application.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Teaching](../elements/peer-teaching.md)
 
 ## Assessment Evidence
 - Quality of videos, depth of understanding demonstrated, engagement with the creation process.

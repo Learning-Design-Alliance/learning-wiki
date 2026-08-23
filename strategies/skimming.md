@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Skimming
+description: Skimming involves reviewing a text quickly, focusing on headings, captions, and highlighted information, to gain familiarity with the material before reading it thoroughly.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Skimming
@@ -35,8 +39,8 @@ Skimming involves reviewing a text quickly, focusing on headings, captions, and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Activation](../elements/activation.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Improved reading comprehension, demonstrated understanding of the key points in the text.

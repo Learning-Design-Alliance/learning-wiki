@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mini Classroom Exercise Breaks
+description: Implement short exercise sessions throughout the school day, such as encouraging jumping jacks in the morning or scheduling five-minute movement breaks between classes where students can do activities like push-ups, dancing, or running in…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mini Classroom Exercise Breaks
@@ -35,7 +39,7 @@ Implement short exercise sessions throughout the school day, such as encouraging
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student behavior and attention levels, track student participation in exercise breaks, gather feedback from students and teachers

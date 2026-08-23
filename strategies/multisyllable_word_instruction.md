@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multisyllable Word Instruction
+description: Multisyllable word instruction focuses on teaching learners how to break words into syllables to improve spelling and reading skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multisyllable Word Instruction
@@ -35,9 +39,9 @@ Multisyllable word instruction focuses on teaching learners how to break words i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor spelling accuracy on regular spelling tests, track progress in reading assessments, and assess the learners' ability to identify and apply syllabication rules correctly.

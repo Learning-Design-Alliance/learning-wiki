@@ -1,7 +1,11 @@
 ---
 type: element
+title: Conceptual Questioning
+description: Learners answer thought-provoking questions designed to challenge assumptions and deepen understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Conceptual Questioning
@@ -27,19 +31,19 @@ Learners answer thought-provoking questions designed to challenge assumptions an
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
-- [[principles/constructivism|Constructivism]]
-- [[principles/active-learning|Active Learning]]
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Constructivism](../principles/constructivism.md)
+- [Active Learning](../principles/active-learning.md)
 
 ## Related Elements
-- [[elements/socratic-questioning|Socratic Questioning]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/inquiry-based-learning|Inquiry-Based Learning]]
+- [Socratic Questioning](socratic-questioning.md)
+- [Peer Discussion](peer-discussion.md)
+- [Inquiry-Based Learning](inquiry-based-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[patterns/guided-discovery-learning|Guided Discovery Learning]]
-- [[patterns/peer-instruction|Peer Instruction]]
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
+- [Peer Instruction](../patterns/peer-instruction.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

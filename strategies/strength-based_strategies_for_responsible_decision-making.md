@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strength-Based Strategies for Responsible Decision-Making
+description: "Educators identify students' strengths related to responsible decision-making and leverage these strengths to address challenges."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strength-Based Strategies for Responsible Decision-Making
@@ -35,13 +39,13 @@ Educators identify students' strengths related to responsible decision-making an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/problem-scenario|Problem Scenario]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Problem Scenario](../elements/problem-scenario.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions, analyze graphic organizers and decision-making tools, assess student reflections, and monitor changes in student behavior and ethical decision-making. Gather feedback from students on the effectiveness of the strategies.

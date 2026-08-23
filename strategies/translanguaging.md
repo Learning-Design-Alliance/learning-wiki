@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Translanguaging
+description: Translanguaging recognizes that multilingual speakers have a single linguistic repertoire that they use to understand the world.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Translanguaging
@@ -35,10 +39,10 @@ Translanguaging recognizes that multilingual speakers have a single linguistic r
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the child carefully performing different tasks with their entire repertoire, as well as when using only certain language features. Separate the child’s ability to provide text-based evidence, make inferences, identify main ideas and recognize texts’ craft and structure from their ability to use certain language conventions in English.

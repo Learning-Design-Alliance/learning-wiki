@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Optimizing School Facilities
+description: Improving the learning environment by addressing factors like acoustics/noise, air quality, lighting, temperature, and space.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Optimizing School Facilities
@@ -35,9 +39,9 @@ Improving the learning environment by addressing factors like acoustics/noise, a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track student achievement, attendance rates, and surveys on comfort and satisfaction.

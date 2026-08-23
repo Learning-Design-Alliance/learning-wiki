@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Model Positive Connections to Literacy
+description: Teachers share their own positive experiences with reading and writing to foster a positive literacy environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Model Positive Connections to Literacy
@@ -35,8 +39,8 @@ Teachers share their own positive experiences with reading and writing to foster
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe students' engagement with the shared list of books and their willingness to contribute. Monitor their participation in discussions about reading and writing.

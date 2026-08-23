@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Involving Students in Classroom Redesign
+description: Involving learners in the process of designing and transforming their learning environment can create a space that better meets their needs and preferences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Involving Students in Classroom Redesign
@@ -35,10 +39,10 @@ Involving learners in the process of designing and transforming their learning e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/knowledge-building-discourse|Knowledge-Building Discourse]]
-- [[elements/pre-seminar-preparation|Pre-Seminar Preparation]]
-- [[elements/open-ended-discussion|Open-Ended Discussion]]
+- [Question Formulation](../elements/question-formulation.md)
+- [Knowledge-Building Discourse](../elements/knowledge-building-discourse.md)
+- [Pre-Seminar Preparation](../elements/pre-seminar-preparation.md)
+- [Open-Ended Discussion](../elements/open-ended-discussion.md)
 
 ## Assessment Evidence
 - Survey student satisfaction with the classroom environment, observe student engagement and participation in class activities, track student feedback on classroom design changes, assess the impact of the redesigned classroom on student learning outcomes

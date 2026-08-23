@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Formative Feedback
+description: Teacher performance management processes can be viewed as part of a growth mindset by making it formative, rather than summative, and inviting participation of the teacher in the process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Formative Feedback
@@ -35,7 +39,7 @@ Teacher performance management processes can be viewed as part of a growth minds
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track teacher participation in feedback activities. Collect teacher reflections on their teaching practices and professional growth. Evaluate the impact of feedback on student learning outcomes.

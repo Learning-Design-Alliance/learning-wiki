@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Modeling and Practice (Source Evaluation)
+description: Explicitly model how to evaluate each dimension of source evaluation, and provide repeated opportunities for learners to practice and apply these strategies to information they encounter during the research process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Modeling and Practice (Source Evaluation)
@@ -35,9 +39,9 @@ Explicitly model how to evaluate each dimension of source evaluation, and provid
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess learners' ability to apply evaluation strategies in research projects and assignments. Evaluate their ability to verify information, investigate credentials, detect bias, and negotiate perspectives.

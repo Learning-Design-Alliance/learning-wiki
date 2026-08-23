@@ -1,7 +1,11 @@
 ---
 type: element
+title: Discussion Prompt
+description: A structured question or statement initiates meaningful conversation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Discussion Prompt
@@ -27,17 +31,17 @@ A structured question or statement initiates meaningful conversation.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/active-learning|Active Learning]]
-- [[principles/social-learning|Social Learning]]
+- [Active Learning](../principles/active-learning.md)
+- [Social Learning](../principles/social-learning.md)
 
 ## Related Elements
-- [[elements/moderation|Moderation]]
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/socratic-questioning|Socratic Questioning]]
+- [Moderation](moderation.md)
+- [Peer Interaction](peer-interaction.md)
+- [Socratic Questioning](socratic-questioning.md)
 
 ## Patterns That Use This Element
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

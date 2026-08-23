@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Good Tutee-Tutor Contact
+description: Regular contact between tutees and tutors is part of the tutoring process, increasing tutee motivation and involvement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Good Tutee-Tutor Contact
@@ -35,8 +39,8 @@ Regular contact between tutees and tutors is part of the tutoring process, incre
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased tutee attendance, improved engagement during sessions, positive feedback from tutees.

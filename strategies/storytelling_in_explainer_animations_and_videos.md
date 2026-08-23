@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Storytelling in Explainer Animations and Videos
+description: "Combining visual elements with engaging narratives to capture the learners' attention and facilitate long-term information retention."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Storytelling in Explainer Animations and Videos
@@ -35,8 +39,8 @@ Combining visual elements with engaging narratives to capture the learners' atte
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Demonstration](../elements/demonstration.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Assess learners' ability to recall and explain the concept after watching the animation or video. Evaluate their ability to apply the concept in new situations.

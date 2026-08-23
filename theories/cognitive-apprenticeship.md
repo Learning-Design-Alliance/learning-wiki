@@ -1,8 +1,11 @@
 ---
 type: theory
+title: Cognitive Apprenticeship
+description: Cognitive apprenticeship is the theory that complex thinking is learned through modeled expert performance, coached participation, scaffolding, articulation, reflection, and gradual fading in authentic tasks.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Cognitive Apprenticeship
@@ -11,8 +14,8 @@ edited_by: Codex
 Cognitive apprenticeship is the theory that complex thinking is learned through modeled expert performance, coached participation, scaffolding, articulation, reflection, and gradual fading in authentic tasks.
 
 ## Related Theories
-- [[theories/situated-learning|Situated Learning]]
-- [[theories/cognitive-load-theory|Cognitive Load Theory]]
+- [Situated Learning](situated-learning.md)
+- [Cognitive Load Theory](cognitive-load-theory.md)
 
 ## Key Sources
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship. In *Knowing, learning, and instruction*.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Partner Reading with Retell
+description: A PALS activity aimed at improving reading fluency and summarization skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Partner Reading with Retell
@@ -35,10 +39,10 @@ A PALS activity aimed at improving reading fluency and summarization skills. Stu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/modeling|Modeling]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Modeling](../elements/modeling.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe reading fluency, assess quality of retell, gather student feedback

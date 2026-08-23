@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Interdisciplinary Activities
+description: Interdisciplinary activities present issues, themes, and problems that require skills and knowledge from more than one subject to address or answer.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Interdisciplinary Activities
@@ -35,11 +39,11 @@ Interdisciplinary activities present issues, themes, and problems that require s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/solution-development|Solution Development]]
+- [Activation](../elements/activation.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Improvements in critical thinking, enhanced bias recognition, ability to solve complex problems, development of informed understandings, increased engagement

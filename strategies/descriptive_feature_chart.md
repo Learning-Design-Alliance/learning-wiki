@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Descriptive Feature Chart
+description: A descriptive feature chart is a graphic organizer with horizontal and vertical axes used to develop a descriptive model of an organism.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Descriptive Feature Chart
@@ -35,8 +39,8 @@ A descriptive feature chart is a graphic organizer with horizontal and vertical 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy of the chart in representing the organism's features; completeness of information; ability to use the chart to write a description of the organism; presentation of findings to the class

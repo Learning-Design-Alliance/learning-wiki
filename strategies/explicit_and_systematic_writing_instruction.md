@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicit and Systematic Writing Instruction
+description: Explicit and systematic teaching of strategies, skills, and knowledge needed to be a proficient writer.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicit and Systematic Writing Instruction
@@ -35,10 +39,10 @@ Explicit and systematic teaching of strategies, skills, and knowledge needed to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased use of planning and revision strategies, automaticity of foundational skills

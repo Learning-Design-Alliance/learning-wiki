@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Dolch Sight Word List - Word Shape Worksheets
+description: Word shape worksheets for Dolch sight words.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Dolch Sight Word List - Word Shape Worksheets
@@ -35,8 +39,8 @@ Word shape worksheets for Dolch sight words. These provide practice in identifyi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess student accuracy in matching word shapes. Monitor improvement in visual discrimination skills.

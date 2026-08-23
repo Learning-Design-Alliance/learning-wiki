@@ -1,7 +1,11 @@
 ---
 type: element
+title: Peer Collaboration
+description: Learners work together to complete tasks or solve problems.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Peer Collaboration
@@ -27,19 +31,19 @@ Learners work together to complete tasks or solve problems.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/constructivism|Constructivism]]
-- [[principles/community-of-inquiry|Community of Inquiry]]
+- [Social Learning](../principles/social-learning.md)
+- [Constructivism](../principles/constructivism.md)
+- [Community of Inquiry](../principles/community-of-inquiry.md)
 
 ## Related Elements
-- [[elements/group-work|Group Work]]
-- [[elements/collaborative-inquiry|Collaborative Inquiry]]
-- [[elements/peer-teaching|Peer Teaching]]
+- [Group Work](group-work.md)
+- [Collaborative Inquiry](collaborative-inquiry.md)
+- [Peer Teaching](peer-teaching.md)
 
 ## Patterns That Use This Element
-- [[patterns/jigsaw|Jigsaw]]
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
-- [[patterns/peer-teaching|Peer Teaching]]
+- [Jigsaw](../patterns/jigsaw.md)
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Peer Teaching](../patterns/peer-teaching.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

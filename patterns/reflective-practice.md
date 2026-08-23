@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Reflective Practice
+description: Reflective Practice is a pattern in which learners or practitioners act, examine what happened, identify lessons, and deliberately adjust future performance.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: reflective practice tradition
 grain_size: unit
 ---
@@ -34,11 +37,11 @@ Reflective Practice is a pattern in which learners or practitioners act, examine
 
 ### Theory
 #### Supporting
-- [[principles/reflection|Reflection]]
-- [[principles/metacognition|Metacognition]]
+- [Reflection](../principles/reflection.md)
+- [Metacognition](../principles/metacognition.md)
 
 ### Claims
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 
 ## Design
 
@@ -49,13 +52,13 @@ Reflective Practice is a pattern in which learners or practitioners act, examine
 4. Apply that adjustment in the next attempt.
 
 ### Elements Used
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/metacognitive-strategies|Metacognitive Strategies]]
-- [[elements/feedback|Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Metacognitive Strategies](../elements/metacognitive-strategies.md)
+- [Feedback](../elements/feedback.md)
 
 ### Affordances
-- [[principles/reflection|Reflection]]
-- [[principles/self-regulated-learning|Self-Regulated Learning]]
+- [Reflection](../principles/reflection.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
 
 ## Examples
 - Post-practicum debriefs that identify one concrete change for the next round.

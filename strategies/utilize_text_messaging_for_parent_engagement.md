@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Utilize Text Messaging for Parent Engagement
+description: Text messaging is used as a primary means of communication for educators and community leaders to engage parents.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Utilize Text Messaging for Parent Engagement
@@ -35,8 +39,8 @@ Text messaging is used as a primary means of communication for educators and com
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track response rates to text messages. Monitor student attendance and academic performance. Gather feedback from parents on the usefulness of text messages.

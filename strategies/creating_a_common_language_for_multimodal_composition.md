@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating a Common Language for Multimodal Composition
+description: Empowering students with a shared vocabulary to analyze and discuss the multimodal composition process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating a Common Language for Multimodal Composition
@@ -35,10 +39,10 @@ Empowering students with a shared vocabulary to analyze and discuss the multimod
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the depth and specificity of student contributions during discussions. Analyze the quality of student definitions and examples. Assess students' ability to apply the common language in their own compositions.

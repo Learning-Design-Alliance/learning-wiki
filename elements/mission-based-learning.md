@@ -1,7 +1,11 @@
 ---
 type: element
+title: Mission-Based Learning
+description: Learners engage in a structured, goal-oriented challenge.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mission-Based Learning
@@ -27,17 +31,17 @@ Learners engage in a structured, goal-oriented challenge.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/active-learning|Active Learning]]
-- [[principles/constructivism|Constructivism]]
+- [Active Learning](../principles/active-learning.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Related Elements
-- [[elements/problem-based-learning|Problem-Based Learning]]
-- [[elements/scenario-based-learning|Scenario-Based Learning]]
-- [[elements/just-in-time-learning|Just-in-Time Learning]]
+- [Problem-Based Learning](problem-based-learning.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
+- [Just-in-Time Learning](just-in-time-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/problem-based-learning|Problem-Based Learning]]
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

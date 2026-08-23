@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Balanced Classroom Decorations
+description: Display student work.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Balanced Classroom Decorations
@@ -35,7 +39,7 @@ Display student work. Feature inspiring role models. Avoid clutter. Visual aidsâ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Student Feedback

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Number Talks
+description: Number Talks are short, daily classroom routines that provide students with opportunities to mentally solve and discuss numerical problems.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Number Talks
@@ -35,10 +39,10 @@ Number Talks are short, daily classroom routines that provide students with oppo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the variety and sophistication of student strategies, assess student explanations of their thinking

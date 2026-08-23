@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reflective Prompts
+description: Reflection prompts encourage learners to think deeply about their learning experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflective Prompts
@@ -35,7 +39,7 @@ Reflection prompts encourage learners to think deeply about their learning exper
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Depth and thoughtfulness of student responses, ability to connect learning to personal experiences, and evidence of metacognitive awareness.

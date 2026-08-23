@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Brain Breaks
+description: Brain breaks are short periods of time when learners change up the routine of incoming information.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Brain Breaks
@@ -35,9 +39,9 @@ Brain breaks are short periods of time when learners change up the routine of in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Gain attention](../elements/gain-attention.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track changes in focus, behavior, and engagement levels. Observe participation during activities.

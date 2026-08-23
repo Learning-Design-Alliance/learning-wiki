@@ -1,8 +1,16 @@
 ---
 type: element
+title: Summative Assessment
+description: "Summative assessment is the element in which a learner's performance is judged at the end of a unit, course, or other instructional sequence."
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: harlen-2005
+    resource: "https://doi.org/10.1080/09585170500136093"
+    title: "Harlen, W. (2005). Teachers' summative practices and assessment for learning. *The Curriculum Journal, 16*(2), 207-223"
+    author: Harlen, W
 ---
 
 # Summative Assessment
@@ -25,17 +33,17 @@ Summative assessment is the element in which a learner's performance is judged a
 - Judge cumulative achievement or demonstrated competence.
 
 ### Affordances
-- [[principles/summative-assessment|Summative Assessment]]
-- [[principles/competency-based-assessment|Competency-Based Assessment]]
+- [Summative Assessment](../principles/summative-assessment.md)
+- [Competency-Based Assessment](../principles/competency-based-assessment.md)
 
 ## Related Elements
-- [[elements/final-exam|Final Exam]]
-- [[elements/performance-based-assessment|Performance-Based Assessment]]
-- [[elements/assessment|Assessment]]
+- [Final Exam](final-exam.md)
+- [Performance-Based Assessment](performance-based-assessment.md)
+- [Assessment](assessment.md)
 
 ## Patterns That Use This Element
-- [[patterns/summative-assessment|Summative Assessment]]
-- [[patterns/competency-based-learning|Competency-Based Learning]]
+- [Summative Assessment](../patterns/summative-assessment.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
 
 ## Examples
 - Final exams, end-of-unit projects, capstones, and certification assessments.

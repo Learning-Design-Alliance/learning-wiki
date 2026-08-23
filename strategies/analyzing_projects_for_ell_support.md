@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Analyzing Projects for ELL Support
+description: Analyzing project-based learning (PBL) projects through the lens of English Language Learners (ELLs) involves identifying the language skills, vocabulary instruction, speaking and listening scaffolds, and language functions needed for…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Analyzing Projects for ELL Support
@@ -35,9 +39,9 @@ Analyzing project-based learning (PBL) projects through the lens of English Lang
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/pre-class-videolecture|Pre-Class Video/Lecture]]
-- [[elements/in-class-activities|In-Class Activities]]
-- [[elements/formative-assessment|Formative Assessment]]
+- [Pre-Class Video/Lecture](../elements/pre-class-videolecture.md)
+- [In-Class Activities](../elements/in-class-activities.md)
+- [Formative Assessment](../elements/formative-assessment.md)
 
 ## Assessment Evidence
 - Improved ELL student participation, enhanced language skills demonstrated in project outputs, and positive feedback from students and educators.

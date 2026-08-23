@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Dictation Software
+description: Dictation software allows learners to speak their ideas and have them transcribed into text.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Dictation Software
@@ -35,8 +39,8 @@ Dictation software allows learners to speak their ideas and have them transcribe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess writing quality, track improvements in writing fluency, gather learner feedback on the effectiveness of the software.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Accessing Students’ Background Knowledge
+description: "This strategy involves intentionally activating and building upon learners' existing knowledge and experiences to enhance comprehension and engagement."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Accessing Students’ Background Knowledge
@@ -35,10 +39,10 @@ This strategy involves intentionally activating and building upon learners' exis
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Activation](../elements/activation.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe increased student participation and engagement. Analyze student work for connections to their backgrounds. Gather student feedback on relevance and accessibility of content.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Eliminate Internal Negative Chatter
+description: Becoming aware of your negative thoughts and actively working to eliminate them.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Eliminate Internal Negative Chatter
@@ -35,8 +39,8 @@ Becoming aware of your negative thoughts and actively working to eliminate them.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track changes in frequency and intensity of negative thoughts using thought logs or journals. Observe improvements in mood, self-esteem, and coping strategies. Analyze ability to identify and challenge negative thoughts in real-time situations.

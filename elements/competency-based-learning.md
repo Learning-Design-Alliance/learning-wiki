@@ -1,8 +1,11 @@
 ---
 type: element
+title: Competency-Based Learning
+description: Competency-based learning is the element in which progression is organized around demonstrated competence rather than seat time.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Competency-Based Learning
@@ -11,8 +14,8 @@ edited_by: Codex
 Competency-based learning is the element in which progression is organized around demonstrated competence rather than seat time.
 
 ## Affordances
-- [[principles/competency-based-learning-assessment|Competency-Based Learning/Assessment]]
+- [Competency-Based Learning/Assessment](../principles/competency-based-learning-assessment.md)
 
 ## Related Elements
-- [[elements/mastery-learning|Mastery Learning]]
-- [[elements/performance-based-assessment|Performance-Based Assessment]]
+- [Mastery Learning](mastery-learning.md)
+- [Performance-Based Assessment](performance-based-assessment.md)

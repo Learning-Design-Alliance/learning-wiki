@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teacher Racial Identity Work
+description: Teacher racial identity work involves educators examining their own racial identity, biases, and privilege to create a more inclusive and equitable classroom environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teacher Racial Identity Work
@@ -35,10 +39,10 @@ Teacher racial identity work involves educators examining their own racial ident
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Monitor changes in educators' attitudes and behaviors, track their engagement in equity-focused activities, and observe the impact on student experiences and outcomes.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Addressing Stereotype Threat
+description: Teachers use strategies to support students who experience stereotype threat, helping them thrive academically and socially.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Addressing Stereotype Threat
@@ -35,10 +39,10 @@ Teachers use strategies to support students who experience stereotype threat, he
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Improved student performance, increased self-confidence, reduced anxiety, and positive classroom environment.

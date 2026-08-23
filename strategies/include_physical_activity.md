@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Include Physical Activity
+description: Brief breaks for active play can help children who struggle with attention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Include Physical Activity
@@ -35,8 +39,8 @@ Brief breaks for active play can help children who struggle with attention. This
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to stay on task after physical activity breaks. Track the frequency and duration of attention spans. Monitor the reduction of restless behavior.

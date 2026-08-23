@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pre-Writing with Graphic Organizers
+description: Students use graphic organizers to plan and structure their ideas before writing drafts, aiding in idea generation and organization.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pre-Writing with Graphic Organizers
@@ -35,9 +39,9 @@ Students use graphic organizers to plan and structure their ideas before writing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/argument-construction|Argument Construction]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Argument Construction](../elements/argument-construction.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Improved organization and coherence of written work, demonstrated ability to structure ideas, and effective use of evidence.

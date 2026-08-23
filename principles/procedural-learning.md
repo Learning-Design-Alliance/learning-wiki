@@ -1,8 +1,16 @@
 ---
 type: principle
+title: Procedural Learning
+description: Procedural learning is the principle of helping learners acquire and refine sequences of action, routines, or task procedures until performance becomes more accurate, fluent, and reliable.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: anderson-1982
+    resource: "https://doi.org/10.1037/0033-295X.89.4.369"
+    title: "Anderson, J. R. (1982). Acquisition of cognitive skill. *Psychological Review, 89*(4), 369-406"
+    author: Anderson, J. R
 ---
 
 # Procedural Learning
@@ -12,7 +20,7 @@ Procedural learning is the principle of helping learners acquire and refine sequ
 
 ## Implications
 
-Procedural learning is most important when the learning target is a repeatable performance: solving an equation type, revising a sentence, carrying out a lab technique, debugging a workflow, or following a diagnostic sequence. The principle assumes that declarative explanation alone is not enough. Learners need models that reduce blind search at the start [[claims/worked-examples-reduce-novice-search]] [+M], repeated performance guided by process-focused attention [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M], timely feedback, and support that adapts as performance improves [[claims/contingent-scaffolding-improves-learning]] [~M]. Its main limitation is transfer: if the procedure is learned only as rote sequence without conceptual grounding, learners may struggle when conditions change.
+Procedural learning is most important when the learning target is a repeatable performance: solving an equation type, revising a sentence, carrying out a lab technique, debugging a workflow, or following a diagnostic sequence. The principle assumes that declarative explanation alone is not enough. Learners need models that reduce blind search at the start [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M], repeated performance guided by process-focused attention [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M], timely feedback, and support that adapts as performance improves [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. Its main limitation is transfer: if the procedure is learned only as rote sequence without conceptual grounding, learners may struggle when conditions change.
 
 ### Context
 #### Requirements
@@ -35,30 +43,30 @@ Procedural learning is most important when the learning target is a repeatable p
 
 ### Theory
 #### Supporting
-- [[principles/deliberate-practice|Deliberate Practice]] — focused repetition and feedback refine procedural performance
-- [[principles/behaviorism|Behaviorism]] — repeated response plus feedback can shape reliable routines
-- [[theories/information-processing-theory|Information Processing Theory]] — repeated performance helps move procedures from effortful processing toward greater fluency
+- [Deliberate Practice](deliberate-practice.md) — focused repetition and feedback refine procedural performance
+- [Behaviorism](behaviorism.md) — repeated response plus feedback can shape reliable routines
+- [Information Processing Theory](../theories/information-processing-theory.md) — repeated performance helps move procedures from effortful processing toward greater fluency
 
 #### Contradicting / Qualifying
-- [[theories/constructivism|Constructivism]] — qualifies that procedures are more transferable when learners also understand why the procedure works
+- [Constructivism](../theories/constructivism.md) — qualifies that procedures are more transferable when learners also understand why the procedure works
 
 ### Claims
-- [[claims/worked-examples-reduce-novice-search]] [+M] — explicit models can reduce blind search for novices as they acquire new procedures
-- [[claims/process-goals-outperform-outcome-goals-for-novices]] [+M] — novices often improve more when attention is directed to execution and process than to end-state outcomes alone
-- [[claims/contingent-scaffolding-improves-learning]] [~M] — procedural learning is stronger when support adapts to learner performance rather than staying fixed
+- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — explicit models can reduce blind search for novices as they acquire new procedures
+- [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices often improve more when attention is directed to execution and process than to end-state outcomes alone
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — procedural learning is stronger when support adapts to learner performance rather than staying fixed
 
 ## Related Principles
-- [[principles/explicit-instruction|Explicit Instruction]] — often supplies the visible model and sequence that procedural learning needs
-- [[principles/scaffolding|Scaffolding]] — helps learners perform procedures they cannot yet execute independently
-- [[principles/deliberate-practice|Deliberate Practice]] — explains how procedures improve through focused repetition with feedback
+- [Explicit Instruction](explicit-instruction.md) — often supplies the visible model and sequence that procedural learning needs
+- [Scaffolding](scaffolding.md) — helps learners perform procedures they cannot yet execute independently
+- [Deliberate Practice](deliberate-practice.md) — explains how procedures improve through focused repetition with feedback
 
 ## Examples
 
 ### Illustrative
 
-**[[elements/procedural-information|Procedural Information]]** — Stepwise guidance is provided just in time as learners perform a routine or method.
+**[Procedural Information](../elements/procedural-information.md)** — Stepwise guidance is provided just in time as learners perform a routine or method.
 
-**[[elements/fading-scaffolding|Fading Scaffolding]]** — Hints, prompts, or partial steps are gradually removed as learners become more capable of independent execution.
+**[Fading Scaffolding](../elements/fading-scaffolding.md)** — Hints, prompts, or partial steps are gradually removed as learners become more capable of independent execution.
 
 **Modeled routine followed by coached repetition** — The teacher demonstrates a procedure, learners practice with immediate correction, and then support is reduced over successive attempts.
 

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Optimize Classroom Acoustics
+description: Reducing noise levels in classrooms can greatly affect teacher and student performance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Optimize Classroom Acoustics
@@ -35,7 +39,7 @@ Reducing noise levels in classrooms can greatly affect teacher and student perfo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track noise levels in classrooms and correlate with student engagement and achievement. Monitor teacher satisfaction and stress levels.

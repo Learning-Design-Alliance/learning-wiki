@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Morphological Analysis of Latin and Greek Roots
+description: Morphological analysis of Latin and Greek roots involves teaching learners about the meaningful parts of words, including prefixes, suffixes, and roots of Latin and Greek origin.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Morphological Analysis of Latin and Greek Roots
@@ -35,9 +39,9 @@ Morphological analysis of Latin and Greek roots involves teaching learners about
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor vocabulary growth, track progress in reading comprehension, and assess the learners' ability to identify and explain the meanings of morphological components.

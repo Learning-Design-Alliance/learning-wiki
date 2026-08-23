@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Focus Projects on Issues of Justice
+description: Projects center on authentic issues that matter to students and their communities, impacting their lives and the lives of those they care about.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Focus Projects on Issues of Justice
@@ -35,8 +39,8 @@ Projects center on authentic issues that matter to students and their communitie
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/solution-development|Solution Development]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Evaluate student understanding of social justice issues. Assess student proposals and actions aimed at addressing these issues. Review student reflections on their role as change agents.

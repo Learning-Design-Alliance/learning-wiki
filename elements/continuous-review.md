@@ -1,7 +1,11 @@
 ---
 type: element
+title: Continuous Review
+description: Learning materials and concepts are revisited systematically to reinforce retention and prevent forgetting.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Continuous Review
@@ -27,19 +31,19 @@ Learning materials and concepts are revisited systematically to reinforce retent
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/cognitive-load-management|Cognitive Load Management]]
-- [[principles/memory-consolidation|Memory Consolidation]]
-- [[principles/spaced-learning|Spaced Learning]]
+- [Cognitive Load Management](../principles/cognitive-load-management.md)
+- [Memory Consolidation](../principles/memory-consolidation.md)
+- [Spaced Learning](../principles/spaced-learning.md)
 
 ## Related Elements
-- [[elements/spaced-repetition|Spaced Repetition]]
-- [[elements/retrieval-practice|Retrieval Practice]]
-- [[elements/spiral-curriculum|Spiral Curriculum]]
+- [Spaced Repetition](spaced-repetition.md)
+- [Retrieval Practice](retrieval-practice.md)
+- [Spiral Curriculum](spiral-curriculum.md)
 
 ## Patterns That Use This Element
-- [[patterns/mastery-learning|Mastery Learning]]
-- [[patterns/competency-based-learning|Competency-Based Learning]]
-- [[patterns/spaced-learning|Spaced Learning]]
+- [Mastery Learning](../patterns/mastery-learning.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
+- [Spaced Learning](../patterns/spaced-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

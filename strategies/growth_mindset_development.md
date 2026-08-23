@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Growth Mindset Development
+description: Growth mindset development involves cultivating the belief that abilities and intelligence can be developed through dedication, effort, and learning from mistakes.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Growth Mindset Development
@@ -35,9 +39,9 @@ Growth mindset development involves cultivating the belief that abilities and in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe changes in learner behavior, such as increased persistence, willingness to take risks, and positive self-talk. Track learner responses to challenges and setbacks. Analyze learner reflections on their growth and learning experiences. Measure the impact of growth mindset interventions on learner performance and achievement.

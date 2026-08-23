@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating Collaborative Spaces
+description: Creating collaborative spaces involves designing the learning environment to facilitate group work and interaction among learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating Collaborative Spaces
@@ -35,9 +39,9 @@ Creating collaborative spaces involves designing the learning environment to fac
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/application|Application]]
+- [Practice](../elements/practice.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learner interaction and collaboration in group activities. Collect learner feedback on the impact of collaborative spaces on their learning. Measure learner achievement and compare outcomes in collaborative learning environments versus traditional learning environments.

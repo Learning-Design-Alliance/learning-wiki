@@ -1,8 +1,11 @@
 ---
 type: element
+title: Engage
+description: Engage is the element in which instruction opens with an activity or prompt that draws attention and establishes interest.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Engage
@@ -11,8 +14,8 @@ edited_by: Codex
 Engage is the element in which instruction opens with an activity or prompt that draws attention and establishes interest.
 
 ## Affordances
-- [[principles/engagement|Engagement]]
-- [[principles/activation|Activation]]
+- [Engagement](../principles/engagement.md)
+- [Activation](../principles/activation.md)
 
 ## Related Elements
-- [[elements/gain-attention|Gain Attention]]
+- [Gain Attention](gain-attention.md)

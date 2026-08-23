@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Videos: SEL Topics"
+description: "Using short video clips on SEL topics followed by discussions and/or related activities promotes relevance and meaningful connection of these topics to learners' background knowledge and personal lives."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Videos: SEL Topics
@@ -35,9 +39,9 @@ Using short video clips on SEL topics followed by discussions and/or related act
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
+- [Demonstration](../elements/demonstration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe the level of learner engagement in discussions and activities. Assess the depth of connections learners make between video content and their own lives.

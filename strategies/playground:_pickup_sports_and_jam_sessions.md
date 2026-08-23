@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Playground: Pickup Sports and Jam Sessions"
+description: Encouraging informal games and activities without emphasizing competition provides opportunities for play and creativity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Playground: Pickup Sports and Jam Sessions
@@ -35,9 +39,9 @@ Encouraging informal games and activities without emphasizing competition provid
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Learner participation and engagement. Social interaction and collaboration. Creativity and innovation.

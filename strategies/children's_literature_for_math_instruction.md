@@ -1,8 +1,11 @@
 ---
 type: strategy
+title: "Children's Literature for Math Instruction"
+description: "Children's literature for math instruction is a strategy in which stories, picture books, or narrative texts are used to introduce mathematical ideas, contexts, or discussion."
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Children's Literature for Math Instruction
@@ -28,8 +31,8 @@ Children's literature for math instruction is a strategy in which stories, pictu
 - Extend into representation, explanation, or problem solving.
 
 ## Related Elements
-- [[elements/real-world-math|Real-World Math]]
-- [[elements/contextualization|Contextualization]]
+- [Real-World Math](../elements/real-world-math.md)
+- [Contextualization](../elements/contextualization.md)
 
 ## Key Sources
 - Whitin, D. J., & Whitin, P. (2004). *New visions for linking literature and mathematics*. NCTM.

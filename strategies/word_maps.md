@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Word Maps
+description: A word map is a visual organizer that promotes vocabulary development.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Word Maps
@@ -35,10 +39,10 @@ A word map is a visual organizer that promotes vocabulary development. Most word
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy and completeness of the word map, ability to use the vocabulary word correctly in context.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Syllabication Instruction
+description: Teach children the six basic syllable types and how they affect spelling.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Syllabication Instruction
@@ -35,9 +39,9 @@ Teach children the six basic syllable types and how they affect spelling. For ex
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Assess accuracy in dividing words into syllables. Monitor progress in spelling and reading skills.

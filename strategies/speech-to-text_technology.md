@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Speech-to-Text Technology
+description: Speech-to-text technology converts spoken language into written text, benefiting individuals with dyslexia, dysgraphia, or physical disabilities by enabling them to express themselves in writing without the barriers of spelling,…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Speech-to-Text Technology
@@ -35,9 +39,9 @@ Speech-to-text technology converts spoken language into written text, benefiting
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Measure writing speed and fluency with and without speech recognition software. Evaluate the accuracy of transcriptions produced by the software. Gather feedback from users on their experience and perceived benefits. Track improvements in writing quality and confidence over time.

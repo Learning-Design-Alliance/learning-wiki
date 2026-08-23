@@ -1,8 +1,20 @@
 ---
 type: element
+title: Peer Review
+description: "Peer review is the element in which learners examine and respond to one another's work using shared criteria, prompts, or examples."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: topping-1998
+    resource: "https://doi.org/10.3102/00346543068003249"
+    title: "Topping, K. J. (1998). Peer assessment between students in colleges and universities. *Review of Educational Research, 68*(3), 249-276"
+    author: Topping, K. J
+  - id: huisman-2019
+    resource: "https://doi.org/10.1080/02602938.2018.1545896"
+    title: "Huisman, B., Saab, N., van den Broek, P., & van Driel, J. (2019). The impact of formative peer feedback on higher education students' academic writing: A meta-analysis. *Assessment & Evaluation in Higher Education, 44*(6), 863-880"
+    author: "Huisman, B., Saab, N., van den Broek, P., & van Driel, J"
 ---
 
 # Peer Review
@@ -29,18 +41,18 @@ Peer review is the element in which learners examine and respond to one another'
 - Improve drafts, strengthen criteria use, and develop feedback literacy.
 
 ### Affordances
-- [[principles/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/feedback-loops|Feedback Loops]]
+- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Feedback Loops](../principles/feedback-loops.md)
 
 ## Related Elements
-- [[elements/feedback|Feedback]]
-- [[elements/revision|Revision]]
-- [[elements/rubrics|Rubrics]]
+- [Feedback](feedback.md)
+- [Revision](revision.md)
+- [Rubrics](rubrics.md)
 
 ## Patterns That Use This Element
-- [[patterns/structured-peer-review|Structured Peer Review]]
-- [[patterns/formative-assessment|Formative Assessment]]
+- [Structured Peer Review](../patterns/structured-peer-review.md)
+- [Formative Assessment](../patterns/formative-assessment.md)
 
 ## Examples
 - Learners exchange drafts and leave rubric-based comments before revision.

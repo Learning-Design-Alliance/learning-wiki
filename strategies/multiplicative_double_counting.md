@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multiplicative Double Counting
+description: Multiplicative double counting involves tracking all three units (groups, unit rate, and total) to solve a multiplication problem.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multiplicative Double Counting
@@ -35,11 +39,11 @@ Multiplicative double counting involves tracking all three units (groups, unit r
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/application|Application]]
-- [[elements/simple-to-complex-sequencing|Simple-to-complex sequencing]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md)
 
 ## Assessment Evidence
 - Assess learners' ability to track all three units (groups, unit rate, and total) by stopping them during their counting sequence and asking about each unit. Check for improved performance in related math concepts (division, fractions, etc.).

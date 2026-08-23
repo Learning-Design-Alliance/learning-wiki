@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Applying Student-Centered Strategies to Support Learning Differences
+description: Educators use data-driven, student-centered plans to implement strategies that support individual learning differences, including both strengths and challenges.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Applying Student-Centered Strategies to Support Learning Differences
@@ -35,10 +39,10 @@ Educators use data-driven, student-centered plans to implement strategies that s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Student work samples showing improved performance after strategy implementation. Observations of student engagement and motivation. Data from formative and summative assessments demonstrating progress toward learning goals. Student self-reflections on their learning experiences.

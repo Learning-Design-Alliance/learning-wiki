@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicit Strategy Instruction
+description: Explicitly teaching strategies involves providing learners with specific tools and techniques to solve problems and improve their learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicit Strategy Instruction
@@ -35,10 +39,10 @@ Explicitly teaching strategies involves providing learners with specific tools a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learners' use of strategies, track their progress in applying them effectively, and gather feedback on their experiences with different strategies.

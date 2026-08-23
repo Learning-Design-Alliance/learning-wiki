@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Integrate Emotions into Daily Schedule and Routine
+description: Integrate the teaching of emotions into daily schedules and routines.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Integrate Emotions into Daily Schedule and Routine
@@ -35,9 +39,9 @@ Integrate the teaching of emotions into daily schedules and routines. When revie
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [State objectives](../elements/state-objectives.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track students' ability to anticipate emotions, use coping strategies, and manage behaviors

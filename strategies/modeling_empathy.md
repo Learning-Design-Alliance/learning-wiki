@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Modeling Empathy
+description: "Teachers' behaviors and actions create the culture in the classroom."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Modeling Empathy
@@ -35,8 +39,8 @@ Teachers' behaviors and actions create the culture in the classroom. Treat stude
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior, monitor classroom climate, gather student feedback on their sense of safety and respect.

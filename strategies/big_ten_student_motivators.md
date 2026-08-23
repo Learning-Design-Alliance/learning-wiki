@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Big Ten Student Motivators
+description: These strategies encourage playful learning, boost students’ innovative thinking and problem-solving skills, and at the same time engage students in reading, writing, researching, discussing, and analyzing materials in all subjects.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Big Ten Student Motivators
@@ -35,10 +39,10 @@ These strategies encourage playful learning, boost students’ innovative thinki
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Learner engagement and participation. Quality of collaborative projects. Problem-solving and critical-thinking skills.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Hot Seat
+description: One learner assumes the role of a book character, significant figure in history, or concept (such as a tornado, an animal, or the Titanic).
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Hot Seat
@@ -35,9 +39,9 @@ One learner assumes the role of a book character, significant figure in history,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
-- [[elements/peer-interaction|Peer Interaction]]
+- [Application](../elements/application.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
+- [Peer Interaction](../elements/peer-interaction.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the activity, review the quality of their responses to questions, collect feedback from learners about their experience.

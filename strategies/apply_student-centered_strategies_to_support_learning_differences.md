@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Apply Student-Centered Strategies to Support Learning Differences
+description: "This strategy involves using a data-driven, student-centered plan to implement specific instructional strategies that address a selected student's learning differences (including strengths and challenges)."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Apply Student-Centered Strategies to Support Learning Differences
@@ -35,9 +39,9 @@ This strategy involves using a data-driven, student-centered plan to implement s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|individual reflection]]
-- [[elements/practice|practice]]
-- [[elements/provide-feedback|provide feedback]]
+- [individual reflection](../elements/individual-reflection.md)
+- [practice](../elements/practice.md)
+- [provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Use pre- and post-assessments to measure student progress and compare results. Observe students' active engagement in learning tasks and note improvements in academic skills.

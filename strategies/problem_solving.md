@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Problem Solving
+description: Problem solving involves designing activities that require learners to come up with solutions - ways of dealing with issues or challenges that they can then use back on-the-job.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Problem Solving
@@ -35,12 +39,12 @@ Problem solving involves designing activities that require learners to come up w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/knowledge-building-discourse|Knowledge-Building Discourse]]
-- [[elements/inquiry-based-exploration|Inquiry-Based Exploration]]
-- [[elements/collaborative-problem-solving|Collaborative Problem-Solving]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
+- [Knowledge-Building Discourse](../elements/knowledge-building-discourse.md)
+- [Inquiry-Based Exploration](../elements/inquiry-based-exploration.md)
+- [Collaborative Problem-Solving](../elements/collaborative-problem-solving.md)
 
 ## Assessment Evidence
 - Assess the learner's solutions to the problems, provide feedback on learner solutions, and assess learner understanding of the problems.

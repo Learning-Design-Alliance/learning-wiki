@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-instructions
+description: Teachers model articulating how they solve a problem and prompt students to explain their own thinking.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-instructions
@@ -35,9 +39,9 @@ Teachers model articulating how they solve a problem and prompt students to expl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/articulation|Articulation]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Demonstration](../elements/demonstration.md)
+- [Articulation](../elements/articulation.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student explanations to identify strengths and areas for improvement in their understanding. Collect data on the frequency and quality of student self-explanations.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Calming Strategy Cards
+description: Calming strategy cards provide learners with reminders of emotional regulation strategies, such as squeezing a fidget or taking a mindfulness break, to use when feelings escalate or when they are losing control.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Calming Strategy Cards
@@ -35,9 +39,9 @@ Calming strategy cards provide learners with reminders of emotional regulation s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the frequency and effectiveness of learners using the cards to manage their emotions. Track the strategies that learners find most helpful.

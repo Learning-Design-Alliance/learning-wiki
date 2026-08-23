@@ -1,8 +1,16 @@
 ---
 type: theory
+title: Information Processing Theory
+description: Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: baddeley-1992
+    resource: "https://doi.org/10.1126/science.1736359"
+    title: "Baddeley, A. (1992). Working memory. *Science, 255*(5044), 556-559"
+    author: Baddeley, A
 ---
 
 # Information Processing Theory
@@ -31,19 +39,19 @@ This theory family is especially useful for instructional design because it high
 - Supporting later retrieval and application
 
 ## Claims
-- [[claims/chunking-reduces-working-memory-load]] [+S]
-- [[claims/worked-examples-example-problem-sequences]] [+M]
-- [[claims/part-task-practice-reduces-load-for-novices]] [+M]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 
 ## Related Theories
-- [[theories/cognitive-load-theory]] — CLT sharpens the working-memory constraint central to information-processing approaches
-- [[theories/self-regulated-learning]] — regulation depends partly on how learners manage attention, memory, and strategy use during processing
+- [Cognitive Load Theory](cognitive-load-theory.md) — CLT sharpens the working-memory constraint central to information-processing approaches
+- [Self-Regulated Learning](self-regulated-learning.md) — regulation depends partly on how learners manage attention, memory, and strategy use during processing
 
 ## Examples
-- [[principles/chunking|Chunking]]
-- [[principles/worked-examples|Worked Examples]]
-- [[principles/pre-reading-questioning|Pre-reading Questioning]]
-- [[principles/note-taking|Note-Taking]]
+- [Chunking](../principles/chunking.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Pre-reading Questioning](../principles/pre-reading-questioning.md)
+- [Note-Taking](../principles/note-taking.md)
 
 ## Key Sources
 - Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. Spence & J. Spence (Eds.), *The psychology of learning and motivation* (Vol. 2, pp. 89-195). Academic Press. [https://doi.org/10.1016/S0079-7421(08)60422-3](https://doi.org/10.1016/S0079-7421(08)60422-3)

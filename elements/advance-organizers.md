@@ -1,7 +1,11 @@
 ---
 type: element
+title: Advance Organizers
+description: Concept maps, outlines, or visual guides that help learners structure new information before instruction.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Advance Organizers
@@ -27,19 +31,19 @@ Concept maps, outlines, or visual guides that help learners structure new inform
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/cognitive-load-theory|Cognitive Load Theory]]
-- [[principles/dual-coding|Dual Coding]]
-- [[principles/metacognition|Metacognition]]
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
+- [Dual Coding](../principles/dual-coding.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [[elements/concept-mapping|Concept Mapping]]
-- [[elements/graphic-organizers|Graphic Organizers]]
-- [[elements/pre-reading-questioning|Pre-Reading Questioning]]
+- [Concept Mapping](concept-mapping.md)
+- [Graphic Organizers](graphic-organizers.md)
+- [Pre-Reading Questioning](pre-reading-questioning.md)
 
 ## Patterns That Use This Element
-- [[patterns/elaboration-theory|Elaboration Theory]]
-- [[patterns/cognitive-load-theory|Cognitive Load Theory]]
-- [[patterns/gagnés-9-events|Gagné’s 9 Events]]
+- [Elaboration Theory](../patterns/elaboration-theory.md)
+- [Cognitive Load Theory](../patterns/cognitive-load-theory.md)
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

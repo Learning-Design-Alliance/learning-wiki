@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Narrative Advance Organizers
+description: Narrative advance organizers involve storytelling at the beginning of a lesson to engage students and relate to important concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Narrative Advance Organizers
@@ -35,8 +39,8 @@ Narrative advance organizers involve storytelling at the beginning of a lesson t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
+- [Gain attention](../elements/gain-attention.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Student engagement and discussion, demonstrated understanding of the connection between the story and the lesson concepts.

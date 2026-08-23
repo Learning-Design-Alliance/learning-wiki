@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Familiar, Quiet, and Repetitive Tasks
+description: Using familiar, quiet, and repetitive fine motor and visual tasks can be a calming experience for many children.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Familiar, Quiet, and Repetitive Tasks
@@ -35,8 +39,8 @@ Using familiar, quiet, and repetitive fine motor and visual tasks can be a calmi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the child's behavior and emotional state before, during, and after engaging in the task. Monitor the child's ability to focus and remain calm.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Genre Study
+description: Genre study is an approach to teaching literature that involves exploring the characteristics and conventions of different literary genres.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Genre Study
@@ -35,10 +39,10 @@ Genre study is an approach to teaching literature that involves exploring the ch
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/application|Application]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Student participation in discussions, completion of book reviews and bookmarks, ability to identify genre characteristics in texts, quality of contributions to group charts

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Use current events and fictional characters to teach social awareness
+description: Utilize real-world events and fictional narratives to explore social dynamics, ethical dilemmas, and diverse perspectives.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Use current events and fictional characters to teach social awareness
@@ -35,9 +39,9 @@ Utilize real-world events and fictional narratives to explore social dynamics, e
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/assigned-readings|Assigned Readings]]
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Observe learner participation and contributions to discussions. Assess learner understanding of social dynamics through written assignments or presentations. Collect learner reflections on their learning and growth.

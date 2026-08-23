@@ -1,7 +1,11 @@
 ---
 type: element
+title: Argument Construction
+description: Learners develop structured arguments with supporting evidence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Argument Construction
@@ -27,17 +31,17 @@ Learners develop structured arguments with supporting evidence.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/constructivist-learning|Constructivist Learning]]
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
+- [Constructivist Learning](../principles/constructivist-learning.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [[elements/research|Research]]
-- [[elements/rebuttals|Rebuttals]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Research](research.md)
+- [Rebuttals](rebuttals.md)
+- [Peer Discussion](peer-discussion.md)
 
 ## Patterns That Use This Element
-- [[patterns/debate|Debate]]
-- [[patterns/structured-academic-controversy|Structured Academic Controversy]]
+- [Debate](../patterns/debate.md)
+- [Structured Academic Controversy](../patterns/structured-academic-controversy.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating Space for Student Reflection in PBL
+description: Creating space for student reflection involves integrating moments for students to pause and think about themselves, their ideas, and how they feel about the project.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating Space for Student Reflection in PBL
@@ -35,9 +39,9 @@ Creating space for student reflection involves integrating moments for students 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/journaling|Journaling]]
-- [[elements/self-monitoring|Self-monitoring]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Journaling](../elements/journaling.md)
+- [Self-monitoring](../elements/self-monitoring.md)
 
 ## Assessment Evidence
 - Increased student well-being, improved self-awareness, and more meaningful and reflective project outcomes.

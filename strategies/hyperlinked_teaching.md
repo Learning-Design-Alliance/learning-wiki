@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Hyperlinked Teaching
+description: Hyperlinked teaching provides students with direct avenues for further inquiry and exploration.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Hyperlinked Teaching
@@ -35,9 +39,9 @@ Hyperlinked teaching provides students with direct avenues for further inquiry a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Evaluate student projects, presentations, or reports for evidence of research, synthesis, and critical thinking. Assess learner engagement and motivation through observation and self-reflection.

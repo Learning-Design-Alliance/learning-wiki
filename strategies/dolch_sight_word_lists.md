@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Dolch Sight Word Lists
+description: The Dolch Sight word list includes the most common 220 words and 95 nouns encountered in children’s books.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Dolch Sight Word Lists
@@ -35,9 +39,9 @@ The Dolch Sight word list includes the most common 220 words and 95 nouns encoun
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/quizzes|Quizzes]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Quizzes](../elements/quizzes.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess fluency in reading Dolch words in context. Track progress in sight word recognition over time. Observe student engagement and confidence in reading tasks.

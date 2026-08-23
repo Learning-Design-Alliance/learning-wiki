@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Listen to the Voices of Students
+description: Providing students authorship and allowing them to share their stories empowers them, fostering agency and leadership.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Listen to the Voices of Students
@@ -35,8 +39,8 @@ Providing students authorship and allowing them to share their stories empowers 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Evaluate student contributions to class discussions and projects. Assess student leadership and agency in learning activities. Review student reflections on their learning experiences.

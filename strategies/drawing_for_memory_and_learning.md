@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Drawing for Memory and Learning
+description: Drawing is used as a learning and memory tool.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Drawing for Memory and Learning
@@ -35,11 +39,11 @@ Drawing is used as a learning and memory tool. Drawing forces individuals to pro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess memory and recall through tests or quizzes. Evaluate the depth of understanding reflected in the drawings. Compare recall rates between drawing and other methods like writing.

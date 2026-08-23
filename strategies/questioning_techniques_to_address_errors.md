@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Questioning Techniques to Address Errors
+description: Strategic questioning is used to guide students to recognize their errors and correct their thinking, emphasizing conceptual understanding over rote memorization.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Questioning Techniques to Address Errors
@@ -35,9 +39,9 @@ Strategic questioning is used to guide students to recognize their errors and co
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Changes in student thinking and reasoning, accuracy in correcting errors, ability to explain concepts in their own words, improved performance on subsequent assessments

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Achievable Micro-goals
+description: Setting achievable micro-goals encourages consistent, incremental progress, leading to a growth mindset and increased confidence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Achievable Micro-goals
@@ -35,9 +39,9 @@ Setting achievable micro-goals encourages consistent, incremental progress, lead
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [State objectives](../elements/state-objectives.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track learner progress towards micro-goals, monitor their confidence levels, and observe their persistence in the face of challenges. Compare performance between learners who are using micro-goals and those who are not.

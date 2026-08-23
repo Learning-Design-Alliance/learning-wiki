@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Activating Background Knowledge
+description: Activating background knowledge involves prompting learners to recall and connect prior experiences, information, and understandings before engaging with new content.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Activating Background Knowledge
@@ -35,9 +39,9 @@ Activating background knowledge involves prompting learners to recall and connec
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/analogies-and-prior-knowledge-activation|Analogies and prior knowledge activation]]
-- [[elements/activation|Activation]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Analogies and prior knowledge activation](../elements/analogies-and-prior-knowledge-activation.md)
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Observe the level of learner engagement in discussions, the depth of connections they make between new and existing knowledge, and their ability to apply prior knowledge to solve problems or answer questions.

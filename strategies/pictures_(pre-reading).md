@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pictures (Pre-Reading)
+description: The instructor selects three or four pictures related to the reading topic and provides them to small groups of learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pictures (Pre-Reading)
@@ -35,8 +39,8 @@ The instructor selects three or four pictures related to the reading topic and p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/demonstration|Demonstration]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe the connections learners make between the pictures and the reading topic. Collect feedback on how well the activity prepared learners for the reading.

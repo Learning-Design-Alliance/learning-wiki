@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Clarifying
+description: Clarifying involves identifying and resolving areas of uncertainty in a text or problem.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Clarifying
@@ -35,9 +39,9 @@ Clarifying involves identifying and resolving areas of uncertainty in a text or 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved comprehension, increased vocabulary knowledge, and better problem-solving accuracy.

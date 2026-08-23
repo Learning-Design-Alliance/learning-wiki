@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Focused-Attention Practices
+description: Focused-attention practice is a brain exercise for quieting the thousands of thoughts that distract and frustrate us each day.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Focused-Attention Practices
@@ -35,9 +39,9 @@ Focused-attention practice is a brain exercise for quieting the thousands of tho
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Gain attention](../elements/gain-attention.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track changes in focus, behavior, and self-reported stress levels. Observe engagement and participation during activities.

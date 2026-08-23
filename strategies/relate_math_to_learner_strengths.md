@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Relate Math to Learner Strengths
+description: Help learners understand how math gets used in the world in ways that relate to their personal strengths.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Relate Math to Learner Strengths
@@ -35,8 +39,8 @@ Help learners understand how math gets used in the world in ways that relate to 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/application|Application]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Monitor learners' engagement and motivation in math activities. Evaluate their ability to apply math concepts to real-world situations.

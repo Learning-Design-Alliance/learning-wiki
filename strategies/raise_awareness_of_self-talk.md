@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Raise Awareness of Self-Talk
+description: "Raise awareness by helping students understand the concept of self-talk: what it is, how it affects self-esteem and confidence."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Raise Awareness of Self-Talk
@@ -35,8 +39,8 @@ Raise awareness by helping students understand the concept of self-talk: what it
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Student journals or notebooks reflecting identified patterns in self-talk.

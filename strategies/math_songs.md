@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Math Songs
+description: Math songs are musical compositions designed to teach and reinforce math concepts and skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Math Songs
@@ -35,9 +39,9 @@ Math songs are musical compositions designed to teach and reinforce math concept
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners' ability to recall math facts and concepts after listening to and singing the songs. Assess their engagement and participation in singing and related activities. Use quizzes or tests to measure knowledge retention.

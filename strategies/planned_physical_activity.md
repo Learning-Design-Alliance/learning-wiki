@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Planned Physical Activity
+description: Planning for physical activity is essential for pre-teens and teenagers to ensure they meet daily requirements.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Planned Physical Activity
@@ -35,7 +39,7 @@ Planning for physical activity is essential for pre-teens and teenagers to ensur
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Tracking of physical activity levels, monitoring adherence to planned activities, self-reported well-being.

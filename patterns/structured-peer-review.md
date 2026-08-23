@@ -1,8 +1,20 @@
 ---
 type: pattern
+title: Structured Peer Review
+description: "Structured Peer Review is a pattern in which learners review one another's work using explicit criteria, provide feedback, and then use that feedback to revise."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: topping-1998
+    resource: "https://doi.org/10.3102/00346543068003249"
+    title: "Topping, K. J. (1998). Peer assessment between students in colleges and universities. *Review of Educational Research, 68*(3), 249-276"
+    author: Topping, K. J
+  - id: nicol-2014
+    resource: "https://doi.org/10.1080/02602938.2013.795518"
+    title: "Nicol, D., Thomson, A., & Breslin, C. (2014). Rethinking feedback practices in higher education: A peer review perspective. *Assessment & Evaluation in Higher Education, 39*(1), 102-122"
+    author: "Nicol, D., Thomson, A., & Breslin, C"
 author: McAndrew, Goodyear, and Dalziel
 grain_size: lesson
 ---
@@ -52,11 +64,11 @@ The pattern works best when the review process is designed carefully. Unstructur
 
 ### Claims
 #### Supporting
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -68,16 +80,16 @@ The pattern works best when the review process is designed carefully. Unstructur
 5. Reflect on what was learned from both reviewing and being reviewed.
 
 ### Elements Used
-- [[elements/feedback|Feedback]]
-- [[elements/assessment|Assessment]]
-- [[elements/reflection|Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Feedback](../elements/feedback.md)
+- [Assessment](../elements/assessment.md)
+- [Reflection](../elements/reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ### Affordances
-- [[principles/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/multiple-methods-of-assessment|Multiple Methods of Assessment]]
-- [[principles/process-based-writing|Process-Based Writing]]
+- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
+- [Process-Based Writing](../principles/process-based-writing.md)
 
 ### Personalization
 - Reviews can be anonymous or named depending on context and trust.
@@ -85,8 +97,8 @@ The pattern works best when the review process is designed carefully. Unstructur
 - Different artifact types can use different prompt sets while keeping the same overall review cycle.
 
 ## Related Patterns
-- [[patterns/collaborative-evaluation|Collaborative Evaluation]]
-- [[patterns/lda-reflection|LDA Reflection]]
+- [Collaborative Evaluation](collaborative-evaluation.md)
+- [LDA Reflection](lda-reflection.md)
 
 ## Examples
 - Graduate seminar proposal reviews using a shared rubric.

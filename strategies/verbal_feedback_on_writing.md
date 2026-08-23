@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Verbal Feedback on Writing
+description: Verbal feedback uses voice recording technology to provide balanced feedback and promote a growth mindset.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Verbal Feedback on Writing
@@ -35,7 +39,7 @@ Verbal feedback uses voice recording technology to provide balanced feedback and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improvement in student writing quality, increased student engagement with feedback, and positive changes in student attitudes towards writing and revision.

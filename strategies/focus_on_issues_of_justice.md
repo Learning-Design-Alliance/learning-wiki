@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Focus on Issues of Justice
+description: Authentic projects that focus on issues of justice engage students by having them work on something that matters, impacting their lives, their community, and the lives of those they care about.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Focus on Issues of Justice
@@ -35,15 +39,15 @@ Authentic projects that focus on issues of justice engage students by having the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/application-of-knowledge|Application of Knowledge]]
-- [[elements/reflection|Reflection]]
-- [[elements/decision-making|Decision-Making]]
-- [[elements/research|Research]]
-- [[elements/position-development|Position Development]]
-- [[elements/argumentation|Argumentation]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
+- [Reflection](../elements/reflection.md)
+- [Decision-Making](../elements/decision-making.md)
+- [Research](../elements/research.md)
+- [Position Development](../elements/position-development.md)
+- [Argumentation](../elements/argumentation.md)
 
 ## Assessment Evidence
 - Depth of research and understanding of social justice issues, effectiveness of proposed solutions, engagement and participation in project activities, demonstration of empathy and compassion

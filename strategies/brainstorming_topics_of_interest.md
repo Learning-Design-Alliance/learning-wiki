@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Brainstorming Topics of Interest
+description: Brainstorming an ongoing class list of stuff learners want to know about and are interested in—a phenomenon, an event, or a law, for example.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Brainstorming Topics of Interest
@@ -35,8 +39,8 @@ Brainstorming an ongoing class list of stuff learners want to know about and are
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Gain attention](../elements/gain-attention.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Assessments can include topic proposals, research reports, and presentations. Learner engagement and motivation can be measured through observation and self-report surveys.

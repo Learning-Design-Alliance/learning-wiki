@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Ask the Right Questions
+description: Before you hit “share,” what questions should you ask?
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Ask the Right Questions
@@ -35,9 +39,9 @@ Before you hit “share,” what questions should you ask? You might share On th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/resource-evaluation|Resource Evaluation]]
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/consensus-discussion|Consensus Discussion]]
+- [Resource Evaluation](../elements/resource-evaluation.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Consensus Discussion](../elements/consensus-discussion.md)
 
 ## Assessment Evidence
 - Observe learners' ability to apply the questions to evaluate online information and identify reliable sources.

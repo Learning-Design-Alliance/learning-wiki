@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: SEL Discussions on Ethical Dilemmas
+description: This strategy involves using age-appropriate, real-life ethical dilemmas as discussion starters to help students practice responsible decision-making.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # SEL Discussions on Ethical Dilemmas
@@ -35,9 +39,9 @@ This strategy involves using age-appropriate, real-life ethical dilemmas as disc
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/decision-making|Decision-Making]]
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Decision-Making](../elements/decision-making.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, analyze their reasoning and problem-solving approaches, and assess their ability to consider multiple perspectives and ethical principles.

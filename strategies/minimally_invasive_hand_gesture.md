@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Minimally Invasive Hand Gesture
+description: Using a minimally invasive hand gesture to secure student attention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Minimally Invasive Hand Gesture
@@ -35,8 +39,8 @@ Using a minimally invasive hand gesture to secure student attention. This techni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/practice|Practice]]
+- [Gain attention](../elements/gain-attention.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor how quickly and effectively students respond to the hand gesture. Observe the reduction in classroom disruptions.

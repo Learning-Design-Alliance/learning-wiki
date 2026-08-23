@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Quick Reflection Prompts
+description: This strategy involves using short, focused prompts at the end of a class period or learning experience to encourage learners to articulate their ideas and deepen their understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Quick Reflection Prompts
@@ -35,8 +39,8 @@ This strategy involves using short, focused prompts at the end of a class period
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Quality and depth of learner responses; participation in sharing activities; evidence of deeper understanding.

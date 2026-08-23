@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicit Instruction in Self-Advocacy and Self-Determination
+description: Providing explicit instruction for students to develop the skills associated with self-advocacy and self-determination involves teaching and encouraging them to empower themselves by understanding their needs and rights, communicating…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicit Instruction in Self-Advocacy and Self-Determination
@@ -35,10 +39,10 @@ Providing explicit instruction for students to develop the skills associated wit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased self-advocacy skills, improved self-determination, positive educational and life outcomes

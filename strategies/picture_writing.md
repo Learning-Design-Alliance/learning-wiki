@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Picture Writing
+description: Picture writing unlocks the imagination, builds confidence, and develops foundational early literacy skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Picture Writing
@@ -35,10 +39,10 @@ Picture writing unlocks the imagination, builds confidence, and develops foundat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Assess children's ability to match their words to their pictures. Evaluate the development of their writing skills over time. Observe their engagement and enthusiasm during picture writing activities.

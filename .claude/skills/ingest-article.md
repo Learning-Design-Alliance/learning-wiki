@@ -23,7 +23,7 @@ Read `CLAUDE.md` in full before doing anything else. Pay attention to:
 - Evidence tags ([+S], [+M], [+W], [~], [-], [X]) and when to use each
 - Claim page structure: frontmatter, subclaims, evidence entries, discussion
 - Evidence quality tiers (q1–q4) and impact magnitude (i0–i3)
-- Wikilink conventions (`[[folder/slug]]`, `[[folder/slug|Display Name]]`)
+- Cross-link conventions (`[Display Name](slug.md)` same folder, `[Display Name](../folder/slug.md)` a different folder)
 - Status values (draft / review / stable)
 
 ---
@@ -94,7 +94,7 @@ Follow the claim template from CLAUDE.md exactly:
 - `evidence_strength:` — strong / moderate / weak / mixed
 - Write subclaims: one sentence each, prefixed with `q? i?`, linked to the evidence entry with `[→ Author Year](#author-year)`
 - Write the evidence entry: full APA citation with DOI link, quality/impact/n codes with plain-language explanations, then 2–4 sentence description in plain language
-- Link any instructional elements mentioned to wiki pages using `[[elements/slug|display name]]`
+- Link any instructional elements mentioned to wiki pages using `[display name](../elements/slug.md)`
 
 ---
 
@@ -106,12 +106,12 @@ For each principle, element, pattern, strategy, or theory the article contribute
 - Add the new claim link to the `### Claims` section with the correct evidence tag
 - Add the source to `## Key Sources`
 - Do not delete or overwrite existing content — add to it
-- Update `last_edited` in frontmatter to today's date
+- Update the page's `generated` field (or run `python3 scripts/log_revision.py <page> --by <actor> --type content --desc "..."`, which does this and appends to `log.md` in one step)
 
 **If creating a new page:**
 - Use the template from CLAUDE.md for that page type
 - Set `status: draft`
-- Set `last_edited` to today's date
+- Set `generated: { by: <actor>, at: <today> }`
 - Fill in only what the article actually supports — leave optional sections empty rather than inventing content
 - Link the relevant claim(s) in the Claims section with evidence tags
 
@@ -121,7 +121,7 @@ For each principle, element, pattern, strategy, or theory the article contribute
 
 For each new page:
 1. Identify 2–5 closely related pages already in the wiki (search index.md and grep).
-2. Add wikilinks in the `## Related Principles` / `## Related Elements` / `## Related Claims` section of the new page.
+2. Add markdown links (`[Title](../folder/slug.md)`) in the `## Related Principles` / `## Related Elements` / `## Related Claims` section of the new page.
 3. Add a reciprocal link on those existing pages pointing back to the new page (append to the relevant section).
 
 ---
@@ -129,9 +129,7 @@ For each new page:
 ## Step 9 — Update index.md
 
 For each new page created:
-- Add an entry under the correct type heading in `index.md`
-- Update the count in parentheses for that type
-- Format: `- [[folder/slug|Page Name]]`
+- Run `python3 scripts/build_indexes.py` to regenerate `index.md` and every per-folder index from disk state
 
 ---
 
@@ -140,8 +138,10 @@ For each new page created:
 Add one entry per page created or updated:
 
 ```
-## [YYYY-MM-DD] ingest | [page name] | [source title, DOI]
+* **Ingest**: [page name](/folder/page.md) — [source title, DOI]
 ```
+
+under today's `## YYYY-MM-DD` heading (or run `python3 scripts/log_revision.py <page> --by <actor> --type ingest --desc "[source title, DOI]"`, which appends this and updates the page's `generated` field together).
 
 ---
 

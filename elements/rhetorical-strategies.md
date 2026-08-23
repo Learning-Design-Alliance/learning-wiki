@@ -1,8 +1,11 @@
 ---
 type: element
+title: Rhetorical Strategies
+description: Rhetorical strategies are deliberate moves learners use to persuade, frame, emphasize, appeal to an audience, or strengthen the force of an argument.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Rhetorical Strategies
@@ -23,17 +26,17 @@ Rhetorical strategies are deliberate moves learners use to persuade, frame, emph
 - Improve persuasive communication and audience-aware argumentation.
 
 ### Affordances
-- [[principles/rhetorical-skill-development|Rhetorical Skill Development]]
-- [[principles/perspective-taking|Perspective-Taking]]
+- [Rhetorical Skill Development](../principles/rhetorical-skill-development.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
 
 ## Related Elements
-- [[elements/persuasion|Persuasion]]
-- [[elements/public-speaking|Public Speaking]]
-- [[elements/argumentation|Argumentation]]
+- [Persuasion](persuasion.md)
+- [Public Speaking](public-speaking.md)
+- [Argumentation](argumentation.md)
 
 ## Patterns That Use This Element
-- [[patterns/debate|Debate]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Debate](../patterns/debate.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 - Learners revise the framing, evidence emphasis, or appeals in an argument for a specific audience.

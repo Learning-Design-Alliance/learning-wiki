@@ -1,8 +1,16 @@
 ---
 type: principle
+title: Multimedia Learning
+description: Multimedia learning is the principle of combining words, visuals, and other media in ways that support understanding without overloading attention.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: fiorella-2015
+    resource: "https://doi.org/10.1017/CBO9781107707085"
+    title: "Fiorella, L., & Mayer, R. E. (2015). *Learning as a generative activity*. Cambridge University Press"
+    author: "Fiorella, L., & Mayer, R. E"
 ---
 
 # Multimedia Learning
@@ -12,7 +20,7 @@ Multimedia learning is the principle of combining words, visuals, and other medi
 
 ## Implications
 
-Multimedia learning is strongest when multiple representations clarify a concept, process, or relationship better than a single mode alone. The principle is not “add more media.” It is coordinate modes so that each contributes something instructionally useful. Well-designed multimedia can make structure more visible and reduce interpretive burden [[claims/chunking-reduces-working-memory-load]] [~S] [[claims/worked-examples-reduce-novice-search]] [~M]; poorly designed multimedia can split attention, duplicate information unnecessarily, and increase extraneous cognitive load. Multimedia environments are especially strong when learners are prompted to explain how the representations relate instead of only viewing them side by side [[claims/self-explanation-improves-conceptual-understanding]] [+S].
+Multimedia learning is strongest when multiple representations clarify a concept, process, or relationship better than a single mode alone. The principle is not “add more media.” It is coordinate modes so that each contributes something instructionally useful. Well-designed multimedia can make structure more visible and reduce interpretive burden [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M]; poorly designed multimedia can split attention, duplicate information unnecessarily, and increase extraneous cognitive load. Multimedia environments are especially strong when learners are prompted to explain how the representations relate instead of only viewing them side by side [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -35,34 +43,34 @@ Multimedia learning is strongest when multiple representations clarify a concept
 
 ### Theory
 #### Supporting
-- [[theories/dual-coding-theory|Dual Coding Theory]] — coordinated verbal and visual representations can improve encoding and recall when they reinforce one another
-- [[principles/cognitive-load-theory|Cognitive Load Theory]] — good multimedia design reduces extraneous load and supports schema formation
+- [Dual Coding Theory](../theories/dual-coding-theory.md) — coordinated verbal and visual representations can improve encoding and recall when they reinforce one another
+- [Cognitive Load Theory](cognitive-load-theory.md) — good multimedia design reduces extraneous load and supports schema formation
 
 #### Contradicting / Qualifying
-- [[theories/information-processing-theory|Information Processing Theory]] — multiple channels still compete for limited attention; multimedia succeeds only when design helps learners select and organize relevant information
+- [Information Processing Theory](../theories/information-processing-theory.md) — multiple channels still compete for limited attention; multimedia succeeds only when design helps learners select and organize relevant information
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [~S] — multimedia can help when it organizes information into more meaningful units, but only if the design is coherent
-- [[claims/worked-examples-reduce-novice-search]] [~M] — explicit visual-verbal models can reduce unproductive search for novices when the representation clarifies task structure
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — multimedia environments become stronger when learners are prompted to explain the relationship between representations
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — multimedia can help when it organizes information into more meaningful units, but only if the design is coherent
+- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — explicit visual-verbal models can reduce unproductive search for novices when the representation clarifies task structure
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — multimedia environments become stronger when learners are prompted to explain the relationship between representations
 
 ## Related Principles
-- [[principles/multimodal-instruction|Multimodal Instruction]] — multimedia learning is a more specific representational principle within the broader multimodal design space
-- [[principles/dual-coding|Dual Coding]] — provides the clearest explanatory account for why coordinated representations can improve learning
-- [[principles/digital-learning|Digital Learning]] — many digital environments operationalize multimedia principles directly
+- [Multimodal Instruction](multimodal-instruction.md) — multimedia learning is a more specific representational principle within the broader multimodal design space
+- [Dual Coding](dual-coding.md) — provides the clearest explanatory account for why coordinated representations can improve learning
+- [Digital Learning](digital-learning.md) — many digital environments operationalize multimedia principles directly
 
 ## Related Patterns
-- [[patterns/multimedia-learning|Multimedia Learning]]
+- [Multimedia Learning](../patterns/multimedia-learning.md)
 
 ## Examples
 
 ### Illustrative
 
-**[[elements/multimedia-learning|Multimedia Learning]]** — A lesson combines a labeled diagram, short narration, and a brief practice prompt so learners can connect process language to a visible structure.
+**[Multimedia Learning](../elements/multimedia-learning.md)** — A lesson combines a labeled diagram, short narration, and a brief practice prompt so learners can connect process language to a visible structure.
 
-**[[patterns/multimedia-learning|Multimedia Learning]]** — A reusable design pattern in which text, visuals, and interaction are coordinated intentionally rather than layered arbitrarily.
+**[Multimedia Learning](../patterns/multimedia-learning.md)** — A reusable design pattern in which text, visuals, and interaction are coordinated intentionally rather than layered arbitrarily.
 
-**[[patterns/flipped-learning|Flipped Learning]]** — Pre-class micro-lessons often rely on multimedia principles: concise visuals, narrated explanation, and signaling that reduce learner confusion before live practice.
+**[Flipped Learning](../patterns/flipped-learning.md)** — Pre-class micro-lessons often rely on multimedia principles: concise visuals, narrated explanation, and signaling that reduce learner confusion before live practice.
 
 ## Key Sources
 - Mayer, R. E. (2021). *Multimedia learning* (3rd ed.). Cambridge University Press.

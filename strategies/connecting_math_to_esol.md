@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connecting Math to ESOL
+description: This strategy brings a little bit of math could make for some interesting discussions in English for Speakers of Other Languages (ESOL) contexts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connecting Math to ESOL
@@ -35,9 +39,9 @@ This strategy brings a little bit of math could make for some interesting discus
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/application|Application]]
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Track learner progress on language and math skills through observation, participation, and assessment tasks. Evaluate the quality of their final product, and evaluate their ability to apply knowledge and skills to real-world problems. Measure gains in content knowledge, self-confidence, collaboration, and engagement through pre- and post-assessments.

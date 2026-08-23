@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Letting students know what order they will be called on
+description: Informing students of the order in which they will be called upon to respond can help reduce challenges related to inhibition.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Letting students know what order they will be called on
@@ -35,7 +39,7 @@ Informing students of the order in which they will be called upon to respond can
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior (e.g., reduced impulsivity, increased participation). Collect feedback from students on their comfort level and engagement.

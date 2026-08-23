@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: One-on-One Conference
+description: One-on-one conferences involve providing individualized feedback to a learner in a private setting.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # One-on-One Conference
@@ -35,8 +39,8 @@ One-on-one conferences involve providing individualized feedback to a learner in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe changes in learner performance and attitude. Track learner progress. Analyze the effectiveness of the conference.

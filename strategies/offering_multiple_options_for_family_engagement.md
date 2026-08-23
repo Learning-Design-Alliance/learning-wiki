@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Offering Multiple Options for Family Engagement
+description: Providing a variety of options will improve overall participation, particularly for families with significant barriers to engagement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Offering Multiple Options for Family Engagement
@@ -35,10 +39,10 @@ Providing a variety of options will improve overall participation, particularly 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Track family participation rates, evaluate the effectiveness of different engagement options, and monitor family-school partnerships.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Direct Instruction: Web-based Reading Strategies"
+description: Research shows that, along with traditional reading comprehension strategies, students use unique strategies to read the non-linear, hyperlinked structure of online texts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Direct Instruction: Web-based Reading Strategies
@@ -35,7 +39,7 @@ Research shows that, along with traditional reading comprehension strategies, st
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Reading comprehension, navigation skills, strategy use.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Process for Constructive Decision-Making
+description: Brainstorm with students a process for constructive decision-making and display it in the classroom as a visual reminder of how to make good choices.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Process for Constructive Decision-Making
@@ -35,9 +39,9 @@ Brainstorm with students a process for constructive decision-making and display 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/cognitive-conflict|Cognitive Conflict]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Improved student decision-making skills, increased student problem-solving abilities, and greater ethical responsibility.

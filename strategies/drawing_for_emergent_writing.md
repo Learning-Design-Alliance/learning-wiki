@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Drawing for Emergent Writing
+description: Drawing activities support emergent writing by allowing unstructured drawing time and using drawings in literacy activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Drawing for Emergent Writing
@@ -35,11 +39,11 @@ Drawing activities support emergent writing by allowing unstructured drawing tim
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe students' drawings and writing samples for increasing complexity, detail, and coherence. Assess students' ability to verbally connect their drawings to their writing and ideas.

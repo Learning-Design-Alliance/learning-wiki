@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Storybook Emotion Analysis
+description: This strategy involves using storybooks to explore and discuss the emotions of characters.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Storybook Emotion Analysis
@@ -35,9 +39,9 @@ This strategy involves using storybooks to explore and discuss the emotions of c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe learners' ability to identify and discuss emotions accurately; track participation and engagement in discussions; monitor ability to connect emotions to narrative events

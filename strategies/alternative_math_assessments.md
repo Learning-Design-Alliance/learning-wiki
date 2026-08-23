@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Alternative Math Assessments
+description: "Alternative assessments to timed tests in math focus on accurately measuring a learner's fact fluency through a variety of methods that mitigate the concerns and limitations of traditional timed tests."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Alternative Math Assessments
@@ -35,8 +39,8 @@ Alternative assessments to timed tests in math focus on accurately measuring a l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Compare performance across different assessment types, observe learner engagement and comfort levels, analyze the variety and depth of responses

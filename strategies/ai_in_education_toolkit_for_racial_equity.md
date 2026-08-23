@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: AI in Education Toolkit for Racial Equity
+description: Utilizing an AI in Education Toolkit for Racial Equity involves taking a more in-depth look into the data used to build algorithms and the way products are used by and for Black and Brown students in schools.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # AI in Education Toolkit for Racial Equity
@@ -35,9 +39,9 @@ Utilizing an AI in Education Toolkit for Racial Equity involves taking a more in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/just-in-time-information|Just-in-Time Information]]
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Just-in-Time Information](../elements/just-in-time-information.md)
 
 ## Assessment Evidence
 - Track the implementation of the toolkit's recommended actions, measure changes in product outcomes for Black and Brown students, and gather feedback from students and teachers

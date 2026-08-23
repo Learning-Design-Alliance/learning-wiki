@@ -1,7 +1,11 @@
 ---
 type: element
+title: Knowledge-Building Discourse
+description: Learners engage in structured discussions to deepen understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Knowledge-Building Discourse
@@ -27,17 +31,17 @@ Learners engage in structured discussions to deepen understanding.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Social Learning](../principles/social-learning.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [[elements/socratic-seminar|Socratic Seminar]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-inquiry|Collaborative Inquiry]]
+- [Socratic Seminar](socratic-seminar.md)
+- [Peer Discussion](peer-discussion.md)
+- [Collaborative Inquiry](collaborative-inquiry.md)
 
 ## Patterns That Use This Element
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
-- [[patterns/socratic-seminar|Socratic Seminar]]
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

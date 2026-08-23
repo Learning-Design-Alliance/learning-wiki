@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: How Spelling Supports Reading
+description: Instruction on the relationship between spelling and reading.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # How Spelling Supports Reading
@@ -35,7 +39,7 @@ Instruction on the relationship between spelling and reading. Research shows tha
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Assessments include spelling tests, writing samples, and reading comprehension measures to show a correlation in performance.

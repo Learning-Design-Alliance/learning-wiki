@@ -1,8 +1,20 @@
 ---
 type: principle
+title: Audiobooks
+description: Audiobooks provide spoken access to written texts, allowing learners to listen to fluent reading while focusing attention on meaning rather than decoding every word independently.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: milani-2010
+    resource: "https://doi.org/10.1002/dys.419"
+    title: "Milani, A., Lorusso, M. L., & Molteni, M. (2010). The effects of audiobooks on the psychosocial adjustment of pre-adolescents and adolescents with dyslexia. *Dyslexia, 16*(1), 87-97"
+    author: "Milani, A., Lorusso, M. L., & Molteni, M"
+  - id: wood-2018
+    resource: "https://doi.org/10.1177/0022219416688170"
+    title: "Wood, S. G., Moxley, J. H., Tighe, E. L., & Wagner, R. K. (2018). Does use of text-to-speech and related read-aloud tools improve reading comprehension for students with reading disabilities? A meta-analysis. *Journal of Learning Disabilities, 51*(1), 73-84"
+    author: "Wood, S. G., Moxley, J. H., Tighe, E. L., & Wagner, R. K"
 ---
 
 # Audiobooks
@@ -11,7 +23,7 @@ edited_by: Codex
 Audiobooks provide spoken access to written texts, allowing learners to listen to fluent reading while focusing attention on meaning rather than decoding every word independently. They are especially useful when the goal is comprehension, vocabulary exposure, access to complex content, or sustained engagement with texts that would otherwise be inaccessible or exhausting in print alone.
 
 ## Implications
-Audiobooks are most powerful when decoding demands would otherwise block access to meaning. By shifting some of the processing burden from word recognition to listening, they can help learners engage with richer ideas, vocabulary, and discussion-ready content that print alone might make unreachable [[claims/chunking-reduces-working-memory-load]] [~S]. But the instructional value depends on what happens around the listening: pause-and-summarize prompts, print follow-along, discussion, or note-taking keep audio from becoming passive exposure and make comprehension more generative [[claims/self-explanation-improves-conceptual-understanding]] [+S]. If independent print reading is also a goal, audio support should eventually be reduced or strategically paired with print so responsibility transfers rather than remaining permanently outsourced [[claims/fading-support-promotes-transfer-of-responsibility]] [~S].
+Audiobooks are most powerful when decoding demands would otherwise block access to meaning. By shifting some of the processing burden from word recognition to listening, they can help learners engage with richer ideas, vocabulary, and discussion-ready content that print alone might make unreachable [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]. But the instructional value depends on what happens around the listening: pause-and-summarize prompts, print follow-along, discussion, or note-taking keep audio from becoming passive exposure and make comprehension more generative [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. If independent print reading is also a goal, audio support should eventually be reduced or strategically paired with print so responsibility transfers rather than remaining permanently outsourced [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S].
 
 ### Context
 #### Requirements
@@ -40,32 +52,32 @@ Audiobooks are most powerful when decoding demands would otherwise block access 
 
 ### Theory
 #### Supporting
-- [[theories/cognitive-load-theory|Cognitive Load Theory]] supports audio access when decoding demands would otherwise consume working-memory resources needed for comprehension
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) supports audio access when decoding demands would otherwise consume working-memory resources needed for comprehension
 - Dual-coding and multimedia perspectives support pairing spoken language with visible text or highlights to strengthen mapping between print, sound, and meaning
 - Universal-design and access-oriented reasoning supports offering equivalent routes into the same content for learners with different barriers
 
 #### Contradicting / Qualifying
 - Audiobooks are strongest for access and comprehension; they are not a complete replacement for direct reading instruction when decoding itself is the target
-- Audio support should be faded or strategically combined with print when the long-term goal is independent reading [[claims/fading-support-promotes-transfer-of-responsibility]] [~S]
-- Learners understand more when listening is paired with prompts, notes, or explanation rather than treated as background exposure [[claims/self-explanation-improves-conceptual-understanding]] [+S]
+- Audio support should be faded or strategically combined with print when the long-term goal is independent reading [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S]
+- Learners understand more when listening is paired with prompts, notes, or explanation rather than treated as background exposure [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [~S] — audiobooks can reduce the processing burden of print decoding, especially when paired with visible chunking or text highlighting
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — comprehension gains are stronger when learners pause to summarize, annotate, or explain what they heard
-- [[claims/contingent-scaffolding-improves-learning]] [+M] — guided read-alouds and audio-supported reading work best when instructors respond to confusion with prompts, clarifications, and replay
-- [[claims/fading-support-promotes-transfer-of-responsibility]] [~S] — if independent print reading is the goal, audio support should be reduced strategically over time rather than remain the only access route
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — audiobooks can reduce the processing burden of print decoding, especially when paired with visible chunking or text highlighting
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — comprehension gains are stronger when learners pause to summarize, annotate, or explain what they heard
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — guided read-alouds and audio-supported reading work best when instructors respond to confusion with prompts, clarifications, and replay
+- [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — if independent print reading is the goal, audio support should be reduced strategically over time rather than remain the only access route
 
 ## Related Principles
-- [[principles/text-to-speech|Text-to-speech]] — one implementation path for providing audio access to digital text
-- [[principles/multimodal-instruction|Multimodal Instruction]] — audiobooks are strongest when combined with text, visuals, or guided discussion
-- [[principles/accessible-vocabulary-syntax|Accessible Vocabulary & Syntax]] — hearing fluent phrasing can make unfamiliar language more accessible
-- [[principles/note-taking|Note-taking]] — listening notes and pause summaries prevent passive consumption
+- [Text-to-speech](text-to-speech.md) — one implementation path for providing audio access to digital text
+- [Multimodal Instruction](multimodal-instruction.md) — audiobooks are strongest when combined with text, visuals, or guided discussion
+- [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — hearing fluent phrasing can make unfamiliar language more accessible
+- [Note-taking](note-taking.md) — listening notes and pause summaries prevent passive consumption
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [[strategies/read_aloud_with_highlighting|Read Aloud with Highlighting]] — pairs audio with synchronized visual attention cues
-- [[strategies/read-alouds|Read-Alouds]] — an instructor-mediated version that adds pausing, questioning, and discussion
-- Audiobook plus print follow-along during [[elements/assigned-readings|Assigned Readings]] for learners who need access to complex course texts
+- [Read Aloud with Highlighting](../strategies/read_aloud_with_highlighting.md) — pairs audio with synchronized visual attention cues
+- [Read-Alouds](../strategies/read-alouds.md) — an instructor-mediated version that adds pausing, questioning, and discussion
+- Audiobook plus print follow-along during [Assigned Readings](../elements/assigned-readings.md) for learners who need access to complex course texts
 - Speed-adjustable audiobook listening with pause-and-summarize prompts before seminar or writing tasks
 
 ## Key Sources

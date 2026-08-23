@@ -1,7 +1,11 @@
 ---
 type: element
+title: Coaching
+description: Instructors provide individualized support and guidance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Coaching
@@ -27,17 +31,17 @@ Instructors provide individualized support and guidance.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/scaffolding|Scaffolding]]
-- [[principles/cognitive-load-management|Cognitive Load Management]]
+- [Scaffolding](../principles/scaffolding.md)
+- [Cognitive Load Management](../principles/cognitive-load-management.md)
 
 ## Related Elements
-- [[elements/scaffolding|Scaffolding]]
-- [[elements/feedback|Feedback]]
-- [[elements/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Scaffolding](scaffolding.md)
+- [Feedback](feedback.md)
+- [Cognitive Apprenticeship](cognitive-apprenticeship.md)
 
 ## Patterns That Use This Element
-- [[patterns/cognitive-apprenticeship|Cognitive Apprenticeship]]
-- [[patterns/guided-discovery|Guided Discovery]]
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
+- [Guided Discovery](../patterns/guided-discovery.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

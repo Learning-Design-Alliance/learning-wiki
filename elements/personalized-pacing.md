@@ -1,8 +1,11 @@
 ---
 type: element
+title: Personalized Pacing
+description: Personalized pacing is the element in which learners move through content or practice at different rates based on need and progress.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Personalized Pacing
@@ -11,9 +14,9 @@ edited_by: Codex
 Personalized pacing is the element in which learners move through content or practice at different rates based on need and progress.
 
 ## Affordances
-- [[principles/learner-choice|Learner Choice]]
-- [[principles/mastery-learning|Mastery Learning]]
+- [Learner Choice](../principles/learner-choice.md)
+- [Mastery Learning](../principles/mastery-learning.md)
 
 ## Related Elements
-- [[elements/adaptive-learning|Adaptive Learning]]
-- [[elements/mastery-learning|Mastery Learning]]
+- [Adaptive Learning](adaptive-learning.md)
+- [Mastery Learning](mastery-learning.md)

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reflection with Others
+description: This strategy involves teachers reflecting on their teaching practice by engaging in peer collaboration and seeking feedback from colleagues who teach similar math concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflection with Others
@@ -35,9 +39,9 @@ This strategy involves teachers reflecting on their teaching practice by engagin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved teaching practice, identification of areas for improvement, and incorporation of best practices.

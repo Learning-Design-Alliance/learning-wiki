@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Guided Discovery with Word Sorting
+description: Use guided discovery with word sorting and teacher questioning to help students understand spellings that depend on the position of a sound in a word or established conventions (like –ve).
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Guided Discovery with Word Sorting
@@ -35,9 +39,9 @@ Use guided discovery with word sorting and teacher questioning to help students 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess accuracy in sorting words according to spelling patterns. Monitor progress in spelling skills.

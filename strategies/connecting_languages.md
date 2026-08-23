@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connecting Languages
+description: Encourage students to see connections between their languages to better understand how languages are structured and organized.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connecting Languages
@@ -35,8 +39,8 @@ Encourage students to see connections between their languages to better understa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe students' ability to make connections between languages and their understanding of language structures.

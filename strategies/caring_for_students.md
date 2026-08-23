@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Caring for Students
+description: Instructors can use equity-focused, inclusive teaching strategies that put student care into practice by acknowledging student challenges while identifying student assets.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Caring for Students
@@ -35,9 +39,9 @@ Instructors can use equity-focused, inclusive teaching strategies that put stude
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/pre-class-videolecture|Pre-Class Video/Lecture]]
-- [[elements/in-class-activities|In-Class Activities]]
-- [[elements/formative-assessment|Formative Assessment]]
+- [Pre-Class Video/Lecture](../elements/pre-class-videolecture.md)
+- [In-Class Activities](../elements/in-class-activities.md)
+- [Formative Assessment](../elements/formative-assessment.md)
 
 ## Assessment Evidence
 - Students show up more to class and instructors feel that they are better supporting learners in the class.

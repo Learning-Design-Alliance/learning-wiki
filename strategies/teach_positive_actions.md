@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teach Positive Actions
+description: Education on positive actions for a healthy body (nutrition, exercise, and sleep), intellect (thinking, decision-making, problem-solving), self-management (managing time, energy, emotions), getting along with others (treating others…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teach Positive Actions
@@ -35,8 +39,8 @@ Education on positive actions for a healthy body (nutrition, exercise, and sleep
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student behaviors, gather student feedback through surveys or discussions, track student progress toward goals.

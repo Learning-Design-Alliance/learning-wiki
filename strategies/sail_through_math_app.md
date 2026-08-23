@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Sail through Math App
+description: A fun math fluency iOS app that uses storytelling to help young learners develop math skills over time.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Sail through Math App
@@ -35,9 +39,9 @@ A fun math fluency iOS app that uses storytelling to help young learners develop
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Measure fluency in math facts and success in completing levels.

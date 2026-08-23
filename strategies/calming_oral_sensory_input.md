@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Calming Oral Sensory Input
+description: Employing oral sensory input as a calming strategy involves engaging the mouth to provide sensory experiences that promote self-regulation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Calming Oral Sensory Input
@@ -35,8 +39,8 @@ Employing oral sensory input as a calming strategy involves engaging the mouth t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the child's behavior and emotional state before, during, and after oral sensory input. Monitor the child's self-regulation and ability to manage sensory input.

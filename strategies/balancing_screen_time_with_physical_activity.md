@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Balancing Screen Time with Physical Activity
+description: Promote a balance between screen time and physical activity by encouraging children to use screens for active purposes, such as making nature documentaries, videoing sports skills, or playing video dance games.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Balancing Screen Time with Physical Activity
@@ -35,8 +39,8 @@ Promote a balance between screen time and physical activity by encouraging child
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/supportive-information|Supportive information]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Tracking of screen time habits, monitoring of physical activity levels, self-reported well-being.

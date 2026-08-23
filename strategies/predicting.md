@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Predicting
+description: Predicting involves anticipating what will happen next in a text or problem.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Predicting
@@ -35,9 +39,9 @@ Predicting involves anticipating what will happen next in a text or problem. Thi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
+- [Activation](../elements/activation.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Increased engagement, improved comprehension, and better problem-solving accuracy.

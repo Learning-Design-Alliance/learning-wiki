@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Game-Based Mastery Learning
+description: Game-Based Mastery Learning is the short-form canonical target for mastery designs that combine progression gates, repeated practice, feedback, and game-like incentives or progression signals.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 author: gamified mastery learning tradition
 grain_size: lesson
 ---
@@ -29,11 +32,11 @@ Game-Based Mastery Learning is the short-form canonical target for mastery desig
 
 ### Theory
 #### Supporting
-- [[principles/mastery-learning|Mastery Learning]]
-- [[principles/game-based-learning|Game-Based Learning]]
+- [Mastery Learning](../principles/mastery-learning.md)
+- [Game-Based Learning](../principles/game-based-learning.md)
 
 ## Related Patterns
-- [[patterns/game-based-mastery-learning-eg-duolingo-pattern|Game-Based Mastery Learning (e.g., Duolingo Pattern)]]
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Key Sources
 - Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan.

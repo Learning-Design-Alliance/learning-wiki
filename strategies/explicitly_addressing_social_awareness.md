@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicitly Addressing Social Awareness
+description: The approach involves specifically identifying student strengths and challenges related to social awareness and then employing aligned strategies to leverage those strengths to support learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicitly Addressing Social Awareness
@@ -35,9 +39,9 @@ The approach involves specifically identifying student strengths and challenges 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/discussion-sections|Discussion Sections]]
+- [Modeling](../elements/modeling.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Discussion Sections](../elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Observe student interactions and communication skills to gauge their level of empathy and understanding. Collect student reflections on their experiences and growth in social awareness. Use formative assessments to track student progress and adjust strategies as needed.

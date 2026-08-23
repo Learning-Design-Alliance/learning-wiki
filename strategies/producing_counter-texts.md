@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Producing Counter-texts
+description: Producing counter-texts involves crafting alternative versions of existing texts to highlight missing perspectives, challenge stereotypes, and address biases.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Producing Counter-texts
@@ -35,12 +39,12 @@ Producing counter-texts involves crafting alternative versions of existing texts
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-task-performance|Whole-task performance]]
-- [[elements/application|Application]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/cognitive-conflict|Cognitive Conflict]]
-- [[elements/argument-construction|Argument Construction]]
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Application](../elements/application.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
+- [Argument Construction](../elements/argument-construction.md)
 
 ## Assessment Evidence
 - Analyze the depth and critical insight of learner-created counter-texts. Assess the ability to identify biases and power structures in original texts. Evaluate the clarity and persuasiveness of alternative perspectives presented.

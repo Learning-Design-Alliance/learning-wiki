@@ -1,7 +1,11 @@
 ---
 type: element
+title: Collaborative Problem-Solving
+description: Learners work together to analyze and solve problems.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collaborative Problem-Solving
@@ -27,17 +31,17 @@ Learners work together to analyze and solve problems.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/constructivist-learning|Constructivist Learning]]
+- [Social Learning](../principles/social-learning.md)
+- [Constructivist Learning](../principles/constructivist-learning.md)
 
 ## Related Elements
-- [[elements/inquiry-based-learning|Inquiry-Based Learning]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/scenario-based-learning|Scenario-Based Learning]]
+- [Inquiry-Based Learning](inquiry-based-learning.md)
+- [Peer Collaboration](peer-collaboration.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/problem-based-learning|Problem-Based Learning]]
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

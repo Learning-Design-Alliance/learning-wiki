@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Checklists & Rubrics"
+description: Checklists and rubrics provide clear criteria for self- and peer-assessments.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Checklists & Rubrics
@@ -35,13 +39,13 @@ Checklists and rubrics provide clear criteria for self- and peer-assessments. Th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/assess-performance|Assess performance]]
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track learner-identified areas for improvement to gauge self-awareness. Compare self-assessments with instructor assessments to evaluate accuracy. Analyze depth and specificity of learner feedback to assess comprehension and engagement.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Name Pronunciation
+description: "Pronouncing learners' names correctly can help develop trust and rapport."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Name Pronunciation
@@ -35,9 +39,9 @@ Pronouncing learners' names correctly can help develop trust and rapport. Mispro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Increased learner engagement, decreased feelings of shame or anxiety, and improved classroom culture.

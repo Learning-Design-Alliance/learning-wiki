@@ -1,8 +1,11 @@
 ---
 type: element
+title: Scenario-Based Learning
+description: Scenario-based learning is the element in which instruction is organized around a realistic situation, case, or mission that requires learners to interpret information and make decisions in context.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 ---
 
 # Scenario-Based Learning
@@ -28,18 +31,18 @@ Scenario-based learning is the element in which instruction is organized around 
 - Support transfer, judgment, and context-sensitive application.
 
 ### Affordances
-- [[principles/experiential-learning|Experiential Learning]]
-- [[principles/active-learning|Active Learning]]
-- [[principles/problem-based-learning|Problem-Based Learning]]
+- [Experiential Learning](../principles/experiential-learning.md)
+- [Active Learning](../principles/active-learning.md)
+- [Problem-Based Learning](../principles/problem-based-learning.md)
 
 ## Related Elements
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/case-study|Case Study]]
-- [[elements/application|Application]]
+- [Problem Scenario](problem-scenario.md)
+- [Case Study](case-study.md)
+- [Application](application.md)
 
 ## Patterns That Use This Element
-- [[patterns/goal-based-scenarios-gbs|Goal-Based Scenarios (GBS)]]
-- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
+- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios-gbs.md)
+- [Problem-Based Learning (PBL)](../patterns/problem-based-learning-pbl.md)
 
 ## Examples
 - Learners respond to a client brief with incomplete information and evolving constraints.

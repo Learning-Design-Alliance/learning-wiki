@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Translate Report Cards Into Multiple Languages
+description: "Using communication apps to translate report cards into multiple languages (e.g., Spanish, Arabic, Vietnamese, and Mandarin Chinese) makes it easier for parents to understand their child's progress, particularly in districts with diverse…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Translate Report Cards Into Multiple Languages
@@ -35,8 +39,8 @@ Using communication apps to translate report cards into multiple languages (e.g.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Gather feedback from parents on the usefulness of translations, track parent understanding of student progress

@@ -1,7 +1,11 @@
 ---
 type: element
+title: State objectives
+description: Clearly communicates the learning goals to set expectations and focus attention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # State objectives
@@ -27,17 +31,17 @@ Clearly communicates the learning goals to set expectations and focus attention.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/goal-setting-monitoring|Goal Setting & Monitoring]]
-- [[principles/metacognition|Metacognition]]
+- [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
+- [Metacognition](../principles/metacognition.md)
 
 ## Related Elements
-- [[elements/learning-outcomes|Learning Outcomes]]
-- [[elements/goal-setting|Goal Setting]]
-- [[elements/scaffolding|Scaffolding]]
+- [Learning Outcomes](learning-outcomes.md)
+- [Goal Setting](goal-setting.md)
+- [Scaffolding](scaffolding.md)
 
 ## Patterns That Use This Element
-- [[patterns/gagnés-9-events|Gagné’s 9 Events]]
-- [[patterns/competency-based-learning|Competency-Based Learning]]
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

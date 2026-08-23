@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cross-Grade-Level Tutoring
+description: Form cross-grade-level alliances where older learners tutor those in lower grades.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cross-Grade-Level Tutoring
@@ -35,11 +39,11 @@ Form cross-grade-level alliances where older learners tutor those in lower grade
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/demonstration|Demonstration]]
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learners’ engagement, participation, and teaching/learning skills within tutoring sessions. Collect data from formative assessments, tutoring logs, and feedback from learners and instructors. Track changes in performance following implementation of cross-grade-level tutoring.

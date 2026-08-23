@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Liberation Literature and Counter-Narratives
+description: Liberation literature involves exposing learners to literature that places out-group identities at the center of the curriculum to counter common negative stereotypes or omissions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Liberation Literature and Counter-Narratives
@@ -35,10 +39,10 @@ Liberation literature involves exposing learners to literature that places out-g
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions and activities. Review student-created graphic organizers and writings. Assess student understanding of different social identities and perspectives.

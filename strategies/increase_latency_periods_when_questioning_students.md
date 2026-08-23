@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Increase Latency Periods When Questioning Students
+description: Increasing latency (wait time) for low-achieving learners will help them improve.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Increase Latency Periods When Questioning Students
@@ -35,9 +39,9 @@ Increasing latency (wait time) for low-achieving learners will help them improve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increase in learner participation, improved academic performance, and reduced behavioral issues. Observation of equitable participation.

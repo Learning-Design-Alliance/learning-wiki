@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Retrieval Practice with Graphic Organizers
+description: After students do a Brain Dump, where they try to recall as much as they can about a given topic, without the aid of any supporting texts, they sort their dumped information into some kind of graphic organizer, and possibly working in…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Retrieval Practice with Graphic Organizers
@@ -35,8 +39,8 @@ After students do a Brain Dump, where they try to recall as much as they can abo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/continuous-review|Continuous Review]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Continuous Review](../elements/continuous-review.md)
 
 ## Assessment Evidence
 - Student feedback on gaps in their knowledge.

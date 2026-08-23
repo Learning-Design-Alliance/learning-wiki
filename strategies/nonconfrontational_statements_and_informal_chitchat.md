@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Nonconfrontational Statements and Informal Chitchat
+description: Catching students at the door before they enter the classroom and using “nonconfrontational statements” and “informal chitchat” to socialize them into productive behaviors.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Nonconfrontational Statements and Informal Chitchat
@@ -35,7 +39,7 @@ Catching students at the door before they enter the classroom and using “nonco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior upon entering the classroom. Track the frequency of positive interactions and the reduction of disruptive behaviors.

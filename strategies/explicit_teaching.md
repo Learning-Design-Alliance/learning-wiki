@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicit Teaching
+description: When teachers adopt explicit teaching practices they clearly show students what to do and how to do it.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicit Teaching
@@ -35,8 +39,8 @@ When teachers adopt explicit teaching practices they clearly show students what 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Student understanding of learning intentions, ability to explain concepts, and successful completion of tasks.

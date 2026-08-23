@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Practice Time
+description: Give students time to practice what they just learned in a low-stakes environment, without grading or evaluation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Practice Time
@@ -35,9 +39,9 @@ Give students time to practice what they just learned in a low-stakes environmen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Student writing samples demonstrating experimentation with new techniques. Participation in exercises and activities. Student reflections on their learning process.

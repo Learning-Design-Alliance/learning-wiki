@@ -1,8 +1,20 @@
 ---
 type: pattern
+title: "Merrill's First Principles of Instruction"
+description: "Merrill's First Principles of Instruction is a task-centered pattern that organizes learning around five recurring moves: problem-centered work, activation of prior knowledge, demonstration, application, and integration."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: merrill-2002
+    resource: "https://doi.org/10.1007/BF02505024"
+    title: "Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59"
+    author: Merrill, M. D
+  - id: merrill-2007
+    resource: "https://doi.org/10.1080/15391523.2007.10782493"
+    title: "Merrill, M. D. (2007). A task-centered instructional strategy. *Journal of Research on Technology in Education, 40*(1), 5-22"
+    author: Merrill, M. D
 author: M. David Merrill
 grain_size: course
 ---
@@ -52,11 +64,11 @@ Its practical strength is that it balances authenticity with structured support.
 
 ### Claims
 #### Supporting
-- [[claims/whole-task-performance-improves-transfer]] [+S]
-- [[claims/worked-examples-example-problem-sequences]] [+M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [[claims/worked-examples-expertise-reversal]] [~M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-expertise-reversal.md) [~M]
 
 ## Design
 
@@ -68,16 +80,16 @@ Its practical strength is that it balances authenticity with structured support.
 5. Integrate learning by reflecting, teaching, or using it in a new context.
 
 ### Elements Used
-- [[elements/whole-task-performance|Whole-task Performance]]
-- [[elements/activation|Activation]]
-- [[elements/practice|Practice]]
-- [[elements/reflection|Reflection]]
+- [Whole-task Performance](../elements/whole-task-performance.md)
+- [Activation](../elements/activation.md)
+- [Practice](../elements/practice.md)
+- [Reflection](../elements/reflection.md)
 
 ### Affordances
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/worked-examples|Worked Examples]]
-- [[principles/purposeful-reflection|Purposeful Reflection]]
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
 
 ### Personalization
 - Learners can work on tasks relevant to their own contexts while following the same instructional arc.
@@ -85,8 +97,8 @@ Its practical strength is that it balances authenticity with structured support.
 - Integration can take many forms, including teaching others, reflection, or workplace application.
 
 ## Related Patterns
-- [[patterns/4cid-four-component-instructional-design|Four-Component Instructional Design]]
-- [[patterns/gagnés-9-events-of-instruction|Gagne's 9 Events of Instruction]]
+- [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
+- [Gagne's 9 Events of Instruction](gagnés-9-events-of-instruction.md)
 
 ## Examples
 - Clinical training where learners analyze a case, study demonstrations, practice decisions, and reflect on use in real settings.

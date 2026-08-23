@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Simplify and Clarify Instructions
+description: Ensure formulations are short, easy to understand, and precise.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Simplify and Clarify Instructions
@@ -35,8 +39,8 @@ Ensure formulations are short, easy to understand, and precise.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Learner comprehension and task completion.

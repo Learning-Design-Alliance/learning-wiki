@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Always Be Positive
+description: Maintaining a positive attitude in all interactions, from classrooms to playgrounds, during school and after.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Always Be Positive
@@ -35,8 +39,8 @@ Maintaining a positive attitude in all interactions, from classrooms to playgrou
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/lectures|Lectures]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Lectures](../elements/lectures.md)
 
 ## Assessment Evidence
 - Observe school climate, gather feedback from students and staff, track student well-being and success.

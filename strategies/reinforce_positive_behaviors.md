@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reinforce Positive Behaviors
+description: Recognizing and positively reinforcing positive actions when they are observed.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reinforce Positive Behaviors
@@ -35,8 +39,8 @@ Recognizing and positively reinforcing positive actions when they are observed. 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe student behavior, track the frequency of positive behaviors, gather student feedback through surveys or discussions.

@@ -1,7 +1,11 @@
 ---
 type: element
+title: Practice
+description: Encourages learners to apply new knowledge or skills through structured activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Practice
@@ -27,18 +31,18 @@ Encourages learners to apply new knowledge or skills through structured activiti
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/deliberate-practice|Deliberate Practice]]
-- [[principles/active-learning|Active Learning]]
-- [[principles/retrieval-practice|Retrieval Practice]]
+- [Deliberate Practice](../principles/deliberate-practice.md)
+- [Active Learning](../principles/active-learning.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
 
 ## Related Elements
-- [[elements/problem-based-learning|Problem-Based Learning]]
-- [[elements/worked-examples|Worked Examples]]
-- [[elements/hands-on-learning|Hands-on Learning]]
+- [Problem-Based Learning](problem-based-learning.md)
+- [Worked Examples](worked-examples.md)
+- [Hands-on Learning](hands-on-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/gagnés-9-events|Gagné’s 9 Events]]
-- [[patterns/merrills-first-principles-application|Merrill’s First Principles (Application)]]
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Merrill’s First Principles (Application)](../patterns/merrills-first-principles-application.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

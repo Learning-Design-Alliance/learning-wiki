@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Simplify Grading Scales
+description: Eliminate the 0 to 100 scale as it disproportionately punishes missed assignments.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Simplify Grading Scales
@@ -35,8 +39,8 @@ Eliminate the 0 to 100 scale as it disproportionately punishes missed assignment
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Distribution of grades, student understanding

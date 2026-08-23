@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Incorporating Methods for Self-Testing
+description: A potent method for helping students become active participants in learning is to reframe the concept of testing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Incorporating Methods for Self-Testing
@@ -35,9 +39,9 @@ A potent method for helping students become active participants in learning is t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/quizzes|Quizzes]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Quizzes](../elements/quizzes.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased student self-awareness, improved test performance, and reduced test anxiety.

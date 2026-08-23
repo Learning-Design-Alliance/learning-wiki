@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Chunk Directions
+description: Giving learners more manageable chunks of information can help ensure they’re able to continue to engage in a meaningful way when dealing with sustained attention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Chunk Directions
@@ -35,8 +39,8 @@ Giving learners more manageable chunks of information can help ensure they’re 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/activation|Activation]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

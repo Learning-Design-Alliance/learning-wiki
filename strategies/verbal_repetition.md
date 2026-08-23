@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Verbal Repetition
+description: Verbal repetition is a strategy where learners repeat information verbally to reinforce understanding and retention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Verbal Repetition
@@ -35,8 +39,8 @@ Verbal repetition is a strategy where learners repeat information verbally to re
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/peer-teaching|Peer Teaching]]
+- [Practice](../elements/practice.md)
+- [Peer Teaching](../elements/peer-teaching.md)
 
 ## Assessment Evidence
 - Observe the accuracy and clarity of learners' verbal explanations, track improvements in retention and comprehension.

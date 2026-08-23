@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teacher Read-Aloud That Models Reading for Deep Understanding
+description: A teacher read-aloud involves a teacher fluently reading a text aloud to learners, intentionally modeling strategies of understanding that can be reinforced in shared, guided, and independent reading.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teacher Read-Aloud That Models Reading for Deep Understanding
@@ -35,12 +39,12 @@ A teacher read-aloud involves a teacher fluently reading a text aloud to learner
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Gain attention](../elements/gain-attention.md)
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation during read-aloud sessions. Collect evidence of deeper conversation and connections to the big idea through student discussions and responses.

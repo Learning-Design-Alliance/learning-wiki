@@ -1,7 +1,11 @@
 ---
 type: element
+title: Problem Scenario
+description: Learners engage with a structured real-world scenario that requires problem-solving.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Problem Scenario
@@ -27,17 +31,17 @@ Learners engage with a structured real-world scenario that requires problem-solv
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/problem-based-learning|Problem-Based Learning]]
-- [[principles/situated-learning|Situated Learning]]
+- [Problem-Based Learning](../principles/problem-based-learning.md)
+- [Situated Learning](../principles/situated-learning.md)
 
 ## Related Elements
-- [[elements/inquiry-based-exploration|Inquiry-Based Exploration]]
-- [[elements/case-study|Case Study]]
-- [[elements/decision-making|Decision-Making]]
+- [Inquiry-Based Exploration](inquiry-based-exploration.md)
+- [Case Study](case-study.md)
+- [Decision-Making](decision-making.md)
 
 ## Patterns That Use This Element
-- [[patterns/problem-based-learning|Problem-Based Learning]]
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

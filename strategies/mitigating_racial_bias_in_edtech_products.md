@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mitigating Racial Bias in Edtech Products
+description: The AI in Education Toolkit for Racial Equity provides guidance on how to mitigate racial bias in the design and development of edtech products.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mitigating Racial Bias in Edtech Products
@@ -35,9 +39,9 @@ The AI in Education Toolkit for Racial Equity provides guidance on how to mitiga
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Reduced racial bias in edtech products, improved outcomes for Black and Brown students, and a more equitable educational experience for all.

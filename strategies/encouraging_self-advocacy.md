@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Encouraging Self-Advocacy
+description: "Self-advocacy involves understanding one's needs, knowing what support might help, and communicating those needs to others to promote independence and problem-solving."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Encouraging Self-Advocacy
@@ -35,10 +39,10 @@ Self-advocacy involves understanding one's needs, knowing what support might hel
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Increased communication of needs, improved problem-solving skills, greater confidence in learning and working, active participation in IEP meetings

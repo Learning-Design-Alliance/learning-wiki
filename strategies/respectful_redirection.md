@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Respectful Redirection
+description: Respectful redirection is a quick, in-the-moment strategy to give corrective feedback to students using a calm tone, neutral body language, and clear, concise wording.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Respectful Redirection
@@ -35,7 +39,7 @@ Respectful redirection is a quick, in-the-moment strategy to give corrective fee
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student behavior and the effectiveness of the redirections.

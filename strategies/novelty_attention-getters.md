@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Novelty Attention-Getters
+description: "Novelty attention-getters use unique and unexpected stimuli to capture young students' attention and quiet the classroom."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Novelty Attention-Getters
@@ -35,8 +39,8 @@ Novelty attention-getters use unique and unexpected stimuli to capture young stu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Gain attention](../elements/gain-attention.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe how quickly students respond to the novelty item. Monitor classroom noise levels before and after using the attention-getter.

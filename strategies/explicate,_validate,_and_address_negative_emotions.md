@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicate, Validate, and Address Negative Emotions
+description: When learners come into a course with negative emotions and expectations, it can affect not only their learning but also their capacity to learn.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicate, Validate, and Address Negative Emotions
@@ -35,10 +39,10 @@ When learners come into a course with negative emotions and expectations, it can
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/state-objectives|State objectives]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Gain attention](../elements/gain-attention.md)
+- [State objectives](../elements/state-objectives.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor learner engagement and participation in class. Collect feedback on learners' attitudes and feelings about the course. Track learner performance on assignments and exams.

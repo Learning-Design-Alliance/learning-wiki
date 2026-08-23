@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leveraging Strengths to Address Learning Differences
+description: This strategy involves educators identifying specific student strengths and/or challenges and using aligned strategies to leverage student strengths to support student learning, including self-awareness and self-regulation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leveraging Strengths to Address Learning Differences
@@ -35,11 +39,11 @@ This strategy involves educators identifying specific student strengths and/or c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track student progress in addressing learning differences. Monitor student engagement and motivation. Observe student self-awareness and self-regulation skills.

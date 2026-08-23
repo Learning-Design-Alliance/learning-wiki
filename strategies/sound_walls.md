@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Sound Walls
+description: Sound walls help educators reinforce the importance of explicitly teaching the skills of letter-sound correspondence and support key aspects of learning to read that are backed by the science of reading, including phonemic awareness (the…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Sound Walls
@@ -35,9 +39,9 @@ Sound walls help educators reinforce the importance of explicitly teaching the s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student use of the sound wall. Track student progress in phonemic awareness and phonics skills. Monitor reading accuracy and fluency improvements.

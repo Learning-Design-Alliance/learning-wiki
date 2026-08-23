@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Last Lesson, Last Week, Last Month
+description: This activity involves looking back to the most important information presented yesterday, last week, and last month.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Last Lesson, Last Week, Last Month
@@ -35,7 +39,7 @@ This activity involves looking back to the most important information presented 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/quizzes|Quizzes]]
+- [Quizzes](../elements/quizzes.md)
 
 ## Assessment Evidence
 - Assess learners' understanding through their answers to the questions.

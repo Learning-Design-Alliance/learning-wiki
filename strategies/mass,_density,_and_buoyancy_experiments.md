@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mass, Density, and Buoyancy Experiments
+description: Mass, density, and buoyancy experiments involve exploring how the mass and density of objects affect their buoyancy in different liquids.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mass, Density, and Buoyancy Experiments
@@ -35,8 +39,8 @@ Mass, density, and buoyancy experiments involve exploring how the mass and densi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in measuring buoyancy, correct correlation of weight and water displacement, logical explanations of buoyancy effects

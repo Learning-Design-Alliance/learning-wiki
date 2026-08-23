@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Building a Trusting Community
+description: The key step is building a trusting community by giving students time to reflect and write about elements of their lives and to share these reflections.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Building a Trusting Community
@@ -35,11 +39,11 @@ The key step is building a trusting community by giving students time to reflect
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/case-study|Case Study]]
-- [[elements/application|Application]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Case Study](../elements/case-study.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe the depth and quality of student discussions, assess changes in attitudes and behaviors related to race and equity, and evaluate the effectiveness of interventions designed to promote positive racial identity formation.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Co-constructing Knowledge
+description: Co-constructing knowledge involves teachers and students dialoguing and creating knowledge together, rather than teachers simply filling students with content.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Co-constructing Knowledge
@@ -35,8 +39,8 @@ Co-constructing knowledge involves teachers and students dialoguing and creating
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Assessments can include group projects, presentations, and discussions. Student reflections and self-evaluations can provide insights into their learning and participation. Observations of group dynamics and collaborative skills can also be assessed.

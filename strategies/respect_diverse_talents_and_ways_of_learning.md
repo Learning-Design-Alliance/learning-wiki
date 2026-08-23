@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Respect Diverse Talents and Ways of Learning
+description: There are many roads to learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Respect Diverse Talents and Ways of Learning
@@ -35,8 +39,8 @@ There are many roads to learning. People bring different talents and styles of l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased tutee engagement, improved performance in diverse activities, positive feedback about tutor adaptability.

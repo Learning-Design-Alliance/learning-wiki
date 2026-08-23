@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Project-Based Transformation of Society
+description: This instructional strategy involves students working in small groups to identify and propose solutions to crucial problems in their society.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Project-Based Transformation of Society
@@ -35,9 +39,9 @@ This instructional strategy involves students working in small groups to identif
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/decision-making|Decision-Making]]
-- [[elements/reflection|Reflection]]
+- [Case Study](../elements/case-study.md)
+- [Decision-Making](../elements/decision-making.md)
+- [Reflection](../elements/reflection.md)
 
 ## Assessment Evidence
 - Evaluate the thoroughness and feasibility of proposed solutions, assess the ability to consider diverse perspectives, and track participation in group discussions and reflections.

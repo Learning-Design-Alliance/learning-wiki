@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Standard-Based Regrouping
+description: "Form homogeneous groups based on learners' mastery of specific standards."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Standard-Based Regrouping
@@ -35,11 +39,11 @@ Form homogeneous groups based on learners' mastery of specific standards. Assess
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess Performance]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Assess Performance](../elements/assess-performance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners’ engagement, participation, and mastery of standards within groups. Collect data from formative assessments, exit tickets, and group projects. Track changes in performance following implementation of standard-based regrouping.

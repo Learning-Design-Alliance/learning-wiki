@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Association
+description: Association is a mnemonic device that links new information to something already known to make it easier to remember.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Association
@@ -35,8 +39,8 @@ Association is a mnemonic device that links new information to something already
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Assess the ability to recall information by using the created associations. Track the use of associations in explaining concepts.

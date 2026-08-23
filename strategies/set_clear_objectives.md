@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Set Clear Objectives
+description: Objectives aligned with standards, activities, and assessments, providing students with a clear understanding of the knowledge and skills they will demonstrate.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Set Clear Objectives
@@ -35,9 +39,9 @@ Objectives aligned with standards, activities, and assessments, providing studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [State objectives](../elements/state-objectives.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Student understanding of objectives, alignment of assessments

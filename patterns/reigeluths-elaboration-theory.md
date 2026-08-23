@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: "Reigeluth's Elaboration Theory"
+description: "Reigeluth's Elaboration Theory is a macro-level sequencing pattern that begins with a simple but meaningful version of the whole and then elaborates progressively toward greater complexity, detail, and specialization."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: reigeluth-1979
+    resource: "https://doi.org/10.1007/BF02984376"
+    title: "Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15"
+    author: Reigeluth, C. M
 author: Charles M. Reigeluth
 grain_size: course
 ---
@@ -52,11 +60,11 @@ It is especially useful for curriculum-scale design where content complexity is 
 
 ### Claims
 #### Supporting
-- [[claims/chunking-reduces-working-memory-load]] [~S]
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/whole-task-performance-improves-transfer]] [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]
 #### Contradicting
-- [[claims/part-task-practice-reduces-load-for-novices]] [~M]
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 
 ## Design
 
@@ -68,16 +76,16 @@ It is especially useful for curriculum-scale design where content complexity is 
 5. Revisit and apply the expanded structure across increasingly complex tasks.
 
 ### Elements Used
-- [[elements/activation|Activation]]
-- [[elements/analogies|Analogies]]
-- [[elements/practice|Practice]]
-- [[elements/reflection|Reflection]]
+- [Activation](../elements/activation.md)
+- [Analogies](../elements/analogies.md)
+- [Practice](../elements/practice.md)
+- [Reflection](../elements/reflection.md)
 
 ### Affordances
-- [[principles/metaphors-analogies|Metaphors & Analogies]]
-- [[principles/creating-visual-representations|Creating Visual Representations]]
-- [[principles/guided-practice|Guided Practice]]
-- [[principles/worked-examples|Worked Examples]]
+- [Metaphors & Analogies](../principles/metaphors-analogies.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)
+- [Guided Practice](../principles/guided-practice.md)
+- [Worked Examples](../principles/worked-examples.md)
 
 ### Personalization
 - Learners can move more slowly or quickly through later elaborations once the big picture is established.
@@ -85,8 +93,8 @@ It is especially useful for curriculum-scale design where content complexity is 
 - Analogies and examples can be chosen to fit learner background and domain familiarity.
 
 ## Related Patterns
-- [[patterns/4cid-four-component-instructional-design|Four-Component Instructional Design]]
-- [[patterns/merrills-first-principles-of-instruction|Merrill's First Principles of Instruction]]
+- [Four-Component Instructional Design](4cid-four-component-instructional-design.md)
+- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
 
 ## Examples
 - Anatomy curricula that begin with major systems before elaborating organs, tissues, and specialized cases.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Increase Synchronous Teacher Presence
+description: Teacher presence in synchronous sessions helps to reduce feelings of isolation in students enrolled in online courses and increase student engagement and agency, and ways to reduce distractions and cognitive overload.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Increase Synchronous Teacher Presence
@@ -35,9 +39,9 @@ Teacher presence in synchronous sessions helps to reduce feelings of isolation i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/peer-interaction|Peer Interaction]]
+- [Modeling](../elements/modeling.md)
+- [Demonstration](../elements/demonstration.md)
+- [Peer Interaction](../elements/peer-interaction.md)
 
 ## Assessment Evidence
 - Increased student engagement.

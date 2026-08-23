@@ -1,8 +1,16 @@
 ---
 type: element
+title: Scientific Reasoning
+description: Scientific reasoning is the element in which learners generate explanations, evaluate evidence, test claims, and revise models using disciplinary norms of inquiry.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: zimmerman-2000
+    resource: "https://doi.org/10.1006/drev.1999.0497"
+    title: "Zimmerman, C. (2000). The development of scientific reasoning skills. *Developmental Review, 20*(1), 99-149"
+    author: Zimmerman, C
 ---
 
 # Scientific Reasoning
@@ -24,17 +32,17 @@ Scientific reasoning is the element in which learners generate explanations, eva
 - Build evidence-based explanation, model revision, and disciplined inquiry.
 
 ### Affordances
-- [[principles/epistemic-cognition|Epistemic Cognition]]
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
+- [Epistemic Cognition](../principles/epistemic-cognition.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [[elements/model-revision|Model Revision]]
-- [[elements/justification|Justification]]
-- [[elements/evidence-based-reasoning|Evidence-Based Reasoning]]
+- [Model Revision](model-revision.md)
+- [Justification](justification.md)
+- [Evidence-Based Reasoning](evidence-based-reasoning.md)
 
 ## Patterns That Use This Element
-- [[patterns/mel-reasoning-pattern|MEL Reasoning Pattern]]
-- [[patterns/guided-discovery-learning|Guided Discovery Learning]]
+- [MEL Reasoning Pattern](../patterns/mel-reasoning-pattern.md)
+- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
 
 ## Examples
 - Learners compare predictions to evidence and revise an explanatory model.

@@ -1,8 +1,11 @@
 ---
 type: element
+title: Virtual Whiteboards
+description: Virtual whiteboards are the element in which learners sketch, annotate, and collaborate in a shared digital visual workspace.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Virtual Whiteboards
@@ -11,5 +14,5 @@ edited_by: Codex
 Virtual whiteboards are the element in which learners sketch, annotate, and collaborate in a shared digital visual workspace.
 
 ## Affordances
-- [[principles/digital-learning|Digital Learning]]
-- [[principles/creating-visual-representations|Creating Visual Representations]]
+- [Digital Learning](../principles/digital-learning.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)

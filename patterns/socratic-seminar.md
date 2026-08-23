@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Socratic Seminar
+description: Socratic Seminar is a structured, text-centered discussion pattern in which learners explore a complex question through dialogue, evidence, and follow-up questioning rather than through debate aimed at victory.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: billings-2002
+    resource: "https://doi.org/10.3102/00028312039004907"
+    title: "Billings, L., & Fitzgerald, J. (2002). Dialogic discussion and the Paideia seminar. *American Educational Research Journal, 39*(4), 907-941"
+    author: "Billings, L., & Fitzgerald, J"
 author: Socratic tradition; modern seminar adaptations
 grain_size: lesson
 ---
@@ -52,11 +60,11 @@ The pattern works best when the prompt is open enough to sustain interpretation 
 
 ### Claims
 #### Supporting
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -68,16 +76,16 @@ The pattern works best when the prompt is open enough to sustain interpretation 
 5. Close with reflection on both the ideas and the seminar process.
 
 ### Elements Used
-- [[elements/open-ended-discussion|Open-Ended Discussion]]
-- [[elements/discussion-prompt|Discussion Prompt]]
-- [[elements/reflection|Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Open-Ended Discussion](../elements/open-ended-discussion.md)
+- [Discussion Prompt](../elements/discussion-prompt.md)
+- [Reflection](../elements/reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ### Affordances
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/perspective-seekingmultiple-perspectives|Perspective-Seeking/Multiple Perspectives]]
-- [[principles/purposeful-reflection|Purposeful Reflection]]
-- [[principles/inquiry-based-learning|Inquiry-based Learning]]
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 
 ### Personalization
 - Seminars can be run in inner/outer circles, small groups, or whole-class formats.
@@ -85,8 +93,8 @@ The pattern works best when the prompt is open enough to sustain interpretation 
 - Facilitation can be tighter for novice groups and lighter for experienced seminar participants.
 
 ## Related Patterns
-- [[patterns/discussion-group|Discussion Group]]
-- [[patterns/debate-format|Debate Format]]
+- [Discussion Group](discussion-group.md)
+- [Debate Format](debate-format.md)
 
 ## Examples
 - Literature learners exploring theme and interpretation through a shared novel passage.

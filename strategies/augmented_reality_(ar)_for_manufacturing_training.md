@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Augmented Reality (AR) for Manufacturing Training
+description: AR provides step-by-step instructions while a trainee is practicing, using AR headsets to provide step-by-step instructions while a trainee is practicing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Augmented Reality (AR) for Manufacturing Training
@@ -35,11 +39,11 @@ AR provides step-by-step instructions while a trainee is practicing, using AR he
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/application|Application]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Task completion time, error reduction, productivity improvement, new hire ramp-up times.

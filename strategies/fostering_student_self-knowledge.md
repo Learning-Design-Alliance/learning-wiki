@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Fostering Student Self-Knowledge
+description: Fostering student self-knowledge involves implementing measures that help students understand themselves as learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Fostering Student Self-Knowledge
@@ -35,9 +39,9 @@ Fostering student self-knowledge involves implementing measures that help studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe students' willingness to participate in discussions, request help when needed, and articulate their learning preferences. Measure students' ability to set goals, solve problems, and advocate for themselves.

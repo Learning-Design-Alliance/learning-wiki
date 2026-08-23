@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Physical Activity-Encouraging Environment
+description: Design school environments that encourage physical activity by including playground equipment, walking trails, and bike racks.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Physical Activity-Encouraging Environment
@@ -35,8 +39,8 @@ Design school environments that encourage physical activity by including playgro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Supportive information](../elements/supportive-information.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student activity levels, monitor use of facilities, gather feedback on environment

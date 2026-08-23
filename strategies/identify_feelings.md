@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Identify Feelings
+description: Students identify, label, or match facial expressions and feelings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Identify Feelings
@@ -35,8 +39,8 @@ Students identify, label, or match facial expressions and feelings. Students cat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' ability to accurately identify and label emotions in themselves and others. Track their participation in discussions and activities related to analyzing characters' feelings.

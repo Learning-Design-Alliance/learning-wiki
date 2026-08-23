@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Compassionate Curiosity
+description: Act as a non-judgmental investigator to better understand students and respond with empathy.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Compassionate Curiosity
@@ -35,8 +39,8 @@ Act as a non-judgmental investigator to better understand students and respond w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Question Formulation](../elements/question-formulation.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student behavior, gather student feedback, assess changes in teacher-student interactions

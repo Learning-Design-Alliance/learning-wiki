@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: What’s My Number?
+description: A guessing game where one person thinks of a number and provides clues, and others use logical reasoning and deduction to determine the number.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # What’s My Number?
@@ -35,8 +39,8 @@ A guessing game where one person thinks of a number and provides clues, and othe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/application-of-knowledge|Application of Knowledge]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to use clues to deduce the number. Track the number of clues needed to guess the correct number.

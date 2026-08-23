@@ -1,8 +1,20 @@
 ---
 type: principle
+title: Pre-reading Questioning
+description: Pre-reading questioning is the instructional principle of using questions before a text, source, or reading task to activate prior knowledge, orient attention, and establish a purpose for reading.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: clinton-2012
+    resource: "https://doi.org/10.1016/j.lindif.2012.07.004"
+    title: "Clinton, V., & van den Broek, P. (2012). Interest, inferences, and learning from texts. *Learning and Individual Differences, 22*(6), 650-663"
+    author: "Clinton, V., & van den Broek, P"
+  - id: rasheed-2014
+    resource: "https://doi.org/10.5539/elt.v7n11p79"
+    title: "Rasheed, H. (2014). Examining the effectiveness of pre-reading strategies on Saudi EFL college students' reading comprehension. *English Language Teaching, 7*(11), 79-91"
+    author: Rasheed, H
 ---
 
 # Pre-reading Questioning
@@ -11,7 +23,7 @@ edited_by: Codex
 Pre-reading questioning is the instructional principle of using questions before a text, source, or reading task to activate prior knowledge, orient attention, and establish a purpose for reading. The value lies less in predicting the "right" answer than in helping learners notice what they already know, what they wonder, and what they should look for. When used well, pre-reading questions can improve comprehension by reducing aimless reading and by surfacing misconceptions early enough to address them.
 
 ## Implications
-Pre-reading questioning improves comprehension when it gives learners a reason to read and a frame for what to notice. Orienting questions can reduce aimless attention by narrowing what must be held and tracked during reading [[claims/chunking-reduces-working-memory-load]] [~S], and they can support more deliberate monitoring as learners compare early predictions to what the text actually shows [[claims/self-monitoring-improves-self-regulation]] [~M]. The key design risk is over-directing interpretation: questions should focus attention without predetermining every conclusion.
+Pre-reading questioning improves comprehension when it gives learners a reason to read and a frame for what to notice. Orienting questions can reduce aimless attention by narrowing what must be held and tracked during reading [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S], and they can support more deliberate monitoring as learners compare early predictions to what the text actually shows [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. The key design risk is over-directing interpretation: questions should focus attention without predetermining every conclusion.
 
 ### Context
 #### Requirements
@@ -47,14 +59,14 @@ Pre-reading questioning improves comprehension when it gives learners a reason t
 - Some texts are better entered first with open noticing before specific questions are introduced.
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [~S] — orienting prompts can reduce the amount of undirected information learners try to manage at once
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — pre-reading questions help learners check what they already think and revise it as they read
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — orienting prompts can reduce the amount of undirected information learners try to manage at once
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — pre-reading questions help learners check what they already think and revise it as they read
 
 ## Related Principles
-- [[principles/graphic-organizers|Graphic Organizers]] — graphic organizers can make pre-reading questions more visible and usable.
-- [[principles/note-taking|Note-taking]] — pre-reading questions help determine what learners should attend to and record.
-- [[principles/inquiry-based-learning|Inquiry-based Learning]] — question generation before reading can frame the text as evidence for inquiry.
-- [[principles/handoutsonline-guidesvisual-reading-aids|Handouts/Online Guides/Visual Reading Aids]] — reading guides often embed pre-reading questions as orientation tools.
+- [Graphic Organizers](graphic-organizers.md) — graphic organizers can make pre-reading questions more visible and usable.
+- [Note-taking](note-taking.md) — pre-reading questions help determine what learners should attend to and record.
+- [Inquiry-based Learning](inquiry-based-learning.md) — question generation before reading can frame the text as evidence for inquiry.
+- [Handouts/Online Guides/Visual Reading Aids](handoutsonline-guidesvisual-reading-aids.md) — reading guides often embed pre-reading questions as orientation tools.
 
 ## Examples
 - **Prediction and purpose prompts**: Learners answer a small set of questions before reading and revisit them afterward.

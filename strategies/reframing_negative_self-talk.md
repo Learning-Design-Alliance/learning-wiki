@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reframing Negative Self-Talk
+description: Reframing involves rephrasing negative thoughts, statements, or situations into more positive alternatives.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reframing Negative Self-Talk
@@ -35,11 +39,11 @@ Reframing involves rephrasing negative thoughts, statements, or situations into 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Review students' reframes for accuracy and positivity. Assess students' ability to articulate the impact of reframing on their emotions. Observe students' use of reframing in real-life situations.

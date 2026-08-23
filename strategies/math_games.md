@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Math Games
+description: Math games are structured activities designed to stimulate enthusiasm for math learning by providing opportunities to explore fundamental number concepts, engage in strategic mathematical thinking, and deepen understanding of numbers.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Math Games
@@ -35,9 +39,9 @@ Math games are structured activities designed to stimulate enthusiasm for math l
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe student strategies during gameplay. Review recorded equations or representations. Analyze student reflections on skills, strategies, and potential improvements.

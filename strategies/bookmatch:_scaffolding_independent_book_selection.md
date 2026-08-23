@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "BOOKMATCH: Scaffolding Independent Book Selection"
+description: BOOKMATCH is a tool for helping students select just-right books for independent reading.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # BOOKMATCH: Scaffolding Independent Book Selection
@@ -35,9 +39,9 @@ BOOKMATCH is a tool for helping students select just-right books for independent
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Modeling](../elements/modeling.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review of student comment forms, observations during reading conferences, assessment of online forum posts, and use of rubrics to evaluate self-selection abilities.

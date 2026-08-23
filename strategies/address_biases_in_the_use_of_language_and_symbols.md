@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Address Biases in the Use of Language and Symbols
+description: Honoring a wide variety of forms of language ensures that learning materials and discussions are free from bias and stereotypes.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Address Biases in the Use of Language and Symbols
@@ -35,8 +39,8 @@ Honoring a wide variety of forms of language ensures that learning materials and
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/discussion-sections|Discussion Sections]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Discussion Sections](../elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of bias and stereotypes through discussions or written assignments. Track improvements in cultural awareness and sensitivity.

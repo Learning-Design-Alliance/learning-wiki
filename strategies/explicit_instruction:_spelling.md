@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Explicit Instruction: Spelling"
+description: Explicit spelling instruction involves directly teaching spelling rules, patterns, and strategies rather than relying solely on incidental learning or discovery.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicit Instruction: Spelling
@@ -35,12 +39,12 @@ Explicit spelling instruction involves directly teaching spelling rules, pattern
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/continuous-review|Continuous Review]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Continuous Review](../elements/continuous-review.md)
 
 ## Assessment Evidence
 - Track spelling accuracy on weekly tests, monitor the reduction of frequently misspelled words, and assess the application of spelling rules in writing samples.

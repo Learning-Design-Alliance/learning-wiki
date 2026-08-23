@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Bridging Individualism and Collectivism
+description: This strategy focuses on understanding and addressing the differences between individualistic and collectivistic value systems in the classroom.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Bridging Individualism and Collectivism
@@ -35,9 +39,9 @@ This strategy focuses on understanding and addressing the differences between in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe reduced conflicts and increased collaboration among students. Gather student feedback on their sense of cultural validation and belonging.

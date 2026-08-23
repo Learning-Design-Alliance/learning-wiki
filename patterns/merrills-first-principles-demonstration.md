@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: "Merrill's First Principles (Demonstration)"
+description: "This page captures the demonstration-focused slice of Merrill's First Principles of Instruction: showing what successful performance or reasoning looks like before asking learners to apply it independently."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: merrill-2002
+    resource: "https://doi.org/10.1007/BF02505024"
+    title: "Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59"
+    author: Merrill, M. D
 author: M. David Merrill
 grain_size: lesson
 ---
@@ -40,8 +48,8 @@ This page captures the demonstration-focused slice of Merrill's First Principles
 - Demonstration should lead into practice, feedback, and integration rather than remain passive viewing.
 
 ### Claims
-- [[claims/worked-examples-example-problem-sequences]] [+M]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Design
 
@@ -52,17 +60,17 @@ This page captures the demonstration-focused slice of Merrill's First Principles
 4. Transition learners into supported application.
 
 ### Elements Used
-- [[elements/demonstration|Demonstration]]
-- [[elements/think-aloud|Think-Aloud]]
-- [[elements/worked-examples|Worked Examples]]
+- [Demonstration](../elements/demonstration.md)
+- [Think-Aloud](../elements/think-aloud.md)
+- [Worked Examples](../elements/worked-examples.md)
 
 ### Affordances
-- [[principles/modeling|Modeling]]
-- [[principles/worked-examples|Worked Examples]]
-- [[principles/scaffolding-and-fading|Scaffolding and Fading]]
+- [Modeling](../principles/modeling.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
 
 ## Related Patterns
-- [[patterns/merrills-first-principles-of-instruction|Merrill's First Principles of Instruction]]
+- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
 
 ## Examples
 - An instructor models a complete solution path before learners solve a similar problem with support.

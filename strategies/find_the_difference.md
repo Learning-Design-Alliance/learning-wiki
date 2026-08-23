@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Find the Difference
+description: "Similar to 'Find the Total', but learners subtract to find the difference between two dot cards."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Find the Difference
@@ -35,8 +39,8 @@ Similar to 'Find the Total', but learners subtract to find the difference betwee
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor the accuracy of the difference found. Observe the strategies used to find the difference.

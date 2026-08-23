@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Use this Toolkit: Mitigating Racial Bias in Edtech"
+description: This toolkit is designed to guide educational technology (edtech) companies in identifying and mitigating racial bias in the design and development of their products.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Use this Toolkit: Mitigating Racial Bias in Edtech
@@ -35,9 +39,9 @@ This toolkit is designed to guide educational technology (edtech) companies in i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/procedural-information|Procedural information]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/assess-performance|Assess performance]]
+- [Procedural information](../elements/procedural-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Improvements in product design, reduced bias in algorithms, increased user satisfaction among Black and Brown students, and alignment with culturally responsive teaching practices.

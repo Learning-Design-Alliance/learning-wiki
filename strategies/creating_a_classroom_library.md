@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating a Classroom Library
+description: Setting up a classroom library involves acquiring books and materials, organizing the shelves, creating labels, and making the space cozy.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating a Classroom Library
@@ -35,7 +39,7 @@ Setting up a classroom library involves acquiring books and materials, organizin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - Increased reading engagement, improved book selection skills, positive feedback from learners regarding the library.

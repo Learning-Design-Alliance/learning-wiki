@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Use Positive Affirmations
+description: Replace negative messages from the inner voice with positive affirmations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Use Positive Affirmations
@@ -35,7 +39,7 @@ Replace negative messages from the inner voice with positive affirmations. A neg
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track frequency of positive affirmations used and reported changes in mood or self-perception.

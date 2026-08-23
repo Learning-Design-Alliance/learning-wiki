@@ -1,8 +1,16 @@
 ---
 type: element
+title: Just-in-Time Learning
+description: Just-in-time learning is the element in which information, guidance, or resources are provided at the moment they are needed for the task at hand rather than front-loaded in advance.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: merrill-2002
+    resource: "https://doi.org/10.1007/BF02505024"
+    title: "Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59"
+    author: Merrill, M. D
 ---
 
 # Just-in-Time Learning
@@ -28,18 +36,18 @@ Just-in-time learning is the element in which information, guidance, or resource
 - Improve transfer and reduce unnecessary upfront cognitive load.
 
 ### Affordances
-- [[principles/active-learning|Active Learning]]
-- [[principles/scaffolding-and-fading|Scaffolding and Fading]]
-- [[principles/immediate-feedback|Immediate Feedback]]
+- [Active Learning](../principles/active-learning.md)
+- [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
 
 ## Related Elements
-- [[elements/just-in-time-information|Just-in-Time Information]]
-- [[elements/hints|Hints]]
-- [[elements/coaching|Coaching]]
+- [Just-in-Time Information](just-in-time-information.md)
+- [Hints](hints.md)
+- [Coaching](coaching.md)
 
 ## Patterns That Use This Element
-- [[patterns/goal-based-scenarios-gbs|Goal-Based Scenarios (GBS)]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios-gbs.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 - A system surfaces a short reference only when a learner reaches the relevant procedure step.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Calming Tactile Input
+description: Using tactile input to provide calming sensory experiences involves engaging the sense of touch to reduce anxiety and promote relaxation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Calming Tactile Input
@@ -35,8 +39,8 @@ Using tactile input to provide calming sensory experiences involves engaging the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the child's behavior and emotional state before, during, and after tactile input. Monitor the child's self-regulation and ability to manage sensory input.

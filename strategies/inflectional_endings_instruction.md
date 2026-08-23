@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Inflectional Endings Instruction
+description: Inflectional endings instruction focuses on teaching the rules for adding suffixes (e.g., -ed, -s, -es, -ing, -er, -est) to base words.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Inflectional Endings Instruction
@@ -35,9 +39,9 @@ Inflectional endings instruction focuses on teaching the rules for adding suffix
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor spelling accuracy on regular spelling tests, track progress in writing assignments, and assess the learners' ability to apply inflectional ending rules correctly.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Modeling a Growth Mindset
+description: Teachers, like the students they teach, can learn to develop a growth mindset, but this requires careful planning by school management.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Modeling a Growth Mindset
@@ -35,7 +39,7 @@ Teachers, like the students they teach, can learn to develop a growth mindset, b
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Track participation and engagement in professional development activities. Observe changes in teacher attitudes toward challenges and new teaching methods. Collect feedback from teachers on their learning experiences and professional growth.

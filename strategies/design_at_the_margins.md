@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Design at the Margins
+description: This principle involves designing with the students at the edges of a community in mind, particularly those disempowered due to identity or poverty.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Design at the Margins
@@ -35,9 +39,9 @@ This principle involves designing with the students at the edges of a community 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/solution-development|Solution Development]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Track achievement gaps between different student groups, measure student perceptions of inclusion and belonging, and assess the impact of interventions on marginalized students.

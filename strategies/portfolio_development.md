@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Portfolio Development
+description: Learners regularly select work samples, reflect on their choices, and organize their work into a portfolio.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Portfolio Development
@@ -35,10 +39,10 @@ Learners regularly select work samples, reflect on their choices, and organize t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Review portfolio content for evidence of student learning and reflection. Assess the depth and quality of student reflections. Gather feedback from students and teachers regarding the value of portfolio development.

@@ -1,8 +1,11 @@
 ---
 type: principle
+title: Dual Coding
+description: Dual coding is the principle of pairing verbal information with meaningful visual representation so learners can build more than one route into the same idea.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 ---
 
 # Dual Coding
@@ -11,7 +14,7 @@ edited_by: Codex
 Dual coding is the principle of pairing verbal information with meaningful visual representation so learners can build more than one route into the same idea. It is useful when visuals clarify structure, relation, or process rather than merely decorate text.
 
 ## Implications
-Dual coding works when words and visuals reinforce the same underlying idea from complementary angles. A well-aligned diagram, map, model, or sequence image can reduce the effort required to infer structure from text alone and make recall easier later because learners have more than one route back into the concept [[claims/chunking-reduces-working-memory-load]] [~S]. The implication is not to add visuals everywhere, but to add visuals that clarify relationships, timing, scale, or process and to remove visuals that are merely decorative.
+Dual coding works when words and visuals reinforce the same underlying idea from complementary angles. A well-aligned diagram, map, model, or sequence image can reduce the effort required to infer structure from text alone and make recall easier later because learners have more than one route back into the concept [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]. The implication is not to add visuals everywhere, but to add visuals that clarify relationships, timing, scale, or process and to remove visuals that are merely decorative.
 
 ### Context
 #### Requirements
@@ -31,14 +34,14 @@ Dual coding works when words and visuals reinforce the same underlying idea from
 ### Theory
 #### Supporting
 - Paivio's dual-coding theory.
-- [[principles/cognitive-load-theory|Cognitive Load Theory]]
+- [Cognitive Load Theory](cognitive-load-theory.md)
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [~S] — coordinated verbal and visual representations can reduce inferential burden and make structure easier to hold in mind
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — coordinated verbal and visual representations can reduce inferential burden and make structure easier to hold in mind
 
 ## Related Principles
-- [[principles/creating-visual-representations|Creating Visual Representations]]
-- [[principles/multimodal-instruction|Multimodal Instruction]]
+- [Creating Visual Representations](creating-visual-representations.md)
+- [Multimodal Instruction](multimodal-instruction.md)
 
 ## Examples
 - A geography lesson pairs concise text with an annotated map so spatial relationships do not have to be inferred only from prose.

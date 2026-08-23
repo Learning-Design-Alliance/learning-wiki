@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Differentiated Teaching
+description: Differentiated teaching methods are used to extend the knowledge and skills of every student in every class, regardless of their starting point.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Differentiated Teaching

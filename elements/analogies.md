@@ -1,8 +1,16 @@
 ---
 type: element
+title: Analogies
+description: Analogies connect a new idea to a more familiar situation, structure, or experience so learners can reason about the unfamiliar in terms they already understand.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: gentner-1983
+    resource: "https://doi.org/10.1207/s15516709cog0702_3"
+    title: "Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155-170"
+    author: Gentner, D
 ---
 
 # Analogies
@@ -39,12 +47,12 @@ Analogies connect a new idea to a more familiar situation, structure, or experie
 - Helps instructors expose structure, not just vocabulary
 
 ## Related Elements
-- [[elements/analogies-and-prior-knowledge-activation|Analogies and Prior Knowledge Activation]]
-- [[elements/recall-prior-knowledge|Recall Prior Knowledge]]
-- [[elements/demonstration|Demonstration]]
+- [Analogies and Prior Knowledge Activation](analogies-and-prior-knowledge-activation.md)
+- [Recall Prior Knowledge](recall-prior-knowledge.md)
+- [Demonstration](demonstration.md)
 
 ## Patterns That Use This Element
-- [[patterns/reigeluths-elaboration-theory|Reigeluth's Elaboration Theory]]
+- [Reigeluth's Elaboration Theory](../patterns/reigeluths-elaboration-theory.md)
 
 ## Examples
 - Explaining electrical current through the analogy of water moving through pipes

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: SOAP (Specific, Observable, Appropriate, Personal)
+description: SOAP is an acronym that serves as a guide for teachers when selecting behaviors for students to self-monitor.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # SOAP (Specific, Observable, Appropriate, Personal)
@@ -35,8 +39,8 @@ SOAP is an acronym that serves as a guide for teachers when selecting behaviors 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/provide-guidance|Provide guidance]]
+- [State objectives](../elements/state-objectives.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - The selected behaviors should be easily observable and measurable, allowing for clear assessment of progress.

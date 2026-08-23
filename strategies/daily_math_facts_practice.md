@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Daily Math Facts Practice
+description: Beginning each math lesson with spaced practice to review arithmetic facts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Daily Math Facts Practice
@@ -35,8 +39,8 @@ Beginning each math lesson with spaced practice to review arithmetic facts. Sess
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/part-task-practice|Part-task practice]]
-- [[elements/practice|Practice]]
+- [Part-task practice](../elements/part-task-practice.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track improvement in arithmetic fact retrieval speed and accuracy.

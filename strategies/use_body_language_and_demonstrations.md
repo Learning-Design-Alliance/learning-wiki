@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Use Body Language and Demonstrations
+description: Reinforce verbal instructions with body language, gestures, and demonstrations to aid comprehension.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Use Body Language and Demonstrations
@@ -35,8 +39,8 @@ Reinforce verbal instructions with body language, gestures, and demonstrations t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' ability to follow demonstrated steps.

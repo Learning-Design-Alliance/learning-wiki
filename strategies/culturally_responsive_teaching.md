@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Culturally Responsive Teaching
+description: Culturally responsive teaching involves engaging students in the learning process, both cognitively and emotionally, through an understanding of how their identity and perspective is shaped by their culture and community experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Culturally Responsive Teaching
@@ -35,9 +39,9 @@ Culturally responsive teaching involves engaging students in the learning proces
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Observe educators' behavior in the classroom, their interactions with students, and their responses to issues of race and equity. Measure students' sense of belonging and their perceptions of fairness and inclusion.

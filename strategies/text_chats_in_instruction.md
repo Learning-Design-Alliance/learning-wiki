@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Text Chats in Instruction
+description: Integrating text chats into instruction involves using real-time messaging platforms to facilitate communication and collaboration among learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Text Chats in Instruction
@@ -35,8 +39,8 @@ Integrating text chats into instruction involves using real-time messaging platf
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Analyze chat logs to assess participation, comprehension, and collaboration skills. Monitor the quality of feedback and support provided by learners. Track the use of text chats to improve communication practices.

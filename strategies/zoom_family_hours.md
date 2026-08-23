@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Zoom Family Hours
+description: Hold evening office or family hours on Zoom for parents and family members to pop in and ask questions or otherwise engage with you about their children.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Zoom Family Hours
@@ -35,8 +39,8 @@ Hold evening office or family hours on Zoom for parents and family members to po
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track attendance at family hours, gather feedback from parents

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reading Aloud
+description: Encouraging students to read questions and their own writing aloud leverages strengths in auditory processing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reading Aloud
@@ -35,8 +39,8 @@ Encouraging students to read questions and their own writing aloud leverages str
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor improvements in writing quality through student work samples. Observe student engagement and participation in reading aloud activities. Gather student feedback on the effectiveness of reading aloud.

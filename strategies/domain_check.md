@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Domain Check
+description: One simple search tip you can give students is to check the domain on search results.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Domain Check
@@ -35,7 +39,7 @@ One simple search tip you can give students is to check the domain on search res
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Successful identification of correct domains.

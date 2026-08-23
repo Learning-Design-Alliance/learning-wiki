@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Discussing Potential Emotions in Advance
+description: Learners think about emotions in advance by discussing their thoughts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Discussing Potential Emotions in Advance
@@ -35,9 +39,9 @@ Learners think about emotions in advance by discussing their thoughts.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor learner participation

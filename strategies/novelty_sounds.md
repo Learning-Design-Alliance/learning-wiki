@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Novelty Sounds
+description: Using novel sounds such as wind chimes or rain sticks captures young students’ attention.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Novelty Sounds
@@ -35,7 +39,7 @@ Using novel sounds such as wind chimes or rain sticks captures young students’
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
+- [Gain attention](../elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe how quickly and effectively students respond to the novelty sounds. Note any resistance or waning interest over time.

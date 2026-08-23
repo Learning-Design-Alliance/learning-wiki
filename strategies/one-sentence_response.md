@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: One-Sentence Response
+description: When instructors ask a question, rather than having students raise hands, every learner writes a sentence to answer the question.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # One-Sentence Response
@@ -35,8 +39,8 @@ When instructors ask a question, rather than having students raise hands, every 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-response|Individual Response]]
-- [[elements/practice|Practice]]
+- [Individual Response](../elements/individual-response.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Assess the clarity and accuracy of the sentences. Look for evidence of understanding and critical thinking.

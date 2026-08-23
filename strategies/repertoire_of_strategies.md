@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Repertoire of Strategies
+description: Procedural fluency requires having a repertoire of strategies.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Repertoire of Strategies
@@ -35,9 +39,9 @@ Procedural fluency requires having a repertoire of strategies. Before learners c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Assesses learners' strategic flexibility through problem-solving tasks, evaluating their ability to select and adapt appropriate methods based on problem context. Examines learners' reasoning behind strategy choice and evaluates their efficiency in applying chosen methods.

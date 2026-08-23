@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Black Genius Profile
+description: This strategy involves capturing Black learners’ genius using specific elements such as Interest Awareness, Racial Identity, Social Justice, Multi-cultural Navigation, Selective Trust, and Can-do Attitude.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Black Genius Profile
@@ -35,8 +39,8 @@ This strategy involves capturing Black learners’ genius using specific element
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/eliciting-student-thinking|Eliciting Student Thinking]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
 
 ## Assessment Evidence
 - Track the completion and use of Black Genius Profiles. Gather feedback from learners, parents, and educators on the effectiveness of the framework. Observe changes in learners' self-esteem, academic performance, and social-emotional development.

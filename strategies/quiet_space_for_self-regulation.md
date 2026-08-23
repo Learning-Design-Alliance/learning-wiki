@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Quiet Space for Self-Regulation
+description: Designating a quiet space in the learning environment where learners can take breaks to regroup and calm themselves.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Quiet Space for Self-Regulation
@@ -35,7 +39,7 @@ Designating a quiet space in the learning environment where learners can take br
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' use of the quiet space and their ability to self-regulate. Collect feedback from learners on the effectiveness of the quiet space in helping them calm down and refocus. Track the frequency and duration of learners' visits to the quiet space.

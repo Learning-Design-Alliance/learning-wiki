@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Demystification of Learning Challenges
+description: Demystification involves explaining to learners how memory and learning work, especially when they are struggling.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Demystification of Learning Challenges
@@ -35,9 +39,9 @@ Demystification involves explaining to learners how memory and learning work, es
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Supportive information](../elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learners' attitudes and behaviors related to learning, assess their self-awareness and understanding of their learning challenges, evaluate their use of effective strategies

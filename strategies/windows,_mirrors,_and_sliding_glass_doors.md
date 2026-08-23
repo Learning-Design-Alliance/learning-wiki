@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Windows, Mirrors, and Sliding Glass Doors
+description: This strategy involves using stories and materials that act as mirrors, windows, and sliding glass doors to help students identify their place in the world.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Windows, Mirrors, and Sliding Glass Doors
@@ -35,9 +39,9 @@ This strategy involves using stories and materials that act as mirrors, windows,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student engagement with materials, track changes in student attitudes and behaviors, and gather feedback from students and staff

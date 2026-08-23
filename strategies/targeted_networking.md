@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Targeted Networking
+description: "The \"Targeted Networking\" strategy involves focusing on specific activities, groups, or individuals who align with one's interests and goals in order to build meaningful relationships and connections."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Targeted Networking
@@ -35,10 +39,10 @@ The "Targeted Networking" strategy involves focusing on specific activities, gro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Supportive information](../elements/supportive-information.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Number of meaningful connections established, frequency of interactions, positive outcomes from collaborations, quality of shared knowledge.

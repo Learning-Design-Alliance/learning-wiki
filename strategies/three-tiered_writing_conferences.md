@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Three-Tiered Writing Conferences
+description: The Three-Tiered Writing Conference approach provides a structured format for brief, effective writing conferences between teachers and students.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Three-Tiered Writing Conferences
@@ -35,10 +39,10 @@ The Three-Tiered Writing Conference approach provides a structured format for br
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/articulation|Articulation]]
-- [[elements/modeling|Modeling]]
-- [[elements/coaching|Coaching]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Articulation](../elements/articulation.md)
+- [Modeling](../elements/modeling.md)
+- [Coaching](../elements/coaching.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased student engagement, enhanced self-reflection skills, positive conference experiences

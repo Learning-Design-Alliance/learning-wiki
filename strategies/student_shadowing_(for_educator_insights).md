@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Shadowing (for educator insights)
+description: Educators spend the majority of a school day shadowing a student to gain real-time qualitative data about their experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Shadowing (for educator insights)
@@ -35,8 +39,8 @@ Educators spend the majority of a school day shadowing a student to gain real-ti
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Changes in instructional practices, addressing of biases, improved student engagement and outcomes

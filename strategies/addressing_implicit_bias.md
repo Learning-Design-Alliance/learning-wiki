@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Addressing Implicit Bias
+description: Recognizing and addressing implicit biases involves moving away from the idea that being biased is inherently negative and acknowledging that everyone possesses biases.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Addressing Implicit Bias
@@ -35,9 +39,9 @@ Recognizing and addressing implicit biases involves moving away from the idea th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Increased self-awareness of biases, improved relationships with diverse individuals, and more inclusive decision-making.

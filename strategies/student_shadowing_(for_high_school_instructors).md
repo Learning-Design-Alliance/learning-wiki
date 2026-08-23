@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student Shadowing (for high school instructors)
+description: A veteran teacher or coach shadows one or two students for a couple of days to gain insights into their experiences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student Shadowing (for high school instructors)
@@ -35,8 +39,8 @@ A veteran teacher or coach shadows one or two students for a couple of days to g
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Changes in teaching practices, increased student engagement, improved student outcomes

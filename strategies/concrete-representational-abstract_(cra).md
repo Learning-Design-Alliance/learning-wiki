@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Concrete-Representational-Abstract (CRA)
+description: CRA is an instructional approach that uses concrete materials, visual representations, and abstract symbols to teach math concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Concrete-Representational-Abstract (CRA)
@@ -35,14 +39,14 @@ CRA is an instructional approach that uses concrete materials, visual representa
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
-- [[elements/procedural-information|Procedural information]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/simple-to-complex-sequencing|Simple-to-complex sequencing]]
+- [Supportive information](../elements/supportive-information.md)
+- [Procedural information](../elements/procedural-information.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md)
 
 ## Assessment Evidence
 - Learner mastery at each level (concrete, representational, and abstract) can be assessed through observation, performance-based tasks, and formal assessments. Ability to explain solutions and problem-solving processes.

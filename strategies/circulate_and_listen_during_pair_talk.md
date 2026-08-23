@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Circulate and Listen During Pair Talk
+description: Actively circulating and listening to pair discussions allows teachers to monitor student engagement, reinforce expectations, offer support, and gauge the success of the thinking process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Circulate and Listen During Pair Talk
@@ -35,8 +39,8 @@ Actively circulating and listening to pair discussions allows teachers to monito
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess Performance]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe the level of student engagement and participation. Listen for evidence of understanding or misconceptions. Note the types of questions students are asking and the connections they are making.

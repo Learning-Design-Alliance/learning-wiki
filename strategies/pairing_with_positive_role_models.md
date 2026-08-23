@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Pairing with Positive Role Models
+description: Pairing learners with peers who demonstrate strong relationship skills involves intentionally matching learners who may face challenges in social interactions with those who exhibit positive behaviors such as effective communication,…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Pairing with Positive Role Models
@@ -35,9 +39,9 @@ Pairing learners with peers who demonstrate strong relationship skills involves 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/modeling|Modeling]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Modeling](../elements/modeling.md)
 
 ## Assessment Evidence
 - Observe changes in the learner's social interactions, communication skills, and conflict resolution abilities. Gather feedback from the learner, the role model, and other educators or caregivers. Monitor the frequency and quality of positive interactions between the learner and their peers.

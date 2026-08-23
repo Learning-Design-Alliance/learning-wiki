@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Ask the 4 Questions
+description: "This approach involves asking and answering four key questions to provide quality feedback: What can the student do?"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Ask the 4 Questions
@@ -35,8 +39,8 @@ This approach involves asking and answering four key questions to provide qualit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe changes in learner performance. Track learner progress. Analyze the effectiveness of the feedback.

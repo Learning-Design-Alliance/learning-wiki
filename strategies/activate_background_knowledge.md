@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Activate Background Knowledge
+description: Activating students’ background knowledge about a topic before reading involves asking questions or discussing related experiences to help students think about what they already know.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Activate Background Knowledge
@@ -35,7 +39,7 @@ Activating students’ background knowledge about a topic before reading involve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Increased participation in discussions, improved comprehension of new material

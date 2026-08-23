@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Discussions to Guide Reflection
+description: Invite students to think about their thinking.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Discussions to Guide Reflection
@@ -35,7 +39,7 @@ Invite students to think about their thinking. Conduct discussions about student
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|peer discussion]]
+- [peer discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track the frequency and quality of peer interactions, noting instances of mutual support and advice-giving. Observe the level of comfort and openness in sharing weaknesses and challenges.

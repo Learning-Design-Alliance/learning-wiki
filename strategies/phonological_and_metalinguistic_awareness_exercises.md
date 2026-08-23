@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Phonological and Metalinguistic Awareness Exercises
+description: Facilitate reading acquisition by asking students to say words that start with the same sound(s) in English or the L1.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Phonological and Metalinguistic Awareness Exercises
@@ -35,8 +39,8 @@ Facilitate reading acquisition by asking students to say words that start with t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor students' ability to identify sounds and manipulate words in both English and their home language.

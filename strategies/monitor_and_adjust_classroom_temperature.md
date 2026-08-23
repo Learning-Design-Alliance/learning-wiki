@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Monitor and Adjust Classroom Temperature
+description: Maintaining an optimal temperature range (68º and 74º Fahrenheit) in classrooms can significantly affect student engagement and productivity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Monitor and Adjust Classroom Temperature
@@ -35,7 +39,7 @@ Maintaining an optimal temperature range (68º and 74º Fahrenheit) in classroom
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student engagement levels, observe concentration and focus, measure productivity (e.g., task completion rates). Compare academic outcomes in classrooms with and without temperature control.

@@ -1,8 +1,16 @@
 ---
 type: element
+title: Fading
+description: Fading is the element in which instructional support is deliberately reduced as learner competence grows.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: renkl-2002
+    resource: "https://doi.org/10.1023/A:1016027302995"
+    title: "Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *Instructional Science, 30*(4), 293-308"
+    author: "Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R"
 ---
 
 # Fading
@@ -25,18 +33,18 @@ Fading is the element in which instructional support is deliberately reduced as 
 - Support transfer of responsibility and increasingly independent performance.
 
 ### Affordances
-- [[principles/scaffolding|Scaffolding]]
-- [[principles/scaffolding-and-fading|Scaffolding and Fading]]
-- [[principles/mastery-learning|Mastery Learning]]
+- [Scaffolding](../principles/scaffolding.md)
+- [Scaffolding and Fading](../principles/scaffolding-and-fading.md)
+- [Mastery Learning](../principles/mastery-learning.md)
 
 ## Related Elements
-- [[elements/demonstration|Demonstration]]
-- [[elements/worked-examples|Worked Examples]]
-- [[elements/hints|Hints]]
+- [Demonstration](demonstration.md)
+- [Worked Examples](worked-examples.md)
+- [Hints](hints.md)
 
 ## Patterns That Use This Element
-- [[patterns/mastery-learning|Mastery Learning]]
-- [[patterns/merrills-first-principles-demonstration|Merrill's First Principles (Demonstration)]]
+- [Mastery Learning](../patterns/mastery-learning.md)
+- [Merrill's First Principles (Demonstration)](../patterns/merrills-first-principles-demonstration.md)
 
 ## Examples
 - Moving from full worked examples to partial examples to independent problem solving.

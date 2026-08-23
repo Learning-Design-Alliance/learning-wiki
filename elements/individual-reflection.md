@@ -1,7 +1,11 @@
 ---
 type: element
+title: Individual Reflection
+description: Learners independently analyze their experiences, thoughts, or learning progress.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Individual Reflection
@@ -27,19 +31,19 @@ Learners independently analyze their experiences, thoughts, or learning progress
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/reflection|Reflection]]
-- [[principles/metacognition|Metacognition]]
-- [[principles/self-regulated-learning|Self-Regulated Learning]]
+- [Reflection](../principles/reflection.md)
+- [Metacognition](../principles/metacognition.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
 
 ## Related Elements
-- [[elements/self-assessment|Self-Assessment]]
-- [[elements/journaling|Journaling]]
-- [[elements/metacognitive-strategies|Metacognitive Strategies]]
+- [Self-Assessment](self-assessment.md)
+- [Journaling](journaling.md)
+- [Metacognitive Strategies](metacognitive-strategies.md)
 
 ## Patterns That Use This Element
-- [[patterns/reflective-practice|Reflective Practice]]
-- [[patterns/self-regulated-learning|Self-Regulated Learning]]
-- [[patterns/journaling|Journaling]]
+- [Reflective Practice](../patterns/reflective-practice.md)
+- [Self-Regulated Learning](../patterns/self-regulated-learning.md)
+- [Journaling](../patterns/journaling.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

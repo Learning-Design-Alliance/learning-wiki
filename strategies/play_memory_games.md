@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Play Memory Games
+description: Memory games help hone focus for learners in a fun way, enabling them to concentrate when something challenging is presented.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Play Memory Games
@@ -35,7 +39,7 @@ Memory games help hone focus for learners in a fun way, enabling them to concent
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track improvements in memory skills. Monitor the learner's ability to focus during games. Collect feedback on the learner's enjoyment and engagement.

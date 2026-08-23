@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Learning Clubs
+description: Learning clubs are a grouping system used to organize active learning events based on student-selected areas of interest.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Learning Clubs
@@ -35,11 +39,11 @@ Learning clubs are a grouping system used to organize active learning events bas
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/research|Research]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Research](../elements/research.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Monitor participation and engagement in discussions. Review learning logs, blog posts, and project submissions for evidence of research skills and comprehension. Assess group dynamics and collaboration through observation.

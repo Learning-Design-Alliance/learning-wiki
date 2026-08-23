@@ -1,7 +1,11 @@
 ---
 type: element
+title: Recall prior knowledge
+description: "Activates learners' existing mental models to connect new information."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Recall prior knowledge
@@ -27,18 +31,18 @@ Activates learners' existing mental models to connect new information.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/activation|Activation]]
-- [[principles/retrieval-practice|Retrieval Practice]]
-- [[principles/scaffolding|Scaffolding]]
+- [Activation](../principles/activation.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
+- [Scaffolding](../principles/scaffolding.md)
 
 ## Related Elements
-- [[elements/concept-mapping|Concept Mapping]]
-- [[elements/pre-reading-questioning|Pre-Reading Questioning]]
-- [[elements/analogies|Analogies]]
+- [Concept Mapping](concept-mapping.md)
+- [Pre-Reading Questioning](pre-reading-questioning.md)
+- [Analogies](analogies.md)
 
 ## Patterns That Use This Element
-- [[patterns/gagnés-9-events|Gagné’s 9 Events]]
-- [[patterns/merrills-first-principles-activation|Merrill’s First Principles (Activation)]]
+- [Gagné’s 9 Events](../patterns/gagnés-9-events.md)
+- [Merrill’s First Principles (Activation)](../patterns/merrills-first-principles-activation.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

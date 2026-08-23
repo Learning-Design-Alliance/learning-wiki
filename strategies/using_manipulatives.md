@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Using Manipulatives
+description: Manipulatives are physical objects used as teaching tools to engage students in hands-on learning, especially in mathematics.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Using Manipulatives
@@ -35,8 +39,8 @@ Manipulatives are physical objects used as teaching tools to engage students in 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learners' ability to explain mathematical concepts using manipulatives, assess their ability to solve problems using manipulatives, and evaluate their transition from using manipulatives to abstract representations.

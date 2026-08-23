@@ -1,8 +1,16 @@
 ---
 type: element
+title: Real-World Problems
+description: Real-world problems are tasks framed around authentic issues, needs, or dilemmas outside purely academic abstraction.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: herrington-2000
+    resource: "https://doi.org/10.1007/BF02319856"
+    title: "Herrington, J., & Oliver, R. (2000). An instructional design framework for authentic learning environments. *Educational Technology Research and Development, 48*(3), 23-48"
+    author: "Herrington, J., & Oliver, R"
 ---
 
 # Real-World Problems
@@ -23,18 +31,18 @@ Real-world problems are tasks framed around authentic issues, needs, or dilemmas
 - Support application, transfer, and learner investment through authentic context.
 
 ### Affordances
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/authentic-audiences-purposes|Authentic Audiences & Purposes]]
-- [[principles/engagement|Engagement]]
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
+- [Engagement](../principles/engagement.md)
 
 ## Related Elements
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/scenario-based-learning|Scenario-Based Learning]]
-- [[elements/contextualization|Contextualization]]
+- [Problem Presentation](problem-presentation.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
+- [Contextualization](contextualization.md)
 
 ## Patterns That Use This Element
-- [[patterns/anchored-instruction|Anchored Instruction]]
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
+- [Anchored Instruction](../patterns/anchored-instruction.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 - Learners address a local civic issue, client problem, or design challenge with real constraints.

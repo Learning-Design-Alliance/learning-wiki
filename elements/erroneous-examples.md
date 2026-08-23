@@ -1,8 +1,16 @@
 ---
 type: element
+title: Erroneous Examples
+description: Erroneous examples are worked examples that intentionally contain a mistake for learners to identify, explain, and correct.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: durkin-2012
+    resource: "https://doi.org/10.1016/j.learninstruc.2011.11.001"
+    title: "Durkin, K., & Rittle-Johnson, B. (2012). The effectiveness of using erroneous examples to support learning of decimal magnitude. *Learning and Instruction, 22*(3), 206-214"
+    author: "Durkin, K., & Rittle-Johnson, B"
 ---
 
 # Erroneous Examples
@@ -28,18 +36,18 @@ Erroneous examples are worked examples that intentionally contain a mistake for 
 - Strengthen conceptual understanding, misconception detection, and self-monitoring.
 
 ### Affordances
-- [[principles/error-analysis|Error Analysis]]
-- [[principles/worked-examples|Worked Examples]]
-- [[principles/explaining-their-thinking|Explaining Their Thinking]]
+- [Error Analysis](../principles/error-analysis.md)
+- [Worked Examples](../principles/worked-examples.md)
+- [Explaining Their Thinking](../principles/explaining-their-thinking.md)
 
 ## Related Elements
-- [[elements/worked-examples|Worked Examples]]
-- [[elements/feedback|Feedback]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Worked Examples](worked-examples.md)
+- [Feedback](feedback.md)
+- [Conceptual Questioning](conceptual-questioning.md)
 
 ## Patterns That Use This Element
-- [[patterns/mastery-learning|Mastery Learning]]
-- [[patterns/guided-discovery-learning|Guided Discovery Learning]]
+- [Mastery Learning](../patterns/mastery-learning.md)
+- [Guided Discovery Learning](../patterns/guided-discovery-learning.md)
 
 ## Examples
 - Students inspect a flawed algebra solution and explain where the reasoning breaks.

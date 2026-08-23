@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: KWL Chart
+description: A KWL chart is a graphic organizer used to structure a lesson by tapping into what students already Know (K), what they Want to know (W), and what they have Learned (L) about a topic.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # KWL Chart
@@ -35,9 +39,9 @@ A KWL chart is a graphic organizer used to structure a lesson by tapping into wh
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/activation|Activation]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Activation](../elements/activation.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Completeness and accuracy of entries in each column; ability to summarize what was learned; presentation of findings

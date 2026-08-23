@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Journaling for Self-Reflection
+description: Journaling strategies include instructional practices that promote self-reflection along with tips for teachers in providing productive feedback.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Journaling for Self-Reflection
@@ -35,7 +39,7 @@ Journaling strategies include instructional practices that promote self-reflecti
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Students provide valuable insights into themselves.

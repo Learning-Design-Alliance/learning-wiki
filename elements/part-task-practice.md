@@ -1,7 +1,11 @@
 ---
 type: element
+title: Part-task practice
+description: Isolated, repeated practice of elements that require automation for efficient task performance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Part-task practice
@@ -27,19 +31,19 @@ Isolated, repeated practice of elements that require automation for efficient ta
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/spaced-learning|Spaced Learning]]
-- [[principles/retrieval-practice|Retrieval Practice]]
-- [[principles/deliberate-practice|Deliberate Practice]]
+- [Spaced Learning](../principles/spaced-learning.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
+- [Deliberate Practice](../principles/deliberate-practice.md)
 
 ## Related Elements
-- [[elements/drill-practice|Drill & Practice]]
-- [[elements/spaced-learning|Spaced Learning]]
-- [[elements/mastery-learning|Mastery Learning]]
+- [Drill & Practice](drill-practice.md)
+- [Spaced Learning](spaced-learning.md)
+- [Mastery Learning](mastery-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/4cid|Four-Component Instructional Design]]
-- [[patterns/competency-based-learning|Competency-Based Learning]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Four-Component Instructional Design](../patterns/4cid.md)
+- [Competency-Based Learning](../patterns/competency-based-learning.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

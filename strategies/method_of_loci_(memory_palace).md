@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Method of Loci (Memory Palace)
+description: "The method of loci involves creating a mental 'memory palace' by associating items to be remembered with specific locations in a familiar place."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Method of Loci (Memory Palace)
@@ -35,8 +39,8 @@ The method of loci involves creating a mental 'memory palace' by associating ite
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Assess the number of items recalled correctly using the method of loci. Monitor the ease with which learners can create and navigate their memory palaces.

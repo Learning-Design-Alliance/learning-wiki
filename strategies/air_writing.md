@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Air Writing
+description: Air writing involves writing letters or words in the air while simultaneously visualizing the shape of the letters and saying their names.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Air Writing
@@ -35,9 +39,9 @@ Air writing involves writing letters or words in the air while simultaneously vi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learners' ability to form letters and spell words correctly after practicing air writing, assess their engagement and participation, evaluate performance on spelling tests and handwriting assessments

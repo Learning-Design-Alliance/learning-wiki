@@ -1,8 +1,16 @@
 ---
 type: element
+title: Socratic Questioning
+description: Socratic questioning is the element in which prompts are used to probe assumptions, clarify reasoning, test evidence, and extend implications.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: chin-2007
+    resource: "https://doi.org/10.1002/tea.20171"
+    title: "Chin, C. (2007). Teacher questioning in science classrooms: Approaches that stimulate productive thinking. *Journal of Research in Science Teaching, 44*(6), 815-843"
+    author: Chin, C
 ---
 
 # Socratic Questioning
@@ -28,18 +36,18 @@ Socratic questioning is the element in which prompts are used to probe assumptio
 - Clarify assumptions, test evidence, and deepen reasoning.
 
 ### Affordances
-- [[principles/explaining-their-thinking|Explaining Their Thinking]]
-- [[principles/social-learning|Social Learning]]
-- [[principles/constructivism|Constructivism]]
+- [Explaining Their Thinking](../principles/explaining-their-thinking.md)
+- [Social Learning](../principles/social-learning.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Related Elements
-- [[elements/conceptual-questioning|Conceptual Questioning]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Conceptual Questioning](conceptual-questioning.md)
+- [Class Discussion](class-discussion.md)
+- [Peer Discussion](peer-discussion.md)
 
 ## Patterns That Use This Element
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Socratic Seminar](../patterns/socratic-seminar.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 - Asking learners what evidence supports a claim and what would count against it.

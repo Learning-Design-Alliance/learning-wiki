@@ -1,8 +1,16 @@
 ---
 type: element
+title: Spaced Repetition
+description: Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: cepeda-2006
+    resource: "https://doi.org/10.1037/0033-2909.132.3.354"
+    title: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks. *Psychological Bulletin, 132*(3), 354-380"
+    author: "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D"
 ---
 
 # Spaced Repetition
@@ -23,17 +31,17 @@ Spaced repetition is the element in which key material is revisited at strategic
 - Strengthen long-term retention and access to important knowledge.
 
 ### Affordances
-- [[principles/spaced-learning|Spaced Learning]]
-- [[principles/memory-consolidation|Memory Consolidation]]
-- [[principles/retrieval-practice|Retrieval Practice]]
+- [Spaced Learning](../principles/spaced-learning.md)
+- [Memory Consolidation](../principles/memory-consolidation.md)
+- [Retrieval Practice](../principles/retrieval-practice.md)
 
 ## Related Elements
-- [[elements/continuous-review|Continuous Review]]
-- [[elements/retrieval-practice|Retrieval Practice]]
+- [Continuous Review](continuous-review.md)
+- [Retrieval Practice](retrieval-practice.md)
 
 ## Patterns That Use This Element
-- [[patterns/spaced-learning|Spaced Learning]]
-- [[patterns/mastery-learning|Mastery Learning]]
+- [Spaced Learning](../patterns/spaced-learning.md)
+- [Mastery Learning](../patterns/mastery-learning.md)
 
 ## Examples
 - Recurrent low-stakes review of vocabulary or formulas at increasing intervals.

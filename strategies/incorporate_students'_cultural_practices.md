@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Incorporate Students' Cultural Practices"
+description: "This strategy involves integrating students' cultural backgrounds and experiences into lesson design and classroom activities."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Incorporate Students' Cultural Practices
@@ -35,10 +39,10 @@ This strategy involves integrating students' cultural backgrounds and experience
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/application|Application]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Application](../elements/application.md)
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe increased student participation and engagement. Analyze student work for connections to their cultural backgrounds. Gather feedback from students on their sense of belonging and cultural validation.

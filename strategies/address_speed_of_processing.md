@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Address Speed of Processing
+description: "Addressing speed of processing involves identifying students' strengths and challenges related to processing speed (the pace at which one takes in information, makes sense of it, and begins to respond) and using aligned strategies to…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Address Speed of Processing
@@ -35,9 +39,9 @@ Addressing speed of processing involves identifying students' strengths and chal
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student work samples demonstrating the use of aligned strategies, student reflections on the effectiveness of the strategies used, educator reflections on the impact of the strategies on student learning

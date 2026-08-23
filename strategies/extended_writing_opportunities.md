@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Extended Writing Opportunities
+description: Extended writing opportunities involve providing learners with regular practice in writing to enhance their skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Extended Writing Opportunities
@@ -35,8 +39,8 @@ Extended writing opportunities involve providing learners with regular practice 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor improvement in writing fluency, assess the complexity and accuracy of sentence construction, track engagement in digital chat features, analyze genre knowledge demonstrated in writing samples.

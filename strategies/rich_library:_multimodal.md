@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Rich Library: Multimodal"
+description: Providing learners with a variety of resources in multiple formats, such as blogs, lyrics, videos, web pages, online discussions, and fanfiction, to enhance disciplinary literacy and engagement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Rich Library: Multimodal
@@ -35,9 +39,9 @@ Providing learners with a variety of resources in multiple formats, such as blog
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student engagement with different types of resources. Assess student work (e.g., compositions) for improved quality and depth of understanding. Conduct surveys to gauge student interest and motivation.

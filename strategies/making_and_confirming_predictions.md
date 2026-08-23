@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Making and confirming predictions
+description: This strategy involves forming educated guesses or anticipations about the content or outcome of a text or audio material and then verifying these predictions as one engages with the material.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Making and confirming predictions
@@ -35,9 +39,9 @@ This strategy involves forming educated guesses or anticipations about the conte
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/lectures|Lectures]]
-- [[elements/eliciting-student-thinking|Eliciting Student Thinking]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Lectures](../elements/lectures.md)
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
 
 ## Assessment Evidence
 - Learner accuracy in predicting content, ability to confirm or revise predictions, depth of engagement with the material

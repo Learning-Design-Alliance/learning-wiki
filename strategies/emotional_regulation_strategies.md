@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotional Regulation Strategies
+description: "Educators identify students' strengths and challenges in emotional regulation—the ability to control responses to emotional stimuli."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotional Regulation Strategies
@@ -35,9 +39,9 @@ Educators identify students' strengths and challenges in emotional regulation—
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe student behavior, track emotional responses to challenges, collect student reflections.

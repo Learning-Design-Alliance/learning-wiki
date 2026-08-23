@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Real-World Reframes
+description: "When a student expresses frustration or negativity (e.g., 'I can’t do this stuff!'), reflect their feelings and then prompt them to take action."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Real-World Reframes
@@ -35,8 +39,8 @@ When a student expresses frustration or negativity (e.g., 'I can’t do this stu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student responses to challenging situations and their use of reframing techniques.

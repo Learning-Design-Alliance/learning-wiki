@@ -1,8 +1,20 @@
 ---
 type: principle
+title: Peer Learning
+description: Peer learning is the principle that learners can deepen understanding by explaining, questioning, modeling, and responding to one another.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: topping-2005
+    resource: "https://doi.org/10.1080/01443410500345172"
+    title: "Topping, K. J. (2005). Trends in peer learning. *Educational Psychology, 25*(6), 631-645"
+    author: Topping, K. J
+  - id: fiorella-2013
+    resource: "https://doi.org/10.1016/j.cedpsych.2013.06.001"
+    title: "Fiorella, L., & Mayer, R. E. (2013). The relative benefits of learning by teaching and teaching expectancy. *Contemporary Educational Psychology, 38*(4), 281-288"
+    author: "Fiorella, L., & Mayer, R. E"
 ---
 
 # Peer Learning
@@ -12,7 +24,7 @@ Peer learning is the principle that learners can deepen understanding by explain
 
 ## Implications
 
-Peer learning is strongest when learners are asked to do real intellectual work with and for one another rather than merely sit in groups. Its value comes from explanation, comparison, and mutual response. Learners often make their own thinking clearer when they have to explain it to someone else [[claims/self-explanation-improves-conceptual-understanding]] [+S], and peer settings are stronger when learners monitor contribution, progress, and understanding rather than assuming interaction alone is enough [[claims/self-monitoring-improves-self-regulation]] [~M]. The main instructional challenge is quality control: peers can also amplify misconceptions or normalize shallow reasoning if tasks and facilitation are weak, which is why peer learning often benefits from structures and prompts that respond to learner needs rather than leaving interaction fully unshaped [[claims/contingent-scaffolding-improves-learning]] [~M].
+Peer learning is strongest when learners are asked to do real intellectual work with and for one another rather than merely sit in groups. Its value comes from explanation, comparison, and mutual response. Learners often make their own thinking clearer when they have to explain it to someone else [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], and peer settings are stronger when learners monitor contribution, progress, and understanding rather than assuming interaction alone is enough [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. The main instructional challenge is quality control: peers can also amplify misconceptions or normalize shallow reasoning if tasks and facilitation are weak, which is why peer learning often benefits from structures and prompts that respond to learner needs rather than leaving interaction fully unshaped [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M].
 
 ### Context
 #### Requirements
@@ -35,30 +47,30 @@ Peer learning is strongest when learners are asked to do real intellectual work 
 
 ### Theory
 #### Supporting
-- [[principles/social-learning|Social Learning]] — peers can act as models, interpreters, and feedback sources
-- [[principles/social-constructivism|Social Constructivism]] — understanding is often co-constructed in interaction
-- [[principles/community-of-inquiry|Community of Inquiry]] — peer learning is stronger when discourse is both socially and cognitively supported
+- [Social Learning](social-learning.md) — peers can act as models, interpreters, and feedback sources
+- [Social Constructivism](social-constructivism.md) — understanding is often co-constructed in interaction
+- [Community of Inquiry](community-of-inquiry.md) — peer learning is stronger when discourse is both socially and cognitively supported
 
 #### Contradicting / Qualifying
-- [[theories/cognitive-load-theory|Cognitive Load Theory]] — peer interaction can add coordination demands that need to be managed through structure and task design
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — peer interaction can add coordination demands that need to be managed through structure and task design
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — explaining to peers can deepen conceptual understanding
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — peer contexts are stronger when learners monitor contribution, progress, and understanding
-- [[claims/contingent-scaffolding-improves-learning]] [~M] — peer learning often benefits from instructor or peer structures that respond to learner needs
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining to peers can deepen conceptual understanding
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — peer contexts are stronger when learners monitor contribution, progress, and understanding
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — peer learning often benefits from instructor or peer structures that respond to learner needs
 
 ## Related Principles
-- [[principles/peer-discussion|Peer Discussion]] — one of the clearest vehicles for peer learning
-- [[principles/community-of-inquiry|Community of Inquiry]] — explains how peer interaction can become substantive inquiry rather than social activity alone
-- [[principles/collaborative-learning|Collaborative Learning]] — peer learning is a narrower principle focused on learner-to-learner explanation and response
+- [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning
+- [Community of Inquiry](community-of-inquiry.md) — explains how peer interaction can become substantive inquiry rather than social activity alone
+- [Collaborative Learning](collaborative-learning.md) — peer learning is a narrower principle focused on learner-to-learner explanation and response
 
 ## Examples
 
 ### Illustrative
 
-**[[patterns/peer-instruction|Peer Instruction]]** — Learners answer a conceptual question individually, discuss reasoning with peers, then revise their answer.
+**[Peer Instruction](../patterns/peer-instruction.md)** — Learners answer a conceptual question individually, discuss reasoning with peers, then revise their answer.
 
-**[[patterns/jigsaw-method|Jigsaw Method]]** — Each learner becomes a temporary expert and teaches part of the whole to peers.
+**[Jigsaw Method](../patterns/jigsaw-method.md)** — Each learner becomes a temporary expert and teaches part of the whole to peers.
 
 **Peer revision or peer explanation routines** — Learners respond to drafts, interpretations, or solutions and improve their own understanding through explaining what works and why.
 

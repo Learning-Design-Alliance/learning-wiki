@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Asset-Based Teaching
+description: A pedagogical approach that focuses on planning with learners’ strengths at the forefront, recognizing that every learner has something to learn, share, and contribute.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Asset-Based Teaching
@@ -35,9 +39,9 @@ A pedagogical approach that focuses on planning with learners’ strengths at th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Learner participation in discussions, quality of connections made between learners, ability to share different perspectives

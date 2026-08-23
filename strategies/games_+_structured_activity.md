@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Games + Structured Activity
+description: Students engage with educational games designed to introduce or reinforce specific concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Games + Structured Activity
@@ -35,9 +39,9 @@ Students engage with educational games designed to introduce or reinforce specif
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Practice](../elements/practice.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Engagement with games, completion of structured activities, performance on related assignments.

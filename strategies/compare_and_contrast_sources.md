@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Compare and Contrast Sources
+description: Present learners with multiple sources on the same topic and have them compare and contrast the information presented.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Compare and Contrast Sources
@@ -35,9 +39,9 @@ Present learners with multiple sources on the same topic and have them compare a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Assess students' ability to identify similarities and differences between sources. Evaluate their ability to determine which sources are more reliable.

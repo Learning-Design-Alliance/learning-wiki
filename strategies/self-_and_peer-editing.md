@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self- and Peer-Editing
+description: Self- and peer-editing are collaborative processes where learners evaluate their own writing and provide feedback to peers.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self- and Peer-Editing
@@ -35,11 +39,11 @@ Self- and peer-editing are collaborative processes where learners evaluate their
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/revision|Revision]]
-- [[elements/application|Application]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Revision](../elements/revision.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Monitor students' self- and peer-assessment skills through observation and feedback analysis.

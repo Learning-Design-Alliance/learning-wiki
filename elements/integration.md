@@ -1,7 +1,11 @@
 ---
 type: element
+title: Integration
+description: Learners reflect on and connect learning to their own experiences and future applications.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Integration
@@ -27,18 +31,18 @@ Learners reflect on and connect learning to their own experiences and future app
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/reflection|Reflection]]
-- [[principles/metacognition|Metacognition]]
-- [[principles/self-regulation|Self-Regulation]]
+- [Reflection](../principles/reflection.md)
+- [Metacognition](../principles/metacognition.md)
+- [Self-Regulation](../principles/self-regulation.md)
 
 ## Related Elements
-- [[elements/reflection-activities|Reflection Activities]]
-- [[elements/case-based-learning|Case-Based Learning]]
-- [[elements/self-monitoring|Self-Monitoring]]
+- [Reflection Activities](reflection-activities.md)
+- [Case-Based Learning](case-based-learning.md)
+- [Self-Monitoring](self-monitoring.md)
 
 ## Patterns That Use This Element
-- [[patterns/merrills-first-principles|Merrill’s First Principles]]
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
+- [Merrill’s First Principles](../patterns/merrills-first-principles.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

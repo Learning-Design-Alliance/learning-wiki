@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cloud Text-to-Speech API
+description: Cloud Text-to-Speech allows developers to create natural-sounding, synthetic human speech as playable audio.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cloud Text-to-Speech API
@@ -35,7 +39,7 @@ Cloud Text-to-Speech allows developers to create natural-sounding, synthetic hum
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Evaluate the quality and naturalness of the synthesized speech. Measure the effectiveness of the API in different applications. Collect user feedback on the accessibility and usability of the resulting audio content.

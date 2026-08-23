@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Maintaining High Expectations for Student Performance
+description: Given that culturally responsive instruction is a student-centered philosophy, it should come as no surprise that expectations for achievement are determined and assigned individually for each student.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Maintaining High Expectations for Student Performance
@@ -35,9 +39,9 @@ Given that culturally responsive instruction is a student-centered philosophy, i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Increased student achievement, improved student motivation, and a stronger growth mindset.

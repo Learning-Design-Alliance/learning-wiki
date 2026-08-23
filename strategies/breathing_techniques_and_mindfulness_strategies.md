@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Breathing Techniques and Mindfulness Strategies
+description: Teaching breathing techniques and mindfulness strategies equips students with tools to manage challenging situations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Breathing Techniques and Mindfulness Strategies
@@ -35,8 +39,8 @@ Teaching breathing techniques and mindfulness strategies equips students with to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student behavior for signs of reduced stress and improved emotional regulation. Solicit student feedback on the helpfulness of the techniques.

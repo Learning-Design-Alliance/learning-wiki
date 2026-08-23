@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Bring the Outdoors In
+description: Allowing an indoor/outdoor space that becomes an extension of classroom learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Bring the Outdoors In
@@ -35,8 +39,8 @@ Allowing an indoor/outdoor space that becomes an extension of classroom learning
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/activation|Activation]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

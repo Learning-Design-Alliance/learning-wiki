@@ -1,8 +1,16 @@
 ---
 type: principle
+title: Community of Inquiry
+description: Community of inquiry is the principle that meaningful learning in collaborative settings depends on the interaction of social presence, cognitive presence, and teaching presence.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: garrison-2007
+    resource: "https://doi.org/10.1016/j.iheduc.2007.04.001"
+    title: "Garrison, D. R., & Arbaugh, J. B. (2007). Researching the community of inquiry framework. *The Internet and Higher Education, 10*(3), 157-172"
+    author: "Garrison, D. R., & Arbaugh, J. B"
 ---
 
 # Community of Inquiry
@@ -12,7 +20,7 @@ Community of inquiry is the principle that meaningful learning in collaborative 
 
 ## Implications
 
-Community of inquiry is most useful when learning depends on sustained discourse rather than isolated content delivery. The principle holds that collaborative meaning-making becomes stronger when three conditions are present together: learners feel socially present enough to participate, the instructional design drives cognitively substantive inquiry, and teaching presence organizes and guides the process. Discussion is strongest when learners articulate and refine their own reasoning in public [[claims/self-explanation-improves-conceptual-understanding]] [+S], when facilitation responds to confusion and keeps inquiry moving productively [[claims/contingent-scaffolding-improves-learning]] [~M], and when the group monitors the quality and direction of its inquiry rather than drifting socially [[claims/self-monitoring-improves-self-regulation]] [~M]. If any one of the three is weak, the experience tends to degrade: discussion becomes socially pleasant but shallow, intellectually demanding but socially fragile, or well-intentioned but poorly guided.
+Community of inquiry is most useful when learning depends on sustained discourse rather than isolated content delivery. The principle holds that collaborative meaning-making becomes stronger when three conditions are present together: learners feel socially present enough to participate, the instructional design drives cognitively substantive inquiry, and teaching presence organizes and guides the process. Discussion is strongest when learners articulate and refine their own reasoning in public [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], when facilitation responds to confusion and keeps inquiry moving productively [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M], and when the group monitors the quality and direction of its inquiry rather than drifting socially [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. If any one of the three is weak, the experience tends to degrade: discussion becomes socially pleasant but shallow, intellectually demanding but socially fragile, or well-intentioned but poorly guided.
 
 ### Context
 #### Requirements
@@ -36,28 +44,28 @@ Community of inquiry is most useful when learning depends on sustained discourse
 
 ### Theory
 #### Supporting
-- [[principles/social-learning|Social Learning]] — interaction with others is treated as a direct source of learning
-- [[principles/social-constructivism|Social Constructivism]] — shared dialogue and interpretation can shape understanding
-- [[principles/collaborative-learning|Collaborative Learning]] — inquiry communities depend on well-designed collaborative structures
+- [Social Learning](social-learning.md) — interaction with others is treated as a direct source of learning
+- [Social Constructivism](social-constructivism.md) — shared dialogue and interpretation can shape understanding
+- [Collaborative Learning](collaborative-learning.md) — inquiry communities depend on well-designed collaborative structures
 
 #### Contradicting / Qualifying
-- [[theories/cognitive-load-theory|Cognitive Load Theory]] — discussion-rich environments can overload learners if the discourse is poorly structured or insufficiently scaffolded
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — discussion-rich environments can overload learners if the discourse is poorly structured or insufficiently scaffolded
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — discussion is stronger when learners articulate and refine their own reasoning
-- [[claims/contingent-scaffolding-improves-learning]] [~M] — teaching presence matters because inquiry often needs responsive support and facilitation
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — communities are more effective when learners and groups monitor the quality and direction of their inquiry
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — discussion is stronger when learners articulate and refine their own reasoning
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — teaching presence matters because inquiry often needs responsive support and facilitation
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — communities are more effective when learners and groups monitor the quality and direction of their inquiry
 
 ## Related Principles
-- [[principles/collaborative-learning|Collaborative Learning]] — community of inquiry explains one strong form of collaborative meaning-making
-- [[principles/peer-discussion|Peer Discussion]] — discourse is the main medium through which inquiry communities operate
-- [[principles/social-learning|Social Learning]] — provides the broader rationale for why group interaction can be educational
+- [Collaborative Learning](collaborative-learning.md) — community of inquiry explains one strong form of collaborative meaning-making
+- [Peer Discussion](peer-discussion.md) — discourse is the main medium through which inquiry communities operate
+- [Social Learning](social-learning.md) — provides the broader rationale for why group interaction can be educational
 
 ## Examples
 
 ### Illustrative
 
-**[[patterns/discussion-group|Discussion Group]]** — A structured discussion environment where facilitation, prompts, and synthesis shape the quality of inquiry.
+**[Discussion Group](../patterns/discussion-group.md)** — A structured discussion environment where facilitation, prompts, and synthesis shape the quality of inquiry.
 
 **Online seminar forums with active facilitation** — Learners respond to a shared problem or text, build on peers’ ideas, and receive guidance that keeps the discourse substantive rather than merely social.
 

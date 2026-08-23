@@ -1,7 +1,11 @@
 ---
 type: element
+title: Team-Based Inquiry
+description: Students work in structured groups to analyze problems, construct solutions, and reflect together.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Team-Based Inquiry
@@ -27,17 +31,17 @@ Students work in structured groups to analyze problems, construct solutions, and
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-constructivism|Social Constructivism]]
-- [[principles/peer-learning|Peer Learning]]
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
+- [Social Constructivism](../principles/social-constructivism.md)
+- [Peer Learning](../principles/peer-learning.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/guided-inquiry|Guided Inquiry]]
-- [[elements/scaffolding|Scaffolding]]
+- [Collaborative Learning](collaborative-learning.md)
+- [Guided Inquiry](guided-inquiry.md)
+- [Scaffolding](scaffolding.md)
 
 ## Patterns That Use This Element
-- [[patterns/process-oriented-guided-inquiry-learning-pogil|Process-Oriented Guided Inquiry Learning (POGIL)]]
+- [Process-Oriented Guided Inquiry Learning (POGIL)](../patterns/process-oriented-guided-inquiry-learning-pogil.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

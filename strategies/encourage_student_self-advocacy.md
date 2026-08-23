@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Encourage Student Self-Advocacy
+description: Empowering students to become self-advocates involves helping them understand their strengths and challenges, and providing them with a voice in their learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Encourage Student Self-Advocacy
@@ -35,9 +39,9 @@ Empowering students to become self-advocates involves helping them understand th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe students' willingness to participate in discussions, request help when needed, and articulate their learning preferences. Measure students' ability to set goals, solve problems, and advocate for themselves.

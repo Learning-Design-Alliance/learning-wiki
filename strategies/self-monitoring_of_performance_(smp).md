@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Monitoring of Performance (SMP)
+description: Self-monitoring of performance is a strategy where learners monitor an aspect of their academic performance, such as the rate at which they correctly complete class work or the overall accuracy of their performance.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Monitoring of Performance (SMP)
@@ -35,10 +39,10 @@ Self-monitoring of performance is a strategy where learners monitor an aspect of
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track rate of work completion and accuracy of performance. Compare data before and after implementation to gauge effectiveness. Monitor consistency of self-monitoring procedures.

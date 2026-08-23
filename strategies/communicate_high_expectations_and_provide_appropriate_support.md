@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Communicate High Expectations and Provide Appropriate Support
+description: Expect more and you will get it.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Communicate High Expectations and Provide Appropriate Support
@@ -35,8 +39,8 @@ Expect more and you will get it. High expectations are important for everyone â€
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased tutee confidence, improved performance, positive feedback about tutor support.

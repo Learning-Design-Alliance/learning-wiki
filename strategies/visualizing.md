@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Visualizing
+description: Visualizing involves creating a mental image or representation of a problem or text to aid in understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Visualizing
@@ -35,9 +39,9 @@ Visualizing involves creating a mental image or representation of a problem or t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved comprehension, better problem-solving accuracy, and the ability to create meaningful visual representations.

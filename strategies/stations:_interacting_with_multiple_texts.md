@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Stations: Interacting with Multiple Texts"
+description: The Stations strategy involves small groups of learners rotating through different stations to interact with a variety of resources (informational texts, poetry, art, photography, maps, videos, audio clips) related to a specific event,…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Stations: Interacting with Multiple Texts
@@ -35,11 +39,11 @@ The Stations strategy involves small groups of learners rotating through differe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Quality of student responses to station activities, participation in debriefing discussions, ability to synthesize information from multiple sources.

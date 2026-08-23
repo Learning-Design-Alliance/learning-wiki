@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Teach Self-Regulation Skills
+description: Self-regulation is the ability to alter and regulate our emotional and behavioral responses.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Teach Self-Regulation Skills
@@ -35,9 +39,9 @@ Self-regulation is the ability to alter and regulate our emotional and behaviora
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Monitor student behavior and emotional responses in challenging situations. Observe student use of self-regulation strategies. Collect student feedback on the effectiveness of the strategies.

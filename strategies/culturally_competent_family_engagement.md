@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Culturally Competent Family Engagement
+description: Culturally competent family engagement involves training school staff in behaviors, attitudes, and policies that enable effective cross-cultural relationships.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Culturally Competent Family Engagement
@@ -35,9 +39,9 @@ Culturally competent family engagement involves training school staff in behavio
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track family engagement rates, conduct surveys to gather feedback on school culture and staff interactions, and monitor student outcomes.

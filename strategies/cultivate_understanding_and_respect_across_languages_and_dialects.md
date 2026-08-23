@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cultivate Understanding and Respect Across Languages and Dialects
+description: Using translations, descriptions, movement, and images to support learning in unfamiliar or complex languages promotes understanding and respect for diverse linguistic backgrounds.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cultivate Understanding and Respect Across Languages and Dialects
@@ -35,8 +39,8 @@ Using translations, descriptions, movement, and images to support learning in un
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/demonstration|Demonstration]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learner engagement and participation in activities. Assess learner understanding of key concepts through discussions or written assignments. Track improvements in communication and cultural awareness.

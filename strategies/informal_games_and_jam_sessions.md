@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Informal Games and Jam Sessions
+description: Encourage participation in informal games and jam sessions to foster creativity, collaboration, and enjoyment without the pressure of competition.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Informal Games and Jam Sessions
@@ -35,9 +39,9 @@ Encourage participation in informal games and jam sessions to foster creativity,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/practice|Practice]]
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in activities. Assess their creativity and self-expression through their contributions. Gather feedback from learners about their experiences.

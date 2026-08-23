@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Parental Involvement in Physical Activity
+description: Engage parents by providing details about the benefits of physical activity and encouraging their participation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Parental Involvement in Physical Activity
@@ -35,8 +39,8 @@ Engage parents by providing details about the benefits of physical activity and 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/supportive-information|Supportive information]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Track parental involvement in school programs, gather feedback from parents and students, monitor overall participation in physical activity

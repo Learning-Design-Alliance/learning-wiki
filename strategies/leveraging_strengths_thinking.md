@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leveraging Strengths Thinking
+description: Shifting from deficit to strengths thinking, which views families as having significant expertise and resources that can inform and improve student learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leveraging Strengths Thinking
@@ -35,8 +39,8 @@ Shifting from deficit to strengths thinking, which views families as having sign
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/eliciting-student-thinking|Eliciting Student Thinking]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess staff's application of leveraging strengths through surveys, observations, and feedback from families. Monitor improvements in family-school partnerships and student outcomes.

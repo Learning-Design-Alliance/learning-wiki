@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Research-Based Learning
+description: Research-Based Learning is a pattern in which learners investigate questions, gather and evaluate evidence, and build explanations or products from that inquiry.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: brew-2013
+    resource: "https://doi.org/10.1007/s10734-013-9624-x"
+    title: "Brew, A. (2013). Understanding the scope of undergraduate research: A framework for curricular and pedagogical decision-making. *Higher Education, 66*(5), 603-618"
+    author: Brew, A
 author: research-centered instruction tradition
 grain_size: unit
 ---
@@ -34,19 +42,19 @@ Research-Based Learning is a pattern in which learners investigate questions, ga
 
 ### Theory
 #### Supporting
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
-- [[principles/constructivism|Constructivism]]
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Constructivism](../principles/constructivism.md)
 
 ## Design
 
 ### Elements Used
-- [[elements/information-literacy|Information Literacy]]
-- [[elements/research|Research]]
-- [[elements/resource-evaluation|Resource Evaluation]]
+- [Information Literacy](../elements/information-literacy.md)
+- [Research](../elements/research.md)
+- [Resource Evaluation](../elements/resource-evaluation.md)
 
 ### Affordances
-- [[principles/evaluating-sources|Evaluating Sources]]
-- [[principles/explicit-instruction-internet-search|Explicit Instruction in Internet Search]]
+- [Evaluating Sources](../principles/evaluating-sources.md)
+- [Explicit Instruction in Internet Search](../principles/explicit-instruction-internet-search.md)
 
 ## Examples
 - Students research a local issue and build a recommendation supported by sources.

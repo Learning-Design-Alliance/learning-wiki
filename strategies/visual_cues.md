@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Visual Cues
+description: Using graphics or gestures can help learners who face auditory processing challenges.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Visual Cues
@@ -35,8 +39,8 @@ Using graphics or gestures can help learners who face auditory processing challe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe the frequency and effectiveness of visual cue use. Review notes to see if students take advantage of the visual aids.

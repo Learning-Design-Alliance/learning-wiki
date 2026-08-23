@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Building Community Through Peer Feedback in PBL
+description: Building community through peer feedback involves giving students opportunities to frequently share feedback and revise their work.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Building Community Through Peer Feedback in PBL
@@ -35,11 +39,11 @@ Building community through peer feedback involves giving students opportunities 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/submission|Submission]]
-- [[elements/review|Review]]
-- [[elements/feedback|Feedback]]
-- [[elements/revision|Revision]]
+- [Peer Interaction](../elements/peer-interaction.md)
+- [Submission](../elements/submission.md)
+- [Review](../elements/review.md)
+- [Feedback](../elements/feedback.md)
+- [Revision](../elements/revision.md)
 
 ## Assessment Evidence
 - Increased student engagement, improved quality of work, and a stronger sense of community in the classroom.

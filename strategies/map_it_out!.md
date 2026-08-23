@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Map It Out!"
+description: Before a trip, children map the route, calculate mileage, estimate travel time, and track progress along the way.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Map It Out!
@@ -35,8 +39,8 @@ Before a trip, children map the route, calculate mileage, estimate travel time, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/assess-performance|Assess performance]]
+- [Application](../elements/application.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to read and interpret the map accurately. Evaluate the accuracy of calculated distances and travel times.

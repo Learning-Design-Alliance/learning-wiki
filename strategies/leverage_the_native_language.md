@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leverage the Native Language
+description: "Integrate students' native languages into project work."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leverage the Native Language
@@ -35,7 +39,7 @@ Integrate students' native languages into project work. Ask how you can leverage
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-task-performance|Whole-task performance]]
+- [Whole-task performance](../elements/whole-task-performance.md)
 
 ## Assessment Evidence
 - Increased student engagement, improved project outcomes, and positive attitudes toward linguistic diversity.

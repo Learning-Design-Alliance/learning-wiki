@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cultural Exchange Kits
+description: "Students create 'Culture Kits' with special items that bring their culture alive."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cultural Exchange Kits
@@ -35,9 +39,9 @@ Students create 'Culture Kits' with special items that bring their culture alive
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Quality of student presentations, depth of cultural understanding, engagement during discussions, and positive feedback.

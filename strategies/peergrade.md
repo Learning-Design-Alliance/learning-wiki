@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Peergrade
+description: Peergrade is a platform that allows learners to give and receive feedback effectively.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Peergrade
@@ -35,9 +39,9 @@ Peergrade is a platform that allows learners to give and receive feedback effect
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Review of feedback provided by learners to assess the depth and quality of their critique. Analysis of learner ratings and responses to feedback to assess their engagement with the process.

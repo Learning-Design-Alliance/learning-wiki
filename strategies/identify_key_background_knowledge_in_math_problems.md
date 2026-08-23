@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Identify Key Background Knowledge in Math Problems
+description: Identify what kinds of background knowledge learners need to understand a math problem.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Identify Key Background Knowledge in Math Problems
@@ -35,7 +39,7 @@ Identify what kinds of background knowledge learners need to understand a math p
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
 
 ## Assessment Evidence
 - Monitor learner's understanding, assess the impact of the instruction

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Math Games and Movement Breaks
+description: Incorporating quick, fun, physical math games for when learners get antsy.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Math Games and Movement Breaks
@@ -35,9 +39,9 @@ Incorporating quick, fun, physical math games for when learners get antsy. Break
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Monitor student engagement and enjoyment during math games. Track student progress on math concepts following activity breaks.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Trampoline Review
+description: Trampoline Review is a kinesthetic learning strategy that involves learners jumping on a small trampoline or performing other motor activities while reviewing information.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Trampoline Review
@@ -35,9 +39,9 @@ Trampoline Review is a kinesthetic learning strategy that involves learners jump
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe learners' ability to recall information while performing motor activities, assess their engagement and participation, evaluate performance on tests and quizzes after using the Trampoline Review

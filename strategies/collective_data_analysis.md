@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Collective Data Analysis
+description: Collective data analysis involves a systematic and iterative process of making sense of data through collaboration, especially in participatory action research.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collective Data Analysis
@@ -35,11 +39,11 @@ Collective data analysis involves a systematic and iterative process of making s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/data-analysis|Data Analysis]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Data Analysis](../elements/data-analysis.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Assess the rigor of the analysis, the validity of the conclusions, and the extent to which the findings are used to inform action.

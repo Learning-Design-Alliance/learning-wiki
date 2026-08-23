@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Individual Spaces
+description: Creating designated areas within the classroom to serve specific functions, such as independent work, collaborative projects, or mini-lessons, can promote student engagement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Individual Spaces
@@ -35,9 +39,9 @@ Creating designated areas within the classroom to serve specific functions, such
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-task-performance|Whole-task performance]]
-- [[elements/supportive-information|Supportive information]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student engagement levels in different spaces, collect feedback through surveys or discussions, monitor task completion rates in each zone

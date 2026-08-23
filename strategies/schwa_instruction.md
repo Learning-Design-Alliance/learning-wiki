@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Schwa Instruction
+description: Teach children about schwa (/ ə/), the unaccented vowel sound that has been emptied of its identity and can be described as a lazy vowel.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Schwa Instruction
@@ -35,9 +39,9 @@ Teach children about schwa (/ ə/), the unaccented vowel sound that has been emp
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Assess accuracy in identifying and marking schwa sounds. Monitor progress in spelling skills.

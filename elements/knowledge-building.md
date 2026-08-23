@@ -1,8 +1,11 @@
 ---
 type: element
+title: Knowledge-Building
+description: Knowledge-building is the element in which learners collectively construct, refine, and extend ideas rather than only consume or repeat them.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Knowledge-Building
@@ -23,17 +26,17 @@ Knowledge-building is the element in which learners collectively construct, refi
 - Build collective understanding and progressively improve explanations.
 
 ### Affordances
-- [[principles/social-constructivism|Social Constructivism]]
-- [[principles/community-of-inquiry|Community of Inquiry]]
+- [Social Constructivism](../principles/social-constructivism.md)
+- [Community of Inquiry](../principles/community-of-inquiry.md)
 
 ## Related Elements
-- [[elements/knowledge-building-discourse|Knowledge-Building Discourse]]
-- [[elements/reciprocal-teaching|Reciprocal Teaching]]
-- [[elements/collaborative-discussion|Collaborative Discussion]]
+- [Knowledge-Building Discourse](knowledge-building-discourse.md)
+- [Reciprocal Teaching](reciprocal-teaching.md)
+- [Collaborative Discussion](collaborative-discussion.md)
 
 ## Patterns That Use This Element
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Collaborative Inquiry](../patterns/collaborative-inquiry.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 - Learners iteratively improve a shared explanation through discussion and evidence.

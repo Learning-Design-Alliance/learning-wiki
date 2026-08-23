@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Feedback Sandwich
+description: "The feedback sandwich technique involves delivering feedback in three parts: compliment, correct, compliment."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Feedback Sandwich
@@ -35,7 +39,7 @@ The feedback sandwich technique involves delivering feedback in three parts: com
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe changes in learner attitude and behavior. Monitor the effectiveness of the feedback in promoting improvement.

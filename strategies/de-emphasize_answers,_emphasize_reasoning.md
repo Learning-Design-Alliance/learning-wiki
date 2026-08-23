@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: De-emphasize Answers, Emphasize Reasoning
+description: Spend more time on reasoning than on finding the correct answer.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # De-emphasize Answers, Emphasize Reasoning
@@ -35,8 +39,8 @@ Spend more time on reasoning than on finding the correct answer. Teachers can pr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
-- [[elements/articulation|Articulation]]
+- [Modeling](../elements/modeling.md)
+- [Articulation](../elements/articulation.md)
 
 ## Assessment Evidence
 - Observe changes in learner participation, monitor increased exploration of different strategies, and assess improvements in reasoning skills.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Collaborative Learning Space Design
+description: Creating collaborative learning spaces involves intentionally designing classrooms to facilitate group work and interaction.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collaborative Learning Space Design
@@ -35,10 +39,10 @@ Creating collaborative learning spaces involves intentionally designing classroo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/reflection|Reflection]]
-- [[elements/team-based-inquiry|Team-Based Inquiry]]
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Reflection](../elements/reflection.md)
+- [Team-Based Inquiry](../elements/team-based-inquiry.md)
 
 ## Assessment Evidence
 - Observe group dynamics and interactions during collaborative activities, assess the quality of collaborative work products, survey students about their experiences with group work, track student engagement and participation in class discussions

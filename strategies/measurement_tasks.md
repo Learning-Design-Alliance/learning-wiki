@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Measurement Tasks
+description: Measurement tasks involve using measurement tools and techniques to quantify physical properties such as length, volume, and temperature.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Measurement Tasks
@@ -35,8 +39,8 @@ Measurement tasks involve using measurement tools and techniques to quantify phy
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Accuracy in measurements, correct use of measurement tools, clear reporting of results

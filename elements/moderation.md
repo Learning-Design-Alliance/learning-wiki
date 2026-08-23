@@ -1,7 +1,11 @@
 ---
 type: element
+title: Moderation
+description: An instructor or facilitator guides discussions to ensure productive engagement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Moderation
@@ -27,17 +31,17 @@ An instructor or facilitator guides discussions to ensure productive engagement.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/social-learning|Social Learning]]
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
+- [Social Learning](../principles/social-learning.md)
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
 
 ## Related Elements
-- [[elements/discussion-prompt|Discussion Prompt]]
-- [[elements/peer-interaction|Peer Interaction]]
-- [[elements/knowledge-building-discourse|Knowledge-Building Discourse]]
+- [Discussion Prompt](discussion-prompt.md)
+- [Peer Interaction](peer-interaction.md)
+- [Knowledge-Building Discourse](knowledge-building-discourse.md)
 
 ## Patterns That Use This Element
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
-- [[patterns/socratic-seminar|Socratic Seminar]]
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
+- [Socratic Seminar](../patterns/socratic-seminar.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

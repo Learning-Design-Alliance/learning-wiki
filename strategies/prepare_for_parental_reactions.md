@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Prepare for Parental Reactions
+description: "To do this work, a teacher must be confident in her belief that such discussions are essential for students' development, that they are part of her curriculum, that they're important for helping students understand their world and giving…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Prepare for Parental Reactions
@@ -35,9 +39,9 @@ To do this work, a teacher must be confident in her belief that such discussions
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/argument-construction|Argument Construction]]
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Argument Construction](../elements/argument-construction.md)
 
 ## Assessment Evidence
 - Track parental feedback and support, review curriculum plans for alignment with state standards, and gather feedback from administrators and colleagues.

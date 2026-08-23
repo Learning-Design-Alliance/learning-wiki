@@ -1,8 +1,16 @@
 ---
 type: principle
+title: Epistemic Cognition
+description: "Epistemic cognition is the principle of helping learners reason about knowledge itself: what counts as evidence, how claims are justified, how certainty should be calibrated, and how knowledge is constructed or revised."
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: hofer-1997
+    resource: "https://doi.org/10.3102/00346543067001088"
+    title: "Hofer, B. K., & Pintrich, P. R. (1997). The development of epistemological theories. *Review of Educational Research, 67*(1), 88-140"
+    author: "Hofer, B. K., & Pintrich, P. R"
 ---
 
 # Epistemic Cognition
@@ -12,7 +20,7 @@ Epistemic cognition is the principle of helping learners reason about knowledge 
 
 ## Implications
 
-Epistemic cognition matters when learners need to move beyond “what do I think?” toward “how do I know?” The principle is especially important in argument-rich, research-rich, and uncertainty-rich contexts where the quality of evidence, the strength of justification, and the limits of certainty all matter. Strong epistemic instruction helps learners evaluate claims, compare standards of evidence, and calibrate confidence, especially when they have to explain why a claim is justified rather than merely endorse it [[claims/self-explanation-improves-conceptual-understanding]] [+S]. It also becomes more powerful when learners monitor the strength of their evidence and the calibration of their certainty [[claims/self-monitoring-improves-self-regulation]] [~M]. Weak epistemic instruction often collapses into opinion sharing or vague skepticism because the norms for evidence and justification are never made explicit, though overconfident mistakes can become useful if they are followed by strong evidence-based correction [[claims/high-confidence-errors-improve-retention]] [~M].
+Epistemic cognition matters when learners need to move beyond “what do I think?” toward “how do I know?” The principle is especially important in argument-rich, research-rich, and uncertainty-rich contexts where the quality of evidence, the strength of justification, and the limits of certainty all matter. Strong epistemic instruction helps learners evaluate claims, compare standards of evidence, and calibrate confidence, especially when they have to explain why a claim is justified rather than merely endorse it [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. It also becomes more powerful when learners monitor the strength of their evidence and the calibration of their certainty [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. Weak epistemic instruction often collapses into opinion sharing or vague skepticism because the norms for evidence and justification are never made explicit, though overconfident mistakes can become useful if they are followed by strong evidence-based correction [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M].
 
 ### Context
 #### Requirements
@@ -37,27 +45,27 @@ Epistemic cognition matters when learners need to move beyond “what do I think
 ### Theory
 #### Supporting
 - Argumentation and disciplinary-literacy traditions — knowing includes knowing what counts as evidence and justification
-- [[principles/evaluating-sources|Evaluating Sources]] — one of the clearest practical applications of epistemic cognition
-- [[principles/perspective-taking|Perspective-Taking]] — evaluating claims often requires comparing viewpoints and standards
+- [Evaluating Sources](evaluating-sources.md) — one of the clearest practical applications of epistemic cognition
+- [Perspective-Taking](perspective-taking.md) — evaluating claims often requires comparing viewpoints and standards
 
 #### Contradicting / Qualifying
-- [[theories/behaviorism|Behaviorism]] — purely performance-focused instruction may underrepresent epistemic judgment because observable correctness does not capture warrant quality
+- [Behaviorism](../theories/behaviorism.md) — purely performance-focused instruction may underrepresent epistemic judgment because observable correctness does not capture warrant quality
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — requiring learners to explain why a claim is justified can deepen epistemic understanding
-- [[claims/high-confidence-errors-improve-retention]] [~M] — overconfident error can be instructionally useful when it is followed by evidence-based correction
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — epistemic judgment improves when learners monitor the quality of their evidence and certainty
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — requiring learners to explain why a claim is justified can deepen epistemic understanding
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — overconfident error can be instructionally useful when it is followed by evidence-based correction
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — epistemic judgment improves when learners monitor the quality of their evidence and certainty
 
 ## Related Principles
-- [[principles/evaluating-sources|Evaluating Sources]] — directly operationalizes epistemic judgment around credibility and evidence
-- [[principles/perspective-taking|Perspective-Taking]] — learners often need to compare competing interpretations and standards
-- [[principles/debate|Debate]] — argument-focused settings often require explicit epistemic norms to stay productive
+- [Evaluating Sources](evaluating-sources.md) — directly operationalizes epistemic judgment around credibility and evidence
+- [Perspective-Taking](perspective-taking.md) — learners often need to compare competing interpretations and standards
+- [Debate](debate.md) — argument-focused settings often require explicit epistemic norms to stay productive
 
 ## Examples
 
 ### Illustrative
 
-**[[elements/justification|Justification]]** — Learners are asked not only for an answer or claim, but for the evidence and reasoning that warrant it.
+**[Justification](../elements/justification.md)** — Learners are asked not only for an answer or claim, but for the evidence and reasoning that warrant it.
 
 **Source comparison routines** — Students evaluate multiple sources making related claims and determine which is better supported and why.
 

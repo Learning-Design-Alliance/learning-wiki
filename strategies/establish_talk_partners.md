@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Establish Talk Partners
+description: Establishing pre-arranged talk partners helps to streamline pair talk activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Establish Talk Partners
@@ -35,8 +39,8 @@ Establishing pre-arranged talk partners helps to streamline pair talk activities
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe the dynamics of established pairs during discussions. Assess whether both partners are actively participating and contributing ideas. Gather feedback from students about their experiences with their talk partners.

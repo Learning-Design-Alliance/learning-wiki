@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Purposeful Scheduling for Learner Connections
+description: Instructors can allocate class time specifically for getting to know learners through various activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Purposeful Scheduling for Learner Connections
@@ -35,8 +39,8 @@ Instructors can allocate class time specifically for getting to know learners th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe increased learner participation, positive feedback, and reduced behavioral issues. The instructor can gather insights into learner interests and experiences through class discussions and individual responses.

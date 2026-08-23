@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Expect Excellence
+description: Demonstrating a belief in excellence and setting high expectations is essential for creating a successful PBL culture.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Expect Excellence
@@ -35,8 +39,8 @@ Demonstrating a belief in excellence and setting high expectations is essential 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/coaching|Coaching]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Coaching](../elements/coaching.md)
 
 ## Assessment Evidence
 - Evaluate student work for evidence of high-quality performance. Assess student growth and progress toward achieving high expectations. Review the effectiveness of scaffolding strategies.

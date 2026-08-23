@@ -1,7 +1,11 @@
 ---
 type: element
+title: Reflection
+description: Learners analyze their experiences, actions, or decisions to deepen learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflection
@@ -27,19 +31,19 @@ Learners analyze their experiences, actions, or decisions to deepen learning.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/metacognition|Metacognition]]
-- [[principles/self-regulated-learning|Self-Regulated Learning]]
-- [[principles/reflective-practice|Reflective Practice]]
+- [Metacognition](../principles/metacognition.md)
+- [Self-Regulated Learning](../principles/self-regulated-learning.md)
+- [Reflective Practice](../principles/reflective-practice.md)
 
 ## Related Elements
-- [[elements/journaling|Journaling]]
-- [[elements/self-assessment|Self-Assessment]]
-- [[elements/metacognitive-strategies|Metacognitive Strategies]]
+- [Journaling](journaling.md)
+- [Self-Assessment](self-assessment.md)
+- [Metacognitive Strategies](metacognitive-strategies.md)
 
 ## Patterns That Use This Element
-- [[patterns/cognitive-apprenticeship|Cognitive Apprenticeship]]
-- [[patterns/self-regulated-learning|Self-Regulated Learning]]
-- [[patterns/reflective-practice|Reflective Practice]]
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)
+- [Self-Regulated Learning](../patterns/self-regulated-learning.md)
+- [Reflective Practice](../patterns/reflective-practice.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

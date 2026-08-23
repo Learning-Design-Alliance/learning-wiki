@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Classification Tasks
+description: Classification tasks involve sorting objects or concepts into categories based on shared properties.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Classification Tasks
@@ -35,8 +39,8 @@ Classification tasks involve sorting objects or concepts into categories based o
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Quality of the classification scheme, justification of the scheme, accuracy of observations

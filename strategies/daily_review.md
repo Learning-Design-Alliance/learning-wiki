@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Daily Review
+description: Daily review is a strategy where instructors begin lessons with a short (5-10 minute) review of previously studied material.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Daily Review
@@ -35,10 +39,10 @@ Daily review is a strategy where instructors begin lessons with a short (5-10 mi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved performance on quizzes and tests, increased retention of key concepts, and better understanding of current material due to a stronger foundation.

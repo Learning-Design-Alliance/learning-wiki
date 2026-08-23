@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Identifying Obstacles
+description: Identifying obstacles involves recognizing potential challenges that could impede progress toward a goal.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Identifying Obstacles
@@ -35,9 +39,9 @@ Identifying obstacles involves recognizing potential challenges that could imped
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/cognitive-conflict|Cognitive Conflict]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Cognitive Conflict](../elements/cognitive-conflict.md)
 
 ## Assessment Evidence
 - Effectiveness is measured by the ability to anticipate and mitigate obstacles, as evidenced by progress towards goals despite challenges.

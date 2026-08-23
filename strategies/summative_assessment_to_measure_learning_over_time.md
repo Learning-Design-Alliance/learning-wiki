@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Summative Assessment to Measure Learning Over Time
+description: Interim and summative assessments both measure learning over time.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Summative Assessment to Measure Learning Over Time
@@ -35,8 +39,8 @@ Interim and summative assessments both measure learning over time. Interim asses
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess Performance]]
-- [[elements/continuous-review|Continuous Review]]
+- [Assess Performance](../elements/assess-performance.md)
+- [Continuous Review](../elements/continuous-review.md)
 
 ## Assessment Evidence
 - Test scores, performance assessment results, and demonstrated skills in real-life contexts.

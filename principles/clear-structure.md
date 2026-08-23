@@ -1,8 +1,11 @@
 ---
 type: principle
+title: Clear Structure
+description: Clear structure is the short-form canonical target for designs that make the organization, sequence, and expectations of learning visible and easy to follow.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Clear Structure
@@ -12,7 +15,7 @@ Clear structure is the short-form canonical target for designs that make the org
 
 ## Implications
 
-Clear structure matters when learners need to orient themselves quickly, understand what comes next, and preserve attention for the content rather than for decoding the course or lesson architecture. The principle is not about rigidity for its own sake. It is about reducing avoidable confusion so learners can invest effort in understanding, practice, and transfer, and well-structured organization does that partly by grouping information into meaningful units rather than leaving learners to search for the pattern themselves [[claims/chunking-reduces-working-memory-load]] [+S]. Structure is also stronger when goals and progress markers are visible enough for learners to monitor where they are and what remains to be done [[claims/self-monitoring-improves-self-regulation]] [~M]. The most effective structures make goals, sequence, expectations, and transitions legible without becoming so rigid that they block adaptation.
+Clear structure matters when learners need to orient themselves quickly, understand what comes next, and preserve attention for the content rather than for decoding the course or lesson architecture. The principle is not about rigidity for its own sake. It is about reducing avoidable confusion so learners can invest effort in understanding, practice, and transfer, and well-structured organization does that partly by grouping information into meaningful units rather than leaving learners to search for the pattern themselves [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]. Structure is also stronger when goals and progress markers are visible enough for learners to monitor where they are and what remains to be done [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]. The most effective structures make goals, sequence, expectations, and transitions legible without becoming so rigid that they block adaptation.
 
 ### Context
 #### Requirements
@@ -34,28 +37,28 @@ Clear structure matters when learners need to orient themselves quickly, underst
 
 ### Theory
 #### Supporting
-- [[theories/cognitive-load-theory|Cognitive Load Theory]] — clear structure can reduce extraneous load created by confusing organization and weak signaling
-- [[principles/clear-structure-presentation|Clear Structure & Presentation]] — the broader design principle that this short-form page points to
-- [[theories/information-processing-theory|Information Processing Theory]] — organization and signaling help learners select and organize information more effectively
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — clear structure can reduce extraneous load created by confusing organization and weak signaling
+- [Clear Structure & Presentation](clear-structure-presentation.md) — the broader design principle that this short-form page points to
+- [Information Processing Theory](../theories/information-processing-theory.md) — organization and signaling help learners select and organize information more effectively
 
 #### Contradicting / Qualifying
-- [[theories/constructivism|Constructivism]] — qualifies that learner exploration still matters and that structure should support inquiry rather than pre-empt it entirely
+- [Constructivism](../theories/constructivism.md) — qualifies that learner exploration still matters and that structure should support inquiry rather than pre-empt it entirely
 
 ### Claims
-- [[claims/chunking-reduces-working-memory-load]] [+S] — well-structured organization can reduce working-memory demands by grouping information into meaningful units
-- [[claims/worked-examples-reduce-novice-search]] [~M] — novices benefit when instructional structure reduces unnecessary search
-- [[claims/self-monitoring-improves-self-regulation]] [~M] — structure is stronger when goals and progress markers are visible enough for learners to monitor against
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — well-structured organization can reduce working-memory demands by grouping information into meaningful units
+- [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — novices benefit when instructional structure reduces unnecessary search
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — structure is stronger when goals and progress markers are visible enough for learners to monitor against
 
 ## Related Principles
-- [[principles/clear-structure-presentation|Clear Structure & Presentation]] — the fuller, more detailed page on the same design family
-- [[principles/cognitive-load-management|Cognitive Load Management]] — clear structure is often one mechanism for managing extraneous load
-- [[principles/sequencing|Sequencing]] — structure and sequencing usually work together to make instruction legible
+- [Clear Structure & Presentation](clear-structure-presentation.md) — the fuller, more detailed page on the same design family
+- [Cognitive Load Management](cognitive-load-management.md) — clear structure is often one mechanism for managing extraneous load
+- [Sequencing](sequencing.md) — structure and sequencing usually work together to make instruction legible
 
 ## Examples
 
 ### Illustrative
 
-**[[principles/clear-structure-presentation|Clear Structure & Presentation]]** — A lesson or course makes goals, agenda, transitions, and expectations explicit so learners know how to move through it.
+**[Clear Structure & Presentation](clear-structure-presentation.md)** — A lesson or course makes goals, agenda, transitions, and expectations explicit so learners know how to move through it.
 
 **Consistent lesson architecture** — Each session follows a stable pattern such as preview, model, guided practice, independent application, and reflection, reducing orientation overhead.
 

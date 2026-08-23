@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Make the Invisible Visible (Power Dynamics)
+description: This principle focuses on bringing power dynamics to the forefront and acknowledging their presence in the design process.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Make the Invisible Visible (Power Dynamics)
@@ -35,9 +39,9 @@ This principle focuses on bringing power dynamics to the forefront and acknowled
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/observationshadowing|Observation/Shadowing]]
-- [[elements/criteria-development|Criteria Development]]
-- [[elements/consensus-discussion|Consensus Discussion]]
+- [Observation/Shadowing](../elements/observationshadowing.md)
+- [Criteria Development](../elements/criteria-development.md)
+- [Consensus Discussion](../elements/consensus-discussion.md)
 
 ## Assessment Evidence
 - Measure student perceptions of power and belonging in the school environment, track the implementation of more equitable policies and practices, and assess the impact of interventions on student identity development.

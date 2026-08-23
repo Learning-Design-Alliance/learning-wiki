@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Diagram Similarities and Differences
+description: Learners generate a list of similarities and differences between words and complete a Venn diagram.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Diagram Similarities and Differences
@@ -35,8 +39,8 @@ Learners generate a list of similarities and differences between words and compl
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review student diagrams for accuracy and completeness.

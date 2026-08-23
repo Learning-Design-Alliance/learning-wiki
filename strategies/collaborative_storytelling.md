@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Collaborative Storytelling
+description: Learners work in pairs to create a story by responding to guiding questions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collaborative Storytelling
@@ -35,11 +39,11 @@ Learners work in pairs to create a story by responding to guiding questions. Fir
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe student engagement and participation during discussions, review the quality and creativity of the stories produced, assess students' ability to incorporate narrative elements effectively.

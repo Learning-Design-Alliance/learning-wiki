@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Evaluation in Writing
+description: Self-evaluation involves teaching students how to review their writing to decide if changes are needed.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Evaluation in Writing
@@ -35,9 +39,9 @@ Self-evaluation involves teaching students how to review their writing to decide
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Assess student's ability to evaluate their own writing; track improvements in writing quality; monitor student self-awareness and assessment skills

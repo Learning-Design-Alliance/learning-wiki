@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotion Word Inclusion in Instruction
+description: Educators frequently use emotion words when talking to learners, helping the learners understand how the educator is responding to their emotions and supporting the development of their emotional vocabulary.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotion Word Inclusion in Instruction
@@ -35,8 +39,8 @@ Educators frequently use emotion words when talking to learners, helping the lea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Demonstration](../elements/demonstration.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Observe learners' increased use of emotion words and more accurate association of words with the related emotions. Assess their participation and engagement in the activity.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating Questions
+description: Creating Questions is a strategy where learners generate questions about what they are listening to.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating Questions
@@ -35,9 +39,9 @@ Creating Questions is a strategy where learners generate questions about what th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/individual-response|Individual Response]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Question Formulation](../elements/question-formulation.md)
+- [Individual Response](../elements/individual-response.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Analyze the quality and relevance of learners' questions, track their ability to identify areas of confusion.

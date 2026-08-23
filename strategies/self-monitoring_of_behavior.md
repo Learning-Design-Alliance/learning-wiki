@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Monitoring of Behavior
+description: Self-monitoring is a strategy where learners self-assess their behavior and record the results, increasing or decreasing the frequency, intensity, or duration of existing behavior.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Monitoring of Behavior
@@ -35,10 +39,10 @@ Self-monitoring is a strategy where learners self-assess their behavior and reco
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track changes in the frequency, intensity, or duration of the target behavior. Compare baseline data with post-implementation data to assess effectiveness. Monitor the agreement between learner self-assessments and instructor observations to ensure accuracy.

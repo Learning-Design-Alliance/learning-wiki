@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Maximization of Transfer and Generalization
+description: Supporting the application of learning to new contexts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Maximization of Transfer and Generalization
@@ -35,11 +39,11 @@ Supporting the application of learning to new contexts. This involves providing 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Assess learner ability to apply their knowledge in different situations. Monitor the transfer of learning to new contexts. Gather feedback on the effectiveness of strategies for maximizing transfer and generalization.

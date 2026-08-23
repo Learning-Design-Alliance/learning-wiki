@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leveraging Instructor Office Hours
+description: Instructors can share a great deal of insights and academic advice by opening up their regular office hours weekly to allow for help with a variety of questions, including those that concern a particular course.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leveraging Instructor Office Hours
@@ -35,9 +39,9 @@ Instructors can share a great deal of insights and academic advice by opening up
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Students start taking advantage of instructor's office hours and provide great feedback on its helpfulness.

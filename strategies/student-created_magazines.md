@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student-Created Magazines
+description: In Alessandra King’s algebra class, students created a magazine with dozens of articles about real world applications of math.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student-Created Magazines
@@ -35,9 +39,9 @@ In Alessandra King’s algebra class, students created a magazine with dozens of
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/research|Research]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/application|Application]]
+- [Research](../elements/research.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Review student magazines to assess research, writing, and understanding of math concepts.

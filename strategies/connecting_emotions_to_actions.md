@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connecting Emotions to Actions
+description: Learners begin to reflect on how emotions connect with actions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connecting Emotions to Actions
@@ -35,9 +39,9 @@ Learners begin to reflect on how emotions connect with actions. Then, learners c
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor learner participation

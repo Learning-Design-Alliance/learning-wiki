@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Lesson Plans
+description: Lesson plans are visual aids used by educators to stay organized and inspire their creativity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Lesson Plans
@@ -35,9 +39,9 @@ Lesson plans are visual aids used by educators to stay organized and inspire the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/direct-instruction|Direct instruction]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Demonstration](../elements/demonstration.md)
+- [Direct instruction](../elements/direct-instruction.md)
 
 ## Assessment Evidence
 - Evaluate the organization and clarity of the lesson plan. Assess the effectiveness of visual elements. Track student engagement and outcomes.

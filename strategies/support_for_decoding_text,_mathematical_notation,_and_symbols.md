@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Support for Decoding Text, Mathematical Notation, and Symbols
+description: Ensuring that text and symbols do not impede the learning goal by providing necessary support for decoding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Support for Decoding Text, Mathematical Notation, and Symbols
@@ -35,11 +39,11 @@ Ensuring that text and symbols do not impede the learning goal by providing nece
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Assess learner decoding skills through reading and math assessments. Monitor learner use of decoding tools and strategies. Gather feedback on the effectiveness of decoding support.

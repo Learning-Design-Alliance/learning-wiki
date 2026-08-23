@@ -1,8 +1,20 @@
 ---
 type: principle
+title: Game-based Learning
+description: Game-based learning is the instructional principle of using a game itself as the learning environment, with goals, rules, feedback, and progression aligned to specific learning outcomes.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: liu-2020
+    resource: "https://doi.org/10.3991/ijet.v15i14.14675"
+    title: "Liu, Z. Y., Shaikh, Z., & Gazizova, F. (2020). Using the concept of game-based learning in education. *International Journal of Emerging Technologies in Learning, 15*(14), 53-64"
+    author: "Liu, Z. Y., Shaikh, Z., & Gazizova, F"
+  - id: an-2020
+    resource: "https://doi.org/10.46328/ijte.v3i2.27"
+    title: "An, Y. (2020). Designing effective gamified learning experiences. *International Journal of Technology in Education, 3*(2), 62-69"
+    author: An, Y
 ---
 
 # Game-based Learning
@@ -11,14 +23,14 @@ edited_by: Codex
 Game-based learning is the instructional principle of using a game itself as the learning environment, with goals, rules, feedback, and progression aligned to specific learning outcomes. Unlike light gamification layered onto ordinary tasks, game-based learning makes the core learning activity intrinsically game-like: learners make decisions, test strategies, receive immediate consequences, and improve through repeated attempts. When designed well, it can increase time on task, support mastery through iteration, and make complex systems or decisions easier to experience directly.
 
 ## Implications
-Game-based learning is strongest when the game mechanics require the same thinking the learning goal requires. Repeated attempts, immediate consequences, and visible progression can support mastery and persistence, especially when learners are allowed to fail safely and try again [[claims/high-confidence-errors-improve-retention]] [+S]. But engagement alone is not evidence of learning: if the reward structure can be optimized without understanding the target concept or strategy, the game teaches the wrong thing. Reflection and debriefing are therefore essential for turning in-game success into transferable understanding [[claims/self-explanation-improves-conceptual-understanding]] [+M], and some goals are still better served by giving novices worked models before asking them to learn through play alone [[claims/worked-examples-example-problem-sequences]] [+S]. Game-based learning is strongest when the game also approximates whole-task decision making closely enough to support later transfer [[claims/whole-task-performance-improves-transfer]] [+M].
+Game-based learning is strongest when the game mechanics require the same thinking the learning goal requires. Repeated attempts, immediate consequences, and visible progression can support mastery and persistence, especially when learners are allowed to fail safely and try again [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S]. But engagement alone is not evidence of learning: if the reward structure can be optimized without understanding the target concept or strategy, the game teaches the wrong thing. Reflection and debriefing are therefore essential for turning in-game success into transferable understanding [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+M], and some goals are still better served by giving novices worked models before asking them to learn through play alone [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S]. Game-based learning is strongest when the game also approximates whole-task decision making closely enough to support later transfer [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M].
 
 ### Context
 #### Requirements
 - **Aligned learning goals**: The win conditions and mechanics need to reflect the target skill, not merely add entertainment.
 - **Tight feedback loops**: Learners need immediate in-game consequences, hints, or progress signals so they can adjust strategy during play.
-- **Repeatable challenge**: The design should support multiple attempts, safe failure, and a visible path toward improvement [[claims/high-confidence-errors-improve-retention]] [+S].
-- **Debrief or reflection**: Without explanation and transfer prompts, learners may improve at the game without extracting the intended concept or strategy [[claims/self-explanation-improves-conceptual-understanding]] [+M].
+- **Repeatable challenge**: The design should support multiple attempts, safe failure, and a visible path toward improvement [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S].
+- **Debrief or reflection**: Without explanation and transfer prompts, learners may improve at the game without extracting the intended concept or strategy [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 #### Constraints
 - **Reward distraction**: Points, badges, or competition can crowd out the learning goal if they are easier to optimize than the target skill.
 - **Misaligned mechanics**: A game can be engaging while still teaching the wrong habits if the mechanics reward shortcuts unrelated to the intended outcome.
@@ -44,19 +56,19 @@ Game-based learning is strongest when the game mechanics require the same thinki
 - Self-Regulated Learning (Zimmerman) — games with clear goals and feedback support monitoring, persistence, and strategy adjustment.
 #### Contradicting / Qualifying
 - The motivational benefits of games are not automatic; novelty can mask weak instructional design.
-- Some learning goals are better served by direct explanation or worked examples before game-based practice, especially for novices [[claims/worked-examples-example-problem-sequences]] [+S].
+- Some learning goals are better served by direct explanation or worked examples before game-based practice, especially for novices [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S].
 
 ### Claims
-- [[claims/high-confidence-errors-improve-retention]] [+S] — safe failure and rapid retry can make corrections inside games especially memorable
-- [[claims/self-explanation-improves-conceptual-understanding]] [+M] — debrief and reflection are what convert in-game experience into explicit understanding
-- [[claims/worked-examples-example-problem-sequences]] [+S] — novices often need modeled play or strategy examples before game-based practice becomes productive
-- [[claims/whole-task-performance-improves-transfer]] [+M] — games support transfer best when their decisions and constraints resemble the real target performance
+- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — safe failure and rapid retry can make corrections inside games especially memorable
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+M] — debrief and reflection are what convert in-game experience into explicit understanding
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S] — novices often need modeled play or strategy examples before game-based practice becomes productive
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M] — games support transfer best when their decisions and constraints resemble the real target performance
 
 ## Related Principles
-- [[principles/simulations-immersive-virtual-environments|Simulations & Immersive Virtual Environments]] — simulations overlap with game-based learning when the experience models a system learners must navigate.
-- [[principles/immediate-feedback|Immediate Feedback]] — games depend on fast consequence signals to support adaptation and persistence.
-- [[principles/error-analysis|Error Analysis]] — game loops often create repeated opportunities to learn from mistakes.
-- [[principles/guided-practice|Guided Practice]] — many instructional games work best after some initial modeling or guided rehearsal.
+- [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.
+- [Immediate Feedback](immediate-feedback.md) — games depend on fast consequence signals to support adaptation and persistence.
+- [Error Analysis](error-analysis.md) — game loops often create repeated opportunities to learn from mistakes.
+- [Guided Practice](guided-practice.md) — many instructional games work best after some initial modeling or guided rehearsal.
 
 ## Examples
 - **Scenario-based digital games**: Learners manage resources, make choices, and see consequences unfold across rounds or levels.

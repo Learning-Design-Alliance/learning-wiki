@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Weekly Student Reflection
+description: Students spend 10-15 minutes every week reflecting on their learning experiences by responding to prompts, enhancing dialogue, inspiring openness, and diversity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Weekly Student Reflection
@@ -35,7 +39,7 @@ Students spend 10-15 minutes every week reflecting on their learning experiences
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|individual reflection]]
+- [individual reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess student growth in content knowledge, self-awareness, metacognition, and their ability to strengthen relationships within the class.

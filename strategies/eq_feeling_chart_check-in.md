@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: EQ Feeling Chart Check-In
+description: Students use a provided EQ Feeling Chart to identify and communicate their current emotions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # EQ Feeling Chart Check-In
@@ -35,9 +39,9 @@ Students use a provided EQ Feeling Chart to identify and communicate their curre
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe student participation in paired discussions and whole-class sharing. Assess the depth and specificity of students' reflections on their emotions. Gather feedback from students on the usefulness of the EQ Feeling Chart.

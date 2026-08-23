@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Prompts & Questions"
+description: Providing guiding prompts and questions for students to use when reading or participating in discussions deepens their understanding of texts and gives them space to question and grapple with issues of power, justice, and equity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Prompts & Questions
@@ -35,7 +39,7 @@ Providing guiding prompts and questions for students to use when reading or part
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Quality of discussions, depth of understanding, thoughtfulness of responses.

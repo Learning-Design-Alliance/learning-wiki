@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mind Mapping
+description: Mind mapping is a visual thinking tool used to capture information and ideas.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mind Mapping
@@ -35,8 +39,8 @@ Mind mapping is a visual thinking tool used to capture information and ideas. It
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track learners progress

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Don’t Say My Number
+description: A counting game where a chosen number is forbidden, and learners must skip it while counting aloud in sequence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Don’t Say My Number
@@ -35,8 +39,8 @@ A counting game where a chosen number is forbidden, and learners must skip it wh
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the learner's ability to skip the forbidden number. Track the highest number reached without making a mistake.

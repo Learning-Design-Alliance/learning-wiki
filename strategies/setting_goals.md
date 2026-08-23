@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Setting Goals
+description: Lessons have clear learning intentions with goals that clarify what success looks like.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Setting Goals
@@ -35,7 +39,7 @@ Lessons have clear learning intentions with goals that clarify what success look
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
+- [State objectives](../elements/state-objectives.md)
 
 ## Assessment Evidence
 - Student understanding of lesson objectives, alignment of activities with goals.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: What Would Their Day Look Like?
+description: Learners select a photo of a person or animal in an unfamiliar situation and imagine what their daily life might be like.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # What Would Their Day Look Like?
@@ -35,11 +39,11 @@ Learners select a photo of a person or animal in an unfamiliar situation and ima
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/research|Research]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Research](../elements/research.md)
+- [Demonstration](../elements/demonstration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess the depth of research, the accuracy of representations, and the level of empathy demonstrated in presentations or diary entries. Monitor changes in learners' attitudes towards different groups.

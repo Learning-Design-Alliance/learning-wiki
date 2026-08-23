@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Collaborative Writing with Online Platforms
+description: Collaborative writing using online platforms involves students jointly composing texts through digital tools like Google Docs.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collaborative Writing with Online Platforms
@@ -35,10 +39,10 @@ Collaborative writing using online platforms involves students jointly composing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Evaluate the quality of collaborative writing products, assess the depth and specificity of peer feedback, and track student participation and engagement in online discussions.

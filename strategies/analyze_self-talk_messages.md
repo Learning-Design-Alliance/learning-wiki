@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Analyze Self-Talk Messages
+description: Ask students to identify patterns or themes in their self-talk.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Analyze Self-Talk Messages
@@ -35,7 +39,7 @@ Ask students to identify patterns or themes in their self-talk. For example, at 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review analysis of self-talk messages for identified patterns and themes.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Family Engagement: Supporting Children with Disabilities"
+description: Family engagement is a practice in which families and school personnel collaborate to support and improve the learning and development of children, including those with disabilities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Family Engagement: Supporting Children with Disabilities
@@ -35,9 +39,9 @@ Family engagement is a practice in which families and school personnel collabora
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/discussion-sections|Discussion Sections]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Discussion Sections](../elements/discussion-sections.md)
 
 ## Assessment Evidence
 - Track student achievement, behavior, and social-emotional skills. Gather feedback from families and educators. Monitor IEP goal attainment.

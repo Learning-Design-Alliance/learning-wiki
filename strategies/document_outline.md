@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Document Outline
+description: "The \"Document outline\" tool in Google Docs can be an easy and effective way to ask students to pick out evidence that supports the main ideas they’ve found."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Document Outline
@@ -35,8 +39,8 @@ The "Document outline" tool in Google Docs can be an easy and effective way to a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/summarization-and-synthesis|Summarization and Synthesis]]
+- [Practice](../elements/practice.md)
+- [Summarization and Synthesis](../elements/summarization-and-synthesis.md)
 
 ## Assessment Evidence
 - Assess the clarity and accuracy of the outlines. Review the quality of supporting evidence selected.

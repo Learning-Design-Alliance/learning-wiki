@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Independent Practice
+description: Independent practice is when learners practice skills and concepts on their own, after guided practice.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Independent Practice
@@ -35,9 +39,9 @@ Independent practice is when learners practice skills and concepts on their own,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track learner performance on practice activities and monitor progress toward fluency goals. Use formative assessments to identify areas where learners need additional support.

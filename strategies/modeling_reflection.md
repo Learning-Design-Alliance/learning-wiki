@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Modeling Reflection
+description: Share parts of the reflection brought them to another level of understanding as they worked together in a learning community.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Modeling Reflection
@@ -35,8 +39,8 @@ Share parts of the reflection brought them to another level of understanding as 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|individual reflection]]
-- [[elements/demonstration|demonstration]]
+- [individual reflection](../elements/individual-reflection.md)
+- [demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Learner ability to reflect.

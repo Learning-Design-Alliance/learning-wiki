@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Create Space for Students to Reflect
+description: Providing structured opportunities for students to pause, reflect, and think about themselves, their ideas, and their feelings about projects can transform a classroom culture.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Create Space for Students to Reflect
@@ -35,8 +39,8 @@ Providing structured opportunities for students to pause, reflect, and think abo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Evaluate student reflections for depth of insight and self-awareness. Assess changes in student behavior and emotional regulation. Review student journals and other reflective work.

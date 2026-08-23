@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connect content to student lives
+description: This strategy involves showing students how a topic connects to their lives, giving an example of a particular idea as they would experience it in their native country, or asking them to bring music or art from their culture and describe…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connect content to student lives
@@ -35,9 +39,9 @@ This strategy involves showing students how a topic connects to their lives, giv
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Increased student participation, enhanced understanding of content, improved cultural awareness, positive feedback from students and families.

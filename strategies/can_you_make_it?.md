@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Can You Make It?
+description: Learners draw a dot card and recreate the arrangement on a large, blank dot card using counters.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Can You Make It?
@@ -35,8 +39,8 @@ Learners draw a dot card and recreate the arrangement on a large, blank dot card
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe learner's ability to accurately recreate the dot card arrangements. Note the time taken to complete the task as an indicator of fluency.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Four Moves and a Habit
+description: "A framework for fact-checking that includes four key moves: Check for previous work, go upstream to find the source, read laterally, and circle back."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Four Moves and a Habit
@@ -35,7 +39,7 @@ A framework for fact-checking that includes four key moves: Check for previous w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Ability to apply the four moves and a habit to evaluate online information

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Jigsaw
+description: "In the Jigsaw method, learners are divided into 'expert groups' to master a specific portion of the material and then regroup to teach that material to their peers."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Jigsaw
@@ -35,10 +39,10 @@ In the Jigsaw method, learners are divided into 'expert groups' to master a spec
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/expert-groups|Expert Groups]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Expert Groups](../elements/expert-groups.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Observe the quality of peer teaching and the depth of understanding demonstrated in group discussions. Assess individual comprehension through quizzes or written assignments.

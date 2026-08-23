@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Frequent, Low-Stakes Quizzes
+description: Administering frequent quizzes with minimal impact on grades to reinforce learning and identify gaps in understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Frequent, Low-Stakes Quizzes
@@ -35,9 +39,9 @@ Administering frequent quizzes with minimal impact on grades to reinforce learni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/quizzes|Quizzes]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Quizzes](../elements/quizzes.md)
 
 ## Assessment Evidence
 - Track quiz scores over time to measure learning progress. Compare quiz performance to overall course grades. Monitor student engagement and participation in quizzes.

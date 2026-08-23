@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Resistance Reading and Counter-Narratives
+description: "Resistance reading and writing counter-narratives are strategies to develop learners' abilities to critique a text (or an image or other media) and to respond in writing, sharing their concerns and critiques."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Resistance Reading and Counter-Narratives
@@ -35,13 +39,13 @@ Resistance reading and writing counter-narratives are strategies to develop lear
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/assigned-positions|Assigned Positions]]
-- [[elements/argument-construction|Argument Construction]]
-- [[elements/role-reversal|Role Reversal]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Assigned Positions](../elements/assigned-positions.md)
+- [Argument Construction](../elements/argument-construction.md)
+- [Role Reversal](../elements/role-reversal.md)
 
 ## Assessment Evidence
 - Review student-created rebuttals and rewritten texts. Assess the ability to identify biases and power structures in original texts. Evaluate the clarity and persuasiveness of alternative perspectives presented.

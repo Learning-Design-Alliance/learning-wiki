@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Composition Projects: Multimodal"
+description: For adolescent learners, the Composition process can become more robust, as learners begin to express ideas through multiple media, which includes visual, audio, and digital production.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Composition Projects: Multimodal

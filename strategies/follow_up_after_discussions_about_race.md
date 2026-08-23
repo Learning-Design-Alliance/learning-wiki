@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Follow Up After Discussions About Race
+description: This strategy involves taking actions that might change inequities revealed during a discussion and giving learners time to do something that will change the learning environment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Follow Up After Discussions About Race
@@ -35,9 +39,9 @@ This strategy involves taking actions that might change inequities revealed duri
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student participation in action-oriented activities, track changes in student attitudes and behaviors, and document the impact of student actions on the school or community

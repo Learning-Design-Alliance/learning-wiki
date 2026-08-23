@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Vocabulary Instruction
+description: Explicitly teaching vocabulary words and their definitions, along with providing context, to help students understand and use new words effectively.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Vocabulary Instruction
@@ -35,10 +39,10 @@ Explicitly teaching vocabulary words and their definitions, along with providing
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/lectures|Lectures]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Lectures](../elements/lectures.md)
 
 ## Assessment Evidence
 - Vocabulary quizzes. Student use of new words in writing and speaking. Observation of student engagement during reading activities.

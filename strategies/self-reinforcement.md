@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Self-Reinforcement
+description: Self-reinforcement involves individuals selecting a reinforcer and rewarding themselves for reaching or exceeding a set criterion.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Self-Reinforcement
@@ -35,9 +39,9 @@ Self-reinforcement involves individuals selecting a reinforcer and rewarding the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Measure the substantial improvement in the student's performance.

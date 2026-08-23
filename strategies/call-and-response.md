@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Call-and-Response
+description: Call-and-response involves the instructor initiating a phrase or word, and the students responding with a pre-determined phrase or word.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Call-and-Response
@@ -35,7 +39,7 @@ Call-and-response involves the instructor initiating a phrase or word, and the s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
+- [Gain attention](../elements/gain-attention.md)
 
 ## Assessment Evidence
 - Observe how quickly and consistently students respond to the call-and-response. Monitor the noise level in the classroom before and after using the technique.

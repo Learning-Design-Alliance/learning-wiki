@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Spaces that Foster Creativity
+description: Traditional spaces designed in the industrial revolution were designed to maximize efficiency.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Spaces that Foster Creativity
@@ -35,8 +39,8 @@ Traditional spaces designed in the industrial revolution were designed to maximi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/application|Application]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' engagement in learning activities. Collect feedback from learners on the comfort and appeal of the learning environment. Track changes in learners' attitudes toward learning.

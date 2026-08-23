@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Improved Air Quality
+description: Indoor air quality is also a concern because poor air quality is a major contributor to absenteeism for students with asthma.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Improved Air Quality
@@ -35,7 +39,7 @@ Indoor air quality is also a concern because poor air quality is a major contrib
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - School absentee

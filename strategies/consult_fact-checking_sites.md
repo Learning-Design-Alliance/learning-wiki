@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Consult Fact-Checking Sites
+description: Get used to regularly consulting fact-checking sites.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Consult Fact-Checking Sites
@@ -35,9 +39,9 @@ Get used to regularly consulting fact-checking sites. These three nonpartisan si
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/resource-evaluation|Resource Evaluation]]
-- [[elements/research|Research]]
-- [[elements/application|Application]]
+- [Resource Evaluation](../elements/resource-evaluation.md)
+- [Research](../elements/research.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' ability to use fact-checking sites to verify claims and check the authenticity of images.

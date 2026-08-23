@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Conver-Stations
+description: A small-group discussion strategy that gives learners exposure to more of their peers’ ideas and prevents the stagnation that can happen when a group doesn’t happen to have the right chemistry.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Conver-Stations
@@ -35,9 +39,9 @@ A small-group discussion strategy that gives learners exposure to more of their 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/collaborative-learning|Collaborative Learning]]
-- [[elements/knowledge-synthesis|Knowledge Synthesis]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
+- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the activity, review the quality of their responses to the discussion questions, collect feedback from learners about their experience.

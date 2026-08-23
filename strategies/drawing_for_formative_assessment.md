@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Drawing for Formative Assessment
+description: Inviting learners to express their understanding through drawings provides insights into their comprehension and any misconceptions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Drawing for Formative Assessment
@@ -35,9 +39,9 @@ Inviting learners to express their understanding through drawings provides insig
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Analyze drawings for understanding of facts, relationships, sequences, overlooked key elements, misrepresented factors, and patterns among students' drawings. Compare drawings to see insights about the content.

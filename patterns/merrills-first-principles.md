@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: "Merrill's First Principles"
+description: "Merrill's First Principles is the short-form canonical target for task-centered instruction organized around problem-centered work, activation, demonstration, application, and integration."
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
+sources:
+  - id: merrill-2002
+    resource: "https://doi.org/10.1007/BF02505024"
+    title: "Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59"
+    author: Merrill, M. D
 author: M. David Merrill
 grain_size: course
 ---
@@ -29,22 +37,22 @@ Merrill's First Principles is the short-form canonical target for task-centered 
 
 ### Theory
 #### Supporting
-- [[principles/problem-based-learning|Problem-based Learning]]
-- [[principles/scaffolding|Scaffolding]]
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Scaffolding](../principles/scaffolding.md)
 
 ### Claims
-- [[claims/whole-task-performance-improves-transfer]] [+S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]
 
 ## Design
 
 ### Elements Used
-- [[elements/activation|Activation]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/reflection|Reflection]]
+- [Activation](../elements/activation.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Reflection](../elements/reflection.md)
 
 ## Related Patterns
-- [[patterns/merrills-first-principles-of-instruction|Merrill's First Principles of Instruction]]
+- [Merrill's First Principles of Instruction](merrills-first-principles-of-instruction.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43-59. [https://doi.org/10.1007/BF02505024](https://doi.org/10.1007/BF02505024)

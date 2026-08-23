@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Social Awareness Instruction with Current Events
+description: This strategy involves using current events and fictional characters to explicitly teach social awareness.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Social Awareness Instruction with Current Events
@@ -35,9 +39,9 @@ This strategy involves using current events and fictional characters to explicit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/class-discussion|Class Discussion]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Case Study](../elements/case-study.md)
+- [Class Discussion](../elements/class-discussion.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Observe students' participation in discussions, analyze their responses to questions about current events, and assess their ability to understand different perspectives and empathize with others.

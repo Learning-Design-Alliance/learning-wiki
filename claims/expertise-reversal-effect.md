@@ -1,10 +1,17 @@
 ---
 type: claim
-id: clt-1
+title: Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.
 status: review
-last_edited: 2026-04-07
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: kalyuga-et-al-2003
+    resource: "https://doi.org/10.1207/S15326985EP3801_4"
+    title: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [https://doi.org/10.1207/S15326985EP3801_4](https://doi.org/10.1207/S15326985EP3801_4)"
+    author: "Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J"
+id: clt-1
 evidence_strength: moderate
-edited_by: Codex
 ---
 
 # Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.
@@ -33,6 +40,6 @@ This synthesis reviews a set of cognitive load studies showing that instructiona
 The claim does not mean experts need no support. It means support should change form: less completion of routine steps, more emphasis on challenge, transfer, and selective feedback.
 
 ## Related Claims
-- [[claims/chunking-reduces-working-memory-load]]
-- [[claims/worked-examples-expertise-reversal]]
-- [[claims/fading-support-promotes-transfer-of-responsibility]]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md)
+- [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md)
+- [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)

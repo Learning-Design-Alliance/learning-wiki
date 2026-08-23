@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Jigsaw Method
+description: The Jigsaw Method is a cooperative learning pattern in which learners become responsible for one part of a larger topic, develop expertise in that part, and then teach it to peers who depend on them for the whole picture.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: Elliot Aronson
 grain_size: lesson
 ---
@@ -52,11 +55,11 @@ Its value comes from combining preparation, peer teaching, and synthesis. Jigsaw
 
 ### Claims
 #### Supporting
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [[claims/chunking-reduces-working-memory-load]] [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 
 ## Design
 
@@ -68,16 +71,16 @@ Its value comes from combining preparation, peer teaching, and synthesis. Jigsaw
 5. Assess whole-group or individual understanding of the complete content.
 
 ### Elements Used
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/assessment|Assessment]]
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Assessment](../elements/assessment.md)
 
 ### Affordances
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/communities-of-practice|Communities of Practice]]
-- [[principles/perspective-seekingmultiple-perspectives|Perspective-Seeking/Multiple Perspectives]]
-- [[principles/mentoringcoaching|Mentoring/Coaching]]
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Communities of Practice](../principles/communities-of-practice.md)
+- [Perspective-Seeking/Multiple Perspectives](../principles/perspective-seekingmultiple-perspectives.md)
+- [Mentoring/Coaching](../principles/mentoringcoaching.md)
 
 ### Personalization
 - Different learners can take roles aligned with interest or readiness.
@@ -85,8 +88,8 @@ Its value comes from combining preparation, peer teaching, and synthesis. Jigsaw
 - Accountability can be individual, group-based, or mixed.
 
 ## Related Patterns
-- [[patterns/fostering-communities-of-learning-fcl|Fostering Communities of Learning (FCL)]]
-- [[patterns/discussion-group|Discussion Group]]
+- [Fostering Communities of Learning (FCL)](fostering-communities-of-learning-fcl.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - History learners examining different primary sources and teaching their significance to peers.

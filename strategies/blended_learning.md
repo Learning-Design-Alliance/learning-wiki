@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Blended Learning
+description: Blended learning combines face-to-face instruction with online learning through an LMS, offering the advantages of direct interaction and the convenience of eLearning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Blended Learning
@@ -35,17 +39,17 @@ Blended learning combines face-to-face instruction with online learning through 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/whole-task-performance|Whole-task performance]]
-- [[elements/supportive-information|Supportive information]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/lectures|Lectures]]
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-response|Individual Response]]
+- [Whole-task performance](../elements/whole-task-performance.md)
+- [Supportive information](../elements/supportive-information.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Lectures](../elements/lectures.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Response](../elements/individual-response.md)
 
 ## Assessment Evidence
 - Track learner participation in both in-person and online activities. Assess performance on assignments and exams. Gather feedback from learners on their experiences with blended learning.

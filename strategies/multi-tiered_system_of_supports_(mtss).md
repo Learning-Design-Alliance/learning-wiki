@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multi-Tiered System of Supports (MTSS)
+description: Implementing a Multi-Tiered System of Supports (MTSS) for literacy instruction in middle schools.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multi-Tiered System of Supports (MTSS)
@@ -35,8 +39,8 @@ Implementing a Multi-Tiered System of Supports (MTSS) for literacy instruction i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student literacy data

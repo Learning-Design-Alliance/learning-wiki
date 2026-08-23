@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Intervene in Abusive Language
+description: Teachers must step in when abusive language occurs.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Intervene in Abusive Language
@@ -35,11 +39,11 @@ Teachers must step in when abusive language occurs. This involves addressing the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/case-study|Case Study]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/perspective-taking|Perspective-Taking]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Case Study](../elements/case-study.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Perspective-Taking](../elements/perspective-taking.md)
 
 ## Assessment Evidence
 - Observe the frequency and severity of abusive language in the classroom, assess student understanding of the impact of their words, and gather feedback from students about the safety and respectfulness of the learning environment.

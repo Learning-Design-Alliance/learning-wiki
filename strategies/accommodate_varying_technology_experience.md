@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Accommodate Varying Technology Experience
+description: Recognize that adults have diverse levels of technology exposure and experience.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Accommodate Varying Technology Experience
@@ -35,9 +39,9 @@ Recognize that adults have diverse levels of technology exposure and experience.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement, solicit feedback on support resources, track usage of optional introductory modules

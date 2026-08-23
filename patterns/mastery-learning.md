@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Mastery Learning
+description: Mastery Learning is a pattern in which instruction is organized around clear criteria, formative checks, corrective support, and reassessment before progression.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: kulik-1990
+    resource: "https://doi.org/10.3102/00346543060002265"
+    title: "Kulik, C. L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265-299"
+    author: "Kulik, C. L. C., Kulik, J. A., & Bangert-Drowns, R. L"
 author: Bloom / mastery learning tradition
 grain_size: unit
 ---
@@ -36,13 +44,13 @@ Mastery Learning is a pattern in which instruction is organized around clear cri
 ### Theory
 #### Supporting
 - Bloom's mastery learning tradition.
-- [[theories/self-regulated-learning|Self-Regulated Learning]]
+- [Self-Regulated Learning](../theories/self-regulated-learning.md)
 #### Contradicting / Qualifying
 - Not all complex performances can be reduced to a single mastery threshold.
 
 ### Claims
-- [[claims/contingent-scaffolding-improves-learning]] [+M]
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 
 ## Design
 
@@ -54,17 +62,17 @@ Mastery Learning is a pattern in which instruction is organized around clear cri
 5. Reassess before advancing.
 
 ### Elements Used
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/feedback|Feedback]]
-- [[elements/reassessment|Reassessment]]
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Feedback](../elements/feedback.md)
+- [Reassessment](../elements/reassessment.md)
 
 ### Affordances
-- [[principles/mastery-learning|Mastery Learning]]
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/competency-based-learning-assessment|Competency-Based Learning & Assessment]]
+- [Mastery Learning](../principles/mastery-learning.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-learning-assessment.md)
 
 ## Related Patterns
-- [[patterns/game-based-mastery-learning-eg-duolingo-pattern|Game-Based Mastery Learning (e.g., Duolingo Pattern)]]
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Examples
 - A unit where learners receive targeted reteaching and then reassess until they meet the rubric threshold.

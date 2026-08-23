@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Develop Cultural Awareness
+description: "Developing cultural awareness as an educator includes building empathy for diverse learners, intentionally recognizing how one's own identity intersects with learners' identities, and creating an awareness of how the environment can…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Develop Cultural Awareness
@@ -35,8 +39,8 @@ Developing cultural awareness as an educator includes building empathy for diver
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track changes in attitudes and behaviors. Monitor implementation of inclusive practices. Gather feedback from learners and families.

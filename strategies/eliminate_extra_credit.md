@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Eliminate Extra Credit
+description: Avoid extra credit opportunities as they depend on resources and time, and should not be necessary to demonstrate curriculum understanding.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Eliminate Extra Credit
@@ -35,7 +39,7 @@ Avoid extra credit opportunities as they depend on resources and time, and shoul
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
+- [Assigned Readings](../elements/assigned-readings.md)
 
 ## Assessment Evidence
 - <!-- TODO -->

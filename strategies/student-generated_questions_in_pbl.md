@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Student-Generated Questions in PBL
+description: Sparking engagement with student-generated questions involves encouraging students to investigate topics they care about and identify questions they want to answer.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Student-Generated Questions in PBL
@@ -35,9 +39,9 @@ Sparking engagement with student-generated questions involves encouraging studen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/collaborative-problem-solving|Collaborative Problem-Solving]]
+- [Question Formulation](../elements/question-formulation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Collaborative Problem-Solving](../elements/collaborative-problem-solving.md)
 
 ## Assessment Evidence
 - Increased student engagement, higher levels of participation in discussions, and more meaningful and relevant project outcomes.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating Visuals
+description: When students express information visually, they are activating more cognitive processes while problem solving and increasing their experience with alternate texts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating Visuals

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Outdoor Book Walk
+description: Find a public park or walkable street where you can post pages of a book to create a walkable reading experience that families can do together.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Outdoor Book Walk
@@ -35,8 +39,8 @@ Find a public park or walkable street where you can post pages of a book to crea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/application|Application]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Track participation, gather feedback from families

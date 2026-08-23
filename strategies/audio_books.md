@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Audio Books
+description: Audio books provide an auditory learning experience where the text of a book is read aloud, allowing learners to listen instead of or in conjunction with reading.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Audio Books
@@ -35,8 +39,8 @@ Audio books provide an auditory learning experience where the text of a book is 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Assess listening comprehension through quizzes, discussions, and written summaries. Track vocabulary growth and fluency improvements. Monitor student engagement and preferences.

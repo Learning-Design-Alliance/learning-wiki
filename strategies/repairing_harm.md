@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Repairing Harm
+description: Repairing harm is a restorative practice where, instead of simply being sent off to a punishment, a student who has misbehaved is tasked with figuring out how to repair whatever damage was caused by their behavior, and then to actually…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Repairing Harm
@@ -35,8 +39,8 @@ Repairing harm is a restorative practice where, instead of simply being sent off
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe the student's engagement in the process, the quality of the repair plan, and the impact of the repair on the stakeholders involved.

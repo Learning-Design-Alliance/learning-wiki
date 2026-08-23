@@ -17,6 +17,10 @@ import argparse
 from datetime import date
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent))
+import okf_lib as ok
+import build_indexes
+
 # ── Paths ─────────────────────────────────────────────────────────────────────
 
 WIKI_ROOT = Path(__file__).parent.parent
@@ -42,12 +46,26 @@ def slugify(text: str) -> str:
     return text.strip("-")
 
 
-def wikilink(name: str, folder: str = "") -> str:
-    """Return an Obsidian wikilink for a cross-reference."""
-    slug = slugify(name)
-    if folder:
-        return f"[[{folder}/{slug}|{name}]]"
-    return f"[[{slug}|{name}]]"
+def wikilink(name: str, folder: str = "", from_folder: str = None) -> str:
+    """Return an OKF-style relative markdown cross-link (`[Name](../folder/slug.md)`)."""
+    if not folder:
+        return f"[{name}]({slugify(name)}.md)"
+    return ok.relative_link(name, folder, from_folder)
+
+
+def okf_frontmatter(page_type: str, name: str, description: str, extra: dict = None) -> str:
+    """Build the shared OKF frontmatter block (type/title/description/status/generated
+    + any extra scalar fields such as `author`/`grain_size`), in canonical field order."""
+    ordered = {"type": page_type, "title": name}
+    first_sentence = description.strip().split(". ")[0].rstrip(".") + "." if description and description.strip() else None
+    if first_sentence:
+        ordered["description"] = first_sentence
+    ordered["status"] = "draft"
+    ordered["generated"] = {"by": "process:wiki-ingest", "at": TODAY}
+    for k, v in (extra or {}).items():
+        if v:
+            ordered[k] = v
+    return ok.dump_frontmatter(ordered)
 
 
 def comma_list_to_wikilinks(text: str, folder: str = "") -> list[str]:
@@ -105,17 +123,12 @@ def build_principle(row: dict) -> tuple[str, str]:
 
     # Build theory wikilinks
     theory_links = "\n".join(
-        f"- {wikilink(t.strip(), 'theories')}"
+        f"- {wikilink(t.strip(), 'theories', from_folder='principles')}"
         for t in re.split(r"[,;]+", safe_field(row, "theories"))
         if t.strip()
     )
 
-    content = f"""---
-type: principle
-status: draft
-last_edited: {TODAY}
----
-
+    content = f"""{okf_frontmatter("principle", name, description)}
 # {name}
 
 ## Description
@@ -142,7 +155,7 @@ last_edited: {TODAY}
 - <!-- TODO -->
 
 ### Claims
-<!-- Link claims with evidence tags: [[claims/claim-slug]] [+M] -->
+<!-- Link claims with evidence tags: [Claim](../claims/claim-slug.md) [+M] -->
 {("- " + research) if research else "- <!-- TODO -->"}
 
 ## Related Principles
@@ -173,27 +186,22 @@ def build_element(row: dict) -> tuple[str, str]:
     patterns_raw = safe_field(row, "pattern")
 
     related_links = "\n".join(
-        f"- {wikilink(e.strip(), 'elements')}"
+        f"- {wikilink(e.strip(), 'elements', from_folder='elements')}"
         for e in re.split(r"[,;]+", related_raw)
         if e.strip()
     )
     principle_links = "\n".join(
-        f"- {wikilink(p.strip(), 'principles')}"
+        f"- {wikilink(p.strip(), 'principles', from_folder='elements')}"
         for p in re.split(r"[,;]+", principles_raw)
         if p.strip()
     )
     pattern_links = "\n".join(
-        f"- {wikilink(p.strip(), 'patterns')}"
+        f"- {wikilink(p.strip(), 'patterns', from_folder='elements')}"
         for p in re.split(r"[,;]+", patterns_raw)
         if p.strip()
     )
 
-    content = f"""---
-type: element
-status: draft
-last_edited: {TODAY}
----
-
+    content = f"""{okf_frontmatter("element", name, description)}
 # {name}
 
 ## Description
@@ -208,11 +216,11 @@ last_edited: {TODAY}
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 {("- " + target_audience) if target_audience else "- <!-- TODO -->"}
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 {("- " + objectives) if objectives else "- <!-- TODO -->"}
 
 ### Affordances
@@ -274,14 +282,7 @@ def build_pattern(row: dict) -> tuple[str, str]:
     if sequence and not sequence.strip().startswith(("1.", "-")):
         seq_formatted = "- " + sequence
 
-    content = f"""---
-type: pattern
-status: draft
-last_edited: {TODAY}
-author: {author}
-grain_size: {grain_size}
----
-
+    content = f"""{okf_frontmatter("pattern", name, description, extra={"author": author, "grain_size": grain_size})}
 # {name}
 
 ## Description
@@ -298,11 +299,11 @@ grain_size: {grain_size}
 {grain_size or "<!-- TODO: program / course / unit / lesson -->"}
 
 ### Target Goals
-<!-- Link to claims: [[claims/claim-slug]] -->
+<!-- Link to claims: [Claim](../claims/claim-slug.md) -->
 {("- " + goals) if goals else "- <!-- TODO -->"}
 
 ### Target Learners
-<!-- Link to claims: [[claims/claim-slug]] -->
+<!-- Link to claims: [Claim](../claims/claim-slug.md) -->
 {("- " + target_audience) if target_audience else "- <!-- TODO -->"}
 
 ### Theory
@@ -355,9 +356,11 @@ def build_strategy(row: dict) -> tuple[str, str]:
     if not name or name.lower() in ("name", ""):
         return "", ""
 
-    # Prefer the provided id as slug, fall back to slugified name
+    # Prefer the provided id as slug, fall back to slugified name. Always run
+    # through slugify() — a raw un-slugified id containing "/" would otherwise
+    # be interpreted as a subdirectory path when writing the file.
     provided_id = safe_field(row, "id").strip()
-    slug = provided_id if provided_id else slugify(name)
+    slug = slugify(provided_id) if provided_id else slugify(name)
 
     description = safe_field(row, "description").strip()
     objectives = safe_field(row, "objectives").strip()
@@ -385,12 +388,7 @@ def build_strategy(row: dict) -> tuple[str, str]:
         if e.strip()
     )
 
-    content = f"""---
-type: strategy
-status: draft
-last_edited: {TODAY}
----
-
+    content = f"""{okf_frontmatter("strategy", name, description)}
 # {name}
 
 ## Description
@@ -407,11 +405,11 @@ last_edited: {TODAY}
 - <!-- TODO -->
 
 ### Target Learners
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 {("- " + target) if target else "- <!-- TODO -->"}
 
 ### Target Learning Goals
-<!-- Link to sub-claims: [[claims/claim-slug]] -->
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
 {("- " + objectives) if objectives else "- <!-- TODO -->"}
 
 ### Affordances
@@ -481,78 +479,31 @@ def ingest_csv(
     return results
 
 
-def update_index(entries_by_type: dict[str, list[tuple[str, str, str]]], dry_run: bool = False):
-    """Regenerate index.md from current entries."""
-    index_path = WIKI_ROOT / "index.md"
-
-    # Read existing index to preserve manually added entries
-    existing = {}
-    if index_path.exists():
-        existing_text = index_path.read_text(encoding="utf-8")
-        # We'll overwrite — the ingest is the source of truth for stubs
-        pass
-
-    lines = [
-        "# Learning Design Wiki — Index",
-        "",
-        f"Last updated: {TODAY}",
-        "",
-        "---",
-        "",
-    ]
-
-    type_labels = {
-        "principles": "Principles",
-        "elements": "Elements",
-        "patterns": "Patterns",
-        "strategies": "Strategies",
-        "theories": "Theories",
-        "claims": "Claims",
-        "sources": "Sources",
-    }
-
-    for page_type, label in type_labels.items():
-        lines.append(f"## {label}")
-        entries = entries_by_type.get(page_type, [])
-        if not entries:
-            # Scan folder for existing pages
-            folder = WIKI_ROOT / page_type
-            if folder.exists():
-                for p in sorted(folder.glob("*.md")):
-                    slug = p.stem
-                    name = slug.replace("-", " ").title()
-                    m = re.search(r"^# (.+)$", p.read_text(encoding="utf-8"), re.MULTILINE)
-                    if m:
-                        name = m.group(1)
-                    entries.append((name, slug, "existing"))
-        for name, slug, _status in sorted(entries, key=lambda x: x[0].lower()):
-            lines.append(f"- [[{page_type}/{slug}|{name}]]")
-        lines.append("")
-
-    if not dry_run:
-        index_path.write_text("\n".join(lines), encoding="utf-8")
-    else:
-        print("\n--- index.md preview ---")
-        print("\n".join(lines[:40]))
+def update_index(entries_by_type: dict, dry_run: bool = False):
+    """Regenerate index.md and all per-folder indexes from current disk state.
+    Delegates to build_indexes.py — the single source of truth for OKF-format
+    indexes — rather than keeping a second, divergent generator here."""
+    if dry_run:
+        print("\n(dry-run: would call build_indexes.main() to regenerate index.md and per-folder indexes)")
+        return
+    build_indexes.main()
 
 
-def append_log(entries_by_type: dict[str, list[tuple[str, str, str]]], dry_run: bool = False):
-    """Append a batch ingest entry to log.md."""
-    log_path = WIKI_ROOT / "log.md"
+def append_log(entries_by_type: dict, dry_run: bool = False):
+    """Append a batch ingest entry to log.md, OKF date-grouped style."""
     counts = {k: len([e for e in v if e[2] == "created"]) for k, v in entries_by_type.items()}
     total = sum(counts.values())
     if total == 0:
         return
 
     detail = "; ".join(f"{v} {k}" for k, v in counts.items() if v > 0)
-    entry = f"\n## [{TODAY}] ingest | batch from research_briefs CSVs | {detail} pages created\n"
+    bullet = f"* **Ingest**: batch from research_briefs CSVs — {detail} pages created"
 
     if not dry_run:
-        with open(log_path, "a", encoding="utf-8") as f:
-            f.write(entry)
+        ok.append_log_entries([bullet])
     else:
         print("\n--- log.md append ---")
-        print(entry)
+        print(bullet)
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────

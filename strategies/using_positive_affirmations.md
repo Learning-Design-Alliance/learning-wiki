@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Using Positive Affirmations
+description: Replacing negative messages from the inner voice with positive affirmations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Using Positive Affirmations
@@ -35,10 +39,10 @@ Replacing negative messages from the inner voice with positive affirmations. Pos
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe students' engagement and enthusiasm when using affirmations. Assess students' ability to articulate the impact of affirmations on their emotions. Review students' journals or reflections for evidence of positive self-talk.

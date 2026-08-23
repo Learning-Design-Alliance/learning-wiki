@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: SEL-Focused Digital Libraries
+description: This strategy involves curating digital libraries to include a section of books dedicated to Social-Emotional Learning (SEL) topics.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # SEL-Focused Digital Libraries
@@ -35,8 +39,8 @@ This strategy involves curating digital libraries to include a section of books 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/hypertext-navigation|Hypertext Navigation]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Hypertext Navigation](../elements/hypertext-navigation.md)
 
 ## Assessment Evidence
 - Track usage of SEL-focused books, survey teachers about their use of the digital library, and assess students' SEL skills before and after implementation.

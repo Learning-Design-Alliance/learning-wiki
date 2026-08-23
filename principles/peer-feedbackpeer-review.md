@@ -1,8 +1,24 @@
 ---
 type: principle
+title: Peer Feedback/Peer Review
+description: "Peer feedback and peer review are instructional structures in which learners evaluate one another's work against shared criteria in order to improve the work and deepen their own understanding."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: leijen-2017
+    resource: "https://doi.org/10.1016/j.compcom.2016.11.005"
+    title: "Leijen, D. A. J. (2017). A novel approach to examine the impact of web-based peer review on the revisions of L2 writers. *Computers and Composition, 43*, 35-54"
+    author: Leijen, D. A. J
+  - id: lin-2018
+    resource: "https://doi.org/10.1016/j.compedu.2017.08.010"
+    title: "Lin, G. Y. (2018). Anonymous versus identified peer assessment via a Facebook-based learning application: Effects on quality of peer feedback, perceived learning, perceived fairness, and attitude toward the system. *Computers & Education, 116*, 81-92"
+    author: Lin, G. Y
+  - id: wu-2020
+    resource: "https://doi.org/10.1016/j.cedpsych.2020.101897"
+    title: "Wu, Y., & Schunn, C. D. (2020). When peers agree, do students listen? The central role of feedback quality and feedback frequency in determining uptake of feedback. *Contemporary Educational Psychology, 62*, 101897"
+    author: "Wu, Y., & Schunn, C. D"
 ---
 
 # Peer Feedback/Peer Review
@@ -11,7 +27,7 @@ edited_by: Codex
 Peer feedback and peer review are instructional structures in which learners evaluate one another's work against shared criteria in order to improve the work and deepen their own understanding. The learning benefit is reciprocal: reviewers practice noticing quality, naming evidence, and proposing revisions, while recipients receive more perspectives and revision cues than instructor-only feedback can usually provide. Peer review is not automatically effective, however; learners need preparation, clear criteria, and protocols that keep the feedback specific, respectful, and usable.
 
 ## Implications
-Peer feedback improves learning when it teaches learners to recognize quality and act on revision cues, not just receive more comments. Reviewing a peer’s work can sharpen evaluative judgment because learners must explain what is working, what is weak, and why [[claims/self-explanation-improves-conceptual-understanding]] [+S], while recipients gain additional information they can use to monitor and revise their own work [[claims/self-monitoring-improves-self-regulation]] [+M]. The design challenge is credibility and specificity: peer review collapses quickly into vague praise, surface correction, or distrust unless learners share criteria, practice giving feedback, and have time to revise in response. In practice, peer review often needs modeled prompts and structured protocols before it becomes reliably useful [[claims/contingent-scaffolding-improves-learning]] [~M].
+Peer feedback improves learning when it teaches learners to recognize quality and act on revision cues, not just receive more comments. Reviewing a peer’s work can sharpen evaluative judgment because learners must explain what is working, what is weak, and why [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S], while recipients gain additional information they can use to monitor and revise their own work [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]. The design challenge is credibility and specificity: peer review collapses quickly into vague praise, surface correction, or distrust unless learners share criteria, practice giving feedback, and have time to revise in response. In practice, peer review often needs modeled prompts and structured protocols before it becomes reliably useful [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M].
 
 ### Context
 #### Requirements
@@ -47,15 +63,15 @@ Peer feedback improves learning when it teaches learners to recognize quality an
 - Anonymous peer review can reduce some social friction, but it can also reduce accountability or relational learning depending on the context.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S] — reviewing peer work deepens learning when learners explain what is strong, weak, and why
-- [[claims/self-monitoring-improves-self-regulation]] [+M] — peer review helps recipients and reviewers monitor quality and identify concrete next steps
-- [[claims/contingent-scaffolding-improves-learning]] [~M] — peer feedback improves when the process includes modeled prompts, protocols, and responsive support
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — reviewing peer work deepens learning when learners explain what is strong, weak, and why
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — peer review helps recipients and reviewers monitor quality and identify concrete next steps
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — peer feedback improves when the process includes modeled prompts, protocols, and responsive support
 
 ## Related Principles
-- [[principles/peer-discussion|Peer Discussion]] — peer review is a more criteria-driven form of peer discussion centered on improvement.
-- [[principles/formative-assessment|Formative Assessment]] — peer feedback is often a low-stakes formative mechanism before final evaluation.
-- [[principles/process-based-writing|Process-Based Writing]] — drafting and revision make peer review especially useful.
-- [[principles/building-empathy|Building Empathy]] — constructive peer review depends on understanding audience, tone, and the impact of feedback.
+- [Peer Discussion](peer-discussion.md) — peer review is a more criteria-driven form of peer discussion centered on improvement.
+- [Formative Assessment](formative-assessment.md) — peer feedback is often a low-stakes formative mechanism before final evaluation.
+- [Process-Based Writing](process-based-writing.md) — drafting and revision make peer review especially useful.
+- [Building Empathy](building-empathy.md) — constructive peer review depends on understanding audience, tone, and the impact of feedback.
 
 ## Examples
 - **Structured draft review**: Learners use a rubric and sentence stems to comment on a peer's draft before revision.

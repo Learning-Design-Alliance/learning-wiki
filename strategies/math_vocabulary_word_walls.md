@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Math Vocabulary Word Walls
+description: Create a class word wall displaying mathematical terms and vocabulary to support working memory and develop language skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Math Vocabulary Word Walls
@@ -35,8 +39,8 @@ Create a class word wall displaying mathematical terms and vocabulary to support
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe students' ability to identify key words in word problems. Assess students' use of math vocabulary in explanations and problem-solving.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reframe Negative Self-Talk
+description: Practice reframing negative thoughts, statements, or situations into more positive alternatives.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reframe Negative Self-Talk
@@ -35,9 +39,9 @@ Practice reframing negative thoughts, statements, or situations into more positi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Evaluate the quality and frequency of positive reframing in journal entries or discussions.

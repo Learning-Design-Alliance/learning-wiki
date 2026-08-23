@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reflection on Lessons
+description: This strategy involves teachers reflecting on each lesson before and after teaching.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflection on Lessons
@@ -35,7 +39,7 @@ This strategy involves teachers reflecting on each lesson before and after teach
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Improved teaching practice, identification of areas for improvement, and necessary adjustments made for future lessons.

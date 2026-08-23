@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Leaderboards
+description: Leaderboards showcase the distribution of point totals that learners have accumulated through various learning activities.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Leaderboards
@@ -35,8 +39,8 @@ Leaderboards showcase the distribution of point totals that learners have accumu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track learner participation and engagement with leaderboard activities. Compare leaderboard rankings with learning outcomes. Gather feedback on the impact of the leaderboard.

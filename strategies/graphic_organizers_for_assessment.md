@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers for Assessment
+description: Students complete a graphic organizer that shows relationships between terms or concepts instead of taking a quiz, or as part of a quiz, to evaluate understanding of a body of content.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers for Assessment
@@ -35,8 +39,8 @@ Students complete a graphic organizer that shows relationships between terms or 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Accuracy and completeness of the relationships depicted in the organizer.

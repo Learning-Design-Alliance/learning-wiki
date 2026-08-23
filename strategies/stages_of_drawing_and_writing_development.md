@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Stages of Drawing and Writing Development
+description: Children progress through stages of drawing and writing development, from random scribbling to controlled scribbling, lines and patterns, pictures of objects or people, and letter and word practice.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Stages of Drawing and Writing Development
@@ -35,10 +39,10 @@ Children progress through stages of drawing and writing development, from random
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Observe children's progress through the stages of drawing and writing development. Evaluate the complexity and control in their drawings and writings. Notice their ability to represent objects and people and use letters and words.

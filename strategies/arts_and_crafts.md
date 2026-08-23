@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Arts and Crafts
+description: Creative activities such as arts and crafts can help learners explore their creativity and learn something new.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Arts and Crafts
@@ -35,8 +39,8 @@ Creative activities such as arts and crafts can help learners explore their crea
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/demonstration|Demonstration]]
+- [Application](../elements/application.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observation of learner engagement and creativity

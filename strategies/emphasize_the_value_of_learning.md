@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emphasize the Value of Learning
+description: Help learners focus on and value the process of learning rather than solely on grades.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emphasize the Value of Learning
@@ -35,9 +39,9 @@ Help learners focus on and value the process of learning rather than solely on g
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [State objectives](../elements/state-objectives.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learner engagement in learning activities, monitor their self-perception of intelligence and worth, and track their grades. Compare the effectiveness of emphasizing learning versus emphasizing grades.

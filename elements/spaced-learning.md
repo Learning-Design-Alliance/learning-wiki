@@ -1,8 +1,11 @@
 ---
 type: element
+title: Spaced Learning
+description: Spaced learning is the element in which practice or review is distributed over time rather than massed together.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Spaced Learning
@@ -11,9 +14,9 @@ edited_by: Codex
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.
 
 ## Affordances
-- [[principles/spaced-learning|Spaced Learning]]
-- [[principles/memory-consolidation|Memory Consolidation]]
+- [Spaced Learning](../principles/spaced-learning.md)
+- [Memory Consolidation](../principles/memory-consolidation.md)
 
 ## Related Elements
-- [[elements/spaced-repetition|Spaced Repetition]]
-- [[elements/retrieval-practice|Retrieval Practice]]
+- [Spaced Repetition](spaced-repetition.md)
+- [Retrieval Practice](retrieval-practice.md)

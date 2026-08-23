@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Use \"I\" Statements to Avoid Blame"
+description: Avoid using “you” statements, which can make students defensive.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Use "I" Statements to Avoid Blame
@@ -35,8 +39,8 @@ Avoid using “you” statements, which can make students defensive. Instead, us
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Monitor communication patterns, observe interactions, gather feedback from students

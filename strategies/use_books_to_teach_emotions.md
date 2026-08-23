@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Use Books to Teach Emotions
+description: Stories are used as examples of handling emotions in a responsible way.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Use Books to Teach Emotions
@@ -35,9 +39,9 @@ Stories are used as examples of handling emotions in a responsible way. Serve as
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Assess student participation in discussions, reflective writing, and other activities that demonstrate understanding of emotional concepts

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Activating and Using Background Knowledge
+description: This strategy involves readers activating their existing knowledge and using it to comprehend what they are reading.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Activating and Using Background Knowledge
@@ -35,10 +39,10 @@ This strategy involves readers activating their existing knowledge and using it 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/analogies-and-prior-knowledge-activation|Analogies and prior knowledge activation]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Analogies and prior knowledge activation](../elements/analogies-and-prior-knowledge-activation.md)
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe learners' ability to make connections between their existing knowledge and the text. Assess comprehension through discussions, summaries, or written responses that demonstrate the use of background knowledge.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Short Conversations (Pre-Reading)
+description: Learners are given a sentence from the reading and engage in a conversation with a partner about the sentence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Short Conversations (Pre-Reading)
@@ -35,7 +39,7 @@ Learners are given a sentence from the reading and engage in a conversation with
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe the creativity and depth of the conversations. Collect feedback on how well the activity prepared learners for the reading.

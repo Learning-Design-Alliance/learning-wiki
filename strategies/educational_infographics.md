@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Educational Infographics
+description: Educational infographics are visual aids that simplify complex information into easily digestible formats using a combination of charts, icons, and text.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Educational Infographics
@@ -35,10 +39,10 @@ Educational infographics are visual aids that simplify complex information into 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
-- [[elements/demonstration|Demonstration]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Assess learner comprehension through quizzes or discussions. Evaluate the effectiveness of the infographic in simplifying complex concepts. Observe learner engagement and participation.

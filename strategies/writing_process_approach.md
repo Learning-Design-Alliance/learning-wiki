@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Writing Process Approach
+description: A process-oriented approach to writing instruction that places the learner at the center of interactive learning among teachers and students.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Writing Process Approach
@@ -35,11 +39,11 @@ A process-oriented approach to writing instruction that places the learner at th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/revision|Revision]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Revision](../elements/revision.md)
 
 ## Assessment Evidence
 - Improvements in writing quality, student engagement, and collaboration. Assessment of student progress through writing samples, feedback, and self-reflection.

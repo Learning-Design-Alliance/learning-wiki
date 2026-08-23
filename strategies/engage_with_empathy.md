@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Engage with Empathy
+description: Engage in effective online communication with empathy by taking the time to read and understand the original post, exchanging ideas with one or more users, tagging and mentioning community members, carefully crafting your message,…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Engage with Empathy
@@ -35,8 +39,8 @@ Engage in effective online communication with empathy by taking the time to read
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe online interactions, gather feedback from community members, assess quality of online contributions

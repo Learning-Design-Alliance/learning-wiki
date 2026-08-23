@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Promoting Belonging Through Cues and Representations
+description: Promoting belonging involves using small, but powerful cues in the environment to foster a sense of connection and recognition.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Promoting Belonging Through Cues and Representations
@@ -35,10 +39,10 @@ Promoting belonging involves using small, but powerful cues in the environment t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/integration|Integration]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Student participation, classroom climate, student feedback.

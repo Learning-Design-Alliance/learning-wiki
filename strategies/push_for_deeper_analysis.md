@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Push for Deeper Analysis
+description: Encourage students to go beyond surface-level analysis and consider how sentence structure and other elements create meaning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Push for Deeper Analysis
@@ -35,12 +39,12 @@ Encourage students to go beyond surface-level analysis and consider how sentence
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/conceptual-questioning|Conceptual Questioning]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
 
 ## Assessment Evidence
 - Student participation in discussions. Student reflections on their analysis. Analysis of student writing samples.

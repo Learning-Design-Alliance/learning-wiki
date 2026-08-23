@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Concept Discovery Through Examples and Non-examples
+description: Expose learners to a wide range of examples and nonexamples and allow them to discover the concept.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Concept Discovery Through Examples and Non-examples
@@ -35,9 +39,9 @@ Expose learners to a wide range of examples and nonexamples and allow them to di
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-scenario|Problem Scenario]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/solution-development|Solution Development]]
+- [Problem Scenario](../elements/problem-scenario.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
 
 ## Assessment Evidence
 - Assess learners' ability to articulate the key attributes of the concept and classify new instances accurately.

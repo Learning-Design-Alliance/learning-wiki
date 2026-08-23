@@ -1,8 +1,16 @@
 ---
 type: element
+title: Adaptive Learning
+description: "Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge."
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: shute-2003
+    resource: "https://doi.org/10.1207/S15326985EP3802_4"
+    title: "Shute, V. J., & Towle, B. (2003). Adaptive e-learning. *Educational Psychologist, 38*(2), 105-114"
+    author: "Shute, V. J., & Towle, B"
 ---
 
 # Adaptive Learning
@@ -39,13 +47,13 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - Helps instructors manage variation when used transparently
 
 ## Related Elements
-- [[elements/adaptive-difficulty|Adaptive Difficulty]]
-- [[elements/adaptive-mastery-learning|Adaptive Mastery Learning]]
-- [[elements/mastery-progression|Mastery Progression]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Adaptive Difficulty](adaptive-difficulty.md)
+- [Adaptive Mastery Learning](adaptive-mastery-learning.md)
+- [Mastery Progression](mastery-progression.md)
+- [Provide Guidance](provide-guidance.md)
 
 ## Patterns That Use This Element
-- [[patterns/game-based-mastery-learning-eg-duolingo-pattern|Game-Based Mastery Learning (e.g., Duolingo Pattern)]]
+- [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Examples
 - A tutoring system recommends new tasks based on recent error patterns

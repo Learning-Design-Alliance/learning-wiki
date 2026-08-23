@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Stick-It Together (Collaborative Problem-Solving)
+description: Students work in small groups to collaboratively solve math problems.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Stick-It Together (Collaborative Problem-Solving)
@@ -35,10 +39,10 @@ Students work in small groups to collaboratively solve math problems. Each stude
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/application-of-knowledge|Application of Knowledge]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Solution Development](../elements/solution-development.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
 
 ## Assessment Evidence
 - Observe student participation, assess the quality of collaborative answers, analyze the reasoning and justification presented by groups, and review individual contributions on sticky notes.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Free Choice Time
+description: Provide learners with the autonomy to select their learning activities, mirroring the self-directed learning seen in preschool environments.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Free Choice Time
@@ -35,10 +39,10 @@ Provide learners with the autonomy to select their learning activities, mirrorin
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [State objectives](../elements/state-objectives.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learner engagement and motivation during free choice activities. Assess the depth of understanding and quality of work produced by learners. Gather feedback from learners about their experiences with free choice time.

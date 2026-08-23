@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Dramatic Play
+description: Dramatic play, also known as pretend play, is a learning strategy where learners actively experiment with social and emotional roles through imagination.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Dramatic Play
@@ -35,9 +39,9 @@ Dramatic play, also known as pretend play, is a learning strategy where learners
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Application](../elements/application.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' social interactions, problem-solving approaches, and emotional expressions during play. Assess their ability to take turns, share responsibilities, and resolve conflicts creatively.

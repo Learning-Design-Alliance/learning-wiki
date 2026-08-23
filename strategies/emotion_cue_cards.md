@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emotion Cue Cards
+description: Emotion cue cards are portable visual or auditory prompts designed to remind students of strategies for managing emotions, such as using a fidget or taking a mindfulness break.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emotion Cue Cards
@@ -35,9 +39,9 @@ Emotion cue cards are portable visual or auditory prompts designed to remind stu
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe the frequency and effectiveness of strategy use. Monitor improvements in self-regulation and emotional control.

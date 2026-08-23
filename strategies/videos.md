@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Videos
+description: Videos are dynamic resources for supporting curricula, engaging students through sight and sound.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Videos
@@ -35,10 +39,10 @@ Videos are dynamic resources for supporting curricula, engaging students through
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track student engagement and participation during and after video viewing. Assess comprehension through embedded questions, quizzes, and discussions. Analyze improvements in reading and literacy skills through pre- and post-video assessments.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Home-Based Literacy Support
+description: Home-based literacy support involves schools providing families with resources and guidance to support students’ learning at home.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Home-Based Literacy Support
@@ -35,9 +39,9 @@ Home-based literacy support involves schools providing families with resources a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/application|Application]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor student academic progress and behavior outcomes. Track family participation in provided activities and feedback on the usefulness of resources. Assess changes in family members' sense of empowerment and well-being.

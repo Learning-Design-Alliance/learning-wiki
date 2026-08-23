@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Distributed Practice (Spacing Effect)
+description: Distributed practice, also known as the spacing effect, is a learning technique where reviews of information or practice of a task are spaced out over time rather than massed together.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Distributed Practice (Spacing Effect)
@@ -35,8 +39,8 @@ Distributed practice, also known as the spacing effect, is a learning technique 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/continuous-review|Continuous Review]]
-- [[elements/practice|Practice]]
+- [Continuous Review](../elements/continuous-review.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Improved scores on delayed recall tests, better ability to apply concepts to novel situations

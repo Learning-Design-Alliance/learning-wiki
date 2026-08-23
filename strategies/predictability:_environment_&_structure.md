@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Predictability: Environment & Structure"
+description: Creating consistent interfaces and repetitive structures or frameworks in learning environments to facilitate predictability.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Predictability: Environment & Structure
@@ -35,7 +39,7 @@ Creating consistent interfaces and repetitive structures or frameworks in learni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe student behavior (e.g., reduced anxiety, increased focus). Gather feedback on the clarity and effectiveness of routines and structures.

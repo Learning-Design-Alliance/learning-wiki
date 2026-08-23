@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Implement Measures for Student Self-Knowledge
+description: Implementing measures for student self-knowledge involves using various tools and strategies to help students understand their strengths, interests, and areas for growth.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Implement Measures for Student Self-Knowledge
@@ -35,10 +39,10 @@ Implementing measures for student self-knowledge involves using various tools an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student participation in reflection activities, monitor their ability to articulate their needs, and observe their confidence in seeking support.

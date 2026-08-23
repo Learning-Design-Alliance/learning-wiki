@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Integrating Movement into Daily Activities
+description: Integrating movement into daily activities involves incorporating physical activity into routines and tasks that are typically sedentary.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Integrating Movement into Daily Activities
@@ -35,9 +39,9 @@ Integrating movement into daily activities involves incorporating physical activ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Increased daily step count, improved energy levels, enhanced mood, better health outcomes, and self-reported increases in physical activity.

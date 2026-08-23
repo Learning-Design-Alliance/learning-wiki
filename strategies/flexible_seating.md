@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Flexible Seating
+description: Flexible seating involves providing learners with a variety of seating options and allowing them to choose where they sit based on their individual needs and preferences.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Flexible Seating
@@ -35,11 +39,11 @@ Flexible seating involves providing learners with a variety of seating options a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Improved grades, increased engagement, more participation in discussions, learner articulation of preferred learning environments

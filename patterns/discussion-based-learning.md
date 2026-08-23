@@ -1,8 +1,16 @@
 ---
 type: pattern
+title: Discussion-Based Learning
+description: Discussion-Based Learning is a pattern in which understanding is built through structured conversation rather than one-way presentation alone.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: mercer-2012
+    resource: "https://doi.org/10.1016/j.lcsi.2012.03.001"
+    title: "Mercer, N., & Howe, C. (2012). Explaining the dialogic processes of teaching and learning. *Learning, Culture and Social Interaction, 1*(1), 12-21"
+    author: "Mercer, N., & Howe, C"
 author: discussion-centered instruction tradition
 grain_size: lesson
 ---
@@ -36,14 +44,14 @@ Discussion-Based Learning is a pattern in which understanding is built through s
 
 ### Theory
 #### Supporting
-- [[principles/social-learning|Social Learning]]
-- [[principles/constructivism|Constructivism]]
+- [Social Learning](../principles/social-learning.md)
+- [Constructivism](../principles/constructivism.md)
 #### Contradicting / Qualifying
 - Discussion needs structure; open talk alone does not ensure conceptual progress.
 
 ### Claims
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 
 ## Design
 
@@ -54,19 +62,19 @@ Discussion-Based Learning is a pattern in which understanding is built through s
 4. Synthesize what changed or what remains contested.
 
 ### Elements Used
-- [[elements/discussion-prompt|Discussion Prompt]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/socratic-questioning|Socratic Questioning]]
+- [Discussion Prompt](../elements/discussion-prompt.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Socratic Questioning](../elements/socratic-questioning.md)
 
 ### Affordances
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/perspective-taking|Perspective-Taking]]
-- [[principles/social-learning|Social Learning]]
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Perspective-Taking](../principles/perspective-taking.md)
+- [Social Learning](../principles/social-learning.md)
 
 ## Related Patterns
-- [[patterns/socratic-seminar|Socratic Seminar]]
-- [[patterns/structured-academic-controversy-sac|Structured Academic Controversy (SAC)]]
-- [[patterns/discussion-group|Discussion Group]]
+- [Socratic Seminar](socratic-seminar.md)
+- [Structured Academic Controversy (SAC)](structured-academic-controversy-sac.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - Seminar-style text discussion with facilitator prompts and synthesis.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Math Art
+description: Math Art involves creating drawings and designs that explore mathematical concepts and patterns.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Math Art
@@ -35,10 +39,10 @@ Math Art involves creating drawings and designs that explore mathematical concep
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/application|Application]]
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Assess student's understanding of mathematical concepts through their artwork and explanations. Observe student's ability to identify and explain mathematical patterns in their art.

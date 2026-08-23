@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Labeling Emotions Throughout the Day
+description: "Labeling emotions involves intentionally naming and describing one's own emotions and helping others label theirs throughout the day."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Labeling Emotions Throughout the Day
@@ -35,9 +39,9 @@ Labeling emotions involves intentionally naming and describing one's own emotion
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/modeling|Modeling]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Modeling](../elements/modeling.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe the frequency and accuracy of emotion labeling. Track the use of emotion words and the ability to connect emotions with experiences.

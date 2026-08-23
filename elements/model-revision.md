@@ -1,7 +1,11 @@
 ---
 type: element
+title: Model Revision
+description: Learners refine their conceptual models based on evidence and feedback.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Model Revision
@@ -27,16 +31,16 @@ Learners refine their conceptual models based on evidence and feedback.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/inquiry-based-learning|Inquiry-Based Learning]]
-- [[principles/cognitive-load-theory|Cognitive Load Theory]]
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md)
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
 
 ## Related Elements
-- [[elements/scientific-reasoning|Scientific Reasoning]]
-- [[elements/justification|Justification]]
-- [[elements/argumentation|Argumentation]]
+- [Scientific Reasoning](scientific-reasoning.md)
+- [Justification](justification.md)
+- [Argumentation](argumentation.md)
 
 ## Patterns That Use This Element
-- [[patterns/model-evidence-link-mel-reasoning-pattern|Model-Evidence Link (MEL) Reasoning Pattern]]
+- [Model-Evidence Link (MEL) Reasoning Pattern](../patterns/model-evidence-link-mel-reasoning-pattern.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

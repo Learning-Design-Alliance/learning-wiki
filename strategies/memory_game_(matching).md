@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Memory Game (Matching)
+description: A memory game where learners match pairs of word cards to reinforce vocabulary and memory skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Memory Game (Matching)
@@ -35,9 +39,9 @@ A memory game where learners match pairs of word cards to reinforce vocabulary a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the number of matches achieved. Observe learners' ability to use words in sentences. Collect anecdotal notes on participation and peer support.

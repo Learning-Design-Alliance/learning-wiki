@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Build Community Through Peer Feedback
+description: Offering students frequent opportunities to share feedback and revise their work fosters a supportive classroom culture and builds relationships.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Build Community Through Peer Feedback
@@ -35,8 +39,8 @@ Offering students frequent opportunities to share feedback and revise their work
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/feedback|Feedback]]
-- [[elements/revision|Revision]]
+- [Feedback](../elements/feedback.md)
+- [Revision](../elements/revision.md)
 
 ## Assessment Evidence
 - Evaluate the quality and effectiveness of student feedback. Assess student revisions and improvements to their work. Review student reflections on the peer feedback process.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Estimate and Predict
+description: Learners use estimation and prediction skills by asking how they might do on an upcoming project or how long it might take them to complete a task or assignment.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Estimate and Predict
@@ -35,8 +39,8 @@ Learners use estimation and prediction skills by asking how they might do on an 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/assess-performance|Assess performance]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Compare estimated performance with actual outcomes. Review student reflections for insights gained and adjustments made.

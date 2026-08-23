@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Worked Example Routine
+description: This routine provides a structured approach to using worked examples in teaching to prevent passive or superficial engagement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Worked Example Routine
@@ -35,8 +39,8 @@ This routine provides a structured approach to using worked examples in teaching
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Student participation, quality of discussions, accuracy of explanations, and successful completion of independent problems.

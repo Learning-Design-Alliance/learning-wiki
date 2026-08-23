@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Acronyms and Acrostics
+description: Acronyms use the first letter of each word in a list or phrase to create a new, memorable word or abbreviation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Acronyms and Acrostics
@@ -35,8 +39,8 @@ Acronyms use the first letter of each word in a list or phrase to create a new, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Track the number of items recalled correctly after using an acronym or acrostic. Monitor the ease with which learners can generate and use these devices.

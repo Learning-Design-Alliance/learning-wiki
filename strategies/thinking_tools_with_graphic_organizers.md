@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Thinking Tools with Graphic Organizers
+description: When teachers deliver content through lectures, readings, or video, they can have students interact with the content by completing a graphic organizer in groups, pairs, or even on their own.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Thinking Tools with Graphic Organizers
@@ -35,8 +39,8 @@ When teachers deliver content through lectures, readings, or video, they can hav
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Student comparisons of their results to other groups.

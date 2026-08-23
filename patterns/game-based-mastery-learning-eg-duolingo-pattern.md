@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Game-Based Mastery Learning (e.g., Duolingo Pattern)
+description: Game-Based Mastery Learning combines mastery progression with game-like mechanics such as levels, streaks, rewards, adaptive challenge, and immediate feedback.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 author: gamified mastery learning tradition
 grain_size: lesson
 ---
@@ -52,11 +55,11 @@ This pattern can be highly effective for incremental skill development, especial
 
 ### Claims
 #### Supporting
-- [[claims/self-monitoring-improves-self-regulation]] [+M]
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
-- [[claims/worked-examples-expertise-reversal]] [~M]
+- [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-expertise-reversal.md) [~M]
 
 ## Design
 
@@ -68,16 +71,16 @@ This pattern can be highly effective for incremental skill development, especial
 5. Increase difficulty or reduce support as competence grows.
 
 ### Elements Used
-- [[elements/adaptive-difficulty|Adaptive Difficulty]]
-- [[elements/adaptive-mastery-learning|Adaptive Mastery Learning]]
-- [[elements/feedback|Feedback]]
-- [[elements/practice|Practice]]
+- [Adaptive Difficulty](../elements/adaptive-difficulty.md)
+- [Adaptive Mastery Learning](../elements/adaptive-mastery-learning.md)
+- [Feedback](../elements/feedback.md)
+- [Practice](../elements/practice.md)
 
 ### Affordances
-- [[principles/game-based-learning|Game-Based Learning]]
-- [[principles/immediate-feedback|Immediate Feedback]]
-- [[principles/competency-based-learning-assessment|Competency-Based Learning & Assessment]]
-- [[principles/self-monitoring|Self-monitoring]]
+- [Game-Based Learning](../principles/game-based-learning.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Competency-Based Learning & Assessment](../principles/competency-based-learning-assessment.md)
+- [Self-monitoring](../principles/self-monitoring.md)
 
 ### Personalization
 - Difficulty can adapt to learner performance.
@@ -85,8 +88,8 @@ This pattern can be highly effective for incremental skill development, especial
 - Feedback and hints can be faded as mastery grows.
 
 ## Related Patterns
-- [[patterns/cognitive-load-reduction-clt-scaffolding-approach|Cognitive Load Reduction (CLT Scaffolding Approach)]]
-- [[patterns/traditional-lecture-reading-midterm-final-assessment|Traditional Lecture / Reading / Midterm / Final Assessment]]
+- [Cognitive Load Reduction (CLT Scaffolding Approach)](cognitive-load-reduction-clt-scaffolding-approach.md)
+- [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-reading-midterm-final-assessment.md)
 
 ## Examples
 - Duolingo-style language progression with retries, streaks, and review loops.

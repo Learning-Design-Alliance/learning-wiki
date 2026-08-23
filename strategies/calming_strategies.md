@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Calming Strategies
+description: Calming strategies are techniques and methods used to help children manage and reduce feelings of anger and other intense emotions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Calming Strategies
@@ -35,9 +39,9 @@ Calming strategies are techniques and methods used to help children manage and r
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe children's use of calming strategies during periods of emotional distress. Monitor improvements in their ability to manage and reduce feelings of anger.

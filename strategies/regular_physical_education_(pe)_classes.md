@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Regular Physical Education (PE) Classes
+description: Implement consistent PE classes to help students burn off energy and be active, improving their ability to focus in class.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Regular Physical Education (PE) Classes
@@ -35,7 +39,7 @@ Implement consistent PE classes to help students burn off energy and be active, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track participation rates in PE classes, assess improvements in physical fitness, monitor student behavior and engagement in other classes

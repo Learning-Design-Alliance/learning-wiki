@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Multimedia Learning
+description: Multimedia Learning is the short-form canonical target for patterns that combine verbal and visual media in intentionally coordinated ways to support understanding.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 author: multimedia learning tradition
 grain_size: lesson
 ---
@@ -28,14 +31,14 @@ Multimedia Learning is the short-form canonical target for patterns that combine
 
 ### Theory
 #### Supporting
-- [[principles/dual-coding|Dual Coding]]
-- [[principles/cognitive-load-management|Cognitive Load Management]]
+- [Dual Coding](../principles/dual-coding.md)
+- [Cognitive Load Management](../principles/cognitive-load-management.md)
 
 ## Design
 
 ### Elements Used
-- [[elements/multimedia-learning|Multimedia Learning]]
-- [[elements/digital-learning|Digital Learning]]
+- [Multimedia Learning](../elements/multimedia-learning.md)
+- [Digital Learning](../elements/digital-learning.md)
 
 ## Key Sources
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press.

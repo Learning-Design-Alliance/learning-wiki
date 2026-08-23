@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Mindfulness Practices
+description: Incorporating mindfulness practices such as yoga, breathing exercises, and meditation into the learning environment to calm the nervous system and promote self-regulation.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Mindfulness Practices
@@ -35,8 +39,8 @@ Incorporating mindfulness practices such as yoga, breathing exercises, and medit
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learners' engagement and participation in mindfulness activities. Collect feedback from learners on the effectiveness of different mindfulness practices. Track changes in learners' behavior, attention, and emotional regulation.

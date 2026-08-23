@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: "Learning Strategy & Tool \"Fair\""
+description: "A 'Learning Strategy & Tool Fair' allows learners to explore a variety of learning strategies and tools in a hands-on, exploratory environment."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Learning Strategy & Tool "Fair"
@@ -35,9 +39,9 @@ A 'Learning Strategy & Tool Fair' allows learners to explore a variety of learni
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe learner engagement with different strategies and tools. Collect feedback on which strategies learners found most helpful. Track the adoption of new strategies in learner workflows.

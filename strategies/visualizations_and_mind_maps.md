@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Visualizations and Mind Maps
+description: Use visuals such as infographics and mind maps to help transform abstract concepts into clear and engaging formats.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Visualizations and Mind Maps
@@ -35,8 +39,8 @@ Use visuals such as infographics and mind maps to help transform abstract concep
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/advance-organizers|Advance Organizers]]
-- [[elements/supportive-information|Supportive information]]
+- [Advance Organizers](../elements/advance-organizers.md)
+- [Supportive information](../elements/supportive-information.md)
 
 ## Assessment Evidence
 - Assess learners' ability to explain concepts using the visuals they created or analyzed.

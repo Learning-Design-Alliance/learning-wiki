@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Reflection on Student Learning
+description: "This strategy involves teachers assessing and reflecting on each student's comprehension and engagement by using critical thinking questions that encourage deep thinking about math concepts."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Reflection on Student Learning
@@ -35,9 +39,9 @@ This strategy involves teachers assessing and reflecting on each student's compr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Improved student comprehension, increased student engagement, and a growth mindset.

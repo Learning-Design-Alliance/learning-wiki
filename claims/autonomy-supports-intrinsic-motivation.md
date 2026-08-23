@@ -1,8 +1,24 @@
 ---
 type: claim
-id: motiv-1
+title: Autonomy support increases intrinsic motivation, engagement, and persistence in learning.
 status: review
-last_edited: 2026-04-13
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-13
+sources:
+  - id: ryan-deci-2000
+    resource: "https://doi.org/10.1037/0003-066X.55.1.68"
+    title: "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [https://doi.org/10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)"
+    author: "Ryan, R. M., & Deci, E. L"
+  - id: deci-koestner-ryan-1999
+    resource: "https://doi.org/10.1037/0033-2909.125.5.627"
+    title: "Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(5), 627–668. [https://doi.org/10.1037/0033-2909.125.5.627](https://doi.org/10.1037/0033-2909.125.5.627)"
+    author: "Deci, E. L., Koestner, R., & Ryan, R. M"
+  - id: stefanou-et-al-2004
+    resource: "https://doi.org/10.1207/s15326985ep3902_2"
+    title: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97–110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)"
+    author: "Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C"
+id: motiv-1
 evidence_strength: strong
 ---
 
@@ -46,11 +62,11 @@ Stefanou and colleagues distinguish three types of classroom autonomy support: o
 
 ## Discussion
 
-Autonomy support does not mean unlimited freedom. The research consistently shows that autonomy works best when paired with structure: clear goals, transparent standards, and sufficient support for learners to choose well. For novices especially, premature autonomy can produce anxiety rather than motivation — see [[claims/process-goals-outperform-outcome-goals-for-novices]]. The design implication is bounded choice: vary the path while holding the destination stable.
+Autonomy support does not mean unlimited freedom. The research consistently shows that autonomy works best when paired with structure: clear goals, transparent standards, and sufficient support for learners to choose well. For novices especially, premature autonomy can produce anxiety rather than motivation — see [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md). The design implication is bounded choice: vary the path while holding the destination stable.
 
 There is also a cultural dimension: in high-power-distance educational contexts, some learners may be uncomfortable with choice and interpret it as lack of guidance. This moderator is underexplored in the SDT literature, which draws primarily on Western samples.
 
 ## Related Claims
-- [[claims/task-value-increases-motivation-and-engagement]] — task value and autonomy often compound: learners who see a task as valuable are more likely to experience autonomous motivation toward it
-- [[claims/self-efficacy-predicts-academic-persistence]] — competence (one of SDT's three needs) links autonomy to efficacy: learners need to believe they can succeed before autonomy feels enabling rather than threatening
-- [[claims/self-monitoring-improves-self-regulation]] — self-monitoring is a key mechanism through which autonomous learners regulate their own progress
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — task value and autonomy often compound: learners who see a task as valuable are more likely to experience autonomous motivation toward it
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — competence (one of SDT's three needs) links autonomy to efficacy: learners need to believe they can succeed before autonomy feels enabling rather than threatening
+- [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — self-monitoring is a key mechanism through which autonomous learners regulate their own progress

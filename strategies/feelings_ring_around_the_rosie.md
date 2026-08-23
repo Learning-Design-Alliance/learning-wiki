@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Feelings Ring Around the Rosie
+description: "During recess, learners play 'Ring Around the Rosie' while acting out different emotions."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Feelings Ring Around the Rosie
@@ -35,8 +39,8 @@ During recess, learners play 'Ring Around the Rosie' while acting out different 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/demonstration|Demonstration]]
+- [Practice](../elements/practice.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe learners' ability to accurately portray emotions through movement. Assess their participation and engagement in the activity.

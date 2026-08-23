@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Fishbowl Discussion
+description: Fishbowl is a strategy for facilitating group discussions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Fishbowl Discussion
@@ -35,11 +39,11 @@ Fishbowl is a strategy for facilitating group discussions. In a Fishbowl discuss
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/question-formulation|Question Formulation]]
-- [[elements/knowledge-building-discourse|Knowledge-Building Discourse]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
+- [Question Formulation](../elements/question-formulation.md)
+- [Knowledge-Building Discourse](../elements/knowledge-building-discourse.md)
 
 ## Assessment Evidence
 - Observe the level of student participation and engagement. Evaluate the quality of contributions and active listening. Assess the ability to follow norms and rules. Gather feedback on the effectiveness of the discussion and individual performance.

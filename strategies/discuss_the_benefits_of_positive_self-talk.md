@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Discuss the Benefits of Positive Self-Talk
+description: Openly communicating what self-talk is and how it can help.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Discuss the Benefits of Positive Self-Talk
@@ -35,8 +39,8 @@ Openly communicating what self-talk is and how it can help. This involves explai
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Learners' willingness to try positive self-talk strategies. Changes in their attitudes and beliefs about the power of mindset.

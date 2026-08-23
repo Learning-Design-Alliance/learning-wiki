@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Explicit Instruction on Book Selection and Care
+description: Teach learners how to select appropriate independent reading books, care for them, understand expectations for their reading work, and follow library maintenance procedures.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Explicit Instruction on Book Selection and Care
@@ -35,11 +39,11 @@ Teach learners how to select appropriate independent reading books, care for the
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/application|Application]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Observe students' ability to select appropriate books and follow library procedures. Review students' reading logs and documentation. Monitor student participation in sharing sessions.

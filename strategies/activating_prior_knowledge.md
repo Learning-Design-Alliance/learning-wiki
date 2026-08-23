@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Activating Prior Knowledge
+description: "Activating students' prior knowledge involves prompting learners to recall and share what they already know about a topic before introducing new information."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Activating Prior Knowledge
@@ -35,8 +39,8 @@ Activating students' prior knowledge involves prompting learners to recall and s
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/activation|Activation]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Activation](../elements/activation.md)
 
 ## Assessment Evidence
 - Track student responses to identify gaps in knowledge. Compare initial understanding with post-instruction understanding.

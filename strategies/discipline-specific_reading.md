@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Discipline-Specific Reading
+description: Have students read articles from subject-specific columns and publications.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Discipline-Specific Reading
@@ -35,9 +39,9 @@ Have students read articles from subject-specific columns and publications. When
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student participation in discussions. Review student writing to assess understanding.

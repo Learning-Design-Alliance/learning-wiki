@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Relating Math to Student Strengths
+description: This strategy leverages learners’ existing strengths and interests to make math more relatable and engaging.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Relating Math to Student Strengths
@@ -35,11 +39,11 @@ This strategy leverages learners’ existing strengths and interests to make mat
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/recall-prior-knowledge|Recall prior knowledge]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
-- [[elements/whole-task-performance|Whole-task performance]]
+- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Whole-task performance](../elements/whole-task-performance.md)
 
 ## Assessment Evidence
 - Observe increases in learner engagement and participation. Assess improvements in confidence and attitudes toward math.

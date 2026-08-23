@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Create a Word Wall for Emotions
+description: Build your students’ emotion vocabulary by giving them direct access to those words and feelings.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Create a Word Wall for Emotions
@@ -35,8 +39,8 @@ Build your students’ emotion vocabulary by giving them direct access to those 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Assess students’ ability to use emotional vocabulary in discussions, writing, and self-reflection activities

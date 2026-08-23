@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating Space for New Ideas
+description: Schools should provide opportunities for teachers to try new things and make mistakes.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating Space for New Ideas
@@ -35,7 +39,7 @@ Schools should provide opportunities for teachers to try new things and make mis
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Track the number of new ideas implemented by teachers. Collect data on teacher satisfaction and engagement. Evaluate the impact of new approaches on student learning outcomes.

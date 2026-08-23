@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Concentric Circles
+description: Learners form two circles, one inside circle and one outside circle.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Concentric Circles
@@ -35,9 +39,9 @@ Learners form two circles, one inside circle and one outside circle. Each learne
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Observe learner participation and engagement in the activity, review the quality of their responses to the discussion questions, collect feedback from learners about their experience.

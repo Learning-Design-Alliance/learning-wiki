@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Social Awareness - Model Empathy and Explain
+description: Model empathy and explain explicitly discuss different perspectives have explicit conversations about emotions and social issues, including issues of social justice.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Social Awareness - Model Empathy and Explain
@@ -35,7 +39,7 @@ Model empathy and explain explicitly discuss different perspectives have explici
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
+- [Provide Guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Teachers can listen and observe learners' conversations to evaluate whether or not the goal was achieved.

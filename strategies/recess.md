@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Recess
+description: Offer daily recess to allow students to be active, which can improve memory, conflict resolution skills, and creativity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Recess
@@ -35,7 +39,7 @@ Offer daily recess to allow students to be active, which can improve memory, con
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Monitor behavior and engagement in class, track recess participation rates, assess improvements in memory and cognitive skills

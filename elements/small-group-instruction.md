@@ -1,8 +1,11 @@
 ---
 type: element
+title: Small-Group Instruction
+description: Small-group instruction is the element in which learners work with an instructor or facilitator in a reduced-size group for targeted teaching, discussion, or support.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Small-Group Instruction
@@ -23,13 +26,13 @@ Small-group instruction is the element in which learners work with an instructor
 - Support targeted instruction, discussion, and responsive feedback.
 
 ### Affordances
-- [[principles/flexible-grouping|Flexible Grouping]]
-- [[principles/engagement|Engagement]]
+- [Flexible Grouping](../principles/flexible-grouping.md)
+- [Engagement](../principles/engagement.md)
 
 ## Related Elements
-- [[elements/group-work|Group Work]]
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/guided-practice|Guided Practice]]
+- [Group Work](group-work.md)
+- [Peer Collaboration](peer-collaboration.md)
+- [Guided Practice](guided-practice.md)
 
 ## Key Sources
 - Tomlinson, C. A. (2014). *The differentiated classroom* (2nd ed.). ASCD.

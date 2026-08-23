@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Test-Study-Test Technique
+description: The test-study-test technique is a spelling instruction strategy where students take a pretest, correct their errors under teacher guidance, and then study the corrected words before taking a final test.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Test-Study-Test Technique
@@ -35,10 +39,10 @@ The test-study-test technique is a spelling instruction strategy where students 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Track spelling accuracy from pretest to final test. Monitor the reduction in specific errors and assess overall improvement in spelling proficiency.

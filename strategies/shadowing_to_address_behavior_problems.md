@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Shadowing to Address Behavior Problems
+description: Shadowing can be used as a direct intervention to address behavior problems in the classroom.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Shadowing to Address Behavior Problems
@@ -35,9 +39,9 @@ Shadowing can be used as a direct intervention to address behavior problems in t
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Reduction in the frequency of negative behaviors, increased use of alternative strategies by the child, and positive changes in classroom safety and dynamics.

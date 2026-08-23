@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Math Key Word Flashcards
+description: Learners create flashcards for each of the four mathematical operations.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Math Key Word Flashcards
@@ -35,9 +39,9 @@ Learners create flashcards for each of the four mathematical operations. On one 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Practice](../elements/practice.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe whether learners are using flashcards correctly to identify the correct operation to use in a word problem. Check for accuracy on homework.

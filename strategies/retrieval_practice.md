@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Retrieval Practice
+description: Retrieval practice involves actively recalling information from memory without having it in front of you.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Retrieval Practice
@@ -35,9 +39,9 @@ Retrieval practice involves actively recalling information from memory without h
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/assess-performance|Assess Performance]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Assess Performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Measure improvement in test scores, quality of participation in discussions, and self-assessment accuracy. Track the type of questions answered correctly or incorrectly to identify areas of strength and weakness.

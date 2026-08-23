@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Audio Commentary
+description: Audio commentary involves instructors and learners using audio recordings to provide personalized feedback on work.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Audio Commentary
@@ -35,9 +39,9 @@ Audio commentary involves instructors and learners using audio recordings to pro
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/technology-integration|Technology Integration]]
-- [[elements/individual-response|Individual Response]]
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Technology Integration](../elements/technology-integration.md)
+- [Individual Response](../elements/individual-response.md)
 
 ## Assessment Evidence
 - Assess the quality and relevance of audio feedback. Observe learner engagement and participation in feedback activities. Measure improvements in the quality of revised work based on audio feedback.

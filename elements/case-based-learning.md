@@ -1,7 +1,11 @@
 ---
 type: element
+title: Case-Based Learning
+description: Learners analyze real-world scenarios to apply theoretical concepts.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Case-Based Learning
@@ -27,17 +31,17 @@ Learners analyze real-world scenarios to apply theoretical concepts.
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/situated-learning|Situated Learning]]
-- [[principles/cognitive-apprenticeship|Cognitive Apprenticeship]]
+- [Situated Learning](../principles/situated-learning.md)
+- [Cognitive Apprenticeship](../principles/cognitive-apprenticeship.md)
 
 ## Related Elements
-- [[elements/case-study|Case Study]]
-- [[elements/problem-based-learning|Problem-Based Learning]]
-- [[elements/decision-making|Decision-Making]]
+- [Case Study](case-study.md)
+- [Problem-Based Learning](problem-based-learning.md)
+- [Decision-Making](decision-making.md)
 
 ## Patterns That Use This Element
-- [[patterns/case-based-learning|Case-Based Learning]]
-- [[patterns/problem-based-learning|Problem-Based Learning]]
+- [Case-Based Learning](../patterns/case-based-learning.md)
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

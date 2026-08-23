@@ -1,8 +1,11 @@
 ---
 type: element
+title: Metacognitive Reflection
+description: Metacognitive reflection is the element in which learners examine how they thought, what strategies they used, where they were confused, and what they should do next.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Metacognitive Reflection
@@ -23,18 +26,18 @@ Metacognitive reflection is the element in which learners examine how they thoug
 - Improve self-monitoring, strategy choice, and adaptive revision.
 
 ### Affordances
-- [[principles/metacognition|Metacognition]]
-- [[principles/self-regulation|Self-Regulation]]
-- [[principles/reflection|Reflection]]
+- [Metacognition](../principles/metacognition.md)
+- [Self-Regulation](../principles/self-regulation.md)
+- [Reflection](../principles/reflection.md)
 
 ## Related Elements
-- [[elements/reflection-activities|Reflection Activities]]
-- [[elements/self-assessment|Self-Assessment]]
-- [[elements/metacognitive-strategies|Metacognitive Strategies]]
+- [Reflection Activities](reflection-activities.md)
+- [Self-Assessment](self-assessment.md)
+- [Metacognitive Strategies](metacognitive-strategies.md)
 
 ## Patterns That Use This Element
-- [[patterns/reflective-practice|Reflective Practice]]
-- [[patterns/self-regulated-learning|Self-Regulated Learning]]
+- [Reflective Practice](../patterns/reflective-practice.md)
+- [Self-Regulated Learning](../patterns/self-regulated-learning.md)
 
 ## Examples
 - Learners explain what strategy they used, what evidence told them it was not working, and what they will try next time.

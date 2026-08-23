@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Number Rack App
+description: Helps kids learn to use numbers and master them in a visual way, offering moveable, colored beads.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Number Rack App
@@ -35,9 +39,9 @@ Helps kids learn to use numbers and master them in a visual way, offering moveab
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/assess-performance|Assess performance]]
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Monitor performance in visual grouping and sorting exercises.

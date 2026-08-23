@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Daytime Blue Light Exposure
+description: Exposure to blue light (sunlight, full-spectrum LEDs, digital screens) during the day can increase alertness and improve cognitive performance by influencing hormonal secretion, particularly in adolescents whose sleep-wake cycles are…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Daytime Blue Light Exposure
@@ -35,9 +39,9 @@ Exposure to blue light (sunlight, full-spectrum LEDs, digital screens) during th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/gain-attention|Gain attention]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Gain attention](../elements/gain-attention.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Measure alertness levels and cognitive performance during the day. Track sleep patterns and academic outcomes.

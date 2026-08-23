@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Brain-Based Learning
+description: Activating the different parts of the brain involved with the various senses during the learning process to engage learners with content, help them learn and retain more.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Brain-Based Learning
@@ -35,10 +39,10 @@ Activating the different parts of the brain involved with the various senses dur
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
-- [[elements/demonstration|Demonstration]]
+- [Practice](../elements/practice.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Demonstration](../elements/demonstration.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement in brain-based activities. Assess student retention of information learned through brain-based methods.

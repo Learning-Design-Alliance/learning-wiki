@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Gestures
+description: Gestures are physical movements, typically of the hands or arms, used to communicate meaning or support learning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Gestures
@@ -35,8 +39,8 @@ Gestures are physical movements, typically of the hands or arms, used to communi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Demonstration](../elements/demonstration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Observe learner accuracy in tasks involving counting or memory recall. Measure comprehension through formative assessments following instruction with and without gestures.

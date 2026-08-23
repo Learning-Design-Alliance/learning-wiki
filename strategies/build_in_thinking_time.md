@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Build in Thinking Time
+description: Providing dedicated, silent thinking time before pair talk allows students to generate their own ideas and rehearse explanations before being influenced by their partner.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Build in Thinking Time
@@ -35,8 +39,8 @@ Providing dedicated, silent thinking time before pair talk allows students to ge
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/practice|Practice]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe whether students are using the thinking time productively. Listen to the quality of their contributions during pair talk. Ask students to reflect on how the thinking time helped them prepare for the discussion.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Independent Reading
+description: Independent reading involves students selecting and reading books on their own, within their reading level and interests.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Independent Reading
@@ -35,9 +39,9 @@ Independent reading involves students selecting and reading books on their own, 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Practice](../elements/practice.md)
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Increased reading achievement, engagement, and motivation. Reduced summer reading loss and prevention of diminished reading habits at the secondary level.

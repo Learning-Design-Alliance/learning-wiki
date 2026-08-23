@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Using Reflection for Habit Formation
+description: This strategy promotes reflective classrooms to ensure learners are fully engaged in making meaning.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Using Reflection for Habit Formation
@@ -35,9 +39,9 @@ This strategy promotes reflective classrooms to ensure learners are fully engage
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/provide-feedback|Provide Feedback]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Provide Feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Documentation of reflective conversations, examples of learners’ in-depth reflections, and evidence of habit formation.

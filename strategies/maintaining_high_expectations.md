@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Maintaining High Expectations
+description: In culturally responsive instruction, achievement expectations are determined individually.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Maintaining High Expectations
@@ -35,10 +39,10 @@ In culturally responsive instruction, achievement expectations are determined in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Student progress toward individual goals, student self-assessments, teacher observations.

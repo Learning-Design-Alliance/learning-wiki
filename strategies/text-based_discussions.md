@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Text-Based Discussions
+description: Text-based discussions involve engaging learners in discussions about what they read, with a focus on using evidence from the text to support their responses.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Text-Based Discussions
@@ -35,10 +39,10 @@ Text-based discussions involve engaging learners in discussions about what they 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/discussion-sections|Discussion Sections]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Discussion Sections](../elements/discussion-sections.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Participation in discussions. Use of evidence from the text to support responses. Clarity and organization of ideas. Respectful interaction with peers.

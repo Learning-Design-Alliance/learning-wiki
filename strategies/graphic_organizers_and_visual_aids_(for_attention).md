@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Graphic Organizers and Visual Aids (for Attention)
+description: These tools help learners identify the most important information and focus on it.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Graphic Organizers and Visual Aids (for Attention)
@@ -35,8 +39,8 @@ These tools help learners identify the most important information and focus on i
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Observe improvements in learner's ability to identify and recall key information. Review the effectiveness of graphic organizers and visual aids through student feedback and performance.

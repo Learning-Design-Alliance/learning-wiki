@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: If It Happened to You...
+description: This activity enhances empathy and emotional regulation by presenting students with scenarios from YA novels or short stories, stripped of character names and page numbers, and asking them to discuss how they would approach the situation…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # If It Happened to You...
@@ -35,9 +39,9 @@ This activity enhances empathy and emotional regulation by presenting students w
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Case Study](../elements/case-study.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Assess student participation in group discussions, quality of presentations, and depth of reflection on personal biases and emotions.

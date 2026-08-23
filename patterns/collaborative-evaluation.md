@@ -1,8 +1,20 @@
 ---
 type: pattern
+title: Collaborative Evaluation
+description: Collaborative evaluation is a pattern in which learners assess resources, proposals, performances, or solutions together using shared criteria.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: mcandrew-2006
+    resource: "https://doi.org/10.1504/IJLT.2006.010632"
+    title: "McAndrew, P., Goodyear, P., & Dalziel, J. (2006). Patterns, designs and activities: Unifying descriptions of learning structures. *International Journal of Learning Technology, 2*(2-3), 216-242"
+    author: "McAndrew, P., Goodyear, P., & Dalziel, J"
+  - id: sadler-1989
+    resource: "https://doi.org/10.1007/BF00117714"
+    title: "Sadler, D. R. (1989). Formative assessment and the design of instructional systems. *Instructional Science, 18*(2), 119-144"
+    author: Sadler, D. R
 author: McAndrew, Goodyear, and Dalziel
 grain_size: lesson
 ---
@@ -52,11 +64,11 @@ The pattern works best when the object being evaluated admits comparison and jus
 
 ### Claims
 #### Supporting
-- [[claims/self-explanation-improves-conceptual-understanding]] [~S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [[claims/specific-difficult-goals-lead-to-higher-performance]] [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
 
 ## Design
 
@@ -68,16 +80,16 @@ The pattern works best when the object being evaluated admits comparison and jus
 5. Reach a consensus or document well-supported disagreement.
 
 ### Elements Used
-- [[elements/assessment|Assessment]]
-- [[elements/consensus-discussion|Consensus Discussion]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/formative-assessment|Formative Assessment]]
+- [Assessment](../elements/assessment.md)
+- [Consensus Discussion](../elements/consensus-discussion.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Formative Assessment](../elements/formative-assessment.md)
 
 ### Affordances
-- [[principles/formative-assessment|Formative Assessment]]
-- [[principles/multiple-methods-of-assessment|Multiple Methods of Assessment]]
-- [[principles/peer-feedbackpeer-review|Peer Feedback/Peer Review]]
-- [[principles/evaluating-sources|Evaluating Sources]]
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md)
+- [Peer Feedback/Peer Review](../principles/peer-feedbackpeer-review.md)
+- [Evaluating Sources](../principles/evaluating-sources.md)
 
 ### Personalization
 - Learners can contribute different evidence or criteria interpretations from their own backgrounds.
@@ -85,8 +97,8 @@ The pattern works best when the object being evaluated admits comparison and jus
 - Consensus requirements can be tightened or loosened depending on learner experience.
 
 ## Related Patterns
-- [[patterns/structured-peer-review|Structured Peer Review]]
-- [[patterns/discussion-group|Discussion Group]]
+- [Structured Peer Review](structured-peer-review.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - Teams comparing possible sources for a research project against credibility criteria.

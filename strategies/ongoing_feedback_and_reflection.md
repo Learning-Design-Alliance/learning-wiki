@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Ongoing Feedback and Reflection
+description: Learning management systems (LMS) such as Google Classroom, Canvas, and Schoology allow teachers to conduct formative and summative assessments during PBL.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Ongoing Feedback and Reflection
@@ -35,12 +39,12 @@ Learning management systems (LMS) such as Google Classroom, Canvas, and Schoolog
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/summative-assessment|Summative Assessment]]
-- [[elements/peer-feedback|Peer Feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/video-based-reflection|Video-Based Reflection]]
-- [[elements/learning-management-systems|Learning Management Systems]]
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Summative Assessment](../elements/summative-assessment.md)
+- [Peer Feedback](../elements/peer-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Video-Based Reflection](../elements/video-based-reflection.md)
+- [Learning Management Systems](../elements/learning-management-systems.md)
 
 ## Assessment Evidence
 - Quality of student reflection and feedback, improvement in student performance, engagement in assessment activities.

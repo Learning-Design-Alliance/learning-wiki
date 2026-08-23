@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Cultivation of Multiple Ways of Knowing and Making Meaning
+description: Honoring multiple and diverse ways of developing understandings of the world.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Cultivation of Multiple Ways of Knowing and Making Meaning
@@ -35,11 +39,11 @@ Honoring multiple and diverse ways of developing understandings of the world. Th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Monitor learner engagement with different learning activities and assessment methods. Gather feedback on the effectiveness of strategies for supporting diverse learning styles. Assess learner understanding of different cultural perspectives.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Supported Independent Reading
+description: Independent reading involves students selecting and reading texts at their independent reading level or texts easy enough to decode and understand without much effort.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Supported Independent Reading
@@ -35,10 +39,10 @@ Independent reading involves students selecting and reading texts at their indep
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
 
 ## Assessment Evidence
 - Monitor the quantity and quality of books read. Observe student engagement and participation in book-related activities. Track reading fluency and comprehension improvements over time. Collect feedback from students on their reading experiences and interests.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Augmented Reality (AR) for Medical Education and Training
+description: AR is used to create models of the human body that let medical students learn anatomy in depth; provide more training opportunities for medical students with the help of simulations; and allow students to practice surgeries on virtual…
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Augmented Reality (AR) for Medical Education and Training
@@ -35,10 +39,10 @@ AR is used to create models of the human body that let medical students learn an
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/application|Application]]
+- [Demonstration](../elements/demonstration.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Knowledge acquisition, psychomotor skills, communication, and problem-solving

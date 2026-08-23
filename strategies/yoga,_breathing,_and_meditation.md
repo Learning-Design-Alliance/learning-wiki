@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Yoga, Breathing, and Meditation
+description: Using yoga, breathing, and meditation techniques in educational settings involves incorporating these practices to provide calming stimulation and regulate the nervous system.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Yoga, Breathing, and Meditation
@@ -35,8 +39,8 @@ Using yoga, breathing, and meditation techniques in educational settings involve
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Observe the child's behavior and emotional state before, during, and after yoga, breathing, and meditation. Monitor the child's self-regulation and ability to manage stress.

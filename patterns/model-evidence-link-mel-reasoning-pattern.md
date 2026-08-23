@@ -1,8 +1,20 @@
 ---
 type: pattern
+title: Model-Evidence Link (MEL) Reasoning Pattern
+description: The Model-Evidence Link pattern structures reasoning by having learners compare competing models or explanations against available evidence, judge which links are strong or weak, and revise their conclusions accordingly.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
+sources:
+  - id: chinn-2002
+    resource: "https://doi.org/10.1002/sce.10001"
+    title: "Chinn, C. A., & Malhotra, B. A. (2002). Epistemologically authentic inquiry in schools: A theoretical framework for evaluating inquiry tasks. *Science Education, 86*(2), 175-218"
+    author: "Chinn, C. A., & Malhotra, B. A"
+  - id: lombardi-2013
+    resource: "https://doi.org/10.1016/j.learninstruc.2013.03.001"
+    title: "Lombardi, D., Sinatra, G. M., & Nussbaum, E. M. (2013). Plausibility reappraisals and shifts in middle school students' climate change conceptions. *Learning and Instruction, 27*, 50-62"
+    author: "Lombardi, D., Sinatra, G. M., & Nussbaum, E. M"
 author: Chinn and Malhotra
 grain_size: lesson
 ---
@@ -52,11 +64,11 @@ It is particularly useful when learners need to evaluate explanations in the fac
 
 ### Claims
 #### Supporting
-- [[claims/self-explanation-improves-conceptual-understanding]] [+S]
-- [[claims/contingent-scaffolding-improves-learning]] [~M]
-- [[claims/self-monitoring-improves-self-regulation]] [~M]
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 #### Contradicting
-- [[claims/chunking-reduces-working-memory-load]] [~S]
+- [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 
 ## Design
 
@@ -68,16 +80,16 @@ It is particularly useful when learners need to evaluate explanations in the fac
 5. Debrief the reasoning and revise explanations.
 
 ### Elements Used
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/formative-assessment|Formative Assessment]]
-- [[elements/reflection|Reflection]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Formative Assessment](../elements/formative-assessment.md)
+- [Reflection](../elements/reflection.md)
 
 ### Affordances
-- [[principles/inquiry-based-learning|Inquiry-based Learning]]
-- [[principles/peer-discussion|Peer Discussion]]
-- [[principles/purposeful-reflection|Purposeful Reflection]]
-- [[principles/creating-visual-representations|Creating Visual Representations]]
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md)
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Creating Visual Representations](../principles/creating-visual-representations.md)
 
 ### Personalization
 - The number of models and complexity of the evidence can be adjusted by learner readiness.
@@ -85,8 +97,8 @@ It is particularly useful when learners need to evaluate explanations in the fac
 - Supports can include comparison charts, sentence stems, or partially completed evidence tables.
 
 ## Related Patterns
-- [[patterns/collaborative-inquiry|Collaborative Inquiry]]
-- [[patterns/discussion-group|Discussion Group]]
+- [Collaborative Inquiry](collaborative-inquiry.md)
+- [Discussion Group](discussion-group.md)
 
 ## Examples
 - Earth science learners comparing climate explanations against observational data.

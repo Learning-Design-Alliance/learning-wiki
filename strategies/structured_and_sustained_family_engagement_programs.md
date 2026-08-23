@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Structured and Sustained Family Engagement Programs
+description: Creating engagement programs that are embedded throughout a school’s structure and are sustainable.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Structured and Sustained Family Engagement Programs
@@ -35,10 +39,10 @@ Creating engagement programs that are embedded throughout a school’s structure
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/application|Application]]
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [State objectives](../elements/state-objectives.md)
+- [Application](../elements/application.md)
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Evaluate family participation rates, student academic outcomes, and overall school culture to assess program effectiveness.

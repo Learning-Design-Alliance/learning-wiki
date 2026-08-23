@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Positive Behavioral Interventions and Supports (PBIS)
+description: PBIS is a proactive approach schools use to improve school safety and promote positive behavior.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Positive Behavioral Interventions and Supports (PBIS)
@@ -35,9 +39,9 @@ PBIS is a proactive approach schools use to improve school safety and promote po
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/state-objectives|State objectives]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [State objectives](../elements/state-objectives.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Track student behavior, detentions, suspensions, grades, and bullying incidents.

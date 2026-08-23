@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: 5-Minute Writing Conferences
+description: This strategy involves conducting brief, targeted conferences with each student to provide personalized feedback on their writing.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # 5-Minute Writing Conferences
@@ -35,9 +39,9 @@ This strategy involves conducting brief, targeted conferences with each student 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Track improvement in scores between original and revised essay drafts. Monitor student participation in outside-of-class conferences. Assess changes in class culture and teacher-student relationships.

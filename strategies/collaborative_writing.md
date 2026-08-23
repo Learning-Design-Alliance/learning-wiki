@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Collaborative Writing
+description: Making arrangements for learners to work together through the entire process of writing—planning, drafting, revising, editing, and publishing—results in higher quality writing products.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Collaborative Writing
@@ -35,9 +39,9 @@ Making arrangements for learners to work together through the entire process of 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-collaboration|Peer Collaboration]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Peer Collaboration](../elements/peer-collaboration.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Improved writing quality, increased collaboration, greater teamwork

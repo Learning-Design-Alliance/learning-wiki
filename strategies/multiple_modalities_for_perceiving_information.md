@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Multiple Modalities for Perceiving Information
+description: Sharing information through various modalities beyond text and images, such as audio, video, simulations, or interactive models.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Multiple Modalities for Perceiving Information
@@ -35,10 +39,10 @@ Sharing information through various modalities beyond text and images, such as a
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/application|Application]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Application](../elements/application.md)
 
 ## Assessment Evidence
 - Measure learner engagement with different modalities. Gather feedback on the effectiveness of each modality in supporting learning. Assess learner performance across different modalities.

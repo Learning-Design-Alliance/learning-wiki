@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: What’s Below the Surface? (Iceberg Analysis)
+description: This strategy involves using the metaphor of an iceberg to encourage students to extend their knowledge and further develop their ideas beyond the surface level.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # What’s Below the Surface? (Iceberg Analysis)
@@ -35,9 +39,9 @@ This strategy involves using the metaphor of an iceberg to encourage students to
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/case-study|Case Study]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Case Study](../elements/case-study.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Assess student illustrations of icebergs, quality of discussions, and depth of analysis of character motivations.

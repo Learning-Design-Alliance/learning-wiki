@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Gallery Walk
+description: Stations or posters are set up around the classroom, on the walls, or on tables.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Gallery Walk
@@ -35,9 +39,9 @@ Stations or posters are set up around the classroom, on the walls, or on tables.
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/application|Application]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Application](../elements/application.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Observe learner interactions and discussions at each station, review written responses or tasks completed at each station, collect feedback from learners about their experience.

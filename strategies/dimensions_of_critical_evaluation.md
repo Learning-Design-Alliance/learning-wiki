@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Dimensions of Critical Evaluation
+description: "Talk with learners about the multiple dimensions of critical evaluation, including: Relevance (importance to a reading purpose), Accuracy (factual and updated details that can be verified), Bias/Perspective (author's position or slant),…"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Dimensions of Critical Evaluation
@@ -35,9 +39,9 @@ Talk with learners about the multiple dimensions of critical evaluation, includi
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Assess learners' ability to define and differentiate between the dimensions of critical evaluation in discussions and written assignments. Evaluate their ability to apply these dimensions when analyzing sources.

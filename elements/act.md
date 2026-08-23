@@ -1,8 +1,11 @@
 ---
 type: element
+title: Act
+description: is the execution phase of a challenge-based or inquiry cycle, where learners move from investigation and planning into producing, testing, sharing, or implementing a response in the real world.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 ---
 
 # Act
@@ -39,14 +42,14 @@ edited_by: Codex
 - Creates conditions for reflection, debrief, and iteration
 
 ## Related Elements
-- [[elements/application|Application]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/research|Research]]
-- [[elements/decision-making|Decision Making]]
+- [Application](application.md)
+- [Solution Development](solution-development.md)
+- [Research](research.md)
+- [Decision Making](decision-making.md)
 
 ## Patterns That Use This Element
-- [[patterns/goal-based-scenarios-gbs|Goal-Based Scenarios (GBS)]]
-- [[patterns/problem-based-learning-pbl|Problem-Based Learning (PBL)]]
+- [Goal-Based Scenarios (GBS)](../patterns/goal-based-scenarios-gbs.md)
+- [Problem-Based Learning (PBL)](../patterns/problem-based-learning-pbl.md)
 
 ## Examples
 - Learners launch a community information campaign after researching a local issue

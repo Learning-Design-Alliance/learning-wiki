@@ -1,8 +1,28 @@
 ---
 type: strategy
+title: Use Worked Examples
+description: The instructor presents a fully solved problem — showing each step and explaining the reasoning behind it — and then asks learners to solve a similar problem independently or in pairs.
 status: review
-last_edited: 2026-04-06
-edited_by: Claude
+generated:
+  by: claude/unspecified
+  at: 2026-04-06
+sources:
+  - id: sweller-1985
+    resource: "https://doi.org/10.1207/s1532690xci0201_3"
+    title: "Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89"
+    author: "Sweller, J., & Cooper, G. A"
+  - id: van-gog-2011
+    resource: "https://doi.org/10.1016/j.cedpsych.2010.10.004"
+    title: "van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example–problem, and problem–example pairs on novices' learning. *Contemporary Educational Psychology, 36*(3), 212–218"
+    author: "van Gog, T., Kester, L., & Paas, F"
+  - id: atkinson-2000
+    resource: "https://doi.org/10.3102/00346543070002181"
+    title: "Atkinson, R. K., Derry, S. J., Renkl, A., & Wortham, D. (2000). Learning from examples: Instructional principles from the worked examples research. *Review of Educational Research, 70*(2), 181–214"
+    author: "Atkinson, R. K., Derry, S. J., Renkl, A., & Wortham, D"
+  - id: renkl-2014
+    resource: "https://doi.org/10.1111/cogs.12086"
+    title: "Renkl, A. (2014). Toward an instructionally oriented theory of example-based learning. *Cognitive Science, 38*(1), 1–37"
+    author: Renkl, A
 ---
 
 # Use Worked Examples
@@ -12,18 +32,18 @@ The instructor presents a fully solved problem — showing each step and explain
 
 ## Design Implications
 
-By externalizing the solution process, worked examples let novices study task structure before attempting problems themselves, reducing the unproductive search that characterizes early skill acquisition [[claims/worked-examples-reduce-novice-search]] [+M]. The strategy works best when it is not passive: prompting learners to explain each step to themselves (self-explanation) substantially amplifies learning beyond silent study. Examples should be followed immediately by a practice problem of comparable difficulty — the example-then-problem sequence improves both cognitive load and transfer outcomes compared to problem-only practice [[claims/worked-examples-example-problem-sequences]] [+S].
+By externalizing the solution process, worked examples let novices study task structure before attempting problems themselves, reducing the unproductive search that characterizes early skill acquisition [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. The strategy works best when it is not passive: prompting learners to explain each step to themselves (self-explanation) substantially amplifies learning beyond silent study. Examples should be followed immediately by a practice problem of comparable difficulty — the example-then-problem sequence improves both cognitive load and transfer outcomes compared to problem-only practice [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S].
 
 ### Context
 #### Requirements
-- A [[elements/demonstration|worked example]] that is clear, correctly solved, and annotated with reasoning — not just the steps
-- An immediate [[elements/practice|practice problem]] at comparable difficulty
-- Optional: [[elements/eliciting-student-thinking|self-explanation prompts]] ("Why did we do this step?") before moving to independent practice
+- A [worked example](../elements/demonstration.md) that is clear, correctly solved, and annotated with reasoning — not just the steps
+- An immediate [practice problem](../elements/practice.md) at comparable difficulty
+- Optional: [self-explanation prompts](../elements/eliciting-student-thinking.md) ("Why did we do this step?") before moving to independent practice
 
 #### Constraints
-- Does not substitute for practice; learners who only study examples without solving problems do not develop fluency [[claims/worked-examples-with-practice-improve-transfer]] [-S]
+- Does not substitute for practice; learners who only study examples without solving problems do not develop fluency [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
 - Less effective for open-ended or design tasks where there is no single correct approach
-- Benefits diminish as expertise grows; continuing to use worked examples past the novice stage can become redundant or counterproductive [[claims/worked-examples-less-effective-with-expertise]] [~M]
+- Benefits diminish as expertise grows; continuing to use worked examples past the novice stage can become redundant or counterproductive [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 #### Implementation Variability
 - **Faded examples:** Progressively remove steps from successive examples, requiring learners to complete the missing parts — bridges toward fully independent problem solving
@@ -32,8 +52,8 @@ By externalizing the solution process, worked examples let novices study task st
 
 ### Target Learners
 - Novices in any domain where problem-solving involves learnable steps: mathematics, programming, science, writing, clinical reasoning
-- Learners at risk of cognitive overload during unguided problem solving [[claims/worked-examples-reduce-novice-search]] [+M]
-- Less beneficial once learners have sufficient prior knowledge [[claims/worked-examples-less-effective-with-expertise]] [~M]
+- Learners at risk of cognitive overload during unguided problem solving [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
+- Less beneficial once learners have sufficient prior knowledge [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 ### Target Learning Goals
 - Early procedural fluency: understanding the steps of a solution process
@@ -42,16 +62,16 @@ By externalizing the solution process, worked examples let novices study task st
 
 ### Instructions
 1. Select or write a problem that exemplifies the target skill or procedure
-2. Solve it fully, annotating each step with a brief explanation of *why*, not just *what* — use [[elements/think-aloud|think-aloud]] if delivering live
+2. Solve it fully, annotating each step with a brief explanation of *why*, not just *what* — use [think-aloud](../elements/think-aloud.md) if delivering live
 3. Ask learners to study the example and, if time permits, prompt self-explanation: "In your own words, why does this step work?"
-4. Present a near-transfer [[elements/practice|practice problem]] of similar structure before providing feedback
+4. Present a near-transfer [practice problem](../elements/practice.md) of similar structure before providing feedback
 5. Repeat with a second example-problem pair, optionally fading detail from the example
 6. As learners gain confidence, shift to problem-only practice
 
 ## Related Strategies
-- [[strategies/worked_example_routine|Worked Example Routine]] — a structured classroom routine that formalizes this cycle
-- [[strategies/comparing_multiple_solution_methods|Comparing Multiple Solution Methods]] — an extension that pairs two worked examples for comparison
-- [[strategies/think-aloud-modeling|Think-Aloud Modeling]] — the live narration technique for delivering demonstrations
+- [Worked Example Routine](worked_example_routine.md) — a structured classroom routine that formalizes this cycle
+- [Comparing Multiple Solution Methods](comparing_multiple_solution_methods.md) — an extension that pairs two worked examples for comparison
+- [Think-Aloud Modeling](think-aloud-modeling.md) — the live narration technique for delivering demonstrations
 
 ## Examples
 

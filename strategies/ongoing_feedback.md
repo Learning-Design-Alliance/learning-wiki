@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Ongoing Feedback
+description: Ongoing feedback involves providing feedback at various stages of the writing process rather than only on final products.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Ongoing Feedback
@@ -35,9 +39,9 @@ Ongoing feedback involves providing feedback at various stages of the writing pr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
-- [[elements/assess-performance|Assess performance]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Track the frequency and timeliness of feedback provided. Monitor student progress at different stages of the writing process.

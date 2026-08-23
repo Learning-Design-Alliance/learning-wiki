@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Micro Flipped Classroom
+description: Short video lectures are distributed as study material along with short assignments.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Micro Flipped Classroom
@@ -35,11 +39,11 @@ Short video lectures are distributed as study material along with short assignme
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assigned-readings|Assigned Readings]]
-- [[elements/lectures|Lectures]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide Feedback]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Assigned Readings](../elements/assigned-readings.md)
+- [Lectures](../elements/lectures.md)
+- [Practice](../elements/practice.md)
+- [Provide Feedback](../elements/provide-feedback.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Engagement with pre-class material, performance on in-class assignments and discussions.

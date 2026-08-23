@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Strength-Based Approach to Self-Awareness
+description: "This method involves identifying a student's strengths related to self-awareness and using those strengths to address their challenges."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Strength-Based Approach to Self-Awareness
@@ -35,9 +39,9 @@ This method involves identifying a student's strengths related to self-awareness
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Student's ability to identify emotions, reflect on experiences, and make accurate predictions. Quality of journal reflections and participation in activities.

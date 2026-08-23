@@ -1,7 +1,11 @@
 ---
 type: element
+title: Adaptive Mastery Learning
+description: Learners progress through levels of difficulty with personalized challenges and just-in-time feedback.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Adaptive Mastery Learning
@@ -27,17 +31,17 @@ Learners progress through levels of difficulty with personalized challenges and 
 
 ### Affordances
 <!-- Links to principles applied -->
-- [[principles/behaviorism|Behaviorism]]
-- [[principles/cognitive-load-theory|Cognitive Load Theory]]
-- [[principles/self-determination-theory|Self-Determination Theory]]
+- [Behaviorism](../principles/behaviorism.md)
+- [Cognitive Load Theory](../principles/cognitive-load-theory.md)
+- [Self-Determination Theory](../principles/self-determination-theory.md)
 
 ## Related Elements
-- [[elements/mastery-learning|Mastery Learning]]
-- [[elements/spaced-repetition|Spaced Repetition]]
-- [[elements/adaptive-learning|Adaptive Learning]]
+- [Mastery Learning](mastery-learning.md)
+- [Spaced Repetition](spaced-repetition.md)
+- [Adaptive Learning](adaptive-learning.md)
 
 ## Patterns That Use This Element
-- [[patterns/game-based-mastery-learning-duolingo-pattern|Game-Based Mastery Learning (Duolingo Pattern)]]
+- [Game-Based Mastery Learning (Duolingo Pattern)](../patterns/game-based-mastery-learning-duolingo-pattern.md)
 
 ## Examples
 <!-- Links to strategies that use this element, with ratings -->

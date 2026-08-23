@@ -1,8 +1,11 @@
 ---
 type: element
+title: Learning Management Systems
+description: Learning management systems are the element in which course organization, materials, communication, and tracking are coordinated through an LMS.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Learning Management Systems
@@ -11,8 +14,8 @@ edited_by: Codex
 Learning management systems are the element in which course organization, materials, communication, and tracking are coordinated through an LMS.
 
 ## Affordances
-- [[principles/digital-learning|Digital Learning]]
+- [Digital Learning](../principles/digital-learning.md)
 
 ## Related Elements
-- [[elements/resource-hubs|Resource Hubs]]
-- [[elements/progress-tracking|Progress Tracking]]
+- [Resource Hubs](resource-hubs.md)
+- [Progress Tracking](progress-tracking.md)

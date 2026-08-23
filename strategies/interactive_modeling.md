@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Interactive Modeling
+description: Interactive Modeling is an instructional practice where the educator provides instruction for self-checking and provides an example.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Interactive Modeling
@@ -35,7 +39,7 @@ Interactive Modeling is an instructional practice where the educator provides in
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/modeling|Modeling]]
+- [Modeling](../elements/modeling.md)
 
 ## Assessment Evidence
 - Successful demonstration.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Peer and Self-Assessment
+description: Peer and self-assessment give students the opportunity to review their work against a set of criteria.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Peer and Self-Assessment
@@ -35,9 +39,9 @@ Peer and self-assessment give students the opportunity to review their work agai
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/assess-performance|Assess performance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Assess performance](../elements/assess-performance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Improved self-awareness, increased self-advocacy, positive peer interactions

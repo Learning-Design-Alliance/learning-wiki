@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Character Scrapbooking
+description: "Students select four key events from a novel and create scrapbook entries representing a character's inner thoughts, feelings, and experiences during each event."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Character Scrapbooking
@@ -35,9 +39,9 @@ Students select four key events from a novel and create scrapbook entries repres
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/collaborative-learning|Collaborative Learning]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Collaborative Learning](../elements/collaborative-learning.md)
 
 ## Assessment Evidence
 - Assess scrapbook entries, quality of discussions, and depth of analysis of character relationships.

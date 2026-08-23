@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Optimizing Classroom Space
+description: Overcrowded classrooms are linked to increased aggression and decreased engagement.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Optimizing Classroom Space
@@ -35,7 +39,7 @@ Overcrowded classrooms are linked to increased aggression and decreased engageme
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student engagement and achievement, monitor levels of aggression, assess the use of 21st-century learning skills.

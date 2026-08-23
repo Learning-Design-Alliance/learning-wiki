@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Classroom Seating Arrangements
+description: This strategy involves strategically organizing the physical space of a classroom to maximize student engagement, motivation, participation, and positive relationships.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Classroom Seating Arrangements
@@ -35,9 +39,9 @@ This strategy involves strategically organizing the physical space of a classroo
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/whole-class-sharing|Whole-Class Sharing]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Whole-Class Sharing](../elements/whole-class-sharing.md)
 
 ## Assessment Evidence
 - Observe student engagement levels in different arrangements, collect feedback through surveys or discussions, and monitor task completion rates in each configuration

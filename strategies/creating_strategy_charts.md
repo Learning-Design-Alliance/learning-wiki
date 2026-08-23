@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Creating Strategy Charts
+description: Developing visual aids and lists of problem-solving strategies in collaboration with learners.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Creating Strategy Charts
@@ -35,11 +39,11 @@ Developing visual aids and lists of problem-solving strategies in collaboration 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-discussion|Peer Discussion]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/application|Application]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Application](../elements/application.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Increased student use of problem-solving strategies, improved articulation of thinking processes, and enhanced self-reflection skills.

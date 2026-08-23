@@ -1,8 +1,11 @@
 ---
 type: element
+title: Role-Playing
+description: Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Role-Playing
@@ -23,17 +26,17 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - Support perspective-taking, communication, and situated decision-making.
 
 ### Affordances
-- [[principles/perspective-taking|Perspective-Taking]]
-- [[principles/experiential-learning|Experiential Learning]]
+- [Perspective-Taking](../principles/perspective-taking.md)
+- [Experiential Learning](../principles/experiential-learning.md)
 
 ## Related Elements
-- [[elements/decision-making|Decision-Making]]
-- [[elements/scenario-based-learning|Scenario-Based Learning]]
-- [[elements/group-work|Group Work]]
+- [Decision-Making](decision-making.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
+- [Group Work](group-work.md)
 
 ## Patterns That Use This Element
-- [[patterns/goal-based-scenarios|Goal-Based Scenarios]]
-- [[patterns/discussion-based-learning|Discussion-Based Learning]]
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
+- [Discussion-Based Learning](../patterns/discussion-based-learning.md)
 
 ## Examples
 - Learners take stakeholder roles and negotiate a policy or case decision.

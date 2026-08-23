@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Temperature Control
+description: Maintaining an optimal temperature range in classrooms affects student engagement and productivity.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Temperature Control
@@ -35,7 +39,7 @@ Maintaining an optimal temperature range in classrooms affects student engagemen
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Track student engagement and achievement, monitor classroom temperature, survey teacher and student satisfaction.

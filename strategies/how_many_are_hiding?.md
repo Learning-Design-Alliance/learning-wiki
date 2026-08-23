@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: How Many Are Hiding?
+description: An activity where children have cubes and a cup.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # How Many Are Hiding?
@@ -35,8 +39,8 @@ An activity where children have cubes and a cup. They hide some cubes in the cup
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/practice|Practice]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Practice](../elements/practice.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Observe children's ability to quickly and accurately determine the number of hidden cubes

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Connect Writing to Real-World Applications
+description: "Instructors connect the importance and usefulness of writing to learners' lives and future careers."
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Connect Writing to Real-World Applications
@@ -35,10 +39,10 @@ Instructors connect the importance and usefulness of writing to learners' lives 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/demonstration|Demonstration]]
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
-- [[elements/provide-guidance|Provide guidance]]
+- [Demonstration](../elements/demonstration.md)
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Increased learner motivation and engagement in writing tasks. Improved understanding of the real-world relevance of writing skills. Enhanced ability to apply writing skills to career-related scenarios.

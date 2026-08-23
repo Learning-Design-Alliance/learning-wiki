@@ -1,8 +1,11 @@
 ---
 type: theory
+title: Dual Coding Theory
+description: Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems.
 status: review
-last_edited: 2026-04-07
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-07
 ---
 
 # Dual Coding Theory
@@ -17,7 +20,7 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - Supports diagrams, concept maps, visual examples, and multimedia design when the visual is instructionally meaningful.
 
 ## Related Theories
-- [[theories/cognitive-load-theory|Cognitive Load Theory]]
+- [Cognitive Load Theory](cognitive-load-theory.md)
 
 ## Key Sources
 - Paivio, A. (1990). *Mental representations: A dual coding approach*. Oxford University Press.

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Comprehension Monitoring
+description: This strategy involves the ability of readers to know when they understand what they read and to use strategies to improve their understanding when it is blocked.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Comprehension Monitoring
@@ -35,10 +39,10 @@ This strategy involves the ability of readers to know when they understand what 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/problem-presentation|Problem Presentation]]
-- [[elements/inquiry-and-research|Inquiry and Research]]
-- [[elements/solution-development|Solution Development]]
-- [[elements/question-formulation|Question Formulation]]
+- [Problem Presentation](../elements/problem-presentation.md)
+- [Inquiry and Research](../elements/inquiry-and-research.md)
+- [Solution Development](../elements/solution-development.md)
+- [Question Formulation](../elements/question-formulation.md)
 
 ## Assessment Evidence
 - Assess learners' ability to monitor comprehension through self-assessments, think-aloud protocols, and the use of fix-up strategies. Look for increased awareness of comprehension levels and the ability to address difficulties.

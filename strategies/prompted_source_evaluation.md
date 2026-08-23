@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Prompted Source Evaluation
+description: Pair strategy instruction with written prompts to guide students toward independence.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Prompted Source Evaluation
@@ -35,9 +39,9 @@ Pair strategy instruction with written prompts to guide students toward independ
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide Guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide Guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Review written responses to prompts to assess ability to evaluate sources and weigh evidence. Evaluate ability to recognize and consider new ideas against existing beliefs.

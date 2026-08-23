@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: SEL Questioning
+description: Teachers can implement simple SEL questions focused on kindess, metaphors, challenges, and support to grow students’ emotional intelligence skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # SEL Questioning
@@ -35,8 +39,8 @@ Teachers can implement simple SEL questions focused on kindess, metaphors, chall
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Observe student participation and engagement in the discussions. Collect student feedback on the activity to assess its effectiveness. Monitor student behavior and academic performance to assess the impact of the activity on their social and emotional learning.

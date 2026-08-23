@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: User-Friendly Library Website Practices
+description: This strategy focuses on making library websites more accessible and user-friendly to encourage greater utilization of library resources by students.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # User-Friendly Library Website Practices
@@ -35,11 +39,11 @@ This strategy focuses on making library websites more accessible and user-friend
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/supportive-information|Supportive information]]
-- [[elements/direct-instruction|Direct instruction]]
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/assess-performance|Assess performance]]
+- [Supportive information](../elements/supportive-information.md)
+- [Direct instruction](../elements/direct-instruction.md)
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Assess performance](../elements/assess-performance.md)
 
 ## Assessment Evidence
 - Website analytics (e.g., page views, search usage), usability testing results, user surveys, feedback from library staff

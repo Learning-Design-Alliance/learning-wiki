@@ -1,8 +1,11 @@
 ---
 type: element
+title: Explicit Teaching
+description: Explicit teaching is the element in which instructors directly explain, model, and sequence key knowledge or procedures rather than leaving them to be inferred.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 ---
 
 # Explicit Teaching
@@ -23,17 +26,17 @@ Explicit teaching is the element in which instructors directly explain, model, a
 - Accelerate early understanding and reduce ambiguity for novices.
 
 ### Affordances
-- [[principles/explicit-instruction|Explicit Instruction]]
-- [[principles/clear-structure|Clear Structure]]
+- [Explicit Instruction](../principles/explicit-instruction.md)
+- [Clear Structure](../principles/clear-structure.md)
 
 ## Related Elements
-- [[elements/direct-instruction|Direct Instruction]]
-- [[elements/demonstration|Demonstration]]
-- [[elements/worked-examples|Worked Examples]]
+- [Direct Instruction](direct-instruction.md)
+- [Demonstration](demonstration.md)
+- [Worked Examples](worked-examples.md)
 
 ## Patterns That Use This Element
-- [[patterns/gagnés-9-events|Gagné's 9 Events]]
-- [[patterns/merrills-first-principles|Merrill's First Principles]]
+- [Gagné's 9 Events](../patterns/gagnés-9-events.md)
+- [Merrill's First Principles](../patterns/merrills-first-principles.md)
 
 ## Examples
 - Teacher explanation with modeled examples followed by guided checks.

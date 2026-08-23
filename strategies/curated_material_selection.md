@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Curated Material Selection
+description: Regularly assessing materials for relevance and discarding broken, old, or useless items frees up space and guides purchasing decisions.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Curated Material Selection
@@ -35,7 +39,7 @@ Regularly assessing materials for relevance and discarding broken, old, or usele
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
+- [Provide guidance](../elements/provide-guidance.md)
 
 ## Assessment Evidence
 - Monitor the level of clutter and organization in the classroom. Observe how easily students and teachers can access necessary materials.

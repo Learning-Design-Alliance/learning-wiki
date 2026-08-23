@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Emphasis on the Learning Process
+description: Helping learners focus on and value the process of learning, rather than just the grades they receive, promotes a growth mindset.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Emphasis on the Learning Process
@@ -35,8 +39,8 @@ Helping learners focus on and value the process of learning, rather than just th
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Monitor changes in learner attitudes towards learning, observe increased engagement in the learning process, and assess the depth of self-reflection.

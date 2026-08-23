@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Prediction Relay
+description: A PALS activity that emphasizes making predictions while reading.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Prediction Relay
@@ -35,10 +39,10 @@ A PALS activity that emphasizes making predictions while reading. Students each 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/peer-teaching|Peer Teaching]]
-- [[elements/modeling|Modeling]]
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/practice|Practice]]
+- [Peer Teaching](../elements/peer-teaching.md)
+- [Modeling](../elements/modeling.md)
+- [Provide feedback](../elements/provide-feedback.md)
+- [Practice](../elements/practice.md)
 
 ## Assessment Evidence
 - Assess prediction accuracy, evaluate reading comprehension, collect student feedback

@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Break Time Consequence
+description: Writing instructions in bold letters on the chalkboard stating that students who continue talking during the lesson will have time taken off their break.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Break Time Consequence
@@ -35,8 +39,8 @@ Writing instructions in bold letters on the chalkboard stating that students who
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/provide-feedback|Provide feedback]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Provide feedback](../elements/provide-feedback.md)
 
 ## Assessment Evidence
 - Monitor the noise levels at the start of the lesson. Track the number of students who are kept behind during break time.

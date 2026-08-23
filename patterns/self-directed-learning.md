@@ -1,8 +1,11 @@
 ---
 type: pattern
+title: Self-Directed Learning
+description: Self-Directed Learning is the pattern-level target for designs in which learners take substantial responsibility for setting goals, selecting resources, monitoring progress, and evaluating outcomes within a structured environment.
 status: review
-last_edited: 2026-04-08
-edited_by: Codex
+generated:
+  by: codex/unspecified
+  at: 2026-04-08
 author: self-directed learning tradition
 grain_size: course
 ---
@@ -29,8 +32,8 @@ Self-Directed Learning is the pattern-level target for designs in which learners
 
 ### Theory
 #### Supporting
-- [[principles/self-directed-learning|Self-Directed Learning]]
-- [[principles/self-regulation|Self-Regulation]]
+- [Self-Directed Learning](../principles/self-directed-learning.md)
+- [Self-Regulation](../principles/self-regulation.md)
 
 ## Key Sources
 - Knowles, M. S. (1975). *Self-directed learning*. Follett.

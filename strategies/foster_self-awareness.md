@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Foster Self-Awareness
+description: Self-awareness is the ability to correctly identify your own emotions, thoughts, and values and how they impact behavior.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Foster Self-Awareness
@@ -35,10 +39,10 @@ Self-awareness is the ability to correctly identify your own emotions, thoughts,
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-guidance|Provide guidance]]
-- [[elements/practice|Practice]]
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Provide guidance](../elements/provide-guidance.md)
+- [Practice](../elements/practice.md)
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Monitor student ability to identify and express emotions. Observe student self-confidence and growth mindset. Collect student feedback on the effectiveness of the strategies.

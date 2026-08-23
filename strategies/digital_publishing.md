@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Digital Publishing
+description: Digital publishing involves using online platforms and tools to share student writing and creations with a wider audience, fostering engagement and providing valuable feedback.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Digital Publishing
@@ -35,9 +39,9 @@ Digital publishing involves using online platforms and tools to share student wr
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/application|Application]]
-- [[elements/integration|Integration]]
-- [[elements/enhance-retention-and-transfer|Enhance retention and transfer]]
+- [Application](../elements/application.md)
+- [Integration](../elements/integration.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Assessment Evidence
 - Increased student participation in writing activities, improved quality of student work, positive feedback from online audiences, and evidence of digital citizenship skills.

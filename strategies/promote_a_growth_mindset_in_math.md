@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Promote a Growth Mindset in Math
+description: Promote a growth mindset by giving feedback that values effort and encourages persistence, showing learners that there is always room to improve their skills.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Promote a Growth Mindset in Math
@@ -35,8 +39,8 @@ Promote a growth mindset by giving feedback that values effort and encourages pe
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/provide-feedback|Provide feedback]]
-- [[elements/individual-reflection|Individual Reflection]]
+- [Provide feedback](../elements/provide-feedback.md)
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Observe changes in learner persistence, monitor increased effort and engagement, and assess the development of a growth mindset.

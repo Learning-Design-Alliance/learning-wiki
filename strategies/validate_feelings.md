@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Validate Feelings
+description: Tell students they have the right to feel the way they feel.
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Validate Feelings
@@ -35,8 +39,8 @@ Tell students they have the right to feel the way they feel. Recognize that the 
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
-- [[elements/peer-discussion|Peer Discussion]]
+- [Individual Reflection](../elements/individual-reflection.md)
+- [Peer Discussion](../elements/peer-discussion.md)
 
 ## Assessment Evidence
 - Monitor student emotional well-being, observe interactions, gather feedback from students

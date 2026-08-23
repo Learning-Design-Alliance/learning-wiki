@@ -1,7 +1,11 @@
 ---
 type: strategy
+title: Analyze the Project
+description: "Before launching a project, teachers should analyze it through the lens of English Language Learners (ELLs) by considering: What language skills will students need?"
 status: review
-last_edited: 2026-04-06
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-04-06
 ---
 
 # Analyze the Project
@@ -35,7 +39,7 @@ Before launching a project, teachers should analyze it through the lens of Engli
 
 ### Instructions
 <!-- Steps with links to elements -->
-- [[elements/individual-reflection|Individual Reflection]]
+- [Individual Reflection](../elements/individual-reflection.md)
 
 ## Assessment Evidence
 - Reduced language-related barriers, increased participation of ELLs, and improved language skills.
