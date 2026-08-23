@@ -21,7 +21,7 @@
       
       
       <link rel="icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
     
     
       
@@ -29,7 +29,7 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.ec1eaa64.min.css">
       
         
         <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -803,10 +803,32 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#wikilink-conventions" class="md-nav__link">
+  <a href="#frontmatter-fields" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Wikilink conventions
+        Frontmatter fields
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#trust-tiers-verified" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Trust tiers (verified)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cross-link-conventions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cross-link conventions
       
     </span>
   </a>
@@ -1036,10 +1058,32 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#wikilink-conventions" class="md-nav__link">
+  <a href="#frontmatter-fields" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Wikilink conventions
+        Frontmatter fields
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#trust-tiers-verified" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Trust tiers (verified)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cross-link-conventions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cross-link conventions
       
     </span>
   </a>
@@ -1171,6 +1215,7 @@
 <h1 id="learning-design-wiki-agent-operating-guide">Learning Design Wiki — Agent Operating Guide<a class="headerlink" href="#learning-design-wiki-agent-operating-guide" title="Permanent link">&para;</a></h1>
 <p>This is a <strong>persistent, LLM-maintained knowledge base</strong> for learning design. The wiki compiles design principles, instructional patterns, elements, strategies, theories, and empirical claims into a structured, cross-linked reference.</p>
 <p><strong>You never write the wiki yourself.</strong> The LLM reads sources, ingests new content, cross-links pages, and keeps schemas consistent. You source materials and ask questions.</p>
+<p>The wiki is a bundle in the <a href="https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md">Open Knowledge Format (OKF) v0.2</a>: every content page is markdown with YAML frontmatter carrying <code>type</code>, <code>title</code>, <code>description</code>, <code>status</code>, <code>generated</code>, and (where applicable) <code>sources</code>; cross-links are plain bundle-relative markdown links, not Obsidian wikilinks; <code>index.md</code> and <code>log.md</code> are OKF's reserved directory-listing and change-log filenames.</p>
 <hr />
 <h2 id="three-core-operations">Three core operations<a class="headerlink" href="#three-core-operations" title="Permanent link">&para;</a></h2>
 <h3 id="1-ingest">1. Ingest<a class="headerlink" href="#1-ingest" title="Permanent link">&para;</a></h3>
@@ -1179,25 +1224,25 @@
 1. Identify the page type(s) the source contributes to (principle, element, pattern, strategy, theory, claim)
 2. Check if a page already exists (<code>index.md</code> or <code>grep</code> by name)
 3. If new: create a page in the correct folder using the template below
-4. If existing: merge new content into the right sections; append to <code>## Key Sources</code>; log the change
-5. Cross-link: add example wikilinks like <code>[ [principles/example-page] ]</code> to related pages already in the wiki
-6. Update <code>index.md</code> (add entry under the right type heading)
-7. Append an entry to <code>log.md</code>: <code>## [YYYY-MM-DD] ingest | [page name] | [source]</code></p>
+4. If existing: merge new content into the right sections; append to <code>## Key Sources</code> (or <code>## Evidence</code> for claims); log the change
+5. Cross-link: add markdown links like <code>[Example Page](../principles/example-page.md)</code> to related pages already in the wiki
+6. Update <code>index.md</code> — run <code>python3 scripts/build_indexes.py</code> to regenerate it and every per-folder index from disk state
+7. Append an entry to <code>log.md</code> under today's <code>## YYYY-MM-DD</code> heading: <code>* **Ingest**: [page](folder/page.md) — [source]</code> (or run <code>python3 scripts/log_revision.py &lt;page&gt; --by &lt;actor&gt; --type ingest --desc "..."</code>, which updates the page's <code>generated</code> field, its revision card, and <code>log.md</code> in one step)</p>
 <h3 id="2-query">2. Query<a class="headerlink" href="#2-query" title="Permanent link">&para;</a></h3>
 <p>Answer a question by reading the wiki.</p>
 <p>Steps:
 1. Search <code>index.md</code> for relevant pages
-2. Read those pages; follow example wikilinks like <code>[ [principles/example-page] ]</code> as needed
+2. Read those pages; follow the markdown links (<code>slug.md</code> / <code>../folder/slug.md</code>) as needed
 3. Synthesize across pages; cite page names and claim IDs
 4. Flag gaps: if the answer requires a page that doesn't exist, note it</p>
 <h3 id="3-lint">3. Lint<a class="headerlink" href="#3-lint" title="Permanent link">&para;</a></h3>
-<p>Health-check the wiki.</p>
+<p>Health-check the wiki: <code>python3 scripts/lint.py [--fix]</code>.</p>
 <p>Checks:
-- Broken example wikilinks like <code>[ [principles/example-page] ]</code> (link target not found in index)
+- Broken cross-links (<code>slug.md</code> / <code>../folder/slug.md</code> link target not found)
 - Pages with <code>status: draft</code> and no description
 - Claim pages missing an evidence strength rating
 - Principles missing at least one claim link
-- Source entries missing a DOI or URL</p>
+- Claim evidence entries missing a DOI or URL</p>
 <hr />
 <h2 id="evidence-tags">Evidence tags<a class="headerlink" href="#evidence-tags" title="Permanent link">&para;</a></h2>
 <p>Used inline in principle, pattern, element, and strategy pages when citing claims. The tag describes the <strong>direction of the claim's effect on the page's topic</strong>, not just evidence strength.</p>
@@ -1236,7 +1281,7 @@
 </tbody>
 </table>
 <p><strong>Rule:</strong> Claims cited in a Constraints section should use <code>[-]</code> (negative effect) or <code>[~]</code> (contextual/mixed), never <code>[+]</code>. A constraint describes a condition where the approach fails or causes harm — the tag should reflect that direction, even if the underlying claim is phrased positively (e.g., "practice improves transfer" cited as evidence that <em>lack of practice</em> hurts outcomes → <code>[-S]</code>).</p>
-<p>Always link the tag to a claim page: <code>[ [claims/example-claim] ] [+M]</code></p>
+<p>Always link the tag to a claim page: <code>[Claim statement](../claims/example-claim.md) [+M]</code></p>
 <hr />
 <h2 id="relation-symbols-cross-link-annotations">Relation symbols (cross-link annotations)<a class="headerlink" href="#relation-symbols-cross-link-annotations" title="Permanent link">&para;</a></h2>
 <ul>
@@ -1273,35 +1318,142 @@
 </tbody>
 </table>
 <hr />
-<h2 id="wikilink-conventions">Wikilink conventions<a class="headerlink" href="#wikilink-conventions" title="Permanent link">&para;</a></h2>
+<h2 id="frontmatter-fields">Frontmatter fields<a class="headerlink" href="#frontmatter-fields" title="Permanent link">&para;</a></h2>
+<p>Every content page (principle, element, pattern, strategy, theory, claim) carries this OKF-conformant frontmatter:</p>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Required</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td>Yes</td>
+<td><code>principle</code> | <code>element</code> | <code>pattern</code> | <code>strategy</code> | <code>theory</code> | <code>claim</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td>Recommended</td>
+<td>Display name — normally matches the page's <code># H1</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td>Recommended</td>
+<td>One-sentence summary, used in index listings</td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td>Recommended</td>
+<td>See Status values above</td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>Recommended</td>
+<td><code>{ by: &lt;actor&gt;, at: &lt;date&gt; }</code> — who/what last wrote the page and when, replacing the old <code>last_edited</code>/<code>edited_by</code> pair</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>When applicable</td>
+<td>List of <code>{ id, resource, title, author }</code> entries parsed from <code>## Key Sources</code> (or <code>## Evidence</code> for claims) — a structured mirror of the citations already in the body, not a replacement for them</td>
+</tr>
+<tr>
+<td><code>verified</code></td>
+<td>Optional</td>
+<td>List of <code>{ by: &lt;actor&gt;, at: &lt;date&gt; }</code> confirmation events — see Trust tiers below. Absent on every page until someone explicitly reviews it; never set this yourself just because a page looks complete</td>
+</tr>
+<tr>
+<td><code>id</code>, <code>evidence_strength</code>, <code>author</code>, <code>grain_size</code></td>
+<td>Type-specific</td>
+<td>Extra scalar fields kept as-is per page type (see templates below); OKF tolerates extra frontmatter keys</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Actor convention</strong> for <code>generated.by</code> (and any other identity field): <code>&lt;tool&gt;/unspecified</code> for an agent/tool (e.g. <code>claude/unspecified</code>, <code>codex/unspecified</code>), <code>human:&lt;id&gt;</code> for a person, <code>process:&lt;id&gt;</code> for an unattended batch job (e.g. <code>process:wiki-ingest</code>). Never invent a specific model version you're not certain of — <code>unspecified</code> is fine.</p>
+<hr />
+<h2 id="trust-tiers-verified">Trust tiers (<code>verified</code>)<a class="headerlink" href="#trust-tiers-verified" title="Permanent link">&para;</a></h2>
+<p><code>verified</code> is a <strong>different axis from <code>evidence_strength</code></strong>, and the two should never be conflated:</p>
 <ul>
-<li>All links use Obsidian-style examples like <code>[ [folder/slug] ]</code> or <code>[ [folder/slug|Display Name] ]</code></li>
+<li><code>evidence_strength</code> (and the per-study <code>q</code>/<code>i</code> codes in a claim's <code>## Evidence</code> section) describe how strong the <em>underlying research</em> is — is this a meta-analysis or a single case study.</li>
+<li><code>verified</code> describes whether a <strong>human has actually checked that this wiki page</strong> faithfully represents that research — a claim can have <code>evidence_strength: strong</code> and still be completely unverified, because the LLM that wrote the page could have paraphrased a finding wrong, mistagged an effect's direction, or introduced a citation error that nothing has caught yet.</li>
+</ul>
+<p>OKF derives three trust tiers from the <code>verified</code> field:</p>
+<table>
+<thead>
+<tr>
+<th>Tier</th>
+<th>Condition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>unverified</strong></td>
+<td>No <code>verified</code> key present (the default for every freshly ingested or LLM-edited page)</td>
+</tr>
+<tr>
+<td><strong>machine-confirmed</strong></td>
+<td><code>verified</code> present, but only by non-<code>human:</code> actors (e.g. a lint pass)</td>
+</tr>
+<tr>
+<td><strong>human-reviewed</strong></td>
+<td><code>verified</code> present with at least one <code>human:&lt;id&gt;</code> actor</td>
+</tr>
+</tbody>
+</table>
+<p>Format (a list, so repeated reviews over time each add an entry — OKF also tolerates a bare single mapping):</p>
+<div class="highlight"><pre><span></span><code><span class="nt">verified</span><span class="p">:</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">by</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">human:david</span>
+<span class="w">    </span><span class="nt">at</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">2026-08-22</span>
+</code></pre></div>
+<p>Add a <code>verified</code> entry when a human substantively reviews a page's content for accuracy — not on every procedural PR approval. The easiest way is:</p>
+<div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/log_revision.py<span class="w"> </span>&lt;page&gt;<span class="w"> </span>--by<span class="w"> </span>human:&lt;id&gt;<span class="w"> </span>--type<span class="w"> </span>status<span class="w"> </span>--desc<span class="w"> </span><span class="s2">"Reviewed for accuracy"</span><span class="w"> </span>--verify
+</code></pre></div>
+<p>which appends the <code>verified</code> entry alongside its normal <code>generated</code>/log-update work. Never add a <code>verified</code> entry yourself (as an agent) just because a page looks complete or well-sourced — that defeats the point of the tier. <code>python3 scripts/lint.py</code> flags any <code>status: stable</code> page that has no <code>verified</code> entry, since "stable" should mean someone actually checked it, not just that it looks finished.</p>
+<hr />
+<h2 id="cross-link-conventions">Cross-link conventions<a class="headerlink" href="#cross-link-conventions" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Cross-links are standard markdown links, relative to the linking page: <code>slug.md</code> for another page in the same folder, <code>../folder/slug.md</code> for a page in a different folder (every content folder sits exactly one level under the wiki root, so <code>../folder/</code> always resolves correctly regardless of which folder you're linking from)</li>
+<li>OKF also permits absolute bundle-relative paths (<code>/folder/slug.md</code>) — this wiki uses the relative form instead because it works with plain <code>mkdocs</code> (the docs site's builder) with no extra plugin, whereas an absolute path renders as a literal domain-root URL once the site is hosted under a subpath</li>
 <li>Slugs are lowercase, hyphen-separated: <code>worked-examples</code>, <code>cognitive-load-theory</code></li>
-<li>Folder-qualified links when disambiguation is needed: <code>[ [claims/worked-examples-math-performance] ]</code></li>
-<li>Claims use semantic slugs: <code>[ [claims/worked-examples-reduce-novice-load] ]</code>; the short <code>id:</code> in frontmatter is for programmatic reference only</li>
+<li>Always include the folder in a cross-folder link so the target is unambiguous: <code>[Worked examples reduce novice search](../claims/worked-examples-reduce-novice-search.md)</code></li>
+<li>Claims use semantic slugs: <code>../claims/worked-examples-reduce-novice-load.md</code>; the short <code>id:</code> in frontmatter is for programmatic reference only</li>
+<li>A link to a page that doesn't exist yet is tolerated (OKF requires consumers to tolerate broken links) — write the link anyway rather than leaving a bare TODO if you know the target slug, but don't invent slugs you haven't verified exist or are about to create</li>
 </ul>
 <hr />
 <h2 id="folder-map">Folder map<a class="headerlink" href="#folder-map" title="Permanent link">&para;</a></h2>
 <div class="highlight"><pre><span></span><code>ld-wiki/
   CLAUDE.md          ← this file (schema + operating guide)
-  index.md           ← catalog of all pages by type
-  log.md             ← append-only ingest/edit log
+  index.md           ← OKF bundle-root index; carries okf_version in frontmatter
+  log.md             ← reserved OKF filename: append-only, date-grouped change log
   principles/        ← design principles (what to do and why)
   elements/          ← instructional components (building blocks)
   patterns/          ← instructional patterns (reusable designs at lesson/unit level)
   strategies/        ← teaching strategies (concrete activity recipes)
   theories/          ← learning theories (explanatory frameworks)
   claims/            ← empirical claims with evidence
+  sources/           ← bibliographic source pages (optional; most citations live inline in Key Sources / Evidence)
   scripts/
-    ingest.py        ← CSV → wiki pages batch ingest
+    okf_lib.py         ← shared OKF helpers (frontmatter parse/dump, link conversion, actor formatting)
+    ingest.py          ← CSV → wiki pages batch ingest
+    enrich.py          ← LLM-based stub enrichment (Claude/Gemini)
+    build_indexes.py   ← regenerates index.md and every per-folder index from disk state
+    log_revision.py    ← records a revision card + updates a page's `generated` field + appends to log.md
+    lint.py            ← health-check (see Lint above)
 </code></pre></div>
+<p>Each folder's <code>index.md</code> is itself a reserved OKF filename: no frontmatter (except the bundle-root's <code>okf_version</code>), and a plain <code>* [Title](slug.md) - description</code> bullet listing grouped by status. Regenerate these with <code>python3 scripts/build_indexes.py</code> rather than hand-editing them.</p>
 <hr />
 <h2 id="page-templates">Page templates<a class="headerlink" href="#page-templates" title="Permanent link">&para;</a></h2>
 <h3 id="principle">Principle<a class="headerlink" href="#principle" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>---
 type: principle
+title: [Principle Name]
+description: [One-sentence summary of the recommendation]
 status: draft
-<span class="gu">last_edited: YYYY-MM-DD</span>
+generated:
+  by: &lt;actor&gt;
+<span class="gu">  at: YYYY-MM-DD</span>
 <span class="gu">---</span>
 
 <span class="gh"># [Principle Name]</span>
@@ -1330,7 +1482,7 @@ status: draft
 - 
 
 <span class="gu">### Claims</span>
-&lt;!-- Link claims with evidence tags: [ [claims/claim-slug] ] [+M] --&gt;
+&lt;!-- Link claims with evidence tags: [<span class="nt">Claim statement</span>](<span class="na">../claims/claim-slug.md</span>) [+M] --&gt;
 - 
 
 <span class="gu">## Related Principles</span>
@@ -1347,8 +1499,12 @@ status: draft
 <h3 id="element">Element<a class="headerlink" href="#element" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>---
 type: element
+title: [Element Name]
+description: [One-sentence summary of what this element is]
 status: draft
-<span class="gu">last_edited: YYYY-MM-DD</span>
+generated:
+  by: &lt;actor&gt;
+<span class="gu">  at: YYYY-MM-DD</span>
 <span class="gu">---</span>
 
 <span class="gh"># [Element Name]</span>
@@ -1365,15 +1521,15 @@ status: draft
 - 
 
 <span class="gu">### Target Learners</span>
-&lt;!-- Link to sub-claims: [ [claims/claim-slug] ] --&gt;
+&lt;!-- Link to sub-claims: [<span class="nt">Claim statement</span>](<span class="na">../claims/claim-slug.md</span>) --&gt;
 - 
 
 <span class="gu">### Target Learning Goals</span>
-&lt;!-- Link to sub-claims: [ [claims/claim-slug] ] --&gt;
+&lt;!-- Link to sub-claims: [<span class="nt">Claim statement</span>](<span class="na">../claims/claim-slug.md</span>) --&gt;
 - 
 
 <span class="gu">### Affordances</span>
-&lt;!-- Link to principles applied: [ [principles/principle-slug] ] --&gt;
+&lt;!-- Link to principles applied: [<span class="nt">Principle Name</span>](<span class="na">../principles/principle-slug.md</span>) --&gt;
 - 
 
 <span class="gu">## Related Elements</span>
@@ -1390,8 +1546,12 @@ status: draft
 <h3 id="pattern">Pattern<a class="headerlink" href="#pattern" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>---
 type: pattern
+title: [Pattern Name]
+description: [One-sentence summary of what this pattern is]
 status: draft
-last_edited: YYYY-MM-DD
+generated:
+  by: &lt;actor&gt;
+  at: YYYY-MM-DD
 author: 
 <span class="gu">grain_size: </span>
 <span class="gu">---</span>
@@ -1412,11 +1572,11 @@ author:
 [program / course / unit / lesson]
 
 <span class="gu">### Target Goals</span>
-&lt;!-- Link to claims: [ [claims/claim-slug] ] --&gt;
+&lt;!-- Link to claims: [<span class="nt">Claim statement</span>](<span class="na">../claims/claim-slug.md</span>) --&gt;
 - 
 
 <span class="gu">### Target Learners</span>
-&lt;!-- Link to claims: [ [claims/claim-slug] ] --&gt;
+&lt;!-- Link to claims: [<span class="nt">Claim statement</span>](<span class="na">../claims/claim-slug.md</span>) --&gt;
 - 
 
 <span class="gu">### Theory</span>
@@ -1435,11 +1595,11 @@ author:
 <span class="gu">## Design</span>
 
 <span class="gu">### Sequence</span>
-&lt;!-- Steps with links to elements: [ [elements/element-slug] ] --&gt;
+&lt;!-- Steps with links to elements: [<span class="nt">Element Name</span>](<span class="na">../elements/element-slug.md</span>) --&gt;
 1. 
 
 <span class="gu">### Affordances</span>
-&lt;!-- Links to principles applied: [ [principles/principle-slug] ] --&gt;
+&lt;!-- Links to principles applied: [<span class="nt">Principle Name</span>](<span class="na">../principles/principle-slug.md</span>) --&gt;
 - 
 
 <span class="gu">### Personalization</span>
@@ -1460,8 +1620,12 @@ author:
 <h3 id="strategy">Strategy<a class="headerlink" href="#strategy" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>---
 type: strategy
+title: [Strategy Name]
+description: [One-sentence summary of what this strategy is]
 status: draft
-<span class="gu">last_edited: YYYY-MM-DD</span>
+generated:
+  by: &lt;actor&gt;
+<span class="gu">  at: YYYY-MM-DD</span>
 <span class="gu">---</span>
 
 <span class="gh"># [Strategy Name]</span>
@@ -1480,15 +1644,15 @@ status: draft
 - 
 
 <span class="gu">### Target Learners</span>
-&lt;!-- Link to sub-claims: [ [claims/claim-slug] ] --&gt;
+&lt;!-- Link to sub-claims: [<span class="nt">Claim statement</span>](<span class="na">../claims/claim-slug.md</span>) --&gt;
 - 
 
 <span class="gu">### Target Learning Goals</span>
-&lt;!-- Link to sub-claims: [ [claims/claim-slug] ] --&gt;
+&lt;!-- Link to sub-claims: [<span class="nt">Claim statement</span>](<span class="na">../claims/claim-slug.md</span>) --&gt;
 - 
 
 <span class="gu">### Instructions</span>
-&lt;!-- Steps with links to elements: [ [elements/element-slug] ] --&gt;
+&lt;!-- Steps with links to elements: [<span class="nt">Element Name</span>](<span class="na">../elements/element-slug.md</span>) --&gt;
 1. 
 
 <span class="gu">## Related Strategies</span>
@@ -1505,8 +1669,12 @@ status: draft
 <h3 id="theory">Theory<a class="headerlink" href="#theory" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>---
 type: theory
+title: [Theory Name]
+description: [One-sentence summary of what this theory proposes]
 status: draft
-<span class="gu">last_edited: YYYY-MM-DD</span>
+generated:
+  by: &lt;actor&gt;
+<span class="gu">  at: YYYY-MM-DD</span>
 <span class="gu">---</span>
 
 <span class="gh"># [Theory Name]</span>
@@ -1526,7 +1694,7 @@ status: draft
 - 
 
 <span class="gu">## Claims</span>
-&lt;!-- Claims that derive from or test this theory: [ [claims/claim-slug] ] [+M] --&gt;
+&lt;!-- Claims that derive from or test this theory: [<span class="nt">Claim statement</span>](<span class="na">../claims/claim-slug.md</span>) [+M] --&gt;
 - 
 
 <span class="gu">## Related Theories</span>
@@ -1543,9 +1711,12 @@ status: draft
 <h3 id="claim">Claim<a class="headerlink" href="#claim" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>---
 type: claim
+title: [Claim statement — one sentence, present tense]
 id: CL-XXXX          # short programmatic ID (e.g. we-4, fi-2)
 status: draft
-last_edited: YYYY-MM-DD
+generated:
+  by: &lt;actor&gt;
+  at: YYYY-MM-DD
 <span class="gu">evidence_strength:   # strong / moderate / weak / mixed</span>
 <span class="gu">---</span>
 
@@ -1561,7 +1732,9 @@ last_edited: YYYY-MM-DD
 <span class="sb">`q? i?`</span> [One-sentence summary of the finding and scope.] [<span class="nt">→ Author Year</span>](<span class="na">#author-year</span>)
 
 <span class="gu">## Evidence</span>
-&lt;!-- One entry per study. Heading slug becomes the anchor target for subclaim links.
+&lt;!-- One entry per study. Heading slug becomes the anchor target for subclaim links,
+     and (via scripts/migrate_to_okf.py's parser) the <span class="sb">`id`</span> of the matching entry in
+     the frontmatter <span class="sb">`sources:`</span> list.
      Show full APA citation with DOI as a hyperlink.
      Then: quality · impact · n codes with plain-language explanations.
      Then: 2–4 sentence plain-language description. Link instructional elements to wiki pages.
@@ -1573,7 +1746,7 @@ Author, A., &amp; Author, B. (Year). Title. <span class="ge">*Journal, vol*</spa
 
 <span class="sb">`q? · [e.g. peer-reviewed RCT / quasi-experiment / meta-analysis]`</span> · <span class="sb">`i? · [e.g. large effect, d=0.9]`</span> · <span class="sb">`n=?`</span>
 
-[2–4 sentences: study design, participants (who, how many, what context), conditions or intervention, and findings in plain language. Link any instructional elements used to their wiki pages, for example ``[ [elements/demonstration|worked examples] ]`` and ``[ [elements/practice|practice tasks] ]``.]
+[<span class="nt">2–4 sentences: study design, participants (who, how many, what context), conditions or intervention, and findings in plain language. Link any instructional elements used to their wiki pages, for example `[worked examples</span>](<span class="na">../elements/demonstration.md</span>)<span class="sb">` and `</span>[<span class="nt">practice tasks</span>](<span class="na">../elements/practice.md</span>)`.]
 
 <span class="gu">## Discussion</span>
 &lt;!-- Prose section covering: contradictions, moderators, boundary conditions, open questions.
@@ -1600,10 +1773,11 @@ Author, A., &amp; Author, B. (Year). Title. <span class="ge">*Journal, vol*</spa
 <h2 id="ingest-notes-for-agents">Ingest notes for agents<a class="headerlink" href="#ingest-notes-for-agents" title="Permanent link">&para;</a></h2>
 <ul>
 <li>When a CSV field lists multiple items separated by commas or semicolons, expand each into a list item</li>
-<li>When a field references another page by name (e.g., "Cognitive Load Theory"), convert it to a wikilink using the slugified name</li>
-<li>When research support / impact fields contain citations, extract them into <code>## Key Sources</code> and create or link <code>sources/</code> pages</li>
+<li>When a field references another page by name (e.g., "Cognitive Load Theory"), convert it to a markdown link using the slugified name: <code>[Cognitive Load Theory](../theories/cognitive-load-theory.md)</code></li>
+<li>When research support / impact fields contain citations, extract them into <code>## Key Sources</code> (and, once parsed, the frontmatter <code>sources:</code> list) and create or link <code>sources/</code> pages</li>
 <li>Mark pages <code>status: draft</code> on initial ingest; a human or a lint pass can promote to <code>review</code> or <code>stable</code></li>
 <li>Never delete content on update — move superseded content to a <code>&lt;!-- deprecated --&gt;</code> comment block</li>
+<li>Never write a raw, un-slugified name straight into a file path — a name containing <code>/</code> (e.g. "Stand Up / Sit Down") will be interpreted as a subdirectory separator. Always pass names through <code>slugify()</code> before joining them into a path.</li>
 </ul>
 
 
@@ -1663,7 +1837,7 @@ Author, A., &amp; Author, B. (Year). Title. <span class="ge">*Journal, vol*</spa
       <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.top", "search.suggest", "search.highlight", "content.code.copy"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
-      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      <script src="../assets/javascripts/bundle.d7400e89.min.js"></script>
       
     
   </body>
