@@ -38,7 +38,7 @@ Pages cite empirical claims using direction-and-strength tags:
 
 ## Contributing
 
-This wiki is maintained by LLMs reading education research and ingesting it into structured pages. Human review happens via pull requests.
+This wiki is maintained by LLMs reading education research and ingesting it into structured pages. Human review happens via pull requests — see [CONTRIBUTING.md](CONTRIBUTING.md) for the review policy and the automated checks every PR runs.
 
 ### Ingest a new article
 
