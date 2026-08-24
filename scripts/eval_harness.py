@@ -57,12 +57,6 @@ from dataclasses import asdict
 from datetime import date, datetime, timezone
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).parent.parent))
-from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
-                          executive_summary, cost_projection, history, prompts, optimizer, model_catalog,
-                          auto_optimize_report, index_report)
-from scripts.eval.jsonutil import extract_json, JSONExtractionError
-
 WIKI_ROOT = Path(__file__).parent.parent
 EVAL_ROOT = WIKI_ROOT / "eval"
 MANIFEST_PATH = EVAL_ROOT / "corpus" / "manifest.json"
@@ -97,6 +91,24 @@ def _load_secrets_env(path: Path = SECRETS_ENV_FILE) -> None:
         if key and key not in os.environ:
             os.environ[key] = value
 
+
+# Must run BEFORE any scripts.eval submodule is imported below, not just at
+# the top of main() — scripts/eval/compliance.py reads EVAL_HARNESS_CONTACT_EMAIL
+# into a module-level constant at import time, and Python executes every
+# top-level `import` in this file before main() ever runs. Calling this only
+# inside main() (its original location) meant compliance.py always saw the
+# bare, secrets-file-free environment regardless of invocation path — this
+# is what kept printing "EVAL_HARNESS_CONTACT_EMAIL is not set" even for a
+# plain, direct CLI invocation with the file correctly filled in. main()
+# still calls this too (harmless — the "don't override an already-set var"
+# guard makes a second call a no-op), so an explicit `export` still wins.
+_load_secrets_env()
+
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
+                          executive_summary, cost_projection, history, prompts, optimizer, model_catalog,
+                          auto_optimize_report, index_report)
+from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 RUN_CONFIG_PATH = WIKI_ROOT / "deploy" / "run-config.env"
 
