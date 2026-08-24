@@ -264,9 +264,21 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
     # `status` command and the dashboard's queue section can show a model
     # that hasn't produced any result files yet as "queued" instead of it
     # being invisible — compute_rows() alone only knows about pairs that have
-    # already completed.
-    (run_dir / "queue.json").write_text(
-        json.dumps({"models": models, "total_articles": len(articles)}, indent=2), encoding="utf-8")
+    # already completed. Merged with whatever's already recorded (rather than
+    # overwritten) so a targeted re-run of one model — e.g. `run --models
+    # qwen/qwen3.8-27b --overwrite` against an existing run-id — doesn't wipe
+    # the other 4 models out of the queue panel; new models are appended,
+    # known ones keep their original position.
+    queue_path = run_dir / "queue.json"
+    existing_models = []
+    if queue_path.exists():
+        try:
+            existing_models = json.loads(queue_path.read_text(encoding="utf-8")).get("models", [])
+        except (json.JSONDecodeError, OSError):
+            existing_models = []
+    merged_models = existing_models + [m for m in models if m not in existing_models]
+    queue_path.write_text(
+        json.dumps({"models": merged_models, "total_articles": len(articles)}, indent=2), encoding="utf-8")
 
     existing_slugs = get_existing_slugs()
     total = len(articles) * len(models)
