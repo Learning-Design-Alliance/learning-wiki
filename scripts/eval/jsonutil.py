@@ -28,4 +28,12 @@ def extract_json(raw_text: str) -> dict:
     end = text.rfind("}")
     if start == -1 or end == -1 or end <= start:
         raise JSONExtractionError(f"No JSON object found in model output (len={len(raw_text)}).")
-    return json.loads(text[start:end + 1])
+    try:
+        return json.loads(text[start:end + 1])
+    except json.JSONDecodeError as e:
+        # A model that emits trailing prose/a second object after the first
+        # closing brace defeats the naive first-{-to-last-} slice above — this
+        # must surface as JSONExtractionError (which run_one() catches and
+        # records as a parse_error) rather than a raw JSONDecodeError, which
+        # would crash the whole batch process instead of just this one pair.
+        raise JSONExtractionError(f"Could not parse JSON object from model output: {e}") from e
