@@ -52,7 +52,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
-                          executive_summary, cost_projection)
+                          executive_summary, cost_projection, history)
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 WIKI_ROOT = Path(__file__).parent.parent
@@ -89,16 +89,21 @@ def result_path(run_dir: Path, model: str, article_id: str) -> Path:
 
 
 def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
-            judges: list, gpt_judge_model: str, max_tokens: int, refresh_cache: bool = False) -> dict:
-    from scripts.eval.prompts import SYSTEM_PROMPT, build_user_prompt
+            judges: list, gpt_judge_model: str, max_tokens: int, refresh_cache: bool = False,
+            prompt_version: str = None) -> dict:
+    from scripts.eval import prompts
+
+    system_prompt = prompts.load_prompt(prompt_version)
+    prompt_version = prompt_version or prompts.latest_version()
 
     article_text = fetch_article.fetch_article_text(entry, refresh=refresh_cache)
-    user_prompt = build_user_prompt(article_text, existing_slugs)
+    user_prompt = prompts.build_user_prompt(article_text, existing_slugs)
 
     record = {
         "article_id": entry["id"],
         "article_title": entry["title"],
         "model": model,
+        "prompt_version": prompt_version,
         "generated_at": None,
         "generation": None,
         "raw_text": None,
@@ -109,7 +114,7 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
     }
 
     try:
-        gen = openrouter_client.generate(model, SYSTEM_PROMPT, user_prompt, api_key, max_tokens=max_tokens)
+        gen = openrouter_client.generate(model, system_prompt, user_prompt, api_key, max_tokens=max_tokens)
     except openrouter_client.GenerationError as e:
         record["generation"] = {"error": str(e)}
         return record
@@ -176,36 +181,31 @@ def run_judges(article_text: str, parsed: dict, judges: list, gpt_judge_model: s
     return out
 
 
-def cmd_run(args: argparse.Namespace) -> None:
-    api_key = os.environ.get("OPENROUTER_API_KEY")
-    if not api_key:
-        print("[ERROR] OPENROUTER_API_KEY environment variable not set.")
-        sys.exit(1)
-
-    run_id = args.run_id or datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
+def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: str,
+              gpt_judge_model: str = "gpt-5.6", max_tokens: int = 8000, overwrite: bool = False,
+              refresh_cache: bool = False, prompt_version: str = None) -> Path:
+    """The actual (model x article) loop, shared by `run` and `optimize` — the
+    latter calls this directly (not through argparse) to run each iteration's
+    candidate prompt against the same articles as the baseline."""
     run_dir = RUNS_DIR / run_id
     run_dir.mkdir(parents=True, exist_ok=True)
     print(f"Run ID: {run_id}  (results under {run_dir.relative_to(WIKI_ROOT)})")
 
-    articles = load_manifest(args.articles)
-    if args.limit:
-        articles = articles[:args.limit]
     existing_slugs = get_existing_slugs()
-
-    total = len(articles) * len(args.models)
+    total = len(articles) * len(models)
     done = 0
-    for model in args.models:
+    for model in models:
         for entry in articles:
             done += 1
             out_path = result_path(run_dir, model, entry["id"])
-            if out_path.exists() and not args.overwrite:
+            if out_path.exists() and not overwrite:
                 print(f"[{done}/{total}] SKIP (cached) {model} / {entry['id']}")
                 continue
 
             print(f"[{done}/{total}] {model} / {entry['id']} — {entry['title'][:60]}")
             try:
-                record = run_one(model, entry, existing_slugs, api_key, args.judges,
-                                  args.gpt_judge_model, args.max_tokens, refresh_cache=args.refresh_cache)
+                record = run_one(model, entry, existing_slugs, api_key, judges, gpt_judge_model,
+                                  max_tokens, refresh_cache=refresh_cache, prompt_version=prompt_version)
             except fetch_article.FetchError as e:
                 print(f"  [FETCH ERROR] {e}")
                 continue
@@ -224,6 +224,25 @@ def cmd_run(args: argparse.Namespace) -> None:
 
             generate_reports(run_dir, run_id, verbose=False)
             time.sleep(0.5)
+
+    return run_dir
+
+
+def cmd_run(args: argparse.Namespace) -> None:
+    api_key = os.environ.get("OPENROUTER_API_KEY")
+    if not api_key:
+        print("[ERROR] OPENROUTER_API_KEY environment variable not set.")
+        sys.exit(1)
+
+    run_id = args.run_id or datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
+    articles = load_manifest(args.articles)
+    if args.limit:
+        articles = articles[:args.limit]
+
+    run_batch(args.models, articles, args.judges, run_id, api_key,
+              gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
+              overwrite=args.overwrite, refresh_cache=args.refresh_cache,
+              prompt_version=args.prompt_version)
 
     print(f"\nDone. Run report with: python3 scripts/eval_harness.py report --run-id {run_id}")
 
@@ -475,6 +494,20 @@ def cmd_project_cost(args: argparse.Namespace) -> None:
     print(f"\nWrote {out_path.relative_to(WIKI_ROOT)}")
 
 
+def cmd_history(args: argparse.Namespace) -> None:
+    rows = history.collect(RUNS_DIR)
+    if args.models:
+        rows = [r for r in rows if r["model"] in args.models]
+    if not rows:
+        print("[ERROR] No runs found under eval/runs/.")
+        sys.exit(1)
+    md = history.render_markdown(rows)
+    print(md)
+    out_path = RUNS_DIR / "history.md"
+    out_path.write_text(md, encoding="utf-8")
+    print(f"\nWrote {out_path.relative_to(WIKI_ROOT)}")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     subparsers = parser.add_subparsers(dest="command", required=True)
@@ -489,6 +522,8 @@ def main() -> None:
     p_run.add_argument("--overwrite", action="store_true")
     p_run.add_argument("--refresh-cache", action="store_true", help="Force re-fetch of article text")
     p_run.add_argument("--max-tokens", type=int, default=8000)
+    p_run.add_argument("--prompt-version", default=None,
+                        help="Extraction prompt version to use, e.g. v1, v2 (default: latest in scripts/eval/prompt_versions/)")
 
     p_spot = subparsers.add_parser("spotcheck", help="Re-validate/re-judge cached results without re-generating")
     p_spot.add_argument("--run-id", required=True)
@@ -514,9 +549,12 @@ def main() -> None:
     p_cost.add_argument("--qa-sample-rate", type=float, default=cost_projection.DEFAULT_QA_SAMPLE_RATE,
                          help="Fraction of the projected corpus spot-checked with both judges (default: 0.05)")
 
+    p_hist = subparsers.add_parser("history", help="Trend view across every run under eval/runs/")
+    p_hist.add_argument("--models", nargs="+", default=None)
+
     args = parser.parse_args()
     dispatch = {"run": cmd_run, "spotcheck": cmd_spotcheck, "report": cmd_report, "compare": cmd_compare,
-                "project-cost": cmd_project_cost}
+                "project-cost": cmd_project_cost, "history": cmd_history}
     dispatch[args.command](args)
 
 

@@ -10,130 +10,56 @@ eventually, a real batch-ingest script) renders that JSON into OKF pages.
 Structured JSON — rather than freeform markdown+YAML — is the point: it makes
 "did the model fill in every required field correctly" a mechanical check
 (see validator.py) instead of something only a human or another LLM can judge.
+
+## Versioning
+
+The prompt text itself lives in prompt_versions/vN.txt, not inline here, so it
+can evolve across test batches with a record of what changed and why
+(prompt_versions/CHANGELOG.md) — see eval_harness.py's `history` and `optimize`
+commands, which both depend on being able to name and compare prompt versions.
+SYSTEM_PROMPT below is the latest version, kept as a module-level constant for
+existing callers that don't care about versioning.
 """
 
-SYSTEM_PROMPT = """\
-You are an information-extraction system for the Learning Design Wiki, a structured \
-knowledge base of learning-science claims, principles, elements, patterns, strategies, \
-and theories. You read one research article and output ONE JSON object describing every \
-wiki contribution it supports. You do not write markdown, you do not open pull requests, \
-and you never invent facts not present in the article.
+import re
+from pathlib import Path
 
-## Contribution types
-- **claim** — an empirical finding with a measurable effect (needs an evidence entry). \
-Most articles primarily contribute claims.
-- **principle** — a design recommendation ("do X because Y")
-- **element** — an instructional component described or evaluated
-- **pattern** — a reusable instructional design at lesson/unit level
-- **strategy** — a specific, implementable teaching activity recipe
-- **theory** — an explanatory framework named and substantively described
+PROMPT_VERSIONS_DIR = Path(__file__).parent / "prompt_versions"
 
-Be conservative: only emit a non-claim contribution if the article substantively \
-describes, tests, or theorizes about it — a passing mention does not qualify. \
-A single experimental finding is usually ONE claim, not a claim plus a matching \
-principle, element, pattern, and strategy that all restate the same finding in \
-different words. Only add a principle/element/pattern/strategy/theory when the \
-article actually discusses that broader design construct as its own thing — with \
-its own requirements, constraints, or examples — beyond just naming the one result. \
-If you're not sure a second contribution adds genuinely new content, don't emit it.
 
-## Evidence quality (q) and impact (i) codes, for claim subclaims and evidence entries
-q: 4=pre-registered RCT or well-powered meta-analysis, 3=peer-reviewed experiment or \
-systematic review, 2=quasi-experiment/observational-with-controls/narrative review, \
-1=case study/expert opinion/theoretical argument.
-i: 3=large effect (d>=0.8), 2=medium (d 0.4-0.79), 1=small (d 0.2-0.39), 0=negligible/unclear.
-evidence_strength (claim frontmatter): strong / moderate / weak / mixed.
+def list_versions() -> list:
+    """Version names (e.g. ['v1', 'v2']) sorted oldest to newest by number."""
+    versions = [p.stem for p in PROMPT_VERSIONS_DIR.glob("v*.txt")]
+    return sorted(versions, key=lambda v: int(re.sub(r"\D", "", v) or 0))
 
-## Evidence tags, for claims_cited on principle/element/pattern/strategy/theory contributions
-Tag direction reflects the effect on the citing page's topic, not just evidence strength:
-+S/+M/+W = supports (strong/moderate/weak). ~S/~M/~W = contextual or mixed. \
--S/-M/-W = contradicts or reduces effectiveness. X = contradicted/discredited. \
-A claim cited as a constraint must use ~ or -, never +.
 
-## Cross-linking
-You will be given a list of slugs that already exist in the wiki, grouped by folder. \
-Only reference a slug in `claims_cited` or `related` if it appears verbatim in that list \
-OR is the slug of another contribution in this same output. Never invent a slug for a page \
-you are not creating in this response — if no matching page exists, omit the link.
+def latest_version() -> str:
+    versions = list_versions()
+    if not versions:
+        raise FileNotFoundError(f"No prompt versions found in {PROMPT_VERSIONS_DIR}")
+    return versions[-1]
 
-## Output contract
-Output ONLY a single JSON object. No markdown code fences, no commentary before or after.
 
-{
-  "article": {
-    "title": "...", "authors": "Last, F. M., & Last2, F. M.", "year": 2020,
-    "doi_or_url": "...", "summary": "2-4 sentence plain-language summary"
-  },
-  "contributions": [
-    {
-      "type": "claim",
-      "title": "One-sentence claim statement, present tense",
-      "slug": "lowercase-hyphenated-slug",
-      "status": "draft",
-      "id": "CL-shortcode",
-      "evidence_strength": "moderate",
-      "subclaims": [
-        {"q": 3, "i": 2, "text": "One-sentence finding summary.", "evidence_ref": "author-year"}
-      ],
-      "evidence": [
-        {
-          "anchor": "author-year",
-          "citation": "Full APA citation with DOI or URL as plain text.",
-          "quality": 3, "impact": 2, "n": 120,
-          "description": "2-4 sentences: design, participants, conditions, findings in plain language."
-        }
-      ],
-      "discussion": "Prose: contradictions, moderators, boundary conditions, open questions.",
-      "related_claims": ["existing-or-sibling-slug"],
-      "key_sources": ["Full APA citation with DOI or URL"]
-    },
-    {
-      "type": "principle",
-      "title": "...", "slug": "...", "status": "draft",
-      "description": "What this principle is and recommends.",
-      "requirements": ["..."],
-      "constraints": ["conditions where it fails or backfires, tagged ~ or - only"],
-      "target_learners": ["..."],
-      "target_learning_goals": ["..."],
-      "claims_cited": [{"slug": "existing-or-sibling-claim-slug", "tag": "+M"}],
-      "theory_supporting": ["existing-theory-slug"],
-      "related": ["existing-or-sibling-slug"],
-      "examples": ["..."],
-      "key_sources": ["Full APA citation with DOI or URL"]
-    }
-  ]
-}
+def load_prompt(version: str = None) -> str:
+    """Load a specific version's prompt text, or the latest if omitted."""
+    version = version or latest_version()
+    path = PROMPT_VERSIONS_DIR / f"{version}.txt"
+    if not path.exists():
+        raise FileNotFoundError(f"No such prompt version: {version} (looked for {path})")
+    return path.read_text(encoding="utf-8")
 
-`element` / `pattern` / `strategy` / `theory` contributions use the same shape as \
-`principle` (description, requirements, constraints, target_learners, target_learning_goals, \
-claims_cited, related, examples, key_sources) — grain_size only applies to `pattern`.
 
-## Rules
-1. Never hallucinate a citation, DOI, statistic, or finding not in the article.
-2. **Many real sources have no DOI** — an unpublished conference paper (e.g. an AERA \
-presentation), a technical report, an older article, or a preprint often genuinely lacks \
-one. If you don't see a DOI or stable URL actually printed in the article text, leave \
-`doi_or_url` as an empty string. Do NOT invent a plausible-looking `doi.org/10.xxxx/...` \
-identifier — a made-up DOI is worse than none, because it looks authoritative and is wrong. \
-The same rule applies inside `key_sources` and evidence `citation` strings: cite exactly \
-what the article gives you (authors, year, title, venue), and only add a DOI/URL if one is \
-actually present in the source.
-3. Every evidence `description` must include the actual reported numbers where the article \
-gives them — sample size, means/percentages compared between conditions, specific effect \
-statistics — not a paraphrase that drops the numbers. "The treatment group scored higher" \
-is not enough if the article reports "2.21 vs. 0.62 on a 4-point scale."
-4. Leave a list empty ([]) rather than inventing content to fill it.
-5. `slug` must be lowercase, hyphen-separated, and match `[a-z0-9-]+` — no slashes.
-6. `id` must literally start with `CL-` followed by a hyphen and a short code, e.g. `CL-wex-1` \
-or `CL-001`. `CL001` (no hyphen after CL) is WRONG and will be rejected.
-7. Every claim needs at least one subclaim and one evidence entry. Every subclaim's \
-`evidence_ref` MUST be a real string that exactly matches one evidence entry's `anchor` in \
-the same claim — never `null`, never omitted, never a name that doesn't appear in `evidence`.
-8. Output must be valid JSON parseable by a strict parser — no trailing commas, no comments.
+def save_new_version(prompt_text: str) -> str:
+    """Write prompt_text as the next version (vN+1) and return its name.
+    Caller is responsible for appending a CHANGELOG.md entry explaining why."""
+    versions = list_versions()
+    next_n = (int(re.sub(r"\D", "", versions[-1]) or 0) + 1) if versions else 1
+    name = f"v{next_n}"
+    (PROMPT_VERSIONS_DIR / f"{name}.txt").write_text(prompt_text, encoding="utf-8")
+    return name
 
-Before you output, check your own work against rules 2, 3, 6, and 7 above — these are the \
-most common mistakes.
-"""
+
+SYSTEM_PROMPT = load_prompt()
 
 
 def build_user_prompt(article_text: str, existing_slugs: dict, max_chars: int = 60_000) -> str:
