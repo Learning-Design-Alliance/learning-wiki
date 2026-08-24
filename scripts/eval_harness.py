@@ -182,7 +182,8 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
     }
 
     try:
-        gen = openrouter_client.generate(model, system_prompt, user_prompt, api_key, max_tokens=max_tokens)
+        gen = openrouter_client.generate(model, system_prompt, user_prompt, api_key, max_tokens=max_tokens,
+                                          disable_reasoning=model_catalog.needs_reasoning_disabled(model))
     except openrouter_client.GenerationError as e:
         record["generation"] = {"error": str(e)}
         return record

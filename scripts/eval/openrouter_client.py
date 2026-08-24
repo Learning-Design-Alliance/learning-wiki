@@ -39,9 +39,18 @@ def generate(
     api_key: str,
     max_tokens: int = 8000,
     temperature: float = 0.2,
+    disable_reasoning: bool = False,
 ) -> GenerationResult:
     """Call one OpenRouter model, return raw usage/latency plus a resolved cost.
-    Raises GenerationError on a non-retryable failure or on unparseable JSON."""
+    Raises GenerationError on a non-retryable failure or on unparseable JSON.
+
+    disable_reasoning: some models spend their whole max_tokens budget on
+    internal "thinking" and never reach the actual answer (see
+    model_catalog.REASONING_DISABLED for how this is decided per model) —
+    OpenRouter's documented fix is this reasoning.enabled=false field, which
+    is a no-op for models without a reasoning mode. A model that mandates
+    reasoning and rejects this field raises a normal GenerationError below,
+    same as any other bad request — not a crash."""
     payload = {
         "model": model,
         "messages": [
@@ -53,6 +62,8 @@ def generate(
         "response_format": {"type": "json_object"},
         "usage": {"include": True},
     }
+    if disable_reasoning:
+        payload["reasoning"] = {"enabled": False}
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
