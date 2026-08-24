@@ -113,12 +113,17 @@ def _scatter_chart(rows: list, colors: dict) -> str:
         x = PAD + (cost / max_cost) * (W - 2 * PAD) if max_cost else PAD
         y = H - PAD - (quality / 5) * (H - 2 * PAD)
         slot = (list(colors.keys()).index(model) % len(colors)) + 1
+        # Flip the label to the dot's left once it's past ~65% of the plot width,
+        # so a long model name never runs off the right edge of the viewBox.
+        near_right_edge = x > PAD + 0.65 * (W - 2 * PAD)
+        label_x = x - 12 if near_right_edge else x + 12
+        anchor = "end" if near_right_edge else "start"
         svg_points.append(f"""
         <g>
           <circle cx="{x:.1f}" cy="{y:.1f}" r="7" fill="var(--series-{slot})" stroke="var(--surface-1)" stroke-width="2">
             <title>{_esc(model)}: ${cost:.4f}/article, {quality:.2f}/5 avg judge score</title>
           </circle>
-          <text x="{x + 12:.1f}" y="{y + 4:.1f}" class="scatter-label">{_esc(model)}</text>
+          <text x="{label_x:.1f}" y="{y + 4:.1f}" text-anchor="{anchor}" class="scatter-label">{_esc(model)}</text>
         </g>""")
 
     gridlines = "".join(
@@ -314,6 +319,16 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
   .count-tag {{ color: var(--text-muted); font-size: 12px; float: right; }}
   .chip-row {{ display: flex; flex-wrap: wrap; gap: 8px; }}
   .chip {{ background: var(--gridline); color: var(--text-secondary); font-size: 12px; padding: 4px 10px; border-radius: 999px; }}
+  .tabs {{ display: flex; gap: 4px; border-bottom: 1px solid var(--border); margin-bottom: 20px; }}
+  .tab-btn {{
+    font: inherit; font-size: 13px; font-weight: 600; color: var(--text-secondary);
+    background: none; border: none; border-bottom: 2px solid transparent;
+    padding: 10px 14px; cursor: pointer; margin-bottom: -1px;
+  }}
+  .tab-btn:hover {{ color: var(--text-primary); }}
+  .tab-btn.active {{ color: var(--text-primary); border-bottom-color: var(--series-1); }}
+  .tab-panel {{ display: none; }}
+  .tab-panel.active {{ display: block; }}
 </style>
 </head>
 <body>
@@ -321,22 +336,44 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
   <h1>Eval run: {_esc(run_id)}</h1>
   <div class="meta">Generated {_esc(generated)} &middot; {len(models)} model(s) &middot; {sum(r.get('n_articles', 0) for r in rows)} article results</div>
 
-  <h2>Cost vs. quality</h2>
-  <div class="card">
-    {_scatter_chart(rows, colors)}
-    {_legend(colors)}
+  <div class="tabs" role="tablist">
+    <button class="tab-btn active" data-target="tab-cost-quality" role="tab" aria-selected="true">Cost vs. quality</button>
+    <button class="tab-btn" data-target="tab-metrics" role="tab" aria-selected="false">Per-model metrics</button>
+    <button class="tab-btn" data-target="tab-failures" role="tab" aria-selected="false">Failure patterns</button>
+    <button class="tab-btn" data-target="tab-detail" role="tab" aria-selected="false">Per-article detail</button>
   </div>
 
-  <h2>Per-model metrics</h2>
-  <div class="chart-grid">{charts}</div>
+  <div id="tab-cost-quality" class="tab-panel active">
+    <div class="card">
+      {_scatter_chart(rows, colors)}
+      {_legend(colors)}
+    </div>
+  </div>
 
-  <h2>Common failure patterns</h2>
-  {_failure_section(failure_summary or {}, colors)}
+  <div id="tab-metrics" class="tab-panel">
+    <div class="chart-grid">{charts}</div>
+  </div>
 
-  <h2>Per-article detail</h2>
-  {_detail_table(by_model, colors)}
+  <div id="tab-failures" class="tab-panel">
+    {_failure_section(failure_summary or {}, colors)}
+  </div>
+
+  <div id="tab-detail" class="tab-panel">
+    {_detail_table(by_model, colors)}
+  </div>
 
   <p class="footer-note">Raw per-article JSON, report.md, and summary.csv live alongside this file in the same run directory.</p>
 </div>
+<script>
+  document.querySelectorAll('.tab-btn').forEach(function (btn) {{
+    btn.addEventListener('click', function () {{
+      document.querySelectorAll('.tab-btn').forEach(function (b) {{ b.classList.remove('active'); b.setAttribute('aria-selected', 'false'); }});
+      document.querySelectorAll('.tab-panel').forEach(function (p) {{ p.classList.remove('active'); }});
+      btn.classList.add('active');
+      btn.setAttribute('aria-selected', 'true');
+      document.getElementById(btn.dataset.target).classList.add('active');
+    }});
+  }});
+</script>
 </body>
 </html>"""
