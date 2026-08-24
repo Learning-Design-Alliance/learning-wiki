@@ -11,5 +11,11 @@ if [ -z "${RUN_ARGS:-}" ]; then
   exit 1
 fi
 
+# -u: unbuffered stdout/stderr. Without it, Python block-buffers stdout when
+# it isn't a TTY (i.e. always, under systemd) — progress prints can sit
+# unflushed until the buffer fills or the process exits, making a run look
+# stuck in `journalctl` even though it's actively working (results are still
+# written to disk per pair regardless; this only affects live log visibility).
+#
 # Intentionally unquoted: RUN_ARGS is a space-separated arg list, not one string.
-exec ./venv/bin/python scripts/eval_harness.py run $RUN_ARGS
+exec ./venv/bin/python -u scripts/eval_harness.py run $RUN_ARGS
