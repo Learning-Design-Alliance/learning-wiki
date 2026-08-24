@@ -54,29 +54,36 @@ change `REPO_URL` in `provision.sh` to the HTTPS clone URL before copying it up.
 currently lives. Once it's merged to `main`, either edit `BRANCH` in the
 script or pass it as an env var: `BRANCH=main bash /root/provision.sh`.
 
-## 3. Set your API keys and run parameters
+## 3. Set your API keys, and which models to run
+
+Two separate files, deliberately — one holds secrets and is never in git,
+the other holds run parameters (which models/articles/judges) and *is*
+tracked in git, since "try a new model" shouldn't require opening a file
+with your API keys in it.
 
 ```bash
 ssh root@<droplet-ip>
 nano /etc/eval-harness.env
 ```
-
 Fill in `OPENROUTER_API_KEY`, `ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, and
 `EVAL_HARNESS_CONTACT_EMAIL` (a real address — NCBI's usage guidelines
 specifically ask for this so they can warn you before blocking your IP; see
-[eval/SOURCES.md](../eval/SOURCES.md)). Then edit `RUN_ARGS` to the actual
-batch you want:
+[eval/SOURCES.md](../eval/SOURCES.md)). You only need to touch this file
+again if a key changes.
 
+```bash
+nano /opt/learning-wiki/deploy/run-config.env
 ```
-RUN_ARGS=--models qwen/qwen3-30b-a3b google/gemma-3-27b-it qwen/qwen3-235b-a22b --judges opus gpt --run-id do-batch-1
-```
-
-`RUN_ARGS` is exactly what you'd otherwise type after
-`python3 scripts/eval_harness.py run` locally — same flags
-(`--models`, `--articles`, `--limit`, `--judges`, `--overwrite`, etc.), see
-[eval/README.md](../eval/README.md). If you edit `RUN_ARGS` on an already-running
-service, apply it with `sudo systemctl restart eval-harness` — already-completed
-pairs are cached and won't be redone.
+This is where `RUN_ARGS` lives — exactly what you'd otherwise type after
+`python3 scripts/eval_harness.py run` locally (same flags: `--models`,
+`--articles`, `--limit`, `--judges`, `--overwrite`, etc., see
+[eval/README.md](../eval/README.md)). Since it's a normal repo file, the
+usual way to change it going forward is: edit it (or have it edited for you),
+`git commit` + push, then on the droplet `git pull` and
+`sudo systemctl restart eval-harness` — already-completed pairs are cached
+and won't be redone. A quick one-off change works too: edit it directly on
+the droplet and restart, same as any config file — it just won't be in git
+history unless you also commit it from wherever you edited it.
 
 ## 4. Start it and confirm it's running
 

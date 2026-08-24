@@ -62,13 +62,15 @@ sudo -u "$APP_USER" python3 -m venv "$APP_DIR/venv"
 sudo -u "$APP_USER" "$APP_DIR/venv/bin/pip" install --upgrade pip --quiet
 sudo -u "$APP_USER" "$APP_DIR/venv/bin/pip" install -r "$APP_DIR/requirements-eval.txt" --quiet
 
-echo "== 6. Secrets + run-args file (created once, never overwritten by re-runs) =="
+echo "== 6. Secrets file (created once, never overwritten by re-runs) =="
 ENV_FILE="/etc/eval-harness.env"
 if [ ! -f "$ENV_FILE" ]; then
   cp "$APP_DIR/deploy/eval-harness.env.example" "$ENV_FILE"
   chmod 600 "$ENV_FILE"
-  echo "Created $ENV_FILE — edit it with real API keys and RUN_ARGS before starting the service."
+  echo "Created $ENV_FILE — edit it with real API keys and your contact email."
 fi
+# Which models to run lives in deploy/run-config.env instead (tracked in git,
+# not a secret) — already up to date from the clone/pull above.
 
 echo "== 7. systemd units =="
 cp "$APP_DIR/deploy/eval-harness.service" /etc/systemd/system/eval-harness.service
@@ -80,9 +82,10 @@ systemctl enable --now eval-harness-web
 cat <<EOF
 
 Provisioning done. Next steps:
-  1. sudo nano $ENV_FILE          # set real API keys + RUN_ARGS
-  2. sudo systemctl enable --now eval-harness
-  3. journalctl -u eval-harness -f    # watch progress
+  1. sudo nano $ENV_FILE                    # set real API keys + contact email
+  2. nano $APP_DIR/deploy/run-config.env    # set which models to run (edit + git commit/pull to change later)
+  3. sudo systemctl enable --now eval-harness
+  4. journalctl -u eval-harness -f    # watch progress
 The dashboard web server (eval-harness-web, localhost:8080 on the droplet) is
 already running — view it live from your Mac with:
   deploy/live_view.sh <droplet-ip> <run-id>
