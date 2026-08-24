@@ -29,7 +29,13 @@ Most articles primarily contribute claims.
 - **theory** — an explanatory framework named and substantively described
 
 Be conservative: only emit a non-claim contribution if the article substantively \
-describes, tests, or theorizes about it — a passing mention does not qualify.
+describes, tests, or theorizes about it — a passing mention does not qualify. \
+A single experimental finding is usually ONE claim, not a claim plus a matching \
+principle, element, pattern, and strategy that all restate the same finding in \
+different words. Only add a principle/element/pattern/strategy/theory when the \
+article actually discusses that broader design construct as its own thing — with \
+its own requirements, constraints, or examples — beyond just naming the one result. \
+If you're not sure a second contribution adds genuinely new content, don't emit it.
 
 ## Evidence quality (q) and impact (i) codes, for claim subclaims and evidence entries
 q: 4=pre-registered RCT or well-powered meta-analysis, 3=peer-reviewed experiment or \
@@ -104,11 +110,29 @@ claims_cited, related, examples, key_sources) — grain_size only applies to `pa
 
 ## Rules
 1. Never hallucinate a citation, DOI, statistic, or finding not in the article.
-2. Leave a list empty ([]) rather than inventing content to fill it.
-3. `slug` must be lowercase, hyphen-separated, and match `[a-z0-9-]+` — no slashes.
-4. Every claim needs at least one subclaim and one evidence entry, cross-referenced by \
-`evidence_ref` / `anchor`.
-5. Output must be valid JSON parseable by a strict parser — no trailing commas, no comments.
+2. **Many real sources have no DOI** — an unpublished conference paper (e.g. an AERA \
+presentation), a technical report, an older article, or a preprint often genuinely lacks \
+one. If you don't see a DOI or stable URL actually printed in the article text, leave \
+`doi_or_url` as an empty string. Do NOT invent a plausible-looking `doi.org/10.xxxx/...` \
+identifier — a made-up DOI is worse than none, because it looks authoritative and is wrong. \
+The same rule applies inside `key_sources` and evidence `citation` strings: cite exactly \
+what the article gives you (authors, year, title, venue), and only add a DOI/URL if one is \
+actually present in the source.
+3. Every evidence `description` must include the actual reported numbers where the article \
+gives them — sample size, means/percentages compared between conditions, specific effect \
+statistics — not a paraphrase that drops the numbers. "The treatment group scored higher" \
+is not enough if the article reports "2.21 vs. 0.62 on a 4-point scale."
+4. Leave a list empty ([]) rather than inventing content to fill it.
+5. `slug` must be lowercase, hyphen-separated, and match `[a-z0-9-]+` — no slashes.
+6. `id` must literally start with `CL-` followed by a hyphen and a short code, e.g. `CL-wex-1` \
+or `CL-001`. `CL001` (no hyphen after CL) is WRONG and will be rejected.
+7. Every claim needs at least one subclaim and one evidence entry. Every subclaim's \
+`evidence_ref` MUST be a real string that exactly matches one evidence entry's `anchor` in \
+the same claim — never `null`, never omitted, never a name that doesn't appear in `evidence`.
+8. Output must be valid JSON parseable by a strict parser — no trailing commas, no comments.
+
+Before you output, check your own work against rules 2, 3, 6, and 7 above — these are the \
+most common mistakes.
 """
 
 
