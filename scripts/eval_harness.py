@@ -710,6 +710,23 @@ def _generate_index_locked(verbose: bool) -> None:
         except (json.JSONDecodeError, OSError):
             auto_optimize_state = None
 
+    if auto_optimize_state and auto_optimize_state.get("status") in ("starting", "running"):
+        # A process that dies uncleanly (SSH disconnect, kill -9 — anything
+        # that skips cmd_auto_optimize's `finally` block) never gets to write
+        # a terminal status here, so without this check the landing page
+        # would show "RUNNING" forever even though nothing is actually
+        # running anymore — cross-check against the lock file's PID (see
+        # _acquire_auto_optimize_lock) rather than trusting the last-written
+        # status at face value.
+        lock_pid = None
+        if AUTO_OPTIMIZE_LOCK_PATH.exists():
+            try:
+                lock_pid = json.loads(AUTO_OPTIMIZE_LOCK_PATH.read_text(encoding="utf-8")).get("pid")
+            except (json.JSONDecodeError, OSError):
+                lock_pid = None
+        if not (lock_pid and _pid_is_alive(lock_pid)):
+            auto_optimize_state = {**auto_optimize_state, "status": "stopped_interrupted"}
+
     index_path = RUNS_DIR / "index.html"
     index_path.write_text(
         index_report.render_html(run_summaries, history_rows, auto_optimize_state), encoding="utf-8")

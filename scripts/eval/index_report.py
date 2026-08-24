@@ -266,6 +266,8 @@ STATUS_LABELS = {
     "stopped_no_findings": ("Stopped — nothing left to optimize against", "complete"),
     "stopped_time_budget": ("Stopped — time budget exhausted", "warn"),
     "stopped_error": ("Stopped — error (check the log)", "warn"),
+    "stopped_generation_errors": ("Stopped — baseline had generation errors, nothing usable to learn from", "warn"),
+    "stopped_interrupted": ("Stopped — interrupted (process died without finishing; check the log)", "warn"),
 }
 
 
