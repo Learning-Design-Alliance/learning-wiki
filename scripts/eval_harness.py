@@ -271,11 +271,9 @@ def cmd_spotcheck(args: argparse.Namespace) -> None:
     print(f"\nRe-scored {len(result_files)} cached results in {run_dir.relative_to(WIKI_ROOT)}")
 
 
-def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
-    """Regenerate report.md/summary.csv/report.html from whatever result files
-    currently exist under run_dir. Cheap enough (a few ms for a run this size)
-    to call after every completed pair, not just on demand — that's what makes
-    the HTML dashboard's auto-refresh (see html_report.py) actually live."""
+def compute_rows(run_dir: Path) -> tuple:
+    """Load every cached result under run_dir and compute the per-model summary
+    rows both generate_reports() and `compare` build on. Returns (by_model, rows)."""
     by_model = {}
     for path in sorted(run_dir.glob("*/*.json")):
         record = json.loads(path.read_text(encoding="utf-8"))
@@ -318,6 +316,16 @@ def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
             **{f"judge_{k}_avg_score": v["avg_score"] for k, v in judge_summaries.items()},
             **{f"judge_{k}_fail_count": v["fail_count"] for k, v in judge_summaries.items()},
         })
+
+    return by_model, rows
+
+
+def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
+    """Regenerate report.md/summary.csv/report.html from whatever result files
+    currently exist under run_dir. Cheap enough (a few ms for a run this size)
+    to call after every completed pair, not just on demand — that's what makes
+    the HTML dashboard's auto-refresh (see html_report.py) actually live."""
+    by_model, rows = compute_rows(run_dir)
 
     csv_path = run_dir / "summary.csv"
     if rows:
@@ -373,6 +381,80 @@ def cmd_report(args: argparse.Namespace) -> None:
     generate_reports(run_dir, args.run_id)
 
 
+def _fmt_pair(before, after, decimals=2, pct=False) -> str:
+    if before is None and after is None:
+        return "–"
+    b = "-" if before is None else f"{before * 100:.{decimals}f}%" if pct else f"{before:.{decimals}f}"
+    a = "-" if after is None else f"{after * 100:.{decimals}f}%" if pct else f"{after:.{decimals}f}"
+    if before is None or after is None:
+        return f"{b} → {a}"
+    delta = after - before
+    arrow = "▲" if delta > 0 else ("▼" if delta < 0 else "▬")
+    delta_str = f"{delta * 100:.{decimals}f}pp" if pct else f"{delta:.{decimals}f}"
+    sign = "+" if delta > 0 else ""
+    return f"{b} → {a} ({arrow} {sign}{delta_str})"
+
+
+def cmd_compare(args: argparse.Namespace) -> None:
+    """Diff two runs model-by-model — e.g. the same models/articles run again
+    after a prompt or validator change, to see if it actually moved the
+    numbers instead of just feeling like it should have."""
+    baseline_dir = RUNS_DIR / args.baseline
+    candidate_dir = RUNS_DIR / args.candidate
+    for d in (baseline_dir, candidate_dir):
+        if not d.exists():
+            print(f"[ERROR] No run directory: {d}")
+            sys.exit(1)
+
+    base_by_model, base_rows = compute_rows(baseline_dir)
+    cand_by_model, cand_rows = compute_rows(candidate_dir)
+    base_fail = failure_analysis.analyze(base_by_model)
+    cand_fail = failure_analysis.analyze(cand_by_model)
+
+    base_by_name = {r["model"]: r for r in base_rows}
+    cand_by_name = {r["model"]: r for r in cand_rows}
+    models = sorted(set(base_by_name) & set(cand_by_name))
+    if args.models:
+        models = [m for m in models if m in args.models]
+    if not models:
+        print(f"[ERROR] No model is present in both {args.baseline} and {args.candidate} "
+              f"(or --models filtered everything out).")
+        sys.exit(1)
+
+    keywords = ("fabrication", "omission", "duplication", "inaccuracy")
+    lines = [f"# Compare: {args.baseline} (baseline) vs {args.candidate} (candidate)", "",
+             f"Generated: {date.today().isoformat()}", ""]
+    lines.append("| Model | Opus judge | GPT judge | Validator pass rate | " +
+                 " | ".join(k.capitalize() for k in keywords) + " |")
+    lines.append("|---|---|---|---|" + "---|" * len(keywords))
+
+    for model in models:
+        b, c = base_by_name[model], cand_by_name[model]
+        b_kw = base_fail.get(model, {}).get("judge_keyword_tally", {})
+        c_kw = cand_fail.get(model, {}).get("judge_keyword_tally", {})
+        row = [
+            model,
+            _fmt_pair(b.get("judge_opus_avg_score"), c.get("judge_opus_avg_score")),
+            _fmt_pair(b.get("judge_gpt_avg_score"), c.get("judge_gpt_avg_score")),
+            _fmt_pair(b.get("validator_pass_rate"), c.get("validator_pass_rate"), decimals=0, pct=True),
+        ]
+        for k in keywords:
+            row.append(_fmt_pair(b_kw.get(k, 0), c_kw.get(k, 0), decimals=0))
+        lines.append("| " + " | ".join(row) + " |")
+
+    lines.append("")
+    lines.append(f"Sample sizes: {args.baseline} = " +
+                 ", ".join(f"{m}: {base_by_name[m]['n_articles']}" for m in models) +
+                 f"; {args.candidate} = " +
+                 ", ".join(f"{m}: {cand_by_name[m]['n_articles']}" for m in models))
+    lines.append("Read deltas with that in mind — a fair comparison needs the same article count on both sides.")
+
+    out_path = candidate_dir / f"compare_vs_{args.baseline}.md"
+    out_path.write_text("\n".join(lines), encoding="utf-8")
+    print("\n".join(lines))
+    print(f"\nWrote {out_path.relative_to(WIKI_ROOT)}")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     subparsers = parser.add_subparsers(dest="command", required=True)
@@ -399,8 +481,13 @@ def main() -> None:
     p_report = subparsers.add_parser("report", help="Aggregate a run's cached results into report.md + summary.csv")
     p_report.add_argument("--run-id", required=True)
 
+    p_compare = subparsers.add_parser("compare", help="Diff two runs model-by-model (e.g. before/after a prompt change)")
+    p_compare.add_argument("--baseline", required=True, help="Run id to compare from (the 'before')")
+    p_compare.add_argument("--candidate", required=True, help="Run id to compare to (the 'after')")
+    p_compare.add_argument("--models", nargs="+", default=None, help="Restrict to these models (default: all common to both runs)")
+
     args = parser.parse_args()
-    dispatch = {"run": cmd_run, "spotcheck": cmd_spotcheck, "report": cmd_report}
+    dispatch = {"run": cmd_run, "spotcheck": cmd_spotcheck, "report": cmd_report, "compare": cmd_compare}
     dispatch[args.command](args)
 
 
