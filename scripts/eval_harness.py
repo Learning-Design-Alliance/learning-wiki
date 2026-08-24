@@ -59,7 +59,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
-                          executive_summary, cost_projection, history, prompts, optimizer, model_catalog)
+                          executive_summary, cost_projection, history, prompts, optimizer, model_catalog,
+                          auto_optimize_report)
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 WIKI_ROOT = Path(__file__).parent.parent
@@ -865,6 +866,23 @@ def _render_auto_optimize_summary(round_log: list, baseline_run: str, final_run_
     return "\n".join(lines)
 
 
+def _write_auto_optimize_outputs(round_log: list, baseline_run: str, final_run_id: str) -> tuple:
+    """Writes both the markdown summary and its HTML dashboard companion,
+    called after every round (not just at the end) so a search left running
+    unattended has a visual, up-to-date report to open at any point, not
+    only once the whole thing finishes. Returns (markdown_text, md_path, html_path)."""
+    summary_md = _render_auto_optimize_summary(round_log, baseline_run, final_run_id)
+    summary_path = RUNS_DIR / f"auto-optimize-summary-{baseline_run}.md"
+    summary_path.write_text(summary_md, encoding="utf-8")
+
+    html_path = RUNS_DIR / f"auto-optimize-summary-{baseline_run}.html"
+    html_path.write_text(
+        auto_optimize_report.render_html(round_log, baseline_run, final_run_id, prompts.current_version()),
+        encoding="utf-8",
+    )
+    return summary_md, summary_path, html_path
+
+
 def cmd_auto_optimize(args: argparse.Namespace) -> None:
     """Self-driving, multi-candidate optimization loop — the breadth-first
     counterpart to `optimize`'s single-lineage ratchet. Each round:
@@ -985,16 +1003,16 @@ def cmd_auto_optimize(args: argparse.Namespace) -> None:
 
         round_log.append({"round": round_num, "baseline": current_dir.name, "candidates": scored,
                            "adopted": adopted_version})
+        _write_auto_optimize_outputs(round_log, args.baseline_run, current_run_id)
 
         if adopted_version is None:
             print(f"\nNo candidate cleared the improvement threshold ({args.min_improvement}) this round. Stopping.")
             break
 
-    summary_md = _render_auto_optimize_summary(round_log, args.baseline_run, current_run_id)
-    summary_path = RUNS_DIR / f"auto-optimize-summary-{args.baseline_run}.md"
-    summary_path.write_text(summary_md, encoding="utf-8")
+    summary_md, summary_path, html_path = _write_auto_optimize_outputs(round_log, args.baseline_run, current_run_id)
     print(f"\n{summary_md}")
-    print(f"\nDone. Wrote {summary_path.relative_to(WIKI_ROOT)}. Current prompt version: {prompts.current_version()}.")
+    print(f"\nDone. Wrote {summary_path.relative_to(WIKI_ROOT)} and {html_path.relative_to(WIKI_ROOT)}. "
+          f"Current prompt version: {prompts.current_version()}.")
 
 
 def main() -> None:

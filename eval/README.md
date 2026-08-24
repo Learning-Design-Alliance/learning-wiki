@@ -224,11 +224,13 @@ nothing improves stops the loop, same as `optimize`.
 It's built to be started and left alone: it stops on `--rounds`,
 `--time-budget-minutes` (checked between rounds, not mid-round — a round
 already in flight finishes), or a non-improving round, whichever comes
-first, then writes `eval/runs/auto-optimize-summary-<baseline-run>.md` — a
-round-by-round table of every candidate tried, its lens, its judge-score
-delta, and which one (if any) got adopted — so coming back after an hour
-gets you a concrete recommendation to read, not just scrollback to
-reconstruct.
+first. After **every** round (not just at the end) it (re)writes
+`eval/runs/auto-optimize-summary-<baseline-run>.md` and its visual
+companion, `...html` — a diverging bar per candidate (green = improved,
+red = regressed vs. that round's baseline, &#9733; marks the adopted one),
+clickable through to each candidate's own full dashboard, plus the same
+data as an accessible table — so it's a live view you can open mid-run, not
+just a report available at the very end.
 
 **Running it unattended on the droplet** (see
 [deploy/README.md](../deploy/README.md) for the base setup): edit
