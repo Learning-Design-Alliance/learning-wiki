@@ -629,8 +629,17 @@ def generate_index(verbose: bool = True) -> None:
     run_summaries.sort(key=lambda r: r["last_modified"], reverse=True)
     history_rows = history.collect(RUNS_DIR)
 
+    auto_optimize_state = None
+    state_path = RUNS_DIR / ".auto_optimize_state.json"
+    if state_path.exists():
+        try:
+            auto_optimize_state = json.loads(state_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            auto_optimize_state = None
+
     index_path = RUNS_DIR / "index.html"
-    index_path.write_text(index_report.render_html(run_summaries, history_rows), encoding="utf-8")
+    index_path.write_text(
+        index_report.render_html(run_summaries, history_rows, auto_optimize_state), encoding="utf-8")
     if verbose:
         print(f"Wrote {index_path.relative_to(WIKI_ROOT)} ({len(run_summaries)} run(s))")
 
@@ -955,6 +964,24 @@ def _render_auto_optimize_summary(round_log: list, baseline_run: str, final_run_
     return "\n".join(lines)
 
 
+def _write_auto_optimize_state(baseline_run: str, current_run_id: str, round_num: int, rounds_total: int,
+                                status: str) -> None:
+    """Round-level progress, separate from any one candidate's own
+    (model, article) progress bar — answers "how many rounds are left in
+    this whole search," not "how far along is this one candidate." Read by
+    the landing page (index_report.py) and by the web launcher to resolve
+    where a "launch more rounds" click should continue from."""
+    (RUNS_DIR / ".auto_optimize_state.json").write_text(json.dumps({
+        "baseline_run": baseline_run,
+        "current_run_id": current_run_id,
+        "prompt_version": prompts.current_version(),
+        "round": round_num,
+        "rounds_total": rounds_total,
+        "status": status,
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+    }, indent=2), encoding="utf-8")
+
+
 def _write_auto_optimize_outputs(round_log: list, baseline_run: str, final_run_id: str) -> tuple:
     """Writes both the markdown summary and its HTML dashboard companion,
     called after every round (not just at the end) so a search left running
@@ -1002,19 +1029,24 @@ def cmd_auto_optimize(args: argparse.Namespace) -> None:
     deadline = time.monotonic() + args.time_budget_minutes * 60
     current_run_id = args.baseline_run
     round_log = []
+    _write_auto_optimize_state(args.baseline_run, current_run_id, 0, args.rounds, "starting")
 
     for round_num in range(1, args.rounds + 1):
         remaining_min = (deadline - time.monotonic()) / 60
         if remaining_min <= 0:
             print(f"\nTime budget ({args.time_budget_minutes} min) exhausted before round {round_num}. Stopping.")
+            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
+                                        "stopped_time_budget")
             break
         print(f"\n=== auto-optimize round {round_num}/{args.rounds} — baseline: {current_run_id} "
               f"(~{remaining_min:.1f} min left in budget) ===")
+        _write_auto_optimize_state(args.baseline_run, current_run_id, round_num, args.rounds, "running")
 
         current_dir = RUNS_DIR / current_run_id
         by_model, _ = compute_rows(current_dir)
         if not by_model:
             print(f"[ERROR] {current_run_id} has no completed results to learn from.")
+            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds, "stopped_error")
             sys.exit(1)
 
         models = args.models or sorted(by_model.keys())
@@ -1022,6 +1054,7 @@ def cmd_auto_optimize(args: argparse.Namespace) -> None:
         articles = load_manifest(article_ids)
         if not articles:
             print("[ERROR] Could not resolve manifest articles from the baseline run's article ids.")
+            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds, "stopped_error")
             sys.exit(1)
 
         sample_record = next(iter(by_model.values()))[0]
@@ -1034,6 +1067,8 @@ def cmd_auto_optimize(args: argparse.Namespace) -> None:
         if not has_findings:
             print(f"No validator issues or judge complaints found in {current_run_id} — "
                   f"nothing left to optimize against. Stopping.")
+            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
+                                        "stopped_no_findings")
             break
 
         print(f"Proposing {args.candidates_per_round} diverse candidate revisions of "
@@ -1042,6 +1077,8 @@ def cmd_auto_optimize(args: argparse.Namespace) -> None:
                                                  n=args.candidates_per_round)
         if not proposals:
             print("[ERROR] Every candidate proposal failed this round. Stopping.")
+            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
+                                        "stopped_error")
             break
 
         candidates = []
@@ -1096,7 +1133,13 @@ def cmd_auto_optimize(args: argparse.Namespace) -> None:
 
         if adopted_version is None:
             print(f"\nNo candidate cleared the improvement threshold ({args.min_improvement}) this round. Stopping.")
+            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num, args.rounds,
+                                        "stopped_no_improvement")
             break
+    else:
+        # The for loop ran to completion (no break) — every round up to
+        # --rounds improved and got adopted.
+        _write_auto_optimize_state(args.baseline_run, current_run_id, args.rounds, args.rounds, "completed")
 
     summary_md, summary_path, html_path = _write_auto_optimize_outputs(round_log, args.baseline_run, current_run_id)
     print(f"\n{summary_md}")

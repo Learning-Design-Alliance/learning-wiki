@@ -258,7 +258,57 @@ def _legend(colors: dict) -> str:
     return f'<div class="legend">{items}</div>'
 
 
-def render_html(run_summaries: list, history_rows: list) -> str:
+STATUS_LABELS = {
+    "starting": ("Starting…", "progress"),
+    "running": ("Running", "progress"),
+    "completed": ("Completed — all rounds improved", "complete"),
+    "stopped_no_improvement": ("Stopped — no candidate improved further", "complete"),
+    "stopped_no_findings": ("Stopped — nothing left to optimize against", "complete"),
+    "stopped_time_budget": ("Stopped — time budget exhausted", "warn"),
+    "stopped_error": ("Stopped — error (check the log)", "warn"),
+}
+
+
+def _auto_optimize_status_html(state: dict) -> str:
+    """The answer to "how many rounds are left in this experiment" — a
+    round-level progress view, distinct from any one candidate's own
+    (model, article) progress bar shown in the run tables below."""
+    if not state:
+        return ""
+    round_num = state.get("round", 0)
+    rounds_total = state.get("rounds_total", 0)
+    label, cls = STATUS_LABELS.get(state.get("status"), (state.get("status", "unknown"), "progress"))
+    remaining = max(0, rounds_total - round_num) if state.get("status") == "running" else 0
+    remaining_str = f" &middot; {remaining} round(s) remaining" if remaining else ""
+    pct = round(100 * round_num / rounds_total) if rounds_total else 0
+    return f"""
+    <div class="card auto-status-card">
+      <div class="auto-status-row">
+        <span class="badge-status badge-status-{cls}">{_esc(label)}</span>
+        <span class="auto-status-text">Round {round_num}/{rounds_total}{remaining_str} &middot;
+        current run <a href="./{_esc(state.get('current_run_id', ''))}/report.html">{_esc(state.get('current_run_id', '–'))}</a>
+        &middot; prompt version <code>{_esc(state.get('prompt_version', '–'))}</code></span>
+      </div>
+      <div class="bar-track auto-status-track"><div class="bar-fill" style="width:{max(2, pct)}%; background:var(--series-1);"></div></div>
+    </div>"""
+
+
+def _launch_form_html() -> str:
+    return """
+    <div class="card launch-card">
+      <form method="POST" action="/launch-auto-optimize" class="launch-form">
+        <label for="rounds">Launch</label>
+        <input type="number" id="rounds" name="rounds" value="10" min="1" max="20">
+        <label for="rounds">more round(s) of auto-optimize</label>
+        <button type="submit">Launch</button>
+      </form>
+      <p class="section-note">Continues from the current best result (or the baseline configured in
+      deploy/auto-optimize-config.env if nothing has run yet). Runs in the background — reload this
+      page or check the status banner above once it starts.</p>
+    </div>"""
+
+
+def render_html(run_summaries: list, history_rows: list, auto_optimize_state: dict = None) -> str:
     models = []
     for r in history_rows:
         if r["model"] not in models:
@@ -360,12 +410,26 @@ def render_html(run_summaries: list, history_rows: list) -> str:
   .swatch {{ display: inline-block; width: 10px; height: 10px; border-radius: 3px; }}
   .empty-note {{ color: var(--text-muted); font-size: 13px; }}
   .footer-note {{ margin-top: 28px; color: var(--text-muted); font-size: 12px; }}
+  .badge-status-warn {{ background: var(--status-critical); color: #fff; }}
+  .auto-status-card {{ margin-bottom: 20px; }}
+  .auto-status-row {{ display: flex; align-items: center; gap: 12px; margin-bottom: 10px; flex-wrap: wrap; }}
+  .auto-status-text {{ font-size: 13px; color: var(--text-secondary); }}
+  .auto-status-track {{ height: 8px; }}
+  .launch-card {{ margin-bottom: 20px; }}
+  .launch-form {{ display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 13px; }}
+  .launch-form label {{ color: var(--text-secondary); }}
+  .launch-form input[type="number"] {{ width: 64px; padding: 6px 8px; border-radius: 6px; border: 1px solid var(--border); background: var(--page); color: var(--text-primary); font: inherit; }}
+  .launch-form button {{ font: inherit; font-weight: 600; padding: 7px 16px; border-radius: 6px; border: none; background: var(--series-1, #2a78d6); color: #fff; cursor: pointer; }}
+  .launch-form button:hover {{ opacity: 0.9; }}
 </style>
 </head>
 <body>
 <div class="viz-root">
   <h1>Eval harness — all runs</h1>
   <div class="meta">{len(run_summaries)} run(s) &middot; auto-refreshes every {AUTO_REFRESH_MS // 1000}s</div>
+
+  {_auto_optimize_status_html(auto_optimize_state or {})}
+  {_launch_form_html()}
 
   <h2>Best prompt version per model</h2>
   <p class="section-note">Priority order, not a weighted blend: validator pass rate and completeness

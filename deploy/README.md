@@ -159,6 +159,25 @@ Read the final result any time (during or after the run) at
 candidates' dashboards the same way as any other run through
 `live_view.sh`.
 
+**Or skip the SSH round-trip entirely** — the landing page
+(`http://localhost:8080/`) has a **"Launch N more rounds"** button that
+starts a search directly from the browser. It continues from wherever the
+last search left off (tracked in `eval/runs/.auto_optimize_state.json`),
+falling back to whatever `--baseline-run` is configured in
+`auto-optimize-config.env` if nothing has run yet — so the config file is
+still where you set the starting point and tune candidates/concurrency/
+judges, but you don't need to re-SSH in just to launch another batch of
+rounds once it's running. This only works because `eval-harness-web` runs
+a small custom server (`deploy/dashboard_server.py`) instead of Python's
+plain `http.server` — **if this droplet was provisioned before this
+feature existed**, update it once:
+```bash
+ssh root@<droplet-ip>
+cd /opt/learning-wiki && sudo -u evalrunner git pull
+sudo cp deploy/eval-harness-web.service /etc/systemd/system/
+sudo systemctl daemon-reload && sudo systemctl restart eval-harness-web
+```
+
 ## 7. Tear down when you're done
 
 The droplet has no reason to exist once the batch is done and synced —

@@ -129,6 +129,22 @@ regenerates (same live-while-running guarantee), or on demand:
 python3 scripts/eval_harness.py index
 ```
 
+Priority order matters here, not a weighted blend: the **"Best prompt
+version per model"** leaderboard and **"Full trajectory by model"** tables
+rank every result by validator pass rate first, completeness second — both
+need to reach 100% — and only then by judge score (as close to 5/5 as
+possible); cost and latency are shown muted, for context, never as part of
+the ranking. This is a run's own numbers per model, never a cross-model
+average — blending several unrelated models into one mean answers "did the
+batch move," not "did this specific model actually get better."
+
+On a droplet, the same page also has a **"Launch N more rounds"** button
+(see [deploy/README.md](../deploy/README.md)) — the whole point of
+`eval-harness-web.service` being a small custom server (`dashboard_server.py`)
+rather than a plain static file server. It continues from wherever the
+last `auto-optimize` search left off, so you don't need to SSH in and
+recall a run-id every time you want to keep going.
+
 A **model queue** panel sits above the tabs on every load — one row per
 configured model showing done/error/pending counts against the total article
 count, and a Done / Running / Queued badge (models run to completion one at a

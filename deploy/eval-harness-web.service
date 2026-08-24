@@ -5,10 +5,12 @@ After=network.target
 [Service]
 Type=simple
 User=evalrunner
-WorkingDirectory=/opt/learning-wiki/eval/runs
+WorkingDirectory=/opt/learning-wiki
 # Bound to 127.0.0.1 only — never reachable except through an SSH tunnel
-# (see deploy/live_view.sh). Stdlib-only, no venv needed.
-ExecStart=/usr/bin/python3 -m http.server 8080 --bind 127.0.0.1
+# (see deploy/live_view.sh). Stdlib-only, no venv needed to run this
+# script itself — it only shells out to venv/bin/python for the actual
+# auto-optimize launch.
+ExecStart=/usr/bin/python3 /opt/learning-wiki/deploy/dashboard_server.py
 Restart=on-failure
 RestartSec=10
 
