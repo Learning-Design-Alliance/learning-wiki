@@ -84,10 +84,26 @@ def generate(
             continue
         latency = time.monotonic() - start
 
-        if resp.status_code == 429 or resp.status_code >= 500:
+        if resp.status_code in (402, 429) or resp.status_code >= 500:
+            # 402 is OpenRouter's status for in_flight_budget_exhausted — a
+            # transient "too many concurrent requests on this account right
+            # now" condition (their own error metadata says to retry once
+            # in-flight requests settle), not a real failure like a bad
+            # model slug or an expired key. It's easy to trip even from one
+            # well-behaved search's own internal concurrency (candidates x
+            # per-candidate concurrency can mean dozens of parallel calls),
+            # so it must be retried like 429/5xx rather than recorded as a
+            # permanent generation error — one untreated 402 is now enough
+            # to disqualify an entire run as a future baseline (see
+            # eval_harness.py's generation-error gates).
             last_error = GenerationError(f"HTTP {resp.status_code}: {resp.text[:300]}")
             if attempt < MAX_RETRIES:
-                time.sleep(delay)
+                retry_after = resp.headers.get("Retry-After")
+                try:
+                    sleep_s = min(float(retry_after), 120) if retry_after else delay
+                except ValueError:
+                    sleep_s = delay
+                time.sleep(sleep_s)
                 delay *= 2
                 continue
             raise last_error
