@@ -45,6 +45,9 @@ if [ ! -f "$DEPLOY_KEY" ]; then
 fi
 
 echo "== 4. Clone or update repo =="
+mkdir -p "$APP_DIR"
+chown "$APP_USER:$APP_USER" "$APP_DIR"
+
 export GIT_SSH_COMMAND="ssh -i $DEPLOY_KEY -o IdentitiesOnly=yes"
 if [ ! -d "$APP_DIR/.git" ]; then
   sudo -u "$APP_USER" env GIT_SSH_COMMAND="$GIT_SSH_COMMAND" git clone --branch "$BRANCH" "$REPO_URL" "$APP_DIR"
