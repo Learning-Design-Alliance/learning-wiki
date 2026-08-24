@@ -70,8 +70,8 @@ def _format_failure_data(failure_summary: dict) -> str:
     return "\n".join(sections)
 
 
-def build_user_prompt(current_prompt: str, failure_summary: dict) -> str:
-    return f"""## Current system prompt
+def build_user_prompt(current_prompt: str, failure_summary: dict, extra_instruction: str = None) -> str:
+    base = f"""## Current system prompt
 
 {current_prompt}
 
@@ -80,14 +80,41 @@ def build_user_prompt(current_prompt: str, failure_summary: dict) -> str:
 {_format_failure_data(failure_summary)}
 
 Produce a revised system prompt addressing these specific patterns, per the rules in your instructions."""
+    if extra_instruction:
+        base += f"\n\n## This round's focus\n{extra_instruction}"
+    return base
 
 
-def propose_revision(current_prompt: str, failure_summary: dict, model: str = "claude-opus-5") -> dict:
+# Distinct angles a round of auto-optimize proposes in parallel, so K candidate
+# revisions are genuinely different fixes rather than K near-identical
+# rephrasings of the same one. Keys double as the label shown in changelogs,
+# run ids, and the round summary. propose_revisions() cycles through these if
+# asked for more candidates than there are lenses.
+LENSES = {
+    "fabrication": "Focus this revision specifically on eliminating fabricated citations, DOIs, or "
+                   "findings not present in the source article. Don't add unrelated rules elsewhere.",
+    "omission": "Focus this revision specifically on the model under-extracting — giving up on an "
+                "article that does have citable content — rather than on any other failure category.",
+    "duplication": "Focus this revision specifically on eliminating duplicate or redundant "
+                   "contributions describing the same underlying finding.",
+    "schema": "Focus this revision specifically on structural/schema-format failures (id formats, "
+              "evidence_ref links, required fields) — tighten format instructions and add a concrete "
+              "self-check step, matching this prompt's existing id-format/DOI rule style.",
+    "consolidate": "Focus this revision on simplifying and consolidating the prompt itself — merge or "
+                   "cut redundant/conflicting instructions that may be hurting a smaller model's "
+                   "instruction-following, without dropping coverage of any failure category shown.",
+    "general": "Propose your best overall revision addressing the failure data holistically, using "
+               "your own judgment about which categories matter most this round.",
+}
+
+
+def propose_revision(current_prompt: str, failure_summary: dict, model: str = "claude-opus-5",
+                      extra_instruction: str = None) -> dict:
     """Returns {revised_prompt, changes_summary, input_tokens, output_tokens, latency_s}."""
     import anthropic
 
     client = anthropic.Anthropic()
-    user_prompt = build_user_prompt(current_prompt, failure_summary)
+    user_prompt = build_user_prompt(current_prompt, failure_summary, extra_instruction=extra_instruction)
 
     start = time.monotonic()
     response = client.messages.create(
@@ -120,3 +147,39 @@ def propose_revision(current_prompt: str, failure_summary: dict, model: str = "c
         "output_tokens": response.usage.output_tokens,
         "latency_s": round(latency, 2),
     }
+
+
+def propose_revisions(current_prompt: str, failure_summary: dict, n: int = 6,
+                       model: str = "claude-opus-5") -> list:
+    """One round of auto-optimize's "breadth" step: ask for `n` diverse
+    candidate revisions in parallel (each Opus call is independent — no
+    shared state — so this is a plain thread pool, not anything needing the
+    eval harness's own generation/report-writing locks). Cycles through
+    LENSES if n exceeds the number of distinct lenses.
+
+    Returns a list of successful proposals (each propose_revision()'s dict
+    plus a "lens" key) — shorter than `n` if some lens calls failed; a
+    lens's failure prints a warning and is dropped rather than aborting the
+    whole round, since a round with 4/6 successful candidates is still a
+    useful round, not a reason to throw away the other 4."""
+    import concurrent.futures
+
+    lens_names = list(LENSES.keys())
+    chosen = [lens_names[i % len(lens_names)] for i in range(n)]
+
+    def _one(lens_name):
+        return propose_revision(current_prompt, failure_summary, model=model,
+                                 extra_instruction=LENSES[lens_name])
+
+    results = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=min(n, 6)) as executor:
+        future_to_lens = {executor.submit(_one, lens): lens for lens in chosen}
+        for future in concurrent.futures.as_completed(future_to_lens):
+            lens = future_to_lens[future]
+            try:
+                result = future.result()
+                result["lens"] = lens
+                results.append(result)
+            except Exception as e:
+                print(f"  [WARN] lens '{lens}' proposal failed: {e}")
+    return results

@@ -190,7 +190,70 @@ the new default if `compare`'s average judge-score delta clears
 `--min-improvement` (default: any improvement at all). The loop stops the
 moment a candidate doesn't improve, rather than continuing to spend on a
 losing line — this costs real OpenRouter + Opus + judge money per iteration,
-so `--iterations` is a hard cap, not a target to always hit.
+so `--iterations` is a hard cap, not a target to always hit. `optimize` is a
+single lineage: one candidate at a time, tried in sequence.
+
+## Running pairs in parallel
+
+Every `run`/`optimize`/`auto-optimize` invocation takes `--concurrency N`
+(default: 1, i.e. the original sequential behavior). Above 1, `(model,
+article)` pairs are dispatched to a thread pool instead of run one at a
+time — safe because each pair writes its own result file and the
+OpenRouter/judge calls carry no shared state. Pick a concurrency that's
+comfortable for your OpenRouter account's rate limits; there's no
+provider-aware throttling beyond the existing 429 retry/backoff in
+`openrouter_client.py`.
+
+## Self-driving multi-candidate search (`auto-optimize`)
+
+```bash
+python3 scripts/eval_harness.py auto-optimize --baseline-run <run-id> \
+    --rounds 3 --candidates-per-round 6 --concurrency 6 --time-budget-minutes 60
+```
+
+Where `optimize` tries one candidate at a time, `auto-optimize` is the
+breadth-first version: each round proposes several *diverse* candidate
+revisions in parallel — one per failure "lens" in `scripts/eval/
+optimizer.py`'s `LENSES` (fabrication, omission, duplication, schema,
+consolidate, general) — rather than one linear rephrasing, runs every
+candidate's full batch concurrently (both across candidates and across
+`(model, article)` pairs within each), and adopts the single best one that
+clears `--min-improvement` as the next round's baseline. A round where
+nothing improves stops the loop, same as `optimize`.
+
+It's built to be started and left alone: it stops on `--rounds`,
+`--time-budget-minutes` (checked between rounds, not mid-round — a round
+already in flight finishes), or a non-improving round, whichever comes
+first, then writes `eval/runs/auto-optimize-summary-<baseline-run>.md` — a
+round-by-round table of every candidate tried, its lens, its judge-score
+delta, and which one (if any) got adopted — so coming back after an hour
+gets you a concrete recommendation to read, not just scrollback to
+reconstruct.
+
+**Running it unattended on the droplet** (see
+[deploy/README.md](../deploy/README.md) for the base setup): edit
+`deploy/auto-optimize-config.env` (git-tracked, same pattern as
+`run-config.env`) to set `--baseline-run` and the search parameters, commit,
+`git pull` on the droplet, then:
+
+```bash
+sudo systemctl start eval-auto-optimize
+journalctl -u eval-auto-optimize -f          # watch it live
+```
+
+Unlike `eval-harness.service`, this unit is **not** enabled at boot and has
+**no** `Restart=` — it's a one-off bounded search you trigger by hand, not
+an always-on service; a crash or completion doesn't relaunch it and keep
+spending API budget unattended. Each candidate gets its own run directory
+under `eval/runs/`, browsable the same way as any other run (via
+`live_view.sh` or the plain directory listing at `http://localhost:8080/`
+through the SSH tunnel) while the search is still in progress.
+
+This spends real money faster than `optimize` — `--candidates-per-round 6`
+means 6x the generation + judge cost of a single round, on top of 6 parallel
+Opus calls for the proposals themselves. Start with a smaller
+`--candidates-per-round` and shorter `--time-budget-minutes` the first time
+to see real cost/round before committing to a full hour.
 
 ## Repeating the test
 

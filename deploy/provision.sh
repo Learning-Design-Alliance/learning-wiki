@@ -82,9 +82,14 @@ fi
 echo "== 7. systemd units =="
 cp "$APP_DIR/deploy/eval-harness.service" /etc/systemd/system/eval-harness.service
 cp "$APP_DIR/deploy/eval-harness-web.service" /etc/systemd/system/eval-harness-web.service
-chmod +x "$APP_DIR/deploy/run.sh"
+cp "$APP_DIR/deploy/eval-auto-optimize.service" /etc/systemd/system/eval-auto-optimize.service
+chmod +x "$APP_DIR/deploy/run.sh" "$APP_DIR/deploy/auto_optimize.sh"
 systemctl daemon-reload
 systemctl enable --now eval-harness-web
+# eval-auto-optimize is installed but deliberately NOT enabled/started here —
+# it's a one-off bounded search you trigger by hand once a baseline run
+# exists (`sudo systemctl start eval-auto-optimize`), not an always-on
+# service like eval-harness-web.
 
 cat <<EOF
 

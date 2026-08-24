@@ -1,0 +1,20 @@
+[Unit]
+Description=Learning Wiki eval harness — self-driving prompt auto-optimize (one-off, not auto-restarted)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=evalrunner
+WorkingDirectory=/opt/learning-wiki
+EnvironmentFile=/etc/eval-harness.env
+ExecStart=/opt/learning-wiki/deploy/auto_optimize.sh
+# Deliberately no Restart= — this is a bounded search you trigger by hand
+# with `systemctl start eval-auto-optimize`, not an always-on service like
+# eval-harness.service. A crashed or completed run should not silently
+# relaunch itself and keep spending API budget unattended.
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

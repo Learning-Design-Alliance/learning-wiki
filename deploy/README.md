@@ -132,7 +132,34 @@ python3 scripts/eval_harness.py report --run-id do-batch-1
 open eval/runs/do-batch-1/report.html
 ```
 
-## 6. Tear down when you're done
+## 6. Self-driving prompt search (optional)
+
+Once you have a baseline run you're not happy with, `auto-optimize` (see
+[eval/README.md](../eval/README.md)) can search for a better prompt
+unattended — several diverse candidate revisions per round, run in
+parallel, best one kept — and write a final recommendation summary for you
+to read whenever you check back:
+
+```bash
+nano deploy/auto-optimize-config.env    # set --baseline-run to a real run-id, tune search params
+git add deploy/auto-optimize-config.env && git commit -m "..." && git push
+```
+```bash
+ssh root@<droplet-ip>
+cd /opt/learning-wiki && sudo -u evalrunner git pull
+sudo systemctl start eval-auto-optimize
+journalctl -u eval-auto-optimize -f
+```
+
+Unlike `eval-harness`, this unit is **not** `enable`d at boot and has **no**
+`Restart=` — it's a bounded, one-off search you trigger by hand each time,
+not an always-on service; nothing relaunches it after it finishes or fails.
+Read the final result any time (during or after the run) at
+`eval/runs/auto-optimize-summary-<baseline-run>.md`, or browse individual
+candidates' dashboards the same way as any other run through
+`live_view.sh`.
+
+## 7. Tear down when you're done
 
 The droplet has no reason to exist once the batch is done and synced —
 stop paying for it:
@@ -148,8 +175,10 @@ doctl compute droplet delete eval-harness
   costs pennies. The real cost of a multi-day run is the OpenRouter/judge API
   spend, which is identical whether it runs on the droplet or your laptop.
 - **Secrets never touch the repo:** `/etc/eval-harness.env` lives only on the
-  droplet, mode `600`, readable by root; `deploy/eval-harness.env.example` in
-  git is a template with empty values.
+  droplet, mode `640` owned by `root:evalrunner` (group-readable by the
+  service user so ad-hoc commands like `status`/`optimize` can load it too,
+  still unreadable by anyone else); `deploy/eval-harness.env.example` in git
+  is a template with empty values.
 - **If it crashes:** `Restart=on-failure` in the systemd unit retries after
   60s. Cached results make retries free — check `journalctl -u eval-harness`
   for the actual error if it keeps failing (e.g. a bad model slug, an

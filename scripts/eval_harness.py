@@ -45,11 +45,13 @@ Options (run):
 """
 
 import argparse
+import concurrent.futures
 import csv
 import json
 import os
 import re
 import sys
+import threading
 import time
 from dataclasses import asdict
 from datetime import date, datetime, timezone
@@ -252,10 +254,18 @@ def run_judges(article_text: str, parsed: dict, judges: list, gpt_judge_model: s
 
 def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: str,
               gpt_judge_model: str = "gpt-5.6", max_tokens: int = 8000, overwrite: bool = False,
-              refresh_cache: bool = False, prompt_version: str = None) -> Path:
-    """The actual (model x article) loop, shared by `run` and `optimize` — the
-    latter calls this directly (not through argparse) to run each iteration's
-    candidate prompt against the same articles as the baseline."""
+              refresh_cache: bool = False, prompt_version: str = None, concurrency: int = 1) -> Path:
+    """The actual (model x article) loop, shared by `run`, `optimize`, and
+    `auto-optimize` — the latter two call this directly (not through
+    argparse) to run each candidate prompt against the same articles as the
+    baseline.
+
+    concurrency=1 (the default) preserves the original one-pair-at-a-time
+    behavior exactly, including print ordering. concurrency>1 dispatches
+    pairs to a thread pool — safe because each pair writes its own result
+    file (out_path is unique per model/article) and openrouter_client/judge
+    calls carry no shared mutable state; only the shared progress counter,
+    console output, and generate_reports()'s file writes need a lock."""
     run_dir = RUNS_DIR / run_id
     run_dir.mkdir(parents=True, exist_ok=True)
     print(f"Run ID: {run_id}  (results under {run_dir.relative_to(WIKI_ROOT)})")
@@ -281,38 +291,57 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
         json.dumps({"models": merged_models, "total_articles": len(articles)}, indent=2), encoding="utf-8")
 
     existing_slugs = get_existing_slugs()
-    total = len(articles) * len(models)
-    done = 0
-    for model in models:
-        for entry in articles:
-            done += 1
-            out_path = result_path(run_dir, model, entry["id"])
-            if out_path.exists() and not overwrite:
-                print(f"[{done}/{total}] SKIP (cached) {model} / {entry['id']}")
-                continue
+    pairs = [(model, entry) for model in models for entry in articles]
+    total = len(pairs)
+    state = {"done": 0}
+    print_lock = threading.Lock()
+    report_lock = threading.Lock()
 
-            print(f"[{done}/{total}] {model} / {entry['id']} — {entry['title'][:60]}")
-            try:
-                record = run_one(model, entry, existing_slugs, api_key, judges, gpt_judge_model,
-                                  max_tokens, refresh_cache=refresh_cache, prompt_version=prompt_version)
-            except fetch_article.FetchError as e:
-                print(f"  [FETCH ERROR] {e}")
-                continue
+    def process_pair(model: str, entry: dict) -> None:
+        out_path = result_path(run_dir, model, entry["id"])
+        if out_path.exists() and not overwrite:
+            with print_lock:
+                state["done"] += 1
+                print(f"[{state['done']}/{total}] SKIP (cached) {model} / {entry['id']}")
+            return
 
-            out_path.parent.mkdir(parents=True, exist_ok=True)
-            out_path.write_text(json.dumps(record, indent=2), encoding="utf-8")
+        with print_lock:
+            print(f"[{model} / {entry['id']}] {entry['title'][:60]}")
+        try:
+            record = run_one(model, entry, existing_slugs, api_key, judges, gpt_judge_model,
+                              max_tokens, refresh_cache=refresh_cache, prompt_version=prompt_version)
+        except fetch_article.FetchError as e:
+            with print_lock:
+                state["done"] += 1
+                print(f"[{state['done']}/{total}] [FETCH ERROR] {model}/{entry['id']}: {e}")
+            return
 
-            gen = record.get("generation") or {}
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(json.dumps(record, indent=2), encoding="utf-8")
+
+        gen = record.get("generation") or {}
+        with print_lock:
+            state["done"] += 1
             if "error" in gen:
-                print(f"  [GEN ERROR] {gen['error']}")
+                print(f"[{state['done']}/{total}] [GEN ERROR] {model}/{entry['id']}: {gen['error']}")
             else:
                 val = record["validation"]
-                print(f"  latency={gen.get('latency_s')}s cost=${gen.get('cost_usd')} "
-                      f"contributions={val['n_contributions']} completeness={val['completeness_score']} "
-                      f"passed={val['passed']}")
+                print(f"[{state['done']}/{total}] {model}/{entry['id']} latency={gen.get('latency_s')}s "
+                      f"cost=${gen.get('cost_usd')} contributions={val['n_contributions']} "
+                      f"completeness={val['completeness_score']} passed={val['passed']}")
 
+        with report_lock:
             generate_reports(run_dir, run_id, verbose=False)
+
+    if concurrency <= 1:
+        for model, entry in pairs:
+            process_pair(model, entry)
             time.sleep(0.5)
+    else:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=concurrency) as executor:
+            futures = [executor.submit(process_pair, model, entry) for model, entry in pairs]
+            for future in concurrent.futures.as_completed(futures):
+                future.result()  # re-raise anything unexpected rather than swallow it silently
 
     return run_dir
 
@@ -331,7 +360,7 @@ def cmd_run(args: argparse.Namespace) -> None:
     run_batch(args.models, articles, args.judges, run_id, api_key,
               gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
               overwrite=args.overwrite, refresh_cache=args.refresh_cache,
-              prompt_version=args.prompt_version)
+              prompt_version=args.prompt_version, concurrency=args.concurrency)
 
     print(f"\nDone. Run report with: python3 scripts/eval_harness.py report --run-id {run_id}")
 
@@ -806,6 +835,168 @@ def cmd_optimize(args: argparse.Namespace) -> None:
           f"Run `python3 scripts/eval_harness.py history` to see the trend across every iteration.")
 
 
+def _render_auto_optimize_summary(round_log: list, baseline_run: str, final_run_id: str) -> str:
+    lines = [
+        "# Auto-optimize summary", "",
+        f"Started from: `{baseline_run}`", f"Final run: `{final_run_id}`",
+        f"Current prompt version: `{prompts.current_version()}`", "",
+    ]
+    if not round_log:
+        lines.append("No round completed — stopped before any candidate finished (see console output for why).")
+        return "\n".join(lines)
+
+    for r in round_log:
+        lines.append(f"## Round {r['round']} (baseline: `{r['baseline']}`)")
+        lines.append("")
+        lines.append("| Candidate | Lens | Avg judge-score delta | Adopted? |")
+        lines.append("|---|---|---|---|")
+        for c in r["candidates"]:
+            delta_str = f"{c['delta']:+.2f}" if c["delta"] is not None else "unknown"
+            adopted = "**Yes**" if c["version"] == r["adopted"] else ""
+            lines.append(f"| `{c['version']}` | {c['lens']} | {delta_str} | {adopted} |")
+        if r["adopted"] is None:
+            lines.append("")
+            lines.append("_No candidate cleared the improvement threshold this round — loop stopped here._")
+        lines.append("")
+
+    lines.append(f"**Recommendation:** run `python3 scripts/eval_harness.py history` for the full "
+                  f"cross-run trend, and `python3 scripts/eval_harness.py report --run-id {final_run_id}` "
+                  f"for the dashboard behind the final numbers above.")
+    return "\n".join(lines)
+
+
+def cmd_auto_optimize(args: argparse.Namespace) -> None:
+    """Self-driving, multi-candidate optimization loop — the breadth-first
+    counterpart to `optimize`'s single-lineage ratchet. Each round:
+      1. Proposes --candidates-per-round diverse prompt revisions in
+         parallel, each approached through a different failure "lens"
+         (see optimizer.LENSES) so a round explores genuinely different
+         fixes, not near-identical rephrasings of one idea.
+      2. Runs every candidate's full batch concurrently — both across
+         candidates and across (model, article) pairs within each,
+         bounded by --concurrency — against the same models/articles as
+         the round's baseline.
+      3. Compares every candidate against the round's baseline and adopts
+         the single best one that clears --min-improvement as next
+         round's baseline; a round where nothing clears it stops the loop.
+    Stops on --rounds, --time-budget-minutes, or a non-improving round —
+    whichever comes first — then writes a final recommendation summary
+    (round-by-round table + the resulting current prompt version) so an
+    unattended run started before walking away has something concrete to
+    read on return, not just scrollback."""
+    api_key = os.environ.get("OPENROUTER_API_KEY")
+    if not api_key:
+        print("[ERROR] OPENROUTER_API_KEY environment variable not set.")
+        sys.exit(1)
+    if not (RUNS_DIR / args.baseline_run).exists():
+        print(f"[ERROR] No run directory: {RUNS_DIR / args.baseline_run}")
+        sys.exit(1)
+
+    deadline = time.monotonic() + args.time_budget_minutes * 60
+    current_run_id = args.baseline_run
+    round_log = []
+
+    for round_num in range(1, args.rounds + 1):
+        remaining_min = (deadline - time.monotonic()) / 60
+        if remaining_min <= 0:
+            print(f"\nTime budget ({args.time_budget_minutes} min) exhausted before round {round_num}. Stopping.")
+            break
+        print(f"\n=== auto-optimize round {round_num}/{args.rounds} — baseline: {current_run_id} "
+              f"(~{remaining_min:.1f} min left in budget) ===")
+
+        current_dir = RUNS_DIR / current_run_id
+        by_model, _ = compute_rows(current_dir)
+        if not by_model:
+            print(f"[ERROR] {current_run_id} has no completed results to learn from.")
+            sys.exit(1)
+
+        models = args.models or sorted(by_model.keys())
+        article_ids = sorted({rec["article_id"] for records in by_model.values() for rec in records})
+        articles = load_manifest(article_ids)
+        if not articles:
+            print("[ERROR] Could not resolve manifest articles from the baseline run's article ids.")
+            sys.exit(1)
+
+        sample_record = next(iter(by_model.values()))[0]
+        current_prompt_version = sample_record.get("prompt_version") or prompts.current_version()
+        current_prompt_text = prompts.load_prompt(current_prompt_version)
+
+        failure_summary = failure_analysis.analyze(by_model)
+        has_findings = any(d.get("validator_top_issues") or d.get("judge_keyword_tally")
+                            for d in failure_summary.values())
+        if not has_findings:
+            print(f"No validator issues or judge complaints found in {current_run_id} — "
+                  f"nothing left to optimize against. Stopping.")
+            break
+
+        print(f"Proposing {args.candidates_per_round} diverse candidate revisions of "
+              f"{current_prompt_version} (parallel, one per lens)...")
+        proposals = optimizer.propose_revisions(current_prompt_text, failure_summary,
+                                                 n=args.candidates_per_round)
+        if not proposals:
+            print("[ERROR] Every candidate proposal failed this round. Stopping.")
+            break
+
+        candidates = []
+        for p in proposals:
+            version = prompts.save_new_version(p["revised_prompt"])
+            _append_prompt_changelog(version, current_prompt_version, current_run_id,
+                                      f"[{p['lens']} lens] {p['changes_summary']}")
+            cand_run_id = f"{args.run_id_prefix}-r{round_num}-{version}"
+            candidates.append({"version": version, "run_id": cand_run_id, "lens": p["lens"],
+                                "changes_summary": p["changes_summary"]})
+            print(f"  Saved {version} ({p['lens']} lens): {p['changes_summary'][:100]}")
+
+        print(f"Running {len(candidates)} candidate(s) against {len(models)} model(s) x "
+              f"{len(articles)} article(s) each (concurrency={args.concurrency} per candidate, "
+              f"all candidates in parallel)...")
+
+        def _run_one_candidate(c):
+            run_batch(models, articles, args.judges, c["run_id"], api_key,
+                      gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
+                      prompt_version=c["version"], concurrency=args.concurrency)
+            return c, build_compare(current_run_id, c["run_id"], models_filter=models)
+
+        scored = []
+        with concurrent.futures.ThreadPoolExecutor(max_workers=len(candidates)) as executor:
+            futures = [executor.submit(_run_one_candidate, c) for c in candidates]
+            for future in concurrent.futures.as_completed(futures):
+                c, result = future.result()
+                if "error" in result:
+                    print(f"  [{c['version']}] compare failed: {result['error']}")
+                    scored.append({**c, "delta": None})
+                    continue
+                (RUNS_DIR / c["run_id"] / f"compare_vs_{current_run_id}.md").write_text(
+                    result["markdown"], encoding="utf-8")
+                delta = result["avg_score_delta"]
+                shown = f"{delta:+.2f}" if delta is not None else "unknown"
+                print(f"  [{c['version']}] ({c['lens']} lens) avg judge-score delta: {shown}")
+                scored.append({**c, "delta": delta})
+
+        viable = [c for c in scored if c["delta"] is not None and c["delta"] >= args.min_improvement]
+        adopted_version = None
+        if viable:
+            best = max(viable, key=lambda c: c["delta"])
+            prompts.set_current_version(best["version"])
+            adopted_version = best["version"]
+            print(f"\nADOPTED: {best['version']} ({best['lens']} lens), avg judge-score delta "
+                  f"{best['delta']:+.2f} — now the current default prompt.")
+            current_run_id = best["run_id"]
+
+        round_log.append({"round": round_num, "baseline": current_dir.name, "candidates": scored,
+                           "adopted": adopted_version})
+
+        if adopted_version is None:
+            print(f"\nNo candidate cleared the improvement threshold ({args.min_improvement}) this round. Stopping.")
+            break
+
+    summary_md = _render_auto_optimize_summary(round_log, args.baseline_run, current_run_id)
+    summary_path = RUNS_DIR / f"auto-optimize-summary-{args.baseline_run}.md"
+    summary_path.write_text(summary_md, encoding="utf-8")
+    print(f"\n{summary_md}")
+    print(f"\nDone. Wrote {summary_path.relative_to(WIKI_ROOT)}. Current prompt version: {prompts.current_version()}.")
+
+
 def main() -> None:
     _load_secrets_env()
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -821,6 +1012,8 @@ def main() -> None:
     p_run.add_argument("--overwrite", action="store_true")
     p_run.add_argument("--refresh-cache", action="store_true", help="Force re-fetch of article text")
     p_run.add_argument("--max-tokens", type=int, default=8000)
+    p_run.add_argument("--concurrency", type=int, default=1,
+                        help="Max concurrent (model, article) generation calls (default: 1, i.e. sequential)")
     p_run.add_argument("--prompt-version", default=None,
                         help="Extraction prompt version to use, e.g. v1, v2 (default: latest in scripts/eval/prompt_versions/)")
 
@@ -870,10 +1063,32 @@ def main() -> None:
                         help="Minimum avg judge-score delta to adopt a candidate as the new current prompt (default: 0.0, i.e. any improvement)")
     p_opt.add_argument("--run-id-prefix", default="optimize", help="New runs are named <prefix>-<version>, e.g. optimize-v3")
 
+    p_auto = subparsers.add_parser(
+        "auto-optimize",
+        help="Self-driving multi-candidate optimization: N diverse prompt revisions per round, tested in "
+             "parallel, best one adopted — repeats until the time budget or round cap is hit or nothing improves")
+    p_auto.add_argument("--baseline-run", required=True, help="Run id to start from")
+    p_auto.add_argument("--models", nargs="+", default=None, help="Default: every model present in the baseline run")
+    p_auto.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt"])
+    p_auto.add_argument("--gpt-judge-model", default="gpt-5.6")
+    p_auto.add_argument("--max-tokens", type=int, default=8000)
+    p_auto.add_argument("--rounds", type=int, default=3, help="Max rounds (default: 3)")
+    p_auto.add_argument("--candidates-per-round", type=int, default=6,
+                         help="Diverse prompt variations tested per round (default: 6 — cycles through "
+                              "optimizer.LENSES if you ask for more)")
+    p_auto.add_argument("--concurrency", type=int, default=6,
+                         help="Max concurrent (model, article) generation calls PER candidate (default: 6)")
+    p_auto.add_argument("--time-budget-minutes", type=float, default=60,
+                         help="Stop starting new rounds once this much wall-clock time has elapsed (default: 60)")
+    p_auto.add_argument("--min-improvement", type=float, default=0.0,
+                         help="Minimum avg judge-score delta for a candidate to be adoptable (default: 0.0)")
+    p_auto.add_argument("--run-id-prefix", default="auto",
+                         help="New runs are named <prefix>-r<round>-<version>, e.g. auto-r1-v3")
+
     args = parser.parse_args()
     dispatch = {"run": cmd_run, "spotcheck": cmd_spotcheck, "report": cmd_report, "compare": cmd_compare,
                 "project-cost": cmd_project_cost, "history": cmd_history, "optimize": cmd_optimize,
-                "status": cmd_status}
+                "status": cmd_status, "auto-optimize": cmd_auto_optimize}
     dispatch[args.command](args)
 
 
