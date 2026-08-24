@@ -26,7 +26,18 @@ pip install -r requirements-eval.txt
 export OPENROUTER_API_KEY=...      # https://openrouter.ai/keys
 export ANTHROPIC_API_KEY=...       # or `ant auth login` — used for the Opus judge
 export OPENAI_API_KEY=...          # used for the GPT judge
+export EVAL_HARNESS_CONTACT_EMAIL=you@example.org   # sent in the User-Agent to arXiv/ERIC/NCBI
 ```
+
+`EVAL_HARNESS_CONTACT_EMAIL` isn't optional politeness — NCBI's usage
+guidelines specifically ask automated clients to identify a contact so they
+can reach you before blocking your IP if a batch misbehaves. Every fetch also
+goes through a robots.txt + rate-limit check (`scripts/eval/compliance.py`)
+before it hits the network — see [SOURCES.md](SOURCES.md) for what each
+source (arXiv/ERIC/PMC) actually allows, why PMC is fetched through the
+BioC API instead of scraping article pages, and which official bulk-data
+channels (or Kaggle/Hugging Face mirrors) to switch to once a batch grows
+past a couple hundred articles.
 
 Before spending any money, confirm the corpus still resolves — websites
 reorganize, ERIC/PMC ids don't move but URLs occasionally do:

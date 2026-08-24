@@ -1,5 +1,5 @@
 {
-  "_comment": "Fixed benchmark set for the OpenRouter ingestion test harness (see eval/README.md). 10 open-access articles across arXiv, ERIC, and PubMed Central, chosen for topical overlap with existing wiki content (spacing/retrieval practice, worked examples/cognitive load, self-regulation/feedback) so validator and judge scores are meaningful. Spot-check URLs before a paid run if this list has aged.",
+  "_comment": "Fixed benchmark set for the OpenRouter ingestion test harness (see eval/README.md). 10 open-access articles across arXiv, ERIC, and PubMed Central, chosen for topical overlap with existing wiki content (spacing/retrieval practice, worked examples/cognitive load, self-regulation/feedback) so validator and judge scores are meaningful. Spot-check URLs before a paid run if this list has aged. PMC entries fetch via the BioC-PMC API (fetch_url), not by scraping the article HTML page (url) — see eval/SOURCES.md for why, and for the per-source compliance notes generally.",
   "articles": [
     {
       "id": "arxiv-1602.07032",
@@ -74,31 +74,34 @@
     {
       "id": "pmc-9083074",
       "source": "pubmed",
+      "pmcid": "PMC9083074",
       "title": "Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior",
       "authors": "et al.",
       "year": 2022,
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9083074",
-      "fetch_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9083074",
+      "fetch_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC9083074/unicode",
       "topic_hint": "self-regulated learning / peer feedback RCT"
     },
     {
       "id": "pmc-4237043",
       "source": "pubmed",
+      "pmcid": "PMC4237043",
       "title": "Self-Controlled Feedback Is Effective If It Is Based on the Learner's Performance: A Replication and Extension of Chiviacowsky and Wulf (2005)",
       "authors": "et al.",
       "year": 2014,
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4237043",
-      "fetch_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4237043",
+      "fetch_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC4237043/unicode",
       "topic_hint": "self-controlled feedback"
     },
     {
       "id": "pmc-5932263",
       "source": "pubmed",
+      "pmcid": "PMC5932263",
       "title": "Self-Regulated Learning of Important Information under Sequential and Simultaneous Encoding Conditions",
       "authors": "et al.",
       "year": 2018,
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5932263",
-      "fetch_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5932263",
+      "fetch_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC5932263/unicode",
       "topic_hint": "self-regulated learning / encoding"
     }
   ]
