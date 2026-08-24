@@ -577,12 +577,30 @@ def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
     generate_index(verbose=False)
 
 
+_INDEX_LOCK = threading.Lock()
+
+
 def generate_index(verbose: bool = True) -> None:
     """Regenerates eval/runs/index.html — the landing page python's
     http.server shows at http://localhost:8080/ — from every run directory
     currently on disk. Called from generate_reports() (so it's live during
     any active run, same guarantee as an individual run's own dashboard) and
-    available standalone via the `index` command for a one-off refresh."""
+    available standalone via the `index` command for a one-off refresh.
+
+    generate_reports()'s own report_lock is scoped to one run_batch() call,
+    so it does nothing to protect this function — auto-optimize runs
+    several candidates concurrently as threads *within one process*, each
+    with its own run_batch() and its own report_lock, and every one of them
+    calls this same function against the one shared index.html. Without a
+    lock here, two candidates' scan-then-write cycles can interleave, and
+    whichever finishes last "wins" even if its own scan was started first
+    (a stale write clobbering a fresher one) — this lock serializes every
+    call in this process so each write reflects its own full, current scan."""
+    with _INDEX_LOCK:
+        _generate_index_locked(verbose)
+
+
+def _generate_index_locked(verbose: bool) -> None:
     run_summaries = []
     for run_dir in sorted(RUNS_DIR.iterdir()):
         if not run_dir.is_dir():
