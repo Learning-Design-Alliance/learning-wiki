@@ -77,7 +77,15 @@ def _load_secrets_env(path: Path = SECRETS_ENV_FILE) -> None:
     environment, so an explicit `export` still wins."""
     if not path.exists():
         return
-    for line in path.read_text(encoding="utf-8").splitlines():
+    try:
+        text = path.read_text(encoding="utf-8")
+    except PermissionError:
+        print(f"[WARN] {path} exists but isn't readable by this user — secrets in it won't be "
+              f"auto-loaded (systemd's EnvironmentFile= reads it as root before dropping "
+              f"privileges, which is why the service itself still works). To fix ad-hoc runs: "
+              f"chown root:evalrunner {path} && chmod 640 {path}", file=sys.stderr)
+        return
+    for line in text.splitlines():
         line = line.strip()
         if not line or line.startswith("#") or "=" not in line:
             continue

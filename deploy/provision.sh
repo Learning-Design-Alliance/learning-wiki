@@ -66,7 +66,14 @@ echo "== 6. Secrets file (created once, never overwritten by re-runs) =="
 ENV_FILE="/etc/eval-harness.env"
 if [ ! -f "$ENV_FILE" ]; then
   cp "$APP_DIR/deploy/eval-harness.env.example" "$ENV_FILE"
-  chmod 600 "$ENV_FILE"
+  # Group-readable by evalrunner (not just root) so ad-hoc commands run as
+  # that user — `sudo -u evalrunner venv/bin/python scripts/eval_harness.py
+  # status`, `optimize`, etc. — can also load these secrets themselves
+  # (see _load_secrets_env() in eval_harness.py), not just the systemd
+  # service (which reads EnvironmentFile= as root before dropping
+  # privileges, so it never needed this). Still unreadable by anyone else.
+  chown "root:$APP_USER" "$ENV_FILE"
+  chmod 640 "$ENV_FILE"
   echo "Created $ENV_FILE — edit it with real API keys and your contact email."
 fi
 # Which models to run lives in deploy/run-config.env instead (tracked in git,
