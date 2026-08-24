@@ -727,9 +727,15 @@ def _generate_index_locked(verbose: bool) -> None:
         if not (lock_pid and _pid_is_alive(lock_pid)):
             auto_optimize_state = {**auto_optimize_state, "status": "stopped_interrupted"}
 
+    try:
+        live_prompt_version = prompts.current_version()
+    except FileNotFoundError:
+        live_prompt_version = None
+
     index_path = RUNS_DIR / "index.html"
     index_path.write_text(
-        index_report.render_html(run_summaries, history_rows, auto_optimize_state), encoding="utf-8")
+        index_report.render_html(run_summaries, history_rows, auto_optimize_state, live_prompt_version),
+        encoding="utf-8")
     if verbose:
         print(f"Wrote {index_path.relative_to(WIKI_ROOT)} ({len(run_summaries)} run(s))")
 

@@ -310,7 +310,8 @@ def _launch_form_html() -> str:
     </div>"""
 
 
-def render_html(run_summaries: list, history_rows: list, auto_optimize_state: dict = None) -> str:
+def render_html(run_summaries: list, history_rows: list, auto_optimize_state: dict = None,
+                 current_prompt_version: str = None) -> str:
     models = []
     for r in history_rows:
         if r["model"] not in models:
@@ -428,7 +429,12 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
 <body>
 <div class="viz-root">
   <h1>Eval harness — all runs</h1>
-  <div class="meta">{len(run_summaries)} run(s) &middot; auto-refreshes every {AUTO_REFRESH_MS // 1000}s</div>
+  <div class="meta">{len(run_summaries)} run(s) &middot; auto-refreshes every {AUTO_REFRESH_MS // 1000}s
+  {f' &middot; live current prompt version: <code>{_esc(current_prompt_version)}</code>' if current_prompt_version else ''}</div>
+  <p class="section-note">"Live current prompt version" is what <code>run</code>/<code>auto-optimize</code> will actually
+  use on the next invocation (<code>scripts/eval/prompt_versions/CURRENT</code>) — it can differ from the
+  "prompt version" shown in the status banner below, which is just a snapshot of whatever the last search
+  was working from when it stopped, not necessarily what's live now.</p>
 
   {_auto_optimize_status_html(auto_optimize_state or {})}
   {_launch_form_html()}
