@@ -287,6 +287,44 @@ def _detail_panel(rec: dict, val: dict, judges: dict) -> str:
       </div>"""
 
 
+PHASE_LABELS = {
+    "done": "Done",
+    "done-with-errors": "Done (errors)",
+    "running": "Running",
+    "queued": "Queued",
+}
+
+
+def _queue_section(queue_status: list, colors: dict) -> str:
+    """Which models are tested vs. still in the queue, at a glance — without
+    this, a model that hasn't produced a result file yet is indistinguishable
+    from one that was never configured, which is exactly what made "why does
+    the dashboard only show 2 of 5 models" confusing mid-batch."""
+    if not queue_status:
+        return ""
+    rows_html = []
+    for s in queue_status:
+        model = s["model"]
+        slot = (list(colors.keys()).index(model) % len(colors)) + 1 if model in colors else 1
+        pct = round(100 * s["done"] / s["total"]) if s["total"] else 0
+        count_str = f"{s['done']}/{s['total']}" + (f" ({s['errors']} err)" if s["errors"] else "")
+        rows_html.append(f"""
+        <div class="queue-row">
+          <span class="swatch" style="background:var(--series-{slot})"></span>
+          <span class="queue-model">{_esc(model)}</span>
+          <span class="queue-badge queue-badge-{s['phase']}">{_esc(PHASE_LABELS.get(s['phase'], s['phase']))}</span>
+          <div class="bar-track queue-track"><div class="bar-fill" style="width:{max(2, pct)}%; background:var(--series-{slot});"></div></div>
+          <span class="queue-count">{_esc(count_str)}</span>
+        </div>""")
+
+    n_done = sum(1 for s in queue_status if s["phase"] in ("done", "done-with-errors"))
+    return f"""
+    <div class="card queue-card">
+      <h3>Model queue &mdash; {n_done}/{len(queue_status)} model(s) complete</h3>
+      {''.join(rows_html)}
+    </div>"""
+
+
 def _legend(colors: dict) -> str:
     items = []
     for i, model in enumerate(colors, start=1):
@@ -385,8 +423,14 @@ def _exec_summary_section(summary: dict, colors: dict) -> str:
 
 
 def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure_summary: dict = None,
-                 exec_summary: dict = None) -> str:
+                 exec_summary: dict = None, queue_status: list = None) -> str:
     models = [r["model"] for r in rows]
+    for s in (queue_status or []):
+        if s["model"] not in models:
+            # A queued/not-yet-started model has no row yet (compute_rows only
+            # sees completed pairs) — append it so it still gets a stable,
+            # non-colliding color slot in the queue section below.
+            models.append(s["model"])
     colors = _model_colors(models)
     light_vars, dark_vars = _css_vars(colors)
 
@@ -493,6 +537,16 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
   .rec-detail {{ font-size: 13px; color: var(--text-secondary); margin-top: 2px; }}
   .exec-rank-table {{ margin-bottom: 20px; }}
   .fix-list li {{ padding: 8px 0; }}
+  .queue-card {{ margin-bottom: 20px; }}
+  .queue-row {{ display: grid; grid-template-columns: 12px 1fr 120px 140px 110px; align-items: center; gap: 10px; padding: 6px 0; border-bottom: 1px solid var(--gridline); }}
+  .queue-row:last-child {{ border-bottom: none; }}
+  .queue-model {{ font-size: 13px; color: var(--text-primary); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }}
+  .queue-track {{ height: 10px; }}
+  .queue-count {{ font-size: 12px; color: var(--text-secondary); text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }}
+  .queue-badge {{ font-size: 10px; text-transform: uppercase; letter-spacing: 0.02em; padding: 2px 8px; border-radius: 999px; text-align: center; background: var(--gridline); color: var(--text-muted); }}
+  .queue-badge-done {{ background: var(--status-good); color: #fff; }}
+  .queue-badge-done-with-errors {{ background: var(--status-warning); color: #0b0b0b; }}
+  .queue-badge-running {{ background: var(--status-warning); color: #0b0b0b; }}
   .tabs {{ display: flex; gap: 4px; border-bottom: 1px solid var(--border); margin-bottom: 20px; }}
   .tab-btn {{
     font: inherit; font-size: 13px; font-weight: 600; color: var(--text-secondary);
@@ -509,6 +563,8 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
 <div class="viz-root">
   <h1>Eval run: {_esc(run_id)}</h1>
   <div class="meta">Generated {_esc(generated)} &middot; {len(models)} model(s) &middot; {sum(r.get('n_articles', 0) for r in rows)} article results &middot; auto-refreshes every {AUTO_REFRESH_MS // 1000}s</div>
+
+  {_queue_section(queue_status or [], colors)}
 
   <div class="tabs" role="tablist">
     <button class="tab-btn active" data-target="tab-summary" role="tab" aria-selected="true">Summary</button>

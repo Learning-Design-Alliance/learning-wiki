@@ -28,6 +28,10 @@ Workflow:
     #    free of OpenRouter generation cost, only re-pays judge cost
     python3 scripts/eval_harness.py spotcheck --run-id <run-id> --judges opus
 
+    # While a batch is running: how many (model, article) pairs are done vs.
+    # still queued (defaults come from deploy/run-config.env on a droplet)
+    python3 scripts/eval_harness.py status --run-id <run-id> --models <...>
+
 Options (run):
     --models        space-separated OpenRouter model slugs (required)
     --articles      space-separated article ids to restrict to (default: whole manifest)
@@ -44,6 +48,7 @@ import argparse
 import csv
 import json
 import os
+import re
 import sys
 import time
 from dataclasses import asdict
@@ -60,6 +65,63 @@ EVAL_ROOT = WIKI_ROOT / "eval"
 MANIFEST_PATH = EVAL_ROOT / "corpus" / "manifest.json"
 RUNS_DIR = EVAL_ROOT / "runs"
 CONTENT_FOLDERS = ["principles", "elements", "patterns", "strategies", "theories", "claims"]
+SECRETS_ENV_FILE = Path("/etc/eval-harness.env")
+
+
+def _load_secrets_env(path: Path = SECRETS_ENV_FILE) -> None:
+    """Load API keys from /etc/eval-harness.env when running this script
+    directly (bypassing systemd, which normally supplies them via
+    EnvironmentFile=) — e.g. `venv/bin/python scripts/eval_harness.py report
+    ...` run by hand on the droplet. A no-op wherever the file doesn't exist
+    (a local dev machine). Never overrides a variable already set in the
+    environment, so an explicit `export` still wins."""
+    if not path.exists():
+        return
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, value = line.partition("=")
+        key, value = key.strip(), value.strip()
+        if key and key not in os.environ:
+            os.environ[key] = value
+
+
+RUN_CONFIG_PATH = WIKI_ROOT / "deploy" / "run-config.env"
+
+
+def _parse_run_args() -> list:
+    """Split deploy/run-config.env's RUN_ARGS into argv tokens, the same way
+    run.sh's bash `source` + word-splitting does. [] if the file or the
+    RUN_ARGS assignment isn't present (e.g. running from a local checkout
+    that hasn't set one up)."""
+    if not RUN_CONFIG_PATH.exists():
+        return []
+    match = re.search(r'^RUN_ARGS="(.*)"\s*$', RUN_CONFIG_PATH.read_text(encoding="utf-8"), re.MULTILINE)
+    return match.group(1).split() if match else []
+
+
+def _run_config_models() -> list:
+    """The --models list configured in deploy/run-config.env, so `status`
+    doesn't require retyping the model roster already tracked there."""
+    argv = _parse_run_args()
+    if "--models" not in argv:
+        return []
+    models = []
+    for tok in argv[argv.index("--models") + 1:]:
+        if tok.startswith("--"):
+            break
+        models.append(tok)
+    return models
+
+
+def _run_config_run_id() -> str:
+    argv = _parse_run_args()
+    if "--run-id" in argv:
+        idx = argv.index("--run-id")
+        if idx + 1 < len(argv):
+            return argv[idx + 1]
+    return None
 
 
 def get_existing_slugs() -> dict:
@@ -188,6 +250,14 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
     run_dir = RUNS_DIR / run_id
     run_dir.mkdir(parents=True, exist_ok=True)
     print(f"Run ID: {run_id}  (results under {run_dir.relative_to(WIKI_ROOT)})")
+
+    # Records the *intended* model list + article count for this run, so the
+    # `status` command and the dashboard's queue section can show a model
+    # that hasn't produced any result files yet as "queued" instead of it
+    # being invisible — compute_rows() alone only knows about pairs that have
+    # already completed.
+    (run_dir / "queue.json").write_text(
+        json.dumps({"models": models, "total_articles": len(articles)}, indent=2), encoding="utf-8")
 
     existing_slugs = get_existing_slugs()
     total = len(articles) * len(models)
@@ -338,12 +408,49 @@ def compute_rows(run_dir: Path) -> tuple:
     return by_model, rows
 
 
+def compute_queue_status(by_model: dict, models: list, total_articles: int) -> list:
+    """Per-model done/error/pending counts against the *intended* model list
+    and article count — the answer to "which models are tested, which are
+    still in the queue" that by_model alone can't give (a model with zero
+    result files so far is indistinguishable from one that doesn't exist).
+    Models are assumed to run in list order, one at a time (as run_batch
+    actually does), so the first incomplete model is "running" and every
+    model after it is "queued" rather than all of them showing as running."""
+    statuses = []
+    reached_incomplete = False
+    for model in models:
+        records = by_model.get(model, [])
+        errors = sum(1 for r in records if (r.get("generation") or {}).get("error"))
+        done = len(records) - errors
+        pending = max(0, total_articles - done - errors)
+        if pending == 0:
+            phase = "done" if errors == 0 else "done-with-errors"
+        elif not reached_incomplete:
+            phase = "running"
+            reached_incomplete = True
+        else:
+            phase = "queued"
+        statuses.append({"model": model, "total": total_articles, "done": done,
+                          "errors": errors, "pending": pending, "phase": phase})
+    return statuses
+
+
 def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
     """Regenerate report.md/summary.csv/report.html from whatever result files
     currently exist under run_dir. Cheap enough (a few ms for a run this size)
     to call after every completed pair, not just on demand — that's what makes
     the HTML dashboard's auto-refresh (see html_report.py) actually live."""
     by_model, rows = compute_rows(run_dir)
+
+    queue_status = []
+    queue_path = run_dir / "queue.json"
+    if queue_path.exists():
+        try:
+            queue_meta = json.loads(queue_path.read_text(encoding="utf-8"))
+            queue_status = compute_queue_status(
+                by_model, queue_meta.get("models", []), queue_meta.get("total_articles", 0))
+        except (json.JSONDecodeError, OSError):
+            queue_status = []
 
     csv_path = run_dir / "summary.csv"
     if rows:
@@ -381,7 +488,8 @@ def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
 
     html_path = run_dir / "report.html"
     html_path.write_text(
-        html_report.render_html(run_id, date.today().isoformat(), rows, by_model, failure_summary, exec_summary),
+        html_report.render_html(run_id, date.today().isoformat(), rows, by_model, failure_summary, exec_summary,
+                                 queue_status),
         encoding="utf-8",
     )
 
@@ -532,6 +640,56 @@ def cmd_history(args: argparse.Namespace) -> None:
     print(f"\nWrote {out_path.relative_to(WIKI_ROOT)}")
 
 
+def cmd_status(args: argparse.Namespace) -> None:
+    """Progress tracker for an in-flight or completed batch — answers "is the
+    batch done yet" and "which models are tested vs. still queued" directly,
+    instead of inferring it from partial `history` output or the order models
+    happen to appear on disk (which just reflects run_batch processing them
+    to completion one at a time, in list order)."""
+    run_id = args.run_id or _run_config_run_id()
+    if not run_id:
+        print("[ERROR] No --run-id given, and none found in deploy/run-config.env's RUN_ARGS.")
+        sys.exit(1)
+
+    models = args.models or _run_config_models()
+    if not models:
+        print("[ERROR] No --models given, and none found in deploy/run-config.env's RUN_ARGS.")
+        sys.exit(1)
+
+    total = len(load_manifest(args.articles))
+    run_dir = RUNS_DIR / run_id
+    by_model, _ = compute_rows(run_dir) if run_dir.exists() else ({}, [])
+    statuses = compute_queue_status(by_model, models, total)
+
+    total_pairs = total * len(models)
+    print(f"Run: {run_id}")
+    print(f"{total} article(s) x {len(models)} model(s) = {total_pairs} pair(s)\n")
+
+    phase_label = {"done": "done", "done-with-errors": "done (errors)", "running": "running", "queued": "queued"}
+    bar_width = 24
+    grand_done = grand_errors = grand_pending = 0
+    for s in statuses:
+        pct = (s["done"] / s["total"]) if s["total"] else 0
+        filled = round(bar_width * pct)
+        bar = "#" * filled + "-" * (bar_width - filled)
+        print(f"  [{bar}] {s['done']:>2}/{s['total']} done  {s['errors']:>2} err  {s['pending']:>2} pending   "
+              f"{s['model']:<40} {phase_label[s['phase']]}")
+        grand_done += s["done"]
+        grand_errors += s["errors"]
+        grand_pending += s["pending"]
+
+    print(f"\nOverall: {grand_done}/{total_pairs} done, {grand_errors} generation error(s), {grand_pending} pending.")
+    if grand_pending == 0:
+        note = " (some pairs had generation errors — see the report for detail)" if grand_errors else ""
+        print(f"Batch complete.{note}")
+    else:
+        n_queued = sum(1 for s in statuses if s["phase"] == "queued")
+        if n_queued:
+            print(f"{n_queued} model(s) still queued behind the one currently running.")
+        else:
+            print("The last model in the list is still running.")
+
+
 def _append_prompt_changelog(new_version: str, based_on_version: str, based_on_run: str, changes_summary: str) -> None:
     changelog_path = prompts.PROMPT_VERSIONS_DIR / "CHANGELOG.md"
     entry = (f"\n## {new_version}\n\n"
@@ -626,6 +784,7 @@ def cmd_optimize(args: argparse.Namespace) -> None:
 
 
 def main() -> None:
+    _load_secrets_env()
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     subparsers = parser.add_subparsers(dest="command", required=True)
 
@@ -669,6 +828,12 @@ def main() -> None:
     p_hist = subparsers.add_parser("history", help="Trend view across every run under eval/runs/")
     p_hist.add_argument("--models", nargs="+", default=None)
 
+    p_status = subparsers.add_parser(
+        "status", help="Progress tracker: how many (model, article) pairs are done/errored/pending, per model and overall")
+    p_status.add_argument("--run-id", default=None, help="Default: --run-id in deploy/run-config.env's RUN_ARGS")
+    p_status.add_argument("--models", nargs="+", default=None, help="Default: --models in deploy/run-config.env's RUN_ARGS")
+    p_status.add_argument("--articles", nargs="+", default=None, help="Article ids to restrict to (default: all)")
+
     p_opt = subparsers.add_parser(
         "optimize",
         help="Auto-iterate the extraction prompt: propose a revision from a run's failures, re-run, compare, keep only if improved")
@@ -684,7 +849,8 @@ def main() -> None:
 
     args = parser.parse_args()
     dispatch = {"run": cmd_run, "spotcheck": cmd_spotcheck, "report": cmd_report, "compare": cmd_compare,
-                "project-cost": cmd_project_cost, "history": cmd_history, "optimize": cmd_optimize}
+                "project-cost": cmd_project_cost, "history": cmd_history, "optimize": cmd_optimize,
+                "status": cmd_status}
     dispatch[args.command](args)
 
 

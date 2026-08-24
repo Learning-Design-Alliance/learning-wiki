@@ -116,6 +116,27 @@ tabs) that auto-refreshes while a batch is running. On a droplet, see
 over an SSH tunnel so you can watch it update live instead of re-running
 `report` and re-opening the file by hand.
 
+A **model queue** panel sits above the tabs on every load — one row per
+configured model showing done/error/pending counts against the total article
+count, and a Done / Running / Queued badge (models run to completion one at a
+time, in the order given to `--models`, so only the first incomplete model is
+ever "running"; everything after it is still queued, not stuck). This is what
+answers "is the batch done yet" and "why does the dashboard only show 2 of 5
+models" — the answer to the latter is almost always "the other 3 haven't
+started yet," which the queue panel now shows directly instead of leaving you
+to infer it.
+
+For the same answer without opening a browser:
+
+```bash
+python3 scripts/eval_harness.py status --run-id <run-id> --models <...>
+```
+
+Omit `--run-id`/`--models` on a droplet and they default to what's configured
+in `deploy/run-config.env`'s `RUN_ARGS`, so you don't have to retype the
+model list to check progress on the batch that's actually running there.
+Prints a per-model progress bar plus an overall done/errors/pending count.
+
 Per-article detail — full generation output, every validator issue, every
 judge score/issue — lives in `eval/runs/<run-id>/<model>/<article-id>.json`,
 and is also reachable by clicking a row in the dashboard's "Per-article
