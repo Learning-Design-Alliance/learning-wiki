@@ -17,6 +17,7 @@ Still validates the one input it accepts and never shells out with
 string-interpolated input (subprocess with an argv list, not shell=True).
 """
 
+import html
 import json
 import os
 import re
@@ -43,23 +44,51 @@ def _parse_config_args() -> list:
     return match.group(1).split() if match else []
 
 
+# Statuses cmd_auto_optimize actually reaches on a clean stop — safe to
+# treat their current_run_id as a real, complete baseline to build on.
+GOOD_BASELINE_STATUSES = {"completed", "stopped_no_improvement", "stopped_no_findings", "stopped_time_budget"}
+
+
+def _resolve_baseline_from_state() -> str:
+    """The run id to continue from, or None to fall back to whatever
+    --baseline-run is configured in auto-optimize-config.env. Deliberately
+    does NOT just trust current_run_id at face value — a state file stuck
+    on "running"/"starting" from a process that died uncleanly (SSH
+    disconnect, kill -9) points at a run that may be mid-round or
+    contaminated (this is exactly what happened live: a dead search's
+    current_run_id had generation errors from concurrent-with-another-
+    search API rate limiting, and blindly reusing it as the next baseline
+    would just fail again). Also refuses a status that reflects a baseline
+    known to be broken (stopped_error, stopped_generation_errors) or
+    anything unrecognized, rather than silently building on top of it."""
+    if not STATE_PATH.exists():
+        return None
+    try:
+        state = json.loads(STATE_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return None
+
+    status = state.get("status")
+    if status in ("running", "starting"):
+        if not _already_running():
+            return None  # stale snapshot from a process that's no longer alive
+    elif status not in GOOD_BASELINE_STATUSES:
+        return None
+
+    return state.get("current_run_id")
+
+
 def _resolve_launch_args(rounds: int) -> list:
     """Builds the argv for `scripts/eval_harness.py auto-optimize`: rounds
     from the form; baseline-run from the last search's recorded state (so
     clicking "launch more rounds" continues forward from wherever the
-    previous search left off) if one exists, else from whatever
-    --baseline-run is already configured in auto-optimize-config.env; every
-    other flag (candidates-per-round, concurrency, judges, ...) comes
-    unchanged from that same config file."""
+    previous search left off) if that state looks trustworthy (see
+    _resolve_baseline_from_state), else from whatever --baseline-run is
+    already configured in auto-optimize-config.env; every other flag
+    (candidates-per-round, concurrency, judges, ...) comes unchanged from
+    that same config file."""
     args = _parse_config_args()
-
-    baseline_run = None
-    if STATE_PATH.exists():
-        try:
-            state = json.loads(STATE_PATH.read_text(encoding="utf-8"))
-            baseline_run = state.get("current_run_id")
-        except (json.JSONDecodeError, OSError):
-            baseline_run = None
+    baseline_run = _resolve_baseline_from_state()
 
     if baseline_run:
         if "--baseline-run" in args:
@@ -85,6 +114,14 @@ def _pid_is_alive(pid: int) -> bool:
     except PermissionError:
         return True  # process exists, just owned by someone else — treat as alive
     return True
+
+
+def _tail_log(path: Path, n: int = 40) -> str:
+    try:
+        lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
+    except OSError:
+        return "(log file unavailable)"
+    return "\n".join(lines[-n:]) or "(empty log)"
 
 
 def _already_running() -> bool:
@@ -144,11 +181,28 @@ class Handler(SimpleHTTPRequestHandler):
         launch_args = _resolve_launch_args(rounds)
         log_path = RUNS_DIR / f"web-launch-{int(time.time())}.log"
         log_file = open(log_path, "w", encoding="utf-8")
-        subprocess.Popen(
+        proc = subprocess.Popen(
             [str(VENV_PYTHON), "-u", "scripts/eval_harness.py", "auto-optimize", *launch_args],
             cwd=str(WIKI_ROOT), stdout=log_file, stderr=subprocess.STDOUT,
             start_new_session=True,  # detach — keeps running after this request returns
         )
+
+        # cmd_auto_optimize's safety gates (lock conflict, a baseline with
+        # generation errors, no baseline directory, ...) all fire within
+        # the first second or two — no API calls needed, just local file
+        # checks — so a bounded wait here catches that class of failure
+        # and shows it directly, instead of a blind redirect that looks
+        # identical whether the search started or died instantly. A
+        # legitimate, still-running search just falls through to the
+        # normal redirect after this same wait.
+        time.sleep(2.5)
+        if proc.poll() is not None and proc.returncode != 0:
+            tail = _tail_log(log_path)
+            self._respond_html(
+                500, f"<p>auto-optimize exited immediately (exit code {proc.returncode}) — it did not "
+                     f"start a search. Last log lines:</p><pre>{html.escape(tail)}</pre>"
+                     f'<p><a href="/">Back</a></p>')
+            return
 
         self.send_response(303)
         self.send_header("Location", "/")

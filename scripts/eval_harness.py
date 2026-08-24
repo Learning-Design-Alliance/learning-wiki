@@ -1137,7 +1137,15 @@ def _write_auto_optimize_state(baseline_run: str, current_run_id: str, round_num
     (model, article) progress bar — answers "how many rounds are left in
     this whole search," not "how far along is this one candidate." Read by
     the landing page (index_report.py) and by the web launcher to resolve
-    where a "launch more rounds" click should continue from."""
+    where a "launch more rounds" click should continue from.
+
+    Also regenerates index.html immediately (not just this state file) —
+    otherwise the landing page wouldn't visibly change until the first
+    candidate's own run_batch finished a full report cycle, which can be
+    minutes away. Without this, clicking "Launch" looks like a no-op even
+    when the search started successfully: the click, the "starting"
+    status, and every round transition are all invisible until real
+    (model, article) data starts landing."""
     (RUNS_DIR / ".auto_optimize_state.json").write_text(json.dumps({
         "baseline_run": baseline_run,
         "current_run_id": current_run_id,
@@ -1147,6 +1155,7 @@ def _write_auto_optimize_state(baseline_run: str, current_run_id: str, round_num
         "status": status,
         "updated_at": datetime.now(timezone.utc).isoformat(),
     }, indent=2), encoding="utf-8")
+    generate_index(verbose=False)
 
 
 def _write_auto_optimize_outputs(round_log: list, baseline_run: str, final_run_id: str) -> tuple:
