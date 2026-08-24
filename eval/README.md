@@ -190,6 +190,32 @@ docstring in `scripts/eval/cost_projection.py` for why 100% double-judging
 isn't the right production assumption). The corpus-size scenarios are
 brackets to reason with, not a prediction of the real target count.
 
+## Self-correction retries (`--max-correction-attempts`)
+
+`run`/`optimize`/`auto-optimize` all default to a single shot per article —
+deliberately: the whole point of this harness is measuring how a model does
+on its **first** attempt, since that's what actually differentiates models
+and prompts. Silently retrying until something passes would erase that
+signal and make every model look artificially perfect.
+
+Opt in explicitly when what you want instead is "how close to 100% can this
+model get with a bounded self-correction budget":
+
+```bash
+python3 scripts/eval_harness.py run --models <...> --max-correction-attempts 3
+```
+
+On a validator failure, the model is shown its own previous output plus the
+exact structural issues it triggered (field, message, severity — the same
+data the dashboard's Failure patterns tab shows) and asked for a corrected
+replacement; this repeats up to N times or until it passes, whichever comes
+first. Each result keeps **both** numbers: `initial_passed` (the pure
+first-attempt result) and `validation.passed` (the final, post-correction
+result that feeds `validator_pass_rate` everywhere else) — so a model that
+needed 2 retries to reach 100% is visible as such, not indistinguishable
+from one that passed cleanly. Cost is cumulative across every attempt actually
+made, not just the first.
+
 ## Prompt versioning, trend history, and auto-optimization
 
 The extraction prompt (`scripts/eval/prompts.py`) is versioned, not a single

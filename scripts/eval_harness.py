@@ -163,12 +163,22 @@ def result_path(run_dir: Path, model: str, article_id: str) -> Path:
 
 def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             judges: list, gpt_judge_model: str, max_tokens: int, refresh_cache: bool = False,
-            prompt_version: str = None) -> dict:
+            prompt_version: str = None, max_correction_attempts: int = 0) -> dict:
+    """max_correction_attempts=0 (default) is exactly the original single-shot
+    behavior — this matters for benchmark integrity: the whole point of
+    `run`/`optimize`/`auto-optimize` is measuring how a model does on its
+    FIRST attempt, so retrying silently until something passes would erase
+    the very signal being measured. Set it > 0 to explicitly opt into a
+    bounded "show the model its own validator issues and ask it to fix
+    them" loop instead — the record keeps both `initial_passed` (the
+    benchmark-pure first-attempt result) and `validation.passed` (the final,
+    post-correction result actually used for validator_pass_rate downstream)
+    so neither number is lost."""
     system_prompt = prompts.load_prompt(prompt_version)
     prompt_version = prompt_version or prompts.current_version()
 
     article_text = fetch_article.fetch_article_text(entry, refresh=refresh_cache)
-    user_prompt = prompts.build_user_prompt(article_text, existing_slugs)
+    current_prompt = prompts.build_user_prompt(article_text, existing_slugs)
 
     record = {
         "article_id": entry["id"],
@@ -182,56 +192,77 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
         "parse_error": None,
         "validation": None,
         "judges": {},
+        "correction_attempts": 0,
+        "initial_passed": None,
     }
-
-    try:
-        gen = openrouter_client.generate(model, system_prompt, user_prompt, api_key, max_tokens=max_tokens,
-                                          disable_reasoning=model_catalog.needs_reasoning_disabled(model))
-    except openrouter_client.GenerationError as e:
-        record["generation"] = {"error": str(e)}
-        return record
-
-    record["generated_at"] = datetime.now(timezone.utc).isoformat()
-    record["generation"] = {
-        "prompt_tokens": gen.prompt_tokens,
-        "completion_tokens": gen.completion_tokens,
-        "latency_s": round(gen.latency_s, 2),
-        "cost_usd": gen.cost_usd,
-        "cost_source": gen.cost_source,
-        "generation_id": gen.generation_id,
-    }
-    record["raw_text"] = gen.raw_text
 
     parsed = None
-    try:
-        parsed = extract_json(gen.raw_text)
-        record["parsed"] = parsed
-    except JSONExtractionError as e:
-        record["parse_error"] = str(e)
+    total_cost = 0.0
+    total_completion_tokens = 0
 
-    try:
-        report = validator.validate_output(parsed or {}, existing_slugs)
-        if parsed is None:
-            report.parse_error = record["parse_error"]
-        record["validation"] = {
-            "passed": report.passed,
-            "n_contributions": report.n_contributions,
-            "completeness_score": report.completeness_score,
-            "error_count": report.error_count,
-            "warning_count": report.warning_count,
-            "parse_error": report.parse_error,
-            "issues": [asdict(i) for i in report.issues],
+    for attempt in range(max_correction_attempts + 1):
+        try:
+            gen = openrouter_client.generate(model, system_prompt, current_prompt, api_key, max_tokens=max_tokens,
+                                              disable_reasoning=model_catalog.needs_reasoning_disabled(model))
+        except openrouter_client.GenerationError as e:
+            record["generation"] = {"error": str(e)}
+            return record
+
+        total_cost += gen.cost_usd or 0
+        total_completion_tokens += gen.completion_tokens
+        record["generated_at"] = datetime.now(timezone.utc).isoformat()
+        record["generation"] = {
+            "prompt_tokens": gen.prompt_tokens,
+            "completion_tokens": total_completion_tokens,
+            "latency_s": round(gen.latency_s, 2),
+            "cost_usd": round(total_cost, 6),
+            "cost_source": gen.cost_source,
+            "generation_id": gen.generation_id,
         }
-    except Exception as e:
-        # A validator bug must never crash the whole batch, or throw away the
-        # generation we already paid for — record it and move on. A fixed
-        # validator can re-score this later via `spotcheck` at zero extra cost.
-        record["validation"] = {
-            "passed": False, "n_contributions": 0, "completeness_score": 0.0,
-            "error_count": 1, "warning_count": 0,
-            "parse_error": f"validator crashed: {type(e).__name__}: {e}",
-            "issues": [],
-        }
+        record["raw_text"] = gen.raw_text
+
+        parsed = None
+        try:
+            parsed = extract_json(gen.raw_text)
+            record["parsed"] = parsed
+            record["parse_error"] = None
+        except JSONExtractionError as e:
+            record["parse_error"] = str(e)
+
+        try:
+            report = validator.validate_output(parsed or {}, existing_slugs)
+            if parsed is None:
+                report.parse_error = record["parse_error"]
+            record["validation"] = {
+                "passed": report.passed,
+                "n_contributions": report.n_contributions,
+                "completeness_score": report.completeness_score,
+                "error_count": report.error_count,
+                "warning_count": report.warning_count,
+                "parse_error": report.parse_error,
+                "issues": [asdict(i) for i in report.issues],
+            }
+        except Exception as e:
+            # A validator bug must never crash the whole batch, or throw away
+            # the generation we already paid for — record it and stop; a
+            # crash isn't something a correction retry can fix, and a fixed
+            # validator can re-score this later via `spotcheck` for free.
+            record["validation"] = {
+                "passed": False, "n_contributions": 0, "completeness_score": 0.0,
+                "error_count": 1, "warning_count": 0,
+                "parse_error": f"validator crashed: {type(e).__name__}: {e}",
+                "issues": [],
+            }
+            break
+
+        if attempt == 0:
+            record["initial_passed"] = record["validation"]["passed"]
+        record["correction_attempts"] = attempt
+
+        if record["validation"]["passed"] or attempt == max_correction_attempts:
+            break
+
+        current_prompt = prompts.build_correction_prompt(gen.raw_text, record["validation"]["issues"])
 
     if parsed:
         try:
@@ -269,7 +300,8 @@ def run_judges(article_text: str, parsed: dict, judges: list, gpt_judge_model: s
 
 def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: str,
               gpt_judge_model: str = "gpt-5.6", max_tokens: int = 8000, overwrite: bool = False,
-              refresh_cache: bool = False, prompt_version: str = None, concurrency: int = 1) -> Path:
+              refresh_cache: bool = False, prompt_version: str = None, concurrency: int = 1,
+              max_correction_attempts: int = 0) -> Path:
     """The actual (model x article) loop, shared by `run`, `optimize`, and
     `auto-optimize` — the latter two call this directly (not through
     argparse) to run each candidate prompt against the same articles as the
@@ -324,7 +356,8 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
             print(f"[{model} / {entry['id']}] {entry['title'][:60]}")
         try:
             record = run_one(model, entry, existing_slugs, api_key, judges, gpt_judge_model,
-                              max_tokens, refresh_cache=refresh_cache, prompt_version=prompt_version)
+                              max_tokens, refresh_cache=refresh_cache, prompt_version=prompt_version,
+                              max_correction_attempts=max_correction_attempts)
         except fetch_article.FetchError as e:
             with print_lock:
                 state["done"] += 1
@@ -386,7 +419,8 @@ def cmd_run(args: argparse.Namespace) -> None:
     run_batch(args.models, articles, args.judges, run_id, api_key,
               gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
               overwrite=args.overwrite, refresh_cache=args.refresh_cache,
-              prompt_version=args.prompt_version, concurrency=args.concurrency)
+              prompt_version=args.prompt_version, concurrency=args.concurrency,
+              max_correction_attempts=args.max_correction_attempts)
 
     print(f"\nDone. Run report with: python3 scripts/eval_harness.py report --run-id {run_id}")
 
@@ -926,7 +960,8 @@ def cmd_optimize(args: argparse.Namespace) -> None:
         print(f"Running {new_version} as '{new_run_id}' against the same {len(articles)} article(s) "
               f"and {len(models)} model(s) as {current_run_id}...")
         run_batch(models, articles, args.judges, new_run_id, api_key,
-                  gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens, prompt_version=new_version)
+                  gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens, prompt_version=new_version,
+                  max_correction_attempts=args.max_correction_attempts)
 
         result = build_compare(current_run_id, new_run_id, models_filter=models)
         if "error" in result:
@@ -1116,7 +1151,8 @@ def cmd_auto_optimize(args: argparse.Namespace) -> None:
         def _run_one_candidate(c):
             run_batch(models, articles, args.judges, c["run_id"], api_key,
                       gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
-                      prompt_version=c["version"], concurrency=args.concurrency)
+                      prompt_version=c["version"], concurrency=args.concurrency,
+                      max_correction_attempts=args.max_correction_attempts)
             return c, build_compare(current_run_id, c["run_id"], models_filter=models)
 
         scored = []
@@ -1184,6 +1220,12 @@ def main() -> None:
                         help="Max concurrent (model, article) generation calls (default: 1, i.e. sequential)")
     p_run.add_argument("--prompt-version", default=None,
                         help="Extraction prompt version to use, e.g. v1, v2 (default: latest in scripts/eval/prompt_versions/)")
+    p_run.add_argument("--max-correction-attempts", type=int, default=0,
+                        help="After a validator failure, show the model its own issues and let it retry up "
+                             "to N times (default: 0, i.e. the original single-shot benchmark behavior — "
+                             "this measures FIRST-attempt quality, so opt in explicitly rather than "
+                             "changing the default). Each record keeps both `initial_passed` (first "
+                             "attempt) and the final post-correction `validation.passed`.")
 
     p_spot = subparsers.add_parser("spotcheck", help="Re-validate/re-judge cached results without re-generating")
     p_spot.add_argument("--run-id", required=True)
@@ -1229,6 +1271,9 @@ def main() -> None:
     p_opt.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt"])
     p_opt.add_argument("--gpt-judge-model", default="gpt-5.6")
     p_opt.add_argument("--max-tokens", type=int, default=8000)
+    p_opt.add_argument("--max-correction-attempts", type=int, default=0,
+                        help="Let the model retry up to N times after a validator failure (default: 0). "
+                             "See `run --help` for why this defaults off.")
     p_opt.add_argument("--iterations", type=int, default=1, help="Max propose/re-run rounds (default: 1)")
     p_opt.add_argument("--min-improvement", type=float, default=0.0,
                         help="Minimum avg judge-score delta to adopt a candidate as the new current prompt (default: 0.0, i.e. any improvement)")
@@ -1243,6 +1288,9 @@ def main() -> None:
     p_auto.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt"])
     p_auto.add_argument("--gpt-judge-model", default="gpt-5.6")
     p_auto.add_argument("--max-tokens", type=int, default=8000)
+    p_auto.add_argument("--max-correction-attempts", type=int, default=0,
+                         help="Let each candidate retry up to N times after a validator failure (default: 0). "
+                              "See `run --help` for why this defaults off.")
     p_auto.add_argument("--rounds", type=int, default=3, help="Max rounds (default: 3)")
     p_auto.add_argument("--candidates-per-round", type=int, default=6,
                          help="Diverse prompt variations tested per round (default: 6 — cycles through "

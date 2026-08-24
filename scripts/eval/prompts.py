@@ -112,3 +112,33 @@ def build_user_prompt(article_text: str, existing_slugs: dict, max_chars: int = 
 {text}{truncated_note}
 
 Extract every wiki contribution this article supports, following the output contract exactly."""
+
+
+def build_correction_prompt(previous_raw_output: str, issues: list, max_chars: int = 12_000) -> str:
+    """Follow-up prompt for eval_harness.py's optional self-correction retry
+    loop (--max-correction-attempts): shows the model its own previous
+    output plus the exact structural issues it triggered, and asks for a
+    corrected full replacement — not a diff, since a smaller model asked to
+    describe a diff is more likely to produce an inconsistent partial edit
+    than a clean full object. Distinct from build_user_prompt(), which is
+    the original first-attempt prompt; this is never used unless a
+    correction attempt is explicitly requested."""
+    issue_lines = "\n".join(f"- [{i['severity']}] {i['field']}: {i['message']}" for i in issues) or "(none listed)"
+
+    prev = previous_raw_output.strip()
+    truncated_note = ""
+    if len(prev) > max_chars:
+        prev = prev[:max_chars]
+        truncated_note = "\n\n[TRUNCATED — shown output continues past this point.]"
+
+    return f"""Your previous JSON output failed structural validation with these issues:
+
+{issue_lines}
+
+## Your previous output
+{prev}{truncated_note}
+
+Produce a CORRECTED, COMPLETE JSON object fixing every issue listed above. Keep everything else \
+from your previous output unchanged unless it is directly implicated in one of the issues — do not \
+regenerate content that already passed validation. Follow the exact same output contract as before \
+(the same JSON schema, same field names). Output ONLY the corrected JSON object, nothing else."""
