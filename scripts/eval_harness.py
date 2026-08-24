@@ -52,7 +52,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
-                          executive_summary)
+                          executive_summary, cost_projection)
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 WIKI_ROOT = Path(__file__).parent.parent
@@ -315,6 +315,7 @@ def compute_rows(run_dir: Path) -> tuple:
             "cost_per_passed_article_usd": round(total_cost / max(1, sum(1 for v in vals if v["passed"])), 4),
             **{f"judge_{k}_avg_score": v["avg_score"] for k, v in judge_summaries.items()},
             **{f"judge_{k}_fail_count": v["fail_count"] for k, v in judge_summaries.items()},
+            **{f"judge_{k}_total_cost_usd": v["total_judge_cost_usd"] for k, v in judge_summaries.items()},
         })
 
     return by_model, rows
@@ -455,6 +456,25 @@ def cmd_compare(args: argparse.Namespace) -> None:
     print(f"\nWrote {out_path.relative_to(WIKI_ROOT)}")
 
 
+def cmd_project_cost(args: argparse.Namespace) -> None:
+    run_dir = RUNS_DIR / args.run_id
+    if not run_dir.exists():
+        print(f"[ERROR] No run directory: {run_dir}")
+        sys.exit(1)
+    _, rows = compute_rows(run_dir)
+    if args.models:
+        rows = [r for r in rows if r["model"] in args.models]
+    projected = cost_projection.project(rows, sizes=args.sizes, qa_sample_rate=args.qa_sample_rate)
+    if not projected:
+        print("[ERROR] No model in this run has completed any articles yet.")
+        sys.exit(1)
+    md = cost_projection.render_markdown(projected, qa_sample_rate=args.qa_sample_rate)
+    print(md)
+    out_path = run_dir / "cost_projection.md"
+    out_path.write_text(md, encoding="utf-8")
+    print(f"\nWrote {out_path.relative_to(WIKI_ROOT)}")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     subparsers = parser.add_subparsers(dest="command", required=True)
@@ -486,8 +506,17 @@ def main() -> None:
     p_compare.add_argument("--candidate", required=True, help="Run id to compare to (the 'after')")
     p_compare.add_argument("--models", nargs="+", default=None, help="Restrict to these models (default: all common to both runs)")
 
+    p_cost = subparsers.add_parser("project-cost", help="Extrapolate a run's measured $/article to hypothetical corpus sizes")
+    p_cost.add_argument("--run-id", required=True)
+    p_cost.add_argument("--models", nargs="+", default=None)
+    p_cost.add_argument("--sizes", nargs="+", type=int, default=None,
+                         help=f"Corpus sizes to project (default: {cost_projection.DEFAULT_SIZES})")
+    p_cost.add_argument("--qa-sample-rate", type=float, default=cost_projection.DEFAULT_QA_SAMPLE_RATE,
+                         help="Fraction of the projected corpus spot-checked with both judges (default: 0.05)")
+
     args = parser.parse_args()
-    dispatch = {"run": cmd_run, "spotcheck": cmd_spotcheck, "report": cmd_report, "compare": cmd_compare}
+    dispatch = {"run": cmd_run, "spotcheck": cmd_spotcheck, "report": cmd_report, "compare": cmd_compare,
+                "project-cost": cmd_project_cost}
     dispatch[args.command](args)
 
 
