@@ -1,0 +1,16 @@
+[Unit]
+Description=Learning Wiki eval harness dashboard (localhost only)
+After=network.target
+
+[Service]
+Type=simple
+User=evalrunner
+WorkingDirectory=/opt/learning-wiki/eval/runs
+# Bound to 127.0.0.1 only — never reachable except through an SSH tunnel
+# (see deploy/live_view.sh). Stdlib-only, no venv needed.
+ExecStart=/usr/bin/python3 -m http.server 8080 --bind 127.0.0.1
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

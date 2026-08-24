@@ -70,10 +70,12 @@ if [ ! -f "$ENV_FILE" ]; then
   echo "Created $ENV_FILE — edit it with real API keys and RUN_ARGS before starting the service."
 fi
 
-echo "== 7. systemd unit =="
+echo "== 7. systemd units =="
 cp "$APP_DIR/deploy/eval-harness.service" /etc/systemd/system/eval-harness.service
+cp "$APP_DIR/deploy/eval-harness-web.service" /etc/systemd/system/eval-harness-web.service
 chmod +x "$APP_DIR/deploy/run.sh"
 systemctl daemon-reload
+systemctl enable --now eval-harness-web
 
 cat <<EOF
 
@@ -81,6 +83,9 @@ Provisioning done. Next steps:
   1. sudo nano $ENV_FILE          # set real API keys + RUN_ARGS
   2. sudo systemctl enable --now eval-harness
   3. journalctl -u eval-harness -f    # watch progress
+The dashboard web server (eval-harness-web, localhost:8080 on the droplet) is
+already running — view it live from your Mac with:
+  deploy/live_view.sh <droplet-ip> <run-id>
 See deploy/README.md for the full walkthrough, including pulling results back
 and tearing the droplet down when the run is done.
 EOF

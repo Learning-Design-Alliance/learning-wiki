@@ -220,6 +220,8 @@ def cmd_run(args: argparse.Namespace) -> None:
                 print(f"  latency={gen.get('latency_s')}s cost=${gen.get('cost_usd')} "
                       f"contributions={val['n_contributions']} completeness={val['completeness_score']} "
                       f"passed={val['passed']}")
+
+            generate_reports(run_dir, run_id, verbose=False)
             time.sleep(0.5)
 
     print(f"\nDone. Run report with: python3 scripts/eval_harness.py report --run-id {run_id}")
@@ -264,15 +266,15 @@ def cmd_spotcheck(args: argparse.Namespace) -> None:
 
         path.write_text(json.dumps(record, indent=2), encoding="utf-8")
 
+    generate_reports(run_dir, args.run_id, verbose=False)
     print(f"\nRe-scored {len(result_files)} cached results in {run_dir.relative_to(WIKI_ROOT)}")
 
 
-def cmd_report(args: argparse.Namespace) -> None:
-    run_dir = RUNS_DIR / args.run_id
-    if not run_dir.exists():
-        print(f"[ERROR] No run directory: {run_dir}")
-        sys.exit(1)
-
+def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
+    """Regenerate report.md/summary.csv/report.html from whatever result files
+    currently exist under run_dir. Cheap enough (a few ms for a run this size)
+    to call after every completed pair, not just on demand — that's what makes
+    the HTML dashboard's auto-refresh (see html_report.py) actually live."""
     by_model = {}
     for path in sorted(run_dir.glob("*/*.json")):
         record = json.loads(path.read_text(encoding="utf-8"))
@@ -324,7 +326,7 @@ def cmd_report(args: argparse.Namespace) -> None:
             writer.writeheader()
             writer.writerows(rows)
 
-    md_lines = [f"# Eval run: {args.run_id}", "", f"Generated: {date.today().isoformat()}", ""]
+    md_lines = [f"# Eval run: {run_id}", "", f"Generated: {date.today().isoformat()}", ""]
     md_lines.append("| Model | Articles | Gen errors | Total cost ($) | Avg latency (s) | "
                      "Validator pass rate | Avg completeness | Cost / passed article ($) | "
                      "Opus judge avg | GPT judge avg |")
@@ -350,13 +352,22 @@ def cmd_report(args: argparse.Namespace) -> None:
 
     html_path = run_dir / "report.html"
     html_path.write_text(
-        html_report.render_html(args.run_id, date.today().isoformat(), rows, by_model, failure_summary),
+        html_report.render_html(run_id, date.today().isoformat(), rows, by_model, failure_summary),
         encoding="utf-8",
     )
 
-    print("\n".join(md_lines))
-    print(f"\nWrote {report_path.relative_to(WIKI_ROOT)}, {csv_path.relative_to(WIKI_ROOT)}, "
-          f"and {html_path.relative_to(WIKI_ROOT)} (open the .html one in a browser for a visual dashboard)")
+    if verbose:
+        print("\n".join(md_lines))
+        print(f"\nWrote {report_path.relative_to(WIKI_ROOT)}, {csv_path.relative_to(WIKI_ROOT)}, "
+              f"and {html_path.relative_to(WIKI_ROOT)} (open the .html one in a browser for a visual dashboard)")
+
+
+def cmd_report(args: argparse.Namespace) -> None:
+    run_dir = RUNS_DIR / args.run_id
+    if not run_dir.exists():
+        print(f"[ERROR] No run directory: {run_dir}")
+        sys.exit(1)
+    generate_reports(run_dir, args.run_id)
 
 
 def main() -> None:

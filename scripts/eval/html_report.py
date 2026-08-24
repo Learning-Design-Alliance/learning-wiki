@@ -26,6 +26,8 @@ PALETTE = [
     ("#e34948", "#e66767"),  # 8 red
 ]
 
+AUTO_REFRESH_MS = 20_000  # regenerated after every completed pair — see generate_reports() in eval_harness.py
+
 METRICS = [
     ("total_generation_cost_usd", "Total generation cost", "$", 4),
     ("avg_latency_s", "Avg latency", "s", 1),
@@ -334,7 +336,7 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
 <body>
 <div class="viz-root">
   <h1>Eval run: {_esc(run_id)}</h1>
-  <div class="meta">Generated {_esc(generated)} &middot; {len(models)} model(s) &middot; {sum(r.get('n_articles', 0) for r in rows)} article results</div>
+  <div class="meta">Generated {_esc(generated)} &middot; {len(models)} model(s) &middot; {sum(r.get('n_articles', 0) for r in rows)} article results &middot; auto-refreshes every {AUTO_REFRESH_MS // 1000}s</div>
 
   <div class="tabs" role="tablist">
     <button class="tab-btn active" data-target="tab-cost-quality" role="tab" aria-selected="true">Cost vs. quality</button>
@@ -365,15 +367,32 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
   <p class="footer-note">Raw per-article JSON, report.md, and summary.csv live alongside this file in the same run directory.</p>
 </div>
 <script>
+  function activateTab(target) {{
+    var btn = document.querySelector('.tab-btn[data-target="' + target + '"]');
+    if (!btn) return;
+    document.querySelectorAll('.tab-btn').forEach(function (b) {{ b.classList.remove('active'); b.setAttribute('aria-selected', 'false'); }});
+    document.querySelectorAll('.tab-panel').forEach(function (p) {{ p.classList.remove('active'); }});
+    btn.classList.add('active');
+    btn.setAttribute('aria-selected', 'true');
+    document.getElementById(target).classList.add('active');
+  }}
+
   document.querySelectorAll('.tab-btn').forEach(function (btn) {{
     btn.addEventListener('click', function () {{
-      document.querySelectorAll('.tab-btn').forEach(function (b) {{ b.classList.remove('active'); b.setAttribute('aria-selected', 'false'); }});
-      document.querySelectorAll('.tab-panel').forEach(function (p) {{ p.classList.remove('active'); }});
-      btn.classList.add('active');
-      btn.setAttribute('aria-selected', 'true');
-      document.getElementById(btn.dataset.target).classList.add('active');
+      activateTab(btn.dataset.target);
+      try {{ localStorage.setItem('eval-report-tab', btn.dataset.target); }} catch (e) {{}}
     }});
   }});
+
+  // Auto-refresh (this file is regenerated after every completed article/model
+  // pair — see generate_reports() in eval_harness.py) while preserving which
+  // tab was open across the reload, so a long-running batch reads as "live"
+  // instead of requiring a manual re-open every time.
+  try {{
+    var savedTab = localStorage.getItem('eval-report-tab');
+    if (savedTab) activateTab(savedTab);
+  }} catch (e) {{}}
+  setTimeout(function () {{ location.reload(); }}, {AUTO_REFRESH_MS});
 </script>
 </body>
 </html>"""
