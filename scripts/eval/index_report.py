@@ -279,17 +279,33 @@ def _auto_optimize_status_html(state: dict) -> str:
         return ""
     round_num = state.get("round", 0)
     rounds_total = state.get("rounds_total", 0)
+    is_live = state.get("status") in ("starting", "running")
     label, cls = STATUS_LABELS.get(state.get("status"), (state.get("status", "unknown"), "progress"))
-    remaining = max(0, rounds_total - round_num) if state.get("status") == "running" else 0
+    remaining = max(0, rounds_total - round_num) if is_live else 0
     remaining_str = f" &middot; {remaining} round(s) remaining" if remaining else ""
     pct = round(100 * round_num / rounds_total) if rounds_total else 0
+    run_id = state.get("current_run_id", "")
+    version = state.get("prompt_version", "–")
+    # Deliberately no present-tense "current" wording once a search has
+    # stopped — this is a frozen snapshot of wherever it happened to be
+    # when it stopped, which can be well behind scripts/eval/prompt_versions/
+    # CURRENT (the actually-live pointer, shown separately up in the meta
+    # line) if e.g. someone rolled CURRENT back by hand afterward. Reusing
+    # "current" in both places is exactly what made that rollback look like
+    # it hadn't taken, even with an explanatory caption alongside it.
+    if is_live:
+        detail = (f"Round {round_num}/{rounds_total}{remaining_str} &middot; "
+                   f"current run <a href=\"./{_esc(run_id)}/report.html\">{_esc(run_id or '–')}</a> "
+                   f"&middot; prompt version <code>{_esc(version)}</code>")
+    else:
+        detail = (f"Stopped at round {round_num}/{rounds_total} &middot; "
+                   f"last run <a href=\"./{_esc(run_id)}/report.html\">{_esc(run_id or '–')}</a> "
+                   f"&middot; was using prompt version <code>{_esc(version)}</code> when it stopped")
     return f"""
     <div class="card auto-status-card">
       <div class="auto-status-row">
         <span class="badge-status badge-status-{cls}">{_esc(label)}</span>
-        <span class="auto-status-text">Round {round_num}/{rounds_total}{remaining_str} &middot;
-        current run <a href="./{_esc(state.get('current_run_id', ''))}/report.html">{_esc(state.get('current_run_id', '–'))}</a>
-        &middot; prompt version <code>{_esc(state.get('prompt_version', '–'))}</code></span>
+        <span class="auto-status-text">{detail}</span>
       </div>
       <div class="bar-track auto-status-track"><div class="bar-fill" style="width:{max(2, pct)}%; background:var(--series-1);"></div></div>
     </div>"""
@@ -430,11 +446,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
 <div class="viz-root">
   <h1>Eval harness — all runs</h1>
   <div class="meta">{len(run_summaries)} run(s) &middot; auto-refreshes every {AUTO_REFRESH_MS // 1000}s
-  {f' &middot; live current prompt version: <code>{_esc(current_prompt_version)}</code>' if current_prompt_version else ''}</div>
-  <p class="section-note">"Live current prompt version" is what <code>run</code>/<code>auto-optimize</code> will actually
-  use on the next invocation (<code>scripts/eval/prompt_versions/CURRENT</code>) — it can differ from the
-  "prompt version" shown in the status banner below, which is just a snapshot of whatever the last search
-  was working from when it stopped, not necessarily what's live now.</p>
+  {f' &middot; current prompt version: <code>{_esc(current_prompt_version)}</code> (what the next run will use)' if current_prompt_version else ''}</div>
 
   {_auto_optimize_status_html(auto_optimize_state or {})}
   {_launch_form_html()}
