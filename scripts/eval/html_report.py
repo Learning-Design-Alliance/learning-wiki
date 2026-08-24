@@ -1,0 +1,342 @@
+"""
+html_report.py — Renders a run's aggregate + per-article results as a
+self-contained, offline-viewable HTML dashboard (no CDN, no build step —
+open the file directly in a browser). Written by scripts/eval_harness.py's
+`report` command alongside report.md/summary.csv.
+
+Palette/marks follow the project's dataviz conventions: fixed categorical
+color per model (never reassigned when the model set changes), one hue
+family per chart, thin bars with rounded data-ends, a legend, and a full
+data table so nothing is chart-only.
+"""
+
+import html
+
+# Categorical palette (validated ordering — see the dataviz skill's
+# references/palette.md). Assigned to models in first-seen order and never
+# reshuffled within a run. Light/dark pairs per slot.
+PALETTE = [
+    ("#2a78d6", "#3987e5"),  # 1 blue
+    ("#eb6834", "#d95926"),  # 2 orange
+    ("#1baf7a", "#199e70"),  # 3 aqua
+    ("#eda100", "#c98500"),  # 4 yellow
+    ("#e87ba4", "#d55181"),  # 5 magenta
+    ("#008300", "#008300"),  # 6 green
+    ("#4a3aa7", "#9085e9"),  # 7 violet
+    ("#e34948", "#e66767"),  # 8 red
+]
+
+METRICS = [
+    ("total_generation_cost_usd", "Total generation cost", "$", 4),
+    ("avg_latency_s", "Avg latency", "s", 1),
+    ("validator_pass_rate", "Validator pass rate", "%", 0),
+    ("avg_completeness_score", "Avg completeness", "%", 0),
+    ("judge_opus_avg_score", "Opus judge avg (of 5)", "", 2),
+    ("judge_gpt_avg_score", "GPT judge avg (of 5)", "", 2),
+]
+
+
+def _esc(s) -> str:
+    return html.escape(str(s)) if s is not None else ""
+
+
+def _fmt(value, unit: str, decimals: int, scale100: bool = False) -> str:
+    if value is None:
+        return "–"
+    v = value * 100 if scale100 else value
+    if unit == "$":
+        return f"${v:.{decimals}f}"
+    if unit == "%":
+        return f"{v:.{decimals}f}%"
+    return f"{v:.{decimals}f}{unit}"
+
+
+def _model_colors(models: list) -> dict:
+    return {m: PALETTE[i % len(PALETTE)] for i, m in enumerate(models)}
+
+
+def _css_vars(colors: dict) -> tuple:
+    light_lines, dark_lines = [], []
+    for i, (model, (light, dark)) in enumerate(colors.items(), start=1):
+        light_lines.append(f"  --series-{i}: {light};")
+        dark_lines.append(f"  --series-{i}: {dark};")
+    return "\n".join(light_lines), "\n".join(dark_lines)
+
+
+def _metric_chart(key: str, label: str, unit: str, decimals: int, rows: list, colors: dict,
+                   scale100: bool = False) -> str:
+    pairs = [(r["model"], r.get(key)) for r in rows]
+    numeric = [v * 100 if (scale100 and v is not None) else v for _, v in pairs]
+    max_val = max([v for v in numeric if v is not None], default=0) or 1
+
+    bars = []
+    for i, (model, raw_val) in enumerate(pairs):
+        val = raw_val * 100 if (scale100 and raw_val is not None) else raw_val
+        pct = 0 if val is None else max(2, round(100 * val / max_val))
+        slot = (list(colors.keys()).index(model) % len(colors)) + 1
+        display = _fmt(raw_val, unit, decimals, scale100=scale100)
+        bars.append(f"""
+        <div class="bar-row" title="{_esc(model)}: {_esc(display)}">
+          <span class="bar-label">{_esc(model)}</span>
+          <div class="bar-track">
+            <div class="bar-fill" style="width:{pct}%; background:var(--series-{slot});"></div>
+          </div>
+          <span class="bar-value">{_esc(display)}</span>
+        </div>""")
+
+    return f"""
+    <div class="chart-card">
+      <h3>{_esc(label)}</h3>
+      <div class="bar-chart">{''.join(bars)}</div>
+    </div>"""
+
+
+def _scatter_chart(rows: list, colors: dict) -> str:
+    points = []
+    for r in rows:
+        n = r.get("n_articles") or 0
+        cost = (r.get("total_generation_cost_usd") or 0) / n if n else None
+        scores = [r.get("judge_opus_avg_score"), r.get("judge_gpt_avg_score")]
+        scores = [s for s in scores if s is not None]
+        quality = sum(scores) / len(scores) if scores else None
+        if cost is None or quality is None:
+            continue
+        points.append((r["model"], cost, quality))
+
+    if not points:
+        return '<p class="empty-note">No points yet — need at least one model with both generation cost and a judge score.</p>'
+
+    W, H, PAD = 520, 320, 56
+    max_cost = max(p[1] for p in points) or 1
+    svg_points = []
+    for model, cost, quality in points:
+        x = PAD + (cost / max_cost) * (W - 2 * PAD) if max_cost else PAD
+        y = H - PAD - (quality / 5) * (H - 2 * PAD)
+        slot = (list(colors.keys()).index(model) % len(colors)) + 1
+        svg_points.append(f"""
+        <g>
+          <circle cx="{x:.1f}" cy="{y:.1f}" r="7" fill="var(--series-{slot})" stroke="var(--surface-1)" stroke-width="2">
+            <title>{_esc(model)}: ${cost:.4f}/article, {quality:.2f}/5 avg judge score</title>
+          </circle>
+          <text x="{x + 12:.1f}" y="{y + 4:.1f}" class="scatter-label">{_esc(model)}</text>
+        </g>""")
+
+    gridlines = "".join(
+        f'<line x1="{PAD}" y1="{H - PAD - f * (H - 2 * PAD)}" x2="{W - PAD}" '
+        f'y2="{H - PAD - f * (H - 2 * PAD)}" class="gridline" />'
+        for f in (0, 0.25, 0.5, 0.75, 1.0)
+    )
+    y_ticks = "".join(
+        f'<text x="{PAD - 10}" y="{H - PAD - f * (H - 2 * PAD) + 4}" class="axis-label" text-anchor="end">{f * 5:.0f}</text>'
+        for f in (0, 0.25, 0.5, 0.75, 1.0)
+    )
+
+    return f"""
+    <svg viewBox="0 0 {W} {H}" class="scatter-svg" role="img" aria-label="Cost per article vs. average judge score, one point per model">
+      {gridlines}
+      <line x1="{PAD}" y1="{H - PAD}" x2="{W - PAD}" y2="{H - PAD}" class="axis-line" />
+      <line x1="{PAD}" y1="{PAD}" x2="{PAD}" y2="{H - PAD}" class="axis-line" />
+      {y_ticks}
+      <text x="{W / 2}" y="{H - 14}" class="axis-title" text-anchor="middle">Cost per article ($)</text>
+      <text x="16" y="{H / 2}" class="axis-title" text-anchor="middle" transform="rotate(-90 16 {H / 2})">Avg judge score (of 5)</text>
+      {''.join(svg_points)}
+    </svg>"""
+
+
+def _detail_table(by_model: dict, colors: dict) -> str:
+    rows_html = []
+    for model, records in by_model.items():
+        slot = (list(colors.keys()).index(model) % len(colors)) + 1
+        for rec in sorted(records, key=lambda r: r["article_id"]):
+            gen = rec.get("generation") or {}
+            val = rec.get("validation") or {}
+            judges = rec.get("judges") or {}
+            opus = judges.get("opus", {}).get("average_score")
+            gpt = judges.get("gpt", {}).get("average_score")
+
+            if "error" in gen:
+                status_html = f'<span class="status-dot" style="background:var(--status-critical)"></span> Gen error'
+            elif val.get("passed"):
+                status_html = f'<span class="status-dot" style="background:var(--status-good)"></span> Passed'
+            else:
+                status_html = f'<span class="status-dot" style="background:var(--status-critical)"></span> Failed'
+
+            rows_html.append(f"""
+        <tr>
+          <td><span class="swatch" style="background:var(--series-{slot})"></span>{_esc(model)}</td>
+          <td>{_esc(rec.get('article_title', rec['article_id']))[:50]}</td>
+          <td>{status_html}</td>
+          <td class="num">{_fmt(val.get('completeness_score'), '%', 0, scale100=True)}</td>
+          <td class="num">{_fmt(gen.get('cost_usd'), '$', 5)}</td>
+          <td class="num">{_fmt(gen.get('latency_s'), 's', 1)}</td>
+          <td class="num">{_fmt(opus, '', 2)}</td>
+          <td class="num">{_fmt(gpt, '', 2)}</td>
+        </tr>""")
+
+    return f"""
+    <table class="detail-table">
+      <thead>
+        <tr><th>Model</th><th>Article</th><th>Status</th><th>Completeness</th>
+            <th>Cost</th><th>Latency</th><th>Opus</th><th>GPT</th></tr>
+      </thead>
+      <tbody>{''.join(rows_html)}</tbody>
+    </table>"""
+
+
+def _legend(colors: dict) -> str:
+    items = []
+    for i, model in enumerate(colors, start=1):
+        items.append(f'<span class="legend-item"><span class="swatch" style="background:var(--series-{i})"></span>{_esc(model)}</span>')
+    return f'<div class="legend">{"".join(items)}</div>'
+
+
+def _failure_section(failure_summary: dict, colors: dict) -> str:
+    if not failure_summary:
+        return ""
+    blocks = []
+    for model, data in failure_summary.items():
+        slot = (list(colors.keys()).index(model) % len(colors)) + 1 if model in colors else 1
+        parts = [f'<h3><span class="swatch" style="background:var(--series-{slot})"></span>{_esc(model)}</h3>']
+
+        if data.get("validator_top_issues"):
+            items = "".join(
+                f'<li><span class="badge badge-{i["severity"]}">{i["severity"]}</span> '
+                f'<code>{_esc(i["field"])}</code> — {_esc(i["message"])} '
+                f'<span class="count-tag">&times;{i["count"]}</span></li>'
+                for i in data["validator_top_issues"]
+            )
+            parts.append(f'<p class="subhead">Most common validator issues</p><ul class="issue-list">{items}</ul>')
+
+        if data.get("judge_keyword_tally"):
+            chips = "".join(
+                f'<span class="chip">{_esc(bucket)}: {count}</span>'
+                for bucket, count in data["judge_keyword_tally"].items()
+            )
+            parts.append(f'<p class="subhead">Judge complaint categories (failed verdicts)</p><div class="chip-row">{chips}</div>')
+
+        if data.get("worst_articles"):
+            items = "".join(
+                f'<li>{_esc(a["article_id"])} — {a["avg_judge_score"]}/5 avg judge score</li>'
+                for a in data["worst_articles"]
+            )
+            parts.append(f'<p class="subhead">Lowest-scoring articles</p><ul class="issue-list">{items}</ul>')
+
+        blocks.append(f'<div class="failure-block">{"".join(parts)}</div>')
+
+    return f'<div class="card failure-grid">{"".join(blocks)}</div>'
+
+
+def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure_summary: dict = None) -> str:
+    models = [r["model"] for r in rows]
+    colors = _model_colors(models)
+    light_vars, dark_vars = _css_vars(colors)
+
+    charts = "".join(
+        _metric_chart(key, label, unit, decimals, rows, colors, scale100=(unit == "%"))
+        for key, label, unit, decimals in METRICS
+    )
+
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Eval run: {_esc(run_id)}</title>
+<style>
+  :root {{ color-scheme: light; }}
+  .viz-root {{
+    --surface-1: #fcfcfb; --page: #f9f9f7;
+    --text-primary: #0b0b0b; --text-secondary: #52514e; --text-muted: #898781;
+    --gridline: #e1e0d9; --axis: #c3c2b7;
+    --status-good: #0ca30c; --status-critical: #d03b3b; --status-warning: #fab219;
+    --border: rgba(11,11,11,0.10);
+{light_vars}
+  }}
+  @media (prefers-color-scheme: dark) {{
+    :root:where(:not([data-theme="light"])) .viz-root {{
+      --surface-1: #1a1a19; --page: #0d0d0d;
+      --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #898781;
+      --gridline: #2c2c2a; --axis: #383835;
+      --status-good: #0ca30c; --status-critical: #e66767; --status-warning: #fab219;
+      --border: rgba(255,255,255,0.10);
+{dark_vars}
+    }}
+  }}
+  :root[data-theme="dark"] .viz-root {{
+    --surface-1: #1a1a19; --page: #0d0d0d;
+    --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #898781;
+    --gridline: #2c2c2a; --axis: #383835;
+    --status-good: #0ca30c; --status-critical: #e66767; --status-warning: #fab219;
+    --border: rgba(255,255,255,0.10);
+{dark_vars}
+  }}
+  * {{ box-sizing: border-box; }}
+  body {{ margin: 0; background: var(--page); font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }}
+  .viz-root {{ max-width: 1040px; margin: 0 auto; padding: 32px 20px 64px; color: var(--text-primary); }}
+  h1 {{ font-size: 22px; margin: 0 0 4px; }}
+  .meta {{ color: var(--text-secondary); font-size: 13px; margin-bottom: 24px; }}
+  h2 {{ font-size: 16px; margin: 36px 0 12px; }}
+  h3 {{ font-size: 13px; color: var(--text-secondary); margin: 0 0 12px; font-weight: 600; }}
+  .card {{ background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 20px; }}
+  .chart-grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }}
+  .chart-card {{ background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 16px 20px; }}
+  .bar-row {{ display: grid; grid-template-columns: 130px 1fr 70px; align-items: center; gap: 10px; padding: 5px 0; }}
+  .bar-label {{ font-size: 12px; color: var(--text-secondary); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }}
+  .bar-track {{ height: 16px; background: var(--gridline); border-radius: 4px; }}
+  .bar-fill {{ height: 16px; border-radius: 4px; min-width: 4px; }}
+  .bar-value {{ font-size: 12px; color: var(--text-primary); font-variant-numeric: tabular-nums; text-align: right; }}
+  .legend {{ display: flex; flex-wrap: wrap; gap: 14px; margin: 8px 0 20px; font-size: 12px; color: var(--text-secondary); }}
+  .legend-item {{ display: inline-flex; align-items: center; gap: 6px; }}
+  .swatch {{ display: inline-block; width: 10px; height: 10px; border-radius: 3px; }}
+  .scatter-svg {{ width: 100%; height: auto; }}
+  .gridline {{ stroke: var(--gridline); stroke-width: 1; }}
+  .axis-line {{ stroke: var(--axis); stroke-width: 1; }}
+  .axis-label, .axis-title {{ fill: var(--text-muted); font-size: 10px; }}
+  .axis-title {{ font-size: 11px; }}
+  .scatter-label {{ fill: var(--text-secondary); font-size: 11px; }}
+  .detail-table {{ width: 100%; border-collapse: collapse; font-size: 13px; background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }}
+  .detail-table th {{ text-align: left; padding: 10px 12px; color: var(--text-muted); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.03em; border-bottom: 1px solid var(--border); }}
+  .detail-table td {{ padding: 9px 12px; border-bottom: 1px solid var(--gridline); }}
+  .detail-table td.num {{ text-align: right; font-variant-numeric: tabular-nums; }}
+  .detail-table tr:last-child td {{ border-bottom: none; }}
+  .status-dot {{ display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; }}
+  .empty-note {{ color: var(--text-muted); font-size: 13px; }}
+  .footer-note {{ margin-top: 28px; color: var(--text-muted); font-size: 12px; }}
+  .failure-grid {{ display: flex; flex-direction: column; gap: 24px; }}
+  .failure-block h3 {{ font-size: 14px; color: var(--text-primary); display: flex; align-items: center; gap: 8px; margin: 0 0 10px; }}
+  .subhead {{ font-size: 11px; text-transform: uppercase; letter-spacing: 0.03em; color: var(--text-muted); margin: 14px 0 6px; }}
+  .issue-list {{ margin: 0; padding-left: 0; list-style: none; font-size: 13px; }}
+  .issue-list li {{ padding: 4px 0; border-bottom: 1px solid var(--gridline); }}
+  .issue-list li:last-child {{ border-bottom: none; }}
+  .issue-list code {{ background: var(--gridline); padding: 1px 5px; border-radius: 4px; font-size: 12px; }}
+  .badge {{ display: inline-block; font-size: 10px; text-transform: uppercase; padding: 1px 6px; border-radius: 4px; margin-right: 4px; }}
+  .badge-error {{ background: var(--status-critical); color: #fff; }}
+  .badge-warning {{ background: var(--status-warning); color: #0b0b0b; }}
+  .count-tag {{ color: var(--text-muted); font-size: 12px; float: right; }}
+  .chip-row {{ display: flex; flex-wrap: wrap; gap: 8px; }}
+  .chip {{ background: var(--gridline); color: var(--text-secondary); font-size: 12px; padding: 4px 10px; border-radius: 999px; }}
+</style>
+</head>
+<body>
+<div class="viz-root">
+  <h1>Eval run: {_esc(run_id)}</h1>
+  <div class="meta">Generated {_esc(generated)} &middot; {len(models)} model(s) &middot; {sum(r.get('n_articles', 0) for r in rows)} article results</div>
+
+  <h2>Cost vs. quality</h2>
+  <div class="card">
+    {_scatter_chart(rows, colors)}
+    {_legend(colors)}
+  </div>
+
+  <h2>Per-model metrics</h2>
+  <div class="chart-grid">{charts}</div>
+
+  <h2>Common failure patterns</h2>
+  {_failure_section(failure_summary or {}, colors)}
+
+  <h2>Per-article detail</h2>
+  {_detail_table(by_model, colors)}
+
+  <p class="footer-note">Raw per-article JSON, report.md, and summary.csv live alongside this file in the same run directory.</p>
+</div>
+</body>
+</html>"""

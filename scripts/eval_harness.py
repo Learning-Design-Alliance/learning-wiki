@@ -51,7 +51,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
-from scripts.eval import fetch_article, openrouter_client, validator, judge
+from scripts.eval import fetch_article, openrouter_client, validator, judge, failure_analysis, html_report
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 WIKI_ROOT = Path(__file__).parent.parent
@@ -341,11 +341,22 @@ def cmd_report(args: argparse.Namespace) -> None:
     md_lines.append("Raw per-article results: `*/<article-id>.json` in this directory. "
                      "Machine-readable summary: `summary.csv`.")
 
+    failure_summary = failure_analysis.analyze(by_model)
+    md_lines.append("")
+    md_lines.append(failure_analysis.render_markdown(failure_summary))
+
     report_path = run_dir / "report.md"
     report_path.write_text("\n".join(md_lines), encoding="utf-8")
 
+    html_path = run_dir / "report.html"
+    html_path.write_text(
+        html_report.render_html(args.run_id, date.today().isoformat(), rows, by_model, failure_summary),
+        encoding="utf-8",
+    )
+
     print("\n".join(md_lines))
-    print(f"\nWrote {report_path.relative_to(WIKI_ROOT)} and {csv_path.relative_to(WIKI_ROOT)}")
+    print(f"\nWrote {report_path.relative_to(WIKI_ROOT)}, {csv_path.relative_to(WIKI_ROOT)}, "
+          f"and {html_path.relative_to(WIKI_ROOT)} (open the .html one in a browser for a visual dashboard)")
 
 
 def main() -> None:
