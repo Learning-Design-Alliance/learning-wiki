@@ -109,10 +109,36 @@ completeness, average judge score, and — the number that actually answers
 if 70% good pages plus a quick human triage is less total cost than getting
 30% fewer pages to fix by hand; run the corpus with both to find out.
 
+The same command also writes `report.html` — a visual dashboard (Summary /
+Cost vs. quality / Per-model metrics / Failure patterns / Per-article detail
+tabs) that auto-refreshes while a batch is running. On a droplet, see
+[deploy/README.md](../deploy/README.md) for `live_view.sh`, which serves this
+over an SSH tunnel so you can watch it update live instead of re-running
+`report` and re-opening the file by hand.
+
 Per-article detail — full generation output, every validator issue, every
-judge score/issue — lives in `eval/runs/<run-id>/<model>/<article-id>.json`
-if you need to see *why* a model scored the way it did rather than just the
-aggregate.
+judge score/issue — lives in `eval/runs/<run-id>/<model>/<article-id>.json`,
+and is also reachable by clicking a row in the dashboard's "Per-article
+detail" tab, if you need to see *why* a model scored the way it did rather
+than just the aggregate.
+
+## Comparing runs and projecting cost
+
+```bash
+python3 scripts/eval_harness.py compare --baseline <run-id> --candidate <run-id>
+python3 scripts/eval_harness.py project-cost --run-id <run-id> --sizes 10000 100000 1000000
+```
+
+`compare` diffs two runs model-by-model (judge scores, validator pass rate,
+failure-pattern keyword tallies) — the tool for "did changing the prompt/
+validator actually move the numbers," not just "does it feel better."
+
+`project-cost` extrapolates a run's *measured* $/article to hypothetical
+corpus sizes, split into generation-only cost and generation + a spot-check
+QA judge pass (default 5% of articles, not every one — see the module
+docstring in `scripts/eval/cost_projection.py` for why 100% double-judging
+isn't the right production assumption). The corpus-size scenarios are
+brackets to reason with, not a prediction of the real target count.
 
 ## Repeating the test
 
