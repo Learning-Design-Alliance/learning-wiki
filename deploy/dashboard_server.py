@@ -195,19 +195,16 @@ class Handler(SimpleHTTPRequestHandler):
             rounds = None
 
         if rounds is None or not (1 <= rounds <= MAX_ROUNDS):
-            self._respond_html(400, f"<p>rounds must be a whole number between 1 and {MAX_ROUNDS}.</p>"
-                                     f'<p><a href="/">Back</a></p>')
+            self._respond(400, f"rounds must be a whole number between 1 and {MAX_ROUNDS}.")
             return
 
         if _already_running():
-            self._respond_html(
-                409, "<p>An auto-optimize search is already running — check the landing page's status "
-                     'banner or its log before starting another.</p><p><a href="/">Back</a></p>')
+            self._respond(409, "An auto-optimize search is already running — check the landing page's "
+                                "status banner or its log before starting another.")
             return
 
         if not VENV_PYTHON.exists():
-            self._respond_html(500, f"<p>{VENV_PYTHON} not found — is the venv set up?</p>"
-                                     f'<p><a href="/">Back</a></p>')
+            self._respond(500, f"{VENV_PYTHON} not found — is the venv set up?")
             return
 
         launch_args = _resolve_launch_args(rounds)
@@ -231,15 +228,35 @@ class Handler(SimpleHTTPRequestHandler):
         time.sleep(2.5)
         if proc.poll() is not None and proc.returncode != 0:
             tail = _tail_log(log_path)
-            self._respond_html(
-                500, f"<p>auto-optimize exited immediately (exit code {proc.returncode}) — it did not "
-                     f"start a search. Last log lines:</p><pre>{html.escape(tail)}</pre>"
-                     f'<p><a href="/">Back</a></p>')
+            self._respond(500, f"auto-optimize exited immediately (exit code {proc.returncode}) — it did "
+                                f"not start a search.\n\nLast log lines:\n{tail}")
             return
 
-        self.send_response(303)
-        self.send_header("Location", "/")
-        self.end_headers()
+        self._respond(200, f"Launch started — {rounds} more round(s) queued.")
+
+    def _wants_json(self) -> bool:
+        # The landing page's launch form submits via fetch() with this
+        # header so it can show the result as a JS dialog instead of
+        # navigating to a whole separate page for a one-line status
+        # message; anything else (a bare curl, a browser with JS off)
+        # still gets a normal HTML page back.
+        return "application/json" in self.headers.get("Accept", "")
+
+    def _respond(self, status: int, message: str) -> None:
+        if self._wants_json():
+            body = json.dumps({"ok": status < 300, "message": message}).encode("utf-8")
+            self.send_response(status)
+            self.send_header("Content-Type", "application/json; charset=utf-8")
+            self.send_header("Content-Length", str(len(body)))
+            self.end_headers()
+            self.wfile.write(body)
+            return
+        if status < 300:
+            self.send_response(303)
+            self.send_header("Location", "/")
+            self.end_headers()
+            return
+        self._respond_html(status, f"<pre>{html.escape(message)}</pre><p><a href=\"/\">Back</a></p>")
 
     def _respond_html(self, status: int, body: str) -> None:
         self.send_response(status)

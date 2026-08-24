@@ -314,16 +314,50 @@ def _auto_optimize_status_html(state: dict) -> str:
 def _launch_form_html() -> str:
     return """
     <div class="card launch-card">
-      <form method="POST" action="/launch-auto-optimize" class="launch-form">
+      <form id="launch-form" method="POST" action="/launch-auto-optimize" class="launch-form">
         <label for="rounds">Launch</label>
         <input type="number" id="rounds" name="rounds" value="10" min="1" max="20">
         <label for="rounds">more round(s) of auto-optimize</label>
-        <button type="submit">Launch</button>
+        <button type="submit" id="launch-button">Launch</button>
       </form>
       <p class="section-note">Continues from the current best result (or the baseline configured in
-      deploy/auto-optimize-config.env if nothing has run yet). Runs in the background — reload this
-      page or check the status banner above once it starts.</p>
-    </div>"""
+      deploy/auto-optimize-config.env if nothing has run yet). Runs in the background — this page
+      refreshes automatically once it starts.</p>
+    </div>
+    <script>
+      (function () {
+        var form = document.getElementById('launch-form');
+        var button = document.getElementById('launch-button');
+        form.addEventListener('submit', function (e) {
+          e.preventDefault();
+          button.disabled = true;
+          var originalLabel = button.textContent;
+          button.textContent = 'Launching\\u2026';
+          fetch('/launch-auto-optimize', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/x-www-form-urlencoded',
+              'Accept': 'application/json',
+            },
+            body: new URLSearchParams(new FormData(form)),
+          }).then(function (resp) {
+            return resp.json().then(function (data) { return { resp: resp, data: data }; });
+          }).then(function (result) {
+            window.alert(result.data.message);
+            if (result.data.ok) {
+              window.location.reload();
+            } else {
+              button.disabled = false;
+              button.textContent = originalLabel;
+            }
+          }).catch(function (err) {
+            window.alert('Launch request failed: ' + err);
+            button.disabled = false;
+            button.textContent = originalLabel;
+          });
+        });
+      })();
+    </script>"""
 
 
 def render_html(run_summaries: list, history_rows: list, auto_optimize_state: dict = None,
