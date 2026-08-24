@@ -15,7 +15,7 @@ MODEL_DESCRIPTIONS = {
     "qwen/qwen3-30b-a3b": "Lightweight MoE, ~3B active / 30B total — open weight",
     "google/gemma-3-27b-it": "Dense, 27B — open weight",
     "google/gemma-4-26b-a4b-it": "Lightweight MoE, ~4B active / 26B total — open weight",
-    "qwen/qwen3.8-27": "Dense, 27B — open weight",
+    "qwen/qwen3.8-27b": "Dense, 27B — open weight",
     "google/gemini-3.7-flash": "Frontier closed model — proprietary",
 }
 
