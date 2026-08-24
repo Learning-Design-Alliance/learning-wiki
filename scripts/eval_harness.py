@@ -605,6 +605,10 @@ def generate_index(verbose: bool = True) -> None:
             except (json.JSONDecodeError, OSError):
                 pass
 
+        # Max, not mean, across models: a run mixes several unrelated models,
+        # and averaging their scores together answers "did the blended batch
+        # move" rather than "did any specific model actually get better" —
+        # the latter is what matters when optimizing one model's prompt.
         scores = [v for r in rows for v in (r.get("judge_opus_avg_score"), r.get("judge_gpt_avg_score")) if v is not None]
         total_cost = sum(r.get("total_generation_cost_usd") or 0 for r in rows)
         latencies = [r["avg_latency_s"] for r in rows if r.get("avg_latency_s")]
@@ -614,7 +618,7 @@ def generate_index(verbose: bool = True) -> None:
         run_summaries.append({
             "run_id": run_dir.name,
             "done": done_pairs, "total": total_pairs,
-            "avg_judge_score": round(sum(scores) / len(scores), 2) if scores else None,
+            "best_judge_score": round(max(scores), 2) if scores else None,
             "total_cost_usd": round(total_cost, 4),
             "avg_latency_s": round(sum(latencies) / len(latencies), 1) if latencies else None,
             "prompt_versions": ", ".join(versions) if versions else "unknown",

@@ -46,6 +46,7 @@ def collect(runs_dir: Path) -> list:
                 "earliest_timestamp": min(timestamps) if timestamps else "",
                 "avg_judge_score": round(sum(all_scores) / len(all_scores), 2) if all_scores else None,
                 "validator_pass_rate": round(sum(1 for v in vals if v["passed"]) / len(vals), 3) if vals else None,
+                "avg_completeness_score": round(sum(v["completeness_score"] for v in vals) / len(vals), 3) if vals else None,
                 "cost_per_article_usd": round(sum(g["cost_usd"] or 0 for g in gens) / len(gens), 5) if gens else None,
                 "avg_latency_s": round(sum(g["latency_s"] for g in gens) / len(gens), 1) if gens else None,
             })
