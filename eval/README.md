@@ -140,6 +140,37 @@ docstring in `scripts/eval/cost_projection.py` for why 100% double-judging
 isn't the right production assumption). The corpus-size scenarios are
 brackets to reason with, not a prediction of the real target count.
 
+## Prompt versioning, trend history, and auto-optimization
+
+The extraction prompt (`scripts/eval/prompts.py`) is versioned, not a single
+hardcoded string — the text lives in `scripts/eval/prompt_versions/vN.txt`,
+with a changelog and a ratcheted `CURRENT` pointer (advances only when a
+version is confirmed to improve on its predecessor; a regressed experiment
+stays saved on disk but never becomes the default). Every result record
+stamps which version produced it.
+
+```bash
+python3 scripts/eval_harness.py run --models <...> --prompt-version v2   # pin a specific version; omit for current
+python3 scripts/eval_harness.py history                                  # trend across every run, grouped by version
+python3 scripts/eval_harness.py optimize --baseline-run <run-id> --iterations 3
+```
+
+`history` is the cross-run view `compare` doesn't give you — not "did this
+one change help" but "are we actually trending upward across every test
+batch so far."
+
+`optimize` automates the propose → re-run → compare → keep-or-reject loop:
+it hands Claude Opus the baseline run's exact failure data (the same
+validator issues and judge complaints shown on the dashboard's Failure
+patterns tab — not a hand-picked summary) and asks for a revised prompt
+addressing those specific patterns, saves it as a new version, re-runs it
+against the same models and articles as the baseline, and only adopts it as
+the new default if `compare`'s average judge-score delta clears
+`--min-improvement` (default: any improvement at all). The loop stops the
+moment a candidate doesn't improve, rather than continuing to spend on a
+losing line — this costs real OpenRouter + Opus + judge money per iteration,
+so `--iterations` is a hard cap, not a target to always hit.
+
 ## Repeating the test
 
 Everything is cached per (run, model, article), so a `run` is resumable —
