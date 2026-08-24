@@ -13,6 +13,8 @@ data table so nothing is chart-only.
 import html
 import json
 
+from . import model_catalog
+
 # Categorical palette (validated ordering — see the dataviz skill's
 # references/palette.md). Assigned to models in first-seen order and never
 # reshuffled within a run. Light/dark pairs per slot.
@@ -86,8 +88,10 @@ def _metric_chart(key: str, label: str, unit: str, decimals: int, rows: list, co
         pct = 0 if val is None else max(2, round(100 * val / max_val))
         slot = (list(colors.keys()).index(model) % len(colors)) + 1
         display = _fmt(raw_val, unit, decimals, scale100=scale100)
+        desc = model_catalog.describe(model)
+        title = f"{model} ({desc}): {display}" if desc else f"{model}: {display}"
         bars.append(f"""
-        <div class="bar-row" title="{_esc(model)}: {_esc(display)}">
+        <div class="bar-row" title="{_esc(title)}">
           <span class="bar-label">{_esc(model)}</span>
           <div class="bar-track">
             <div class="bar-fill" style="width:{pct}%; background:var(--series-{slot});"></div>
@@ -165,7 +169,7 @@ def _scatter_chart(rows: list, colors: dict) -> str:
         svg_points.append(f"""
         <g>
           <circle cx="{p['x']:.1f}" cy="{p['y']:.1f}" r="7" fill="var(--series-{p['slot']})" stroke="var(--surface-1)" stroke-width="2">
-            <title>{_esc(p['model'])}: ${p['cost']:.4f}/article, {p['quality']:.2f}/5 avg judge score</title>
+            <title>{_esc(p['model'])}{f" ({_esc(model_catalog.describe(p['model']))})" if model_catalog.describe(p['model']) else ""}: ${p['cost']:.4f}/article, {p['quality']:.2f}/5 avg judge score</title>
           </circle>
           <text x="{p['label_x']:.1f}" y="{p['label_y'] + 4:.1f}" text-anchor="{p['anchor']}" class="scatter-label">{_esc(p['model'])}</text>
         </g>""")
@@ -308,10 +312,15 @@ def _queue_section(queue_status: list, colors: dict) -> str:
         slot = (list(colors.keys()).index(model) % len(colors)) + 1 if model in colors else 1
         pct = round(100 * s["done"] / s["total"]) if s["total"] else 0
         count_str = f"{s['done']}/{s['total']}" + (f" ({s['errors']} err)" if s["errors"] else "")
+        desc = model_catalog.describe(model)
+        desc_html = f'<span class="queue-model-desc">{_esc(desc)}</span>' if desc else ""
         rows_html.append(f"""
         <div class="queue-row">
           <span class="swatch" style="background:var(--series-{slot})"></span>
-          <span class="queue-model">{_esc(model)}</span>
+          <span class="queue-model">
+            <span class="queue-model-name">{_esc(model)}</span>
+            {desc_html}
+          </span>
           <span class="queue-badge queue-badge-{s['phase']}">{_esc(PHASE_LABELS.get(s['phase'], s['phase']))}</span>
           <div class="bar-track queue-track"><div class="bar-fill" style="width:{max(2, pct)}%; background:var(--series-{slot});"></div></div>
           <span class="queue-count">{_esc(count_str)}</span>
@@ -328,7 +337,9 @@ def _queue_section(queue_status: list, colors: dict) -> str:
 def _legend(colors: dict) -> str:
     items = []
     for i, model in enumerate(colors, start=1):
-        items.append(f'<span class="legend-item"><span class="swatch" style="background:var(--series-{i})"></span>{_esc(model)}</span>')
+        desc = model_catalog.describe(model)
+        title = f' title="{_esc(desc)}"' if desc else ""
+        items.append(f'<span class="legend-item"{title}><span class="swatch" style="background:var(--series-{i})"></span>{_esc(model)}</span>')
     return f'<div class="legend">{"".join(items)}</div>'
 
 
@@ -540,7 +551,9 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
   .queue-card {{ margin-bottom: 20px; }}
   .queue-row {{ display: grid; grid-template-columns: 12px 1fr 120px 140px 110px; align-items: center; gap: 10px; padding: 6px 0; border-bottom: 1px solid var(--gridline); }}
   .queue-row:last-child {{ border-bottom: none; }}
-  .queue-model {{ font-size: 13px; color: var(--text-primary); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }}
+  .queue-model {{ display: flex; flex-direction: column; overflow: hidden; min-width: 0; }}
+  .queue-model-name {{ font-size: 13px; color: var(--text-primary); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }}
+  .queue-model-desc {{ font-size: 11px; color: var(--text-muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }}
   .queue-track {{ height: 10px; }}
   .queue-count {{ font-size: 12px; color: var(--text-secondary); text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }}
   .queue-badge {{ font-size: 10px; text-transform: uppercase; letter-spacing: 0.02em; padding: 2px 8px; border-radius: 999px; text-align: center; background: var(--gridline); color: var(--text-muted); }}

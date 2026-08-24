@@ -57,7 +57,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
-                          executive_summary, cost_projection, history, prompts, optimizer)
+                          executive_summary, cost_projection, history, prompts, optimizer, model_catalog)
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 WIKI_ROOT = Path(__file__).parent.parent
@@ -672,8 +672,10 @@ def cmd_status(args: argparse.Namespace) -> None:
         pct = (s["done"] / s["total"]) if s["total"] else 0
         filled = round(bar_width * pct)
         bar = "#" * filled + "-" * (bar_width - filled)
+        desc = model_catalog.describe(s["model"])
+        model_label = f"{s['model']} ({desc})" if desc else s["model"]
         print(f"  [{bar}] {s['done']:>2}/{s['total']} done  {s['errors']:>2} err  {s['pending']:>2} pending   "
-              f"{s['model']:<40} {phase_label[s['phase']]}")
+              f"{model_label:<60} {phase_label[s['phase']]}")
         grand_done += s["done"]
         grand_errors += s["errors"]
         grand_pending += s["pending"]
