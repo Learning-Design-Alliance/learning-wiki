@@ -209,21 +209,35 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
     except JSONExtractionError as e:
         record["parse_error"] = str(e)
 
-    report = validator.validate_output(parsed or {}, existing_slugs)
-    if parsed is None:
-        report.parse_error = record["parse_error"]
-    record["validation"] = {
-        "passed": report.passed,
-        "n_contributions": report.n_contributions,
-        "completeness_score": report.completeness_score,
-        "error_count": report.error_count,
-        "warning_count": report.warning_count,
-        "parse_error": report.parse_error,
-        "issues": [asdict(i) for i in report.issues],
-    }
+    try:
+        report = validator.validate_output(parsed or {}, existing_slugs)
+        if parsed is None:
+            report.parse_error = record["parse_error"]
+        record["validation"] = {
+            "passed": report.passed,
+            "n_contributions": report.n_contributions,
+            "completeness_score": report.completeness_score,
+            "error_count": report.error_count,
+            "warning_count": report.warning_count,
+            "parse_error": report.parse_error,
+            "issues": [asdict(i) for i in report.issues],
+        }
+    except Exception as e:
+        # A validator bug must never crash the whole batch, or throw away the
+        # generation we already paid for — record it and move on. A fixed
+        # validator can re-score this later via `spotcheck` at zero extra cost.
+        record["validation"] = {
+            "passed": False, "n_contributions": 0, "completeness_score": 0.0,
+            "error_count": 1, "warning_count": 0,
+            "parse_error": f"validator crashed: {type(e).__name__}: {e}",
+            "issues": [],
+        }
 
     if parsed:
-        record["judges"] = run_judges(article_text, parsed, judges, gpt_judge_model)
+        try:
+            record["judges"] = run_judges(article_text, parsed, judges, gpt_judge_model)
+        except Exception as e:
+            record["judges"] = {"error": f"judging crashed: {type(e).__name__}: {e}"}
 
     return record
 
@@ -315,6 +329,17 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
             with print_lock:
                 state["done"] += 1
                 print(f"[{state['done']}/{total}] [FETCH ERROR] {model}/{entry['id']}: {e}")
+            return
+        except Exception as e:
+            # Last-resort backstop: run_one() already handles the expected
+            # failure points (generation, parsing, validation, judging)
+            # without crashing, but this run can be one of several parallel
+            # candidates in an unattended, hours-long auto-optimize search —
+            # nothing here should ever be allowed to kill the whole batch.
+            with print_lock:
+                state["done"] += 1
+                print(f"[{state['done']}/{total}] [INTERNAL ERROR] {model}/{entry['id']}: "
+                      f"{type(e).__name__}: {e}")
             return
 
         out_path.parent.mkdir(parents=True, exist_ok=True)

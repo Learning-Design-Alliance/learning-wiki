@@ -163,8 +163,15 @@ def _check_cross_links(c: _Checker, contrib: dict, known_slugs: set, list_field:
     if not isinstance(items, list):
         return
     for item in items:
-        target_slug = item.get(slug_key) if slug_key else item
+        target_slug = item.get(slug_key) if (slug_key and isinstance(item, dict)) else item
         if not target_slug:
+            continue
+        if not isinstance(target_slug, str):
+            # A model occasionally emits an object here instead of a plain
+            # string slug — flag it as a real validation issue rather than
+            # crashing on `dict in known_slugs` (unhashable).
+            c.error(list_field, f"{list_field} entry should be a plain string slug, "
+                                 f"got {type(target_slug).__name__}.")
             continue
         if known_slugs and target_slug not in known_slugs:
             c.warn(list_field, f"'{target_slug}' in {list_field} is not an existing wiki slug or a "
