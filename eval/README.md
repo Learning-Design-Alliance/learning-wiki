@@ -276,6 +276,15 @@ candidate's full batch concurrently (both across candidates and across
 clears `--min-improvement` as the next round's baseline. A round where
 nothing improves stops the loop, same as `optimize`.
 
+Only one search can run at a time — `auto-optimize` takes an exclusive lock
+(`eval/runs/.auto_optimize.lock`, a PID file) for its whole duration,
+whether launched from the CLI directly or via the landing page's "Launch N
+more rounds" button, so a second invocation refuses to start with a clear
+error instead of racing the first one to adopt prompt versions against two
+different baselines at once. A stale lock (owning process no longer
+running) is detected and cleared automatically; if it's ever wrong, delete
+the lock file by hand.
+
 It's built to be started and left alone: it stops on `--rounds`,
 `--time-budget-minutes` (checked between rounds, not mid-round — a round
 already in flight finishes), or a non-improving round, whichever comes

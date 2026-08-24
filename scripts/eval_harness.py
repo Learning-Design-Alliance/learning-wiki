@@ -611,6 +611,26 @@ def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
     generate_index(verbose=False)
 
 
+_AUTO_RUN_ID_RE = re.compile(r"^auto-r(\d+)-v(\d+)$")
+
+
+def _run_order_key(r: dict) -> tuple:
+    """Natural/logical ordering for the landing page's "All runs" table —
+    NOT recency-of-completion. Auto-optimize candidates finish in whatever
+    order their API calls happen to return, so sorting by last-modified
+    made a round-1 run (e.g. v13) appear "current" while round-3 candidates
+    (v28-v33) were still in flight above/below it — confusing, since it
+    looked like the search had gone backwards. Round number then version
+    number reflects the actual sequence the search generated them in,
+    regardless of which candidate happened to finish first; anything that
+    doesn't match the auto-optimize naming scheme (manual/baseline runs)
+    sorts before all auto runs, oldest-created first."""
+    m = _AUTO_RUN_ID_RE.match(r["run_id"])
+    if m:
+        return (1, int(m.group(1)), int(m.group(2)))
+    return (0, r["first_created"])
+
+
 _INDEX_LOCK = threading.Lock()
 
 
@@ -676,9 +696,10 @@ def _generate_index_locked(verbose: bool) -> None:
             "prompt_versions": ", ".join(versions) if versions else "unknown",
             "n_models": len(by_model),
             "last_modified": max((f.stat().st_mtime for f in result_files), default=0),
+            "first_created": min((f.stat().st_mtime for f in result_files), default=0),
         })
 
-    run_summaries.sort(key=lambda r: r["last_modified"], reverse=True)
+    run_summaries.sort(key=_run_order_key)
     history_rows = history.collect(RUNS_DIR)
 
     auto_optimize_state = None
@@ -1017,6 +1038,61 @@ def _render_auto_optimize_summary(round_log: list, baseline_run: str, final_run_
     return "\n".join(lines)
 
 
+AUTO_OPTIMIZE_LOCK_PATH = RUNS_DIR / ".auto_optimize.lock"
+
+
+def _pid_is_alive(pid: int) -> bool:
+    try:
+        os.kill(pid, 0)
+    except ProcessLookupError:
+        return False
+    except PermissionError:
+        return True  # process exists, just owned by someone else — treat as alive
+    return True
+
+
+def _acquire_auto_optimize_lock(baseline_run: str) -> None:
+    """Cross-invocation mutex: refuses to start a second auto-optimize search
+    while one is already running, however it was launched. Without this, two
+    overlapping searches each treat their own baseline as "current" while
+    racing to save prompt versions and advance CURRENT — exactly the
+    confusion of a landing page showing v33 candidates in progress while the
+    status banner still reads "baseline v13," and two searches burning API
+    budget optimizing against two different baselines at once. The web
+    dashboard's own pgrep-based check (deploy/dashboard_server.py) only
+    guards its own subprocess.Popen launch and gives faster feedback in that
+    path, but this is the real, always-enforced guard: it also covers a
+    directly-invoked CLI run, which that check never sees."""
+    if AUTO_OPTIMIZE_LOCK_PATH.exists():
+        try:
+            info = json.loads(AUTO_OPTIMIZE_LOCK_PATH.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            info = {}
+        pid = info.get("pid")
+        if pid and _pid_is_alive(pid):
+            print(f"[ERROR] Another auto-optimize search is already running (pid {pid}, "
+                  f"baseline {info.get('baseline_run', '?')}, started {info.get('started_at', '?')}). "
+                  f"Wait for it to finish — check eval/runs/.auto_optimize_state.json or the landing "
+                  f"page — before starting another one. If it's actually dead, remove "
+                  f"{AUTO_OPTIMIZE_LOCK_PATH.relative_to(WIKI_ROOT)} by hand and retry.")
+            sys.exit(1)
+        print(f"[WARN] Found a stale auto-optimize lock (pid {pid} is no longer running) — "
+              f"removing it and proceeding.")
+
+    AUTO_OPTIMIZE_LOCK_PATH.write_text(json.dumps({
+        "pid": os.getpid(),
+        "baseline_run": baseline_run,
+        "started_at": datetime.now(timezone.utc).isoformat(),
+    }, indent=2), encoding="utf-8")
+
+
+def _release_auto_optimize_lock() -> None:
+    try:
+        AUTO_OPTIMIZE_LOCK_PATH.unlink()
+    except FileNotFoundError:
+        pass
+
+
 def _write_auto_optimize_state(baseline_run: str, current_run_id: str, round_num: int, rounds_total: int,
                                 status: str) -> None:
     """Round-level progress, separate from any one candidate's own
@@ -1079,6 +1155,15 @@ def cmd_auto_optimize(args: argparse.Namespace) -> None:
         print(f"[ERROR] No run directory: {RUNS_DIR / args.baseline_run}")
         sys.exit(1)
 
+    _acquire_auto_optimize_lock(args.baseline_run)
+    try:
+        _run_auto_optimize_loop(args)
+    finally:
+        _release_auto_optimize_lock()
+
+
+def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
+    api_key = os.environ.get("OPENROUTER_API_KEY")
     deadline = time.monotonic() + args.time_budget_minutes * 60
     current_run_id = args.baseline_run
     round_log = []

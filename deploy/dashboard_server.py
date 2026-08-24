@@ -18,6 +18,7 @@ string-interpolated input (subprocess with an argv list, not shell=True).
 """
 
 import json
+import os
 import re
 import subprocess
 import time
@@ -29,6 +30,7 @@ WIKI_ROOT = Path(__file__).parent.parent
 RUNS_DIR = WIKI_ROOT / "eval" / "runs"
 AUTO_OPTIMIZE_CONFIG = WIKI_ROOT / "deploy" / "auto-optimize-config.env"
 STATE_PATH = RUNS_DIR / ".auto_optimize_state.json"
+LOCK_PATH = RUNS_DIR / ".auto_optimize.lock"
 VENV_PYTHON = WIKI_ROOT / "venv" / "bin" / "python"
 PORT = 8080
 MAX_ROUNDS = 20
@@ -75,15 +77,31 @@ def _resolve_launch_args(rounds: int) -> list:
     return args
 
 
-def _already_running() -> bool:
+def _pid_is_alive(pid: int) -> bool:
     try:
-        result = subprocess.run(
-            ["pgrep", "-f", "scripts/eval_harness.py auto-optimize"],
-            capture_output=True, text=True, timeout=5,
-        )
-        return result.returncode == 0
-    except (subprocess.SubprocessError, OSError):
-        return False  # fail open rather than block every launch on a missing/broken pgrep
+        os.kill(pid, 0)
+    except ProcessLookupError:
+        return False
+    except PermissionError:
+        return True  # process exists, just owned by someone else — treat as alive
+    return True
+
+
+def _already_running() -> bool:
+    """Reads the same cross-invocation lockfile scripts/eval_harness.py's
+    cmd_auto_optimize() itself enforces (eval/runs/.auto_optimize.lock),
+    rather than a pgrep guess — that's the real, always-correct source of
+    truth (it also catches a directly-invoked CLI search this endpoint
+    never spawned), this check just avoids launching a subprocess only to
+    have it immediately exit on the lock and leave a confusing log file."""
+    if not LOCK_PATH.exists():
+        return False
+    try:
+        info = json.loads(LOCK_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return False
+    pid = info.get("pid")
+    return bool(pid and _pid_is_alive(pid))
 
 
 class Handler(SimpleHTTPRequestHandler):
