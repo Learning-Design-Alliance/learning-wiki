@@ -163,6 +163,7 @@ def propose_revisions(current_prompt: str, failure_summary: dict, n: int = 6,
     whole round, since a round with 4/6 successful candidates is still a
     useful round, not a reason to throw away the other 4."""
     import concurrent.futures
+    import time as _time
 
     lens_names = list(LENSES.keys())
     chosen = [lens_names[i % len(lens_names)] for i in range(n)]
@@ -171,15 +172,26 @@ def propose_revisions(current_prompt: str, failure_summary: dict, n: int = 6,
         return propose_revision(current_prompt, failure_summary, model=model,
                                  extra_instruction=LENSES[lens_name])
 
+    # High-effort + adaptive thinking + a 16K token budget means a single
+    # call here can easily take 1-2+ minutes with zero visible progress —
+    # print as each one actually lands (not just on failure) so a long
+    # silence during this step reads as "still working" instead of "stuck".
+    print(f"  Dispatching {len(chosen)} parallel proposal call(s) to {model} "
+          f"(each may take a couple minutes — high effort, adaptive thinking)...")
+    dispatch_start = _time.monotonic()
+
     results = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=min(n, 6)) as executor:
         future_to_lens = {executor.submit(_one, lens): lens for lens in chosen}
         for future in concurrent.futures.as_completed(future_to_lens):
             lens = future_to_lens[future]
+            elapsed = round(_time.monotonic() - dispatch_start, 1)
             try:
                 result = future.result()
                 result["lens"] = lens
                 results.append(result)
+                print(f"    [{lens}] received after {elapsed}s "
+                      f"({result['output_tokens']} output tokens, latency {result['latency_s']}s)")
             except Exception as e:
                 print(f"  [WARN] lens '{lens}' proposal failed: {e}")
     return results
