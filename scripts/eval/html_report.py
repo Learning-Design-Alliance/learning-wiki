@@ -11,6 +11,7 @@ data table so nothing is chart-only.
 """
 
 import html
+import json
 
 # Categorical palette (validated ordering — see the dataviz skill's
 # references/palette.md). Assigned to models in first-seen order and never
@@ -31,10 +32,10 @@ AUTO_REFRESH_MS = 20_000  # regenerated after every completed pair — see gener
 METRICS = [
     ("total_generation_cost_usd", "Total generation cost", "$", 4),
     ("avg_latency_s", "Avg latency", "s", 1),
-    ("validator_pass_rate", "Validator pass rate", "%", 0),
-    ("avg_completeness_score", "Avg completeness", "%", 0),
-    ("judge_opus_avg_score", "Opus judge avg (of 5)", "", 2),
-    ("judge_gpt_avg_score", "GPT judge avg (of 5)", "", 2),
+    ("validator_pass_rate", "Validator pass rate", "%", 0, 100),
+    ("avg_completeness_score", "Avg completeness", "%", 0, 100),
+    ("judge_opus_avg_score", "Opus judge avg (of 5)", "", 2, 5),
+    ("judge_gpt_avg_score", "GPT judge avg (of 5)", "", 2, 5),
 ]
 
 
@@ -66,10 +67,18 @@ def _css_vars(colors: dict) -> tuple:
 
 
 def _metric_chart(key: str, label: str, unit: str, decimals: int, rows: list, colors: dict,
-                   scale100: bool = False) -> str:
+                   scale100: bool = False, absolute_max: float = None) -> str:
+    """absolute_max fixes the bar scale to a real ceiling (5 for a /5 judge
+    score, 100 for a percentage) instead of the highest value among the rows
+    shown — otherwise a 3.0/5 score renders as a nearly-full bar just because
+    it happens to be the best of a mediocre bunch, which reads as far better
+    than it is. Cost/latency have no natural ceiling, so those stay relative."""
     pairs = [(r["model"], r.get(key)) for r in rows]
     numeric = [v * 100 if (scale100 and v is not None) else v for _, v in pairs]
-    max_val = max([v for v in numeric if v is not None], default=0) or 1
+    if absolute_max:
+        max_val = absolute_max
+    else:
+        max_val = max([v for v in numeric if v is not None], default=0) or 1
 
     bars = []
     for i, (model, raw_val) in enumerate(pairs):
@@ -95,6 +104,7 @@ def _metric_chart(key: str, label: str, unit: str, decimals: int, rows: list, co
 
 def _scatter_chart(rows: list, colors: dict) -> str:
     points = []
+    excluded = []
     for r in rows:
         n = r.get("n_articles") or 0
         cost = (r.get("total_generation_cost_usd") or 0) / n if n else None
@@ -102,59 +112,107 @@ def _scatter_chart(rows: list, colors: dict) -> str:
         scores = [s for s in scores if s is not None]
         quality = sum(scores) / len(scores) if scores else None
         if cost is None or quality is None:
+            # No judge score yet is the common case mid-batch (this model
+            # hasn't completed an article yet) — say so rather than just
+            # silently dropping it, so a missing dot doesn't read as a bug.
+            excluded.append(r["model"])
             continue
         points.append((r["model"], cost, quality))
 
-    if not points:
-        return '<p class="empty-note">No points yet — need at least one model with both generation cost and a judge score.</p>'
+    excluded_note = (
+        f'<p class="empty-note">Not plotted yet (no judge score): {", ".join(_esc(m) for m in excluded)} — '
+        f'still running.</p>' if excluded else ""
+    )
 
-    W, H, PAD = 520, 320, 56
+    if not points:
+        return '<p class="empty-note">No points yet — need at least one model with both generation cost and a judge score.</p>' + excluded_note
+
+    W, H, PAD, PAD_BOTTOM = 520, 340, 56, 76
     max_cost = max(p[1] for p in points) or 1
-    svg_points = []
+    plot_bottom = H - PAD_BOTTOM
+
+    # First pass: compute each point's true (x, y) and preferred label anchor.
+    placed = []
     for model, cost, quality in points:
         x = PAD + (cost / max_cost) * (W - 2 * PAD) if max_cost else PAD
-        y = H - PAD - (quality / 5) * (H - 2 * PAD)
+        y = plot_bottom - (quality / 5) * (plot_bottom - PAD)
         slot = (list(colors.keys()).index(model) % len(colors)) + 1
         # Flip the label to the dot's left once it's past ~65% of the plot width,
         # so a long model name never runs off the right edge of the viewBox.
         near_right_edge = x > PAD + 0.65 * (W - 2 * PAD)
-        label_x = x - 12 if near_right_edge else x + 12
-        anchor = "end" if near_right_edge else "start"
+        placed.append({
+            "model": model, "cost": cost, "quality": quality, "slot": slot,
+            "x": x, "y": y, "anchor": "end" if near_right_edge else "start",
+            "label_x": x - 12 if near_right_edge else x + 12,
+        })
+
+    # Second pass: declutter label y-positions within each anchor side — two
+    # points close in score would otherwise print overlapping text (label
+    # text doesn't repel like a data mark does). Push later labels down just
+    # enough to keep a minimum gap; the leader stays implicit since each label
+    # still starts right beside its own dot's x position.
+    MIN_LABEL_GAP = 15
+    for anchor in ("start", "end"):
+        group = sorted([p for p in placed if p["anchor"] == anchor], key=lambda p: p["y"])
+        last_y = None
+        for p in group:
+            label_y = p["y"] if last_y is None else max(p["y"], last_y + MIN_LABEL_GAP)
+            p["label_y"] = label_y
+            last_y = label_y
+
+    svg_points = []
+    for p in placed:
         svg_points.append(f"""
         <g>
-          <circle cx="{x:.1f}" cy="{y:.1f}" r="7" fill="var(--series-{slot})" stroke="var(--surface-1)" stroke-width="2">
-            <title>{_esc(model)}: ${cost:.4f}/article, {quality:.2f}/5 avg judge score</title>
+          <circle cx="{p['x']:.1f}" cy="{p['y']:.1f}" r="7" fill="var(--series-{p['slot']})" stroke="var(--surface-1)" stroke-width="2">
+            <title>{_esc(p['model'])}: ${p['cost']:.4f}/article, {p['quality']:.2f}/5 avg judge score</title>
           </circle>
-          <text x="{label_x:.1f}" y="{y + 4:.1f}" text-anchor="{anchor}" class="scatter-label">{_esc(model)}</text>
+          <text x="{p['label_x']:.1f}" y="{p['label_y'] + 4:.1f}" text-anchor="{p['anchor']}" class="scatter-label">{_esc(p['model'])}</text>
         </g>""")
 
+    fracs = (0, 0.25, 0.5, 0.75, 1.0)
     gridlines = "".join(
-        f'<line x1="{PAD}" y1="{H - PAD - f * (H - 2 * PAD)}" x2="{W - PAD}" '
-        f'y2="{H - PAD - f * (H - 2 * PAD)}" class="gridline" />'
-        for f in (0, 0.25, 0.5, 0.75, 1.0)
+        f'<line x1="{PAD}" y1="{plot_bottom - f * (plot_bottom - PAD)}" x2="{W - PAD}" '
+        f'y2="{plot_bottom - f * (plot_bottom - PAD)}" class="gridline" />'
+        for f in fracs
     )
     y_ticks = "".join(
-        f'<text x="{PAD - 10}" y="{H - PAD - f * (H - 2 * PAD) + 4}" class="axis-label" text-anchor="end">{f * 5:.0f}</text>'
-        for f in (0, 0.25, 0.5, 0.75, 1.0)
+        f'<text x="{PAD - 10}" y="{plot_bottom - f * (plot_bottom - PAD) + 4}" class="axis-label" text-anchor="end">{f * 5:.0f}</text>'
+        for f in fracs
+    )
+    x_ticks = "".join(
+        f'<text x="{PAD + f * (W - 2 * PAD):.1f}" y="{plot_bottom + 18}" class="axis-label" text-anchor="middle">${f * max_cost:.4f}</text>'
+        for f in fracs
     )
 
     return f"""
     <svg viewBox="0 0 {W} {H}" class="scatter-svg" role="img" aria-label="Cost per article vs. average judge score, one point per model">
       {gridlines}
-      <line x1="{PAD}" y1="{H - PAD}" x2="{W - PAD}" y2="{H - PAD}" class="axis-line" />
-      <line x1="{PAD}" y1="{PAD}" x2="{PAD}" y2="{H - PAD}" class="axis-line" />
+      <line x1="{PAD}" y1="{plot_bottom}" x2="{W - PAD}" y2="{plot_bottom}" class="axis-line" />
+      <line x1="{PAD}" y1="{PAD}" x2="{PAD}" y2="{plot_bottom}" class="axis-line" />
       {y_ticks}
-      <text x="{W / 2}" y="{H - 14}" class="axis-title" text-anchor="middle">Cost per article ($)</text>
-      <text x="16" y="{H / 2}" class="axis-title" text-anchor="middle" transform="rotate(-90 16 {H / 2})">Avg judge score (of 5)</text>
+      {x_ticks}
+      <text x="{W / 2}" y="{H - 12}" class="axis-title" text-anchor="middle">Cost per article ($)</text>
+      <text x="16" y="{plot_bottom / 2}" class="axis-title" text-anchor="middle" transform="rotate(-90 16 {plot_bottom / 2})">Avg judge score (of 5)</text>
       {''.join(svg_points)}
-    </svg>"""
+    </svg>
+    {excluded_note}"""
+
+
+def _issue_list_html(issues: list, render) -> str:
+    if not issues:
+        return '<li class="none">None</li>'
+    return "".join(f"<li>{render(i)}</li>" for i in issues)
 
 
 def _detail_table(by_model: dict, colors: dict) -> str:
     rows_html = []
+    detail_id = 0
     for model, records in by_model.items():
         slot = (list(colors.keys()).index(model) % len(colors)) + 1
         for rec in sorted(records, key=lambda r: r["article_id"]):
+            detail_id += 1
+            row_id = f"detail-{detail_id}"
             gen = rec.get("generation") or {}
             val = rec.get("validation") or {}
             judges = rec.get("judges") or {}
@@ -162,14 +220,15 @@ def _detail_table(by_model: dict, colors: dict) -> str:
             gpt = judges.get("gpt", {}).get("average_score")
 
             if "error" in gen:
-                status_html = f'<span class="status-dot" style="background:var(--status-critical)"></span> Gen error'
+                status_html = '<span class="status-dot" style="background:var(--status-critical)"></span> Gen error'
             elif val.get("passed"):
-                status_html = f'<span class="status-dot" style="background:var(--status-good)"></span> Passed'
+                status_html = '<span class="status-dot" style="background:var(--status-good)"></span> Passed'
             else:
-                status_html = f'<span class="status-dot" style="background:var(--status-critical)"></span> Failed'
+                status_html = '<span class="status-dot" style="background:var(--status-critical)"></span> Failed'
 
             rows_html.append(f"""
-        <tr>
+        <tr class="detail-toggle" data-target="{row_id}">
+          <td><span class="disclosure">&#9656;</span></td>
           <td><span class="swatch" style="background:var(--series-{slot})"></span>{_esc(model)}</td>
           <td>{_esc(rec.get('article_title', rec['article_id']))[:50]}</td>
           <td>{status_html}</td>
@@ -178,16 +237,54 @@ def _detail_table(by_model: dict, colors: dict) -> str:
           <td class="num">{_fmt(gen.get('latency_s'), 's', 1)}</td>
           <td class="num">{_fmt(opus, '', 2)}</td>
           <td class="num">{_fmt(gpt, '', 2)}</td>
+        </tr>
+        <tr class="detail-row" id="{row_id}">
+          <td colspan="9">{_detail_panel(rec, val, judges)}</td>
         </tr>""")
 
     return f"""
     <table class="detail-table">
       <thead>
-        <tr><th>Model</th><th>Article</th><th>Status</th><th>Completeness</th>
+        <tr><th></th><th>Model</th><th>Article</th><th>Status</th><th>Completeness</th>
             <th>Cost</th><th>Latency</th><th>Opus</th><th>GPT</th></tr>
       </thead>
       <tbody>{''.join(rows_html)}</tbody>
     </table>"""
+
+
+def _detail_panel(rec: dict, val: dict, judges: dict) -> str:
+    parsed = rec.get("parsed")
+    gen = rec.get("generation") or {}
+
+    if parsed:
+        contributions_html = _esc(json.dumps(parsed, indent=2))
+        output_block = f'<pre class="detail-json">{contributions_html}</pre>'
+    else:
+        reason = gen.get("error") or rec.get("parse_error") or "no output captured"
+        output_block = f'<p class="detail-empty">No parsed output — {_esc(reason)}</p>'
+
+    validator_html = _issue_list_html(
+        val.get("issues", []),
+        lambda i: f'<span class="badge badge-{i["severity"]}">{i["severity"]}</span> <code>{_esc(i["field"])}</code> — {_esc(i["message"])}',
+    )
+
+    judge_blocks = []
+    for jname, jdata in judges.items():
+        scores = jdata.get("scores", {})
+        score_str = ", ".join(f"{k}: {v}" for k, v in scores.items())
+        issues_html = _issue_list_html(jdata.get("issues", []), lambda x: _esc(x))
+        judge_blocks.append(f"""
+          <p class="subhead">{_esc(jname)} judge — verdict: {_esc(jdata.get('verdict', '–'))} ({_esc(score_str)})</p>
+          <ul class="issue-list">{issues_html}</ul>""")
+
+    return f"""
+      <div class="detail-panel">
+        <p class="subhead">Full extraction output</p>
+        {output_block}
+        <p class="subhead">Validator issues</p>
+        <ul class="issue-list">{validator_html}</ul>
+        {"".join(judge_blocks)}
+      </div>"""
 
 
 def _legend(colors: dict) -> str:
@@ -233,14 +330,70 @@ def _failure_section(failure_summary: dict, colors: dict) -> str:
     return f'<div class="card failure-grid">{"".join(blocks)}</div>'
 
 
-def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure_summary: dict = None) -> str:
+def _exec_summary_section(summary: dict, colors: dict) -> str:
+    if not summary:
+        return ""
+    parts = [f'<p class="exec-headline">{summary["n_models"]} model(s) &middot; '
+             f'{summary["total_articles"]} article results &middot; ${summary["total_cost_usd"]} spent so far</p>']
+
+    rec = summary.get("recommendation")
+    if rec:
+        slot = (list(colors.keys()).index(rec["model"]) % len(colors)) + 1 if rec["model"] in colors else 1
+        cost_str = f", ${rec['cost_per_article']:.4f}/article" if rec.get("cost_per_article") else ""
+        parts.append(f"""
+        <div class="rec-card">
+          <span class="swatch" style="background:var(--series-{slot})"></span>
+          <div>
+            <div class="rec-model">Recommended so far: <code>{_esc(rec['model'])}</code></div>
+            <div class="rec-detail">{rec['quality']:.2f}/5 avg judge score{cost_str}</div>
+          </div>
+        </div>""")
+    else:
+        parts.append('<p class="empty-note">No model has a judge score yet.</p>')
+
+    if summary.get("ranked_models"):
+        rows_html = "".join(
+            f'<tr><td><span class="swatch" style="background:var(--series-'
+            f'{(list(colors.keys()).index(m["model"]) % len(colors)) + 1 if m["model"] in colors else 1}"></span>{_esc(m["model"])}</td>'
+            f'<td class="num">{m["quality"]:.2f}/5</td>'
+            f'<td class="num">{_fmt(m["cost_per_article"], "$", 5)}</td>'
+            f'<td class="num">{_fmt(m["validator_pass_rate"], "%", 0, scale100=True)}</td>'
+            f'<td class="num">{m["n_articles"]}{" (partial)" if m["partial_sample"] else ""}</td></tr>'
+            for m in summary["ranked_models"]
+        )
+        parts.append(f"""
+        <table class="detail-table exec-rank-table">
+          <thead><tr><th>Model</th><th>Judge score</th><th>Cost/article</th><th>Validator pass rate</th><th>Articles</th></tr></thead>
+          <tbody>{rows_html}</tbody>
+        </table>""")
+
+    if summary.get("caveats"):
+        items = "".join(f"<li>{_esc(c)}</li>" for c in summary["caveats"])
+        parts.append(f'<p class="subhead">Caveats</p><ul class="issue-list">{items}</ul>')
+
+    if summary.get("process_fixes"):
+        items = "".join(
+            f'<li><span class="chip">{_esc(f["issue"])} &times;{f["count"]}</span> {_esc(f["recommendation"])}</li>'
+            for f in summary["process_fixes"]
+        )
+        parts.append(f'<p class="subhead">Recommended fixes to the extraction prompt / validator</p>'
+                     f'<ul class="issue-list fix-list">{items}</ul>')
+    else:
+        parts.append('<p class="empty-note">No systematic process issues detected yet.</p>')
+
+    return f'<div class="card">{"".join(parts)}</div>'
+
+
+def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure_summary: dict = None,
+                 exec_summary: dict = None) -> str:
     models = [r["model"] for r in rows]
     colors = _model_colors(models)
     light_vars, dark_vars = _css_vars(colors)
 
     charts = "".join(
-        _metric_chart(key, label, unit, decimals, rows, colors, scale100=(unit == "%"))
-        for key, label, unit, decimals in METRICS
+        _metric_chart(key, label, unit, decimals, rows, colors, scale100=(unit == "%"),
+                      absolute_max=(spec[0] if spec else None))
+        for key, label, unit, decimals, *spec in METRICS
     )
 
     return f"""<!doctype html>
@@ -305,6 +458,17 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
   .detail-table td {{ padding: 9px 12px; border-bottom: 1px solid var(--gridline); }}
   .detail-table td.num {{ text-align: right; font-variant-numeric: tabular-nums; }}
   .detail-table tr:last-child td {{ border-bottom: none; }}
+  .detail-toggle {{ cursor: pointer; }}
+  .detail-toggle:hover td {{ background: var(--gridline); }}
+  .disclosure {{ display: inline-block; color: var(--text-muted); transition: transform 0.15s; }}
+  .detail-toggle.expanded .disclosure {{ transform: rotate(90deg); }}
+  .detail-row {{ display: none; }}
+  .detail-row.expanded {{ display: table-row; }}
+  .detail-row td {{ padding: 16px; background: var(--page); }}
+  .detail-panel {{ font-size: 12px; }}
+  .detail-json {{ background: var(--gridline); border-radius: 8px; padding: 12px; overflow-x: auto; max-height: 360px; white-space: pre; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 11px; line-height: 1.5; margin: 0 0 12px; }}
+  .detail-empty {{ color: var(--text-muted); margin: 0 0 12px; }}
+  .issue-list .none {{ color: var(--text-muted); }}
   .status-dot {{ display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; }}
   .empty-note {{ color: var(--text-muted); font-size: 13px; }}
   .footer-note {{ margin-top: 28px; color: var(--text-muted); font-size: 12px; }}
@@ -321,6 +485,14 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
   .count-tag {{ color: var(--text-muted); font-size: 12px; float: right; }}
   .chip-row {{ display: flex; flex-wrap: wrap; gap: 8px; }}
   .chip {{ background: var(--gridline); color: var(--text-secondary); font-size: 12px; padding: 4px 10px; border-radius: 999px; }}
+  .exec-headline {{ font-size: 14px; color: var(--text-secondary); margin: 0 0 16px; }}
+  .rec-card {{ display: flex; align-items: flex-start; gap: 10px; background: var(--gridline); border-radius: 10px; padding: 14px 16px; margin-bottom: 20px; }}
+  .rec-card .swatch {{ width: 14px; height: 14px; margin-top: 3px; }}
+  .rec-model {{ font-size: 15px; font-weight: 600; color: var(--text-primary); }}
+  .rec-model code {{ background: var(--surface-1); padding: 1px 6px; border-radius: 4px; }}
+  .rec-detail {{ font-size: 13px; color: var(--text-secondary); margin-top: 2px; }}
+  .exec-rank-table {{ margin-bottom: 20px; }}
+  .fix-list li {{ padding: 8px 0; }}
   .tabs {{ display: flex; gap: 4px; border-bottom: 1px solid var(--border); margin-bottom: 20px; }}
   .tab-btn {{
     font: inherit; font-size: 13px; font-weight: 600; color: var(--text-secondary);
@@ -339,13 +511,18 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
   <div class="meta">Generated {_esc(generated)} &middot; {len(models)} model(s) &middot; {sum(r.get('n_articles', 0) for r in rows)} article results &middot; auto-refreshes every {AUTO_REFRESH_MS // 1000}s</div>
 
   <div class="tabs" role="tablist">
-    <button class="tab-btn active" data-target="tab-cost-quality" role="tab" aria-selected="true">Cost vs. quality</button>
+    <button class="tab-btn active" data-target="tab-summary" role="tab" aria-selected="true">Summary</button>
+    <button class="tab-btn" data-target="tab-cost-quality" role="tab" aria-selected="false">Cost vs. quality</button>
     <button class="tab-btn" data-target="tab-metrics" role="tab" aria-selected="false">Per-model metrics</button>
     <button class="tab-btn" data-target="tab-failures" role="tab" aria-selected="false">Failure patterns</button>
     <button class="tab-btn" data-target="tab-detail" role="tab" aria-selected="false">Per-article detail</button>
   </div>
 
-  <div id="tab-cost-quality" class="tab-panel active">
+  <div id="tab-summary" class="tab-panel active">
+    {_exec_summary_section(exec_summary or {}, colors)}
+  </div>
+
+  <div id="tab-cost-quality" class="tab-panel">
     <div class="card">
       {_scatter_chart(rows, colors)}
       {_legend(colors)}
@@ -393,6 +570,32 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
     if (savedTab) activateTab(savedTab);
   }} catch (e) {{}}
   setTimeout(function () {{ location.reload(); }}, {AUTO_REFRESH_MS});
+
+  // Expandable per-article rows — state persisted the same way as the tab
+  // choice, so drilling into one survives the periodic auto-refresh instead
+  // of snapping shut every 20s.
+  function expandedSet() {{
+    try {{ return new Set(JSON.parse(localStorage.getItem('eval-report-expanded') || '[]')); }}
+    catch (e) {{ return new Set(); }}
+  }}
+  function saveExpanded(set) {{
+    try {{ localStorage.setItem('eval-report-expanded', JSON.stringify(Array.from(set))); }} catch (e) {{}}
+  }}
+  var expanded = expandedSet();
+  document.querySelectorAll('.detail-toggle').forEach(function (row) {{
+    var target = document.getElementById(row.dataset.target);
+    if (expanded.has(row.dataset.target)) {{
+      row.classList.add('expanded');
+      target.classList.add('expanded');
+    }}
+    row.addEventListener('click', function () {{
+      row.classList.toggle('expanded');
+      target.classList.toggle('expanded');
+      var set = expandedSet();
+      if (row.classList.contains('expanded')) {{ set.add(row.dataset.target); }} else {{ set.delete(row.dataset.target); }}
+      saveExpanded(set);
+    }});
+  }});
 </script>
 </body>
 </html>"""

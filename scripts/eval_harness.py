@@ -51,7 +51,8 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
-from scripts.eval import fetch_article, openrouter_client, validator, judge, failure_analysis, html_report
+from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
+                          executive_summary)
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 WIKI_ROOT = Path(__file__).parent.parent
@@ -344,7 +345,9 @@ def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
                      "Machine-readable summary: `summary.csv`.")
 
     failure_summary = failure_analysis.analyze(by_model)
+    exec_summary = executive_summary.summarize(rows, failure_summary)
     md_lines.append("")
+    md_lines.append(executive_summary.render_markdown(exec_summary))
     md_lines.append(failure_analysis.render_markdown(failure_summary))
 
     report_path = run_dir / "report.md"
@@ -352,7 +355,7 @@ def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
 
     html_path = run_dir / "report.html"
     html_path.write_text(
-        html_report.render_html(run_id, date.today().isoformat(), rows, by_model, failure_summary),
+        html_report.render_html(run_id, date.today().isoformat(), rows, by_model, failure_summary, exec_summary),
         encoding="utf-8",
     )
 
