@@ -61,18 +61,22 @@ ssh root@<droplet-ip>
 nano /etc/eval-harness.env
 ```
 
-Fill in `OPENROUTER_API_KEY`, `ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, and edit
-`RUN_ARGS` to the actual batch you want — e.g. to scale past the 10-article
-smoke test once you've picked a model:
+Fill in `OPENROUTER_API_KEY`, `ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, and
+`EVAL_HARNESS_CONTACT_EMAIL` (a real address — NCBI's usage guidelines
+specifically ask for this so they can warn you before blocking your IP; see
+[eval/SOURCES.md](../eval/SOURCES.md)). Then edit `RUN_ARGS` to the actual
+batch you want:
 
 ```
-RUN_ARGS=--models qwen/qwen3-30b-a3b --judges opus gpt --run-id do-batch-1
+RUN_ARGS=--models qwen/qwen3-30b-a3b google/gemma-3-27b-it qwen/qwen3-235b-a22b --judges opus gpt --run-id do-batch-1
 ```
 
 `RUN_ARGS` is exactly what you'd otherwise type after
 `python3 scripts/eval_harness.py run` locally — same flags
 (`--models`, `--articles`, `--limit`, `--judges`, `--overwrite`, etc.), see
-[eval/README.md](../eval/README.md).
+[eval/README.md](../eval/README.md). If you edit `RUN_ARGS` on an already-running
+service, apply it with `sudo systemctl restart eval-harness` — already-completed
+pairs are cached and won't be redone.
 
 ## 4. Start it and confirm it's running
 
@@ -90,18 +94,36 @@ following the log, not the service.
 Check status any time with `systemctl status eval-harness`, or stop it with
 `sudo systemctl stop eval-harness`.
 
-## 5. Pull results back to your laptop
+**One-time, only if this droplet was provisioned before the live-dashboard
+feature existed:** confirm the dashboard web server is installed and running —
+`provision.sh` now sets this up automatically on a fresh droplet, but an
+already-provisioned one needs it added once:
+```bash
+ssh root@<droplet-ip> 'cd /opt/learning-wiki && sudo -u evalrunner git pull origin claude/research-scraper-test-setup-i4bh9m && cp deploy/eval-harness-web.service /etc/systemd/system/ && systemctl daemon-reload && systemctl enable --now eval-harness-web'
+```
+
+## 5. Watch it live
 
 From your Mac, in the repo root:
 
 ```bash
-deploy/sync_results.sh <droplet-ip>
-python3 scripts/eval_harness.py report --run-id do-batch-1
+deploy/live_view.sh <droplet-ip> do-batch-1
 ```
 
-This only copies `eval/runs/` (the cached JSON results) — it doesn't touch
-anything else on the droplet, so you can run it as often as you like while
-the batch is still going, to check progress without waiting for it to finish.
+This opens an SSH tunnel to the droplet's dashboard server and launches
+`report.html` in your browser. The dashboard **regenerates after every
+completed article/model pair** and **auto-refreshes every 20 seconds**
+(preserving whichever tab and expanded row you had open), so it reads as a
+live view of the batch rather than something you need to manually refresh.
+Leave the terminal tab running; `Ctrl-C` closes the tunnel (safe to reopen
+anytime — nothing on the droplet depends on it staying open).
+
+**Fallback (a static one-off snapshot instead of the live view):**
+```bash
+deploy/sync_results.sh <droplet-ip>
+python3 scripts/eval_harness.py report --run-id do-batch-1
+open eval/runs/do-batch-1/report.html
+```
 
 ## 6. Tear down when you're done
 
