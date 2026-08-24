@@ -33,8 +33,40 @@ AUTO_OPTIMIZE_CONFIG = WIKI_ROOT / "deploy" / "auto-optimize-config.env"
 STATE_PATH = RUNS_DIR / ".auto_optimize_state.json"
 LOCK_PATH = RUNS_DIR / ".auto_optimize.lock"
 VENV_PYTHON = WIKI_ROOT / "venv" / "bin" / "python"
+SECRETS_ENV_FILE = Path("/etc/eval-harness.env")
 PORT = 8080
 MAX_ROUNDS = 20
+
+
+def _child_env() -> dict:
+    """Environment for the spawned auto-optimize subprocess. This service
+    (eval-harness-web.service) has no EnvironmentFile= of its own, so
+    without this the child only inherits this bare process's environment
+    — it does call eval_harness.py's own _load_secrets_env() at the top of
+    its main(), but that runs too late for any module that reads an env
+    var into a module-level constant at import time (scripts/eval/
+    compliance.py's CONTACT_EMAIL does exactly this): by the time main()
+    backfills os.environ, that constant is already frozen from whatever
+    was there at interpreter start. Loading the secrets file here and
+    passing a complete env explicitly avoids that whole class of
+    import-order bug, not just this one variable — this is exactly how
+    EVAL_HARNESS_CONTACT_EMAIL kept showing as unset in a web-launched
+    run even after being set correctly in the file."""
+    env = os.environ.copy()
+    if SECRETS_ENV_FILE.exists():
+        try:
+            text = SECRETS_ENV_FILE.read_text(encoding="utf-8")
+        except OSError:
+            return env
+        for line in text.splitlines():
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, _, value = line.partition("=")
+            key, value = key.strip(), value.strip()
+            if key:
+                env[key] = value
+    return env
 
 
 def _parse_config_args() -> list:
@@ -185,6 +217,7 @@ class Handler(SimpleHTTPRequestHandler):
             [str(VENV_PYTHON), "-u", "scripts/eval_harness.py", "auto-optimize", *launch_args],
             cwd=str(WIKI_ROOT), stdout=log_file, stderr=subprocess.STDOUT,
             start_new_session=True,  # detach — keeps running after this request returns
+            env=_child_env(),
         )
 
         # cmd_auto_optimize's safety gates (lock conflict, a baseline with
