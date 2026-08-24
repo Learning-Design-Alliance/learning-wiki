@@ -699,7 +699,7 @@ def _generate_index_locked(verbose: bool) -> None:
             "first_created": min((f.stat().st_mtime for f in result_files), default=0),
         })
 
-    run_summaries.sort(key=_run_order_key)
+    run_summaries.sort(key=_run_order_key, reverse=True)
     history_rows = history.collect(RUNS_DIR)
 
     auto_optimize_state = None
