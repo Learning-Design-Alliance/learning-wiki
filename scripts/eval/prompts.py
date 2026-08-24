@@ -17,14 +17,21 @@ The prompt text itself lives in prompt_versions/vN.txt, not inline here, so it
 can evolve across test batches with a record of what changed and why
 (prompt_versions/CHANGELOG.md) — see eval_harness.py's `history` and `optimize`
 commands, which both depend on being able to name and compare prompt versions.
-SYSTEM_PROMPT below is the latest version, kept as a module-level constant for
-existing callers that don't care about versioning.
+SYSTEM_PROMPT below is the *current* version (see current_version()), kept as
+a module-level constant for existing callers that don't care about versioning.
+
+"Current" is a deliberate, ratchet-only pointer (prompt_versions/CURRENT) —
+NOT simply the highest-numbered file. `optimize` saves every candidate it
+generates so the history is complete, but only advances CURRENT when a
+candidate actually beats its baseline; a regressed experiment stays on disk
+for the record without becoming what `run` uses by default.
 """
 
 import re
 from pathlib import Path
 
 PROMPT_VERSIONS_DIR = Path(__file__).parent / "prompt_versions"
+CURRENT_POINTER = PROMPT_VERSIONS_DIR / "CURRENT"
 
 
 def list_versions() -> list:
@@ -33,16 +40,35 @@ def list_versions() -> list:
     return sorted(versions, key=lambda v: int(re.sub(r"\D", "", v) or 0))
 
 
-def latest_version() -> str:
+def current_version() -> str:
+    """The ratcheted "best so far" version — CURRENT if set, else the highest
+    numbered version on disk (bootstrap case, before CURRENT exists)."""
+    if CURRENT_POINTER.exists():
+        pinned = CURRENT_POINTER.read_text(encoding="utf-8").strip()
+        if pinned:
+            return pinned
     versions = list_versions()
     if not versions:
         raise FileNotFoundError(f"No prompt versions found in {PROMPT_VERSIONS_DIR}")
     return versions[-1]
 
 
+# Old name, kept as an alias — "current" (ratcheted) is the more accurate name
+# now that optimize() can save experimental versions that aren't the default.
+latest_version = current_version
+
+
+def set_current_version(version: str) -> None:
+    """Advance the CURRENT pointer — call only after confirming `version`
+    actually improved on its baseline (see eval_harness.py's optimize loop)."""
+    if not (PROMPT_VERSIONS_DIR / f"{version}.txt").exists():
+        raise FileNotFoundError(f"No such prompt version: {version}")
+    CURRENT_POINTER.write_text(version + "\n", encoding="utf-8")
+
+
 def load_prompt(version: str = None) -> str:
-    """Load a specific version's prompt text, or the latest if omitted."""
-    version = version or latest_version()
+    """Load a specific version's prompt text, or the current one if omitted."""
+    version = version or current_version()
     path = PROMPT_VERSIONS_DIR / f"{version}.txt"
     if not path.exists():
         raise FileNotFoundError(f"No such prompt version: {version} (looked for {path})")

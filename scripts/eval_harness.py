@@ -52,7 +52,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
-                          executive_summary, cost_projection, history)
+                          executive_summary, cost_projection, history, prompts, optimizer)
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 WIKI_ROOT = Path(__file__).parent.parent
@@ -91,10 +91,8 @@ def result_path(run_dir: Path, model: str, article_id: str) -> Path:
 def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             judges: list, gpt_judge_model: str, max_tokens: int, refresh_cache: bool = False,
             prompt_version: str = None) -> dict:
-    from scripts.eval import prompts
-
     system_prompt = prompts.load_prompt(prompt_version)
-    prompt_version = prompt_version or prompts.latest_version()
+    prompt_version = prompt_version or prompts.current_version()
 
     article_text = fetch_article.fetch_article_text(entry, refresh=refresh_cache)
     user_prompt = prompts.build_user_prompt(article_text, existing_slugs)
@@ -415,16 +413,17 @@ def _fmt_pair(before, after, decimals=2, pct=False) -> str:
     return f"{b} → {a} ({arrow} {sign}{delta_str})"
 
 
-def cmd_compare(args: argparse.Namespace) -> None:
-    """Diff two runs model-by-model — e.g. the same models/articles run again
-    after a prompt or validator change, to see if it actually moved the
-    numbers instead of just feeling like it should have."""
-    baseline_dir = RUNS_DIR / args.baseline
-    candidate_dir = RUNS_DIR / args.candidate
-    for d in (baseline_dir, candidate_dir):
-        if not d.exists():
-            print(f"[ERROR] No run directory: {d}")
-            sys.exit(1)
+def _avg_judge_score(row: dict) -> float:
+    scores = [row.get("judge_opus_avg_score"), row.get("judge_gpt_avg_score")]
+    scores = [s for s in scores if s is not None]
+    return sum(scores) / len(scores) if scores else None
+
+
+def build_compare(baseline_id: str, candidate_id: str, models_filter: list = None) -> dict:
+    """Shared by `compare` and `optimize` — the latter uses avg_score_delta to
+    decide whether a candidate prompt actually improved on the baseline."""
+    baseline_dir = RUNS_DIR / baseline_id
+    candidate_dir = RUNS_DIR / candidate_id
 
     base_by_model, base_rows = compute_rows(baseline_dir)
     cand_by_model, cand_rows = compute_rows(candidate_dir)
@@ -434,20 +433,20 @@ def cmd_compare(args: argparse.Namespace) -> None:
     base_by_name = {r["model"]: r for r in base_rows}
     cand_by_name = {r["model"]: r for r in cand_rows}
     models = sorted(set(base_by_name) & set(cand_by_name))
-    if args.models:
-        models = [m for m in models if m in args.models]
+    if models_filter:
+        models = [m for m in models if m in models_filter]
     if not models:
-        print(f"[ERROR] No model is present in both {args.baseline} and {args.candidate} "
-              f"(or --models filtered everything out).")
-        sys.exit(1)
+        return {"error": f"No model is present in both {baseline_id} and {candidate_id} "
+                          f"(or the model filter excluded everything)."}
 
     keywords = ("fabrication", "omission", "duplication", "inaccuracy")
-    lines = [f"# Compare: {args.baseline} (baseline) vs {args.candidate} (candidate)", "",
+    lines = [f"# Compare: {baseline_id} (baseline) vs {candidate_id} (candidate)", "",
              f"Generated: {date.today().isoformat()}", ""]
     lines.append("| Model | Opus judge | GPT judge | Validator pass rate | " +
                  " | ".join(k.capitalize() for k in keywords) + " |")
     lines.append("|---|---|---|---|" + "---|" * len(keywords))
 
+    deltas = []
     for model in models:
         b, c = base_by_name[model], cand_by_name[model]
         b_kw = base_fail.get(model, {}).get("judge_keyword_tally", {})
@@ -462,16 +461,41 @@ def cmd_compare(args: argparse.Namespace) -> None:
             row.append(_fmt_pair(b_kw.get(k, 0), c_kw.get(k, 0), decimals=0))
         lines.append("| " + " | ".join(row) + " |")
 
+        b_score, c_score = _avg_judge_score(b), _avg_judge_score(c)
+        if b_score is not None and c_score is not None:
+            deltas.append(c_score - b_score)
+
     lines.append("")
-    lines.append(f"Sample sizes: {args.baseline} = " +
+    lines.append(f"Sample sizes: {baseline_id} = " +
                  ", ".join(f"{m}: {base_by_name[m]['n_articles']}" for m in models) +
-                 f"; {args.candidate} = " +
+                 f"; {candidate_id} = " +
                  ", ".join(f"{m}: {cand_by_name[m]['n_articles']}" for m in models))
     lines.append("Read deltas with that in mind — a fair comparison needs the same article count on both sides.")
 
-    out_path = candidate_dir / f"compare_vs_{args.baseline}.md"
-    out_path.write_text("\n".join(lines), encoding="utf-8")
-    print("\n".join(lines))
+    return {
+        "markdown": "\n".join(lines),
+        "models": models,
+        "avg_score_delta": (sum(deltas) / len(deltas)) if deltas else None,
+    }
+
+
+def cmd_compare(args: argparse.Namespace) -> None:
+    """Diff two runs model-by-model — e.g. the same models/articles run again
+    after a prompt or validator change, to see if it actually moved the
+    numbers instead of just feeling like it should have."""
+    for run_id in (args.baseline, args.candidate):
+        if not (RUNS_DIR / run_id).exists():
+            print(f"[ERROR] No run directory: {RUNS_DIR / run_id}")
+            sys.exit(1)
+
+    result = build_compare(args.baseline, args.candidate, models_filter=args.models)
+    if "error" in result:
+        print(f"[ERROR] {result['error']}")
+        sys.exit(1)
+
+    out_path = RUNS_DIR / args.candidate / f"compare_vs_{args.baseline}.md"
+    out_path.write_text(result["markdown"], encoding="utf-8")
+    print(result["markdown"])
     print(f"\nWrote {out_path.relative_to(WIKI_ROOT)}")
 
 
@@ -506,6 +530,99 @@ def cmd_history(args: argparse.Namespace) -> None:
     out_path = RUNS_DIR / "history.md"
     out_path.write_text(md, encoding="utf-8")
     print(f"\nWrote {out_path.relative_to(WIKI_ROOT)}")
+
+
+def _append_prompt_changelog(new_version: str, based_on_version: str, based_on_run: str, changes_summary: str) -> None:
+    changelog_path = prompts.PROMPT_VERSIONS_DIR / "CHANGELOG.md"
+    entry = (f"\n## {new_version}\n\n"
+             f"Proposed by `optimize` from `{based_on_run}` (based on {based_on_version}):\n"
+             f"{changes_summary}\n")
+    with open(changelog_path, "a", encoding="utf-8") as f:
+        f.write(entry)
+
+
+def cmd_optimize(args: argparse.Namespace) -> None:
+    """Propose -> re-run -> compare -> keep-or-stop, for up to --iterations
+    rounds. Never auto-adopts a regression: prompts.CURRENT only advances when
+    a candidate's avg judge-score delta clears --min-improvement, per the
+    ratchet documented in prompts.py."""
+    api_key = os.environ.get("OPENROUTER_API_KEY")
+    if not api_key:
+        print("[ERROR] OPENROUTER_API_KEY environment variable not set.")
+        sys.exit(1)
+    if not (RUNS_DIR / args.baseline_run).exists():
+        print(f"[ERROR] No run directory: {RUNS_DIR / args.baseline_run}")
+        sys.exit(1)
+
+    current_run_id = args.baseline_run
+
+    for i in range(1, args.iterations + 1):
+        print(f"\n=== optimize iteration {i}/{args.iterations} — baseline: {current_run_id} ===")
+        current_dir = RUNS_DIR / current_run_id
+        by_model, _ = compute_rows(current_dir)
+        if not by_model:
+            print(f"[ERROR] {current_run_id} has no completed results to learn from.")
+            sys.exit(1)
+
+        models = args.models or sorted(by_model.keys())
+        article_ids = sorted({rec["article_id"] for records in by_model.values() for rec in records})
+        articles = load_manifest(article_ids)
+        if not articles:
+            print("[ERROR] Could not resolve manifest articles from the baseline run's article ids.")
+            sys.exit(1)
+
+        sample_record = next(iter(by_model.values()))[0]
+        current_prompt_version = sample_record.get("prompt_version") or prompts.current_version()
+        current_prompt_text = prompts.load_prompt(current_prompt_version)
+
+        failure_summary = failure_analysis.analyze(by_model)
+        has_findings = any(d.get("validator_top_issues") or d.get("judge_keyword_tally")
+                            for d in failure_summary.values())
+        if not has_findings:
+            print(f"No validator issues or judge complaints found in {current_run_id} — "
+                  f"nothing to optimize against. Stopping.")
+            break
+
+        print(f"Asking Claude Opus to propose a revision to {current_prompt_version} "
+              f"from {current_run_id}'s failure data...")
+        try:
+            proposal = optimizer.propose_revision(current_prompt_text, failure_summary)
+        except Exception as e:
+            print(f"[ERROR] Prompt proposal failed: {e}")
+            sys.exit(1)
+
+        new_version = prompts.save_new_version(proposal["revised_prompt"])
+        _append_prompt_changelog(new_version, current_prompt_version, current_run_id, proposal["changes_summary"])
+        print(f"Saved candidate {new_version} (based on {current_prompt_version}): {proposal['changes_summary']}")
+
+        new_run_id = f"{args.run_id_prefix}-{new_version}"
+        print(f"Running {new_version} as '{new_run_id}' against the same {len(articles)} article(s) "
+              f"and {len(models)} model(s) as {current_run_id}...")
+        run_batch(models, articles, args.judges, new_run_id, api_key,
+                  gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens, prompt_version=new_version)
+
+        result = build_compare(current_run_id, new_run_id, models_filter=models)
+        if "error" in result:
+            print(f"[ERROR] {result['error']}")
+            sys.exit(1)
+        print(result["markdown"])
+        (RUNS_DIR / new_run_id / f"compare_vs_{current_run_id}.md").write_text(
+            result["markdown"], encoding="utf-8")
+
+        delta = result["avg_score_delta"]
+        if delta is not None and delta >= args.min_improvement:
+            prompts.set_current_version(new_version)
+            print(f"IMPROVED: avg judge-score delta {delta:+.2f} >= threshold {args.min_improvement} — "
+                  f"{new_version} is now the current default prompt.")
+            current_run_id = new_run_id
+        else:
+            shown = f"{delta:+.2f}" if delta is not None else "unknown (no model scored in both runs)"
+            print(f"NOT ADOPTED: avg judge-score delta {shown} did not clear threshold {args.min_improvement}. "
+                  f"{new_version} stays saved for the record but the current default prompt is unchanged. Stopping.")
+            break
+
+    print(f"\nDone. Current prompt version: {prompts.current_version()}. "
+          f"Run `python3 scripts/eval_harness.py history` to see the trend across every iteration.")
 
 
 def main() -> None:
@@ -552,9 +669,22 @@ def main() -> None:
     p_hist = subparsers.add_parser("history", help="Trend view across every run under eval/runs/")
     p_hist.add_argument("--models", nargs="+", default=None)
 
+    p_opt = subparsers.add_parser(
+        "optimize",
+        help="Auto-iterate the extraction prompt: propose a revision from a run's failures, re-run, compare, keep only if improved")
+    p_opt.add_argument("--baseline-run", required=True, help="Run id to start from")
+    p_opt.add_argument("--models", nargs="+", default=None, help="Default: every model present in the baseline run")
+    p_opt.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt"])
+    p_opt.add_argument("--gpt-judge-model", default="gpt-5.6")
+    p_opt.add_argument("--max-tokens", type=int, default=8000)
+    p_opt.add_argument("--iterations", type=int, default=1, help="Max propose/re-run rounds (default: 1)")
+    p_opt.add_argument("--min-improvement", type=float, default=0.0,
+                        help="Minimum avg judge-score delta to adopt a candidate as the new current prompt (default: 0.0, i.e. any improvement)")
+    p_opt.add_argument("--run-id-prefix", default="optimize", help="New runs are named <prefix>-<version>, e.g. optimize-v3")
+
     args = parser.parse_args()
     dispatch = {"run": cmd_run, "spotcheck": cmd_spotcheck, "report": cmd_report, "compare": cmd_compare,
-                "project-cost": cmd_project_cost, "history": cmd_history}
+                "project-cost": cmd_project_cost, "history": cmd_history, "optimize": cmd_optimize}
     dispatch[args.command](args)
 
 
