@@ -343,10 +343,14 @@ def _launch_form_html() -> str:
           }).then(function (resp) {
             return resp.json().then(function (data) { return { resp: resp, data: data }; });
           }).then(function (result) {
-            window.alert(result.data.message);
             if (result.data.ok) {
+              // No success dialog — reload straight into the updated page so
+              // the new run(s) show up in "All runs" and the status banner
+              // directly, which is a clearer signal that something happened
+              // than a dismissable alert box was.
               window.location.reload();
             } else {
+              window.alert(result.data.message);
               button.disabled = false;
               button.textContent = originalLabel;
             }
