@@ -47,7 +47,7 @@ import os
 import sys
 import time
 from dataclasses import asdict
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -113,7 +113,7 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
         record["generation"] = {"error": str(e)}
         return record
 
-    record["generated_at"] = datetime.utcnow().isoformat() + "Z"
+    record["generated_at"] = datetime.now(timezone.utc).isoformat()
     record["generation"] = {
         "prompt_tokens": gen.prompt_tokens,
         "completion_tokens": gen.completion_tokens,
@@ -181,7 +181,7 @@ def cmd_run(args: argparse.Namespace) -> None:
         print("[ERROR] OPENROUTER_API_KEY environment variable not set.")
         sys.exit(1)
 
-    run_id = args.run_id or datetime.utcnow().strftime("%Y%m%d-%H%M%S")
+    run_id = args.run_id or datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
     run_dir = RUNS_DIR / run_id
     run_dir.mkdir(parents=True, exist_ok=True)
     print(f"Run ID: {run_id}  (results under {run_dir.relative_to(WIKI_ROOT)})")
