@@ -28,9 +28,10 @@ def _round_section(round_entry: dict) -> str:
     for c in candidates:
         adopted = c["version"] == round_entry["adopted"]
         delta = c["delta"]
+        gen_errors = c.get("gen_errors", 0)
         if delta is None:
             fill_html = ""
-            display = "unknown"
+            display = f"{gen_errors} gen error(s)" if gen_errors else "unknown"
         else:
             pct = min(50, round(50 * abs(delta) / max_abs))
             color = PHASE_COLORS[0] if delta >= 0 else PHASE_COLORS[1]
@@ -48,7 +49,11 @@ def _round_section(round_entry: dict) -> str:
 
     table_row_parts = []
     for c in candidates:
-        delta_str = f"{c['delta']:+.2f}" if c["delta"] is not None else "unknown"
+        gen_errors = c.get("gen_errors", 0)
+        if c["delta"] is not None:
+            delta_str = f"{c['delta']:+.2f}"
+        else:
+            delta_str = f"{gen_errors} gen error(s)" if gen_errors else "unknown"
         adopted_str = "Yes" if c["version"] == round_entry["adopted"] else ""
         table_row_parts.append(
             f'<tr><td>{_esc(c["version"])}</td><td>{_esc(c["lens"])}</td>'

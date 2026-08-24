@@ -1024,7 +1024,11 @@ def _render_auto_optimize_summary(round_log: list, baseline_run: str, final_run_
         lines.append("| Candidate | Lens | Avg judge-score delta | Adopted? |")
         lines.append("|---|---|---|---|")
         for c in r["candidates"]:
-            delta_str = f"{c['delta']:+.2f}" if c["delta"] is not None else "unknown"
+            gen_errors = c.get("gen_errors", 0)
+            if c["delta"] is not None:
+                delta_str = f"{c['delta']:+.2f}"
+            else:
+                delta_str = f"{gen_errors} gen error(s)" if gen_errors else "unknown"
             adopted = "**Yes**" if c["version"] == r["adopted"] else ""
             lines.append(f"| `{c['version']}` | {c['lens']} | {delta_str} | {adopted} |")
         if r["adopted"] is None:
@@ -1036,6 +1040,17 @@ def _render_auto_optimize_summary(round_log: list, baseline_run: str, final_run_
                   f"cross-run trend, and `python3 scripts/eval_harness.py report --run-id {final_run_id}` "
                   f"for the dashboard behind the final numbers above.")
     return "\n".join(lines)
+
+
+def _generation_error_count(rows: list) -> int:
+    """Total (model, article) pairs across a run's rows that failed at the
+    generation-API step (bad slug, rate limit, expired key, model outage,
+    ...) rather than producing content to validate/judge. A run with any
+    of these "completed" in the sense that run_batch attempted every pair
+    and moved on, but the results aren't real signal — treating them as
+    such is exactly how a broken batch can get silently adopted as the
+    next round's baseline (see cmd_auto_optimize's gates around this)."""
+    return sum(r.get("n_generation_errors", 0) for r in rows)
 
 
 AUTO_OPTIMIZE_LOCK_PATH = RUNS_DIR / ".auto_optimize.lock"
@@ -1181,10 +1196,23 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
         _write_auto_optimize_state(args.baseline_run, current_run_id, round_num, args.rounds, "running")
 
         current_dir = RUNS_DIR / current_run_id
-        by_model, _ = compute_rows(current_dir)
+        by_model, base_rows = compute_rows(current_dir)
         if not by_model:
             print(f"[ERROR] {current_run_id} has no completed results to learn from.")
             _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds, "stopped_error")
+            sys.exit(1)
+
+        base_gen_errors = _generation_error_count(base_rows)
+        if base_gen_errors > 0:
+            print(f"[ERROR] {current_run_id} did not complete cleanly — {base_gen_errors} generation "
+                  f"error(s) across its results. A baseline with generation errors isn't reliable to "
+                  f"propose the next round's candidates from (there's nothing real to learn from a "
+                  f"model call that failed outright). Fix the underlying cause (bad model slug, expired/"
+                  f"rate-limited API key, model outage, etc.), then either re-run {current_run_id} clean "
+                  f"or restart auto-optimize from a baseline that completed without errors. Stopping "
+                  f"rather than proposing another round on top of broken data.")
+            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
+                                        "stopped_generation_errors")
             sys.exit(1)
 
         models = args.models or sorted(by_model.keys())
@@ -1238,23 +1266,36 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
                       gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
                       prompt_version=c["version"], concurrency=args.concurrency,
                       max_correction_attempts=args.max_correction_attempts)
-            return c, build_compare(current_run_id, c["run_id"], models_filter=models)
+            _, cand_rows = compute_rows(RUNS_DIR / c["run_id"])
+            gen_errors = _generation_error_count(cand_rows)
+            return c, build_compare(current_run_id, c["run_id"], models_filter=models), gen_errors
 
         scored = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=len(candidates)) as executor:
             futures = [executor.submit(_run_one_candidate, c) for c in candidates]
             for future in concurrent.futures.as_completed(futures):
-                c, result = future.result()
+                c, result, gen_errors = future.result()
+                if gen_errors > 0:
+                    # A candidate that hit generation errors did not complete
+                    # cleanly, whatever the comparison happens to say — some
+                    # models may have partially succeeded, which can produce
+                    # a misleadingly fine (or even positive) avg_score_delta
+                    # averaged over just the survivors. Never let that make
+                    # a broken run look adoptable; it's excluded outright.
+                    print(f"  [{c['version']}] ({c['lens']} lens) {gen_errors} generation error(s) — "
+                          f"did not complete cleanly, excluded from adoption regardless of score.")
+                    scored.append({**c, "delta": None, "gen_errors": gen_errors})
+                    continue
                 if "error" in result:
                     print(f"  [{c['version']}] compare failed: {result['error']}")
-                    scored.append({**c, "delta": None})
+                    scored.append({**c, "delta": None, "gen_errors": gen_errors})
                     continue
                 (RUNS_DIR / c["run_id"] / f"compare_vs_{current_run_id}.md").write_text(
                     result["markdown"], encoding="utf-8")
                 delta = result["avg_score_delta"]
                 shown = f"{delta:+.2f}" if delta is not None else "unknown"
                 print(f"  [{c['version']}] ({c['lens']} lens) avg judge-score delta: {shown}")
-                scored.append({**c, "delta": delta})
+                scored.append({**c, "delta": delta, "gen_errors": gen_errors})
 
         viable = [c for c in scored if c["delta"] is not None and c["delta"] >= args.min_improvement]
         adopted_version = None
