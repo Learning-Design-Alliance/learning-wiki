@@ -116,6 +116,19 @@ tabs) that auto-refreshes while a batch is running. On a droplet, see
 over an SSH tunnel so you can watch it update live instead of re-running
 `report` and re-opening the file by hand.
 
+**`eval/runs/index.html`** — the landing page at the root of that same
+server (`http://localhost:8080/`) — lists every run that exists, each with
+its live done/pending progress, avg judge score, total cost, and avg
+latency so far, plus trend charts (quality, cost/article, latency) across
+every run over time, one line per model, so "is the whole experiment
+trending in the right direction" is a glance instead of opening N
+dashboards. It's regenerated automatically every time any run's own report
+regenerates (same live-while-running guarantee), or on demand:
+
+```bash
+python3 scripts/eval_harness.py index
+```
+
 A **model queue** panel sits above the tabs on every load — one row per
 configured model showing done/error/pending counts against the total article
 count, and a Done / Running / Queued badge (models run to completion one at a

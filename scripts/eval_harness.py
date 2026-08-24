@@ -60,7 +60,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
                           executive_summary, cost_projection, history, prompts, optimizer, model_catalog,
-                          auto_optimize_report)
+                          auto_optimize_report, index_report)
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 WIKI_ROOT = Path(__file__).parent.parent
@@ -573,6 +573,66 @@ def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
         print("\n".join(md_lines))
         print(f"\nWrote {report_path.relative_to(WIKI_ROOT)}, {csv_path.relative_to(WIKI_ROOT)}, "
               f"and {html_path.relative_to(WIKI_ROOT)} (open the .html one in a browser for a visual dashboard)")
+
+    generate_index(verbose=False)
+
+
+def generate_index(verbose: bool = True) -> None:
+    """Regenerates eval/runs/index.html — the landing page python's
+    http.server shows at http://localhost:8080/ — from every run directory
+    currently on disk. Called from generate_reports() (so it's live during
+    any active run, same guarantee as an individual run's own dashboard) and
+    available standalone via the `index` command for a one-off refresh."""
+    run_summaries = []
+    for run_dir in sorted(RUNS_DIR.iterdir()):
+        if not run_dir.is_dir():
+            continue
+        result_files = list(run_dir.glob("*/*.json"))
+        if not result_files:
+            continue
+
+        by_model, rows = compute_rows(run_dir)
+
+        total_pairs = done_pairs = None
+        queue_path = run_dir / "queue.json"
+        if queue_path.exists():
+            try:
+                queue_meta = json.loads(queue_path.read_text(encoding="utf-8"))
+                queue_status = compute_queue_status(
+                    by_model, queue_meta.get("models", []), queue_meta.get("total_articles", 0))
+                total_pairs = sum(s["total"] for s in queue_status)
+                done_pairs = sum(s["done"] for s in queue_status)
+            except (json.JSONDecodeError, OSError):
+                pass
+
+        scores = [v for r in rows for v in (r.get("judge_opus_avg_score"), r.get("judge_gpt_avg_score")) if v is not None]
+        total_cost = sum(r.get("total_generation_cost_usd") or 0 for r in rows)
+        latencies = [r["avg_latency_s"] for r in rows if r.get("avg_latency_s")]
+        versions = sorted({rec.get("prompt_version") for recs in by_model.values() for rec in recs
+                            if rec.get("prompt_version")})
+
+        run_summaries.append({
+            "run_id": run_dir.name,
+            "done": done_pairs, "total": total_pairs,
+            "avg_judge_score": round(sum(scores) / len(scores), 2) if scores else None,
+            "total_cost_usd": round(total_cost, 4),
+            "avg_latency_s": round(sum(latencies) / len(latencies), 1) if latencies else None,
+            "prompt_versions": ", ".join(versions) if versions else "unknown",
+            "n_models": len(by_model),
+            "last_modified": max((f.stat().st_mtime for f in result_files), default=0),
+        })
+
+    run_summaries.sort(key=lambda r: r["last_modified"], reverse=True)
+    history_rows = history.collect(RUNS_DIR)
+
+    index_path = RUNS_DIR / "index.html"
+    index_path.write_text(index_report.render_html(run_summaries, history_rows), encoding="utf-8")
+    if verbose:
+        print(f"Wrote {index_path.relative_to(WIKI_ROOT)} ({len(run_summaries)} run(s))")
+
+
+def cmd_index(args: argparse.Namespace) -> None:
+    generate_index(verbose=True)
 
 
 def cmd_report(args: argparse.Namespace) -> None:
@@ -1087,6 +1147,9 @@ def main() -> None:
     p_hist = subparsers.add_parser("history", help="Trend view across every run under eval/runs/")
     p_hist.add_argument("--models", nargs="+", default=None)
 
+    subparsers.add_parser(
+        "index", help="Regenerate eval/runs/index.html (the http://localhost:8080/ landing page) on demand")
+
     p_status = subparsers.add_parser(
         "status", help="Progress tracker: how many (model, article) pairs are done/errored/pending, per model and overall")
     p_status.add_argument("--run-id", default=None, help="Default: --run-id in deploy/run-config.env's RUN_ARGS")
@@ -1130,7 +1193,7 @@ def main() -> None:
 
     args = parser.parse_args()
     dispatch = {"run": cmd_run, "spotcheck": cmd_spotcheck, "report": cmd_report, "compare": cmd_compare,
-                "project-cost": cmd_project_cost, "history": cmd_history, "optimize": cmd_optimize,
+                "project-cost": cmd_project_cost, "history": cmd_history, "index": cmd_index, "optimize": cmd_optimize,
                 "status": cmd_status, "auto-optimize": cmd_auto_optimize}
     dispatch[args.command](args)
 
