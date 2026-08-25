@@ -27,6 +27,17 @@ nothing to actually execute:
                            regress in cost/latency for many rounds without
                            quality moving, and continuing to build on it
                            forever isn't the only option)
+  /stop-auto-optimize     ("Stop" button, shown while a search is live) —
+                           kills the actual running search process by its
+                           recorded pid (eval/runs/.auto_optimize.lock),
+                           for exactly the "I launched this against the
+                           wrong baseline" case: there was previously no
+                           way to interrupt a running search short of
+                           SSHing in to kill it by hand. Marks the stopped
+                           run "stopped_by_user" rather than a clean-stop
+                           status, so it's never silently reused as the
+                           next launch's continuation baseline — pick one
+                           explicitly with "Use as baseline" instead.
 
 Stdlib only, deliberately: this process is always-on
 (eval-harness-web.service), so it stays minimal rather than pulling in a
@@ -46,6 +57,7 @@ import json
 import os
 import re
 import shutil
+import signal
 import subprocess
 import time
 import urllib.parse
@@ -246,6 +258,7 @@ class Handler(SimpleHTTPRequestHandler):
             "/set-current-version": self._handle_set_current_version,
             "/rerun-run": self._handle_rerun,
             "/use-as-baseline": self._handle_use_as_baseline,
+            "/stop-auto-optimize": self._handle_stop_auto_optimize,
         }
         handler = handlers.get(self.path)
         if handler is None:
@@ -302,6 +315,58 @@ class Handler(SimpleHTTPRequestHandler):
             return
 
         self._respond(200, f"Launch started — {rounds} more round(s) queued.")
+
+    def _handle_stop_auto_optimize(self, form: dict) -> None:
+        """Kills the actual running auto-optimize process by the pid it
+        recorded in its own cross-invocation lock (see eval_harness.py's
+        _acquire_auto_optimize_lock) — the same lock that already answers
+        "is a search running," now also used to find what to kill. There
+        was previously no way to interrupt a launched search short of
+        SSHing in and killing it by hand — exactly what's needed for "I
+        launched this against the wrong baseline," where every extra
+        (model, article) pair the process completes before you notice is
+        wasted spend."""
+        if not LOCK_PATH.exists():
+            self._respond(400, "No auto-optimize search is currently running.")
+            return
+        try:
+            info = json.loads(LOCK_PATH.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            info = {}
+        pid = info.get("pid")
+        if not pid or not _pid_is_alive(pid):
+            LOCK_PATH.unlink(missing_ok=True)
+            self._respond(400, "No auto-optimize search is currently running (a stale lock file was cleaned up).")
+            return
+
+        os.kill(pid, signal.SIGTERM)
+        for _ in range(10):  # up to ~2.5s for a graceful exit before escalating
+            if not _pid_is_alive(pid):
+                break
+            time.sleep(0.25)
+        else:
+            os.kill(pid, signal.SIGKILL)
+            time.sleep(0.25)
+
+        LOCK_PATH.unlink(missing_ok=True)
+
+        run_id = None
+        if STATE_PATH.exists():
+            try:
+                state = json.loads(STATE_PATH.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, OSError):
+                state = {}
+            run_id = state.get("current_run_id")
+            state["status"] = "stopped_by_user"
+            state["error_detail"] = "Stopped manually from the dashboard."
+            state["updated_at"] = datetime.now(timezone.utc).isoformat()
+            STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
+
+        _regenerate_index()
+        note = (f" Its last run ({run_id}) is left on disk — delete it if it was testing against the "
+                f"wrong baseline, or use \"Use as baseline\" on whichever run you actually want to "
+                f"continue from." if run_id else "")
+        self._respond(200, f"Stopped (pid {pid}).{note}")
 
     def _handle_delete_run(self, form: dict) -> None:
         run_id = (form.get("run_id", [""])[0] or "").strip()

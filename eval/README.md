@@ -146,6 +146,18 @@ last `auto-optimize` search left off, so you don't need to SSH in and
 recall a run-id every time you want to keep going. More controls live next
 to it, for exactly the kind of cleanup a billing cap or a contaminated
 round makes necessary — all of this used to mean SSHing in:
+- **Stop** button — shown next to the status banner only while a search is
+  actively running. Kills the search process by the pid it recorded in its
+  own cross-invocation lock (`eval/runs/.auto_optimize.lock`) — for exactly
+  "I launched this against the wrong baseline," where every extra round it
+  completes before you notice is wasted spend. There was previously no way
+  to interrupt a launched search short of SSHing in and killing it by hand.
+  Marks the search `stopped_by_user` — deliberately NOT a status "Launch
+  more rounds" will resume from automatically, since the point of stopping
+  it was that something about it was wrong; pick a baseline explicitly with
+  **Use as baseline** afterward. The run it was mid-way through is left on
+  disk (delete it separately if it should be discarded, e.g. because it was
+  testing against the wrong baseline).
 - **"Set current prompt version"** form — rolls
   `scripts/eval/prompt_versions/CURRENT` to any existing version by hand,
   without touching run data. Only affects what a manual `run` uses next —

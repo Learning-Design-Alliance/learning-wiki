@@ -415,6 +415,7 @@ STATUS_LABELS = {
     "stopped_error": ("Stopped — error", "warn"),
     "stopped_interrupted": ("Stopped — interrupted (process died without finishing; check the log)", "warn"),
     "manually_reset": ("Baseline manually reset — ready for more rounds", "complete"),
+    "stopped_by_user": ("Stopped — killed from the dashboard", "warn"),
 }
 
 
@@ -450,15 +451,56 @@ def _auto_optimize_status_html(state: dict) -> str:
                    f"&middot; was using prompt version <code>{_esc(version)}</code> when it stopped")
     error_detail = state.get("error_detail")
     error_html = (f'<pre class="auto-status-error">{_esc(error_detail)}</pre>' if error_detail else "")
+    stop_html = """
+      <button id="stop-auto-optimize-button" class="stop-auto-optimize-btn" type="button"
+              title="Kill the running search process — e.g. it was launched against the wrong baseline">Stop</button>""" if is_live else ""
     return f"""
     <div class="card auto-status-card">
       <div class="auto-status-row">
         <span class="badge-status badge-status-{cls}">{_esc(label)}</span>
         <span class="auto-status-text">{detail}</span>
+        {stop_html}
       </div>
       <div class="bar-track auto-status-track"><div class="bar-fill" style="width:{max(2, pct)}%; background:var(--series-1);"></div></div>
       {error_html}
-    </div>"""
+    </div>
+    <script>
+      (function () {{
+        var btn = document.getElementById('stop-auto-optimize-button');
+        if (!btn) {{ return; }}
+        btn.addEventListener('click', function () {{
+          if (!window.confirm('Stop the running auto-optimize search? Its current round is killed '
+                               + 'immediately — anything already completed stays on disk, delete it '
+                               + 'separately if it was testing against the wrong baseline.')) {{
+            return;
+          }}
+          btn.disabled = true;
+          var originalLabel = btn.textContent;
+          btn.textContent = 'Stopping\\u2026';
+          fetch('/stop-auto-optimize', {{
+            method: 'POST',
+            headers: {{
+              'Content-Type': 'application/x-www-form-urlencoded',
+              'Accept': 'application/json',
+            }},
+            body: new URLSearchParams(),
+          }}).then(function (resp) {{ return resp.json(); }})
+            .then(function (data) {{
+              if (data.ok) {{
+                window.location.reload();
+              }} else {{
+                window.alert(data.message);
+                btn.disabled = false;
+                btn.textContent = originalLabel;
+              }}
+            }}).catch(function (err) {{
+              window.alert('Stop request failed: ' + err);
+              btn.disabled = false;
+              btn.textContent = originalLabel;
+            }});
+        }});
+      }})();
+    </script>"""
 
 
 def _launch_form_html() -> str:
@@ -821,6 +863,9 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   .auto-status-card {{ margin-bottom: 20px; }}
   .auto-status-row {{ display: flex; align-items: center; gap: 12px; margin-bottom: 10px; flex-wrap: wrap; }}
   .auto-status-text {{ font-size: 13px; color: var(--text-secondary); }}
+  .stop-auto-optimize-btn {{ font: inherit; font-size: 11px; font-weight: 600; padding: 4px 12px; border-radius: 6px; border: 1px solid color-mix(in srgb, var(--status-critical) 45%, transparent); background: var(--surface-1); color: var(--status-critical); cursor: pointer; margin-left: auto; }}
+  .stop-auto-optimize-btn:hover {{ background: color-mix(in srgb, var(--status-critical) 12%, transparent); }}
+  .stop-auto-optimize-btn:disabled {{ opacity: 0.6; cursor: default; }}
   .auto-status-track {{ height: 8px; }}
   .auto-status-error {{ margin: 10px 0 0; padding: 10px 12px; background: color-mix(in srgb, var(--status-critical) 8%, transparent); border: 1px solid color-mix(in srgb, var(--status-critical) 25%, transparent); border-radius: 6px; font-size: 12px; color: var(--text-primary); white-space: pre-wrap; word-break: break-word; font-family: ui-monospace, "SF Mono", Consolas, monospace; }}
   .console-log {{ margin: 0; max-height: 320px; overflow-y: auto; background: var(--page); border: 1px solid var(--border); border-radius: 6px; padding: 12px 14px; font-size: 12px; line-height: 1.5; color: var(--text-secondary); font-family: ui-monospace, "SF Mono", Consolas, monospace; white-space: pre-wrap; word-break: break-word; }}
