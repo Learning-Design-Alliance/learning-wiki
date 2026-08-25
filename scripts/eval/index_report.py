@@ -252,6 +252,16 @@ def _version_detail_table(model_order: list, by_model_hist: dict, best_by_model:
     </table>"""
 
 
+def _fmt_axis_num(v: float) -> str:
+    """A y-axis tick label without Python's `:.2g` sliding into scientific
+    notation for a plain round number — {:.2g}.format(100.0) renders as
+    "1e+02", which is what showed up on a real pass-rate/completeness
+    chart's top gridline instead of a readable "100"."""
+    if abs(v - round(v)) < 0.005:
+        return str(int(round(v)))
+    return f"{v:.2f}".rstrip("0").rstrip(".")
+
+
 _TREND_VERSION_RE = re.compile(r"^.+-v(\d+)$")
 
 
@@ -324,7 +334,7 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
     )
     y_ticks = "".join(
         f'<text x="{PAD - 8}" y="{plot_bottom - f * (plot_bottom - PAD) + 4}" class="axis-label" '
-        f'text-anchor="end">{f * y_max:.2g}</text>'
+        f'text-anchor="end">{_fmt_axis_num(f * y_max)}</text>'
         for f in fracs
     )
 
