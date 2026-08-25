@@ -59,6 +59,20 @@ the article for each claim/citation it is about to make, and requires every clai
 reference one of those quotes. This targets *how the model produces an answer* (grounding it in a \
 quote it must first locate) rather than *what it's told not to do* — the latter has already been \
 tried repeatedly against this exact failure category without success.
+7. If the validator issues show `evidence[N].source_quote` failing — either "missing" or "does not \
+appear in the source article" — this is a harness-side check already live (not something you're \
+choosing to add): each evidence entry must carry a `source_quote` field, a short (roughly 15-40 word) \
+excerpt copied VERBATIM, character-for-character, from the article text, that directly supports the \
+claim. It is checked by exact text match (with a fuzzy fallback tolerating minor whitespace/punctuation \
+reformatting) against the actual article this exact request was given — a paraphrase, a summary, or a \
+quote from a different part of the article than the one that actually supports this specific claim will \
+fail it. If the schema doesn't yet have this field, add it to the evidence object contract and instruct \
+the model explicitly: copy the exact sentence (or clause) it is relying on, do not paraphrase, do not \
+add or remove words, do not fix apparent typos in the source. If a "missing" failure dominates, the \
+field simply isn't in the schema yet — add it. If "does not appear" dominates instead, the field exists \
+but the model is paraphrasing anyway — tighten the instruction with a right/wrong example (right: a \
+quote that could be found with Ctrl-F in the article; wrong: a rephrased or summarized version of what \
+the article said) rather than just repeating "verbatim" once more.
 
 The failure data may also list generation/API errors (rate limits, an expired key, an exhausted \
 account, a model outage) alongside validator and judge issues. Those are infrastructure failures, \

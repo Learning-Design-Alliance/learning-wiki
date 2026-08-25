@@ -77,11 +77,14 @@ def _looks_like_real_citation(citation) -> bool:
 class _Checker:
     """Accumulates (checked, ok) pairs and issues for one contribution."""
 
-    def __init__(self, report: ValidationReport, index: int, slug: str, ground_truth_enabled: bool = False):
+    def __init__(self, report: ValidationReport, index: int, slug: str, ground_truth_enabled: bool = False,
+                 require_source_quotes: bool = False, article_text: str = None):
         self.report = report
         self.index = index
         self.slug = slug or f"contribution[{index}]"
         self.ground_truth_enabled = ground_truth_enabled
+        self.require_source_quotes = require_source_quotes
+        self.article_text = article_text
 
     def error(self, field_name: str, message: str) -> None:
         self.report.issues.append(Issue(self.index, self.slug, "error", field_name, message))
@@ -113,11 +116,36 @@ class _Checker:
         if result is None or result["error"]:
             return
         if result["exists"] is False:
-            self.error(field_name, f"citation's DOI ({result['doi']}) does not resolve to any real work in "
-                                    f"Crossref — likely fabricated.")
+            self.error(field_name, f"citation's {result['kind']} ({result['id']}) does not resolve to any "
+                                    f"real work — likely fabricated.")
         elif result["year_match"] is False:
-            self.warn(field_name, f"citation's stated year doesn't match Crossref's record for its DOI "
-                                   f"({result['doi']}).")
+            self.warn(field_name, f"citation's stated year doesn't match the record found for its "
+                                   f"{result['kind']} ({result['id']}).")
+
+    def check_source_quote(self, field_name: str, source_quote) -> None:
+        """A citation resolving to a real paper (check_citation_ground_truth)
+        doesn't prove the specific CLAIM attributed to it is real — the model
+        could cite a genuine DOI in support of something that paper never
+        said. This checks a required verbatim source_quote field against the
+        actual article text the model was given, which is the only local,
+        deterministic way to catch that. Off by default (require_source_quotes)
+        since no prompt version's schema includes this field yet — turning it
+        on before one does will legitimately fail almost everything, which is
+        the intended signal for the next auto-optimize round to react to."""
+        if not self.require_source_quotes:
+            return
+        if not source_quote or not str(source_quote).strip():
+            self.error(field_name, "missing — a short verbatim quote from the article supporting this "
+                                    "evidence entry is required (checked against the source text).")
+            return
+        if self.article_text is None:
+            return  # nothing to check the quote against (e.g. re-scoring without the cached article text)
+        if not ground_truth.quote_is_grounded(source_quote, self.article_text):
+            shown = str(source_quote).strip()
+            shown = shown if len(shown) <= 80 else shown[:80] + "…"
+            self.error(field_name, f"quote {shown!r} does not appear in the source article (checked "
+                                    f"verbatim, with a fuzzy word-overlap fallback) — likely fabricated or "
+                                    f"too heavily paraphrased; quotes must be copied verbatim.")
 
 
 def _existing_slug_set(existing_slugs: dict) -> set:
@@ -127,14 +155,21 @@ def _existing_slug_set(existing_slugs: dict) -> set:
     return out
 
 
-def validate_output(parsed: dict, existing_slugs: dict, ground_truth_enabled: bool = False) -> ValidationReport:
+def validate_output(parsed: dict, existing_slugs: dict, ground_truth_enabled: bool = False,
+                     require_source_quotes: bool = False, article_text: str = None) -> ValidationReport:
     """existing_slugs: {folder: [slug, ...]} — the real wiki slugs offered to the
     model in the prompt, used to catch invented cross-links.
 
-    ground_truth_enabled: also live-verify each citation's DOI against
-    Crossref (see ground_truth.py) instead of only checking that it LOOKS
-    like a real citation. Off by default — see ground_truth.py's module
-    docstring for why this is opt-in."""
+    ground_truth_enabled: also live-verify each citation's DOI/arXiv id
+    against Crossref/arXiv (see ground_truth.py) instead of only checking
+    that it LOOKS like a real citation. Off by default — see
+    ground_truth.py's module docstring for why this is opt-in.
+
+    require_source_quotes / article_text: require (and verify against the
+    actual article text) a verbatim source_quote field on each claim's
+    evidence entries — see ground_truth.py's module docstring and
+    _Checker.check_source_quote. Off by default: no existing prompt version's
+    schema includes this field yet."""
     article = parsed.get("article") if isinstance(parsed, dict) else None
     contributions = parsed.get("contributions") if isinstance(parsed, dict) else None
     contributions = contributions if isinstance(contributions, list) else []
@@ -166,7 +201,8 @@ def validate_output(parsed: dict, existing_slugs: dict, ground_truth_enabled: bo
             report.issues.append(Issue(i, "-", "error", "contribution", "Contribution is not a JSON object."))
             continue
         slug = contrib.get("slug", "")
-        c = _Checker(report, i, slug, ground_truth_enabled=ground_truth_enabled)
+        c = _Checker(report, i, slug, ground_truth_enabled=ground_truth_enabled,
+                     require_source_quotes=require_source_quotes, article_text=article_text)
 
         ctype = contrib.get("type")
         c.check(ctype in ALLOWED_TYPES, "type", f"type '{ctype}' is not one of {sorted(ALLOWED_TYPES)}.")
@@ -238,6 +274,7 @@ def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
             c.check(isinstance(ev.get("description"), str) and len(ev["description"]) >= 40,
                     f"evidence[{j}].description", "description should be a substantive 2-4 sentence summary.",
                     severity="warning")
+            c.check_source_quote(f"evidence[{j}].source_quote", ev.get("source_quote"))
 
     if isinstance(subclaims, list):
         for j, sc in enumerate(subclaims):

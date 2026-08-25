@@ -274,35 +274,78 @@ never fix on their own, since a rule can only forbid a known-bad *shape*, not
 confirm a specific claimed *fact* is real.
 
 `--ground-truth` (on `run`/`optimize`/`auto-optimize`/`spotcheck`) live-checks
-every citation's DOI against [Crossref](https://api.crossref.org) (free, no
-key) via `scripts/eval/ground_truth.py`:
+every citation's identifier via `scripts/eval/ground_truth.py`: a DOI against
+[Crossref](https://api.crossref.org) (free, no key), or — when there's no
+DOI, the common case for a preprint that's never been formally published —
+an arXiv id against [arXiv's own API](https://arxiv.org/help/api). A DOI-only
+check left every citation to an unpublished arXiv paper completely
+unverifiable; several articles in this project's own eval corpus are arXiv
+preprints, so that gap was real, not hypothetical.
 
 ```bash
 python3 scripts/eval_harness.py spotcheck --run-id <run-id> --ground-truth   # cheapest way to try it — free, re-uses cached extractions
 python3 scripts/eval_harness.py run --models <...> --ground-truth           # live during a new batch
 ```
 
-A DOI that doesn't resolve to any real work becomes a hard validator error
-("likely fabricated") — a real, ground-truthed finding, unlike the shape
-check it supplements. A DOI that resolves but whose cited year doesn't match
-Crossref's record is a warning (could be a preprint-vs-published-version
+An identifier that doesn't resolve to any real work becomes a hard validator
+error ("likely fabricated") — a real, ground-truthed finding, unlike the
+shape check it supplements. One that resolves but whose cited year doesn't
+match the record found is a warning (could be a preprint-vs-published-version
 date, less clear-cut than an outright fabrication). Off by default: it's a
 real, live external dependency and adds network latency to every validation
-pass, which shouldn't silently change for everyone. A Crossref request that
-fails outright (timeout, 5xx) is treated as *unverifiable*, never as
-evidence of fabrication — only a confirmed 404 counts. Results are cached
-in-process per DOI, since the same citation often repeats across models
-and rounds testing the same corpus.
+pass — arXiv in particular asks for no more than one request per 3 seconds,
+so an uncached preprint citation can visibly add to a batch's wall-clock
+time — which shouldn't silently change for everyone. A request that fails
+outright (timeout, 5xx) is treated as *unverifiable*, never as evidence of
+fabrication — only a confirmed not-found counts. Results are cached
+in-process per identifier, since the same citation often repeats across
+models and rounds testing the same corpus.
 
-`optimize`/`auto-optimize` with `--ground-truth` also feeds any fabricated-DOI
-findings into the next round's failure data automatically (they show up as
-ordinary validator issues), and the prompt-engineer system prompt
+`optimize`/`auto-optimize` with `--ground-truth` also feeds any fabricated-
+identifier findings into the next round's failure data automatically (they
+show up as ordinary validator issues), and the prompt-engineer system prompt
 (`scripts/eval/optimizer.py`) is specifically told: when inaccuracy/fabrication
 is the dominant complaint category, don't respond with another "don't
 fabricate" rule — a model already fabricating despite similar existing rules
 won't stop because the wording changed again — restructure the extraction
 procedure instead, adding an explicit step that requires quoting the exact
 supporting sentence(s) from the article before writing each claim.
+
+## Quote grounding (`--require-source-quotes`)
+
+A citation resolving to a real paper (the check above) still doesn't prove
+the specific CLAIM attributed to it is real — a model can cite a genuine DOI
+in support of something that paper never actually said. `--require-source-quotes`
+(on `run`/`optimize`/`auto-optimize`/`spotcheck`) closes that gap the only
+way that's local and deterministic: it requires a `source_quote` field on
+every claim's evidence entries — a short (roughly 15-40 word) excerpt copied
+**verbatim** from the article — and checks it against the actual article text
+this exact request was given (`scripts/eval/ground_truth.py`'s
+`quote_is_grounded()`: an exact match after whitespace normalization, falling
+back to a punctuation-insensitive word-shingle overlap check that tolerates
+light reformatting without accepting a quote that bears no real resemblance
+to the source). No network call, no LLM judge — just a text match, the
+cheapest and fastest fabrication signal available, and the only one that
+catches a real citation attached to a claim it doesn't actually support.
+
+```bash
+python3 scripts/eval_harness.py spotcheck --run-id <run-id> --require-source-quotes   # free — re-fetches cached article text
+python3 scripts/eval_harness.py auto-optimize --baseline-run <run-id> --require-source-quotes --rounds 5
+```
+
+**This is a genuine schema change, not a rule tweak** — no existing prompt
+version's output contract includes a `source_quote` field, since the field
+name and its verification logic didn't exist until this flag was added.
+Turning it on will legitimately fail almost every extraction in the baseline
+run (`evidence[N].source_quote` missing) — that crash in `validator_pass_rate`
+is the intended signal, not a bug: `optimizer.py`'s prompt-engineer system
+prompt has an explicit rule (rule 7) telling it exactly what `source_quote`
+means, the exact field name, and the exact verbatim-copying requirement, so
+the very next `auto-optimize` round should add it to the schema in direct
+response to seeing this failure dominate. Recommended first use: run one
+`auto-optimize` round with both `--ground-truth --require-source-quotes` from
+your current best baseline, then check whether the proposed revision's
+`changes_summary` actually added the field.
 
 ## Prompt versioning, trend history, and auto-optimization
 
