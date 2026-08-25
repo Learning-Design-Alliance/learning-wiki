@@ -214,23 +214,22 @@ def _leaderboard_table(model_order: list, best_by_model: dict) -> str:
     </table>"""
 
 
-def _version_detail_table(model_order: list, by_model_hist: dict, best_by_model: dict, changelog: dict) -> str:
-    if not model_order:
-        return '<p class="empty-note">No data yet.</p>'
+def _model_trajectory_table(model: str, rows: list, best: dict, changelog: dict) -> str:
+    """One model's full version history, newest first, wrapped for internal
+    scrolling — a model tested across dozens of auto-optimize rounds used to
+    mean an ever-growing table with no way to see it all without scrolling
+    the whole page."""
+    sorted_rows = sorted(rows, key=lambda r: (_version_sort_key(r["prompt_version"]), r["run_id"]), reverse=True)
+    desc = model_catalog.describe(model)
+    desc_html = f' <span class="idx-model-desc-inline">({_esc(desc)})</span>' if desc else ""
     body = []
-    for model in model_order:
-        rows = sorted(by_model_hist[model], key=lambda r: (_version_sort_key(r["prompt_version"]), r["run_id"]))
-        desc = model_catalog.describe(model)
-        desc_html = f' <span class="idx-model-desc-inline">({_esc(desc)})</span>' if desc else ""
-        body.append(f'<tr class="model-group-header"><td colspan="8">{_esc(model)}{desc_html}</td></tr>')
-        best = best_by_model[model]
-        for r in rows:
-            is_best = r["run_id"] == best["run_id"] and r["prompt_version"] == best["prompt_version"]
-            cost_str, latency_str = _secondary_str(r)
-            star = " &#9733;" if is_best else ""
-            changes = changelog.get(r["prompt_version"], "")
-            changes_html = _esc(changes) if changes else '<span class="idx-secondary">–</span>'
-            body.append(f"""
+    for r in sorted_rows:
+        is_best = r["run_id"] == best["run_id"] and r["prompt_version"] == best["prompt_version"]
+        cost_str, latency_str = _secondary_str(r)
+        star = " &#9733;" if is_best else ""
+        changes = changelog.get(r["prompt_version"], "")
+        changes_html = _esc(changes) if changes else '<span class="idx-secondary">–</span>'
+        body.append(f"""
         <tr class="{'best-row' if is_best else ''}">
           <td><code>{_esc(r['prompt_version'])}</code>{star}</td>
           <td><a href="./{_esc(r['run_id'])}/report.html">{_esc(r['run_id'])}</a></td>
@@ -242,14 +241,42 @@ def _version_detail_table(model_order: list, by_model_hist: dict, best_by_model:
           <td class="changes-cell">{changes_html}</td>
         </tr>""")
     return f"""
-    <table class="idx-table version-table">
-      <thead>
-        <tr><th>Prompt version</th><th>Run</th><th>Validator pass rate</th><th>Completeness</th>
-            <th>Judge score</th><th class="idx-secondary-th">Cost/article</th>
-            <th class="idx-secondary-th">Latency</th><th>Changes vs. previous version</th></tr>
-      </thead>
-      <tbody>{''.join(body)}</tbody>
-    </table>"""
+    <p class="section-note">{_esc(model)}{desc_html} — newest first. &#9733; marks this model's best
+    result so far.</p>
+    <div class="table-scroll">
+      <table class="idx-table version-table">
+        <thead>
+          <tr><th>Prompt version</th><th>Run</th><th>Validator pass rate</th><th>Completeness</th>
+              <th>Judge score</th><th class="idx-secondary-th">Cost/article</th>
+              <th class="idx-secondary-th">Latency</th><th>Changes vs. previous version</th></tr>
+        </thead>
+        <tbody>{''.join(body)}</tbody>
+      </table>
+    </div>"""
+
+
+def _model_tabgroup_html(model_order: list, by_model_hist: dict, best_by_model: dict, changelog: dict,
+                          storage_key: str) -> str:
+    """A nested tab group — one tab per model — each showing only that
+    model's own trajectory table instead of one long table with every
+    model stacked under its own header row."""
+    if not model_order:
+        return '<p class="empty-note">No data yet.</p>'
+    tabs_html = "".join(
+        f'<button class="tab-btn{" active" if i == 0 else ""}" data-target="model-tab-{i}" role="tab" '
+        f'aria-selected="{"true" if i == 0 else "false"}">{_esc(model)}</button>'
+        for i, model in enumerate(model_order)
+    )
+    panels_html = "".join(
+        f'<div id="model-tab-{i}" class="tab-panel{" active" if i == 0 else ""}">'
+        f'{_model_trajectory_table(model, by_model_hist[model], best_by_model[model], changelog)}</div>'
+        for i, model in enumerate(model_order)
+    )
+    return f"""
+    <div class="tabgroup" data-storage-key="{_esc(storage_key)}">
+      <div class="tabs" role="tablist">{tabs_html}</div>
+      {panels_html}
+    </div>"""
 
 
 def _fmt_axis_num(v: float) -> str:
@@ -791,6 +818,9 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   .rerun-run-btn:disabled, .delete-run-btn:disabled {{ opacity: 0.6; cursor: default; }}
   .idx-version-desc {{ font-size: 11px; color: var(--text-muted); font-weight: 400; margin-top: 2px; max-width: 260px; }}
   .changes-cell {{ color: var(--text-secondary); font-size: 12px; max-width: 320px; }}
+  .table-scroll {{ max-height: 520px; overflow-y: auto; border: 1px solid var(--border); border-radius: 10px; }}
+  .table-scroll .idx-table {{ border: none; border-radius: 0; }}
+  .table-scroll thead th {{ position: sticky; top: 0; background: var(--surface-1); z-index: 1; }}
 </style>
 </head>
 <body>
@@ -804,36 +834,57 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   {_maintenance_html()}
   {_live_console_html() if auto_optimize_state else ''}
 
-  <h2>Best prompt version per model</h2>
-  <p class="section-note">Priority order, not a weighted blend: validator pass rate and completeness
-  are the baseline (need to reach 100%) before judge score — as close to 5 as possible — even matters;
-  cost/latency shown muted, for context only, never part of the ranking. Top row (tinted) is the overall
-  best combination found so far.</p>
-  {_leaderboard_table(model_order, best_by_model)}
+  <div class="tabgroup" data-storage-key="eval-index-main-tab">
+    <div class="tabs" role="tablist">
+      <button class="tab-btn active" data-target="main-tab-leaderboard" role="tab" aria-selected="true">Leaderboard</button>
+      <button class="tab-btn" data-target="main-tab-runs" role="tab" aria-selected="false">All runs</button>
+      <button class="tab-btn" data-target="main-tab-bymodel" role="tab" aria-selected="false">By model</button>
+      <button class="tab-btn" data-target="main-tab-trends" role="tab" aria-selected="false">Trends</button>
+    </div>
 
-  <h2>All runs</h2>
-  <table class="idx-table">
-    <thead>
-      <tr><th>Run</th><th>Status</th><th>Progress</th><th>Best judge score</th>
-          <th class="idx-secondary-th">Total cost</th><th class="idx-secondary-th">Avg latency</th>
-          <th>Models</th><th>Prompt version(s)</th><th></th></tr>
-    </thead>
-    <tbody>{rows_html}</tbody>
-  </table>
+    <div id="main-tab-leaderboard" class="tab-panel active">
+      <h2>Best prompt version per model</h2>
+      <p class="section-note">Priority order, not a weighted blend: validator pass rate and completeness
+      are the baseline (need to reach 100%) before judge score — as close to 5 as possible — even matters;
+      cost/latency shown muted, for context only, never part of the ranking. Top row (tinted) is the overall
+      best combination found so far.</p>
+      {_leaderboard_table(model_order, best_by_model)}
+    </div>
 
-  <h2>Full trajectory by model</h2>
-  <p class="section-note">Every prompt version tested per model, in version order. &#9733; marks that
-  model's best result so far (same row as the leaderboard above).</p>
-  {_version_detail_table(model_order, by_model_hist, best_by_model, changelog)}
+    <div id="main-tab-runs" class="tab-panel">
+      <h2>All runs</h2>
+      <div class="table-scroll">
+        <table class="idx-table">
+          <thead>
+            <tr><th>Run</th><th>Status</th><th>Progress</th><th>Best judge score</th>
+                <th class="idx-secondary-th">Total cost</th><th class="idx-secondary-th">Avg latency</th>
+                <th>Models</th><th>Prompt version(s)</th><th></th></tr>
+          </thead>
+          <tbody>{rows_html}</tbody>
+        </table>
+      </div>
+    </div>
 
-  <h2>Trends across runs</h2>
-  <div class="card">
-    <div class="tabs" role="tablist">{trend_tabs_html}</div>
-    {trend_panels_html}
-    {_legend(colors)}
-    <p class="empty-note">Each point is one model's result in one run, most recent first (left to right)
-    — by run/version sequence, not wall-clock spacing. A line gap means that model didn't run in that
-    batch.</p>
+    <div id="main-tab-bymodel" class="tab-panel">
+      <h2>Full trajectory by model</h2>
+      <p class="section-note">Every prompt version tested for the selected model, newest first. &#9733;
+      marks that model's best result so far (same row as the leaderboard).</p>
+      {_model_tabgroup_html(model_order, by_model_hist, best_by_model, changelog, "eval-index-model-tab")}
+    </div>
+
+    <div id="main-tab-trends" class="tab-panel">
+      <h2>Trends across runs</h2>
+      <div class="card">
+        <div class="tabgroup" data-storage-key="eval-index-trend-tab">
+          <div class="tabs" role="tablist">{trend_tabs_html}</div>
+          {trend_panels_html}
+        </div>
+        {_legend(colors)}
+        <p class="empty-note">Each point is one model's result in one run, most recent first (left to right)
+        — by run/version sequence, not wall-clock spacing. A line gap means that model didn't run in that
+        batch.</p>
+      </div>
+    </div>
   </div>
 
   <p class="footer-note">Click a run above to open its full dashboard (per-model metrics, cost vs.
@@ -842,31 +893,46 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
 </div>
 <script>
   (function () {{
-    function activateTrendTab(target) {{
-      var btn = document.querySelector('.tab-btn[data-target="' + target + '"]');
-      if (!btn) return;
-      document.querySelectorAll('.tab-btn').forEach(function (b) {{ b.classList.remove('active'); b.setAttribute('aria-selected', 'false'); }});
-      document.querySelectorAll('.tab-panel').forEach(function (p) {{ p.classList.remove('active'); }});
-      btn.classList.add('active');
-      btn.setAttribute('aria-selected', 'true');
-      document.getElementById(target).classList.add('active');
-    }}
+    // Generic tab-group activation, scoped per group so nested groups (the
+    // top-level Leaderboard/All runs/By model/Trends tabs, the per-model
+    // tabs inside "By model", and the metric tabs inside "Trends") never
+    // touch each other's buttons or panels — each .tabgroup only looks at
+    // its own DIRECT-CHILD .tabs/.tab-panel via :scope, not any group
+    // nested further inside one of its panels.
+    document.querySelectorAll('.tabgroup').forEach(function (group) {{
+      var storageKey = group.getAttribute('data-storage-key');
+      var buttons = group.querySelectorAll(':scope > .tabs .tab-btn');
+      var panels = group.querySelectorAll(':scope > .tab-panel');
 
-    document.querySelectorAll('.tab-btn').forEach(function (btn) {{
-      btn.addEventListener('click', function () {{
-        activateTrendTab(btn.dataset.target);
-        try {{ localStorage.setItem('eval-index-trend-tab', btn.dataset.target); }} catch (e) {{}}
+      function activate(target) {{
+        buttons.forEach(function (b) {{
+          var isActive = b.dataset.target === target;
+          b.classList.toggle('active', isActive);
+          b.setAttribute('aria-selected', isActive ? 'true' : 'false');
+        }});
+        panels.forEach(function (p) {{ p.classList.toggle('active', p.id === target); }});
+      }}
+
+      buttons.forEach(function (btn) {{
+        btn.addEventListener('click', function () {{
+          activate(btn.dataset.target);
+          if (storageKey) {{
+            try {{ localStorage.setItem(storageKey, btn.dataset.target); }} catch (e) {{}}
+          }}
+        }});
       }});
-    }});
 
-    // This page and every run's own report.html are served from the same
-    // origin, so a distinct localStorage key here avoids clobbering (or
-    // being clobbered by) the per-run report's own saved tab. Restored on
-    // load so the choice survives the page's own 20s auto-refresh.
-    try {{
-      var savedTab = localStorage.getItem('eval-index-trend-tab');
-      if (savedTab) activateTrendTab(savedTab);
-    }} catch (e) {{}}
+      // Restored on load so each group's choice survives the page's own
+      // auto-refresh — a distinct key per group (and distinct from any
+      // per-run report.html's own saved tab, served from the same origin)
+      // so groups never clobber each other's remembered selection.
+      if (storageKey) {{
+        try {{
+          var saved = localStorage.getItem(storageKey);
+          if (saved && group.querySelector('#' + CSS.escape(saved))) {{ activate(saved); }}
+        }} catch (e) {{}}
+      }}
+    }});
   }})();
 
   setTimeout(function () {{ location.reload(); }}, {AUTO_REFRESH_MS});
