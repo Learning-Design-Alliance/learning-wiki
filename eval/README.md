@@ -148,7 +148,18 @@ to it, for exactly the kind of cleanup a billing cap or a contaminated
 round makes necessary — all of this used to mean SSHing in:
 - **"Set current prompt version"** form — rolls
   `scripts/eval/prompt_versions/CURRENT` to any existing version by hand,
-  without touching run data.
+  without touching run data. Only affects what a manual `run` uses next —
+  "Launch more rounds" ignores it (see **Use as baseline** below).
+- **Use as baseline** button on every row — rolls *both*
+  `scripts/eval/prompt_versions/CURRENT` and auto-optimize's own
+  continuation pointer (`.auto_optimize_state.json`) back to that run in
+  one action, so "Launch more rounds" resumes from it next instead of
+  wherever the last search left off. Useful when a long lineage has
+  plateaued or regressed on cost/latency without judge score actually
+  improving — pick an earlier, better-scoring/cheaper row and continue
+  from there instead of building further on top of the current tip.
+  Refuses to run while a search is active, and refuses a run that mixed
+  more than one prompt version (nothing unambiguous to roll back to).
 - **Delete** button on every row of "All runs" — removes that run's
   directory from disk after a confirmation prompt; refuses to delete the
   currently-running search's own active run.
@@ -261,8 +272,16 @@ batch so far."
 `optimize` automates the propose → re-run → compare → keep-or-reject loop:
 it hands Claude Opus the baseline run's exact failure data (the same
 validator issues and judge complaints shown on the dashboard's Failure
-patterns tab — not a hand-picked summary) and asks for a revised prompt
-addressing those specific patterns, saves it as a new version, re-runs it
+patterns tab — not a hand-picked summary), plus up to two "worked
+examples" — real (article excerpt, extraction) pairs from the baseline
+run itself that were validator-clean and scored highly with the judges
+(`scripts/eval_harness.py`'s `_collect_worked_examples`) — and asks for a
+revised prompt addressing those specific patterns. The worked examples
+exist because failure data alone only shows what went wrong, never what a
+passing extraction actually looks like; the prompt-engineer system prompt
+is told to prefer distilling a short, concrete in-prompt example from one
+of these over inventing an abstract rule, when that's the kind of gap the
+failure data points to. It saves the revision as a new version, re-runs it
 against the same models and articles as the baseline, and only adopts it as
 the new default if `compare`'s average judge-score delta clears
 `--min-improvement` (default: any improvement at all). The loop stops the

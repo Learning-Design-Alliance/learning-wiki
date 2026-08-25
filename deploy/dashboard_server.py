@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 dashboard_server.py — Serves eval/runs/ (same as `python3 -m http.server`
-did before) plus four POST endpoints the landing page's buttons/forms
+did before) plus five POST endpoints the landing page's buttons/forms
 submit to — without these, static-file serving alone gives the page
 nothing to actually execute:
   /launch-auto-optimize   start a search ("Launch N more rounds")
@@ -16,6 +16,17 @@ nothing to actually execute:
                            specific version by hand (a billing-cap or
                            contaminated round used to mean SSHing in for
                            this and the rm -rf above every time)
+  /use-as-baseline        ("Use as baseline" per row) roll BOTH the live
+                           prompt version AND auto-optimize's own
+                           continuation pointer back to a specific earlier
+                           run in one action — /set-current-version alone
+                           only changes what a manual `run` uses next;
+                           "Launch more rounds" ignores it and always
+                           resumes from .auto_optimize_state.json's
+                           current_run_id (a growing lineage can plateau or
+                           regress in cost/latency for many rounds without
+                           quality moving, and continuing to build on it
+                           forever isn't the only option)
 
 Stdlib only, deliberately: this process is always-on
 (eval-harness-web.service), so it stays minimal rather than pulling in a
@@ -38,6 +49,7 @@ import shutil
 import subprocess
 import time
 import urllib.parse
+from datetime import datetime, timezone
 from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from pathlib import Path
 
@@ -109,7 +121,11 @@ def _parse_config_args() -> list:
 
 # Statuses cmd_auto_optimize actually reaches on a clean stop — safe to
 # treat their current_run_id as a real, complete baseline to build on.
-GOOD_BASELINE_STATUSES = {"completed", "stopped_no_findings", "stopped_time_budget"}
+# "manually_reset" is the one status cmd_auto_optimize itself never
+# writes — only _handle_use_as_baseline does, when a human deliberately
+# points the search at an earlier run — and it's just as trustworthy as a
+# clean stop.
+GOOD_BASELINE_STATUSES = {"completed", "stopped_no_findings", "stopped_time_budget", "manually_reset"}
 
 
 def _resolve_baseline_from_state() -> str:
@@ -229,6 +245,7 @@ class Handler(SimpleHTTPRequestHandler):
             "/delete-run": self._handle_delete_run,
             "/set-current-version": self._handle_set_current_version,
             "/rerun-run": self._handle_rerun,
+            "/use-as-baseline": self._handle_use_as_baseline,
         }
         handler = handlers.get(self.path)
         if handler is None:
@@ -406,6 +423,82 @@ class Handler(SimpleHTTPRequestHandler):
         (PROMPT_VERSIONS_DIR / "CURRENT").write_text(version + "\n", encoding="utf-8")
         _regenerate_index()
         self._respond(200, f"Current prompt version set to {version}.")
+
+    def _handle_use_as_baseline(self, form: dict) -> None:
+        """Rolls BOTH the live prompt version and auto-optimize's own
+        continuation pointer back to an earlier run in one action —
+        /set-current-version alone only changes what the next manual `run`
+        uses; "Launch more rounds" ignores CURRENT entirely and always
+        resumes from .auto_optimize_state.json's current_run_id (see
+        _resolve_baseline_from_state). Without also rewriting that file, a
+        user rolling CURRENT back in the UI and then clicking "Launch more
+        rounds" would silently keep building on the lineage they just
+        tried to abandon."""
+        run_id = (form.get("run_id", [""])[0] or "").strip()
+        if not run_id or not _SAFE_RUN_ID_RE.match(run_id):
+            self._respond(400, f"Invalid run id: {run_id!r}")
+            return
+
+        run_dir = (RUNS_DIR / run_id).resolve()
+        if run_dir.parent != RUNS_DIR.resolve() or not run_dir.is_dir():
+            self._respond(404, f"No such run directory: {run_id}")
+            return
+
+        result_files = list(run_dir.glob("*/*.json"))
+        if not result_files:
+            self._respond(400, f"{run_id} has no completed results to build on.")
+            return
+
+        versions = set()
+        for path in result_files:
+            try:
+                record = json.loads(path.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, OSError):
+                continue
+            if record.get("prompt_version"):
+                versions.add(record["prompt_version"])
+        if len(versions) != 1:
+            self._respond(400, f"{run_id} tested {len(versions)} distinct prompt version(s) "
+                                f"({', '.join(sorted(versions)) or 'none'}) — expected exactly one to roll "
+                                f"back to unambiguously.")
+            return
+        version = next(iter(versions))
+
+        version_file = PROMPT_VERSIONS_DIR / f"{version}.txt"
+        if not version_file.is_file():
+            self._respond(404, f"{run_id}'s prompt version {version} has no saved file "
+                                f"({version_file.name}) — can't roll CURRENT back to it.")
+            return
+
+        if _already_running():
+            self._respond(409, "An auto-optimize search is currently running — stop it before changing "
+                                "the baseline it would resume from.")
+            return
+
+        (PROMPT_VERSIONS_DIR / "CURRENT").write_text(version + "\n", encoding="utf-8")
+
+        prior_prefix = None
+        if STATE_PATH.exists():
+            try:
+                prior_prefix = json.loads(STATE_PATH.read_text(encoding="utf-8")).get("run_id_prefix")
+            except (json.JSONDecodeError, OSError):
+                prior_prefix = None
+
+        STATE_PATH.write_text(json.dumps({
+            "baseline_run": run_id,
+            "current_run_id": run_id,
+            "prompt_version": version,
+            "round": 0,
+            "rounds_total": 0,
+            "status": "manually_reset",
+            "error_detail": None,
+            "run_id_prefix": prior_prefix,
+            "updated_at": datetime.now(timezone.utc).isoformat(),
+        }, indent=2), encoding="utf-8")
+
+        _regenerate_index()
+        self._respond(200, f"Baseline reset: current prompt version is now {version}, and the next "
+                            f"\"Launch more rounds\" will continue from {run_id}.")
 
     def _wants_json(self) -> bool:
         # The landing page's launch form submits via fetch() with this

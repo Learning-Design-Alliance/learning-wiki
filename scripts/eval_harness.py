@@ -561,6 +561,60 @@ def compute_rows(run_dir: Path) -> tuple:
     return by_model, rows
 
 
+def _collect_worked_examples(by_model: dict, articles: list, max_examples: int = 2,
+                              min_avg_score: float = 4.5) -> list:
+    """Pulls this run's own best (validator-clean, high-judge-score)
+    extractions to show the prompt-engineer model as concrete demonstrations
+    alongside the failure data — the same real (article, extraction) pairs
+    already sitting in this run's cached result files, so no new generation
+    calls are needed. optimizer.py's system prompt tells the model to prefer
+    distilling a short in-prompt example from one of these over inventing an
+    abstract rule, which a plain failure-pattern summary can't offer: it only
+    shows what went wrong, never what a passing extraction actually looks
+    like. Distinct articles only, so two near-duplicate wins on the same
+    article don't crowd out variety; empty when nothing in the run clears
+    the bar, which is fine — failure data alone is still useful."""
+    articles_by_id = {a["id"]: a for a in articles}
+    candidates = []
+    for records in by_model.values():
+        for rec in records:
+            if not rec.get("parsed") or not (rec.get("validation") or {}).get("passed"):
+                continue
+            judges = rec.get("judges") or {}
+            scores = [j["average_score"] for j in judges.values()
+                      if isinstance(j, dict) and j.get("average_score") is not None]
+            if not scores or any(j.get("verdict") == "fail" for j in judges.values() if isinstance(j, dict)):
+                continue
+            avg = sum(scores) / len(scores)
+            if avg >= min_avg_score:
+                candidates.append((avg, rec))
+
+    candidates.sort(key=lambda pair: pair[0], reverse=True)
+    examples = []
+    seen_articles = set()
+    for avg, rec in candidates:
+        article_id = rec["article_id"]
+        if article_id in seen_articles:
+            continue
+        entry = articles_by_id.get(article_id)
+        if not entry:
+            continue
+        try:
+            article_text = fetch_article.fetch_article_text(entry)
+        except Exception:
+            continue
+        seen_articles.add(article_id)
+        examples.append({
+            "article_title": rec.get("article_title") or entry.get("title", article_id),
+            "article_excerpt": article_text[:1500],
+            "extraction_json": json.dumps(rec["parsed"], indent=2),
+            "avg_judge_score": round(avg, 2),
+        })
+        if len(examples) >= max_examples:
+            break
+    return examples
+
+
 def compute_queue_status(by_model: dict, models: list, total_articles: int) -> list:
     """Per-model done/error/pending counts against the *intended* model list
     and article count — the answer to "which models are tested, which are
@@ -1032,10 +1086,12 @@ def cmd_optimize(args: argparse.Namespace) -> None:
                   f"nothing to optimize against. Stopping.")
             break
 
+        worked_examples = _collect_worked_examples(by_model, articles)
         print(f"Asking Claude Opus to propose a revision to {current_prompt_version} "
-              f"from {current_run_id}'s failure data...")
+              f"from {current_run_id}'s failure data ({len(worked_examples)} worked example(s))...")
         try:
-            proposal = optimizer.propose_revision(current_prompt_text, failure_summary)
+            proposal = optimizer.propose_revision(current_prompt_text, failure_summary,
+                                                   worked_examples=worked_examples)
         except Exception as e:
             print(f"[ERROR] Prompt proposal failed: {e}")
             sys.exit(1)
@@ -1355,10 +1411,12 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
             _write_state(round_num - 1, "stopped_no_findings")
             break
 
+        worked_examples = _collect_worked_examples(by_model, articles)
         print(f"Asking Claude Opus to propose a revision to {current_prompt_version} "
-              f"from {current_run_id}'s results...")
+              f"from {current_run_id}'s results ({len(worked_examples)} worked example(s))...")
         try:
-            proposal = optimizer.propose_revision(current_prompt_text, failure_summary)
+            proposal = optimizer.propose_revision(current_prompt_text, failure_summary,
+                                                   worked_examples=worked_examples)
         except Exception as e:
             error_detail = f"Prompt proposal failed: {type(e).__name__}: {e}"
             print(f"[ERROR] {error_detail}")

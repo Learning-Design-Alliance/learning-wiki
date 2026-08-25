@@ -37,7 +37,11 @@ your version needs: a sharper trigger condition, a concrete example matching the
 shown, moving the rule earlier, or an explicit self-check step referencing it.
 3. Where a NEW rule is needed, make it concrete — name the exact behavior to avoid and give a \
 right/wrong example when that helps (this prompt already uses that pattern for its id-format \
-and DOI rules; match that style).
+and DOI rules; match that style). When you're given WORKED EXAMPLES below (a real article excerpt \
+paired with an extraction that scored well on this exact test), prefer distilling a short, concrete \
+in-prompt example from one of them over inventing an abstract rule — that's a real demonstration of \
+the target model succeeding, not a guess at what might help. Trim it down to the minimum illustrative \
+snippet; pasting a full worked example verbatim bloats the prompt more than the rule it's meant to replace.
 4. Do not just append rules forever — if two rules can be merged or one supersedes another, \
 consolidate. A bloated prompt degrades a smaller model's instruction-following as much as a \
 missing rule does.
@@ -85,7 +89,24 @@ def _format_failure_data(failure_summary: dict) -> str:
     return "\n".join(sections)
 
 
-def build_user_prompt(current_prompt: str, failure_summary: dict) -> str:
+def _format_worked_examples(worked_examples: list) -> str:
+    blocks = []
+    for ex in worked_examples:
+        blocks.append(
+            f"### {ex['article_title']} (avg judge score {ex['avg_judge_score']}/5, validator-clean)\n"
+            f"Article excerpt (truncated):\n{ex['article_excerpt']}\n\n"
+            f"Extraction that scored well against it:\n{ex['extraction_json']}"
+        )
+    return "\n\n".join(blocks)
+
+
+def build_user_prompt(current_prompt: str, failure_summary: dict, worked_examples: list = None) -> str:
+    examples_block = _format_worked_examples(worked_examples) if worked_examples else ""
+    examples_section = (
+        f"\n\n## Worked examples from this run (validator-clean, high judge score — real "
+        f"demonstrations to calibrate against, not to copy verbatim)\n\n{examples_block}\n"
+        if examples_block else ""
+    )
     return f"""## Current system prompt
 
 {current_prompt}
@@ -93,16 +114,20 @@ def build_user_prompt(current_prompt: str, failure_summary: dict) -> str:
 ## Failure data from the last test batch
 
 {_format_failure_data(failure_summary)}
-
+{examples_section}
 Produce a revised system prompt addressing these specific patterns, per the rules in your instructions."""
 
 
-def propose_revision(current_prompt: str, failure_summary: dict, model: str = "claude-opus-5") -> dict:
-    """Returns {revised_prompt, changes_summary, input_tokens, output_tokens, latency_s}."""
+def propose_revision(current_prompt: str, failure_summary: dict, worked_examples: list = None,
+                      model: str = "claude-opus-5") -> dict:
+    """Returns {revised_prompt, changes_summary, input_tokens, output_tokens, latency_s}.
+    worked_examples (optional, see eval_harness.py's _collect_worked_examples) are real
+    (article excerpt, high-scoring extraction) pairs from the baseline run itself — concrete
+    demonstrations alongside the abstract failure-pattern summary."""
     import anthropic
 
     client = anthropic.Anthropic()
-    user_prompt = build_user_prompt(current_prompt, failure_summary)
+    user_prompt = build_user_prompt(current_prompt, failure_summary, worked_examples)
 
     start = time.monotonic()
     response = client.messages.create(

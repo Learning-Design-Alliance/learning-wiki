@@ -147,6 +147,7 @@ def _run_row(r: dict, changelog: dict) -> str:
       <td>{_esc(r['prompt_versions'])}{summary_html}</td>
       <td class="idx-actions-cell">
         <button class="rerun-run-btn" data-run-id="{_esc(r['run_id'])}" title="Retry only this run's previously-failed pairs">Rerun</button>
+        <button class="use-baseline-btn" data-run-id="{_esc(r['run_id'])}" title="Roll the live prompt version back to this run's, and make it what &quot;Launch more rounds&quot; resumes from">Use as baseline</button>
         <button class="delete-run-btn" data-run-id="{_esc(r['run_id'])}" title="Delete this run">Delete</button>
       </td>
     </tr>"""
@@ -413,6 +414,7 @@ STATUS_LABELS = {
     "stopped_time_budget": ("Stopped — time budget exhausted", "warn"),
     "stopped_error": ("Stopped — error", "warn"),
     "stopped_interrupted": ("Stopped — interrupted (process died without finishing; check the log)", "warn"),
+    "manually_reset": ("Baseline manually reset — ready for more rounds", "complete"),
 }
 
 
@@ -599,14 +601,25 @@ def _maintenance_html() -> str:
             });
         });
 
+        var ROW_ACTIONS = {
+          'delete-run-btn': { url: '/delete-run', verb: 'Delet',
+            confirm: function (runId) { return 'Delete run "' + runId + '"? This permanently removes its directory from disk.'; } },
+          'rerun-run-btn': { url: '/rerun-run', verb: 'Rerunn' },
+          'use-baseline-btn': { url: '/use-as-baseline', verb: 'Resett',
+            confirm: function (runId) { return 'Roll the live prompt version back to \\'' + runId + '\\', and make "Launch more rounds" resume from there next?'; } },
+        };
+
         document.addEventListener('click', function (e) {
-          var btn = e.target.closest('.delete-run-btn, .rerun-run-btn');
+          var btn = e.target.closest('.delete-run-btn, .rerun-run-btn, .use-baseline-btn');
           if (!btn) { return; }
-          var isDelete = btn.classList.contains('delete-run-btn');
+          var action = null;
+          for (var cls in ROW_ACTIONS) {
+            if (btn.classList.contains(cls)) { action = ROW_ACTIONS[cls]; break; }
+          }
           var runId = btn.getAttribute('data-run-id');
-          var url = isDelete ? '/delete-run' : '/rerun-run';
-          var verb = isDelete ? 'Delet' : 'Rerunn';
-          if (isDelete && !window.confirm('Delete run "' + runId + '"? This permanently removes its directory from disk.')) {
+          var url = action.url;
+          var verb = action.verb;
+          if (action.confirm && !window.confirm(action.confirm(runId))) {
             return;
           }
           btn.disabled = true;
@@ -820,10 +833,11 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   .launch-form button:hover {{ opacity: 0.9; }}
   .launch-form button:disabled {{ opacity: 0.6; cursor: default; }}
   .idx-actions-cell {{ white-space: nowrap; }}
-  .rerun-run-btn, .delete-run-btn {{ font: inherit; font-size: 11px; padding: 4px 10px; border-radius: 6px; border: 1px solid var(--border); background: var(--surface-1); color: var(--text-muted); cursor: pointer; margin-right: 4px; }}
+  .rerun-run-btn, .delete-run-btn, .use-baseline-btn {{ font: inherit; font-size: 11px; padding: 4px 10px; border-radius: 6px; border: 1px solid var(--border); background: var(--surface-1); color: var(--text-muted); cursor: pointer; margin-right: 4px; }}
   .rerun-run-btn:hover {{ background: color-mix(in srgb, var(--series-1) 12%, transparent); color: var(--series-1); border-color: color-mix(in srgb, var(--series-1) 40%, transparent); }}
+  .use-baseline-btn:hover {{ background: color-mix(in srgb, var(--status-warning) 18%, transparent); color: #8a5a00; border-color: color-mix(in srgb, var(--status-warning) 45%, transparent); }}
   .delete-run-btn:hover {{ background: color-mix(in srgb, var(--status-critical) 12%, transparent); color: var(--status-critical); border-color: color-mix(in srgb, var(--status-critical) 40%, transparent); }}
-  .rerun-run-btn:disabled, .delete-run-btn:disabled {{ opacity: 0.6; cursor: default; }}
+  .rerun-run-btn:disabled, .delete-run-btn:disabled, .use-baseline-btn:disabled {{ opacity: 0.6; cursor: default; }}
   .idx-version-desc {{ font-size: 11px; color: var(--text-muted); font-weight: 400; margin-top: 2px; max-width: 260px; }}
   .changes-cell {{ color: var(--text-secondary); font-size: 12px; max-width: 320px; }}
   .table-scroll {{ max-height: 520px; overflow-y: auto; border: 1px solid var(--border); border-radius: 10px; }}
