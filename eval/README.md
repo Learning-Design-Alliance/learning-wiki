@@ -355,6 +355,18 @@ comfortable for your OpenRouter account's rate limits; there's no
 provider-aware throttling beyond the existing 429 retry/backoff in
 `openrouter_client.py`.
 
+Pairs are dispatched **article-major** (every model gets a pair for article
+1 before any model gets a pair for article 2) rather than model-major —
+with `--concurrency >= <number of models>`, this means every model is
+genuinely worked on at roughly the same time. A prior model-major ordering
+meant the thread pool would spend its worker slots finishing one model's
+entire article list before ever touching the next model's first pair,
+which — even with `--concurrency` set above 1 — looked exactly like "wait
+for Gemini to finish before Qwen starts." The dashboard's per-model queue
+section (and `status`'s progress bars) read `concurrency` from the run's
+own `queue.json` to label models "running" (up to `concurrency` incomplete
+models at once) vs. "queued" (any beyond that) accordingly.
+
 ## Self-driving search (`auto-optimize`)
 
 ```bash

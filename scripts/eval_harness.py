@@ -374,7 +374,17 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
     }, indent=2), encoding="utf-8")
 
     existing_slugs = get_existing_slugs()
-    pairs = [(model, entry) for model in models for entry in articles]
+    # Article-major, not model-major: interleaves every model's pair for
+    # article 1, then article 2, etc., instead of listing all of model 1's
+    # articles before model 2's. With concurrency < total pairs, the thread
+    # pool below pulls submitted work roughly in order — model-major order
+    # meant it would burn its worker slots finishing one model's whole
+    # batch before touching the next model's first pair at all, which reads
+    # as "waiting for Gemini to finish before testing Qwen" even though
+    # concurrency>1 nominally means "in parallel." Interleaving means a
+    # concurrency >= len(models) actually runs every model's current
+    # article at roughly the same time, as intended.
+    pairs = [(model, entry) for entry in articles for model in models]
     total = len(pairs)
     state = {"done": 0}
     print_lock = threading.Lock()
@@ -617,16 +627,22 @@ def _collect_worked_examples(by_model: dict, articles: list, max_examples: int =
     return examples
 
 
-def compute_queue_status(by_model: dict, models: list, total_articles: int) -> list:
+def compute_queue_status(by_model: dict, models: list, total_articles: int, concurrency: int = 1) -> list:
     """Per-model done/error/pending counts against the *intended* model list
     and article count — the answer to "which models are tested, which are
     still in the queue" that by_model alone can't give (a model with zero
     result files so far is indistinguishable from one that doesn't exist).
-    Models are assumed to run in list order, one at a time (as run_batch
-    actually does), so the first incomplete model is "running" and every
-    model after it is "queued" rather than all of them showing as running."""
+
+    run_batch dispatches pairs article-major (every model gets a pair for
+    article 1 before any model gets a pair for article 2), submitted all at
+    once to a `concurrency`-worker thread pool — so with concurrency >=
+    len(models), every incomplete model is genuinely being worked at once,
+    not one after another. "queued" only applies to models beyond the first
+    `concurrency` incomplete ones, approximating which models the pool
+    hasn't gotten a worker to yet."""
     statuses = []
-    reached_incomplete = False
+    running_slots = max(1, concurrency)
+    running_count = 0
     for model in models:
         records = by_model.get(model, [])
         errors = sum(1 for r in records if (r.get("generation") or {}).get("error"))
@@ -634,9 +650,9 @@ def compute_queue_status(by_model: dict, models: list, total_articles: int) -> l
         pending = max(0, total_articles - done - errors)
         if pending == 0:
             phase = "done" if errors == 0 else "done-with-errors"
-        elif not reached_incomplete:
+        elif running_count < running_slots:
             phase = "running"
-            reached_incomplete = True
+            running_count += 1
         else:
             phase = "queued"
         statuses.append({"model": model, "total": total_articles, "done": done,
@@ -657,7 +673,8 @@ def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
         try:
             queue_meta = json.loads(queue_path.read_text(encoding="utf-8"))
             queue_status = compute_queue_status(
-                by_model, queue_meta.get("models", []), queue_meta.get("total_articles", 0))
+                by_model, queue_meta.get("models", []), queue_meta.get("total_articles", 0),
+                concurrency=queue_meta.get("concurrency", 1))
         except (json.JSONDecodeError, OSError):
             queue_status = []
 
@@ -771,7 +788,8 @@ def _generate_index_locked(verbose: bool) -> None:
             try:
                 queue_meta = json.loads(queue_path.read_text(encoding="utf-8"))
                 queue_status = compute_queue_status(
-                    by_model, queue_meta.get("models", []), queue_meta.get("total_articles", 0))
+                    by_model, queue_meta.get("models", []), queue_meta.get("total_articles", 0),
+                    concurrency=queue_meta.get("concurrency", 1))
                 total_pairs = sum(s["total"] for s in queue_status)
                 done_pairs = sum(s["done"] for s in queue_status)
             except (json.JSONDecodeError, OSError):
@@ -1004,7 +1022,14 @@ def cmd_status(args: argparse.Namespace) -> None:
     total = len(load_manifest(args.articles))
     run_dir = RUNS_DIR / run_id
     by_model, _ = compute_rows(run_dir) if run_dir.exists() else ({}, [])
-    statuses = compute_queue_status(by_model, models, total)
+    concurrency = 1
+    queue_path = run_dir / "queue.json"
+    if queue_path.exists():
+        try:
+            concurrency = json.loads(queue_path.read_text(encoding="utf-8")).get("concurrency", 1)
+        except (json.JSONDecodeError, OSError):
+            pass
+    statuses = compute_queue_status(by_model, models, total, concurrency=concurrency)
 
     total_pairs = total * len(models)
     print(f"Run: {run_id}")
