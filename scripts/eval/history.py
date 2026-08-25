@@ -6,16 +6,37 @@ test batches rather than comparing two at a time by hand.
 """
 
 import json
+import re
 from pathlib import Path
+
+# Mirrors eval_harness.py's _run_order_key (duplicated rather than shared —
+# a small self-contained regex, and importing eval_harness from here would
+# be circular since eval_harness imports this module). auto-optimize/
+# optimize runs are named <prefix>-v<N>, one test per version, a single
+# monotonic sequence — sorting by that number is the actual chronological
+# order tests were generated in, regardless of which one happened to
+# finish first. Plain alphabetical sort (the previous behavior) put v2
+# after v19, which is why the trend charts' x-axis read as scrambled.
+_VERSIONED_RUN_ID_RE = re.compile(r"^.+-v(\d+)$")
+
+
+def _run_order_key(run_dir: Path) -> tuple:
+    m = _VERSIONED_RUN_ID_RE.match(run_dir.name)
+    if m:
+        return (1, int(m.group(1)))
+    try:
+        first_created = min((f.stat().st_mtime for f in run_dir.glob("*/*.json")), default=0)
+    except OSError:
+        first_created = 0
+    return (0, first_created)
 
 
 def collect(runs_dir: Path) -> list:
     """One row per (run, model): earliest article timestamp (for chronological
     ordering), prompt version, judge scores, validator pass rate, cost."""
     rows = []
-    for run_dir in sorted(runs_dir.iterdir()):
-        if not run_dir.is_dir():
-            continue
+    run_dirs = sorted((d for d in runs_dir.iterdir() if d.is_dir()), key=_run_order_key)
+    for run_dir in run_dirs:
         by_model = {}
         for path in sorted(run_dir.glob("*/*.json")):
             try:
@@ -51,7 +72,12 @@ def collect(runs_dir: Path) -> list:
                 "avg_latency_s": round(sum(g["latency_s"] for g in gens) / len(gens), 1) if gens else None,
             })
 
-    rows.sort(key=lambda r: (r["earliest_timestamp"], r["run_id"], r["model"]))
+    # Deliberately NOT re-sorted by earliest_timestamp: rows are already in
+    # run_dirs' order (built above), and wall-clock timestamps are exactly
+    # what can't be trusted here — two auto-optimize searches running at
+    # once (the actual root cause of a very real earlier incident) can
+    # generate an earlier version's results LATER in wall-clock time than
+    # a later version's, which silently scrambled this list before.
     return rows
 
 
@@ -70,7 +96,8 @@ def render_markdown(rows: list) -> str:
             f"{judge_str} | {pass_rate_str} | {cost_str} |"
         )
     lines.append("")
-    lines.append("Sorted chronologically by each run's earliest completed article. "
-                  "A model with no judge score/pass rate either hasn't completed an article in "
-                  "that run yet or errored on every attempt (check that run's report for gen errors).")
+    lines.append("Sorted by run/version sequence (not wall-clock time, which can't be trusted if two "
+                  "searches ever ran at once). A model with no judge score/pass rate either hasn't "
+                  "completed an article in that run yet or errored on every attempt (check that run's "
+                  "report for gen errors).")
     return "\n".join(lines)

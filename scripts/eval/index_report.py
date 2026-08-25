@@ -252,11 +252,30 @@ def _version_detail_table(model_order: list, by_model_hist: dict, best_by_model:
     </table>"""
 
 
+_TREND_VERSION_RE = re.compile(r"^.+-v(\d+)$")
+
+
+def _short_run_label(run_id: str) -> str:
+    """A run id shortened to just its version for x-axis ticks (e.g.
+    "auto-v16" -> "v16") — the full id is still in each point's hover
+    <title>; the axis just needs something that fits without overlapping
+    its neighbors. Anything that doesn't match the versioned naming
+    scheme (a manual/baseline run) is shown as-is, truncated if long."""
+    m = _TREND_VERSION_RE.match(run_id)
+    if m:
+        return f"v{m.group(1)}"
+    return run_id if len(run_id) <= 12 else run_id[:11] + "…"
+
+
 def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, colors: dict,
                   scale100: bool = False) -> str:
     def scaled(v):
         return v * 100 if scale100 else v
 
+    # history_rows already arrives in logical run order (history.collect()
+    # sorts by version sequence, not alphabetically) — build run_order by
+    # first appearance so the x-axis reads left-to-right as that same
+    # sequence, not whatever order dict/set iteration happened to produce.
     run_order = []
     for r in history_rows:
         if r["run_id"] not in run_order:
@@ -266,7 +285,7 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
     if not run_order or not values:
         return f'<div class="chart-card"><h3>{_esc(label)}</h3><p class="empty-note">No data yet.</p></div>'
 
-    W, H, PAD, PAD_BOTTOM = 560, 220, 46, 40
+    W, H, PAD, PAD_BOTTOM = 560, 220, 46, 46
     plot_w, plot_bottom = W - 2 * PAD, H - PAD_BOTTOM
     n = len(run_order)
     x_step = plot_w / (n - 1) if n > 1 else 0
@@ -309,6 +328,21 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
         for f in fracs
     )
 
+    # Thin to at most ~10 labels so they don't overlap on a long-running
+    # search (dozens of rounds) — always keep the first and last so the
+    # sequence's actual start/end are never silently dropped.
+    max_labels = 10
+    if n <= max_labels:
+        label_idxs = list(range(n))
+    else:
+        step = (n - 1) / (max_labels - 1)
+        label_idxs = sorted({round(i * step) for i in range(max_labels)})
+    x_ticks = "".join(
+        f'<text x="{x_for(run_order[i]):.1f}" y="{plot_bottom + 16}" class="axis-label" '
+        f'text-anchor="middle">{_esc(_short_run_label(run_order[i]))}</text>'
+        for i in label_idxs
+    )
+
     return f"""
     <div class="chart-card">
       <h3>{_esc(label)}</h3>
@@ -317,6 +351,7 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
         <line x1="{PAD}" y1="{plot_bottom}" x2="{W - PAD}" y2="{plot_bottom}" class="axis-line" />
         <line x1="{PAD}" y1="{PAD}" x2="{PAD}" y2="{plot_bottom}" class="axis-line" />
         {y_ticks}
+        {x_ticks}
         {''.join(series_parts)}
       </svg>
     </div>"""
