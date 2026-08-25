@@ -311,11 +311,13 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
 
     # history_rows already arrives in logical run order (history.collect()
     # sorts by version sequence, not alphabetically), oldest first — build
-    # run_order by first appearance over the REVERSED rows so the x-axis
-    # reads left-to-right as most-recent-first, matching "All runs" (also
-    # newest at the top) instead of the opposite direction.
+    # run_order by first appearance over history_rows as-is so the x-axis
+    # reads left-to-right oldest-to-newest, the normal charting convention
+    # (time increasing to the right), even though "All runs" and the other
+    # tables on this page intentionally read the opposite way (newest at
+    # the top, so the latest result is always the first thing you see).
     run_order = []
-    for r in reversed(history_rows):
+    for r in history_rows:
         if r["run_id"] not in run_order:
             run_order.append(r["run_id"])
 
@@ -711,8 +713,8 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
 <meta charset="utf-8">
 <title>Eval harness — all runs</title>
 <style>
-  :root {{ color-scheme: light; }}
-  .viz-root {{
+  :root {{
+    color-scheme: light;
     --surface-1: #fcfcfb; --page: #f9f9f7;
     --text-primary: #0b0b0b; --text-secondary: #52514e; --text-muted: #898781;
     --gridline: #e1e0d9; --axis: #c3c2b7;
@@ -720,8 +722,14 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
     --border: rgba(11,11,11,0.10);
 {light_vars}
   }}
+  /* Variables live on :root (not .viz-root) so body's `background: var(--page)`
+     below — an ANCESTOR of .viz-root in the DOM — can actually see them.
+     Custom properties cascade to descendants only; declaring these one level
+     too low left dark-mode text color (white) flipping correctly while the
+     page background silently fell back to the browser default (white),
+     making most of the page's text invisible against it. */
   @media (prefers-color-scheme: dark) {{
-    :root:where(:not([data-theme="light"])) .viz-root {{
+    :root:where(:not([data-theme="light"])) {{
       --surface-1: #1a1a19; --page: #0d0d0d;
       --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #898781;
       --gridline: #2c2c2a; --axis: #383835;
@@ -730,7 +738,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
 {dark_vars}
     }}
   }}
-  :root[data-theme="dark"] .viz-root {{
+  :root[data-theme="dark"] {{
     --surface-1: #1a1a19; --page: #0d0d0d;
     --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #898781;
     --gridline: #2c2c2a; --axis: #383835;
@@ -880,7 +888,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
           {trend_panels_html}
         </div>
         {_legend(colors)}
-        <p class="empty-note">Each point is one model's result in one run, most recent first (left to right)
+        <p class="empty-note">Each point is one model's result in one run, oldest to newest (left to right)
         — by run/version sequence, not wall-clock spacing. A line gap means that model didn't run in that
         batch.</p>
       </div>
