@@ -1,9 +1,11 @@
 """
 optimizer.py — Proposes a revised extraction prompt from a baseline run's
 actual failure data. One call here is one iteration's "propose" step;
-eval_harness.py's `optimize` command drives the full propose -> re-run ->
-compare -> keep/reject loop (never auto-adopting a regression — see
-prompts.py's CURRENT-pointer ratchet).
+eval_harness.py's `optimize` and `auto-optimize` commands both drive the
+full propose -> re-run -> compare -> advance loop, one test per round,
+strictly sequential — the next round's test never starts until the
+current one has fully completed, failed pairs included (see
+cmd_auto_optimize's docstring).
 
 Uses Claude Opus (already an judge dependency, so no new credential) with the
 same real failure_analysis output already shown to a human in the "Failure
@@ -43,6 +45,14 @@ missing rule does.
 instructions and examples, not the schema itself, unless a schema-level change would directly \
 fix a validator failure category shown in the data.
 
+The failure data may also list generation/API errors (rate limits, an expired key, an exhausted \
+account, a model outage) alongside validator and judge issues. Those are infrastructure failures, \
+not prompt-content problems — no wording change to the system prompt fixes a rate limit. Do not \
+invent a prompt change to address them. If a large share of the batch is generation errors rather \
+than validator/judge issues, say so plainly in changes_summary (e.g. "most of this batch failed at \
+generation, not on content — little validator/judge signal to act on this round") and make your \
+best revision from whatever validator/judge signal remains, however little.
+
 Output ONLY a single JSON object, no markdown fences, no commentary outside the JSON:
 {
   "revised_prompt": "the complete new system prompt text, ready to use as-is",
@@ -66,12 +76,17 @@ def _format_failure_data(failure_summary: dict) -> str:
             sections.append("Sample verbatim judge complaints:")
             for s in data["judge_sample_issues"]:
                 sections.append(f"- ({s['article_id']}, {s['judge']} judge): {s['issue']}")
+        if data.get("generation_error_count"):
+            sections.append(f"Generation/API errors (infrastructure failures, NOT prompt-content "
+                             f"issues — see instructions): {data['generation_error_count']} of this "
+                             f"model's requests failed outright. Sample: "
+                             f"{'; '.join(data['generation_error_samples'][:2])}")
         sections.append("")
     return "\n".join(sections)
 
 
-def build_user_prompt(current_prompt: str, failure_summary: dict, extra_instruction: str = None) -> str:
-    base = f"""## Current system prompt
+def build_user_prompt(current_prompt: str, failure_summary: dict) -> str:
+    return f"""## Current system prompt
 
 {current_prompt}
 
@@ -80,41 +95,14 @@ def build_user_prompt(current_prompt: str, failure_summary: dict, extra_instruct
 {_format_failure_data(failure_summary)}
 
 Produce a revised system prompt addressing these specific patterns, per the rules in your instructions."""
-    if extra_instruction:
-        base += f"\n\n## This round's focus\n{extra_instruction}"
-    return base
 
 
-# Distinct angles a round of auto-optimize proposes in parallel, so K candidate
-# revisions are genuinely different fixes rather than K near-identical
-# rephrasings of the same one. Keys double as the label shown in changelogs,
-# run ids, and the round summary. propose_revisions() cycles through these if
-# asked for more candidates than there are lenses.
-LENSES = {
-    "fabrication": "Focus this revision specifically on eliminating fabricated citations, DOIs, or "
-                   "findings not present in the source article. Don't add unrelated rules elsewhere.",
-    "omission": "Focus this revision specifically on the model under-extracting — giving up on an "
-                "article that does have citable content — rather than on any other failure category.",
-    "duplication": "Focus this revision specifically on eliminating duplicate or redundant "
-                   "contributions describing the same underlying finding.",
-    "schema": "Focus this revision specifically on structural/schema-format failures (id formats, "
-              "evidence_ref links, required fields) — tighten format instructions and add a concrete "
-              "self-check step, matching this prompt's existing id-format/DOI rule style.",
-    "consolidate": "Focus this revision on simplifying and consolidating the prompt itself — merge or "
-                   "cut redundant/conflicting instructions that may be hurting a smaller model's "
-                   "instruction-following, without dropping coverage of any failure category shown.",
-    "general": "Propose your best overall revision addressing the failure data holistically, using "
-               "your own judgment about which categories matter most this round.",
-}
-
-
-def propose_revision(current_prompt: str, failure_summary: dict, model: str = "claude-opus-5",
-                      extra_instruction: str = None) -> dict:
+def propose_revision(current_prompt: str, failure_summary: dict, model: str = "claude-opus-5") -> dict:
     """Returns {revised_prompt, changes_summary, input_tokens, output_tokens, latency_s}."""
     import anthropic
 
     client = anthropic.Anthropic()
-    user_prompt = build_user_prompt(current_prompt, failure_summary, extra_instruction=extra_instruction)
+    user_prompt = build_user_prompt(current_prompt, failure_summary)
 
     start = time.monotonic()
     response = client.messages.create(
@@ -147,51 +135,3 @@ def propose_revision(current_prompt: str, failure_summary: dict, model: str = "c
         "output_tokens": response.usage.output_tokens,
         "latency_s": round(latency, 2),
     }
-
-
-def propose_revisions(current_prompt: str, failure_summary: dict, n: int = 6,
-                       model: str = "claude-opus-5") -> list:
-    """One round of auto-optimize's "breadth" step: ask for `n` diverse
-    candidate revisions in parallel (each Opus call is independent — no
-    shared state — so this is a plain thread pool, not anything needing the
-    eval harness's own generation/report-writing locks). Cycles through
-    LENSES if n exceeds the number of distinct lenses.
-
-    Returns a list of successful proposals (each propose_revision()'s dict
-    plus a "lens" key) — shorter than `n` if some lens calls failed; a
-    lens's failure prints a warning and is dropped rather than aborting the
-    whole round, since a round with 4/6 successful candidates is still a
-    useful round, not a reason to throw away the other 4."""
-    import concurrent.futures
-    import time as _time
-
-    lens_names = list(LENSES.keys())
-    chosen = [lens_names[i % len(lens_names)] for i in range(n)]
-
-    def _one(lens_name):
-        return propose_revision(current_prompt, failure_summary, model=model,
-                                 extra_instruction=LENSES[lens_name])
-
-    # High-effort + adaptive thinking + a 16K token budget means a single
-    # call here can easily take 1-2+ minutes with zero visible progress —
-    # print as each one actually lands (not just on failure) so a long
-    # silence during this step reads as "still working" instead of "stuck".
-    print(f"  Dispatching {len(chosen)} parallel proposal call(s) to {model} "
-          f"(each may take a couple minutes — high effort, adaptive thinking)...")
-    dispatch_start = _time.monotonic()
-
-    results = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=min(n, 6)) as executor:
-        future_to_lens = {executor.submit(_one, lens): lens for lens in chosen}
-        for future in concurrent.futures.as_completed(future_to_lens):
-            lens = future_to_lens[future]
-            elapsed = round(_time.monotonic() - dispatch_start, 1)
-            try:
-                result = future.result()
-                result["lens"] = lens
-                results.append(result)
-                print(f"    [{lens}] received after {elapsed}s "
-                      f"({result['output_tokens']} output tokens, latency {result['latency_s']}s)")
-            except Exception as e:
-                print(f"  [WARN] lens '{lens}' proposal failed: {e}")
-    return results

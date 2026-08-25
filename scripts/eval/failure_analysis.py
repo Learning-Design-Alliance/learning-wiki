@@ -71,11 +71,22 @@ def analyze(by_model: dict, top_n: int = 5, sample_n: int = 5) -> dict:
                 scored.append((rec["article_id"], sum(scores) / len(scores)))
         worst = sorted(scored, key=lambda x: x[1])[:3]
 
+        gen_errors = [rec["generation"]["error"] for rec in records
+                      if (rec.get("generation") or {}).get("error")]
+
         summary[model] = {
             "validator_top_issues": validator_top,
             "judge_keyword_tally": dict(keyword_tally.most_common()),
             "judge_sample_issues": sample_issues,
             "worst_articles": [{"article_id": a, "avg_judge_score": round(s, 2)} for a, s in worst],
+            # Generation/API failures (bad slug, rate limit, expired key, an
+            # exhausted account) are a different animal from a validator or
+            # judge complaint — they say nothing about prompt quality, but a
+            # round dominated by them still needs to be visible as "this
+            # test didn't really produce content to learn from" rather than
+            # silently looking like a clean, issue-free run.
+            "generation_error_count": len(gen_errors),
+            "generation_error_samples": gen_errors[:sample_n],
         }
 
     return summary

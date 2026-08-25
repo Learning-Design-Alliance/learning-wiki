@@ -107,6 +107,25 @@ def _run_row(r: dict) -> str:
     </tr>"""
 
 
+def _skeleton_row(round_num: int, rounds_total: int) -> str:
+    """A placeholder row for a round the current search plans to run but
+    hasn't started yet — "you know it's coming" per the round/rounds_total
+    already tracked in .auto_optimize_state.json, even though its eventual
+    run id and prompt version aren't assigned until the round actually
+    starts (prompts.save_new_version()'s counter only advances then)."""
+    return f"""
+    <tr class="idx-row idx-row-skeleton">
+      <td>Round {round_num} of {rounds_total}</td>
+      <td><span class="badge-status badge-status-queued">Queued</span></td>
+      <td class="idx-progress-cell">–</td>
+      <td class="num">–</td>
+      <td class="num idx-secondary">–</td>
+      <td class="num idx-secondary">–</td>
+      <td>–</td>
+      <td>–</td>
+    </tr>"""
+
+
 def _group_by_model(history_rows: list) -> dict:
     by_model = {}
     for r in history_rows:
@@ -261,12 +280,10 @@ def _legend(colors: dict) -> str:
 STATUS_LABELS = {
     "starting": ("Starting…", "progress"),
     "running": ("Running", "progress"),
-    "completed": ("Completed — all rounds improved", "complete"),
-    "stopped_no_improvement": ("Stopped — no candidate improved further", "complete"),
+    "completed": ("Completed — ran every round", "complete"),
     "stopped_no_findings": ("Stopped — nothing left to optimize against", "complete"),
     "stopped_time_budget": ("Stopped — time budget exhausted", "warn"),
     "stopped_error": ("Stopped — error (check the log)", "warn"),
-    "stopped_generation_errors": ("Stopped — baseline had generation errors, nothing usable to learn from", "warn"),
     "stopped_interrupted": ("Stopped — interrupted (process died without finishing; check the log)", "warn"),
 }
 
@@ -377,8 +394,24 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
     best_by_model = {m: max(rows, key=_best_sort_key) for m, rows in by_model_hist.items()}
     model_order = sorted(by_model_hist, key=lambda m: _best_sort_key(best_by_model[m]), reverse=True)
 
-    rows_html = "".join(_run_row(r) for r in run_summaries) or (
-        '<tr><td colspan="8" class="empty-note">No runs yet.</td></tr>')
+    state = auto_optimize_state or {}
+    skeleton_html = ""
+    if state.get("status") in ("starting", "running"):
+        round_num = state.get("round", 0)
+        rounds_total = state.get("rounds_total", 0)
+        # Future rounds this search plans to run but hasn't started yet —
+        # "you know they're coming" even though their eventual run id and
+        # prompt version aren't assigned until each one actually starts.
+        # Shown above the real rows (newest/most-future first), most
+        # distant round first so the list reads top-to-bottom as the
+        # actual planned order.
+        skeleton_html = "".join(
+            _skeleton_row(n, rounds_total) for n in range(rounds_total, round_num, -1)
+        )
+
+    rows_html = skeleton_html + "".join(_run_row(r) for r in run_summaries)
+    if not rows_html:
+        rows_html = '<tr><td colspan="8" class="empty-note">No runs yet.</td></tr>'
 
     charts_html = "".join([
         _trend_chart(history_rows, "validator_pass_rate", "Validator pass rate", "%", colors, scale100=True),
@@ -468,6 +501,9 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   .empty-note {{ color: var(--text-muted); font-size: 13px; }}
   .footer-note {{ margin-top: 28px; color: var(--text-muted); font-size: 12px; }}
   .badge-status-warn {{ background: var(--status-critical); color: #fff; }}
+  .badge-status-queued {{ background: var(--gridline); color: var(--text-muted); }}
+  .idx-row-skeleton {{ opacity: 0.55; }}
+  .idx-row-skeleton td {{ color: var(--text-muted); }}
   .auto-status-card {{ margin-bottom: 20px; }}
   .auto-status-row {{ display: flex; align-items: center; gap: 12px; margin-bottom: 10px; flex-wrap: wrap; }}
   .auto-status-text {{ font-size: 13px; color: var(--text-secondary); }}

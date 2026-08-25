@@ -623,23 +623,24 @@ def generate_reports(run_dir: Path, run_id: str, verbose: bool = True) -> None:
     generate_index(verbose=False)
 
 
-_AUTO_RUN_ID_RE = re.compile(r"^auto-r(\d+)-v(\d+)$")
+_VERSIONED_RUN_ID_RE = re.compile(r"^.+-v(\d+)$")
 
 
 def _run_order_key(r: dict) -> tuple:
     """Natural/logical ordering for the landing page's "All runs" table —
-    NOT recency-of-completion. Auto-optimize candidates finish in whatever
-    order their API calls happen to return, so sorting by last-modified
-    made a round-1 run (e.g. v13) appear "current" while round-3 candidates
-    (v28-v33) were still in flight above/below it — confusing, since it
-    looked like the search had gone backwards. Round number then version
-    number reflects the actual sequence the search generated them in,
-    regardless of which candidate happened to finish first; anything that
-    doesn't match the auto-optimize naming scheme (manual/baseline runs)
-    sorts before all auto runs, oldest-created first."""
-    m = _AUTO_RUN_ID_RE.match(r["run_id"])
+    NOT recency-of-completion. auto-optimize/optimize runs finish in
+    whatever order their API calls happen to return, so sorting by
+    last-modified made an earlier test appear "current" while a later one
+    was still in flight above/below it — confusing, since it looked like
+    the search had gone backwards. The prompt version number embedded in
+    the run id (e.g. auto-v16) reflects the actual sequence tests were
+    generated in — a single monotonic lineage, one test per version, no
+    round-grouping — regardless of which one happened to finish first;
+    anything that doesn't match this naming scheme (manual/baseline runs)
+    sorts before all versioned runs, oldest-created first."""
+    m = _VERSIONED_RUN_ID_RE.match(r["run_id"])
     if m:
-        return (1, int(m.group(1)), int(m.group(2)))
+        return (1, int(m.group(1)))
     return (0, r["first_created"])
 
 
@@ -952,7 +953,7 @@ def cmd_status(args: argparse.Namespace) -> None:
 def _append_prompt_changelog(new_version: str, based_on_version: str, based_on_run: str, changes_summary: str) -> None:
     changelog_path = prompts.PROMPT_VERSIONS_DIR / "CHANGELOG.md"
     entry = (f"\n## {new_version}\n\n"
-             f"Proposed by `optimize` from `{based_on_run}` (based on {based_on_version}):\n"
+             f"Proposed from `{based_on_run}` (based on {based_on_version}):\n"
              f"{changes_summary}\n")
     with open(changelog_path, "a", encoding="utf-8") as f:
         f.write(entry)
@@ -1044,33 +1045,33 @@ def cmd_optimize(args: argparse.Namespace) -> None:
 
 
 def _render_auto_optimize_summary(round_log: list, baseline_run: str, final_run_id: str) -> str:
+    """One row per round — a single evolving lineage, not a per-round table
+    of competing candidates (see cmd_auto_optimize's docstring): round N is
+    always exactly one test, and it always becomes the new current prompt,
+    whether or not it actually scored better than round N-1."""
     lines = [
         "# Auto-optimize summary", "",
         f"Started from: `{baseline_run}`", f"Final run: `{final_run_id}`",
         f"Current prompt version: `{prompts.current_version()}`", "",
     ]
     if not round_log:
-        lines.append("No round completed — stopped before any candidate finished (see console output for why).")
+        lines.append("No round completed — stopped before the first test finished (see console output for why).")
         return "\n".join(lines)
 
+    lines.append("| Round | Version | Run | Gen errors | Pass rate | Completeness | Judge score | "
+                  "Δ vs previous | Changes |")
+    lines.append("|---|---|---|---|---|---|---|---|---|")
     for r in round_log:
-        lines.append(f"## Round {r['round']} (baseline: `{r['baseline']}`)")
-        lines.append("")
-        lines.append("| Candidate | Lens | Avg judge-score delta | Adopted? |")
-        lines.append("|---|---|---|---|")
-        for c in r["candidates"]:
-            gen_errors = c.get("gen_errors", 0)
-            if c["delta"] is not None:
-                delta_str = f"{c['delta']:+.2f}"
-            else:
-                delta_str = f"{gen_errors} gen error(s)" if gen_errors else "unknown"
-            adopted = "**Yes**" if c["version"] == r["adopted"] else ""
-            lines.append(f"| `{c['version']}` | {c['lens']} | {delta_str} | {adopted} |")
-        if r["adopted"] is None:
-            lines.append("")
-            lines.append("_No candidate cleared the improvement threshold this round — loop stopped here._")
-        lines.append("")
+        pass_rate = f"{r['validator_pass_rate'] * 100:.0f}%" if r["validator_pass_rate"] is not None else "–"
+        completeness = f"{r['avg_completeness_score'] * 100:.0f}%" if r["avg_completeness_score"] is not None else "–"
+        score = f"{r['judge_score']:.2f}" if r["judge_score"] is not None else "–"
+        delta = f"{r['delta_vs_previous']:+.2f}" if r["delta_vs_previous"] is not None else "–"
+        changes = (r["changes_summary"][:120] + "…") if len(r["changes_summary"]) > 120 else r["changes_summary"]
+        lines.append(f"| {r['round']} | `{r['version']}` | [{r['run_id']}](./{r['run_id']}/report.html) | "
+                      f"{r['generation_error_count']} | {pass_rate} | {completeness} | {score} | {delta} | "
+                      f"{changes} |")
 
+    lines.append("")
     lines.append(f"**Recommendation:** run `python3 scripts/eval_harness.py history` for the full "
                   f"cross-run trend, and `python3 scripts/eval_harness.py report --run-id {final_run_id}` "
                   f"for the dashboard behind the final numbers above.")
@@ -1188,24 +1189,25 @@ def _write_auto_optimize_outputs(round_log: list, baseline_run: str, final_run_i
 
 
 def cmd_auto_optimize(args: argparse.Namespace) -> None:
-    """Self-driving, multi-candidate optimization loop — the breadth-first
-    counterpart to `optimize`'s single-lineage ratchet. Each round:
-      1. Proposes --candidates-per-round diverse prompt revisions in
-         parallel, each approached through a different failure "lens"
-         (see optimizer.LENSES) so a round explores genuinely different
-         fixes, not near-identical rephrasings of one idea.
-      2. Runs every candidate's full batch concurrently — both across
-         candidates and across (model, article) pairs within each,
-         bounded by --concurrency — against the same models/articles as
-         the round's baseline.
-      3. Compares every candidate against the round's baseline and adopts
-         the single best one that clears --min-improvement as next
-         round's baseline; a round where nothing clears it stops the loop.
-    Stops on --rounds, --time-budget-minutes, or a non-improving round —
-    whichever comes first — then writes a final recommendation summary
-    (round-by-round table + the resulting current prompt version) so an
-    unattended run started before walking away has something concrete to
-    read on return, not just scrollback."""
+    """Self-driving optimization loop: one test per round, strictly serial.
+    Each round:
+      1. Takes the previous round's full results — validator issues, judge
+         complaints, AND generation/API errors alike (a failed pair still
+         counts as a completed one, just a failed one) — and asks Claude
+         Opus for ONE revised prompt informed by all of it.
+      2. Runs that single revision as this round's test, all configured
+         models in parallel (bounded by --concurrency), against the same
+         articles as the previous round.
+      3. Unconditionally adopts it as the new current prompt — this is one
+         evolving lineage, not a search across competing candidates kept
+         only if they win, so a round that didn't improve still becomes
+         next round's starting point (and its own shortfall becomes new
+         failure data to react to).
+    Round N+1 never starts until round N has fully completed. Stops on
+    --rounds or --time-budget-minutes, whichever comes first, then writes
+    a final recommendation summary (one row per round + the resulting
+    current prompt version) so an unattended run started before walking
+    away has something concrete to read on return, not just scrollback."""
     api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
         print("[ERROR] OPENROUTER_API_KEY environment variable not set.")
@@ -1235,7 +1237,7 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
             _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
                                         "stopped_time_budget")
             break
-        print(f"\n=== auto-optimize round {round_num}/{args.rounds} — baseline: {current_run_id} "
+        print(f"\n=== auto-optimize round {round_num}/{args.rounds} — testing from: {current_run_id} "
               f"(~{remaining_min:.1f} min left in budget) ===")
         _write_auto_optimize_state(args.baseline_run, current_run_id, round_num, args.rounds, "running")
 
@@ -1244,19 +1246,6 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
         if not by_model:
             print(f"[ERROR] {current_run_id} has no completed results to learn from.")
             _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds, "stopped_error")
-            sys.exit(1)
-
-        base_gen_errors = _generation_error_count(base_rows)
-        if base_gen_errors > 0:
-            print(f"[ERROR] {current_run_id} did not complete cleanly — {base_gen_errors} generation "
-                  f"error(s) across its results. A baseline with generation errors isn't reliable to "
-                  f"propose the next round's candidates from (there's nothing real to learn from a "
-                  f"model call that failed outright). Fix the underlying cause (bad model slug, expired/"
-                  f"rate-limited API key, model outage, etc.), then either re-run {current_run_id} clean "
-                  f"or restart auto-optimize from a baseline that completed without errors. Stopping "
-                  f"rather than proposing another round on top of broken data.")
-            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
-                                        "stopped_generation_errors")
             sys.exit(1)
 
         models = args.models or sorted(by_model.keys())
@@ -1272,97 +1261,83 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
         current_prompt_text = prompts.load_prompt(current_prompt_version)
 
         failure_summary = failure_analysis.analyze(by_model)
-        has_findings = any(d.get("validator_top_issues") or d.get("judge_keyword_tally")
-                            for d in failure_summary.values())
+        base_gen_errors = _generation_error_count(base_rows)
+        # Generation/API errors count as findings too — a round that failed
+        # outright still has something to react to (see optimizer.py's
+        # system prompt, which is told these are infra failures, not
+        # content problems, and to say so rather than inventing a fix).
+        # Only a genuinely clean, issue-free round has nothing left to do.
+        has_findings = base_gen_errors > 0 or any(
+            d.get("validator_top_issues") or d.get("judge_keyword_tally") for d in failure_summary.values())
         if not has_findings:
-            print(f"No validator issues or judge complaints found in {current_run_id} — "
+            print(f"No validator issues, judge complaints, or generation errors found in {current_run_id} — "
                   f"nothing left to optimize against. Stopping.")
             _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
                                         "stopped_no_findings")
             break
 
-        print(f"Proposing {args.candidates_per_round} diverse candidate revisions of "
-              f"{current_prompt_version} (parallel, one per lens)...")
-        proposals = optimizer.propose_revisions(current_prompt_text, failure_summary,
-                                                 n=args.candidates_per_round)
-        if not proposals:
-            print("[ERROR] Every candidate proposal failed this round. Stopping.")
+        print(f"Asking Claude Opus to propose a revision to {current_prompt_version} "
+              f"from {current_run_id}'s results...")
+        try:
+            proposal = optimizer.propose_revision(current_prompt_text, failure_summary)
+        except Exception as e:
+            print(f"[ERROR] Prompt proposal failed: {e}")
             _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
                                         "stopped_error")
             break
 
-        candidates = []
-        for p in proposals:
-            version = prompts.save_new_version(p["revised_prompt"])
-            _append_prompt_changelog(version, current_prompt_version, current_run_id,
-                                      f"[{p['lens']} lens] {p['changes_summary']}")
-            cand_run_id = f"{args.run_id_prefix}-r{round_num}-{version}"
-            candidates.append({"version": version, "run_id": cand_run_id, "lens": p["lens"],
-                                "changes_summary": p["changes_summary"]})
-            print(f"  Saved {version} ({p['lens']} lens): {p['changes_summary'][:100]}")
+        new_version = prompts.save_new_version(proposal["revised_prompt"])
+        _append_prompt_changelog(new_version, current_prompt_version, current_run_id, proposal["changes_summary"])
+        new_run_id = f"{args.run_id_prefix}-{new_version}"
+        print(f"Saved {new_version} (based on {current_prompt_version}): {proposal['changes_summary'][:150]}")
+        print(f"Running {new_version} as '{new_run_id}' against {len(models)} model(s) x "
+              f"{len(articles)} article(s) (concurrency={args.concurrency})...")
 
-        print(f"Running {len(candidates)} candidate(s) against {len(models)} model(s) x "
-              f"{len(articles)} article(s) each (concurrency={args.concurrency} per candidate, "
-              f"all candidates in parallel)...")
+        run_batch(models, articles, args.judges, new_run_id, api_key,
+                  gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
+                  prompt_version=new_version, concurrency=args.concurrency,
+                  max_correction_attempts=args.max_correction_attempts)
 
-        def _run_one_candidate(c):
-            run_batch(models, articles, args.judges, c["run_id"], api_key,
-                      gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
-                      prompt_version=c["version"], concurrency=args.concurrency,
-                      max_correction_attempts=args.max_correction_attempts)
-            _, cand_rows = compute_rows(RUNS_DIR / c["run_id"])
-            gen_errors = _generation_error_count(cand_rows)
-            return c, build_compare(current_run_id, c["run_id"], models_filter=models), gen_errors
+        _, new_rows = compute_rows(RUNS_DIR / new_run_id)
+        new_gen_errors = _generation_error_count(new_rows)
+        compare = build_compare(current_run_id, new_run_id, models_filter=models)
+        delta = None
+        if "error" not in compare:
+            (RUNS_DIR / new_run_id / f"compare_vs_{current_run_id}.md").write_text(
+                compare["markdown"], encoding="utf-8")
+            delta = compare["avg_score_delta"]
+        shown = f"{delta:+.2f}" if delta is not None else "unknown"
+        print(f"  {new_version}: {new_gen_errors} generation error(s), avg judge-score delta vs "
+              f"{current_run_id}: {shown}")
 
-        scored = []
-        with concurrent.futures.ThreadPoolExecutor(max_workers=len(candidates)) as executor:
-            futures = [executor.submit(_run_one_candidate, c) for c in candidates]
-            for future in concurrent.futures.as_completed(futures):
-                c, result, gen_errors = future.result()
-                if gen_errors > 0:
-                    # A candidate that hit generation errors did not complete
-                    # cleanly, whatever the comparison happens to say — some
-                    # models may have partially succeeded, which can produce
-                    # a misleadingly fine (or even positive) avg_score_delta
-                    # averaged over just the survivors. Never let that make
-                    # a broken run look adoptable; it's excluded outright.
-                    print(f"  [{c['version']}] ({c['lens']} lens) {gen_errors} generation error(s) — "
-                          f"did not complete cleanly, excluded from adoption regardless of score.")
-                    scored.append({**c, "delta": None, "gen_errors": gen_errors})
-                    continue
-                if "error" in result:
-                    print(f"  [{c['version']}] compare failed: {result['error']}")
-                    scored.append({**c, "delta": None, "gen_errors": gen_errors})
-                    continue
-                (RUNS_DIR / c["run_id"] / f"compare_vs_{current_run_id}.md").write_text(
-                    result["markdown"], encoding="utf-8")
-                delta = result["avg_score_delta"]
-                shown = f"{delta:+.2f}" if delta is not None else "unknown"
-                print(f"  [{c['version']}] ({c['lens']} lens) avg judge-score delta: {shown}")
-                scored.append({**c, "delta": delta, "gen_errors": gen_errors})
+        # No adopt/reject gate: every round's revision becomes the new
+        # current prompt unconditionally — see cmd_auto_optimize's
+        # docstring. A regression is not discarded; it becomes next
+        # round's own baseline and its shortfall becomes new failure data.
+        prompts.set_current_version(new_version)
+        current_run_id = new_run_id
 
-        viable = [c for c in scored if c["delta"] is not None and c["delta"] >= args.min_improvement]
-        adopted_version = None
-        if viable:
-            best = max(viable, key=lambda c: c["delta"])
-            prompts.set_current_version(best["version"])
-            adopted_version = best["version"]
-            print(f"\nADOPTED: {best['version']} ({best['lens']} lens), avg judge-score delta "
-                  f"{best['delta']:+.2f} — now the current default prompt.")
-            current_run_id = best["run_id"]
+        new_scores = [v for r in new_rows for v in (r.get("judge_opus_avg_score"), r.get("judge_gpt_avg_score"))
+                      if v is not None]
+        pass_rates = [r["validator_pass_rate"] for r in new_rows]
+        completeness = [r["avg_completeness_score"] for r in new_rows]
 
-        round_log.append({"round": round_num, "baseline": current_dir.name, "candidates": scored,
-                           "adopted": adopted_version})
+        round_log.append({
+            "round": round_num,
+            "run_id": new_run_id,
+            "version": new_version,
+            "based_on_run": current_dir.name,
+            "changes_summary": proposal["changes_summary"],
+            "generation_error_count": new_gen_errors,
+            "validator_pass_rate": round(sum(pass_rates) / len(pass_rates), 3) if pass_rates else None,
+            "avg_completeness_score": round(sum(completeness) / len(completeness), 3) if completeness else None,
+            "judge_score": round(max(new_scores), 2) if new_scores else None,
+            "delta_vs_previous": delta,
+        })
         _write_auto_optimize_outputs(round_log, args.baseline_run, current_run_id)
-
-        if adopted_version is None:
-            print(f"\nNo candidate cleared the improvement threshold ({args.min_improvement}) this round. Stopping.")
-            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num, args.rounds,
-                                        "stopped_no_improvement")
-            break
     else:
         # The for loop ran to completion (no break) — every round up to
-        # --rounds improved and got adopted.
+        # --rounds ran and advanced.
         _write_auto_optimize_state(args.baseline_run, current_run_id, args.rounds, args.rounds, "completed")
 
     summary_md, summary_path, html_path = _write_auto_optimize_outputs(round_log, args.baseline_run, current_run_id)
@@ -1451,28 +1426,26 @@ def main() -> None:
 
     p_auto = subparsers.add_parser(
         "auto-optimize",
-        help="Self-driving multi-candidate optimization: N diverse prompt revisions per round, tested in "
-             "parallel, best one adopted — repeats until the time budget or round cap is hit or nothing improves")
+        help="Self-driving optimization: one test per round, strictly serial — propose a revision from the "
+             "previous round's full results (failures included), run it, unconditionally adopt it, repeat "
+             "until the time budget or round cap is hit or nothing is left to react to")
     p_auto.add_argument("--baseline-run", required=True, help="Run id to start from")
     p_auto.add_argument("--models", nargs="+", default=None, help="Default: every model present in the baseline run")
     p_auto.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt"])
     p_auto.add_argument("--gpt-judge-model", default="gpt-5.6")
     p_auto.add_argument("--max-tokens", type=int, default=8000)
     p_auto.add_argument("--max-correction-attempts", type=int, default=0,
-                         help="Let each candidate retry up to N times after a validator failure (default: 0). "
+                         help="Let each round's test retry up to N times after a validator failure (default: 0). "
                               "See `run --help` for why this defaults off.")
     p_auto.add_argument("--rounds", type=int, default=3, help="Max rounds (default: 3)")
-    p_auto.add_argument("--candidates-per-round", type=int, default=6,
-                         help="Diverse prompt variations tested per round (default: 6 — cycles through "
-                              "optimizer.LENSES if you ask for more)")
     p_auto.add_argument("--concurrency", type=int, default=6,
-                         help="Max concurrent (model, article) generation calls PER candidate (default: 6)")
+                         help="Max concurrent (model, article) generation calls within one round's test "
+                              "(default: 6)")
     p_auto.add_argument("--time-budget-minutes", type=float, default=60,
                          help="Stop starting new rounds once this much wall-clock time has elapsed (default: 60)")
-    p_auto.add_argument("--min-improvement", type=float, default=0.0,
-                         help="Minimum avg judge-score delta for a candidate to be adoptable (default: 0.0)")
     p_auto.add_argument("--run-id-prefix", default="auto",
-                         help="New runs are named <prefix>-r<round>-<version>, e.g. auto-r1-v3")
+                         help="New runs are named <prefix>-<version>, e.g. auto-v16 — one run per round, "
+                              "no round number in the name")
 
     args = parser.parse_args()
     dispatch = {"run": cmd_run, "spotcheck": cmd_spotcheck, "report": cmd_report, "compare": cmd_compare,

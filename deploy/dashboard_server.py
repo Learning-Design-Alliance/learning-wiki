@@ -78,7 +78,7 @@ def _parse_config_args() -> list:
 
 # Statuses cmd_auto_optimize actually reaches on a clean stop — safe to
 # treat their current_run_id as a real, complete baseline to build on.
-GOOD_BASELINE_STATUSES = {"completed", "stopped_no_improvement", "stopped_no_findings", "stopped_time_budget"}
+GOOD_BASELINE_STATUSES = {"completed", "stopped_no_findings", "stopped_time_budget"}
 
 
 def _resolve_baseline_from_state() -> str:
@@ -117,8 +117,7 @@ def _resolve_launch_args(rounds: int) -> list:
     previous search left off) if that state looks trustworthy (see
     _resolve_baseline_from_state), else from whatever --baseline-run is
     already configured in auto-optimize-config.env; every other flag
-    (candidates-per-round, concurrency, judges, ...) comes unchanged from
-    that same config file."""
+    (concurrency, judges, ...) comes unchanged from that same config file."""
     args = _parse_config_args()
     baseline_run = _resolve_baseline_from_state()
 

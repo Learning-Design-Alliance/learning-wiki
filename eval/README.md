@@ -259,22 +259,30 @@ comfortable for your OpenRouter account's rate limits; there's no
 provider-aware throttling beyond the existing 429 retry/backoff in
 `openrouter_client.py`.
 
-## Self-driving multi-candidate search (`auto-optimize`)
+## Self-driving search (`auto-optimize`)
 
 ```bash
 python3 scripts/eval_harness.py auto-optimize --baseline-run <run-id> \
-    --rounds 3 --candidates-per-round 6 --concurrency 6 --time-budget-minutes 60
+    --rounds 10 --concurrency 6 --time-budget-minutes 60
 ```
 
-Where `optimize` tries one candidate at a time, `auto-optimize` is the
-breadth-first version: each round proposes several *diverse* candidate
-revisions in parallel — one per failure "lens" in `scripts/eval/
-optimizer.py`'s `LENSES` (fabrication, omission, duplication, schema,
-consolidate, general) — rather than one linear rephrasing, runs every
-candidate's full batch concurrently (both across candidates and across
-`(model, article)` pairs within each), and adopts the single best one that
-clears `--min-improvement` as the next round's baseline. A round where
-nothing improves stops the loop, same as `optimize`.
+`auto-optimize` runs `optimize`'s own propose → re-run → advance loop
+unattended for up to `--rounds` iterations, one test per round, strictly
+serial — round N+1 never starts until round N has fully completed. The one
+real difference from `optimize`: **there is no adopt/reject gate.** Every
+round's revision becomes the new current prompt unconditionally, whether or
+not it actually scored better — this is a single evolving lineage, not a
+search across competing candidates kept only if they win, so a regression
+isn't discarded, it becomes next round's own starting point and its
+shortfall becomes new failure data to react to next round. A generation/API
+error (rate limit, expired key, model outage) is treated the same way — the
+pair still "completed," just as a failed one, and that fact is handed to the
+next round's proposal step alongside the usual validator/judge failure data
+(the model is told these are infrastructure failures, not prompt-content
+problems, and to say so rather than inventing an unrelated fix). Run ids are
+plain `<prefix>-<version>` (e.g. `auto-v16`) — one run per round, no round
+number in the name, so version numbers track one continuous sequence
+(`v15` → `v16` → `v17` → ...) instead of a round/candidate grid.
 
 Only one search can run at a time — `auto-optimize` takes an exclusive lock
 (`eval/runs/.auto_optimize.lock`, a PID file) for its whole duration,
@@ -285,16 +293,19 @@ different baselines at once. A stale lock (owning process no longer
 running) is detected and cleared automatically; if it's ever wrong, delete
 the lock file by hand.
 
-It's built to be started and left alone: it stops on `--rounds`,
+It's built to be started and left alone: it stops on `--rounds` or
 `--time-budget-minutes` (checked between rounds, not mid-round — a round
-already in flight finishes), or a non-improving round, whichever comes
-first. After **every** round (not just at the end) it (re)writes
-`eval/runs/auto-optimize-summary-<baseline-run>.md` and its visual
-companion, `...html` — a diverging bar per candidate (green = improved,
-red = regressed vs. that round's baseline, &#9733; marks the adopted one),
-clickable through to each candidate's own full dashboard, plus the same
-data as an accessible table — so it's a live view you can open mid-run, not
-just a report available at the very end.
+already in flight finishes), whichever comes first, or if a round is
+genuinely clean (no validator issues, judge complaints, or generation
+errors — nothing left to react to). After **every** round (not just at the
+end) it (re)writes `eval/runs/auto-optimize-summary-<baseline-run>.md` and
+its visual companion, `...html` — a diverging bar per round showing its
+judge-score delta vs. the previous one (green = improved, red = regressed),
+clickable through to each round's own full dashboard, plus the same data as
+an accessible table — so it's a live view you can open mid-run, not just a
+report available at the very end. The landing page's "All runs" table also
+shows placeholder "Queued" rows for rounds the search has planned but not
+started yet, so you can see the whole trajectory at a glance.
 
 **Running it unattended on the droplet** (see
 [deploy/README.md](../deploy/README.md) for the base setup): edit
@@ -310,16 +321,10 @@ journalctl -u eval-auto-optimize -f          # watch it live
 Unlike `eval-harness.service`, this unit is **not** enabled at boot and has
 **no** `Restart=` — it's a one-off bounded search you trigger by hand, not
 an always-on service; a crash or completion doesn't relaunch it and keep
-spending API budget unattended. Each candidate gets its own run directory
-under `eval/runs/`, browsable the same way as any other run (via
-`live_view.sh` or the plain directory listing at `http://localhost:8080/`
-through the SSH tunnel) while the search is still in progress.
-
-This spends real money faster than `optimize` — `--candidates-per-round 6`
-means 6x the generation + judge cost of a single round, on top of 6 parallel
-Opus calls for the proposals themselves. Start with a smaller
-`--candidates-per-round` and shorter `--time-budget-minutes` the first time
-to see real cost/round before committing to a full hour.
+spending API budget unattended. Each round gets its own run directory under
+`eval/runs/`, browsable the same way as any other run (via `live_view.sh` or
+the plain directory listing at `http://localhost:8080/` through the SSH
+tunnel) while the search is still in progress.
 
 ## Repeating the test
 

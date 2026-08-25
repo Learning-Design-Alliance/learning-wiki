@@ -136,9 +136,10 @@ open eval/runs/do-batch-1/report.html
 
 Once you have a baseline run you're not happy with, `auto-optimize` (see
 [eval/README.md](../eval/README.md)) can search for a better prompt
-unattended — several diverse candidate revisions per round, run in
-parallel, best one kept — and write a final recommendation summary for you
-to read whenever you check back:
+unattended — one test per round, strictly serial, every round's revision
+adopted unconditionally (failures included, so it always keeps moving
+forward rather than getting stuck) — and write a final recommendation
+summary for you to read whenever you check back:
 
 ```bash
 nano deploy/auto-optimize-config.env    # set --baseline-run to a real run-id, tune search params
