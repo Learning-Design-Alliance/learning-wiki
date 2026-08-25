@@ -1145,7 +1145,7 @@ def _release_auto_optimize_lock() -> None:
 
 
 def _write_auto_optimize_state(baseline_run: str, current_run_id: str, round_num: int, rounds_total: int,
-                                status: str, error_detail: str = None) -> None:
+                                status: str, error_detail: str = None, run_id_prefix: str = None) -> None:
     """Round-level progress, separate from any one candidate's own
     (model, article) progress bar — answers "how many rounds are left in
     this whole search," not "how far along is this one candidate." Read by
@@ -1174,6 +1174,7 @@ def _write_auto_optimize_state(baseline_run: str, current_run_id: str, round_num
         "rounds_total": rounds_total,
         "status": status,
         "error_detail": error_detail,
+        "run_id_prefix": run_id_prefix,
         "updated_at": datetime.now(timezone.utc).isoformat(),
     }, indent=2), encoding="utf-8")
     generate_index(verbose=False)
@@ -1194,6 +1195,34 @@ def _write_auto_optimize_outputs(round_log: list, baseline_run: str, final_run_i
         encoding="utf-8",
     )
     return summary_md, summary_path, html_path
+
+
+AUTO_OPTIMIZE_CONSOLE_LOG_PATH = RUNS_DIR / ".auto_optimize_console.log"
+
+
+class _ConsoleTee:
+    """Duplicates every write to the real stream AND a fixed log file, so
+    the landing page can show live console output regardless of how
+    auto-optimize was launched — the web button, systemd, and a bare CLI
+    invocation each send this process's own stdout somewhere different (a
+    per-launch log file, journald, a terminal), but this always
+    additionally lands in one predictable place (AUTO_OPTIMIZE_CONSOLE_LOG_PATH)
+    the dashboard knows to poll."""
+    def __init__(self, stream, log_file):
+        self._stream = stream
+        self._log_file = log_file
+
+    def write(self, s):
+        self._stream.write(s)
+        self._log_file.write(s)
+        self._log_file.flush()
+
+    def flush(self):
+        self._stream.flush()
+        self._log_file.flush()
+
+    def isatty(self):
+        return False
 
 
 def cmd_auto_optimize(args: argparse.Namespace) -> None:
@@ -1225,9 +1254,15 @@ def cmd_auto_optimize(args: argparse.Namespace) -> None:
         sys.exit(1)
 
     _acquire_auto_optimize_lock(args.baseline_run)
+    console_log_file = open(AUTO_OPTIMIZE_CONSOLE_LOG_PATH, "w", encoding="utf-8")
+    orig_stdout, orig_stderr = sys.stdout, sys.stderr
+    sys.stdout = _ConsoleTee(orig_stdout, console_log_file)
+    sys.stderr = _ConsoleTee(orig_stderr, console_log_file)
     try:
         _run_auto_optimize_loop(args)
     finally:
+        sys.stdout, sys.stderr = orig_stdout, orig_stderr
+        console_log_file.close()
         _release_auto_optimize_lock()
 
 
@@ -1236,26 +1271,29 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
     deadline = time.monotonic() + args.time_budget_minutes * 60
     current_run_id = args.baseline_run
     round_log = []
-    _write_auto_optimize_state(args.baseline_run, current_run_id, 0, args.rounds, "starting")
+
+    def _write_state(round_num: int, status: str, error_detail: str = None) -> None:
+        _write_auto_optimize_state(args.baseline_run, current_run_id, round_num, args.rounds, status,
+                                    error_detail=error_detail, run_id_prefix=args.run_id_prefix)
+
+    _write_state(0, "starting")
 
     for round_num in range(1, args.rounds + 1):
         remaining_min = (deadline - time.monotonic()) / 60
         if remaining_min <= 0:
             print(f"\nTime budget ({args.time_budget_minutes} min) exhausted before round {round_num}. Stopping.")
-            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
-                                        "stopped_time_budget")
+            _write_state(round_num - 1, "stopped_time_budget")
             break
         print(f"\n=== auto-optimize round {round_num}/{args.rounds} — testing from: {current_run_id} "
               f"(~{remaining_min:.1f} min left in budget) ===")
-        _write_auto_optimize_state(args.baseline_run, current_run_id, round_num, args.rounds, "running")
+        _write_state(round_num, "running")
 
         current_dir = RUNS_DIR / current_run_id
         by_model, base_rows = compute_rows(current_dir)
         if not by_model:
             error_detail = f"{current_run_id} has no completed results to learn from."
             print(f"[ERROR] {error_detail}")
-            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
-                                        "stopped_error", error_detail=error_detail)
+            _write_state(round_num - 1, "stopped_error", error_detail=error_detail)
             sys.exit(1)
 
         models = args.models or sorted(by_model.keys())
@@ -1264,8 +1302,7 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
         if not articles:
             error_detail = "Could not resolve manifest articles from the baseline run's article ids."
             print(f"[ERROR] {error_detail}")
-            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
-                                        "stopped_error", error_detail=error_detail)
+            _write_state(round_num - 1, "stopped_error", error_detail=error_detail)
             sys.exit(1)
 
         sample_record = next(iter(by_model.values()))[0]
@@ -1284,8 +1321,7 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
         if not has_findings:
             print(f"No validator issues, judge complaints, or generation errors found in {current_run_id} — "
                   f"nothing left to optimize against. Stopping.")
-            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
-                                        "stopped_no_findings")
+            _write_state(round_num - 1, "stopped_no_findings")
             break
 
         print(f"Asking Claude Opus to propose a revision to {current_prompt_version} "
@@ -1295,8 +1331,7 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
         except Exception as e:
             error_detail = f"Prompt proposal failed: {type(e).__name__}: {e}"
             print(f"[ERROR] {error_detail}")
-            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
-                                        "stopped_error", error_detail=error_detail)
+            _write_state(round_num - 1, "stopped_error", error_detail=error_detail)
             break
 
         new_version = prompts.save_new_version(proposal["revised_prompt"])
@@ -1351,7 +1386,7 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
     else:
         # The for loop ran to completion (no break) — every round up to
         # --rounds ran and advanced.
-        _write_auto_optimize_state(args.baseline_run, current_run_id, args.rounds, args.rounds, "completed")
+        _write_state(args.rounds, "completed")
 
     summary_md, summary_path, html_path = _write_auto_optimize_outputs(round_log, args.baseline_run, current_run_id)
     print(f"\n{summary_md}")

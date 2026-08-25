@@ -75,12 +75,20 @@ def load_prompt(version: str = None) -> str:
     return path.read_text(encoding="utf-8")
 
 
+def peek_next_version_number() -> int:
+    """The version number save_new_version() would assign right now, without
+    writing anything — lets a caller project ahead (e.g. the landing page's
+    skeleton rows for a search's not-yet-started future rounds) since
+    auto-optimize's cross-invocation lock guarantees nothing else is
+    consuming version numbers concurrently."""
+    versions = list_versions()
+    return (int(re.sub(r"\D", "", versions[-1]) or 0) + 1) if versions else 1
+
+
 def save_new_version(prompt_text: str) -> str:
     """Write prompt_text as the next version (vN+1) and return its name.
     Caller is responsible for appending a CHANGELOG.md entry explaining why."""
-    versions = list_versions()
-    next_n = (int(re.sub(r"\D", "", versions[-1]) or 0) + 1) if versions else 1
-    name = f"v{next_n}"
+    name = f"v{peek_next_version_number()}"
     (PROMPT_VERSIONS_DIR / f"{name}.txt").write_text(prompt_text, encoding="utf-8")
     return name
 

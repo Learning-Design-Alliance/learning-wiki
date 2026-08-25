@@ -21,7 +21,7 @@ same guarantee as an individual run's report.html.
 import html
 import re
 
-from . import html_report, model_catalog
+from . import html_report, model_catalog, prompts
 
 AUTO_REFRESH_MS = html_report.AUTO_REFRESH_MS
 
@@ -107,15 +107,19 @@ def _run_row(r: dict) -> str:
     </tr>"""
 
 
-def _skeleton_row(round_num: int, rounds_total: int) -> str:
+def _skeleton_row(round_num: int, rounds_total: int, projected_run_id: str = None) -> str:
     """A placeholder row for a round the current search plans to run but
     hasn't started yet — "you know it's coming" per the round/rounds_total
-    already tracked in .auto_optimize_state.json, even though its eventual
-    run id and prompt version aren't assigned until the round actually
-    starts (prompts.save_new_version()'s counter only advances then)."""
+    already tracked in .auto_optimize_state.json. projected_run_id is a
+    forecast, not a real run: auto-optimize's cross-invocation lock
+    guarantees nothing else is consuming prompt version numbers while a
+    search holds it, so the exact version each future round will get is
+    predictable (see prompts.peek_next_version_number()) even though the
+    run doesn't exist on disk yet."""
+    label = f"{_esc(projected_run_id)} (projected)" if projected_run_id else f"Round {round_num} of {rounds_total}"
     return f"""
     <tr class="idx-row idx-row-skeleton">
-      <td>Round {round_num} of {rounds_total}</td>
+      <td>{label}</td>
       <td><span class="badge-status badge-status-queued">Queued</span></td>
       <td class="idx-progress-cell">–</td>
       <td class="num">–</td>
@@ -384,6 +388,42 @@ def _launch_form_html() -> str:
     </script>"""
 
 
+def _live_console_html() -> str:
+    """Tails .auto_optimize_console.log (a plain-text duplicate of
+    everything cmd_auto_optimize prints, written regardless of launch
+    path — see eval_harness.py's _ConsoleTee) via client-side polling,
+    independent of the page's own 20s full-reload cadence, so progress
+    between (model, article) pairs is visible without SSHing in to `cat`
+    a log file by hand. Only rendered once a search has run at least
+    once (auto_optimize_state exists) — nothing to show otherwise."""
+    return """
+    <div class="card console-card">
+      <h2 style="margin-top:0;">Live console</h2>
+      <pre id="console-log-pre" class="console-log">Loading&hellip;</pre>
+    </div>
+    <script>
+      (function () {
+        var pre = document.getElementById('console-log-pre');
+        var atBottom = true;
+        pre.addEventListener('scroll', function () {
+          atBottom = pre.scrollTop + pre.clientHeight >= pre.scrollHeight - 4;
+        });
+        function poll() {
+          fetch('./.auto_optimize_console.log', { cache: 'no-store' })
+            .then(function (r) { if (!r.ok) throw new Error('no log yet'); return r.text(); })
+            .then(function (text) {
+              var lines = text.split('\\n');
+              pre.textContent = lines.slice(-400).join('\\n');
+              if (atBottom) { pre.scrollTop = pre.scrollHeight; }
+            })
+            .catch(function () { pre.textContent = '(no console output yet)'; });
+        }
+        poll();
+        setInterval(poll, 4000);
+      })();
+    </script>"""
+
+
 def render_html(run_summaries: list, history_rows: list, auto_optimize_state: dict = None,
                  current_prompt_version: str = None) -> str:
     models = []
@@ -407,9 +447,27 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
         # prompt version aren't assigned until each one actually starts.
         # Shown above the real rows (newest/most-future first), most
         # distant round first so the list reads top-to-bottom as the
-        # actual planned order.
+        # actual planned order. Project each future round's exact run id:
+        # auto-optimize's cross-invocation lock guarantees nothing else is
+        # consuming prompt version numbers while a search holds it, so
+        # "the next version save_new_version() will assign" (and each one
+        # after it, incrementing by one per round) is a reliable forecast,
+        # not a guess.
+        run_id_prefix = state.get("run_id_prefix")
+        try:
+            next_version_n = prompts.peek_next_version_number()
+        except Exception:
+            next_version_n = None
+        first_skeleton_round = round_num + 1
+
+        def _projected_run_id(n):
+            if not run_id_prefix or next_version_n is None:
+                return None
+            return f"{run_id_prefix}-v{next_version_n + (n - first_skeleton_round)}"
+
         skeleton_html = "".join(
-            _skeleton_row(n, rounds_total) for n in range(rounds_total, round_num, -1)
+            _skeleton_row(n, rounds_total, projected_run_id=_projected_run_id(n))
+            for n in range(rounds_total, round_num, -1)
         )
 
     rows_html = skeleton_html + "".join(_run_row(r) for r in run_summaries)
@@ -512,6 +570,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   .auto-status-text {{ font-size: 13px; color: var(--text-secondary); }}
   .auto-status-track {{ height: 8px; }}
   .auto-status-error {{ margin: 10px 0 0; padding: 10px 12px; background: color-mix(in srgb, var(--status-critical) 8%, transparent); border: 1px solid color-mix(in srgb, var(--status-critical) 25%, transparent); border-radius: 6px; font-size: 12px; color: var(--text-primary); white-space: pre-wrap; word-break: break-word; font-family: ui-monospace, "SF Mono", Consolas, monospace; }}
+  .console-log {{ margin: 0; max-height: 320px; overflow-y: auto; background: var(--page); border: 1px solid var(--border); border-radius: 6px; padding: 12px 14px; font-size: 12px; line-height: 1.5; color: var(--text-secondary); font-family: ui-monospace, "SF Mono", Consolas, monospace; white-space: pre-wrap; word-break: break-word; }}
   .launch-card {{ margin-bottom: 20px; }}
   .launch-form {{ display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 13px; }}
   .launch-form label {{ color: var(--text-secondary); }}
@@ -528,6 +587,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
 
   {_auto_optimize_status_html(auto_optimize_state or {})}
   {_launch_form_html()}
+  {_live_console_html() if auto_optimize_state else ''}
 
   <h2>Best prompt version per model</h2>
   <p class="section-note">Priority order, not a weighted blend: validator pass rate and completeness
