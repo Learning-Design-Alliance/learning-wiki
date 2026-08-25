@@ -143,7 +143,15 @@ On a droplet, the same page also has a **"Launch N more rounds"** button
 `eval-harness-web.service` being a small custom server (`dashboard_server.py`)
 rather than a plain static file server. It continues from wherever the
 last `auto-optimize` search left off, so you don't need to SSH in and
-recall a run-id every time you want to keep going.
+recall a run-id every time you want to keep going. Two more controls live
+next to it, for exactly the kind of cleanup a billing cap or a
+contaminated round makes necessary: a **"Set current prompt version"**
+form (rolls `scripts/eval/prompt_versions/CURRENT` to any existing version
+by hand, without touching run data) and a **Delete** button on every row
+of "All runs" (removes that run's directory from disk after a
+confirmation prompt; refuses to delete the currently-running search's own
+active run). Before this, both meant SSHing in for `echo vN > CURRENT` and
+`rm -rf`.
 
 A **model queue** panel sits above the tabs on every load — one row per
 configured model showing done/error/pending counts against the total article

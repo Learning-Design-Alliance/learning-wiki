@@ -1,26 +1,34 @@
 #!/usr/bin/env python3
 """
 dashboard_server.py — Serves eval/runs/ (same as `python3 -m http.server`
-did before) plus one POST endpoint, /launch-auto-optimize, so the landing
-page's "Launch N more rounds" button can actually start a search — without
-this, the button would have nothing to submit to, since a plain static
-file server can't execute anything.
+did before) plus three POST endpoints the landing page's buttons/forms
+submit to — without these, static-file serving alone gives the page
+nothing to actually execute:
+  /launch-auto-optimize   start a search ("Launch N more rounds")
+  /delete-run             rm -rf one run directory ("Delete" per row)
+  /set-current-version    roll scripts/eval/prompt_versions/CURRENT to a
+                           specific version by hand (a billing-cap or
+                           contaminated round used to mean SSHing in for
+                           this and the rm -rf above every time)
 
 Stdlib only, deliberately: this process is always-on
 (eval-harness-web.service), so it stays minimal rather than pulling in a
-web framework for one endpoint.
+web framework for three endpoints.
 
 Security note: binds to 127.0.0.1 only (see eval-harness-web.service) —
 reachable only through an SSH tunnel by whoever holds the droplet's SSH
 key, the same trust boundary as every other command in this harness.
-Still validates the one input it accepts and never shells out with
-string-interpolated input (subprocess with an argv list, not shell=True).
+Still validates every input it accepts (run ids and version strings are
+checked against a strict allow-list pattern before touching the
+filesystem) and never shells out with string-interpolated input
+(subprocess with an argv list, not shell=True).
 """
 
 import html
 import json
 import os
 import re
+import shutil
 import subprocess
 import time
 import urllib.parse
@@ -32,10 +40,13 @@ RUNS_DIR = WIKI_ROOT / "eval" / "runs"
 AUTO_OPTIMIZE_CONFIG = WIKI_ROOT / "deploy" / "auto-optimize-config.env"
 STATE_PATH = RUNS_DIR / ".auto_optimize_state.json"
 LOCK_PATH = RUNS_DIR / ".auto_optimize.lock"
+PROMPT_VERSIONS_DIR = WIKI_ROOT / "scripts" / "eval" / "prompt_versions"
 VENV_PYTHON = WIKI_ROOT / "venv" / "bin" / "python"
 SECRETS_ENV_FILE = Path("/etc/eval-harness.env")
 PORT = 8080
 MAX_ROUNDS = 20
+_SAFE_RUN_ID_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9_.-]*$")
+_SAFE_VERSION_RE = re.compile(r"^v\d+$")
 
 
 def _child_env() -> dict:
@@ -67,6 +78,20 @@ def _child_env() -> dict:
             if key:
                 env[key] = value
     return env
+
+
+def _regenerate_index() -> None:
+    """Runs the `index` command synchronously so a delete/rollback shows up
+    on the landing page immediately on reload, instead of waiting for the
+    next batch to report progress (see eval_harness.py's generate_index()
+    docstring for why that gap exists at all). Fast — pure local file
+    scanning, no API calls — so blocking the request for it is fine."""
+    if not VENV_PYTHON.exists():
+        return
+    subprocess.run(
+        [str(VENV_PYTHON), "scripts/eval_harness.py", "index"],
+        cwd=str(WIKI_ROOT), env=_child_env(), capture_output=True,
+    )
 
 
 def _parse_config_args() -> list:
@@ -180,14 +205,22 @@ class Handler(SimpleHTTPRequestHandler):
         pass  # static-file hits every 20s (auto-refresh) aren't worth journal noise
 
     def do_POST(self):
-        if self.path != "/launch-auto-optimize":
+        handlers = {
+            "/launch-auto-optimize": self._handle_launch,
+            "/delete-run": self._handle_delete_run,
+            "/set-current-version": self._handle_set_current_version,
+        }
+        handler = handlers.get(self.path)
+        if handler is None:
             self.send_error(404)
             return
 
         length = int(self.headers.get("Content-Length", 0))
         body = self.rfile.read(length).decode("utf-8", errors="replace")
         form = urllib.parse.parse_qs(body)
+        handler(form)
 
+    def _handle_launch(self, form: dict) -> None:
         try:
             rounds = int(form.get("rounds", ["10"])[0])
         except ValueError:
@@ -233,6 +266,54 @@ class Handler(SimpleHTTPRequestHandler):
 
         self._respond(200, f"Launch started — {rounds} more round(s) queued.")
 
+    def _handle_delete_run(self, form: dict) -> None:
+        run_id = (form.get("run_id", [""])[0] or "").strip()
+        if not run_id or not _SAFE_RUN_ID_RE.match(run_id):
+            self._respond(400, f"Invalid run id: {run_id!r}")
+            return
+
+        target = (RUNS_DIR / run_id).resolve()
+        if target.parent != RUNS_DIR.resolve() or not target.is_dir():
+            self._respond(404, f"No such run directory: {run_id}")
+            return
+
+        state = {}
+        if STATE_PATH.exists():
+            try:
+                state = json.loads(STATE_PATH.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, OSError):
+                state = {}
+        if state.get("current_run_id") == run_id and _already_running():
+            self._respond(409, f"{run_id} is the currently-running search's active run — wait for it to "
+                                f"finish (or stop it) before deleting its directory.")
+            return
+
+        shutil.rmtree(target)
+        _regenerate_index()
+
+        note = ""
+        if state.get("current_run_id") == run_id:
+            note = (f" Note: {run_id} was the last search's recorded baseline "
+                    f"(.auto_optimize_state.json) — set a new current prompt version and/or update "
+                    f"deploy/auto-optimize-config.env's --baseline-run before launching again, or the "
+                    f"next round will fail immediately with \"no completed results to learn from.\"")
+        self._respond(200, f"Deleted {run_id}.{note}")
+
+    def _handle_set_current_version(self, form: dict) -> None:
+        version = (form.get("version", [""])[0] or "").strip()
+        if not version or not _SAFE_VERSION_RE.match(version):
+            self._respond(400, f"Invalid version: {version!r} (expected e.g. v15)")
+            return
+
+        version_file = PROMPT_VERSIONS_DIR / f"{version}.txt"
+        if not version_file.is_file():
+            self._respond(404, f"No such prompt version file: {version_file.name}")
+            return
+
+        (PROMPT_VERSIONS_DIR / "CURRENT").write_text(version + "\n", encoding="utf-8")
+        _regenerate_index()
+        self._respond(200, f"Current prompt version set to {version}.")
+
     def _wants_json(self) -> bool:
         # The landing page's launch form submits via fetch() with this
         # header so it can show the result as a JS dialog instead of
@@ -266,7 +347,8 @@ class Handler(SimpleHTTPRequestHandler):
 
 def main() -> None:
     server = ThreadingHTTPServer(("127.0.0.1", PORT), Handler)
-    print(f"Serving {RUNS_DIR} on http://127.0.0.1:{PORT} (static files + POST /launch-auto-optimize)")
+    print(f"Serving {RUNS_DIR} on http://127.0.0.1:{PORT} "
+          f"(static files + POST /launch-auto-optimize, /delete-run, /set-current-version)")
     server.serve_forever()
 
 

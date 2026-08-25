@@ -104,6 +104,7 @@ def _run_row(r: dict) -> str:
       <td class="num idx-secondary">{_esc(latency_str)}</td>
       <td>{_esc(r['n_models'])}</td>
       <td>{_esc(r['prompt_versions'])}</td>
+      <td><button class="delete-run-btn" data-run-id="{_esc(r['run_id'])}" title="Delete this run">Delete</button></td>
     </tr>"""
 
 
@@ -125,6 +126,7 @@ def _skeleton_row(round_num: int, rounds_total: int, projected_run_id: str = Non
       <td class="num">–</td>
       <td class="num idx-secondary">–</td>
       <td class="num idx-secondary">–</td>
+      <td>–</td>
       <td>–</td>
       <td>–</td>
     </tr>"""
@@ -424,6 +426,93 @@ def _live_console_html() -> str:
     </script>"""
 
 
+def _maintenance_html() -> str:
+    """Set-current-version form + delete-run handling (event-delegated
+    across the whole "All runs" table, since Delete buttons are rendered
+    per-row in _run_row()). Both hit dashboard_server.py endpoints added
+    for exactly this: rolling back after a bad round (a billing cap, a
+    contaminated run) used to mean SSHing in to `echo vN > CURRENT` and
+    `rm -rf` a run directory by hand every time."""
+    return """
+    <div class="card">
+      <h2 style="margin-top:0;">Set current prompt version</h2>
+      <form id="set-version-form" class="launch-form">
+        <label for="version">Set live prompt version to</label>
+        <input type="text" id="version" name="version" placeholder="v15" pattern="v[0-9]+" required>
+        <button type="submit" id="set-version-button">Set</button>
+      </form>
+      <p class="section-note">Rolls scripts/eval/prompt_versions/CURRENT back (or forward) directly —
+      the same thing the next <code>run</code>/<code>auto-optimize</code> invocation will use. Doesn't
+      touch any run directory; use a row's Delete button for that.</p>
+    </div>
+    <script>
+      (function () {
+        var form = document.getElementById('set-version-form');
+        var button = document.getElementById('set-version-button');
+        form.addEventListener('submit', function (e) {
+          e.preventDefault();
+          button.disabled = true;
+          var originalLabel = button.textContent;
+          button.textContent = 'Setting\\u2026';
+          fetch('/set-current-version', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/x-www-form-urlencoded',
+              'Accept': 'application/json',
+            },
+            body: new URLSearchParams(new FormData(form)),
+          }).then(function (resp) { return resp.json(); })
+            .then(function (data) {
+              if (data.ok) {
+                window.location.reload();
+              } else {
+                window.alert(data.message);
+                button.disabled = false;
+                button.textContent = originalLabel;
+              }
+            }).catch(function (err) {
+              window.alert('Request failed: ' + err);
+              button.disabled = false;
+              button.textContent = originalLabel;
+            });
+        });
+
+        document.addEventListener('click', function (e) {
+          var btn = e.target.closest('.delete-run-btn');
+          if (!btn) { return; }
+          var runId = btn.getAttribute('data-run-id');
+          if (!window.confirm('Delete run "' + runId + '"? This permanently removes its directory from disk.')) {
+            return;
+          }
+          btn.disabled = true;
+          var originalLabel = btn.textContent;
+          btn.textContent = 'Deleting\\u2026';
+          fetch('/delete-run', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/x-www-form-urlencoded',
+              'Accept': 'application/json',
+            },
+            body: new URLSearchParams({ run_id: runId }),
+          }).then(function (resp) { return resp.json(); })
+            .then(function (data) {
+              if (data.ok) {
+                window.location.reload();
+              } else {
+                window.alert(data.message);
+                btn.disabled = false;
+                btn.textContent = originalLabel;
+              }
+            }).catch(function (err) {
+              window.alert('Delete request failed: ' + err);
+              btn.disabled = false;
+              btn.textContent = originalLabel;
+            });
+        });
+      })();
+    </script>"""
+
+
 def render_html(run_summaries: list, history_rows: list, auto_optimize_state: dict = None,
                  current_prompt_version: str = None) -> str:
     models = []
@@ -472,7 +561,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
 
     rows_html = skeleton_html + "".join(_run_row(r) for r in run_summaries)
     if not rows_html:
-        rows_html = '<tr><td colspan="8" class="empty-note">No runs yet.</td></tr>'
+        rows_html = '<tr><td colspan="9" class="empty-note">No runs yet.</td></tr>'
 
     charts_html = "".join([
         _trend_chart(history_rows, "validator_pass_rate", "Validator pass rate", "%", colors, scale100=True),
@@ -575,8 +664,13 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   .launch-form {{ display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 13px; }}
   .launch-form label {{ color: var(--text-secondary); }}
   .launch-form input[type="number"] {{ width: 64px; padding: 6px 8px; border-radius: 6px; border: 1px solid var(--border); background: var(--page); color: var(--text-primary); font: inherit; }}
+  .launch-form input[type="text"] {{ width: 80px; padding: 6px 8px; border-radius: 6px; border: 1px solid var(--border); background: var(--page); color: var(--text-primary); font: inherit; }}
   .launch-form button {{ font: inherit; font-weight: 600; padding: 7px 16px; border-radius: 6px; border: none; background: var(--series-1, #2a78d6); color: #fff; cursor: pointer; }}
   .launch-form button:hover {{ opacity: 0.9; }}
+  .launch-form button:disabled {{ opacity: 0.6; cursor: default; }}
+  .delete-run-btn {{ font: inherit; font-size: 11px; padding: 4px 10px; border-radius: 6px; border: 1px solid var(--border); background: var(--surface-1); color: var(--text-muted); cursor: pointer; }}
+  .delete-run-btn:hover {{ background: color-mix(in srgb, var(--status-critical) 12%, transparent); color: var(--status-critical); border-color: color-mix(in srgb, var(--status-critical) 40%, transparent); }}
+  .delete-run-btn:disabled {{ opacity: 0.6; cursor: default; }}
 </style>
 </head>
 <body>
@@ -587,6 +681,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
 
   {_auto_optimize_status_html(auto_optimize_state or {})}
   {_launch_form_html()}
+  {_maintenance_html()}
   {_live_console_html() if auto_optimize_state else ''}
 
   <h2>Best prompt version per model</h2>
@@ -601,7 +696,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
     <thead>
       <tr><th>Run</th><th>Status</th><th>Progress</th><th>Best judge score</th>
           <th class="idx-secondary-th">Total cost</th><th class="idx-secondary-th">Avg latency</th>
-          <th>Models</th><th>Prompt version(s)</th></tr>
+          <th>Models</th><th>Prompt version(s)</th><th></th></tr>
     </thead>
     <tbody>{rows_html}</tbody>
   </table>
