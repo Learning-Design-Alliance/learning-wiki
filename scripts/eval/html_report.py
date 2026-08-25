@@ -247,7 +247,12 @@ def _detail_table(by_model: dict, colors: dict) -> str:
         </tr>""")
 
     return f"""
-    <table class="detail-table">
+    <table class="detail-table article-detail-table">
+      <colgroup>
+        <col style="width:3%"><col style="width:15%"><col style="width:27%">
+        <col style="width:11%"><col style="width:11%"><col style="width:9%">
+        <col style="width:8%"><col style="width:8%"><col style="width:8%">
+      </colgroup>
       <thead>
         <tr><th></th><th>Model</th><th>Article</th><th>Status</th><th>Completeness</th>
             <th>Cost</th><th>Latency</th><th>Opus</th><th>GPT</th></tr>
@@ -513,6 +518,11 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
   .detail-table td {{ padding: 9px 12px; border-bottom: 1px solid var(--gridline); }}
   .detail-table td.num {{ text-align: right; font-variant-numeric: tabular-nums; }}
   .detail-table tr:last-child td {{ border-bottom: none; }}
+  .article-detail-table {{ table-layout: fixed; }}
+  .article-detail-table th, .article-detail-table .detail-toggle td {{ overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }}
+  .breadcrumb {{ margin-bottom: 10px; }}
+  .breadcrumb a {{ color: var(--text-secondary); font-size: 13px; text-decoration: none; }}
+  .breadcrumb a:hover {{ color: var(--text-primary); text-decoration: underline; }}
   .detail-toggle {{ cursor: pointer; }}
   .detail-toggle:hover td {{ background: var(--gridline); }}
   .disclosure {{ display: inline-block; color: var(--text-muted); transition: transform 0.15s; }}
@@ -574,6 +584,7 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
 </head>
 <body>
 <div class="viz-root">
+  <div class="breadcrumb"><a href="../index.html">&larr; All runs</a></div>
   <h1>Eval run: {_esc(run_id)}</h1>
   <div class="meta">Generated {_esc(generated)} &middot; {len(models)} model(s) &middot; {sum(r.get('n_articles', 0) for r in rows)} article results &middot; auto-refreshes every {AUTO_REFRESH_MS // 1000}s</div>
 
@@ -623,26 +634,6 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
     document.getElementById(target).classList.add('active');
   }}
 
-  document.querySelectorAll('.tab-btn').forEach(function (btn) {{
-    btn.addEventListener('click', function () {{
-      activateTab(btn.dataset.target);
-      try {{ localStorage.setItem('eval-report-tab', btn.dataset.target); }} catch (e) {{}}
-    }});
-  }});
-
-  // Auto-refresh (this file is regenerated after every completed article/model
-  // pair — see generate_reports() in eval_harness.py) while preserving which
-  // tab was open across the reload, so a long-running batch reads as "live"
-  // instead of requiring a manual re-open every time.
-  try {{
-    var savedTab = localStorage.getItem('eval-report-tab');
-    if (savedTab) activateTab(savedTab);
-  }} catch (e) {{}}
-  setTimeout(function () {{ location.reload(); }}, {AUTO_REFRESH_MS});
-
-  // Expandable per-article rows — state persisted the same way as the tab
-  // choice, so drilling into one survives the periodic auto-refresh instead
-  // of snapping shut every 20s.
   function expandedSet() {{
     try {{ return new Set(JSON.parse(localStorage.getItem('eval-report-expanded') || '[]')); }}
     catch (e) {{ return new Set(); }}
@@ -650,21 +641,68 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
   function saveExpanded(set) {{
     try {{ localStorage.setItem('eval-report-expanded', JSON.stringify(Array.from(set))); }} catch (e) {{}}
   }}
-  var expanded = expandedSet();
-  document.querySelectorAll('.detail-toggle').forEach(function (row) {{
-    var target = document.getElementById(row.dataset.target);
-    if (expanded.has(row.dataset.target)) {{
-      row.classList.add('expanded');
-      target.classList.add('expanded');
-    }}
-    row.addEventListener('click', function () {{
-      row.classList.toggle('expanded');
-      target.classList.toggle('expanded');
-      var set = expandedSet();
-      if (row.classList.contains('expanded')) {{ set.add(row.dataset.target); }} else {{ set.delete(row.dataset.target); }}
-      saveExpanded(set);
+
+  // Binds every interactive behavior against whatever's currently in the
+  // DOM — called once on initial load, and again after every in-place
+  // refresh (see refreshInPlace below) since replacing .viz-root's
+  // innerHTML also discards its old event listeners along with the old
+  // nodes they were bound to.
+  function initPage() {{
+    document.querySelectorAll('.tab-btn').forEach(function (btn) {{
+      btn.addEventListener('click', function () {{
+        activateTab(btn.dataset.target);
+        try {{ localStorage.setItem('eval-report-tab', btn.dataset.target); }} catch (e) {{}}
+      }});
     }});
-  }});
+    try {{
+      var savedTab = localStorage.getItem('eval-report-tab');
+      if (savedTab) activateTab(savedTab);
+    }} catch (e) {{}}
+
+    // Expandable per-article rows — state persisted the same way as the tab
+    // choice, so drilling into one survives the periodic auto-refresh.
+    var expanded = expandedSet();
+    document.querySelectorAll('.detail-toggle').forEach(function (row) {{
+      var target = document.getElementById(row.dataset.target);
+      if (expanded.has(row.dataset.target)) {{
+        row.classList.add('expanded');
+        target.classList.add('expanded');
+      }}
+      row.addEventListener('click', function () {{
+        row.classList.toggle('expanded');
+        target.classList.toggle('expanded');
+        var set = expandedSet();
+        if (row.classList.contains('expanded')) {{ set.add(row.dataset.target); }} else {{ set.delete(row.dataset.target); }}
+        saveExpanded(set);
+      }});
+    }});
+  }}
+
+  // Auto-refresh (this file is regenerated after every completed article/model
+  // pair — see generate_reports() in eval_harness.py), fetched and swapped
+  // into the current page instead of a full location.reload(): a real
+  // navigation reloads the browser tab from scratch — blanking it, then
+  // repainting everything — which reads as a jarring flash every cycle on
+  // a page that refreshes every {AUTO_REFRESH_MS // 1000}s. Re-fetching the same URL and
+  // replacing just .viz-root's contents updates the numbers in place with
+  // no navigation, no flash, and no lost scroll position.
+  function refreshInPlace() {{
+    fetch(location.href, {{ cache: 'no-store' }})
+      .then(function (resp) {{ return resp.text(); }})
+      .then(function (text) {{
+        var newRoot = new DOMParser().parseFromString(text, 'text/html').querySelector('.viz-root');
+        var oldRoot = document.querySelector('.viz-root');
+        if (newRoot && oldRoot) {{
+          oldRoot.innerHTML = newRoot.innerHTML;
+          initPage();
+        }}
+      }})
+      .catch(function () {{}})  // a network hiccup just tries again next cycle
+      .then(function () {{ setTimeout(refreshInPlace, {AUTO_REFRESH_MS}); }});
+  }}
+
+  initPage();
+  setTimeout(refreshInPlace, {AUTO_REFRESH_MS});
 </script>
 </body>
 </html>"""
