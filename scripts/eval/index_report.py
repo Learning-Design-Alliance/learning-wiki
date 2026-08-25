@@ -283,7 +283,7 @@ STATUS_LABELS = {
     "completed": ("Completed — ran every round", "complete"),
     "stopped_no_findings": ("Stopped — nothing left to optimize against", "complete"),
     "stopped_time_budget": ("Stopped — time budget exhausted", "warn"),
-    "stopped_error": ("Stopped — error (check the log)", "warn"),
+    "stopped_error": ("Stopped — error", "warn"),
     "stopped_interrupted": ("Stopped — interrupted (process died without finishing; check the log)", "warn"),
 }
 
@@ -318,6 +318,8 @@ def _auto_optimize_status_html(state: dict) -> str:
         detail = (f"Stopped at round {round_num}/{rounds_total} &middot; "
                    f"last run <a href=\"./{_esc(run_id)}/report.html\">{_esc(run_id or '–')}</a> "
                    f"&middot; was using prompt version <code>{_esc(version)}</code> when it stopped")
+    error_detail = state.get("error_detail")
+    error_html = (f'<pre class="auto-status-error">{_esc(error_detail)}</pre>' if error_detail else "")
     return f"""
     <div class="card auto-status-card">
       <div class="auto-status-row">
@@ -325,6 +327,7 @@ def _auto_optimize_status_html(state: dict) -> str:
         <span class="auto-status-text">{detail}</span>
       </div>
       <div class="bar-track auto-status-track"><div class="bar-fill" style="width:{max(2, pct)}%; background:var(--series-1);"></div></div>
+      {error_html}
     </div>"""
 
 
@@ -508,6 +511,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   .auto-status-row {{ display: flex; align-items: center; gap: 12px; margin-bottom: 10px; flex-wrap: wrap; }}
   .auto-status-text {{ font-size: 13px; color: var(--text-secondary); }}
   .auto-status-track {{ height: 8px; }}
+  .auto-status-error {{ margin: 10px 0 0; padding: 10px 12px; background: color-mix(in srgb, var(--status-critical) 8%, transparent); border: 1px solid color-mix(in srgb, var(--status-critical) 25%, transparent); border-radius: 6px; font-size: 12px; color: var(--text-primary); white-space: pre-wrap; word-break: break-word; font-family: ui-monospace, "SF Mono", Consolas, monospace; }}
   .launch-card {{ margin-bottom: 20px; }}
   .launch-form {{ display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 13px; }}
   .launch-form label {{ color: var(--text-secondary); }}

@@ -1145,12 +1145,19 @@ def _release_auto_optimize_lock() -> None:
 
 
 def _write_auto_optimize_state(baseline_run: str, current_run_id: str, round_num: int, rounds_total: int,
-                                status: str) -> None:
+                                status: str, error_detail: str = None) -> None:
     """Round-level progress, separate from any one candidate's own
     (model, article) progress bar — answers "how many rounds are left in
     this whole search," not "how far along is this one candidate." Read by
     the landing page (index_report.py) and by the web launcher to resolve
     where a "launch more rounds" click should continue from.
+
+    error_detail: the actual error text for a "stopped_error" status,
+    shown directly in the landing page's status banner. A bare "stopped —
+    error, check the log" forces whoever's watching to go SSH in and dig
+    through journalctl for something that's already sitting in a Python
+    exception message at the point of failure — just carry it along
+    instead.
 
     Also regenerates index.html immediately (not just this state file) —
     otherwise the landing page wouldn't visibly change until the first
@@ -1166,6 +1173,7 @@ def _write_auto_optimize_state(baseline_run: str, current_run_id: str, round_num
         "round": round_num,
         "rounds_total": rounds_total,
         "status": status,
+        "error_detail": error_detail,
         "updated_at": datetime.now(timezone.utc).isoformat(),
     }, indent=2), encoding="utf-8")
     generate_index(verbose=False)
@@ -1244,16 +1252,20 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
         current_dir = RUNS_DIR / current_run_id
         by_model, base_rows = compute_rows(current_dir)
         if not by_model:
-            print(f"[ERROR] {current_run_id} has no completed results to learn from.")
-            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds, "stopped_error")
+            error_detail = f"{current_run_id} has no completed results to learn from."
+            print(f"[ERROR] {error_detail}")
+            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
+                                        "stopped_error", error_detail=error_detail)
             sys.exit(1)
 
         models = args.models or sorted(by_model.keys())
         article_ids = sorted({rec["article_id"] for records in by_model.values() for rec in records})
         articles = load_manifest(article_ids)
         if not articles:
-            print("[ERROR] Could not resolve manifest articles from the baseline run's article ids.")
-            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds, "stopped_error")
+            error_detail = "Could not resolve manifest articles from the baseline run's article ids."
+            print(f"[ERROR] {error_detail}")
+            _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
+                                        "stopped_error", error_detail=error_detail)
             sys.exit(1)
 
         sample_record = next(iter(by_model.values()))[0]
@@ -1281,9 +1293,10 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
         try:
             proposal = optimizer.propose_revision(current_prompt_text, failure_summary)
         except Exception as e:
-            print(f"[ERROR] Prompt proposal failed: {e}")
+            error_detail = f"Prompt proposal failed: {type(e).__name__}: {e}"
+            print(f"[ERROR] {error_detail}")
             _write_auto_optimize_state(args.baseline_run, current_run_id, round_num - 1, args.rounds,
-                                        "stopped_error")
+                                        "stopped_error", error_detail=error_detail)
             break
 
         new_version = prompts.save_new_version(proposal["revised_prompt"])
