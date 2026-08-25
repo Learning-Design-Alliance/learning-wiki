@@ -388,6 +388,8 @@ class Handler(SimpleHTTPRequestHandler):
             run_args += ["--concurrency", str(meta["concurrency"])]
         if meta.get("max_correction_attempts"):
             run_args += ["--max-correction-attempts", str(meta["max_correction_attempts"])]
+        if meta.get("ground_truth"):
+            run_args += ["--ground-truth"]
 
         log_path = RUNS_DIR / f"web-rerun-{int(time.time())}.log"
         log_file = open(log_path, "w", encoding="utf-8")

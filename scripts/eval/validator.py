@@ -13,6 +13,8 @@ that's cheap to check exactly and easy for a smaller model to get wrong.
 import re
 from dataclasses import dataclass, field
 
+from . import ground_truth
+
 ALLOWED_TYPES = {"claim", "principle", "element", "pattern", "strategy", "theory"}
 SLUG_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 EVIDENCE_TAG_RE = re.compile(r"^[+~-][SMW]$|^X$")
@@ -75,10 +77,11 @@ def _looks_like_real_citation(citation) -> bool:
 class _Checker:
     """Accumulates (checked, ok) pairs and issues for one contribution."""
 
-    def __init__(self, report: ValidationReport, index: int, slug: str):
+    def __init__(self, report: ValidationReport, index: int, slug: str, ground_truth_enabled: bool = False):
         self.report = report
         self.index = index
         self.slug = slug or f"contribution[{index}]"
+        self.ground_truth_enabled = ground_truth_enabled
 
     def error(self, field_name: str, message: str) -> None:
         self.report.issues.append(Issue(self.index, self.slug, "error", field_name, message))
@@ -94,6 +97,28 @@ class _Checker:
             (self.error if severity == "error" else self.warn)(field_name, message)
         return ok
 
+    def check_citation_ground_truth(self, field_name: str, citation_text) -> None:
+        """The shape check (`_looks_like_real_citation`) only confirms the
+        text LOOKS like a citation — a year-shaped substring, a doi.org/http
+        substring — never that the DOI actually resolves to a real work.
+        That gap is exactly where a fabricated-but-plausible citation slips
+        through. Live-checks against Crossref (free, no key) when a DOI is
+        present; silently does nothing when Crossref can't be reached at
+        all, so a network hiccup is never mistaken for evidence of
+        fabrication, and does nothing when there's no DOI to extract (the
+        shape check already flags a missing DOI on its own)."""
+        if not self.ground_truth_enabled:
+            return
+        result = ground_truth.verify_citation(citation_text)
+        if result is None or result["error"]:
+            return
+        if result["exists"] is False:
+            self.error(field_name, f"citation's DOI ({result['doi']}) does not resolve to any real work in "
+                                    f"Crossref — likely fabricated.")
+        elif result["year_match"] is False:
+            self.warn(field_name, f"citation's stated year doesn't match Crossref's record for its DOI "
+                                   f"({result['doi']}).")
+
 
 def _existing_slug_set(existing_slugs: dict) -> set:
     out = set()
@@ -102,9 +127,14 @@ def _existing_slug_set(existing_slugs: dict) -> set:
     return out
 
 
-def validate_output(parsed: dict, existing_slugs: dict) -> ValidationReport:
+def validate_output(parsed: dict, existing_slugs: dict, ground_truth_enabled: bool = False) -> ValidationReport:
     """existing_slugs: {folder: [slug, ...]} — the real wiki slugs offered to the
-    model in the prompt, used to catch invented cross-links."""
+    model in the prompt, used to catch invented cross-links.
+
+    ground_truth_enabled: also live-verify each citation's DOI against
+    Crossref (see ground_truth.py) instead of only checking that it LOOKS
+    like a real citation. Off by default — see ground_truth.py's module
+    docstring for why this is opt-in."""
     article = parsed.get("article") if isinstance(parsed, dict) else None
     contributions = parsed.get("contributions") if isinstance(parsed, dict) else None
     contributions = contributions if isinstance(contributions, list) else []
@@ -136,7 +166,7 @@ def validate_output(parsed: dict, existing_slugs: dict) -> ValidationReport:
             report.issues.append(Issue(i, "-", "error", "contribution", "Contribution is not a JSON object."))
             continue
         slug = contrib.get("slug", "")
-        c = _Checker(report, i, slug)
+        c = _Checker(report, i, slug, ground_truth_enabled=ground_truth_enabled)
 
         ctype = contrib.get("type")
         c.check(ctype in ALLOWED_TYPES, "type", f"type '{ctype}' is not one of {sorted(ALLOWED_TYPES)}.")
@@ -200,6 +230,7 @@ def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
             c.check(bool(anchor), f"evidence[{j}].anchor", "evidence entry missing an anchor id.")
             c.check(_looks_like_real_citation(ev.get("citation")), f"evidence[{j}].citation",
                     "citation should include a year and a DOI/URL.")
+            c.check_citation_ground_truth(f"evidence[{j}].citation", ev.get("citation"))
             c.check(isinstance(ev.get("quality"), int) and 1 <= ev["quality"] <= 4,
                     f"evidence[{j}].quality", "quality must be an integer 1-4.")
             c.check(isinstance(ev.get("impact"), int) and 0 <= ev["impact"] <= 3,
@@ -223,6 +254,17 @@ def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
 
     key_sources = contrib.get("key_sources")
     c.check(isinstance(key_sources, list) and len(key_sources) > 0, "key_sources", "claim needs at least one key source.")
+    if isinstance(key_sources, list):
+        # Claims never had their key_sources entries checked past "is this a
+        # non-empty list" — only elements/principles/patterns/strategies
+        # (_validate_other, below) checked each entry's citation shape. A
+        # claim's key_sources duplicate the same citations already scrutinized
+        # in its evidence[] list, but there's no reason to leave a second,
+        # unrelated copy of the same fabricated-DOI hole unchecked here.
+        for j, src in enumerate(key_sources):
+            c.check(_looks_like_real_citation(src), f"key_sources[{j}]",
+                    "citation should include a year and a DOI/URL.", severity="warning")
+            c.check_citation_ground_truth(f"key_sources[{j}]", src)
 
     _check_cross_links(c, contrib, known_slugs, "related_claims")
 
@@ -247,6 +289,7 @@ def _validate_other(c: _Checker, contrib: dict, known_slugs: set) -> None:
         for j, src in enumerate(key_sources):
             c.check(_looks_like_real_citation(src), f"key_sources[{j}]",
                     "citation should include a year and a DOI/URL.", severity="warning")
+            c.check_citation_ground_truth(f"key_sources[{j}]", src)
 
     claims_cited = contrib.get("claims_cited")
     if isinstance(claims_cited, list):

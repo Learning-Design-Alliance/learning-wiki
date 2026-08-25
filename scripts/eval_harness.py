@@ -175,7 +175,7 @@ def result_path(run_dir: Path, model: str, article_id: str) -> Path:
 
 def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             judges: list, gpt_judge_model: str, max_tokens: int, refresh_cache: bool = False,
-            prompt_version: str = None, max_correction_attempts: int = 0) -> dict:
+            prompt_version: str = None, max_correction_attempts: int = 0, ground_truth: bool = False) -> dict:
     """max_correction_attempts=0 (default) is exactly the original single-shot
     behavior — this matters for benchmark integrity: the whole point of
     `run`/`optimize`/`auto-optimize` is measuring how a model does on its
@@ -242,7 +242,7 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             record["parse_error"] = str(e)
 
         try:
-            report = validator.validate_output(parsed or {}, existing_slugs)
+            report = validator.validate_output(parsed or {}, existing_slugs, ground_truth_enabled=ground_truth)
             if parsed is None:
                 report.parse_error = record["parse_error"]
             record["validation"] = {
@@ -313,7 +313,8 @@ def run_judges(article_text: str, parsed: dict, judges: list, gpt_judge_model: s
 def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: str,
               gpt_judge_model: str = "gpt-5.6", max_tokens: int = 8000, overwrite: bool = False,
               refresh_cache: bool = False, prompt_version: str = None, concurrency: int = 1,
-              max_correction_attempts: int = 0, retry_errors_only: bool = False) -> Path:
+              max_correction_attempts: int = 0, retry_errors_only: bool = False,
+              ground_truth: bool = False) -> Path:
     """The actual (model x article) loop, shared by `run`, `optimize`, and
     `auto-optimize` — the latter two call this directly (not through
     argparse) to run each candidate prompt against the same articles as the
@@ -369,6 +370,7 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
         "gpt_judge_model": gpt_judge_model,
         "concurrency": concurrency,
         "max_correction_attempts": max_correction_attempts,
+        "ground_truth": ground_truth,
     }, indent=2), encoding="utf-8")
 
     existing_slugs = get_existing_slugs()
@@ -399,7 +401,7 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
         try:
             record = run_one(model, entry, existing_slugs, api_key, judges, gpt_judge_model,
                               max_tokens, refresh_cache=refresh_cache, prompt_version=prompt_version,
-                              max_correction_attempts=max_correction_attempts)
+                              max_correction_attempts=max_correction_attempts, ground_truth=ground_truth)
         except fetch_article.FetchError as e:
             with print_lock:
                 state["done"] += 1
@@ -463,7 +465,7 @@ def cmd_run(args: argparse.Namespace) -> None:
               overwrite=args.overwrite, refresh_cache=args.refresh_cache,
               prompt_version=args.prompt_version, concurrency=args.concurrency,
               max_correction_attempts=args.max_correction_attempts,
-              retry_errors_only=args.retry_errors_only)
+              retry_errors_only=args.retry_errors_only, ground_truth=args.ground_truth)
 
     print(f"\nDone. Run report with: python3 scripts/eval_harness.py report --run-id {run_id}")
 
@@ -488,7 +490,7 @@ def cmd_spotcheck(args: argparse.Namespace) -> None:
         parsed = record.get("parsed")
         print(f"[{i}/{len(result_files)}] {record['model']} / {record['article_id']}")
 
-        report = validator.validate_output(parsed or {}, existing_slugs)
+        report = validator.validate_output(parsed or {}, existing_slugs, ground_truth_enabled=args.ground_truth)
         record["validation"] = {
             "passed": report.passed,
             "n_contributions": report.n_contributions,
@@ -1105,7 +1107,7 @@ def cmd_optimize(args: argparse.Namespace) -> None:
               f"and {len(models)} model(s) as {current_run_id}...")
         run_batch(models, articles, args.judges, new_run_id, api_key,
                   gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens, prompt_version=new_version,
-                  max_correction_attempts=args.max_correction_attempts)
+                  max_correction_attempts=args.max_correction_attempts, ground_truth=args.ground_truth)
 
         result = build_compare(current_run_id, new_run_id, models_filter=models)
         if "error" in result:
@@ -1433,7 +1435,7 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
         run_batch(models, articles, args.judges, new_run_id, api_key,
                   gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
                   prompt_version=new_version, concurrency=args.concurrency,
-                  max_correction_attempts=args.max_correction_attempts)
+                  max_correction_attempts=args.max_correction_attempts, ground_truth=args.ground_truth)
 
         _, new_rows = compute_rows(RUNS_DIR / new_run_id)
         new_gen_errors = _generation_error_count(new_rows)
@@ -1513,6 +1515,11 @@ def main() -> None:
                              "this measures FIRST-attempt quality, so opt in explicitly rather than "
                              "changing the default). Each record keeps both `initial_passed` (first "
                              "attempt) and the final post-correction `validation.passed`.")
+    p_run.add_argument("--ground-truth", action="store_true",
+                        help="Live-verify each citation's DOI against Crossref instead of only checking it "
+                             "LOOKS like a real citation (see scripts/eval/ground_truth.py) — catches a "
+                             "fabricated-but-plausible DOI a shape check can't. Off by default: adds real "
+                             "network calls to every validation pass.")
 
     p_spot = subparsers.add_parser("spotcheck", help="Re-validate/re-judge cached results without re-generating")
     p_spot.add_argument("--run-id", required=True)
@@ -1521,6 +1528,9 @@ def main() -> None:
     p_spot.add_argument("--judges", nargs="+", default=[], choices=["opus", "gpt"],
                          help="Judges to (re-)run; omit to only re-run the structural validator")
     p_spot.add_argument("--gpt-judge-model", default="gpt-5.6")
+    p_spot.add_argument("--ground-truth", action="store_true",
+                         help="Live-verify each cached extraction's citations against Crossref — the cheapest "
+                              "way to try this, since it re-uses already-generated output for free.")
 
     p_report = subparsers.add_parser("report", help="Aggregate a run's cached results into report.md + summary.csv")
     p_report.add_argument("--run-id", required=True)
@@ -1561,6 +1571,10 @@ def main() -> None:
     p_opt.add_argument("--max-correction-attempts", type=int, default=0,
                         help="Let the model retry up to N times after a validator failure (default: 0). "
                              "See `run --help` for why this defaults off.")
+    p_opt.add_argument("--ground-truth", action="store_true",
+                        help="Live-verify citations against Crossref during each candidate's validation pass "
+                             "(see `run --help`). Also surfaces any fabricated-DOI findings to the prompt-"
+                             "engineer as real failure data for the next revision.")
     p_opt.add_argument("--iterations", type=int, default=1, help="Max propose/re-run rounds (default: 1)")
     p_opt.add_argument("--min-improvement", type=float, default=0.0,
                         help="Minimum avg judge-score delta to adopt a candidate as the new current prompt (default: 0.0, i.e. any improvement)")
@@ -1579,6 +1593,10 @@ def main() -> None:
     p_auto.add_argument("--max-correction-attempts", type=int, default=0,
                          help="Let each round's test retry up to N times after a validator failure (default: 0). "
                               "See `run --help` for why this defaults off.")
+    p_auto.add_argument("--ground-truth", action="store_true",
+                         help="Live-verify citations against Crossref during each round's validation pass "
+                              "(see `run --help`). Also surfaces any fabricated-DOI findings to the prompt-"
+                              "engineer as real failure data for the next revision.")
     p_auto.add_argument("--rounds", type=int, default=3, help="Max rounds (default: 3)")
     p_auto.add_argument("--concurrency", type=int, default=6,
                          help="Max concurrent (model, article) generation calls within one round's test "

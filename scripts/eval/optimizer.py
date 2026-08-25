@@ -48,6 +48,17 @@ missing rule does.
 5. Keep the same output JSON contract (types, field names, structure) — you're revising \
 instructions and examples, not the schema itself, unless a schema-level change would directly \
 fix a validator failure category shown in the data.
+6. If "inaccuracy" or "fabrication" is the dominant judge complaint category (check the counts — \
+this is a different signal from validator issues, which only catch structural/schema problems and \
+say nothing about whether a citation or claim is actually TRUE), do not respond with another \
+prohibition rule ("don't fabricate citations," "only cite what's really there") — a model that is \
+already fabricating despite similar rules already in the prompt will not stop because the wording \
+changed again. Instead, restructure the extraction PROCEDURE: add an explicit step, before any \
+contribution is written, that requires identifying and quoting the exact supporting sentence(s) from \
+the article for each claim/citation it is about to make, and requires every claim's evidence to \
+reference one of those quotes. This targets *how the model produces an answer* (grounding it in a \
+quote it must first locate) rather than *what it's told not to do* — the latter has already been \
+tried repeatedly against this exact failure category without success.
 
 The failure data may also list generation/API errors (rate limits, an expired key, an exhausted \
 account, a model outage) alongside validator and judge issues. Those are infrastructure failures, \

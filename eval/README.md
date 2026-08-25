@@ -250,6 +250,48 @@ needed 2 retries to reach 100% is visible as such, not indistinguishable
 from one that passed cleanly. Cost is cumulative across every attempt actually
 made, not just the first.
 
+## Live citation ground-truthing (`--ground-truth`)
+
+`validator.py`'s citation check (`_looks_like_real_citation`) is a pure shape
+check — does the text contain something that looks like a year and something
+that looks like a doi.org/http link. A model can satisfy that with a
+completely fabricated DOI, and per this project's own failure data,
+"fabrication" and "inaccuracy" are the #1 or #2 judge complaint category for
+every model tested so far — the one failure mode schema/prompt rules can
+never fix on their own, since a rule can only forbid a known-bad *shape*, not
+confirm a specific claimed *fact* is real.
+
+`--ground-truth` (on `run`/`optimize`/`auto-optimize`/`spotcheck`) live-checks
+every citation's DOI against [Crossref](https://api.crossref.org) (free, no
+key) via `scripts/eval/ground_truth.py`:
+
+```bash
+python3 scripts/eval_harness.py spotcheck --run-id <run-id> --ground-truth   # cheapest way to try it — free, re-uses cached extractions
+python3 scripts/eval_harness.py run --models <...> --ground-truth           # live during a new batch
+```
+
+A DOI that doesn't resolve to any real work becomes a hard validator error
+("likely fabricated") — a real, ground-truthed finding, unlike the shape
+check it supplements. A DOI that resolves but whose cited year doesn't match
+Crossref's record is a warning (could be a preprint-vs-published-version
+date, less clear-cut than an outright fabrication). Off by default: it's a
+real, live external dependency and adds network latency to every validation
+pass, which shouldn't silently change for everyone. A Crossref request that
+fails outright (timeout, 5xx) is treated as *unverifiable*, never as
+evidence of fabrication — only a confirmed 404 counts. Results are cached
+in-process per DOI, since the same citation often repeats across models
+and rounds testing the same corpus.
+
+`optimize`/`auto-optimize` with `--ground-truth` also feeds any fabricated-DOI
+findings into the next round's failure data automatically (they show up as
+ordinary validator issues), and the prompt-engineer system prompt
+(`scripts/eval/optimizer.py`) is specifically told: when inaccuracy/fabrication
+is the dominant complaint category, don't respond with another "don't
+fabricate" rule — a model already fabricating despite similar existing rules
+won't stop because the wording changed again — restructure the extraction
+procedure instead, adding an explicit step that requires quoting the exact
+supporting sentence(s) from the article before writing each claim.
+
 ## Prompt versioning, trend history, and auto-optimization
 
 The extraction prompt (`scripts/eval/prompts.py`) is versioned, not a single
