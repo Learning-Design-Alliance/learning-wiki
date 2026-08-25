@@ -283,11 +283,12 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
         return v * 100 if scale100 else v
 
     # history_rows already arrives in logical run order (history.collect()
-    # sorts by version sequence, not alphabetically) — build run_order by
-    # first appearance so the x-axis reads left-to-right as that same
-    # sequence, not whatever order dict/set iteration happened to produce.
+    # sorts by version sequence, not alphabetically), oldest first — build
+    # run_order by first appearance over the REVERSED rows so the x-axis
+    # reads left-to-right as most-recent-first, matching "All runs" (also
+    # newest at the top) instead of the opposite direction.
     run_order = []
-    for r in history_rows:
+    for r in reversed(history_rows):
         if r["run_id"] not in run_order:
             run_order.append(r["run_id"])
 
@@ -659,13 +660,23 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
     if not rows_html:
         rows_html = '<tr><td colspan="9" class="empty-note">No runs yet.</td></tr>'
 
-    charts_html = "".join([
-        _trend_chart(history_rows, "validator_pass_rate", "Validator pass rate", "%", colors, scale100=True),
-        _trend_chart(history_rows, "avg_completeness_score", "Completeness", "%", colors, scale100=True),
-        _trend_chart(history_rows, "avg_judge_score", "Judge score (of 5)", "", colors),
-        _trend_chart(history_rows, "cost_per_article_usd", "Cost per article ($)", "$", colors),
-        _trend_chart(history_rows, "avg_latency_s", "Avg latency (s)", "s", colors),
-    ])
+    trend_specs = [
+        ("trend-pass-rate", "Pass rate", "validator_pass_rate", "Validator pass rate", "%", True),
+        ("trend-completeness", "Completeness", "avg_completeness_score", "Completeness", "%", True),
+        ("trend-judge-score", "Judge score", "avg_judge_score", "Judge score (of 5)", "", False),
+        ("trend-cost", "Cost", "cost_per_article_usd", "Cost per article ($)", "$", False),
+        ("trend-latency", "Latency", "avg_latency_s", "Avg latency (s)", "s", False),
+    ]
+    trend_tabs_html = "".join(
+        f'<button class="tab-btn{" active" if i == 0 else ""}" data-target="{tab_id}" role="tab" '
+        f'aria-selected="{"true" if i == 0 else "false"}">{_esc(tab_label)}</button>'
+        for i, (tab_id, tab_label, *_rest) in enumerate(trend_specs)
+    )
+    trend_panels_html = "".join(
+        f'<div id="{tab_id}" class="tab-panel{" active" if i == 0 else ""}">'
+        f'{_trend_chart(history_rows, metric_key, label, unit, colors, scale100=scale100)}</div>'
+        for i, (tab_id, _tab_label, metric_key, label, unit, scale100) in enumerate(trend_specs)
+    )
 
     return f"""<!doctype html>
 <html lang="en">
@@ -735,8 +746,17 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   .leaderboard-table tr:first-child {{ background: color-mix(in srgb, var(--status-good) 6%, transparent); }}
   .model-group-header td {{ font-size: 11px; text-transform: uppercase; letter-spacing: 0.03em; color: var(--text-muted); background: var(--page); padding-top: 14px; border-bottom: 1px solid var(--border); }}
   .best-row {{ background: color-mix(in srgb, var(--status-good) 8%, transparent); }}
-  .chart-grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }}
   .chart-card {{ background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 16px 20px; }}
+  .tabs {{ display: flex; gap: 4px; border-bottom: 1px solid var(--border); margin-bottom: 20px; }}
+  .tab-btn {{
+    font: inherit; font-size: 13px; font-weight: 600; color: var(--text-secondary);
+    background: none; border: none; border-bottom: 2px solid transparent;
+    padding: 10px 14px; cursor: pointer; margin-bottom: -1px;
+  }}
+  .tab-btn:hover {{ color: var(--text-primary); }}
+  .tab-btn.active {{ color: var(--text-primary); border-bottom-color: var(--series-1); }}
+  .tab-panel {{ display: none; }}
+  .tab-panel.active {{ display: block; }}
   .trend-svg {{ width: 100%; height: auto; }}
   .gridline {{ stroke: var(--gridline); stroke-width: 1; }}
   .axis-line {{ stroke: var(--axis); stroke-width: 1; }}
@@ -808,11 +828,12 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
 
   <h2>Trends across runs</h2>
   <div class="card">
-    <div class="chart-grid">{charts_html}</div>
+    <div class="tabs" role="tablist">{trend_tabs_html}</div>
+    {trend_panels_html}
     {_legend(colors)}
-    <p class="empty-note">Each point is one model's result in one run, in chronological order (by that
-    run's earliest completed article) — not by wall-clock spacing. A line gap means that model didn't
-    run in that batch.</p>
+    <p class="empty-note">Each point is one model's result in one run, most recent first (left to right)
+    — by run/version sequence, not wall-clock spacing. A line gap means that model didn't run in that
+    batch.</p>
   </div>
 
   <p class="footer-note">Click a run above to open its full dashboard (per-model metrics, cost vs.
@@ -820,6 +841,34 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   run's <code>summary.csv</code>.</p>
 </div>
 <script>
+  (function () {{
+    function activateTrendTab(target) {{
+      var btn = document.querySelector('.tab-btn[data-target="' + target + '"]');
+      if (!btn) return;
+      document.querySelectorAll('.tab-btn').forEach(function (b) {{ b.classList.remove('active'); b.setAttribute('aria-selected', 'false'); }});
+      document.querySelectorAll('.tab-panel').forEach(function (p) {{ p.classList.remove('active'); }});
+      btn.classList.add('active');
+      btn.setAttribute('aria-selected', 'true');
+      document.getElementById(target).classList.add('active');
+    }}
+
+    document.querySelectorAll('.tab-btn').forEach(function (btn) {{
+      btn.addEventListener('click', function () {{
+        activateTrendTab(btn.dataset.target);
+        try {{ localStorage.setItem('eval-index-trend-tab', btn.dataset.target); }} catch (e) {{}}
+      }});
+    }});
+
+    // This page and every run's own report.html are served from the same
+    // origin, so a distinct localStorage key here avoids clobbering (or
+    // being clobbered by) the per-run report's own saved tab. Restored on
+    // load so the choice survives the page's own 20s auto-refresh.
+    try {{
+      var savedTab = localStorage.getItem('eval-index-trend-tab');
+      if (savedTab) activateTrendTab(savedTab);
+    }} catch (e) {{}}
+  }})();
+
   setTimeout(function () {{ location.reload(); }}, {AUTO_REFRESH_MS});
 </script>
 </body>
