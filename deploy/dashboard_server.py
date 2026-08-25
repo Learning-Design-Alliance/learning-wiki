@@ -210,6 +210,19 @@ class Handler(SimpleHTTPRequestHandler):
     def log_message(self, format, *args):
         pass  # static-file hits every 20s (auto-refresh) aren't worth journal noise
 
+    def end_headers(self):
+        # SimpleHTTPRequestHandler only sends Last-Modified by default, no
+        # Cache-Control — enough for a browser to serve a stale index.html
+        # (or .auto_optimize_console.log, or a run's own report.html) back
+        # from its disk cache on the page's own 20s auto-refresh instead of
+        # re-fetching, which reads as "it looked right, then reverted" even
+        # though the file on disk never changed back. Every response here
+        # is either generated fresh on each request or expected to change
+        # between polls, so never let it be cached.
+        self.send_header("Cache-Control", "no-store, must-revalidate")
+        self.send_header("Pragma", "no-cache")
+        super().end_headers()
+
     def do_POST(self):
         handlers = {
             "/launch-auto-optimize": self._handle_launch,
