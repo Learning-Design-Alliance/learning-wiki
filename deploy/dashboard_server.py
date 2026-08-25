@@ -1,11 +1,17 @@
 #!/usr/bin/env python3
 """
 dashboard_server.py — Serves eval/runs/ (same as `python3 -m http.server`
-did before) plus three POST endpoints the landing page's buttons/forms
+did before) plus four POST endpoints the landing page's buttons/forms
 submit to — without these, static-file serving alone gives the page
 nothing to actually execute:
   /launch-auto-optimize   start a search ("Launch N more rounds")
   /delete-run             rm -rf one run directory ("Delete" per row)
+  /rerun-run              retry only a run's previously-failed pairs
+                           ("Rerun" per row), reconstructed from its own
+                           queue.json — for recovering from something
+                           transient (a billing cap, an expired key)
+                           without re-paying for pairs that already
+                           succeeded
   /set-current-version    roll scripts/eval/prompt_versions/CURRENT to a
                            specific version by hand (a billing-cap or
                            contaminated round used to mean SSHing in for
@@ -13,7 +19,7 @@ nothing to actually execute:
 
 Stdlib only, deliberately: this process is always-on
 (eval-harness-web.service), so it stays minimal rather than pulling in a
-web framework for three endpoints.
+web framework for four endpoints.
 
 Security note: binds to 127.0.0.1 only (see eval-harness-web.service) —
 reachable only through an SSH tunnel by whoever holds the droplet's SSH
@@ -209,6 +215,7 @@ class Handler(SimpleHTTPRequestHandler):
             "/launch-auto-optimize": self._handle_launch,
             "/delete-run": self._handle_delete_run,
             "/set-current-version": self._handle_set_current_version,
+            "/rerun-run": self._handle_rerun,
         }
         handler = handlers.get(self.path)
         if handler is None:
@@ -299,6 +306,79 @@ class Handler(SimpleHTTPRequestHandler):
                     f"next round will fail immediately with \"no completed results to learn from.\"")
         self._respond(200, f"Deleted {run_id}.{note}")
 
+    def _handle_rerun(self, form: dict) -> None:
+        run_id = (form.get("run_id", [""])[0] or "").strip()
+        if not run_id or not _SAFE_RUN_ID_RE.match(run_id):
+            self._respond(400, f"Invalid run id: {run_id!r}")
+            return
+
+        run_dir = (RUNS_DIR / run_id).resolve()
+        if run_dir.parent != RUNS_DIR.resolve() or not run_dir.is_dir():
+            self._respond(404, f"No such run directory: {run_id}")
+            return
+
+        queue_path = run_dir / "queue.json"
+        if not queue_path.exists():
+            self._respond(400, f"{run_id} has no queue.json (an older run, from before this metadata was "
+                                f"recorded) — nothing to reconstruct a rerun from.")
+            return
+        try:
+            meta = json.loads(queue_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError) as e:
+            self._respond(500, f"Could not read {run_id}/queue.json: {e}")
+            return
+
+        models = meta.get("models") or []
+        article_ids = meta.get("article_ids") or []
+        if not models or not article_ids:
+            self._respond(400, f"{run_id}/queue.json is missing models or article_ids (an older run) — "
+                                f"nothing to reconstruct a rerun from.")
+            return
+
+        if _already_running():
+            self._respond(409, "An auto-optimize search is currently running — wait for it to finish "
+                                "before rerunning a batch (running both at once risks the same OpenRouter "
+                                "rate-limit contention that caused this session's earlier problems).")
+            return
+        if not VENV_PYTHON.exists():
+            self._respond(500, f"{VENV_PYTHON} not found — is the venv set up?")
+            return
+
+        run_args = ["--run-id", run_id, "--models", *models, "--articles", *article_ids,
+                    "--retry-errors-only"]
+        if meta.get("prompt_version"):
+            run_args += ["--prompt-version", meta["prompt_version"]]
+        if meta.get("judges"):
+            run_args += ["--judges", *meta["judges"]]
+        if meta.get("max_tokens"):
+            run_args += ["--max-tokens", str(meta["max_tokens"])]
+        if meta.get("gpt_judge_model"):
+            run_args += ["--gpt-judge-model", meta["gpt_judge_model"]]
+        if meta.get("concurrency"):
+            run_args += ["--concurrency", str(meta["concurrency"])]
+        if meta.get("max_correction_attempts"):
+            run_args += ["--max-correction-attempts", str(meta["max_correction_attempts"])]
+
+        log_path = RUNS_DIR / f"web-rerun-{int(time.time())}.log"
+        log_file = open(log_path, "w", encoding="utf-8")
+        proc = subprocess.Popen(
+            [str(VENV_PYTHON), "-u", "scripts/eval_harness.py", "run", *run_args],
+            cwd=str(WIKI_ROOT), stdout=log_file, stderr=subprocess.STDOUT,
+            start_new_session=True, env=_child_env(),
+        )
+
+        # Same reasoning as _handle_launch: a bad reconstruction (an
+        # unresolvable model/article id, a missing prompt version file)
+        # fails within the first second or two, no API calls needed.
+        time.sleep(2.5)
+        if proc.poll() is not None and proc.returncode != 0:
+            tail = _tail_log(log_path)
+            self._respond(500, f"Rerun of {run_id} exited immediately (exit code {proc.returncode}).\n\n"
+                                f"Last log lines:\n{tail}")
+            return
+
+        self._respond(200, f"Rerun started for {run_id} — retrying only its previously-failed pairs.")
+
     def _handle_set_current_version(self, form: dict) -> None:
         version = (form.get("version", [""])[0] or "").strip()
         if not version or not _SAFE_VERSION_RE.match(version):
@@ -348,7 +428,7 @@ class Handler(SimpleHTTPRequestHandler):
 def main() -> None:
     server = ThreadingHTTPServer(("127.0.0.1", PORT), Handler)
     print(f"Serving {RUNS_DIR} on http://127.0.0.1:{PORT} "
-          f"(static files + POST /launch-auto-optimize, /delete-run, /set-current-version)")
+          f"(static files + POST /launch-auto-optimize, /delete-run, /rerun-run, /set-current-version)")
     server.serve_forever()
 
 

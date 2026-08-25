@@ -143,15 +143,30 @@ On a droplet, the same page also has a **"Launch N more rounds"** button
 `eval-harness-web.service` being a small custom server (`dashboard_server.py`)
 rather than a plain static file server. It continues from wherever the
 last `auto-optimize` search left off, so you don't need to SSH in and
-recall a run-id every time you want to keep going. Two more controls live
-next to it, for exactly the kind of cleanup a billing cap or a
-contaminated round makes necessary: a **"Set current prompt version"**
-form (rolls `scripts/eval/prompt_versions/CURRENT` to any existing version
-by hand, without touching run data) and a **Delete** button on every row
-of "All runs" (removes that run's directory from disk after a
-confirmation prompt; refuses to delete the currently-running search's own
-active run). Before this, both meant SSHing in for `echo vN > CURRENT` and
-`rm -rf`.
+recall a run-id every time you want to keep going. More controls live next
+to it, for exactly the kind of cleanup a billing cap or a contaminated
+round makes necessary — all of this used to mean SSHing in:
+- **"Set current prompt version"** form — rolls
+  `scripts/eval/prompt_versions/CURRENT` to any existing version by hand,
+  without touching run data.
+- **Delete** button on every row of "All runs" — removes that run's
+  directory from disk after a confirmation prompt; refuses to delete the
+  currently-running search's own active run.
+- **Rerun** button on every row — re-runs *only* that run's previously-
+  failed pairs (a `--retry-errors-only` invocation of `run`, reconstructed
+  from the run's own `queue.json`, which now records the full invocation —
+  models, article ids, prompt version, judges, and the rest — not just a
+  model list and an article count), so recovering from something transient
+  like a billing cap doesn't mean re-paying for pairs that already
+  succeeded. Refuses to start while an auto-optimize search is running, to
+  avoid the same rate-limit contention that caused real problems earlier
+  in this project's life.
+
+"All runs" and "Full trajectory by model" also show each version's
+`changes_summary` (parsed straight from `scripts/eval/prompt_versions/
+CHANGELOG.md`) — what that specific revision actually changed and why —
+so the tables answer not just "which version scored best" but "what was
+different about it."
 
 A **model queue** panel sits above the tabs on every load — one row per
 configured model showing done/error/pending counts against the total article

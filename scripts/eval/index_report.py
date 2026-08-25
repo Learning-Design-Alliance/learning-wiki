@@ -30,6 +30,37 @@ def _esc(s) -> str:
     return html.escape(str(s)) if s is not None else ""
 
 
+_CHANGELOG_ENTRY_RE = re.compile(r"^## (v\d+)\s*$", re.MULTILINE)
+
+
+def _load_changelog_summaries() -> dict:
+    """{version: changes_summary} parsed from prompt_versions/CHANGELOG.md
+    (written by eval_harness.py's _append_prompt_changelog — one entry per
+    version, "## vN" followed by "Proposed from `<run>` (based on <prev>):"
+    then the actual changes_summary text). This is what "what did each
+    revision actually change" answers from, since it's the one place that
+    outlives the run directory a revision was tested in (a run can be
+    deleted from the dashboard; the changelog entry for the version it
+    produced still exists)."""
+    path = prompts.PROMPT_VERSIONS_DIR / "CHANGELOG.md"
+    if not path.exists():
+        return {}
+    text = path.read_text(encoding="utf-8")
+    matches = list(_CHANGELOG_ENTRY_RE.finditer(text))
+    summaries = {}
+    for i, m in enumerate(matches):
+        version = m.group(1)
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        block = text[m.end():end].strip()
+        lines = block.split("\n")
+        if lines and lines[0].startswith("Proposed from"):
+            lines = lines[1:]
+        summary = "\n".join(lines).strip()
+        if summary:
+            summaries[version] = summary
+    return summaries
+
+
 def _version_sort_key(version_str: str):
     first = (version_str or "").split(",")[0].strip()
     digits = re.sub(r"\D", "", first)
@@ -79,7 +110,7 @@ def _secondary_str(r: dict) -> tuple:
     return cost_str, latency_str
 
 
-def _run_row(r: dict) -> str:
+def _run_row(r: dict, changelog: dict) -> str:
     if r["total"]:
         pct = round(100 * r["done"] / r["total"]) if r["total"] else 0
         progress_html = f"""
@@ -94,6 +125,16 @@ def _run_row(r: dict) -> str:
     cost_str = f"${r['total_cost_usd']:.4f}" if r["total_cost_usd"] is not None else "–"
     latency_str = f"{r['avg_latency_s']:.1f}s" if r["avg_latency_s"] is not None else "–"
 
+    # Only caption when the run tested exactly one prompt version (the
+    # normal case) — combining several summaries for a mixed-version run
+    # would just be noise.
+    versions_list = [v.strip() for v in r["prompt_versions"].split(",")] if r["prompt_versions"] != "unknown" else []
+    summary = changelog.get(versions_list[0]) if len(versions_list) == 1 else None
+    summary_html = ""
+    if summary:
+        shown = summary if len(summary) <= 140 else summary[:140] + "…"
+        summary_html = f'<div class="idx-version-desc">{_esc(shown)}</div>'
+
     return f"""
     <tr class="idx-row">
       <td><a href="./{_esc(r['run_id'])}/report.html">{_esc(r['run_id'])}</a></td>
@@ -103,8 +144,11 @@ def _run_row(r: dict) -> str:
       <td class="num idx-secondary">{_esc(cost_str)}</td>
       <td class="num idx-secondary">{_esc(latency_str)}</td>
       <td>{_esc(r['n_models'])}</td>
-      <td>{_esc(r['prompt_versions'])}</td>
-      <td><button class="delete-run-btn" data-run-id="{_esc(r['run_id'])}" title="Delete this run">Delete</button></td>
+      <td>{_esc(r['prompt_versions'])}{summary_html}</td>
+      <td class="idx-actions-cell">
+        <button class="rerun-run-btn" data-run-id="{_esc(r['run_id'])}" title="Retry only this run's previously-failed pairs">Rerun</button>
+        <button class="delete-run-btn" data-run-id="{_esc(r['run_id'])}" title="Delete this run">Delete</button>
+      </td>
     </tr>"""
 
 
@@ -170,7 +214,7 @@ def _leaderboard_table(model_order: list, best_by_model: dict) -> str:
     </table>"""
 
 
-def _version_detail_table(model_order: list, by_model_hist: dict, best_by_model: dict) -> str:
+def _version_detail_table(model_order: list, by_model_hist: dict, best_by_model: dict, changelog: dict) -> str:
     if not model_order:
         return '<p class="empty-note">No data yet.</p>'
     body = []
@@ -178,12 +222,14 @@ def _version_detail_table(model_order: list, by_model_hist: dict, best_by_model:
         rows = sorted(by_model_hist[model], key=lambda r: (_version_sort_key(r["prompt_version"]), r["run_id"]))
         desc = model_catalog.describe(model)
         desc_html = f' <span class="idx-model-desc-inline">({_esc(desc)})</span>' if desc else ""
-        body.append(f'<tr class="model-group-header"><td colspan="6">{_esc(model)}{desc_html}</td></tr>')
+        body.append(f'<tr class="model-group-header"><td colspan="8">{_esc(model)}{desc_html}</td></tr>')
         best = best_by_model[model]
         for r in rows:
             is_best = r["run_id"] == best["run_id"] and r["prompt_version"] == best["prompt_version"]
             cost_str, latency_str = _secondary_str(r)
             star = " &#9733;" if is_best else ""
+            changes = changelog.get(r["prompt_version"], "")
+            changes_html = _esc(changes) if changes else '<span class="idx-secondary">–</span>'
             body.append(f"""
         <tr class="{'best-row' if is_best else ''}">
           <td><code>{_esc(r['prompt_version'])}</code>{star}</td>
@@ -193,13 +239,14 @@ def _version_detail_table(model_order: list, by_model_hist: dict, best_by_model:
           <td class="num idx-emph">{_esc(_score_str(r))}</td>
           <td class="num idx-secondary">{_esc(cost_str)}</td>
           <td class="num idx-secondary">{_esc(latency_str)}</td>
+          <td class="changes-cell">{changes_html}</td>
         </tr>""")
     return f"""
     <table class="idx-table version-table">
       <thead>
         <tr><th>Prompt version</th><th>Run</th><th>Validator pass rate</th><th>Completeness</th>
             <th>Judge score</th><th class="idx-secondary-th">Cost/article</th>
-            <th class="idx-secondary-th">Latency</th></tr>
+            <th class="idx-secondary-th">Latency</th><th>Changes vs. previous version</th></tr>
       </thead>
       <tbody>{''.join(body)}</tbody>
     </table>"""
@@ -478,16 +525,19 @@ def _maintenance_html() -> str:
         });
 
         document.addEventListener('click', function (e) {
-          var btn = e.target.closest('.delete-run-btn');
+          var btn = e.target.closest('.delete-run-btn, .rerun-run-btn');
           if (!btn) { return; }
+          var isDelete = btn.classList.contains('delete-run-btn');
           var runId = btn.getAttribute('data-run-id');
-          if (!window.confirm('Delete run "' + runId + '"? This permanently removes its directory from disk.')) {
+          var url = isDelete ? '/delete-run' : '/rerun-run';
+          var verb = isDelete ? 'Delet' : 'Rerunn';
+          if (isDelete && !window.confirm('Delete run "' + runId + '"? This permanently removes its directory from disk.')) {
             return;
           }
           btn.disabled = true;
           var originalLabel = btn.textContent;
-          btn.textContent = 'Deleting\\u2026';
-          fetch('/delete-run', {
+          btn.textContent = verb + 'ing\\u2026';
+          fetch(url, {
             method: 'POST',
             headers: {
               'Content-Type': 'application/x-www-form-urlencoded',
@@ -504,7 +554,7 @@ def _maintenance_html() -> str:
                 btn.textContent = originalLabel;
               }
             }).catch(function (err) {
-              window.alert('Delete request failed: ' + err);
+              window.alert(verb + ' request failed: ' + err);
               btn.disabled = false;
               btn.textContent = originalLabel;
             });
@@ -559,7 +609,8 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
             for n in range(rounds_total, round_num, -1)
         )
 
-    rows_html = skeleton_html + "".join(_run_row(r) for r in run_summaries)
+    changelog = _load_changelog_summaries()
+    rows_html = skeleton_html + "".join(_run_row(r, changelog) for r in run_summaries)
     if not rows_html:
         rows_html = '<tr><td colspan="9" class="empty-note">No runs yet.</td></tr>'
 
@@ -668,9 +719,13 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   .launch-form button {{ font: inherit; font-weight: 600; padding: 7px 16px; border-radius: 6px; border: none; background: var(--series-1, #2a78d6); color: #fff; cursor: pointer; }}
   .launch-form button:hover {{ opacity: 0.9; }}
   .launch-form button:disabled {{ opacity: 0.6; cursor: default; }}
-  .delete-run-btn {{ font: inherit; font-size: 11px; padding: 4px 10px; border-radius: 6px; border: 1px solid var(--border); background: var(--surface-1); color: var(--text-muted); cursor: pointer; }}
+  .idx-actions-cell {{ white-space: nowrap; }}
+  .rerun-run-btn, .delete-run-btn {{ font: inherit; font-size: 11px; padding: 4px 10px; border-radius: 6px; border: 1px solid var(--border); background: var(--surface-1); color: var(--text-muted); cursor: pointer; margin-right: 4px; }}
+  .rerun-run-btn:hover {{ background: color-mix(in srgb, var(--series-1) 12%, transparent); color: var(--series-1); border-color: color-mix(in srgb, var(--series-1) 40%, transparent); }}
   .delete-run-btn:hover {{ background: color-mix(in srgb, var(--status-critical) 12%, transparent); color: var(--status-critical); border-color: color-mix(in srgb, var(--status-critical) 40%, transparent); }}
-  .delete-run-btn:disabled {{ opacity: 0.6; cursor: default; }}
+  .rerun-run-btn:disabled, .delete-run-btn:disabled {{ opacity: 0.6; cursor: default; }}
+  .idx-version-desc {{ font-size: 11px; color: var(--text-muted); font-weight: 400; margin-top: 2px; max-width: 260px; }}
+  .changes-cell {{ color: var(--text-secondary); font-size: 12px; max-width: 320px; }}
 </style>
 </head>
 <body>
@@ -704,7 +759,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   <h2>Full trajectory by model</h2>
   <p class="section-note">Every prompt version tested per model, in version order. &#9733; marks that
   model's best result so far (same row as the leaderboard above).</p>
-  {_version_detail_table(model_order, by_model_hist, best_by_model)}
+  {_version_detail_table(model_order, by_model_hist, best_by_model, changelog)}
 
   <h2>Trends across runs</h2>
   <div class="card">

@@ -313,7 +313,7 @@ def run_judges(article_text: str, parsed: dict, judges: list, gpt_judge_model: s
 def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: str,
               gpt_judge_model: str = "gpt-5.6", max_tokens: int = 8000, overwrite: bool = False,
               refresh_cache: bool = False, prompt_version: str = None, concurrency: int = 1,
-              max_correction_attempts: int = 0) -> Path:
+              max_correction_attempts: int = 0, retry_errors_only: bool = False) -> Path:
     """The actual (model x article) loop, shared by `run`, `optimize`, and
     `auto-optimize` — the latter two call this directly (not through
     argparse) to run each candidate prompt against the same articles as the
@@ -324,30 +324,52 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
     pairs to a thread pool — safe because each pair writes its own result
     file (out_path is unique per model/article) and openrouter_client/judge
     calls carry no shared mutable state; only the shared progress counter,
-    console output, and generate_reports()'s file writes need a lock."""
+    console output, and generate_reports()'s file writes need a lock.
+
+    retry_errors_only: like --overwrite, but only for pairs whose cached
+    result has a generation error — a pair that already succeeded is left
+    alone (no re-pay for a result that's already good). For a "Rerun" click
+    after fixing something external (a billing cap, an expired key) rather
+    than a fresh --overwrite of the whole run."""
     run_dir = RUNS_DIR / run_id
     run_dir.mkdir(parents=True, exist_ok=True)
     print(f"Run ID: {run_id}  (results under {run_dir.relative_to(WIKI_ROOT)})")
 
-    # Records the *intended* model list + article count for this run, so the
-    # `status` command and the dashboard's queue section can show a model
-    # that hasn't produced any result files yet as "queued" instead of it
-    # being invisible — compute_rows() alone only knows about pairs that have
-    # already completed. Merged with whatever's already recorded (rather than
+    # Records the *intended* model list + article ids for this run (not
+    # just a count) so the `status` command and dashboard's queue section
+    # can show a model that hasn't produced any result files yet as
+    # "queued" instead of it being invisible, AND so a "Rerun" click from
+    # the dashboard can reconstruct this exact invocation later without
+    # guessing — see dashboard_server.py's _handle_rerun. Model/article
+    # lists are merged with whatever's already recorded (rather than
     # overwritten) so a targeted re-run of one model — e.g. `run --models
-    # qwen/qwen3.8-27b --overwrite` against an existing run-id — doesn't wipe
-    # the other 4 models out of the queue panel; new models are appended,
-    # known ones keep their original position.
+    # qwen/qwen3.8-27b --overwrite` against an existing run-id — doesn't
+    # wipe the others out of the queue panel or the rerun metadata; the
+    # rest of the metadata (prompt_version, judges, ...) just reflects
+    # whatever this specific call used.
     queue_path = run_dir / "queue.json"
-    existing_models = []
+    existing_models, existing_article_ids = [], []
     if queue_path.exists():
         try:
-            existing_models = json.loads(queue_path.read_text(encoding="utf-8")).get("models", [])
+            old_meta = json.loads(queue_path.read_text(encoding="utf-8"))
+            existing_models = old_meta.get("models", [])
+            existing_article_ids = old_meta.get("article_ids", [])
         except (json.JSONDecodeError, OSError):
-            existing_models = []
+            pass
     merged_models = existing_models + [m for m in models if m not in existing_models]
-    queue_path.write_text(
-        json.dumps({"models": merged_models, "total_articles": len(articles)}, indent=2), encoding="utf-8")
+    new_article_ids = [a["id"] for a in articles]
+    merged_article_ids = existing_article_ids + [a for a in new_article_ids if a not in existing_article_ids]
+    queue_path.write_text(json.dumps({
+        "models": merged_models,
+        "total_articles": len(articles),
+        "article_ids": merged_article_ids,
+        "prompt_version": prompt_version or prompts.current_version(),
+        "judges": judges,
+        "max_tokens": max_tokens,
+        "gpt_judge_model": gpt_judge_model,
+        "concurrency": concurrency,
+        "max_correction_attempts": max_correction_attempts,
+    }, indent=2), encoding="utf-8")
 
     existing_slugs = get_existing_slugs()
     pairs = [(model, entry) for model in models for entry in articles]
@@ -358,7 +380,15 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
 
     def process_pair(model: str, entry: dict) -> None:
         out_path = result_path(run_dir, model, entry["id"])
-        if out_path.exists() and not overwrite:
+        should_skip = out_path.exists() and not overwrite
+        if should_skip and retry_errors_only:
+            try:
+                existing_record = json.loads(out_path.read_text(encoding="utf-8"))
+                if (existing_record.get("generation") or {}).get("error"):
+                    should_skip = False  # previously failed — retry it
+            except (json.JSONDecodeError, OSError):
+                should_skip = False  # unreadable — safest to redo it
+        if should_skip:
             with print_lock:
                 state["done"] += 1
                 print(f"[{state['done']}/{total}] SKIP (cached) {model} / {entry['id']}")
@@ -432,7 +462,8 @@ def cmd_run(args: argparse.Namespace) -> None:
               gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
               overwrite=args.overwrite, refresh_cache=args.refresh_cache,
               prompt_version=args.prompt_version, concurrency=args.concurrency,
-              max_correction_attempts=args.max_correction_attempts)
+              max_correction_attempts=args.max_correction_attempts,
+              retry_errors_only=args.retry_errors_only)
 
     print(f"\nDone. Run report with: python3 scripts/eval_harness.py report --run-id {run_id}")
 
@@ -1407,6 +1438,11 @@ def main() -> None:
     p_run.add_argument("--gpt-judge-model", default="gpt-5.6")
     p_run.add_argument("--run-id", default=None)
     p_run.add_argument("--overwrite", action="store_true")
+    p_run.add_argument("--retry-errors-only", action="store_true",
+                        help="Like --overwrite, but only for pairs whose cached result has a generation "
+                             "error — a pair that already succeeded is left alone. For retrying after "
+                             "fixing something external (a billing cap, an expired key) without re-paying "
+                             "for results that are already good.")
     p_run.add_argument("--refresh-cache", action="store_true", help="Force re-fetch of article text")
     p_run.add_argument("--max-tokens", type=int, default=8000)
     p_run.add_argument("--concurrency", type=int, default=1,
