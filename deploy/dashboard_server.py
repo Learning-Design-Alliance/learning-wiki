@@ -4,7 +4,15 @@ dashboard_server.py — Serves eval/runs/ (same as `python3 -m http.server`
 did before) plus five POST endpoints the landing page's buttons/forms
 submit to — without these, static-file serving alone gives the page
 nothing to actually execute:
-  /launch-auto-optimize   start a search ("Launch N more rounds")
+  /launch-auto-optimize   start a search ("Launch N more rounds") — baseline
+                           is resolved in three tiers, most-trusted first:
+                           the previous search's own recorded state, then
+                           the run that tested the live current prompt
+                           version, then auto-optimize-config.env's static
+                           --baseline-run as a last resort (see
+                           _resolve_baseline_for_launch) — the response
+                           always states which tier was used, so a
+                           last-resort fallback is never silent
   /delete-run             rm -rf one run directory ("Delete" per row)
   /rerun-run              retry only a run's previously-failed pairs
                            ("Rerun" per row), reconstructed from its own
@@ -169,16 +177,85 @@ def _resolve_baseline_from_state() -> str:
     return state.get("current_run_id")
 
 
-def _resolve_launch_args(rounds: int) -> list:
-    """Builds the argv for `scripts/eval_harness.py auto-optimize`: rounds
-    from the form; baseline-run from the last search's recorded state (so
-    clicking "launch more rounds" continues forward from wherever the
-    previous search left off) if that state looks trustworthy (see
-    _resolve_baseline_from_state), else from whatever --baseline-run is
-    already configured in auto-optimize-config.env; every other flag
-    (concurrency, judges, ...) comes unchanged from that same config file."""
+def _read_current_prompt_version() -> str:
+    current_file = PROMPT_VERSIONS_DIR / "CURRENT"
+    if not current_file.exists():
+        return None
+    v = current_file.read_text(encoding="utf-8").strip()
+    return v or None
+
+
+def _find_run_for_version(version: str) -> str:
+    """Most recently modified run directory whose tested prompt_version is
+    exactly `version` (a run mixing several versions is skipped — same
+    uniqueness requirement _handle_use_as_baseline enforces the other
+    direction). Used to derive a trustworthy launch baseline from the live
+    CURRENT prompt pointer, which — unlike a hand-maintained config value —
+    can never go stale, since the ratchet in eval_harness.py's optimize
+    loop keeps it pointed at whatever's actually the current best."""
+    best, best_mtime = None, -1.0
+    for run_dir in RUNS_DIR.iterdir():
+        if not run_dir.is_dir():
+            continue
+        result_files = list(run_dir.glob("*/*.json"))
+        if not result_files:
+            continue
+        versions = set()
+        for path in result_files:
+            try:
+                record = json.loads(path.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, OSError):
+                continue
+            if record.get("prompt_version"):
+                versions.add(record["prompt_version"])
+        if versions == {version}:
+            mtime = max(f.stat().st_mtime for f in result_files)
+            if mtime > best_mtime:
+                best, best_mtime = run_dir.name, mtime
+    return best
+
+
+def _resolve_baseline_for_launch() -> tuple:
+    """Returns (baseline_run, source) — three tiers, in order of trust:
+    (1) .auto_optimize_state.json, if it looks trustworthy (see
+        _resolve_baseline_from_state) — continues exactly where the last
+        search left off.
+    (2) The run that tested the live CURRENT prompt version — self-
+        correcting, since CURRENT is a ratcheted pointer that's always the
+        actual current best, unlike a static config value.
+    (3) auto-optimize-config.env's --baseline-run, as an explicit last
+        resort — this is what silently fired an 80-version-stale baseline
+        in the real incident this three-tier fallback was built to catch:
+        state wasn't trustworthy, and the config's committed value had
+        never been touched since very early testing. Tier 2 now catches
+        that case before it ever reaches tier 3, and the source string
+        returned here is surfaced in the launch response either way, so a
+        tier-3 fallback is never silent again.
+    Returns (None, "none") only if every tier comes up empty."""
+    from_state = _resolve_baseline_from_state()
+    if from_state:
+        return from_state, "the previous search's own recorded state"
+
+    current_version = _read_current_prompt_version()
+    if current_version:
+        derived = _find_run_for_version(current_version)
+        if derived:
+            return derived, f"the run that tested the live current prompt version ({current_version})"
+
     args = _parse_config_args()
-    baseline_run = _resolve_baseline_from_state()
+    if "--baseline-run" in args:
+        idx = args.index("--baseline-run")
+        return args[idx + 1], "auto-optimize-config.env's static --baseline-run (last-resort fallback — verify this is still correct)"
+
+    return None, "none"
+
+
+def _resolve_launch_args(rounds: int, baseline_run: str) -> list:
+    """Builds the argv for `scripts/eval_harness.py auto-optimize`: rounds
+    from the form; baseline-run as resolved by _resolve_baseline_for_launch;
+    every other flag (concurrency, judges, ...) comes unchanged from
+    auto-optimize-config.env."""
+    args = _parse_config_args()
 
     if baseline_run:
         if "--baseline-run" in args:
@@ -289,7 +366,15 @@ class Handler(SimpleHTTPRequestHandler):
             self._respond(500, f"{VENV_PYTHON} not found — is the venv set up?")
             return
 
-        launch_args = _resolve_launch_args(rounds)
+        baseline_run, baseline_source = _resolve_baseline_for_launch()
+        if not baseline_run:
+            self._respond(400, "Could not resolve a baseline run — no usable prior search state, no run "
+                                "matching the live current prompt version, and no --baseline-run configured "
+                                "in auto-optimize-config.env. Launch explicitly via the CLI with --baseline-run "
+                                "instead.")
+            return
+
+        launch_args = _resolve_launch_args(rounds, baseline_run)
         log_path = RUNS_DIR / f"web-launch-{int(time.time())}.log"
         log_file = open(log_path, "w", encoding="utf-8")
         proc = subprocess.Popen(
@@ -314,7 +399,8 @@ class Handler(SimpleHTTPRequestHandler):
                                 f"not start a search.\n\nLast log lines:\n{tail}")
             return
 
-        self._respond(200, f"Launch started — {rounds} more round(s) queued.")
+        self._respond(200, f"Launch started — {rounds} more round(s) queued, baseline {baseline_run} "
+                            f"(resolved from {baseline_source}).")
 
     def _handle_stop_auto_optimize(self, form: dict) -> None:
         """Kills the actual running auto-optimize process by the pid it
