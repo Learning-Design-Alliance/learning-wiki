@@ -13,7 +13,7 @@ that's cheap to check exactly and easy for a smaller model to get wrong.
 import re
 from dataclasses import dataclass, field
 
-from . import ground_truth
+from . import consistency, ground_truth
 
 ALLOWED_TYPES = {"claim", "principle", "element", "pattern", "strategy", "theory"}
 SLUG_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
@@ -78,13 +78,15 @@ class _Checker:
     """Accumulates (checked, ok) pairs and issues for one contribution."""
 
     def __init__(self, report: ValidationReport, index: int, slug: str, ground_truth_enabled: bool = False,
-                 require_source_quotes: bool = False, article_text: str = None):
+                 require_source_quotes: bool = False, article_text: str = None,
+                 comparison_sets: list = None):
         self.report = report
         self.index = index
         self.slug = slug or f"contribution[{index}]"
         self.ground_truth_enabled = ground_truth_enabled
         self.require_source_quotes = require_source_quotes
         self.article_text = article_text
+        self.comparison_sets = comparison_sets or []
 
     def error(self, field_name: str, message: str) -> None:
         self.report.issues.append(Issue(self.index, self.slug, "error", field_name, message))
@@ -147,6 +149,27 @@ class _Checker:
                                     f"verbatim, with a fuzzy word-overlap fallback) — likely fabricated or "
                                     f"too heavily paraphrased; quotes must be copied verbatim.")
 
+    def check_consistency(self, field_name: str, value) -> None:
+        """SelfCheckGPT-style: no external source to check against here —
+        just whether this exact citation/quote also shows up in independent
+        re-generations of the same (model, article) pair (see
+        consistency.py). A fact the model can't reproduce consistently
+        across samples is a confabulation risk even when nothing else can
+        ground-truth it. Off by default (comparison_sets empty unless
+        --consistency-samples > 1 was passed) — this needs real extra
+        generation calls, so it can't be retrofitted onto cached results the
+        way ground-truthing and quote-grounding can."""
+        if not self.comparison_sets or not value:
+            return
+        matched = consistency.match_count(value, self.comparison_sets)
+        total = len(self.comparison_sets)
+        if matched < total:
+            shown = str(value).strip()
+            shown = shown if len(shown) <= 80 else shown[:80] + "…"
+            self.warn(field_name, f"{shown!r} reproduced in only {matched}/{total} independent "
+                                   f"re-generations of this article — possible confabulation "
+                                   f"(SelfCheckGPT-style consistency check).")
+
 
 def _existing_slug_set(existing_slugs: dict) -> set:
     out = set()
@@ -156,7 +179,8 @@ def _existing_slug_set(existing_slugs: dict) -> set:
 
 
 def validate_output(parsed: dict, existing_slugs: dict, ground_truth_enabled: bool = False,
-                     require_source_quotes: bool = False, article_text: str = None) -> ValidationReport:
+                     require_source_quotes: bool = False, article_text: str = None,
+                     comparison_sets: list = None) -> ValidationReport:
     """existing_slugs: {folder: [slug, ...]} — the real wiki slugs offered to the
     model in the prompt, used to catch invented cross-links.
 
@@ -169,7 +193,13 @@ def validate_output(parsed: dict, existing_slugs: dict, ground_truth_enabled: bo
     actual article text) a verbatim source_quote field on each claim's
     evidence entries — see ground_truth.py's module docstring and
     _Checker.check_source_quote. Off by default: no existing prompt version's
-    schema includes this field yet."""
+    schema includes this field yet.
+
+    comparison_sets: normalized citation/quote sets from independent
+    re-generations of this same (model, article) pair (see consistency.py
+    and consistency.extraction_identifier_set) — enables a SelfCheckGPT-style
+    consistency check per citation/quote. Empty unless --consistency-samples
+    > 1 was passed."""
     article = parsed.get("article") if isinstance(parsed, dict) else None
     contributions = parsed.get("contributions") if isinstance(parsed, dict) else None
     contributions = contributions if isinstance(contributions, list) else []
@@ -202,7 +232,8 @@ def validate_output(parsed: dict, existing_slugs: dict, ground_truth_enabled: bo
             continue
         slug = contrib.get("slug", "")
         c = _Checker(report, i, slug, ground_truth_enabled=ground_truth_enabled,
-                     require_source_quotes=require_source_quotes, article_text=article_text)
+                     require_source_quotes=require_source_quotes, article_text=article_text,
+                     comparison_sets=comparison_sets)
 
         ctype = contrib.get("type")
         c.check(ctype in ALLOWED_TYPES, "type", f"type '{ctype}' is not one of {sorted(ALLOWED_TYPES)}.")
@@ -267,6 +298,7 @@ def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
             c.check(_looks_like_real_citation(ev.get("citation")), f"evidence[{j}].citation",
                     "citation should include a year and a DOI/URL.")
             c.check_citation_ground_truth(f"evidence[{j}].citation", ev.get("citation"))
+            c.check_consistency(f"evidence[{j}].citation", ev.get("citation"))
             c.check(isinstance(ev.get("quality"), int) and 1 <= ev["quality"] <= 4,
                     f"evidence[{j}].quality", "quality must be an integer 1-4.")
             c.check(isinstance(ev.get("impact"), int) and 0 <= ev["impact"] <= 3,
@@ -275,6 +307,7 @@ def _validate_claim(c: _Checker, contrib: dict, known_slugs: set) -> None:
                     f"evidence[{j}].description", "description should be a substantive 2-4 sentence summary.",
                     severity="warning")
             c.check_source_quote(f"evidence[{j}].source_quote", ev.get("source_quote"))
+            c.check_consistency(f"evidence[{j}].source_quote", ev.get("source_quote"))
 
     if isinstance(subclaims, list):
         for j, sc in enumerate(subclaims):

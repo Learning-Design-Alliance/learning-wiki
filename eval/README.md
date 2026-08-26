@@ -347,6 +347,53 @@ response to seeing this failure dominate. Recommended first use: run one
 your current best baseline, then check whether the proposed revision's
 `changes_summary` actually added the field.
 
+## Consistency sampling (`--consistency-samples`)
+
+SelfCheckGPT-style (Manakul et al., EMNLP 2023): no external source to check
+against at all — just generate the same (model, article) pair multiple times
+independently and see whether a specific citation or quote survives across
+samples. A fact the model states differently (or drops) each time it's asked
+is a confabulation risk even when there's nothing to ground-truth it against;
+one it reproduces identically every time is much more likely to be something
+the model actually "knows." This is a genuinely different signal from
+`--ground-truth`/`--require-source-quotes`, which both check a claim against
+an *independent external* source — consistency checking only checks the
+model against itself.
+
+```bash
+python3 scripts/eval_harness.py run --models <...> --consistency-samples 3
+```
+
+`--consistency-samples N` (N>1; default 1 = off) re-generates each pair N
+times total using the *original* prompt (never the correction-loop's rewritten
+one) — the extra N-1 samples cost real money (roughly proportional to N) but
+are never judged, only compared against the primary sample's citations/quotes
+via `scripts/eval/consistency.py`. Any citation/quote not reproduced across
+*all* samples becomes a validator warning naming how many samples it survived.
+Can't be applied to `spotcheck` — there's no cached data to resample from a
+completed generation call, this needs fresh ones.
+
+## Subclaim-level judging (`--subclaim-judging`)
+
+FActScore-style (Min et al., EMNLP 2023): the normal judge call scores an
+*entire* extraction at once — faithfulness/accuracy/completeness/schema_fit,
+one blended number. That can't say *which* contribution is the problem when 5
+are fine and 1 is fabricated. `--subclaim-judging` (on `run`) instead judges
+every claim's subclaims **independently** — one call per subclaim, each asked
+only "is this ONE specific statement supported by the article?" (`supported`
+/ `unsupported` / `ambiguous`) — and aggregates the fraction supported into a
+`factscore`, using the same `--judges` models as normal judging.
+
+```bash
+python3 scripts/eval_harness.py run --models <...> --judges opus --subclaim-judging
+```
+
+Real cost multiplier: roughly one extra judge call per **subclaim** in the
+extraction, not per article (an article with 8 contributions × 2 subclaims
+each is ~16 extra judge calls). Results land in `record["subclaim_judgment"]`
+(per-judge factscore + every individual subclaim's verdict and reasoning) and
+`compute_rows()`'s per-model summary as `subclaim_factscore_<judge>`.
+
 ## Prompt versioning, trend history, and auto-optimization
 
 The extraction prompt (`scripts/eval/prompts.py`) is versioned, not a single

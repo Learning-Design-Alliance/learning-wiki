@@ -107,7 +107,7 @@ _load_secrets_env()
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
                           executive_summary, cost_projection, history, prompts, optimizer, model_catalog,
-                          auto_optimize_report, index_report)
+                          auto_optimize_report, index_report, consistency)
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 RUN_CONFIG_PATH = WIKI_ROOT / "deploy" / "run-config.env"
@@ -176,7 +176,8 @@ def result_path(run_dir: Path, model: str, article_id: str) -> Path:
 def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             judges: list, gpt_judge_model: str, max_tokens: int, refresh_cache: bool = False,
             prompt_version: str = None, max_correction_attempts: int = 0, ground_truth: bool = False,
-            require_source_quotes: bool = False) -> dict:
+            require_source_quotes: bool = False, consistency_samples: int = 1,
+            subclaim_judging: bool = False) -> dict:
     """max_correction_attempts=0 (default) is exactly the original single-shot
     behavior — this matters for benchmark integrity: the whole point of
     `run`/`optimize`/`auto-optimize` is measuring how a model does on its
@@ -192,6 +193,7 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
 
     article_text = fetch_article.fetch_article_text(entry, refresh=refresh_cache)
     current_prompt = prompts.build_user_prompt(article_text, existing_slugs)
+    original_user_prompt = current_prompt  # captured before the correction loop below can rewrite it
 
     record = {
         "article_id": entry["id"],
@@ -285,6 +287,51 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
         except Exception as e:
             record["judges"] = {"error": f"judging crashed: {type(e).__name__}: {e}"}
 
+    if parsed and subclaim_judging:
+        try:
+            record["subclaim_judgment"] = judge.judge_subclaims(article_text, parsed, judges, gpt_judge_model)
+        except Exception as e:
+            record["subclaim_judgment"] = {"error": f"subclaim judging crashed: {type(e).__name__}: {e}"}
+
+    if parsed and consistency_samples > 1:
+        # SelfCheckGPT-style: independently re-generate the SAME original
+        # query (never the correction-loop's rewritten prompt) N-1 more
+        # times and see which citations/quotes survive. Comparison-sample
+        # cost is tracked separately from record["generation"]["cost_usd"]
+        # so this opt-in extra signal never silently inflates the per-model
+        # cost figure every other run/comparison/leaderboard is ranked on.
+        comparison_sets = []
+        comparison_cost = 0.0
+        for _ in range(consistency_samples - 1):
+            try:
+                extra_gen = openrouter_client.generate(
+                    model, system_prompt, original_user_prompt, api_key, max_tokens=max_tokens,
+                    disable_reasoning=model_catalog.needs_reasoning_disabled(model))
+            except openrouter_client.GenerationError:
+                continue  # a failed comparison sample just shrinks the comparison pool, not a hard error
+            comparison_cost += extra_gen.cost_usd or 0
+            try:
+                extra_parsed = extract_json(extra_gen.raw_text)
+            except JSONExtractionError:
+                continue
+            comparison_sets.append(consistency.extraction_identifier_set(extra_parsed))
+
+        record["consistency_samples_used"] = len(comparison_sets)
+        record["consistency_check_cost_usd"] = round(comparison_cost, 6)
+        if comparison_sets:
+            report = validator.validate_output(parsed, existing_slugs, ground_truth_enabled=ground_truth,
+                                                require_source_quotes=require_source_quotes,
+                                                article_text=article_text, comparison_sets=comparison_sets)
+            record["validation"] = {
+                "passed": report.passed,
+                "n_contributions": report.n_contributions,
+                "completeness_score": report.completeness_score,
+                "error_count": report.error_count,
+                "warning_count": report.warning_count,
+                "parse_error": report.parse_error,
+                "issues": [asdict(i) for i in report.issues],
+            }
+
     return record
 
 
@@ -317,7 +364,8 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
               gpt_judge_model: str = "gpt-5.6", max_tokens: int = 8000, overwrite: bool = False,
               refresh_cache: bool = False, prompt_version: str = None, concurrency: int = 1,
               max_correction_attempts: int = 0, retry_errors_only: bool = False,
-              ground_truth: bool = False, require_source_quotes: bool = False) -> Path:
+              ground_truth: bool = False, require_source_quotes: bool = False,
+              consistency_samples: int = 1, subclaim_judging: bool = False) -> Path:
     """The actual (model x article) loop, shared by `run`, `optimize`, and
     `auto-optimize` — the latter two call this directly (not through
     argparse) to run each candidate prompt against the same articles as the
@@ -375,6 +423,8 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
         "max_correction_attempts": max_correction_attempts,
         "ground_truth": ground_truth,
         "require_source_quotes": require_source_quotes,
+        "consistency_samples": consistency_samples,
+        "subclaim_judging": subclaim_judging,
     }, indent=2), encoding="utf-8")
 
     existing_slugs = get_existing_slugs()
@@ -416,7 +466,8 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
             record = run_one(model, entry, existing_slugs, api_key, judges, gpt_judge_model,
                               max_tokens, refresh_cache=refresh_cache, prompt_version=prompt_version,
                               max_correction_attempts=max_correction_attempts, ground_truth=ground_truth,
-                              require_source_quotes=require_source_quotes)
+                              require_source_quotes=require_source_quotes,
+                              consistency_samples=consistency_samples, subclaim_judging=subclaim_judging)
         except fetch_article.FetchError as e:
             with print_lock:
                 state["done"] += 1
@@ -481,7 +532,8 @@ def cmd_run(args: argparse.Namespace) -> None:
               prompt_version=args.prompt_version, concurrency=args.concurrency,
               max_correction_attempts=args.max_correction_attempts,
               retry_errors_only=args.retry_errors_only, ground_truth=args.ground_truth,
-              require_source_quotes=args.require_source_quotes)
+              require_source_quotes=args.require_source_quotes,
+              consistency_samples=args.consistency_samples, subclaim_judging=args.subclaim_judging)
 
     print(f"\nDone. Run report with: python3 scripts/eval_harness.py report --run-id {run_id}")
 
@@ -579,6 +631,21 @@ def compute_rows(run_dir: Path) -> tuple:
                     "total_judge_cost_usd": round(sum(costs), 4),
                 }
 
+        # FActScore-style (--subclaim-judging): averaged separately from the
+        # whole-extraction judge scores above — a fraction-supported metric,
+        # not a 1-5 scale, and only present on records that opted in.
+        subclaim_summaries = {}
+        for jname in ("opus", "gpt"):
+            factscores = [r["subclaim_judgment"][jname]["factscore"] for r in records
+                          if r.get("subclaim_judgment", {}).get(jname, {}).get("factscore") is not None]
+            sc_costs = [r["subclaim_judgment"][jname].get("cost_usd", 0) for r in records
+                        if jname in r.get("subclaim_judgment", {})]
+            if factscores:
+                subclaim_summaries[jname] = {
+                    "avg_factscore": round(sum(factscores) / len(factscores), 3),
+                    "total_cost_usd": round(sum(sc_costs), 4),
+                }
+
         rows.append({
             "model": model,
             "n_articles": n,
@@ -591,6 +658,8 @@ def compute_rows(run_dir: Path) -> tuple:
             **{f"judge_{k}_avg_score": v["avg_score"] for k, v in judge_summaries.items()},
             **{f"judge_{k}_fail_count": v["fail_count"] for k, v in judge_summaries.items()},
             **{f"judge_{k}_total_cost_usd": v["total_judge_cost_usd"] for k, v in judge_summaries.items()},
+            **{f"subclaim_factscore_{k}": v["avg_factscore"] for k, v in subclaim_summaries.items()},
+            **{f"subclaim_judging_{k}_cost_usd": v["total_cost_usd"] for k, v in subclaim_summaries.items()},
         })
 
     return by_model, rows
@@ -1156,7 +1225,8 @@ def cmd_optimize(args: argparse.Namespace) -> None:
         run_batch(models, articles, args.judges, new_run_id, api_key,
                   gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens, prompt_version=new_version,
                   max_correction_attempts=args.max_correction_attempts, ground_truth=args.ground_truth,
-                  require_source_quotes=args.require_source_quotes)
+                  require_source_quotes=args.require_source_quotes,
+                  consistency_samples=args.consistency_samples)
 
         result = build_compare(current_run_id, new_run_id, models_filter=models)
         if "error" in result:
@@ -1485,7 +1555,8 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
                   gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
                   prompt_version=new_version, concurrency=args.concurrency,
                   max_correction_attempts=args.max_correction_attempts, ground_truth=args.ground_truth,
-                  require_source_quotes=args.require_source_quotes)
+                  require_source_quotes=args.require_source_quotes,
+                  consistency_samples=args.consistency_samples)
 
         _, new_rows = compute_rows(RUNS_DIR / new_run_id)
         new_gen_errors = _generation_error_count(new_rows)
@@ -1576,6 +1647,20 @@ def main() -> None:
                              "quote_is_grounded(). Off by default: no existing prompt version's schema "
                              "includes this field yet, so turning it on before one does will legitimately "
                              "fail almost every extraction.")
+    p_run.add_argument("--consistency-samples", type=int, default=1,
+                        help="SelfCheckGPT-style: independently re-generate each (model, article) pair this "
+                             "many times total (default: 1, i.e. off) and flag any citation/quote that isn't "
+                             "reproduced across ALL samples as a possible confabulation — see "
+                             "scripts/eval/consistency.py. N-1 extra generation calls per pair: real added "
+                             "cost, roughly proportional to N. Can't be applied to spotcheck (needs fresh "
+                             "generation, nothing to resample from a cached result).")
+    p_run.add_argument("--subclaim-judging", action="store_true",
+                        help="FActScore-style (Min et al., EMNLP 2023): judge each claim's subclaims "
+                             "independently instead of one holistic score for the whole extraction — a "
+                             "localized 'which exact sentence is wrong' signal instead of a blended average. "
+                             "See scripts/eval/judge.py's judge_subclaims(). Real cost multiplier: roughly "
+                             "one extra judge call per subclaim, not per article, using the same --judges "
+                             "models as the normal whole-extraction judging.")
 
     p_spot = subparsers.add_parser("spotcheck", help="Re-validate/re-judge cached results without re-generating")
     p_spot.add_argument("--run-id", required=True)
@@ -1638,6 +1723,9 @@ def main() -> None:
                         help="Require a verbatim source_quote field on evidence entries (see `run --help`). "
                              "Surfaces missing/fabricated-quote findings to the prompt-engineer, which is "
                              "explicitly instructed to add the field to the schema in response.")
+    p_opt.add_argument("--consistency-samples", type=int, default=1,
+                        help="SelfCheckGPT-style consistency sampling per pair (see `run --help`). Real added "
+                             "cost: N-1 extra generation calls per (model, article) pair.")
     p_opt.add_argument("--iterations", type=int, default=1, help="Max propose/re-run rounds (default: 1)")
     p_opt.add_argument("--min-improvement", type=float, default=0.0,
                         help="Minimum avg judge-score delta to adopt a candidate as the new current prompt (default: 0.0, i.e. any improvement)")
@@ -1664,6 +1752,9 @@ def main() -> None:
                          help="Require a verbatim source_quote field on evidence entries (see `run --help`). "
                               "Surfaces missing/fabricated-quote findings to the prompt-engineer, which is "
                               "explicitly instructed to add the field to the schema in response.")
+    p_auto.add_argument("--consistency-samples", type=int, default=1,
+                         help="SelfCheckGPT-style consistency sampling per pair (see `run --help`). Real added "
+                              "cost: N-1 extra generation calls per (model, article) pair.")
     p_auto.add_argument("--rounds", type=int, default=3, help="Max rounds (default: 3)")
     p_auto.add_argument("--concurrency", type=int, default=6,
                          help="Max concurrent (model, article) generation calls within one round's test "

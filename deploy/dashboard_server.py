@@ -457,6 +457,8 @@ class Handler(SimpleHTTPRequestHandler):
             run_args += ["--ground-truth"]
         if meta.get("require_source_quotes"):
             run_args += ["--require-source-quotes"]
+        if meta.get("consistency_samples", 1) and meta["consistency_samples"] > 1:
+            run_args += ["--consistency-samples", str(meta["consistency_samples"])]
 
         log_path = RUNS_DIR / f"web-rerun-{int(time.time())}.log"
         log_file = open(log_path, "w", encoding="utf-8")
