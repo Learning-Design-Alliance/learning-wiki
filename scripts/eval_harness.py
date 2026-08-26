@@ -1254,7 +1254,8 @@ def cmd_optimize(args: argparse.Namespace) -> None:
                   max_tokens=args.max_tokens, prompt_version=new_version,
                   max_correction_attempts=args.max_correction_attempts, ground_truth=args.ground_truth,
                   require_source_quotes=args.require_source_quotes,
-                  consistency_samples=args.consistency_samples)
+                  consistency_samples=args.consistency_samples,
+                  subclaim_judging=args.subclaim_judging)
 
         result = build_compare(current_run_id, new_run_id, models_filter=models)
         if "error" in result:
@@ -1617,7 +1618,8 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
                   prompt_version=new_version, concurrency=args.concurrency,
                   max_correction_attempts=args.max_correction_attempts, ground_truth=args.ground_truth,
                   require_source_quotes=args.require_source_quotes,
-                  consistency_samples=args.consistency_samples)
+                  consistency_samples=args.consistency_samples,
+                  subclaim_judging=args.subclaim_judging)
 
         _, new_rows = compute_rows(RUNS_DIR / new_run_id)
         new_gen_errors = _generation_error_count(new_rows)
@@ -1790,6 +1792,9 @@ def main() -> None:
     p_opt.add_argument("--consistency-samples", type=int, default=1,
                         help="SelfCheckGPT-style consistency sampling per pair (see `run --help`). Real added "
                              "cost: N-1 extra generation calls per (model, article) pair.")
+    p_opt.add_argument("--subclaim-judging", action="store_true",
+                        help="FActScore-style per-subclaim judging (see `run --help`). Results feed the "
+                             "prompt-engineer's failure summary as localized unsupported-subclaim samples.")
     p_opt.add_argument("--iterations", type=int, default=1, help="Max propose/re-run rounds (default: 1)")
     p_opt.add_argument("--min-improvement", type=float, default=0.0,
                         help="Minimum avg judge-score delta to adopt a candidate as the new current prompt (default: 0.0, i.e. any improvement)")
@@ -1820,6 +1825,9 @@ def main() -> None:
     p_auto.add_argument("--consistency-samples", type=int, default=1,
                          help="SelfCheckGPT-style consistency sampling per pair (see `run --help`). Real added "
                               "cost: N-1 extra generation calls per (model, article) pair.")
+    p_auto.add_argument("--subclaim-judging", action="store_true",
+                         help="FActScore-style per-subclaim judging (see `run --help`). Results feed the "
+                              "prompt-engineer's failure summary as localized unsupported-subclaim samples.")
     p_auto.add_argument("--rounds", type=int, default=3, help="Max rounds (default: 3)")
     p_auto.add_argument("--concurrency", type=int, default=6,
                          help="Max concurrent (model, article) generation calls within one round's test "
