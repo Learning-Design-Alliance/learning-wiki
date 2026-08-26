@@ -827,6 +827,47 @@ def build_trajectory_digest(history_rows: list, changelog: dict, models: list = 
     return {"entries": entries, "omitted_count": omitted_count}
 
 
+def _resolve_default_baseline_run() -> str:
+    """Auto-resolves --baseline-run when it's omitted: the most recently
+    touched run that tested the live current prompt version (prompts.CURRENT).
+
+    This is the canonical resolution logic — the ONE place it lives, used by
+    every invocation path (bare CLI, the systemd unit via auto_optimize.sh,
+    and the web dashboard's "Launch more rounds") — specifically because a
+    real incident showed what happens when it doesn't: deploy/
+    auto-optimize-config.env carried a static --baseline-run that went
+    80-versions stale, silently, because dashboard_server.py's own
+    resolution logic only covered the web button's code path — the systemd/
+    shell-script path (deploy/auto_optimize.sh) reads that config file's
+    value completely literally, with no fallback of its own. A fix that
+    only lived in the dashboard would leave that path just as exposed, so
+    this lives here instead, and both auto-optimize-config.env and
+    dashboard_server.py now rely on --baseline-run being optional and
+    resolved here when omitted, rather than each maintaining their own copy
+    of "what's the current best baseline" logic that can silently drift out
+    of sync with each other.
+
+    Returns None if unresolvable (no CURRENT pointer saved yet, or no run
+    on disk tested it) — the caller should error out explicitly rather than
+    guess further."""
+    try:
+        current_version = prompts.current_version()
+    except FileNotFoundError:
+        return None
+
+    candidate_run_ids = {r["run_id"] for r in history.collect(RUNS_DIR) if r.get("prompt_version") == current_version}
+    if not candidate_run_ids:
+        return None
+
+    def _run_mtime(run_id: str) -> float:
+        try:
+            return max((f.stat().st_mtime for f in (RUNS_DIR / run_id).glob("*/*.json")), default=0.0)
+        except OSError:
+            return 0.0
+
+    return max(candidate_run_ids, key=_run_mtime)
+
+
 def compute_queue_status(by_model: dict, models: list, total_articles: int, concurrency: int = 1) -> list:
     """Per-model done/error/pending counts against the *intended* model list
     and article count — the answer to "which models are tested, which are
@@ -1288,6 +1329,15 @@ def cmd_optimize(args: argparse.Namespace) -> None:
     if not api_key:
         print("[ERROR] OPENROUTER_API_KEY environment variable not set.")
         sys.exit(1)
+    if not args.baseline_run:
+        args.baseline_run = _resolve_default_baseline_run()
+        if not args.baseline_run:
+            print("[ERROR] No --baseline-run given, and none could be auto-resolved from the live "
+                  "current prompt version (no CURRENT pointer yet, or no run tested it) — pass "
+                  "--baseline-run explicitly.")
+            sys.exit(1)
+        print(f"No --baseline-run given — auto-resolved to {args.baseline_run} "
+              f"(the run that tested the live current prompt version).")
     if not (RUNS_DIR / args.baseline_run).exists():
         print(f"[ERROR] No run directory: {RUNS_DIR / args.baseline_run}")
         sys.exit(1)
@@ -1615,6 +1665,15 @@ def cmd_auto_optimize(args: argparse.Namespace) -> None:
     if not api_key:
         print("[ERROR] OPENROUTER_API_KEY environment variable not set.")
         sys.exit(1)
+    if not args.baseline_run:
+        args.baseline_run = _resolve_default_baseline_run()
+        if not args.baseline_run:
+            print("[ERROR] No --baseline-run given, and none could be auto-resolved from the live "
+                  "current prompt version (no CURRENT pointer yet, or no run tested it) — pass "
+                  "--baseline-run explicitly.")
+            sys.exit(1)
+        print(f"No --baseline-run given — auto-resolved to {args.baseline_run} "
+              f"(the run that tested the live current prompt version).")
     if not (RUNS_DIR / args.baseline_run).exists():
         print(f"[ERROR] No run directory: {RUNS_DIR / args.baseline_run}")
         sys.exit(1)
@@ -1903,7 +1962,9 @@ def main() -> None:
     p_opt = subparsers.add_parser(
         "optimize",
         help="Auto-iterate the extraction prompt: propose a revision from a run's failures, re-run, compare, keep only if improved")
-    p_opt.add_argument("--baseline-run", required=True, help="Run id to start from")
+    p_opt.add_argument("--baseline-run", default=None,
+                        help="Run id to start from (default: auto-resolved from the live "
+                             "current prompt version's most recently tested run)")
     p_opt.add_argument("--models", nargs="+", default=None, help="Default: every model present in the baseline run")
     p_opt.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt", "gemini"])
     p_opt.add_argument("--gpt-judge-model", default="gpt-5.6-luna")
@@ -1936,7 +1997,9 @@ def main() -> None:
         help="Self-driving optimization: one test per round, strictly serial — propose a revision from the "
              "previous round's full results (failures included), run it, unconditionally adopt it, repeat "
              "until the time budget or round cap is hit or nothing is left to react to")
-    p_auto.add_argument("--baseline-run", required=True, help="Run id to start from")
+    p_auto.add_argument("--baseline-run", default=None,
+                         help="Run id to start from (default: auto-resolved from the live "
+                              "current prompt version's most recently tested run)")
     p_auto.add_argument("--models", nargs="+", default=None, help="Default: every model present in the baseline run")
     p_auto.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt", "gemini"])
     p_auto.add_argument("--gpt-judge-model", default="gpt-5.6-luna")
