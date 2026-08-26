@@ -934,6 +934,12 @@ def _generate_index_locked(verbose: bool) -> None:
         # move" rather than "did any specific model actually get better" —
         # the latter is what matters when optimizing one model's prompt.
         scores = [v for r in rows for v in (r.get("judge_opus_avg_score"), r.get("judge_gpt_avg_score")) if v is not None]
+        # Same "max, not mean" reasoning as best_judge_score above: this run
+        # mixes several unrelated models, and best_pass_rate/best_completeness
+        # answer "did any model in this run get it structurally right" rather
+        # than blending a strong model's 100% with a weak one's 20%.
+        pass_rates = [r["validator_pass_rate"] for r in rows if r.get("validator_pass_rate") is not None]
+        completenesses = [r["avg_completeness_score"] for r in rows if r.get("avg_completeness_score") is not None]
         total_cost = sum(r.get("total_generation_cost_usd") or 0 for r in rows)
         latencies = [r["avg_latency_s"] for r in rows if r.get("avg_latency_s")]
         versions = sorted({rec.get("prompt_version") for recs in by_model.values() for rec in recs
@@ -943,6 +949,8 @@ def _generate_index_locked(verbose: bool) -> None:
             "run_id": run_dir.name,
             "done": done_pairs, "total": total_pairs,
             "best_judge_score": round(max(scores), 2) if scores else None,
+            "best_pass_rate": max(pass_rates) if pass_rates else None,
+            "best_completeness": max(completenesses) if completenesses else None,
             "total_cost_usd": round(total_cost, 4),
             "avg_latency_s": round(sum(latencies) / len(latencies), 1) if latencies else None,
             "prompt_versions": ", ".join(versions) if versions else "unknown",

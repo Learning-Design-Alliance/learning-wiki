@@ -122,6 +122,8 @@ def _run_row(r: dict, changelog: dict) -> str:
         status = "Unknown"
 
     score_str = f"{r['best_judge_score']:.2f}/5" if r["best_judge_score"] is not None else "–"
+    completeness_html = _completeness_html(r.get("best_completeness"))
+    pass_rate_html = _pass_rate_html(r.get("best_pass_rate"))
     cost_str = f"${r['total_cost_usd']:.4f}" if r["total_cost_usd"] is not None else "–"
     latency_str = f"{r['avg_latency_s']:.1f}s" if r["avg_latency_s"] is not None else "–"
 
@@ -141,6 +143,8 @@ def _run_row(r: dict, changelog: dict) -> str:
       <td><span class="badge-status badge-status-{'complete' if status == 'Complete' else 'progress'}">{_esc(status)}</span></td>
       <td class="idx-progress-cell">{progress_html}</td>
       <td class="num idx-emph">{_esc(score_str)}</td>
+      <td class="num">{completeness_html}</td>
+      <td class="num">{pass_rate_html}</td>
       <td class="num idx-secondary">{_esc(cost_str)}</td>
       <td class="num idx-secondary">{_esc(latency_str)}</td>
       <td>{_esc(r['n_models'])}</td>
@@ -168,6 +172,8 @@ def _skeleton_row(round_num: int, rounds_total: int, projected_run_id: str = Non
       <td>{label}</td>
       <td><span class="badge-status badge-status-queued">Queued</span></td>
       <td class="idx-progress-cell">–</td>
+      <td class="num">–</td>
+      <td class="num">–</td>
       <td class="num">–</td>
       <td class="num idx-secondary">–</td>
       <td class="num idx-secondary">–</td>
@@ -742,7 +748,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
     changelog = _load_changelog_summaries()
     rows_html = skeleton_html + "".join(_run_row(r, changelog) for r in run_summaries)
     if not rows_html:
-        rows_html = '<tr><td colspan="9" class="empty-note">No runs yet.</td></tr>'
+        rows_html = '<tr><td colspan="11" class="empty-note">No runs yet.</td></tr>'
 
     trend_specs = [
         ("trend-pass-rate", "Pass rate", "validator_pass_rate", "Validator pass rate", "%", True),
@@ -924,6 +930,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
         <table class="idx-table">
           <thead>
             <tr><th>Run</th><th>Status</th><th>Progress</th><th>Best judge score</th>
+                <th>Completeness</th><th>Validity</th>
                 <th class="idx-secondary-th">Total cost</th><th class="idx-secondary-th">Avg latency</th>
                 <th>Models</th><th>Prompt version(s)</th><th></th></tr>
           </thead>
