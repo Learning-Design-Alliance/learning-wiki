@@ -1388,6 +1388,25 @@ def _write_auto_optimize_state(baseline_run: str, current_run_id: str, round_num
     generate_index(verbose=False)
 
 
+def _write_text_with_ownership_hint(path: Path, content: str) -> None:
+    """write_text wrapper that turns a bare PermissionError into an actionable
+    message. In practice this fires when a prior manual invocation ran as a
+    different user (e.g. root) than the one running now (e.g. evalrunner via
+    systemd/the dashboard), leaving a file this process can't overwrite —
+    it's a droplet ownership mismatch, not a code bug, so point at the fix
+    rather than just surfacing the raw OSError."""
+    try:
+        path.write_text(content, encoding="utf-8")
+    except PermissionError as e:
+        raise PermissionError(
+            f"{e}\nLikely cause: {path} (or its parent directory) is owned by a different "
+            f"user than the one running this process right now — e.g. an earlier manual run "
+            f"as root, while this run is `sudo -u evalrunner ...` (or vice versa). Fix with: "
+            f"sudo chown -R evalrunner:evalrunner {path.parent}  # match whichever user should own eval/runs "
+            f"— then re-run, and keep invocations consistent (always via the same user) going forward."
+        ) from e
+
+
 def _write_auto_optimize_outputs(round_log: list, baseline_run: str, final_run_id: str) -> tuple:
     """Writes both the markdown summary and its HTML dashboard companion,
     called after every round (not just at the end) so a search left running
@@ -1395,12 +1414,12 @@ def _write_auto_optimize_outputs(round_log: list, baseline_run: str, final_run_i
     only once the whole thing finishes. Returns (markdown_text, md_path, html_path)."""
     summary_md = _render_auto_optimize_summary(round_log, baseline_run, final_run_id)
     summary_path = RUNS_DIR / f"auto-optimize-summary-{baseline_run}.md"
-    summary_path.write_text(summary_md, encoding="utf-8")
+    _write_text_with_ownership_hint(summary_path, summary_md)
 
     html_path = RUNS_DIR / f"auto-optimize-summary-{baseline_run}.html"
-    html_path.write_text(
+    _write_text_with_ownership_hint(
+        html_path,
         auto_optimize_report.render_html(round_log, baseline_run, final_run_id, prompts.current_version()),
-        encoding="utf-8",
     )
     return summary_md, summary_path, html_path
 

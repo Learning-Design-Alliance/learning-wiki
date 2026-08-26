@@ -155,18 +155,20 @@ def propose_revision(current_prompt: str, failure_summary: dict, worked_examples
     user_prompt = build_user_prompt(current_prompt, failure_summary, worked_examples)
 
     start = time.monotonic()
-    response = client.messages.create(
+    # Non-streaming was capped at 16000 max_tokens (the safe ceiling for a
+    # single HTTP response) and kept truncating mid-JSON ("Unterminated
+    # string") once the accreted prompt (v77+) plus adaptive thinking's own
+    # budget — drawn from the same ceiling — needed more room than that.
+    # Streaming supports a much higher ceiling without hitting HTTP timeouts.
+    with client.messages.stream(
         model=model,
-        # 8000 was too tight for a non-streaming call to a thinking-by-default
-        # model: the revised prompt alone runs ~2000+ tokens (v2.txt is ~900
-        # words), and adaptive thinking's own budget comes out of the same
-        # max_tokens ceiling — hit it mid-JSON and got "Unterminated string".
-        max_tokens=16000,
+        max_tokens=48000,
         system=PROMPT_ENGINEER_SYSTEM,
         thinking={"type": "adaptive"},
         output_config={"effort": "high"},
         messages=[{"role": "user", "content": user_prompt}],
-    )
+    ) as stream:
+        response = stream.get_final_message()
     latency = time.monotonic() - start
 
     raw_text = next((b.text for b in response.content if b.type == "text"), "")
