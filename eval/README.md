@@ -473,21 +473,30 @@ python3 scripts/eval_harness.py auto-optimize --baseline-run <run-id> \
 
 `auto-optimize` runs `optimize`'s own propose → re-run → advance loop
 unattended for up to `--rounds` iterations, one test per round, strictly
-serial — round N+1 never starts until round N has fully completed. The one
-real difference from `optimize`: **there is no adopt/reject gate.** Every
-round's revision becomes the new current prompt unconditionally, whether or
-not it actually scored better — this is a single evolving lineage, not a
-search across competing candidates kept only if they win, so a regression
-isn't discarded, it becomes next round's own starting point and its
-shortfall becomes new failure data to react to next round. A generation/API
-error (rate limit, expired key, model outage) is treated the same way — the
-pair still "completed," just as a failed one, and that fact is handed to the
-next round's proposal step alongside the usual validator/judge failure data
-(the model is told these are infrastructure failures, not prompt-content
-problems, and to say so rather than inventing an unrelated fix). Run ids are
-plain `<prefix>-<version>` (e.g. `auto-v16`) — one run per round, no round
-number in the name, so version numbers track one continuous sequence
-(`v15` → `v16` → `v17` → ...) instead of a round/candidate grid.
+serial — round N+1 never starts until round N has fully completed. It uses
+the same ratchet `optimize` does: a round is adopted as the new current
+prompt only if its avg judge-score delta clears `--min-improvement`
+(default: `0.0`, i.e. must not regress). A round that doesn't clear it is
+kept on disk for the record, but the *next* round retries from the last
+adopted baseline instead of building on the regression. This wasn't always
+the default — an earlier version let every round advance unconditionally on
+the theory that a regression's own shortfall would become useful failure
+data for self-correction, but a real run (`auto-v89` → `v90` → `v91`)
+showed that doesn't hold in practice: `v90` regressed hard and `v91`,
+optimizing *from* that broken baseline, not only failed to recover but kept
+the exact same fabrication `v90` had introduced. Pass `--allow-regression`
+to restore the old unconditional-adopt behavior if you deliberately want to
+explore through a dip rather than retry from the last good version. A
+generation/API error (rate limit, expired key, model outage) is treated
+separately — the pair still "completed," just as a failed one, and that
+fact is handed to the next round's proposal step alongside the usual
+validator/judge failure data (the model is told these are infrastructure
+failures, not prompt-content problems, and to say so rather than inventing
+an unrelated fix). Run ids are plain `<prefix>-<version>` (e.g. `auto-v16`)
+— one run per round, no round number in the name, so version numbers track
+one continuous sequence (`v15` → `v16` → `v17` → ...) instead of a
+round/candidate grid; an unadopted round still consumes a version number
+and a round of `--rounds` budget, it just isn't the sequence's baseline.
 
 Only one search can run at a time — `auto-optimize` takes an exclusive lock
 (`eval/runs/.auto_optimize.lock`, a PID file) for its whole duration,

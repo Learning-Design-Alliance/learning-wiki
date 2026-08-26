@@ -1282,10 +1282,11 @@ def cmd_optimize(args: argparse.Namespace) -> None:
 
 
 def _render_auto_optimize_summary(round_log: list, baseline_run: str, final_run_id: str) -> str:
-    """One row per round — a single evolving lineage, not a per-round table
-    of competing candidates (see cmd_auto_optimize's docstring): round N is
-    always exactly one test, and it always becomes the new current prompt,
-    whether or not it actually scored better than round N-1."""
+    """One row per round attempted — but only ADOPTED rounds form the actual
+    lineage the next round builds on; a round that regressed (delta below
+    --min-improvement, without --allow-regression) is recorded for the
+    history but the next round retries from the last adopted baseline
+    instead of building on it (see _run_auto_optimize_loop)."""
     lines = [
         "# Auto-optimize summary", "",
         f"Started from: `{baseline_run}`", f"Final run: `{final_run_id}`",
@@ -1295,18 +1296,19 @@ def _render_auto_optimize_summary(round_log: list, baseline_run: str, final_run_
         lines.append("No round completed — stopped before the first test finished (see console output for why).")
         return "\n".join(lines)
 
-    lines.append("| Round | Version | Run | Gen errors | Pass rate | Completeness | Judge score | "
+    lines.append("| Round | Version | Run | Adopted | Gen errors | Pass rate | Completeness | Judge score | "
                   "Δ vs previous | Changes |")
-    lines.append("|---|---|---|---|---|---|---|---|---|")
+    lines.append("|---|---|---|---|---|---|---|---|---|---|")
     for r in round_log:
         pass_rate = f"{r['validator_pass_rate'] * 100:.0f}%" if r["validator_pass_rate"] is not None else "–"
         completeness = f"{r['avg_completeness_score'] * 100:.0f}%" if r["avg_completeness_score"] is not None else "–"
         score = f"{r['judge_score']:.2f}" if r["judge_score"] is not None else "–"
         delta = f"{r['delta_vs_previous']:+.2f}" if r["delta_vs_previous"] is not None else "–"
+        adopted = "yes" if r.get("adopted", True) else "no — regressed"
         changes = (r["changes_summary"][:120] + "…") if len(r["changes_summary"]) > 120 else r["changes_summary"]
         lines.append(f"| {r['round']} | `{r['version']}` | [{r['run_id']}](./{r['run_id']}/report.html) | "
-                      f"{r['generation_error_count']} | {pass_rate} | {completeness} | {score} | {delta} | "
-                      f"{changes} |")
+                      f"{adopted} | {r['generation_error_count']} | {pass_rate} | {completeness} | {score} | "
+                      f"{delta} | {changes} |")
 
     lines.append("")
     lines.append(f"**Recommendation:** run `python3 scripts/eval_harness.py history` for the full "
@@ -1491,11 +1493,17 @@ def cmd_auto_optimize(args: argparse.Namespace) -> None:
       2. Runs that single revision as this round's test, all configured
          models in parallel (bounded by --concurrency), against the same
          articles as the previous round.
-      3. Unconditionally adopts it as the new current prompt — this is one
-         evolving lineage, not a search across competing candidates kept
-         only if they win, so a round that didn't improve still becomes
-         next round's starting point (and its own shortfall becomes new
-         failure data to react to).
+      3. Adopts it as the new current prompt only if its avg judge-score
+         delta clears --min-improvement (default 0.0 — any non-regression),
+         same ratchet `optimize` uses. A round that regressed is recorded
+         for the history, but the NEXT round retries from the last adopted
+         baseline rather than building on the regression — a real run
+         (auto-v89 -> v90 -> v91) showed that letting a regression become
+         its own baseline doesn't self-correct in practice, it compounds:
+         v91 kept the exact fabrication v90 introduced and scored worse
+         again. --allow-regression restores the old unconditional-adopt
+         behavior for anyone who wants to deliberately explore through a
+         dip rather than retry from the last good version.
     Round N+1 never starts until round N has fully completed. Stops on
     --rounds or --time-budget-minutes, whichever comes first, then writes
     a final recommendation summary (one row per round + the resulting
@@ -1633,12 +1641,29 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
         print(f"  {new_version}: {new_gen_errors} generation error(s), avg judge-score delta vs "
               f"{current_run_id}: {shown}")
 
-        # No adopt/reject gate: every round's revision becomes the new
-        # current prompt unconditionally — see cmd_auto_optimize's
-        # docstring. A regression is not discarded; it becomes next
-        # round's own baseline and its shortfall becomes new failure data.
-        prompts.set_current_version(new_version)
-        current_run_id = new_run_id
+        # Ratcheted, same as `optimize` (--min-improvement, default 0.0 — any
+        # non-regression): a live run (auto-v89 -> auto-v90 -> auto-v91)
+        # showed the previous "advance unconditionally, let a regression
+        # become next round's own baseline" design doesn't self-correct in
+        # practice — v90 regressed hard (judge score -0.82, validator pass
+        # rate -40pp) and v91, optimizing FROM that broken baseline, not
+        # only failed to recover but kept the exact same fabricated arXiv id
+        # v90 introduced. --allow-regression restores the old behavior for
+        # anyone who wants to deliberately explore through a dip.
+        adopted = args.allow_regression or (delta is not None and delta >= args.min_improvement)
+        if adopted:
+            prompts.set_current_version(new_version)
+            if delta is not None and delta >= args.min_improvement:
+                print(f"IMPROVED: avg judge-score delta {delta:+.2f} >= threshold {args.min_improvement} — "
+                      f"{new_version} is now the current default prompt.")
+            else:
+                shown = f"{delta:+.2f}" if delta is not None else "unknown (no model scored in both runs)"
+                print(f"--allow-regression set — advancing to {new_version} anyway despite delta {shown}.")
+            current_run_id = new_run_id
+        else:
+            shown = f"{delta:+.2f}" if delta is not None else "unknown (no model scored in both runs)"
+            print(f"NOT ADOPTED: avg judge-score delta {shown} did not clear threshold {args.min_improvement}. "
+                  f"{new_version} stays saved for the record; next round retries from {current_run_id} instead.")
 
         new_scores = [v for r in new_rows for v in (r.get("judge_opus_avg_score"), r.get("judge_gpt_avg_score"))
                       if v is not None]
@@ -1656,6 +1681,7 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
             "avg_completeness_score": round(sum(completeness) / len(completeness), 3) if completeness else None,
             "judge_score": round(max(new_scores), 2) if new_scores else None,
             "delta_vs_previous": delta,
+            "adopted": adopted,
         })
         _write_auto_optimize_outputs(round_log, args.baseline_run, current_run_id)
     else:
@@ -1828,6 +1854,15 @@ def main() -> None:
     p_auto.add_argument("--subclaim-judging", action="store_true",
                          help="FActScore-style per-subclaim judging (see `run --help`). Results feed the "
                               "prompt-engineer's failure summary as localized unsupported-subclaim samples.")
+    p_auto.add_argument("--min-improvement", type=float, default=0.0,
+                         help="Minimum avg judge-score delta for a round to be adopted as the new current "
+                              "prompt (default: 0.0, i.e. must not regress). A round that doesn't clear this "
+                              "is kept for the record but the next round retries from the last adopted "
+                              "baseline instead of building on it.")
+    p_auto.add_argument("--allow-regression", action="store_true",
+                         help="Adopt every round's revision unconditionally, even if it scores worse than "
+                              "the previous baseline (the old default). Off by default — real usage showed "
+                              "this compounds regressions rather than recovering from them.")
     p_auto.add_argument("--rounds", type=int, default=3, help="Max rounds (default: 3)")
     p_auto.add_argument("--concurrency", type=int, default=6,
                          help="Max concurrent (model, article) generation calls within one round's test "

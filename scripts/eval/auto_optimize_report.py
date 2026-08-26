@@ -49,10 +49,13 @@ def _table_row(r: dict) -> str:
     pass_rate = f"{r['validator_pass_rate'] * 100:.0f}%" if r["validator_pass_rate"] is not None else "–"
     completeness = f"{r['avg_completeness_score'] * 100:.0f}%" if r["avg_completeness_score"] is not None else "–"
     score = f"{r['judge_score']:.2f}" if r["judge_score"] is not None else "–"
+    adopted = r.get("adopted", True)
+    adopted_str = "yes" if adopted else "no — regressed"
     changes = r["changes_summary"]
     return (
         f'<tr><td>{r["round"]}</td>'
         f'<td><a href="./{_esc(r["run_id"])}/report.html">{_esc(r["version"])}</a></td>'
+        f'<td class="num{"" if adopted else " opt-not-adopted"}">{adopted_str}</td>'
         f'<td class="num">{r["generation_error_count"]}</td>'
         f'<td class="num">{pass_rate}</td><td class="num">{completeness}</td>'
         f'<td class="num">{score}</td><td class="num">{delta_str}</td>'
@@ -128,6 +131,7 @@ def render_html(round_log: list, baseline_run: str, final_run_id: str, current_p
   .detail-table td {{ padding: 7px 10px; border-bottom: 1px solid var(--gridline); vertical-align: top; }}
   .detail-table td.num {{ text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }}
   .changes-cell {{ color: var(--text-secondary); font-size: 12px; max-width: 340px; }}
+  .opt-not-adopted {{ color: var(--status-critical); font-weight: 600; }}
   .empty-note {{ color: var(--text-muted); font-size: 13px; }}
   .footer-note {{ margin-top: 12px; color: var(--text-muted); font-size: 12px; }}
 </style>
@@ -148,16 +152,17 @@ def render_html(round_log: list, baseline_run: str, final_run_id: str, current_p
   <h2>Round-by-round detail</h2>
   <div class="card">
     <table class="detail-table">
-      <thead><tr><th>Round</th><th>Version</th><th>Gen errors</th><th>Pass rate</th>
+      <thead><tr><th>Round</th><th>Version</th><th>Adopted</th><th>Gen errors</th><th>Pass rate</th>
       <th>Completeness</th><th>Judge score</th><th>&Delta; vs previous</th><th>Changes</th></tr></thead>
       <tbody>{table_rows}</tbody>
     </table>
   </div>
-  <p class="footer-note">Every round's revision becomes the new current prompt unconditionally — this is
-  one evolving lineage, not a search that keeps only winners, so a regression still becomes the next
-  round's starting point. Green = improved vs. the previous round, red = regressed. Click a version to
-  open its own full dashboard. Raw data also at <code>auto-optimize-summary-{_esc(baseline_run)}.md</code>
-  in this directory.</p>
+  <p class="footer-note">A round is adopted as the new current prompt only if its avg judge-score delta
+  clears --min-improvement (default: must not regress) — an unadopted round is kept here for the record,
+  but the next round retries from the last adopted baseline instead of building on the regression
+  (--allow-regression restores the old unconditional-adopt behavior). Green = improved vs. the previous
+  round, red = regressed. Click a version to open its own full dashboard. Raw data also at
+  <code>auto-optimize-summary-{_esc(baseline_run)}.md</code> in this directory.</p>
 </div>
 </body>
 </html>"""
