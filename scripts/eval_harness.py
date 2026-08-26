@@ -304,21 +304,27 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
         # cost is tracked separately from record["generation"]["cost_usd"]
         # so this opt-in extra signal never silently inflates the per-model
         # cost figure every other run/comparison/leaderboard is ranked on.
+        def _one_comparison_sample():
+            extra_gen = openrouter_client.generate(
+                model, system_prompt, original_user_prompt, api_key, max_tokens=max_tokens,
+                disable_reasoning=model_catalog.needs_reasoning_disabled(model))
+            extra_parsed = extract_json(extra_gen.raw_text)
+            return extra_gen.cost_usd or 0, consistency.extraction_identifier_set(extra_parsed)
+
         comparison_sets = []
         comparison_cost = 0.0
-        for _ in range(consistency_samples - 1):
-            try:
-                extra_gen = openrouter_client.generate(
-                    model, system_prompt, original_user_prompt, api_key, max_tokens=max_tokens,
-                    disable_reasoning=model_catalog.needs_reasoning_disabled(model))
-            except openrouter_client.GenerationError:
-                continue  # a failed comparison sample just shrinks the comparison pool, not a hard error
-            comparison_cost += extra_gen.cost_usd or 0
-            try:
-                extra_parsed = extract_json(extra_gen.raw_text)
-            except JSONExtractionError:
-                continue
-            comparison_sets.append(consistency.extraction_identifier_set(extra_parsed))
+        # Independent generation calls, no shared state — run concurrently
+        # rather than one after another (see run_judges for the same reasoning).
+        n_extra = consistency_samples - 1
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, n_extra)) as executor:
+            futures = [executor.submit(_one_comparison_sample) for _ in range(n_extra)]
+            for future in concurrent.futures.as_completed(futures):
+                try:
+                    cost, identifier_set = future.result()
+                except (openrouter_client.GenerationError, JSONExtractionError):
+                    continue  # a failed comparison sample just shrinks the comparison pool, not a hard error
+                comparison_cost += cost
+                comparison_sets.append(identifier_set)
 
         record["consistency_samples_used"] = len(comparison_sets)
         record["consistency_check_cost_usd"] = round(comparison_cost, 6)
@@ -339,19 +345,40 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
     return record
 
 
+def _run_one_judge(name: str, article_text: str, extraction_text: str, gpt_judge_model: str,
+                    api_key: str, gemini_judge_model: str):
+    if name == "opus":
+        return judge.judge_with_claude(article_text, extraction_text)
+    if name == "gpt":
+        return judge.judge_with_openai(article_text, extraction_text, model=gpt_judge_model)
+    if name == "gemini":
+        return judge.judge_with_gemini(article_text, extraction_text, api_key, model=gemini_judge_model)
+    return None
+
+
 def run_judges(article_text: str, parsed: dict, judges: list, gpt_judge_model: str,
                 api_key: str = None, gemini_judge_model: str = "google/gemini-3.7-flash") -> dict:
+    """Each judge is an independent API call with no shared state, so they run
+    concurrently rather than one after another — with --subclaim-judging and
+    --consistency-samples also active, a single (model, article) pair's own
+    sequential work was becoming the real bottleneck even with pair-level
+    --concurrency already parallelizing across articles."""
     extraction_text = json.dumps(parsed, indent=2)
     out = {}
-    for name in judges:
-        try:
-            if name == "opus":
-                result = judge.judge_with_claude(article_text, extraction_text)
-            elif name == "gpt":
-                result = judge.judge_with_openai(article_text, extraction_text, model=gpt_judge_model)
-            elif name == "gemini":
-                result = judge.judge_with_gemini(article_text, extraction_text, api_key, model=gemini_judge_model)
-            else:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, len(judges))) as executor:
+        future_to_name = {
+            executor.submit(_run_one_judge, name, article_text, extraction_text, gpt_judge_model,
+                             api_key, gemini_judge_model): name
+            for name in judges
+        }
+        for future in concurrent.futures.as_completed(future_to_name):
+            name = future_to_name[future]
+            try:
+                result = future.result()
+            except Exception as e:
+                out[name] = {"error": str(e)}
+                continue
+            if result is None:
                 continue
             out[name] = {
                 "scores": result.scores,
@@ -362,8 +389,6 @@ def run_judges(article_text: str, parsed: dict, judges: list, gpt_judge_model: s
                 "cost_usd": round(result.cost_usd, 5),
                 "parse_error": result.parse_error,
             }
-        except Exception as e:  # judge availability varies by installed SDK/credentials
-            out[name] = {"error": str(e)}
     return out
 
 

@@ -8,6 +8,7 @@ judge's bias/blind spots don't set the bar alone — run both and compare, or
 average, per eval/README.md.
 """
 
+import concurrent.futures
 import time
 from dataclasses import dataclass, field
 from typing import Optional
@@ -388,25 +389,45 @@ def judge_subclaims(article_text: str, parsed: dict, judges: list, gpt_judge_mod
             evidence_context = _evidence_context_for_subclaim(contrib, sc.get("evidence_ref"))
             tasks.append((contrib.get("slug", "?"), idx, sc["text"], evidence_context))
 
-    out = {}
+    def _run_one(jname, fn, slug, idx, text, evidence_context):
+        try:
+            r = fn(article_text, text, evidence_context) if jname == "opus" \
+                else fn(article_text, text, evidence_context, model=gpt_judge_model)
+        except Exception as e:
+            r = SubclaimJudgment(verdict="error", parse_error=f"{type(e).__name__}: {e}")
+        return {
+            "contribution_slug": slug, "subclaim_index": idx, "subclaim_text": text,
+            "verdict": r.verdict, "reasoning": r.reasoning, "parse_error": r.parse_error,
+            "cost_usd": r.cost_usd,
+        }
+
+    # Every (judge, subclaim) pair is an independent API call — flatten into
+    # one pool rather than judge-by-judge, subclaim-by-subclaim in sequence,
+    # which made a single article's subclaim judging (potentially dozens of
+    # calls) the real bottleneck even with pair-level --concurrency already
+    # parallelizing across articles. Capped worker count avoids stacking too
+    # much extra concurrency on top of that outer parallelism at once.
+    jobs = []  # (jname, slug, idx, text, evidence_context)
     for jname in judges:
         fn = SUBCLAIM_JUDGES.get(jname)
         if fn is None:
             continue
-        results = []
-        total_cost = 0.0
         for slug, idx, text, evidence_context in tasks:
-            try:
-                r = fn(article_text, text, evidence_context) if jname == "opus" \
-                    else fn(article_text, text, evidence_context, model=gpt_judge_model)
-            except Exception as e:
-                r = SubclaimJudgment(verdict="error", parse_error=f"{type(e).__name__}: {e}")
-            total_cost += r.cost_usd
-            results.append({
-                "contribution_slug": slug, "subclaim_index": idx, "subclaim_text": text,
-                "verdict": r.verdict, "reasoning": r.reasoning, "parse_error": r.parse_error,
-            })
+            jobs.append((jname, fn, slug, idx, text, evidence_context))
 
+    per_judge_results = {jname: [] for jname in judges if SUBCLAIM_JUDGES.get(jname)}
+    if jobs:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=min(8, len(jobs))) as executor:
+            future_to_jname = {
+                executor.submit(_run_one, jname, fn, slug, idx, text, evidence_context): jname
+                for jname, fn, slug, idx, text, evidence_context in jobs
+            }
+            for future in concurrent.futures.as_completed(future_to_jname):
+                per_judge_results[future_to_jname[future]].append(future.result())
+
+    out = {}
+    for jname, results in per_judge_results.items():
+        total_cost = sum(r["cost_usd"] for r in results)
         judged = [r for r in results if r["verdict"] in ("supported", "unsupported", "ambiguous")]
         supported = sum(1 for r in judged if r["verdict"] == "supported")
         unsupported = sum(1 for r in judged if r["verdict"] == "unsupported")
@@ -418,6 +439,6 @@ def judge_subclaims(article_text: str, parsed: dict, judges: list, gpt_judge_mod
             "n_unsupported": unsupported,
             "n_ambiguous": ambiguous,
             "cost_usd": round(total_cost, 6),
-            "results": results,
+            "results": [{k: v for k, v in r.items() if k != "cost_usd"} for r in results],
         }
     return out
