@@ -74,6 +74,15 @@ but the model is paraphrasing anyway — tighten the instruction with a right/wr
 quote that could be found with Ctrl-F in the article; wrong: a rephrased or summarized version of what \
 the article said) rather than just repeating "verbatim" once more.
 
+8. If `citation should include a year and a DOI/URL` is a common validator failure — especially \
+alongside a judge "fabrication" complaint about invented DOIs — do not just tell the model to leave \
+doi_or_url blank when a source has no DOI. That trades one failure for the other: this validator check \
+requires every citation to carry a year AND at least one link, but the link can be ANY real http(s) URL, \
+not specifically a doi.org one — a citation with a year and no link at all still fails it. Instruct the \
+model explicitly: if a source genuinely has no DOI, provide its real URL instead (publisher page, \
+conference proceedings page, ISBN/library record, institutional repository link) — a citation should \
+almost never have a year but zero link, and never invent a DOI or URL that isn't real.
+
 The failure data may also list generation/API errors (rate limits, an expired key, an exhausted \
 account, a model outage) alongside validator and judge issues. Those are infrastructure failures, \
 not prompt-content problems — no wording change to the system prompt fixes a rate limit. Do not \
