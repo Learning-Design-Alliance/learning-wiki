@@ -113,7 +113,21 @@ def generate(
 
         body = resp.json()
         if "error" in body:
-            raise GenerationError(f"OpenRouter error: {body['error']}")
+            # Some upstream providers report their own rate-limit/outage as an
+            # error object inside an otherwise-200 response rather than a real
+            # HTTP 429/5xx — the outer status-code check above never sees it,
+            # so without this it fails hard on the first attempt even when the
+            # message itself says "retry shortly" (observed on
+            # openai/gpt-5.6-luna: {"code": 429, "message": "...temporarily
+            # rate-limited upstream..."}).
+            err = body["error"]
+            err_code = err.get("code") if isinstance(err, dict) else None
+            if (err_code in (429, 402) or (isinstance(err_code, int) and err_code >= 500)) and attempt < MAX_RETRIES:
+                last_error = GenerationError(f"OpenRouter error: {err}")
+                time.sleep(delay)
+                delay *= 2
+                continue
+            raise GenerationError(f"OpenRouter error: {err}")
 
         choice = body["choices"][0]
         # Some providers finish with content in `message.content`, others (rare,
