@@ -382,6 +382,16 @@ def _failure_section(failure_summary: dict, colors: dict) -> str:
             )
             parts.append(f'<p class="subhead">Lowest-scoring articles</p><ul class="issue-list">{items}</ul>')
 
+        if data.get("subclaim_unsupported_samples"):
+            items = "".join(
+                f'<li>({_esc(s["article_id"])}, {_esc(s["judge"])} judge, {_esc(s["contribution_slug"])}): '
+                f'&ldquo;{_esc(s["subclaim_text"])}&rdquo; — {_esc(s["reasoning"])}</li>'
+                for s in data["subclaim_unsupported_samples"]
+            )
+            parts.append(f'<p class="subhead">Subclaim-level judging (FActScore avg: '
+                         f'{_esc(data.get("subclaim_factscore_avg"))}) — unsupported subclaims</p>'
+                         f'<ul class="issue-list">{items}</ul>')
+
         blocks.append(f'<div class="failure-block">{"".join(parts)}</div>')
 
     return f'<div class="card failure-grid">{"".join(blocks)}</div>'

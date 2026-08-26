@@ -83,6 +83,16 @@ model explicitly: if a source genuinely has no DOI, provide its real URL instead
 conference proceedings page, ISBN/library record, institutional repository link) — a citation should \
 almost never have a year but zero link, and never invent a DOI or URL that isn't real.
 
+9. If the failure data includes "Subclaim-level judging" entries, each one names a SPECIFIC subclaim \
+sentence that an independent judge checked in isolation against only its own cited evidence and found \
+unsupported — this is a sharper signal than a whole-extraction judge complaint (which blends everything \
+in one article into one verdict) because it tells you exactly which sentence-and-reason pattern is \
+failing, not just that "omission" or "inaccuracy" happened somewhere. Read the actual subclaim texts and \
+reasons given: if several share a pattern (e.g. the subclaim states a specific number/percentage that \
+isn't in the cited evidence's description, or asserts a causal/comparative claim the evidence only \
+supports descriptively), write a rule or example targeting that specific pattern rather than a generic \
+"be more accurate" reminder — you have the exact failing sentences to calibrate against.
+
 The failure data may also list generation/API errors (rate limits, an expired key, an exhausted \
 account, a model outage) alongside validator and judge issues. Those are infrastructure failures, \
 not prompt-content problems — no wording change to the system prompt fixes a rate limit. Do not \
@@ -119,6 +129,12 @@ def _format_failure_data(failure_summary: dict) -> str:
                              f"issues — see instructions): {data['generation_error_count']} of this "
                              f"model's requests failed outright. Sample: "
                              f"{'; '.join(data['generation_error_samples'][:2])}")
+        if data.get("subclaim_unsupported_samples"):
+            sections.append(f"Subclaim-level judging (FActScore avg: {data.get('subclaim_factscore_avg')}) — "
+                             f"specific subclaims independently judged unsupported by their own evidence:")
+            for s in data["subclaim_unsupported_samples"]:
+                sections.append(f"- ({s['article_id']}, {s['judge']} judge): \"{s['subclaim_text']}\" "
+                                 f"— {s['reasoning']}")
         sections.append("")
     return "\n".join(sections)
 

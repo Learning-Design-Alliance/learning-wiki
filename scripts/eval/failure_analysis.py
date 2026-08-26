@@ -74,6 +74,30 @@ def analyze(by_model: dict, top_n: int = 5, sample_n: int = 5) -> dict:
         gen_errors = [rec["generation"]["error"] for rec in records
                       if (rec.get("generation") or {}).get("error")]
 
+        # FActScore-style subclaim judging (--subclaim-judging), when present,
+        # localizes exactly which subclaim wasn't supported and why — a much
+        # sharper signal than a blended whole-extraction judge complaint. Kept
+        # as a distinct section (not folded into judge_keyword_tally) so the
+        # optimizer can tell "the judge said something vaguely omission-shaped"
+        # from "this specific subclaim text was checked in isolation and found
+        # unsupported."
+        subclaim_factscores = []
+        subclaim_unsupported = []
+        for rec in records:
+            for jname, jdata in (rec.get("subclaim_judgment") or {}).items():
+                if not isinstance(jdata, dict):
+                    continue
+                if jdata.get("factscore") is not None:
+                    subclaim_factscores.append(jdata["factscore"])
+                for r in jdata.get("results", []):
+                    if r.get("verdict") == "unsupported" and len(subclaim_unsupported) < sample_n:
+                        subclaim_unsupported.append({
+                            "article_id": rec["article_id"], "judge": jname,
+                            "contribution_slug": r.get("contribution_slug"),
+                            "subclaim_text": r.get("subclaim_text"),
+                            "reasoning": r.get("reasoning"),
+                        })
+
         summary[model] = {
             "validator_top_issues": validator_top,
             "judge_keyword_tally": dict(keyword_tally.most_common()),
@@ -87,6 +111,9 @@ def analyze(by_model: dict, top_n: int = 5, sample_n: int = 5) -> dict:
             # silently looking like a clean, issue-free run.
             "generation_error_count": len(gen_errors),
             "generation_error_samples": gen_errors[:sample_n],
+            "subclaim_factscore_avg": (round(sum(subclaim_factscores) / len(subclaim_factscores), 3)
+                                        if subclaim_factscores else None),
+            "subclaim_unsupported_samples": subclaim_unsupported,
         }
 
     return summary
@@ -111,5 +138,12 @@ def render_markdown(summary: dict) -> str:
             lines.append("**Lowest-scoring articles:**")
             for w in data["worst_articles"]:
                 lines.append(f"- {w['article_id']}: {w['avg_judge_score']}/5 avg judge score")
+        if data.get("subclaim_unsupported_samples"):
+            lines.append("")
+            lines.append(f"**Subclaim-level judging (FActScore avg: {data.get('subclaim_factscore_avg')}) "
+                          f"— unsupported subclaims:**")
+            for s in data["subclaim_unsupported_samples"]:
+                lines.append(f"- ({s['article_id']}, {s['judge']} judge, {s['contribution_slug']}): "
+                              f"\"{s['subclaim_text']}\" — {s['reasoning']}")
         lines.append("")
     return "\n".join(lines)
