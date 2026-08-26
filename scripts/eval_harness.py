@@ -761,6 +761,72 @@ def _collect_worked_examples(by_model: dict, articles: list, max_examples: int =
     return examples
 
 
+def build_trajectory_digest(history_rows: list, changelog: dict, models: list = None,
+                             max_entries: int = 40) -> dict:
+    """Condenses the FULL cross-run prompt-version history (history.collect()'s
+    output — every run ever produced, not just this invocation's own rounds)
+    into a compact, chronological one-line-per-version digest for the
+    prompt-engineer. Built because a 90+-round trajectory otherwise only
+    lives in a human's memory of scrolling the dashboard — the optimizer
+    itself is stateless per call and has no way to notice "this exact fix
+    was already tried in v47 and regressed" or "the current baseline is way
+    below the best version we've ever hit" without being told explicitly.
+
+    Filtered to `models` when narrowing to a specific roster (see
+    run_batch's --models filtering) so a single-model search doesn't see
+    score noise from unrelated models tested under a shared prompt version.
+    Rows with an ambiguous/multi-version prompt_version string (a run that
+    mixed versions) are skipped rather than misattributed to one version.
+
+    Returns {"entries": [...], "omitted_count": int} — entries oldest to
+    newest; only the most recent `max_entries` are kept if the trajectory
+    is longer than that, with the omitted count surfaced rather than
+    silently dropped (matching the no-silent-truncation convention used
+    elsewhere in this harness)."""
+    if models:
+        history_rows = [r for r in history_rows if r["model"] in models]
+
+    by_version = {}
+    order = []
+    for r in history_rows:
+        v = r.get("prompt_version")
+        if not v or v == "unknown" or "," in v:
+            continue
+        if v not in by_version:
+            by_version[v] = []
+            order.append(v)
+        by_version[v].append(r)
+
+    order.sort(key=lambda v: int(re.sub(r"\D", "", v) or 0))
+
+    entries = []
+    prev_score = None
+    for v in order:
+        rows = by_version[v]
+        scores = [r["avg_judge_score"] for r in rows if r.get("avg_judge_score") is not None]
+        pass_rates = [r["validator_pass_rate"] for r in rows if r.get("validator_pass_rate") is not None]
+        completenesses = [r["avg_completeness_score"] for r in rows if r.get("avg_completeness_score") is not None]
+        avg_score = round(sum(scores) / len(scores), 2) if scores else None
+        entries.append({
+            "version": v,
+            "avg_judge_score": avg_score,
+            "avg_pass_rate": round(sum(pass_rates) / len(pass_rates), 3) if pass_rates else None,
+            "avg_completeness": round(sum(completenesses) / len(completenesses), 3) if completenesses else None,
+            "delta_vs_previous": (round(avg_score - prev_score, 2)
+                                   if avg_score is not None and prev_score is not None else None),
+            "changes_summary": changelog.get(v, ""),
+        })
+        if avg_score is not None:
+            prev_score = avg_score
+
+    omitted_count = 0
+    if len(entries) > max_entries:
+        omitted_count = len(entries) - max_entries
+        entries = entries[-max_entries:]  # keep the most recent — closest to what a new proposal builds on
+
+    return {"entries": entries, "omitted_count": omitted_count}
+
+
 def compute_queue_status(by_model: dict, models: list, total_articles: int, concurrency: int = 1) -> list:
     """Per-model done/error/pending counts against the *intended* model list
     and article count — the answer to "which models are tested, which are
@@ -1266,11 +1332,14 @@ def cmd_optimize(args: argparse.Namespace) -> None:
             break
 
         worked_examples = _collect_worked_examples(by_model, articles)
+        trajectory = build_trajectory_digest(history.collect(RUNS_DIR),
+                                              index_report._load_changelog_summaries(), models=models)
         print(f"Asking Claude Opus to propose a revision to {current_prompt_version} "
-              f"from {current_run_id}'s failure data ({len(worked_examples)} worked example(s))...")
+              f"from {current_run_id}'s failure data ({len(worked_examples)} worked example(s), "
+              f"{len(trajectory['entries'])} prior version(s) in trajectory)...")
         try:
             proposal = optimizer.propose_revision(current_prompt_text, failure_summary,
-                                                   worked_examples=worked_examples)
+                                                   worked_examples=worked_examples, trajectory=trajectory)
         except Exception as e:
             print(f"[ERROR] Prompt proposal failed: {e}")
             sys.exit(1)
@@ -1635,11 +1704,14 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
             break
 
         worked_examples = _collect_worked_examples(by_model, articles)
+        trajectory = build_trajectory_digest(history.collect(RUNS_DIR),
+                                              index_report._load_changelog_summaries(), models=models)
         print(f"Asking Claude Opus to propose a revision to {current_prompt_version} "
-              f"from {current_run_id}'s results ({len(worked_examples)} worked example(s))...")
+              f"from {current_run_id}'s results ({len(worked_examples)} worked example(s), "
+              f"{len(trajectory['entries'])} prior version(s) in trajectory)...")
         try:
             proposal = optimizer.propose_revision(current_prompt_text, failure_summary,
-                                                   worked_examples=worked_examples)
+                                                   worked_examples=worked_examples, trajectory=trajectory)
         except Exception as e:
             error_detail = f"Prompt proposal failed: {type(e).__name__}: {e}"
             print(f"[ERROR] {error_detail}")

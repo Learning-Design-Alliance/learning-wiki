@@ -93,6 +93,21 @@ isn't in the cited evidence's description, or asserts a causal/comparative claim
 supports descriptively), write a rule or example targeting that specific pattern rather than a generic \
 "be more accurate" reminder — you have the exact failing sentences to calibrate against.
 
+10. If a "## Full trajectory so far" section is given, it lists EVERY prompt version ever tried, oldest \
+to newest, with its score/pass-rate/completeness and a summary of what it changed and why — not just \
+this search's own recent rounds. You are stateless between calls; this is the only way you can know what's \
+already been attempted. Use it two ways: (a) Before proposing a new rule or rewrite, check whether an \
+equivalent fix already appears in a past version's summary. If it does and the score didn't hold or \
+improve in the version(s) after it, do not just repeat the same wording again — that will very likely fail \
+the same way. Either identify concretely what the earlier attempt was missing (a right/wrong example, a \
+sharper trigger condition, addressing a different root cause than assumed) or take a genuinely different \
+approach, and say in changes_summary that this is a deliberate retry of an earlier idea and why it should \
+work this time. (b) If the trajectory shows a past version scored meaningfully higher than the CURRENT \
+baseline you were given, and nothing since has recovered that level, say so explicitly in changes_summary \
+— name the version and its score. You cannot revert to it yourself (you can only propose a revision of the \
+prompt you were handed), but a human reviewing your output may want to manually resume from that better \
+version instead of continuing to build on a worse one.
+
 The failure data may also list generation/API errors (rate limits, an expired key, an exhausted \
 account, a model outage) alongside validator and judge issues. Those are infrastructure failures, \
 not prompt-content problems — no wording change to the system prompt fixes a rate limit. Do not \
@@ -139,6 +154,26 @@ def _format_failure_data(failure_summary: dict) -> str:
     return "\n".join(sections)
 
 
+def _format_trajectory(trajectory: dict) -> str:
+    entries = (trajectory or {}).get("entries")
+    if not entries:
+        return ""
+    lines = []
+    omitted = trajectory.get("omitted_count", 0)
+    if omitted:
+        lines.append(f"(showing the {len(entries)} most recent of {len(entries) + omitted} total prompt "
+                      f"versions tried; earlier ones omitted for length)")
+    for e in entries:
+        score = f"{e['avg_judge_score']:.2f}/5" if e["avg_judge_score"] is not None else "?"
+        pass_rate = f"{e['avg_pass_rate'] * 100:.0f}%" if e["avg_pass_rate"] is not None else "?"
+        completeness = f"{e['avg_completeness'] * 100:.0f}%" if e["avg_completeness"] is not None else "?"
+        delta = f" (Δ{e['delta_vs_previous']:+.2f})" if e["delta_vs_previous"] is not None else ""
+        summary = (e["changes_summary"] or "(no summary recorded)")[:160].replace("\n", " ")
+        lines.append(f"- {e['version']}: score {score}{delta}, pass {pass_rate}, complete {completeness} "
+                      f"— {summary}")
+    return "\n".join(lines)
+
+
 def _format_worked_examples(worked_examples: list) -> str:
     blocks = []
     for ex in worked_examples:
@@ -150,12 +185,19 @@ def _format_worked_examples(worked_examples: list) -> str:
     return "\n\n".join(blocks)
 
 
-def build_user_prompt(current_prompt: str, failure_summary: dict, worked_examples: list = None) -> str:
+def build_user_prompt(current_prompt: str, failure_summary: dict, worked_examples: list = None,
+                       trajectory: dict = None) -> str:
     examples_block = _format_worked_examples(worked_examples) if worked_examples else ""
     examples_section = (
         f"\n\n## Worked examples from this run (validator-clean, high judge score — real "
         f"demonstrations to calibrate against, not to copy verbatim)\n\n{examples_block}\n"
         if examples_block else ""
+    )
+    trajectory_block = _format_trajectory(trajectory)
+    trajectory_section = (
+        f"\n\n## Full trajectory so far (every prompt version tried across every test run, oldest to "
+        f"newest — not just this search's own rounds)\n\n{trajectory_block}\n"
+        if trajectory_block else ""
     )
     return f"""## Current system prompt
 
@@ -164,12 +206,12 @@ def build_user_prompt(current_prompt: str, failure_summary: dict, worked_example
 ## Failure data from the last test batch
 
 {_format_failure_data(failure_summary)}
-{examples_section}
+{examples_section}{trajectory_section}
 Produce a revised system prompt addressing these specific patterns, per the rules in your instructions."""
 
 
 def propose_revision(current_prompt: str, failure_summary: dict, worked_examples: list = None,
-                      model: str = "claude-opus-5") -> dict:
+                      trajectory: dict = None, model: str = "claude-opus-5") -> dict:
     """Returns {revised_prompt, changes_summary, input_tokens, output_tokens, latency_s}.
     worked_examples (optional, see eval_harness.py's _collect_worked_examples) are real
     (article excerpt, high-scoring extraction) pairs from the baseline run itself — concrete
@@ -177,7 +219,7 @@ def propose_revision(current_prompt: str, failure_summary: dict, worked_examples
     import anthropic
 
     client = anthropic.Anthropic()
-    user_prompt = build_user_prompt(current_prompt, failure_summary, worked_examples)
+    user_prompt = build_user_prompt(current_prompt, failure_summary, worked_examples, trajectory)
 
     start = time.monotonic()
     # Non-streaming was capped at 16000 max_tokens (the safe ceiling for a
