@@ -35,8 +35,10 @@ def project(rows: list, sizes: list = None, qa_sample_rate: float = DEFAULT_QA_S
         if not n:
             continue
         gen_per_article = (r.get("total_generation_cost_usd") or 0) / n
-        judge_cost_total = (r.get("judge_opus_total_cost_usd") or 0) + (r.get("judge_gpt_total_cost_usd") or 0)
-        n_judged = sum(1 for k in ("judge_opus_avg_score", "judge_gpt_avg_score") if r.get(k) is not None)
+        judge_cost_total = ((r.get("judge_opus_total_cost_usd") or 0) + (r.get("judge_gpt_total_cost_usd") or 0)
+                            + (r.get("judge_gemini_total_cost_usd") or 0))
+        n_judged = sum(1 for k in ("judge_opus_avg_score", "judge_gpt_avg_score", "judge_gemini_avg_score")
+                       if r.get(k) is not None)
         judge_per_article = (judge_cost_total / n) if n_judged else 0.0
 
         for size in sizes:

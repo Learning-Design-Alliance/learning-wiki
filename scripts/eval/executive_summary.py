@@ -30,7 +30,7 @@ VALIDATOR_ID_FIELD_HINT = "id"
 
 
 def _model_quality(row: dict) -> float:
-    scores = [row.get("judge_opus_avg_score"), row.get("judge_gpt_avg_score")]
+    scores = [row.get("judge_opus_avg_score"), row.get("judge_gpt_avg_score"), row.get("judge_gemini_avg_score")]
     scores = [s for s in scores if s is not None]
     return sum(scores) / len(scores) if scores else None
 

@@ -449,6 +449,8 @@ class Handler(SimpleHTTPRequestHandler):
             run_args += ["--max-tokens", str(meta["max_tokens"])]
         if meta.get("gpt_judge_model"):
             run_args += ["--gpt-judge-model", meta["gpt_judge_model"]]
+        if meta.get("gemini_judge_model"):
+            run_args += ["--gemini-judge-model", meta["gemini_judge_model"]]
         if meta.get("concurrency"):
             run_args += ["--concurrency", str(meta["concurrency"])]
         if meta.get("max_correction_attempts"):

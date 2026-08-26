@@ -88,11 +88,18 @@ For each (model, article) pair:
    contribution, not invented)? This is the "did it accurately complete all
    required fields" half of quality — no LLM involved, so it's free and
    exactly reproducible.
-3. **LLM judging** (`scripts/eval/judge.py`) — Claude Opus 5 and/or an OpenAI
-   model read the *original article* plus the extraction and score
-   faithfulness, accuracy, completeness, and schema fit 1-5, flagging any
-   fabricated citation or finding. This is the half a structural check can't
-   catch: does the content actually say what the article says?
+3. **LLM judging** (`scripts/eval/judge.py`) — any of Claude Opus 5, an OpenAI
+   model, and/or a Gemini model (`--judges opus gpt gemini`) read the
+   *original article* plus the extraction and score faithfulness, accuracy,
+   completeness, and schema fit 1-5, flagging any fabricated citation or
+   finding. This is the half a structural check can't catch: does the
+   content actually say what the article says? The `gemini` judge runs via
+   OpenRouter (`--gemini-judge-model`, default `google/gemini-3.7-flash`) —
+   no separate credential needed. It exists mainly so a model under test
+   from the same provider as one of the other judges (e.g. testing
+   `openai/gpt-5.6-luna` while `--judges` includes `gpt`) still gets at
+   least one judge from an independent model family, rather than a model
+   grading its own family's homework.
 
 ## Reading the report
 

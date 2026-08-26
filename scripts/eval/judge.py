@@ -120,10 +120,15 @@ def judge_with_claude(article_text: str, extraction_json_text: str,
 
 
 def judge_with_openai(article_text: str, extraction_json_text: str,
-                       model: str = "gpt-5.6") -> JudgeResult:
-    """Requires OPENAI_API_KEY. `model` defaults to the id given at design time —
-    verify it against your OpenAI account's available models before a real run;
-    swap via --gpt-judge-model if it's since been renamed/retired."""
+                       model: str = "gpt-5.6-luna") -> JudgeResult:
+    """Requires OPENAI_API_KEY. Defaults to the "luna" tier (cheapest/fastest) —
+    this is a scoring/audit task against a fixed rubric, not open-ended
+    reasoning, and it runs once per (model, article) pair every batch, so the
+    flagship "sol" tier (what the bare "gpt-5.6" alias resolves to) is not
+    worth its ~25x input / ~25x output price premium here. Swap via
+    --gpt-judge-model if you want a stronger tier for a specific run.
+    The system prompt is static and placed first so OpenAI's automatic
+    prompt-caching can discount it on repeat calls within the same run."""
     from openai import OpenAI
 
     client = OpenAI()
@@ -144,6 +149,9 @@ def judge_with_openai(article_text: str, extraction_json_text: str,
     parsed, parse_error = _parse_judge_response(raw_text)
 
     usage = response.usage
+    cached_tokens = 0
+    if usage and getattr(usage, "prompt_tokens_details", None):
+        cached_tokens = getattr(usage.prompt_tokens_details, "cached_tokens", 0) or 0
     result = JudgeResult(
         judge_name=model,
         latency_s=latency,
@@ -151,7 +159,41 @@ def judge_with_openai(article_text: str, extraction_json_text: str,
         output_tokens=usage.completion_tokens if usage else 0,
         parse_error=parse_error,
     )
-    result.cost_usd = judge_cost("gpt-5.6", result.input_tokens, result.output_tokens)
+    result.cost_usd = judge_cost(model, result.input_tokens, result.output_tokens, cached_tokens)
+    if parsed:
+        result.scores = {k: parsed[k] for k in ("faithfulness", "accuracy", "completeness", "schema_fit") if k in parsed}
+        result.verdict = parsed.get("verdict", "error")
+        result.issues = parsed.get("issues", [])
+    return result
+
+
+def judge_with_gemini(article_text: str, extraction_json_text: str, api_key: str,
+                       model: str = "google/gemini-3.7-flash") -> JudgeResult:
+    """Via OpenRouter, reusing the same credential the harness already uses
+    for generation — no new API key to provision. Exists specifically so a
+    model under test that shares a lineage with another judge (e.g. an
+    OpenAI extraction model graded only by an OpenAI judge) still gets at
+    least one judge from an independent model family, rather than a model
+    marking its own homework."""
+    from . import openrouter_client
+
+    user_prompt = build_judge_user_prompt(article_text, extraction_json_text)
+    start = time.monotonic()
+    try:
+        gen = openrouter_client.generate(model, JUDGE_SYSTEM_PROMPT, user_prompt, api_key, max_tokens=2048)
+    except openrouter_client.GenerationError as e:
+        return JudgeResult(judge_name=model, parse_error=str(e))
+    latency = time.monotonic() - start
+
+    parsed, parse_error = _parse_judge_response(gen.raw_text)
+    result = JudgeResult(
+        judge_name=model,
+        latency_s=latency,
+        input_tokens=gen.prompt_tokens,
+        output_tokens=gen.completion_tokens,
+        parse_error=parse_error,
+    )
+    result.cost_usd = gen.cost_usd or 0.0
     if parsed:
         result.scores = {k: parsed[k] for k in ("faithfulness", "accuracy", "completeness", "schema_fit") if k in parsed}
         result.verdict = parsed.get("verdict", "error")
@@ -162,6 +204,7 @@ def judge_with_openai(article_text: str, extraction_json_text: str,
 JUDGES = {
     "opus": judge_with_claude,
     "gpt": judge_with_openai,
+    "gemini": judge_with_gemini,
 }
 
 
@@ -254,7 +297,7 @@ def judge_subclaim_with_claude(article_text: str, subclaim_text: str, evidence_c
 
 
 def judge_subclaim_with_openai(article_text: str, subclaim_text: str, evidence_context: str,
-                                model: str = "gpt-5.6") -> SubclaimJudgment:
+                                model: str = "gpt-5.6-luna") -> SubclaimJudgment:
     from openai import OpenAI
 
     client = OpenAI()
@@ -275,13 +318,16 @@ def judge_subclaim_with_openai(article_text: str, subclaim_text: str, evidence_c
     parsed, parse_error = _parse_judge_response(raw_text)
 
     usage = response.usage
+    cached_tokens = 0
+    if usage and getattr(usage, "prompt_tokens_details", None):
+        cached_tokens = getattr(usage.prompt_tokens_details, "cached_tokens", 0) or 0
     result = SubclaimJudgment(
         latency_s=latency,
         input_tokens=usage.prompt_tokens if usage else 0,
         output_tokens=usage.completion_tokens if usage else 0,
         parse_error=parse_error,
     )
-    result.cost_usd = judge_cost("gpt-5.6", result.input_tokens, result.output_tokens)
+    result.cost_usd = judge_cost(model, result.input_tokens, result.output_tokens, cached_tokens)
     if parsed:
         result.verdict = parsed.get("verdict", "error")
         result.reasoning = parsed.get("reasoning", "")
@@ -313,7 +359,7 @@ def _evidence_context_for_subclaim(contrib: dict, evidence_ref) -> str:
     return "(no matching evidence entry found for this subclaim's evidence_ref)"
 
 
-def judge_subclaims(article_text: str, parsed: dict, judges: list, gpt_judge_model: str = "gpt-5.6") -> dict:
+def judge_subclaims(article_text: str, parsed: dict, judges: list, gpt_judge_model: str = "gpt-5.6-luna") -> dict:
     """FActScore-style (Min et al., EMNLP 2023): instead of one holistic
     score for a whole extraction, judge each atomic subclaim independently
     and aggregate the fraction "supported" into a factscore. A blended

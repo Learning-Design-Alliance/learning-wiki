@@ -38,6 +38,7 @@ METRICS = [
     ("avg_completeness_score", "Avg completeness", "%", 0, 100),
     ("judge_opus_avg_score", "Opus judge avg (of 5)", "", 2, 5),
     ("judge_gpt_avg_score", "GPT judge avg (of 5)", "", 2, 5),
+    ("judge_gemini_avg_score", "Gemini judge avg (of 5)", "", 2, 5),
 ]
 
 
@@ -112,7 +113,7 @@ def _scatter_chart(rows: list, colors: dict) -> str:
     for r in rows:
         n = r.get("n_articles") or 0
         cost = (r.get("total_generation_cost_usd") or 0) / n if n else None
-        scores = [r.get("judge_opus_avg_score"), r.get("judge_gpt_avg_score")]
+        scores = [r.get("judge_opus_avg_score"), r.get("judge_gpt_avg_score"), r.get("judge_gemini_avg_score")]
         scores = [s for s in scores if s is not None]
         quality = sum(scores) / len(scores) if scores else None
         if cost is None or quality is None:
@@ -222,6 +223,7 @@ def _detail_table(by_model: dict, colors: dict) -> str:
             judges = rec.get("judges") or {}
             opus = judges.get("opus", {}).get("average_score")
             gpt = judges.get("gpt", {}).get("average_score")
+            gemini = judges.get("gemini", {}).get("average_score")
 
             if "error" in gen:
                 status_html = '<span class="status-dot" style="background:var(--status-critical)"></span> Gen error'
@@ -241,21 +243,22 @@ def _detail_table(by_model: dict, colors: dict) -> str:
           <td class="num">{_fmt(gen.get('latency_s'), 's', 1)}</td>
           <td class="num">{_fmt(opus, '', 2)}</td>
           <td class="num">{_fmt(gpt, '', 2)}</td>
+          <td class="num">{_fmt(gemini, '', 2)}</td>
         </tr>
         <tr class="detail-row" id="{row_id}">
-          <td colspan="9">{_detail_panel(rec, val, judges)}</td>
+          <td colspan="10">{_detail_panel(rec, val, judges)}</td>
         </tr>""")
 
     return f"""
     <table class="detail-table article-detail-table">
       <colgroup>
-        <col style="width:3%"><col style="width:15%"><col style="width:27%">
-        <col style="width:11%"><col style="width:11%"><col style="width:9%">
-        <col style="width:8%"><col style="width:8%"><col style="width:8%">
+        <col style="width:3%"><col style="width:13%"><col style="width:24%">
+        <col style="width:10%"><col style="width:10%"><col style="width:8%">
+        <col style="width:7%"><col style="width:7%"><col style="width:7%"><col style="width:7%">
       </colgroup>
       <thead>
         <tr><th></th><th>Model</th><th>Article</th><th>Status</th><th>Completeness</th>
-            <th>Cost</th><th>Latency</th><th>Opus</th><th>GPT</th></tr>
+            <th>Cost</th><th>Latency</th><th>Opus</th><th>GPT</th><th>Gemini</th></tr>
       </thead>
       <tbody>{''.join(rows_html)}</tbody>
     </table>"""

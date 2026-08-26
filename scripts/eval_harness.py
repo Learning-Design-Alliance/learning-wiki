@@ -36,8 +36,11 @@ Options (run):
     --models        space-separated OpenRouter model slugs (required)
     --articles      space-separated article ids to restrict to (default: whole manifest)
     --limit         cap number of articles per model (default: all)
-    --judges        space-separated judge names: opus, gpt (default: both)
-    --gpt-judge-model  override the OpenAI judge model id (default: gpt-5.6)
+    --judges        space-separated judge names: opus, gpt, gemini (default: opus + gpt)
+    --gpt-judge-model    override the OpenAI judge model id (default: gpt-5.6-luna)
+    --gemini-judge-model override the OpenRouter Gemini judge model id (default: google/gemini-3.7-flash) —
+                         useful as an independent-lineage judge when an OpenAI model (e.g. gpt-5.6-luna)
+                         is itself in --models, so it isn't graded solely by an OpenAI judge
     --run-id        reuse an existing run directory instead of starting a new one
     --overwrite     re-generate even if a cached result already exists
     --refresh-cache force re-fetch of article text (bypasses the article text cache)
@@ -177,7 +180,7 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
             judges: list, gpt_judge_model: str, max_tokens: int, refresh_cache: bool = False,
             prompt_version: str = None, max_correction_attempts: int = 0, ground_truth: bool = False,
             require_source_quotes: bool = False, consistency_samples: int = 1,
-            subclaim_judging: bool = False) -> dict:
+            subclaim_judging: bool = False, gemini_judge_model: str = "google/gemini-3.7-flash") -> dict:
     """max_correction_attempts=0 (default) is exactly the original single-shot
     behavior — this matters for benchmark integrity: the whole point of
     `run`/`optimize`/`auto-optimize` is measuring how a model does on its
@@ -283,7 +286,8 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
 
     if parsed:
         try:
-            record["judges"] = run_judges(article_text, parsed, judges, gpt_judge_model)
+            record["judges"] = run_judges(article_text, parsed, judges, gpt_judge_model,
+                                           api_key=api_key, gemini_judge_model=gemini_judge_model)
         except Exception as e:
             record["judges"] = {"error": f"judging crashed: {type(e).__name__}: {e}"}
 
@@ -335,7 +339,8 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
     return record
 
 
-def run_judges(article_text: str, parsed: dict, judges: list, gpt_judge_model: str) -> dict:
+def run_judges(article_text: str, parsed: dict, judges: list, gpt_judge_model: str,
+                api_key: str = None, gemini_judge_model: str = "google/gemini-3.7-flash") -> dict:
     extraction_text = json.dumps(parsed, indent=2)
     out = {}
     for name in judges:
@@ -344,6 +349,8 @@ def run_judges(article_text: str, parsed: dict, judges: list, gpt_judge_model: s
                 result = judge.judge_with_claude(article_text, extraction_text)
             elif name == "gpt":
                 result = judge.judge_with_openai(article_text, extraction_text, model=gpt_judge_model)
+            elif name == "gemini":
+                result = judge.judge_with_gemini(article_text, extraction_text, api_key, model=gemini_judge_model)
             else:
                 continue
             out[name] = {
@@ -361,11 +368,12 @@ def run_judges(article_text: str, parsed: dict, judges: list, gpt_judge_model: s
 
 
 def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: str,
-              gpt_judge_model: str = "gpt-5.6", max_tokens: int = 8000, overwrite: bool = False,
+              gpt_judge_model: str = "gpt-5.6-luna", max_tokens: int = 8000, overwrite: bool = False,
               refresh_cache: bool = False, prompt_version: str = None, concurrency: int = 1,
               max_correction_attempts: int = 0, retry_errors_only: bool = False,
               ground_truth: bool = False, require_source_quotes: bool = False,
-              consistency_samples: int = 1, subclaim_judging: bool = False) -> Path:
+              consistency_samples: int = 1, subclaim_judging: bool = False,
+              gemini_judge_model: str = "google/gemini-3.7-flash") -> Path:
     """The actual (model x article) loop, shared by `run`, `optimize`, and
     `auto-optimize` — the latter two call this directly (not through
     argparse) to run each candidate prompt against the same articles as the
@@ -419,6 +427,7 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
         "judges": judges,
         "max_tokens": max_tokens,
         "gpt_judge_model": gpt_judge_model,
+        "gemini_judge_model": gemini_judge_model,
         "concurrency": concurrency,
         "max_correction_attempts": max_correction_attempts,
         "ground_truth": ground_truth,
@@ -467,7 +476,8 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
                               max_tokens, refresh_cache=refresh_cache, prompt_version=prompt_version,
                               max_correction_attempts=max_correction_attempts, ground_truth=ground_truth,
                               require_source_quotes=require_source_quotes,
-                              consistency_samples=consistency_samples, subclaim_judging=subclaim_judging)
+                              consistency_samples=consistency_samples, subclaim_judging=subclaim_judging,
+                              gemini_judge_model=gemini_judge_model)
         except fetch_article.FetchError as e:
             with print_lock:
                 state["done"] += 1
@@ -527,7 +537,8 @@ def cmd_run(args: argparse.Namespace) -> None:
         articles = articles[:args.limit]
 
     run_batch(args.models, articles, args.judges, run_id, api_key,
-              gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
+              gpt_judge_model=args.gpt_judge_model, gemini_judge_model=args.gemini_judge_model,
+              max_tokens=args.max_tokens,
               overwrite=args.overwrite, refresh_cache=args.refresh_cache,
               prompt_version=args.prompt_version, concurrency=args.concurrency,
               max_correction_attempts=args.max_correction_attempts,
@@ -543,6 +554,11 @@ def cmd_spotcheck(args: argparse.Namespace) -> None:
     run_dir = RUNS_DIR / args.run_id
     if not run_dir.exists():
         print(f"[ERROR] No run directory: {run_dir}")
+        sys.exit(1)
+
+    api_key = os.environ.get("OPENROUTER_API_KEY")
+    if "gemini" in args.judges and not api_key:
+        print("[ERROR] OPENROUTER_API_KEY environment variable not set (required for --judges gemini).")
         sys.exit(1)
 
     existing_slugs = get_existing_slugs()
@@ -590,7 +606,8 @@ def cmd_spotcheck(args: argparse.Namespace) -> None:
             article_text = fetch_article.fetch_article_text(
                 next(a for a in load_manifest() if a["id"] == record["article_id"])
             )
-            record["judges"] = run_judges(article_text, parsed, args.judges, args.gpt_judge_model)
+            record["judges"] = run_judges(article_text, parsed, args.judges, args.gpt_judge_model,
+                                           api_key=api_key, gemini_judge_model=args.gemini_judge_model)
 
         path.write_text(json.dumps(record, indent=2), encoding="utf-8")
 
@@ -619,7 +636,7 @@ def compute_rows(run_dir: Path) -> tuple:
         avg_completeness = sum(v["completeness_score"] for v in vals) / len(vals) if vals else 0
 
         judge_summaries = {}
-        for jname in ("opus", "gpt"):
+        for jname in ("opus", "gpt", "gemini"):
             scores = [r["judges"][jname]["average_score"] for r in records
                       if r.get("judges", {}).get(jname, {}).get("average_score") is not None]
             costs = [r["judges"][jname].get("cost_usd", 0) for r in records if jname in r.get("judges", {})]
@@ -1223,7 +1240,8 @@ def cmd_optimize(args: argparse.Namespace) -> None:
         print(f"Running {new_version} as '{new_run_id}' against the same {len(articles)} article(s) "
               f"and {len(models)} model(s) as {current_run_id}...")
         run_batch(models, articles, args.judges, new_run_id, api_key,
-                  gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens, prompt_version=new_version,
+                  gpt_judge_model=args.gpt_judge_model, gemini_judge_model=args.gemini_judge_model,
+                  max_tokens=args.max_tokens, prompt_version=new_version,
                   max_correction_attempts=args.max_correction_attempts, ground_truth=args.ground_truth,
                   require_source_quotes=args.require_source_quotes,
                   consistency_samples=args.consistency_samples)
@@ -1571,7 +1589,8 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
               f"{len(articles)} article(s) (concurrency={args.concurrency})...")
 
         run_batch(models, articles, args.judges, new_run_id, api_key,
-                  gpt_judge_model=args.gpt_judge_model, max_tokens=args.max_tokens,
+                  gpt_judge_model=args.gpt_judge_model, gemini_judge_model=args.gemini_judge_model,
+                  max_tokens=args.max_tokens,
                   prompt_version=new_version, concurrency=args.concurrency,
                   max_correction_attempts=args.max_correction_attempts, ground_truth=args.ground_truth,
                   require_source_quotes=args.require_source_quotes,
@@ -1634,8 +1653,9 @@ def main() -> None:
     p_run.add_argument("--models", nargs="+", required=True)
     p_run.add_argument("--articles", nargs="+", default=None, help="Article ids to restrict to (default: all)")
     p_run.add_argument("--limit", type=int, default=None)
-    p_run.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt"])
-    p_run.add_argument("--gpt-judge-model", default="gpt-5.6")
+    p_run.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt", "gemini"])
+    p_run.add_argument("--gpt-judge-model", default="gpt-5.6-luna")
+    p_run.add_argument("--gemini-judge-model", default="google/gemini-3.7-flash")
     p_run.add_argument("--run-id", default=None)
     p_run.add_argument("--overwrite", action="store_true")
     p_run.add_argument("--retry-errors-only", action="store_true",
@@ -1685,9 +1705,10 @@ def main() -> None:
     p_spot.add_argument("--run-id", required=True)
     p_spot.add_argument("--models", nargs="+", default=None)
     p_spot.add_argument("--n", type=int, default=None, help="Limit to first N cached results")
-    p_spot.add_argument("--judges", nargs="+", default=[], choices=["opus", "gpt"],
+    p_spot.add_argument("--judges", nargs="+", default=[], choices=["opus", "gpt", "gemini"],
                          help="Judges to (re-)run; omit to only re-run the structural validator")
-    p_spot.add_argument("--gpt-judge-model", default="gpt-5.6")
+    p_spot.add_argument("--gpt-judge-model", default="gpt-5.6-luna")
+    p_spot.add_argument("--gemini-judge-model", default="google/gemini-3.7-flash")
     p_spot.add_argument("--ground-truth", action="store_true",
                          help="Live-verify each cached extraction's citations against Crossref/arXiv — the "
                               "cheapest way to try this, since it re-uses already-generated output for free.")
@@ -1728,8 +1749,9 @@ def main() -> None:
         help="Auto-iterate the extraction prompt: propose a revision from a run's failures, re-run, compare, keep only if improved")
     p_opt.add_argument("--baseline-run", required=True, help="Run id to start from")
     p_opt.add_argument("--models", nargs="+", default=None, help="Default: every model present in the baseline run")
-    p_opt.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt"])
-    p_opt.add_argument("--gpt-judge-model", default="gpt-5.6")
+    p_opt.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt", "gemini"])
+    p_opt.add_argument("--gpt-judge-model", default="gpt-5.6-luna")
+    p_opt.add_argument("--gemini-judge-model", default="google/gemini-3.7-flash")
     p_opt.add_argument("--max-tokens", type=int, default=8000)
     p_opt.add_argument("--max-correction-attempts", type=int, default=0,
                         help="Let the model retry up to N times after a validator failure (default: 0). "
@@ -1757,8 +1779,9 @@ def main() -> None:
              "until the time budget or round cap is hit or nothing is left to react to")
     p_auto.add_argument("--baseline-run", required=True, help="Run id to start from")
     p_auto.add_argument("--models", nargs="+", default=None, help="Default: every model present in the baseline run")
-    p_auto.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt"])
-    p_auto.add_argument("--gpt-judge-model", default="gpt-5.6")
+    p_auto.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt", "gemini"])
+    p_auto.add_argument("--gpt-judge-model", default="gpt-5.6-luna")
+    p_auto.add_argument("--gemini-judge-model", default="google/gemini-3.7-flash")
     p_auto.add_argument("--max-tokens", type=int, default=8000)
     p_auto.add_argument("--max-correction-attempts", type=int, default=0,
                          help="Let each round's test retry up to N times after a validator failure (default: 0). "

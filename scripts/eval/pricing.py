@@ -20,11 +20,22 @@ MODELS_CACHE_TTL = 24 * 3600
 # models are priced live via fetch_openrouter_pricing() instead — this table
 # only covers the fixed judge calls (Anthropic + OpenAI), which OpenRouter
 # doesn't quote. Update if the judge models or list prices change.
+# Per-model input rate CACHED_INPUT_DISCOUNT applies to (both Anthropic and
+# OpenAI give ~90% off a cache-read hit; verify against
+# https://openai.com/api/pricing / https://anthropic.com/pricing before
+# relying on this for a real budget).
+CACHED_INPUT_DISCOUNT = 0.9
 JUDGE_PRICES_PER_MTOK = {
     "claude-opus-5": (5.00, 25.00),
-    # OpenAI pricing as of the model's announcement; verify against
-    # https://openai.com/api/pricing before relying on this for a real budget.
-    "gpt-5.6": (5.00, 15.00),
+    # bare "gpt-5.6" is an OpenAI API alias that resolves to the flagship
+    # "sol" tier, not the cheaper "luna"/"terra" tiers — keep it here for any
+    # caller that still passes the bare alias, but judge.py's own defaults
+    # point at gpt-5.6-luna since a judging/scoring task doesn't need
+    # flagship-tier reasoning depth.
+    "gpt-5.6": (5.00, 30.00),
+    "gpt-5.6-sol": (5.00, 30.00),
+    "gpt-5.6-terra": (2.00, 12.00),
+    "gpt-5.6-luna": (0.20, 1.20),
 }
 
 
@@ -106,10 +117,18 @@ def fetch_generation_cost(generation_id: str, api_key: str,
     return None
 
 
-def judge_cost(judge_key: str, input_tokens: int, output_tokens: int) -> float:
-    """$ cost for one judge call, from the fixed JUDGE_PRICES_PER_MTOK table."""
+def judge_cost(judge_key: str, input_tokens: int, output_tokens: int, cached_input_tokens: int = 0) -> float:
+    """$ cost for one judge call, from the fixed JUDGE_PRICES_PER_MTOK table.
+    cached_input_tokens (a subset of input_tokens, per the API's own
+    prompt-caching usage field) are billed at CACHED_INPUT_DISCOUNT off —
+    both judge system prompts are static and precede the per-article content,
+    so a run that repeats the same article across models legitimately hits
+    cache on the shared prefix."""
     prices = JUDGE_PRICES_PER_MTOK.get(judge_key)
     if not prices:
         return 0.0
     in_price, out_price = prices
-    return (input_tokens * in_price + output_tokens * out_price) / 1_000_000
+    cached_input_tokens = min(cached_input_tokens, input_tokens)
+    uncached_tokens = input_tokens - cached_input_tokens
+    input_cost = uncached_tokens * in_price + cached_input_tokens * in_price * (1 - CACHED_INPUT_DISCOUNT)
+    return (input_cost + output_tokens * out_price) / 1_000_000
