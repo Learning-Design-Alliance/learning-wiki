@@ -1204,6 +1204,16 @@ def cmd_optimize(args: argparse.Namespace) -> None:
             sys.exit(1)
 
         models = args.models or sorted(by_model.keys())
+        if args.models:
+            # A narrowed --models must also narrow what the prompt-engineer
+            # learns from — otherwise "optimize just gemma-4" still gets fed
+            # every other model's failures from the baseline run, which is
+            # exactly the cross-model prompt bloat this narrowing is meant
+            # to escape.
+            by_model = {m: recs for m, recs in by_model.items() if m in models}
+            if not by_model:
+                print(f"[ERROR] None of {models} have completed results in {current_run_id}.")
+                sys.exit(1)
         article_ids = sorted({rec["article_id"] for records in by_model.values() for rec in records})
         articles = load_manifest(article_ids)
         if not articles:
@@ -1542,6 +1552,19 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
             sys.exit(1)
 
         models = args.models or sorted(by_model.keys())
+        if args.models:
+            # A narrowed --models must also narrow what the prompt-engineer
+            # learns from — otherwise "optimize just gemma-4" still gets fed
+            # every other model's failures from the baseline run, which is
+            # exactly the cross-model prompt bloat this narrowing is meant
+            # to escape.
+            by_model = {m: recs for m, recs in by_model.items() if m in models}
+            if not by_model:
+                error_detail = f"None of {models} have completed results in {current_run_id}."
+                print(f"[ERROR] {error_detail}")
+                _write_state(round_num - 1, "stopped_error", error_detail=error_detail)
+                sys.exit(1)
+            base_rows = [r for r in base_rows if r["model"] in models]
         article_ids = sorted({rec["article_id"] for records in by_model.values() for rec in records})
         articles = load_manifest(article_ids)
         if not articles:
