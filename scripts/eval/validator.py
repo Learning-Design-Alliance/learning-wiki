@@ -15,7 +15,15 @@ from dataclasses import dataclass, field
 
 from . import consistency, ground_truth
 
-ALLOWED_TYPES = {"claim", "principle", "element", "pattern", "strategy", "theory"}
+ALLOWED_TYPES = {"claim", "principle", "element", "pattern", "strategy", "theory", "learner-variable"}
+# learner-variable is schema-ready but not yet requested by any prompt version's
+# output contract (v99 included) — deliberately deferred to a dedicated future
+# sweep rather than adding a fourth job for the already-strained extraction
+# prompt to juggle alongside claims/omission/fabrication. Present here now so
+# the wiki-side schema (folder, templates, indexing) doesn't need another
+# retrofit once that sweep exists — see eval/corpus/processed_articles.json's
+# module docstring in discover_articles.py for the related "don't re-process"
+# infrastructure it will reuse.
 SLUG_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 EVIDENCE_TAG_RE = re.compile(r"^[+~-][SMW]$|^X$")
 YEAR_RE = re.compile(r"\b(19|20)\d{2}[a-z]?\b")

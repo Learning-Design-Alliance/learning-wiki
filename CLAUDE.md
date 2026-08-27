@@ -1,6 +1,6 @@
 # Learning Design Wiki — Agent Operating Guide
 
-This is a **persistent, LLM-maintained knowledge base** for learning design. The wiki compiles design principles, instructional patterns, elements, strategies, theories, and empirical claims into a structured, cross-linked reference.
+This is a **persistent, LLM-maintained knowledge base** for learning design. The wiki compiles design principles, instructional patterns, elements, strategies, theories, learner variables, and empirical claims into a structured, cross-linked reference.
 
 **You never write the wiki yourself.** The LLM reads sources, ingests new content, cross-links pages, and keeps schemas consistent. You source materials and ask questions.
 
@@ -14,7 +14,7 @@ The wiki is a bundle in the [Open Knowledge Format (OKF) v0.2](https://github.co
 Process a new source (paper, book chapter, CSV batch, worked example) into wiki pages.
 
 Steps:
-1. Identify the page type(s) the source contributes to (principle, element, pattern, strategy, theory, claim)
+1. Identify the page type(s) the source contributes to (principle, element, pattern, strategy, theory, learner-variable, claim). `learner-variable` is schema-ready but not yet part of the automated single-pass extraction prompt (deliberately deferred to a dedicated future sweep, so the extraction agent isn't juggling a fourth job on top of claims/omission/fabrication) — for now, factor a learner-variable page out by hand when a claim reports a finding about a learner characteristic (e.g. "X predicts/moderates Y outcome"), rather than leaving it as a bare, unlinked claim.
 2. Check if a page already exists (`index.md` or `grep` by name)
 3. If new: create a page in the correct folder using the template below
 4. If existing: merge new content into the right sections; append to `## Key Sources` (or `## Evidence` for claims); log the change
@@ -83,11 +83,11 @@ Always link the tag to a claim page: `[Claim statement](../claims/example-claim.
 
 ## Frontmatter fields
 
-Every content page (principle, element, pattern, strategy, theory, claim) carries this OKF-conformant frontmatter:
+Every content page (principle, element, pattern, strategy, theory, learner-variable, claim) carries this OKF-conformant frontmatter:
 
 | Field | Required | Meaning |
 |-------|----------|---------|
-| `type` | Yes | `principle` \| `element` \| `pattern` \| `strategy` \| `theory` \| `claim` |
+| `type` | Yes | `principle` \| `element` \| `pattern` \| `strategy` \| `theory` \| `learner-variable` \| `claim` |
 | `title` | Recommended | Display name — normally matches the page's `# H1` |
 | `description` | Recommended | One-sentence summary, used in index listings |
 | `status` | Recommended | See Status values above |
@@ -156,6 +156,7 @@ ld-wiki/
   patterns/          ← instructional patterns (reusable designs at lesson/unit level)
   strategies/        ← teaching strategies (concrete activity recipes)
   theories/          ← learning theories (explanatory frameworks)
+  learner-variables/ ← canonical learner characteristics (prior knowledge, self-efficacy, ...) claims link into
   claims/            ← empirical claims with evidence
   sources/           ← bibliographic source pages (optional; most citations live inline in Key Sources / Evidence)
   scripts/
@@ -448,6 +449,61 @@ generated:
 
 ## Examples
 <!-- Links to patterns and principles that apply this theory -->
+- 
+
+## Key Sources
+- 
+```
+
+---
+
+### Learner Variable
+
+A canonical page per distinct learner characteristic/variable (prior knowledge, self-efficacy,
+working memory capacity, spatial ability, ...). Claims that report a finding about the variable
+link *into* it, the same way claims link into theories — this keeps "prior knowledge," "prior
+domain knowledge," and "background knowledge" from three different articles as one page instead
+of three fragmented, undiscoverable mentions. Schema-ready but not yet part of the automated
+single-pass extraction prompt — see the Ingest section above for why, and factor these out by
+hand for now when a claim clearly reports a learner-characteristic finding.
+
+```markdown
+---
+type: learner-variable
+title: [Variable Name]
+description: [One-sentence definition of this learner characteristic]
+status: draft
+generated:
+  by: <actor>
+  at: YYYY-MM-DD
+---
+
+# [Variable Name]
+
+## Description
+[What this learner variable is; how it's typically measured or operationalized.]
+
+## Implications
+
+### Context
+- 
+
+### Target Learners
+- 
+
+### Target Learning Objectives
+<!-- Learning outcomes this variable has been shown to affect -->
+- 
+
+## Claims
+<!-- Claims reporting findings about this variable, with evidence tags: [Claim statement](../claims/claim-slug.md) [+M] -->
+- 
+
+## Related Learner Variables
+- 
+
+## Examples
+<!-- Links to principles/elements/patterns/strategies that account for this variable -->
 - 
 
 ## Key Sources

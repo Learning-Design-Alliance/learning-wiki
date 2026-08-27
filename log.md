@@ -10,6 +10,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-27
 
+* **Content**: [claims/prior-knowledge-not-related-to-performance](claims/prior-knowledge-not-related-to-performance.md) — Cross-link to new learner-variables/prior-knowledge.md; add Discussion note
+* **Ingest**: [learner-variables/prior-knowledge](learner-variables/prior-knowledge.md) — New learner-variable page type: backfill from existing prior-knowledge claim
 * **Ingest**: `theories/cognitive-information-processing-theory` (page removed before commit — see below) — Ingested from eric-ed616622 (A Bibliography of Cognitive Information Processing Theory, Research, and Practice) via eval_harness.py + ingest_extractions.py
 * **Deprecate**: `theories/cognitive-information-processing-theory` — Removed before commit: matched the "information processing theory" search topic on keyword overlap only, but the source is a career/vocational-counseling bibliography, not a learning-science theory; out of scope for this wiki
 * **Ingest**: [claims/intuitive-learners-outperform-sensing-learners](claims/intuitive-learners-outperform-sensing-learners.md) — Ingested from eric-ed476964 (Dual Coding Theory and Computer Education: Some Media Experiments To Examine the Effects of Different Media on Learning.) via eval_harness.py + ingest_extractions.py

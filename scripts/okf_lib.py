@@ -16,7 +16,7 @@ from pathlib import Path
 
 WIKI_ROOT = Path(__file__).parent.parent
 
-CONTENT_FOLDERS = ["principles", "elements", "patterns", "strategies", "theories", "claims"]
+CONTENT_FOLDERS = ["principles", "elements", "patterns", "strategies", "theories", "learner-variables", "claims"]
 
 WIKILINK_RE = re.compile(r"\[\[([^\]|#]+)(?:\|([^\]]*))?\]\]")
 TITLE_RE = re.compile(r"^# (.+)$", re.MULTILINE)

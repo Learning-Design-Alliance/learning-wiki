@@ -64,6 +64,7 @@ TYPE_TO_FOLDER = {
     "pattern": "patterns",
     "strategy": "strategies",
     "theory": "theories",
+    "learner-variable": "learner-variables",
 }
 
 # Matches okf_lib's own citation-year convention: "(2020)" or "(2020a)".
@@ -240,6 +241,14 @@ _OTHER_LAYOUT = {
     "theory": {
         "target_goals_heading": "Target Learning Objectives",
         "related_heading": "Related Theories",
+        "claims_heading": "Claims",
+    },
+    "learner-variable": {
+        # Same shape as theory — both are canonical concept pages that
+        # claims link into as evidence, rather than prescriptive design
+        # constructs like principle/pattern/strategy.
+        "target_goals_heading": "Target Learning Objectives",
+        "related_heading": "Related Learner Variables",
         "claims_heading": "Claims",
     },
 }

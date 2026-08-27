@@ -33,7 +33,7 @@ In an analysis of correlations, the authors found that "prior knowledge was not 
 > "Prior knowledge was not significantly related to the number of questions answered correctly."
 
 ## Discussion
-
+This is a single null finding (q3 · i0) from one underlining study, not a general claim that [prior knowledge](../learner-variables/prior-knowledge.md) never matters for learning outcomes — see that page for the broader construct and its relationship to expertise-reversal effects.
 
 ## Related Claims
 -
