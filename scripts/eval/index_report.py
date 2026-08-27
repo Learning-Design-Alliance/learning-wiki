@@ -311,6 +311,19 @@ def _short_run_label(run_id: str) -> str:
     return run_id if len(run_id) <= 12 else run_id[:11] + "…"
 
 
+def _percentile(values: list, pct: float) -> float:
+    """Linear-interpolation percentile (pct in [0, 1]) — stdlib-only, no
+    numpy dependency for one chart-axis calculation."""
+    s = sorted(values)
+    if len(s) == 1:
+        return s[0]
+    k = (len(s) - 1) * pct
+    f, c = int(k), min(int(k) + 1, len(s) - 1)
+    if f == c:
+        return s[f]
+    return s[f] + (s[c] - s[f]) * (k - f)
+
+
 def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, colors: dict,
                   scale100: bool = False) -> str:
     def scaled(v):
@@ -336,14 +349,20 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
     plot_w, plot_bottom = W - 2 * PAD, H - PAD_BOTTOM
     n = len(run_order)
     x_step = plot_w / (n - 1) if n > 1 else 0
-    y_max = 100 if scale100 else (max(values) * 1.15 or 1)
+    # Cap the axis at the 90th percentile (with headroom) rather than the
+    # raw max — one outlier point (e.g. a pricier model variant tested
+    # once) would otherwise stretch the whole axis and crush every other
+    # series into an unreadable band near zero. Points above this cap are
+    # clamped to the top edge and drawn as a distinct marker below, with
+    # their real value still in the tooltip — compressed, never hidden.
+    y_max = 100 if scale100 else (_percentile(values, 0.9) * 1.3 or 1)
 
     def x_for(run_id):
         idx = run_order.index(run_id)
         return PAD + (idx * x_step if n > 1 else plot_w / 2)
 
     def y_for(v):
-        return plot_bottom - (v / y_max) * (plot_bottom - PAD)
+        return plot_bottom - (min(v, y_max) / y_max) * (plot_bottom - PAD)
 
     series_parts = []
     for i, model in enumerate(colors):
@@ -377,12 +396,21 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
             f'" fill="none" stroke="var(--series-{slot})" stroke-width="2"/>'
             for seg in segments if len(seg) > 1
         )
-        dots = "".join(
-            f'<circle cx="{x:.1f}" cy="{y:.1f}" r="4" fill="var(--series-{slot})" stroke="var(--surface-1)" '
-            f'stroke-width="1.5"><title>{_esc(model)} — {_esc(rid)}: '
-            f'{_esc(f"${v}" if unit == "$" else f"{v}{unit}")}</title></circle>'
-            for x, y, rid, v, _ in coords
-        )
+        def _dot(x, y, rid, v):
+            title = (f'<title>{_esc(model)} — {_esc(rid)}: '
+                     f'{_esc(f"${v}" if unit == "$" else f"{v}{unit}")}'
+                     f'{" (off-scale, see tooltip)" if v > y_max else ""}</title>')
+            if v > y_max:
+                # A small upward-pointing triangle instead of a circle — an
+                # honest "this point is compressed to fit, the real value is
+                # higher" marker, not a plain dot that reads as in-range.
+                return (f'<path d="M {x:.1f} {y - 5:.1f} L {x - 5:.1f} {y + 4:.1f} '
+                        f'L {x + 5:.1f} {y + 4:.1f} Z" fill="var(--series-{slot})" '
+                        f'stroke="var(--surface-1)" stroke-width="1.5">{title}</path>')
+            return (f'<circle cx="{x:.1f}" cy="{y:.1f}" r="4" fill="var(--series-{slot})" '
+                    f'stroke="var(--surface-1)" stroke-width="1.5">{title}</circle>')
+
+        dots = "".join(_dot(x, y, rid, v) for x, y, rid, v, _ in coords)
         series_parts.append(f'{paths}{dots}')
 
     fracs = (0, 0.25, 0.5, 0.75, 1.0)
