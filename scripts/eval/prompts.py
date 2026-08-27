@@ -122,6 +122,9 @@ def build_user_prompt(article_text: str, existing_slugs: dict, max_chars: int = 
 Extract every wiki contribution this article supports, following the output contract exactly."""
 
 
+_CITATION_ISSUE_MARKERS = ("does not resolve to any real work", "should include a year and a doi/url")
+
+
 def build_correction_prompt(previous_raw_output: str, issues: list, max_chars: int = 12_000) -> str:
     """Follow-up prompt for eval_harness.py's optional self-correction retry
     loop (--max-correction-attempts): shows the model its own previous
@@ -139,6 +142,29 @@ def build_correction_prompt(previous_raw_output: str, issues: list, max_chars: i
         prev = prev[:max_chars]
         truncated_note = "\n\n[TRUNCATED — shown output continues past this point.]"
 
+    # RARR-style agreement gate (Gao et al., ACL 2023): a flagged claim should
+    # only be revised toward what evidence actually supports, never toward a
+    # plausible-looking guess offered just because the field expects a value.
+    # Added because live data kept showing the SAME failure mode surviving a
+    # correction retry: told "this DOI doesn't resolve," the model swapped in
+    # a DIFFERENT invented-but-plausible DOI (e.g. 10.1080/00221678.2024.2311545)
+    # instead of honestly concluding the source likely has none — the retry
+    # prompt trusted the fix blind rather than asking it to re-verify first.
+    citation_note = ""
+    if any(any(marker in i["message"].lower() for marker in _CITATION_ISSUE_MARKERS) for i in issues):
+        citation_note = """
+
+For any citation/key_sources issue above: before proposing a replacement identifier, first honestly \
+assess whether this specific source likely HAS a real DOI or stable URL at all — a peer-reviewed \
+journal article usually does; a conference paper, technical report, dataset, or a source with \
+"Unknown Authors" or no clear venue often does not. Only provide a specific DOI/arXiv id/URL if you \
+can be reasonably confident it is the REAL one for this exact source (you saw it stated in the article, \
+or you are confident of the venue's identifier format for a specific known paper) — do NOT invent \
+another plausible-looking identifier just because the field expects one; a wrong guess is worse than no \
+guess. If you cannot be confident of the real identifier, omit doi_or_url from that citation entirely \
+rather than replacing one fabrication with another — an omitted identifier passes structural validation, \
+a fabricated one does not."""
+
     return f"""Your previous JSON output failed structural validation with these issues:
 
 {issue_lines}
@@ -149,4 +175,4 @@ def build_correction_prompt(previous_raw_output: str, issues: list, max_chars: i
 Produce a CORRECTED, COMPLETE JSON object fixing every issue listed above. Keep everything else \
 from your previous output unchanged unless it is directly implicated in one of the issues — do not \
 regenerate content that already passed validation. Follow the exact same output contract as before \
-(the same JSON schema, same field names). Output ONLY the corrected JSON object, nothing else."""
+(the same JSON schema, same field names).{citation_note} Output ONLY the corrected JSON object, nothing else."""
