@@ -325,7 +325,7 @@ def _percentile(values: list, pct: float) -> float:
 
 
 def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, colors: dict,
-                  scale100: bool = False) -> str:
+                  scale100: bool = False, y_max_fixed: float = None, tick_step: float = None) -> str:
     def scaled(v):
         return v * 100 if scale100 else v
 
@@ -355,7 +355,14 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
     # series into an unreadable band near zero. Points above this cap are
     # clamped to the top edge and drawn as a distinct marker below, with
     # their real value still in the tooltip — compressed, never hidden.
-    y_max = 100 if scale100 else (_percentile(values, 0.9) * 1.3 or 1)
+    # y_max_fixed overrides this for a metric with a known natural ceiling
+    # (e.g. judge score, always out of 5) rather than a data-driven cap.
+    if scale100:
+        y_max = 100
+    elif y_max_fixed is not None:
+        y_max = y_max_fixed
+    else:
+        y_max = _percentile(values, 0.9) * 1.3 or 1
 
     def x_for(run_id):
         idx = run_order.index(run_id)
@@ -413,7 +420,14 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
         dots = "".join(_dot(x, y, rid, v) for x, y, rid, v, _ in coords)
         series_parts.append(f'{paths}{dots}')
 
-    fracs = (0, 0.25, 0.5, 0.75, 1.0)
+    # tick_step gives clean whole-number gridlines for a fixed-ceiling metric
+    # (e.g. step=1 on a judge score out of 5 -> 0,1,2,3,4,5) instead of the
+    # generic quarter-split, which on a non-100 axis lands on odd fractions
+    # (e.g. 1.25, 3.75 out of a 5.0 max).
+    if tick_step:
+        fracs = [i * tick_step / y_max for i in range(int(y_max / tick_step) + 1)]
+    else:
+        fracs = (0, 0.25, 0.5, 0.75, 1.0)
     gridlines = "".join(
         f'<line x1="{PAD}" y1="{plot_bottom - f * (plot_bottom - PAD)}" x2="{W - PAD}" '
         f'y2="{plot_bottom - f * (plot_bottom - PAD)}" class="gridline" />'
@@ -801,22 +815,24 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
         rows_html = '<tr><td colspan="11" class="empty-note">No runs yet.</td></tr>'
 
     trend_specs = [
-        ("trend-pass-rate", "Pass rate", "validator_pass_rate", "Validator pass rate", "%", True),
-        ("trend-completeness", "Completeness", "avg_completeness_score", "Completeness", "%", True),
-        ("trend-judge-score", "Judge score", "avg_judge_score", "Judge score (of 5)", "", False),
-        ("trend-cost", "Cost", "cost_per_article_usd", "Cost per article ($)", "$", False),
-        ("trend-latency", "Latency", "avg_latency_s", "Avg latency (s)", "s", False),
+        ("trend-pass-rate", "Pass rate", "validator_pass_rate", "Validator pass rate", "%", True, None, None),
+        ("trend-completeness", "Completeness", "avg_completeness_score", "Completeness", "%", True, None, None),
+        ("trend-judge-score", "Judge score", "avg_judge_score", "Judge score (of 5)", "", False, 5, 1),
+        ("trend-cost", "Cost", "cost_per_article_usd", "Cost per article ($)", "$", False, None, None),
+        ("trend-latency", "Latency", "avg_latency_s", "Avg latency (s)", "s", False, None, None),
     ]
     trend_tabs_html = "".join(
         f'<button class="tab-btn{" active" if i == 0 else ""}" data-target="{tab_id}" role="tab" '
         f'aria-selected="{"true" if i == 0 else "false"}">{_esc(tab_label)}</button>'
         for i, (tab_id, tab_label, *_rest) in enumerate(trend_specs)
     )
-    trend_panels_html = "".join(
-        f'<div id="{tab_id}" class="tab-panel{" active" if i == 0 else ""}">'
-        f'{_trend_chart(history_rows, metric_key, label, unit, colors, scale100=scale100)}</div>'
-        for i, (tab_id, _tab_label, metric_key, label, unit, scale100) in enumerate(trend_specs)
-    )
+    def _trend_panel(i, spec):
+        tab_id, _tab_label, metric_key, label, unit, scale100, y_max_fixed, tick_step = spec
+        chart = _trend_chart(history_rows, metric_key, label, unit, colors, scale100=scale100,
+                              y_max_fixed=y_max_fixed, tick_step=tick_step)
+        return f'<div id="{tab_id}" class="tab-panel{" active" if i == 0 else ""}">{chart}</div>'
+
+    trend_panels_html = "".join(_trend_panel(i, spec) for i, spec in enumerate(trend_specs))
 
     return f"""<!doctype html>
 <html lang="en">
