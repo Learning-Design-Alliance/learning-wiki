@@ -11,8 +11,19 @@ Seeded from the wiki's OWN existing theories/ and principles/ page titles
 this project's "start from the classics" approach — see topics_from_wiki().
 
 Allocation across sources is deliberately uneven, not an even three-way
-split. arXiv defaults to 0: export.arxiv.org (the host behind search_arxiv's
-API calls) serves a real, deliberate `User-agent: * / Disallow: /` for its
+split, and ERIC is the majority share — it's the purpose-built education
+research database, so even a loose keyword match against it stays on-topic.
+PMC is general biomedical/life-sciences literature: live testing showed most
+of its actually-fetchable hits were NOT learning science at all ("Canonical
+Ru(ii) tris-polypyridyl complexes," "Fine-Tuned Regulation of mRNA
+Translation") — the same keyword-collision problem arXiv had, just less
+severe, and with no equivalent category filter available the way arXiv had
+physics.ed-ph (PMC/PubMed has no reliably-scoped "education" subject filter
+this project has verified). PMC stays in as a smaller supplementary source,
+not the primary one.
+
+arXiv defaults to 0: export.arxiv.org (the host behind search_arxiv's API
+calls) serves a real, deliberate `User-agent: * / Disallow: /` for its
 entire domain (verified live — see eval/SOURCES.md), so there is no
 compliant way to query it via this script at all, not just a volume concern.
 Pass --arxiv > 0 with no --arxiv-snapshot to try the live API anyway
@@ -21,10 +32,9 @@ Real arXiv coverage instead uses the officially sanctioned Kaggle bulk
 metadata snapshot (https://www.kaggle.com/datasets/Cornell-University/arxiv,
 updated weekly) — download it yourself (needs a Kaggle account API token)
 and pass --arxiv-snapshot <path to arxiv-metadata-oai-snapshot.json>; see
-build_arxiv_manifest_from_snapshot() below and eval/SOURCES.md. PMC
-(1 req/s) and ERIC (2s/req) scale to hundreds/thousands of individual
-fetches fine, so this weights entirely toward those two. This is a
-DISCOVERY step only — it
+build_arxiv_manifest_from_snapshot() below and eval/SOURCES.md — it's
+restricted to the physics.ed-ph category, so its real yield is small by
+design. This is a DISCOVERY step only — it
 finds candidates and writes a manifest; it does not fetch full text (that's
 still fetch_article.py, one call per article, same as always) and it does
 not guarantee every candidate is actually fetchable (a PMC hit that isn't
@@ -51,10 +61,11 @@ WIKI_ROOT = Path(__file__).parent.parent.parent
 EVAL_ROOT = WIKI_ROOT / "eval"
 TIMEOUT = 30
 
-# See the module docstring — not an even split, PMC and ERIC scale to a live
-# per-article batch far better than arXiv does at this project's documented
-# rate-limit floors.
-DEFAULT_TARGETS = {"pmc": 700, "eric": 260, "arxiv": 0}
+# See the module docstring — ERIC is the majority share (purpose-built
+# education database, stays on-topic), PMC is a smaller supplementary source
+# (general biomedical literature, real risk of off-topic keyword-collision
+# hits), arXiv defaults to 0 (needs --arxiv-snapshot; see docstring).
+DEFAULT_TARGETS = {"pmc": 200, "eric": 700, "arxiv": 0}
 
 ARXIV_ATOM_NS = {"atom": "http://www.w3.org/2005/Atom", "opensearch": "http://a9.com/-/spec/opensearch/1.1/"}
 
