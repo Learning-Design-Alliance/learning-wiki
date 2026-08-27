@@ -1875,7 +1875,11 @@ def main() -> None:
                              "that shouldn't disturb the benchmark corpus everything else in this harness "
                              "is calibrated against.")
     p_run.add_argument("--limit", type=int, default=None)
-    p_run.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt", "gemini"])
+    p_run.add_argument("--judges", nargs="*", default=["opus", "gpt"], choices=["opus", "gpt", "gemini"],
+                        help="Pass --judges with no values to skip judging entirely (e.g. a real ingest "
+                             "batch, where judging was only ever needed for prompt optimization, not "
+                             "production extraction) — run_judges() already handles an empty list fine, "
+                             "nargs=\"*\" (not \"+\") is what lets the CLI actually express that.")
     p_run.add_argument("--gpt-judge-model", default="gpt-5.6-luna")
     p_run.add_argument("--gemini-judge-model", default="google/gemini-3.7-flash")
     p_run.add_argument("--run-id", default=None)
