@@ -106,6 +106,24 @@ def fetch_article_text(entry: dict, refresh: bool = False) -> str:
                 f"the HTML article page as a workaround."
             ) from e
         raise FetchError(f"HTTP error fetching {fetch_url}: {e}") from e
+    except ValueError as e:
+        # resp.json() raising here (a 200 with an empty/near-empty body) is the
+        # same underlying issue as the 404 case above, just a different HTTP
+        # status: open access[filter] in search_pmc()'s ESearch query means
+        # "flagged OA," not "already processed into the BioC full-text corpus"
+        # — very recently published PMCIDs are the ones most likely to hit
+        # this. Caught here (ValueError, which requests' own JSONDecodeError
+        # and the stdlib json.JSONDecodeError both subclass) rather than
+        # falling through to the generic RequestException case below, which
+        # would otherwise mislabel this "Network error" and obscure the cause.
+        if source == "pubmed":
+            raise FetchError(
+                f"{entry.get('pmcid', fetch_url)} returned an empty/unparseable body from "
+                f"the BioC-PMC API — likely not yet processed into the OA full-text corpus, "
+                f"even though it was flagged open access[filter] at search time. Replace "
+                f"this manifest entry; it may become fetchable later, but isn't now."
+            ) from e
+        raise FetchError(f"Unparseable response from {fetch_url}: {e}") from e
     except requests.RequestException as e:
         raise FetchError(f"Network error fetching {fetch_url}: {e}") from e
 
