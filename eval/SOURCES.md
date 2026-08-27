@@ -60,6 +60,18 @@ actually sanctioned, and what to do if a source blocks bulk access outright.
   request to `eutilities@ncbi.nlm.nih.gov`. `compliance.py` defaults to a much
   more conservative 1 req/s since this harness processes articles one at a
   time anyway.
+- **`eutils.ncbi.nlm.nih.gov`'s own robots.txt is a blanket `Disallow: /`**
+  (verified live: `# robots.txt - robot exclusion file - back-end server
+  version - no robots!` followed by `User-agent: *` / `Disallow: /`, no
+  exceptions). This is the same "robots.txt doesn't get the final word over a
+  documented API policy" situation as the BioC endpoint above, just more
+  extreme — a backend-server default telling generic crawlers "there is
+  nothing here to index," not a rescission of the E-Utilities channel NCBI's
+  own usage guidelines sanction for automated PMC retrieval. `compliance.py`
+  carries a narrow, cited `API_TERMS_OVERRIDE` for this exact host so
+  `check_allowed()` skips the robots.txt disallow for it specifically; rate
+  limiting and the contact-email `User-Agent` still apply in full. Don't
+  extend that override to any other host without the same kind of citation.
 - **Courtesy guidance for large jobs**: NCBI asks that big jobs run on
   weekends or 9pm-5am Eastern on weekdays, and that requests carry a `tool` +
   `email` identifier so they can contact you before blocking your IP if
