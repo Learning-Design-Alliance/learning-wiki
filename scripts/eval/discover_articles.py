@@ -11,13 +11,17 @@ Seeded from the wiki's OWN existing theories/ and principles/ page titles
 this project's "start from the classics" approach — see topics_from_wiki().
 
 Allocation across sources is deliberately uneven, not an even three-way
-split, per eval/SOURCES.md's own prior research: arXiv's 15s/request
-crawl-delay makes more than a few dozen individual PDF fetches impractical
-for a live batch ("explicitly discouraged for indiscriminate volume" per
-arXiv's own robots.txt header) — real arXiv scale needs the S3/Kaggle bulk
-channels, not this script. PMC (1 req/s) and ERIC (2s/req) scale to
-hundreds/thousands of individual fetches fine, so this weights toward those
-two and caps arXiv's share on purpose. This is a DISCOVERY step only — it
+split. arXiv defaults to 0: export.arxiv.org (the host behind search_arxiv's
+API calls) serves a real, deliberate `User-agent: * / Disallow: /` for its
+entire domain (verified live — see eval/SOURCES.md), so there is no
+compliant way to query it via this script at all, not just a volume concern.
+Pass --arxiv > 0 to try anyway (compliance.py will correctly block every
+request; this isn't a bug to route around). Real arXiv coverage needs the
+officially sanctioned S3/Kaggle bulk metadata channels instead — a separate,
+larger undertaking than this live-query script, see eval/SOURCES.md. PMC
+(1 req/s) and ERIC (2s/req) scale to hundreds/thousands of individual
+fetches fine, so this weights entirely toward those two. This is a
+DISCOVERY step only — it
 finds candidates and writes a manifest; it does not fetch full text (that's
 still fetch_article.py, one call per article, same as always) and it does
 not guarantee every candidate is actually fetchable (a PMC hit that isn't
@@ -47,7 +51,7 @@ TIMEOUT = 30
 # See the module docstring — not an even split, PMC and ERIC scale to a live
 # per-article batch far better than arXiv does at this project's documented
 # rate-limit floors.
-DEFAULT_TARGETS = {"pmc": 700, "eric": 220, "arxiv": 40}
+DEFAULT_TARGETS = {"pmc": 700, "eric": 260, "arxiv": 0}
 
 ARXIV_ATOM_NS = {"atom": "http://www.w3.org/2005/Atom", "opensearch": "http://a9.com/-/spec/opensearch/1.1/"}
 
@@ -312,7 +316,9 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--pmc", type=int, default=DEFAULT_TARGETS["pmc"], help="Target PMC candidate count")
     parser.add_argument("--eric", type=int, default=DEFAULT_TARGETS["eric"], help="Target ERIC candidate count")
-    parser.add_argument("--arxiv", type=int, default=DEFAULT_TARGETS["arxiv"], help="Target arXiv candidate count")
+    parser.add_argument("--arxiv", type=int, default=DEFAULT_TARGETS["arxiv"],
+                         help="Target arXiv candidate count (default 0 — export.arxiv.org's "
+                              "robots.txt disallows all automated access; see module docstring)")
     parser.add_argument("--out", default=str(EVAL_ROOT / "corpus" / "manifest_bulk.json"),
                          help="Output manifest path (default: eval/corpus/manifest_bulk.json — "
                               "deliberately NOT manifest.json, so the original 10-article benchmark stays intact)")

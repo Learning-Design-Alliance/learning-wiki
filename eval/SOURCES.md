@@ -13,17 +13,35 @@ actually sanctioned, and what to do if a source blocks bulk access outright.
 
 ## arXiv
 
-- **robots.txt**: `Crawl-delay: 15` for all user agents; `/abs` and `/pdf` are
-  explicitly `Allow`ed, but the file's own header states "Indiscriminate
-  automated downloads from this site are not permitted."
+- **Two different hosts, two different robots.txt — don't conflate them.**
+  `arxiv.org` (the main site, used for `/pdf/<id>` fetches) has
+  `Crawl-delay: 15`; `/abs` and `/pdf` are explicitly `Allow`ed, but the
+  file's own header states "Indiscriminate automated downloads from this
+  site are not permitted." `export.arxiv.org` (the legacy **API** host,
+  what `discover_articles.py`'s `search_arxiv()` queries) is a **separate
+  domain with its own robots.txt** — verified live: a real HTTP 200 with
+  body `User-agent: * / Disallow: /`, i.e. a deliberate, total block, not an
+  infrastructure artifact (contrast the `eutils.ncbi.nlm.nih.gov` and
+  `api.ies.ed.gov` findings above, which *were* artifacts and got a cited
+  override in `compliance.py`). This one is real and is respected as-is —
+  **no override**. Earlier versions of this doc described the legacy
+  API/OAI-PMH's *rate terms* without having verified `export.arxiv.org`'s
+  own robots.txt separately; that gap is closed now. Practical effect:
+  `discover_articles.py` cannot query arXiv live at all (defaults `--arxiv`
+  to 0) — only the S3/Kaggle bulk channels below are viable for arXiv
+  candidate discovery.
 - **API Terms of Use**: the legacy API and OAI-PMH cap requests at one every
   3 seconds, one connection at a time, across *all* machines you control —
-  i.e. you can't parallelize around the limit with more IPs.
-- **What this harness does**: fetches `/pdf/<id>` directly, gated by
-  `compliance.py`'s 15s-per-request floor (arXiv's own robots.txt value).
-  Fine for a 10-article smoke test; **not** the right approach past a few
+  i.e. you can't parallelize around the limit with more IPs. (Moot for live
+  querying per the robots.txt finding above; kept here in case a future
+  bulk-harvest approach needs it.)
+- **What this harness does**: fetches `/pdf/<id>` directly from `arxiv.org`
+  (not `export.arxiv.org`), gated by `compliance.py`'s 15s-per-request floor
+  (arXiv's own robots.txt value for that host). Fine for a 10-article smoke
+  test with manually-curated IDs; **not** the right approach past a few
   dozen — at 15s/request, 1,000 papers is >4 hours of pure waiting, and it's
-  explicitly discouraged for "indiscriminate" volume.
+  explicitly discouraged for "indiscriminate" volume. This path still works;
+  what's blocked is *discovering* new arXiv IDs via the live search API.
 - **Bulk alternative for scale**: [arXiv Bulk Data Access via S3](https://info.arxiv.org/help/bulk_data_s3.html) —
   the complete set of processed PDFs/source files in a *requester-pays* S3
   bucket (you pay AWS's transfer cost, not arXiv's bandwidth). This is the
