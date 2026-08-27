@@ -63,12 +63,32 @@ class DiscoveryError(RuntimeError):
     pass
 
 
+MAX_RETRIES = 3
+RETRY_BACKOFF_BASE = 5  # seconds; doubled each attempt if the server gives no Retry-After
+
+
 def _get(url: str, params: dict = None) -> requests.Response:
+    """Bounded, Retry-After-respecting retry on 429/503 — see fetch_article.py's
+    _get() for why this is empirically justified (a live 429 from
+    www.ncbi.nlm.nih.gov while well under NCBI's documented rate ceiling),
+    not speculative hardening. compliance.guard() re-runs on every attempt,
+    so a retry still respects our own rate floor on top of any backoff."""
     full_url = url if not params else f"{url}?{requests.compat.urlencode(params)}"
-    compliance.guard(full_url)
-    resp = requests.get(url, params=params, headers={"User-Agent": compliance.USER_AGENT}, timeout=TIMEOUT)
-    resp.raise_for_status()
-    return resp
+    for attempt in range(MAX_RETRIES + 1):
+        compliance.guard(full_url)
+        resp = requests.get(url, params=params, headers={"User-Agent": compliance.USER_AGENT}, timeout=TIMEOUT)
+        if resp.status_code in (429, 503) and attempt < MAX_RETRIES:
+            retry_after = resp.headers.get("Retry-After")
+            try:
+                delay = float(retry_after) if retry_after else RETRY_BACKOFF_BASE * (2 ** attempt)
+            except ValueError:
+                delay = RETRY_BACKOFF_BASE * (2 ** attempt)
+            print(f"  [WARN] {resp.status_code} from {url}, retrying in {delay:.0f}s "
+                  f"(attempt {attempt + 1}/{MAX_RETRIES})...", file=sys.stderr)
+            time.sleep(delay)
+            continue
+        resp.raise_for_status()
+        return resp
 
 
 def _slugify(text: str) -> str:

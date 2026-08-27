@@ -13,6 +13,7 @@ pass --refresh-cache to eval_harness.py) to force a re-fetch.
 
 import io
 import sys
+import time
 from pathlib import Path
 
 import requests
@@ -23,6 +24,8 @@ EVAL_ROOT = Path(__file__).parent.parent.parent / "eval"
 CACHE_DIR = EVAL_ROOT / "corpus" / "cache"
 
 TIMEOUT = 60
+MAX_RETRIES = 3
+RETRY_BACKOFF_BASE = 5  # seconds; doubled each attempt if the server gives no Retry-After
 
 
 class FetchError(RuntimeError):
@@ -30,10 +33,29 @@ class FetchError(RuntimeError):
 
 
 def _get(url: str) -> requests.Response:
-    compliance.guard(url)
-    resp = requests.get(url, headers={"User-Agent": compliance.USER_AGENT}, timeout=TIMEOUT)
-    resp.raise_for_status()
-    return resp
+    """A bounded, Retry-After-respecting retry on 429/503 — not a hammer,
+    just enough to survive a transient rate hiccup. Empirically justified,
+    not speculative: a live PMC fetch hit 429 from www.ncbi.nlm.nih.gov while
+    this harness was well under NCBI's documented 3 req/s ceiling, most
+    likely because their server-side limiting pools traffic by IP across all
+    of *.ncbi.nlm.nih.gov rather than per-subdomain the way compliance.py's
+    own bookkeeping does. compliance.guard() re-runs on every attempt, so a
+    retry still respects our own rate floor on top of any explicit backoff."""
+    for attempt in range(MAX_RETRIES + 1):
+        compliance.guard(url)
+        resp = requests.get(url, headers={"User-Agent": compliance.USER_AGENT}, timeout=TIMEOUT)
+        if resp.status_code in (429, 503) and attempt < MAX_RETRIES:
+            retry_after = resp.headers.get("Retry-After")
+            try:
+                delay = float(retry_after) if retry_after else RETRY_BACKOFF_BASE * (2 ** attempt)
+            except ValueError:
+                delay = RETRY_BACKOFF_BASE * (2 ** attempt)
+            print(f"  [WARN] {resp.status_code} from {url}, retrying in {delay:.0f}s "
+                  f"(attempt {attempt + 1}/{MAX_RETRIES})...", file=sys.stderr)
+            time.sleep(delay)
+            continue
+        resp.raise_for_status()
+        return resp
 
 
 def _extract_pdf_text(content: bytes) -> str:
