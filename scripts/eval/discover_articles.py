@@ -539,7 +539,23 @@ def main() -> None:
     # fetch_article.py's main(), which reads manifest["articles"]) so this
     # drops straight into the existing prefetch-verify step with no
     # translation step in between.
-    out_path.write_text(json.dumps({"articles": manifest}, indent=2), encoding="utf-8")
+    try:
+        out_path.write_text(json.dumps({"articles": manifest}, indent=2), encoding="utf-8")
+    except PermissionError as e:
+        # A bare traceback here is actively misleading: this run's freshly
+        # discovered manifest silently never reaches disk, so a downstream
+        # fetch_article.py call reads the OLD stale file instead and looks
+        # like nothing changed — burned a full debugging round here already,
+        # tracing back to an earlier run (as a different user, e.g. root vs
+        # evalrunner) having created out_path with different ownership.
+        raise DiscoveryError(
+            f"Permission denied writing {out_path} ({e}). This means the file already "
+            f"exists, owned by a different user than the one running this now (e.g. an "
+            f"earlier run as root, now being overwritten by evalrunner). Fix: "
+            f"sudo rm -f {out_path} (safe — it's a regenerable output, not source of "
+            f"truth) and re-run. Do NOT re-run fetch_article.py against the old file; "
+            f"its results would silently be stale."
+        ) from e
 
     by_source = {}
     for e in manifest:
