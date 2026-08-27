@@ -1422,9 +1422,14 @@ def cmd_optimize(args: argparse.Namespace) -> None:
 
         delta = result["avg_score_delta"]
         if delta is not None and delta >= args.min_improvement:
-            prompts.set_current_version(new_version)
-            print(f"IMPROVED: avg judge-score delta {delta:+.2f} >= threshold {args.min_improvement} — "
-                  f"{new_version} is now the current default prompt.")
+            if args.no_promote_current:
+                print(f"IMPROVED: avg judge-score delta {delta:+.2f} >= threshold {args.min_improvement} — "
+                      f"{new_version} adopted for this chain, but --no-promote-current is set so the shared "
+                      f"CURRENT pointer was NOT moved.")
+            else:
+                prompts.set_current_version(new_version)
+                print(f"IMPROVED: avg judge-score delta {delta:+.2f} >= threshold {args.min_improvement} — "
+                      f"{new_version} is now the current default prompt.")
             current_run_id = new_run_id
         else:
             shown = f"{delta:+.2f}" if delta is not None else "unknown (no model scored in both runs)"
@@ -1819,13 +1824,18 @@ def _run_auto_optimize_loop(args: argparse.Namespace) -> None:
         # anyone who wants to deliberately explore through a dip.
         adopted = args.allow_regression or (delta is not None and delta >= args.min_improvement)
         if adopted:
-            prompts.set_current_version(new_version)
-            if delta is not None and delta >= args.min_improvement:
-                print(f"IMPROVED: avg judge-score delta {delta:+.2f} >= threshold {args.min_improvement} — "
-                      f"{new_version} is now the current default prompt.")
-            else:
+            if args.no_promote_current:
                 shown = f"{delta:+.2f}" if delta is not None else "unknown (no model scored in both runs)"
-                print(f"--allow-regression set — advancing to {new_version} anyway despite delta {shown}.")
+                print(f"ADOPTED (chain only): delta {shown} — {new_version} becomes this chain's baseline, "
+                      f"but --no-promote-current is set so the shared CURRENT pointer was NOT moved.")
+            else:
+                prompts.set_current_version(new_version)
+                if delta is not None and delta >= args.min_improvement:
+                    print(f"IMPROVED: avg judge-score delta {delta:+.2f} >= threshold {args.min_improvement} — "
+                          f"{new_version} is now the current default prompt.")
+                else:
+                    shown = f"{delta:+.2f}" if delta is not None else "unknown (no model scored in both runs)"
+                    print(f"--allow-regression set — advancing to {new_version} anyway despite delta {shown}.")
             current_run_id = new_run_id
         else:
             shown = f"{delta:+.2f}" if delta is not None else "unknown (no model scored in both runs)"
@@ -2003,6 +2013,13 @@ def main() -> None:
     p_opt.add_argument("--iterations", type=int, default=1, help="Max propose/re-run rounds (default: 1)")
     p_opt.add_argument("--min-improvement", type=float, default=0.0,
                         help="Minimum avg judge-score delta to adopt a candidate as the new current prompt (default: 0.0, i.e. any improvement)")
+    p_opt.add_argument("--no-promote-current", action="store_true",
+                        help="Keep adopting/building the chain locally round-to-round, but never call "
+                             "prompts.set_current_version() — i.e. never move the shared CURRENT pointer "
+                             "every other model in the roster runs against. Use this whenever --models is a "
+                             "subset of the full roster (e.g. tuning a prompt for one model's quirks): "
+                             "without it, that model's own improving score silently promotes a prompt to "
+                             "production that was never tested against anything else in the roster.")
     p_opt.add_argument("--run-id-prefix", default="optimize", help="New runs are named <prefix>-<version>, e.g. optimize-v3")
 
     p_auto = subparsers.add_parser(
@@ -2044,6 +2061,16 @@ def main() -> None:
                          help="Adopt every round's revision unconditionally, even if it scores worse than "
                               "the previous baseline (the old default). Off by default — real usage showed "
                               "this compounds regressions rather than recovering from them.")
+    p_auto.add_argument("--no-promote-current", action="store_true",
+                         help="Keep adopting/building the chain locally round-to-round, but never call "
+                              "prompts.set_current_version() — i.e. never move the shared CURRENT pointer "
+                              "every other model in the roster runs against. Use this whenever --models is a "
+                              "subset of the full roster (e.g. tuning a prompt for one model's quirks): "
+                              "without it, that model's own improving score silently promotes a prompt to "
+                              "production that was never tested against anything else in the roster. Real "
+                              "incident this was built to fix: a GLM-only auto-optimize chain (2026-08-27) "
+                              "repeatedly promoted CURRENT to versions tuned around GLM-specific failure "
+                              "modes that no other model in the roster had ever been tested against.")
     p_auto.add_argument("--rounds", type=int, default=3, help="Max rounds (default: 3)")
     p_auto.add_argument("--concurrency", type=int, default=6,
                          help="Max concurrent (model, article) generation calls within one round's test "
