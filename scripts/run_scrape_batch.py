@@ -102,12 +102,9 @@ def run(args) -> None:
     print(f"=== scrape batch {args.label!r} starting: pmc={args.pmc} eric={args.eric} "
           f"arxiv={args.arxiv} out={args.out} ===", flush=True)
 
-    existing_manifest_path = discover_articles.EVAL_ROOT / "corpus" / "manifest.json"
-    existing_ids = set()
-    if existing_manifest_path.exists():
-        existing = json.loads(existing_manifest_path.read_text(encoding="utf-8"))
-        existing_entries = existing if isinstance(existing, list) else existing.get("articles", [])
-        existing_ids = {e["id"] for e in existing_entries}
+    existing_ids = discover_articles.load_excluded_ids()
+    print(f"Excluding {len(existing_ids)} already-known article id(s) "
+          f"(benchmark manifest + processed-articles registry).", flush=True)
 
     topics = discover_articles.topics_from_wiki()
     state["discover"]["topics_seeded"] = len(topics)

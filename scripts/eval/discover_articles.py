@@ -51,6 +51,7 @@ import re
 import sys
 import time
 import xml.etree.ElementTree as ET
+from datetime import date
 from pathlib import Path
 
 import requests
@@ -60,6 +61,63 @@ from . import compliance
 WIKI_ROOT = Path(__file__).parent.parent.parent
 EVAL_ROOT = WIKI_ROOT / "eval"
 TIMEOUT = 30
+
+# Committed to git (small, text, a valuable historical record) — every
+# article id that has ever reached generation (eval_harness.py run),
+# regardless of outcome, so a later discovery batch doesn't re-spend the
+# real cost (paid model calls) re-generating something already processed.
+# Re-discovering and re-fetching a previously-failed-to-fetch article is
+# cheap and sometimes even useful (a PMC article "not yet in the OA corpus"
+# may become available later) — this registry is deliberately about the
+# expensive step, not every step. Written by ingest_extractions.py after
+# each run; read by load_excluded_ids() below, alongside the original
+# benchmark manifest.json.
+PROCESSED_REGISTRY_PATH = EVAL_ROOT / "corpus" / "processed_articles.json"
+
+
+def load_processed_registry() -> dict:
+    if not PROCESSED_REGISTRY_PATH.exists():
+        return {}
+    try:
+        return json.loads(PROCESSED_REGISTRY_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def record_processed_articles(entries: dict) -> None:
+    """Merge `entries` ({article_id: {outcome, run_id, model, pages}}) into
+    the persistent registry, stamping today's date, and write it back.
+    Never removes an existing entry — a later run touching the same id
+    (unlikely, since callers should be excluding registered ids already)
+    just overwrites that one id's record, same as a normal upsert."""
+    registry = load_processed_registry()
+    today = date.today().isoformat()
+    for article_id, info in entries.items():
+        registry[article_id] = {**info, "date": today}
+    PROCESSED_REGISTRY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    PROCESSED_REGISTRY_PATH.write_text(
+        json.dumps(registry, indent=2, sort_keys=True), encoding="utf-8"
+    )
+
+
+def load_excluded_ids() -> set:
+    """Article ids a fresh discovery pass should never re-surface: the
+    original 10-article benchmark corpus (manifest.json) plus every id in
+    the processed-articles registry. The single source of truth for this
+    union — both discover_articles.py's own main() and
+    run_scrape_batch.py's run() call this instead of each keeping their own
+    copy of the manifest.json-loading logic (they used to; that duplication
+    is exactly how this kind of check silently drifts out of sync)."""
+    ids = set(load_processed_registry().keys())
+    manifest_path = EVAL_ROOT / "corpus" / "manifest.json"
+    if manifest_path.exists():
+        try:
+            existing = json.loads(manifest_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            existing = {}
+        existing_entries = existing if isinstance(existing, list) else existing.get("articles", [])
+        ids |= {e["id"] for e in existing_entries}
+    return ids
 
 # See the module docstring — ERIC is the majority share (purpose-built
 # education database, stays on-topic), PMC is a smaller supplementary source
@@ -536,12 +594,9 @@ def main() -> None:
                               "(cache lives at eval/corpus/.discovery_cache.json)")
     args = parser.parse_args()
 
-    existing_manifest_path = EVAL_ROOT / "corpus" / "manifest.json"
-    existing_ids = set()
-    if existing_manifest_path.exists():
-        existing = json.loads(existing_manifest_path.read_text(encoding="utf-8"))
-        existing_entries = existing if isinstance(existing, list) else existing.get("articles", [])
-        existing_ids = {e["id"] for e in existing_entries}
+    existing_ids = load_excluded_ids()
+    print(f"Excluding {len(existing_ids)} already-known article id(s) "
+          f"(benchmark manifest + processed-articles registry).")
 
     topics = topics_from_wiki()
     if not topics:
