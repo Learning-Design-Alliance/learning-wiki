@@ -15,10 +15,13 @@ split. arXiv defaults to 0: export.arxiv.org (the host behind search_arxiv's
 API calls) serves a real, deliberate `User-agent: * / Disallow: /` for its
 entire domain (verified live — see eval/SOURCES.md), so there is no
 compliant way to query it via this script at all, not just a volume concern.
-Pass --arxiv > 0 to try anyway (compliance.py will correctly block every
-request; this isn't a bug to route around). Real arXiv coverage needs the
-officially sanctioned S3/Kaggle bulk metadata channels instead — a separate,
-larger undertaking than this live-query script, see eval/SOURCES.md. PMC
+Pass --arxiv > 0 with no --arxiv-snapshot to try the live API anyway
+(compliance.py will correctly block it; this isn't a bug to route around).
+Real arXiv coverage instead uses the officially sanctioned Kaggle bulk
+metadata snapshot (https://www.kaggle.com/datasets/Cornell-University/arxiv,
+updated weekly) — download it yourself (needs a Kaggle account API token)
+and pass --arxiv-snapshot <path to arxiv-metadata-oai-snapshot.json>; see
+build_arxiv_manifest_from_snapshot() below and eval/SOURCES.md. PMC
 (1 req/s) and ERIC (2s/req) scale to hundreds/thousands of individual
 fetches fine, so this weights entirely toward those two. This is a
 DISCOVERY step only — it
@@ -284,7 +287,13 @@ SEARCH_FNS = {"pmc": search_pmc, "arxiv": search_arxiv, "eric": search_eric}
 def build_manifest(targets: dict, topics: list, existing_ids: set, verbose: bool = True) -> list:
     """Round-robins every topic across each source until that source's
     target count is met or topics run out, deduplicating against
-    existing_ids (already in the benchmark manifest) and against itself."""
+    existing_ids (already in the benchmark manifest) and against itself.
+
+    A single topic's search call failing (compliance block, transient network
+    error, malformed response) is logged and skipped rather than aborting the
+    whole run — losing every already-collected result to one bad topic burned
+    a real run of this script (PMC's 20/20 was discarded twice by a later
+    ERIC/arXiv failure before this got fixed)."""
     manifest = []
     seen_ids = set(existing_ids)
 
@@ -297,7 +306,11 @@ def build_manifest(targets: dict, topics: list, existing_ids: set, verbose: bool
                 break
             if verbose:
                 print(f"[{source}] searching {topic!r} (have {collected}/{target})...")
-            results = fn(topic, count)
+            try:
+                results = fn(topic, count)
+            except Exception as e:  # noqa: BLE001 - one bad topic must not lose everything else
+                print(f"  [WARN] {source} search failed for {topic!r}: {e}", file=sys.stderr)
+                continue
             for entry in results:
                 if entry["id"] in seen_ids:
                     continue
@@ -312,13 +325,112 @@ def build_manifest(targets: dict, topics: list, existing_ids: set, verbose: bool
     return manifest
 
 
+# ---------------------------------------------------------------------------
+# arXiv via the Kaggle bulk metadata snapshot (offline — see module
+# docstring for why the live API is unusable and eval/SOURCES.md for the
+# verified robots.txt finding).
+# ---------------------------------------------------------------------------
+
+def build_arxiv_manifest_from_snapshot(snapshot_path: Path, topics: list, target: int,
+                                        existing_ids: set, verbose: bool = True) -> list:
+    """Single streaming pass over a downloaded Kaggle arXiv metadata snapshot
+    (https://www.kaggle.com/datasets/Cornell-University/arxiv — JSON Lines,
+    one paper object per line with id/title/abstract/authors/versions/...;
+    the maintainer updates it weekly, so it lags live arXiv by at most a few
+    days). This replaces search_arxiv()'s live API call, which
+    export.arxiv.org's robots.txt genuinely disallows in full. Only the
+    metadata comes from this offline file — the actual PDF fetch later, in
+    fetch_article.py, still hits the network, against arxiv.org's /pdf/<id>
+    path (a different, permitted host from export.arxiv.org), gated by
+    compliance.py's existing 15s-per-request floor for it.
+
+    One pass over the whole file, not one pass per topic — with millions of
+    lines, re-scanning per topic would be far too slow. Topic targets are
+    round-robined and a paper counts toward the first topic (in wiki order)
+    whose target isn't yet met and whose phrase appears, case-insensitively,
+    in that paper's title or abstract. This is a coarse substring match, not
+    a real search index — good enough for "gather plausible candidates," not
+    a precision claim; the prefetch-verify and downstream judging steps are
+    what actually validate each article, same as every other source here.
+    """
+    if not snapshot_path.exists():
+        raise DiscoveryError(
+            f"arXiv snapshot not found at {snapshot_path}. Download it first (needs a "
+            f"Kaggle account API token at ~/.kaggle/kaggle.json): "
+            f"kaggle datasets download -d Cornell-University/arxiv -p <dir> --unzip"
+        )
+
+    remaining = dict(zip(topics, _round_robin_counts(topics, target)))
+    seen_ids = set(existing_ids)
+    manifest = []
+    scanned = 0
+
+    with snapshot_path.open("r", encoding="utf-8") as f:
+        for line in f:
+            if len(manifest) >= target or not any(v > 0 for v in remaining.values()):
+                break
+            scanned += 1
+            if verbose and scanned % 200_000 == 0:
+                print(f"[arxiv-snapshot] scanned {scanned:,} lines, {len(manifest)}/{target} found...")
+            try:
+                paper = json.loads(line)
+            except ValueError:
+                continue
+
+            arxiv_id = (paper.get("id") or "").strip()
+            entry_id = f"arxiv-{arxiv_id}"
+            if not arxiv_id or entry_id in seen_ids:
+                continue
+            title = " ".join((paper.get("title") or "").split())
+            abstract = " ".join((paper.get("abstract") or "").split())
+            if not title:
+                continue
+            haystack = f"{title} {abstract}".lower()
+
+            for topic, need in remaining.items():
+                if need <= 0 or topic.lower() not in haystack:
+                    continue
+                year = None
+                versions = paper.get("versions") or []
+                date_str = versions[0].get("created") if versions else paper.get("update_date")
+                if date_str:
+                    m = re.search(r"\b(19|20)\d{2}\b", str(date_str))
+                    if m:
+                        year = int(m.group(0))
+                manifest.append({
+                    "id": entry_id,
+                    "source": "arxiv",
+                    "title": title,
+                    "authors": paper.get("authors") or "et al.",
+                    "year": year,
+                    "url": f"https://arxiv.org/abs/{arxiv_id}",
+                    "fetch_url": f"https://arxiv.org/pdf/{arxiv_id}",
+                    "topic_hint": topic,
+                })
+                seen_ids.add(entry_id)
+                remaining[topic] -= 1
+                break  # one paper counts toward one topic only
+
+    if verbose:
+        print(f"[arxiv-snapshot] done: {len(manifest)}/{target} candidates found "
+              f"(scanned {scanned:,} lines)\n")
+    return manifest
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--pmc", type=int, default=DEFAULT_TARGETS["pmc"], help="Target PMC candidate count")
     parser.add_argument("--eric", type=int, default=DEFAULT_TARGETS["eric"], help="Target ERIC candidate count")
     parser.add_argument("--arxiv", type=int, default=DEFAULT_TARGETS["arxiv"],
                          help="Target arXiv candidate count (default 0 — export.arxiv.org's "
-                              "robots.txt disallows all automated access; see module docstring)")
+                              "robots.txt disallows all automated access; pass --arxiv-snapshot "
+                              "to source candidates from the offline Kaggle metadata dump instead)")
+    parser.add_argument("--arxiv-snapshot", default=None,
+                         help="Path to a downloaded Kaggle arXiv metadata snapshot "
+                              "(arxiv-metadata-oai-snapshot.json from "
+                              "https://www.kaggle.com/datasets/Cornell-University/arxiv). If given "
+                              "and --arxiv > 0, arXiv candidates come from this file instead of the "
+                              "(blocked) live API.")
     parser.add_argument("--out", default=str(EVAL_ROOT / "corpus" / "manifest_bulk.json"),
                          help="Output manifest path (default: eval/corpus/manifest_bulk.json — "
                               "deliberately NOT manifest.json, so the original 10-article benchmark stays intact)")
@@ -337,8 +449,20 @@ def main() -> None:
         sys.exit(1)
     print(f"Seeded {len(topics)} search topics from theories/ + principles/.\n")
 
-    targets = {"pmc": args.pmc, "eric": args.eric, "arxiv": args.arxiv}
+    targets = {"pmc": args.pmc, "eric": args.eric}
+    if args.arxiv > 0 and not args.arxiv_snapshot:
+        # No snapshot given — attempt the live API anyway via the normal
+        # per-source loop, which now degrades gracefully (warns and moves on)
+        # instead of aborting the whole run when compliance.py blocks it.
+        targets["arxiv"] = args.arxiv
     manifest = build_manifest(targets, topics, existing_ids)
+
+    if args.arxiv > 0 and args.arxiv_snapshot:
+        arxiv_entries = build_arxiv_manifest_from_snapshot(
+            Path(args.arxiv_snapshot), topics, args.arxiv,
+            existing_ids | {e["id"] for e in manifest},
+        )
+        manifest.extend(arxiv_entries)
 
     out_path = Path(args.out)
     out_path.parent.mkdir(parents=True, exist_ok=True)
