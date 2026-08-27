@@ -159,8 +159,8 @@ def get_existing_slugs() -> dict:
     return result
 
 
-def load_manifest(article_ids=None) -> list:
-    manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+def load_manifest(article_ids=None, manifest_path: Path = None) -> list:
+    manifest = json.loads((manifest_path or MANIFEST_PATH).read_text(encoding="utf-8"))
     articles = manifest["articles"]
     if article_ids:
         wanted = set(article_ids)
@@ -557,7 +557,8 @@ def cmd_run(args: argparse.Namespace) -> None:
         sys.exit(1)
 
     run_id = args.run_id or datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
-    articles = load_manifest(args.articles)
+    manifest_path = Path(args.manifest) if args.manifest else None
+    articles = load_manifest(args.articles, manifest_path=manifest_path)
     if args.limit:
         articles = articles[:args.limit]
 
@@ -1867,6 +1868,12 @@ def main() -> None:
     p_run = subparsers.add_parser("run", help="Generate + validate + judge a batch of (model, article) pairs")
     p_run.add_argument("--models", nargs="+", required=True)
     p_run.add_argument("--articles", nargs="+", default=None, help="Article ids to restrict to (default: all)")
+    p_run.add_argument("--manifest", default=None,
+                        help="Path to a manifest.json-shaped file to load articles from (default: the "
+                             "10-article benchmark corpus at eval/corpus/manifest.json) — e.g. "
+                             "eval/corpus/manifest_bulk.json from discover_articles.py, for a real batch "
+                             "that shouldn't disturb the benchmark corpus everything else in this harness "
+                             "is calibrated against.")
     p_run.add_argument("--limit", type=int, default=None)
     p_run.add_argument("--judges", nargs="+", default=["opus", "gpt"], choices=["opus", "gpt", "gemini"])
     p_run.add_argument("--gpt-judge-model", default="gpt-5.6-luna")

@@ -116,9 +116,13 @@ def fetch_article_text(entry: dict, refresh: bool = False) -> str:
 def main() -> None:
     """Prefetch/verify the whole manifest without calling any model — run this
     first to confirm every URL in the manifest still resolves before spending
-    money on generation calls."""
+    money on generation calls. Pass --manifest <path> to check a different
+    manifest file (e.g. discover_articles.py's output) instead of the default
+    10-article benchmark corpus."""
     import json
     manifest_path = EVAL_ROOT / "corpus" / "manifest.json"
+    if "--manifest" in sys.argv:
+        manifest_path = Path(sys.argv[sys.argv.index("--manifest") + 1])
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     refresh = "--refresh-cache" in sys.argv
 
