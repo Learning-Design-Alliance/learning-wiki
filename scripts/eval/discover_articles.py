@@ -395,14 +395,27 @@ def build_arxiv_manifest_from_snapshot(snapshot_path: Path, topics: list, target
     compliance.py's existing 15s-per-request floor for it.
 
     One pass over the whole file, not one pass per topic — with millions of
-    lines, re-scanning per topic would be far too slow. Topic targets are
-    round-robined and a paper counts toward the first topic (in wiki order)
-    whose target isn't yet met and whose phrase appears, case-insensitively,
-    in that paper's title or abstract. This is a coarse substring match, not
-    a real search index — good enough for "gather plausible candidates," not
-    a precision claim; the prefetch-verify and downstream judging steps are
-    what actually validate each article, same as every other source here.
+    lines, re-scanning per topic would be far too slow. Restricted first to
+    the physics.ed-ph category (Physics Education Research) — arXiv doesn't
+    have a general education-research corpus the way PMC/ERIC do, and a bare
+    keyword match against ALL of arXiv produces real false positives: an
+    early test hit "activation" (one of our wiki topics) matching "Resonant
+    activation in bistable semiconductor lasers," a paper with nothing to do
+    with learning science. physics.ed-ph is arXiv's one category that's
+    actually about pedagogy, so within it a keyword match is far more likely
+    to be genuinely relevant. This makes arXiv's real yield here small and
+    that's expected, not a bug — see the module docstring on why arXiv is
+    weighted small overall.
+
+    Within that category, topic targets are round-robined and a paper counts
+    toward the first topic (in wiki order) whose target isn't yet met and
+    whose phrase appears, case-insensitively, in that paper's title or
+    abstract — a coarse substring match, not a real search index, but the
+    category restriction above is what actually keeps results on-topic; the
+    prefetch-verify and downstream judging steps are what validate each
+    article beyond that, same as every other source here.
     """
+    RELEVANT_CATEGORIES = {"physics.ed-ph"}
     if not snapshot_path.exists():
         raise DiscoveryError(
             f"arXiv snapshot not found at {snapshot_path}. Download it first (needs a "
@@ -430,6 +443,9 @@ def build_arxiv_manifest_from_snapshot(snapshot_path: Path, topics: list, target
             arxiv_id = (paper.get("id") or "").strip()
             entry_id = f"arxiv-{arxiv_id}"
             if not arxiv_id or entry_id in seen_ids:
+                continue
+            paper_categories = set((paper.get("categories") or "").split())
+            if not (paper_categories & RELEVANT_CATEGORIES):
                 continue
             title = " ".join((paper.get("title") or "").split())
             abstract = " ".join((paper.get("abstract") or "").split())
