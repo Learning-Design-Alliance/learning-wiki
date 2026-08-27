@@ -806,7 +806,30 @@ class Handler(SimpleHTTPRequestHandler):
         self.wfile.write(body.encode("utf-8"))
 
 
+def _ensure_scrape_page_exists() -> None:
+    """scrape.html is normally written by run_scrape_batch.py's own
+    _save_state() the first time a batch actually runs — a droplet where
+    none ever has (a fresh provision, or one that's only used
+    eval_harness.py run/auto-optimize so far) has no such file at all, and
+    SimpleHTTPRequestHandler serves a bare 404 for it with no indication
+    anything is wrong or what to do next. Write a placeholder "nothing has
+    run yet, here's the launch form" page at startup so /scrape.html always
+    resolves to something useful."""
+    RUNS_DIR.mkdir(parents=True, exist_ok=True)
+    scrape_page = RUNS_DIR / "scrape.html"
+    if scrape_page.exists():
+        return
+    state = {}
+    if SCRAPE_STATE_PATH.exists():
+        try:
+            state = json.loads(SCRAPE_STATE_PATH.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            state = {}
+    scrape_page.write_text(scrape_report.render_html(state), encoding="utf-8")
+
+
 def main() -> None:
+    _ensure_scrape_page_exists()
     server = ThreadingHTTPServer(("127.0.0.1", PORT), Handler)
     print(f"Serving {RUNS_DIR} on http://127.0.0.1:{PORT} "
           f"(static files + POST /launch-auto-optimize, /delete-run, /rerun-run, /set-current-version, "
