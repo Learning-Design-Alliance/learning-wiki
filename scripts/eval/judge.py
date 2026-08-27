@@ -44,7 +44,18 @@ finding — even if other scores are high.
 """
 
 
-def build_judge_user_prompt(article_text: str, extraction_json_text: str, max_chars: int = 40_000) -> str:
+def build_judge_user_prompt(article_text: str, extraction_json_text: str, max_chars: int = 60_000) -> str:
+    # Must be >= prompts.build_user_prompt's own max_chars (currently 60_000)
+    # — a shorter judge window than the extraction model's own budget means
+    # the judge can flag real content the model actually read (and correctly
+    # reported) as "fabricated," simply because the judge's truncated view
+    # never reached it. Confirmed live: a long RCT article's mathematics-
+    # focus-score statistic was independently flagged as fabricated by every
+    # judge across a dozen+ prompt versions and two different extraction
+    # models — the consistent factor across all of them turned out to be the
+    # judge, not the model, since every one of those judge calls was reading
+    # a shorter slice of the same article than the model that produced the
+    # claim ever saw.
     text = article_text.strip()
     if len(text) > max_chars:
         text = text[:max_chars] + "\n\n[TRUNCATED]"
@@ -231,7 +242,9 @@ doesn't clearly confirm or deny this specific, exact statement.
 
 
 def build_subclaim_judge_user_prompt(article_text: str, subclaim_text: str, evidence_context: str,
-                                      max_chars: int = 40_000) -> str:
+                                      max_chars: int = 60_000) -> str:
+    # See build_judge_user_prompt's comment — must stay >= the extraction
+    # model's own article budget.
     text = article_text.strip()
     if len(text) > max_chars:
         text = text[:max_chars] + "\n\n[TRUNCATED]"

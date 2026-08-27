@@ -475,8 +475,8 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
 <meta charset="utf-8">
 <title>Eval run: {_esc(run_id)}</title>
 <style>
-  :root {{ color-scheme: light; }}
-  .viz-root {{
+  :root {{
+    color-scheme: light;
     --surface-1: #fcfcfb; --page: #f9f9f7;
     --text-primary: #0b0b0b; --text-secondary: #52514e; --text-muted: #898781;
     --gridline: #e1e0d9; --axis: #c3c2b7;
@@ -484,8 +484,14 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
     --border: rgba(11,11,11,0.10);
 {light_vars}
   }}
+  /* Variables live on :root (not .viz-root) so body's `background: var(--page)`
+     below — an ANCESTOR of .viz-root in the DOM — can actually see them.
+     Custom properties cascade to descendants only; declaring these one level
+     too low left dark-mode text color (white) flipping correctly while the
+     page background silently fell back to the browser default (white),
+     making most of the page's text invisible against it. */
   @media (prefers-color-scheme: dark) {{
-    :root:where(:not([data-theme="light"])) .viz-root {{
+    :root:where(:not([data-theme="light"])) {{
       --surface-1: #1a1a19; --page: #0d0d0d;
       --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #898781;
       --gridline: #2c2c2a; --axis: #383835;
@@ -494,7 +500,7 @@ def render_html(run_id: str, generated: str, rows: list, by_model: dict, failure
 {dark_vars}
     }}
   }}
-  :root[data-theme="dark"] .viz-root {{
+  :root[data-theme="dark"] {{
     --surface-1: #1a1a19; --page: #0d0d0d;
     --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #898781;
     --gridline: #2c2c2a; --axis: #383835;

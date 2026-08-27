@@ -85,16 +85,22 @@ def render_html(round_log: list, baseline_run: str, final_run_id: str, current_p
 <meta charset="utf-8">
 <title>Auto-optimize: {_esc(baseline_run)}</title>
 <style>
-  :root {{ color-scheme: light; }}
-  .viz-root {{
+  :root {{
+    color-scheme: light;
     --surface-1: #fcfcfb; --page: #f9f9f7;
     --text-primary: #0b0b0b; --text-secondary: #52514e; --text-muted: #898781;
     --gridline: #e1e0d9; --axis: #c3c2b7;
     --status-good: #0ca30c; --status-critical: #d03b3b;
     --border: rgba(11,11,11,0.10);
   }}
+  /* Variables live on :root (not .viz-root) — see html_report.py's identical
+     fix for why: body's background: var(--page) is an ANCESTOR of .viz-root
+     in the DOM, and custom properties cascade only to descendants, so a
+     variable declared on .viz-root is invisible to body — dark mode's text
+     color flips correctly (inside .viz-root) while the page background stays
+     stuck at the browser default (white), making the text unreadable. */
   @media (prefers-color-scheme: dark) {{
-    :root:where(:not([data-theme="light"])) .viz-root {{
+    :root:where(:not([data-theme="light"])) {{
       --surface-1: #1a1a19; --page: #0d0d0d;
       --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #898781;
       --gridline: #2c2c2a; --axis: #383835;
@@ -102,7 +108,7 @@ def render_html(round_log: list, baseline_run: str, final_run_id: str, current_p
       --border: rgba(255,255,255,0.10);
     }}
   }}
-  :root[data-theme="dark"] .viz-root {{
+  :root[data-theme="dark"] {{
     --surface-1: #1a1a19; --page: #0d0d0d;
     --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #898781;
     --gridline: #2c2c2a; --axis: #383835;
