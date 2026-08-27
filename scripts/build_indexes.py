@@ -118,14 +118,14 @@ def build_folder_index(page_type: str, config: dict) -> str:
         empty_guidance = {
             "theories": (
                 "## How to add a theory\n\n"
-                "Create a file in `theories/` using the Theory template in [CLAUDE.md](/CLAUDE.md).\n\n"
+                "Create a file in `theories/` using the Theory template in [CLAUDE.md](../CLAUDE.md).\n\n"
                 "Examples of theories to add: Cognitive Load Theory, Self-Regulated Learning, "
                 "Constructivism, Information Processing Theory, Situated Cognition, "
                 "Dual Coding Theory, Worked Example Effect."
             ),
             "claims": (
                 "## How to add a claim\n\n"
-                "Create a file in `claims/` using the Claim template in [CLAUDE.md](/CLAUDE.md).\n\n"
+                "Create a file in `claims/` using the Claim template in [CLAUDE.md](../CLAUDE.md).\n\n"
                 "Claims are empirical statements with evidence ratings. "
                 "Each claim page needs: an ID (e.g. `CL-0001`), evidence strength, "
                 "at least one source with a DOI, and links to any competing claims.\n\n"
@@ -133,14 +133,14 @@ def build_folder_index(page_type: str, config: dict) -> str:
             ),
             "sources": (
                 "## How to add a source\n\n"
-                "Create a file in `sources/` using the Source template in [CLAUDE.md](/CLAUDE.md).\n\n"
+                "Create a file in `sources/` using the Source template in [CLAUDE.md](../CLAUDE.md).\n\n"
                 "Source pages are created when a claim or principle cites a specific paper or book. "
                 "Each source page needs: full citation, DOI/URL, a 2–4 sentence summary, "
                 "and links to claim pages the source supports."
             ),
         }
         guidance = empty_guidance.get(
-            page_type, "## No entries yet\n\nUse the template in [CLAUDE.md](/CLAUDE.md) to add pages."
+            page_type, "## No entries yet\n\nUse the template in [CLAUDE.md](../CLAUDE.md) to add pages."
         )
         lines.append(guidance)
         lines.append("")
@@ -182,7 +182,7 @@ def build_root_index(counts: dict) -> str:
         "# Learning Design Wiki",
         "",
         "A persistent, LLM-maintained knowledge base for learning design. "
-        "Read [CLAUDE.md](/CLAUDE.md) for the schema, page templates, and agent operating instructions.",
+        "Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.",
         "",
         "---",
         "",
@@ -196,7 +196,7 @@ def build_root_index(counts: dict) -> str:
         desc = config.get("description", "")
         count = counts.get(page_type, {}).get("total", 0)
         stable = counts.get(page_type, {}).get("stable", 0)
-        lines.append(f"### [{label}](/{page_type}/index.md) ({count})")
+        lines.append(f"### [{label}]({page_type}/index.md) ({count})")
         lines.append(f"{desc}")
         if stable:
             lines.append(f"*{stable} stable*")
@@ -207,8 +207,8 @@ def build_root_index(counts: dict) -> str:
         "",
         "## Quick navigation",
         "",
-        "* [Ingest & edit log](/log.md)",
-        "* [Schema & agent guide](/CLAUDE.md)",
+        "* [Ingest & edit log](log.md)",
+        "* [Schema & agent guide](CLAUDE.md)",
         "",
         "## How to use this wiki",
         "",
