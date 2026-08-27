@@ -60,6 +60,10 @@ Browse [open pull requests](https://github.com/Learning-Design-Alliance/learning
 
 See [CLAUDE.md](CLAUDE.md) for the full schema, page templates, and agent operating guide. Follow the templates and open a pull request against `main`.
 
+### Testing open-weight models for bulk ingest
+
+Before running a large-scale scrape against arXiv/ERIC/PubMed with a cheaper open-weight model (via OpenRouter), see [eval/README.md](eval/README.md) for the repeatable cost/speed/quality test harness — a fixed 10-article benchmark, a structural validator, and an LLM-judge quality check, so model choice is measured rather than assumed.
+
 ---
 
 ## Browse locally

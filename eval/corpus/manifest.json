@@ -1,0 +1,108 @@
+{
+  "_comment": "Fixed benchmark set for the OpenRouter ingestion test harness (see eval/README.md). 10 open-access articles across arXiv, ERIC, and PubMed Central, chosen for topical overlap with existing wiki content (spacing/retrieval practice, worked examples/cognitive load, self-regulation/feedback) so validator and judge scores are meaningful. Spot-check URLs before a paid run if this list has aged. PMC entries fetch via the BioC-PMC API (fetch_url), not by scraping the article HTML page (url) — see eval/SOURCES.md for why, and for the per-source compliance notes generally.",
+  "articles": [
+    {
+      "id": "arxiv-1602.07032",
+      "source": "arxiv",
+      "title": "Unbounded Human Learning: Optimal Scheduling for Spaced Repetition",
+      "authors": "Reddy, S., Levine, S., Dragan, A.",
+      "year": 2016,
+      "url": "https://arxiv.org/abs/1602.07032",
+      "fetch_url": "https://arxiv.org/pdf/1602.07032",
+      "topic_hint": "spacing effect / retrieval scheduling"
+    },
+    {
+      "id": "arxiv-2105.15106",
+      "source": "arxiv",
+      "title": "A Survey of Knowledge Tracing: Models, Variants, and Applications",
+      "authors": "Liu, Q., et al.",
+      "year": 2021,
+      "url": "https://arxiv.org/abs/2105.15106",
+      "fetch_url": "https://arxiv.org/pdf/2105.15106",
+      "topic_hint": "learner modeling survey (broad/theory test)"
+    },
+    {
+      "id": "arxiv-2409.16490",
+      "source": "arxiv",
+      "title": "Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs",
+      "authors": "et al.",
+      "year": 2024,
+      "url": "https://arxiv.org/abs/2409.16490",
+      "fetch_url": "https://arxiv.org/pdf/2409.16490",
+      "topic_hint": "tutoring feedback / formative assessment"
+    },
+    {
+      "id": "eric-ed599273",
+      "source": "eric",
+      "title": "Retrieval-Based Learning: A Decade of Progress",
+      "authors": "Karpicke, J. D., et al.",
+      "year": 2020,
+      "url": "https://eric.ed.gov/?id=ED599273",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/ED599273.pdf",
+      "topic_hint": "retrieval practice review"
+    },
+    {
+      "id": "eric-ej1327865",
+      "source": "eric",
+      "title": "The Effects of Retrieval Practice Across Levels of Thinking and Knowledge Types",
+      "authors": "et al.",
+      "year": 2022,
+      "url": "https://eric.ed.gov/?id=EJ1327865",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/EJ1327865.pdf",
+      "topic_hint": "retrieval practice / transfer"
+    },
+    {
+      "id": "eric-ej1276025",
+      "source": "eric",
+      "title": "Cognitive Load in Solving Mathematics Problems",
+      "authors": "et al.",
+      "year": 2021,
+      "url": "https://eric.ed.gov/?id=EJ1276025",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/EJ1276025.pdf",
+      "topic_hint": "worked examples / cognitive load"
+    },
+    {
+      "id": "eric-ed491961",
+      "source": "eric",
+      "title": "The Effectiveness of Worked Examples in a Game-Based Learning Environment",
+      "authors": "et al.",
+      "year": 2005,
+      "url": "https://eric.ed.gov/?id=ED491961",
+      "fetch_url": "https://files.eric.ed.gov/fulltext/ED491961.pdf",
+      "topic_hint": "worked examples"
+    },
+    {
+      "id": "pmc-9083074",
+      "source": "pubmed",
+      "pmcid": "PMC9083074",
+      "title": "Fostering Self-Regulated Learning in Online Environments: Positive Effects of a Web-Based Training With Peer Feedback on Learning Behavior",
+      "authors": "et al.",
+      "year": 2022,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9083074",
+      "fetch_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC9083074/unicode",
+      "topic_hint": "self-regulated learning / peer feedback RCT"
+    },
+    {
+      "id": "pmc-4237043",
+      "source": "pubmed",
+      "pmcid": "PMC4237043",
+      "title": "Self-Controlled Feedback Is Effective If It Is Based on the Learner's Performance: A Replication and Extension of Chiviacowsky and Wulf (2005)",
+      "authors": "et al.",
+      "year": 2014,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4237043",
+      "fetch_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC4237043/unicode",
+      "topic_hint": "self-controlled feedback"
+    },
+    {
+      "id": "pmc-5932263",
+      "source": "pubmed",
+      "pmcid": "PMC5932263",
+      "title": "Self-Regulated Learning of Important Information under Sequential and Simultaneous Encoding Conditions",
+      "authors": "et al.",
+      "year": 2018,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5932263",
+      "fetch_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC5932263/unicode",
+      "topic_hint": "self-regulated learning / encoding"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 Instructional building blocks — the components you compose into patterns.
 
-**239 entries** · 0 stable · 239 in review · 0 drafts
+**240 entries** · 0 stable · 239 in review · 1 drafts
 
 ---
 
@@ -247,3 +247,7 @@ Instructional building blocks — the components you compose into patterns.
 * [Whole-Class Sharing](whole-class-sharing.md) - The entire class participates in discussion or presentation of ideas, often following small-group activities.
 * [Whole-task performance](whole-task-performance.md) - Whole-task performance engages learners in authentic, complex tasks that integrate multiple skills and knowledge areas simultaneously, mirroring the conditions of real-world practice.
 * [Worked Examples](worked-examples.md) - Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
+
+## Draft
+
+* [Text underlining and annotating](text-underlining-and-annotating.md) - A study aid involving marking text to indicate importance.

@@ -5,3 +5,12 @@ __pycache__/
 .DS_Store
 .obsidian/
 .claude/skills-workspace/
+venv/
+
+# eval harness: cached article text (may be copyrighted full text) and
+# per-run outputs (regenerable, and can be large across many model x article
+# pairs) — never committed. Keep eval/corpus/manifest.json and eval/README.md.
+eval/corpus/cache/
+eval/corpus/.discovery_cache.json
+eval/corpus/manifest_*.json
+eval/runs/

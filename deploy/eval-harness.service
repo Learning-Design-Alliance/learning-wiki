@@ -1,0 +1,21 @@
+[Unit]
+Description=Learning Wiki OpenRouter eval harness
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=evalrunner
+WorkingDirectory=/opt/learning-wiki
+EnvironmentFile=/etc/eval-harness.env
+ExecStart=/opt/learning-wiki/deploy/run.sh
+# Cheap generation calls are cached per (run, model, article) in eval/runs/,
+# so a crash-and-restart just skips already-completed pairs and resumes —
+# safe to retry indefinitely rather than needing a bounded StartLimitBurst.
+Restart=on-failure
+RestartSec=60
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
