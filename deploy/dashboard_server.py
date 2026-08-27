@@ -50,6 +50,15 @@ nothing to actually execute:
                            status, so it's never silently reused as the
                            next launch's continuation baseline — pick one
                            explicitly with "Use as baseline" instead.
+  /launch-scrape          start a discover_articles.py + fetch_article.py
+                           batch (scripts/run_scrape_batch.py) — separate
+                           from auto-optimize's own launch/lock/state, since
+                           these are two independent long-running jobs a
+                           user could otherwise (mistakenly) run at once.
+                           Progress renders at /scrape.html.
+  /stop-scrape             kills the running scrape batch by its recorded
+                           pid (eval/runs/.scrape.lock), same pattern as
+                           /stop-auto-optimize.
 
 Stdlib only, deliberately: this process is always-on
 (eval-harness-web.service), so it stays minimal rather than pulling in a
@@ -71,6 +80,7 @@ import re
 import shutil
 import signal
 import subprocess
+import sys
 import time
 import urllib.parse
 from datetime import datetime, timezone
@@ -89,6 +99,23 @@ PORT = 8080
 MAX_ROUNDS = 20
 _SAFE_RUN_ID_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9_.-]*$")
 _SAFE_VERSION_RE = re.compile(r"^v\d+$")
+
+# scrape (discover_articles.py + fetch_article.py) launch/lock/state — kept
+# entirely separate from auto-optimize's own STATE_PATH/LOCK_PATH above,
+# since these are two independent long-running jobs a user could otherwise
+# (mistakenly) launch at once. scrape_report.py is stdlib-only (see its own
+# module docstring) so it's safe to import directly here even though this
+# server itself runs under system python, not the venv (see
+# eval-harness-web.service) — unlike discover_articles.py/fetch_article.py,
+# which need the venv's `requests` and are only ever launched as a
+# subprocess, never imported into this process.
+sys.path.insert(0, str(WIKI_ROOT))
+from scripts.eval import scrape_report  # noqa: E402 - after sys.path fixup, deliberately
+
+RUN_SCRAPE_SCRIPT = WIKI_ROOT / "scripts" / "run_scrape_batch.py"
+SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
+SCRAPE_LOCK_PATH = RUNS_DIR / ".scrape.lock"
+SCRAPE_CORPUS_DIR = (WIKI_ROOT / "eval" / "corpus").resolve()
 
 
 def _child_env() -> dict:
@@ -262,6 +289,51 @@ def _already_running() -> bool:
     return bool(pid and _pid_is_alive(pid))
 
 
+def _kill_and_reap(pid: int) -> None:
+    """SIGTERM (escalating to SIGKILL after ~2.5s), then reap the zombie via
+    waitpid. Found live, via this feature's own integration test: os.kill(pid, 0)
+    (what _pid_is_alive() checks) keeps returning success for a process
+    that has already exited but not yet been reaped — a kill-and-poll loop
+    using only that check believes the process is still "alive" forever.
+    This server never otherwise calls .wait()/.poll() on a process it
+    Popen'd (each stop handler only has the pid, recorded in a lock file,
+    not the original Popen object), and since it's always-on
+    (eval-harness-web.service), every stopped auto-optimize/scrape job
+    would leak a zombie for as long as the service keeps running without
+    this. Shared by both stop handlers below."""
+    os.kill(pid, signal.SIGTERM)
+    for _ in range(10):
+        try:
+            reaped, _ = os.waitpid(pid, os.WNOHANG)
+        except ChildProcessError:
+            return  # already reaped, or this process was never our direct child
+        if reaped == pid:
+            return
+        time.sleep(0.25)
+    os.kill(pid, signal.SIGKILL)
+    try:
+        os.waitpid(pid, 0)  # blocking, but SIGKILL is uncatchable so this returns almost immediately
+    except ChildProcessError:
+        pass
+
+
+def _scrape_already_running() -> bool:
+    """Same pattern as _already_running(), against SCRAPE_LOCK_PATH instead
+    — unlike auto-optimize's lock, this one is written and read entirely by
+    this server (run_scrape_batch.py has no lock of its own), so it only
+    catches a scrape launched through the dashboard, not a bare CLI
+    invocation run alongside it. Acceptable for now: the dashboard button
+    is the primary way this gets launched."""
+    if not SCRAPE_LOCK_PATH.exists():
+        return False
+    try:
+        info = json.loads(SCRAPE_LOCK_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return False
+    pid = info.get("pid")
+    return bool(pid and _pid_is_alive(pid))
+
+
 class Handler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=str(RUNS_DIR), **kwargs)
@@ -290,6 +362,8 @@ class Handler(SimpleHTTPRequestHandler):
             "/rerun-run": self._handle_rerun,
             "/use-as-baseline": self._handle_use_as_baseline,
             "/stop-auto-optimize": self._handle_stop_auto_optimize,
+            "/launch-scrape": self._handle_launch_scrape,
+            "/stop-scrape": self._handle_stop_scrape,
         }
         handler = handlers.get(self.path)
         if handler is None:
@@ -379,14 +453,7 @@ class Handler(SimpleHTTPRequestHandler):
             self._respond(400, "No auto-optimize search is currently running (a stale lock file was cleaned up).")
             return
 
-        os.kill(pid, signal.SIGTERM)
-        for _ in range(10):  # up to ~2.5s for a graceful exit before escalating
-            if not _pid_is_alive(pid):
-                break
-            time.sleep(0.25)
-        else:
-            os.kill(pid, signal.SIGKILL)
-            time.sleep(0.25)
+        _kill_and_reap(pid)
 
         LOCK_PATH.unlink(missing_ok=True)
 
@@ -407,6 +474,101 @@ class Handler(SimpleHTTPRequestHandler):
                 f"wrong baseline, or use \"Use as baseline\" on whichever run you actually want to "
                 f"continue from." if run_id else "")
         self._respond(200, f"Stopped (pid {pid}).{note}")
+
+    def _handle_launch_scrape(self, form: dict) -> None:
+        try:
+            pmc = int(form.get("pmc", ["0"])[0])
+            eric = int(form.get("eric", ["0"])[0])
+            arxiv = int(form.get("arxiv", ["0"])[0])
+        except ValueError:
+            self._respond(400, "pmc/eric/arxiv must be whole numbers.", redirect_to="/scrape.html")
+            return
+        if pmc < 0 or eric < 0 or arxiv < 0 or (pmc + eric + arxiv) == 0:
+            self._respond(400, "pmc/eric/arxiv must be non-negative, and at least one must be > 0.",
+                           redirect_to="/scrape.html")
+            return
+
+        out = (form.get("out", [""])[0] or "").strip() or "eval/corpus/manifest_bulk.json"
+        # Becomes an argv element passed to a subprocess (not shell-
+        # interpolated, so not a command-injection vector) — but an
+        # absolute or ../-escaping path could still point outside
+        # eval/corpus/ at a file evalrunner can write, so constrain it.
+        out_path = (WIKI_ROOT / out).resolve()
+        if SCRAPE_CORPUS_DIR != out_path.parent and SCRAPE_CORPUS_DIR not in out_path.parents:
+            self._respond(400, f"Output path must be inside eval/corpus/, got: {out}", redirect_to="/scrape.html")
+            return
+
+        if _scrape_already_running():
+            self._respond(409, "A scrape batch is already running — check /scrape.html's status or "
+                                "console log before starting another.", redirect_to="/scrape.html")
+            return
+        if not VENV_PYTHON.exists():
+            self._respond(500, f"{VENV_PYTHON} not found — is the venv set up?", redirect_to="/scrape.html")
+            return
+        if not RUN_SCRAPE_SCRIPT.exists():
+            self._respond(500, f"{RUN_SCRAPE_SCRIPT} not found.", redirect_to="/scrape.html")
+            return
+
+        label = f"scrape-{int(time.time())}"
+        launch_args = ["--pmc", str(pmc), "--eric", str(eric), "--arxiv", str(arxiv),
+                        "--out", str(out_path.relative_to(WIKI_ROOT)), "--label", label]
+        log_path = RUNS_DIR / f"web-scrape-{int(time.time())}.log"
+        log_file = open(log_path, "w", encoding="utf-8")
+        proc = subprocess.Popen(
+            [str(VENV_PYTHON), "-u", str(RUN_SCRAPE_SCRIPT), *launch_args],
+            cwd=str(WIKI_ROOT), stdout=log_file, stderr=subprocess.STDOUT,
+            start_new_session=True, env=_child_env(),
+        )
+        SCRAPE_LOCK_PATH.write_text(json.dumps({
+            "pid": proc.pid, "label": label,
+            "started_at": datetime.now(timezone.utc).isoformat(),
+        }), encoding="utf-8")
+
+        # Same reasoning as _handle_launch: an immediate-exit failure (bad
+        # args, missing snapshot file, no wiki topics found) fires within a
+        # second or two with no API calls needed, so a bounded wait catches
+        # it and shows it directly instead of a blind redirect.
+        time.sleep(2.5)
+        if proc.poll() is not None and proc.returncode != 0:
+            tail = _tail_log(log_path)
+            SCRAPE_LOCK_PATH.unlink(missing_ok=True)
+            self._respond(500, f"Scrape batch exited immediately (exit code {proc.returncode}) — it did "
+                                f"not start.\n\nLast log lines:\n{tail}", redirect_to="/scrape.html")
+            return
+
+        self._respond(200, f"Scrape batch {label!r} launched (pmc={pmc}, eric={eric}, arxiv={arxiv}, "
+                            f"out={out}). See /scrape.html for live progress.", redirect_to="/scrape.html")
+
+    def _handle_stop_scrape(self, form: dict) -> None:
+        """Same pattern as _handle_stop_auto_optimize — see its docstring."""
+        if not SCRAPE_LOCK_PATH.exists():
+            self._respond(400, "No scrape batch is currently running.", redirect_to="/scrape.html")
+            return
+        try:
+            info = json.loads(SCRAPE_LOCK_PATH.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            info = {}
+        pid = info.get("pid")
+        if not pid or not _pid_is_alive(pid):
+            SCRAPE_LOCK_PATH.unlink(missing_ok=True)
+            self._respond(400, "No scrape batch is currently running (a stale lock file was cleaned up).",
+                           redirect_to="/scrape.html")
+            return
+
+        _kill_and_reap(pid)
+        SCRAPE_LOCK_PATH.unlink(missing_ok=True)
+
+        if SCRAPE_STATE_PATH.exists():
+            try:
+                state = json.loads(SCRAPE_STATE_PATH.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, OSError):
+                state = {}
+            state["status"] = "stopped_by_user"
+            state["finished_at"] = datetime.now(timezone.utc).isoformat()
+            SCRAPE_STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
+            (RUNS_DIR / "scrape.html").write_text(scrape_report.render_html(state), encoding="utf-8")
+
+        self._respond(200, f"Stopped scrape batch (pid {pid}).", redirect_to="/scrape.html")
 
     def _handle_delete_run(self, form: dict) -> None:
         run_id = (form.get("run_id", [""])[0] or "").strip()
@@ -621,7 +783,7 @@ class Handler(SimpleHTTPRequestHandler):
         # still gets a normal HTML page back.
         return "application/json" in self.headers.get("Accept", "")
 
-    def _respond(self, status: int, message: str) -> None:
+    def _respond(self, status: int, message: str, redirect_to: str = "/") -> None:
         if self._wants_json():
             body = json.dumps({"ok": status < 300, "message": message}).encode("utf-8")
             self.send_response(status)
@@ -632,10 +794,10 @@ class Handler(SimpleHTTPRequestHandler):
             return
         if status < 300:
             self.send_response(303)
-            self.send_header("Location", "/")
+            self.send_header("Location", redirect_to)
             self.end_headers()
             return
-        self._respond_html(status, f"<pre>{html.escape(message)}</pre><p><a href=\"/\">Back</a></p>")
+        self._respond_html(status, f"<pre>{html.escape(message)}</pre><p><a href=\"{redirect_to}\">Back</a></p>")
 
     def _respond_html(self, status: int, body: str) -> None:
         self.send_response(status)
@@ -647,7 +809,8 @@ class Handler(SimpleHTTPRequestHandler):
 def main() -> None:
     server = ThreadingHTTPServer(("127.0.0.1", PORT), Handler)
     print(f"Serving {RUNS_DIR} on http://127.0.0.1:{PORT} "
-          f"(static files + POST /launch-auto-optimize, /delete-run, /rerun-run, /set-current-version)")
+          f"(static files + POST /launch-auto-optimize, /delete-run, /rerun-run, /set-current-version, "
+          f"/launch-scrape, /stop-scrape) — scraper progress at /scrape.html")
     server.serve_forever()
 
 

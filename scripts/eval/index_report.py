@@ -900,7 +900,8 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
 <div class="viz-root">
   <h1>Eval harness — all runs</h1>
   <div class="meta">{len(run_summaries)} run(s) &middot; auto-refreshes every {AUTO_REFRESH_MS // 1000}s
-  {f' &middot; current prompt version: <code>{_esc(current_prompt_version)}</code> (what the next run will use)' if current_prompt_version else ''}</div>
+  {f' &middot; current prompt version: <code>{_esc(current_prompt_version)}</code> (what the next run will use)' if current_prompt_version else ''}
+  &middot; <a href="/scrape.html">Scraper progress →</a></div>
 
   {_auto_optimize_status_html(auto_optimize_state or {})}
   {_launch_form_html()}
