@@ -18,7 +18,7 @@ MODEL_DESCRIPTIONS = {
     "qwen/qwen3.8-27b": "Dense, 27B — open weight",
     "google/gemini-3.7-flash": "Frontier closed model — proprietary",
     "openai/gpt-5.6-luna": "Fast/affordable tier of GPT-5.6 — closed model, proprietary",
-    "z-ai/glm-5.3-flash": "Fast/affordable tier of GLM 5.3 — closed model, proprietary",
+    "z-ai/glm-5.3-flash": "Fast/affordable tier of GLM 5.3, MoE — open weight",
 }
 
 
