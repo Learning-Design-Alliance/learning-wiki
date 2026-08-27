@@ -42,13 +42,17 @@ def describe(model: str) -> str:
 # after confirming it's actually the thinking-budget failure mode.
 REASONING_DISABLED = {
     "qwen/qwen3.8-27b",
-    # Confirmed via standalone runs glm-5.3-flash-test-1/-2 (2026-08-27):
-    # every one of 10 articles hit completion_tokens=8000 (the max_tokens
-    # cap) with raw_text pure step-by-step reasoning prose and zero JSON —
-    # the exact same failure as qwen3.8-27b above, not a content-quality
-    # problem.
-    "z-ai/glm-5.3-flash",
 }
+
+# z-ai/glm-5.3-flash was tried here (2026-08-27) after glm-5.3-flash-test-1/-2
+# showed the same symptom as qwen3.8-27b (completion_tokens=8000, pure
+# reasoning prose, zero JSON) — but unlike qwen3.8-27b, OpenRouter rejected
+# reasoning.enabled=false outright with HTTP 400 "Reasoning is mandatory for
+# this endpoint and cannot be disabled" on every article. So this model's
+# reasoning genuinely can't be turned off; the fix is a larger --max-tokens
+# budget (room for the mandatory reasoning *and* the JSON answer after it),
+# not REASONING_DISABLED. Noting this here so nobody re-adds it and re-hits
+# the same 400.
 
 
 def needs_reasoning_disabled(model: str) -> bool:
