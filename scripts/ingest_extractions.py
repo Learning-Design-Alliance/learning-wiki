@@ -121,6 +121,7 @@ def _render_claim(contrib: dict, actor: str) -> tuple[dict, str]:
 
     anchor_slug = {}   # raw JSON anchor -> heading slug used in the rendered page
     anchor_label = {}  # raw JSON anchor -> human-readable heading label
+    used_headings = {}  # base heading slug -> how many evidence entries have used it so far
     ev_blocks = []
     sources = []
 
@@ -128,8 +129,21 @@ def _render_claim(contrib: dict, actor: str) -> tuple[dict, str]:
         raw_anchor = str(ev.get("anchor") or "")
         citation = (ev.get("citation") or "").strip()
         sid, author, year = _citation_id_author_year(citation)
-        label = f"{author.split(',')[0]} {year}".strip() if author and year else (raw_anchor or sid)
-        heading_slug = ok.slugify(label) or sid
+        base_label = f"{author.split(',')[0]} {year}".strip() if author and year else (raw_anchor or sid)
+        base_label = base_label or sid
+        base_slug = ok.slugify(base_label) or sid
+        # A study reporting more than one finding is common (e.g. two ANOVA
+        # results cited as two separate evidence entries) — without this,
+        # both entries collapse onto the SAME "### Author Year" heading and
+        # the SAME frontmatter sources[] id, which is wrong twice over: the
+        # subclaim -> evidence anchor links become ambiguous, and OKF's
+        # sources[] entries are supposed to be unique per id.
+        seen = used_headings.get(base_slug, 0)
+        used_headings[base_slug] = seen + 1
+        if seen:
+            heading_slug, label = f"{base_slug}-{seen + 1}", f"{base_label} ({seen + 1})"
+        else:
+            heading_slug, label = base_slug, base_label
         anchor_slug[raw_anchor] = heading_slug
         anchor_label[raw_anchor] = label
 
