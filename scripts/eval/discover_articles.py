@@ -241,12 +241,23 @@ ERIC_SEARCH_URL = "https://api.ies.ed.gov/eric/"
 
 
 def search_eric(query: str, rows: int) -> list:
+    """Returns manifest-shaped entries, restricted client-side to ED-prefixed
+    ERIC ids. ERIC uses two id prefixes: EJ ("ERIC Journal" — bibliographic
+    metadata only; the actual text stays with the original journal
+    publisher, ERIC has no redistribution rights) and ED ("ERIC Document" —
+    reports, conference papers, theses, and other grey literature ERIC does
+    have the rights to host full-text on files.eric.ed.gov). There is no
+    documented API field or query filter for this distinction (checked the
+    raw response schema directly — no such field is present); this was
+    confirmed empirically instead: every EJ-prefixed hit in an early test
+    batch 404'd against fulltext/<id>.pdf, while ED-prefixed ids match what
+    fetch_article.py can actually fetch. The filter is client-side, so this
+    over-fetches (asks the API for more than `rows`) to still hit the target
+    after EJ hits are discarded."""
     params = {
         "search": query,
         "format": "json",
-        "rows": str(rows),
-        # Only records ERIC itself marks as having a full-text PDF on
-        # files.eric.ed.gov — matches what fetch_article.py can actually fetch.
+        "rows": str(min(rows * 4, 200)),
         "fields": "id,title,author,publicationdateyear,peerreviewed",
     }
     try:
@@ -259,6 +270,8 @@ def search_eric(query: str, rows: int) -> list:
     entries = []
     for doc in docs:
         eric_id = doc.get("id", "").strip()
+        if not eric_id.upper().startswith("ED"):
+            continue
         title = doc.get("title", "").strip()
         if not eric_id or not title:
             continue
@@ -278,6 +291,8 @@ def search_eric(query: str, rows: int) -> list:
             "fetch_url": f"https://files.eric.ed.gov/fulltext/{eric_id}.pdf",
             "topic_hint": query,
         })
+        if len(entries) >= rows:
+            break
     return entries
 
 
