@@ -352,16 +352,38 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
                if r["model"] == model and r.get(metric_key) is not None]
         if not pts:
             continue
-        coords = [(x_for(rid), y_for(v), rid, v) for rid, v in pts]
-        path_d = "M " + " L ".join(f"{x:.1f} {y:.1f}" for x, y, _, _ in coords)
+        coords = [(x_for(rid), y_for(v), rid, v, run_order.index(rid)) for rid, v in pts]
+
+        # Break the connecting line wherever this model's next result isn't
+        # the very next run in run_order — e.g. glm-5.3-flash-test-1/-2 sit
+        # early in run_order (non-versioned runs sort before all v<N> runs,
+        # see history._run_order_key) but a later auto-v116 result is
+        # separated from them by a hundred-odd runs it didn't participate
+        # in. Drawing one straight line across that gap reads as a smooth
+        # trend that never happened. Only join truly adjacent runs; treat
+        # everything else as separate segments (a lone point becomes an
+        # unconnected dot, which is the honest picture).
+        segments, current = [], [coords[0]]
+        for prev, nxt in zip(coords, coords[1:]):
+            if nxt[4] - prev[4] == 1:
+                current.append(nxt)
+            else:
+                segments.append(current)
+                current = [nxt]
+        segments.append(current)
+
+        paths = "".join(
+            f'<path d="M ' + " L ".join(f"{x:.1f} {y:.1f}" for x, y, _, _, _ in seg) +
+            f'" fill="none" stroke="var(--series-{slot})" stroke-width="2"/>'
+            for seg in segments if len(seg) > 1
+        )
         dots = "".join(
             f'<circle cx="{x:.1f}" cy="{y:.1f}" r="4" fill="var(--series-{slot})" stroke="var(--surface-1)" '
             f'stroke-width="1.5"><title>{_esc(model)} — {_esc(rid)}: '
             f'{_esc(f"${v}" if unit == "$" else f"{v}{unit}")}</title></circle>'
-            for x, y, rid, v in coords
+            for x, y, rid, v, _ in coords
         )
-        series_parts.append(
-            f'<path d="{path_d}" fill="none" stroke="var(--series-{slot})" stroke-width="2"/>{dots}')
+        series_parts.append(f'{paths}{dots}')
 
     fracs = (0, 0.25, 0.5, 0.75, 1.0)
     gridlines = "".join(
