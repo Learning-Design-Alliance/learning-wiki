@@ -106,6 +106,19 @@ actually sanctioned, and what to do if a source blocks bulk access outright.
   for metadata at volume. Full-text PDFs still come from `files.eric.ed.gov`
   per document; there's no bulk full-text package equivalent to arXiv's S3
   bucket or PMC's OA Subset as far as this research found.
+- **`api.ies.ed.gov`'s `/robots.txt` returns HTTP 403 with body
+  `{"message":"Missing Authentication Token"}`** (verified live) — that's the
+  standard AWS API Gateway response for a path that matches no configured
+  route, meaning this host doesn't actually publish a robots.txt; it's an
+  infrastructure artifact, not a policy. Python's `robotparser` reads any 403
+  as "disallow everything," which would otherwise block the exact API
+  endpoint named above as ERIC's own sanctioned metadata channel.
+  `compliance.py` carries a narrow, cited `API_TERMS_OVERRIDE` for this host
+  so `check_allowed()` skips that false disallow; rate limiting still
+  applies in full. (`eric.ed.gov`'s own robots.txt, used for the
+  `files.eric.ed.gov` full-text PDF fetch above, is a separate host and
+  still hasn't been verified from any environment this project has run in —
+  re-check it before scaling ERIC's full-text volume up.)
 - **Third-party mirror**: none found. Unlike arXiv and PMC, ERIC doesn't
   appear to have an official Kaggle/Hugging Face mirror — the ERIC API/bulk
   XML export is the closest thing to a "backup source" here.

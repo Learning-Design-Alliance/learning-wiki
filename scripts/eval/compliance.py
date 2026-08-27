@@ -73,8 +73,20 @@ FALLBACK_MIN_DELAY = 3.0  # any domain not listed above
 #     which already notes this exact tension for the sibling BioC endpoint:
 #     "independent of what robots.txt says"). Rate limiting below still
 #     applies in full — this override only concerns the allow/disallow check.
+#
+#   api.ies.ed.gov (ERIC's official API host): fetching /robots.txt returns
+#     HTTP 403 with the body {"message":"Missing Authentication Token"} — the
+#     standard AWS API Gateway response for a path that doesn't match any
+#     configured route, i.e. this host has no real robots.txt at all, just an
+#     infrastructure artifact for an unmapped path. Python's robotparser
+#     treats any 403 as "disallow everything for everyone," which is a false
+#     signal here, not a published policy. ERIC's own API documentation
+#     (see eval/SOURCES.md) names this exact host/endpoint as the first-party
+#     sanctioned channel for automated ERIC search. Rate limiting below still
+#     applies in full — this override only concerns the allow/disallow check.
 API_TERMS_OVERRIDE = {
     "eutils.ncbi.nlm.nih.gov",
+    "api.ies.ed.gov",
 }
 
 _robots_cache: dict = {}
