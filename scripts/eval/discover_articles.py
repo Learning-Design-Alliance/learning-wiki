@@ -298,11 +298,35 @@ def search_eric(query: str, rows: int) -> list:
 
 SEARCH_FNS = {"pmc": search_pmc, "arxiv": search_arxiv, "eric": search_eric}
 
+# Per-topic search results, keyed by "source::topic::count" — re-running this
+# script from scratch (e.g. after a downstream bug forced a fix + re-run)
+# was re-hitting PMC/ERIC's live APIs for the same 137 topics every time:
+# wasteful for them and slow for us. A cache hit skips the live call
+# entirely; --refresh-cache (or use_cache=False) bypasses it.
+DISCOVERY_CACHE_PATH = EVAL_ROOT / "corpus" / ".discovery_cache.json"
 
-def build_manifest(targets: dict, topics: list, existing_ids: set, verbose: bool = True) -> list:
+
+def _load_discovery_cache() -> dict:
+    if DISCOVERY_CACHE_PATH.exists():
+        try:
+            return json.loads(DISCOVERY_CACHE_PATH.read_text(encoding="utf-8"))
+        except ValueError:
+            return {}
+    return {}
+
+
+def _save_discovery_cache(cache: dict) -> None:
+    DISCOVERY_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    DISCOVERY_CACHE_PATH.write_text(json.dumps(cache, indent=2), encoding="utf-8")
+
+
+def build_manifest(targets: dict, topics: list, existing_ids: set, verbose: bool = True,
+                    use_cache: bool = True) -> list:
     """Round-robins every topic across each source until that source's
     target count is met or topics run out, deduplicating against
     existing_ids (already in the benchmark manifest) and against itself.
+    Dedup happens fresh on every run even for a cached topic result, so a
+    changed existing_ids/seen_ids set is still respected correctly.
 
     A single topic's search call failing (compliance block, transient network
     error, malformed response) is logged and skipped rather than aborting the
@@ -311,6 +335,7 @@ def build_manifest(targets: dict, topics: list, existing_ids: set, verbose: bool
     ERIC/arXiv failure before this got fixed)."""
     manifest = []
     seen_ids = set(existing_ids)
+    cache = _load_discovery_cache() if use_cache else {}
 
     for source, target in targets.items():
         fn = SEARCH_FNS[source]
@@ -319,13 +344,23 @@ def build_manifest(targets: dict, topics: list, existing_ids: set, verbose: bool
         for topic, count in zip(topics, per_topic_counts):
             if collected >= target:
                 break
-            if verbose:
-                print(f"[{source}] searching {topic!r} (have {collected}/{target})...")
-            try:
-                results = fn(topic, count)
-            except Exception as e:  # noqa: BLE001 - one bad topic must not lose everything else
-                print(f"  [WARN] {source} search failed for {topic!r}: {e}", file=sys.stderr)
-                continue
+            cache_key = f"{source}::{topic}::{count}"
+            if use_cache and cache_key in cache:
+                if verbose:
+                    print(f"[{source}] {topic!r} (cached, have {collected}/{target})...")
+                results = cache[cache_key]
+            else:
+                if verbose:
+                    print(f"[{source}] searching {topic!r} (have {collected}/{target})...")
+                try:
+                    results = fn(topic, count)
+                except Exception as e:  # noqa: BLE001 - one bad topic must not lose everything else
+                    print(f"  [WARN] {source} search failed for {topic!r}: {e}", file=sys.stderr)
+                    continue
+                if use_cache:
+                    cache[cache_key] = results
+                    _save_discovery_cache(cache)  # written per-topic, not just at the end, so a
+                                                   # crash partway through doesn't lose progress
             for entry in results:
                 if entry["id"] in seen_ids:
                     continue
@@ -449,6 +484,9 @@ def main() -> None:
     parser.add_argument("--out", default=str(EVAL_ROOT / "corpus" / "manifest_bulk.json"),
                          help="Output manifest path (default: eval/corpus/manifest_bulk.json — "
                               "deliberately NOT manifest.json, so the original 10-article benchmark stays intact)")
+    parser.add_argument("--refresh-cache", action="store_true",
+                         help="Ignore cached per-topic PMC/ERIC search results and re-query live "
+                              "(cache lives at eval/corpus/.discovery_cache.json)")
     args = parser.parse_args()
 
     existing_manifest_path = EVAL_ROOT / "corpus" / "manifest.json"
@@ -470,7 +508,7 @@ def main() -> None:
         # per-source loop, which now degrades gracefully (warns and moves on)
         # instead of aborting the whole run when compliance.py blocks it.
         targets["arxiv"] = args.arxiv
-    manifest = build_manifest(targets, topics, existing_ids)
+    manifest = build_manifest(targets, topics, existing_ids, use_cache=not args.refresh_cache)
 
     if args.arxiv > 0 and args.arxiv_snapshot:
         arxiv_entries = build_arxiv_manifest_from_snapshot(

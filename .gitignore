@@ -10,4 +10,7 @@ __pycache__/
 # per-run outputs (regenerable, and can be large across many model x article
 # pairs) — never committed. Keep eval/corpus/manifest.json and eval/README.md.
 eval/corpus/cache/
+eval/corpus/.discovery_cache.json
+eval/corpus/manifest_bulk.json
+eval/corpus/manifest_test.json
 eval/runs/
