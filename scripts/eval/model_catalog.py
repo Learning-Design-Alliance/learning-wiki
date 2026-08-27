@@ -42,6 +42,12 @@ def describe(model: str) -> str:
 # after confirming it's actually the thinking-budget failure mode.
 REASONING_DISABLED = {
     "qwen/qwen3.8-27b",
+    # Confirmed via standalone runs glm-5.3-flash-test-1/-2 (2026-08-27):
+    # every one of 10 articles hit completion_tokens=8000 (the max_tokens
+    # cap) with raw_text pure step-by-step reasoning prose and zero JSON —
+    # the exact same failure as qwen3.8-27b above, not a content-quality
+    # problem.
+    "z-ai/glm-5.3-flash",
 }
 
 
