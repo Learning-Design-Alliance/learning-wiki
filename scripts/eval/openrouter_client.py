@@ -40,6 +40,7 @@ def generate(
     max_tokens: int = 8000,
     temperature: float = 0.2,
     disable_reasoning: bool = False,
+    reasoning_effort: Optional[str] = None,
 ) -> GenerationResult:
     """Call one OpenRouter model, return raw usage/latency plus a resolved cost.
     Raises GenerationError on a non-retryable failure or on unparseable JSON.
@@ -50,7 +51,16 @@ def generate(
     OpenRouter's documented fix is this reasoning.enabled=false field, which
     is a no-op for models without a reasoning mode. A model that mandates
     reasoning and rejects this field raises a normal GenerationError below,
-    same as any other bad request — not a crash."""
+    same as any other bad request — not a crash.
+
+    reasoning_effort: for models where reasoning is mandatory and
+    enabled=false is itself rejected (see model_catalog.REASONING_EFFORT_LOW
+    — confirmed on z-ai/glm-5.3-flash, which 400s on enabled=false but
+    accepts reasoning.effort="low" with HTTP 200 and a clean finish_reason
+    of "stop"), this bounds how much the model reasons instead of trying to
+    turn it off outright. Mutually exclusive with disable_reasoning per
+    model — a model belongs in at most one of REASONING_DISABLED /
+    REASONING_EFFORT_LOW."""
     payload = {
         "model": model,
         "messages": [
@@ -64,6 +74,8 @@ def generate(
     }
     if disable_reasoning:
         payload["reasoning"] = {"enabled": False}
+    elif reasoning_effort:
+        payload["reasoning"] = {"effort": reasoning_effort}
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",

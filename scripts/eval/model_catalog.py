@@ -49,11 +49,33 @@ REASONING_DISABLED = {
 # reasoning prose, zero JSON) — but unlike qwen3.8-27b, OpenRouter rejected
 # reasoning.enabled=false outright with HTTP 400 "Reasoning is mandatory for
 # this endpoint and cannot be disabled" on every article. So this model's
-# reasoning genuinely can't be turned off; the fix is a larger --max-tokens
-# budget (room for the mandatory reasoning *and* the JSON answer after it),
-# not REASONING_DISABLED. Noting this here so nobody re-adds it and re-hits
-# the same 400.
+# reasoning genuinely can't be turned off — see REASONING_EFFORT_LOW below
+# for the fix that actually works. Noting this here so nobody re-adds it and
+# re-hits the same 400.
 
 
 def needs_reasoning_disabled(model: str) -> bool:
     return model in REASONING_DISABLED
+
+
+# Models where reasoning is mandatory (REASONING_DISABLED's enabled=false
+# gets a 400) but OpenRouter's reasoning.effort field is still honored —
+# confirmed on z-ai/glm-5.3-flash via a raw diagnostic call (2026-08-27):
+# effort="low" returned HTTP 200 with a clean finish_reason="stop" and
+# reasoning=null, vs. the harness's real runs consistently hitting
+# completion_tokens=8000/24000 with pure unfinished reasoning prose and no
+# JSON on the longer/harder articles (confirmed via glm-5.3-flash-test-*,
+# auto-v116 through auto-v118 — max_tokens alone, even at 24000, wasn't
+# enough on articles needing more reasoning). This bounds the reasoning
+# instead of trying to turn it off. A model belongs in at most one of
+# REASONING_DISABLED / REASONING_EFFORT_LOW.
+REASONING_EFFORT_LOW = {
+    "z-ai/glm-5.3-flash",
+}
+
+
+def reasoning_effort_for(model: str) -> str:
+    """The reasoning.effort value to send for `model`, or None for a model
+    not in REASONING_EFFORT_LOW (openrouter_client.generate() then sends no
+    effort field at all)."""
+    return "low" if model in REASONING_EFFORT_LOW else None

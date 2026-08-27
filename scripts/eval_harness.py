@@ -221,7 +221,8 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
     for attempt in range(max_correction_attempts + 1):
         try:
             gen = openrouter_client.generate(model, system_prompt, current_prompt, api_key, max_tokens=max_tokens,
-                                              disable_reasoning=model_catalog.needs_reasoning_disabled(model))
+                                              disable_reasoning=model_catalog.needs_reasoning_disabled(model),
+                                              reasoning_effort=model_catalog.reasoning_effort_for(model))
         except openrouter_client.GenerationError as e:
             record["generation"] = {"error": str(e)}
             return record
@@ -307,7 +308,8 @@ def run_one(model: str, entry: dict, existing_slugs: dict, api_key: str,
         def _one_comparison_sample():
             extra_gen = openrouter_client.generate(
                 model, system_prompt, original_user_prompt, api_key, max_tokens=max_tokens,
-                disable_reasoning=model_catalog.needs_reasoning_disabled(model))
+                disable_reasoning=model_catalog.needs_reasoning_disabled(model),
+                reasoning_effort=model_catalog.reasoning_effort_for(model))
             extra_parsed = extract_json(extra_gen.raw_text)
             return extra_gen.cost_usd or 0, consistency.extraction_identifier_set(extra_parsed)
 
