@@ -4,8 +4,8 @@ title: Headings and Highlight Strategy
 description: Students read an excerpt of a difficult article in Google Docs.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: claude/unspecified
+  at: 2026-08-28
 ---
 
 # Headings and Highlight Strategy
@@ -21,11 +21,11 @@ Students read an excerpt of a difficult article in Google Docs. First, they high
 #### Constraints
 - May require significant instructional time. Requires learners to actively engage with the text and each other.
 #### Implementation Variability
-- <!-- TODO -->
+- Some implementations run this as a general reading-comprehension technique across subjects; others narrow it to a specific content area (e.g., social studies) where the highlight-then-heading routine doubles as close reading of dense, information-heavy text. The core steps are the same either way — only the text selection and framing change.
 
 ### Target Learners
 <!-- Link to sub-claims -->
-- Middle school, high school, and adult learners who need to improve their reading comprehension and analysis skills.
+- Middle school, high school, and adult learners who need to improve their reading comprehension and analysis skills — e.g., social studies or other content-heavy subject classrooms, where the technique supports close reading of dense text.
 
 ### Target Learning Goals
 <!-- Link to sub-claims -->
@@ -48,7 +48,8 @@ Students read an excerpt of a difficult article in Google Docs. First, they high
 - Evaluate students' headings and highlights for accuracy and relevance. Track their ability to justify their thinking. Collect student reflections on their learning process.
 
 ## Impact
-- Active reading strategies have been shown to improve reading comprehension. Collaborative learning promotes engagement and deeper understanding.
+- The only real affordance of the technology is the ability to change the heading multiple times in a clean way. But it does help teachers see how to bring dialogue and discussion into the classroom, even when students are reading on the computer, and it has achieved the goal of slowing down reading.
+<!-- deprecated: earlier phrasing — "Active reading strategies have been shown to improve reading comprehension. Collaborative learning promotes engagement and deeper understanding." -->
 
 ## Related Strategies
 - <!-- TODO -->
