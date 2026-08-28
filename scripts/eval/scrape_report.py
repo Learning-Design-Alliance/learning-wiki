@@ -71,6 +71,29 @@ def _fetch_rows(fetch: dict) -> str:
     return "".join(rows)
 
 
+def _history_rows(history: list) -> str:
+    if not history:
+        return '<tr><td colspan="6" class="empty-note">No previous runs yet.</td></tr>'
+    rows = []
+    for h in reversed(history):  # newest first — archived in chronological (oldest-first) order
+        status = h.get("status", "unknown")
+        label, color = STATUS_LABELS.get(status, (status, "var(--text-secondary)"))
+        config = h.get("config") or {}
+        fetch = h.get("fetch") or {}
+        cfg_bits = [f"pmc={config.get('pmc', 0)}", f"eric={config.get('eric', 0)}", f"arxiv={config.get('arxiv', 0)}"]
+        if config.get("model"):
+            cfg_bits.append(_esc(config["model"]))
+        rows.append(
+            f'<tr><td>{_esc(h.get("label", "–"))}</td>'
+            f'<td><span class="status-pill" style="background:{color};">{_esc(label)}</span></td>'
+            f'<td>{" &middot; ".join(cfg_bits)}</td>'
+            f'<td class="num">{fetch.get("ok", 0)}/{fetch.get("total", 0)}</td>'
+            f'<td>{_esc((h.get("started_at") or "–")[:19].replace("T", " "))}</td>'
+            f'<td>{_esc((h.get("finished_at") or "–")[:19].replace("T", " ") if h.get("finished_at") else "–")}</td></tr>'
+        )
+    return "".join(rows)
+
+
 def _live_console_html() -> str:
     """Same pattern as index_report.py's _live_console_html() for
     auto-optimize: client-side polling of a fixed-path plain-text log
@@ -106,7 +129,7 @@ def _live_console_html() -> str:
     </script>"""
 
 
-def render_html(state: dict) -> str:
+def render_html(state: dict, history: list = None) -> str:
     status = state.get("status", "unknown")
     label, color = STATUS_LABELS.get(status, (status, "var(--text-secondary)"))
     config = state.get("config") or {}
@@ -199,10 +222,10 @@ def render_html(state: dict) -> str:
 </head>
 <body>
 <div class="viz-root">
+  <div class="meta"><a href="/">&larr; Home</a> &middot; <a href="/optimizer.html">Harness optimizer →</a></div>
   <h1>Scraper progress</h1>
   <div class="meta">Discovery (PMC/ERIC/arXiv) + prefetch-verify for a real ingest batch — updates live
-  every 5s while active, no page reload. <a href="/optimizer.html">Harness optimizer →</a>
-  &middot; <a href="/">&larr; Home</a></div>
+  every 5s while active, no page reload.</div>
 
   <div class="card">
     <div class="status-row">
@@ -255,6 +278,16 @@ def render_html(state: dict) -> str:
       <table class="idx-table">
         <thead><tr><th>Status</th><th>Article</th><th>Detail</th></tr></thead>
         <tbody id="fetch-body">{_fetch_rows(fetch)}</tbody>
+      </table>
+    </div>
+  </div>
+
+  <h2>Previous runs</h2>
+  <div class="card">
+    <div class="table-scroll">
+      <table class="idx-table">
+        <thead><tr><th>Label</th><th>Status</th><th>Config</th><th>Fetched</th><th>Started</th><th>Finished</th></tr></thead>
+        <tbody>{_history_rows(history or [])}</tbody>
       </table>
     </div>
   </div>

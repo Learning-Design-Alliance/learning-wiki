@@ -36,8 +36,10 @@ from scripts.eval import discover_articles, fetch_article, scrape_report
 
 RUNS_DIR = WIKI_ROOT / "eval" / "runs"
 SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
+SCRAPE_HISTORY_PATH = RUNS_DIR / ".scrape_history.json"
 SCRAPE_CONSOLE_LOG_PATH = RUNS_DIR / ".scrape_console.log"
 SCRAPE_REPORT_PATH = RUNS_DIR / "scrape.html"
+MAX_HISTORY = 20
 
 # entry["source"] values differ from the CLI/config vocabulary for PMC only
 # (search_pmc() sets "pubmed", to match the existing benchmark manifest.json
@@ -75,11 +77,53 @@ def _now() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
+def _load_history() -> list:
+    if not SCRAPE_HISTORY_PATH.exists():
+        return []
+    try:
+        return json.loads(SCRAPE_HISTORY_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return []
+
+
+def _trim_state_for_history(state: dict) -> dict:
+    """Drops the per-article fetch.results list (can be hundreds of entries)
+    before archiving — a past run's aggregate ok/fail counts are what a
+    history table needs, not the full per-article detail, which would make
+    .scrape_history.json grow unboundedly."""
+    trimmed = dict(state)
+    fetch = dict(trimmed.get("fetch") or {})
+    fetch.pop("results", None)
+    trimmed["fetch"] = fetch
+    trimmed.pop("pid", None)
+    return trimmed
+
+
+def _archive_current_state_if_any() -> None:
+    """Called once, before a new batch's first _save_state() overwrites
+    .scrape_state.json — .scrape_state.json is a singleton (today's whole
+    "previous runs" gap: there was no history at all, just whatever the
+    last batch left behind), so this is the one hook point that preserves
+    it: whatever the previous batch's last-recorded state was (completed,
+    errored, or killed mid-run and never updated again) gets appended to
+    .scrape_history.json right before it would otherwise be lost."""
+    if not SCRAPE_STATE_PATH.exists():
+        return
+    try:
+        prev_state = json.loads(SCRAPE_STATE_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return
+    history = _load_history()
+    history.append(_trim_state_for_history(prev_state))
+    history = history[-MAX_HISTORY:]
+    SCRAPE_HISTORY_PATH.write_text(json.dumps(history, indent=2), encoding="utf-8")
+
+
 def _save_state(state: dict) -> None:
     state["updated_at"] = _now()
     RUNS_DIR.mkdir(parents=True, exist_ok=True)
     SCRAPE_STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
-    SCRAPE_REPORT_PATH.write_text(scrape_report.render_html(state), encoding="utf-8")
+    SCRAPE_REPORT_PATH.write_text(scrape_report.render_html(state, history=_load_history()), encoding="utf-8")
 
 
 def _run_chained_step(cmd: list, log_path: Path) -> int:
@@ -96,6 +140,8 @@ def _run_chained_step(cmd: list, log_path: Path) -> int:
 
 
 def run(args) -> None:
+    _archive_current_state_if_any()
+
     config = {
         "pmc": args.pmc, "eric": args.eric, "arxiv": args.arxiv,
         "arxiv_snapshot": args.arxiv_snapshot, "out": args.out,

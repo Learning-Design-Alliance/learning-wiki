@@ -114,6 +114,7 @@ from scripts.eval import scrape_report, model_catalog  # noqa: E402 - after sys.
 
 RUN_SCRAPE_SCRIPT = WIKI_ROOT / "scripts" / "run_scrape_batch.py"
 SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
+SCRAPE_HISTORY_PATH = RUNS_DIR / ".scrape_history.json"
 SCRAPE_LOCK_PATH = RUNS_DIR / ".scrape.lock"
 SCRAPE_CORPUS_DIR = (WIKI_ROOT / "eval" / "corpus").resolve()
 
@@ -629,7 +630,8 @@ class Handler(SimpleHTTPRequestHandler):
             state["status"] = "stopped_by_user"
             state["finished_at"] = datetime.now(timezone.utc).isoformat()
             SCRAPE_STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
-            (RUNS_DIR / "scrape.html").write_text(scrape_report.render_html(state), encoding="utf-8")
+            (RUNS_DIR / "scrape.html").write_text(
+                scrape_report.render_html(state, history=_load_scrape_history()), encoding="utf-8")
 
         self._respond(200, f"Stopped scrape batch (pid {pid}).", redirect_to="/scrape.html")
 
@@ -869,6 +871,21 @@ class Handler(SimpleHTTPRequestHandler):
         self.wfile.write(body.encode("utf-8"))
 
 
+def _load_scrape_history() -> list:
+    """Mirrors run_scrape_batch.py's own _load_history() — duplicated per
+    this project's self-contained-module convention (each script that reads
+    .scrape_history.json owns its own tiny loader rather than importing
+    run_scrape_batch.py, which pulls in discover_articles.py/fetch_article.py
+    and their venv-only deps that this server, running under system python,
+    doesn't have)."""
+    if not SCRAPE_HISTORY_PATH.exists():
+        return []
+    try:
+        return json.loads(SCRAPE_HISTORY_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return []
+
+
 def _ensure_scrape_page_exists() -> None:
     """scrape.html is normally (re)written by run_scrape_batch.py's own
     _save_state() while a batch is actually running — between batches
@@ -889,7 +906,8 @@ def _ensure_scrape_page_exists() -> None:
             state = json.loads(SCRAPE_STATE_PATH.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, OSError):
             state = {}
-    (RUNS_DIR / "scrape.html").write_text(scrape_report.render_html(state), encoding="utf-8")
+    (RUNS_DIR / "scrape.html").write_text(
+        scrape_report.render_html(state, history=_load_scrape_history()), encoding="utf-8")
 
 
 def _ensure_home_page_exists() -> None:
