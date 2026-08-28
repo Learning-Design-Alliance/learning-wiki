@@ -39,6 +39,12 @@ jobs:
       - name: Build docs site
         run: mkdocs build
 
+      # Reports (doesn't fail the build) files left on gh-pages by keep_files: true
+      # for pages that have since been renamed or deleted, so they're easy to spot
+      # and clean up instead of accumulating silently.
+      - name: Check for orphaned gh-pages files
+        run: python3 scripts/find_orphaned_pages.py | tee -a "$GITHUB_STEP_SUMMARY"
+
       # Not `mkdocs gh-deploy` — that force-replaces the whole gh-pages branch history,
       # which would wipe out the pr-preview/ subfolders that pr-preview.yml deploys there.
       # keep_files: true leaves anything not part of this build (i.e. pr-preview/*) alone.
