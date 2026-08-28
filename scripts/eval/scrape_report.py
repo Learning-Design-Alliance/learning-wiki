@@ -15,13 +15,18 @@ template engine.
 
 import html
 
+from . import model_catalog
+
 STATUS_LABELS = {
     "discovering": ("Discovering", "var(--status-warn)"),
     "fetching": ("Fetching", "var(--status-warn)"),
+    "generating": ("Generating", "var(--status-warn)"),
+    "ingesting": ("Ingesting", "var(--status-warn)"),
     "completed": ("Completed", "var(--status-good)"),
     "error": ("Error", "var(--status-critical)"),
     "stopped_by_user": ("Stopped", "var(--status-critical)"),
 }
+ACTIVE_STATUSES = ("discovering", "fetching", "generating", "ingesting")
 
 
 def _esc(s) -> str:
@@ -41,6 +46,14 @@ def _source_rows(discover: dict) -> str:
             f'<td><div class="bar-track"><div class="bar-fill" style="width:{pct}%;"></div></div></td></tr>'
         )
     return "".join(rows)
+
+
+def _model_options_html(selected: str = None) -> str:
+    options = ['<option value="">(discover + fetch only, no generation)</option>']
+    for slug, desc in model_catalog.MODEL_DESCRIPTIONS.items():
+        sel = " selected" if slug == selected else ""
+        options.append(f'<option value="{_esc(slug)}"{sel}>{_esc(slug)} — {_esc(desc)}</option>')
+    return "".join(options)
 
 
 def _fetch_rows(fetch: dict) -> str:
@@ -99,7 +112,7 @@ def render_html(state: dict) -> str:
     config = state.get("config") or {}
     discover = state.get("discover") or {}
     fetch = state.get("fetch") or {}
-    is_active = status in ("discovering", "fetching")
+    is_active = status in ACTIVE_STATUSES
 
     fetch_total, fetch_ok, fetch_fail = fetch.get("total", 0), fetch.get("ok", 0), fetch.get("fail", 0)
     fetch_done_count = fetch_ok + fetch_fail
@@ -168,9 +181,10 @@ def render_html(state: dict) -> str:
   .btn-primary {{ background: var(--text-primary); color: var(--page); border-color: var(--text-primary); }}
   .btn-danger {{ border-color: var(--status-critical); color: var(--status-critical); }}
   .inline-form {{ display: inline; }}
-  .launch-form {{ display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; align-items: end; margin-top: 10px; }}
+  .launch-form {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;
+                   align-items: end; margin-top: 10px; }}
   .launch-form label {{ display: flex; flex-direction: column; gap: 4px; font-size: 12px; color: var(--text-secondary); }}
-  .launch-form input {{ font: inherit; padding: 6px 8px; border-radius: 6px; border: 1px solid var(--border);
+  .launch-form input, .launch-form select {{ font: inherit; padding: 6px 8px; border-radius: 6px; border: 1px solid var(--border);
                          background: var(--page); color: var(--text-primary); }}
   .log-box {{ background: #0d0d0d; color: #d7d7d2; font-family: ui-monospace, monospace; font-size: 12px;
               padding: 14px; border-radius: 8px; max-height: 320px; overflow-y: auto; white-space: pre-wrap;
@@ -194,6 +208,8 @@ def render_html(state: dict) -> str:
     <div class="config-line" id="config-line">
       pmc={config.get('pmc', '–')} &middot; eric={config.get('eric', '–')} &middot; arxiv={config.get('arxiv', '–')}
       &middot; out=<code>{_esc(config.get('out', '–'))}</code>
+      {f" &middot; model=<code>{_esc(config.get('model'))}</code>" if config.get('model') else ""}
+      {f" &middot; prompt={_esc(config.get('prompt_version'))}" if config.get('prompt_version') else ""}
       {f" &middot; error: {_esc(state.get('error_detail'))}" if state.get('error_detail') else ""}
     </div>
   </div>
@@ -222,6 +238,9 @@ def render_html(state: dict) -> str:
       <label>ERIC target<input type="number" name="eric" value="700" min="0" max="5000"></label>
       <label>arXiv target<input type="number" name="arxiv" value="0" min="0" max="500"></label>
       <label>Output manifest<input type="text" name="out" value="eval/corpus/manifest_real.json"></label>
+      <label>Model<select name="model">{_model_options_html(config.get('model'))}</select></label>
+      <label>Prompt version<input type="text" name="prompt_version" placeholder="blank = CURRENT"
+             value="{_esc(config.get('prompt_version') or '')}"></label>
       <button type="submit" class="btn btn-primary" id="launch-submit-btn" {"disabled" if is_active else ""}>Launch batch</button>
     </form>
     <p class="footer-note" id="launch-note" style="{'display:block;' if is_active else 'display:none;'}">A batch is already running — stop it before launching another.</p>
@@ -234,6 +253,8 @@ def render_html(state: dict) -> str:
     var STATUS_LABELS = {{
       discovering: ['Discovering', 'var(--status-warn)'],
       fetching: ['Fetching', 'var(--status-warn)'],
+      generating: ['Generating', 'var(--status-warn)'],
+      ingesting: ['Ingesting', 'var(--status-warn)'],
       completed: ['Completed', 'var(--status-good)'],
       error: ['Error', 'var(--status-critical)'],
       stopped_by_user: ['Stopped', 'var(--status-critical)']
@@ -272,7 +293,7 @@ def render_html(state: dict) -> str:
     function applyState(state) {{
       var status = state.status || 'unknown';
       var labelColor = STATUS_LABELS[status] || [status, 'var(--text-secondary)'];
-      var isActive = status === 'discovering' || status === 'fetching';
+      var isActive = ['discovering', 'fetching', 'generating', 'ingesting'].indexOf(status) !== -1;
       var config = state.config || {{}};
       var discover = state.discover || {{}};
       var fetchState = state.fetch || {{}};
@@ -290,6 +311,8 @@ def render_html(state: dict) -> str:
         'pmc=' + esc(config.pmc != null ? config.pmc : '–') + ' &middot; eric=' + esc(config.eric != null ? config.eric : '–') +
         ' &middot; arxiv=' + esc(config.arxiv != null ? config.arxiv : '–') +
         ' &middot; out=<code>' + esc(config.out || '–') + '</code>' +
+        (config.model ? ' &middot; model=<code>' + esc(config.model) + '</code>' : '') +
+        (config.prompt_version ? ' &middot; prompt=' + esc(config.prompt_version) : '') +
         (state.error_detail ? ' &middot; error: ' + esc(state.error_detail) : '');
       document.getElementById('discover-body').innerHTML = sourceRows(discover);
       document.getElementById('fetch-header').textContent =

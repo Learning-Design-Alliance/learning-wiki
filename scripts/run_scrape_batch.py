@@ -23,6 +23,7 @@ caller in this project uses, nothing source-specific is duplicated.
 import argparse
 import json
 import os
+import subprocess
 import sys
 import time
 from datetime import datetime, timezone
@@ -81,10 +82,24 @@ def _save_state(state: dict) -> None:
     SCRAPE_REPORT_PATH.write_text(scrape_report.render_html(state), encoding="utf-8")
 
 
+def _run_chained_step(cmd: list, log_path: Path) -> int:
+    """Runs a generation/ingestion step as a real subprocess (not an
+    in-process import of eval_harness.py/ingest_extractions.py — both are
+    large modules with their own sys.path and secrets-loading side effects
+    better kept isolated), writing its stdout/stderr straight into the same
+    console log file _ConsoleTee already tees this process's own output
+    into, so the dashboard's live console shows generation/ingestion
+    progress with no extra plumbing. Returns the subprocess's exit code."""
+    with open(log_path, "a", encoding="utf-8") as f:
+        proc = subprocess.run(cmd, cwd=str(WIKI_ROOT), stdout=f, stderr=subprocess.STDOUT)
+    return proc.returncode
+
+
 def run(args) -> None:
     config = {
         "pmc": args.pmc, "eric": args.eric, "arxiv": args.arxiv,
         "arxiv_snapshot": args.arxiv_snapshot, "out": args.out,
+        "model": args.model, "prompt_version": args.prompt_version,
     }
     state = {
         "label": args.label,
@@ -160,11 +175,48 @@ def run(args) -> None:
         _save_state(state)
 
     state["fetch"]["done"] = True
+    print(f"=== scrape batch {args.label!r} done: {state['fetch']['ok']}/{state['fetch']['total']} "
+          f"fetched successfully ===", flush=True)
+
+    if args.model:
+        state["status"] = "generating"
+        _save_state(state)
+        print(f"\n=== generating with {args.model} (prompt version: "
+              f"{args.prompt_version or 'CURRENT'}) ===", flush=True)
+        gen_cmd = [sys.executable, "-u", "scripts/eval_harness.py", "run",
+                   "--models", args.model, "--run-id", args.label,
+                   "--manifest", args.out, "--max-tokens", "24000",
+                   "--judges", "--overwrite"]
+        if args.prompt_version:
+            gen_cmd += ["--prompt-version", args.prompt_version]
+        gen_rc = _run_chained_step(gen_cmd, SCRAPE_CONSOLE_LOG_PATH)
+        if gen_rc != 0:
+            state["status"] = "error"
+            state["error_detail"] = f"Generation step exited {gen_rc} — see console log."
+            state["finished_at"] = _now()
+            _save_state(state)
+            print(f"=== scrape batch {args.label!r} stopped: generation failed (exit {gen_rc}) ===", flush=True)
+            return
+
+        state["status"] = "ingesting"
+        _save_state(state)
+        print(f"\n=== ingesting {args.label!r} results into wiki pages ===", flush=True)
+        ingest_cmd = [sys.executable, "-u", "scripts/ingest_extractions.py",
+                      "--run-id", args.label, "--model", args.model, "--by", "claude/unspecified"]
+        ingest_rc = _run_chained_step(ingest_cmd, SCRAPE_CONSOLE_LOG_PATH)
+        if ingest_rc != 0:
+            state["status"] = "error"
+            state["error_detail"] = f"Ingest step exited {ingest_rc} — see console log."
+            state["finished_at"] = _now()
+            _save_state(state)
+            print(f"=== scrape batch {args.label!r} stopped: ingest failed (exit {ingest_rc}) ===", flush=True)
+            return
+
     state["status"] = "completed"
     state["finished_at"] = _now()
     _save_state(state)
-    print(f"=== scrape batch {args.label!r} done: {state['fetch']['ok']}/{state['fetch']['total']} "
-          f"fetched successfully ===", flush=True)
+    print(f"=== scrape batch {args.label!r} fully complete "
+          f"({'discover+fetch+generate+ingest' if args.model else 'discover+fetch'} done) ===", flush=True)
 
 
 def main() -> None:
@@ -175,6 +227,14 @@ def main() -> None:
     parser.add_argument("--arxiv-snapshot", default=None)
     parser.add_argument("--out", default=str(discover_articles.EVAL_ROOT / "corpus" / "manifest_bulk.json"))
     parser.add_argument("--label", default=None)
+    parser.add_argument("--model", default=None,
+                         help="OpenRouter model slug — if given, chains generation (--judges none, "
+                              "--max-tokens 24000, --overwrite) and then ingest_extractions.py "
+                              "straight after a successful discover+fetch, all under this same batch's "
+                              "label as the run-id. Omit to keep this a discover+fetch-only batch, "
+                              "same as before this option existed.")
+    parser.add_argument("--prompt-version", default=None,
+                         help="Only meaningful with --model. Omit to use whatever CURRENT is at run time.")
     args = parser.parse_args()
     if not args.label:
         args.label = f"scrape-{int(time.time())}"

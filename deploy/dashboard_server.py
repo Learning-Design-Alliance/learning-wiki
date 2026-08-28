@@ -110,7 +110,7 @@ _SAFE_VERSION_RE = re.compile(r"^v\d+$")
 # which need the venv's `requests` and are only ever launched as a
 # subprocess, never imported into this process.
 sys.path.insert(0, str(WIKI_ROOT))
-from scripts.eval import scrape_report, home_report  # noqa: E402 - after sys.path fixup, deliberately
+from scripts.eval import scrape_report, home_report, model_catalog  # noqa: E402 - after sys.path fixup, deliberately
 
 RUN_SCRAPE_SCRIPT = WIKI_ROOT / "scripts" / "run_scrape_batch.py"
 SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
@@ -518,6 +518,13 @@ class Handler(SimpleHTTPRequestHandler):
                            redirect_to="/scrape.html")
             return
 
+        model = (form.get("model", [""])[0] or "").strip()
+        if model and model not in model_catalog.MODEL_DESCRIPTIONS:
+            self._respond(400, f"Unknown model: {model!r} — pick one from the dropdown.",
+                           redirect_to="/scrape.html")
+            return
+        prompt_version = (form.get("prompt_version", [""])[0] or "").strip()
+
         out = (form.get("out", [""])[0] or "").strip() or "eval/corpus/manifest_bulk.json"
         # Becomes an argv element passed to a subprocess (not shell-
         # interpolated, so not a command-injection vector) — but an
@@ -542,6 +549,10 @@ class Handler(SimpleHTTPRequestHandler):
         label = f"scrape-{int(time.time())}"
         launch_args = ["--pmc", str(pmc), "--eric", str(eric), "--arxiv", str(arxiv),
                         "--out", str(out_path.relative_to(WIKI_ROOT)), "--label", label]
+        if model:
+            launch_args += ["--model", model]
+        if prompt_version:
+            launch_args += ["--prompt-version", prompt_version]
         log_path = RUNS_DIR / f"web-scrape-{int(time.time())}.log"
         log_file = open(log_path, "w", encoding="utf-8")
         proc = subprocess.Popen(
