@@ -190,6 +190,9 @@ def render_html(state: dict) -> str:
               padding: 14px; border-radius: 8px; max-height: 320px; overflow-y: auto; white-space: pre-wrap;
               overflow-wrap: anywhere; }}
   .footer-note {{ margin-top: 12px; color: var(--text-muted); font-size: 12px; }}
+  .table-scroll {{ max-height: 520px; overflow-y: auto; border: 1px solid var(--border); border-radius: 10px; }}
+  .table-scroll .idx-table {{ border: none; border-radius: 0; }}
+  .table-scroll thead th {{ position: sticky; top: 0; background: var(--surface-1); z-index: 1; }}
 </style>
 </head>
 <body>
@@ -214,22 +217,6 @@ def render_html(state: dict) -> str:
     </div>
   </div>
 
-  <h2>Discovery — candidates found per source</h2>
-  <div class="card">
-    <table class="idx-table">
-      <thead><tr><th>Source</th><th>Found / target</th><th>Progress</th></tr></thead>
-      <tbody id="discover-body">{_source_rows(discover)}</tbody>
-    </table>
-  </div>
-
-  <h2 id="fetch-header">Prefetch-verify — {fetch_done_count}/{fetch_total} attempted ({fetch_ok} OK, {fetch_fail} failed)</h2>
-  <div class="card">
-    <table class="idx-table">
-      <thead><tr><th>Status</th><th>Article</th><th>Detail</th></tr></thead>
-      <tbody id="fetch-body">{_fetch_rows(fetch)}</tbody>
-    </table>
-  </div>
-
   <h2>Start a new batch</h2>
   <div class="card" id="launch-card">
     <form method="POST" action="/launch-scrape" class="launch-form" id="launch-form"
@@ -244,6 +231,24 @@ def render_html(state: dict) -> str:
       <button type="submit" class="btn btn-primary" id="launch-submit-btn" {"disabled" if is_active else ""}>Launch batch</button>
     </form>
     <p class="footer-note" id="launch-note" style="{'display:block;' if is_active else 'display:none;'}">A batch is already running — stop it before launching another.</p>
+  </div>
+
+  <h2>Discovery — candidates found per source</h2>
+  <div class="card">
+    <table class="idx-table">
+      <thead><tr><th>Source</th><th>Found / target</th><th>Progress</th></tr></thead>
+      <tbody id="discover-body">{_source_rows(discover)}</tbody>
+    </table>
+  </div>
+
+  <h2 id="fetch-header">Prefetch-verify — {fetch_done_count}/{fetch_total} attempted ({fetch_ok} OK, {fetch_fail} failed)</h2>
+  <div class="card">
+    <div class="table-scroll">
+      <table class="idx-table">
+        <thead><tr><th>Status</th><th>Article</th><th>Detail</th></tr></thead>
+        <tbody id="fetch-body">{_fetch_rows(fetch)}</tbody>
+      </table>
+    </div>
   </div>
 
   {_live_console_html()}
