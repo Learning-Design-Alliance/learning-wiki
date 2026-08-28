@@ -107,6 +107,18 @@ actually sanctioned, and what to do if a source blocks bulk access outright.
   [BioC-PMC bulk FTP mirror](https://ftp.ncbi.nlm.nih.gov/pub/wilbur/BioC-PMC).
   For thousands of articles, download the bulk package once instead of one
   API call per article.
+- **Discovery now cross-checks against this bulk list, not just the ESearch
+  flag**: `search_pmc()`'s `open access[filter]` tag is best-effort and can
+  lag for very recently published articles (see above) — a real source of
+  the low full-text yield this harness saw in practice. `discover_articles.
+  resolve_pmc_oa_accession_ids()` downloads/caches `oa_file_list.csv` (NCBI's
+  authoritative list of every PMCID actually in the OA subset — one-time
+  cost, same "download once, reuse forever" pattern as the arXiv Kaggle
+  snapshot) and `search_pmc()` drops any ESearch hit not present in it,
+  before spending an ESummary call or a manifest slot on it. Degrades
+  gracefully (falls back to the ESearch flag alone, with a one-time warning)
+  if the bulk file can't be resolved — this is a safety net on top of the
+  existing filter, not a hard dependency.
 - **Third-party mirror**: [`pmc/open_access` on Hugging Face](https://huggingface.co/datasets/pmc/open_access) —
   a ready-to-use dataset mirror of the same OA subset (3.4M+ articles), handy
   for candidate selection or if you'd rather not manage the FTP bulk packages

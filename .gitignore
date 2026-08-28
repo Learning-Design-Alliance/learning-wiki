@@ -12,5 +12,6 @@ venv/
 # pairs) — never committed. Keep eval/corpus/manifest.json and eval/README.md.
 eval/corpus/cache/
 eval/corpus/.discovery_cache.json
+eval/corpus/.pmc_oa_accession_ids.txt
 eval/corpus/manifest_*.json
 eval/runs/
