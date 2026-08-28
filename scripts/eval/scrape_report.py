@@ -96,11 +96,21 @@ def _history_rows(history: list) -> str:
 
 def _live_console_html() -> str:
     """Same pattern as index_report.py's _live_console_html() for
-    auto-optimize: client-side polling of a fixed-path plain-text log
-    (.scrape_console.log, written by run_scrape_batch.py's own ConsoleTee
-    regardless of how it was launched) independent of this page's own
-    10s full-reload cadence, so console output between state-file updates
-    is still visible without SSHing in to tail a log file by hand."""
+    auto-optimize: client-side polling of a plain-text log, independent of
+    this page's own 5s state-poll cadence, so console output is visible
+    without SSHing in to tail a log file by hand.
+
+    Which log: run_scrape_batch.py's own singleton (.scrape_console.log)
+    covers the discover/fetch phases it runs in-process — but generation
+    (chained by run_scrape_batch.py, OR run by hand later to resume a
+    crashed/interrupted batch, e.g. `eval_harness.py run --run-id <the
+    batch's label>`) is a separate process that eval_harness.py's cmd_run
+    tees into eval/runs/<run_id>/.console.log instead (see its own
+    docstring). Rather than requiring an explicit signal for which one is
+    live right now, this just tries the per-run-id log first (keyed off
+    .scrape_state.json's own label, so it doesn't matter whether that
+    generation step is the orchestrated chain or a manual resume — same
+    run-id either way) and falls back to the singleton if that 404s."""
     return """
     <div class="card console-card">
       <h2 style="margin-top:0;">Live console</h2>
@@ -113,9 +123,20 @@ def _live_console_html() -> str:
         pre.addEventListener('scroll', function () {
           atBottom = pre.scrollTop + pre.clientHeight >= pre.scrollHeight - 4;
         });
+        function fetchLog(url) {
+          return fetch(url, { cache: 'no-store' }).then(function (r) { return r.ok ? r : null; });
+        }
         function poll() {
-          fetch('./.scrape_console.log', { cache: 'no-store' })
-            .then(function (r) { if (!r.ok) throw new Error('no log yet'); return r.text(); })
+          fetch('./.scrape_state.json', { cache: 'no-store' })
+            .then(function (r) { return r.ok ? r.json() : {}; })
+            .catch(function () { return {}; })
+            .then(function (state) {
+              var label = (state && state.label) || '';
+              var perRun = label ? './' + encodeURIComponent(label) + '/.console.log' : null;
+              if (!perRun) { return fetchLog('./.scrape_console.log'); }
+              return fetchLog(perRun).then(function (r) { return r || fetchLog('./.scrape_console.log'); });
+            })
+            .then(function (r) { if (!r) throw new Error('no log yet'); return r.text(); })
             .then(function (text) {
               var lines = text.split('\\n');
               pre.textContent = lines.slice(-400).join('\\n');

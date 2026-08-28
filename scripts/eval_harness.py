@@ -552,6 +552,35 @@ def run_batch(models: list, articles: list, judges: list, run_id: str, api_key: 
     return run_dir
 
 
+SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
+
+
+def _resync_scrape_state_if_matching(run_id: str) -> None:
+    """If run_id matches the label of the currently-tracked scrape batch
+    (eval/runs/.scrape_state.json, written by run_scrape_batch.py), marks it
+    completed — closing the gap where a scrape batch's chained generation
+    step crashes, or someone resumes it by hand with `run --run-id <that
+    label>` (bypassing run_scrape_batch.py entirely, e.g. after a crash),
+    and the state file is left permanently frozen at whatever it last said
+    even though the real work went on to finish successfully here instead.
+    A no-op if there's no scrape state file, or its label doesn't match this
+    run — most `run` invocations aren't a scrape batch's generation step at
+    all, and this must never be the thing that decides that; it only
+    resyncs a match it already finds recorded."""
+    if not SCRAPE_STATE_PATH.exists():
+        return
+    try:
+        state = json.loads(SCRAPE_STATE_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return
+    if state.get("label") != run_id:
+        return
+    state["status"] = "completed"
+    state["finished_at"] = datetime.now(timezone.utc).isoformat()
+    state["error_detail"] = None
+    SCRAPE_STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
+
+
 def cmd_run(args: argparse.Namespace) -> None:
     api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
@@ -564,15 +593,34 @@ def cmd_run(args: argparse.Namespace) -> None:
     if args.limit:
         articles = articles[:args.limit]
 
-    run_batch(args.models, articles, args.judges, run_id, api_key,
-              gpt_judge_model=args.gpt_judge_model, gemini_judge_model=args.gemini_judge_model,
-              max_tokens=args.max_tokens,
-              overwrite=args.overwrite, refresh_cache=args.refresh_cache,
-              prompt_version=args.prompt_version, concurrency=args.concurrency,
-              max_correction_attempts=args.max_correction_attempts,
-              retry_errors_only=args.retry_errors_only, ground_truth=args.ground_truth,
-              require_source_quotes=args.require_source_quotes,
-              consistency_samples=args.consistency_samples, subclaim_judging=args.subclaim_judging)
+    # Tees stdout/stderr into eval/runs/<run_id>/.console.log — same
+    # _ConsoleTee pattern as auto-optimize's own console log (see that
+    # class's docstring), but keyed per run-id rather than one global
+    # singleton, so scrape_report.py's live console can find THIS run's
+    # output by run-id regardless of whether it was launched through the
+    # scraper's web form or by hand on the command line — see that file's
+    # _live_console_html() for the matching client-side lookup.
+    run_dir = RUNS_DIR / run_id
+    run_dir.mkdir(parents=True, exist_ok=True)
+    console_log_file = open(run_dir / ".console.log", "w", encoding="utf-8")
+    orig_stdout, orig_stderr = sys.stdout, sys.stderr
+    sys.stdout = _ConsoleTee(orig_stdout, console_log_file)
+    sys.stderr = _ConsoleTee(orig_stderr, console_log_file)
+    try:
+        run_batch(args.models, articles, args.judges, run_id, api_key,
+                  gpt_judge_model=args.gpt_judge_model, gemini_judge_model=args.gemini_judge_model,
+                  max_tokens=args.max_tokens,
+                  overwrite=args.overwrite, refresh_cache=args.refresh_cache,
+                  prompt_version=args.prompt_version, concurrency=args.concurrency,
+                  max_correction_attempts=args.max_correction_attempts,
+                  retry_errors_only=args.retry_errors_only, ground_truth=args.ground_truth,
+                  require_source_quotes=args.require_source_quotes,
+                  consistency_samples=args.consistency_samples, subclaim_judging=args.subclaim_judging)
+    finally:
+        sys.stdout, sys.stderr = orig_stdout, orig_stderr
+        console_log_file.close()
+
+    _resync_scrape_state_if_matching(run_id)
 
     print(f"\nDone. Run report with: python3 scripts/eval_harness.py report --run-id {run_id}")
 
