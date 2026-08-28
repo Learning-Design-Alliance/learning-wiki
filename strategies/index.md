@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**1629 entries** · 0 stable · 1629 in review · 0 drafts
+**1629 entries** · 0 stable · 1628 in review · 1 drafts
 
 ---
 
@@ -12,7 +12,6 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [3-Source Rule](3-source_rule.md) - When students are doing online research in her class, Je Hen enforces the three-source rule.
 * [5-Minute Writing Conferences](5-minute_writing_conferences.md) - This strategy involves conducting brief, targeted conferences with each student to provide personalized feedback on their writing.
 * [\"Document Outline\" Tool]("document_outline"_tool.md) - Students use the \"Document outline\" tool in Google Docs to extract evidence supporting the main ideas they've found in a text.
-* [\"Headings and Highlight\" Strategy]("headings_and_highlight"_strategy.md) - The \"Headings and Highlight\" Strategy is a digital reading technique designed to slow down reading and encourage dialogue.
 * [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) - A set of questions to determine the credibility of a news story.
 * [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) - Academic Choice empowers learners by providing them with options in their learning and involves a three-phase process: planning, working, and reflecting.
 * [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) - This strategy involves accepting what happened after processing emotions, taking responsibility for any wrong actions, and sharing feelings and experiences with others involved.
@@ -1637,3 +1636,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Yoga, Breathing, and Meditation](yoga,_breathing,_and_meditation.md) - Using yoga, breathing, and meditation techniques in educational settings involves incorporating these practices to provide calming stimulation and regulate the nervous system.
 * [Youth Participatory Action Research (YPAR)](youth_participatory_action_research_(ypar).md) - Youth Participatory Action Research (YPAR) is an approach where young people collaborate with adults to conduct research and implement actions to address issues in their communities.
 * [Zoom Family Hours](zoom_family_hours.md) - Hold evening office or family hours on Zoom for parents and family members to pop in and ask questions or otherwise engage with you about their children.
+
+## Draft
+
+1 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.

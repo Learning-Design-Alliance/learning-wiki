@@ -8,6 +8,11 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-08-28
+
+* **Deprecate**: [strategies/"headings_and_highlight"_strategy](strategies/"headings_and_highlight"_strategy.md) — Deprecated as a duplicate of headings_and_highlight_strategy.md; content merged into the canonical page, this page kept as a redirect stub per CLAUDE.md's no-delete convention
+* **Content**: [strategies/headings_and_highlight_strategy](strategies/headings_and_highlight_strategy.md) — Merged in the genuinely different observations from the duplicate "headings_and_highlight"_strategy.md page: sharper Impact framing (the real affordance is clean multi-edit headings), social-studies example folded into Target Learners, and a new Implementation Variability note on broad reading-comprehension use vs. content-specific use
+
 ## 2026-08-27
 
 * **Ingest**: `theories/cognitive-information-processing-theory` (page removed before commit — see below) — Ingested from eric-ed616622 (A Bibliography of Cognitive Information Processing Theory, Research, and Practice) via eval_harness.py + ingest_extractions.py
