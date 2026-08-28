@@ -24,9 +24,18 @@
   --md-primary-bg-color--light: color-mix(in srgb, #122FB2 70%, transparent);
 }
 
+/* Accent governs inline link color, hover/focus states, and the code-block
+ * "highlight" tint — checked the design system's own button/badge previews
+ * (preview/buttons.html, preview/colors-semantic.html) and Golden Hour
+ * orange never actually appears in any interactive element; the only
+ * saturated interactive color in their real UI kit is Lapis itself (plus a
+ * red reserved for destructive actions). Their token literally named
+ * "accent" (#E1DBFF, Dawn) is a pale background chip color, not something
+ * with enough contrast to use as link/hover text. So accent = primary here,
+ * matching how the brand actually uses color rather than the token name. */
 [data-md-color-accent="custom"] {
-  --md-accent-fg-color: #F37434;         /* lazuli-golden-hour — sunset orange, for hover/focus */
-  --md-accent-fg-color--transparent: color-mix(in srgb, #F37434 10%, transparent);
+  --md-accent-fg-color: #122FB2;         /* lazuli-lapis */
+  --md-accent-fg-color--transparent: color-mix(in srgb, #122FB2 10%, transparent);
   --md-accent-bg-color: #FFFBF5;
   --md-accent-bg-color--light: color-mix(in srgb, #FFFBF5 70%, transparent);
 }
@@ -45,4 +54,70 @@
  * again below it — same redundancy fixed on the page itself in index.md. */
 .md-header__title {
   display: none;
+}
+
+/* Group search, the light/dark toggle, and the GitHub link together on the
+ * right, with clear space after the logo — margin-left: auto on the first
+ * of the three (the palette toggle, which comes right after the now-hidden
+ * title in the header's DOM order) pushes that whole trailing group over. */
+.md-header__option {
+  margin-left: auto;
+}
+
+/* Make search the thing you actually notice, not a gray box that blends
+ * into the header. Wider, brand-blue border, light Lapis-tinted fill. */
+.md-search {
+  flex: 0 1 480px;
+}
+.md-search__form {
+  background-color: color-mix(in srgb, #122FB2 6%, transparent);
+  border: 1px solid #122FB2;
+}
+.md-search__form:hover {
+  background-color: color-mix(in srgb, #122FB2 12%, transparent);
+}
+.md-search__input + .md-search__icon {
+  color: #122FB2;
+}
+.md-search__input::placeholder {
+  color: color-mix(in srgb, #122FB2 55%, transparent);
+}
+
+/* ---------- Footer ---------- */
+/* Material's default footer is a near-black bar — replace with the same
+ * warm neutral used across the rest of the theme, ink text instead of
+ * white, and a diagonal hatch rule on top echoing the divider style used on
+ * learningdesignalliance.org / lazuli.design. */
+/* Setting background-color/color directly rather than through the
+ * --md-footer-* custom properties: overriding those at :root, even with
+ * !important, did not change .md-footer's computed background in testing —
+ * mkdocs-material's palette.css recomputes them from a hue formula and
+ * something in that layering wins regardless. Targeting the properties
+ * Material's own rule actually sets (background-color, color) on the same
+ * elements sidesteps whatever that is. */
+.md-footer {
+  background-color: #F0E8E1 !important; /* lazuli-sand-300 */
+  color: #0E1240 !important;            /* lazuli-ink */
+  background-image: repeating-linear-gradient(
+    -45deg,
+    #0E1240 0 2px,
+    transparent 2px 10px
+  );
+  background-repeat: repeat-x;
+  background-size: 100% 2px;
+  background-position: top;
+}
+.md-footer-meta {
+  background-color: #E1D4C9 !important; /* lazuli-linen */
+  margin-top: 2px; /* clears the hatch line drawn on .md-footer itself */
+}
+.md-footer-meta,
+.md-copyright,
+.md-footer__link,
+.md-footer__title,
+.md-footer__direction {
+  color: #0E1240 !important;
+}
+.md-footer__link:hover {
+  color: #122FB2 !important; /* lazuli-lapis */
 }
