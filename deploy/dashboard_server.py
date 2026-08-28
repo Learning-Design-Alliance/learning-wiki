@@ -317,11 +317,36 @@ def _kill_and_reap(pid: int) -> None:
         pass
 
 
+def _reap_if_zombie(pid: int) -> bool:
+    """Non-destructive liveness check that also clears a finished child
+    instead of letting it masquerade as still-running forever. Plain
+    os.kill(pid, 0) (what _pid_is_alive() checks) keeps reporting success
+    for a process that already exited but was never reaped by its parent —
+    confirmed live: a scrape batch launched via subprocess.Popen that
+    finishes NORMALLY (not via the Stop button, which already reaps
+    through _kill_and_reap) is never waited-on by this server, so it sits
+    as a zombie and _scrape_already_running() reports "still running"
+    indefinitely — every launch after the first successful scrape silently
+    404s on the lock until the whole service is restarted, which just
+    happens to reap it as a side effect of the old process exiting.
+    Returns True only if the process is genuinely still running."""
+    try:
+        reaped_pid, _ = os.waitpid(pid, os.WNOHANG)
+        return reaped_pid != pid  # 0 means still running; == pid means it was a zombie, now reaped
+    except ChildProcessError:
+        # Not this process's child (e.g. spawned by a since-restarted
+        # instance of this service) — fall back to a plain existence check.
+        return _pid_is_alive(pid)
+
+
 def _scrape_already_running() -> bool:
     """Same pattern as _already_running(), against SCRAPE_LOCK_PATH instead
-    — unlike auto-optimize's lock, this one is written and read entirely by
-    this server (run_scrape_batch.py has no lock of its own), so it only
-    catches a scrape launched through the dashboard, not a bare CLI
+    — unlike auto-optimize's lock (self-managed: cmd_auto_optimize() cleans
+    up its own lock file when it finishes), this one is written AND
+    destroyed entirely by this server, so nothing removes it when the
+    scrape subprocess finishes on its own — see _reap_if_zombie() for why
+    that made every scrape after the first one silently unlaunchable. Also
+    only catches a scrape launched through the dashboard, not a bare CLI
     invocation run alongside it. Acceptable for now: the dashboard button
     is the primary way this gets launched."""
     if not SCRAPE_LOCK_PATH.exists():
@@ -331,7 +356,12 @@ def _scrape_already_running() -> bool:
     except (json.JSONDecodeError, OSError):
         return False
     pid = info.get("pid")
-    return bool(pid and _pid_is_alive(pid))
+    if pid and _reap_if_zombie(pid):
+        return True
+    # Dead (freshly reaped above, or already gone) — the lock is stale;
+    # clear it so it stops blocking every future launch attempt.
+    SCRAPE_LOCK_PATH.unlink(missing_ok=True)
+    return False
 
 
 class Handler(SimpleHTTPRequestHandler):
