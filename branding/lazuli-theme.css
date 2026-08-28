@@ -1,0 +1,25 @@
+/* Brand colors for the docs theme, sourced from the Lazuli design system
+ * (colors_and_type.css) rather than mkdocs-material's built-in named
+ * palette, which doesn't have exact hex matches for the brand.
+ *
+ * mkdocs.yml sets theme.palette primary/accent to "custom" for both the
+ * light and slate schemes, which makes Material add the
+ * [data-md-color-primary="custom"] / [data-md-color-accent="custom"]
+ * attributes these selectors target. See:
+ * https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#custom-colors
+ */
+
+[data-md-color-primary="custom"] {
+  --md-primary-fg-color: #122FB2;        /* lazuli-lapis — brand blue, primary CTA */
+  --md-primary-fg-color--light: color-mix(in srgb, #122FB2 70%, white);
+  --md-primary-fg-color--dark: #0E248A;  /* lazuli-lapis-deep — hover/pressed */
+  --md-primary-bg-color: #FFFBF5;        /* lazuli-silk — text/icons on the header */
+  --md-primary-bg-color--light: color-mix(in srgb, #FFFBF5 70%, transparent);
+}
+
+[data-md-color-accent="custom"] {
+  --md-accent-fg-color: #F37434;         /* lazuli-golden-hour — sunset orange */
+  --md-accent-fg-color--transparent: color-mix(in srgb, #F37434 10%, transparent);
+  --md-accent-bg-color: #FFFBF5;
+  --md-accent-bg-color--light: color-mix(in srgb, #FFFBF5 70%, transparent);
+}
