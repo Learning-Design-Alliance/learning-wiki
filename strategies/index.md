@@ -8,11 +8,11 @@ Concrete teaching activity recipes — specific, implementable approaches.
 
 ## In Review
 
-* ['What's My Emotion?' Game Check-In]('what's_my_emotion'_game_check-in.md) - Students use the EQ Feeling Chart to identify their feelings.
+* ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) - Students use the EQ Feeling Chart to identify their feelings.
 * [3-Source Rule](3-source_rule.md) - When students are doing online research in her class, Je Hen enforces the three-source rule.
 * [5-Minute Writing Conferences](5-minute_writing_conferences.md) - This strategy involves conducting brief, targeted conferences with each student to provide personalized feedback on their writing.
-* [\"Document Outline\" Tool](document_outline_tool.md) - Students use the \"Document outline\" tool in Google Docs to extract evidence supporting the main ideas they've found in a text.
-* [\"Headings and Highlight\" Strategy](headings_and_highlight_strategy-variant.md) - The \"Headings and Highlight\" Strategy is a digital reading technique designed to slow down reading and encourage dialogue.
+* [\"Document Outline\" Tool]("document_outline"_tool.md) - Students use the \"Document outline\" tool in Google Docs to extract evidence supporting the main ideas they've found in a text.
+* [\"Headings and Highlight\" Strategy]("headings_and_highlight"_strategy.md) - The \"Headings and Highlight\" Strategy is a digital reading technique designed to slow down reading and encourage dialogue.
 * [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) - A set of questions to determine the credibility of a news story.
 * [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) - Academic Choice empowers learners by providing them with options in their learning and involves a three-phase process: planning, working, and reflecting.
 * [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) - This strategy involves accepting what happened after processing emotions, taking responsibility for any wrong actions, and sharing feelings and experiences with others involved.
@@ -177,7 +177,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Calming Strategy Cards](calming_strategy_cards.md) - Calming strategy cards provide learners with reminders of emotional regulation strategies, such as squeezing a fidget or taking a mindfulness break, to use when feelings escalate or when they are losing control.
 * [Calming Tactile Input](calming_tactile_input.md) - Using tactile input to provide calming sensory experiences involves engaging the sense of touch to reduce anxiety and promote relaxation.
 * [Calming Visual Input](calming_visual_input.md) - Managing visual input involves altering the visual environment to reduce overstimulation and promote relaxation.
-* [Can You Make It?](can_you_make_it.md) - Learners draw a dot card and recreate the arrangement on a large, blank dot card using counters.
+* [Can You Make It?](can_you_make_it?.md) - Learners draw a dot card and recreate the arrangement on a large, blank dot card using counters.
 * [Caring for Students](caring_for_students.md) - Instructors can use equity-focused, inclusive teaching strategies that put student care into practice by acknowledging student challenges while identifying student assets.
 * [Case Studies](case_studies.md) - Case studies involve the use of real-life situations that have occurred.
 * [Cede Power (Student Voice)](cede_power_(student_voice).md) - This principle emphasizes sharing power with students and families in the design of learning experiences.
@@ -426,7 +426,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Dolch Sight Word Lists](dolch_sight_word_lists.md) - The Dolch Sight word list includes the most common 220 words and 95 nouns encountered in children’s books.
 * [Dolch Word List - Word Search Puzzles](dolch_word_list_-_word_search_puzzles.md) - Word search puzzles using Dolch sight words.
 * [Domain Check](domain_check.md) - One simple search tip you can give students is to check the domain on search results.
-* [Don’t Jump Into \"Fix It\" Mode](don’t_jump_into_fix_it_mode.md) - Resist the urge to immediately find solutions.
+* [Don’t Jump Into \"Fix It\" Mode](don’t_jump_into_"fix_it"_mode.md) - Resist the urge to immediately find solutions.
 * [Don’t Say My Number](don’t_say_my_number.md) - A counting game where a chosen number is forbidden, and learners must skip it while counting aloud in sequence.
 * [Dot Card Flash](dot_card_flash.md) - One learner flashes a dot card to another for 3 seconds, then hides it.
 * [Dot Card Matching Games](dot_card_matching_games.md) - Learners match dot cards with equal quantities but different arrangements, or match dot cards to corresponding numeral cards.
@@ -688,8 +688,8 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Home Surveys](home_surveys.md) - Sending weekly, biweekly, or monthly surveys home can provide ongoing data and insight into students and their families.
 * [Home-Based Literacy Support](home-based_literacy_support.md) - Home-based literacy support involves schools providing families with resources and guidance to support students’ learning at home.
 * [Hot Seat](hot_seat.md) - One learner assumes the role of a book character, significant figure in history, or concept (such as a tornado, an animal, or the Titanic).
-* [How Close to 100?](how_close_to_100.md) - A game played in partners where children roll two dice to determine the dimensions of an array to draw on a 100 grid, aiming to fill the grid as much as possible.
-* [How Many Are Hiding?](how_many_are_hiding.md) - An activity where children have cubes and a cup.
+* [How Close to 100?](how_close_to_100?.md) - A game played in partners where children roll two dice to determine the dimensions of an array to draw on a 100 grid, aiming to fill the grid as much as possible.
+* [How Many Are Hiding?](how_many_are_hiding?.md) - An activity where children have cubes and a cup.
 * [How Spelling Supports Reading](how_spelling_supports_reading.md) - Instruction on the relationship between spelling and reading.
 * [Hyperlinked Teaching](hyperlinked_teaching.md) - Hyperlinked teaching provides students with direct avenues for further inquiry and exploration.
 * [I Wonder Journals](i_wonder_journals.md) - At Crellin Elementary School in Oakland, Maryland, teachers encouraged students to ask “I wonder” questions to push their learning beyond the classroom.
@@ -732,7 +732,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Independent Reading](independent_reading.md) - Independent reading involves students selecting and reading books on their own, within their reading level and interests.
 * [Individual Deliberate Practice](individual_deliberate_practice.md) - Deliberate practice is a structured approach to skill development that focuses on intentional, effective, and consistent effort to improve performance.
 * [Individual Spaces](individual_spaces.md) - Creating designated areas within the classroom to serve specific functions, such as independent work, collaborative projects, or mini-lessons, can promote student engagement.
-* [Individualized \"Highlighter Tool\"](individualized_highlighter_tool.md) - Students use an individualized \"highlighter tool\" (e.g., a Google Doc add-on) to create custom highlighters in different colors.
+* [Individualized \"Highlighter Tool\"](individualized_"highlighter_tool".md) - Students use an individualized \"highlighter tool\" (e.g., a Google Doc add-on) to create custom highlighters in different colors.
 * [Indoor Air Quality Improvement](indoor_air_quality_improvement.md) - Improving indoor air quality reduces absenteeism, particularly for students with asthma, and addresses “sick building syndrome.” Proper ventilation systems and pollutant reduction create a healthier learning environment.
 * [Inflectional Endings Instruction](inflectional_endings_instruction.md) - Inflectional endings instruction focuses on teaching the rules for adding suffixes (e.g., -ed, -s, -es, -ing, -er, -est) to base words.
 * [Informal Games and Jam Sessions](informal_games_and_jam_sessions.md) - Encourage participation in informal games and jam sessions to foster creativity, collaboration, and enjoyment without the pressure of competition.
@@ -797,7 +797,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Learning Goal Setting](learning_goal_setting.md) - This strategy involves defining clear objectives prior to engaging in a learning experience, such as shadowing.
 * [Learning Interest Inventories](learning_interest_inventories.md) - Learning interest inventories help instructors and learners identify areas of interest and ways of finding joy in learning and demonstrating that learning.
 * [Learning Logs](learning_logs.md) - Learning logs are short, reflective writing activities completed at the beginning or end of a class to review previously learned material or focus on new concepts.
-* [Learning Strategy & Tool \"Fair\"](learning_strategy_&_tool_fair.md) - A 'Learning Strategy & Tool Fair' allows learners to explore a variety of learning strategies and tools in a hands-on, exploratory environment.
+* [Learning Strategy & Tool \"Fair\"](learning_strategy_&_tool_"fair".md) - A 'Learning Strategy & Tool Fair' allows learners to explore a variety of learning strategies and tools in a hands-on, exploratory environment.
 * [Learning Through Reflection](learning_through_reflection.md) - Link and construct meaning from experiences.
 * [Lecture Support with Graphic Organizers](lecture_support_with_graphic_organizers.md) - Instructors present lecture content using graphic organizers rather than standard PowerPoints or outlines, visualizing how concepts are related to each other.
 * [Lesson Plans](lesson_plans.md) - Lesson plans are visual aids used by educators to stay organized and inspire their creativity.
@@ -1240,7 +1240,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Resistance Reading and Counter-Narratives](resistance_reading_and_counter-narratives.md) - Resistance reading and writing counter-narratives are strategies to develop learners' abilities to critique a text (or an image or other media) and to respond in writing, sharing their concerns and critiques.
 * [Respect Diverse Talents and Ways of Learning](respect_diverse_talents_and_ways_of_learning.md) - There are many roads to learning.
 * [Respectful Redirection](respectful_redirection.md) - Respectful redirection is a quick, in-the-moment strategy to give corrective feedback to students using a calm tone, neutral body language, and clear, concise wording.
-* [Responding with \"Yet\"](responding_with_yet.md) - Adding the word \"yet\" to responses when learners express frustration or inability (e.g., \"I can't do this\") introduces the idea of a growth mindset, fostering the belief that abilities can improve over time.
+* [Responding with \"Yet\"](responding_with_"yet".md) - Adding the word \"yet\" to responses when learners express frustration or inability (e.g., \"I can't do this\") introduces the idea of a growth mindset, fostering the belief that abilities can improve over time.
 * [Response Devices](response_devices.md) - Response devices allow learners to anonymously share answers with the whole class.
 * [Responsible Decision-Making Practice](responsible_decision-making_practice.md) - Learners engage in problem-solving scenarios in pairs or small groups, connecting to their everyday lives (e.g., cheating, bullying), to make decisions, analyze situations, and consider possible consequences.
 * [Restate The Question](restate_the_question.md) - Restating the question encourages critical reading skills and provides clarity around instructions.
@@ -1543,7 +1543,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Understand Your Bias](understand_your_bias.md) - This activity increases awareness of personal stereotypes and prejudices, helping learners recognize how their viewpoint influences their perception of others.
 * [Unit Planning with Graphic Organizers](unit_planning_with_graphic_organizers.md) - When introducing a unit to students, show them how the parts of the unit fit together with a graphic organizer, providing a sense of where they are in the unit at any given time and helping them understand why they are learning the…
 * [Untimed Tests](untimed_tests.md) - Untimed tests remove the pressure of completing assessments within a set time limit, allowing learners to focus on problem-solving without time-related anxiety.
-* [Use \"I\" Statements to Avoid Blame](use_i_statements_to_avoid_blame.md) - Avoid using “you” statements, which can make students defensive.
+* [Use \"I\" Statements to Avoid Blame](use_"i"_statements_to_avoid_blame.md) - Avoid using “you” statements, which can make students defensive.
 * [Use Body Language and Demonstrations](use_body_language_and_demonstrations.md) - Reinforce verbal instructions with body language, gestures, and demonstrations to aid comprehension.
 * [Use Books to Teach Emotions](use_books_to_teach_emotions.md) - Stories are used as examples of handling emotions in a responsible way.
 * [Use Current Events & Fictional Characters](use_current_events_&_fictional_characters.md) - Using current events and fictional characters as tools to teach social awareness.
@@ -1604,13 +1604,13 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Website Domain Analysis](website_domain_analysis.md) - Learners are taught the differences between .com, .gov, .org, and .edu domains to assess the reliability of websites.
 * [Website Evaluation Checklist](website_evaluation_checklist.md) - Learners examine websites (both reliable and unreliable) using a checklist to assess various elements such as the corroboration of information, writer reliability, information currency, documentation, advocacy, and conflict of interest.
 * [Weekly Student Reflection](weekly_student_reflection.md) - Students spend 10-15 minutes every week reflecting on their learning experiences by responding to prompts, enhancing dialogue, inspiring openness, and diversity.
-* [What Would Their Day Look Like?](what_would_their_day_look_like.md) - Learners select a photo of a person or animal in an unfamiliar situation and imagine what their daily life might be like.
-* [What's My Emotion? Game](what's_my_emotion_game.md) - Using an EQ Feeling Chart, students identify how they are feeling individually.
-* [What’s Below the Surface? (Iceberg Analysis)](what’s_below_the_surface_(iceberg_analysis).md) - This strategy involves using the metaphor of an iceberg to encourage students to extend their knowledge and further develop their ideas beyond the surface level.
-* [What’s My Emotion? Game](what’s_my_emotion_game.md) - One learner demonstrates an emotion through body language and facial expressions, while the rest of the class guesses the emotion.
-* [What’s My Number?](what’s_my_number.md) - A guessing game where one person thinks of a number and provides clues, and others use logical reasoning and deduction to determine the number.
-* [Where Are the People Like Me?](where_are_the_people_like_me.md) - Learners examine media examples to consider who is represented and who is not, then explore the impact of this lack of diversity and how it might affect those who are misrepresented or not represented.
-* [Which One Doesn’t Belong?](which_one_doesn’t_belong.md) - The instructor or learners place 3-4 dot cards on the table.
+* [What Would Their Day Look Like?](what_would_their_day_look_like?.md) - Learners select a photo of a person or animal in an unfamiliar situation and imagine what their daily life might be like.
+* [What's My Emotion? Game](what's_my_emotion?_game.md) - Using an EQ Feeling Chart, students identify how they are feeling individually.
+* [What’s Below the Surface? (Iceberg Analysis)](what’s_below_the_surface?_(iceberg_analysis).md) - This strategy involves using the metaphor of an iceberg to encourage students to extend their knowledge and further develop their ideas beyond the surface level.
+* [What’s My Emotion? Game](what’s_my_emotion?_game.md) - One learner demonstrates an emotion through body language and facial expressions, while the rest of the class guesses the emotion.
+* [What’s My Number?](what’s_my_number?.md) - A guessing game where one person thinks of a number and provides clues, and others use logical reasoning and deduction to determine the number.
+* [Where Are the People Like Me?](where_are_the_people_like_me?.md) - Learners examine media examples to consider who is represented and who is not, then explore the impact of this lack of diversity and how it might affect those who are misrepresented or not represented.
+* [Which One Doesn’t Belong?](which_one_doesn’t_belong?.md) - The instructor or learners place 3-4 dot cards on the table.
 * [Whole Class Self-Monitoring](whole_class_self-monitoring.md) - Whole class self-monitoring involves the entire class participating in self-monitoring techniques, adapted from individual self-monitoring methods.
 * [Windows, Mirrors, and Sliding Glass Doors](windows,_mirrors,_and_sliding_glass_doors.md) - This strategy involves using stories and materials that act as mirrors, windows, and sliding glass doors to help students identify their place in the world.
 * [Word Building](word_building.md) - Word building is a literacy strategy used to reinforce vocabulary and spelling skills by having learners manipulate letter tiles or squares to construct words.
