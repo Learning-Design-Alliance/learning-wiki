@@ -37,3 +37,12 @@
   border-bottom: 1px solid #E1D4C9; /* lazuli-linen */
   box-shadow: none;
 }
+
+/* Logo only in the header, no adjacent site-name text — matches
+ * learningdesignalliance.org / lazuli.design, where the header carries just
+ * the mark. Otherwise the header shows "Learning Design Wiki" in text right
+ * next to a Lazuli-branded icon, and the landing page repeats both names
+ * again below it — same redundancy fixed on the page itself in index.md. */
+.md-header__title {
+  display: none;
+}
