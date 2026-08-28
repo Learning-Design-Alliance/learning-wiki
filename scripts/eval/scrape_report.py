@@ -211,6 +211,7 @@ def render_html(state: dict) -> str:
     <div class="config-line" id="config-line">
       pmc={config.get('pmc', '–')} &middot; eric={config.get('eric', '–')} &middot; arxiv={config.get('arxiv', '–')}
       &middot; out=<code>{_esc(config.get('out', '–'))}</code>
+      {f" &middot; arxiv_snapshot=<code>{_esc(config.get('arxiv_snapshot'))}</code>" if config.get('arxiv_snapshot') else ""}
       {f" &middot; model=<code>{_esc(config.get('model'))}</code>" if config.get('model') else ""}
       {f" &middot; prompt={_esc(config.get('prompt_version'))}" if config.get('prompt_version') else ""}
       {f" &middot; error: {_esc(state.get('error_detail'))}" if state.get('error_detail') else ""}
@@ -224,6 +225,8 @@ def render_html(state: dict) -> str:
       <label>PMC target<input type="number" name="pmc" value="200" min="0" max="5000"></label>
       <label>ERIC target<input type="number" name="eric" value="700" min="0" max="5000"></label>
       <label>arXiv target<input type="number" name="arxiv" value="0" min="0" max="500"></label>
+      <label>arXiv snapshot path<input type="text" name="arxiv_snapshot" placeholder="required if arXiv target > 0"
+             value="{_esc(config.get('arxiv_snapshot') or '')}"></label>
       <label>Output manifest<input type="text" name="out" value="eval/corpus/manifest_real.json"></label>
       <label>Model<select name="model">{_model_options_html(config.get('model'))}</select></label>
       <label>Prompt version<input type="text" name="prompt_version" placeholder="blank = CURRENT"
@@ -316,6 +319,7 @@ def render_html(state: dict) -> str:
         'pmc=' + esc(config.pmc != null ? config.pmc : '–') + ' &middot; eric=' + esc(config.eric != null ? config.eric : '–') +
         ' &middot; arxiv=' + esc(config.arxiv != null ? config.arxiv : '–') +
         ' &middot; out=<code>' + esc(config.out || '–') + '</code>' +
+        (config.arxiv_snapshot ? ' &middot; arxiv_snapshot=<code>' + esc(config.arxiv_snapshot) + '</code>' : '') +
         (config.model ? ' &middot; model=<code>' + esc(config.model) + '</code>' : '') +
         (config.prompt_version ? ' &middot; prompt=' + esc(config.prompt_version) : '') +
         (state.error_detail ? ' &middot; error: ' + esc(state.error_detail) : '');

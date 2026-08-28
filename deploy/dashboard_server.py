@@ -518,6 +518,26 @@ class Handler(SimpleHTTPRequestHandler):
                            redirect_to="/scrape.html")
             return
 
+        # export.arxiv.org's robots.txt disallows the live search API outright
+        # (see eval/SOURCES.md) — arxiv>0 must come from a local Kaggle
+        # snapshot (discover_articles.build_arxiv_manifest_from_snapshot()),
+        # never the live API. Block here rather than letting the batch launch
+        # and silently hit the known compliance failure.
+        arxiv_snapshot = (form.get("arxiv_snapshot", [""])[0] or "").strip()
+        if arxiv > 0 and not arxiv_snapshot:
+            self._respond(400, "arXiv target > 0 requires an arXiv snapshot path — export.arxiv.org's "
+                                "robots.txt disallows the live search API. Download the Kaggle dataset "
+                                "(https://www.kaggle.com/datasets/Cornell-University/arxiv) and point this "
+                                "field at its arxiv-metadata-oai-snapshot.json.", redirect_to="/scrape.html")
+            return
+        if arxiv_snapshot and not Path(arxiv_snapshot).is_absolute():
+            arxiv_snapshot_path = (WIKI_ROOT / arxiv_snapshot).resolve()
+        else:
+            arxiv_snapshot_path = Path(arxiv_snapshot) if arxiv_snapshot else None
+        if arxiv > 0 and not arxiv_snapshot_path.is_file():
+            self._respond(400, f"arXiv snapshot not found: {arxiv_snapshot}", redirect_to="/scrape.html")
+            return
+
         model = (form.get("model", [""])[0] or "").strip()
         if model and model not in model_catalog.MODEL_DESCRIPTIONS:
             self._respond(400, f"Unknown model: {model!r} — pick one from the dropdown.",
@@ -549,6 +569,8 @@ class Handler(SimpleHTTPRequestHandler):
         label = f"scrape-{int(time.time())}"
         launch_args = ["--pmc", str(pmc), "--eric", str(eric), "--arxiv", str(arxiv),
                         "--out", str(out_path.relative_to(WIKI_ROOT)), "--label", label]
+        if arxiv_snapshot_path:
+            launch_args += ["--arxiv-snapshot", str(arxiv_snapshot_path)]
         if model:
             launch_args += ["--model", model]
         if prompt_version:
