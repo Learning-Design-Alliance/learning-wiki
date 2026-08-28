@@ -425,9 +425,30 @@ def main() -> None:
             print(f"  [SKIP] {record['article_id']}: structural validation did not pass "
                   f"({validation.get('error_count', '?')} error(s)) — not ingesting any of "
                   f"this article's contributions", file=sys.stderr)
+            if not args.dry_run:
+                if validation.get("parse_error"):
+                    reason = f"parse error: {validation['parse_error']}"
+                elif not validation.get("n_contributions"):
+                    reason = "no extractable contributions (out of scope or no learning-design content found)"
+                else:
+                    reason = f"{validation.get('error_count', '?')} structural validation error(s)"
+                ok.append_manifest_entry(
+                    source_id=record["article_id"],
+                    title=record.get("article_title", ""),
+                    status="rejected",
+                    reason=reason,
+                )
             continue
         print(f"[{record['article_id']}] {record.get('article_title', '')}")
-        all_written.extend(ingest_record(record, args.by, args.dry_run))
+        record_written = ingest_record(record, args.by, args.dry_run)
+        all_written.extend(record_written)
+        if record_written and not args.dry_run:
+            ok.append_manifest_entry(
+                source_id=record["article_id"],
+                title=record.get("article_title", ""),
+                status="ingested",
+                pages=[f"{folder}/{slug}.md" for folder, slug, *_ in record_written],
+            )
 
     print(f"\n{len(all_written)} page(s) {'would be ' if args.dry_run else ''}written, "
           f"{n_skipped_validation} article(s) skipped (failed structural validation).")
