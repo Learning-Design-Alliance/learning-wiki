@@ -201,6 +201,14 @@ def build_folder_index(page_type: str, config: dict) -> str:
 
 
 def build_root_index(counts: dict) -> str:
+    type_links = []
+    for page_type in ROOT_INDEX_TYPES:
+        config = PAGE_TYPES.get(page_type, {})
+        label = config.get("label", page_type.title())
+        count = counts.get(page_type, {}).get("total", 0)
+        type_links.append(f"[{label}]({page_type}/index.md) ({count})")
+    type_line = ", ".join(type_links[:-1]) + f", and {type_links[-1]}"
+
     lines = [
         "---",
         'okf_version: "0.2"',
@@ -208,30 +216,10 @@ def build_root_index(counts: dict) -> str:
         "",
         "# Learning Design Wiki",
         "",
-        '<img src="branding/lazuli-wordmark-lapis.svg" alt="Lazuli" width="220">',
-        "",
-        "A persistent, LLM-maintained knowledge base for learning design. "
+        "A persistent, LLM-maintained knowledge base for learning design: "
+        f"{type_line} — cross-linked and evidence-tagged. "
         "Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.",
         "",
-        "---",
-        "",
-        "## Knowledge Types",
-        "",
-    ]
-
-    for page_type in ROOT_INDEX_TYPES:
-        config = PAGE_TYPES.get(page_type, {})
-        label = config.get("label", page_type.title())
-        desc = config.get("description", "")
-        count = counts.get(page_type, {}).get("total", 0)
-        stable = counts.get(page_type, {}).get("stable", 0)
-        lines.append(f"### [{label}]({page_type}/index.md) ({count})")
-        lines.append(f"{desc}")
-        if stable:
-            lines.append(f"*{stable} stable*")
-        lines.append("")
-
-    lines += [
         "---",
         "",
         "## Quick navigation",

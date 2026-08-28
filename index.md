@@ -4,31 +4,7 @@ okf_version: "0.2"
 
 # Learning Design Wiki
 
-<img src="branding/lazuli-wordmark-lapis.svg" alt="Lazuli" width="220">
-
-A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.
-
----
-
-## Knowledge Types
-
-### [Principles](principles/index.md) (133)
-Research-backed design commitments: what to do and why.
-
-### [Elements](elements/index.md) (240)
-Instructional building blocks — the components you compose into patterns.
-
-### [Patterns](patterns/index.md) (77)
-Reusable instructional designs at the lesson or unit level.
-
-### [Strategies](strategies/index.md) (1629)
-Concrete teaching activity recipes — specific, implementable approaches.
-
-### [Theories](theories/index.md) (12)
-Explanatory frameworks that ground principles and claims.
-
-### [Claims](claims/index.md) (27)
-Empirical claims with evidence ratings, sources, and competing views.
+A persistent, LLM-maintained knowledge base for learning design: [Principles](principles/index.md) (133), [Elements](elements/index.md) (240), [Patterns](patterns/index.md) (77), [Strategies](strategies/index.md) (1629), [Theories](theories/index.md) (12), and [Claims](claims/index.md) (27) — cross-linked and evidence-tagged. Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.
 
 ---
 
