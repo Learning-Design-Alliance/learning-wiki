@@ -90,6 +90,35 @@ def bullet(page_type: str, p: dict) -> str:
     return line
 
 
+LETTER_GROUP_THRESHOLD = 60  # sections larger than this get an A-Z jump bar instead of one long list
+
+
+def render_entries(page_type: str, entries: list[dict]) -> list[str]:
+    """Render a list of page bullets, breaking into an A-Z jump bar + lettered
+    subsections once a section gets too long to scan (Wikipedia-style "List of..." pages)."""
+    if len(entries) <= LETTER_GROUP_THRESHOLD:
+        return [bullet(page_type, p) for p in entries]
+
+    groups: dict[str, list[dict]] = {}
+    for p in entries:
+        first = p["title"][:1].upper()
+        key = first if first.isalpha() else "#"
+        groups.setdefault(key, []).append(p)
+
+    letters = sorted(groups, key=lambda k: (k == "#", k))  # letters A-Z, then "#" last
+    anchor = lambda k: "letter-num" if k == "#" else f"letter-{k.lower()}"
+
+    lines = ["Jump to: " + " · ".join(f"[{k}](#{anchor(k)})" for k in letters), ""]
+    for k in letters:
+        heading = "0-9 & Other" if k == "#" else k
+        lines.append(f"#### {heading} {{: #{anchor(k)} }}")
+        lines.append("")
+        for p in groups[k]:
+            lines.append(bullet(page_type, p))
+        lines.append("")
+    return lines
+
+
 def build_folder_index(page_type: str, config: dict) -> str:
     folder = WIKI_ROOT / page_type
     pages = [get_page_meta(p) for p in sorted(folder.glob("*.md")) if p.stem != "index"]
@@ -160,14 +189,12 @@ def build_folder_index(page_type: str, config: dict) -> str:
                 continue
             lines.append(f"## {status_label}")
             lines.append("")
-            for p in by_status[status_key]:
-                lines.append(bullet(page_type, p))
+            lines.extend(render_entries(page_type, by_status[status_key]))
             lines.append("")
     else:
         lines.append("## All Entries")
         lines.append("")
-        for p in pages:
-            lines.append(bullet(page_type, p))
+        lines.extend(render_entries(page_type, pages))
         lines.append("")
 
     return "\n".join(lines)
