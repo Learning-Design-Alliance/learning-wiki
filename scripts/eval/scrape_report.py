@@ -182,7 +182,8 @@ def render_html(state: dict) -> str:
 <div class="viz-root">
   <h1>Scraper progress</h1>
   <div class="meta">Discovery (PMC/ERIC/arXiv) + prefetch-verify for a real ingest batch — updates live
-  every 5s while active, no page reload. <a href="/">&larr; Back to eval runs</a></div>
+  every 5s while active, no page reload. <a href="/optimizer.html">Harness optimizer →</a>
+  &middot; <a href="/">&larr; Home</a></div>
 
   <div class="card">
     <div class="status-row">

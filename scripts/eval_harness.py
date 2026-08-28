@@ -110,7 +110,7 @@ _load_secrets_env()
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.eval import (fetch_article, openrouter_client, validator, judge, failure_analysis, html_report,
                           executive_summary, cost_projection, history, prompts, optimizer, model_catalog,
-                          auto_optimize_report, index_report, consistency)
+                          auto_optimize_report, index_report, consistency, home_report)
 from scripts.eval.jsonutil import extract_json, JSONExtractionError
 
 RUN_CONFIG_PATH = WIKI_ROOT / "deploy" / "run-config.env"
@@ -1102,10 +1102,11 @@ def _generate_index_locked(verbose: bool) -> None:
     except FileNotFoundError:
         live_prompt_version = None
 
-    index_path = RUNS_DIR / "index.html"
+    index_path = RUNS_DIR / "optimizer.html"
     index_path.write_text(
         index_report.render_html(run_summaries, history_rows, auto_optimize_state, live_prompt_version),
         encoding="utf-8")
+    (RUNS_DIR / "index.html").write_text(home_report.render_html(len(run_summaries)), encoding="utf-8")
     if verbose:
         print(f"Wrote {index_path.relative_to(WIKI_ROOT)} ({len(run_summaries)} run(s))")
 

@@ -110,7 +110,7 @@ _SAFE_VERSION_RE = re.compile(r"^v\d+$")
 # which need the venv's `requests` and are only ever launched as a
 # subprocess, never imported into this process.
 sys.path.insert(0, str(WIKI_ROOT))
-from scripts.eval import scrape_report  # noqa: E402 - after sys.path fixup, deliberately
+from scripts.eval import scrape_report, home_report  # noqa: E402 - after sys.path fixup, deliberately
 
 RUN_SCRAPE_SCRIPT = WIKI_ROOT / "scripts" / "run_scrape_batch.py"
 SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
@@ -858,8 +858,24 @@ def _ensure_scrape_page_exists() -> None:
     scrape_page.write_text(scrape_report.render_html(state), encoding="utf-8")
 
 
+def _ensure_home_page_exists() -> None:
+    """index.html is the actual dashboard home now (see home_report.py's
+    docstring for why) — normally (re)written by eval_harness.py's
+    generate_index() after any run, but a droplet where that's never
+    happened yet (fresh provision, or scraper-only usage so far) has no
+    such file, and "/" would 404 with no indication of what to do. Write
+    the home hub at startup so it always resolves to something useful;
+    never overwrites a real one generate_index() already wrote."""
+    RUNS_DIR.mkdir(parents=True, exist_ok=True)
+    home_page = RUNS_DIR / "index.html"
+    if home_page.exists():
+        return
+    home_page.write_text(home_report.render_html(), encoding="utf-8")
+
+
 def main() -> None:
     _ensure_scrape_page_exists()
+    _ensure_home_page_exists()
     server = ThreadingHTTPServer(("127.0.0.1", PORT), Handler)
     print(f"Serving {RUNS_DIR} on http://127.0.0.1:{PORT} "
           f"(static files + POST /launch-auto-optimize, /delete-run, /rerun-run, /set-current-version, "
