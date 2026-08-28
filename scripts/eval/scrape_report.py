@@ -260,6 +260,7 @@ def render_html(state: dict, history: list = None) -> str:
       {f" &middot; arxiv_snapshot=<code>{_esc(config.get('arxiv_snapshot'))}</code>" if config.get('arxiv_snapshot') else ""}
       {f" &middot; model=<code>{_esc(config.get('model'))}</code>" if config.get('model') else ""}
       {f" &middot; prompt={_esc(config.get('prompt_version'))}" if config.get('prompt_version') else ""}
+      {f" &middot; correction_attempts={_esc(config.get('max_correction_attempts'))}" if config.get('model') else ""}
       {f" &middot; error: {_esc(state.get('error_detail'))}" if state.get('error_detail') else ""}
     </div>
   </div>
@@ -278,6 +279,8 @@ def render_html(state: dict, history: list = None) -> str:
       <label>Model<select name="model">{_model_options_html(config.get('model'))}</select></label>
       <label>Prompt version<input type="text" name="prompt_version" placeholder="blank = CURRENT"
              value="{_esc(config.get('prompt_version') or '')}"></label>
+      <label>Correction attempts<input type="number" name="max_correction_attempts" min="0" max="5"
+             value="{_esc(config.get('max_correction_attempts', 2))}"></label>
       <label class="checkbox-label"><input type="checkbox" name="refresh_cache" value="1"> Refresh discovery cache
         (ignore cached PMC/ERIC search results from a prior batch)</label>
       <button type="submit" class="btn btn-primary" id="launch-submit-btn" {"disabled" if is_active else ""}>Launch batch</button>
@@ -381,6 +384,7 @@ def render_html(state: dict, history: list = None) -> str:
         (config.arxiv_snapshot ? ' &middot; arxiv_snapshot=<code>' + esc(config.arxiv_snapshot) + '</code>' : '') +
         (config.model ? ' &middot; model=<code>' + esc(config.model) + '</code>' : '') +
         (config.prompt_version ? ' &middot; prompt=' + esc(config.prompt_version) : '') +
+        (config.model ? ' &middot; correction_attempts=' + esc(config.max_correction_attempts) : '') +
         (state.error_detail ? ' &middot; error: ' + esc(state.error_detail) : '');
       document.getElementById('discover-body').innerHTML = sourceRows(discover);
       document.getElementById('fetch-header').textContent =

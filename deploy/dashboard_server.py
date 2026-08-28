@@ -543,6 +543,14 @@ class Handler(SimpleHTTPRequestHandler):
             return
         prompt_version = (form.get("prompt_version", [""])[0] or "").strip()
         refresh_cache = (form.get("refresh_cache", [""])[0] or "").strip() == "1"
+        try:
+            max_correction_attempts = int(form.get("max_correction_attempts", ["2"])[0] or "2")
+        except ValueError:
+            self._respond(400, "Correction attempts must be a whole number.", redirect_to="/scrape.html")
+            return
+        if max_correction_attempts < 0:
+            self._respond(400, "Correction attempts must be non-negative.", redirect_to="/scrape.html")
+            return
 
         out = (form.get("out", [""])[0] or "").strip() or "eval/corpus/manifest_bulk.json"
         # Becomes an argv element passed to a subprocess (not shell-
@@ -571,7 +579,7 @@ class Handler(SimpleHTTPRequestHandler):
         if arxiv_snapshot_path:
             launch_args += ["--arxiv-snapshot", str(arxiv_snapshot_path)]
         if model:
-            launch_args += ["--model", model]
+            launch_args += ["--model", model, "--max-correction-attempts", str(max_correction_attempts)]
         if prompt_version:
             launch_args += ["--prompt-version", prompt_version]
         if refresh_cache:

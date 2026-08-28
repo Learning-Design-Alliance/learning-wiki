@@ -146,6 +146,7 @@ def run(args) -> None:
         "pmc": args.pmc, "eric": args.eric, "arxiv": args.arxiv,
         "arxiv_snapshot": args.arxiv_snapshot, "out": args.out,
         "model": args.model, "prompt_version": args.prompt_version,
+        "max_correction_attempts": args.max_correction_attempts,
     }
     state = {
         "label": args.label,
@@ -238,7 +239,8 @@ def run(args) -> None:
         gen_cmd = [sys.executable, "-u", "scripts/eval_harness.py", "run",
                    "--models", args.model, "--run-id", args.label,
                    "--manifest", args.out, "--max-tokens", "24000",
-                   "--judges", "--overwrite"]
+                   "--judges", "--overwrite",
+                   "--max-correction-attempts", str(args.max_correction_attempts)]
         if args.prompt_version:
             gen_cmd += ["--prompt-version", args.prompt_version]
         gen_rc = _run_chained_step(gen_cmd, SCRAPE_CONSOLE_LOG_PATH)
@@ -287,6 +289,14 @@ def main() -> None:
                               "same as before this option existed.")
     parser.add_argument("--prompt-version", default=None,
                          help="Only meaningful with --model. Omit to use whatever CURRENT is at run time.")
+    parser.add_argument("--max-correction-attempts", type=int, default=2,
+                         help="Only meaningful with --model. eval_harness.py's own default is 0 — "
+                              "deliberately, since run/optimize/auto-optimize measure a model's FIRST-attempt "
+                              "quality for benchmark purposes. A real ingest batch has no such purity to "
+                              "protect; the goal is just the best final wiki content, so this defaults to 2 "
+                              "here instead — a validator failure gets shown back to the model for a bounded "
+                              "number of fix-it attempts before the article is given up on. Pass 0 to opt "
+                              "back into single-shot behavior.")
     parser.add_argument("--refresh-cache", action="store_true",
                          help="Ignore eval/corpus/.discovery_cache.json's cached PMC/ERIC search results "
                               "and re-query live instead — needed to actually exercise a change to "
