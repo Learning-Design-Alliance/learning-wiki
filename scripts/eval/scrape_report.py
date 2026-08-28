@@ -114,7 +114,6 @@ def render_html(state: dict) -> str:
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta http-equiv="refresh" content="10">
 <title>Scraper progress — {_esc(state.get('label', 'scrape batch'))}</title>
 <style>
   :root {{
@@ -182,16 +181,16 @@ def render_html(state: dict) -> str:
 <body>
 <div class="viz-root">
   <h1>Scraper progress</h1>
-  <div class="meta">Discovery (PMC/ERIC/arXiv) + prefetch-verify for a real ingest batch — auto-refreshes
-  every 10s while active. <a href="/">&larr; Back to eval runs</a></div>
+  <div class="meta">Discovery (PMC/ERIC/arXiv) + prefetch-verify for a real ingest batch — updates live
+  every 5s while active, no page reload. <a href="/">&larr; Back to eval runs</a></div>
 
   <div class="card">
     <div class="status-row">
-      <span class="status-pill">{_esc(label)}</span>
-      <strong>{_esc(state.get('label', '(no batch run yet)'))}</strong>
-      {stop_button}
+      <span class="status-pill" id="status-pill" style="background:{color};">{_esc(label)}</span>
+      <strong id="batch-label">{_esc(state.get('label', '(no batch run yet)'))}</strong>
+      <span id="stop-button-container">{stop_button}</span>
     </div>
-    <div class="config-line">
+    <div class="config-line" id="config-line">
       pmc={config.get('pmc', '–')} &middot; eric={config.get('eric', '–')} &middot; arxiv={config.get('arxiv', '–')}
       &middot; out=<code>{_esc(config.get('out', '–'))}</code>
       {f" &middot; error: {_esc(state.get('error_detail'))}" if state.get('error_detail') else ""}
@@ -202,31 +201,113 @@ def render_html(state: dict) -> str:
   <div class="card">
     <table class="idx-table">
       <thead><tr><th>Source</th><th>Found / target</th><th>Progress</th></tr></thead>
-      <tbody>{_source_rows(discover)}</tbody>
+      <tbody id="discover-body">{_source_rows(discover)}</tbody>
     </table>
   </div>
 
-  <h2>Prefetch-verify — {fetch_done_count}/{fetch_total} attempted ({fetch_ok} OK, {fetch_fail} failed)</h2>
+  <h2 id="fetch-header">Prefetch-verify — {fetch_done_count}/{fetch_total} attempted ({fetch_ok} OK, {fetch_fail} failed)</h2>
   <div class="card">
     <table class="idx-table">
       <thead><tr><th>Status</th><th>Article</th><th>Detail</th></tr></thead>
-      <tbody>{_fetch_rows(fetch)}</tbody>
+      <tbody id="fetch-body">{_fetch_rows(fetch)}</tbody>
     </table>
   </div>
 
   <h2>Start a new batch</h2>
-  <div class="card">
-    <form method="POST" action="/launch-scrape" class="launch-form" onsubmit="return !{str(is_active).lower()};">
+  <div class="card" id="launch-card">
+    <form method="POST" action="/launch-scrape" class="launch-form" id="launch-form"
+          onsubmit="return !{str(is_active).lower()};">
       <label>PMC target<input type="number" name="pmc" value="200" min="0" max="5000"></label>
       <label>ERIC target<input type="number" name="eric" value="700" min="0" max="5000"></label>
       <label>arXiv target<input type="number" name="arxiv" value="0" min="0" max="500"></label>
       <label>Output manifest<input type="text" name="out" value="eval/corpus/manifest_real.json"></label>
-      <button type="submit" class="btn btn-primary" {"disabled" if is_active else ""}>Launch batch</button>
+      <button type="submit" class="btn btn-primary" id="launch-submit-btn" {"disabled" if is_active else ""}>Launch batch</button>
     </form>
-    {f'<p class="footer-note">A batch is already running — stop it before launching another.</p>' if is_active else ''}
+    <p class="footer-note" id="launch-note" style="{'display:block;' if is_active else 'display:none;'}">A batch is already running — stop it before launching another.</p>
   </div>
 
   {_live_console_html()}
 </div>
+<script>
+  (function () {{
+    var STATUS_LABELS = {{
+      discovering: ['Discovering', 'var(--status-warn)'],
+      fetching: ['Fetching', 'var(--status-warn)'],
+      completed: ['Completed', 'var(--status-good)'],
+      error: ['Error', 'var(--status-critical)'],
+      stopped_by_user: ['Stopped', 'var(--status-critical)']
+    }};
+
+    function esc(s) {{
+      var d = document.createElement('div');
+      d.textContent = (s === null || s === undefined) ? '' : String(s);
+      return d.innerHTML;
+    }}
+
+    function sourceRows(discover) {{
+      var bySource = (discover && discover.by_source) || {{}};
+      var keys = Object.keys(bySource);
+      if (!keys.length) return '<tr><td colspan="3" class="empty-note">No discovery data yet.</td></tr>';
+      return keys.map(function (source) {{
+        var c = bySource[source] || {{}};
+        var found = c.found || 0, target = c.target || 0;
+        var pct = target ? Math.min(100, Math.round(100 * found / target)) : 0;
+        return '<tr><td>' + esc(source) + '</td><td class="num">' + found + '/' + target + '</td>' +
+               '<td><div class="bar-track"><div class="bar-fill" style="width:' + pct + '%;"></div></div></td></tr>';
+      }}).join('');
+    }}
+
+    function fetchRows(fetchState) {{
+      var results = (fetchState && fetchState.results) || [];
+      if (!results.length) return '<tr><td colspan="3" class="empty-note">No fetch attempts yet.</td></tr>';
+      var shown = results.slice(-200).slice().reverse();
+      return shown.map(function (r) {{
+        var badge = r.ok ? '<span class="ok-badge">OK</span>' : '<span class="fail-badge">FAIL</span>';
+        return '<tr><td>' + badge + '</td><td>' + esc(r.id) + '</td><td class="detail-cell">' +
+               esc(r.chars_or_detail || '') + '</td></tr>';
+      }}).join('');
+    }}
+
+    function applyState(state) {{
+      var status = state.status || 'unknown';
+      var labelColor = STATUS_LABELS[status] || [status, 'var(--text-secondary)'];
+      var isActive = status === 'discovering' || status === 'fetching';
+      var config = state.config || {{}};
+      var discover = state.discover || {{}};
+      var fetchState = state.fetch || {{}};
+      var fetchTotal = fetchState.total || 0, fetchOk = fetchState.ok || 0, fetchFail = fetchState.fail || 0;
+      var fetchDone = fetchOk + fetchFail;
+
+      var pill = document.getElementById('status-pill');
+      pill.textContent = labelColor[0];
+      pill.style.background = labelColor[1];
+      document.getElementById('batch-label').textContent = state.label || '(no batch run yet)';
+      document.getElementById('stop-button-container').innerHTML = isActive
+        ? '<form method="POST" action="/stop-scrape" class="inline-form"><button type="submit" class="btn btn-danger">Stop</button></form>'
+        : '';
+      document.getElementById('config-line').innerHTML =
+        'pmc=' + esc(config.pmc != null ? config.pmc : '–') + ' &middot; eric=' + esc(config.eric != null ? config.eric : '–') +
+        ' &middot; arxiv=' + esc(config.arxiv != null ? config.arxiv : '–') +
+        ' &middot; out=<code>' + esc(config.out || '–') + '</code>' +
+        (state.error_detail ? ' &middot; error: ' + esc(state.error_detail) : '');
+      document.getElementById('discover-body').innerHTML = sourceRows(discover);
+      document.getElementById('fetch-header').textContent =
+        'Prefetch-verify — ' + fetchDone + '/' + fetchTotal + ' attempted (' + fetchOk + ' OK, ' + fetchFail + ' failed)';
+      document.getElementById('fetch-body').innerHTML = fetchRows(fetchState);
+      document.getElementById('launch-submit-btn').disabled = isActive;
+      document.getElementById('launch-note').style.display = isActive ? 'block' : 'none';
+      document.getElementById('launch-form').setAttribute('onsubmit', 'return ' + (!isActive) + ';');
+    }}
+
+    function poll() {{
+      fetch('./.scrape_state.json', {{ cache: 'no-store' }})
+        .then(function (r) {{ if (!r.ok) throw new Error('no state yet'); return r.json(); }})
+        .then(applyState)
+        .catch(function () {{ /* keep last-rendered state on a transient fetch error */ }});
+    }}
+    poll();
+    setInterval(poll, 5000);
+  }})();
+</script>
 </body>
 </html>"""
