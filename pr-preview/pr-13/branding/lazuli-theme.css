@@ -56,19 +56,35 @@
   display: none;
 }
 
-/* Group search, the light/dark toggle, and the GitHub link together on the
- * right, with clear space after the logo — margin-left: auto on the first
- * of the three (the palette toggle, which comes right after the now-hidden
- * title in the header's DOM order) pushes that whole trailing group over. */
-.md-header__option {
+/* One clean header row: search leads a tight right-side cluster, with the
+ * palette toggle and GitHub link as two small icon buttons right after it —
+ * not the toggle floating alone in the middle and a wide repo-name link
+ * competing with search for attention. DOM order is toggle, search, source;
+ * flex `order` reshuffles the visual order without touching markup. */
+.md-search {
+  order: 1;
   margin-left: auto;
+  flex: 0 1 420px;
+}
+.md-header__option {
+  order: 2;
+  margin-left: 0.4rem;
+}
+.md-header__source {
+  order: 3;
+  margin-left: 0.2rem;
+  width: auto; /* Material reserves wide fixed width here for the repo name */
 }
 
-/* Make search the thing you actually notice, not a gray box that blends
- * into the header. Wider, brand-blue border, light Lapis-tinted fill. */
-.md-search {
-  flex: 0 1 480px;
+/* Icon-only GitHub link — the repo name text was as wide as the search box
+ * itself and didn't need to be, next to a search bar that should be the
+ * thing people actually notice. */
+.md-source__repository {
+  display: none;
 }
+
+/* Search: a visible brand-blue border/tint instead of a gray box that
+ * blends into the header. */
 .md-search__form {
   background-color: color-mix(in srgb, #122FB2 6%, transparent);
   border: 1px solid #122FB2;
