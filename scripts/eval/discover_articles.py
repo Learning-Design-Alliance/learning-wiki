@@ -47,7 +47,6 @@ generation money.
 """
 
 import argparse
-import csv
 import json
 import re
 import sys
@@ -58,7 +57,7 @@ from pathlib import Path
 
 import requests
 
-from . import compliance
+from . import compliance, pmc_aws
 
 WIKI_ROOT = Path(__file__).parent.parent.parent
 EVAL_ROOT = WIKI_ROOT / "eval"
@@ -207,88 +206,18 @@ def _round_robin_counts(topics: list, total: int) -> list:
 PMC_ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PMC_ESUMMARY_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
 
-# NCBI's own bulk manifest of every PMCID actually included in the PMC Open
-# Access Subset — i.e. genuinely retrievable through the BioC-PMC API, not
-# just flagged "open access[filter]" at ESearch time, which can lag for very
-# recently published articles (see fetch_article.py's docstring on the exact
-# gap this closes). See eval/SOURCES.md's PMC section.
-PMC_OA_FILE_LIST_URL = "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_file_list.csv"
-PMC_OA_ACCESSION_CACHE_PATH = EVAL_ROOT / "corpus" / ".pmc_oa_accession_ids.txt"
-
-_pmc_oa_accession_ids_cache = None
-_pmc_oa_accession_ids_failed = False
-
-
-def _download_pmc_oa_accession_ids(dest: Path) -> int:
-    """Streams the PMC_OA_FILE_LIST_URL CSV (millions of rows — File,
-    Citation, Accession ID, Last Updated, PMID, License) and writes just the
-    Accession ID column, one PMCID per line, to `dest`. A one-time cost, same
-    "download once, cache on disk forever after" pattern as
-    resolve_arxiv_snapshot()'s kagglehub cache — re-run with a deleted cache
-    file (or a future --refresh-pmc-oa-cache flag, not built yet since
-    nothing has needed it) to pick up NCBI's periodic updates."""
-    compliance.guard(PMC_OA_FILE_LIST_URL)
-    dest.parent.mkdir(parents=True, exist_ok=True)
-    with requests.get(PMC_OA_FILE_LIST_URL, headers={"User-Agent": compliance.USER_AGENT},
-                       stream=True, timeout=120) as resp:
-        resp.raise_for_status()
-        reader = csv.reader(resp.iter_lines(decode_unicode=True))
-        header = next(reader, None)
-        if not header:
-            raise DiscoveryError(f"{PMC_OA_FILE_LIST_URL} returned an empty response.")
-        try:
-            accession_col = header.index("Accession ID")
-        except ValueError as e:
-            raise DiscoveryError(
-                f"Expected an 'Accession ID' column in {PMC_OA_FILE_LIST_URL}, got header: {header}"
-            ) from e
-        count = 0
-        with dest.open("w", encoding="utf-8") as out:
-            for row in reader:
-                if len(row) > accession_col and row[accession_col]:
-                    out.write(row[accession_col].strip() + "\n")
-                    count += 1
-    return count
-
-
-def resolve_pmc_oa_accession_ids() -> set:
-    """Lazily resolves and process-caches the confirmed-OA PMCID set —
-    search_pmc() calls this once per topic search, and re-downloading/
-    re-parsing the multi-hundred-MB NCBI file list every call would be far
-    too slow, so this loads it at most once per run (from
-    PMC_OA_ACCESSION_CACHE_PATH on disk if already cached from a prior run,
-    else via _download_pmc_oa_accession_ids()). A failure here degrades
-    gracefully rather than aborting discovery: search_pmc() falls back to
-    ESearch's own "open access[filter]" flag alone, exactly as it behaved
-    before this existed — this is a safety net on top of that filter, not a
-    hard dependency."""
-    global _pmc_oa_accession_ids_cache, _pmc_oa_accession_ids_failed
-    if _pmc_oa_accession_ids_failed:
-        return set()
-    if _pmc_oa_accession_ids_cache is not None:
-        return _pmc_oa_accession_ids_cache
-    try:
-        if not PMC_OA_ACCESSION_CACHE_PATH.exists():
-            n = _download_pmc_oa_accession_ids(PMC_OA_ACCESSION_CACHE_PATH)
-            print(f"[pmc-oa] cached {n:,} confirmed-OA accession id(s) to {PMC_OA_ACCESSION_CACHE_PATH}")
-        _pmc_oa_accession_ids_cache = set(
-            PMC_OA_ACCESSION_CACHE_PATH.read_text(encoding="utf-8").split()
-        )
-    except Exception as e:  # noqa: BLE001 - a missing/broken bulk file must not abort discovery
-        print(f"  [WARN] Could not resolve PMC OA accession list ({e}) — falling back to "
-              f"ESearch's 'open access[filter]' alone.", file=sys.stderr)
-        _pmc_oa_accession_ids_failed = True
-        return set()
-    return _pmc_oa_accession_ids_cache
-
 
 def search_pmc(query: str, retmax: int) -> list:
     """Returns manifest-shaped entries. Restricted to the PMC Open Access
     subset via the "open access[filter]" ESearch tag, then cross-checked
-    against NCBI's own bulk OA file list (resolve_pmc_oa_accession_ids()) —
-    the ESearch flag alone is best-effort, not a guarantee (see
-    fetch_article.py's docstring); the bulk list is ground truth for what's
-    actually in the subset."""
+    per-candidate against the PMC Article Datasets on AWS (pmc_aws.py) — the
+    ESearch flag alone is best-effort, not a guarantee (a very recently
+    published PMCID can be flagged OA before it's actually processed into
+    that dataset); `is_pmc_openaccess` in the AWS metadata is ground truth.
+    A candidate this check can't verify (network hiccup) is kept rather than
+    dropped — this is a safety net on top of the ESearch flag, not a hard
+    dependency — but one confirmed NOT in the OA subset is dropped here,
+    before it costs an ESummary call or a manifest slot."""
     search_params = {
         "db": "pmc",
         "term": f"({query}) AND open access[filter]",
@@ -305,15 +234,27 @@ def search_pmc(query: str, retmax: int) -> list:
     if not ids:
         return []
 
-    oa_ids = resolve_pmc_oa_accession_ids()
-    if oa_ids:
-        before = len(ids)
-        ids = [uid for uid in ids if f"PMC{uid}" in oa_ids]
-        if len(ids) != before:
-            print(f"  [pmc-oa] {query!r}: dropped {before - len(ids)}/{before} hit(s) not in the "
-                  f"confirmed OA subset.")
-        if not ids:
-            return []
+    confirmed_ids = []
+    dropped = 0
+    for uid in ids:
+        pmcid = f"PMC{uid}"
+        try:
+            aws_meta = pmc_aws.fetch_metadata(pmcid)
+        except (requests.RequestException, ValueError) as e:
+            print(f"  [WARN] Could not check {pmcid} against the PMC AWS dataset ({e}) — "
+                  f"keeping it on the ESearch flag alone.", file=sys.stderr)
+            confirmed_ids.append(uid)
+            continue
+        if aws_meta is not None and aws_meta.get("is_pmc_openaccess"):
+            confirmed_ids.append(uid)
+        else:
+            dropped += 1
+    if dropped:
+        print(f"  [pmc-oa] {query!r}: dropped {dropped}/{len(ids)} hit(s) not confirmed in the "
+              f"PMC Open Access subset.")
+    ids = confirmed_ids
+    if not ids:
+        return []
 
     try:
         summary_params = {"db": "pmc", "id": ",".join(ids), "retmode": "json"}
@@ -346,7 +287,7 @@ def search_pmc(query: str, retmax: int) -> list:
             "authors": authors,
             "year": year,
             "url": f"https://www.ncbi.nlm.nih.gov/pmc/articles/{pmcid}",
-            "fetch_url": f"https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/{pmcid}/unicode",
+            "fetch_url": pmc_aws.metadata_url(pmcid),
             "topic_hint": query,
         })
     return entries
