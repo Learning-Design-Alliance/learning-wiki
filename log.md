@@ -179,3 +179,5 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 ## [2026-04-13] ingest | claims/self-efficacy-predicts-academic-persistence | new claim (motiv-2); evidence: Bandura 1997, Pajares 1996 systematic review
 ## [2026-04-13] ingest | claims/task-value-increases-motivation-and-engagement | new claim (motiv-3); evidence: Eccles & Wigfield 2002, Wigfield & Cambria 2010
 ## [2026-04-13] edit | principles/motivation | added motiv-1, motiv-2, motiv-3 to Claims section; updated Implications prose to reference autonomy, efficacy, and task-value facets
+
+## [2026-08-28] fix | strategies/* (49 pages) | renamed files containing a literal `:` in the filename (e.g. `blocks_and_legos:_maker_spaces_and_fab_labs.md` → `blocks_and_legos-maker_spaces_and_fab_labs.md`) — the colon was parsed as a URI scheme separator by Jekyll/GitHub Pages, breaking the Pages build with "Invalid scheme format"; updated all cross-links in strategies/index.md and principles/explicit-instruction-math-strategies.md, principles/explicit-instruction-online-reading-strategies.md; regenerated indexes and verified with `scripts/lint.py`
