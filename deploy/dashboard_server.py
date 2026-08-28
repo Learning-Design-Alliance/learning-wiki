@@ -110,7 +110,7 @@ _SAFE_VERSION_RE = re.compile(r"^v\d+$")
 # which need the venv's `requests` and are only ever launched as a
 # subprocess, never imported into this process.
 sys.path.insert(0, str(WIKI_ROOT))
-from scripts.eval import scrape_report, home_report, model_catalog  # noqa: E402 - after sys.path fixup, deliberately
+from scripts.eval import scrape_report, model_catalog  # noqa: E402 - after sys.path fixup, deliberately
 
 RUN_SCRAPE_SCRIPT = WIKI_ROOT / "scripts" / "run_scrape_batch.py"
 SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
@@ -848,40 +848,42 @@ class Handler(SimpleHTTPRequestHandler):
 
 
 def _ensure_scrape_page_exists() -> None:
-    """scrape.html is normally written by run_scrape_batch.py's own
-    _save_state() the first time a batch actually runs — a droplet where
-    none ever has (a fresh provision, or one that's only used
-    eval_harness.py run/auto-optimize so far) has no such file at all, and
-    SimpleHTTPRequestHandler serves a bare 404 for it with no indication
-    anything is wrong or what to do next. Write a placeholder "nothing has
-    run yet, here's the launch form" page at startup so /scrape.html always
-    resolves to something useful."""
+    """scrape.html is normally (re)written by run_scrape_batch.py's own
+    _save_state() while a batch is actually running — between batches
+    nothing ever touches it again, which used to mean a `git pull` +
+    service restart to pick up a scrape_report.py template change had no
+    visible effect until the next real scrape ran: confusing enough, live,
+    that it's worth this comment. So this now unconditionally re-renders
+    scrape.html from whatever .scrape_state.json currently holds (a no-op
+    on the state itself — render_html() is a pure function of it — so this
+    can never lose real progress, it just re-applies the current template
+    code to it) every time the service starts, i.e. every deploy. A
+    droplet where no batch has ever run has no state file, so this
+    correctly falls back to an empty/placeholder render, same as before."""
     RUNS_DIR.mkdir(parents=True, exist_ok=True)
-    scrape_page = RUNS_DIR / "scrape.html"
-    if scrape_page.exists():
-        return
     state = {}
     if SCRAPE_STATE_PATH.exists():
         try:
             state = json.loads(SCRAPE_STATE_PATH.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, OSError):
             state = {}
-    scrape_page.write_text(scrape_report.render_html(state), encoding="utf-8")
+    (RUNS_DIR / "scrape.html").write_text(scrape_report.render_html(state), encoding="utf-8")
 
 
 def _ensure_home_page_exists() -> None:
     """index.html is the actual dashboard home now (see home_report.py's
-    docstring for why) — normally (re)written by eval_harness.py's
-    generate_index() after any run, but a droplet where that's never
-    happened yet (fresh provision, or scraper-only usage so far) has no
-    such file, and "/" would 404 with no indication of what to do. Write
-    the home hub at startup so it always resolves to something useful;
-    never overwrites a real one generate_index() already wrote."""
+    docstring for why), written alongside optimizer.html by
+    eval_harness.py's generate_index(). Re-running that at every service
+    start (not just when index.html happens to be missing) means a deploy
+    that changes home_report.py/index_report.py's templates is visible
+    immediately, the same fix as _ensure_scrape_page_exists() above and
+    for the identical reason — this uses the real, authoritative
+    regeneration path (_regenerate_index(), already used after every
+    stop/delete/rerun action) rather than a separate reimplementation that
+    would have to duplicate its run-counting logic to avoid regressing the
+    displayed count back to zero on every restart."""
     RUNS_DIR.mkdir(parents=True, exist_ok=True)
-    home_page = RUNS_DIR / "index.html"
-    if home_page.exists():
-        return
-    home_page.write_text(home_report.render_html(), encoding="utf-8")
+    _regenerate_index()
 
 
 def main() -> None:
