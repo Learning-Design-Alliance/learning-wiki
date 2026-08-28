@@ -36,6 +36,7 @@ Empirical claims with evidence ratings, sources, and competing views.
 
 * [Ingest & edit log](log.md)
 * [Schema & agent guide](CLAUDE.md)
+* [Source manifest](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/sources/manifest.ndjson) — every source article reviewed, ingested or rejected (plain NDJSON, not a wiki page — browse on GitHub or grep it)
 
 ## How to use this wiki
 
