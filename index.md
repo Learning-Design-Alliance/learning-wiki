@@ -4,6 +4,8 @@ okf_version: "0.2"
 
 # Learning Design Wiki
 
+<img src="branding/lazuli-wordmark-lapis.svg" alt="Lazuli" width="220">
+
 A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.
 
 ---
