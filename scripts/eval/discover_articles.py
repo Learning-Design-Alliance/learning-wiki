@@ -26,12 +26,13 @@ arXiv defaults to 0: export.arxiv.org (the host behind search_arxiv's API
 calls) serves a real, deliberate `User-agent: * / Disallow: /` for its
 entire domain (verified live — see eval/SOURCES.md), so there is no
 compliant way to query it via this script at all, not just a volume concern.
-Pass --arxiv > 0 with no --arxiv-snapshot to try the live API anyway
-(compliance.py will correctly block it; this isn't a bug to route around).
 Real arXiv coverage instead uses the officially sanctioned Kaggle bulk
 metadata snapshot (https://www.kaggle.com/datasets/Cornell-University/arxiv,
-updated weekly) — download it yourself (needs a Kaggle account API token)
-and pass --arxiv-snapshot <path to arxiv-metadata-oai-snapshot.json>; see
+updated weekly). Any --arxiv > 0 is automatically resolved to a local copy
+of that snapshot via resolve_arxiv_snapshot() — kagglehub downloads and
+caches it on first use (auth from KAGGLE_USERNAME/KAGGLE_KEY, see
+deploy/eval-harness.env.example), or pass --arxiv-snapshot <path> yourself
+to use an already-downloaded file instead; see
 build_arxiv_manifest_from_snapshot() below and eval/SOURCES.md — it's
 restricted to the physics.ed-ph category, so its real yield is small by
 design. This is a DISCOVERY step only — it
@@ -470,6 +471,59 @@ def build_manifest(targets: dict, topics: list, existing_ids: set, verbose: bool
 # verified robots.txt finding).
 # ---------------------------------------------------------------------------
 
+ARXIV_KAGGLE_HANDLE = "Cornell-University/arxiv"
+ARXIV_SNAPSHOT_FILENAME = "arxiv-metadata-oai-snapshot.json"
+
+
+def resolve_arxiv_snapshot(explicit_path: str = None) -> Path:
+    """Returns a local path to the Kaggle arXiv metadata snapshot file (see
+    build_arxiv_manifest_from_snapshot()'s docstring for its format).
+
+    If explicit_path is given and actually exists, it's used as-is — this
+    lets an already-downloaded file, or a non-default location, override
+    the default. Otherwise the dataset is fetched via kagglehub, which
+    authenticates from KAGGLE_USERNAME/KAGGLE_KEY (see
+    deploy/eval-harness.env.example — already loaded into this process's
+    environment the same way OPENROUTER_API_KEY etc. are) and maintains its
+    own on-disk cache (~/.cache/kagglehub by default), so only the very
+    first call ever actually downloads anything; every call after that,
+    including every later scrape batch, resolves instantly from cache.
+    """
+    if explicit_path:
+        p = Path(explicit_path)
+        if p.is_file():
+            return p
+
+    try:
+        import kagglehub
+    except ImportError as e:
+        raise DiscoveryError(
+            f"No local --arxiv-snapshot file given/found, and kagglehub isn't installed "
+            f"(`pip install kagglehub` — already in requirements-eval.txt) to auto-download "
+            f"{ARXIV_KAGGLE_HANDLE!r}. See eval/SOURCES.md."
+        ) from e
+
+    try:
+        dataset_dir = Path(kagglehub.dataset_download(ARXIV_KAGGLE_HANDLE))
+    except Exception as e:
+        raise DiscoveryError(
+            f"kagglehub could not download {ARXIV_KAGGLE_HANDLE!r}: {e}. Check KAGGLE_USERNAME/"
+            f"KAGGLE_KEY in /etc/eval-harness.env (see deploy/eval-harness.env.example)."
+        ) from e
+
+    snapshot_path = dataset_dir / ARXIV_SNAPSHOT_FILENAME
+    if not snapshot_path.is_file():
+        candidates = list(dataset_dir.glob("*.json"))
+        if len(candidates) == 1:
+            snapshot_path = candidates[0]
+        else:
+            raise DiscoveryError(
+                f"kagglehub downloaded {dataset_dir} but couldn't find {ARXIV_SNAPSHOT_FILENAME} "
+                f"in it (found: {sorted(p.name for p in dataset_dir.iterdir())})."
+            )
+    return snapshot_path
+
+
 def build_arxiv_manifest_from_snapshot(snapshot_path: Path, topics: list, target: int,
                                         existing_ids: set, verbose: bool = True) -> list:
     """Single streaming pass over a downloaded Kaggle arXiv metadata snapshot
@@ -578,14 +632,15 @@ def main() -> None:
     parser.add_argument("--eric", type=int, default=DEFAULT_TARGETS["eric"], help="Target ERIC candidate count")
     parser.add_argument("--arxiv", type=int, default=DEFAULT_TARGETS["arxiv"],
                          help="Target arXiv candidate count (default 0 — export.arxiv.org's "
-                              "robots.txt disallows all automated access; pass --arxiv-snapshot "
-                              "to source candidates from the offline Kaggle metadata dump instead)")
+                              "robots.txt disallows all automated access; any value > 0 is sourced "
+                              "from the offline Kaggle metadata snapshot, auto-downloaded via "
+                              "kagglehub if --arxiv-snapshot isn't given — see resolve_arxiv_snapshot())")
     parser.add_argument("--arxiv-snapshot", default=None,
-                         help="Path to a downloaded Kaggle arXiv metadata snapshot "
+                         help="Path to an already-downloaded Kaggle arXiv metadata snapshot "
                               "(arxiv-metadata-oai-snapshot.json from "
-                              "https://www.kaggle.com/datasets/Cornell-University/arxiv). If given "
-                              "and --arxiv > 0, arXiv candidates come from this file instead of the "
-                              "(blocked) live API.")
+                              "https://www.kaggle.com/datasets/Cornell-University/arxiv). Omit to "
+                              "have it auto-downloaded via kagglehub instead (needs KAGGLE_USERNAME/"
+                              "KAGGLE_KEY — see deploy/eval-harness.env.example).")
     parser.add_argument("--out", default=str(EVAL_ROOT / "corpus" / "manifest_bulk.json"),
                          help="Output manifest path (default: eval/corpus/manifest_bulk.json — "
                               "deliberately NOT manifest.json, so the original 10-article benchmark stays intact)")
@@ -605,16 +660,16 @@ def main() -> None:
     print(f"Seeded {len(topics)} search topics from theories/ + principles/.\n")
 
     targets = {"pmc": args.pmc, "eric": args.eric}
-    if args.arxiv > 0 and not args.arxiv_snapshot:
-        # No snapshot given — attempt the live API anyway via the normal
-        # per-source loop, which now degrades gracefully (warns and moves on)
-        # instead of aborting the whole run when compliance.py blocks it.
-        targets["arxiv"] = args.arxiv
     manifest = build_manifest(targets, topics, existing_ids, use_cache=not args.refresh_cache)
 
-    if args.arxiv > 0 and args.arxiv_snapshot:
+    if args.arxiv > 0:
+        # Always resolved to a local snapshot file — either the explicit
+        # --arxiv-snapshot path, or an on-demand kagglehub download/cache
+        # hit — never the live API, which export.arxiv.org's robots.txt
+        # disallows outright. See resolve_arxiv_snapshot()'s docstring.
+        snapshot_path = resolve_arxiv_snapshot(args.arxiv_snapshot)
         arxiv_entries = build_arxiv_manifest_from_snapshot(
-            Path(args.arxiv_snapshot), topics, args.arxiv,
+            snapshot_path, topics, args.arxiv,
             existing_ids | {e["id"] for e in manifest},
         )
         manifest.extend(arxiv_entries)

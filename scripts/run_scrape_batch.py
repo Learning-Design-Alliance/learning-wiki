@@ -130,8 +130,6 @@ def run(args) -> None:
         targets["pmc"] = args.pmc
     if args.eric > 0:
         targets["eric"] = args.eric
-    if args.arxiv > 0 and not args.arxiv_snapshot:
-        targets["arxiv"] = args.arxiv  # will correctly hit the live-API compliance block; see discover_articles.py
 
     manifest = []
     if targets:
@@ -142,9 +140,16 @@ def run(args) -> None:
             state["discover"]["by_source"][source] = {"found": found, "target": target}
         _save_state(state)
 
-    if args.arxiv > 0 and args.arxiv_snapshot:
+    if args.arxiv > 0:
+        # Always resolved to a local snapshot file — either the explicit
+        # --arxiv-snapshot path, or an on-demand kagglehub download/cache
+        # hit — never the live API; see discover_articles.resolve_arxiv_snapshot().
+        print(f"Resolving arXiv snapshot (explicit path: {args.arxiv_snapshot or '(none — using kagglehub)'})...",
+              flush=True)
+        snapshot_path = discover_articles.resolve_arxiv_snapshot(args.arxiv_snapshot)
+        print(f"Using arXiv snapshot: {snapshot_path}", flush=True)
         arxiv_entries = discover_articles.build_arxiv_manifest_from_snapshot(
-            Path(args.arxiv_snapshot), topics, args.arxiv,
+            snapshot_path, topics, args.arxiv,
             existing_ids | {e["id"] for e in manifest},
         )
         manifest.extend(arxiv_entries)

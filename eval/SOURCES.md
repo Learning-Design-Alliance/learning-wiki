@@ -53,7 +53,12 @@ actually sanctioned, and what to do if a source blocks bulk access outright.
   full PDFs available from the companion `gs://arxiv-dataset` Google Cloud
   Storage bucket. This is arXiv's own maintained export, not a scrape by a
   third party — a good starting point for candidate selection before
-  fetching only the PDFs you actually need.
+  fetching only the PDFs you actually need. This harness fetches it
+  automatically: `discover_articles.resolve_arxiv_snapshot()` calls
+  `kagglehub.dataset_download()` the first time a batch requests `--arxiv >
+  0` with no explicit `--arxiv-snapshot`, authenticating from
+  `KAGGLE_USERNAME`/`KAGGLE_KEY` (see `deploy/eval-harness.env.example`) and
+  caching the result on disk — no manual download step needed.
 - **Attribution**: if you build an index/tool on the full text, link back to
   the arXiv abstract page for downloads (their license term, not just courtesy).
 

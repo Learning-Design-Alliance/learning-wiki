@@ -519,24 +519,21 @@ class Handler(SimpleHTTPRequestHandler):
             return
 
         # export.arxiv.org's robots.txt disallows the live search API outright
-        # (see eval/SOURCES.md) — arxiv>0 must come from a local Kaggle
-        # snapshot (discover_articles.build_arxiv_manifest_from_snapshot()),
-        # never the live API. Block here rather than letting the batch launch
-        # and silently hit the known compliance failure.
+        # (see eval/SOURCES.md) — arxiv>0 must come from the local Kaggle
+        # snapshot. This field is an optional override for an
+        # already-downloaded file; left blank, run_scrape_batch.py resolves
+        # it itself via kagglehub (discover_articles.resolve_arxiv_snapshot()
+        # — auto-downloads and caches on first use, from KAGGLE_USERNAME/
+        # KAGGLE_KEY in /etc/eval-harness.env). Only validated here when
+        # actually given — an empty field is not an error.
         arxiv_snapshot = (form.get("arxiv_snapshot", [""])[0] or "").strip()
-        if arxiv > 0 and not arxiv_snapshot:
-            self._respond(400, "arXiv target > 0 requires an arXiv snapshot path — export.arxiv.org's "
-                                "robots.txt disallows the live search API. Download the Kaggle dataset "
-                                "(https://www.kaggle.com/datasets/Cornell-University/arxiv) and point this "
-                                "field at its arxiv-metadata-oai-snapshot.json.", redirect_to="/scrape.html")
-            return
-        if arxiv_snapshot and not Path(arxiv_snapshot).is_absolute():
-            arxiv_snapshot_path = (WIKI_ROOT / arxiv_snapshot).resolve()
-        else:
-            arxiv_snapshot_path = Path(arxiv_snapshot) if arxiv_snapshot else None
-        if arxiv > 0 and not arxiv_snapshot_path.is_file():
-            self._respond(400, f"arXiv snapshot not found: {arxiv_snapshot}", redirect_to="/scrape.html")
-            return
+        arxiv_snapshot_path = None
+        if arxiv_snapshot:
+            arxiv_snapshot_path = (WIKI_ROOT / arxiv_snapshot).resolve() if not Path(arxiv_snapshot).is_absolute() \
+                else Path(arxiv_snapshot)
+            if not arxiv_snapshot_path.is_file():
+                self._respond(400, f"arXiv snapshot not found: {arxiv_snapshot}", redirect_to="/scrape.html")
+                return
 
         model = (form.get("model", [""])[0] or "").strip()
         if model and model not in model_catalog.MODEL_DESCRIPTIONS:

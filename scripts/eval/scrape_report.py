@@ -225,7 +225,8 @@ def render_html(state: dict) -> str:
       <label>PMC target<input type="number" name="pmc" value="200" min="0" max="5000"></label>
       <label>ERIC target<input type="number" name="eric" value="700" min="0" max="5000"></label>
       <label>arXiv target<input type="number" name="arxiv" value="0" min="0" max="500"></label>
-      <label>arXiv snapshot path<input type="text" name="arxiv_snapshot" placeholder="required if arXiv target > 0"
+      <label>arXiv snapshot path (optional)<input type="text" name="arxiv_snapshot"
+             placeholder="blank = auto-download via kagglehub"
              value="{_esc(config.get('arxiv_snapshot') or '')}"></label>
       <label>Output manifest<input type="text" name="out" value="eval/corpus/manifest_real.json"></label>
       <label>Model<select name="model">{_model_options_html(config.get('model'))}</select></label>
