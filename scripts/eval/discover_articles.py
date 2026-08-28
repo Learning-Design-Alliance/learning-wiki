@@ -65,15 +65,35 @@ TIMEOUT = 30
 
 # Committed to git (small, text, a valuable historical record) — every
 # article id that has ever reached generation (eval_harness.py run),
-# regardless of outcome, so a later discovery batch doesn't re-spend the
-# real cost (paid model calls) re-generating something already processed.
-# Re-discovering and re-fetching a previously-failed-to-fetch article is
-# cheap and sometimes even useful (a PMC article "not yet in the OA corpus"
-# may become available later) — this registry is deliberately about the
-# expensive step, not every step. Written by ingest_extractions.py after
-# each run; read by load_excluded_ids() below, alongside the original
-# benchmark manifest.json.
+# so a later discovery batch doesn't re-spend the real cost (paid model
+# calls) re-generating something already processed. Re-discovering and
+# re-fetching a previously-failed-to-fetch article is cheap and sometimes
+# even useful (a PMC article "not yet in the OA corpus" may become
+# available later) — this registry is deliberately about the expensive
+# step, not every step. Written by ingest_extractions.py after each run;
+# read by load_excluded_ids() below, alongside the original benchmark
+# manifest.json.
+#
+# "regardless of outcome" used to mean literally that — a single
+# validation_failed touch excluded an id forever, identical to a genuinely
+# successful ingest. That's wrong: a validator failure can be a transient
+# bad roll, a prompt version that later improved, or a model that just had
+# an off attempt — none of which mean the article can never become a good
+# wiki page. "ingested" and "no_new_pages" ARE genuinely done (re-running
+# either would produce a duplicate or the same no-contribution result) and
+# stay excluded unconditionally; "validation_failed" instead gets a bounded
+# number of separate batch exposures (MAX_VALIDATION_RETRY_ATTEMPTS) before
+# giving up on it for good — see load_excluded_ids() and
+# record_processed_articles().
 PROCESSED_REGISTRY_PATH = EVAL_ROOT / "corpus" / "processed_articles.json"
+
+# How many separate batch exposures (not correction-loop attempts within
+# one run — eval_harness.py's max_correction_attempts already covers that)
+# a validation_failed article gets before it's excluded for good. 3 batches
+# x up to 3 correction attempts each (this project's current default) is
+# still cheap in absolute terms (a few cents) for something that might
+# otherwise be permanently unwritable wiki content.
+MAX_VALIDATION_RETRY_ATTEMPTS = 3
 
 
 def load_processed_registry() -> dict:
@@ -88,13 +108,18 @@ def load_processed_registry() -> dict:
 def record_processed_articles(entries: dict) -> None:
     """Merge `entries` ({article_id: {outcome, run_id, model, pages}}) into
     the persistent registry, stamping today's date, and write it back.
-    Never removes an existing entry — a later run touching the same id
-    (unlikely, since callers should be excluding registered ids already)
-    just overwrites that one id's record, same as a normal upsert."""
+    Tracks `attempts` — incremented each time an id is recorded — so
+    load_excluded_ids() can tell "failed once, still worth trying again"
+    apart from "failed repeatedly, genuinely not going to work." Never
+    removes an existing entry; a later run touching the same id (expected
+    now for a validation_failed id under the retry cap, not just a
+    theoretical edge case) overwrites that id's outcome/run_id/model/pages
+    while carrying its attempt count forward."""
     registry = load_processed_registry()
     today = date.today().isoformat()
     for article_id, info in entries.items():
-        registry[article_id] = {**info, "date": today}
+        attempts = registry.get(article_id, {}).get("attempts", 0) + 1
+        registry[article_id] = {**info, "date": today, "attempts": attempts}
     PROCESSED_REGISTRY_PATH.parent.mkdir(parents=True, exist_ok=True)
     PROCESSED_REGISTRY_PATH.write_text(
         json.dumps(registry, indent=2, sort_keys=True), encoding="utf-8"
@@ -103,13 +128,22 @@ def record_processed_articles(entries: dict) -> None:
 
 def load_excluded_ids() -> set:
     """Article ids a fresh discovery pass should never re-surface: the
-    original 10-article benchmark corpus (manifest.json) plus every id in
-    the processed-articles registry. The single source of truth for this
-    union — both discover_articles.py's own main() and
-    run_scrape_batch.py's run() call this instead of each keeping their own
-    copy of the manifest.json-loading logic (they used to; that duplication
-    is exactly how this kind of check silently drifts out of sync)."""
-    ids = set(load_processed_registry().keys())
+    original 10-article benchmark corpus (manifest.json) plus the
+    processed-articles registry — except a validation_failed id that
+    hasn't yet used up its MAX_VALIDATION_RETRY_ATTEMPTS separate batch
+    exposures stays OUT of this set, i.e. still eligible to be found again
+    by the normal search machinery next time a matching batch runs (no
+    special resurfacing logic needed — the same query just hits it again).
+    The single source of truth for this union — both discover_articles.py's
+    own main() and run_scrape_batch.py's run() call this instead of each
+    keeping their own copy of the manifest.json-loading logic (they used
+    to; that duplication is exactly how this kind of check silently drifts
+    out of sync)."""
+    ids = set()
+    for article_id, info in load_processed_registry().items():
+        if info.get("outcome") == "validation_failed" and info.get("attempts", 1) < MAX_VALIDATION_RETRY_ATTEMPTS:
+            continue
+        ids.add(article_id)
     manifest_path = EVAL_ROOT / "corpus" / "manifest.json"
     if manifest_path.exists():
         try:
