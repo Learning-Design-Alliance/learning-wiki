@@ -40,6 +40,31 @@
   --md-accent-bg-color--light: color-mix(in srgb, #FFFBF5 70%, transparent);
 }
 
+/* Body link (resting-state) color comes from --md-typeset-a-color, which
+ * Material defaults to var(--md-primary-fg-color) — fine for a stock
+ * palette where primary is a normal saturated color, but primary-fg here is
+ * pale sand (the header background). Without this override, every inline
+ * link in page content rendered as near-white text on a white background:
+ * ~1:1 contrast, confirmed via computed-style + WCAG contrast math, not
+ * just a screenshot. !important because palette.css defines this per
+ * named primary color (indigo, teal, etc.) and "custom" isn't one of
+ * them, so it falls through to the :root default either way — but every
+ * other footer/primary override in this file needed !important to
+ * reliably win in this Material version, so staying consistent. */
+[data-md-color-accent="custom"] {
+  --md-typeset-a-color: #122FB2 !important; /* lazuli-lapis */
+}
+
+/* Full-strength Lapis passes WCAG AA easily on the light scheme's white
+ * background (10.1:1, computed) but fails badly against the dark scheme's
+ * body background (1.6:1) — Lapis is itself a fairly dark, low-luminance
+ * blue. Lighten it for dark mode specifically; verified this exact value
+ * against the real rendered slate background at 5.7:1. */
+[data-md-color-scheme="slate"][data-md-color-accent="custom"] {
+  --md-typeset-a-color: #8897D8 !important;
+  --md-accent-fg-color: #8897D8 !important;
+}
+
 /* A thin rule under the header, matching the hairline separating nav from
  * hero content on learningdesignalliance.org / lazuli.design. */
 [data-md-color-primary="custom"] .md-header {
@@ -100,40 +125,11 @@
 }
 
 /* ---------- Footer ---------- */
-/* Material's default footer is a near-black bar — replace with the same
- * warm neutral used across the rest of the theme, ink text instead of
- * white, and a diagonal hatch rule on top echoing the divider style used on
- * learningdesignalliance.org / lazuli.design. */
-/* Setting background-color/color directly rather than through the
- * --md-footer-* custom properties: overriding those at :root, even with
- * !important, did not change .md-footer's computed background in testing —
- * mkdocs-material's palette.css recomputes them from a hue formula and
- * something in that layering wins regardless. Targeting the properties
- * Material's own rule actually sets (background-color, color) on the same
- * elements sidesteps whatever that is. */
+/* Dropped entirely: with navigation.footer off there's no prev/next (it was
+ * only ever useful on the very first page anyway, since the wiki has no
+ * real page-to-page sequence), and the remaining copyright bar isn't worth
+ * a whole extra section for one license line — that's already in LICENSE
+ * and README.md. */
 .md-footer {
-  background-color: #F0E8E1 !important; /* lazuli-sand-300 */
-  color: #0E1240 !important;            /* lazuli-ink */
-  background-image: repeating-linear-gradient(
-    -45deg,
-    #0E1240 0 2px,
-    transparent 2px 10px
-  );
-  background-repeat: repeat-x;
-  background-size: 100% 2px;
-  background-position: top;
-}
-.md-footer-meta {
-  background-color: #E1D4C9 !important; /* lazuli-linen */
-  margin-top: 2px; /* clears the hatch line drawn on .md-footer itself */
-}
-.md-footer-meta,
-.md-copyright,
-.md-footer__link,
-.md-footer__title,
-.md-footer__direction {
-  color: #0E1240 !important;
-}
-.md-footer__link:hover {
-  color: #122FB2 !important; /* lazuli-lapis */
+  display: none;
 }
