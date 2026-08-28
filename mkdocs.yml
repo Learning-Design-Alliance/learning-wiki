@@ -31,7 +31,6 @@ theme:
   features:
     - navigation.sections
     - navigation.top
-    - navigation.footer
     - navigation.indexes
     - navigation.tracking
     - navigation.path
