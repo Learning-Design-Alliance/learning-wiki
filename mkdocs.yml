@@ -37,9 +37,14 @@ theme:
     - navigation.indexes
     - navigation.tracking
     - navigation.path
+    - navigation.prune
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.prefetch
     - toc.follow
     - search.suggest
     - search.highlight
+    - search.share
     - content.code.copy
     - content.tooltips
 
