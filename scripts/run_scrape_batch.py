@@ -133,7 +133,8 @@ def run(args) -> None:
 
     manifest = []
     if targets:
-        manifest = discover_articles.build_manifest(targets, topics, existing_ids)
+        manifest = discover_articles.build_manifest(targets, topics, existing_ids,
+                                                      use_cache=not args.refresh_cache)
         for source, target in targets.items():
             entry_source = _SOURCE_KEY_TO_ENTRY_SOURCE[source]
             found = sum(1 for e in manifest if e["source"] == entry_source)
@@ -240,6 +241,11 @@ def main() -> None:
                               "same as before this option existed.")
     parser.add_argument("--prompt-version", default=None,
                          help="Only meaningful with --model. Omit to use whatever CURRENT is at run time.")
+    parser.add_argument("--refresh-cache", action="store_true",
+                         help="Ignore eval/corpus/.discovery_cache.json's cached PMC/ERIC search results "
+                              "and re-query live instead — needed to actually exercise a change to "
+                              "search_pmc()/search_eric() (e.g. a new filter), since a cache hit skips "
+                              "calling them at all. Off by default so repeat batches stay fast/cheap.")
     args = parser.parse_args()
     if not args.label:
         args.label = f"scrape-{int(time.time())}"

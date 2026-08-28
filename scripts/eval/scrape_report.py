@@ -184,6 +184,8 @@ def render_html(state: dict) -> str:
   .launch-form {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;
                    align-items: end; margin-top: 10px; }}
   .launch-form label {{ display: flex; flex-direction: column; gap: 4px; font-size: 12px; color: var(--text-secondary); }}
+  .launch-form label.checkbox-label {{ flex-direction: row; align-items: center; gap: 6px; }}
+  .launch-form label.checkbox-label input {{ width: auto; }}
   .launch-form input, .launch-form select {{ font: inherit; padding: 6px 8px; border-radius: 6px; border: 1px solid var(--border);
                          background: var(--page); color: var(--text-primary); }}
   .log-box {{ background: #0d0d0d; color: #d7d7d2; font-family: ui-monospace, monospace; font-size: 12px;
@@ -232,6 +234,8 @@ def render_html(state: dict) -> str:
       <label>Model<select name="model">{_model_options_html(config.get('model'))}</select></label>
       <label>Prompt version<input type="text" name="prompt_version" placeholder="blank = CURRENT"
              value="{_esc(config.get('prompt_version') or '')}"></label>
+      <label class="checkbox-label"><input type="checkbox" name="refresh_cache" value="1"> Refresh discovery cache
+        (ignore cached PMC/ERIC search results from a prior batch)</label>
       <button type="submit" class="btn btn-primary" id="launch-submit-btn" {"disabled" if is_active else ""}>Launch batch</button>
     </form>
     <p class="footer-note" id="launch-note" style="{'display:block;' if is_active else 'display:none;'}">A batch is already running — stop it before launching another.</p>

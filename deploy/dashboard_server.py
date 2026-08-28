@@ -541,6 +541,7 @@ class Handler(SimpleHTTPRequestHandler):
                            redirect_to="/scrape.html")
             return
         prompt_version = (form.get("prompt_version", [""])[0] or "").strip()
+        refresh_cache = (form.get("refresh_cache", [""])[0] or "").strip() == "1"
 
         out = (form.get("out", [""])[0] or "").strip() or "eval/corpus/manifest_bulk.json"
         # Becomes an argv element passed to a subprocess (not shell-
@@ -572,6 +573,8 @@ class Handler(SimpleHTTPRequestHandler):
             launch_args += ["--model", model]
         if prompt_version:
             launch_args += ["--prompt-version", prompt_version]
+        if refresh_cache:
+            launch_args += ["--refresh-cache"]
         log_path = RUNS_DIR / f"web-scrape-{int(time.time())}.log"
         log_file = open(log_path, "w", encoding="utf-8")
         proc = subprocess.Popen(
