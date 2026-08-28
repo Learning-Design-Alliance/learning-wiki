@@ -80,7 +80,7 @@ Explicit instruction in math strategies works best when learners are shown not o
 
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
-- [Direct Instruction: Problem-solving Strategies](../strategies/direct_instruction:_problem-solving_strategies.md) — explicit modeling and reflection on multiple solution methods
+- [Direct Instruction: Problem-solving Strategies](../strategies/direct_instruction-problem-solving_strategies.md) — explicit modeling and reflection on multiple solution methods
 - Comparing two or three valid methods for the same problem before independent practice
 - Worked examples annotated with why a strategy was chosen, not just how it was executed
 - Problem-solving notebooks where learners track method choice and reflect on effectiveness
