@@ -765,10 +765,12 @@ def cmd_collect(args: argparse.Namespace) -> None:
 
         if result.result.type == "succeeded":
             content = result.result.message.content[0].text
+            content, repairs = repair_misfiled_links(content, args.type)
             write_enriched_page(page_path, content)
+            create_missing_stubs(content, args.type)
             written.append((args.type, slug))
             written_files.append(str(page_path.relative_to(WIKI_ROOT)))
-            print(f"  [OK] {slug}")
+            print(f"  [OK] {slug}" + (f"  (fixed links: {', '.join(repairs)})" if repairs else ""))
         else:
             errors.append(slug)
             print(f"  [ERROR] {slug}: {result.result.type}")
@@ -887,6 +889,48 @@ def parse_wikilinks(content: str, current_folder: str = None) -> list[tuple[str,
         for m in re.finditer(r'\]\((?<!/)([a-z0-9_-]+)\.md\)', content):
             links.append((current_folder, m.group(1)))
     return links
+
+
+def repair_misfiled_links(content: str, current_folder: str) -> tuple[str, list[str]]:
+    """
+    The single most common mistake seen from enrichment models in practice:
+    a link to a page that DOES exist in the wiki, but filed under a
+    different folder than the model guessed — most often it defaults to
+    "same folder as me," or assumes an element/principle/pattern distinction
+    it has no way to know from the slug alone (e.g. linking "practice.md"
+    from a strategy page when the real page is elements/practice.md, or
+    "case-based-learning.md" when it's actually patterns/case-based-learning.md).
+    For every such link, check whether the slug exists under some OTHER
+    folder and, if so, rewrite the link to point there instead of leaving
+    it broken (or letting create_missing_stubs create a wrong-folder
+    duplicate). Returns (possibly-modified content, [repair descriptions]).
+    """
+    repairs = []
+    for folder, slug in parse_wikilinks(content, current_folder):
+        if (WIKI_ROOT / folder / f"{slug}.md").exists():
+            continue
+        found_folders = sorted(
+            f for f in STUB_FOLDERS if f != folder and (WIKI_ROOT / f / f"{slug}.md").exists()
+        )
+        if len(found_folders) != 1:
+            # Zero matches: genuinely missing, leave for create_missing_stubs.
+            # More than one: the same slug is filed under multiple folders
+            # (a real case found in production — case-based-learning.md
+            # exists as both an element and a pattern) — auto-picking one
+            # would silently guess; leave the link as-is for a human to
+            # disambiguate rather than risk linking the wrong page.
+            if len(found_folders) > 1:
+                repairs.append(f"AMBIGUOUS, not fixed — {slug}.md exists in: {', '.join(found_folders)}")
+            continue
+        found_folder = found_folders[0]
+        correct_link = f"{slug}.md" if found_folder == current_folder else f"../{found_folder}/{slug}.md"
+        for wrong in (f"/{folder}/{slug}.md", f"../{folder}/{slug}.md", f"{slug}.md"):
+            pattern = re.compile(r"\]\(" + re.escape(wrong) + r"\)")
+            if pattern.search(content):
+                content = pattern.sub(f"]({correct_link})", content)
+                repairs.append(f"{slug}.md: {folder}/ -> {found_folder}/")
+                break
+    return content, repairs
 
 
 def create_missing_stubs(content: str, current_folder: str = None) -> list[str]:
@@ -1017,6 +1061,11 @@ def cmd_run(args: argparse.Namespace) -> None:
                     messages=[{"role": "user", "content": user_prompt}],
                 )
                 content = response.content[0].text
+
+            content, repairs = repair_misfiled_links(content, args.type)
+            if repairs:
+                with print_lock:
+                    print(f"  [fixed links] {name}: {', '.join(repairs)}")
 
             write_enriched_page(page_path, content)
             with written_lock:
