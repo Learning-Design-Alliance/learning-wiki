@@ -4,14 +4,16 @@ title: Addressing Stereotype Threat
 description: Teachers use strategies to support students who experience stereotype threat, helping them thrive academically and socially.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Addressing Stereotype Threat
 
 ## Description
 Teachers use strategies to support students who experience stereotype threat, helping them thrive academically and socially. This involves understanding the research behind stereotype threat and implementing evidence-based strategies to overcome it.
+
+Stereotype threat is the concern that one will be seen through a negative, stereotyped lens for a group one belongs to (Aronson & Steele, 2005) — for example, women regarding mathematics performance. Its measurable effect on test performance is triggered by two specific conditions occurring together: the test is explicitly framed as high-stakes and as measuring intelligence or ability, and test-takers are reminded of their stereotyped identity beforehand (even something as minor as a demographic question before the test). The underlying mechanism is not a lack of genuine competence or effort — even individuals who believe themselves competent show the effect, because actively suppressing the negative stereotype consumes working memory capacity that would otherwise support the task itself. The effect is strongest, counterintuitively, for those who most want to do well, and its practical consequence is that a stereotyped group's standardized test scores can substantially underestimate their real competence specifically under high-stakes conditions — the same individuals often perform much closer to their actual ability on a low-stakes version of the same task. This mechanism is why strategies here should target the two triggering conditions directly (unnecessary high-stakes framing, unnecessary identity-reminder cues) rather than only offering general encouragement.
 
 ## Design Implications
 
@@ -51,7 +53,7 @@ Teachers use strategies to support students who experience stereotype threat, he
 - Enhanced academic success, greater self-esteem, and a more equitable learning environment.
 
 ## Related Strategies
-- <!-- TODO -->
+- [Standardized Test Fairness and Bias](../principles/standardized-test-fairness-and-bias.md) — the fuller mechanism and evidence base this strategy responds to
 
 ## Related Elements
 - <!-- TODO -->
@@ -63,4 +65,5 @@ Teachers use strategies to support students who experience stereotype threat, he
 - <!-- TODO -->
 
 ## Key Sources
-- <!-- TODO -->
+- Aronson, J., & Steele, C. M. (2005). Stereotypes and the fragility of academic competence, motivation, and self-concept. In A. J. Elliot & C. S. Dweck (Eds.), *Handbook of competence and motivation* (pp. 436-456). Guilford Press.
+- Arduini-Van Hoose, N. (2020). Issues with standardized tests. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

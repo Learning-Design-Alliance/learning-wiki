@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**27 entries** · 0 stable · 22 in review · 5 drafts
+**41 entries** · 0 stable · 22 in review · 19 drafts
 
 ---
 
@@ -33,8 +33,22 @@ Empirical claims with evidence ratings, sources, and competing views.
 
 ## Draft
 
+* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md)
+* [Average scores on intelligence tests have risen substantially across generations worldwide](flynn-effect-rising-iq-scores-over-generations.md)
+* [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md)
 * [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) - Different media combinations significantly affect the recall and retention of information
+* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md)
+* [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md)
+* [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md)
 * [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md) - Experimenter-generated underlining is as effective as student-generated underlining for test performance
+* [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md)
+* [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md)
+* [Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence](illusory-correlations-persist-through-confirmation-bias.md)
+* [Interesting but irrelevant details added to a lesson can distract from learning the material they were meant to enliven](seductive-details-distract-from-learning.md)
 * [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md) - Intuitive learners tend to outperform sensing learners in media-based presentations
+* [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md)
+* [Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.](motor-milestones-vary-by-cultural-childcare-practices.md)
+* [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md)
 * [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md) - Prior knowledge is not significantly related to test performance in this sample
 * [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) - Relevancy of emphasized text directs attention and influences test performance
+* [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](overjustification-effect-reduces-intrinsic-motivation.md)

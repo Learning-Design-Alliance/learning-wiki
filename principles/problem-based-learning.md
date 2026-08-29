@@ -4,8 +4,8 @@ title: Problem-based Learning
 description: Problem-based learning organizes learning around complex, meaningful problems that do not have a single obvious answer.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: thorndahl-2020
     resource: "https://doi.org/10.14434/ijpbl.v14i1.28773"
@@ -57,6 +57,8 @@ Problem-based learning is strongest when the problem requires learners to integr
 #### Contradicting / Qualifying
 - PBL is weaker when learners lack enough conceptual grounding to investigate productively; some direct teaching is often needed first or during the task.
 - Not every objective requires full PBL; some foundational skills are acquired more efficiently through explicit instruction and guided practice.
+- Savery (2019) himself notes that meta-analyses (Newman, 2003; Sanson-Fisher & Lynagh, 2005) found the evidence base for PBL's superiority over traditional instruction "methodologically flawed" and inconclusive — a caution against treating PBL's effectiveness as more settled than the literature actually supports.
+- Reigeluth (2011), in [Learner-Centered Paradigm of Education](learner-centered-paradigm.md), identifies four specific weaknesses of problem-based instruction — team assessment can hide an individual "loafer," insufficient repeated practice for transfer, no automaticity training, and inefficient unguided search — addressed by the [Project Space and Instructional Space](../patterns/project-and-instructional-space.md) pattern.
 
 ### Claims
 - [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] — integrated, authentic problem solving is often better preparation for later transfer than isolated subskill practice
@@ -80,3 +82,4 @@ Problem-based learning is strongest when the problem requires learners to integr
 - Marra, R. M., Jonassen, D. H., Palmer, B., & Luft, S. (2014). Why problem-based learning works: Theoretical foundations. *Journal on Excellence in College Teaching, 25*(3-4), 221-238.
 - Thorndahl, K., & Stentoft, D. (2020). Thinking critically about critical thinking and problem-based learning in higher education: A scoping review. *The Interdisciplinary Journal of Problem-Based Learning, 14*(1). [https://doi.org/10.14434/ijpbl.v14i1.28773](https://doi.org/10.14434/ijpbl.v14i1.28773)
 - Lin, L. F. (2017). Impacts of the problem-based learning pedagogy on English learners' reading comprehension, strategy use, and active learning attitudes. *Journal of Education and Training Studies, 5*(6), 109-125. [https://doi.org/10.11114/jets.v5i6.2320](https://doi.org/10.11114/jets.v5i6.2320)
+- Savery, J. R. (2019). Overview of problem-based learning: Definitions and distinctions. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/overview_of_problem_based_learning](https://edtechbooks.org/lidtfoundations/overview_of_problem_based_learning)

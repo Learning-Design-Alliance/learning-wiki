@@ -4,8 +4,8 @@ title: Situated Learning
 description: Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Situated Learning
@@ -23,6 +23,11 @@ Situated learning holds that knowledge is inseparable from the social, material,
 ## Related Theories
 - [Constructivism](constructivism.md)
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md)
+- [Sociocultural Theory](sociocultural-theory.md) — shares the view that knowledge and cognition are inseparable from social and cultural context
+- [Connectivism](connectivism.md) — also locates learning outside the individual mind, but in digital networks rather than embodied social practice
+
+## Examples
+- [Epistemic Games](../patterns/epistemic-games.md)
 
 ## Key Sources
 - Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press.

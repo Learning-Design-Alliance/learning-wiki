@@ -4,8 +4,8 @@ title: Project-Based Learning (PBL)
 description: Project Based Learning is a teaching method in which learners gain knowledge and skills by working for an extended period of time to investigate and respond to an engaging and complex question, problem, or challenge.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Project-Based Learning (PBL)
@@ -65,4 +65,5 @@ Project Based Learning is a teaching method in which learners gain knowledge and
 - My Restaurant Project: Students remedy a food desert situation in their neighborhood by planning out a healthy restaurant, including nutritional facts for all the dishes, food costs, grant proposals, and cash flow models. Geodesic Greenhouses: Learners design a geodesic greenhouse, to allow people to grow fresh vegetables, flowers, fruit and herbs year-round, with minimal extra heating or cooling.
 
 ## Key Sources
-- <!-- TODO -->
+- Katz, L. G. (2000). *Engaging children's minds: The project approach* (2nd ed.). Ablex.
+- Arduini-Van Hoose, N. (2020). Cooperative learning. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

@@ -4,8 +4,8 @@ title: Repairing Harm
 description: Repairing harm is a restorative practice where, instead of simply being sent off to a punishment, a student who has misbehaved is tasked with figuring out how to repair whatever damage was caused by their behavior, and then to actually…
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Repairing Harm
@@ -49,7 +49,8 @@ Repairing harm is a restorative practice where, instead of simply being sent off
 - Restorative justice practices like repairing harm can lead to deeper and longer-lasting regret in students, stemming from a place of empathy. It is a more effective way to open up a child's eyes to how their behavior made others feel, and it is less traumatic than traditional punishment.
 
 ## Related Strategies
-- <!-- TODO -->
+- [Teacher Effectiveness Training / Conflict Resolution](teacher-effectiveness-training-conflict-resolution.md) — a complementary process for the persistent conflicts or misbehavior that repairing harm alone may not fully resolve
+- [Natural and Logical Consequences](../principles/natural-and-logical-consequences.md) — the principle distinguishing repair-focused consequences like this one from punishment
 
 ## Related Elements
 - <!-- TODO -->
