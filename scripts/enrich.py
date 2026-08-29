@@ -545,9 +545,28 @@ def get_name(page_type: str, row: dict) -> str:
     return row.get(col, "").strip()
 
 
+def _has_unfilled_todo(path: Path) -> bool:
+    """Whether this page still has a literal <!-- TODO --> placeholder left
+    over from the original page-template scaffolding."""
+    try:
+        return "<!-- TODO -->" in path.read_text(encoding="utf-8")
+    except OSError:
+        return False
+
+
 def find_pages_to_enrich(page_type: str, overwrite: bool, limit: Optional[int]) -> list[tuple[Path, dict, str]]:
     """
     Return list of (page_path, csv_row, page_name) for stubs that need enrichment.
+
+    A page qualifies if it's status: draft (never enriched at all), OR it's
+    status: review/stable but still has a leftover <!-- TODO --> placeholder.
+    That second case used to be skipped unconditionally unless --overwrite —
+    but the bulk CSV ingest (generated.by: process:wiki-ingest) left the vast
+    majority of its pages exactly there: promoted straight to "review" with
+    whole sections (Related Strategies, Key Sources, Tools, Examples, ...)
+    never actually filled in (1,719 of 2,119 wiki pages, as of 2026-08-29).
+    --overwrite still means what it always did: re-process a page regardless,
+    even one with no remaining TODOs at all.
     """
     csv_path = CSV_FILES[page_type]
     if not csv_path.exists():
@@ -575,8 +594,8 @@ def find_pages_to_enrich(page_type: str, overwrite: bool, limit: Optional[int]) 
             continue  # stub doesn't exist yet (run ingest.py first)
 
         status = get_page_status(page_path)
-        if status in ("review", "stable") and not overwrite:
-            continue  # already curated
+        if status in ("review", "stable") and not overwrite and not _has_unfilled_todo(page_path):
+            continue  # already curated, nothing left to fill in
 
         name = get_name(page_type, row)
         results.append((page_path, row, name))
