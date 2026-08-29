@@ -4,8 +4,8 @@ title: Perspective-Taking
 description: Learners consider multiple viewpoints to develop empathy and deeper understanding.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Perspective-Taking
@@ -38,6 +38,7 @@ Learners consider multiple viewpoints to develop empathy and deeper understandin
 - [Role Reversal](role-reversal.md)
 - [Debate](debate.md)
 - [Structured Discussion](structured-discussion.md)
+- [Participant Examples](participant-examples.md) — a more specific move in which the learner positions their own identity as a character within the example, not just a viewpoint they consider
 
 ## Patterns That Use This Element
 - [Structured Academic Controversy](../patterns/structured-academic-controversy.md)

@@ -2,7 +2,7 @@
 
 Instructional building blocks — the components you compose into patterns.
 
-**252 entries** · 0 stable · 239 in review · 13 drafts
+**260 entries** · 0 stable · 239 in review · 21 drafts
 
 ---
 
@@ -303,7 +303,7 @@ Jump to: [A](#letter-a) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) ·
 #### V {: #letter-v }
 
 * [Video Prompts](video-prompts.md) - Video prompts are short video clips used to launch attention, curiosity, discussion, or analysis.
-* [Video-Based Reflection](video-based-reflection.md) - Video-based reflection is the element in which learners review recorded performance to analyze choices, patterns, and next steps.
+* [Video-Based Reflection](video-based-reflection.md) - Video-based reflection is the element in which learners or practitioners review recorded performance to analyze choices, patterns, and next steps.
 * [Virtual Whiteboards](virtual-whiteboards.md) - Virtual whiteboards are the element in which learners sketch, annotate, and collaborate in a shared digital visual workspace.
 
 #### W {: #letter-w }
@@ -316,13 +316,21 @@ Jump to: [A](#letter-a) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) ·
 ## Draft
 
 * [Addressing Student Misconceptions](addressing-student-misconceptions.md) - Students of all ages carry misleading or outright wrong prior beliefs into a lesson, some well-documented and predictable, others idiosyncratic — anticipating them in advance and treating them with respect even while correcting them is more effective than assuming a blank slate.
+* [Agentic Data-Engagement Positions](agentic-data-engagement-positions.md) - A set of four proactive roles — active researcher/consumer, analyst, author, and socio-scientific communicator — that learners can take up when engaging with real-world data, rather than being positioned as passive recipients of official data.
 * [Antecedent-Behavior-Consequence (ABC) Model](antecedent-behavior-consequence-model.md) - The ABC model analyzes behavior as an environmental trigger (antecedent) producing an observable action (behavior) followed by an outcome that strengthens or weakens its recurrence (consequence) — the applied-behavior-analysis framework for identifying what is actually maintaining a classroom behavior before intervening.
 * [Child-Directed Speech](child-directed-speech.md) - Child-directed speech — exaggerated pitch, careful articulation, and simplified structure used when speaking with infants and toddlers — increases infant attention and supports early phoneme discrimination.
 * [Constructed-Response Assessment Items](constructed-response-assessment-items.md) - Completion, short-answer, and extended-response (essay) items ask students to recall and produce an answer rather than recognize one, reducing guessing but introducing a genuine scoring-reliability problem that model answers, sample-reading, and rubrics are all meant to address.
 * [Digital Open Badges](digital-open-badges.md) - Digital Open Badges are portable, metadata-rich micro-credentials that recognize discrete competencies, including informal learning that traditional grades and degrees do not capture or make transparent.
+* [Embodied Choreographic Assessment](embodied-choreographic-assessment.md) - An iterative formative-assessment task in which learners collaboratively choreograph movement to represent a concept, then revise it across cycles of peer feedback and reflection.
+* [Epistemic Games: Shared-Understanding Moves](epistemic-games-shared-understanding-moves.md) - Five recurring, teachable interaction moves — knowledge sharing, perspective-taking, simulation, knowledge validation, and negotiation — that interdisciplinary teams use to construct a shared problem understanding.
+* [Evaluating and Justifying Mechanistic Explanations](evaluating-and-justifying-mechanistic-explanations.md) - A task in which learners judge competing explanations for a phenomenon (mechanistic, circular, teleological), decide whether each actually answers a "how" question, and justify their evaluation.
 * [Learning Analytics-Driven Feedback](learning-analytics-feedback.md) - Learning Analytics-Driven Feedback uses models built from learner interaction data to predict at-risk learners and surface targeted feedback to learners or instructors, compensating for the reduced visibility distance and online instructors have into struggling learners.
+* [Listening Palette](listening-palette.md) - A multimodal reflection protocol in which learners individually record noticings in whatever mode feels natural (words, sketches, gesture, movement), then build a collaborative representation with peers before sharing with the whole group.
 * [Makerspace](makerspace.md) - A Makerspace is a physical or mobile space, formal or informal, where learners use digital and physical tools to design, build, and iterate on self-directed projects.
 * [Open Educational Resources (The 5Rs)](open-educational-resources.md) - Open Educational Resources are teaching materials licensed to grant free, perpetual permission to retain, reuse, revise, remix, and redistribute them — the "5Rs" test that distinguishes genuine open licensing from merely free-to-enroll access.
+* [Participant Examples](participant-examples.md) - A discourse move in which a learner positions themselves as a character within a case or example under academic study, using the case to reason about their own identity category membership rather than only about the case's distant subject.
+* [Pedagogical Agent Signaling for Feedback Salience](pedagogical-agent-signaling.md) - An embodied on-screen agent that points and gazes directly at feedback text when it appears, using social cueing rather than a generic arrow to pull elementary students' attention to feedback they would otherwise skip.
+* [Provocative Objects](provocative-objects.md) - A digital-environment design construct specifying five characteristics — consistent feedback, frequent failure tightly coupled to that feedback, non-standard representations, late or absent formal notation, and legitimate alternative solution paths — that together support productive mathematical play rather than frustration or rote procedure.
 * [Research Data Collection Methods](research-data-collection-methods.md) - Observation, surveys, and archival/content analysis are the main methods researchers use to gather data, each with a distinct tradeoff between ecological validity, depth, and cost that mirrors — but is methodologically distinct from — their use as classroom-assessment techniques.
 * [Selected-Response Assessment Items](selected-response-assessment-items.md) - Multiple-choice, true-false, and matching items ask students to select rather than construct a response — easy to score objectively, but hard to write well, and appropriate mainly for recognition-level rather than complex learning goals.
 * [Self-Regulation Questionnaire (SRQ)](self-regulation-questionnaire.md) - The Self-Regulation Questionnaire is a 63-item self-report instrument, built on the Miller and Brown seven-step model of self-regulation, that scores a person's overall self-regulation capacity as high, moderate, or low.

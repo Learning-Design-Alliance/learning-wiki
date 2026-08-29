@@ -4,8 +4,8 @@ title: "Authentic Audiences & Purposes"
 description: Design learning tasks for real or realistically consequential audiences beyond the teacher-as-grader.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Authentic Audiences & Purposes
@@ -58,6 +58,8 @@ Authentic audiences and purposes improve learning when they change the quality o
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — public or stakeholder-facing work benefits from explicit quality targets and success criteria
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novices need process supports for revision, research, and audience analysis, not only the expectation of a polished final product
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — authentic tasks work best when instructors coach learners responsively as complexity rises
+- [Personal connection to data supports critical data-literacy stance-taking](../claims/personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) [+W] — performing a data story to a live peer audience and fielding critical questions pushed learners to defend and revise their modeling choices in real time
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W] — an unplanned real-world event tied to the unit's driving question produced more authentic, student-led engagement than the pre-designed scenario
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — authentic audiences often emerge from real questions and investigations
@@ -70,7 +72,10 @@ Authentic audiences and purposes improve learning when they change the quality o
 - [Digital Publishing](../strategies/digital_publishing.md) — student work is shared with real readers beyond the classroom
 - [Student Blogging](../strategies/student_blogging.md) — learners document process and communicate to peers or wider audiences
 - [Project-Based Learning (PBL)](../strategies/project-based_learning_(pbl).md) — projects framed around real community or workplace problems
+- [Identity-Centered e-Textile Making](../patterns/identity-centered-e-textile-making.md) — youth-authored, identity-expressive e-textile projects made and shared within an affirming making community
 - Reports for community partners, public explainers, policy briefs, exhibitions, or client-facing presentations are all viable forms when the audience actually matters
+- [Organization Simulation for Interdisciplinary Learning](../patterns/organization-simulation-for-interdisciplinary-learning.md) — student teams compete for a real external client's business, with an authentic evaluator selecting the winning offer
+- [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md) — students write papers connected to real external research networks and mentors, not just the instructor
 
 ## Key Sources
 - Wiggins, G. (2009). Real-world writing: Making purpose and audience matter. *English Journal, 98*(5), 29-37.

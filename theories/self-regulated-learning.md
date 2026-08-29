@@ -48,6 +48,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](../claims/argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) [~M]
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](../claims/early-delay-of-gratification-predicts-later-outcomes.md) [~M] — self-control/delay of gratification is closely related to self-regulation, though the relationship to later outcomes is more context-dependent than the classic marshmallow-test framing suggests
 
 ## Related Theories

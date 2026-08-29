@@ -4,8 +4,8 @@ title: Learner Choice
 description: Learner choice is the principle of giving learners meaningful decisions about aspects of their learning, such as topic, format, sequence, pacing, strategy, or demonstration of understanding.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: hanewicz-2017
     resource: "https://doi.org/10.1080/01587919.2017.1369008"
@@ -62,6 +62,7 @@ Learner choice improves motivation and ownership when the options are meaningful
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — choice becomes educative when learners track whether their selected path is actually helping them progress
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novices often need more guidance in how to choose and proceed before broad autonomy becomes productive
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — choice works better when standards and success criteria remain explicit even as pathways vary
+- [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](../claims/childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) [+W] — when children chose what to notice and interpret in their own unscripted play, they surfaced real mathematical reasoning alongside social and affective meaning
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — choice becomes more effective when learners also set goals and monitor progress.

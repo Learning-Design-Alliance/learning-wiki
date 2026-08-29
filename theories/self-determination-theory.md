@@ -50,6 +50,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 
 ## Related Theories
 - [Self-Regulated Learning](self-regulated-learning.md) — SDT helps explain why learners may or may not take up the self-regulatory behaviors SRL describes
+- [Rightful Presence](rightful-presence.md) — rightful presence's emphasis on authored, non-conditional belonging overlaps with SDT's relatedness and autonomy conditions
 - [Self-Efficacy Theory](self-efficacy-theory.md) — both treat perceived competence as central, though SDT frames it as one of three basic needs (with autonomy and relatedness) rather than a task-specific belief
 - [Attribution Theory](attribution-theory.md) — controllable attributions support the sense of autonomy and competence SDT identifies as basic needs
 - [Expectancy-Value Theory](expectancy-value-theory.md) — task value overlaps with the sense of relevance and autonomy SDT-informed design also targets
@@ -60,6 +61,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Learner Choice](../principles/learner-choice.md)
 - [Strengths-based Approach](../principles/strengths-based-approach.md)
 - [Game-Based Learning](../principles/game-based-learning.md)
+- [Identity-Centered e-Textile Making](../patterns/identity-centered-e-textile-making.md) — autonomy over identity expression, competence through scaffolded technical projects, and relatedness through an affirming peer community
 - [Epistemic Games](../patterns/epistemic-games.md)
 - [Digital Open Badges](../elements/digital-open-badges.md)
 

@@ -4,8 +4,8 @@ title: Collaborative Learning
 description: Collaborative learning is the principle of designing tasks so learners build understanding through shared work, dialogue, and interdependence rather than isolated effort alone.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-08
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: webb-2009
     resource: "https://doi.org/10.1348/000709908X380772"
@@ -53,8 +53,13 @@ Collaborative learning is strongest when the task genuinely benefits from multip
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — explaining ideas to peers can deepen understanding and reveal gaps
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — collaboration improves when support and facilitation respond to learner needs rather than assuming groups will self-organize productively
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — collaborative work is stronger when learners and groups monitor progress against visible goals and criteria
+- [Embodied collaborative construction can build shared geometric reasoning](../claims/embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) [+W] — a small case study found that jointly naming perceptual structures during physical construction gave a group reusable resources for coordination and later formal reasoning
+- [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](../claims/homogeneous-problem-perceptions-predict-regulation-success.md) [+M] — groups whose members perceive collaboration problems similarly report higher satisfaction, perceived regulation success, and subjective learning gain
+- [Awareness of heterogeneous problem perceptions does not by itself predict successful regulation](../claims/awareness-of-heterogeneity-does-not-predict-regulation-success.md) [~W] — simply noticing that the group disagrees about a problem is not enough; groups likely need explicit scaffolding to convert that awareness into coordinated action
+- [Well-defined tasks and accessible materials support shared creative influence in group work](../claims/well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) [~M] — without shared domain knowledge to argue from, creative influence in a group defaults to social dominance rather than merit
 
 ## Related Principles
+- [Conditions for Productive Group Creativity](conditions-for-productive-group-creativity.md) — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically
 - [Peer Discussion](peer-discussion.md) — structured talk is one of the main mechanisms through which collaborative learning produces understanding
 - [Perspective-Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) — collaboration is especially valuable when disagreement and comparison sharpen thinking
 - [Social Learning](social-learning.md) — provides the broader explanation for why interaction can itself be instructional
