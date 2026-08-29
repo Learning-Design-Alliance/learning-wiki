@@ -10,6 +10,19 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-29
 
+* **Content**: [principles/community-of-inquiry](principles/community-of-inquiry.md) — Cross-linked new Online Course Design pattern (LIDT Foundations ingest)
+* **Content**: [patterns/game-based-mastery-learning](patterns/game-based-mastery-learning.md) — Cross-linked new Programmed Instruction and Epistemic Games patterns (LIDT Foundations ingest)
+* **Content**: [theories/situated-learning](theories/situated-learning.md) — Cross-linked new Epistemic Games pattern (LIDT Foundations ingest)
+* **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Cross-linked new Epistemic Games pattern (LIDT Foundations ingest)
+* **Ingest**: [patterns/epistemic-games](patterns/epistemic-games.md) — Ingested from Shaffer, Squire, Halverson & Gee, "Video Games and the Future of Learning" (ch. 39) and Rieber, Smith & Noah, "The Value of Serious Play" (ch. 38) of LIDT Foundations, edtechbooks.org/lidtfoundations
+* **Ingest**: [patterns/online-course-design](patterns/online-course-design.md) — Ingested from Martin & Oyarzun, "Distance Learning" (ch. 35 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [patterns/programmed-instruction](patterns/programmed-instruction.md) — Ingested from Molenda, "Programmed Instruction" (ch. 6 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Content**: [theories/cognitive-load-theory](theories/cognitive-load-theory.md) — Cross-linked new User-Centered Design for Learning principle (LIDT Foundations ingest)
+* **Ingest**: [principles/learner-centered-paradigm](principles/learner-centered-paradigm.md) — Ingested from Watson & Reigeluth, "The Learner-Centered Paradigm of Education" (ch. 34 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/user-centered-design-for-learning](principles/user-centered-design-for-learning.md) — Ingested from Earnshaw, Tawfik & Schmidt, "User Experience Design" (ch. 29 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/technology-integration-levels](principles/technology-integration-levels.md) — Ingested from Kimmons, "K-12 Technology Frameworks" (ch. 32 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/tpack](principles/tpack.md) — Ingested from Koehler & Mishra, "What Is Technological Pedagogical Content Knowledge?" (ch. 33 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/performance-technology](principles/performance-technology.md) — Ingested from Stefaniak, "Performance Technology" (ch. 27 of LIDT Foundations, edtechbooks.org/lidtfoundations)
 * **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Cross-linked new Sociocultural Theory page (LIDT Foundations ingest)
 * **Content**: [theories/situated-learning](theories/situated-learning.md) — Cross-linked new Sociocultural Theory and Connectivism pages (LIDT Foundations ingest)
 * **Content**: [theories/cognitive-apprenticeship](theories/cognitive-apprenticeship.md) — Cross-linked new Sociocultural Theory page (LIDT Foundations ingest)

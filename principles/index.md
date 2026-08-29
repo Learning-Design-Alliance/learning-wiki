@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**133 entries** · 0 stable · 133 in review · 0 drafts
+**138 entries** · 0 stable · 133 in review · 5 drafts
 
 ---
 
@@ -209,3 +209,11 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Worked Examples](worked-examples.md) - Worked examples present a partially or fully solved problem so learners can study task structure, decision points, and reasoning before attempting similar problems independently.
 
+
+## Draft
+
+* [Learner-Centered Paradigm of Education](learner-centered-paradigm.md) - The learner-centered paradigm replaces a time-fixed, group-based, sorting-oriented school system with one that holds attainment constant and lets pace and path vary to fit each learner.
+* [Performance Technology](performance-technology.md) - Performance Technology treats instruction as one of several possible interventions for closing a performance gap, and requires analyzing the organizational system around a learner before assuming training is the right solution.
+* [Technology Integration Levels (SAMR / RAT / PIC-RAT)](technology-integration-levels.md) - A family of frameworks (RAT, SAMR, PIC-RAT) for judging whether a specific use of technology in instruction merely replaces a prior practice or meaningfully improves or transforms it.
+* [TPACK (Technological Pedagogical Content Knowledge)](tpack.md) - TPACK holds that effective teaching with technology requires an integrated understanding of content, pedagogy, and technology together, not mastery of the three in isolation.
+* [User-Centered Design for Learning](user-centered-design-for-learning.md) - User-centered design applies human-computer-interaction methods — personas, prototyping, and usability evaluation — to reduce the extraneous cognitive load a learning interface imposes, alongside pedagogical design.

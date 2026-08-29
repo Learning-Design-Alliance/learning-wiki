@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**77 entries** · 0 stable · 77 in review · 0 drafts
+**80 entries** · 0 stable · 77 in review · 3 drafts
 
 ---
 
@@ -138,3 +138,9 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [4C/ID](4cid.md) - 4C/ID is the short-form canonical target for Four-Component Instructional Design, a whole-task instructional pattern that combines learning tasks, supportive information, procedural information, and part-task practice.
 * [4C/ID (Four-Component Instructional Design)](4cid-four-component-instructional-design.md) - 4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice.
 
+
+## Draft
+
+* [Epistemic Games](epistemic-games.md) - Epistemic Games immerse learners in the values, identity, and situated decision-making of a professional community of practice, so that facts and skills are acquired as a byproduct of doing the community's work rather than as isolated content.
+* [Online Course Design (Community of Inquiry)](online-course-design.md) - A course-level pattern for designing online courses around Moore's three types of interaction and the Community of Inquiry's cognitive, social, and teaching presences, to counteract the transactional distance learners feel online.
+* [Programmed Instruction](programmed-instruction.md) - Programmed Instruction breaks content into small self-contained steps, each requiring an active response with immediate confirmation, so learners advance individually rather than at a group's pace.

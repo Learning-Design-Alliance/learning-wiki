@@ -4,8 +4,8 @@ title: Community of Inquiry
 description: Community of inquiry is the principle that meaningful learning in collaborative settings depends on the interaction of social presence, cognitive presence, and teaching presence.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-08
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: garrison-2007
     resource: "https://doi.org/10.1016/j.iheduc.2007.04.001"
@@ -64,6 +64,8 @@ Community of inquiry is most useful when learning depends on sustained discourse
 ## Examples
 
 ### Illustrative
+
+**[Online Course Design (Community of Inquiry)](../patterns/online-course-design.md)** — Applies this principle at the scale of a full online course, structured around Moore's three types of interaction.
 
 **[Discussion Group](../patterns/discussion-group.md)** — A structured discussion environment where facilitation, prompts, and synthesis shape the quality of inquiry.
 
