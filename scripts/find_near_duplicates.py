@@ -174,17 +174,89 @@ Respond with ONLY this JSON, no other text:
                 "reasoning": f"[parse error: {e}]", "fold_in_notes": None}
 
 
+def stage2_confirm_cross_folder(slug: str, folders: list, client, model: str) -> dict:
+    """Same judgment call as stage2_confirm_and_recommend, but for pages that
+    share the exact same slug across different OKF type folders (found by
+    find_cross_folder_duplicates.py) rather than similar-but-different slugs
+    within one folder. This wiki's schema legitimately lets a principle, an
+    element, a pattern, and a theory share a name while covering different
+    facets of one concept — so an exact-slug match is NOT automatically a
+    duplicate the way a title-similarity match usually is; it needs the same
+    full-content read before concluding anything."""
+    pages_block = "\n\n---\n\n".join(
+        f"### {folder}/{slug} ###\n{(WIKI_ROOT / folder / f'{slug}.md').read_text(encoding='utf-8')}"
+        for folder in folders
+    )
+    prompt = f"""These wiki pages share the exact same slug ("{slug}") but are filed under different content types: {', '.join(folders)}.
+
+This wiki's schema allows a principle, element, pattern, strategy, or theory to legitimately share a name while covering a genuinely different facet of one concept — e.g. a theory explaining the mechanism, a principle recommending its use, an element describing the instructional component that enacts it, a pattern showing a lesson-level design built on it. Sharing a slug is not by itself evidence of duplication.
+
+Read the full pages and decide: are these (a) legitimately distinct pages that happen to share a name — different content, different lens, both worth keeping — or (b) actual duplicates, where two or more say substantially the same thing under different type labels and should be merged?
+
+{pages_block}
+
+Respond with ONLY this JSON, no other text:
+{{"is_duplicate": true/false, "canonical_folder": "the folder that should stay if duplicate, or null", "reasoning": "2-3 sentences", "fold_in_notes": "what (if anything) from the non-canonical page(s) is worth pulling into the canonical one before deprecating them, or null"}}"""
+
+    raw = _call(client, model, prompt, max_tokens=2000)
+    try:
+        return _extract_json(raw)
+    except (ValueError, json.JSONDecodeError) as e:
+        return {"is_duplicate": None, "canonical_folder": None,
+                "reasoning": f"[parse error: {e}]", "fold_in_notes": None}
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--type", required=True, choices=PAGE_TYPES)
+    parser.add_argument("--type", choices=PAGE_TYPES,
+                        help="Required unless --cross-folder is given")
+    parser.add_argument("--cross-folder", action="store_true",
+                        help="Instead of a title scan within one --type, confirm/reject every "
+                             "exact-slug collision across type folders (see "
+                             "find_cross_folder_duplicates.py) via stage 2's content judgment. "
+                             "Skips stage 1 entirely — an exact slug match is already a stronger "
+                             "signal than a title-similarity guess.")
     parser.add_argument("--model", default="sonnet", choices=list(MODEL_MAP))
     parser.add_argument("--limit", type=int, default=None, help="Only scan the first N pages (alphabetical) — for testing")
     parser.add_argument("--stage1-only", action="store_true", help="Skip stage 2 (full-content confirmation); just print candidate groups")
     parser.add_argument("--out", default=None, help="Write the report to this path instead of stdout")
     args = parser.parse_args()
 
+    if not args.cross_folder and not args.type:
+        parser.error("--type is required unless --cross-folder is given")
+
     model = MODEL_MAP[args.model]
     client = _get_client()
+
+    if args.cross_folder:
+        import find_cross_folder_duplicates as fcfd
+        collisions = fcfd.find_collisions()
+        if args.limit:
+            collisions = dict(list(collisions.items())[:args.limit])
+        print(f"Found {len(collisions)} cross-folder slug collision(s).", file=sys.stderr)
+
+        lines = [f"# Cross-folder duplicate scan", "", f"{len(collisions)} slug(s) filed under more than one folder.", ""]
+        for i, (slug, folders) in enumerate(collisions.items(), 1):
+            print(f"Confirming {i}/{len(collisions)}: {slug} ({', '.join(folders)})...", file=sys.stderr)
+            verdict = stage2_confirm_cross_folder(slug, folders, client, model)
+            lines.append(f"## {slug} ({', '.join(folders)})")
+            lines.append(f"- **Confirmed duplicate: {verdict.get('is_duplicate')}**")
+            if verdict.get("is_duplicate"):
+                lines.append(f"- Recommended canonical folder: `{verdict.get('canonical_folder')}`")
+                lines.append(f"- Reasoning: {verdict.get('reasoning')}")
+                if verdict.get("fold_in_notes"):
+                    lines.append(f"- Fold in before deprecating the rest: {verdict['fold_in_notes']}")
+            else:
+                lines.append(f"- Reasoning: {verdict.get('reasoning')}")
+            lines.append("")
+
+        report = "\n".join(lines)
+        if args.out:
+            Path(args.out).write_text(report, encoding="utf-8")
+            print(f"Wrote report to {args.out}", file=sys.stderr)
+        else:
+            print(report)
+        return
 
     pages = load_pages(args.type, args.limit)
     print(f"Loaded {len(pages)} {args.type} page(s). Running stage 1 (title scan)...", file=sys.stderr)
