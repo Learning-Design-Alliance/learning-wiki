@@ -166,6 +166,32 @@ def write_enriched_page(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8")
 
 
+def _post_batch_checks(written_files: list[str]) -> None:
+    """Run lint's broken-link check and the citation-consistency check,
+    restricted to just this batch's freshly written pages, and print
+    whatever they find. Informational only — never fails the run. Added
+    after a manual review of the first --provider openrouter batch found a
+    broken cross-folder link and a DOI cited two different ways for the
+    same paper across two pages; neither is visible from reading one page
+    at a time, so this runs automatically instead of relying on a human
+    to remember to check."""
+    if not written_files:
+        return
+    touched = set(written_files)
+
+    import lint
+    link_issues = [i for i in lint.check_broken_links(lint.all_pages()) if i["file"] in touched]
+    print(f"\n[post-batch check] Broken links in this batch: {len(link_issues)}")
+    for issue in link_issues:
+        print(f"  {issue['file']}: {issue['detail']}")
+
+    import check_citations
+    conflicts = check_citations.find_conflicts(check_citations.load_all_citations(), touched)
+    print(f"[post-batch check] Citation conflicts touching this batch: {len(conflicts)}")
+    if conflicts:
+        print(check_citations.format_report(conflicts))
+
+
 def append_log(entries: list) -> None:
     """Append enrichment entries to log.md, OKF date-grouped style."""
     bullets = [f"* **Enrich**: {name} — enriched from {page_type} CSV via Claude" for page_type, name in entries]
@@ -441,14 +467,20 @@ Always link to a claim page when one exists: [Display Name](../claims/slug.md) [
 
 1. Match the exemplar exactly in density, structure, and voice.
 2. Follow the template structure — same headings, same order.
-3. Cross-links: standard markdown links in the OKF bundle-relative form [Display Name](/folder/slug.md)
+3. Cross-links: relative markdown links only — [Display Name](slug.md) for a page in the SAME folder,
+   [Display Name](../folder/slug.md) for a page in a DIFFERENT folder. Never use the absolute
+   /folder/slug.md form — this wiki resolves links relative to the linking page, and an absolute
+   link breaks.
    IMPORTANT: Only use slugs that appear verbatim in the provided slug list.
    Never invent or guess a slug. Write plain text if a page doesn't exist yet.
 4. Embed claim tags inline in prose — in Description, Implications, Constraints, Target Learners — not only
    in a separate Claims list.
 5. Be succinct. Every sentence should carry weight. Avoid preamble and generic framing.
 6. Key Sources: 3–5 real peer-reviewed sources in APA format with DOI hyperlinks. Only cite sources you are
-   confident exist. Omit DOI if uncertain rather than guessing.
+   confident exist. Omit DOI if uncertain rather than guessing. If a source is one you'd expect to
+   already be cited elsewhere in this wiki (a well-known meta-analysis or seminal paper), use the exact
+   DOI you would use anywhere else for that same paper — never vary the DOI, or include it on one page
+   and drop it on another, for what is the same citation.
 7. Examples: use real named platforms, programs, or published curricula with URLs where they exist.
 8. Related items: one-line explanation per entry ("— why it matters here").
 9. Constraints: specific research-grounded conditions, not generic hedges.
@@ -723,6 +755,7 @@ def cmd_collect(args: argparse.Namespace) -> None:
 
     # Process results
     written = []
+    written_files = []
     errors = []
     folder = WIKI_ROOT / args.type
 
@@ -734,6 +767,7 @@ def cmd_collect(args: argparse.Namespace) -> None:
             content = result.result.message.content[0].text
             write_enriched_page(page_path, content)
             written.append((args.type, slug))
+            written_files.append(str(page_path.relative_to(WIKI_ROOT)))
             print(f"  [OK] {slug}")
         else:
             errors.append(slug)
@@ -742,6 +776,7 @@ def cmd_collect(args: argparse.Namespace) -> None:
     if written:
         append_log(written)
     print(f"\nDone: {len(written)} written, {len(errors)} errors")
+    _post_batch_checks(written_files)
 
     # Clean up batch ID file
     id_file.unlink(missing_ok=True)
@@ -926,6 +961,7 @@ def cmd_run(args: argparse.Namespace) -> None:
     total = len(pages)
     wiki_slugs = get_wiki_slugs()
     written = []
+    written_files = []
     done = {"n": 0}
     print_lock = threading.Lock()      # keeps concurrent workers' output from interleaving
     slugs_lock = threading.Lock()      # guards the shared wiki_slugs dict + create_missing_stubs
@@ -973,6 +1009,7 @@ def cmd_run(args: argparse.Namespace) -> None:
             write_enriched_page(page_path, content)
             with written_lock:
                 written.append((args.type, name))
+                written_files.append(str(page_path.relative_to(WIKI_ROOT)))
 
             # Create stubs for any wikilinked pages that don't exist yet, then
             # fold the refreshed slug list back into the shared dict so any
@@ -1010,6 +1047,9 @@ def cmd_run(args: argparse.Namespace) -> None:
     if written:
         append_log(written)
     print(f"\nDone: {len(written)} pages enriched.")
+
+    if not args.dry_run:
+        _post_batch_checks(written_files)
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
