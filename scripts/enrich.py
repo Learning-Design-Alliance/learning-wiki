@@ -189,8 +189,72 @@ def read_csv_lookup(csv_path: Path, name_col: str) -> dict[str, dict]:
     return lookup
 
 
+def unwrap_json_response(content: str) -> str:
+    """Some model responses (confirmed in production with GLM-5.3-flash via
+    OpenRouter) come back as a JSON envelope like {"answer": "...markdown..."}
+    instead of raw markdown, despite SYSTEM_PROMPT rule 10 ("Output ONLY the
+    enriched markdown. No commentary, no code fences."). Detect and unwrap
+    it before it ever reaches write_enriched_page; otherwise return content
+    unchanged (the overwhelmingly common case)."""
+    stripped = content.strip()
+    if not stripped.startswith("{"):
+        return content
+    try:
+        parsed = json.loads(stripped)
+    except (json.JSONDecodeError, ValueError):
+        return content
+    if isinstance(parsed, dict):
+        for key in ("answer", "content", "markdown", "text"):
+            if key in parsed and isinstance(parsed[key], str):
+                return parsed[key]
+    return content
+
+
+def salvage_leading_junk(content: str) -> str:
+    """Second, best-effort recovery pass for the two other leak patterns
+    found alongside JSON-wrapping in production (989 JSON-wrapped + 34 of
+    these, all in one batch): a leftover code-fence language tag
+    ("markdown\n---\ntype: ...") where the ``` fence itself got stripped
+    but not the language word, and raw chain-of-thought preamble
+    ("Let me analyze this task carefully.\n\nI need to write...\n---\n
+    type: ...") — the model narrating instead of just answering, despite
+    SYSTEM_PROMPT rule 10. In both cases the real page is still in there,
+    just after some junk; slicing from the first "\n---\n" recovers it for
+    free instead of discarding a real, well-formed page over a wrapper the
+    model added on top of it."""
+    idx = content.find("\n---\n")
+    if idx != -1:
+        return content[idx + 1:]
+    return content
+
+
+class InvalidPageContentError(ValueError):
+    """Raised when a model's response doesn't look like a real OKF page
+    (post unwrap_json_response/salvage_leading_junk) — never write this to
+    disk."""
+
+
 def write_enriched_page(path: Path, content: str) -> None:
-    """Write enriched content; ensure status/generated are set (OKF style)."""
+    """Write enriched content; ensure status/generated are set (OKF style).
+
+    Refuses to write anything that doesn't start with a frontmatter "---"
+    after unwrapping/salvage — found the hard way in production: a raw JSON
+    envelope ({"answer": "..."}) got written verbatim over a real page's
+    content with no validation at all (strategies/build_a_community_on_
+    student_voice.md), destroying it — and it turned out to be one of
+    three distinct leak patterns from the same batch, not a one-off. A
+    page that fails this check is left completely untouched on disk; the
+    caller should treat this as an error for that one page, not silently
+    skip it."""
+    content = unwrap_json_response(content)
+    if not content.strip().startswith("---"):
+        content = salvage_leading_junk(content)
+    if not content.strip().startswith("---"):
+        raise InvalidPageContentError(
+            f"Model response doesn't look like a real page (doesn't start with '---' "
+            f"frontmatter after JSON-unwrap and leading-junk salvage attempts) — refusing "
+            f"to write over {path}. First 200 chars: {content.strip()[:200]!r}"
+        )
     content = re.sub(r"^status:\s*.+$", "status: review", content, flags=re.MULTILINE)
     generated_block = f'generated:\n  by: "claude/unspecified"\n  at: {TODAY}'
     if re.search(r"^generated:\s*\n\s+by:.*\n\s+at:.*$", content, re.MULTILINE):
@@ -885,13 +949,17 @@ def cmd_collect(args: argparse.Namespace) -> None:
         page_path = folder / f"{slug}.md"
 
         if result.result.type == "succeeded":
-            content = result.result.message.content[0].text
-            content, repairs = repair_misfiled_links(content, args.type)
-            write_enriched_page(page_path, content)
-            create_missing_stubs(content, args.type)
-            written.append((args.type, slug))
-            written_files.append(str(page_path.relative_to(WIKI_ROOT)))
-            print(f"  [OK] {slug}" + (f"  (fixed links: {', '.join(repairs)})" if repairs else ""))
+            try:
+                content = unwrap_json_response(result.result.message.content[0].text)
+                content, repairs = repair_misfiled_links(content, args.type)
+                write_enriched_page(page_path, content)
+                create_missing_stubs(content, args.type)
+                written.append((args.type, slug))
+                written_files.append(str(page_path.relative_to(WIKI_ROOT)))
+                print(f"  [OK] {slug}" + (f"  (fixed links: {', '.join(repairs)})" if repairs else ""))
+            except Exception as e:
+                errors.append(slug)
+                print(f"  [ERROR] {slug}: {e}")
         else:
             errors.append(slug)
             print(f"  [ERROR] {slug}: {result.result.type}")
