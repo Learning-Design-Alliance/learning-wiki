@@ -15,6 +15,8 @@ A **natural reinforcer** is a reinforcer naturally present in the setting where 
 
 Behaviorism is often criticized for producing learners hooked on artificial, extrinsic consequences (de Charms, 1968, 1976), but behavioral scientists (Skinner, 1953, 1974; Lindsley, 1991, 1992a, 1992b; Baer, Wolf, & Risley, 1968) have long advocated the deliberate use of natural reinforcers as an alternative — and, further, a documented process for transferring control from extrinsic to natural reinforcers over time, called **conditioning a natural reinforcer** (Horcones, 1985, 1987, 1991, 1992). Many learners are not naturally reinforced by classroom activities they nonetheless need to perform (writing, reading, answering questions); for these learners, external reinforcers serve two purposes: they let a teacher shape and strengthen the desired behavior through positive reinforcement, and — if deliberately faded — they let control over the behavior transfer to the learner's own natural, intrinsic reinforcers.
 
+In classroom-management terms, natural reinforcers are specifically ones already available in the school setting at almost no cost — extra time to do homework, lunch with the principal or a favorite teacher, extra recess, an educational game, library time for pleasure reading, or computer access. Because these cost nothing to supply, a teacher can use them far more consistently than reinforcers that must be purchased and brought in, which is itself one reason to prefer natural reinforcers when setting up a procedure to reinforce a replacement behavior (see step 4 of the [Antecedent-Behavior-Consequence Model](../elements/antecedent-behavior-consequence-model.md)'s five-step behavior-change procedure).
+
 ## Design Implications
 
 ### Context
@@ -42,6 +44,9 @@ Behaviorism is often criticized for producing learners hooked on artificial, ext
 ## Related Strategies
 - [Token Economies](token-economies.md) — a token economy is a common starting point for this fading process; conditioning a natural reinforcer describes how to transition away from it
 - [Effective Presentation for Errorless Learning](effective-presentation-for-errorless-learning.md) — reducing errors during the extrinsic-reinforcement phase makes the eventual natural reinforcer (successful performance) more reliably available to notice
+
+## Related Elements
+- [Antecedent-Behavior-Consequence Model](../elements/antecedent-behavior-consequence-model.md) — natural reinforcers as the preferred choice in that model's replacement-behavior-reinforcement step
 
 ## Examples
 

@@ -40,6 +40,7 @@ Because these domains are differentiated rather than unified, a student's moral 
 - [Gilligan's Ethic of Care](gilligans-ethic-of-care.md) — both frameworks push back on collapsing moral reasoning into a single scale
 
 ## Examples
+- [Classroom Space and Procedural Design](../principles/classroom-space-and-procedural-design.md) — applies the moral/conventional distinction directly to why classroom procedures (conventional) and rules (moral) warrant different levels of student input and enforcement
 
 ## Key Sources
 - Turiel, E. (1983). *The development of social knowledge: Morality and convention*. Cambridge University Press.

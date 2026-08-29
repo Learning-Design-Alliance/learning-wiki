@@ -2,7 +2,7 @@
 
 Instructional building blocks — the components you compose into patterns.
 
-**248 entries** · 0 stable · 239 in review · 9 drafts
+**249 entries** · 0 stable · 239 in review · 10 drafts
 
 ---
 
@@ -316,6 +316,7 @@ Jump to: [A](#letter-a) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) ·
 ## Draft
 
 * [Addressing Student Misconceptions](addressing-student-misconceptions.md) - Students of all ages carry misleading or outright wrong prior beliefs into a lesson, some well-documented and predictable, others idiosyncratic — anticipating them in advance and treating them with respect even while correcting them is more effective than assuming a blank slate.
+* [Antecedent-Behavior-Consequence (ABC) Model](antecedent-behavior-consequence-model.md) - The ABC model analyzes behavior as an environmental trigger (antecedent) producing an observable action (behavior) followed by an outcome that strengthens or weakens its recurrence (consequence) — the applied-behavior-analysis framework for identifying what is actually maintaining a classroom behavior before intervening.
 * [Child-Directed Speech](child-directed-speech.md) - Child-directed speech — exaggerated pitch, careful articulation, and simplified structure used when speaking with infants and toddlers — increases infant attention and supports early phoneme discrimination.
 * [Digital Open Badges](digital-open-badges.md) - Digital Open Badges are portable, metadata-rich micro-credentials that recognize discrete competencies, including informal learning that traditional grades and degrees do not capture or make transparent.
 * [Learning Analytics-Driven Feedback](learning-analytics-feedback.md) - Learning Analytics-Driven Feedback uses models built from learner interaction data to predict at-risk learners and surface targeted feedback to learners or instructors, compensating for the reduced visibility distance and online instructors have into struggling learners.

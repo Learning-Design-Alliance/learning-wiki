@@ -21,6 +21,8 @@ Behavioral scientists draw a sharp distinction between a **positive consequence*
 
 The **expert practice of positive reinforcement** is a demanding, multi-step commitment, not simply praising good behavior when noticed: (1) baseline measurement of the specific target behavior, (2) assessment of what actually functions as a reinforcer for this learner, (3) immediate, continuous delivery of the reinforcer contingent on the target behavior, and (4) a planned, gradual fading of the reinforcer — ideally toward a [natural reinforcer](../strategies/conditioning-natural-reinforcers.md) rather than indefinite extrinsic delivery. Most informal classroom reward systems (snack time, weekly awards, popcorn parties) skip most of these steps and so do not constitute reinforcement in this technical sense, even though they may still have other beneficial effects.
 
+Negative reinforcement — removing an aversive condition after a desired behavior, which increases that behavior's likelihood — is illustrated by Thorndike's puzzle-box cats, who learned to pull an escape cord more quickly on each trial because doing so ended their confinement. Teachers rarely deliberately arrange negative reinforcement (doing so requires first placing a student in an unpleasant situation, which runs against a general preference for positive, nonaversive techniques — Donnellan & LaVigna, 1990), but they frequently trigger it **inadvertently**: a student wanting to escape difficult work, a dull exercise, or a teacher perceived as unfair may complain, refuse work, or disrupt class to delay or avoid it, and a teacher who responds by changing the assignment or removing the student to the hallway has just negatively reinforced that avoidance behavior. This "negative reinforcement trap" is suspected by some applied behavior analysts (Iwata, 1987) to account for more learned inappropriate classroom behavior than positive reinforcement does — see the [Antecedent-Behavior-Consequence Model](../elements/antecedent-behavior-consequence-model.md) for the fuller antecedent/behavior/consequence framework this trap sits within.
+
 When punishment is used, research identifies similar conditions for it to function as an effective punisher rather than an ineffective negative consequence: (1) precise identification and baseline measurement of the target behavior, (2) precise identification of an alternative, positive behavior to reinforce in its place, (3) assessment of the most effective potential punisher before using it, (4) consistent, immediate reinforcement and punishment on a continuous schedule until both the target and alternative behaviors change, and (5) fading of both the reinforcer and the punisher once the behavior change is established (Cooper, Heron, & Heward, 1987; Sulzer-Azaroff & Mayer, 1986). Punishment paired with reinforcement of an alternative behavior produces fewer emotional side effects (fear, avoidance, anxiety) than punishment used alone.
 
 ### Context
@@ -63,6 +65,7 @@ When punishment is used, research identifies similar conditions for it to functi
 - [Mastery Learning](mastery-learning.md) — can use contingent progression as a consequence structure
 - [Token Economies](../strategies/token-economies.md) — a structured classroom-scale application of secondary (token) reinforcers
 - [Conditioning Natural Reinforcers](../strategies/conditioning-natural-reinforcers.md) — the fading step in the expert practice of positive reinforcement, transferring control to intrinsic reinforcers
+- [Antecedent-Behavior-Consequence Model](../elements/antecedent-behavior-consequence-model.md) — the applied-behavior-analysis framework for identifying what a reinforcement plan should actually target, including the negative-reinforcement trap
 
 ## Examples
 
@@ -79,4 +82,6 @@ When punishment is used, research identifies similar conditions for it to functi
 - Schunk, D. H. (2012). *Learning theories: An educational perspective* (6th ed.). Pearson.
 - Cooper, J. O., Heron, T. E., & Heward, W. L. (1987). *Applied behavior analysis*. Merrill.
 - Sulzer-Azaroff, B., & Mayer, G. R. (1986). *Achieving educational excellence: Using behavioral strategies*. Holt, Rinehart and Winston.
+- Iwata, B. A. (1987). Negative reinforcement in applied behavior analysis: An emerging technology. *Journal of Applied Behavior Analysis, 20*(4), 361-378.
+- Donnellan, A. M., & LaVigna, G. W. (1990). *Alternatives to punishment: Solving behavior problems with non-aversive strategies*. Irvington.
 - Arduini-Van Hoose, N. (2020). Behaviorism in the classroom. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
