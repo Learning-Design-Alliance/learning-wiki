@@ -7,3 +7,9 @@ page: ../theories/self-determination-theory.md
 
 ### 2026-08-29 · content · claude/unspecified
 Cross-linked new Epistemic Games pattern (LIDT Foundations ingest)
+
+### 2026-08-29 · content · claude/unspecified
+Cross-linked new Digital Open Badges element (LIDT Foundations ingest)
+
+### 2026-08-29 · content · claude/unspecified
+Cross-linked new Self-Efficacy, Attribution, and Expectancy-Value theory pages (LIDT Foundations ingest)

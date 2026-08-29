@@ -2,7 +2,7 @@
 
 Instructional building blocks — the components you compose into patterns.
 
-**240 entries** · 0 stable · 239 in review · 1 drafts
+**243 entries** · 0 stable · 239 in review · 4 drafts
 
 ---
 
@@ -315,4 +315,7 @@ Jump to: [A](#letter-a) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) ·
 
 ## Draft
 
+* [Digital Open Badges](digital-open-badges.md) - Digital Open Badges are portable, metadata-rich micro-credentials that recognize discrete competencies, including informal learning that traditional grades and degrees do not capture or make transparent.
+* [Learning Analytics-Driven Feedback](learning-analytics-feedback.md) - Learning Analytics-Driven Feedback uses models built from learner interaction data to predict at-risk learners and surface targeted feedback to learners or instructors, compensating for the reduced visibility distance and online instructors have into struggling learners.
+* [Makerspace](makerspace.md) - A Makerspace is a physical or mobile space, formal or informal, where learners use digital and physical tools to design, build, and iterate on self-directed projects.
 * [Text underlining and annotating](text-underlining-and-annotating.md) - A study aid involving marking text to indicate importance.

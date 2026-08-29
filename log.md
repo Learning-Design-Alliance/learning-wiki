@@ -10,6 +10,18 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-29
 
+* **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Cross-linked new Self-Efficacy, Attribution, and Expectancy-Value theory pages (LIDT Foundations ingest)
+* **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Cross-linked new Self-Efficacy Theory page (LIDT Foundations ingest)
+* **Ingest**: [theories/expectancy-value-theory](theories/expectancy-value-theory.md) — Ingested from Park, "Motivation Theories and Instructional Design" (ch. 15 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [theories/attribution-theory](theories/attribution-theory.md) — Ingested from Park (ch. 15) and Seifert & Sutton (ch. 16), "Motivation Theories" chapters of LIDT Foundations, edtechbooks.org/lidtfoundations
+* **Ingest**: [theories/self-efficacy-theory](theories/self-efficacy-theory.md) — Ingested from Park (ch. 15) and Seifert & Sutton (ch. 16), "Motivation Theories" chapters of LIDT Foundations, edtechbooks.org/lidtfoundations
+* **Content**: [theories/constructivism](theories/constructivism.md) — Cross-linked new Makerspace element (LIDT Foundations ingest)
+* **Content**: [principles/user-centered-design-for-learning](principles/user-centered-design-for-learning.md) — Cross-linked new Cone of Experience principle (LIDT Foundations ingest)
+* **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Cross-linked new Digital Open Badges element (LIDT Foundations ingest)
+* **Ingest**: [principles/cone-of-experience](principles/cone-of-experience.md) — Ingested from Lee & Reeves, "Edgar Dale and the Cone of Experience" (ch. 7 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [elements/digital-open-badges](elements/digital-open-badges.md) — Ingested from Farmer & West, "Opportunities and Challenges with Digital Open Badges" (ch. 41 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [elements/learning-analytics-feedback](elements/learning-analytics-feedback.md) — Ingested from Baker & Inventado, "Educational Data Mining and Learning Analytics" (ch. 40 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [elements/makerspace](elements/makerspace.md) — Ingested from Dousay, "Defining and Differentiating the Makerspace" (ch. 28 of LIDT Foundations, edtechbooks.org/lidtfoundations)
 * **Content**: [principles/community-of-inquiry](principles/community-of-inquiry.md) — Cross-linked new Online Course Design pattern (LIDT Foundations ingest)
 * **Content**: [patterns/game-based-mastery-learning](patterns/game-based-mastery-learning.md) — Cross-linked new Programmed Instruction and Epistemic Games patterns (LIDT Foundations ingest)
 * **Content**: [theories/situated-learning](theories/situated-learning.md) — Cross-linked new Epistemic Games pattern (LIDT Foundations ingest)

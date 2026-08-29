@@ -40,6 +40,7 @@ Bandura later extended the theory to emphasize *self-efficacy* — a learner's b
 - [Self-Regulated Learning](self-regulated-learning.md) — incorporates self-efficacy as a regulatory mechanism
 - [Constructivism](constructivism.md) — shares emphasis on active sense-making; differs in granting social observation a direct instructional role
 - [Sociocultural Theory](sociocultural-theory.md) — both center learning through interaction with others, but Vygotsky's account is developmental (mediated by language and culture) rather than mediated by observation, attention, and self-efficacy
+- [Self-Efficacy Theory](self-efficacy-theory.md) — Bandura's own extension of this theory into a dedicated account of task-specific competence beliefs
 
 ## Examples
 

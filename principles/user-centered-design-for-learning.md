@@ -42,6 +42,7 @@ UCD proceeds iteratively: identifying user needs (often via **personas** — det
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — both concern how much support structure a learner needs and when it should be reduced, though scaffolding targets content mastery while UCD targets interface usability
+- [Cone of Experience (Concrete-to-Abstract Media Selection)](cone-of-experience.md) — both concern deliberate media/interface choice, though UCD addresses usability rather than concreteness/abstraction
 
 ## Examples
 - Building a persona from user interviews before designing a course's navigation structure

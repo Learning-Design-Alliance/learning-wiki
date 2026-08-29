@@ -7,3 +7,6 @@ page: ../theories/constructivism.md
 
 ### 2026-08-29 · source · claude/unspecified
 Added Ertmer & Newby (2013) key source and cross-links to new Cognitivism and Sociocultural Theory pages (LIDT Foundations ingest)
+
+### 2026-08-29 · content · claude/unspecified
+Cross-linked new Makerspace element (LIDT Foundations ingest)

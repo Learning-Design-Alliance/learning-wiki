@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**16 entries** · 0 stable · 11 in review · 5 drafts
+**19 entries** · 0 stable · 11 in review · 8 drafts
 
 ---
 
@@ -22,8 +22,11 @@ Explanatory frameworks that ground principles and claims.
 
 ## Draft
 
+* [Attribution Theory](attribution-theory.md) - Attribution Theory holds that a learner's motivation after success or failure depends less on what actually caused the outcome than on what the learner believes caused it, classified along the dimensions of locus, stability, and controllability.
 * [Cognitivism](cognitivism.md) - Cognitivism holds that learning is a change in internal mental structures — how information is attended to, encoded, organized in memory, and retrieved — rather than only a change in observable behavior.
 * [Connectivism](connectivism.md) - Connectivism holds that in a networked, digital age, learning is the process of forming and navigating connections between specialized information sources — including non-human ones — rather than only internalizing knowledge inside an individual mind.
+* [Expectancy-Value Theory](expectancy-value-theory.md) - Expectancy-Value Theory holds that the two most immediate predictors of a learner's motivation to engage in a task are their expectancy of succeeding at it and the value they place on it, with value further divided into intrinsic, attainment, utility, and cost components.
 * [First Principles of Instruction](first-principles-of-instruction.md) - First Principles of Instruction is M. David Merrill's synthesis of common ground across instructional design theories, holding that learning is most effective, efficient, and engaging when it is problem-centered and involves activation, demonstration, application, and integration.
+* [Self-Efficacy Theory](self-efficacy-theory.md) - Self-Efficacy Theory holds that a learner's task-specific belief in their own capability to succeed — distinct from general self-confidence or actual ability — is one of the strongest drivers of motivation, task choice, persistence, and resilience.
 * [Sociocultural Theory](sociocultural-theory.md) - Sociocultural theory, developed from Vygotsky's work, holds that higher-order thinking develops first through social interaction and is then internalized, with learning most effective within a learner's Zone of Proximal Development.
 * [The von Restorff effect in text marking](von-restorff-effect-text-marking.md) - The von Restorff effect is used to explain how underlining functions by isolating information against a background.

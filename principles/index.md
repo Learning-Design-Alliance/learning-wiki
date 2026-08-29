@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**138 entries** · 0 stable · 133 in review · 5 drafts
+**139 entries** · 0 stable · 133 in review · 6 drafts
 
 ---
 
@@ -212,6 +212,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
+* [Cone of Experience (Concrete-to-Abstract Media Selection)](cone-of-experience.md) - Dale's Cone of Experience arranges learning experiences along a continuum from concrete, direct experience to abstract, symbolic (verbal) experience, as guidance for balancing — not ranking — media and instructional method choices.
 * [Learner-Centered Paradigm of Education](learner-centered-paradigm.md) - The learner-centered paradigm replaces a time-fixed, group-based, sorting-oriented school system with one that holds attainment constant and lets pace and path vary to fit each learner.
 * [Performance Technology](performance-technology.md) - Performance Technology treats instruction as one of several possible interventions for closing a performance gap, and requires analyzing the organizational system around a learner before assuming training is the right solution.
 * [Technology Integration Levels (SAMR / RAT / PIC-RAT)](technology-integration-levels.md) - A family of frameworks (RAT, SAMR, PIC-RAT) for judging whether a specific use of technology in instruction merely replaces a prior practice or meaningfully improves or transforms it.

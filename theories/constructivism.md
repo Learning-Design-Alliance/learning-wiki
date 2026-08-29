@@ -50,6 +50,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Makerspace](../elements/makerspace.md)
 
 ## Key Sources
 - Piaget, J. (1970). *Science of education and the psychology of the child*. Viking.

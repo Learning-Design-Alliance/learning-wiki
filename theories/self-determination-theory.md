@@ -44,6 +44,9 @@ In instructional design, SDT is most often used to explain why some environments
 
 ## Related Theories
 - [Self-Regulated Learning](self-regulated-learning.md) — SDT helps explain why learners may or may not take up the self-regulatory behaviors SRL describes
+- [Self-Efficacy Theory](self-efficacy-theory.md) — both treat perceived competence as central, though SDT frames it as one of three basic needs (with autonomy and relatedness) rather than a task-specific belief
+- [Attribution Theory](attribution-theory.md) — controllable attributions support the sense of autonomy and competence SDT identifies as basic needs
+- [Expectancy-Value Theory](expectancy-value-theory.md) — task value overlaps with the sense of relevance and autonomy SDT-informed design also targets
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
@@ -51,6 +54,7 @@ In instructional design, SDT is most often used to explain why some environments
 - [Strengths-based Approach](../principles/strengths-based-approach.md)
 - [Game-Based Learning](../principles/game-based-learning.md)
 - [Epistemic Games](../patterns/epistemic-games.md)
+- [Digital Open Badges](../elements/digital-open-badges.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
