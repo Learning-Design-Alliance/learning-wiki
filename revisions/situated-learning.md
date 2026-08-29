@@ -10,3 +10,9 @@ Added new Claims section linking Marshall & Horn (2025) on teachers as agentic s
 
 ### 2026-08-29 · content · claude/unspecified
 Added Boundary Crossing Learning related theory link
+
+### 2026-08-29 · content · claude/unspecified
+Cross-linked new Sociocultural Theory and Connectivism pages (LIDT Foundations ingest)
+
+### 2026-08-29 · content · claude/unspecified
+Cross-linked new Epistemic Games pattern (LIDT Foundations ingest)

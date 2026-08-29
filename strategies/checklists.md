@@ -4,14 +4,14 @@ title: Checklists
 description: Checklists can be used to measure and document student learning by tracking whether learners are accomplishing specific tasks or expectations.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Checklists
 
 ## Description
-Checklists can be used to measure and document student learning by tracking whether learners are accomplishing specific tasks or expectations.
+Checklists can be used to measure and document student learning by tracking whether learners are accomplishing specific tasks or expectations. A checklist is the least complex type of scoring rubric: it lets a rater indicate whether an expected component is present, but not the quality of that component — essentially a pass/fail judgment per item rather than a graded one. This makes checklists quick and easy to administer, but limited in the feedback they can give — useful mainly for minor assignments or drafts, where a simple presence/absence check is enough. When feedback about the *quality* of work matters, a rating scale or rubric (which adds a quality judgment to the same basic structure) is the more appropriate tool — see [Rubrics](rubrics.md).
 
 ## Design Implications
 
@@ -49,7 +49,7 @@ Checklists can be used to measure and document student learning by tracking whet
 - Research demonstrates checklists enhance assessment and self-regulation skills.
 
 ## Related Strategies
-- <!-- TODO -->
+- [Rubrics](rubrics.md) — the more informative next step when quality, not just presence, needs to be assessed
 
 ## Related Elements
 - <!-- TODO -->
@@ -61,4 +61,5 @@ Checklists can be used to measure and document student learning by tracking whet
 - <!-- TODO -->
 
 ## Key Sources
-- <!-- TODO -->
+- Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.
+- Arduini-Van Hoose, N. (2020). Teacher-made assessments. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

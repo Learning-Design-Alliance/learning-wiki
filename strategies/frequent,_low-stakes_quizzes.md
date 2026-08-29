@@ -4,14 +4,16 @@ title: Frequent, Low-Stakes Quizzes
 description: Administering frequent quizzes with minimal impact on grades to reinforce learning and identify gaps in understanding.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Frequent, Low-Stakes Quizzes
 
 ## Description
 Administering frequent quizzes with minimal impact on grades to reinforce learning and identify gaps in understanding. These quizzes should be short, simple, and focused on key concepts, emphasizing learning and practice over high-stakes assessment. Technology tools can streamline quiz administration and feedback. Low-stakes activities reduce student stress and increase engagement. The goal is to offer frequent feedback and reinforce concepts to cement learning for adults, increasing disciplinary literacy and strengthening understanding of new information, including numeracy skills.
+
+Testing-and-learning research going back over 20 years found that tests promote learning, and that more frequent tests are more effective than less frequent ones (Dempster & Perkins, 1993). The mechanism is straightforward: frequent smaller tests encourage continuous effort instead of last-minute cramming, and reduce test anxiety because the consequence of any single error is smaller. College students themselves report preferring more frequent testing to infrequent testing (Bangert-Downs, Kulik, & Kulik, 1991). More broadly, a teacher's assessment purposes and beliefs, the type of assessment chosen, and the feedback given together shape the classroom's overall "assessment climate," which in turn affects student confidence and motivation — frequent low-stakes quizzing is one concrete lever on that climate, not just a test-frequency choice in isolation.
 
 ## Design Implications
 
@@ -62,4 +64,6 @@ Administering frequent quizzes with minimal impact on grades to reinforce learni
 - Assigning a half-page text answering four comprehension questions. Matching the audio to the sentence. Five-minute, multiple-choice, or single-sentence quizzes.
 
 ## Key Sources
-- <!-- TODO -->
+- Dempster, F. N., & Perkins, P. G. (1993). Revitalizing classroom assessment: Using tests to promote learning. *Journal of Instructional Psychology, 20*(3), 197-203.
+- Bangert-Downs, R. L., Kulik, J. A., & Kulik, C. C. (1991). Effects of frequent classroom testing. *Journal of Educational Research, 85*(2), 89-99.
+- Arduini-Van Hoose, N. (2020). Teacher-made assessments. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

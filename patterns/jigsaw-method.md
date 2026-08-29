@@ -4,8 +4,8 @@ title: Jigsaw Method
 description: The Jigsaw Method is a cooperative learning pattern in which learners become responsible for one part of a larger topic, develop expertise in that part, and then teach it to peers who depend on them for the whole picture.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 author: Elliot Aronson
 grain_size: lesson
 ---
@@ -16,6 +16,8 @@ grain_size: lesson
 The Jigsaw Method is a cooperative learning pattern in which learners become responsible for one part of a larger topic, develop expertise in that part, and then teach it to peers who depend on them for the whole picture. The pattern is designed to create positive interdependence: no learner can complete the full task alone without contributions from others.
 
 Its value comes from combining preparation, peer teaching, and synthesis. Jigsaw can improve engagement and accountability when each role matters, but it can fail if expert preparation is weak or if the final synthesis never checks what peers actually learned from one another.
+
+Two documented variants differ in when specialization happens. In the original version (Aronson et al., 2001), 5-6-student groups are each assigned one aspect of a complex problem from the start; expert groups then disband and re-form so each new group contains one student from each former expert group. In a second version (Slavin, 1994), 4-5-student groups first work together on the *entire* problem before disbanding into expert groups focused on one aspect, and finally reform into the original groups to add each member's new expertise back into the group's shared understanding — giving every learner a whole-problem orientation before specialization narrows their focus.
 
 ## Implications
 
@@ -90,6 +92,7 @@ Its value comes from combining preparation, peer teaching, and synthesis. Jigsaw
 ## Related Patterns
 - [Fostering Communities of Learning (FCL)](fostering-communities-of-learning-fcl.md)
 - [Discussion Group](discussion-group.md)
+- [Student-Teams Achievement Divisions (STAD)](../strategies/student-teams-achievement-divisions.md) — another small-team cooperative structure, organized around shared whole-class content and individual testing rather than subtopic specialization
 
 ## Examples
 - History learners examining different primary sources and teaching their significance to peers.
@@ -102,4 +105,7 @@ Its value comes from combining preparation, peer teaching, and synthesis. Jigsaw
 
 ## Key Sources
 - Aronson, E., & Patnoe, S. (2011). *Cooperation in the classroom: The jigsaw method* (3rd ed.). Pinter & Martin.
+- Aronson, E., Wilson, T., & Akert, A. M. (2001). *Social psychology* (4th ed.). Prentice Hall.
+- Slavin, R. E. (1994). *Cooperative learning: Theory, research, and practice* (2nd ed.). Allyn & Bacon.
 - Hattie, J. (2009). *Visible learning*. Routledge.
+- Arduini-Van Hoose, N. (2020). Cooperative learning. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

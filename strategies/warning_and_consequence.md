@@ -4,8 +4,8 @@ title: Warning and Consequence
 description: This technique involves giving high school students a clear warning that talking during the lesson will result in a consequence, such as taking time off their break.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Warning and Consequence
@@ -49,7 +49,8 @@ This technique involves giving high school students a clear warning that talking
 - Providing a clear warning and consequence can improve classroom management by establishing clear expectations and reducing disruptive behavior in high school classrooms.
 
 ## Related Strategies
-- <!-- TODO -->
+- [Low-Profile Classroom Control](low-profile-classroom-control.md) — the warn-then-follow-through reaction sequence this technique instantiates
+- [Natural and Logical Consequences](../principles/natural-and-logical-consequences.md) — worth checking this specific consequence against, since a fixed break-time deduction can read as punishment rather than a consequence proportionate to and connected with the misbehavior
 
 ## Related Elements
 - <!-- TODO -->

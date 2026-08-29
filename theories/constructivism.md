@@ -39,17 +39,24 @@ In instruction, constructivism is less a single method than a family resemblance
 
 ## Related Theories
 - [Sociomaterial Agency of Tools](sociomaterial-agency-of-tools.md) — extends constructivism by treating the material substrate of a hands-on task, not just the learner's cognitive engagement with it, as consequential for what gets learned
+- [Stages of Cognitive Development](stages-of-cognitive-development.md) — Piaget's stage theory is the direct historical foundation constructivism builds on
 - [Self-Regulated Learning](self-regulated-learning.md) — constructivist learning often depends on learners monitoring and revising their own understanding
 - [Cognitive Load Theory](cognitive-load-theory.md) — constructivist tasks still have to manage working-memory limits, especially for novices
 - [Information Processing Theory](information-processing-theory.md) — active construction still depends on attention, encoding, and retrieval processes
+- [Cognitivism](cognitivism.md) — constructivism grew out of cognitivism but rejects the assumption that knowledge is mind-independent and can be mapped onto a learner
+- [Sociocultural Theory](sociocultural-theory.md) — Vygotsky is a direct historical source for constructivism's emphasis on social interaction and meaning-making
+- [Situated Learning](situated-learning.md) — shares constructivism's emphasis on authentic context, but centers participation in social practice rather than individual meaning-making
+- [Constructionism](constructionism.md) — Papert's extension of constructivism, adding the requirement that learning takes the form of building a public, shareable artifact
 
 ## Examples
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)
 - [Problem-based Learning](../principles/problem-based-learning.md)
 - [Peer Discussion](../principles/peer-discussion.md)
 - [Purposeful Reflection](../principles/purposeful-reflection.md)
+- [Makerspace](../elements/makerspace.md)
 
 ## Key Sources
 - Piaget, J. (1970). *Science of education and the psychology of the child*. Viking.
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
 - Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2000). *How people learn*. National Academy Press.
+- Ertmer, P. A., & Newby, T. J. (2013). Behaviorism, cognitivism, constructivism: Comparing critical features from an instructional design perspective. *Performance Improvement Quarterly, 26*(2), 43–71. [doi:10.1002/piq.21143](https://doi.org/10.1002/piq.21143)
