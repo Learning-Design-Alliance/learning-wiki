@@ -64,12 +64,13 @@ Social Cognitive Theory is not a fully unified theory: the literature offers no 
 - Bandura, A. (1977a). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191-215. [doi:10.1037/0033-295x.84.2.191](https://doi.org/10.1037/0033-295x.84.2.191)
 - Bandura, A. (1977b). *Social learning theory.* Prentice Hall.
 - Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory.* Prentice Hall.
+- Bandura, A. (1989). Human agency in social cognitive theory. *American Psychologist, 44*(9), 1175-1184. [doi:10.1037/0003-066X.44.9.1175](https://doi.org/10.1037/0003-066X.44.9.1175)
 - Bandura, A. (1997). *Self-efficacy: The exercise of control.* Freeman.
 - Bandura, A. (2002). Social cognitive theory of mass communication. In J. Bryant & M. B. Oliver (Eds.), *Media effects: Advances in theory and research* (pp. 94-124). Routledge.
 - Bandura, A. (2006). Toward a psychology of human agency. *Perspectives on Psychological Science, 1*, 164-180.
 - Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models. *Journal of Abnormal and Social Psychology, 63*(3), 575-582.
 - Bandura, A., Ross, D., & Ross, S. A. (1963). A comparative test of the status envy, social power, and secondary reinforcement theories of identificatory learning. *Journal of Abnormal and Social Psychology, 67*, 527-534.
-- Pajares, F., Prestin, A., Chen, J., & Nabi, R. L. (2009). Social cognitive theory and media effects. In R. L. Nabi & M. B. Oliver (Eds.), *The sage handbook of media processes and effects* (pp. 283-297). SAGE Publications.
+- Pajares, F., Prestin, A., Chen, J., & Nabi, R. L. (2009). Social cognitive theory and media effects. In R. L. Nabi & M. B. Oliver (Eds.), *The Sage handbook of media processes and effects* (pp. 283-297). Sage.
 - Santrock, J. W. (2008). *A topical approach to lifespan development*. McGraw-Hill.
 - Lefrançois, G. R. (2012). *Theories of human learning: What the professor said* (6th ed.). Wadsworth.
 - Zhou, M., & Brown, D. (Eds.). (2015). Social cognitive theory. In *Educational learning theories* (2nd ed.). GALILEO Open Learning Materials.

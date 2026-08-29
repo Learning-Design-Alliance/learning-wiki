@@ -5,7 +5,7 @@ description: Bronfenbrenner's bioecological model holds that development is driv
 status: draft
 generated:
   by: claude/unspecified
-  at: 2026-08-28
+  at: 2026-08-29
 ---
 
 # Bioecological Model of Human Development

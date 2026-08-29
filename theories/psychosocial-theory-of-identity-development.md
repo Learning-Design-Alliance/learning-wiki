@@ -66,13 +66,13 @@ Joan M. Erikson, Erik's wife and collaborator, later added a **ninth stage** (Er
 ## Examples
 
 ## Key Sources
-- Marcia, J. E. (1966). Development and validation of ego identity status. *Journal of Personality and Social Psychology, 3*, 551-558. [doi:10.1037/h0023281](https://doi.org/10.1037/h0023281)
-- Meeus, W., van de Schoot, R., Keijsers, L., & Branje, S. (2012). Identity statuses as developmental trajectories: A five-wave longitudinal study in early-to-middle and middle-to-late adolescents. *Journal of Youth and Adolescence, 41*(8), 1008-1021.
-- Arduini-Van Hoose, N. (2020). Psychosocial development. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Erikson, E. H. (1950). *Childhood and society*. W.W. Norton.
 - Erikson, E. H. (1956). The problem of ego identity. *Journal of the American Psychoanalytic Association, 4*, 56-121. [doi:10.1177/000306515600400104](https://doi.org/10.1177/000306515600400104)
 - Erikson, E. H., & Erikson, J. M. (1998). *The life cycle completed: Extended version*. W.W. Norton.
 - Kail, R. V., & Cavanaugh, J. C. (2004). *Human development: A life-span view* (3rd ed.). Thomson/Wadsworth.
+- Marcia, J. E. (1966). Development and validation of ego identity status. *Journal of Personality and Social Psychology, 3*, 551-558. [doi:10.1037/h0023281](https://doi.org/10.1037/h0023281)
+- Meeus, W., van de Schoot, R., Keijsers, L., & Branje, S. (2012). Identity statuses as developmental trajectories: A five-wave longitudinal study in early-to-middle and middle-to-late adolescents. *Journal of Youth and Adolescence, 41*(8), 1008-1021.
 - Bianca, A. (2010, June 4). Psychosocial development in physical activity. Retrieved from http://www.ehow.com/about_6587070_psychosocial-development-physical-activity.htm
 - Hooser, T. C. V. (2010, November 28). How to apply psychosocial development in the classroom. Retrieved from http://www.ehow.com/how_7566430_apply-psychosocial-development-classroom.html
 - Zhou, M., & Brown, D. (Eds.). (2015). Psychosocial theory of identity development. In *Educational learning theories* (2nd ed.). GALILEO Open Learning Materials.
+- Arduini-Van Hoose, N. (2020). Psychosocial development. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

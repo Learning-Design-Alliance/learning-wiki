@@ -5,7 +5,7 @@ description: Maslow's hierarchy of needs proposes that human motivation is organ
 status: draft
 generated:
   by: claude/unspecified
-  at: 2026-08-28
+  at: 2026-08-29
 ---
 
 # Maslow's Hierarchy of Needs

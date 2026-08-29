@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**58 entries** · 0 stable · 11 in review · 47 drafts
+**59 entries** · 0 stable · 11 in review · 48 drafts
 
 ---
 
@@ -39,6 +39,7 @@ Explanatory frameworks that ground principles and claims.
 * [Executive Function Development](executive-function-development.md) - Executive functions — inhibitory control, cognitive flexibility, and working memory — are self-regulatory processes that emerge gradually from early childhood through adolescence, shaped by both brain maturation and the quality of caregiving and instructional scaffolding a learner receives.
 * [Existentialism (Educational Philosophy)](existentialism-educational-philosophy.md) - Existentialism holds that individuals are free to determine their own meaning and identity rather than possessing one given in advance; educationally it emphasizes personal choice, authentic self-direction, and discomfort with treating students as objects to be measured or standardized.
 * [Expectancy-Value Theory](expectancy-value-theory.md) - Expectancy-Value Theory holds that the two most immediate predictors of a learner's motivation to engage in a task are their expectancy of succeeding at it and the value they place on it, with value further divided into intrinsic, attainment, utility, and cost components.
+* [Experiential Learning Theory](experiential-learning-theory.md) - Kolb's Experiential Learning Theory models learning as a cyclical, dialectical process in which concrete experience and abstract conceptualization, and reflective observation and active experimentation, are integrated to construct knowledge.
 * [First Principles of Instruction](first-principles-of-instruction.md) - First Principles of Instruction is M. David Merrill's synthesis of common ground across instructional design theories, holding that learning is most effective, efficient, and engaging when it is problem-centered and involves activation, demonstration, application, and integration.
 * [Four-Phase Model of Interest Development](four-phase-interest-development.md) - Hidi and Renninger's model holds that interest develops in four phases, from a transient situational spark through to a stable, well-developed personal interest, with only some situational interest ever making that transition.
 * [Fuller's Concerns Theory of Teacher Development](fullers-concerns-theory.md) - New teachers pass through a predictable sequence of concerns — self-survival, then the teaching task, then impact on students — with the most effective and experienced teachers reaching student-centered concerns at a high level of commitment.

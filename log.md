@@ -176,6 +176,23 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [theories/piaget-moral-development](theories/piaget-moral-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
 * **Ingest**: [theories/play-and-cognitive-development](theories/play-and-cognitive-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
 * **Ingest**: [theories/adolescent-brain-development](theories/adolescent-brain-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Content**: [theories/constructionism](theories/constructionism.md) — Cross-link to new theories/stages-of-cognitive-development.md
+* **Content**: [theories/constructivism](theories/constructivism.md) — Cross-link to new theories/stages-of-cognitive-development.md
+* **Source**: [theories/cognitive-load-theory](theories/cognitive-load-theory.md) — Add Chandler & Sweller (1991) key source found via Educational Learning Theories ch12
+* **Content**: [theories/information-processing-theory](theories/information-processing-theory.md) — Add forgetting theories, metacognition/metamemory, rehearsal vs elaboration, criticisms from Educational Learning Theories ch12
+* **Ingest**: [theories/maslow-hierarchy-of-needs](theories/maslow-hierarchy-of-needs.md) — New page: Maslow's hierarchy of needs, from Educational Learning Theories ch11
+* **Content**: [strategies/develop_observable_criteria](strategies/develop_observable_criteria.md) — Cross-link to new theories/blooms-taxonomy.md
+* **Ingest**: [theories/blooms-taxonomy](theories/blooms-taxonomy.md) — New page: Bloom's Taxonomy across cognitive/psychomotor/affective domains, from Educational Learning Theories ch10
+* **Content**: [theories/multiple-intelligences-theory](theories/multiple-intelligences-theory.md) — Add existential intelligence, identification criteria, g-factor/no-validation critique thread from Educational Learning Theories ch9
+* **Ingest**: [theories/psychosocial-theory-of-identity-development](theories/psychosocial-theory-of-identity-development.md) — New page: Erikson's psychosocial theory of identity development, from Educational Learning Theories ch8
+* **Ingest**: [theories/bioecological-model-of-human-development](theories/bioecological-model-of-human-development.md) — New page: Bronfenbrenner's bioecological model, from Educational Learning Theories ch7
+* **Content**: [principles/experiential-learning](principles/experiential-learning.md) — Cross-link to new theories/experiential-learning-theory.md
+* **Ingest**: [theories/experiential-learning-theory](theories/experiential-learning-theory.md) — New page: Kolb's Experiential Learning Theory, split from principles/experiential-learning.md, from Educational Learning Theories ch6
+* **Ingest**: [theories/kohlberg-moral-development](theories/kohlberg-moral-development.md) — New page: Kohlberg's stages of moral development, from Educational Learning Theories ch5
+* **Content**: [theories/sociocultural-theory](theories/sociocultural-theory.md) — Add private speech, cultural-tool transmission modes, internalization, expanded criticisms from Educational Learning Theories ch4
+* **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Add Social Cognitive Theory expansion: triadic reciprocal causation, agency, capability, self-regulation, criticisms, from Educational Learning Theories ch3
+* **Ingest**: [theories/stages-of-cognitive-development](theories/stages-of-cognitive-development.md) — New page: Piaget's stages of cognitive development, from Educational Learning Theories ch2
+* **Content**: [theories/behaviorism](theories/behaviorism.md) — Add Pavlov/classical conditioning, Skinner box, named techniques, criticisms from Educational Learning Theories ch1
 * **Content**: [elements/makerspace](elements/makerspace.md) — Cross-linked new Constructionism theory page (LIDT Foundations ingest)
 * **Content**: [theories/constructivism](theories/constructivism.md) — Cross-linked new Constructionism theory page (LIDT Foundations ingest)
 * **Content**: [principles/learner-centered-paradigm](principles/learner-centered-paradigm.md) — Enriched with Reigeluth's new-roles taxonomy for teachers/students/technology, from "An Instructional Theory for the Post-Industrial Age" (ch. 20 of LIDT Foundations, edtechbooks.org/lidtfoundations)
