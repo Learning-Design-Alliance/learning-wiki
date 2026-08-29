@@ -312,6 +312,53 @@ def append_log_entries(bullet_lines: list) -> None:
     log_path.write_text(text, encoding="utf-8")
 
 
+def append_manifest_entry(
+    source_id: str,
+    title: str,
+    status: str,
+    doi: str | None = None,
+    reason: str | None = None,
+    pages: list | None = None,
+) -> None:
+    """Append one line to sources/manifest.ndjson — the append-only record of every
+    source article the ingest pipeline has reviewed, ingested or rejected, so
+    external users can audit or search what's been covered without scanning
+    tens of thousands of individual pages. See CLAUDE.md's Source Manifest
+    section for the schema and query examples.
+
+    status must be "ingested" or "rejected". `pages` is a list of
+    bundle-relative page paths (e.g. "claims/foo.md") the source contributed
+    to — required (non-empty) for "ingested", omitted for "rejected". `reason`
+    is required for "rejected" (why it didn't contribute), omitted for
+    "ingested".
+    """
+    import json
+
+    if status not in ("ingested", "rejected"):
+        raise ValueError(f"status must be 'ingested' or 'rejected', got {status!r}")
+    if status == "ingested" and not pages:
+        raise ValueError("'pages' is required and must be non-empty when status='ingested'")
+    if status == "rejected" and not reason:
+        raise ValueError("'reason' is required when status='rejected'")
+
+    entry = {
+        "id": source_id,
+        "title": title,
+        "doi": doi,
+        "reviewed_at": date.today().isoformat(),
+        "status": status,
+    }
+    if status == "rejected":
+        entry["reason"] = reason
+    else:
+        entry["pages"] = pages
+
+    manifest_path = WIKI_ROOT / "sources" / "manifest.ndjson"
+    manifest_path.parent.mkdir(exist_ok=True)
+    with manifest_path.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+
 def add_verified_entry(fm_text: str, actor: str, at: str) -> str:
     """Append a `{by, at}` confirmation event to the frontmatter's `verified:` list,
     creating the list if this is the page's first verification. `fm_text` is the raw

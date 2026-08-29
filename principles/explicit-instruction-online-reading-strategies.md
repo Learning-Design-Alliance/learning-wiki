@@ -77,8 +77,8 @@ Explicit instruction in online reading strategies helps because digital texts fo
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
 - [Think-Alouds for Online Reading Strategies](../strategies/think-alouds_for_online_reading_strategies.md) — expert navigation decisions are modeled explicitly
-- [Reading Online Strategy: Evaluating Online Information](../strategies/reading_online_strategy:_evaluating_online_information.md) — combines reading with credibility checks
-- [Reading Online Strategy: Formulating Effective Search Queries](../strategies/reading_online_strategy:_formulating_effective_search_queries.md) — supports pre-reading goal and query construction
+- [Reading Online Strategy: Evaluating Online Information](../strategies/reading_online_strategy-evaluating_online_information.md) — combines reading with credibility checks
+- [Reading Online Strategy: Formulating Effective Search Queries](../strategies/reading_online_strategy-formulating_effective_search_queries.md) — supports pre-reading goal and query construction
 - Guided webquests or hypertext tasks with note-taking and path-tracking prompts
 
 ## Key Sources

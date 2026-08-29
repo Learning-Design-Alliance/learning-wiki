@@ -4,33 +4,52 @@ site_url: https://learning-design-alliance.github.io/learning-wiki/
 repo_url: https://github.com/Learning-Design-Alliance/learning-wiki
 repo_name: Learning-Design-Alliance/learning-wiki
 edit_uri: ""
+copyright: Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0
 
 docs_dir: docs
 site_dir: site
 
 theme:
   name: material
+  logo: branding/lazuli-monogram-lapis.svg
+  favicon: branding/lazuli-favicon.svg
+  icon:
+    repo: fontawesome/brands/github
   palette:
     - scheme: default
-      primary: indigo
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
+    - navigation.indexes
+    - navigation.tracking
+    - navigation.path
+    - navigation.prune
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.prefetch
+    - toc.follow
     - search.suggest
     - search.highlight
+    - search.share
     - content.code.copy
+    - content.tooltips
+
+extra:
+  generator: false
+
+extra_css:
+  - branding/lazuli-theme.css
 
 plugins:
   - search:
@@ -38,9 +57,14 @@ plugins:
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - tables
   - toc:
       permalink: true
@@ -55,4 +79,3 @@ nav:
   - Claims: claims/index.md
   - Log: log.md
   - Schema & Guide: CLAUDE.md
-

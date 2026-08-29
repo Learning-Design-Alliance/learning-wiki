@@ -91,4 +91,7 @@ Pages use structured YAML frontmatter and follow strict templates. See [CLAUDE.m
 
 ## License
 
-Content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+This repo uses two licenses:
+
+- **Content** (`principles/`, `elements/`, `patterns/`, `strategies/`, `theories/`, `claims/`, `sources/`, `revisions/`, `index.md`, `log.md`) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — free to use and commercialize, with attribution, provided derivatives are shared under the same license. See [LICENSE](LICENSE).
+- **Code** (`scripts/` and other source files) is licensed under the [MIT License](https://opensource.org/licenses/MIT). See [LICENSE-CODE](LICENSE-CODE).

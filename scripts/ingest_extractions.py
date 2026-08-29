@@ -440,13 +440,44 @@ def main() -> None:
             print(f"  [SKIP] {article_id}: structural validation did not pass "
                   f"({validation.get('error_count', '?')} error(s)) — not ingesting any of "
                   f"this article's contributions", file=sys.stderr)
+            reason = None
+            if not args.dry_run:
+                if validation.get("parse_error"):
+                    reason = f"parse error: {validation['parse_error']}"
+                elif not validation.get("n_contributions"):
+                    reason = "no extractable contributions (out of scope or no learning-design content found)"
+                else:
+                    reason = f"{validation.get('error_count', '?')} structural validation error(s)"
+                ok.append_manifest_entry(
+                    source_id=article_id,
+                    title=record.get("article_title", ""),
+                    status="rejected",
+                    reason=reason,
+                )
+            # article_registry_entries feeds discover_articles.record_processed_articles()
+            # below (eval/corpus/processed_articles.json) — a separate, scraper-specific
+            # mechanism from the sources/manifest.ndjson append above: the manifest is a
+            # general append-only audit log (any pipeline, human-browsable on GitHub), this
+            # registry tracks `attempts` so a validation_failed article gets a bounded number
+            # of retries across future discovery batches instead of the manifest's flat
+            # "rejected" verdict treating it as permanent. Both stay populated in dry-run mode
+            # (matching pre-merge behavior) since the enclosing `if args.dry_run: return`
+            # below means neither ever actually gets persisted to disk in that case.
             article_registry_entries[article_id] = {
-                "outcome": "validation_failed", "run_id": args.run_id, "model": args.model, "pages": [],
+                "outcome": "validation_failed", "run_id": args.run_id, "model": args.model,
+                "pages": [], "reason": reason,
             }
             continue
         print(f"[{article_id}] {record.get('article_title', '')}")
         written = ingest_record(record, args.by, args.dry_run)
         all_written.extend(written)
+        if written and not args.dry_run:
+            ok.append_manifest_entry(
+                source_id=article_id,
+                title=record.get("article_title", ""),
+                status="ingested",
+                pages=[f"{folder}/{slug}.md" for folder, slug, *_ in written],
+            )
         article_registry_entries[article_id] = {
             "outcome": "ingested" if written else "no_new_pages",
             "run_id": args.run_id, "model": args.model,

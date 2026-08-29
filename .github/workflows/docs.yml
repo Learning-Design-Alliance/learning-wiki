@@ -29,14 +29,22 @@ jobs:
       - name: Set up docs directory
         run: |
           mkdir -p docs
-          for dir in principles elements patterns strategies theories claims; do
+          for dir in principles elements patterns strategies theories claims branding; do
             ln -s ../$dir docs/$dir
           done
           ln -s ../index.md docs/index.md
           ln -s ../CLAUDE.md docs/CLAUDE.md
           ln -s ../log.md docs/log.md
 
+      - name: Build docs site
+        run: mkdocs build
+
+      # Not `mkdocs gh-deploy` — that force-replaces the whole gh-pages branch history,
+      # which would wipe out the pr-preview/ subfolders that pr-preview.yml deploys there.
+      # keep_files: true leaves anything not part of this build (i.e. pr-preview/*) alone.
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          keep_files: true

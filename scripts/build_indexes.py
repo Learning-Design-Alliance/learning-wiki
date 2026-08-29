@@ -97,6 +97,35 @@ def bullet(page_type: str, p: dict) -> str:
     return line
 
 
+LETTER_GROUP_THRESHOLD = 60  # sections larger than this get an A-Z jump bar instead of one long list
+
+
+def render_entries(page_type: str, entries: list[dict]) -> list[str]:
+    """Render a list of page bullets, breaking into an A-Z jump bar + lettered
+    subsections once a section gets too long to scan (Wikipedia-style "List of..." pages)."""
+    if len(entries) <= LETTER_GROUP_THRESHOLD:
+        return [bullet(page_type, p) for p in entries]
+
+    groups: dict[str, list[dict]] = {}
+    for p in entries:
+        first = p["title"][:1].upper()
+        key = first if first.isalpha() else "#"
+        groups.setdefault(key, []).append(p)
+
+    letters = sorted(groups, key=lambda k: (k == "#", k))  # letters A-Z, then "#" last
+    anchor = lambda k: "letter-num" if k == "#" else f"letter-{k.lower()}"
+
+    lines = ["Jump to: " + " · ".join(f"[{k}](#{anchor(k)})" for k in letters), ""]
+    for k in letters:
+        heading = "0-9 & Other" if k == "#" else k
+        lines.append(f"#### {heading} {{: #{anchor(k)} }}")
+        lines.append("")
+        for p in groups[k]:
+            lines.append(bullet(page_type, p))
+        lines.append("")
+    return lines
+
+
 def build_folder_index(page_type: str, config: dict) -> str:
     folder = WIKI_ROOT / page_type
     pages = [get_page_meta(p) for p in sorted(folder.glob("*.md")) if p.stem != "index"]
@@ -153,7 +182,12 @@ def build_folder_index(page_type: str, config: dict) -> str:
                 "Create a file in `sources/` using the Source template in [CLAUDE.md](../CLAUDE.md).\n\n"
                 "Source pages are created when a claim or principle cites a specific paper or book. "
                 "Each source page needs: full citation, DOI/URL, a 2–4 sentence summary, "
-                "and links to claim pages the source supports."
+                "and links to claim pages the source supports.\n\n"
+                "## Source manifest\n\n"
+                "Every source the ingest pipeline has reviewed — ingested or rejected — is recorded in "
+                "[`sources/manifest.ndjson`](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/sources/manifest.ndjson), "
+                "separately from these optional per-source pages. It's plain data (one JSON object per line), "
+                "not rendered here — see CLAUDE.md's Source Manifest section for the schema and how to query it."
             ),
         }
         guidance = empty_guidance.get(
@@ -177,20 +211,26 @@ def build_folder_index(page_type: str, config: dict) -> str:
                 continue
             lines.append(f"## {status_label}")
             lines.append("")
-            for p in by_status[status_key]:
-                lines.append(bullet(page_type, p))
+            lines.extend(render_entries(page_type, by_status[status_key]))
             lines.append("")
     else:
         lines.append("## All Entries")
         lines.append("")
-        for p in pages:
-            lines.append(bullet(page_type, p))
+        lines.extend(render_entries(page_type, pages))
         lines.append("")
 
     return "\n".join(lines)
 
 
 def build_root_index(counts: dict) -> str:
+    type_links = []
+    for page_type in ROOT_INDEX_TYPES:
+        config = PAGE_TYPES.get(page_type, {})
+        label = config.get("label", page_type.title())
+        count = counts.get(page_type, {}).get("total", 0)
+        type_links.append(f"[{label}]({page_type}/index.md) ({count})")
+    type_line = ", ".join(type_links[:-1]) + f", and {type_links[-1]}"
+
     lines = [
         "---",
         'okf_version: "0.2"',
@@ -198,34 +238,18 @@ def build_root_index(counts: dict) -> str:
         "",
         "# Learning Design Wiki",
         "",
-        "A persistent, LLM-maintained knowledge base for learning design. "
+        "A persistent, LLM-maintained knowledge base for learning design: "
+        f"{type_line} — cross-linked and evidence-tagged. "
         "Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.",
         "",
-        "---",
-        "",
-        "## Knowledge Types",
-        "",
-    ]
-
-    for page_type in ROOT_INDEX_TYPES:
-        config = PAGE_TYPES.get(page_type, {})
-        label = config.get("label", page_type.title())
-        desc = config.get("description", "")
-        count = counts.get(page_type, {}).get("total", 0)
-        stable = counts.get(page_type, {}).get("stable", 0)
-        lines.append(f"### [{label}]({page_type}/index.md) ({count})")
-        lines.append(f"{desc}")
-        if stable:
-            lines.append(f"*{stable} stable*")
-        lines.append("")
-
-    lines += [
         "---",
         "",
         "## Quick navigation",
         "",
         "* [Ingest & edit log](log.md)",
         "* [Schema & agent guide](CLAUDE.md)",
+        "* [Source manifest](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/sources/manifest.ndjson) "
+        "— every source article reviewed, ingested or rejected (plain NDJSON, not a wiki page — browse on GitHub or grep it)",
         "",
         "## How to use this wiki",
         "",

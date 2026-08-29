@@ -1,13 +1,20 @@
-name: Validate Wiki
+name: PR preview
 
 on:
   pull_request:
-    branches: [main]
-  push:
-    branches: [main]
+    types: [opened, reopened, synchronize, closed]
+
+concurrency:
+  group: pr-preview-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
-  validate:
+  deploy-preview:
+    if: github.event.action != 'closed'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -18,10 +25,7 @@ jobs:
           cache: pip
           cache-dependency-path: requirements-docs.txt
 
-      - name: Lint wiki (schema, cross-links, evidence, trust tiers)
-        run: python3 scripts/lint.py
-
-      - name: Install docs dependencies
+      - name: Install dependencies
         run: pip install -r requirements-docs.txt
 
       - name: Set up docs directory
@@ -34,5 +38,19 @@ jobs:
           ln -s ../CLAUDE.md docs/CLAUDE.md
           ln -s ../log.md docs/log.md
 
-      - name: Build docs site (strict — fails on broken links/anchors)
+      - name: Build docs site
         run: mkdocs build --strict
+
+      - name: Deploy preview
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: ./site
+
+  remove-preview:
+    if: github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Remove preview
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          action: remove

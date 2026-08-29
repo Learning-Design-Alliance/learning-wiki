@@ -2,17 +2,16 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**1629 entries** · 0 stable · 1629 in review · 0 drafts
+**1629 entries** · 0 stable · 1628 in review · 1 drafts
 
 ---
 
 ## In Review
 
-* ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) - Students use the EQ Feeling Chart to identify their feelings.
-* [3-Source Rule](3-source_rule.md) - When students are doing online research in her class, Je Hen enforces the three-source rule.
-* [5-Minute Writing Conferences](5-minute_writing_conferences.md) - This strategy involves conducting brief, targeted conferences with each student to provide personalized feedback on their writing.
-* [\"Document Outline\" Tool]("document_outline"_tool.md) - Students use the \"Document outline\" tool in Google Docs to extract evidence supporting the main ideas they've found in a text.
-* [\"Headings and Highlight\" Strategy]("headings_and_highlight"_strategy.md) - The \"Headings and Highlight\" Strategy is a digital reading technique designed to slow down reading and encourage dialogue.
+Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [Y](#letter-y) · [Z](#letter-z) · [#](#letter-num)
+
+#### A {: #letter-a }
+
 * [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) - A set of questions to determine the credibility of a news story.
 * [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) - Academic Choice empowers learners by providing them with options in their learning and involves a three-phase process: planning, working, and reflecting.
 * [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) - This strategy involves accepting what happened after processing emotions, taking responsibility for any wrong actions, and sharing feelings and experiences with others involved.
@@ -101,6 +100,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Augmented Reality (AR) in Classroom](augmented_reality_(ar)_in_classroom.md) - Augmented reality can be used to turn an ordinary class into an engaging experience.
 * [Awareness of Implicit Biases](awareness_of_implicit_biases.md) - This involves recognizing and addressing unconscious attitudes, stereotypes, and categories that affect behavior and understanding, particularly in the context of education.
 * [Awareness of Self-Talk](awareness_of_self-talk.md) - Creating awareness of self-talk involves understanding what self-talk is, how it impacts confidence and self-esteem, and identifying it in real-life situations.
+
+#### B {: #letter-b }
+
 * [Backchannel Discussions](backchannel_discussions.md) - A backchannel is a conversation that happens right alongside another activity.
 * [Background Knowledge Activation](background_knowledge_activation.md) - Before engaging in text-based discussions, instructors activate learners' background knowledge related to the text's setting and themes.
 * [Badges](badges.md) - Badges are a digital way to acknowledge learner work.
@@ -109,7 +111,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Balancing Homework with Physical Activity](balancing_homework_with_physical_activity.md) - Encourage children to balance homework with physical activity by talking to teachers, setting up standing desks, and breaking up long periods of sitting with short bursts of physical activity.
 * [Balancing Screen Time with Physical Activity](balancing_screen_time_with_physical_activity.md) - Promote a balance between screen time and physical activity by encouraging children to use screens for active purposes, such as making nature documentaries, videoing sports skills, or playing video dance games.
 * [Ball Toss Game](ball_toss_game.md) - A simple game involving tossing a ball, often used with preschoolers to develop counting skills.
-* [Barometer: Taking a Stand on Controversial Issues](barometer:_taking_a_stand_on_controversial_issues.md) - In this activity, learners express opinions by standing along a continuum labeled with 'Strongly Agree' and 'Strongly Disagree.' After taking a stand, learners explain their positions, referring to evidence and examples.
+* [Barometer: Taking a Stand on Controversial Issues](barometer-taking_a_stand_on_controversial_issues.md) - In this activity, learners express opinions by standing along a continuum labeled with 'Strongly Agree' and 'Strongly Disagree.' After taking a stand, learners explain their positions, referring to evidence and examples.
 * [Be Present for Students](be_present_for_students.md) - When students talk openly about race, they can feel some anxiety.
 * [Before or After-School Physical Activity Programs](before_or_after-school_physical_activity_programs.md) - Offer structured physical activity programs before or after school, such as morning exercises, intramural sports, or opening school facilities for recreational use.
 * [Behavioral Shadowing](behavioral_shadowing.md) - An adult shadows a child closely (within arm's reach) to prevent specific harmful behaviors (e.g., biting, hitting) before they occur.
@@ -120,13 +122,13 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Blackout Conversation](blackout_conversation.md) - Students transform conversational text selections into poetry by blacking out sections to reveal only key terms and phrases, focusing on the meaning, nuances, and silences of each character's dialogue.
 * [Blended Learning](blended_learning.md) - Blended learning combines face-to-face instruction with online learning through an LMS, offering the advantages of direct interaction and the convenience of eLearning.
 * [Block Play](block_play.md) - Block play involves using blocks to create structures and designs, either independently or collaboratively.
-* [Blocks and Legos: Maker Spaces and Fab Labs](blocks_and_legos:_maker_spaces_and_fab_labs.md) - Maker spaces and fab labs provide learners with opportunities to invent, design, and build things.
+* [Blocks and Legos: Maker Spaces and Fab Labs](blocks_and_legos-maker_spaces_and_fab_labs.md) - Maker spaces and fab labs provide learners with opportunities to invent, design, and build things.
 * [Body Scan Meditation](body_scan_meditation.md) - Incorporate a body scan meditation to bring calmness and awareness to the classroom, maximizing students’ potential.
 * [Body Scan Meditation Check-In](body_scan_meditation_check-in.md) - Students participate in a guided body scan meditation to bring calmness and awareness into the classroom.
 * [Bolster Credibility](bolster_credibility.md) - Did the writer engage with anyone who disagrees?
 * [Book Clubs](book_clubs.md) - Book clubs are small groups of learners who choose, read, and discuss a shared text.
 * [Book Clubs / Literature Circles](book-clubs-literature-circles.md) - Book clubs, also known as literature circles, are a grouping system to organize active learning events based on student-selected areas of interest.
-* [BOOKMATCH: Scaffolding Independent Book Selection](bookmatch:_scaffolding_independent_book_selection.md) - BOOKMATCH is a tool for helping students select just-right books for independent reading.
+* [BOOKMATCH: Scaffolding Independent Book Selection](bookmatch-scaffolding_independent_book_selection.md) - BOOKMATCH is a tool for helping students select just-right books for independent reading.
 * [Boolean Operators](boolean_operators.md) - For older students, teach them Boolean Operators (and, or, not, near, ( ), *) to better refine their searches.
 * [Bounce Cards](bounce_cards.md) - Bounce cards provide a structured way for students to engage in cooperative learning by promoting active listening, turn-taking, and perspective sharing.
 * [Braille Texts for Literacy Development](braille_texts_for_literacy_development.md) - Braille texts are used to build literacy skills such as decoding and syntax.
@@ -163,6 +165,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Building Community Through Peer Feedback in PBL](building_community_through_peer_feedback_in_pbl.md) - Building community through peer feedback involves giving students opportunities to frequently share feedback and revise their work.
 * [Building Cultural Competency Skills for School Staff](building_cultural_competency_skills_for_school_staff.md) - Training staff in behaviors, attitudes, and policies that enable effective cross-cultural relationships.
 * [Building Trusting Relationships](building_trusting_relationships.md) - Prioritizing building relationships with learners can create a supportive and safe learning environment.
+
+#### C {: #letter-c }
+
 * [Call-and-Response](call-and-response.md) - Call-and-response involves the instructor initiating a phrase or word, and the students responding with a pre-determined phrase or word.
 * [Calm and Honest Reflection](calm_and_honest_reflection.md) - After feeling and expressing emotions related to a mistake, engaging in calm and honest reflection involves asking oneself what happened and what triggered those feelings.
 * [Calm-Down Corner](calm-down_corner.md) - Dedicated, positive space where learners practice emotional regulation skills.
@@ -254,7 +259,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Compassionate Curiosity](compassionate_curiosity.md) - Act as a non-judgmental investigator to better understand students and respond with empathy.
 * [Complete Scripts of Academic Routines](complete_scripts_of_academic_routines.md) - Provide scaffolding, like speech examples, for discourse routines that may not be obvious to learners.
 * [Complex Instruction](complex_instruction.md) - A pedagogy that redefines who is 'smart' by utilizing multi-ability access points, norms and roles that support interdependency between learners, and attention to status and accountability for learning.
-* [Composition Projects: Multimodal](composition_projects:_multimodal.md) - For adolescent learners, the Composition process can become more robust, as learners begin to express ideas through multiple media, which includes visual, audio, and digital production.
+* [Composition Projects: Multimodal](composition_projects-multimodal.md) - For adolescent learners, the Composition process can become more robust, as learners begin to express ideas through multiple media, which includes visual, audio, and digital production.
 * [Compound Word Study](compound_word_study.md) - Begin teaching how to spell multisyllable words by beginning with compounds.
 * [Comprehension Checks](comprehension_checks.md) - During reading activities, instructors periodically check for understanding by asking questions.
 * [Comprehension Monitoring](comprehension_monitoring.md) - This strategy involves the ability of readers to know when they understand what they read and to use strategies to improve their understanding when it is blocked.
@@ -354,6 +359,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Cursive Handwriting Activities](cursive_handwriting_activities.md) - Activities designed to teach and practice cursive handwriting, which can be beneficial for students who struggle with pencil control and letter formation.
 * [Customizable Display of Information](customizable_display_of_information.md) - Providing adjustable settings and accessible formats to accommodate individual needs and preferences.
 * [Customizing Display of Information](customizing_display_of_information.md) - Customizing the display of information involves modifying the appearance of digital content to reduce reading effort and improve comprehension.
+
+#### D {: #letter-d }
+
 * [Daily Class Schedules](daily_class_schedules.md) - Structuring the school day with specific time allocations for various subjects and activities.
 * [Daily Math Facts Practice](daily_math_facts_practice.md) - Beginning each math lesson with spaced practice to review arithmetic facts.
 * [Daily Review](daily_review.md) - Daily review is a strategy where instructors begin lessons with a short (5-10 minute) review of previously studied material.
@@ -392,17 +400,17 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Digital Storytelling](digital_storytelling.md) - Digital stories are multimedia narratives that combine various elements such as photographs, video, animation, sound, music, text, and a narrative voice.
 * [Digital Tips for Quick and Thoughtful Peer Feedback](digital_tips_for_quick_and_thoughtful_peer_feedback.md) - Using digital tools to facilitate peer feedback can make the process easier and more efficient.
 * [Digital Word Detectives](digital_word_detectives.md) - Students read e-books and use digital tools (dictionaries and notes) to support their development of vocabulary.
-* [Digital Word Detectives: Building Vocabulary With e-Book Readers](digital_word_detectives:_building_vocabulary_with_e-book_readers.md) - Students read e-books and use digital tools (dictionaries and notes) to support their vocabulary development.
+* [Digital Word Detectives: Building Vocabulary With e-Book Readers](digital_word_detectives-building_vocabulary_with_e-book_readers.md) - Students read e-books and use digital tools (dictionaries and notes) to support their vocabulary development.
 * [Dim or Natural Lighting](dim_or_natural_lighting.md) - Using dim or natural lighting in classrooms or learning spaces to promote a calm and focused environment.
 * [Dimensions of Critical Evaluation](dimensions_of_critical_evaluation.md) - Talk with learners about the multiple dimensions of critical evaluation, including: Relevance (importance to a reading purpose), Accuracy (factual and updated details that can be verified), Bias/Perspective (author's position or slant),…
 * [Direct Instruction (Online)](direct_instruction_(online).md) - Direct instruction in online learning involves pre-developed presentations, assessing student work and providing instructive feedback, diagnosing misconceptions, clarifying concepts, and referring students to additional resources or…
-* [Direct Instruction: Genre-specific Writing Strategies](direct_instruction:_genre-specific_writing_strategies.md) - Direct instruction of genre-specific writing strategies involves explicitly teaching the characteristics and conventions of different writing genres to enhance students' understanding and skills in both reading and writing.
-* [Direct Instruction: Keyword Search](direct_instruction:_keyword_search.md) - Explicit instruction in keyword search strategies involves teaching learners how to effectively select and combine keywords to refine search queries and retrieve relevant information from the internet.
-* [Direct Instruction: Patterning](direct_instruction:_patterning.md) - Direct instruction of patterning skills involves teaching learners to identify and create patterns using various mediums such as colors, sizes, shapes, sounds, and numbers.
-* [Direct Instruction: Phonics](direct_instruction:_phonics.md) - Direct Phonics instruction connects letters to sounds to decode and comprehend text.
-* [Direct Instruction: Problem-solving Strategies](direct_instruction:_problem-solving_strategies.md) - Instructors teach and model various strategies for tackling problems, then give learners the opportunity to choose which strategies they use and reflect on the outcomes of their choices.
-* [Direct Instruction: Spelling](direct_instruction:_spelling.md) - Direct instruction in spelling involves explicitly teaching spelling patterns, high-frequency words, and strategies for addressing frequently misspelled words.
-* [Direct Instruction: Web-based Reading Strategies](direct_instruction:_web-based_reading_strategies.md) - Research shows that, along with traditional reading comprehension strategies, students use unique strategies to read the non-linear, hyperlinked structure of online texts.
+* [Direct Instruction: Genre-specific Writing Strategies](direct_instruction-genre-specific_writing_strategies.md) - Direct instruction of genre-specific writing strategies involves explicitly teaching the characteristics and conventions of different writing genres to enhance students' understanding and skills in both reading and writing.
+* [Direct Instruction: Keyword Search](direct_instruction-keyword_search.md) - Explicit instruction in keyword search strategies involves teaching learners how to effectively select and combine keywords to refine search queries and retrieve relevant information from the internet.
+* [Direct Instruction: Patterning](direct_instruction-patterning.md) - Direct instruction of patterning skills involves teaching learners to identify and create patterns using various mediums such as colors, sizes, shapes, sounds, and numbers.
+* [Direct Instruction: Phonics](direct_instruction-phonics.md) - Direct Phonics instruction connects letters to sounds to decode and comprehend text.
+* [Direct Instruction: Problem-solving Strategies](direct_instruction-problem-solving_strategies.md) - Instructors teach and model various strategies for tackling problems, then give learners the opportunity to choose which strategies they use and reflect on the outcomes of their choices.
+* [Direct Instruction: Spelling](direct_instruction-spelling.md) - Direct instruction in spelling involves explicitly teaching spelling patterns, high-frequency words, and strategies for addressing frequently misspelled words.
+* [Direct Instruction: Web-based Reading Strategies](direct_instruction-web-based_reading_strategies.md) - Research shows that, along with traditional reading comprehension strategies, students use unique strategies to read the non-linear, hyperlinked structure of online texts.
 * [Discipline-Specific Literacy](discipline-specific_literacy.md) - Discipline-specific literacy involves teaching reading, writing, speaking, and thinking skills unique to each subject area.
 * [Discipline-Specific Reading](discipline-specific_reading.md) - Have students read articles from subject-specific columns and publications.
 * [Discuss the Benefits of Positive Self-Talk](discuss_the_benefits_of_positive_self-talk.md) - Openly communicating what self-talk is and how it can help.
@@ -443,6 +451,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Drawing for Memory and Learning](drawing_for_memory_and_learning.md) - Drawing is used as a learning and memory tool.
 * [Dual Color Highlighting](dual_color_highlighting.md) - Dual color highlighting is a feature within text-to-speech software that highlights words being read aloud in one color (e.g., yellow) while highlighting the sentence in another color.
 * [Dynamically Introduce Academic Vocabulary](dynamically_introduce_academic_vocabulary.md) - Use repeated encounters with a word in various authentic contexts to help learners internalize the definition.
+
+#### E {: #letter-e }
+
 * [E.S.C.A.P.E. Junk News](e.s.c.a.p.e._junk_news.md) - A handy acronym to help students remember six key concepts for evaluating information.
 * [Easy-Access Educational Tools](easy-access_educational_tools.md) - Making educational tools readily available to students supports self-advocacy by fostering independence and choice.
 * [Education Calendars](education_calendars.md) - Education calendars are visual aids designed to keep students, parents, and teachers informed about important dates, events, and activities.
@@ -536,11 +547,11 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Explicit Discussions of Perspectives](explicit_discussions_of_perspectives.md) - Facilitating structured conversations where learners explore multiple viewpoints and consider how different individuals might experience the same event.
 * [Explicit Instruction in Self-Advocacy and Self-Determination](explicit_instruction_in_self-advocacy_and_self-determination.md) - Providing explicit instruction for students to develop the skills associated with self-advocacy and self-determination involves teaching and encouraging them to empower themselves by understanding their needs and rights, communicating…
 * [Explicit Instruction on Book Selection and Care](explicit_instruction_on_book_selection_and_care.md) - Teach learners how to select appropriate independent reading books, care for them, understand expectations for their reading work, and follow library maintenance procedures.
-* [Explicit Instruction: Argumentation with Evidence](explicit_instruction:_argumentation_with_evidence.md) - This instructional strategy involves directly teaching learners how to construct arguments and support claims with evidence, particularly in online settings.
-* [Explicit Instruction: Decoding](explicit_instruction:_decoding.md) - Explicit instruction in decoding involves providing direct and systematic teaching of phonics and word recognition skills.
-* [Explicit Instruction: Handwriting](explicit_instruction:_handwriting.md) - Direct teaching approach to handwriting, breaking down essential components like letter formation, size, and spacing.
-* [Explicit Instruction: Spelling](explicit_instruction:_spelling.md) - Explicit spelling instruction involves directly teaching spelling rules, patterns, and strategies rather than relying solely on incidental learning or discovery.
-* [Explicit Instruction: Writing Strategies](explicit_instruction:_writing_strategies.md) - Explicit instruction in writing strategies involves directly teaching students specific methods for planning, drafting, revising, and editing their work.
+* [Explicit Instruction: Argumentation with Evidence](explicit_instruction-argumentation_with_evidence.md) - This instructional strategy involves directly teaching learners how to construct arguments and support claims with evidence, particularly in online settings.
+* [Explicit Instruction: Decoding](explicit_instruction-decoding.md) - Explicit instruction in decoding involves providing direct and systematic teaching of phonics and word recognition skills.
+* [Explicit Instruction: Handwriting](explicit_instruction-handwriting.md) - Direct teaching approach to handwriting, breaking down essential components like letter formation, size, and spacing.
+* [Explicit Instruction: Spelling](explicit_instruction-spelling.md) - Explicit spelling instruction involves directly teaching spelling rules, patterns, and strategies rather than relying solely on incidental learning or discovery.
+* [Explicit Instruction: Writing Strategies](explicit_instruction-writing_strategies.md) - Explicit instruction in writing strategies involves directly teaching students specific methods for planning, drafting, revising, and editing their work.
 * [Explicit or Direct Instruction](explicit_or_direct_instruction.md) - Explicit instruction is a structured teaching approach where instructors make goals, objectives, expectations, and instructional content explicit.
 * [Explicit Strategy Instruction](explicit_strategy_instruction.md) - Explicitly teaching strategies involves providing learners with specific tools and techniques to solve problems and improve their learning.
 * [Explicit Teacher Modeling](explicit_teacher_modeling.md) - Explicit teacher modeling involves the teacher both describing and modeling a skill or concept.
@@ -557,6 +568,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Expressive Writing](expressive_writing.md) - Expressive writing involves putting thoughts and feelings into words, often focusing on emotionally charged or stressful experiences.
 * [Extended Writing Opportunities](extended_writing_opportunities.md) - Extended writing opportunities involve providing learners with regular practice in writing to enhance their skills.
 * [Extension Projects for Advanced Students](extension_projects_for_advanced_students.md) - Challenge advanced learners with real-world extension projects that apply their knowledge in meaningful ways.
+
+#### F {: #letter-f }
+
 * [Facilitating Discourse (Online)](facilitating_discourse_(online).md) - Facilitating discourse in online learning involves more than simply requiring students to post in a discussion forum.
 * [Facilitating Learning](facilitating_learning.md) - Teachers should redirect their role in the classroom from instructor to facilitator to reduce the power differential between the instructor and students.
 * [Fair Communication Anchor Charts](fair_communication_anchor_charts.md) - Displaying anchor charts outlining fair communication protocols for class discussions and/or projects requiring teamwork involves creating visual aids that articulate the rules and expectations for respectful and inclusive communication.
@@ -564,7 +578,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Familiar, Repetitive Tasks](familiar,_repetitive_tasks.md) - Providing learners with familiar, quiet, and repetitive fine motor and visual tasks to complete at the beginning of the day or during transition times to promote calmness and focus.
 * [Family Book Club](family_book_club.md) - Choose a book that is representative of your students and in their home language if possible.
 * [Family Engagement](family_engagement.md) - Family engagement is a practice in which families and school personnel collaborate to support and improve the learning and development of children.
-* [Family Engagement: Supporting Children with Disabilities](family_engagement:_supporting_children_with_disabilities.md) - Family engagement is a practice in which families and school personnel collaborate to support and improve the learning and development of children, including those with disabilities.
+* [Family Engagement: Supporting Children with Disabilities](family_engagement-supporting_children_with_disabilities.md) - Family engagement is a practice in which families and school personnel collaborate to support and improve the learning and development of children, including those with disabilities.
 * [Faux-Flipped Classroom](faux-flipped_classroom.md) - This is a specific model targeting young learners.
 * [Feed Up, Feed Back, Feed Forward Model](feed_up,_feed_back,_feed_forward_model.md) - The Feed Up, Feed Back, Feed Forward Model is a structured approach to providing effective feedback.
 * [Feedback Format](feedback_format.md) - Feedback can be delivered in various formats, including written, verbal, or video.
@@ -580,7 +594,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Find the Total](find_the_total.md) - Learners are shown two dot cards and asked to find the total number of dots.
 * [Finger Speed-Differences](finger_speed-differences.md) - Same as speed-sums, except whoever find the difference between the two numbers first wins.
 * [Finger Speed-Sums](finger_speed-sums.md) - Students meet in pairs with one hand behind their back.
-* [Finger-Painting: Arts Integration](finger-painting:_arts_integration.md) - Integrating arts like fiction writing, dance, drama, graphic design, music, drawing, painting, or ceramics into all subjects helps learners learn and find their talents and interests.
+* [Finger-Painting: Arts Integration](finger-painting-arts_integration.md) - Integrating arts like fiction writing, dance, drama, graphic design, music, drawing, painting, or ceramics into all subjects helps learners learn and find their talents and interests.
 * [Fishbowl](fishbowl.md) - Two learners sit facing each other in the center of the room; the remaining learners sit in a circle around them.
 * [Fishbowl Discussion](fishbowl_discussion.md) - Fishbowl is a strategy for facilitating group discussions.
 * [Fist Tapping & Arm Tapping](fist_tapping_&_arm_tapping.md) - Fist tapping and arm tapping are multisensory spelling strategies that involve tapping out the syllables and sounds of words.
@@ -610,7 +624,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Four Moves](four_moves.md) - If you have time to scroll Facebook or watch the news, you probably have a moment to decide if a news story seems credible.
 * [Four Moves and a Habit](four_moves_and_a_habit.md) - A framework for fact-checking that includes four key moves: Check for previous work, go upstream to find the source, read laterally, and circle back.
 * [Free Choice Time](free_choice_time.md) - Provide learners with the autonomy to select their learning activities, mirroring the self-directed learning seen in preschool environments.
-* [Free Choice Time: Student-Directed Learning](free_choice_time:_student-directed_learning.md) - Providing learners with choice in activities promotes engagement, responsibility, and independence.
+* [Free Choice Time: Student-Directed Learning](free_choice_time-student-directed_learning.md) - Providing learners with choice in activities promotes engagement, responsibility, and independence.
 * [Free Graphing Calculator App](free_graphing_calculator_app.md) - An awesome app with an intuitive, user-friendly interface that works more as a tool to do complex calculations.
 * [Free Math Worksheets](free_math_worksheets.md) - Free math worksheets provide accessible and structured practice materials to support math learning.
 * [Free Play](free_play.md) - Free play is a child-led activity where learners explore and develop skills through self-directed interactions with their environment and peers.
@@ -619,6 +633,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Frustration and Stress Prevention/Reduction Techniques](frustration-and-stress-prevention-reduction-techniques.md) - Educators should practice techniques to prevent/reduce their stress and frustration.
 * [Fry Word Lists](fry_word_lists.md) - The Fry word list contains 1,000 high-frequency words divided into ten levels, further split into groups of twenty-five words based on frequency and difficulty.
 * [Functional Wall Displays](functional_wall_displays.md) - Using walls for bulletin boards displaying student work and curricular supports, such as a word wall or math posters, makes resources easily accessible during instruction.
+
+#### G {: #letter-g }
+
 * [Gain Attention Before Giving Instructions](gain_attention_before_giving_instructions.md) - Use techniques such as clapping or knocking to signal students to stop, look, and listen before giving instructions.
 * [Gallery Quote Walk](gallery_quote_walk.md) - Students pick a quote that expresses how they feel in the moment.
 * [Gallery Quote Walk Check-In](gallery_quote_walk_check-in.md) - Students read displayed quotes and choose one that reflects their current feelings.
@@ -635,7 +652,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Give Prompt Feedback](give_prompt_feedback.md) - Knowing what you know and don’t know focuses learning.
 * [Goal Setting for Writing](goal_setting_for_writing.md) - Setting clear goals for writing, encouraging peer support, self-assessment, and providing feedback on progress.
 * [GoNoodle Activities](gonoodle_activities.md) - GoNoodle provides interactive videos that encourage learners to engage in movement and play, supporting attention and learning.
-* [GoNoodle: Physical Activity & Movement Breaks](gonoodle:_physical_activity_&_movement_breaks.md) - GoNoodle offers videos and activities to encourage physical activity and movement breaks through gestures and movement.
+* [GoNoodle: Physical Activity & Movement Breaks](gonoodle-physical_activity_&_movement_breaks.md) - GoNoodle offers videos and activities to encourage physical activity and movement breaks through gestures and movement.
 * [Good Tutee-Tutor Contact](good_tutee-tutor_contact.md) - Regular contact between tutees and tutors is part of the tutoring process, increasing tutee motivation and involvement.
 * [Grade Students Based on Demonstrated Learning](grade_students_based_on_demonstrated_learning.md) - Instead of averaging scores over time, emphasize grading students on their ultimate level of mastery at the end of a unit.
 * [Gradual Increase of Independent Reading Time](gradual_increase_of_independent_reading_time.md) - Start with short independent reading sessions and gradually increase the amount of time as students build reading stamina.
@@ -669,6 +686,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Guided Inquiry](guided_inquiry.md) - Guided inquiry is an educational approach that blends inquiry activities with direct instruction.
 * [Guided Peer Response using PeerMark™](guided_peer_response_using_peermark™.md) - Guided peer response using Turnitin PeerMark™ involves instructors pre-setting specific questions for learners to answer when providing feedback to their peers.
 * [Guided Play](guided_play.md) - Guided play combines the child-directed aspects of free play with intentional learning goals through light adult scaffolding.
+
+#### H {: #letter-h }
+
 * [Have explicit conversations about emotions and social issues, including issues of social justice](have_explicit_conversations_about_emotions_and_social_issues,_including_issues_of_social_justice.md) - Integrate direct instruction on understanding and managing emotions, as well as discussing relevant social issues, including social justice, to promote social awareness and emotional intelligence.
 * [Headings and Highlight Strategy](headings_and_highlight_strategy.md) - Students read an excerpt of a difficult article in Google Docs.
 * [Health and Dietary Planning](health_and_dietary_planning.md) - Tasks involve studying the food pyramid, learning about daily requirements, and planning food for one day.
@@ -692,6 +712,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [How Many Are Hiding?](how_many_are_hiding?.md) - An activity where children have cubes and a cup.
 * [How Spelling Supports Reading](how_spelling_supports_reading.md) - Instruction on the relationship between spelling and reading.
 * [Hyperlinked Teaching](hyperlinked_teaching.md) - Hyperlinked teaching provides students with direct avenues for further inquiry and exploration.
+
+#### I {: #letter-i }
+
 * [I Wonder Journals](i_wonder_journals.md) - At Crellin Elementary School in Oakland, Maryland, teachers encouraged students to ask “I wonder” questions to push their learning beyond the classroom.
 * [Identify Feelings](identify_feelings.md) - Students identify, label, or match facial expressions and feelings.
 * [Identify Key Background Knowledge in Math Problems](identify_key_background_knowledge_in_math_problems.md) - Identify what kinds of background knowledge learners need to understand a math problem.
@@ -706,7 +729,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Illustrate Through Multiple Media](illustrate_through_multiple_media.md) - Making learning come alive with simulations, graphics, activities, and videos engages learners in a variety of ways and enhances comprehension.
 * [Illustration Through Multiple Media](illustration_through_multiple_media.md) - Making learning come alive with simulations, graphics, activities, and videos.
 * [Implement Measures for Student Self-Knowledge](implement_measures_for_student_self-knowledge.md) - Implementing measures for student self-knowledge involves using various tools and strategies to help students understand their strengths, interests, and areas for growth.
-* [Implicit Instruction: Vocabulary](implicit_instruction:_vocabulary.md) - Implicit vocabulary instruction involves teaching vocabulary “in the moment” by providing quick explanations and leveraging heavy context, usually with Tier III words.
+* [Implicit Instruction: Vocabulary](implicit_instruction-vocabulary.md) - Implicit vocabulary instruction involves teaching vocabulary “in the moment” by providing quick explanations and leveraging heavy context, usually with Tier III words.
 * [Implicit Vocabulary Instruction](implicit_vocabulary_instruction.md) - Implicit vocabulary instruction involves teaching words 'in the moment' using heavy context, often with Tier III words.
 * [Impressions First](impressions_first.md) - Before diving into specifics, encourage students to share their initial impressions of the mentor text.
 * [Improve Classroom Air Quality](improve_classroom_air_quality.md) - Poor indoor air quality is a major contributor to absenteeism.
@@ -766,11 +789,17 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Involving Students in Classroom Redesign](involving_students_in_classroom_redesign.md) - Involving learners in the process of designing and transforming their learning environment can create a space that better meets their needs and preferences.
 * [Irregular Anglo-Saxon Word Instruction](irregular_anglo-saxon_word_instruction.md) - Teaching methods for irregular words include: grouping words with some memorable similarity, calling attention to the odd part of the word that must be learned by heart, using a multisensory memory strategy that gives the students many…
 * [Islamic Geometry Exploration](islamic_geometry_exploration.md) - Exploring Islamic geometry with students centers on exploration, joy, and solidarity.
+
+#### J {: #letter-j }
+
 * [Jigsaw](jigsaw.md) - In the Jigsaw method, learners are divided into 'expert groups' to master a specific portion of the material and then regroup to teach that material to their peers.
 * [Journal Reflections](journal_reflections.md) - Students think back on their experiences and outcomes to gain a greater understanding of themselves.
 * [Journal Reflections for Self-Awareness](journal_reflections_for_self-awareness.md) - This strategy involves having students think back on their experiences and outcomes and then record them in a journal.
 * [Journaling for Metacognitive Awareness](journaling_for_metacognitive_awareness.md) - Journaling involves writing or recording thoughts and feelings to develop metacognitive awareness and build self-regulation skills.
 * [Journaling for Self-Reflection](journaling_for_self-reflection.md) - Journaling strategies include instructional practices that promote self-reflection along with tips for teachers in providing productive feedback.
+
+#### K {: #letter-k }
+
 * [Kagan Cooperative Learning Strategies](kagan_cooperative_learning_strategies.md) - Implement Kagan Cooperative Learning Strategies to encourage active participation and engagement in learning.
 * [Keep Instructions Concise](keep_instructions_concise.md) - Avoid lengthy instructions, especially for learners with low English proficiency.
 * [Keep Your Love of Teaching](keep_your_love_of_teaching.md) - Continue creating engaging projects and lessons and keep enjoying the students.
@@ -780,6 +809,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Know Your Own Perspectives](know_your_own_perspectives.md) - Reflect deeply on your own attitudes and beliefs and how they may impact your opinions and actions.
 * [KWL Chart](kwl_chart.md) - A KWL chart is a graphic organizer used to structure a lesson by tapping into what students already Know (K), what they Want to know (W), and what they have Learned (L) about a topic.
 * [KWL Charts](kwl_charts.md) - KWL (Know, Want to know, Learned) charts are advance organizers that help students activate prior knowledge, identify learning goals, and reflect on what they have learned.
+
+#### L {: #letter-l }
+
 * [Labeling Emotions Throughout the Day](labeling_emotions_throughout_the_day.md) - Labeling emotions involves intentionally naming and describing one's own emotions and helping others label theirs throughout the day.
 * [Ladder of Feedback](ladder_of_feedback.md) - The Ladder of Feedback is a structured protocol to guide peer feedback that includes a sequential framework with specific questions, sentence stems, and success criteria.
 * [Language Experience Approach](language_experience_approach.md) - The language experience approach is a whole language method that integrates the development of reading, writing, listening, and speaking skills through the use of learners' experiences.
@@ -835,6 +867,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Logs and Journals to Guide Reflection](logs_and_journals_to_guide_reflection.md) - Periodically ask students to reread their journals, comparing what they knew at the beginning of a learning sequence with what they know now.
 * [Low-Stakes Quizzes](low-stakes_quizzes.md) - Low-stakes quizzes are brief assessments designed to help learners gauge their understanding without the pressure of high grades.
 * [Low-Stakes Writing](low-stakes_writing.md) - Teachers at University Park Campus School used daily low-stakes writing activities to foster student voice, self-confidence, and critical thinking skills—a school-wide strategy used in every subject.
+
+#### M {: #letter-m }
+
 * [Magnetism Investigations](magnetism_investigations.md) - Magnetism investigations involve exploring how magnets interact with different objects and mapping the effects of magnets on compasses.
 * [Maintain Optimal Classroom Temperature](maintain_optimal_classroom_temperature.md) - The temperature in a workspace affects engagement levels and overall productivity.
 * [Maintain Presence for Students](maintain_presence_for_students.md) - Teachers should make themselves available for short talks with students before and after school or between classes.
@@ -844,7 +879,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Maintaining Sensitivity to Language Concerns](maintaining_sensitivity_to_language_concerns.md) - In traditional classrooms, students who are not native English speakers often feel marginalized, lost, and pressured into discarding their original language in favor of English.
 * [Make Learning Relevant](make_learning_relevant.md) - Teachers can boost student engagement and knowledge retention by connecting learning to students' interests, talents, learning styles, and sense of ownership in the education process.
 * [Make the Invisible Visible (Power Dynamics)](make_the_invisible_visible_(power_dynamics).md) - This principle focuses on bringing power dynamics to the forefront and acknowledging their presence in the design process.
-* [Make-Believe: Problem-Based Learning](make-believe:_problem-based_learning.md) - Providing learners with real-world experiences and problems, and allowing them to work alongside experts, fosters engagement and prepares them for real-world challenges.
+* [Make-Believe: Problem-Based Learning](make-believe-problem-based_learning.md) - Providing learners with real-world experiences and problems, and allowing them to work alongside experts, fosters engagement and prepares them for real-world challenges.
 * [Maker Spaces and Fab Labs](maker_spaces_and_fab_labs.md) - Establish physical spaces where learners can invent, design, and build things using a variety of materials and tools, from wood scraps to technology.
 * [Making and confirming predictions](making_and_confirming_predictions.md) - This strategy involves forming educated guesses or anticipations about the content or outcome of a text or audio material and then verifying these predictions as one engages with the material.
 * [Making Connections](making_connections.md) - Making connections involves linking new information to existing knowledge and experiences to enhance understanding and retention.
@@ -852,8 +887,8 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Making Inferences](making_inferences.md) - This strategy requires readers to evaluate or draw conclusions from information in a text, even when the author does not explicitly state it.
 * [Making Self-Advocacy and Self-Determination Critical Priorities](making_self-advocacy_and_self-determination_critical_priorities.md) - Integrating self-advocacy and self-determination into education systems to empower students with disabilities.
 * [Manipulatives](manipulatives.md) - Provide manipulatives to help make complex concepts concrete.
-* [Manipulatives: Sentence Combining](manipulatives:_sentence_combining.md) - Using physical or digital manipulatives to combine simple sentences, thereby reducing working memory load and improving syntax knowledge.
-* [Manipulatives: Sentence Construction](manipulatives:_sentence_construction.md) - Using physical objects to represent parts of speech in sentences.
+* [Manipulatives: Sentence Combining](manipulatives-sentence_combining.md) - Using physical or digital manipulatives to combine simple sentences, thereby reducing working memory load and improving syntax knowledge.
+* [Manipulatives: Sentence Construction](manipulatives-sentence_construction.md) - Using physical objects to represent parts of speech in sentences.
 * [Map It Out!](map_it_out!.md) - Before a trip, children map the route, calculate mileage, estimate travel time, and track progress along the way.
 * [Mapping Online Reading Behavior](mapping_online_reading_behavior.md) - Learners create visual maps to track the links and sites they visit while reading online texts.
 * [Mass, Density, and Buoyancy Experiments](mass,_density,_and_buoyancy_experiments.md) - Mass, density, and buoyancy experiments involve exploring how the mass and density of objects affect their buoyancy in different liquids.
@@ -942,8 +977,8 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Multiple Examples](multiple_examples.md) - When teaching a new technique, providing multiple examples helps students understand and apply the technique in their own writing.
 * [Multiple Exposures](multiple_exposures.md) - Multiple exposures provide students with multiple opportunities to encounter, engage with, and elaborate on new knowledge and skills.
 * [Multiple Modalities for Perceiving Information](multiple_modalities_for_perceiving_information.md) - Sharing information through various modalities beyond text and images, such as audio, video, simulations, or interactive models.
-* [Multiple Representations: Number Line](multiple_representations:_number_line.md) - The number line is used as a visual representation of numerical relationships.
-* [Multiple Representations: Visual Representations](multiple_representations:_visual_representations.md) - Using visual representations can lead to clearer delivery of content and greater retention of key concepts in long-term memory.
+* [Multiple Representations: Number Line](multiple_representations-number_line.md) - The number line is used as a visual representation of numerical relationships.
+* [Multiple Representations: Visual Representations](multiple_representations-visual_representations.md) - Using visual representations can lead to clearer delivery of content and greater retention of key concepts in long-term memory.
 * [Multiple Texts](multiple_texts.md) - Reading multiple texts on the same topic expands learners' understanding, encourages critical thinking, and fosters synthesis skills.
 * [Multiple Ways to Perceive Information](multiple_ways_to_perceive_information.md) - Presenting information in more ways than images and text alone enhances comprehension and caters to diverse learning preferences.
 * [Multiple Writing Surfaces](multiple_writing_surfaces.md) - Multiple writing surfaces involve providing learners with a variety of spaces where they can write and express their ideas, such as walls, tables, or portable whiteboards.
@@ -956,6 +991,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Music and Dance Integration](music_and_dance_integration.md) - This strategy uses movement, rhythm, and music to enhance learning and understanding of various concepts, particularly in mathematics.
 * [Music and Emotions](music_and_emotions.md) - Learners listen to different types of music and discuss how it makes them feel, fostering emotional awareness and providing a creative outlet for emotional expression.
 * [Mystery Emotion](mystery_emotion.md) - Learners are challenged to guess the emotion the instructor is acting out in order to solve the mystery of what it is.
+
+#### N {: #letter-n }
+
 * [Name Pronunciation](name_pronunciation.md) - Pronouncing learners' names correctly can help develop trust and rapport.
 * [Name the Negative Voice](name_the_negative_voice.md) - Have students name their negative inner voice (e.g., Adverse Antoine, Ruthless Ralph, Cranky Kirsten).
 * [Naming the Negative Voice](naming_the_negative_voice.md) - Students give their negative inner voice a name to externalize it, allowing them to treat it as a separate entity.
@@ -983,6 +1021,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Number Relationships and Reasoning Strategies](number_relationships_and_reasoning_strategies.md) - Basic facts should be taught using number relationships and reasoning strategies, not memorization.
 * [Number Talks](number_talks.md) - Number Talks are short, daily classroom routines that provide students with opportunities to mentally solve and discuss numerical problems.
 * [Numbers to 100](numbers_to_100.md) - A game where learners find numbers in sequential order on road signs, license plates, and maps to reinforce number recognition and ordering skills.
+
+#### O {: #letter-o }
+
 * [Observations and Conversations](observations_and_conversations.md) - Monitoring student learning through observations and conversations helps determine understanding of concepts and problem-solving abilities.
 * [Offer Services and Events to Bring Parents into the School](offer_services_and_events_to_bring_parents_into_the_school.md) - Offer free classes and workshops that focus on topics of interest to parents, such as family nutrition, child development, or homework help.
 * [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md) - Providing a variety of options will improve overall participation, particularly for families with significant barriers to engagement.
@@ -1008,6 +1049,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Organized Online Resources](organized_online_resources.md) - Storing lesson plan ideas, instructional websites, and electronic copies of worksheets using organizational sites such as Livebinders.com, or desktop applications such as Evernote can streamline the organizational process and increase…
 * [Organizing Information and Taking Notes](organizing_information_and_taking_notes.md) - This strategy involves effectively structuring and recording information to enhance understanding and retention.
 * [Outdoor Book Walk](outdoor_book_walk.md) - Find a public park or walkable street where you can post pages of a book to create a walkable reading experience that families can do together.
+
+#### P {: #letter-p }
+
 * [Pairing with Positive Role Models](pairing_with_positive_role_models.md) - Pairing learners with peers who demonstrate strong relationship skills involves intentionally matching learners who may face challenges in social interactions with those who exhibit positive behaviors such as effective communication,…
 * [Paragraph Shrinking](paragraph_shrinking.md) - A PALS activity focused on identifying main ideas and summarizing paragraphs.
 * [Parental Involvement in Physical Activity](parental_involvement_in_physical_activity.md) - Engage parents by providing details about the benefits of physical activity and encouraging their participation.
@@ -1050,7 +1094,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Platform Agnostic Design](platform_agnostic_design.md) - Instructional designers create tools that work across any platform, avoiding bias towards specific operating systems or web browsers.
 * [Play Memory Games](play_memory_games.md) - Memory games help hone focus for learners in a fun way, enabling them to concentrate when something challenging is presented.
 * [Playful Spaces](playful_spaces.md) - Bringing fun back into learning by creating playful spaces.
-* [Playground: Pickup Sports and Jam Sessions](playground:_pickup_sports_and_jam_sessions.md) - Encouraging informal games and activities without emphasizing competition provides opportunities for play and creativity.
+* [Playground: Pickup Sports and Jam Sessions](playground-pickup_sports_and_jam_sessions.md) - Encouraging informal games and activities without emphasizing competition provides opportunities for play and creativity.
 * [Playing with Techniques](playing_with_techniques.md) - Provide low-pressure exercises for students to experiment with the writing techniques they have analyzed.
 * [Playworks TeamUp Recess Program](playworks_teamup_recess_program.md) - The Playworks TeamUp program aims to make recess more organized, safe, and healthy by fostering improvements in recess organization, enhancing students’ familiarity with a variety of games, and increasing their access to playground…
 * [Poetry Exploration through Digital Libraries](poetry_exploration_through_digital_libraries.md) - Using digital libraries with audio and visual components to engage learners with a variety of poems.
@@ -1070,18 +1114,18 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Praising Effort and Strategies](praising_effort_and_strategies.md) - Praising effort and strategies focuses on acknowledging the process and hard work learners invest in their tasks, rather than praising innate intelligence.
 * [Pre-Entry Socialization](pre-entry_socialization.md) - Pre-entry socialization involves engaging students in brief, positive interactions before they enter the classroom to set a productive tone.
 * [Pre-Reading Graphic Organizers](pre-reading_graphic_organizers.md) - Students identify the text structure prior to reading (e.g., compare and contrast, description, problem-solution, cause and effect, sequence of events) and complete a supporting graphic organizer while reading to fill in the components.
-* [Pre-reading: 4 Ps (Preview, Predict, Prior Knowledge, Purpose)](pre-reading:_4_ps_(preview,_predict,_prior_knowledge,_purpose).md) - The 4 Ps of pre-reading include previewing the text, predicting the content, activating prior knowledge, and defining the purpose for reading.
-* [Pre-reading: Generating Questions](pre-reading:_generating_questions.md) - Generating a list of pre-reading questions that will help learners achieve their purpose for reading.
-* [Pre-reading: Skim a Book Systematically](pre-reading:_skim_a_book_systematically.md) - Skimming or pre-reading a book involves a systematic approach to discover whether the book requires a more careful reading.
-* [Pre-reading: Skimming Text](pre-reading:_skimming_text.md) - Pre-reading involves skimming a text to identify key ideas before reading from start to finish.
-* [Pre-reading: Understand the Purpose of the Reading](pre-reading:_understand_the_purpose_of_the_reading.md) - Understanding the purpose of pre-reading is to increase the capacity to comprehend material before starting to read.
+* [Pre-reading: 4 Ps (Preview, Predict, Prior Knowledge, Purpose)](pre-reading-4_ps_(preview,_predict,_prior_knowledge,_purpose).md) - The 4 Ps of pre-reading include previewing the text, predicting the content, activating prior knowledge, and defining the purpose for reading.
+* [Pre-reading: Generating Questions](pre-reading-generating_questions.md) - Generating a list of pre-reading questions that will help learners achieve their purpose for reading.
+* [Pre-reading: Skim a Book Systematically](pre-reading-skim_a_book_systematically.md) - Skimming or pre-reading a book involves a systematic approach to discover whether the book requires a more careful reading.
+* [Pre-reading: Skimming Text](pre-reading-skimming_text.md) - Pre-reading involves skimming a text to identify key ideas before reading from start to finish.
+* [Pre-reading: Understand the Purpose of the Reading](pre-reading-understand_the_purpose_of_the_reading.md) - Understanding the purpose of pre-reading is to increase the capacity to comprehend material before starting to read.
 * [Pre-recorded Instructional Video](pre-recorded_instructional_video.md) - Pre-recording instructional videos in advance is a versatile teaching strategy.
 * [Pre-recording Instructional Videos](pre-recording_instructional_videos.md) - Pre-recording instructional videos in advance is a versatile teaching strategy.
 * [Pre-Shadowing Preparation Activities](pre-shadowing_preparation_activities.md) - Pre-shadowing preparation involves several activities to set up a meaningful shadowing experience.
 * [Pre-Teaching Vocabulary](pre-teaching_vocabulary.md) - Pre-teaching vocabulary involves introducing new words before encountering them in a text or lesson.
 * [Pre-Writing Skills Activities](pre-writing_skills_activities.md) - Activities focused on building foundational skills necessary before formal handwriting instruction begins, such as line awareness, spatial awareness, and pencil grasp.
 * [Pre-Writing with Graphic Organizers](pre-writing_with_graphic_organizers.md) - Students use graphic organizers to plan and structure their ideas before writing drafts, aiding in idea generation and organization.
-* [Predictability: Environment & Structure](predictability:_environment_&_structure.md) - Creating consistent interfaces and repetitive structures or frameworks in learning environments to facilitate predictability.
+* [Predictability: Environment & Structure](predictability-environment_&_structure.md) - Creating consistent interfaces and repetitive structures or frameworks in learning environments to facilitate predictability.
 * [Predicting](predicting.md) - Predicting involves anticipating what will happen next in a text or problem.
 * [Prediction Relay](prediction_relay.md) - A PALS activity that emphasizes making predictions while reading.
 * [Predictive Emotion Planning](predictive_emotion_planning.md) - Learners anticipate emotions linked to upcoming activities.
@@ -1101,7 +1145,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Probing Questions](probing_questions.md) - Probing questions are used to encourage deeper reflection and critical thinking by challenging assumptions, exploring reasons and evidence, considering different viewpoints, examining implications, and questioning the basis of the inquiry…
 * [Problem Scenario Analysis](problem_scenario_analysis.md) - Providing students with real-life problem scenarios (e.g., cheating, bullying) and having them analyze the situation, consider possible consequences, share their decisions, and reflect on their reasoning.
 * [Problem Solving](problem_solving.md) - Problem solving involves designing activities that require learners to come up with solutions - ways of dealing with issues or challenges that they can then use back on-the-job.
-* [Problem Solving: Draw a Picture](problem_solving:_draw_a_picture.md) - The 'draw a picture' strategy is a problem-solving technique in which learners make a visual representation of the problem.
+* [Problem Solving: Draw a Picture](problem_solving-draw_a_picture.md) - The 'draw a picture' strategy is a problem-solving technique in which learners make a visual representation of the problem.
 * [Process for Constructive Decision-Making](process_for_constructive_decision-making.md) - Brainstorm with students a process for constructive decision-making and display it in the classroom as a visual reminder of how to make good choices.
 * [Process Writing (Journals)](process_writing_(journals).md) - Process writing uses journals to encourage writing skills from the beginning levels of English proficiency.
 * [Process Writing Approach](process_writing_approach.md) - Includes many related activities, including a greatly increased quantity of writing (only some of which is completed to publication) and a focus on writing throughout the course, along with mini-lessons on embedded skills.
@@ -1144,6 +1188,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Purposeful Scheduling for Learner Connections](purposeful_scheduling_for_learner_connections.md) - Instructors can allocate class time specifically for getting to know learners through various activities.
 * [Push for Deeper Analysis](push_for_deeper_analysis.md) - Encourage students to go beyond surface-level analysis and consider how sentence structure and other elements create meaning.
 * [Putting Empathy in the Curriculum](putting_empathy_in_the_curriculum.md) - Explicitly discuss empathy with students and integrate it into existing lessons.
+
+#### Q {: #letter-q }
+
 * [Quality Homework Assignments](quality_homework_assignments.md) - Assigning homework that reinforces learning, encourages real-world application, and offers enriching experiences.
 * [Question Formulation Technique (QFT)](question_formulation_technique_(qft).md) - The Question Formulation Technique (QFT) is a structured method for generating and improving questions to develop critical thinking skills, increase self-efficacy, and encourage participation in civic life.
 * [Question-based eLearning Design](question-based_elearning_design.md) - Question-based eLearning design is an instructional approach that replaces the traditional expository method with a more inquiry-based one.
@@ -1157,6 +1204,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Quiet Space](quiet_space.md) - Creating a designated quiet space in the classroom allows children to self-regulate and reduce sensory overload by limiting auditory, visual, and other sensory input.
 * [Quiet Space for Self-Regulation](quiet_space_for_self-regulation.md) - Designating a quiet space in the learning environment where learners can take breaks to regroup and calm themselves.
 * [Quiet Time](quiet_time.md) - Quiet time is a structured period of 10–15 minutes where students engage in calming activities like reading, writing, drawing, puzzles, or meditation to transition back into the classroom in a purposeful and relaxed manner.
+
+#### R {: #letter-r }
+
 * [Racial Equity in PBL - Build Community Through Peer Feedback](racial_equity_in_pbl_-_build_community_through_peer_feedback.md) - When students are given the opportunity during projects to frequently share feedback and revise their work, it creates moments to witness growth and progress.
 * [Racial Equity in PBL - Create Beautiful Spaces](racial_equity_in_pbl_-_create_beautiful_spaces.md) - For so many of our students, their communities and homes are not always beautiful places...
 * [Racial Equity in PBL - Create Space for Students to Reflect](racial_equity_in_pbl_-_create_space_for_students_to_reflect.md) - Reflection is rare in traditional classrooms, where the emphasis is on urgency and doing assignments quickly.
@@ -1185,15 +1235,15 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Reading Documentation and Reflection](reading_documentation_and_reflection.md) - Have students record details about their reading such as book titles, number of pages read, and new vocabulary.
 * [Reading in Math Class](reading_in_math_class.md) - Have students read articles from sources such as Math Horizons or Martin Gardner's Scientific American columns.
 * [Reading Laterally](reading_laterally.md) - Reading Laterally is the practice of verifying information by consulting multiple external sources to evaluate the credibility of a source before engaging deeply with it.
-* [Reading Online Strategy: Evaluating Online Information](reading_online_strategy:_evaluating_online_information.md) - Students learn to analyze and evaluate the information they encounter online by assessing the reliability of websites.
-* [Reading Online Strategy: Formulating Effective Search Queries](reading_online_strategy:_formulating_effective_search_queries.md) - This strategy focuses on teaching students how to formulate effective search queries to locate reliable information online.
+* [Reading Online Strategy: Evaluating Online Information](reading_online_strategy-evaluating_online_information.md) - Students learn to analyze and evaluate the information they encounter online by assessing the reliability of websites.
+* [Reading Online Strategy: Formulating Effective Search Queries](reading_online_strategy-formulating_effective_search_queries.md) - This strategy focuses on teaching students how to formulate effective search queries to locate reliable information online.
 * [Real-world Math Applications](real-world_math_applications.md) - Connecting math concepts to real-world applications is a strategy that can be used to enhance understanding, relevance, and engagement.
 * [Real-World Reframes](real-world_reframes.md) - When a student expresses frustration or negativity (e.g., 'I can’t do this stuff!'), reflect their feelings and then prompt them to take action.
 * [Reasonable Feedback](reasonable_feedback.md) - Reasonable feedback involves providing feedback that is manageable and not overwhelming for the student.
 * [Reasoning-Focused Instruction](reasoning-focused_instruction.md) - De-emphasizing correct answers and focusing on the reasoning process can build student confidence and provide insight into problem-solving strategies.
 * [Recess](recess.md) - Offer daily recess to allow students to be active, which can improve memory, conflict resolution skills, and creativity.
 * [Reciprocal Peer Tutoring](reciprocal_peer_tutoring.md) - Reciprocal peer tutoring (RPT) involves pairing students of similar abilities to work together, alternating the roles of tutor and tutee.
-* [Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)](reciprocal_teaching:_peer_assisted_learning_strategies_(pals).md) - PALS is a peer tutoring strategy designed to improve reading comprehension and fluency among students, primarily in grades 2–6.
+* [Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)](reciprocal_teaching-peer_assisted_learning_strategies_(pals).md) - PALS is a peer tutoring strategy designed to improve reading comprehension and fluency among students, primarily in grades 2–6.
 * [Recognizing the Value of Learning from Mistakes](recognizing_the_value_of_learning_from_mistakes.md) - This strategy changes perceptions about mistakes, viewing them as learning opportunities.
 * [Recording Devices](recording_devices.md) - Allowing students to record lessons so they can play them back and go over anything that might be confusing.
 * [Redirecting Language](redirecting_language.md) - Redirecting language is a classroom management tool that uses clear, non-negotiable instructions to redirect student behavior.
@@ -1249,19 +1299,22 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Retrieval Practice with Graphic Organizers](retrieval_practice_with_graphic_organizers.md) - After students do a Brain Dump, where they try to recall as much as they can about a given topic, without the aid of any supporting texts, they sort their dumped information into some kind of graphic organizer, and possibly working in…
 * [Rhyming Games](rhyming_games.md) - Rhyming games involve activities that focus on identifying and creating rhyming words to enhance phonological awareness.
 * [Rhythmic Clapping/Counting](rhythmic-clapping-counting.md) - The teacher claps/counts out a rhythm.
-* [Rice Tables and Sandboxes: Science Through Inquiry](rice_tables_and_sandboxes:_science_through_inquiry.md) - Engaging learners in hands-on exploration and inquiry-based science education allows them to discover and test new understandings.
-* [Rich Library: Audio & Braille](rich_library:_audio_&_braille.md) - Using audiobooks and Braille texts to reinforce and inspire literacy skills.
-* [Rich Library: Complexity](rich_library:_complexity.md) - Providing access to a diverse collection of reading materials that vary in academic vocabulary and syntax complexity supports literacy and reading fluency.
-* [Rich Library: Multimodal](rich_library:_multimodal.md) - Providing learners with a variety of resources in multiple formats, such as blogs, lyrics, videos, web pages, online discussions, and fanfiction, to enhance disciplinary literacy and engagement.
-* [Rich Library: Multimodal Resources](rich_library:_multimodal_resources.md) - Providing learners with access to multiple resources, including blogs, videos, audiobooks, and digital books, exposes them to diverse genres and can increase interest and motivation.
-* [Rich Library: Poetry](rich_library:_poetry.md) - Provides access to a collection of poems and poetry-related resources to enhance literacy and engagement with poetry.
-* [Rich Resources: Diversity](rich_resources:_diversity.md) - Providing diverse materials in the classroom helps learners deepen their self-understanding and understanding of others, positively impacting their perceptions of themselves and each other.
+* [Rice Tables and Sandboxes: Science Through Inquiry](rice_tables_and_sandboxes-science_through_inquiry.md) - Engaging learners in hands-on exploration and inquiry-based science education allows them to discover and test new understandings.
+* [Rich Library: Audio & Braille](rich_library-audio_&_braille.md) - Using audiobooks and Braille texts to reinforce and inspire literacy skills.
+* [Rich Library: Complexity](rich_library-complexity.md) - Providing access to a diverse collection of reading materials that vary in academic vocabulary and syntax complexity supports literacy and reading fluency.
+* [Rich Library: Multimodal](rich_library-multimodal.md) - Providing learners with a variety of resources in multiple formats, such as blogs, lyrics, videos, web pages, online discussions, and fanfiction, to enhance disciplinary literacy and engagement.
+* [Rich Library: Multimodal Resources](rich_library-multimodal_resources.md) - Providing learners with access to multiple resources, including blogs, videos, audiobooks, and digital books, exposes them to diverse genres and can increase interest and motivation.
+* [Rich Library: Poetry](rich_library-poetry.md) - Provides access to a collection of poems and poetry-related resources to enhance literacy and engagement with poetry.
+* [Rich Resources: Diversity](rich_resources-diversity.md) - Providing diverse materials in the classroom helps learners deepen their self-understanding and understanding of others, positively impacting their perceptions of themselves and each other.
 * [RIP Toolbox (Repetition, Imagery, Patterns)](rip_toolbox_(repetition,_imagery,_patterns).md) - The RIP Toolbox is a memory-enhancing strategy that utilizes three key elements: Repetition, Imagery, and Patterns.
 * [Role Play](role_play.md) - Role playing involves acting out different scenarios in a safe environment, allowing learners to make mistakes and learn from them.
 * [Role-Playing Emotional Scenarios](role-playing_emotional_scenarios.md) - Learners act out how to manage emotions in different scenarios.
 * [Role-Reversal 2.0 (Flipping the Teacher)](role-reversal_2.0_(flipping_the_teacher).md) - Students are asked to create videos demonstrating their understanding.
 * [RSOWV/TRAP Mnemonics](rsowv-trap-mnemonics.md) - RSOWV (Relax, Slowdown, Organize, Write, Visualize) and TRAP (Translate, Repeat, A Picture, Practice) are mnemonic strategies designed to enhance memory and learning.
 * [Rubrics](rubrics.md) - Rubrics are evaluation tools consisting of a set of criteria, a fixed scale, and descriptors that distinguish the differences in the levels of the scale.
+
+#### S {: #letter-s }
+
 * [Safe and Healthy Elementary School Recess](safe_and_healthy_elementary_school_recess.md) - Implementing a safe and healthy recess with programs like Playworks TeamUp aims to build a positive school climate by promoting social, emotional, physical, and academic development.
 * [Sail through Math App](sail_through_math_app.md) - A fun math fluency iOS app that uses storytelling to help young learners develop math skills over time.
 * [Say it Once](say_it_once.md) - Repeating instructions can lead to lazy listening habits in learners.
@@ -1383,7 +1436,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Standards-/Mastery-Based Grading](standards-mastery-based-grading.md) - Standards-/Mastery-Based Grading emphasizes grading based on the level of mastery of learning objectives.
 * [Standards-Based Grading](standards-based_grading.md) - Shift from arbitrary points and percentages to evaluating students on mastery of specific learning standards, making expectations clear and grades meaningful.
 * [Start with Yourself (Identity Mapping)](start_with_yourself_(identity_mapping).md) - This principle encourages educators to reflect on their own intersectional identities and how these identities shape their perceptions and relationships with others.
-* [Stations: Interacting with Multiple Texts](stations:_interacting_with_multiple_texts.md) - The Stations strategy involves small groups of learners rotating through different stations to interact with a variety of resources (informational texts, poetry, art, photography, maps, videos, audio clips) related to a specific event,…
+* [Stations: Interacting with Multiple Texts](stations-interacting_with_multiple_texts.md) - The Stations strategy involves small groups of learners rotating through different stations to interact with a variety of resources (informational texts, poetry, art, photography, maps, videos, audio clips) related to a specific event,…
 * [Step In When Abusive Language Occurs](step_in_when_abusive_language_occurs.md) - Addressing offensive language promptly and consistently is crucial for creating a safe and respectful classroom environment.
 * [Stick-It Together (Collaborative Problem-Solving)](stick-it_together_(collaborative_problem-solving).md) - Students work in small groups to collaboratively solve math problems.
 * [Stop and Jot](stop_and_jot.md) - Stop and Jot is a processing activity that provides structured opportunities for learners to pause and respond in writing to key questions during a lesson.
@@ -1426,7 +1479,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Student Models](student_models.md) - Student models are examples of writing produced by other students, typically curated by instructors and made available for learners to reference.
 * [Student Portfolio Creation](student_portfolio_creation.md) - Student portfolio creation involves students selecting and organizing their best work samples to demonstrate their progress, reflect on their learning, and set goals.
 * [Student Presentation of Collaborative Work](student_presentation_of_collaborative_work.md) - After completing a collaborative problem-solving task, groups project their work and present their final responses to the class.
-* [Student Presentations: All About Me](student_presentations:_all_about_me.md) - Instructors begin the year having the learners do an 'All About Me' presentation, which involves sharing facts about themselves and including pictures or video.
+* [Student Presentations: All About Me](student_presentations-all_about_me.md) - Instructors begin the year having the learners do an 'All About Me' presentation, which involves sharing facts about themselves and including pictures or video.
 * [Student Reflection (Responsible Decision-Making)](student_reflection_(responsible_decision-making).md) - This strategy focuses on using student reflection to leverage strengths and address challenges related to responsible decision-making, which is the ability to make constructive choices about one’s behavior and social interactions in an…
 * [Student Self-Knowledge](student_self-knowledge.md) - Student self-knowledge involves helping learners understand their strengths, interests, and areas for growth as learners.
 * [Student Shadowing](student_shadowing.md) - An adult (educator, administrator, or school leader) follows a student throughout their school day to observe their experiences, interactions, and environment firsthand.
@@ -1453,6 +1506,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Supporting Self-Regulation](supporting_self-regulation.md) - Identifying and supporting students who have learning strengths or challenges related to self-regulation.
 * [Sushi Monster App](sushi_monster_app.md) - A free math app with a playful interface and characters to help kids expand their math skills and knowledge.
 * [Syllabication Instruction](syllabication_instruction.md) - Teach children the six basic syllable types and how they affect spelling.
+
+#### T {: #letter-t }
+
 * [T-Chart](t-chart.md) - A T-chart is a graphic organizer shaped like the letter T, with a horizontal line at the top to signify a broad category and a vertical line that allows learners to compare attributes of a concept, organism, or phenomenon.
 * [Tactile Toys / Fidgets](tactile-toys-fidgets.md) - Tactile toys and fidgets are self-regulation tools that promote movement and tactile input to help with attention, focus, and sensory processing.
 * [Tactile Toys for Sensory Integration](tactile_toys_for_sensory_integration.md) - Providing tactile toys can help awaken sensory receptors, which may decrease fidgeting, attention issues, and behavior problems.
@@ -1538,6 +1594,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Turn and Talk](turn_and_talk.md) - Turn and Talk involves learners engaging in short discussions with a partner to explain what they heard.
 * [Turn-and-Talk](turn-and-talk.md) - Turn-and-talk involves having learners engage in short, structured discussions with a partner to review and reinforce what they have learned.
 * [Turn-around Time](turn-around_time.md) - Providing timely feedback is crucial for learners to reflect, correct, and extend their performance.
+
+#### U {: #letter-u }
+
 * [Uncluttered Environment](uncluttered_environment.md) - A learning environment with minimal visual distractions is created by storing supplies and materials off of tables and desks and limiting decorations and other things hanging on the walls.
 * [Uncluttered Learning Environment](uncluttered_learning_environment.md) - A clean, organized, and uncluttered learning environment is free from distractions and allows the focus to be on learning.
 * [Understand Your Bias](understand_your_bias.md) - This activity increases awareness of personal stereotypes and prejudices, helping learners recognize how their viewpoint influences their perception of others.
@@ -1552,7 +1611,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Use Positive Affirmations](use_positive_affirmations.md) - Replace negative messages from the inner voice with positive affirmations.
 * [Use Quotations to Cite Textual Evidence](use_quotations_to_cite_textual_evidence.md) - Using quotations to cite textual evidence involves teaching students to select and incorporate direct quotes from texts to support their claims.
 * [Use Templates and Tools That Allow for Scaffolding](use_templates_and_tools_that_allow_for_scaffolding.md) - Using templates and tools that allow for scaffolding involves providing students with structured supports to guide their writing process.
-* [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit:_mitigating_racial_bias_in_edtech.md) - This toolkit is designed to guide educational technology (edtech) companies in identifying and mitigating racial bias in the design and development of their products.
+* [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md) - This toolkit is designed to guide educational technology (edtech) companies in identifying and mitigating racial bias in the design and development of their products.
 * [Use Visual Aids](use_visual_aids.md) - Supplement verbal instructions with visual aids to support learners' understanding, especially for low-level students.
 * [Use Worked Examples](use_worked_examples.md) - The instructor presents a fully solved problem — showing each step and explaining the reasoning behind it — and then asks learners to solve a similar problem independently or in pairs.
 * [User-Friendly Library Website Practices](user-friendly_library_website_practices.md) - This strategy focuses on making library websites more accessible and user-friendly to encourage greater utilization of library resources by students.
@@ -1565,6 +1624,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Using Technology](using_technology.md) - Technology is a powerful tool in math instruction for ELLs.
 * [Utilize Text Messaging for Parent Engagement](utilize_text_messaging_for_parent_engagement.md) - Text messaging is used as a primary means of communication for educators and community leaders to engage parents.
 * [Utilizing Mobile Communication Apps for Parent Engagement](utilizing_mobile_communication_apps_for_parent_engagement.md) - Mobile communication apps (e.g., ClassDojo, Spotlight, Remind, and Seesaw) offer simple ways for educators to send texts, video summaries, and alerts to parents about school activities or their child’s progress.
+
+#### V {: #letter-v }
+
 * [Validate Feelings](validate_feelings.md) - Tell students they have the right to feel the way they feel.
 * [Valuing the Learning Process](valuing_the_learning_process.md) - Valuing the learning process involves emphasizing the importance of understanding, exploration, and growth over achieving high grades.
 * [Varying Irrelevant Attributes in Examples](varying_irrelevant_attributes_in_examples.md) - When teaching concepts, use examples in which the irrelevant attributes vary widely.
@@ -1576,7 +1638,7 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Videoconferencing for Collaboration](videoconferencing_for_collaboration.md) - Videoconferencing platforms with built-in collaboration features such as Microsoft Teams and Google Meet can help teachers replicate teamwork experiences online.
 * [Videos](videos.md) - Videos are dynamic resources for supporting curricula, engaging students through sight and sound.
 * [Videos (Pre-Reading)](videos_(pre-reading).md) - A short video relating to the topic of the reading is shown.
-* [Videos: SEL Topics](videos:_sel_topics.md) - Using short video clips on SEL topics followed by discussions and/or related activities promotes relevance and meaningful connection of these topics to learners' background knowledge and personal lives.
+* [Videos: SEL Topics](videos-sel_topics.md) - Using short video clips on SEL topics followed by discussions and/or related activities promotes relevance and meaningful connection of these topics to learners' background knowledge and personal lives.
 * [Virtual Embodiment](virtual_embodiment.md) - Virtual embodiment is used to give people the experience of the golden rule in operation.
 * [Virtual Flipped Classroom](virtual_flipped_classroom.md) - Classroom time for tutoring is completely eliminated in this model.
 * [Virtual Reality (VR) for Empathy Training](virtual_reality_(vr)_for_empathy_training.md) - VR is used to guide new workers through a virtual phone call with a Fidelity “customer” going through a financial crisis, training them about empathy.
@@ -1593,6 +1655,9 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Visualizing](visualizing.md) - Visualizing involves creating a mental image or representation of a problem or text to aid in understanding.
 * [Vocabulary Instruction](vocabulary_instruction.md) - Explicitly teaching vocabulary words and their definitions, along with providing context, to help students understand and use new words effectively.
 * [Vocabulary Meaning Through Context](vocabulary_meaning_through_context.md) - Instructors should present vocabulary in context so that learners can deduce the meaning for themselves, aiding understanding and retention.
+
+#### W {: #letter-w }
+
 * [Wait Time](wait_time.md) - Wait time is the period of silence between the time a question is asked and the time when one or more learners respond to that question.
 * [Wall Calendar](wall_calendar.md) - A large calendar for family appointments and events can help kids see that organization is a lifelong skill.
 * [Warning and Consequence](warning_and_consequence.md) - This technique involves giving high school students a clear warning that talking during the lesson will result in a consequence, such as taking time off their break.
@@ -1634,6 +1699,24 @@ Concrete teaching activity recipes — specific, implementable approaches.
 * [Writing Process Approach](writing_process_approach.md) - A process-oriented approach to writing instruction that places the learner at the center of interactive learning among teachers and students.
 * [Writing Workshops](writing_workshops.md) - Writing workshops create environments with multiple stations focusing on different aspects of writing, such as transitions, topic sentences, or source integration.
 * [WWYD Critical Incidents](wwyd_critical_incidents.md) - Learners are presented with mini case studies that feature a conflict or misunderstanding and are asked, 'What would you do if you were person X/person Y?' This activity encourages learners to consider different perspectives and offer…
+
+#### Y {: #letter-y }
+
 * [Yoga, Breathing, and Meditation](yoga,_breathing,_and_meditation.md) - Using yoga, breathing, and meditation techniques in educational settings involves incorporating these practices to provide calming stimulation and regulate the nervous system.
 * [Youth Participatory Action Research (YPAR)](youth_participatory_action_research_(ypar).md) - Youth Participatory Action Research (YPAR) is an approach where young people collaborate with adults to conduct research and implement actions to address issues in their communities.
+
+#### Z {: #letter-z }
+
 * [Zoom Family Hours](zoom_family_hours.md) - Hold evening office or family hours on Zoom for parents and family members to pop in and ask questions or otherwise engage with you about their children.
+
+#### 0-9 & Other {: #letter-num }
+
+* ['What's My Emotion?' Game Check-In]('what's_my_emotion?'_game_check-in.md) - Students use the EQ Feeling Chart to identify their feelings.
+* [3-Source Rule](3-source_rule.md) - When students are doing online research in her class, Je Hen enforces the three-source rule.
+* [5-Minute Writing Conferences](5-minute_writing_conferences.md) - This strategy involves conducting brief, targeted conferences with each student to provide personalized feedback on their writing.
+* [\"Document Outline\" Tool]("document_outline"_tool.md) - Students use the \"Document outline\" tool in Google Docs to extract evidence supporting the main ideas they've found in a text.
+
+
+## Draft
+
+1 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.

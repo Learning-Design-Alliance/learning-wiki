@@ -8,6 +8,10 @@ Instructional building blocks — the components you compose into patterns.
 
 ## In Review
 
+Jump to: [A](#letter-a) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [V](#letter-v) · [W](#letter-w)
+
+#### A {: #letter-a }
+
 * [Act](act.md) - is the execution phase of a challenge-based or inquiry cycle, where learners move from investigation and planning into producing, testing, sharing, or implementing a response in the real world.
 * [Activation](activation.md) - Learners are encouraged to recall and activate prior knowledge to prepare for new learning.
 * [Adaptive Difficulty](adaptive-difficulty.md) - Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.
@@ -26,6 +30,9 @@ Instructional building blocks — the components you compose into patterns.
 * [Assessment](assessment.md) - Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
 * [Assigned Positions](assigned-positions.md) - Learners are assigned a specific stance on an issue and must argue from that perspective.
 * [Assigned Readings](assigned-readings.md) - Learners engage with pre-selected texts, articles, or book chapters to build foundational knowledge.
+
+#### C {: #letter-c }
+
 * [Case Studies](case-studies.md) - Case studies are the element in which learners analyze a concrete scenario, incident, or example in order to reason about concepts, decisions, or consequences.
 * [Case Study](case-study.md) - Learners analyze a real or hypothetical scenario to apply concepts.
 * [Case-Based Learning](case-based-learning.md) - Learners analyze real-world scenarios to apply theoretical concepts.
@@ -57,6 +64,9 @@ Instructional building blocks — the components you compose into patterns.
 * [Create a Relaxed Learning Environment](create-a-relaxed-learning-environment.md) - Create a relaxed learning environment is the element of arranging social and physical conditions that support safety, calm, and participation.
 * [Creating Visual Representations](creating-visual-representations.md) - Creating visual representations is the element in which learners externalize understanding through diagrams, sketches, models, or other visuals.
 * [Criteria Development](criteria-development.md) - Learners create rubrics or evaluation frameworks for assessment.
+
+#### D {: #letter-d }
+
 * [Data Analysis](data-analysis.md) - Data analysis is the element in which learners inspect, interpret, organize, or transform data in order to answer questions, identify patterns, or justify conclusions.
 * [Debate](debate.md) - Debate is the element in which learners take positions, justify them with evidence, and respond to alternatives in a structured exchange.
 * [Debriefing](debriefing.md) - Debriefing is the element in which learners reflect on an activity, simulation, or performance to consolidate what happened and why.
@@ -72,6 +82,9 @@ Instructional building blocks — the components you compose into patterns.
 * [Discussion-Based Learning](discussion-based-learning.md) - Discussion-based learning is the element in which talk, interpretation, and response are central vehicles for learning.
 * [Drill & Practice](drill-practice.md) - Drill and practice is the element in which learners repeatedly perform a focused skill or response pattern until it becomes more fluent or automatic.
 * [Dual Coding](dual-coding.md) - Dual coding is the element in which verbal and visual representations are used together to support understanding and memory.
+
+#### E {: #letter-e }
+
 * [Eliciting Student Thinking](eliciting-student-thinking.md) - Encourages learners to express their ideas, reasoning, and problem-solving approaches verbally.
 * [Engage](engage.md) - Engage is the element in which instruction opens with an activity or prompt that draws attention and establishes interest.
 * [Enhance retention and transfer](enhance-retention-and-transfer.md) - Helps learners apply knowledge to new contexts through reflection and extension activities.
@@ -81,12 +94,18 @@ Instructional building blocks — the components you compose into patterns.
 * [Expert Groups](expert-groups.md) - Learners become subject-matter experts on a topic and teach their peers.
 * [Expert Modeling](expert-modeling.md) - Expert modeling is the element in which a skilled performer demonstrates not only what to do, but how an expert notices cues, makes decisions, and checks quality during performance.
 * [Explicit Teaching](explicit-teaching.md) - Explicit teaching is the element in which instructors directly explain, model, and sequence key knowledge or procedures rather than leaving them to be inferred.
+
+#### F {: #letter-f }
+
 * [Fading](fading.md) - Fading is the element in which instructional support is deliberately reduced as learner competence grows.
 * [Fading Scaffolding](fading-scaffolding.md) - Fading scaffolding is the element in which supports such as hints, prompts, or models are progressively reduced so that learners take on more of the task independently.
 * [Feedback](feedback.md) - Learners receive input from instructors or peers to refine their work.
 * [Final Exam](final-exam.md) - A cumulative assessment evaluating learners' mastery of the entire course material.
 * [Flipped Classroom](flipped-classroom.md) - Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
 * [Formative Assessment](formative-assessment.md) - Ongoing, low-stakes assessment to provide feedback and adjust instruction.
+
+#### G {: #letter-g }
+
 * [Gain attention](gain-attention.md) - Engages learners with an unexpected event, question, or real-world scenario to capture focus.
 * [Gamification](gamification.md) - Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
 * [Goal Setting](goal-setting.md) - Goal setting is the element in which learners or instructors establish clear targets for performance, progress, or improvement.
@@ -96,9 +115,15 @@ Instructional building blocks — the components you compose into patterns.
 * [Guided Discovery](guided-discovery.md) - Guided discovery is the element in which learners investigate, infer, or notice patterns for themselves, but with prompts, constraints, examples, or feedback that keep the exploration productive.
 * [Guided Inquiry](guided-inquiry.md) - Guided inquiry is the element in which learners investigate questions or problems with structured prompts, facilitator support, or staged resources that keep the inquiry productive.
 * [Guided Practice](guided-practice.md) - Guided practice is the element in which learners attempt a task with active support before moving to independent work.
+
+#### H {: #letter-h }
+
 * [Hands-on Learning](hands-on-learning.md) - Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice.
 * [Hints](hints.md) - Hints are partial prompts or cues that help learners continue a task without fully giving away the answer.
 * [Hypertext Navigation](hypertext-navigation.md) - Learners explore interconnected digital content at their own pace.
+
+#### I {: #letter-i }
+
 * [Immediate Feedback](immediate-feedback.md) - Immediate feedback is the element in which response information is delivered close to the learner's action so it can still shape the next step.
 * [In-Class Activities](in-class-activities.md) - Learners engage in active, structured tasks during class to apply knowledge.
 * [Individual Reflection](individual-reflection.md) - Learners independently analyze their experiences, thoughts, or learning progress.
@@ -110,6 +135,9 @@ Instructional building blocks — the components you compose into patterns.
 * [Integration](integration.md) - Learners reflect on and connect learning to their own experiences and future applications.
 * [Investigate](investigate.md) - Investigate is the element in which learners collect information, examine evidence, or test ideas to answer a question.
 * [Iterative Learning](iterative-learning.md) - Iterative learning is the element in which learners improve through repeated cycles of attempt, feedback, revision, and retry.
+
+#### J {: #letter-j }
+
 * [Jigsaw](jigsaw.md) - Jigsaw is the element in which parts of a topic are distributed across learners who then teach one another to assemble the whole.
 * [Jigsaw Learning](jigsaw-learning.md) - Jigsaw learning is the short-form canonical target for the jigsaw-style distribution of expertise and peer teaching.
 * [Journaling](journaling.md) - Journaling is the element in which learners record reflections, observations, questions, or progress over time in written form.
@@ -117,14 +145,23 @@ Instructional building blocks — the components you compose into patterns.
 * [Just-in-Time Learning](just-in-time-learning.md) - Just-in-time learning is the element in which information, guidance, or resources are provided at the moment they are needed for the task at hand rather than front-loaded in advance.
 * [Justification](justification.md) - Justification is the element in which learners explain why a claim, choice, or solution is warranted using reasons, criteria, or evidence.
 * [Justification & Argumentation](justification-argumentation.md) - Learners defend their conclusions with evidence, fostering critical reasoning.
+
+#### K {: #letter-k }
+
 * [Knowledge Synthesis](knowledge-synthesis.md) - Learners integrate multiple perspectives and sources to develop a cohesive understanding.
 * [Knowledge-Building](knowledge-building.md) - Knowledge-building is the element in which learners collectively construct, refine, and extend ideas rather than only consume or repeat them.
 * [Knowledge-Building Discourse](knowledge-building-discourse.md) - Learners engage in structured discussions to deepen understanding.
+
+#### L {: #letter-l }
+
 * [Learner Choice](learner-choice.md) - Learner choice is the element in which learners are given meaningful options about task, process, product, or pathway.
 * [Learning Management Systems](learning-management-systems.md) - Learning management systems are the element in which course organization, materials, communication, and tracking are coordinated through an LMS.
 * [Learning Outcomes](learning-outcomes.md) - Learning outcomes are explicit statements of what learners should know, understand, or be able to do by the end of an instructional experience.
 * [Lectures](lectures.md) - Instructor-led presentations that deliver structured content to learners.
 * [Literature Review](literature-review.md) - Literature review is the element in which learners gather, evaluate, and synthesize existing sources on a topic in order to understand the current state of knowledge or argument.
+
+#### M {: #letter-m }
+
 * [Mastery Learning](mastery-learning.md) - Mastery learning is the element in which progression depends on demonstrated understanding rather than time alone.
 * [Mastery Progression](mastery-progression.md) - Learners cannot advance until they demonstrate mastery of foundational content.
 * [Metacognition](metacognition.md) - Metacognition is the element in which learners monitor, explain, and regulate their own thinking.
@@ -139,13 +176,22 @@ Instructional building blocks — the components you compose into patterns.
 * [Multimedia Instruction](multimedia-instruction.md) - Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence.
 * [Multimedia Learning](multimedia-learning.md) - Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media.
 * [Multimedia Projects](multimedia-projects.md) - Multimedia projects are the element in which learners create artifacts that combine text, visuals, audio, video, or interaction.
+
+#### N {: #letter-n }
+
 * [Negotiation](negotiation.md) - Negotiation is the element in which learners work through competing interests, priorities, or interpretations in order to reach a decision, compromise, or shared position.
 * [Non-Examples](non-examples.md) - Non-examples are intentionally chosen instances that do not meet the target concept, criterion, or quality standard.
 * [Note-Taking](note-taking.md) - Note-taking is the element in which learners record, organize, and condense information in ways that support later understanding and retrieval.
+
+#### O {: #letter-o }
+
 * [Observation](observation.md) - Observation is the short-form canonical target for instructional activities in which learners watch people, processes, or contexts carefully in order to notice patterns, behaviors, or constraints.
 * [Observation/Shadowing](observationshadowing.md) - Observation/shadowing is the element in which learners watch practice in context in order to notice decisions, routines, and tacit moves before attempting similar work themselves.
 * [Open-Ended Discussion](open-ended-discussion.md) - Facilitated dialogue where learners explore topics without predetermined answers.
 * [Optional Quizzes or Discussion Sections](optional-quizzes-or-discussion-sections.md) - Supplementary activities designed to reinforce learning and provide formative feedback.
+
+#### P {: #letter-p }
+
 * [Part-task practice](part-task-practice.md) - Isolated, repeated practice of elements that require automation for efficient task performance.
 * [Peer Assessment](peer-assessment.md) - Peer assessment is the element in which learners evaluate the work or reasoning of peers against shared criteria.
 * [Peer Collaboration](peer-collaboration.md) - Learners work together to complete tasks or solve problems.
@@ -184,8 +230,14 @@ Instructional building blocks — the components you compose into patterns.
 * [Public Display](public-display.md) - Public display is the element in which learner work is made visible to a wider audience in the classroom or beyond.
 * [Public Product](public-product.md) - Public product is the element in which learners create work intended for real audiences beyond the teacher alone.
 * [Public Speaking](public-speaking.md) - Public speaking is the element in which learners present ideas aloud to an audience with attention to clarity, organization, evidence, and delivery.
+
+#### Q {: #letter-q }
+
 * [Question Formulation](question-formulation.md) - Learners generate their own questions to guide inquiry.
 * [Quizzes](quizzes.md) - Short, low-stakes assessments that reinforce learning and provide feedback.
+
+#### R {: #letter-r }
+
 * [Real-World Math](real-world-math.md) - Real-world math is the element in which mathematical reasoning is embedded in practical or authentic contexts.
 * [Real-World Problems](real-world-problems.md) - Real-world problems are tasks framed around authentic issues, needs, or dilemmas outside purely academic abstraction.
 * [Reassessment](reassessment.md) - Learners revisit and revise their responses after discussion or additional learning.
@@ -206,6 +258,9 @@ Instructional building blocks — the components you compose into patterns.
 * [Role-Playing](role-playing.md) - Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective.
 * [Rubric Design](rubric-design.md) - Rubric design is the element in which criteria and performance levels are made explicit through a structured evaluative framework.
 * [Rubrics](rubrics.md) - Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
+
+#### S {: #letter-s }
+
 * [Scaffolded Inquiry](scaffolded-inquiry.md) - Gradually shifts learners from guided exploration to independent inquiry.
 * [Scaffolding](scaffolding.md) - Scaffolding is the element in which support is added temporarily so learners can perform tasks they could not yet complete independently.
 * [Scenario-Based Learning](scenario-based-learning.md) - Scenario-based learning is the element in which instruction is organized around a realistic situation, case, or mission that requires learners to interpret information and make decisions in context.
@@ -237,16 +292,26 @@ Instructional building blocks — the components you compose into patterns.
 * [Summarization and Synthesis](summarization-and-synthesis.md) - Learners distill key concepts from a discussion, reading, or experience.
 * [Summative Assessment](summative-assessment.md) - Summative assessment is the element in which a learner's performance is judged at the end of a unit, course, or other instructional sequence.
 * [Supportive information](supportive-information.md) - Supportive information provides the cognitive strategies, mental models, and conceptual frameworks necessary for tackling complex tasks.
+
+#### T {: #letter-t }
+
 * [Task Management](task-management.md) - Task management is the element in which learners organize, track, assign, or sequence work across a project or collaborative activity.
 * [Team-Based Inquiry](team-based-inquiry.md) - Students work in structured groups to analyze problems, construct solutions, and reflect together.
 * [Technology Integration](technology-integration.md) - Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
 * [Think-Aloud](think-aloud.md) - Think-aloud is the element in which an instructor, peer, or learner verbalizes reasoning while performing a task.
+
+#### V {: #letter-v }
+
 * [Video Prompts](video-prompts.md) - Video prompts are short video clips used to launch attention, curiosity, discussion, or analysis.
 * [Video-Based Reflection](video-based-reflection.md) - Video-based reflection is the element in which learners review recorded performance to analyze choices, patterns, and next steps.
 * [Virtual Whiteboards](virtual-whiteboards.md) - Virtual whiteboards are the element in which learners sketch, annotate, and collaborate in a shared digital visual workspace.
+
+#### W {: #letter-w }
+
 * [Whole-Class Sharing](whole-class-sharing.md) - The entire class participates in discussion or presentation of ideas, often following small-group activities.
 * [Whole-task performance](whole-task-performance.md) - Whole-task performance engages learners in authentic, complex tasks that integrate multiple skills and knowledge areas simultaneously, mirroring the conditions of real-world practice.
 * [Worked Examples](worked-examples.md) - Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
+
 
 ## Draft
 

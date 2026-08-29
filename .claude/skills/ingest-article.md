@@ -53,6 +53,14 @@ Read the article carefully and list what it contributes to the wiki. For each co
 
 Most papers will primarily contribute **claims** and may also reinforce existing **principles** or **elements**. Be conservative: only create a new page if the article provides meaningful content for it. Cite don't hallucinate — only extract what is actually in the article.
 
+**If the article contributes nothing genuine** (out of scope, no learning-design content, matched the search topic on keyword overlap only) — log it as rejected and stop here, no branch/PR needed:
+
+```bash
+python3 scripts/log_source_review.py \
+  --id "doi:<doi-or-url>" --title "<Article Title>" \
+  --status rejected --reason "<why it doesn't belong, one sentence>"
+```
+
 ---
 
 ## Step 4 — Check existing pages
@@ -143,6 +151,14 @@ Add one entry per page created or updated:
 
 under today's `## YYYY-MM-DD` heading (or run `python3 scripts/log_revision.py <page> --by <actor> --type ingest --desc "[source title, DOI]"`, which appends this and updates the page's `generated` field together).
 
+Also log the source review itself to `sources/manifest.ndjson` (see CLAUDE.md's Source Manifest section):
+
+```bash
+python3 scripts/log_source_review.py \
+  --id "doi:<doi-or-url>" --title "<Article Title>" \
+  --status ingested --pages <folder>/<slug>.md <folder>/<slug2>.md
+```
+
 ---
 
 ## Step 11 — Commit
@@ -154,6 +170,7 @@ git add claims/<new-claim>.md
 git add principles/<updated>.md   # etc.
 git add index.md
 git add log.md
+git add sources/manifest.ndjson
 git commit -m "Ingest: <Article Title> (<Year>)
 
 Created: <list new pages>

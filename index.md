@@ -4,32 +4,7 @@ okf_version: "0.2"
 
 # Learning Design Wiki
 
-A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.
-
----
-
-## Knowledge Types
-
-### [Principles](principles/index.md) (133)
-Research-backed design commitments: what to do and why.
-
-### [Elements](elements/index.md) (240)
-Instructional building blocks — the components you compose into patterns.
-
-### [Patterns](patterns/index.md) (77)
-Reusable instructional designs at the lesson or unit level.
-
-### [Strategies](strategies/index.md) (1629)
-Concrete teaching activity recipes — specific, implementable approaches.
-
-### [Theories](theories/index.md) (12)
-Explanatory frameworks that ground principles and claims.
-
-### [Learner Variables](learner-variables/index.md) (1)
-Canonical learner characteristics/variables (prior knowledge, self-efficacy, working memory, ...) that claims report findings about — one page per variable so the same concept doesn't fragment across differently-worded tags.
-
-### [Claims](claims/index.md) (27)
-Empirical claims with evidence ratings, sources, and competing views.
+A persistent, LLM-maintained knowledge base for learning design: [Principles](principles/index.md) (133), [Elements](elements/index.md) (240), [Patterns](patterns/index.md) (77), [Strategies](strategies/index.md) (1629), [Theories](theories/index.md) (12), [Learner Variables](learner-variables/index.md) (1), and [Claims](claims/index.md) (27) — cross-linked and evidence-tagged. Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.
 
 ---
 
@@ -37,6 +12,7 @@ Empirical claims with evidence ratings, sources, and competing views.
 
 * [Ingest & edit log](log.md)
 * [Schema & agent guide](CLAUDE.md)
+* [Source manifest](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/sources/manifest.ndjson) — every source article reviewed, ingested or rejected (plain NDJSON, not a wiki page — browse on GitHub or grep it)
 
 ## How to use this wiki
 

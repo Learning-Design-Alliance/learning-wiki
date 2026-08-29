@@ -159,16 +159,55 @@ ld-wiki/
   learner-variables/ ← canonical learner characteristics (prior knowledge, self-efficacy, ...) claims link into
   claims/            ← empirical claims with evidence
   sources/           ← bibliographic source pages (optional; most citations live inline in Key Sources / Evidence)
+    manifest.ndjson    ← append-only log of every source reviewed, ingested or rejected (see Source Manifest below)
   scripts/
     okf_lib.py         ← shared OKF helpers (frontmatter parse/dump, link conversion, actor formatting)
     ingest.py          ← CSV → wiki pages batch ingest
     enrich.py          ← LLM-based stub enrichment (Claude/Gemini)
     build_indexes.py   ← regenerates index.md and every per-folder index from disk state
     log_revision.py    ← records a revision card + updates a page's `generated` field + appends to log.md
+    log_source_review.py ← appends one entry to sources/manifest.ndjson (see Source Manifest below)
     lint.py            ← health-check (see Lint above)
 ```
 
 Each folder's `index.md` is itself a reserved OKF filename: no frontmatter (except the bundle-root's `okf_version`), and a plain `* [Title](slug.md) - description` bullet listing grouped by status. Regenerate these with `python3 scripts/build_indexes.py` rather than hand-editing them.
+
+---
+
+## Source Manifest
+
+`sources/manifest.ndjson` is an append-only record of every source article the ingest pipeline has *reviewed* — whether it contributed pages or was rejected as out of scope. It exists so anyone (including people outside this project) can check whether a specific article has already been covered, or audit the whole scan, at a scale (eventually tens of thousands of articles) where a rendered list or one page per source stops being practical. It is not meant to be human-browsed — it's a data file, not a wiki page.
+
+**Format:** one JSON object per line (NDJSON), never rewritten or reordered — only appended to.
+
+```json
+{"id": "eric-ed265520", "title": "The Effects of High and Low Relevant Text Underlining on Test Performance.", "doi": null, "reviewed_at": "2026-08-27", "status": "ingested", "pages": ["elements/text-underlining-and-annotating.md", "theories/von-restorff-effect-text-marking.md"]}
+{"id": "eric-ed616622", "title": "A Bibliography of Cognitive Information Processing Theory, Research, and Practice", "doi": null, "reviewed_at": "2026-08-27", "status": "rejected", "reason": "matched the search topic on keyword overlap only, but the source is a career/vocational-counseling bibliography, not a learning-science theory; out of scope for this wiki"}
+```
+
+Fields: `id` (source identifier — the ERIC/PMC/arXiv id from the automated pipeline, or `doi:<doi>` / a URL for manually-ingested articles), `title`, `doi` (nullable), `reviewed_at` (ISO date), `status` (`"ingested"` or `"rejected"`), and either `pages` (bundle-relative paths the source contributed to, for `"ingested"`) or `reason` (why it didn't contribute, for `"rejected"`).
+
+**Always append via the helper, never hand-edit the file:**
+
+```bash
+python3 scripts/log_source_review.py --id "doi:10.1234/example" --title "Article Title" \
+  --status ingested --pages claims/foo.md elements/bar.md
+
+python3 scripts/log_source_review.py --id "doi:10.1234/other" --title "Other Article" \
+  --status rejected --reason "not learning-science, out of scope"
+```
+
+(`scripts/ingest_extractions.py`, the automated eval-pipeline ingest path, calls `okf_lib.append_manifest_entry()` directly instead of shelling out to this script — same effect.)
+
+**Looking something up** (no need for a script — it's just NDJSON):
+
+```bash
+grep '"id": "eric-ed265520"' sources/manifest.ndjson
+grep -i '"title":.*underlining' sources/manifest.ndjson
+python3 -c "import json,sys; [print(l) for l in map(json.loads, open('sources/manifest.ndjson')) if l['status']=='rejected']"
+```
+
+Known gap: the CSV batch-import path (`scripts/ingest.py`, reading external `~/research_briefs/*.csv` files) doesn't write to the manifest — those rows have no natural per-article identity to key an entry on.
 
 ---
 
