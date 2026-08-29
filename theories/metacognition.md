@@ -37,6 +37,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - Efficient execution of a strategy so that it frees rather than consumes cognitive capacity
 
 ## Claims
+- [Fluent bilingualism enhances metalinguistic awareness](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+M]
 
 ## Related Theories
 - [Executive Function Development](executive-function-development.md) — the underlying self-regulatory capacity that metacognitive knowledge is applied through

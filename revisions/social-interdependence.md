@@ -7,3 +7,6 @@ page: ../principles/social-interdependence.md
 
 ### 2026-08-29 · content · claude/unspecified
 Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+
+### 2026-08-29 · content · claude/unspecified
+Cross-link culturally responsive classroom norms (Unit 7 enrichment)

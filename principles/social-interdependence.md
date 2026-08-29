@@ -45,6 +45,7 @@ Johnson and Johnson (1998; see also Smith et al., 2005) operationalize the requi
 ## Related Principles
 - [Collaborative Learning](collaborative-learning.md)
 - [Social Learning](social-learning.md)
+- [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) — students from cultures emphasizing an interdependent self-concept may find cooperative structures an especially natural fit, while students expecting individual, competitive evaluation may need more explicit orientation to it
 
 ## Examples
 - In a jigsaw discussion, each learner becomes responsible for one source and the final synthesis depends on every member bringing that expertise back to the group.

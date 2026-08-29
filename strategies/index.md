@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**1640 entries** · 0 stable · 1628 in review · 12 drafts
+**1641 entries** · 0 stable · 1627 in review · 14 drafts
 
 ---
 
@@ -968,7 +968,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Motion and Forces Experiments](motion_and_forces_experiments.md) - Motion and forces experiments involve exploring how forces affect the motion of objects.
 * [Motor Images](motor_images.md) - Motor images, also known as muscle memory, involve using physical movements and actions to enhance learning and recall.
 * [Movement Breaks](movement_breaks.md) - Movement breaks are brief, structured activities incorporated into classroom settings to energize learners, improve focus, and enhance learning.
-* [Multi-Tiered System of Supports (MTSS)](multi-tiered_system_of_supports_(mtss).md) - Implementing a Multi-Tiered System of Supports (MTSS) for literacy instruction in middle schools.
 * [Multimodal Assignments](multimodal_assignments.md) - Multimodal assignments involve a variety of assessment methods that challenge learners to create video or audio projects, write personal essays, or complete quizzes.
 * [Multimodal Composition](multimodal_composition.md) - Multimodal composition involves creating texts using various modes of communication such as images, words, sound, and movement.
 * [Multimodal Composition Projects](multimodal_composition_projects.md) - Multimodal composition involves learners combining different modes of communication (linguistic, visual, audio, gestural, spatial) to enhance the message they want to convey.
@@ -1719,4 +1718,4 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
-12 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
+14 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
