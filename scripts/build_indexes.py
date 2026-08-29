@@ -165,7 +165,12 @@ def build_folder_index(page_type: str, config: dict) -> str:
                 "Create a file in `sources/` using the Source template in [CLAUDE.md](../CLAUDE.md).\n\n"
                 "Source pages are created when a claim or principle cites a specific paper or book. "
                 "Each source page needs: full citation, DOI/URL, a 2–4 sentence summary, "
-                "and links to claim pages the source supports."
+                "and links to claim pages the source supports.\n\n"
+                "## Source manifest\n\n"
+                "Every source the ingest pipeline has reviewed — ingested or rejected — is recorded in "
+                "[`sources/manifest.ndjson`](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/sources/manifest.ndjson), "
+                "separately from these optional per-source pages. It's plain data (one JSON object per line), "
+                "not rendered here — see CLAUDE.md's Source Manifest section for the schema and how to query it."
             ),
         }
         guidance = empty_guidance.get(
@@ -226,6 +231,8 @@ def build_root_index(counts: dict) -> str:
         "",
         "* [Ingest & edit log](log.md)",
         "* [Schema & agent guide](CLAUDE.md)",
+        "* [Source manifest](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/sources/manifest.ndjson) "
+        "— every source article reviewed, ingested or rejected (plain NDJSON, not a wiki page — browse on GitHub or grep it)",
         "",
         "## How to use this wiki",
         "",

@@ -18,6 +18,7 @@ Usage:
     --fix   : auto-promote pages that pass all checks from draft → review
 """
 
+import json
 import re
 import sys
 import argparse
@@ -221,6 +222,38 @@ def check_stable_unverified(pages: dict[str, Path]) -> list[dict]:
     return issues
 
 
+def check_manifest_integrity(pages: dict[str, Path]) -> list[dict]:
+    """Validate sources/manifest.ndjson — every line must parse as JSON with the
+    required fields for its status, per CLAUDE.md's Source Manifest schema."""
+    issues = []
+    manifest_path = WIKI_ROOT / "sources" / "manifest.ndjson"
+    if not manifest_path.exists():
+        return issues
+    rel = str(manifest_path.relative_to(WIKI_ROOT))
+    for lineno, line in enumerate(manifest_path.read_text(encoding="utf-8").splitlines(), start=1):
+        if not line.strip():
+            continue
+        try:
+            entry = json.loads(line)
+        except json.JSONDecodeError as e:
+            issues.append({"file": rel, "type": "manifest_invalid_json", "detail": f"line {lineno}: {e}"})
+            continue
+        missing = [k for k in ("id", "title", "status", "reviewed_at") if k not in entry]
+        if missing:
+            issues.append({"file": rel, "type": "manifest_missing_field",
+                            "detail": f"line {lineno} ({entry.get('id', '?')}): missing {missing}"})
+        if entry.get("status") not in ("ingested", "rejected"):
+            issues.append({"file": rel, "type": "manifest_bad_status",
+                            "detail": f"line {lineno} ({entry.get('id', '?')}): status={entry.get('status')!r}"})
+        elif entry["status"] == "ingested" and not entry.get("pages"):
+            issues.append({"file": rel, "type": "manifest_ingested_no_pages",
+                            "detail": f"line {lineno} ({entry.get('id', '?')}): status=ingested but no pages"})
+        elif entry["status"] == "rejected" and not entry.get("reason"):
+            issues.append({"file": rel, "type": "manifest_rejected_no_reason",
+                            "detail": f"line {lineno} ({entry.get('id', '?')}): status=rejected but no reason"})
+    return issues
+
+
 def auto_promote(pages: dict[str, Path], all_issues: list[dict], dry_run: bool = False) -> int:
     """Promote draft pages with no issues to status: review."""
     issue_files = {i["file"] for i in all_issues}
@@ -244,7 +277,7 @@ def auto_promote(pages: dict[str, Path], all_issues: list[dict], dry_run: bool =
 def main():
     parser = argparse.ArgumentParser(description="Lint the ld-wiki")
     parser.add_argument("--fix", action="store_true", help="Auto-promote clean draft pages to review")
-    parser.add_argument("--type", choices=["broken_links", "drafts", "claims", "principles", "conflicts", "trust", "all"],
+    parser.add_argument("--type", choices=["broken_links", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "all"],
                         default="all", help="Which checks to run")
     args = parser.parse_args()
 
@@ -261,6 +294,7 @@ def main():
         "competing":     check_unfilled_competing_claims,
         "conflicts":     check_open_conflicts,
         "trust":         check_stable_unverified,
+        "manifest":      check_manifest_integrity,
     }
 
     selected = list(checks.keys()) if args.type == "all" else [args.type]
