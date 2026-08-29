@@ -10,6 +10,27 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-29
 
+* **Content**: [theories/kohlberg-moral-development](theories/kohlberg-moral-development.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Content**: [theories/psychosocial-theory-of-identity-development](theories/psychosocial-theory-of-identity-development.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Content**: [theories/information-processing-theory](theories/information-processing-theory.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Content**: [theories/sociocultural-theory](theories/sociocultural-theory.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Content**: [theories/stages-of-cognitive-development](theories/stages-of-cognitive-development.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/metacognition](theories/metacognition.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/executive-function-development](theories/executive-function-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [principles/bullying-prevention-and-intervention](principles/bullying-prevention-and-intervention.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/adolescent-peer-group-structure](theories/adolescent-peer-group-structure.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [claims/motor-milestones-vary-by-cultural-childcare-practices](claims/motor-milestones-vary-by-cultural-childcare-practices.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [claims/conversational-turns-predict-language-development](claims/conversational-turns-predict-language-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [principles/heritage-language-maintenance](principles/heritage-language-maintenance.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [principles/supporting-early-language-development](principles/supporting-early-language-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [elements/child-directed-speech](elements/child-directed-speech.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/language-acquisition-theory](theories/language-acquisition-theory.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [principles/character-education](principles/character-education.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/turiels-social-domain-theory](theories/turiels-social-domain-theory.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/gilligans-ethic-of-care](theories/gilligans-ethic-of-care.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/piaget-moral-development](theories/piaget-moral-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/play-and-cognitive-development](theories/play-and-cognitive-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
+* **Ingest**: [theories/adolescent-brain-development](theories/adolescent-brain-development.md) — New page from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
 * **Content**: [elements/makerspace](elements/makerspace.md) — Cross-linked new Constructionism theory page (LIDT Foundations ingest)
 * **Content**: [theories/constructivism](theories/constructivism.md) — Cross-linked new Constructionism theory page (LIDT Foundations ingest)
 * **Content**: [principles/learner-centered-paradigm](principles/learner-centered-paradigm.md) — Enriched with Reigeluth's new-roles taxonomy for teachers/students/technology, from "An Instructional Theory for the Post-Industrial Age" (ch. 20 of LIDT Foundations, edtechbooks.org/lidtfoundations)

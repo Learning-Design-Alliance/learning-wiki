@@ -5,7 +5,7 @@ description: Kohlberg's cognitive-developmental theory holds that moral reasonin
 status: draft
 generated:
   by: claude/unspecified
-  at: 2026-08-28
+  at: 2026-08-29
 ---
 
 # Kohlberg's Stages of Moral Development
@@ -29,7 +29,7 @@ Following Piaget's constructivist requirements for a stage model, Kohlberg held 
 A transitional **Stage 4½** is sometimes noted — disaffection with arbitrary law-and-order reasoning, often seen in students entering college — along with a speculative, evidentially unsupported **seventh stage ("Transcendental" or "Cosmic" morality)** linking religion and moral reasoning, which Kohlberg himself treated as tentative.
 
 ### Criticisms
-Kohlberg's theory has drawn sustained criticism. **Carol Gilligan**, a former student of Kohlberg's, argued the theory is androcentric — built on all-male original samples — and undervalues an "ethic of care" alongside the theory's emphasis on abstract justice; research since has generally found no consistent gender difference in moral-reasoning stage, tempering the strongest form of Gilligan's critique while keeping the justice-vs-care framing alive as a live discussion. A **cultural-bias** critique notes that while the stage *order* replicates across cultures, the *rate* of progression differs; Kohlberg's own rebuttal is that stages track a mode of reasoning, not the content of any particular culture's beliefs. Social intuitionists (notably Jonathan Haidt) argue moral judgments are often made intuitively first, with "reasoning" arriving after as post-hoc justification — a challenge to the theory's core assumption that reasoning drives judgment. Directly relevant to instructional design: **moral reasoning stage does not reliably predict moral behavior**. Classroom cheating research (Hartshorne & May, 1928–1930; Kline, 2017; Leming, 2008) has found that whether a student cheats is largely situation-specific, regardless of the student's measured moral-development stage — a caution against assuming that raising a class's stage of moral reasoning is sufficient to change behavior.
+Kohlberg's theory has drawn sustained criticism. **Carol Gilligan**, a former student of Kohlberg's, argued the theory is androcentric — built on all-male original samples — and undervalues an "ethic of care" alongside the theory's emphasis on abstract justice; research since has generally found no consistent gender difference in moral-reasoning stage, tempering the strongest form of Gilligan's critique while keeping the justice-vs-care framing alive as a live discussion (see [Gilligan's Ethic of Care](gilligans-ethic-of-care.md) for the full framework). **Turiel's Social Domain Theory** raises a more structural challenge: children differentiate moral, societal, and personal domains of social knowledge from early in development, meaning a person's reasoning in one domain doesn't necessarily predict their reasoning in another — in tension with the idea of a single, unified stage of moral development (see [Turiel's Social Domain Theory](turiels-social-domain-theory.md)). A **cultural-bias** critique notes that while the stage *order* replicates across cultures, the *rate* of progression differs; Kohlberg's own rebuttal is that stages track a mode of reasoning, not the content of any particular culture's beliefs. Social intuitionists (notably Jonathan Haidt) argue moral judgments are often made intuitively first, with "reasoning" arriving after as post-hoc justification — a challenge to the theory's core assumption that reasoning drives judgment. Directly relevant to instructional design: **moral reasoning stage does not reliably predict moral behavior**. Classroom cheating research (Hartshorne & May, 1928–1930; Kline, 2017; Leming, 2008) has found that whether a student cheats is largely situation-specific, regardless of the student's measured moral-development stage — a caution against assuming that raising a class's stage of moral reasoning is sufficient to change behavior.
 
 ## Implications
 
@@ -49,6 +49,9 @@ Kohlberg's theory has drawn sustained criticism. **Carol Gilligan**, a former st
 
 ## Related Theories
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — Kohlberg explicitly modeled his stage requirements (invariance, non-skippability) on Piaget's own constructivist stage theory
+- [Piaget's Theory of Moral Development](piaget-moral-development.md) — Kohlberg built directly on Piaget's own two-phase (heteronomous/autonomous) account of moral reasoning, elaborating it into three levels and six stages
+- [Gilligan's Ethic of Care](gilligans-ethic-of-care.md) — proposes a complementary care-based orientation alongside Kohlberg's justice-centered account
+- [Turiel's Social Domain Theory](turiels-social-domain-theory.md) — challenges the assumption that moral reasoning operates as a single, unified developmental ladder
 - [Self-Determination Theory](self-determination-theory.md) — classroom-management practices this theory motivates (favoring autonomy, belonging, competence, and fairness over extrinsic reward/punishment) parallel SDT's argument that extrinsic control can undermine intrinsic motivation
 
 ## Examples

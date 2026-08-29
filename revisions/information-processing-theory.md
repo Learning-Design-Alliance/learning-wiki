@@ -7,3 +7,6 @@ page: ../theories/information-processing-theory.md
 
 ### 2026-08-29 · content · claude/unspecified
 Enriched with encoding types, working-memory model, and memory taxonomy from Spielman et al., "Memory" (ch. 9 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+
+### 2026-08-29 · content · claude/unspecified
+Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner

@@ -10,3 +10,6 @@ Ingested from Polly, Casto, Norwood & Allman "Sociocultural Perspectives of Lear
 
 ### 2026-08-28 · content · claude/unspecified
 Cross-linked to new Stages of Cognitive Development theory page
+
+### 2026-08-29 · content · claude/unspecified
+Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
