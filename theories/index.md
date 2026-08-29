@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**12 entries** · 0 stable · 11 in review · 1 drafts
+**16 entries** · 0 stable · 11 in review · 5 drafts
 
 ---
 
@@ -22,4 +22,8 @@ Explanatory frameworks that ground principles and claims.
 
 ## Draft
 
+* [Cognitivism](cognitivism.md) - Cognitivism holds that learning is a change in internal mental structures — how information is attended to, encoded, organized in memory, and retrieved — rather than only a change in observable behavior.
+* [Connectivism](connectivism.md) - Connectivism holds that in a networked, digital age, learning is the process of forming and navigating connections between specialized information sources — including non-human ones — rather than only internalizing knowledge inside an individual mind.
+* [First Principles of Instruction](first-principles-of-instruction.md) - First Principles of Instruction is M. David Merrill's synthesis of common ground across instructional design theories, holding that learning is most effective, efficient, and engaging when it is problem-centered and involves activation, demonstration, application, and integration.
+* [Sociocultural Theory](sociocultural-theory.md) - Sociocultural theory, developed from Vygotsky's work, holds that higher-order thinking develops first through social interaction and is then internalized, with learning most effective within a learner's Zone of Proximal Development.
 * [The von Restorff effect in text marking](von-restorff-effect-text-marking.md) - The von Restorff effect is used to explain how underlining functions by isolating information against a background.

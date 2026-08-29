@@ -4,8 +4,8 @@ title: Social Learning Theory
 description: Social Learning Theory, developed primarily by Albert Bandura, proposes that learning occurs not only through direct reinforcement (as behaviorism holds) but also through observation of others and the cognitive processing of those…
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-08
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Social Learning Theory
@@ -39,6 +39,7 @@ Bandura later extended the theory to emphasize *self-efficacy* — a learner's b
 - [Situated Learning](situated-learning.md) — extends observational learning to communities of practice
 - [Self-Regulated Learning](self-regulated-learning.md) — incorporates self-efficacy as a regulatory mechanism
 - [Constructivism](constructivism.md) — shares emphasis on active sense-making; differs in granting social observation a direct instructional role
+- [Sociocultural Theory](sociocultural-theory.md) — both center learning through interaction with others, but Vygotsky's account is developmental (mediated by language and culture) rather than mediated by observation, attention, and self-efficacy
 
 ## Examples
 

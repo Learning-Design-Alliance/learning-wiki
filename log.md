@@ -8,6 +8,18 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-08-29
+
+* **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Cross-linked new Sociocultural Theory page (LIDT Foundations ingest)
+* **Content**: [theories/situated-learning](theories/situated-learning.md) — Cross-linked new Sociocultural Theory and Connectivism pages (LIDT Foundations ingest)
+* **Content**: [theories/cognitive-apprenticeship](theories/cognitive-apprenticeship.md) — Cross-linked new Sociocultural Theory page (LIDT Foundations ingest)
+* **Source**: [theories/constructivism](theories/constructivism.md) — Added Ertmer & Newby (2013) key source and cross-links to new Cognitivism and Sociocultural Theory pages (LIDT Foundations ingest)
+* **Source**: [theories/behaviorism](theories/behaviorism.md) — Added Ertmer & Newby (2013) key source and cross-links to new Cognitivism and Connectivism theory pages (LIDT Foundations ingest)
+* **Ingest**: [theories/first-principles-of-instruction](theories/first-principles-of-instruction.md) — Ingested from Merrill "Using the First Principles of Instruction..." (ch. 21 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [theories/connectivism](theories/connectivism.md) — Ingested from Siemens "Connectivism" (ch. 19 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [theories/sociocultural-theory](theories/sociocultural-theory.md) — Ingested from Polly, Casto, Norwood & Allman "Sociocultural Perspectives of Learning" (ch. 12 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [theories/cognitivism](theories/cognitivism.md) — Ingested from Ertmer & Newby (2013) "Behaviorism, Cognitivism, Constructivism" (ch. 11 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+
 ## 2026-08-28
 
 * **Deprecate**: [strategies/"headings_and_highlight"_strategy](strategies/"headings_and_highlight"_strategy.md) — Deprecated as a duplicate of headings_and_highlight_strategy.md; content merged into the canonical page, this page kept as a redirect stub per CLAUDE.md's no-delete convention

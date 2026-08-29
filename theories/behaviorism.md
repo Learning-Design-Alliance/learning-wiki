@@ -4,8 +4,8 @@ title: Behaviorism
 description: Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-08
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Behaviorism
@@ -34,12 +34,15 @@ In instructional design, behaviorist principles underlie practices such as direc
 ## Claims
 
 ## Related Theories
+- [Cognitivism](cognitivism.md) — arose partly in reaction to behaviorism's neglect of internal cognitive processes
 - [Cognitive Load Theory](cognitive-load-theory.md) — arose partly in reaction to behaviorism's neglect of internal cognitive processes
 - [Constructivism](constructivism.md) — contrasts with behaviorism by centering the learner's active construction of meaning
 - [Information Processing Theory](information-processing-theory.md) — replaced behaviorist black-box assumptions with explicit models of memory and attention
+- [Connectivism](connectivism.md) — positions itself against behaviorism (along with cognitivism and constructivism) as a pre-networked-era theory of individual, internal learning
 
 ## Examples
 
 ## Key Sources
 - Skinner, B. F. (1954). The science of learning and the art of teaching. *Harvard Educational Review, 24*, 86–97.
 - Thorndike, E. L. (1913). *Educational psychology: Vol. 2. The psychology of learning.* Teachers College Press.
+- Ertmer, P. A., & Newby, T. J. (2013). Behaviorism, cognitivism, constructivism: Comparing critical features from an instructional design perspective. *Performance Improvement Quarterly, 26*(2), 43–71. [doi:10.1002/piq.21143](https://doi.org/10.1002/piq.21143)
