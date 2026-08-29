@@ -41,6 +41,7 @@ Papert saw computers as giving children unprecedented power to explore what he c
 
 ## Related Theories
 - [Constructivism](constructivism.md) — constructionism is Papert's specific extension of constructivism, adding the requirement of a concrete, shareable, inspectable artifact as the vehicle for learning
+- [Stages of Cognitive Development](stages-of-cognitive-development.md) — the chapter this page draws on identifies Piaget's stage theory as the foundation constructionism (via constructivism) ultimately builds on
 
 ## Examples
 - [Makerspace](../elements/makerspace.md) — a direct institutional expression of constructionist learning: learners build tangible, shareable artifacts with support from more experienced makers
