@@ -39,11 +39,13 @@ Options:
 """
 
 import argparse
+import concurrent.futures
 import csv
 import json
 import os
 import re
 import sys
+import threading
 import time
 from datetime import date
 from pathlib import Path
@@ -921,20 +923,32 @@ def cmd_run(args: argparse.Namespace) -> None:
         print(f"No draft pages found for type={args.type}.")
         return
 
+    total = len(pages)
     wiki_slugs = get_wiki_slugs()
     written = []
+    done = {"n": 0}
+    print_lock = threading.Lock()      # keeps concurrent workers' output from interleaving
+    slugs_lock = threading.Lock()      # guards the shared wiki_slugs dict + create_missing_stubs
+    written_lock = threading.Lock()
 
-    for page_path, csv_row, name in pages:
+    def process_page(page_path: Path, csv_row: dict, name: str) -> None:
+        nonlocal wiki_slugs
         current_stub = page_path.read_text(encoding="utf-8")
-        user_prompt = build_user_prompt(args.type, name, csv_row, current_stub, wiki_slugs)
-
-        print(f"\n── {name} ({page_path.name}) ──")
+        with slugs_lock:
+            slugs_snapshot = dict(wiki_slugs)  # read under lock so a sibling's mid-run stub is visible
+        user_prompt = build_user_prompt(args.type, name, csv_row, current_stub, slugs_snapshot)
 
         if args.dry_run:
-            print(f"[DRY RUN] Would call {model} via {provider}")
-            print("SYSTEM PROMPT (truncated):", SYSTEM_PROMPT[:200], "...")
-            print("USER PROMPT (truncated):", user_prompt[:500], "...")
-            continue
+            with print_lock:
+                done["n"] += 1
+                print(f"\n[{done['n']}/{total}] ── {name} ({page_path.name}) ──")
+                print(f"[DRY RUN] Would call {model} via {provider}")
+                print("SYSTEM PROMPT (truncated):", SYSTEM_PROMPT[:200], "...")
+                print("USER PROMPT (truncated):", user_prompt[:500], "...")
+            return
+
+        with print_lock:
+            print(f"\n[{done['n'] + 1}/{total}] ── {name} ({page_path.name}) started ──")
 
         try:
             if provider == "gemini":
@@ -957,19 +971,41 @@ def cmd_run(args: argparse.Namespace) -> None:
                 content = response.content[0].text
 
             write_enriched_page(page_path, content)
-            written.append((args.type, name))
-            print(f"[OK] Written to {page_path.relative_to(WIKI_ROOT)}")
+            with written_lock:
+                written.append((args.type, name))
 
-            # Create stubs for any wikilinked pages that don't exist yet
-            create_missing_stubs(content)
-            # Refresh slug list so subsequent pages in this run can link to new stubs
-            wiki_slugs = get_wiki_slugs()
+            # Create stubs for any wikilinked pages that don't exist yet, then
+            # fold the refreshed slug list back into the shared dict so any
+            # sibling worker still running (or the next one dispatched) can
+            # cross-link to what this page just created.
+            with slugs_lock:
+                create_missing_stubs(content)
+                wiki_slugs = get_wiki_slugs()
+
+            with print_lock:
+                done["n"] += 1
+                print(f"[{done['n']}/{total}] [OK] {name} -> {page_path.relative_to(WIKI_ROOT)}")
 
         except Exception as e:
-            print(f"[ERROR] {name}: {e}")
+            with print_lock:
+                done["n"] += 1
+                print(f"[{done['n']}/{total}] [ERROR] {name}: {e}")
 
-        # Brief pause between requests
+        # Brief pause per request — still applied per-worker under concurrency,
+        # so it throttles each thread's own request rate, not the aggregate.
         time.sleep(1 if provider == "gemini" else 0.5)
+
+    concurrency = max(1, getattr(args, "concurrency", 1))
+    if concurrency <= 1:
+        for page_path, csv_row, name in pages:
+            process_page(page_path, csv_row, name)
+    else:
+        print(f"Running with concurrency={concurrency}...")
+        with concurrent.futures.ThreadPoolExecutor(max_workers=concurrency) as executor:
+            futures = [executor.submit(process_page, page_path, csv_row, name)
+                       for page_path, csv_row, name in pages]
+            for future in concurrent.futures.as_completed(futures):
+                future.result()  # re-raise anything unexpected rather than swallow it silently
 
     if written:
         append_log(written)
@@ -1015,6 +1051,10 @@ def main() -> None:
                             "(default: flash-lite)  openrouter: any OpenRouter model slug "
                             f"(default: {OPENROUTER_DEFAULT_MODEL})")
     p_run.add_argument("--overwrite", action="store_true")
+    p_run.add_argument("--concurrency", type=int, default=1,
+                       help="Max pages to enrich in parallel (default: 1, sequential — same "
+                            "behavior as before this option existed). Rate limits are per-provider "
+                            "and not enforced here, so raise this gradually and watch for 429s.")
     p_run.add_argument("--dry-run", action="store_true",
                        help="Show prompts without calling API")
 
