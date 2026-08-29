@@ -10,6 +10,14 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-29
 
+* **Content**: [principles/validity-reliability-and-bias-in-classroom-assessment](principles/validity-reliability-and-bias-in-classroom-assessment.md) — Enriched with constructs, three types of reliability, and the reliability-does-not-imply-validity distinction (Unit 2)
+* **Ingest**: [strategies/teacher_action_research](strategies/teacher_action_research.md) — New strategy: teacher action research cycle (Unit 2)
+* **Ingest**: [theories/developmental-research-designs](theories/developmental-research-designs.md) — New theory: cross-sectional/longitudinal/sequential developmental research designs (Unit 2)
+* **Ingest**: [elements/research-data-collection-methods](elements/research-data-collection-methods.md) — New element: observation/survey/archival research data-collection methods (Unit 2)
+* **Ingest**: [principles/designing-a-valid-experiment](principles/designing-a-valid-experiment.md) — New principle: experimental design mechanics, IV/DV, blinding, random sampling vs assignment (Unit 2)
+* **Ingest**: [claims/illusory-correlations-persist-through-confirmation-bias](claims/illusory-correlations-persist-through-confirmation-bias.md) — New claim (ld-13): illusory correlations and the full-moon lunar-lunacy meta-analysis (Unit 2)
+* **Ingest**: [theories/research-design-taxonomy](theories/research-design-taxonomy.md) — New theory: quant/qual, descriptive/correlational/experimental research design taxonomy (Unit 2)
+* **Ingest**: [principles/evidence-based-teaching-and-scientific-reasoning](principles/evidence-based-teaching-and-scientific-reasoning.md) — New principle: evidence-based teaching, confirmation bias, falsifiability, scientific method (Unit 2)
 * **Content**: [strategies/consider_socio-cultural_factors](strategies/consider_socio-cultural_factors.md) — Enriched with NCES digital-divide statistics (Unit 1)
 * **Content**: [principles/intelligence-testing-uses-and-limits](principles/intelligence-testing-uses-and-limits.md) — Enriched with Binet's founding history and purpose for intelligence testing (Unit 1)
 * **Ingest**: [theories/critical-pedagogy](theories/critical-pedagogy.md) — New theory: Critical Pedagogy (Unit 1)

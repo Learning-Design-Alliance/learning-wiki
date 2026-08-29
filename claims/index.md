@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**40 entries** · 0 stable · 22 in review · 18 drafts
+**41 entries** · 0 stable · 22 in review · 19 drafts
 
 ---
 
@@ -43,6 +43,7 @@ Empirical claims with evidence ratings, sources, and competing views.
 * [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md) - Experimenter-generated underlining is as effective as student-generated underlining for test performance
 * [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md)
 * [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md)
+* [Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence](illusory-correlations-persist-through-confirmation-bias.md)
 * [Interesting but irrelevant details added to a lesson can distract from learning the material they were meant to enliven](seductive-details-distract-from-learning.md)
 * [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md) - Intuitive learners tend to outperform sensing learners in media-based presentations
 * [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md)
