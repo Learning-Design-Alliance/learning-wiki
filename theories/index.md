@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**38 entries** · 0 stable · 11 in review · 27 drafts
+**40 entries** · 0 stable · 11 in review · 29 drafts
 
 ---
 
@@ -27,6 +27,7 @@ Explanatory frameworks that ground principles and claims.
 * [ARCS Model of Motivational Design](arcs-model.md) - Keller's ARCS model holds that learner motivation depends on four conditions — Attention, Relevance, Confidence, and Satisfaction — and provides a systematic process for diagnosing which condition is unmet and selecting a matching design tactic.
 * [Attribution Theory](attribution-theory.md) - Attribution Theory holds that a learner's motivation after success or failure depends less on what actually caused the outcome than on what the learner believes caused it, classified along the dimensions of locus, stability, and controllability.
 * [Bioecological Model of Human Development](bioecological-model-of-human-development.md) - Bronfenbrenner's bioecological model holds that development is driven by sustained proximal interactions occurring within a nested set of environmental systems, from the immediate to the broadly cultural, across time.
+* [Bloom's Taxonomy](blooms-taxonomy.md) - Bloom's Taxonomy classifies learning goals into cognitive, psychomotor, and affective domains, each organized as a hierarchy from simpler to more complex levels, to help teachers select objectives and match them to instructional strategies.
 * [Cognitivism](cognitivism.md) - Cognitivism holds that learning is a change in internal mental structures — how information is attended to, encoded, organized in memory, and retrieved — rather than only a change in observable behavior.
 * [Connectivism](connectivism.md) - Connectivism holds that in a networked, digital age, learning is the process of forming and navigating connections between specialized information sources — including non-human ones — rather than only internalizing knowledge inside an individual mind.
 * [Constructionism](constructionism.md) - Constructionism holds that learning is most effective when a learner actively builds a public, shareable, inspectable artifact — not just any active engagement, but the specific act of constructing something concrete that embodies an idea.
@@ -37,6 +38,7 @@ Explanatory frameworks that ground principles and claims.
 * [Gilligan's Ethic of Care](gilligans-ethic-of-care.md) - Gilligan proposed a morality of care — centered on responsibility, interdependence, and responsiveness to others' needs — as a complement to Kohlberg's justice-centered account, organized into three positions of increasing sophistication rather than strict developmental stages.
 * [Kohlberg's Stages of Moral Development](kohlberg-moral-development.md) - Kohlberg's cognitive-developmental theory holds that moral reasoning develops through six invariant, hierarchically-ordered stages grouped into three levels, as a person's current stage proves inadequate for new moral dilemmas.
 * [Language Acquisition Theory](language-acquisition-theory.md) - Competing accounts of how children acquire language — behaviorist/learning-theory, nativist, and social-interactionist — converge on the view that acquisition depends on both an innate biological readiness and rich environmental interaction, with neither alone being sufficient.
+* [Locus of Control](locus-of-control.md) - Locus of control is a person's generalized belief about whether their outcomes are caused mainly by their own effort (internal) or by forces outside their control such as luck, chance, or powerful others (external).
 * [Maslow's Hierarchy of Needs](maslow-hierarchy-of-needs.md) - Maslow's hierarchy of needs proposes that human motivation is organized by prepotency, from physiological needs through safety, love/belonging, and esteem to self-actualization, with lower needs typically requiring substantial (not complete) satisfaction before higher needs become active motivators.
 * [Metacognition](metacognition.md) - Metacognition is knowledge about one's own thinking and the ability to regulate cognitive strategies accordingly; it develops gradually across childhood, with distinct failure modes describing why a learner does or doesn't benefit from a strategy they could, in principle, use.
 * [Multiple Intelligences Theory](multiple-intelligences-theory.md) - Howard Gardner's theory holds that intelligence is not a single general capacity but at least eight relatively independent abilities, with individuals typically strong in some and weak in others.

@@ -50,6 +50,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Self-Regulated Learning](self-regulated-learning.md) — self-efficacy beliefs shape whether a learner persists with self-regulatory strategies after an initial setback
 - [Expectancy-Value Theory](expectancy-value-theory.md) — shares the "expectancy" component but frames it as domain-general rather than task-specific
 - [ARCS Model of Motivational Design](arcs-model.md) — the Confidence category is a direct, practitioner-facing operationalization of self-efficacy-building tactics
+- [Locus of Control](locus-of-control.md) — a related but distinct cognitive factor: self-efficacy is belief in one's own task-specific ability, while locus of control is a broader belief about whether outcomes generally are controlled by one's own effort or by external forces
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)

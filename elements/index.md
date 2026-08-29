@@ -2,7 +2,7 @@
 
 Instructional building blocks — the components you compose into patterns.
 
-**245 entries** · 0 stable · 239 in review · 6 drafts
+**246 entries** · 0 stable · 239 in review · 7 drafts
 
 ---
 
@@ -320,4 +320,5 @@ Jump to: [A](#letter-a) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) ·
 * [Learning Analytics-Driven Feedback](learning-analytics-feedback.md) - Learning Analytics-Driven Feedback uses models built from learner interaction data to predict at-risk learners and surface targeted feedback to learners or instructors, compensating for the reduced visibility distance and online instructors have into struggling learners.
 * [Makerspace](makerspace.md) - A Makerspace is a physical or mobile space, formal or informal, where learners use digital and physical tools to design, build, and iterate on self-directed projects.
 * [Open Educational Resources (The 5Rs)](open-educational-resources.md) - Open Educational Resources are teaching materials licensed to grant free, perpetual permission to retain, reuse, revise, remix, and redistribute them — the "5Rs" test that distinguishes genuine open licensing from merely free-to-enroll access.
+* [Self-Regulation Questionnaire (SRQ)](self-regulation-questionnaire.md) - The Self-Regulation Questionnaire is a 63-item self-report instrument, built on the Miller and Brown seven-step model of self-regulation, that scores a person's overall self-regulation capacity as high, moderate, or low.
 * [Text underlining and annotating](text-underlining-and-annotating.md) - A study aid involving marking text to indicate importance.

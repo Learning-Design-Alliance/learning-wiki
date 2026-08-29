@@ -10,6 +10,27 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-29
 
+* **Content**: [theories/self-efficacy-theory](theories/self-efficacy-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [theories/self-regulated-learning](theories/self-regulated-learning.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [principles/reinforcement-theory](principles/reinforcement-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [theories/behaviorism](theories/behaviorism.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Content**: [principles/transfer-of-learning](principles/transfer-of-learning.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [elements/self-regulation-questionnaire](elements/self-regulation-questionnaire.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/prosocial-modeling](strategies/prosocial-modeling.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/learning-hierarchy-task-analysis](strategies/learning-hierarchy-task-analysis.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/conditioning-natural-reinforcers](strategies/conditioning-natural-reinforcers.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/behavioral-feedback-for-responses](strategies/behavioral-feedback-for-responses.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/effective-presentation-for-errorless-learning](strategies/effective-presentation-for-errorless-learning.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/prompting-hierarchy](strategies/prompting-hierarchy.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/time-out-negative-punishment](strategies/time-out-negative-punishment.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/token-economies](strategies/token-economies.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [strategies/hugging-and-bridging-for-transfer](strategies/hugging-and-bridging-for-transfer.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [principles/educational-readiness](principles/educational-readiness.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [claims/early-delay-of-gratification-predicts-later-outcomes](claims/early-delay-of-gratification-predicts-later-outcomes.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [patterns/five-e-model](patterns/five-e-model.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [theories/blooms-taxonomy](theories/blooms-taxonomy.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+* **Ingest**: [theories/locus-of-control](theories/locus-of-control.md) — Ingested from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Content**: [theories/kohlberg-moral-development](theories/kohlberg-moral-development.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
 * **Content**: [theories/psychosocial-theory-of-identity-development](theories/psychosocial-theory-of-identity-development.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
 * **Content**: [theories/information-processing-theory](theories/information-processing-theory.md) — Enriched with content from Educational Psychology (Arduini-Van Hoose), Unit 3: The Developing Learner
