@@ -191,6 +191,21 @@ def _post_batch_checks(written_files: list[str]) -> None:
     if conflicts:
         print(check_citations.format_report(conflicts))
 
+    # Whole-wiki health sweep (lint, dedupe collision counts, TODO backlog),
+    # same as run_scrape_batch.py runs after every scrape batch — so both
+    # pipelines feed the same eval/health/history.ndjson trend log
+    # regardless of which one touched the wiki. --skip-doi equivalent
+    # (no Crossref calls) since this fires after every enrich.py batch,
+    # potentially several times an hour; the nightly systemd timer
+    # (deploy/wiki-health-check.timer) covers full DOI resolution.
+    import wiki_health_check
+    result = wiki_health_check.run(skip_doi=True)
+    wiki_health_check.append_history(result)
+    print(f"[post-batch check] Wiki-wide: {sum(result['lint'].values())} lint issue(s), "
+          f"{result['citation_conflicts']} citation conflict(s) wiki-wide, "
+          f"{result['cross_folder_needs_judgment']} cross-folder duplicate candidate(s) needing judgment, "
+          f"{sum(c['todo'] for c in result['incomplete_pages'].values())} page(s) with unfilled TODOs remaining.")
+
 
 def append_log(entries: list) -> None:
     """Append enrichment entries to log.md, OKF date-grouped style."""
