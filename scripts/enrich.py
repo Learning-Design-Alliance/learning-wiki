@@ -236,10 +236,21 @@ def _post_batch_checks(written_files: list[str]) -> None:
     import wiki_health_check
     result = wiki_health_check.run(skip_doi=True)
     wiki_health_check.append_history(result)
+    # Report draft-status and unfilled-TODO counts SEPARATELY, not just
+    # summed as one "TODO" figure — a bare stub (created by
+    # create_missing_stubs() for a dangling cross-link) has status: draft
+    # but no literal <!-- TODO --> string at all, so a TODO-only count
+    # silently hides however many of those a batch just created. Confirmed
+    # the hard way: a strategies batch reported "8 pages remaining" this
+    # way while hundreds of freshly-created bare stubs (from that same
+    # batch's own cross-links) went completely uncounted.
+    draft_total = sum(c["draft"] for c in result["incomplete_pages"].values())
+    todo_total = sum(c["todo"] for c in result["incomplete_pages"].values())
     print(f"[post-batch check] Wiki-wide: {sum(result['lint'].values())} lint issue(s), "
           f"{result['citation_conflicts']} citation conflict(s) wiki-wide, "
           f"{result['cross_folder_needs_judgment']} cross-folder duplicate candidate(s) needing judgment, "
-          f"{sum(c['todo'] for c in result['incomplete_pages'].values())} page(s) with unfilled TODOs remaining.")
+          f"{draft_total} draft page(s) + {todo_total} page(s) with unfilled TODOs remaining "
+          f"({draft_total + todo_total} total incomplete, though some may overlap).")
 
 
 def append_log(entries: list) -> None:
