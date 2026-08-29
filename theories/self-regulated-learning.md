@@ -4,8 +4,8 @@ title: Self-Regulated Learning
 description: Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: zimmerman-2002
     resource: "https://doi.org/10.1207/s15430421tip4102_2"
@@ -46,6 +46,7 @@ Barry Zimmerman's work is one of the most influential formulations of SRL. In th
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](../claims/argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) [~M]
 
 ## Related Theories
 - [Self-Determination Theory](self-determination-theory.md) — motivation and autonomy shape whether learners engage in self-regulatory behaviors

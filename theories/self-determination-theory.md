@@ -4,8 +4,8 @@ title: Self-Determination Theory
 description: Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: deci-2000
     resource: "https://doi.org/10.1207/S15327965PLI1104_01"
@@ -44,12 +44,14 @@ In instructional design, SDT is most often used to explain why some environments
 
 ## Related Theories
 - [Self-Regulated Learning](self-regulated-learning.md) — SDT helps explain why learners may or may not take up the self-regulatory behaviors SRL describes
+- [Rightful Presence](rightful-presence.md) — rightful presence's emphasis on authored, non-conditional belonging overlaps with SDT's relatedness and autonomy conditions
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 - [Learner Choice](../principles/learner-choice.md)
 - [Strengths-based Approach](../principles/strengths-based-approach.md)
 - [Game-Based Learning](../principles/game-based-learning.md)
+- [Identity-Centered e-Textile Making](../patterns/identity-centered-e-textile-making.md) — autonomy over identity expression, competence through scaffolded technical projects, and relatedness through an affirming peer community
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

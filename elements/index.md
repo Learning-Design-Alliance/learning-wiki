@@ -2,7 +2,7 @@
 
 Instructional building blocks — the components you compose into patterns.
 
-**240 entries** · 0 stable · 239 in review · 1 drafts
+**248 entries** · 0 stable · 239 in review · 9 drafts
 
 ---
 
@@ -303,7 +303,7 @@ Jump to: [A](#letter-a) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) ·
 #### V {: #letter-v }
 
 * [Video Prompts](video-prompts.md) - Video prompts are short video clips used to launch attention, curiosity, discussion, or analysis.
-* [Video-Based Reflection](video-based-reflection.md) - Video-based reflection is the element in which learners review recorded performance to analyze choices, patterns, and next steps.
+* [Video-Based Reflection](video-based-reflection.md) - Video-based reflection is the element in which learners or practitioners review recorded performance to analyze choices, patterns, and next steps.
 * [Virtual Whiteboards](virtual-whiteboards.md) - Virtual whiteboards are the element in which learners sketch, annotate, and collaborate in a shared digital visual workspace.
 
 #### W {: #letter-w }
@@ -315,4 +315,12 @@ Jump to: [A](#letter-a) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) ·
 
 ## Draft
 
+* [Agentic Data-Engagement Positions](agentic-data-engagement-positions.md) - A set of four proactive roles — active researcher/consumer, analyst, author, and socio-scientific communicator — that learners can take up when engaging with real-world data, rather than being positioned as passive recipients of official data.
+* [Embodied Choreographic Assessment](embodied-choreographic-assessment.md) - An iterative formative-assessment task in which learners collaboratively choreograph movement to represent a concept, then revise it across cycles of peer feedback and reflection.
+* [Epistemic Games: Shared-Understanding Moves](epistemic-games-shared-understanding-moves.md) - Five recurring, teachable interaction moves — knowledge sharing, perspective-taking, simulation, knowledge validation, and negotiation — that interdisciplinary teams use to construct a shared problem understanding.
+* [Evaluating and Justifying Mechanistic Explanations](evaluating-and-justifying-mechanistic-explanations.md) - A task in which learners judge competing explanations for a phenomenon (mechanistic, circular, teleological), decide whether each actually answers a "how" question, and justify their evaluation.
+* [Listening Palette](listening-palette.md) - A multimodal reflection protocol in which learners individually record noticings in whatever mode feels natural (words, sketches, gesture, movement), then build a collaborative representation with peers before sharing with the whole group.
+* [Participant Examples](participant-examples.md) - A discourse move in which a learner positions themselves as a character within a case or example under academic study, using the case to reason about their own identity category membership rather than only about the case's distant subject.
+* [Pedagogical Agent Signaling for Feedback Salience](pedagogical-agent-signaling.md) - An embodied on-screen agent that points and gazes directly at feedback text when it appears, using social cueing rather than a generic arrow to pull elementary students' attention to feedback they would otherwise skip.
+* [Provocative Objects](provocative-objects.md) - A digital-environment design construct specifying five characteristics — consistent feedback, frequent failure tightly coupled to that feedback, non-standard representations, late or absent formal notation, and legitimate alternative solution paths — that together support productive mathematical play rather than frustration or rote procedure.
 * [Text underlining and annotating](text-underlining-and-annotating.md) - A study aid involving marking text to indicate importance.

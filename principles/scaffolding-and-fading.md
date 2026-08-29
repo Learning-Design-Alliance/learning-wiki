@@ -4,8 +4,8 @@ title: Scaffolding and Fading
 description: Scaffolding provides temporary, contingent support to learners as they develop new skills or knowledge.
 status: review
 generated:
-  by: gemini/unspecified
-  at: 2026-04-06
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: wood-1976
     resource: "https://doi.org/10.1111/j.1469-7610.1976.tb00381.x"
@@ -19,6 +19,14 @@ sources:
     resource: "https://doi.org/10.1023/A:1016027302995"
     title: "Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *Instructional Science, 30*(4), 293–308"
     author: "Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R"
+  - id: van-de-pol-2019
+    resource: "https://doi.org/10.1080/10508406.2018.1522258"
+    title: "van de Pol, J., Mercer, N., & Volman, M. (2019). Scaffolding student understanding in small-group work: Students' uptake of teacher support in subsequent small-group interaction. Journal of the Learning Sciences, 28(2), 206-239"
+    author: "van de Pol, J., Mercer, N., & Volman, M"
+  - id: kupers-et-al-2017
+    resource: "https://doi.org/10.1080/10508406.2016.1259624"
+    title: "Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. Journal of the Learning Sciences, 26(1), 131-166"
+    author: "Kupers, E., van Dijk, M., & van Geert, P"
 ---
 
 # Scaffolding and Fading
@@ -39,6 +47,8 @@ Scaffolding and fading work because novices often need temporary support to perf
 - **Expertise Reversal**: Scaffolding that remains in place for an expert can cause redundant cognitive load and hinder performance [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md).
 - **Over-Scaffolding**: Support that is too high or not faded quickly enough can lead to learner dependence.
 - **Premature Fading**: Withdrawing support before the learner has developed the necessary internal schemas can lead to cognitive overload and failure.
+- **Untimely Fading Blocks Uptake Even When Support Is Well-Calibrated**: A mediation study found that how contingent (well-calibrated) a teacher's support was did NOT predict whether students later applied it — what mattered was whether the teacher checked students' understanding before withdrawing, i.e., fading in time. [Students' application of teacher support predicts accurate answers in small-group work](../claims/student-uptake-of-support-predicts-small-group-answer-accuracy.md) [-M]
+- **Abrupt Large Shifts in Support Style Can Fail**: Over sustained one-on-one instruction, a sudden, large change in how much autonomy/control a teacher grants (in either direction) can fall outside the dyad's established interaction pattern and fail to take hold, reverting to the prior pattern within a few sessions. [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](../claims/scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) [-M]
 
 ### Target Learners
 - **Novice Learners**: Benefit from high-fidelity scaffolding during initial skill acquisition to manage intrinsic load [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S].
@@ -58,6 +68,8 @@ Scaffolding and fading work because novices often need temporary support to perf
 ### Claims
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S] — support is most effective when it adapts to the learner’s current difficulty instead of staying fixed
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S] — the purpose of scaffolding is growing independence, so support should be withdrawn deliberately as competence develops
+- [Students' application of teacher support predicts accurate answers in small-group work](../claims/student-uptake-of-support-predicts-small-group-answer-accuracy.md) [~M] — contingency alone did not predict whether students applied support; timely fading (checking understanding before withdrawing) did
+- [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](../claims/scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) [~M] — a sudden, large shift in support style can fail if it falls outside the dyad's established interaction pattern
 
 ## Related Principles
 - [Worked Examples](worked-examples.md) — often the first stage in a scaffolded sequence.
@@ -70,6 +82,8 @@ Scaffolding and fading work because novices often need temporary support to perf
 - **Faded Worked Examples** — A sequence where the first problem is fully worked, the second is half-worked, and the third is a full problem to solve.
 
 ## Key Sources
+- Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)
+- van de Pol, J., Mercer, N., & Volman, M. (2019). Scaffolding student understanding in small-group work: Students' uptake of teacher support in subsequent small-group interaction. *Journal of the Learning Sciences, 28*(2), 206-239. [https://doi.org/10.1080/10508406.2018.1522258](https://doi.org/10.1080/10508406.2018.1522258)
 - Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. [https://doi.org/10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
 - Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *Instructional Science, 30*(4), 293–308. [https://doi.org/10.1023/A:1016027302995](https://doi.org/10.1023/A:1016027302995)

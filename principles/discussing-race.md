@@ -4,8 +4,8 @@ title: Discussing Race
 description: Discussing race is the instructional principle of addressing racial identity, racism, and racialized experience directly rather than treating them as peripheral or unspeakable.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: day-2021
     resource: "https://doi.org/10.1002/jcad.12382"
@@ -54,6 +54,7 @@ Discussing race productively requires more than openness or good intentions. Lea
 - Social constructivist perspectives — understanding develops through discourse, interpretation, and social negotiation.
 - Critical and transformative learning traditions — difficult dialogue can challenge taken-for-granted assumptions and reframe interpretation.
 - Humanistic and belonging-oriented views — discussion quality depends heavily on safety, trust, and respect.
+- [Person-Centered Psychology](../theories/person-centered-psychology.md) — distinguishes "safe" from "brave" spaces and argues facilitator authenticity and empathic listening (not comfort alone) are what let dialogue about race move into productive vulnerability rather than defensiveness or avoidance
 #### Contradicting / Qualifying
 - Dialogue alone does not produce equity; discussion needs to connect to curriculum, policy, or practice when appropriate.
 - Not all learners experience the same risk in these conversations, so equal participation demands are often inequitable.

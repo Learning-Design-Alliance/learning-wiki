@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**133 entries** · 0 stable · 133 in review · 0 drafts
+**140 entries** · 0 stable · 133 in review · 7 drafts
 
 ---
 
@@ -209,3 +209,13 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Worked Examples](worked-examples.md) - Worked examples present a partially or fully solved problem so learners can study task structure, decision points, and reasoning before attempting similar problems independently.
 
+
+## Draft
+
+* [Appropriating Disciplinary Tools to Challenge Restrictive Narratives](appropriating-disciplinary-tools-to-challenge-restrictive-narratives.md) - A teacher's authentic, hands-on experience of a disciplinary tool (e.g., the engineering design process) as genuinely nonlinear and heterogeneous can be used to actively reframe restrictive, exclusionary narratives about who belongs in a discipline and what counts as doing it.
+* [Conditions for Productive Group Creativity](conditions-for-productive-group-creativity.md) - Group creative tasks need shared domain knowledge to argue from, materials that are accessible and revisable by all members, and facilitation that distributes authority by merit rather than by social dominance.
+* [Curricular Knowledge as a Resource for Responsiveness](curricular-knowledge-as-a-resource-for-responsiveness.md) - Deep knowledge of why a curriculum's activities and question sequences are designed the way they are — not just the content itself — equips teachers to respond flexibly to student thinking within research-based instructional materials, rather than treating the curriculum as a fixed script.
+* [Integrate Self-Regulation Instruction with Scientific Reasoning Instruction](integrate-self-regulation-with-scientific-reasoning-instruction.md) - Teach monitoring and planning together with scientific-reasoning skills (hypothesis generation, evidence generation, evidence evaluation) rather than as separate modules, because spontaneous self-regulation during inquiry is rare and its absence tracks with lower-quality argumentation.
+* [Persistent Autonomy Support During Resistance](persistent-autonomy-support-during-resistance.md) - In sustained one-on-one instruction, maintain an autonomy-supportive teaching style even when a student initially resists it, rather than reverting to directive control at the first sign of pushback — consistency over many sessions, not immediate compliance, is what shifts the interaction toward a more productive pattern.
+* [Relationships as Foundation for Argumentation](relationships-as-foundation-for-argumentation.md) - Trust, emotional safety, and strong teacher-student and student-student relationships are a necessary foundational layer beneath productive scientific argumentation and equitable classroom discourse — without them, students are less willing to share, revise, or challenge ideas in front of peers.
+* [Vertical and Horizontal Bonding in Numerical Routines](vertical-and-horizontal-bonding-in-numerical-routines.md) - Support young children's shift from rote, imitative numerical routines to flexible, outcome-sensitive ones by making explicit the connection between a procedure's steps and its outcome, and by exposing children to multiple procedures that solve the same comparison task.

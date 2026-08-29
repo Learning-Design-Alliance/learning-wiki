@@ -4,8 +4,8 @@ title: Formative Assessment
 description: Formative Assessment is a pattern in which instruction repeatedly cycles through eliciting evidence, interpreting it, and adjusting teaching or learning before final evaluation.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 sources:
   - id: black-1998
     resource: "https://doi.org/10.1080/0969595980050102"
@@ -55,6 +55,7 @@ Formative Assessment is a pattern in which instruction repeatedly cycles through
 ### Claims
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Multimodal, culturally grounded formative assessment supports engagement and agency](../claims/multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) [~W] — extends the elicit-interpret-adjust cycle with embodied and creative response modes (e.g., [Listening Palette](../elements/listening-palette.md), [Embodied Choreographic Assessment](../elements/embodied-choreographic-assessment.md)); contextual because the evidence is from informal, culturally-specific settings, not yet a general classroom finding
 
 ## Design
 

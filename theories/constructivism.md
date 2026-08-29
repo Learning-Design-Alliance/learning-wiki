@@ -4,8 +4,8 @@ title: Constructivism
 description: Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know.
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-07
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Constructivism
@@ -38,6 +38,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Related Theories
+- [Sociomaterial Agency of Tools](sociomaterial-agency-of-tools.md) — extends constructivism by treating the material substrate of a hands-on task, not just the learner's cognitive engagement with it, as consequential for what gets learned
 - [Self-Regulated Learning](self-regulated-learning.md) — constructivist learning often depends on learners monitoring and revising their own understanding
 - [Cognitive Load Theory](cognitive-load-theory.md) — constructivist tasks still have to manage working-memory limits, especially for novices
 - [Information Processing Theory](information-processing-theory.md) — active construction still depends on attention, encoding, and retrieval processes
