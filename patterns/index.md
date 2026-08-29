@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**84 entries** · 0 stable · 77 in review · 7 drafts
+**88 entries** · 0 stable · 77 in review · 11 drafts
 
 ---
 
@@ -141,10 +141,14 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
+* [Emergent Curriculum](emergent-curriculum.md) - Emergent curriculum builds instruction from students' own expressed interests as they arise, rather than from goals set in advance by curriculum writers or teachers, requiring continuous observation and flexible responsiveness in place of predetermined planning.
 * [Epistemic Games](epistemic-games.md) - Epistemic Games immerse learners in the values, identity, and situated decision-making of a professional community of practice, so that facts and skills are acquired as a byproduct of doing the community's work rather than as isolated content.
 * [Five "E" Model](five-e-model.md) - The Five "E" Model is a constructivist lesson pattern with five sequential stages — Engage, Explore, Explain, Elaborate, Evaluate — that structures inquiry-based lessons around students' own discovery before formal terminology is introduced.
 * [Hunter's Effective Teaching Model](hunters-effective-teaching-model.md) - Madeline Hunter's Effective Teaching Model (also called mastery teaching) combines several direct-instruction techniques into one lesson-length sequence — an anticipatory set, clear presentation in short pieces, whole-class checks for understanding, and brief interspersed independent practice with frequent feedback.
+* [Just-In-Time Teaching (JiTT)](just-in-time-teaching.md) - Just-In-Time Teaching has students submit short web-based responses hours before class, letting the instructor adapt that day's activities to exactly where students are struggling, so class time shifts from content transfer to active, cooperative problem-solving.
 * [Massive Open Online Course (MOOC)](massive-open-online-course.md) - A course-grain pattern combining open enrollment, video-based instruction, and light-touch automated or peer assessment at scale — whose original connectivist, networked-learning design was largely abandoned once commercial "xMOOC" platforms adopted a broadcast, video-lecture-plus-quiz model instead.
 * [Online Course Design (Community of Inquiry)](online-course-design.md) - A course-level pattern for designing online courses around Moore's three types of interaction and the Community of Inquiry's cognitive, social, and teaching presences, to counteract the transactional distance learners feel online.
 * [Programmed Instruction](programmed-instruction.md) - Programmed Instruction breaks content into small self-contained steps, each requiring an active response with immediate confirmation, so learners advance individually rather than at a group's pace.
 * [Project Space and Instructional Space](project-and-instructional-space.md) - Reigeluth's response to problem-based instruction's weaknesses — learners work on an authentic project and "freeze" it whenever they hit a learning gap, moving into an individualized instructional space for targeted mastery practice before returning to apply the new skill.
+* [Team-Based Learning (TBL)](team-based-learning.md) - Team-Based Learning organizes an entire course into permanent-team modules, each beginning with individual and team readiness tests over pre-class material, then moving to team application activities built on the "4S" framework, requiring a genuine paradigm shift from content delivery to designing and managing team learning experiences.
+* [Understanding by Design](understanding-by-design.md) - Wiggins and McTighe's backward design process plans a course or unit in three stages — identify desired results, determine acceptable evidence, then plan learning experiences — so that activities and assessments are derived from the learning goals rather than chosen first and justified afterward.

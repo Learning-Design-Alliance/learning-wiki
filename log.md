@@ -10,6 +10,22 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-29
 
+* **Content**: [patterns/blended-learning](patterns/blended-learning.md) — Substantially enrich stub with definitions, Means 2010, Palloff & Pratt 2013 (Unit 8 enrichment)
+* **Content**: [strategies/differentiated_teaching](strategies/differentiated_teaching.md) — Substantially enrich stub with Tomlinson's content/process/product framework (Unit 8 enrichment)
+* **Content**: [patterns/flipped-learning](patterns/flipped-learning.md) — Add Lage Platt Treglia 2000 historical precursor citation (Unit 8 enrichment)
+* **Content**: [patterns/peer-instruction](patterns/peer-instruction.md) — Add Hake 1998, Crouch & Mazur 2001, Deslauriers 2011 effect sizes (Unit 8 enrichment)
+* **Content**: [patterns/traditional-lecture-based-instruction](patterns/traditional-lecture-based-instruction.md) — Add Bligh 2000 objective-dependent effectiveness breakdown (Unit 8 enrichment)
+* **Content**: [principles/active-learning](principles/active-learning.md) — Add Freeman 2014 precise effect sizes and equity/discussion claim cross-links (Unit 8 enrichment)
+* **Content**: [elements/advance-organizers](elements/advance-organizers.md) — Add attention-focusing appeals and anticipatory-set content (Unit 8 enrichment)
+* **Content**: [elements/state-objectives](elements/state-objectives.md) — Add cognitive-vs-behavioral objectives distinction (Gronlund/Mager) (Unit 8 enrichment)
+* **Ingest**: [strategies/pause-procedure](strategies/pause-procedure.md) — New strategy: pause procedure (Unit 8 ingest)
+* **Ingest**: [claims/active-learning-narrows-achievement-gaps](claims/active-learning-narrows-achievement-gaps.md) — New claim ld-11: active learning narrows achievement gaps (Unit 8 ingest)
+* **Ingest**: [claims/discussion-promotes-more-active-thought-than-lecture](claims/discussion-promotes-more-active-thought-than-lecture.md) — New claim ld-10: discussion vs lecture active thought (Unit 8 ingest)
+* **Ingest**: [patterns/emergent-curriculum](patterns/emergent-curriculum.md) — New pattern: emergent curriculum (Unit 8 ingest)
+* **Ingest**: [elements/addressing-student-misconceptions](elements/addressing-student-misconceptions.md) — New element: addressing student misconceptions (Unit 8 ingest)
+* **Ingest**: [patterns/team-based-learning](patterns/team-based-learning.md) — New pattern: Team-Based Learning (TBL), RAP/4S framework (Unit 8 ingest)
+* **Ingest**: [patterns/just-in-time-teaching](patterns/just-in-time-teaching.md) — New pattern: Just-In-Time Teaching (JiTT) (Unit 8 ingest)
+* **Ingest**: [patterns/understanding-by-design](patterns/understanding-by-design.md) — New pattern: Understanding by Design backward design framework (Unit 8 ingest)
 * **Content**: [principles/social-interdependence](principles/social-interdependence.md) — Cross-link culturally responsive classroom norms (Unit 7 enrichment)
 * **Content**: [theories/metacognition](theories/metacognition.md) — Cross-link bilingual metalinguistic awareness claim (Unit 7 enrichment)
 * **Content**: [strategies/multi-tiered_system_of_supports_(mtss)](strategies/multi-tiered_system_of_supports_(mtss).md) — Substantially rewrite stub with RTI/MTSS tier structure and history (Unit 7 enrichment)

@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**37 entries** · 0 stable · 22 in review · 15 drafts
+**39 entries** · 0 stable · 22 in review · 17 drafts
 
 ---
 
@@ -33,9 +33,11 @@ Empirical claims with evidence ratings, sources, and competing views.
 
 ## Draft
 
+* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md)
 * [Average scores on intelligence tests have risen substantially across generations worldwide](flynn-effect-rising-iq-scores-over-generations.md)
 * [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md)
 * [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) - Different media combinations significantly affect the recall and retention of information
+* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md)
 * [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md)
 * [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md) - Experimenter-generated underlining is as effective as student-generated underlining for test performance
 * [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md)
