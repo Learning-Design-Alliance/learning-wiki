@@ -11,6 +11,8 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 ## Description
+The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
+
 Most intelligence tests aim to measure "g," the general intelligence factor, and are judged by two standards: **reliability** (consistency over repeated administration) and **validity** (actually measuring intelligence rather than something else). Because what counts as an "intelligent" answer changes with age (a 3-year-old multiplying two two-digit numbers is precocious; a 25-year-old unable to do so is not average), interpreting a raw score requires **standardization** — testing a large, representative sample at each age level to establish population norms. Comparing a person's performance to these age norms yields their **mental age**; comparing mental age to chronological age yields the classic **intelligence quotient (IQ)** formula (mental age ÷ chronological age × 100), though most modern tests instead rank a person's raw score against same-age peers directly rather than computing this ratio literally.
 
 Because population-wide intelligence-test performance drifts upward over time (see [the Flynn effect](../claims/flynn-effect-rising-iq-scores-over-generations.md) [~M]), tests must be periodically re-standardized or their norms become stale and systematically overstate test-takers' relative intelligence. The **Wechsler Adult Intelligence Scale (WAIS)** is the most widely used adult intelligence test; its current version, the WAIS-IV, was standardized on 2,200 people aged 16-90, spans 15 tasks across four domains (verbal, perceptual, working memory, processing speed), and has very high reliability (>0.95) along with substantial correlations to real-world criteria — college grades, work performance, occupational level, and everyday functioning among people with intellectual disabilities. Downward and upward age-range adaptations exist for preschoolers (WPPSI-IV) and school-age children/adolescents (WISC-V).
@@ -24,6 +26,7 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - Periodic re-standardization of any intelligence or ability test against a current, representative population sample
 - Awareness of what a given test's format actually rewards (e.g., speed) versus what "intelligent" behavior looks like in a test-taker's own cultural context
 #### Constraints
+- Contemporary use for general ranking or classification departs from Binet's own founding purpose of identifying students who need additional support, not of sorting students overall
 - Norms decay: a test standardized years or decades ago overstates the relative standing of current test-takers, since the population's average performance rises over time [~M]
 - IQ scores do not reflect a person's ability to *change* — a test-blind spot with real consequences for how the resulting number gets used or interpreted downstream
 - Tests calibrated to a speed-favoring or Anglo-American, middle-class conception of "smart" undervalue test-takers whose cultural background favors contemplative reasoning or values non-academic forms of ability
@@ -53,6 +56,7 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 ## Examples
 
 ## Key Sources
+- Zimmerman, B. J., & Schunk, D. H. (Eds.). (2003). *Educational psychology: A century of contributions*. Erlbaum.
 - Watkins, C. E., Campbell, V. L., Nieberding, R., & Hallmark, R. (1995). Contemporary practice of psychological assessment by clinical psychologists. *Professional Psychology: Research and Practice, 26*(1), 54-60.
 - Flynn, J. R. (1999). Searching for justice: The discovery of IQ gains. *American Psychologist, 54*(1), 5-20.
 - Neisser, U. (Ed.). (1998). *The rising curve: Long-term gains in IQ and related measures*. American Psychological Association.

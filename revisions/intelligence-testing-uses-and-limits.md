@@ -10,3 +10,6 @@ New page: IQ testing, standardization, and bias (Unit 7 ingest)
 
 ### 2026-08-29 · content · claude/unspecified
 Cross-linked terminology-shift and standardized-test-bias pages (Unit 10)
+
+### 2026-08-29 · content · claude/unspecified
+Enriched with Binet's founding history and purpose for intelligence testing (Unit 1)

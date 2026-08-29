@@ -4,7 +4,7 @@ okf_version: "0.2"
 
 # Learning Design Wiki
 
-A persistent, LLM-maintained knowledge base for learning design: [Principles](principles/index.md) (171), [Elements](elements/index.md) (251), [Patterns](patterns/index.md) (88), [Strategies](strategies/index.md) (1646), [Theories](theories/index.md) (49), and [Claims](claims/index.md) (40) — cross-linked and evidence-tagged. Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.
+A persistent, LLM-maintained knowledge base for learning design: [Principles](principles/index.md) (174), [Elements](elements/index.md) (251), [Patterns](patterns/index.md) (89), [Strategies](strategies/index.md) (1646), [Theories](theories/index.md) (56), and [Claims](claims/index.md) (40) — cross-linked and evidence-tagged. Read [CLAUDE.md](CLAUDE.md) for the schema, page templates, and agent operating instructions.
 
 ---
 

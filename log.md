@@ -10,6 +10,19 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-29
 
+* **Content**: [strategies/consider_socio-cultural_factors](strategies/consider_socio-cultural_factors.md) — Enriched with NCES digital-divide statistics (Unit 1)
+* **Content**: [principles/intelligence-testing-uses-and-limits](principles/intelligence-testing-uses-and-limits.md) — Enriched with Binet's founding history and purpose for intelligence testing (Unit 1)
+* **Ingest**: [theories/critical-pedagogy](theories/critical-pedagogy.md) — New theory: Critical Pedagogy (Unit 1)
+* **Ingest**: [theories/essentialism-and-perennialism-educational-philosophy](theories/essentialism-and-perennialism-educational-philosophy.md) — New theory: Essentialism and Perennialism as educational philosophies (Unit 1)
+* **Ingest**: [theories/existentialism-educational-philosophy](theories/existentialism-educational-philosophy.md) — New theory: Existentialism as an educational philosophy (Unit 1)
+* **Ingest**: [theories/pragmatism-and-progressivism-educational-philosophy](theories/pragmatism-and-progressivism-educational-philosophy.md) — New theory: Pragmatism and Progressivism as educational philosophies (Unit 1)
+* **Ingest**: [theories/realism-educational-philosophy](theories/realism-educational-philosophy.md) — New theory: Realism as an educational philosophy (Unit 1)
+* **Ingest**: [theories/idealism-educational-philosophy](theories/idealism-educational-philosophy.md) — New theory: Idealism as an educational philosophy (Unit 1)
+* **Ingest**: [principles/twelve-characteristics-of-effective-teachers](principles/twelve-characteristics-of-effective-teachers.md) — New principle: Walker (2008) twelve characteristics of effective teachers (Unit 1)
+* **Ingest**: [principles/nbpts-five-core-propositions](principles/nbpts-five-core-propositions.md) — New principle: NBPTS Five Core Propositions for accomplished teaching (Unit 1)
+* **Ingest**: [theories/fullers-concerns-theory](theories/fullers-concerns-theory.md) — New theory: Fuller's Concerns Theory of teacher development, self/task/impact stages (Unit 1)
+* **Ingest**: [principles/educational-psychology-as-art-and-science](principles/educational-psychology-as-art-and-science.md) — New principle: educational psychology as both art and science (Unit 1)
+* **Ingest**: [patterns/herbarts-formal-steps](patterns/herbarts-formal-steps.md) — New pattern: Herbart's five formal steps for lesson sequencing (Unit 1)
 * **Content**: [elements/observation](elements/observation.md) — Enriched with classroom-assessment-specific observation content (Unit 10)
 * **Content**: [principles/intelligence-testing-uses-and-limits](principles/intelligence-testing-uses-and-limits.md) — Cross-linked terminology-shift and standardized-test-bias pages (Unit 10)
 * **Content**: [principles/assessment-for-learning](principles/assessment-for-learning.md) — Enriched with Dweck incremental/fixed view of ability shaping assessment purpose (Unit 10)
