@@ -17,6 +17,8 @@ The paradigm draws on several converging research strands: the American Psycholo
 
 Because this is a paradigm shift rather than a technique, the authors argue it requires **systemic** change — informed by critical systems theory — rather than piecemeal reform: changing assessment without changing pacing, or changing pacing without changing the teacher's role, tends to fail because the pieces of a school system are interdependent.
 
+Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers** move from "sage on the stage" to "guide on the side," taking on three roles: designer of student work (in both project and instructional contexts), facilitator of the learning process (coaching, scaffolding, arranging resources), and caring mentor concerned with the student's whole development. **Students** take on complementary roles: worker (learning is active — the teacher designs the work, but cannot do the learning for the student), self-directed learner (the industrial-age system's extrinsic controls are replaced by nurtured self-motivation), and teacher (peer tutoring and near-peer teaching, since someone who just learned something is often especially well-positioned to help someone else learn it). **Technology** takes on four roles — record-keeping, planning, instruction, and assessment for student learning — ideally integrated into a "Personalized Integrated Educational System."
+
 ## Implications
 
 ### Context
@@ -53,3 +55,4 @@ Because this is a paradigm shift rather than a technique, the authors argue it r
 - Watson, S. L., & Reigeluth, C. M. (2008). The learner-centered paradigm of education. *Educational Technology, 54*(3), 42–48. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/learnercentered_paradigm](https://edtechbooks.org/lidtfoundations/learnercentered_paradigm)
 - Bransford, J., Brown, A., & Cocking, R. (Eds.). (1999). *How people learn: Brain, mind, experience, and school*. National Academy Press.
 - McCombs, B., & Whisler, J. (1997). *The learner-centered classroom and school*. Jossey-Bass.
+- Reigeluth, C. M. (2011). An instructional theory for the post-industrial age. *Educational Technology, 51*(5), 25–29. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/postindustrial_age_theory](https://edtechbooks.org/lidtfoundations/postindustrial_age_theory)

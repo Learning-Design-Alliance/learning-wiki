@@ -10,6 +10,26 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-29
 
+* **Content**: [elements/makerspace](elements/makerspace.md) — Cross-linked new Constructionism theory page (LIDT Foundations ingest)
+* **Content**: [theories/constructivism](theories/constructivism.md) — Cross-linked new Constructionism theory page (LIDT Foundations ingest)
+* **Content**: [principles/learner-centered-paradigm](principles/learner-centered-paradigm.md) — Enriched with Reigeluth's new-roles taxonomy for teachers/students/technology, from "An Instructional Theory for the Post-Industrial Age" (ch. 20 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Content**: [principles/problem-based-learning](principles/problem-based-learning.md) — Added Savery (2019) key source and PBI-critique caveat from Reigeluth (ch. 20), LIDT Foundations ingest
+* **Content**: [principles/performance-technology](principles/performance-technology.md) — Enriched with Rossett & Schafer's Performance Support Tools taxonomy, from Boileau, "Informal Learning" (ch. 17 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Content**: [theories/information-processing-theory](theories/information-processing-theory.md) — Enriched with encoding types, working-memory model, and memory taxonomy from Spielman et al., "Memory" (ch. 9 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [patterns/project-and-instructional-space](patterns/project-and-instructional-space.md) — Ingested from Reigeluth, "An Instructional Theory for the Post-Industrial Age" (ch. 20 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [patterns/massive-open-online-course](patterns/massive-open-online-course.md) — Ingested from Weller, "Twenty Years of EdTech" (ch. 8) and Wiley, "Open Educational Resources" (ch. 37) of LIDT Foundations, edtechbooks.org/lidtfoundations
+* **Ingest**: [elements/open-educational-resources](elements/open-educational-resources.md) — Ingested from Wiley, "Open Educational Resources" (ch. 37) and Weller, "Twenty Years of EdTech" (ch. 8) of LIDT Foundations, edtechbooks.org/lidtfoundations
+* **Ingest**: [claims/media-comparison-studies-produce-uninterpretable-results](claims/media-comparison-studies-produce-uninterpretable-results.md) — Ingested from Lockee, Moore & Burton, "Old Concerns with New Distance Education Research" (ch. 36 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/free-choice-learning-environment-design](principles/free-choice-learning-environment-design.md) — Ingested from Ashton, Nelson & Millward, "Careers in Museum Learning" (ch. 52 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/access-use-effectiveness-framework](principles/access-use-effectiveness-framework.md) — Ingested from Davies & West, "Technology Integration in Schools" (ch. 31 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/universal-design-for-learning](principles/universal-design-for-learning.md) — Ingested from U.S. Office of Educational Technology, "National Educational Technology Plan" (ch. 30 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/informal-learning](principles/informal-learning.md) — Ingested from Boileau, "Informal Learning" (ch. 17 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/communities-of-innovation](principles/communities-of-innovation.md) — Ingested from West, "Communities of Innovation" (ch. 14 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [principles/four-boundaries-of-learning-community](principles/four-boundaries-of-learning-community.md) — Ingested from Williams & West, "Learning Communities" (ch. 13 of LIDT Foundations, edtechbooks.org/lidtfoundations)
+* **Ingest**: [theories/triarchic-theory-of-intelligence](theories/triarchic-theory-of-intelligence.md) — Ingested from Spielman et al., "Intelligence" (ch. 10 of LIDT Foundations, edtechbooks.org/lidtfoundations) -- Sternberg's Triarchic Theory
+* **Ingest**: [theories/multiple-intelligences-theory](theories/multiple-intelligences-theory.md) — Ingested from Spielman et al., "Intelligence" (ch. 10 of LIDT Foundations, edtechbooks.org/lidtfoundations) -- Gardner's Multiple Intelligences
+* **Ingest**: [theories/constructionism](theories/constructionism.md) — Ingested from Lee, "A Short History of the Learning Sciences" (ch. 4 of LIDT Foundations, edtechbooks.org/lidtfoundations) -- Papert's constructionism
+* **Ingest**: [theories/design-layers-theory](theories/design-layers-theory.md) — Ingested from Gibbons, "What and How Do Designers Design?" (ch. 24 of LIDT Foundations, edtechbooks.org/lidtfoundations)
 * **Content**: [theories/first-principles-of-instruction](theories/first-principles-of-instruction.md) — Cross-linked new ARCS Model theory page
 * **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Cross-linked new ARCS Model theory page
 * **Content**: [theories/self-efficacy-theory](theories/self-efficacy-theory.md) — Cross-linked new ARCS Model theory page

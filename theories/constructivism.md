@@ -44,6 +44,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Cognitivism](cognitivism.md) — constructivism grew out of cognitivism but rejects the assumption that knowledge is mind-independent and can be mapped onto a learner
 - [Sociocultural Theory](sociocultural-theory.md) — Vygotsky is a direct historical source for constructivism's emphasis on social interaction and meaning-making
 - [Situated Learning](situated-learning.md) — shares constructivism's emphasis on authentic context, but centers participation in social practice rather than individual meaning-making
+- [Constructionism](constructionism.md) — Papert's extension of constructivism, adding the requirement that learning takes the form of building a public, shareable artifact
 
 ## Examples
 - [Inquiry-based Learning](../principles/inquiry-based-learning.md)

@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**27 entries** · 0 stable · 22 in review · 5 drafts
+**28 entries** · 0 stable · 22 in review · 6 drafts
 
 ---
 
@@ -36,5 +36,6 @@ Empirical claims with evidence ratings, sources, and competing views.
 * [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) - Different media combinations significantly affect the recall and retention of information
 * [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md) - Experimenter-generated underlining is as effective as student-generated underlining for test performance
 * [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md) - Intuitive learners tend to outperform sensing learners in media-based presentations
+* [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md)
 * [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md) - Prior knowledge is not significantly related to test performance in this sample
 * [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) - Relevancy of emphasized text directs attention and influences test performance
