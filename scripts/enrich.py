@@ -52,6 +52,8 @@ from typing import Optional
 sys.path.insert(0, str(Path(__file__).parent))
 import okf_lib as ok
 
+sys.path.insert(0, str(Path(__file__).parent.parent))  # for scripts.eval (openrouter_client, model_catalog)
+
 # ── Paths ─────────────────────────────────────────────────────────────────────
 
 WIKI_ROOT   = Path(__file__).parent.parent
@@ -68,7 +70,7 @@ CSV_FILES = {
 
 MODELS = {
     "haiku":  "claude-haiku-4-5-20251001",
-    "sonnet": "claude-sonnet-4-6",
+    "sonnet": "claude-sonnet-5",
 }
 
 GEMINI_MODELS = {
@@ -76,6 +78,14 @@ GEMINI_MODELS = {
     "flash":      "gemini-2.5-flash",
     "pro":        "gemini-2.5-pro",
 }
+
+# --provider openrouter: any OpenRouter model slug works via --model, not just
+# these — this is just the default. z-ai/glm-5.3-flash is the only GLM slug
+# actually verified in this project (see model_catalog.py's MODEL_DESCRIPTIONS
+# and its reasoning_effort_for()/needs_reasoning_disabled() tuning from the
+# eval harness work) — don't substitute an unverified "GLM 5.6" or similar
+# without confirming the exact slug against OpenRouter's own model list first.
+OPENROUTER_DEFAULT_MODEL = "z-ai/glm-5.3-flash"
 
 # Gemini Flex: requests may queue 1–15 min; use 15-min client timeout.
 # Retry on 503 (capacity shed) and 429 (rate limit) with exponential backoff.
@@ -864,9 +874,10 @@ def create_missing_stubs(content: str) -> list[str]:
 # ── Streaming run (test mode) ─────────────────────────────────────────────────
 
 def cmd_run(args: argparse.Namespace) -> None:
-    """Process pages with API. Supports --provider anthropic (default) or gemini."""
+    """Process pages with API. Supports --provider anthropic (default), gemini, or openrouter."""
     provider = getattr(args, "provider", "anthropic")
     client = None
+    openrouter_api_key = None
 
     if not args.dry_run:
         if provider == "gemini":
@@ -882,6 +893,13 @@ def cmd_run(args: argparse.Namespace) -> None:
             client = genai.Client(api_key=api_key)
             model = GEMINI_MODELS.get(getattr(args, "model", "flash-lite"), GEMINI_MODELS["flash-lite"])
             print(f"Provider: Gemini Flex  |  Model: {model}")
+        elif provider == "openrouter":
+            openrouter_api_key = os.environ.get("OPENROUTER_API_KEY")
+            if not openrouter_api_key:
+                print("[ERROR] OPENROUTER_API_KEY environment variable not set.")
+                sys.exit(1)
+            model = args.model or OPENROUTER_DEFAULT_MODEL
+            print(f"Provider: OpenRouter  |  Model: {model}")
         else:
             try:
                 import anthropic
@@ -921,6 +939,14 @@ def cmd_run(args: argparse.Namespace) -> None:
         try:
             if provider == "gemini":
                 content = call_gemini_flex(client, model, SYSTEM_PROMPT, user_prompt)
+            elif provider == "openrouter":
+                from scripts.eval import openrouter_client, model_catalog
+                gen = openrouter_client.generate(
+                    model, SYSTEM_PROMPT, user_prompt, openrouter_api_key, max_tokens=4000,
+                    disable_reasoning=model_catalog.needs_reasoning_disabled(model),
+                    reasoning_effort=model_catalog.reasoning_effort_for(model),
+                )
+                content = gen.raw_text
             else:
                 response = client.messages.create(
                     model=model,
@@ -978,14 +1004,16 @@ def main() -> None:
     subparsers.add_parser("status", help="Show status of pending batches")
 
     # -- run --
-    p_run = subparsers.add_parser("run", help="Process pages via API (Gemini Flex or Anthropic)")
+    p_run = subparsers.add_parser("run", help="Process pages via API (Gemini Flex, Anthropic, or OpenRouter)")
     p_run.add_argument("--type", required=True, choices=list(CSV_FILES.keys()))
-    p_run.add_argument("--provider", default="anthropic", choices=["anthropic", "gemini"],
+    p_run.add_argument("--provider", default="anthropic", choices=["anthropic", "gemini", "openrouter"],
                        help="API provider (default: anthropic)")
     p_run.add_argument("--limit", type=int, default=None,
                        help="Max pages to process (default: all)")
     p_run.add_argument("--model", default=None,
-                       help="anthropic: haiku|sonnet  gemini: flash-lite|flash|pro  (defaults: haiku / flash-lite)")
+                       help="anthropic: haiku|sonnet (default: haiku)  gemini: flash-lite|flash|pro "
+                            "(default: flash-lite)  openrouter: any OpenRouter model slug "
+                            f"(default: {OPENROUTER_DEFAULT_MODEL})")
     p_run.add_argument("--overwrite", action="store_true")
     p_run.add_argument("--dry-run", action="store_true",
                        help="Show prompts without calling API")
