@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**32 entries** · 0 stable · 22 in review · 10 drafts
+**34 entries** · 0 stable · 22 in review · 12 drafts
 
 ---
 
@@ -38,8 +38,10 @@ Empirical claims with evidence ratings, sources, and competing views.
 * [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md)
 * [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md) - Experimenter-generated underlining is as effective as student-generated underlining for test performance
 * [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md)
+* [Interesting but irrelevant details added to a lesson can distract from learning the material they were meant to enliven](seductive-details-distract-from-learning.md)
 * [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md) - Intuitive learners tend to outperform sensing learners in media-based presentations
 * [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md)
 * [Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.](motor-milestones-vary-by-cultural-childcare-practices.md)
 * [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md) - Prior knowledge is not significantly related to test performance in this sample
 * [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) - Relevancy of emphasized text directs attention and influences test performance
+* [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](overjustification-effect-reduces-intrinsic-motivation.md)

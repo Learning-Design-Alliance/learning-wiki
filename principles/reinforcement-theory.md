@@ -28,7 +28,7 @@ When punishment is used, research identifies similar conditions for it to functi
 - **Observable responses** — reinforcement works best when the desired behavior can be identified and responded to
 - **Consistent contingent consequences** — the consequence needs to follow the target behavior closely enough that the connection is legible
 #### Constraints
-- **External rewards can crowd out intrinsic reasons for engagement if overused**
+- **External rewards can crowd out intrinsic reasons for engagement if overused** — see the [overjustification effect](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [-M], strongest when reward is tied piecemeal to output rather than delivered at a flat rate, and on tasks that are not already well-defined with a clear performance standard
 - **Reinforcement is weaker for complex conceptual change than for routine behavior shaping**
 - **Inconsistent consequences can train the wrong thing** — learners may respond to what is actually rewarded, not what the teacher intended
 
@@ -52,6 +52,7 @@ When punishment is used, research identifies similar conditions for it to functi
 - [Self-Determination Theory](../theories/self-determination-theory.md) — external consequences can support behavior, but may weaken autonomy and intrinsic motivation if poorly designed
 
 ### Claims
+- [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](../claims/overjustification-effect-reduces-intrinsic-motivation.md) [-M] — the clearest documented case where adding reinforcement backfires
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — reinforcement is often more effective when success criteria are explicit and challenging
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — visible progress and consequences can help learners notice and sustain productive behaviors
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice learners may respond better when reinforcement is tied to process and execution rather than distant outcomes only

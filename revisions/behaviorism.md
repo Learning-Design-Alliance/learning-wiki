@@ -13,3 +13,6 @@ Enriched with content from Educational Learning Theories (2nd ed., Zhou & Brown)
 
 ### 2026-08-29 · content · claude/unspecified
 Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
+
+### 2026-08-29 · content · claude/unspecified
+Add overjustification effect cross-link (Unit 6 enrichment)

@@ -10,6 +10,20 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-29
 
+* **Content**: [theories/cognitive-load-theory](theories/cognitive-load-theory.md) — Cross-link seductive details effect as an extraneous-load source (Unit 6 enrichment)
+* **Content**: [principles/reinforcement-theory](principles/reinforcement-theory.md) — Add overjustification effect as a documented constraint (Unit 6 enrichment)
+* **Content**: [theories/behaviorism](theories/behaviorism.md) — Add overjustification effect cross-link (Unit 6 enrichment)
+* **Content**: [theories/arcs-model](theories/arcs-model.md) — Add sub-tactics table and interest-model/Skinner cross-links (Unit 6 enrichment)
+* **Content**: [theories/expectancy-value-theory](theories/expectancy-value-theory.md) — Add multiplicative expectancy x value formula and expectancy/instrumentality/valence teaching tactics (Unit 6 enrichment)
+* **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Add intrinsic-extrinsic continuum and autonomy/competence/relatedness teaching tactics (Unit 6 enrichment)
+* **Content**: [theories/self-efficacy-theory](theories/self-efficacy-theory.md) — Expand four sources of self-efficacy and learned helplessness with moderators/citations (Unit 6 enrichment)
+* **Content**: [theories/attribution-theory](theories/attribution-theory.md) — Add stable-attribution downside, effort-based-attribution conditions, mindset citations (Unit 6 enrichment)
+* **Ingest**: [theories/student-orientation-toward-achievement](theories/student-orientation-toward-achievement.md) — New page: Student Orientation Toward Achievement, Covington's self-worth typology (Unit 6 ingest)
+* **Ingest**: [theories/goal-orientation-theory](theories/goal-orientation-theory.md) — New page: Goal Orientation Theory, 2x2 mastery/performance x approach/avoidance model (Unit 6 ingest)
+* **Ingest**: [claims/seductive-details-distract-from-learning](claims/seductive-details-distract-from-learning.md) — New claim ld-6: seductive details effect (Unit 6 ingest)
+* **Ingest**: [theories/four-phase-interest-development](theories/four-phase-interest-development.md) — New page: Four-Phase Model of Interest Development (Unit 6 ingest)
+* **Ingest**: [claims/overjustification-effect-reduces-intrinsic-motivation](claims/overjustification-effect-reduces-intrinsic-motivation.md) — New claim ld-5: overjustification effect (Unit 6 ingest)
+* **Ingest**: [theories/instinct-drive-and-arousal-theories](theories/instinct-drive-and-arousal-theories.md) — New page: Instinct, Drive, and Arousal Theories (Unit 6 ingest)
 * **Content**: [strategies/project-based_learning_(pbl)](strategies/project-based_learning_(pbl).md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
 * **Content**: [patterns/socratic-seminar](patterns/socratic-seminar.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
 * **Content**: [principles/annotating](principles/annotating.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose

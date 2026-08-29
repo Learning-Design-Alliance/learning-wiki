@@ -16,3 +16,6 @@ Cross-linked new Self-Efficacy, Attribution, and Expectancy-Value theory pages (
 
 ### 2026-08-29 · content · claude/unspecified
 Cross-linked new ARCS Model theory page
+
+### 2026-08-29 · content · claude/unspecified
+Add intrinsic-extrinsic continuum and autonomy/competence/relatedness teaching tactics (Unit 6 enrichment)
