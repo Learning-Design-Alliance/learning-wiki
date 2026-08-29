@@ -10,6 +10,27 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-29
 
+* **Content**: [elements/observation](elements/observation.md) — Enriched with classroom-assessment-specific observation content (Unit 10)
+* **Content**: [principles/intelligence-testing-uses-and-limits](principles/intelligence-testing-uses-and-limits.md) — Cross-linked terminology-shift and standardized-test-bias pages (Unit 10)
+* **Content**: [principles/assessment-for-learning](principles/assessment-for-learning.md) — Enriched with Dweck incremental/fixed view of ability shaping assessment purpose (Unit 10)
+* **Content**: [strategies/addressing_stereotype_threat](strategies/addressing_stereotype_threat.md) — Enriched with Aronson & Steele 2005 mechanism and citation (Unit 10)
+* **Content**: [strategies/effort-based_praise](strategies/effort-based_praise.md) — Enriched with precise Dweck 2000 mechanism and citation (Unit 10)
+* **Content**: [strategies/frequent,_low-stakes_quizzes](strategies/frequent,_low-stakes_quizzes.md) — Enriched with Dempster & Perkins and Bangert-Downs citations (Unit 10)
+* **Content**: [strategies/portfolio_development](strategies/portfolio_development.md) — Enriched with four-dimension purpose taxonomy, implementation steps, Vermont reliability case study (Unit 10)
+* **Content**: [elements/performance-based-assessment](elements/performance-based-assessment.md) — Enriched with authentic/alternative assessment distinction and advantages/disadvantages (Unit 10)
+* **Content**: [strategies/checklists](strategies/checklists.md) — Enriched with checklist-vs-rating-scale distinction (Unit 10)
+* **Content**: [strategies/rubrics](strategies/rubrics.md) — Enriched with holistic/analytic/rating-scale distinctions and citations (Unit 10)
+* **Ingest**: [strategies/traffic-lights-self-assessment](strategies/traffic-lights-self-assessment.md) — New strategy page: Black & Wiliam's traffic-lights confidence self-assessment technique (Unit 10)
+* **Ingest**: [claims/teacher-effectiveness-compounds-over-consecutive-years](claims/teacher-effectiveness-compounds-over-consecutive-years.md) — New claim page: Dallas study on teacher effectiveness and assignment patterns (Unit 10)
+* **Ingest**: [principles/grading-policy-decisions](principles/grading-policy-decisions.md) — New principle page: weighting, hodgepodge grading, absolute vs relative grading, grade descriptions (Unit 10)
+* **Ingest**: [principles/wise-feedback-across-difference](principles/wise-feedback-across-difference.md) — New principle page: Cohen/Steele/Ross wise feedback across racial/ethnic difference (Unit 10)
+* **Ingest**: [principles/standardized-test-fairness-and-bias](principles/standardized-test-fairness-and-bias.md) — New principle page: item content/format bias, differential prediction, stereotype threat mechanism (Unit 10)
+* **Ingest**: [principles/high-stakes-testing-accountability-effects](principles/high-stakes-testing-accountability-effects.md) — New principle page: NCLB content-standard/alignment problems, AYP growth-vs-proficiency, teaching to the test (Unit 10)
+* **Ingest**: [principles/criterion-and-norm-referenced-testing](principles/criterion-and-norm-referenced-testing.md) — New principle page: criterion vs norm-referenced testing, norm groups, achievement/aptitude/diagnostic test types (Unit 10)
+* **Ingest**: [principles/validity-reliability-and-bias-in-classroom-assessment](principles/validity-reliability-and-bias-in-classroom-assessment.md) — New principle page: validity types, Table of Specifications, reliability, offensiveness/unfair penalization bias (Unit 10)
+* **Ingest**: [elements/constructed-response-assessment-items](elements/constructed-response-assessment-items.md) — New element page: completion/short-answer and extended-response items, scoring reliability challenges (Unit 10)
+* **Ingest**: [elements/selected-response-assessment-items](elements/selected-response-assessment-items.md) — New element page: multiple-choice, true-false, and matching items consolidated with common-error tables (Unit 10)
+* **Correction**: [strategies/establish_consistent_routines](strategies/establish_consistent_routines.md) — Fixed in-text citation abbreviation (EIS -> IES) and added its full reference to Key Sources
 * **Content**: [strategies/warning_and_consequence](strategies/warning_and_consequence.md) — Cross-linked low-profile control and natural/logical consequences pages (Unit 9)
 * **Content**: [strategies/repairing_harm](strategies/repairing_harm.md) — Cross-linked conflict-resolution and natural/logical consequences pages (Unit 9)
 * **Content**: [theories/turiels-social-domain-theory](theories/turiels-social-domain-theory.md) — Cross-linked classroom rules-vs-procedures application (Unit 9)

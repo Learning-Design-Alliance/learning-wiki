@@ -2,7 +2,7 @@
 
 Instructional building blocks — the components you compose into patterns.
 
-**249 entries** · 0 stable · 239 in review · 10 drafts
+**251 entries** · 0 stable · 239 in review · 12 drafts
 
 ---
 
@@ -318,10 +318,12 @@ Jump to: [A](#letter-a) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) ·
 * [Addressing Student Misconceptions](addressing-student-misconceptions.md) - Students of all ages carry misleading or outright wrong prior beliefs into a lesson, some well-documented and predictable, others idiosyncratic — anticipating them in advance and treating them with respect even while correcting them is more effective than assuming a blank slate.
 * [Antecedent-Behavior-Consequence (ABC) Model](antecedent-behavior-consequence-model.md) - The ABC model analyzes behavior as an environmental trigger (antecedent) producing an observable action (behavior) followed by an outcome that strengthens or weakens its recurrence (consequence) — the applied-behavior-analysis framework for identifying what is actually maintaining a classroom behavior before intervening.
 * [Child-Directed Speech](child-directed-speech.md) - Child-directed speech — exaggerated pitch, careful articulation, and simplified structure used when speaking with infants and toddlers — increases infant attention and supports early phoneme discrimination.
+* [Constructed-Response Assessment Items](constructed-response-assessment-items.md) - Completion, short-answer, and extended-response (essay) items ask students to recall and produce an answer rather than recognize one, reducing guessing but introducing a genuine scoring-reliability problem that model answers, sample-reading, and rubrics are all meant to address.
 * [Digital Open Badges](digital-open-badges.md) - Digital Open Badges are portable, metadata-rich micro-credentials that recognize discrete competencies, including informal learning that traditional grades and degrees do not capture or make transparent.
 * [Learning Analytics-Driven Feedback](learning-analytics-feedback.md) - Learning Analytics-Driven Feedback uses models built from learner interaction data to predict at-risk learners and surface targeted feedback to learners or instructors, compensating for the reduced visibility distance and online instructors have into struggling learners.
 * [Makerspace](makerspace.md) - A Makerspace is a physical or mobile space, formal or informal, where learners use digital and physical tools to design, build, and iterate on self-directed projects.
 * [Open Educational Resources (The 5Rs)](open-educational-resources.md) - Open Educational Resources are teaching materials licensed to grant free, perpetual permission to retain, reuse, revise, remix, and redistribute them — the "5Rs" test that distinguishes genuine open licensing from merely free-to-enroll access.
+* [Selected-Response Assessment Items](selected-response-assessment-items.md) - Multiple-choice, true-false, and matching items ask students to select rather than construct a response — easy to score objectively, but hard to write well, and appropriate mainly for recognition-level rather than complex learning goals.
 * [Self-Regulation Questionnaire (SRQ)](self-regulation-questionnaire.md) - The Self-Regulation Questionnaire is a 63-item self-report instrument, built on the Miller and Brown seven-step model of self-regulation, that scores a person's overall self-regulation capacity as high, moderate, or low.
 * [Specific Learning Disabilities](specific-learning-disabilities.md) - A learning disability is a significant, specific gap between a student's ability and one narrow area of academic achievement (reading, writing, or math) that persists despite ordinary teaching effort and isn't explained by broader intellectual, sensory, or language-acquisition factors — with dyslexia, dysgraphia, and dyscalculia as the three most commonly diagnosed forms.
 * [Text underlining and annotating](text-underlining-and-annotating.md) - A study aid involving marking text to indicate importance.

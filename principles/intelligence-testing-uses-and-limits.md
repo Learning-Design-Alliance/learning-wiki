@@ -47,6 +47,8 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 ## Related Principles
 - [Supporting Gifted and Talented Students](supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats
 - [Supporting Students with Intellectual Disabilities](supporting-students-with-intellectual-disabilities.md) — intellectual disability classification likewise depends on IQ scores read alongside adaptive functioning, precisely because IQ alone is an incomplete and sometimes biased measure
+- [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — tests historically called "intelligence tests" are now more often called learning-ability, cognitive-ability, or scholastic-aptitude tests, a terminology shift reflecting the same controversy this page describes over whether "intelligence" implies fixed, inherited capacity rather than developed ability (Linn & Miller, 2005)
+- [Standardized Test Fairness and Bias](standardized-test-fairness-and-bias.md) — a parallel treatment of cultural and content bias in achievement and admissions tests specifically, distinct from but related to the IQ-test bias described here
 
 ## Examples
 

@@ -4,8 +4,8 @@ title: Effort-Based Praise
 description: "Praising learners' efforts and strategies—as opposed to their intelligence—cultivates a growth mindset and enhances motivation and performance."
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Effort-Based Praise
@@ -47,9 +47,10 @@ Praising learners' efforts and strategies—as opposed to their intelligence—c
 
 ## Impact
 - Research demonstrates that effort-based praise enhances motivation and performance, while intelligence-based praise can undermine it (reference Dweck's research on mindset). Learners who receive effort-based praise are more likely to embrace challenges and persist through setbacks (reference research on resilience).
+- The specific mechanism: telling a student they are smart when they produce a good result implicitly commits them to that same explanation when they later do poorly — if a good result means "you're smart," a poor result on the very same logic means "you're not smart" (Dweck, 2000). Effort-based praise avoids setting up this trap because it never ties the outcome to a fixed personal trait in the first place.
 
 ## Related Strategies
-- <!-- TODO -->
+- [Wise Feedback Across Racial and Ethnic Difference](../principles/wise-feedback-across-difference.md) — a further consideration when feedback (effort-based or otherwise) crosses a racial or ethnic difference between teacher and student
 
 ## Related Elements
 - <!-- TODO -->
@@ -61,4 +62,5 @@ Praising learners' efforts and strategies—as opposed to their intelligence—c
 - Instead of saying 'You're so smart!' say 'I can see you worked really hard on this, and it paid off!' Instead of saying 'You're a natural at this!' say 'I like the way you tried different strategies until you found one that worked!'
 
 ## Key Sources
-- <!-- TODO -->
+- Dweck, C. S. (2000). *Self-theories: Their role in motivation, personality, and development*. Psychology Press.
+- Arduini-Van Hoose, N. (2020). Providing feedback. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

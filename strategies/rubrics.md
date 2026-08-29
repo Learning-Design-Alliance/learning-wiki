@@ -4,14 +4,18 @@ title: Rubrics
 description: Rubrics are evaluation tools consisting of a set of criteria, a fixed scale, and descriptors that distinguish the differences in the levels of the scale.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: claude/unspecified
+  at: 2026-08-29
 ---
 
 # Rubrics
 
 ## Description
 Rubrics are evaluation tools consisting of a set of criteria, a fixed scale, and descriptors that distinguish the differences in the levels of the scale. They are used to judge the degree of understanding, proficiency levels of skills, the quality of products or performances, and learner growth from one level to the next. Three types of rubrics are commonly used in schools: holistic (provides an overall impression), analytic (divides performance into distinct elements and judges each independently), and developmental (describes growth along a proficiency continuum).
+
+**Holistic rubrics** use a short narrative of characteristics tied to each numeric score, based on an overall impression of performance; because the same score-description applies across multiple components of the assignment at once, the descriptions tend to be fairly vague and don't identify specific strengths or weaknesses component by component — a real cost in directive feedback, but one that's often worth it when assignments vary too much to score component-by-component consistently (e.g., independent capstone projects), or when practicality demands faster scoring across a large volume of work. **Analytic rubrics** divide the assignment into its component parts and describe acceptable/unacceptable performance separately for each — more time-consuming to build and apply, but far more diagnostic, since a student can see exactly which component needs work rather than only an overall impression. Before either, a **basic rating scale** (a checklist plus a numeric quality score, but without narrative descriptors) is a common intermediate step — it's more informative than a bare checklist, but the numbers alone are genuinely ambiguous: one rater's "3" might mean "good" while another's "3" means "marginal," and a student may not read the number the same way the teacher intended it either. Adding narrative descriptors to a rating scale is precisely what turns it into a holistic rubric.
+
+Rubrics pay off across the whole assessment cycle, not just at scoring time: they force the teacher to plan assignment expectations carefully in advance, reduce the time spent clarifying requirements to students during the assignment (since expectations are already explicit), tend to improve the quality of student work once students know precisely what's expected, reduce time spent grading while still supporting constructive feedback, and reduce student complaints and questions about grades because the basis for a score is already visible. The upfront time cost of building a rubric is real, but is paid once per assignment type rather than repeatedly.
 
 ## Design Implications
 
@@ -50,16 +54,18 @@ Rubrics are evaluation tools consisting of a set of criteria, a fixed scale, and
 - Improved learning outcomes: Research demonstrates rubrics enhance assessment, feedback, and self-regulation skills. Increased student engagement: Studies show clear learning targets and criteria improve learner understanding and motivation. Effective instruction: Rubrics inform targeted instructional adjustments.
 
 ## Related Strategies
-- <!-- TODO -->
+- [Checklists](checklists.md) — the least complex form of scoring rubric, indicating presence/absence of a component without judging its quality
 
 ## Related Elements
-- <!-- TODO -->
+- [Rubric Design](../elements/rubric-design.md)
+- [Constructed-Response Assessment Items](../elements/constructed-response-assessment-items.md) — extended-response items are the format where rubric-based scoring matters most for reliability
 
 ## Tools
 - <!-- TODO -->
 
 ## Examples
-- <!-- TODO -->
+- A group-interaction rubric assessing time management, participation and role performance, and shared involvement on a 0-4 scale for each dimension (adapted from Group Interaction (GI) SETUP, 2003)
 
 ## Key Sources
-- <!-- TODO -->
+- Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.
+- Arduini-Van Hoose, N. (2020). Teacher-made assessments. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
