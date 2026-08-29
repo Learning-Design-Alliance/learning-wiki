@@ -10,6 +10,19 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-29
 
+* **Content**: [strategies/project-based_learning_(pbl)](strategies/project-based_learning_(pbl).md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [patterns/socratic-seminar](patterns/socratic-seminar.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [principles/annotating](principles/annotating.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [theories/metacognition](theories/metacognition.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [principles/social-interdependence](principles/social-interdependence.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [patterns/jigsaw-method](patterns/jigsaw-method.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [patterns/hunters-effective-teaching-model](patterns/hunters-effective-teaching-model.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [strategies/student-teams-achievement-divisions](strategies/student-teams-achievement-divisions.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [principles/fostering-creative-thinking](principles/fostering-creative-thinking.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [strategies/ideal-problem-solving-model](strategies/ideal-problem-solving-model.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [principles/well-structured-vs-ill-structured-problems](principles/well-structured-vs-ill-structured-problems.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [claims/functional-fixedness-limits-problem-solving](claims/functional-fixedness-limits-problem-solving.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Ingest**: [theories/critical-thinking](theories/critical-thinking.md) — Ingested from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
 * **Content**: [theories/self-efficacy-theory](theories/self-efficacy-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Content**: [theories/self-regulated-learning](theories/self-regulated-learning.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose
 * **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Enriched from Educational Psychology Unit 4 (The Learning Process), Arduini-Van Hoose

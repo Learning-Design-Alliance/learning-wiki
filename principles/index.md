@@ -2,7 +2,7 @@
 
 Research-backed design commitments: what to do and why.
 
-**150 entries** · 0 stable · 133 in review · 17 drafts
+**152 entries** · 0 stable · 133 in review · 19 drafts
 
 ---
 
@@ -218,6 +218,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Communities of Innovation](communities-of-innovation.md) - A Community of Innovation is a group focused on producing innovative output together, distinguished by named characteristics at the individual, group, and organizational level — hacker motivation, dynamic expertise and autonomy; group flow, idea prototyping, cognitive diversity, and productive critique; flexible structure and psychological safety.
 * [Cone of Experience (Concrete-to-Abstract Media Selection)](cone-of-experience.md) - Dale's Cone of Experience arranges learning experiences along a continuum from concrete, direct experience to abstract, symbolic (verbal) experience, as guidance for balancing — not ranking — media and instructional method choices.
 * [Educational Readiness](educational-readiness.md) - Educational readiness has two complementary meanings — a student's preparedness for the activities and expectations of school, and a teacher's or school's responsibility to adjust instruction to meet students where they actually are.
+* [Fostering Creative Thinking](fostering-creative-thinking.md) - Creative thinking — generating ideas that are new, useful, and appropriate — can be deliberately stimulated through divergent-thinking prompts, protecting intrinsic motivation from constant evaluation, and finding room for experimentation alongside necessary assessment.
 * [Four Boundaries of Learning Community (Access, Relationships, Vision, Function)](four-boundaries-of-learning-community.md) - Because "learning community" is used inconsistently across research and practice, West and Williams propose defining any community by which of four boundaries actually bind it — access, relationships, vision, and function — so designers can diagnose what a given design will and won't produce.
 * [Free-Choice Learning Environment Design](free-choice-learning-environment-design.md) - Free-choice learning environments (museums, hobbies, self-directed exploration) give visitors real control over what and how deeply they engage, with no externally imposed curriculum or sequence, so the design must be intrinsically compelling on its own terms rather than backed by grades or tests.
 * [Informal Learning](informal-learning.md) - Informal learning is self-directed, unofficial learning "pulled" by the learner's own perceived need rather than "pushed" by a predetermined curriculum, and accounts for the large majority of adult and workplace learning even though organizations still spend most training budgets on formal instruction.
@@ -229,3 +230,4 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [TPACK (Technological Pedagogical Content Knowledge)](tpack.md) - TPACK holds that effective teaching with technology requires an integrated understanding of content, pedagogy, and technology together, not mastery of the three in isolation.
 * [Universal Design for Learning (UDL)](universal-design-for-learning.md) - Universal Design for Learning holds that accessibility features should be built into learning materials and environments by default, following three principles — multiple means of representation, expression, and engagement — rather than retrofitted for individual learners after the fact.
 * [User-Centered Design for Learning](user-centered-design-for-learning.md) - User-centered design applies human-computer-interaction methods — personas, prototyping, and usability evaluation — to reduce the extraneous cognitive load a learning interface imposes, alongside pedagogical design.
+* [Well-Structured vs. Ill-Structured Problems](well-structured-vs-ill-structured-problems.md) - Problems vary in how much information and how clear a solution procedure they provide; well-structured problems support algorithms with guaranteed correct solutions, while ill-structured problems require heuristics that work often but not always.

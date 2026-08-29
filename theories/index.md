@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**40 entries** · 0 stable · 11 in review · 29 drafts
+**41 entries** · 0 stable · 11 in review · 30 drafts
 
 ---
 
@@ -31,6 +31,7 @@ Explanatory frameworks that ground principles and claims.
 * [Cognitivism](cognitivism.md) - Cognitivism holds that learning is a change in internal mental structures — how information is attended to, encoded, organized in memory, and retrieved — rather than only a change in observable behavior.
 * [Connectivism](connectivism.md) - Connectivism holds that in a networked, digital age, learning is the process of forming and navigating connections between specialized information sources — including non-human ones — rather than only internalizing knowledge inside an individual mind.
 * [Constructionism](constructionism.md) - Constructionism holds that learning is most effective when a learner actively builds a public, shareable, inspectable artifact — not just any active engagement, but the specific act of constructing something concrete that embodies an idea.
+* [Critical Thinking](critical-thinking.md) - Critical thinking is the skill and disposition to analyze the reliability and validity of information — asking key questions, evaluating evidence, reasoning logically and objectively, and expressing conclusions clearly — applied across, not just within, a single subject.
 * [Design Layers Theory](design-layers-theory.md) - Design Layers Theory holds that an instructional design is not a single unified artifact but a stack of interacting layers — model/content, strategy, message, control, representation, media-logic, and management — each governed by its own goals, constructs, and tools, which explains why designers gravitate toward different entry points and why designs of the same content differ structurally.
 * [Executive Function Development](executive-function-development.md) - Executive functions — inhibitory control, cognitive flexibility, and working memory — are self-regulatory processes that emerge gradually from early childhood through adolescence, shaped by both brain maturation and the quality of caregiving and instructional scaffolding a learner receives.
 * [Expectancy-Value Theory](expectancy-value-theory.md) - Expectancy-Value Theory holds that the two most immediate predictors of a learner's motivation to engage in a task are their expectancy of succeeding at it and the value they place on it, with value further divided into intrinsic, attainment, utility, and cost components.

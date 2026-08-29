@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**83 entries** · 0 stable · 77 in review · 6 drafts
+**84 entries** · 0 stable · 77 in review · 7 drafts
 
 ---
 
@@ -143,6 +143,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Epistemic Games](epistemic-games.md) - Epistemic Games immerse learners in the values, identity, and situated decision-making of a professional community of practice, so that facts and skills are acquired as a byproduct of doing the community's work rather than as isolated content.
 * [Five "E" Model](five-e-model.md) - The Five "E" Model is a constructivist lesson pattern with five sequential stages — Engage, Explore, Explain, Elaborate, Evaluate — that structures inquiry-based lessons around students' own discovery before formal terminology is introduced.
+* [Hunter's Effective Teaching Model](hunters-effective-teaching-model.md) - Madeline Hunter's Effective Teaching Model (also called mastery teaching) combines several direct-instruction techniques into one lesson-length sequence — an anticipatory set, clear presentation in short pieces, whole-class checks for understanding, and brief interspersed independent practice with frequent feedback.
 * [Massive Open Online Course (MOOC)](massive-open-online-course.md) - A course-grain pattern combining open enrollment, video-based instruction, and light-touch automated or peer assessment at scale — whose original connectivist, networked-learning design was largely abandoned once commercial "xMOOC" platforms adopted a broadcast, video-lecture-plus-quiz model instead.
 * [Online Course Design (Community of Inquiry)](online-course-design.md) - A course-level pattern for designing online courses around Moore's three types of interaction and the Community of Inquiry's cognitive, social, and teaching presences, to counteract the transactional distance learners feel online.
 * [Programmed Instruction](programmed-instruction.md) - Programmed Instruction breaks content into small self-contained steps, each requiring an active response with immediate confirmation, so learners advance individually rather than at a group's pace.

@@ -42,6 +42,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Executive Function Development](executive-function-development.md) — the underlying self-regulatory capacity that metacognitive knowledge is applied through
 - [Information Processing Theory](information-processing-theory.md) — metacognitive strategy use directly targets the working-memory and encoding bottlenecks central to information-processing accounts
 - [Self-Regulated Learning](self-regulated-learning.md) — metacognitive monitoring is one of the core components of self-regulation
+- [Critical Thinking](critical-thinking.md) — what makes thinking "critical" rather than merely correct is largely the metacognitive monitoring of one's own thinking
 
 ## Examples
 

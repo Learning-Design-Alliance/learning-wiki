@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**31 entries** · 0 stable · 22 in review · 9 drafts
+**32 entries** · 0 stable · 22 in review · 10 drafts
 
 ---
 
@@ -37,6 +37,7 @@ Empirical claims with evidence ratings, sources, and competing views.
 * [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) - Different media combinations significantly affect the recall and retention of information
 * [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md)
 * [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md) - Experimenter-generated underlining is as effective as student-generated underlining for test performance
+* [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md)
 * [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md) - Intuitive learners tend to outperform sensing learners in media-based presentations
 * [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md)
 * [Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.](motor-milestones-vary-by-cultural-childcare-practices.md)
