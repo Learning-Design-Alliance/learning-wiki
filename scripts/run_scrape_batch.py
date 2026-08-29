@@ -266,6 +266,19 @@ def run(args) -> None:
             print(f"=== scrape batch {args.label!r} stopped: ingest failed (exit {ingest_rc}) ===", flush=True)
             return
 
+        # --skip-doi here: Crossref resolution is cached, but a batch with
+        # many freshly-cited DOIs would still pay full per-DOI latency on
+        # its first run. The nightly systemd timer (see
+        # deploy/wiki-health-check.service) runs the full check including
+        # DOI resolution independent of scraper activity, so nothing here
+        # goes unchecked for more than a day.
+        print(f"\n=== health check on {args.label!r}'s new pages ===", flush=True)
+        health_cmd = [sys.executable, "-u", "scripts/wiki_health_check.py", "--skip-doi"]
+        health_rc = _run_chained_step(health_cmd, SCRAPE_CONSOLE_LOG_PATH)
+        if health_rc != 0:
+            print(f"=== health check flagged issues (exit {health_rc}) — see console log; "
+                  f"not treated as a batch failure ===", flush=True)
+
     state["status"] = "completed"
     state["finished_at"] = _now()
     _save_state(state)

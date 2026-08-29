@@ -51,12 +51,18 @@ _TITLE_STOPWORDS = {
 }
 
 
+def _words_from_text(text: str) -> set:
+    """Significant (lowercase, len>=4, stopword-filtered) words from any text
+    — shared by _title_words below and doi_resolver.py's title-match check,
+    so both use the exact same notion of "same paper"."""
+    return {w for w in re.findall(r"[a-zA-Z]{4,}", text.lower()) if w not in _TITLE_STOPWORDS}
+
+
 def _title_words(line: str, year: str) -> set:
     idx = line.find(f"({year})")
     tail = line[idx + len(year) + 2:] if idx != -1 else line
     tail = re.split(r"doi:|https?://", tail, maxsplit=1)[0]
-    words = re.findall(r"[a-zA-Z]{4,}", tail.lower())
-    return {w for w in words if w not in _TITLE_STOPWORDS}
+    return _words_from_text(tail)
 
 
 def _same_paper(a: set, b: set) -> bool:

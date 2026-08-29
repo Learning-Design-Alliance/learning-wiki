@@ -50,6 +50,12 @@ USER_AGENT = (
 #     bucket under the AWS Open Data Sponsorship Program, not one of NCBI's
 #     own modest servers. No published per-request rate limit; this floor is
 #     just a courteous non-zero minimum, not a measured ceiling.
+#   - api.crossref.org: used by scripts/doi_resolver.py to verify cited
+#     DOIs actually exist. Crossref's "polite pool" (identified via a
+#     mailto param, which doi_resolver.py sets from EVAL_HARNESS_CONTACT_EMAIL
+#     when set) documents much higher headroom than this; this floor is a
+#     conservative default, not a measured ceiling, and resolution results
+#     are cached so most runs make very few requests here at all.
 DEFAULT_MIN_DELAY = {
     "arxiv.org": 15.0,
     "export.arxiv.org": 15.0,
@@ -58,6 +64,7 @@ DEFAULT_MIN_DELAY = {
     "eric.ed.gov": 2.0,
     "files.eric.ed.gov": 2.0,
     "pmc-oa-opendata.s3.amazonaws.com": 0.1,
+    "api.crossref.org": 0.25,
 }
 FALLBACK_MIN_DELAY = 3.0  # any domain not listed above
 

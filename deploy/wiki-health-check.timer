@@ -1,0 +1,14 @@
+[Unit]
+Description=Run the wiki health check nightly, independent of scraper/enrich activity
+
+[Timer]
+# 03:17 UTC — off the top of the hour, avoiding collision with any other
+# midnight/hourly jobs on this box. Persistent=true means a check missed
+# because the droplet was off at 03:17 still runs once it's back up,
+# instead of silently waiting a full day for the next scheduled time.
+OnCalendar=*-*-* 03:17:00
+Persistent=true
+RandomizedDelaySec=300
+
+[Install]
+WantedBy=timers.target
