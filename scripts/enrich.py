@@ -1243,6 +1243,7 @@ def cmd_run(args: argparse.Namespace) -> None:
                     model, SYSTEM_PROMPT, user_prompt, openrouter_api_key, max_tokens=4000,
                     disable_reasoning=model_catalog.needs_reasoning_disabled(model),
                     reasoning_effort=model_catalog.reasoning_effort_for(model),
+                    json_mode=False,
                 )
                 content = gen.raw_text
             else:
