@@ -43,11 +43,23 @@ DOI_RE = re.compile(r"10\.\d{4,9}/[^\s)\]]+")
 # Simon (1993) are different works by an overlapping author list in the same
 # year. Require the title text (the part of the line after the year) to
 # actually overlap before treating two same-key entries as one citation.
+#
+# Deliberately grammatical function words ONLY — no domain topic words (no
+# "learning", "research", "science", "instruction", "practice", ...). An
+# earlier version included those, tuned only against the two same-author-
+# year false positives this file was built to fix (Ericsson 1993 x2, Clark
+# 2016 x2) — those still separate fine on their other, more distinctive
+# words either way. But doi_resolver.py reuses this same word-set logic to
+# compare a citation's title against Crossref's title directly, with no
+# author-year prefilter, and education-research titles routinely consist
+# ALMOST ENTIRELY of exactly those "topic" words (e.g. "E-Learning and the
+# Science of Instruction") — stripping them collapsed both sides to an
+# empty set and reported an automatic false "different paper" on a title
+# that was actually identical. Confirmed by hand against two real
+# doi_resolver.py false positives before narrowing this list.
 _TITLE_STOPWORDS = {
     "the", "and", "of", "in", "a", "an", "for", "on", "to", "with", "from",
-    "how", "what", "when", "does", "review", "study", "studies", "effects",
-    "effect", "meta", "analysis", "learning", "psychological", "educational",
-    "research", "science", "practice", "instruction", "classroom", "students",
+    "how", "what", "when", "does",
 }
 
 
@@ -61,7 +73,25 @@ def _words_from_text(text: str) -> set:
 def _title_words(line: str, year: str) -> set:
     idx = line.find(f"({year})")
     tail = line[idx + len(year) + 2:] if idx != -1 else line
-    tail = re.split(r"doi:|https?://", tail, maxsplit=1)[0]
+    # The slice above still starts with the ". " ending the "(Year)."
+    # clause, immediately before the title itself — strip that first, or
+    # the title-end search below matches THAT period (since it's often
+    # also immediately followed by an italic "*", when the title itself is
+    # italicized) and cuts the tail down to nothing before the title text
+    # is ever reached.
+    tail = tail.lstrip(". ")
+    # Cut at the title's actual end, not just before the DOI/URL — otherwise
+    # venue text (an italicized journal/book name, "In *Conference
+    # Proceedings*", a publisher name after ". ") gets pulled in as if it
+    # were part of the title, diluting a genuine match below threshold (a
+    # second confirmed doi_resolver.py false positive: matching venue noise
+    # like "ASEE Annual Conference & Exposition Proceedings" swamped the two
+    # words that actually matched).
+    end_marker = re.search(r"\.\s+(?=\*|In\s)", tail)
+    if end_marker:
+        tail = tail[:end_marker.start() + 1]
+    else:
+        tail = re.split(r"doi:|https?://", tail, maxsplit=1)[0]
     return _words_from_text(tail)
 
 
