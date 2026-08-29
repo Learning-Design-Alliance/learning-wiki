@@ -578,10 +578,22 @@ def build_user_prompt(
 
     slug_ref = format_slug_list(wiki_slugs)
 
-    # Format CSV row as readable block
-    csv_block = "\n".join(
-        f"{k}: {v.strip()[:500]}" for k, v in csv_row.items() if v and v.strip()
-    )
+    # Format CSV row as readable block. Empty for the CSV-independent
+    # discovery path (find_pages_to_enrich_no_csv) — this page was never
+    # part of the bulk-ingest CSV, so there's no row to show. Say so
+    # explicitly rather than leaving a blank, confusing "## CSV source
+    # data:" section — the model should lean on the exemplar, the current
+    # draft, and its own domain knowledge instead (already true per the
+    # SYSTEM_PROMPT's own instructions; this just names it for this page).
+    if csv_row:
+        csv_block = "\n".join(
+            f"{k}: {v.strip()[:500]}" for k, v in csv_row.items() if v and v.strip()
+        )
+        csv_section = f"## CSV source data:\n{csv_block}\n\n"
+    else:
+        csv_section = ("## CSV source data:\n"
+                       "(none — this page was not part of the bulk-ingest CSV; ground it in the "
+                       "exemplar, the current draft stub, and your own knowledge of the literature)\n\n")
 
     exemplar = load_exemplar(page_type)
     exemplar_block = f"""## Gold-standard exemplar — match this quality exactly:
@@ -599,10 +611,7 @@ def build_user_prompt(
 ## Existing wiki slugs for cross-linking:
 {slug_ref}
 
-## CSV source data:
-{csv_block}
-
-## Current draft stub:
+{csv_section}## Current draft stub:
 {current_stub}
 
 Write the complete enriched page for "{name}" following the template structure and matching the exemplar's density, depth, and wikilink style."""
@@ -697,6 +706,57 @@ def find_pages_to_enrich(page_type: str, overwrite: bool, limit: Optional[int]) 
         if limit and len(results) >= limit:
             break
 
+    return results
+
+
+def _get_page_title(path: Path) -> str:
+    """Read the title from a page's frontmatter — used by the CSV-independent
+    discovery path below, where there's no CSV row to read a name from.
+    Falls back to a slug-derived display name if the frontmatter is missing
+    a title field."""
+    try:
+        text = path.read_text(encoding="utf-8")
+        m = re.search(r"^title:\s*(.+)$", text, re.MULTILINE)
+        if m:
+            return m.group(1).strip().strip('"').strip("'")
+    except OSError:
+        pass
+    return path.stem.replace("-", " ").replace("_", " ").title()
+
+
+def find_pages_to_enrich_no_csv(page_type: str, overwrite: bool, limit: Optional[int]) -> list[tuple[Path, dict, str]]:
+    """
+    CSV-independent variant of find_pages_to_enrich(): iterates every page of
+    this type directly from disk, rather than starting from CSV rows and
+    checking which ones have a matching page.
+
+    Built after discovering the CSV-driven path structurally cannot reach
+    most of the wiki's real TODO backlog: of 1,569 strategies pages still
+    carrying an unfilled <!-- TODO -->, ZERO had a slug matching any row in
+    the CSV (checked 2026-08-29). Their filenames use underscores and raw
+    punctuation straight from source titles (e.g.
+    "graphic_organizers_and_visual_aids_(for_attention).md") — they were
+    created by the scraper pipeline (ingest_extractions.py), which slugifies
+    differently than enrich.py's own slugify(), not by the bulk-ingest CSV
+    path this function's sibling was built for.
+
+    Returns (page_path, {}, name) tuples — csv_row is always an empty dict,
+    since there's no CSV data for these pages; build_user_prompt() and
+    SYSTEM_PROMPT already lean on the exemplar, the page's own current
+    draft, and general domain knowledge rather than requiring the CSV.
+    """
+    folder = WIKI_ROOT / page_type
+    results = []
+    for page_path in sorted(folder.glob("*.md")):
+        if page_path.stem == "index":
+            continue
+        status = get_page_status(page_path)
+        if not overwrite and status in ("review", "stable") and not _has_unfilled_todo(page_path):
+            continue  # already curated, nothing left to fill in
+        name = _get_page_title(page_path)
+        results.append((page_path, {}, name))
+        if limit and len(results) >= limit:
+            break
     return results
 
 
@@ -1059,7 +1119,10 @@ def cmd_run(args: argparse.Namespace) -> None:
     else:
         model = args.model
 
-    pages = find_pages_to_enrich(args.type, args.overwrite, args.limit)
+    if getattr(args, "no_csv", False):
+        pages = find_pages_to_enrich_no_csv(args.type, args.overwrite, args.limit)
+    else:
+        pages = find_pages_to_enrich(args.type, args.overwrite, args.limit)
     if not pages:
         print(f"No draft pages found for type={args.type}.")
         return
@@ -1202,6 +1265,11 @@ def main() -> None:
                             "(default: flash-lite)  openrouter: any OpenRouter model slug "
                             f"(default: {OPENROUTER_DEFAULT_MODEL})")
     p_run.add_argument("--overwrite", action="store_true")
+    p_run.add_argument("--no-csv", action="store_true",
+                       help="Discover pages directly from disk instead of from the bulk-ingest CSV — "
+                            "for pages the scraper pipeline created (different filename convention, "
+                            "no matching CSV row), which --type's normal CSV-driven discovery can "
+                            "never reach no matter how many times it's run.")
     p_run.add_argument("--concurrency", type=int, default=1,
                        help="Max pages to enrich in parallel (default: 1, sequential — same "
                             "behavior as before this option existed). Rate limits are per-provider "
