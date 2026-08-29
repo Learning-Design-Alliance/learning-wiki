@@ -10,6 +10,11 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-29
 
+* **Content**: [theories/first-principles-of-instruction](theories/first-principles-of-instruction.md) — Cross-linked new ARCS Model theory page
+* **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Cross-linked new ARCS Model theory page
+* **Content**: [theories/self-efficacy-theory](theories/self-efficacy-theory.md) — Cross-linked new ARCS Model theory page
+* **Content**: [theories/expectancy-value-theory](theories/expectancy-value-theory.md) — Cross-linked new ARCS Model theory page
+* **Ingest**: [theories/arcs-model](theories/arcs-model.md) — Ingested from Park, "Motivation Theories and Instructional Design" (ch. 15 of LIDT Foundations, edtechbooks.org/lidtfoundations) -- Keller's ARCS model
 * **Content**: [theories/self-determination-theory](theories/self-determination-theory.md) — Cross-linked new Self-Efficacy, Attribution, and Expectancy-Value theory pages (LIDT Foundations ingest)
 * **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Cross-linked new Self-Efficacy Theory page (LIDT Foundations ingest)
 * **Ingest**: [theories/expectancy-value-theory](theories/expectancy-value-theory.md) — Ingested from Park, "Motivation Theories and Instructional Design" (ch. 15 of LIDT Foundations, edtechbooks.org/lidtfoundations)

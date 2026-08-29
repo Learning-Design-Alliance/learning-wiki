@@ -47,6 +47,7 @@ In instructional design, SDT is most often used to explain why some environments
 - [Self-Efficacy Theory](self-efficacy-theory.md) — both treat perceived competence as central, though SDT frames it as one of three basic needs (with autonomy and relatedness) rather than a task-specific belief
 - [Attribution Theory](attribution-theory.md) — controllable attributions support the sense of autonomy and competence SDT identifies as basic needs
 - [Expectancy-Value Theory](expectancy-value-theory.md) — task value overlaps with the sense of relevance and autonomy SDT-informed design also targets
+- [ARCS Model of Motivational Design](arcs-model.md) — ARCS's Relevance and Confidence tactics draw directly on SDT's autonomy and competence needs
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)

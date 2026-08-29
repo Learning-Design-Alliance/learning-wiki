@@ -49,6 +49,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Self-Determination Theory](self-determination-theory.md) — both treat perceived competence as central to motivation, though SDT frames it as one of three basic psychological needs (alongside autonomy and relatedness) rather than a task-specific belief
 - [Self-Regulated Learning](self-regulated-learning.md) — self-efficacy beliefs shape whether a learner persists with self-regulatory strategies after an initial setback
 - [Expectancy-Value Theory](expectancy-value-theory.md) — shares the "expectancy" component but frames it as domain-general rather than task-specific
+- [ARCS Model of Motivational Design](arcs-model.md) — the Confidence category is a direct, practitioner-facing operationalization of self-efficacy-building tactics
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)

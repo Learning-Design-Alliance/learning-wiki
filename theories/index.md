@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**19 entries** · 0 stable · 11 in review · 8 drafts
+**20 entries** · 0 stable · 11 in review · 9 drafts
 
 ---
 
@@ -22,6 +22,7 @@ Explanatory frameworks that ground principles and claims.
 
 ## Draft
 
+* [ARCS Model of Motivational Design](arcs-model.md) - Keller's ARCS model holds that learner motivation depends on four conditions — Attention, Relevance, Confidence, and Satisfaction — and provides a systematic process for diagnosing which condition is unmet and selecting a matching design tactic.
 * [Attribution Theory](attribution-theory.md) - Attribution Theory holds that a learner's motivation after success or failure depends less on what actually caused the outcome than on what the learner believes caused it, classified along the dimensions of locus, stability, and controllability.
 * [Cognitivism](cognitivism.md) - Cognitivism holds that learning is a change in internal mental structures — how information is attended to, encoded, organized in memory, and retrieved — rather than only a change in observable behavior.
 * [Connectivism](connectivism.md) - Connectivism holds that in a networked, digital age, learning is the process of forming and navigating connections between specialized information sources — including non-human ones — rather than only internalizing knowledge inside an individual mind.

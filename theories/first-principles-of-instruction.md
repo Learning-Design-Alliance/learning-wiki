@@ -51,6 +51,7 @@ The **problem-centered** principle further restructures the typical topic-by-top
 
 ## Related Theories
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) + shares the modeling → coaching → fading structure with the demonstration and application principles
+- [ARCS Model of Motivational Design](arcs-model.md) ~ both are integrative, practitioner-facing syntheses, but Merrill treats motivation as an outcome of effective instruction rather than ARCS's separately diagnosable, designable condition
 - [Cognitive Load Theory](cognitive-load-theory.md) ~ whole-task, problem-centered sequencing must still be paced to avoid overwhelming novices' working memory
 - [Constructivism](constructivism.md) + shares an emphasis on authentic, whole tasks and learner integration of new knowledge into existing mental models
 

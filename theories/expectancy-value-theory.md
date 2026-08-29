@@ -52,6 +52,7 @@ Numerous studies link both expectancy and task value independently to achievemen
 - [Self-Efficacy Theory](self-efficacy-theory.md) — the expectancy component overlaps heavily with self-efficacy, differing mainly in grain (domain-specific vs. task-specific)
 - [Attribution Theory](attribution-theory.md) — the stability dimension of a learner's attributions for past outcomes directly shapes their expectancy for future success
 - [Self-Determination Theory](self-determination-theory.md) — task value (especially attainment and utility value) overlaps with the sense of personal relevance and autonomy SDT identifies as motivating
+- [ARCS Model of Motivational Design](arcs-model.md) — Keller's Relevance and Confidence categories directly operationalize task value and expectancy for success
 
 ## Examples
 
