@@ -268,11 +268,28 @@ def main() -> None:
         collisions = fcfd.find_collisions()
         if args.limit:
             collisions = dict(list(collisions.items())[:args.limit])
-        print(f"Found {len(collisions)} cross-folder slug collision(s).", file=sys.stderr)
+        self_referential = fcfd.find_self_referential(collisions)
+        needs_llm = {s: f for s, f in collisions.items() if s not in self_referential}
+        print(f"Found {len(collisions)} cross-folder slug collision(s): "
+              f"{len(self_referential)} resolved deterministically (self-referential link), "
+              f"{len(needs_llm)} need a content judgment.", file=sys.stderr)
 
-        lines = [f"# Cross-folder duplicate scan", "", f"{len(collisions)} slug(s) filed under more than one folder.", ""]
-        for i, (slug, folders) in enumerate(collisions.items(), 1):
-            print(f"Confirming {i}/{len(collisions)}: {slug} ({', '.join(folders)})...", file=sys.stderr)
+        lines = [f"# Cross-folder duplicate scan", "",
+                 f"{len(collisions)} slug(s) filed under more than one folder "
+                 f"({len(self_referential)} resolved deterministically, {len(needs_llm)} judged by {model}).", ""]
+
+        for slug, links in self_referential.items():
+            folders = collisions[slug]
+            link_desc = ", ".join(f"{a} links to {b}" for a, b in links)
+            lines.append(f"## {slug} ({', '.join(folders)})")
+            lines.append(f"- **Confirmed duplicate: True** (deterministic — no LLM call)")
+            lines.append(f"- Reasoning: a page here links to another folder's copy of itself ({link_desc}), "
+                          f"which is only possible if it's a thin stub restating the other rather than "
+                          f"genuinely distinct content.")
+            lines.append("")
+
+        for i, (slug, folders) in enumerate(needs_llm.items(), 1):
+            print(f"Confirming {i}/{len(needs_llm)}: {slug} ({', '.join(folders)})...", file=sys.stderr)
             verdict = stage2_confirm_cross_folder(slug, folders, client, model)
             lines.append(f"## {slug} ({', '.join(folders)})")
             lines.append(f"- **Confirmed duplicate: {verdict.get('is_duplicate')}**")
