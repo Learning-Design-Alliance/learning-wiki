@@ -33,6 +33,8 @@ Usage:
     python3 scripts/find_near_duplicates.py --type strategies --limit 200   # test on a subset
     python3 scripts/find_near_duplicates.py --type principles --out report.md
     python3 scripts/find_near_duplicates.py --type strategies --stage1-only  # just see candidate groups
+    python3 scripts/find_near_duplicates.py --type strategies --provider openrouter  # cheaper (GLM)
+    python3 scripts/find_near_duplicates.py --cross-folder --out cross-folder-report.md
 """
 
 import argparse
@@ -40,6 +42,8 @@ import json
 import re
 import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent.parent))  # for scripts.eval (openrouter_client, model_catalog)
 
 WIKI_ROOT = Path(__file__).parent.parent
 PAGE_TYPES = ("principles", "elements", "patterns", "strategies", "theories", "claims", "learner-variables")
@@ -49,6 +53,11 @@ MODEL_MAP = {
     "opus": "claude-opus-5",
     "haiku": "claude-haiku-4-5-20251001",
 }
+
+# --provider openrouter: any OpenRouter model slug works via --model, not just
+# this — see enrich.py's OPENROUTER_DEFAULT_MODEL comment for why this is the
+# only GLM slug to trust without re-confirming against OpenRouter's own list.
+OPENROUTER_DEFAULT_MODEL = "z-ai/glm-5.3-flash"
 
 
 def _extract_json(text: str):
@@ -70,13 +79,23 @@ def _extract_json(text: str):
     return json.loads(candidate[start:end + 1])
 
 
-def _get_client():
+def _get_client(provider: str = "anthropic"):
+    """For provider="openrouter", the "client" is just the API key (a plain
+    str) — _call() below dispatches on that, so stage1/stage2 don't need to
+    know or care which provider they're talking to."""
+    import os
+    if provider == "openrouter":
+        api_key = os.environ.get("OPENROUTER_API_KEY")
+        if not api_key:
+            print("[ERROR] OPENROUTER_API_KEY not set.", file=sys.stderr)
+            sys.exit(1)
+        return api_key
+
     try:
         import anthropic
     except ImportError:
         print("[ERROR] anthropic package not installed. Run: pip install anthropic", file=sys.stderr)
         sys.exit(1)
-    import os
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         print("[ERROR] ANTHROPIC_API_KEY not set.", file=sys.stderr)
@@ -85,6 +104,15 @@ def _get_client():
 
 
 def _call(client, model: str, prompt: str, max_tokens: int = 8000) -> str:
+    if isinstance(client, str):  # OpenRouter: client is just the API key
+        from scripts.eval import openrouter_client, model_catalog
+        gen = openrouter_client.generate(
+            model, None, prompt, client, max_tokens=max_tokens,
+            disable_reasoning=model_catalog.needs_reasoning_disabled(model),
+            reasoning_effort=model_catalog.reasoning_effort_for(model),
+        )
+        return gen.raw_text
+
     resp = client.messages.create(
         model=model,
         max_tokens=max_tokens,
@@ -216,7 +244,11 @@ def main() -> None:
                              "find_cross_folder_duplicates.py) via stage 2's content judgment. "
                              "Skips stage 1 entirely — an exact slug match is already a stronger "
                              "signal than a title-similarity guess.")
-    parser.add_argument("--model", default="sonnet", choices=list(MODEL_MAP))
+    parser.add_argument("--provider", default="anthropic", choices=["anthropic", "openrouter"],
+                        help="API provider (default: anthropic)")
+    parser.add_argument("--model", default=None,
+                        help="anthropic: sonnet (default)|opus|haiku  openrouter: any OpenRouter "
+                             f"model slug (default: {OPENROUTER_DEFAULT_MODEL})")
     parser.add_argument("--limit", type=int, default=None, help="Only scan the first N pages (alphabetical) — for testing")
     parser.add_argument("--stage1-only", action="store_true", help="Skip stage 2 (full-content confirmation); just print candidate groups")
     parser.add_argument("--out", default=None, help="Write the report to this path instead of stdout")
@@ -225,8 +257,11 @@ def main() -> None:
     if not args.cross_folder and not args.type:
         parser.error("--type is required unless --cross-folder is given")
 
-    model = MODEL_MAP[args.model]
-    client = _get_client()
+    if args.provider == "openrouter":
+        model = args.model or OPENROUTER_DEFAULT_MODEL
+    else:
+        model = MODEL_MAP[args.model or "sonnet"]
+    client = _get_client(args.provider)
 
     if args.cross_folder:
         import find_cross_folder_duplicates as fcfd
