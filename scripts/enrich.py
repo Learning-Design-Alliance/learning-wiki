@@ -63,6 +63,41 @@ BRIEFS_ROOT = Path.home() / "research_briefs"
 BATCHES_DIR = Path(__file__).parent / "batches"
 TODAY       = date.today().isoformat()
 
+SECRETS_ENV_FILE = Path("/etc/eval-harness.env")
+
+
+def _load_secrets_env(path: Path = SECRETS_ENV_FILE) -> None:
+    """Load API keys from /etc/eval-harness.env when this script is run
+    directly on the droplet (bypassing systemd, which normally supplies them
+    via EnvironmentFile=) — e.g. `sudo -u evalrunner venv/bin/python
+    scripts/enrich.py run ...`. Same helper as eval_harness.py's own
+    _load_secrets_env(); duplicated rather than imported so enrich.py stays
+    runnable standalone without pulling in eval_harness.py's much larger
+    module. A no-op wherever the file doesn't exist (a local dev machine).
+    Never overrides a variable already set in the environment, so an
+    explicit `export` still wins."""
+    if not path.exists():
+        return
+    try:
+        text = path.read_text(encoding="utf-8")
+    except PermissionError:
+        print(f"[WARN] {path} exists but isn't readable by this user — secrets in it won't be "
+              f"auto-loaded (systemd's EnvironmentFile= reads it as root before dropping "
+              f"privileges, which is why the service itself still works). To fix ad-hoc runs: "
+              f"chown root:evalrunner {path} && chmod 640 {path}", file=sys.stderr)
+        return
+    for line in text.splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, value = line.partition("=")
+        key, value = key.strip(), value.strip()
+        if key and key not in os.environ:
+            os.environ[key] = value
+
+
+_load_secrets_env()
+
 CSV_FILES = {
     "principles": BRIEFS_ROOT / "learning database - Principles.csv",
     "elements":   BRIEFS_ROOT / "learning database - Elements.csv",
