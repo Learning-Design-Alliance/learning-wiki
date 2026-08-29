@@ -668,6 +668,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#source-manifest" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Source Manifest
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#page-templates" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -916,6 +927,17 @@
     <span class="md-ellipsis">
       
         Folder map
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#source-manifest" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Source Manifest
       
     </span>
   </a>
@@ -1263,15 +1285,39 @@
   theories/          ← learning theories (explanatory frameworks)
   claims/            ← empirical claims with evidence
   sources/           ← bibliographic source pages (optional; most citations live inline in Key Sources / Evidence)
+    manifest.ndjson    ← append-only log of every source reviewed, ingested or rejected (see Source Manifest below)
   scripts/
     okf_lib.py         ← shared OKF helpers (frontmatter parse/dump, link conversion, actor formatting)
     ingest.py          ← CSV → wiki pages batch ingest
     enrich.py          ← LLM-based stub enrichment (Claude/Gemini)
     build_indexes.py   ← regenerates index.md and every per-folder index from disk state
     log_revision.py    ← records a revision card + updates a page's `generated` field + appends to log.md
+    log_source_review.py ← appends one entry to sources/manifest.ndjson (see Source Manifest below)
     lint.py            ← health-check (see Lint above)
 </code></pre></div>
 <p>Each folder's <code>index.md</code> is itself a reserved OKF filename: no frontmatter (except the bundle-root's <code>okf_version</code>), and a plain <code>* [Title](slug.md) - description</code> bullet listing grouped by status. Regenerate these with <code>python3 scripts/build_indexes.py</code> rather than hand-editing them.</p>
+<hr />
+<h2 id="source-manifest">Source Manifest<a class="headerlink" href="#source-manifest" title="Permanent link">&para;</a></h2>
+<p><code>sources/manifest.ndjson</code> is an append-only record of every source article the ingest pipeline has <em>reviewed</em> — whether it contributed pages or was rejected as out of scope. It exists so anyone (including people outside this project) can check whether a specific article has already been covered, or audit the whole scan, at a scale (eventually tens of thousands of articles) where a rendered list or one page per source stops being practical. It is not meant to be human-browsed — it's a data file, not a wiki page.</p>
+<p><strong>Format:</strong> one JSON object per line (NDJSON), never rewritten or reordered — only appended to.</p>
+<div class="highlight"><pre><span></span><code><span class="p">{</span><span class="nt">"id"</span><span class="p">:</span><span class="w"> </span><span class="s2">"eric-ed265520"</span><span class="p">,</span><span class="w"> </span><span class="nt">"title"</span><span class="p">:</span><span class="w"> </span><span class="s2">"The Effects of High and Low Relevant Text Underlining on Test Performance."</span><span class="p">,</span><span class="w"> </span><span class="nt">"doi"</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span><span class="p">,</span><span class="w"> </span><span class="nt">"reviewed_at"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2026-08-27"</span><span class="p">,</span><span class="w"> </span><span class="nt">"status"</span><span class="p">:</span><span class="w"> </span><span class="s2">"ingested"</span><span class="p">,</span><span class="w"> </span><span class="nt">"pages"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"elements/text-underlining-and-annotating.md"</span><span class="p">,</span><span class="w"> </span><span class="s2">"theories/von-restorff-effect-text-marking.md"</span><span class="p">]}</span>
+<span class="p">{</span><span class="nt">"id"</span><span class="p">:</span><span class="w"> </span><span class="s2">"eric-ed616622"</span><span class="p">,</span><span class="w"> </span><span class="nt">"title"</span><span class="p">:</span><span class="w"> </span><span class="s2">"A Bibliography of Cognitive Information Processing Theory, Research, and Practice"</span><span class="p">,</span><span class="w"> </span><span class="nt">"doi"</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span><span class="p">,</span><span class="w"> </span><span class="nt">"reviewed_at"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2026-08-27"</span><span class="p">,</span><span class="w"> </span><span class="nt">"status"</span><span class="p">:</span><span class="w"> </span><span class="s2">"rejected"</span><span class="p">,</span><span class="w"> </span><span class="nt">"reason"</span><span class="p">:</span><span class="w"> </span><span class="s2">"matched the search topic on keyword overlap only, but the source is a career/vocational-counseling bibliography, not a learning-science theory; out of scope for this wiki"</span><span class="p">}</span>
+</code></pre></div>
+<p>Fields: <code>id</code> (source identifier — the ERIC/PMC/arXiv id from the automated pipeline, or <code>doi:&lt;doi&gt;</code> / a URL for manually-ingested articles), <code>title</code>, <code>doi</code> (nullable), <code>reviewed_at</code> (ISO date), <code>status</code> (<code>"ingested"</code> or <code>"rejected"</code>), and either <code>pages</code> (bundle-relative paths the source contributed to, for <code>"ingested"</code>) or <code>reason</code> (why it didn't contribute, for <code>"rejected"</code>).</p>
+<p><strong>Always append via the helper, never hand-edit the file:</strong></p>
+<div class="highlight"><pre><span></span><code>python3<span class="w"> </span>scripts/log_source_review.py<span class="w"> </span>--id<span class="w"> </span><span class="s2">"doi:10.1234/example"</span><span class="w"> </span>--title<span class="w"> </span><span class="s2">"Article Title"</span><span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>--status<span class="w"> </span>ingested<span class="w"> </span>--pages<span class="w"> </span>claims/foo.md<span class="w"> </span>elements/bar.md
+
+python3<span class="w"> </span>scripts/log_source_review.py<span class="w"> </span>--id<span class="w"> </span><span class="s2">"doi:10.1234/other"</span><span class="w"> </span>--title<span class="w"> </span><span class="s2">"Other Article"</span><span class="w"> </span><span class="se">\</span>
+<span class="w">  </span>--status<span class="w"> </span>rejected<span class="w"> </span>--reason<span class="w"> </span><span class="s2">"not learning-science, out of scope"</span>
+</code></pre></div>
+<p>(<code>scripts/ingest_extractions.py</code>, the automated eval-pipeline ingest path, calls <code>okf_lib.append_manifest_entry()</code> directly instead of shelling out to this script — same effect.)</p>
+<p><strong>Looking something up</strong> (no need for a script — it's just NDJSON):</p>
+<div class="highlight"><pre><span></span><code>grep<span class="w"> </span><span class="s1">'"id": "eric-ed265520"'</span><span class="w"> </span>sources/manifest.ndjson
+grep<span class="w"> </span>-i<span class="w"> </span><span class="s1">'"title":.*underlining'</span><span class="w"> </span>sources/manifest.ndjson
+python3<span class="w"> </span>-c<span class="w"> </span><span class="s2">"import json,sys; [print(l) for l in map(json.loads, open('sources/manifest.ndjson')) if l['status']=='rejected']"</span>
+</code></pre></div>
+<p>Known gap: the CSV batch-import path (<code>scripts/ingest.py</code>, reading external <code>~/research_briefs/*.csv</code> files) doesn't write to the manifest — those rows have no natural per-article identity to key an entry on.</p>
 <hr />
 <h2 id="page-templates">Page templates<a class="headerlink" href="#page-templates" title="Permanent link">&para;</a></h2>
 <h3 id="principle">Principle<a class="headerlink" href="#principle" title="Permanent link">&para;</a></h3>
