@@ -871,21 +871,33 @@ STUB_TEMPLATES = {
 STUB_FOLDERS = set(STUB_TEMPLATES.keys())
 
 
-def parse_wikilinks(content: str) -> list[tuple[str, str]]:
-    """Return [(folder, slug), ...] for all OKF markdown links (/folder/slug.md) in content."""
-    pattern = re.compile(r'\]\(/([a-z]+)/([a-z0-9_-]+)\.md\)')
-    return [(m.group(1), m.group(2)) for m in pattern.finditer(content)]
+def parse_wikilinks(content: str, current_folder: str = None) -> list[tuple[str, str]]:
+    """Return [(folder, slug), ...] for markdown links in content: the legacy
+    OKF absolute form (/folder/slug.md), the cross-folder relative form
+    (../folder/slug.md), and — when current_folder is given — same-folder
+    relative links (slug.md) resolved against it. The prompt now tells the
+    model to emit relative links only (per CLAUDE.md's convention), so the
+    absolute-form match is kept only for old content that might still use it."""
+    links: list[tuple[str, str]] = []
+    for m in re.finditer(r'\]\(/([a-z]+)/([a-z0-9_-]+)\.md\)', content):
+        links.append((m.group(1), m.group(2)))
+    for m in re.finditer(r'\]\(\.\./([a-z]+)/([a-z0-9_-]+)\.md\)', content):
+        links.append((m.group(1), m.group(2)))
+    if current_folder:
+        for m in re.finditer(r'\]\((?<!/)([a-z0-9_-]+)\.md\)', content):
+            links.append((current_folder, m.group(1)))
+    return links
 
 
-def create_missing_stubs(content: str) -> list[str]:
+def create_missing_stubs(content: str, current_folder: str = None) -> list[str]:
     """
-    Scan content for /folder/slug.md links. For any that don't have a
-    corresponding file, create a minimal draft stub. Returns list of created paths.
+    Scan content for wikilinks (see parse_wikilinks). For any that don't have
+    a corresponding file, create a minimal draft stub. Returns list of created paths.
     """
     created = []
     seen = set()
 
-    for folder, slug in parse_wikilinks(content):
+    for folder, slug in parse_wikilinks(content, current_folder):
         if folder not in STUB_FOLDERS:
             continue
         key = (folder, slug)
@@ -1016,7 +1028,7 @@ def cmd_run(args: argparse.Namespace) -> None:
             # sibling worker still running (or the next one dispatched) can
             # cross-link to what this page just created.
             with slugs_lock:
-                create_missing_stubs(content)
+                create_missing_stubs(content, args.type)
                 wiki_slugs = get_wiki_slugs()
 
             with print_lock:
