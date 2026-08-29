@@ -72,6 +72,16 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-28
 
+* **Content**: [theories/sociocultural-theory](theories/sociocultural-theory.md) — Cross-linked to new Stages of Cognitive Development theory page
+* **Content**: [theories/constructionism](theories/constructionism.md) — Cross-linked to new Stages of Cognitive Development theory page
+* **Content**: [theories/constructivism](theories/constructivism.md) — Cross-linked to new Stages of Cognitive Development theory page
+* **Content**: [theories/social-learning-theory](theories/social-learning-theory.md) — Enriched with content from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Content**: [theories/behaviorism](theories/behaviorism.md) — Enriched with content from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Ingest**: [theories/maslow-hierarchy-of-needs](theories/maslow-hierarchy-of-needs.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Ingest**: [theories/psychosocial-theory-of-identity-development](theories/psychosocial-theory-of-identity-development.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Ingest**: [theories/bioecological-model-of-human-development](theories/bioecological-model-of-human-development.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Ingest**: [theories/kohlberg-moral-development](theories/kohlberg-moral-development.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
+* **Ingest**: [theories/stages-of-cognitive-development](theories/stages-of-cognitive-development.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
 * **Deprecate**: [strategies/"headings_and_highlight"_strategy](strategies/"headings_and_highlight"_strategy.md) — Deprecated as a duplicate of headings_and_highlight_strategy.md; content merged into the canonical page, this page kept as a redirect stub per CLAUDE.md's no-delete convention
 * **Content**: [strategies/headings_and_highlight_strategy](strategies/headings_and_highlight_strategy.md) — Merged in the genuinely different observations from the duplicate "headings_and_highlight"_strategy.md page: sharper Impact framing (the real affordance is clean multi-edit headings), social-studies example folded into Target Learners, and a new Implementation Variability note on broad reading-comprehension use vs. content-specific use
 * **Fix**: `strategies/* (49 pages)` — renamed files containing a literal `:` in the filename (e.g. `blocks_and_legos:_maker_spaces_and_fab_labs.md` → `blocks_and_legos-maker_spaces_and_fab_labs.md`) — the colon was parsed as a URI scheme separator by Jekyll/GitHub Pages, breaking the Pages build with "Invalid scheme format"; updated all cross-links in strategies/index.md and principles/explicit-instruction-math-strategies.md, principles/explicit-instruction-online-reading-strategies.md; regenerated indexes and verified with `scripts/lint.py`

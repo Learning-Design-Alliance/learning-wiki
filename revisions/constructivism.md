@@ -13,3 +13,6 @@ Cross-linked new Makerspace element (LIDT Foundations ingest)
 
 ### 2026-08-29 · content · claude/unspecified
 Cross-linked new Constructionism theory page (LIDT Foundations ingest)
+
+### 2026-08-28 · content · claude/unspecified
+Cross-linked to new Stages of Cognitive Development theory page

@@ -10,3 +10,6 @@ Cross-linked new Sociocultural Theory page (LIDT Foundations ingest)
 
 ### 2026-08-29 · content · claude/unspecified
 Cross-linked new Self-Efficacy Theory page (LIDT Foundations ingest)
+
+### 2026-08-28 · content · claude/unspecified
+Enriched with content from Educational Learning Theories (2nd ed., Zhou & Brown)

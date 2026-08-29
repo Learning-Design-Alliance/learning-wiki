@@ -5,7 +5,7 @@ description: Constructivism is the broad view that learners actively build under
 status: review
 generated:
   by: claude/unspecified
-  at: 2026-08-29
+  at: 2026-08-28
 ---
 
 # Constructivism
@@ -38,6 +38,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 
 ## Related Theories
+- [Stages of Cognitive Development](stages-of-cognitive-development.md) — Piaget's stage theory is the direct historical foundation constructivism builds on
 - [Self-Regulated Learning](self-regulated-learning.md) — constructivist learning often depends on learners monitoring and revising their own understanding
 - [Cognitive Load Theory](cognitive-load-theory.md) — constructivist tasks still have to manage working-memory limits, especially for novices
 - [Information Processing Theory](information-processing-theory.md) — active construction still depends on attention, encoding, and retrieval processes

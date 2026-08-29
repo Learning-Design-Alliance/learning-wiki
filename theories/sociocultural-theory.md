@@ -5,7 +5,7 @@ description: Sociocultural theory, developed from Vygotsky's work, holds that hi
 status: draft
 generated:
   by: claude/unspecified
-  at: 2026-08-29
+  at: 2026-08-28
 ---
 
 # Sociocultural Theory
@@ -49,6 +49,7 @@ Sociocultural theory stands in explicit contrast to Piaget's view that developme
 ## Claims
 
 ## Related Theories
+- [Stages of Cognitive Development](stages-of-cognitive-development.md) – stands in explicit contrast: Piaget held that development is biologically determined and precedes learning, while Vygotsky held that learning (mediated by social interaction) drives development
 - [Constructivism](constructivism.md) + shares the view of learning as active meaning-making, and draws directly on Vygotsky as a source
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) + operationalizes the "more capable other" and modeling/coaching/fading structure implied by the ZPD
 - [Situated Learning](situated-learning.md) + shares the emphasis on learning as inseparable from social and cultural context
