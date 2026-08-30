@@ -310,11 +310,12 @@ def _post_batch_checks(written_files: list[str]) -> None:
     # batch's own cross-links) went completely uncounted.
     draft_total = sum(c["draft"] for c in result["incomplete_pages"].values())
     todo_total = sum(c["todo"] for c in result["incomplete_pages"].values())
+    total_incomplete = wiki_health_check.count_total_incomplete_pages()
     print(f"[post-batch check] Wiki-wide: {sum(result['lint'].values())} lint issue(s), "
           f"{result['citation_conflicts']} citation conflict(s) wiki-wide, "
           f"{result['cross_folder_needs_judgment']} cross-folder duplicate candidate(s) needing judgment, "
-          f"{draft_total} draft page(s) + {todo_total} page(s) with unfilled TODOs remaining "
-          f"({draft_total + todo_total} total incomplete, though some may overlap).")
+          f"{draft_total} draft page(s) + {todo_total} page(s) with unfilled TODOs "
+          f"({total_incomplete} total incomplete, exact — draft/TODO can overlap on the same page).")
 
 
 def append_log(entries: list) -> None:

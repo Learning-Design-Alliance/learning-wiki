@@ -79,6 +79,28 @@ def count_incomplete_pages() -> dict:
     return counts
 
 
+def count_total_incomplete_pages() -> int:
+    """True union count of pages needing enrichment (status:draft OR
+    carrying an unfilled TODO marker). count_incomplete_pages() tracks
+    "draft" and "todo" as two separate per-type counts that can both be
+    true of the same page, so summing them (as enrich.py's post-batch
+    summary used to) double-counts and overstates the real backlog — this
+    is the exact figure, used for deciding whether a repeated enrichment
+    sweep is still making progress."""
+    total = 0
+    for page_type in PAGE_TYPES:
+        folder = WIKI_ROOT / page_type
+        if not folder.exists():
+            continue
+        for path in folder.glob("*.md"):
+            if path.stem == "index":
+                continue
+            text = path.read_text(encoding="utf-8")
+            if "status: draft" in text or "<!-- TODO -->" in text:
+                total += 1
+    return total
+
+
 def run(skip_doi: bool = False) -> dict:
     pages = lint.all_pages()
     lint_checks = {
@@ -182,7 +204,15 @@ def main() -> None:
     parser.add_argument("--skip-doi", action="store_true", help="Skip Crossref DOI resolution (fast, fully offline)")
     parser.add_argument("--out", default=None, help="Write the report to this path instead of stdout")
     parser.add_argument("--no-history", action="store_true", help="Don't append to eval/health/history.ndjson")
+    parser.add_argument("--incomplete-count", action="store_true",
+                         help="Print just the exact total-incomplete-pages count (fast, no lint/citation/DOI "
+                              "checks) and exit — for scripting a convergence check across repeated "
+                              "enrichment sweeps")
     args = parser.parse_args()
+
+    if args.incomplete_count:
+        print(count_total_incomplete_pages())
+        return
 
     result = run(skip_doi=args.skip_doi)
     report = format_report(result)
