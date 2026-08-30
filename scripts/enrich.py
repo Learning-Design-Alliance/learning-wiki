@@ -571,12 +571,150 @@ generated:
 - [APA citation with DOI link if available]
 """
 
+THEORY_TEMPLATE = """\
+---
+type: theory
+title: [Theory Name]
+description: [One-sentence summary of what this theory proposes]
+status: review
+generated:
+  by: "claude/unspecified"
+  at: {TODAY}
+---
+
+# [Theory Name]
+
+## Description
+[What this theory proposes; its core mechanism or claim — 2-4 sentences.]
+
+## Implications
+
+### Context
+- [conditions under which this theory applies or was studied]
+
+### Target Learners
+- [who this theory's mechanism applies to]
+
+### Target Learning Objectives
+- [types of learning outcomes this theory explains or predicts]
+
+## Claims
+<!-- Claims that derive from or test this theory: [Claim](../claims/claim-slug.md) [+M] -->
+- [Claim statement](../claims/slug.md) [+M] — brief note on the connection
+
+## Related Theories
+- [Related Theory](slug.md) — brief note on the relationship
+
+## Examples
+<!-- Links to patterns and principles that apply this theory -->
+- [Pattern or Principle Name](../patterns/slug.md) — how it applies this theory
+
+## Key Sources
+- [APA citation with DOI link if available]
+"""
+
+CLAIM_TEMPLATE = """\
+---
+type: claim
+title: [Claim statement — one sentence, present tense]
+id: [preserve the id already in the draft stub above verbatim; leave blank if none]
+status: review
+generated:
+  by: "claude/unspecified"
+  at: {TODAY}
+evidence_strength: [preserve from the draft stub, or infer only from evidence already present there — never invent]
+---
+
+# [Claim statement — one sentence, present tense]
+
+[Optional 1-2 sentence clarification of scope or mechanism — using ONLY what the draft stub already states.]
+
+## Subclaims
+<!-- Summarize ONLY the Evidence entries already present in the draft stub below.
+     Do NOT invent a new study or finding to summarize here. -->
+`q? i?` [One-sentence summary of an EXISTING Evidence entry's finding and scope.] [→ Author Year](#author-year)
+
+## Evidence
+<!-- Do NOT add a new study, citation, or DOI that isn't already in the draft
+     stub below. If it DOES have real entries already, you may reformat or
+     clarify them (plain-language description, quality/impact/n codes) but
+     never change which study they cite or add a DOI that wasn't already
+     given. If the draft stub has no real Evidence entries yet, replace this
+     whole comment with a single TODO comment noting studies still need to
+     be added — never fabricate one to fill the gap. -->
+
+## Discussion
+[Prose covering contradictions, moderators, boundary conditions, open questions —
+drawing only on information already present in the draft stub or general reasoning
+about scope. Never cite a new specific study here that isn't already in Evidence.]
+
+## Related Claims
+- [Related Claim](slug.md)
+"""
+
+LEARNER_VARIABLE_TEMPLATE = """\
+---
+type: learner-variable
+title: [Variable Name]
+description: [One-sentence definition of this learner characteristic]
+status: review
+generated:
+  by: "claude/unspecified"
+  at: {TODAY}
+---
+
+# [Variable Name]
+
+## Description
+[What this learner variable is; how it's typically measured or operationalized — 2-3 sentences.]
+
+## Implications
+
+### Context
+- [conditions under which this variable matters most]
+
+### Target Learners
+- [which learner populations this characteristic is most relevant for]
+
+### Target Learning Objectives
+<!-- Learning outcomes this variable has been shown to affect -->
+- [outcomes affected]
+
+## Claims
+<!-- Claims reporting findings about this variable, with evidence tags: [Claim](../claims/claim-slug.md) [+M] -->
+- [Claim statement](../claims/slug.md) [+M] — brief note on the finding
+
+## Related Learner Variables
+- [Related Variable](slug.md) — brief note on the relationship
+
+## Examples
+<!-- Links to principles/elements/patterns/strategies that account for this variable -->
+- [Principle, Element, Pattern, or Strategy Name](../folder/slug.md) — how it accounts for this variable
+
+## Key Sources
+- [APA citation with DOI link if available]
+"""
+
 TEMPLATES = {
-    "principles": PRINCIPLE_TEMPLATE,
-    "elements":   ELEMENT_TEMPLATE,
-    "patterns":   PATTERN_TEMPLATE,
-    "strategies": STRATEGY_TEMPLATE,
+    "principles":        PRINCIPLE_TEMPLATE,
+    "elements":           ELEMENT_TEMPLATE,
+    "patterns":           PATTERN_TEMPLATE,
+    "strategies":         STRATEGY_TEMPLATE,
+    "theories":           THEORY_TEMPLATE,
+    "claims":             CLAIM_TEMPLATE,
+    "learner-variables":  LEARNER_VARIABLE_TEMPLATE,
 }
+
+# Types with no CSV backing at all (enrich.py's CSV_FILES only ever covered
+# principles/elements/patterns/strategies) — find_pages_to_enrich() would
+# KeyError on CSV_FILES[page_type] for these, so cmd_run always routes them
+# through find_pages_to_enrich_no_csv() regardless of --no-csv. Templates
+# above exist for all three, but note: learner-variables is deliberately
+# NOT in STUB_TEMPLATES/STUB_FOLDERS below — CLAUDE.md defers creating new
+# learner-variable pages to a human ("factor... out by hand"), so this only
+# enables enriching one a human already created, never auto-stubbing a new
+# one from a cross-link the way theories/claims/elements/etc. are.
+NO_CSV_ONLY_TYPES = ("theories", "claims", "learner-variables")
 
 SYSTEM_PROMPT = """\
 You are a learning design wiki editor. Write authoritative, well-sourced wiki pages for learning design concepts.
@@ -626,6 +764,39 @@ Always link to a claim page when one exists: [Display Name](../claims/slug.md) [
 9. Constraints: specific research-grounded conditions, not generic hedges.
 10. Output ONLY the enriched markdown. No commentary, no code fences.
 """
+
+# Appended only for page_type == "claims" (see get_system_prompt below). Claims
+# pages carry per-study Evidence entries with real citations/DOIs — unlike a
+# principle/element/pattern/strategy page, where "enrich" mostly means better
+# synthesis and organization, a claim's whole value IS its cited evidence, so
+# inventing a plausible-but-fake study here is the single worst failure mode
+# this pipeline can produce (see check_citations.py's docstring, describing a
+# real fabricated-citation incident this wiki already caught once).
+CLAIMS_ADDENDUM = """
+
+## Special rules for claims pages (in addition to all rules above)
+
+- NEVER invent a new study, citation, DOI, or Evidence entry that isn't already
+  present in the current draft stub below. Only synthesize, reformat, and
+  clarify Evidence entries the stub already contains — do not add new ones from
+  your own knowledge, even if you are confident a real study would fit.
+- If the draft stub's Evidence section has no real entries yet, leave a single
+  TODO comment there noting studies still need to be added, rather than
+  inventing content to fill the gap.
+- You may write or improve the Subclaims, Discussion, and Related Claims
+  sections, and the quality/impact/n codes on existing entries, but every
+  underlying study must come only from what the draft stub already gives you.
+"""
+
+
+def get_system_prompt(page_type: str) -> str:
+    """SYSTEM_PROMPT, plus CLAIMS_ADDENDUM's anti-fabrication rules when
+    enriching a claims page. Kept as a function (not a per-type dict) since
+    every other page type uses the same base prompt unmodified."""
+    if page_type == "claims":
+        return SYSTEM_PROMPT + CLAIMS_ADDENDUM
+    return SYSTEM_PROMPT
+
 
 # ── Type-specific exemplar pages ──────────────────────────────────────────────
 # Each entry maps a page type to a path (relative to WIKI_ROOT) that serves
@@ -1213,7 +1384,7 @@ def cmd_run(args: argparse.Namespace) -> None:
     else:
         model = args.model
 
-    if getattr(args, "no_csv", False):
+    if getattr(args, "no_csv", False) or args.type in NO_CSV_ONLY_TYPES:
         pages = find_pages_to_enrich_no_csv(args.type, args.overwrite, args.limit)
     else:
         pages = find_pages_to_enrich(args.type, args.overwrite, args.limit)
@@ -1242,7 +1413,7 @@ def cmd_run(args: argparse.Namespace) -> None:
                 done["n"] += 1
                 print(f"\n[{done['n']}/{total}] ── {name} ({page_path.name}) ──")
                 print(f"[DRY RUN] Would call {model} via {provider}")
-                print("SYSTEM PROMPT (truncated):", SYSTEM_PROMPT[:200], "...")
+                print("SYSTEM PROMPT (truncated):", get_system_prompt(args.type)[:200], "...")
                 print("USER PROMPT (truncated):", user_prompt[:500], "...")
             return
 
@@ -1251,11 +1422,11 @@ def cmd_run(args: argparse.Namespace) -> None:
 
         try:
             if provider == "gemini":
-                content = call_gemini_flex(client, model, SYSTEM_PROMPT, user_prompt)
+                content = call_gemini_flex(client, model, get_system_prompt(args.type), user_prompt)
             elif provider == "openrouter":
                 from scripts.eval import openrouter_client, model_catalog
                 gen = openrouter_client.generate(
-                    model, SYSTEM_PROMPT, user_prompt, openrouter_api_key, max_tokens=4000,
+                    model, get_system_prompt(args.type), user_prompt, openrouter_api_key, max_tokens=4000,
                     disable_reasoning=model_catalog.needs_reasoning_disabled(model),
                     reasoning_effort=model_catalog.reasoning_effort_for(model),
                     json_mode=False,
@@ -1265,7 +1436,7 @@ def cmd_run(args: argparse.Namespace) -> None:
                 response = client.messages.create(
                     model=model,
                     max_tokens=4000,
-                    system=SYSTEM_PROMPT,
+                    system=get_system_prompt(args.type),
                     messages=[{"role": "user", "content": user_prompt}],
                 )
                 content = response.content[0].text
@@ -1350,7 +1521,9 @@ def main() -> None:
 
     # -- run --
     p_run = subparsers.add_parser("run", help="Process pages via API (Gemini Flex, Anthropic, or OpenRouter)")
-    p_run.add_argument("--type", required=True, choices=list(CSV_FILES.keys()))
+    p_run.add_argument("--type", required=True, choices=list(CSV_FILES.keys()) + list(NO_CSV_ONLY_TYPES),
+                       help="theories/claims/learner-variables have no CSV backing — cmd_run always uses "
+                            "disk-based (--no-csv-style) discovery for them regardless of --no-csv")
     p_run.add_argument("--provider", default="anthropic", choices=["anthropic", "gemini", "openrouter"],
                        help="API provider (default: anthropic)")
     p_run.add_argument("--limit", type=int, default=None,

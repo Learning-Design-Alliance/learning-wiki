@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # run_full_enrichment.sh — runs enrich.py --provider openrouter across every
-# page type (principles, elements, patterns, strategies) with a remaining
-# stub/TODO backlog, one type at a time. Each type-level run already
-# resumes safely and prints its own wiki-wide health-check summary at the
-# end (see enrich.py's _post_batch_checks / wiki_health_check.py).
+# page type with a remaining stub/TODO backlog, one type at a time. Each
+# type-level run already resumes safely and prints its own wiki-wide
+# health-check summary at the end (see enrich.py's _post_batch_checks /
+# wiki_health_check.py).
 #
 # Two passes per type:
 #   1. CSV-driven discovery (enrich.py's default) — matches pages to a CSV
@@ -17,6 +17,11 @@
 #      the strategies backlog). This pass has no CSV context to offer, so
 #      it's strictly the fallback sweep, run after pass 1 so any page pass 1
 #      already promoted past draft/TODO is correctly skipped here.
+#
+# theories/claims/learner-variables have no CSV backing at all (enrich.py's
+# NO_CSV_ONLY_TYPES) — cmd_run always uses disk-based discovery for them
+# regardless of --no-csv, so both passes below do the identical scan for
+# these three; pass 2 is a harmless no-op once pass 1 has already run.
 #
 # Meant to be launched once and left running — across ~1600+ remaining
 # strategies pages this can take hours. Background it so it survives an
@@ -38,7 +43,7 @@ cd "$(dirname "$0")/.."
 
 CONCURRENCY="${ENRICH_CONCURRENCY:-8}"
 PROVIDER="${ENRICH_PROVIDER:-openrouter}"
-TYPES=(principles elements patterns strategies)
+TYPES=(principles elements patterns strategies theories claims learner-variables)
 
 for t in "${TYPES[@]}"; do
   echo ""
