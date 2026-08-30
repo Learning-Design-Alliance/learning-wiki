@@ -1,68 +1,71 @@
 ---
 type: strategy
 title: "Explicit Instruction: Spelling"
-description: Explicit spelling instruction involves directly teaching spelling rules, patterns, and strategies rather than relying solely on incidental learning or discovery.
+description: Explicit spelling instruction directly teaches spelling rules, patterns, and strategies through structured lessons, clear explanations, and systematic practice rather than relying on incidental learning or discovery.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Explicit Instruction: Spelling
 
 ## Description
-Explicit spelling instruction involves directly teaching spelling rules, patterns, and strategies rather than relying solely on incidental learning or discovery. This approach prioritizes structured lessons, clear explanations, and systematic practice. Effective explicit instruction includes teaching regular spelling patterns, high-frequency words (both regular and irregular), and frequently misspelled words. It utilizes techniques like test-study-test, where students correct their own errors immediately after a pretest, and emphasizes the connection between phonemes (sounds) and graphemes (letters). For irregular words, a ‘spell-out’ method is employed, where students say, spell, and say the word again. Emphasis is put on recurring review and recycling of frequently misspelled words, ensuring accountability and mastery.
+Explicit spelling instruction directly teaches spelling rules, patterns, and strategies through structured lessons, clear explanations, and systematic practice rather than relying on incidental learning or discovery. Effective programs teach regular spelling patterns, high-frequency words (regular and irregular), and frequently misspelled words. Core techniques include test-study-test cycles — students correct their own errors immediately after a pretest — and explicit phoneme–grapheme mapping. For irregular words, a "spell-out" method is used: students say the word, spell it aloud, then say it again. Recurring review and recycling of frequently misspelled words ensures accountability and mastery.
 
 ## Design Implications
 
+Explicit instruction outperforms incidental or naturalistic approaches to spelling: meta-analytic evidence shows formal spelling instruction improves both spelling accuracy and, to a lesser degree, reading performance, while unguided "natural learning" approaches produce weaker outcomes [Spelling instruction improves spelling and reading outcomes relative to incidental approaches.](https://doi.org/10.1007/s11145-014-9517-0) [+S]. Because spelling depends on mapping sounds to letter patterns, instruction that makes those mappings explicit — rather than asking learners to infer them from reading alone — reduces the search space novices face [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Retention depends on distributed review: words taught once and dropped are quickly forgotten, so recycling must be scheduled [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+
 ### Context
 #### Requirements
-- Requires structured lessons, spelling lists, and assessment tools (e.g., pretests, posttests). Resources such as phonics charts, word lists, and spelling rules are beneficial. Implementation can be facilitated with spelling programs or apps like SpellingCity.
+- Structured lessons, word lists organized by pattern, and assessment tools (pretests, posttests)
+- Immediate error correction after pretests, with students self-correcting their own errors
+- A review schedule that recycles previously taught words over weeks, not just within the lesson
+- Teacher capability to deliver clear explanations of rules *and* their exceptions
+
 #### Constraints
-- May require more direct instructional time compared to other methods. Some students might find the structured approach less engaging. The effectiveness depends on the teacher's ability to deliver clear explanations and provide targeted practice.
+- Requires more direct instructional time than incidental methods; opportunity cost in crowded literacy blocks [-M]
+- Purely rule-based teaching fails for the large proportion of English words that are irregular; over-reliance on rules can produce overgeneralization errors (e.g., applying a rule to an exception word) [~M]
+- Rote list memorization without phoneme–grapheme analysis yields poor transfer to writing [~S]
+- Effectiveness depends heavily on teacher delivery quality and on matching word difficulty to learner level; mismatched lists waste instructional time [-M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Test-study-test**: pretest, immediate self-correction, study, retest — the most consistently supported cycle
+- **Spell-out for irregular words**: say–spell–say, sometimes paired with tracing or letter-tile manipulation
+- **Pattern-based sorting**: students sort words by spelling pattern, building categorical knowledge of orthography
+- **Integrated vs. standalone**: spelling taught within phonics/reading blocks or as a separate short daily lesson; both work if review is systematic
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Elementary, middle, and high school students, as well as adult learners needing to improve basic literacy skills
+- Elementary students in the alphabetic and orthographic phases of spelling development [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]
+- Struggling spellers and students with dyslexia, who do not pick up orthographic patterns incidentally and benefit most from structured, systematic teaching [+M]
+- Adult literacy learners filling gaps in foundational skills
+- Less beneficial for already-proficient spellers, for whom additional explicit instruction adds little beyond what reading provides [~W]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Improve spelling accuracy, enhance reading skills, and build word recognition
-
-### Affordances
-- Provides a structured approach to spelling, improves encoding and decoding skills, and enhances long-term retention of spelling patterns and words. By teaching spelling in conjunction with phonics and vocabulary, it strengthens overall literacy skills. Explicit instruction is particularly beneficial for learners who struggle with implicit learning.
-
-### Personalization
-- Content can be adapted to the learner's developmental level, focusing on appropriate word lists and spelling patterns. Tailor instruction to target specific spelling errors and patterns based on individual needs and performance.
+- Spelling accuracy in writing, especially transfer from tests to composed text
+- Orthographic pattern knowledge: generalizable knowledge of letter–sound correspondences and morphological patterns
+- Word recognition and reading fluency, since reading and spelling share orthographic representations
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Direct instruction](../elements/direct-instruction.md)
-- [Provide guidance](../elements/provide-guidance.md)
-- [Practice](../elements/practice.md)
-- [Provide feedback](../elements/provide-feedback.md)
-- [Assess performance](../elements/assess-performance.md)
-- [Continuous Review](../elements/continuous-review.md)
-
-## Assessment Evidence
-- Track spelling accuracy on weekly tests, monitor the reduction of frequently misspelled words, and assess the application of spelling rules in writing samples.
-
-## Impact
-- Research indicates that explicit spelling instruction leads to improved spelling accuracy and enhanced reading skills. Studies show that students who receive direct spelling instruction are better able to apply spelling patterns and rules in their writing. Emphasizing phoneme-grapheme correspondences and regular review reinforces learning and retention.
+1. Pretest the week's word set to identify what students already know ([Assess Performance](../elements/assess-performance.md))
+2. Have students immediately self-correct pretest errors, comparing their spelling to the correct form
+3. Explicitly teach the target pattern with phoneme–grapheme mapping, using [Direct Instruction](../elements/direct-instruction.md) to state the rule and demonstrate it on example and exception words
+4. Guide [Practice](../elements/practice.md): guided writing of words, pattern sorting, and sentence writing that uses the words in context
+5. Provide immediate, corrective [Feedback](../elements/provide-feedback.md) on errors, prompting students to analyze what went wrong rather than simply restating the correct spelling
+6. Recycle previously taught and frequently misspelled words into subsequent lessons and tests on a distributed schedule
+7. Hold students accountable by assessing spelling in authentic writing samples, not only on tests
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting new patterns to known words strengthens orthographic schema formation
 
 ## Examples
-- Signs for Sounds program, which provides systematic, explicit phonics instruction. SpellingCity, an app that helps users practice spelling through games and activities where they see and hear words in context.
+- **Signs for Sounds** — a systematic program providing explicit, phonics-based spelling instruction with built-in review cycles.
+- **SpellingCity** ([spellingcity.com](https://www.spellingcity.com)) — app delivering word practice through games where learners see and hear words in context, supporting the test-study-test cycle.
+- **Test-study-test in classroom practice** — a weekly cycle in which Monday's pretest errors drive individualized study lists, with previously missed words reappearing on later tests until mastered.
 
 ## Key Sources
-- <!-- TODO -->
+- Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers or readers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743. [doi:10.1007/s11145-014-9517-0](https://doi.org/10.1007/s11145-014-9517-0)
+- Graham, S. (2000). Should the natural learning approach replace spelling instruction? *Journal of Educational Psychology, 92*(2), 235–247. [doi:10.1037/0022-0663.92.2.235](https://doi.org/10.1037/0022-0663.92.2.235)
+- Ehri, L. C. (2000). Learning to read and learning to spell: Two sides of a coin. *Topics in Language Disorders, 20*(3), 19–36. [doi:10.1097/00011363-200020030-00005](https://doi.org/10.1097/00011363-200020030-00005)
+- Joshi, R. M., Treiman, R., Carreker, S., & Moats, L. C. (2008). How words cast their spell: Spelling is an integral part of learning the language, not a matter of memorization. *American Educator, 32*(4), 6–16, 42–43.

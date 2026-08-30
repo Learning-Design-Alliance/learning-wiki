@@ -49,5 +49,5 @@ Think-aloud is the element in which an instructor, peer, or learner verbalizes r
 - A reader pauses during annotation to explain how they infer meaning from a difficult sentence.
 
 ## Key Sources
-- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction*. Lawrence Erlbaum.
+- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction*. Lawrence Erlbaum. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)
 - Chi, M. T. H. (1996). Constructing self-explanations and scaffolded explanations in tutoring. *Applied Cognitive Psychology, 10*(7), S33-S49. [https://doi.org/10.1002/(SICI)1099-0720(199612)10:7<S33::AID-ACP436>3.0.CO;2-2](https://doi.org/10.1002/(SICI)1099-0720(199612)10:7<S33::AID-ACP436>3.0.CO;2-2)

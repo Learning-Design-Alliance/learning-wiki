@@ -22,4 +22,4 @@ Discussion-based learning is the element in which talk, interpretation, and resp
 - [Structured Discussion](structured-discussion.md)
 
 ## Key Sources
-- Mercer, N., & Howe, C. (2012). Dialogic processes of teaching and learning. *Learning, Culture and Social Interaction, 1*(1), 12-21.
+- Mercer, N., & Howe, C. (2012). Dialogic processes of teaching and learning. *Learning, Culture and Social Interaction, 1*(1), 12-21. [doi:10.1016/j.lcsi.2012.03.001](https://doi.org/10.1016/j.lcsi.2012.03.001)

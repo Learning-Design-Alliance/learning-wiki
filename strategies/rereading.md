@@ -1,64 +1,74 @@
 ---
 type: strategy
 title: Rereading
-description: Rereading is a literacy strategy where a reader revisits a sentence, paragraph, or entire text to improve accuracy, fluency, vocabulary, and comprehension.
+description: A literacy strategy in which a reader revisits a sentence, paragraph, or whole text to improve accuracy, fluency, vocabulary, and comprehension.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Rereading
 
 ## Description
-Rereading is a literacy strategy where a reader revisits a sentence, paragraph, or entire text to improve accuracy, fluency, vocabulary, and comprehension. Teachers can model rereading during read-alouds, and learners can practice independently or in pairs. Rereading encourages closer attention to words and meanings and builds confidence in reading skills. Repeated readings, focusing on short chunks of text, support both fluency and comprehension, leading to better initial readings of new texts.
+Rereading asks learners to revisit text they have already read — a sentence, a paragraph, or an entire passage — to improve word recognition accuracy, fluency, and comprehension. It is carried out through repeated readings of short text chunks, teacher modeling during read-alouds, and paired or independent practice. Successive passes free attention from decoding, allowing the reader to consolidate meaning and build automaticity.
 
 ## Design Implications
 
+Rereading works because repetition drives words toward automatic recognition, which frees working-memory resources for comprehension rather than decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. It is most effective when each pass has a purpose — reading for accuracy first, then for expression, then for meaning — rather than as undirected repetition. Rereading also functions as a spacing mechanism: revisiting a text after intervening activity strengthens retention more than a single massed reading [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
+
 ### Context
 #### Requirements
-- Access to reading materials. Class time for read-alouds, shared reading, guided reading, or independent reading. Opportunities for modeling and practice. Can be integrated into various instructional contexts, such as shared reading, guided reading, Readers Theater, and close reading.
+- Short, appropriately challenging texts (roughly at the learner's instructional reading level) worth the investment of multiple passes
+- A purpose for each rereading pass (accuracy, prosody, vocabulary, comprehension) so repetition is not mindless
+- Some form of feedback or modeling — teacher demonstration, [Think-Aloud](../elements/think-aloud.md), or peer support — especially for early passes
+- Cumulative return to earlier texts over days or weeks, not just immediate repetition
+
 #### Constraints
-- May not be effective if the initial text is too challenging for the learner. Requires careful selection of texts that are both engaging and appropriate for the learner's reading level. Rereading can become monotonous if not implemented with variety and purpose.
+- As a study strategy for older learners, rereading a whole text is one of the *least* effective techniques compared with retrieval practice or self-explanation; it creates fluency-based illusions of knowing [~S] — text feels familiar, which learners misread as mastery
+- Effectiveness drops sharply when the text is too easy (no new decoding challenge) or too hard (frustration on every pass)
+- Benefits plateau after roughly three or four readings of the same passage; additional passes yield diminishing returns [-M]
+- Rereading for fluency does not automatically transfer to comprehension of *new* texts unless passages are thematically linked and vocabulary recurs
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Repeated readings** (Samuels): timed passes on a short passage until a fluency criterion is met
+- **Paired/fluent-partner reading**: learners reread with a more fluent peer or adult who models expression
+- **Echo and choral reading**: teacher or audio models a line or page; learners reread it immediately in unison
+- **Rereading for meaning**: older students revisit complex passages (e.g., primary sources, dense expository text) with a new comprehension question each pass
+- **Audio-assisted rereading**: recorded models ([Audiobooks](../principles/audiobooks.md)) let learners reread independently with accurate prosody support
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- K-12 students, struggling readers, and English language learners
+- Beginning and struggling readers building decoding accuracy and automaticity [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- English language learners, who benefit from repeated exposure to vocabulary and syntax in context
+- Older learners rereading dense academic passages benefit when each pass targets a distinct comprehension goal; whole-text rereading as a generic study tactic is weak [~M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Improve reading accuracy, enhance fluency, build vocabulary, and increase comprehension
-
-### Affordances
-- Enhances decoding and sight recognition, promoting fluent reading. Supports deeper understanding through multiple exposures to the text. Improves prosody (reading with expression) and inferential understanding. Provides an opportunity for learners to self-correct and clarify misunderstandings.
-
-### Personalization
-- Can be tailored to individual learner needs and reading levels. Short texts or specific passages can be selected for focused rereading. Teachers can provide specific prompts or questions to guide rereading.
+- Fluency: accuracy, rate, and prosody
+- Vocabulary acquisition through repeated contextual exposure
+- Comprehension of complex or layered texts where a single pass is insufficient
+- Retention of text content when rereading is spaced [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S]
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Practice](../elements/practice.md)
-- [Provide Feedback](../elements/provide-feedback.md)
-
-## Assessment Evidence
-- Observe learner's fluency and expression during oral reading. Assess comprehension through questioning or summarizing after rereading. Monitor decoding accuracy and sight word recognition. Track improvement in reading speed and accuracy over time.
-
-## Impact
-- Research demonstrates that rereading improves decoding, fluency, and comprehension. It helps learners develop a deeper understanding of the text, read with greater accuracy, and allocate more attention to making sense of what they have read. Fluency built through rereading one passage often transfers to new readings.
+1. Select a short, level-appropriate text and set a purpose for the first reading (e.g., decode accurately).
+2. Model a fluent, expressive reading of the passage aloud, verbalizing fix-up moves ([Think-Aloud](../elements/think-aloud.md)).
+3. Have learners reread the passage — echo, choral, paired, or independent — with feedback on accuracy and expression ([Practice](../elements/practice.md)).
+4. Assign a new purpose for each subsequent pass (prosody, vocabulary, answering a comprehension question), possibly with [Annotating](../principles/annotating.md) on later passes.
+5. Return to the text after a day or more for a spaced rereading, and connect it to a new text recycling the same vocabulary or theme [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+M].
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Spaced Repetition](../elements/spaced-repetition.md) — rereading gains strength when passes are distributed rather than massed
+- [Self-Explanation](../elements/self-explanation.md) — a stronger alternative to rereading for older learners studying expository text
+- [Retrieval Practice](../principles/active-learning.md) — testing oneself on a text outperforms rereading it for durable learning
 
 ## Examples
-- Using a One Minute Reader iPad App, learners reread a text at least three times (cold read, read along, read alone) to develop more fluent reading and a deeper understanding of the text. Shared reading: A teacher and students share the responsibility for reading and comprehending the text, rereading the story or poem to continue the development of fluency. Guided reading: Students reread the text if they finish before others have finished or are prompted to reread a passage to gain better fluency and understanding.
+- **Repeated Readings intervention (Samuels, 1979)** — a student reads a 50–200 word passage four times, aiming for a fluency criterion on each pass; the basis of most fluency interventions.
+- **Reading Recovery (https://readingrecovery.org)** — one-to-one tutoring in which children reread familiar books at the start of every lesson to consolidate word recognition before tackling new text.
+- **Fluency-oriented reading instruction (FORI)** — a whole-class routine combining teacher read-aloud, echo reading, partner rereading, and home rereading of the same weekly passage.
+- **Rereading complex texts in discussion-based ELA curricula** (e.g., International Baccalaureate English units) — students reread a literary passage with a different analytical question each pass before seminar discussion.
 
 ## Key Sources
-- <!-- TODO -->
+- Samuels, S. J. (1979). The method of repeated readings. *The Reading Teacher, 32*(4), 403–408.
+- Therrien, W. J. (2004). Fluency and comprehension gains as a result of repeated reading: A meta-analysis. *Remedial and Special Education, 25*(4), 252–261. [doi:10.1177/07419325040250040801](https://doi.org/10.1177/07419325040250040801)
+- Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
+- Rawson, K. A., & Kintsch, W. (2005). Rereading effects depend on time of test. *Journal of Educational Psychology, 97*(1), 70–80. [doi:10.1037/0022-0663.97.1.70](https://doi.org/10.1037/0022-0663.97.1.70)
+- Kuhn, M. R., & Stahl, S. A. (2003). Fluency: A review of developmental and remedial practices. *Journal of Educational Psychology, 95*(1), 3–21. [doi:10.1037/0022-0663.95.1.3](https://doi.org/10.1037/0022-0663.95.1.3)

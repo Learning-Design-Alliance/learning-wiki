@@ -1,65 +1,68 @@
 ---
 type: strategy
 title: Speak the Future, Design the Future (Changing the Discourse)
-description: This principle emphasizes that the language used to discuss education shapes the limits of our imagination.
+description: A design strategy that treats language as a lever for equity — critiquing deficit-oriented "Discourse I" language and deliberately replacing it with transformative "Discourse II" language during school design work.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Speak the Future, Design the Future (Changing the Discourse)
 
 ## Description
-This principle emphasizes that the language used to discuss education shapes the limits of our imagination. It encourages critiquing and changing the way we talk and write about learning to create more equitable schools. It contrasts 'Discourse I' (DI), which maintains the status quo, with 'Discourse II' (DII), which is about liberation and transformation. For example, it highlights the difference between the term 'dropout' (DI), which blames students for failing, and 'pushout' (DII), which shifts the problem to school structures that alienate students. The principle involves using this framework to check the language and ideas generated during the design process, ensuring that they promote equity and challenge oppressive systems.
+This strategy holds that the language educators use to describe students and schooling constrains what they can imagine and build. It distinguishes "Discourse I" (DI) — language that maintains the status quo and locates problems in students — from "Discourse II" (DII) — language that locates problems in structures and imagines liberation. The canonical example: calling a student a "dropout" (DI) blames the student; calling them "pushed out" (DII) implicates the school structures that alienated them. During design work, teams use this lens to audit their own language, ideas, and artifacts, ensuring the discourse itself promotes equity rather than reproducing oppressive assumptions.
 
 ## Design Implications
 
+Language functions as a framing device that shapes which problems teams perceive as solvable and which students they hold responsible [Gee's discourse analysis shows language encodes social identities and power relations, not just content.](https://en.wikipedia.org/wiki/James_Paul_Gee) [+W]. Because deficit framing predicts lower educator expectations, shifting discourse is a precondition for shifting design decisions, not a cosmetic exercise [~M]. The strategy is essentially a form of [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) applied to adults: surfacing taken-for-granted vocabulary and forcing teams to justify or replace it.
+
 ### Context
 #### Requirements
-- Requires a willingness to challenge existing norms and assumptions, as well as resources for facilitating discussions about language and power.
+- A shared, explicit DI/DII framework with worked examples (e.g., dropout/pushout, at-risk/historically underserved, discipline/punishment)
+- Structured facilitation — an "equity pause" protocol — so language critique does not collapse into blame or defensiveness
+- Artifacts to audit: mission statements, policies, communications, curriculum materials, brainstorm outputs
+- Leadership willingness to model DII language publicly and accept critique of their own phrasing
+
 #### Constraints
-- Can be challenging to implement if stakeholders are resistant to changing their language or beliefs. Requires careful facilitation to ensure that discussions are productive and respectful.
+- Language change without structural change becomes performative; renaming "detention" while keeping it does not alter student experience [-W]
+- Stakeholders invested in the status quo may resist or mock the reframing, especially when it implicates their own practice [~M]
+- Unfacilitated discussion of language and power can devolve into policing or shame rather than shared analysis [-W]
+- Teams new to the framework may apply it mechanically, sorting words without examining the underlying beliefs they encode [~W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- Full adoption: DI/DII lens embedded in every design review and hiring conversation
+- Episodic use: scheduled "equity pauses" during brainstorming, as CityBridge fellows practice
+- Artifact audit: one-time analysis of existing policy and communication documents
+- Student-facing: involving students in naming how school language describes them
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Educators and school teams seeking to create more equitable and transformative learning environments.
+- Educators, school leaders, and design teams building or redesigning schools
+- Adult learners with existing professional vocabularies that must be surfaced and examined — the strategy targets prior assumptions, which is why [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) and critique precede new framing
+- Less effective for teams with no decision-making authority, who can change their words but not their structures [~M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Transform the language used in education, challenge existing power structures, promote equity, and foster liberation and transformation.
-
-### Affordances
-- Promotes critical thinking about language and its impact, challenges existing power structures, and fosters a more equitable and transformative learning environment.
-
-### Personalization
-- The specific examples of DI and DII language can be tailored to the context and needs of the school and students.
+- Critical consciousness: recognizing how language encodes assumptions about students and power
+- Design judgment: evaluating ideas not just for feasibility but for the future they imply
+- Professional identity: shifting from deficit-oriented to structural, asset-based explanations of student outcomes
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Problem Presentation](../elements/problem-presentation.md)
-- [Question Formulation](../elements/question-formulation.md)
-- [Discussion Prompt](../elements/discussion-prompt.md)
-
-## Assessment Evidence
-- Analyze the language used in school policies, communications, and curriculum materials, track changes in the use of DI and DII language, and assess the impact of these changes on student outcomes.
-
-## Impact
-- A more equitable and transformative learning environment, increased student engagement, and improved student outcomes.
+1. Introduce the DI/DII framework with paired examples (dropout/pushout, at-risk/historically underserved, parent involvement/family partnership), using [Case Studies](../elements/case-studies.md) drawn from the team's own documents.
+2. Present a real design artifact or brainstorm output and ask teams to identify DI language using a [Discussion Prompt](../elements/discussion-prompt.md) — "Who does this sentence hold responsible?"
+3. Run an "equity pause": stop mid-brainstorm and sort generated ideas along a DI–DII spectrum, asking what future each idea assumes.
+4. Rewrite: teams replace DI phrasing with DII alternatives and articulate the structural change the new language commits them to.
+5. Institutionalize: add a discourse check to design reviews, hiring rubrics, and family communications, and revisit periodically — language reverts without maintenance [~W].
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Action Research](action-research.md) — both treat practitioners' own practice as the object of systematic inquiry
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — the strategy works by surfacing and interrogating prior assumptions rather than adding information
 
 ## Examples
-- CityBridge School Design Fellows use this discourse framework to talk about what they see and what sort of language they hear from school leaders. They also use it to check the language and ideas that educators generate during the design process. For example, at a gathering of Fellows in January 2020, the lens of DI and DII was used to facilitate an “equity pause” during a brainstorming session, challenging teams to sort their ideas along a spectrum of DI to DII.
+- **CityBridge School Design Fellows** (Washington, DC) use the DI/DII lens to analyze language they hear from school leaders and to audit ideas generated during design sessions. At a January 2020 Fellows gathering, the lens structured an "equity pause" in which teams sorted brainstormed ideas along a DI-to-DII spectrum.
+- **Deficit-to-asset reframing in research communication**: the shift from "achievement gap" to "opportunity gap" in education policy discourse parallels the DI/DII move — relocating the problem from students to the conditions they face.
 
 ## Key Sources
-- <!-- TODO -->
+- Gee, J. P. (2014). *How to do discourse analysis: A toolkit* (2nd ed.). Routledge.
+- Freire, P. (1970). *Pedagogy of the oppressed*. Herder and Herder.
+- Duncan-Andrade, J. M. R., & Morrell, E. (2008). *The art of critical pedagogy: Possibilities for moving from theory to practice in urban schools*. Peter Lang.
+- Ladson-Billings, G. (2006). From the achievement gap to the education debt: Understanding achievement in U.S. schools. *Educational Researcher, 35*(7), 3–12. [doi:10.3102/0013189X035007003](https://doi.org/10.3102/0013189X035007003)

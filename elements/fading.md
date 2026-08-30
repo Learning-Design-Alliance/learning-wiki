@@ -51,4 +51,4 @@ Fading is the element in which instructional support is deliberately reduced as 
 - Reducing the number or specificity of hints across repeated attempts.
 
 ## Key Sources
-- Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *Instructional Science, 30*(4), 293-308. [https://doi.org/10.1023/A:1016027302995](https://doi.org/10.1023/A:1016027302995)
+- Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *Instructional Science, 30*(4), 293-308. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)

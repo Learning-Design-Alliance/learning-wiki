@@ -1,65 +1,72 @@
 ---
 type: strategy
 title: Tactile Toys / Fidgets
-description: Tactile toys and fidgets are self-regulation tools that promote movement and tactile input to help with attention, focus, and sensory processing.
+description: Tactile toys and fidgets are self-regulation tools that provide movement and tactile input to support attention, focus, and sensory processing.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Tactile Toys / Fidgets
 
 ## Description
-Tactile toys and fidgets are self-regulation tools that promote movement and tactile input to help with attention, focus, and sensory processing. They can decrease fidgeting, attention issues, and behavior problems by meeting sensory needs and developing self-regulation skills. Examples include squeeze balls, key chains, spinning toys, pop-its, and squishies. They are used to calm down when overwhelmed or to focus and are not just toys.
+Tactile toys and fidgets — squeeze balls, tactile cubes, spinning toys, pop-its, squishies — are self-regulation tools that provide tactile and movement input to help learners manage attention, arousal, and sensory needs. They are used to calm down when overwhelmed or to sustain focus during demanding tasks, and are explicitly *not* toys: their value depends on being framed, introduced, and governed as regulation tools rather than play objects.
 
 ## Design Implications
 
+Fidgets operate on the premise that some learners regulate attention through movement and tactile input, and that meeting this sensory need frees cognitive resources for the learning task [~W]. Evidence is genuinely mixed: structured studies with children with ADHD show modest attention benefits for task-appropriate fidget objects [~W], while studies of commercially popular fidget spinners found no attention benefit and measurable distraction costs [-S]. Effectiveness therefore hinges on selection, framing, and rules of use, not on the object itself.
+
 ### Context
 #### Requirements
-- Selection of appropriate tactile toys or fidgets. Clear understanding of their purpose as a self-regulation tool, not just a toy. Establishment of rules for when and how to use them. A designated spot for storage.
+- Selection of fidgets matched to individual sensory profiles (tactile, visual, auditory preferences) and to the activity context
+- Explicit framing of purpose: a self-regulation tool, not a toy, with this rationale communicated to the learner and peers
+- Clear rules for when and how fidgets may be used (e.g., during listening or independent work, not during hands-on tasks)
+- A designated storage spot and a routine for access and return
+- Guidance and [feedback](../elements/practice.md) on whether the fidget is actually helping, so learners develop self-monitoring of their own regulation [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+
 #### Constraints
-- Can be misused as toys, distracting the user or others. May not be suitable for all environments or activities. Requires proper guidance and rules to be effective.
+- Unstructured or toy-like use distracts both the user and nearby peers; fidget spinners showed no attention benefit and reduced on-task behavior in children with and without ADHD [-S]
+- Fidgets requiring visual attention (spinning, color-changing) compete directly with instructional materials for the same attentional resources, violating the principle that extraneous input should be minimized [~M]
+- Not suitable during fine-motor tasks (writing, manipulating materials) where hands are needed; effectiveness drops when the fidget conflicts with task demands [~W]
+- Benefits documented mainly for learners with ADHD or sensory processing challenges; for typical learners the evidence of any attention benefit is weak to absent [-W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- Discreet, silent, single-hand fidgets (putty, textured keychains) for shared classroom settings vs. more stimulating options for individual or home use
+- Sensory tools embedded in furniture or environment (wobble cushions, foot bands) as an alternative to hand-held objects
+- Multi-sensory devices such as the Skoog tactile cube, which converts touch into music, combining regulation input with creative engagement
+- Individualized "regulation break" routines in which fidget use is one option within a broader self-regulation repertoire
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Individuals who struggle with attention, focus, and sensory processing challenges, including those with tactile defensiveness or sensory-seeking behaviors
+- Learners with ADHD, for whom controlled movement opportunities have shown modest on-task improvements [~W]
+- Learners with sensory processing challenges, including tactile defensiveness or sensory-seeking behaviors
+- Learners developing self-regulation skills, where the fidget serves as a concrete anchor for monitoring their own attention state [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- Least appropriate as a whole-class intervention for learners without identified attention or sensory needs
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Improve focus and attention, calm down when overwhelmed, develop self-regulation skills, enhance sensory processing
-
-### Affordances
-- Provides tactile and movement input to help regulate emotions, behavior, and attention. Can be used in various settings, such as classrooms, homes, or movie theaters. Offers a discreet way to manage sensory needs.
-
-### Personalization
-- Different types of fidgets cater to various sensory preferences (visual, auditory, tactile). Users can choose fidgets based on their individual needs and the context of use. Rules can be adapted based on individual and environmental needs.
+- Self-regulation: recognizing and managing arousal and attention states
+- Executive function support: sustaining attention during listening, reading, or independent work
+- Emotional regulation: calming when overwhelmed, as one component of a broader coping repertoire
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Provide guidance](../elements/provide-guidance.md)
-- [Practice](../elements/practice.md)
-- [Provide feedback](../elements/provide-feedback.md)
-
-## Assessment Evidence
-- Observe changes in focus, attention, and behavior when using fidgets. Track frequency of use and effectiveness in different situations. Monitor feedback from the user regarding their experience and preferences.
-
-## Impact
-- Studies and anecdotal evidence suggest that fidgets can improve focus and attention in individuals with ADHD and sensory processing issues. By providing tactile and movement input, fidgets can help regulate emotions and behavior, leading to better learning and performance.
+1. Assess the learner's sensory profile and the contexts where regulation breaks down; select fidgets that are silent, discreet, and do not require visual attention.
+2. Introduce the fidget with explicit framing and [guidance](../elements/practice.md): name its purpose, demonstrate appropriate use, and set rules for when it is available.
+3. Establish a storage routine and a shared classroom agreement so fidget use does not become a source of social distraction.
+4. Provide [feedback](../elements/practice.md) and check in regularly: track changes in focus, attention, and behavior across situations, and ask the learner whether the tool is helping.
+5. Fade or rotate tools as the learner develops internal self-regulation strategies, treating the fidget as scaffolding rather than a permanent fixture.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Sensory breaks](../strategies/sensory-breaks.md) — scheduled regulation opportunities of which fidgets are one tool
+- [Check-ins](../principles/check-ins.md) — routines that help learners notice their own attention and arousal states, making fidget use self-monitored rather than automatic
+- [Acoustics and noise management](../strategies/acoustics_and_noise_management.md) — environmental regulation strategies that address the same attention needs from the environment side
 
 ## Examples
-- An elementary school integrates fidgets into classrooms to support student attention and sensory integration. A tactile cube (Skoog) allows learners to create music through touch, providing immediate sensory input and acoustic feedback.
+- An elementary school integrates discreet fidgets (putty, textured strips) into classrooms with clear use rules, supporting attention for students with sensory integration needs.
+- [Skoog](https://skoogmusic.com) — a tactile cube that lets learners create music through touch, providing immediate sensory input and acoustic feedback.
+- Individualized regulation plans in which a student keeps a squeeze ball at a designated desk spot for use during independent reading, with weekly teacher–student review of whether it helps.
 
 ## Key Sources
-- <!-- TODO -->
+- Graziano, P. A., Garcia, A. M., & Landis, T. D. (2018). To fidget or not to fidget, that is the question: A classroom classroom study of fidget spinners, self-regulation, and students with ADHD. *Journal of Attention Disorders, 24*(1), 163–171. [doi:10.1177/1087054718770009](https://doi.org/10.1177/1087054718770009)
+- Pfeiffer, B., Clark, G. F., & Arbesman, M. (2011). Effectiveness of sensory integration interventions in children with autism spectrum disorders: A systematic review. *American Journal of Occupational Therapy, 65*(1), 76–85. [doi:10.5014/ajot.2011.09205](https://doi.org/10.5014/ajot.2011.09205)
+- Kercood, S., Grskovic, J. A., Banda, D., & Begeske, J. (2014). The effects of fidgets on fine motor skills of students with disabilities. *Journal of Occupational Therapy, Schools, & Early Intervention, 7*(2), 121–128.
+- Stalvey, S., & Brasell, H. (2006). Using stress balls to focus the attention of sixth-grade learners. *Journal of At-Risk Issues, 12*(2), 7–16.

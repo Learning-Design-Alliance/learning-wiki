@@ -40,7 +40,7 @@ This review confirms that fading is one of the three essential characteristics o
 
 ### Renkl et al. 2002
 
-Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *Instructional Science, 30*(4), 293–308. [https://doi.org/10.1023/A:1016027302995](https://doi.org/10.1023/A:1016027302995)
+Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *Instructional Science, 30*(4), 293–308. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
 
 `q3 · peer-reviewed experimental study` · `i3 · large impact` · `n=71`
 

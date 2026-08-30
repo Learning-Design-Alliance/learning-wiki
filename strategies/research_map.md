@@ -4,61 +4,71 @@ title: Research Map
 description: A research map is a visual representation of research topics and their interconnections, allowing users to explore academic literature in a structured and intuitive way.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Research Map
 
 ## Description
-A research map is a visual representation of research topics and their interconnections, allowing users to explore academic literature in a structured and intuitive way. It displays clusters of related articles and topics, with connections indicating shared references or themes. This tool supports learners in navigating complex research landscapes, identifying key areas of study, and understanding the relationships between different concepts. It can enhance research skills, promote interdisciplinary thinking, and facilitate the discovery of relevant resources.
+A research map is a visual representation of research topics and their interconnections, allowing users to explore academic literature in a structured and intuitive way. It displays clusters of related articles and topics, with connections indicating shared references, themes, or conceptual relationships. Learners use the map to navigate a complex research landscape, locate key areas of study, and discover relevant sources they would not find through linear search.
 
 ## Design Implications
 
+Research maps function as a form of [Advance Organizer](../elements/advance-organizers.md): they present the structure of a knowledge domain before learners engage with individual sources, giving new material a place to attach [~M]. Because the map externalizes relationships that would otherwise be held in mind while reading, it reduces the working-memory burden of navigating unfamiliar literatures [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Graphical knowledge representations such as concept maps and node-link diagrams generally outperform text-only or list-based presentations for knowledge acquisition and transfer, particularly when learners actively work with the structure rather than passively viewing it [~S].
+
 ### Context
 #### Requirements
-- Access to a research map tool or platform. Basic understanding of research concepts and terminology.
+- A map tool or curated dataset (bibliometric network, concept map, or hand-built diagram) with accurate topic clusters and connections
+- Learner understanding of basic research concepts and terminology sufficient to interpret nodes and links
+- A follow-on task that requires using the map — formulating a question, selecting sources, or comparing clusters — rather than free browsing ([Research](../elements/research.md), [Annotating](../principles/annotating.md))
+
 #### Constraints
-- The map may not be exhaustive or completely up-to-date. Requires users to critically evaluate the sources and connections presented.
+- Maps are never exhaustive or current; learners may over-trust a stale or incomplete map and miss recent or dissenting work [-W]
+- Pre-built connections can anchor learners to the map's framing, discouraging them from questioning how topics were clustered or related [~W]
+- Dense maps with many nodes and links impose extraneous load on novices, who lack the prior knowledge to distinguish central from peripheral material [-M]
+- Passive viewing of a supplied map yields little benefit; learners gain more when they construct, extend, or annotate the map themselves [~S]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Bibliometric maps** (e.g., citation or co-citation networks generated from databases) suit literature reviews and disciplinary overviews
+- **Concept maps** built by instructors or students suit conceptual understanding within a single course
+- **Collaborative maps** grown over a term support cumulative knowledge building and [Self-Explanation](../elements/self-explanation.md) as learners justify added links
+- Maps can be filtered or scaffolded by showing only top-level clusters first, then expanding detail as learners' familiarity grows
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Beneficial for higher education students, researchers, and professionals seeking to understand and explore academic literature.
+- Higher education students beginning independent research who need an orientation to an unfamiliar literature [~M]
+- Interdisciplinary learners who must relate concepts across fields; explicit cross-links make hidden connections visible [~W]
+- Less beneficial for domain experts, who already hold the structure the map externalizes and may find it redundant [~M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Navigate complex research, identify key study areas, understand concept relationships, enhance research skills, promote interdisciplinary thinking
-
-### Affordances
-- Provides a visual overview of research topics. Facilitates the discovery of relevant articles and connections. Supports interdisciplinary thinking and exploration.
-
-### Personalization
-- Users can customize their exploration by focusing on specific topics or connections of interest. The map can be filtered to show relevant information.
+- Research skills: locating, selecting, and contextualizing sources
+- Structural knowledge: understanding how concepts and subfields relate
+- Interdisciplinary thinking: transferring ideas across topic boundaries
+- Question formulation: identifying gaps and promising areas for inquiry
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Assigned Readings](../elements/assigned-readings.md)
-- [Research](../elements/research.md)
-
-## Assessment Evidence
-- Track user engagement with the research map. Monitor the number of articles and connections explored. Assess the quality of research questions and investigations informed by the map.
-
-## Impact
-- Research maps can enhance research skills and promote interdisciplinary thinking. By providing a structured overview of the research landscape, these tools can facilitate the discovery of relevant resources and connections.
+1. Orient learners to the map's conventions (what nodes, links, and cluster sizes represent) before content exploration.
+2. Activate relevant background knowledge so learners can interpret the map meaningfully ([Activating Prior Knowledge](../strategies/activating-prior-knowledge.md)).
+3. Have learners trace one or two pathways through the map, reading the sources along a route rather than sampling randomly ([Assigned Readings](../elements/assigned-readings.md)).
+4. Require learners to explain *why* two topics are connected, prompting elaboration rather than recognition ([Self-Explanation](../elements/self-explanation.md)).
+5. Ask learners to extend or critique the map — adding a missing connection, a recent source, or a counter-position — converting them from consumers to constructors of the structure.
+6. Use the map to support a concrete output: a research question, annotated bibliography, or literature review ([Research](../elements/research.md)).
 
 ## Related Strategies
-- <!-- TODO -->
+- [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — maps are most interpretable when learners already hold some relevant schema to connect to
+- [Case-Based Learning](../strategies/case-based-learning.md) — cases can serve as concrete entry points into the abstract structure a map presents
 
 ## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Advance Organizer](../elements/advance-organizers.md) — a research map is a domain-scale organizer presented before detailed study
+- [Annotating](../principles/annotating.md) — learner annotations turn a supplied map into a personal knowledge artifact
+- [Research](../elements/research.md) — the inquiry activity the map orients and accelerates
 
 ## Examples
-- Digital Promise's Research Map is a visual representation of education and learning sciences research. Users can explore common topics and connections between topics, and save articles of interest.
+- **[Digital Promise Research Map](https://researchmap.digitalpromise.org)** — a visual map of education and learning sciences research; users explore topic clusters and connections and save articles of interest.
+- **[Connected Papers](https://www.connectedpapers.com)** — generates a similarity graph around a seed paper, letting researchers see how a literature clusters and which works are foundational.
+- **[VOSviewer](https://www.vosviewer.com)** — free tool for constructing and viewing bibliometric maps of publications, authors, or keywords based on citation and co-occurrence data.
 
 ## Key Sources
-- <!-- TODO -->
+- Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)
+- Novak, J. D., & Cañas, A. J. (2008). The theory underlying concept maps and how to construct and use them. *Florida Institute for Human and Machine Cognition Technical Report IHMC CmapTools 2006-01 Rev 01-2008.*
+- Kessler, M. M. (1963). Bibliographic coupling between scientific papers. *American Documentation, 14*(1), 10–25. [doi:10.1002/asi.5090140103](https://doi.org/10.1002/asi.5090140103)

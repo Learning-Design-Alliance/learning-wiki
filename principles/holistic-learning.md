@@ -71,5 +71,5 @@ Holistic learning matters when learners are likely to lose meaning by encounteri
 **Concept maps that return throughout a unit** — The same framework is revisited as new detail is introduced, helping learners keep parts integrated into the whole.
 
 ## Key Sources
-- Reigeluth, C. M. (1979). In search of a better way to organize instruction. *Journal of Instructional Development, 2*(3), 8-15.
+- Reigeluth, C. M. (1979). In search of a better way to organize instruction. *Journal of Instructional Development, 2*(3), 8-15. [doi:10.1007/bf02984374](https://doi.org/10.1007/bf02984374)
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge. [https://doi.org/10.4324/9781315113210](https://doi.org/10.4324/9781315113210)

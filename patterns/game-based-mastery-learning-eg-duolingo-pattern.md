@@ -101,6 +101,6 @@ This pattern can be highly effective for incremental skill development, especial
 - Works best when mastery definitions are instructionally meaningful and not merely gamified gating.
 
 ## Key Sources
-- Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan.
+- Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan. [doi:10.1145/950566.950595](https://doi.org/10.1145/950566.950595)
 - Kapp, K. M. (2012). *The gamification of learning and instruction*. Pfeiffer.
 - Van Eck, R. (2006). Digital game-based learning: It's not just the digital natives who are restless. *EDUCAUSE Review, 41*(2), 16-30.
