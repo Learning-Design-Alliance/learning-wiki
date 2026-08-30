@@ -228,6 +228,20 @@ def salvage_leading_junk(content: str) -> str:
     return content
 
 
+def _error_hint(e: Exception) -> str:
+    """Extra guidance appended to an [ERROR] line for a known, previously-seen
+    failure class — so the fix is visible in the log itself instead of
+    needing to be re-diagnosed each time it recurs. Seen repeatedly this
+    session: a page written by a command run as bare root (not
+    `sudo -u evalrunner ...`) ends up root-owned, and evalrunner can't
+    overwrite it on the next enrichment pass."""
+    if isinstance(e, PermissionError):
+        return (" — likely a file owned by a different user (e.g. written by a command run as "
+                "root instead of `sudo -u evalrunner ...`). Fix with: "
+                "sudo chown -R evalrunner:evalrunner " + str(WIKI_ROOT))
+    return ""
+
+
 class InvalidPageContentError(ValueError):
     """Raised when a model's response doesn't look like a real OKF page
     (post unwrap_json_response/salvage_leading_junk) — never write this to
@@ -960,7 +974,7 @@ def cmd_collect(args: argparse.Namespace) -> None:
                 print(f"  [OK] {slug}" + (f"  (fixed links: {', '.join(repairs)})" if repairs else ""))
             except Exception as e:
                 errors.append(slug)
-                print(f"  [ERROR] {slug}: {e}")
+                print(f"  [ERROR] {slug}: {e}{_error_hint(e)}")
         else:
             errors.append(slug)
             print(f"  [ERROR] {slug}: {result.result.type}")
@@ -1281,7 +1295,7 @@ def cmd_run(args: argparse.Namespace) -> None:
         except Exception as e:
             with print_lock:
                 done["n"] += 1
-                print(f"[{done['n']}/{total}] [ERROR] {name}: {e}")
+                print(f"[{done['n']}/{total}] [ERROR] {name}: {e}{_error_hint(e)}")
 
         # Brief pause per request — still applied per-worker under concurrency,
         # so it throttles each thread's own request rate, not the aggregate.
