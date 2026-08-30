@@ -617,12 +617,12 @@ CLAIM_TEMPLATE = """\
 ---
 type: claim
 title: [Claim statement — one sentence, present tense]
-id: [preserve the id already in the draft stub above verbatim; leave blank if none]
+id: {id}
 status: review
 generated:
   by: "claude/unspecified"
   at: {TODAY}
-evidence_strength: [preserve from the draft stub, or infer only from evidence already present there — never invent]
+evidence_strength: {evidence_strength}
 ---
 
 # [Claim statement — one sentence, present tense]
@@ -832,6 +832,15 @@ def load_exemplar(page_type: str) -> str:
     return path.read_text(encoding="utf-8")
 
 
+def _extract_frontmatter_field(text: str, field: str) -> str:
+    """Read a scalar frontmatter field's raw value from a page's current
+    content — used to carry a field like id/evidence_strength forward into
+    the enrichment template in code, rather than asking the model to copy
+    it (or leave it blank) itself. See build_user_prompt's claims branch."""
+    m = re.search(rf"^{re.escape(field)}:\s*(.*)$", text, re.MULTILINE)
+    return m.group(1).strip() if m else ""
+
+
 def build_user_prompt(
     page_type: str,
     name: str,
@@ -845,6 +854,18 @@ def build_user_prompt(
     if page_type == "patterns":
         template = template.replace("{author}", csv_row.get("author", "").strip())
         template = template.replace("{grain_size}", csv_row.get("grain_size", "").strip())
+    elif page_type == "claims":
+        # Substituted in code, not left to the model: an earlier version
+        # asked the model to "preserve the id/evidence_strength from the
+        # draft stub, or leave blank if none" as a bracketed instruction —
+        # confirmed in production to sometimes get echoed back literally
+        # into the frontmatter value when there was nothing to preserve,
+        # instead of being left blank. Extracting directly from the current
+        # draft removes that failure mode the same way author/grain_size
+        # already avoid it for patterns.
+        template = template.replace("{id}", _extract_frontmatter_field(current_stub, "id"))
+        template = template.replace(
+            "{evidence_strength}", _extract_frontmatter_field(current_stub, "evidence_strength"))
 
     slug_ref = format_slug_list(wiki_slugs)
 
