@@ -36,7 +36,18 @@ PAGE_TYPES = ("principles", "elements", "patterns", "strategies", "theories", "c
 # Matches a citation line's leading "Author, A. ... (Year)." — single author
 # ("Smith, J. (2020)") or first-of-several ("Smith, J., & Jones, K. (2020)").
 CITATION_KEY_RE = re.compile(r"^[-*]?\s*([A-Z][A-Za-z'’-]+),.*?\((\d{4}[a-z]?)\)")
-DOI_RE = re.compile(r"10\.\d{4,9}/[^\s)\]]+")
+# Excludes bare ')'/']' so a DOI embedded in a markdown link — [doi:X](url) —
+# doesn't swallow the link's own closing punctuation, but still allows a
+# BALANCED (...) pair as part of the DOI itself: several publishers'
+# DOIs legitimately contain parens (Wiley SICI-style, ASCE, ASHA, and
+# Academic Press's older series all do — e.g. 10.1061/(ASCE)0733-9445
+# (2002)128:9(1119), 10.1044/0161-1461(2004/018)). The plain-exclusion
+# version truncated these mid-DOI at the first paren (confirmed against
+# real citations via resolve_doi_conflicts.py: chi-1996, nelson-1990, and
+# several others all had a real, resolvable DOI reported as "not_found"
+# only because the truncated fragment sent to Crossref wasn't a real DOI
+# at all — the wiki content was fine, this regex was the actual bug).
+DOI_RE = re.compile(r"10\.\d{4,9}/(?:\([^\s()]*\)|[^\s()\]])+")
 
 # Same first-author-surname + year is not enough to call two citations "the
 # same paper" — e.g. Ericsson, Krampe & Tesch-Romer (1993) vs. Ericsson &
@@ -112,7 +123,17 @@ def _same_paper(a: set, b: set) -> bool:
 
 
 def _normalize_doi(doi: str) -> str:
-    return doi.strip().rstrip(".,;)").lower()
+    doi = doi.strip().rstrip(".,;")
+    # Only strip a trailing ')' if it's unbalanced (more ')' than '(' seen
+    # so far) — several publishers' DOIs legitimately end in a closing
+    # paren (e.g. 10.1061/(ASCE)0733-9445(2002)128:9(1119)), so an
+    # unconditional rstrip(")") would corrupt those right back to the
+    # truncated form DOI_RE was just fixed to stop producing. In the
+    # normal case (DOI_RE's match is already balanced) this loop never
+    # runs at all.
+    while doi.endswith(")") and doi.count("(") < doi.count(")"):
+        doi = doi[:-1]
+    return doi.lower()
 
 
 def extract_citations(text: str, source_label: str) -> list[dict]:
