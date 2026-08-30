@@ -8,6 +8,10 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ---
 
+## 2026-08-30
+
+* **Ingest**: `goal-map batch from ExploreSEL/EASEL graph export` — [goals/exploresel-taxonomy.md](goals/exploresel-taxonomy.md) (206-node full-depth taxonomy) + 43 framework goal-map pages (goals/exploresel-fw-*.md); cross-framework alignment data kept separate as goals/data/exploresel-framework-taxonomy-crosswalk.ndjson (6506 edges) and goals/data/exploresel-cross-framework-similarity.ndjson (8136 edges) — see sources/manifest.ndjson id=exploresel-graph-export-2026-08-30
+
 ## 2026-08-29
 
 * **Ingest**: [claims/relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety](claims/relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety.md) — New claim: relationship-focused PD shifts teacher conceptions of rigor and safety (Chowning 2023)
