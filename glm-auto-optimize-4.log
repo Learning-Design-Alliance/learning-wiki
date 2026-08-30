@@ -1,0 +1,73 @@
+nohup: ignoring input
+[WARN] Found a stale auto-optimize lock (pid 115211 is no longer running) — removing it and proceeding.
+
+=== auto-optimize round 1/2 — testing from: glm-5.3-flash-v121-test (~60.0 min left in budget) ===
+Asking Claude Opus to propose a revision to v121 from glm-5.3-flash-v121-test's results (0 worked example(s), 9 prior version(s) in trajectory)...
+Saved v122 (based on v121): Validator signal this batch was only hallucinated link slugs (5x in claims_cited/related), so the slug section was rewritten from a reminder into a me
+Running v122 as 'auto-v122' against 1 model(s) x 10 article(s) (concurrency=6)...
+Run ID: auto-v122  (results under eval/runs/auto-v122)
+[z-ai/glm-5.3-flash / arxiv-1602.07032] Unbounded Human Learning: Optimal Scheduling for Spaced Repe
+[z-ai/glm-5.3-flash / arxiv-2105.15106] A Survey of Knowledge Tracing: Models, Variants, and Applica
+[z-ai/glm-5.3-flash / arxiv-2409.16490] Exploring Knowledge Tracing in Tutor-Student Dialogues using
+[z-ai/glm-5.3-flash / eric-ed599273] Retrieval-Based Learning: A Decade of Progress
+[z-ai/glm-5.3-flash / eric-ej1327865] The Effects of Retrieval Practice Across Levels of Thinking 
+[z-ai/glm-5.3-flash / eric-ej1276025] Cognitive Load in Solving Mathematics Problems
+[1/10] z-ai/glm-5.3-flash/eric-ej1327865 latency=54.88s cost=$0.003002 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed491961] The Effectiveness of Worked Examples in a Game-Based Learnin
+[2/10] z-ai/glm-5.3-flash/arxiv-2409.16490 latency=70.67s cost=$0.003195 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-9083074] Fostering Self-Regulated Learning in Online Environments: Po
+[3/10] z-ai/glm-5.3-flash/arxiv-1602.07032 latency=107.77s cost=$0.00326 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-4237043] Self-Controlled Feedback Is Effective If It Is Based on the 
+[4/10] z-ai/glm-5.3-flash/eric-ed599273 latency=110.08s cost=$0.003213 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-5932263] Self-Regulated Learning of Important Information under Seque
+[5/10] z-ai/glm-5.3-flash/pmc-9083074 latency=87.18s cost=$0.003329 contributions=0 completeness=0.0 passed=False
+[6/10] z-ai/glm-5.3-flash/eric-ed491961 latency=86.41s cost=$0.002752 contributions=9 completeness=1.0 passed=True
+[7/10] z-ai/glm-5.3-flash/arxiv-2105.15106 latency=170.14s cost=$0.005029 contributions=9 completeness=0.993 passed=False
+[8/10] z-ai/glm-5.3-flash/pmc-5932263 latency=58.71s cost=$0.003357 contributions=12 completeness=1.0 passed=True
+[9/10] z-ai/glm-5.3-flash/pmc-4237043 latency=71.93s cost=$0.002929 contributions=8 completeness=1.0 passed=True
+[10/10] z-ai/glm-5.3-flash/eric-ej1276025 latency=458.5s cost=$0.008049 contributions=0 completeness=0.0 passed=False
+  v122: 0 generation error(s), avg judge-score delta vs glm-5.3-flash-v121-test: +0.20
+IMPROVED: avg judge-score delta +0.20 >= threshold 0.0 — v122 is now the current default prompt.
+
+=== auto-optimize round 2/2 — testing from: auto-v122 (~47.8 min left in budget) ===
+Asking Claude Opus to propose a revision to v122 from auto-v122's results (1 worked example(s), 10 prior version(s) in trajectory)...
+Saved v123 (based on v122): Targeted the four concrete judge failures on pmc-4237043 with procedure-level fixes rather than new prohibitions: a mandatory L0y year-provenance ledg
+Running v123 as 'auto-v123' against 1 model(s) x 10 article(s) (concurrency=6)...
+Run ID: auto-v123  (results under eval/runs/auto-v123)
+[z-ai/glm-5.3-flash / arxiv-1602.07032] Unbounded Human Learning: Optimal Scheduling for Spaced Repe
+[z-ai/glm-5.3-flash / arxiv-2105.15106] A Survey of Knowledge Tracing: Models, Variants, and Applica
+[z-ai/glm-5.3-flash / arxiv-2409.16490] Exploring Knowledge Tracing in Tutor-Student Dialogues using
+[z-ai/glm-5.3-flash / eric-ed599273] Retrieval-Based Learning: A Decade of Progress
+[z-ai/glm-5.3-flash / eric-ej1327865] The Effects of Retrieval Practice Across Levels of Thinking 
+[z-ai/glm-5.3-flash / eric-ej1276025] Cognitive Load in Solving Mathematics Problems
+[1/10] z-ai/glm-5.3-flash/eric-ej1327865 latency=62.22s cost=$0.002989 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed491961] The Effectiveness of Worked Examples in a Game-Based Learnin
+[2/10] z-ai/glm-5.3-flash/arxiv-1602.07032 latency=71.85s cost=$0.003291 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-9083074] Fostering Self-Regulated Learning in Online Environments: Po
+[3/10] z-ai/glm-5.3-flash/eric-ed599273 latency=76.47s cost=$0.003245 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-4237043] Self-Controlled Feedback Is Effective If It Is Based on the 
+[4/10] z-ai/glm-5.3-flash/arxiv-2105.15106 latency=86.98s cost=$0.00352 contributions=10 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-5932263] Self-Regulated Learning of Important Information under Seque
+[5/10] z-ai/glm-5.3-flash/eric-ed491961 latency=52.46s cost=$0.002389 contributions=8 completeness=1.0 passed=True
+[6/10] z-ai/glm-5.3-flash/pmc-9083074 latency=78.02s cost=$0.003265 contributions=0 completeness=0.0 passed=False
+[7/10] z-ai/glm-5.3-flash/pmc-4237043 latency=73.2s cost=$0.002995 contributions=7 completeness=0.899 passed=False
+[8/10] z-ai/glm-5.3-flash/pmc-5932263 latency=84.74s cost=$0.003374 contributions=9 completeness=1.0 passed=True
+[9/10] z-ai/glm-5.3-flash/arxiv-2409.16490 latency=363.82s cost=$0.008124 contributions=0 completeness=0.0 passed=False
+[10/10] z-ai/glm-5.3-flash/eric-ej1276025 latency=363.81s cost=$0.008094 contributions=0 completeness=0.0 passed=False
+  v123: 0 generation error(s), avg judge-score delta vs auto-v122: +0.00
+IMPROVED: avg judge-score delta +0.00 >= threshold 0.0 — v123 is now the current default prompt.
+
+# Auto-optimize summary
+
+Started from: `glm-5.3-flash-v121-test`
+Final run: `auto-v123`
+Current prompt version: `v123`
+
+| Round | Version | Run | Adopted | Gen errors | Pass rate | Completeness | Judge score | Δ vs previous | Changes |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | `v122` | [auto-v122](./auto-v122/report.html) | yes | 0 | 70% | 80% | 4.12 | +0.20 | Validator signal this batch was only hallucinated link slugs (5x in claims_cited/related), so the slug section was rewri… |
+| 2 | `v123` | [auto-v123](./auto-v123/report.html) | yes | 0 | 60% | 69% | 4.29 | +0.00 | Targeted the four concrete judge failures on pmc-4237043 with procedure-level fixes rather than new prohibitions: a mand… |
+
+**Recommendation:** run `python3 scripts/eval_harness.py history` for the full cross-run trend, and `python3 scripts/eval_harness.py report --run-id auto-v123` for the dashboard behind the final numbers above.
+
+Done. Wrote eval/runs/auto-optimize-summary-glm-5.3-flash-v121-test.md and eval/runs/auto-optimize-summary-glm-5.3-flash-v121-test.html. Current prompt version: v123.

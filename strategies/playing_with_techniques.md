@@ -1,66 +1,73 @@
 ---
 type: strategy
-title: Playing with Techniques
+title: Playing With Techniques
 description: Provide low-pressure exercises for students to experiment with the writing techniques they have analyzed.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
-# Playing with Techniques
+# Playing With Techniques
 
 ## Description
-Provide low-pressure exercises for students to experiment with the writing techniques they have analyzed. This helps them internalize the lessons and explore the possibilities of writing.
+Playing with techniques is a strategy in which learners experiment with a specific authoring technique — sentence combining, imagery, dialogue, structural moves — in short, low-stakes exercises before or alongside composing full texts. The technique is typically first studied in mentor texts, then rehearsed in isolation or in small chunks, so that learners can manipulate it without the simultaneous demands of planning, drafting, and editing a whole piece.
 
 ## Design Implications
 
+The strategy works by isolating one craft variable at a time, reducing the working-memory and motivational load of full composition while building a repertoire of moves learners can later deploy deliberately [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Because the exercises are explicitly low-stakes, they encourage risk-taking and revision-oriented experimentation that graded full drafts suppress; process-focused framing outperforms outcome-focused framing for learners still acquiring a skill [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]. The technique study that precedes play matters: analyzing how published authors use a move gives learners a model to imitate and vary, and contrasting multiple cases of the technique supports abstraction of what the move is *for* [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M].
+
 ### Context
 #### Requirements
-- Appropriate writing prompts and exercises. Time for experimentation in class. A classroom environment that values creativity and self-expression.
+- Mentor texts in which the target technique is visible and can be analyzed first
+- Short, bounded exercises (a sentence, a paragraph, a stanza) rather than full drafts
+- Explicit permission to write badly — the exercise is for trying, not evaluating
+- A follow-on opportunity to apply the technique in authentic writing ([Application](../elements/application.md))
+- Feedback that targets the technique, not general quality [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
+
 #### Constraints
-- Some students may struggle with open-ended exercises. Requires careful planning to ensure that exercises are relevant and engaging. May be time-consuming.
+- Isolated drills detached from authentic writing purposes transfer poorly; learners may execute the technique on demand but never use it in their own composing [-M] — Hillocks's synthesis found decontextualized drill exercises among the least effective approaches to writing instruction
+- If every exercise is collected and graded, the low-stakes quality that drives experimentation disappears [-M]
+- Playing with a technique without first analyzing it in models produces imitation of surface features without understanding of function [~M]
+- Learners who have already mastered the technique find the exercises redundant and disengaging [~W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Imitation then variation:** copy the structure of a mentor-text passage, then rewrite it with new content
+- **Sentence combining:** give learners kernel sentences to combine using the target construction
+- **Constrained writing games:** e.g., "describe this room without naming any color" — constraints force engagement with a specific craft choice
+- **Revision sprints:** revisit an existing draft and apply one newly learned technique in three different ways
+- **Choice boards:** offer several technique exercises and let learners pick, supporting autonomy
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- All grade levels, particularly beneficial for developing writing skills
+- Developing writers in upper elementary through secondary grades, where craft instruction shows the strongest effects [+M]
+- Reluctant writers, for whom short low-stakes exercises lower the affective barrier to writing at all [~M]
+- Less useful for advanced writers who already deploy the technique flexibly [~W]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Promote experimentation and creativity, enhance understanding of writing techniques, develop fluency in using new techniques, encourage self-expression
-
-### Affordances
-- Provides a safe space for students to experiment with new ideas. Encourages them to take risks and stretch their writing muscles. Promotes a playful and engaging learning environment.
-
-### Personalization
-- Exercises can be tailored to student interests and writing goals. Students can be given the freedom to choose which techniques to experiment with. Scaffolding can be provided for struggling learners.
+- Craft knowledge: knowing what a technique does and when to use it
+- Procedural fluency: making the technique available without conscious effort
+- Writer identity and self-efficacy: building willingness to experiment and revise
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Practice](../elements/practice.md)
-- [Application](../elements/application.md)
-- [Peer Discussion](../elements/peer-discussion.md)
-- [Whole-Class Sharing](../elements/whole-class-sharing.md)
-
-## Assessment Evidence
-- Student writing samples demonstrating experimentation with new techniques. Participation in exercises and activities. Student reflections on their learning process.
-
-## Impact
-- Research indicates that providing opportunities for experimentation improves writing skills and promotes a more positive attitude towards writing.
+1. **Select one technique** tied to a current writing goal (e.g., varying sentence openings for rhythm).
+2. **Analyze models:** read 2–3 mentor passages aloud and annotate where and how the technique appears; contrasting cases helps learners abstract the move's function [Multiple contrasting cases support abstraction.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
+3. **Demonstrate:** the teacher composes an example live, thinking aloud about the choices being made, consistent with [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) modeling.
+4. **Play:** learners complete a short exercise (3–10 minutes) applying the technique to their own content; use [Act It Out](../elements/act-it-out.md) or oral rehearsal first for learners who struggle to start.
+5. **Share and compare:** volunteers read examples; the class discusses what each version accomplishes, using [Analogies](../elements/analogies.md) to connect moves across examples.
+6. **Apply:** learners use the technique in their ongoing draft; feedback on that draft should reference the practiced technique [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- Mentor-text analysis — the analytic phase that gives technique play its model and purpose
+- Sentence combining — a specific, well-researched instance of technique play
+- Revision conferences — where experimented techniques get consolidated into drafts
 
 ## Examples
-- Students are given a sentence from a mentor text and asked to rewrite it using different techniques. Students are asked to write a short story using a specific type of figurative language. Students are asked to create a parody of a mentor text.
+- **Nancie Atwell's writing workshop** (Center for Teaching and Learning, Maine) — students try out craft moves observed in published literature in their own notebooks before drafting, with the teacher conferring rather than grading the experiments.
+- **The Writing Revolution (Hochman & Wexler)** — sentence-level activities such as because-but-so exercises and sentence combining give students structured, low-stakes practice with syntactic techniques before paragraph work. https://www.thewritingrevolution.org
+- **Poetry imitation exercises** — after studying a poem's structure (e.g., a list poem or a villanelle), students write their own version on a new topic, playing with the form without the pressure of inventing structure from scratch.
 
 ## Key Sources
-- <!-- TODO -->
+- Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
+- Hillocks, G. (1986). *Research on written composition: New directions for teaching.* Urbana, IL: NCTE.
+- Bruning, R., & Horn, C. (2000). Developing motivation to write. *Educational Psychologist, 35*(1), 25–37. [doi:10.1207/S15326985EP3501_4](https://doi.org/10.1207/S15326985EP3501_4)
+- Saddler, B., & Graham, S. (2005). The effects of peer-assisted sentence-combining instruction on the writing performance of more and less skilled young writers. *Journal of Educational Psychology, 97*(1), 43–54. [doi:10.1037/0022-0663.97.1.43](https://doi.org/10.1037/0022-0663.97.1.43)

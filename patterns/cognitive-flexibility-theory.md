@@ -107,4 +107,4 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 
 ## Key Sources
 - Spiro, R. J., Feltovich, P. J., Jacobson, M. J., & Coulson, R. L. (1992). Cognitive flexibility, constructivism, and hypertext: Random access instruction for advanced knowledge acquisition in ill-structured domains. In T. Duffy & D. Jonassen (Eds.), *Constructivism and the technology of instruction* (pp. 57-75). Erlbaum.
-- Jacobson, M. J., & Spiro, R. J. (1995). Hypertext learning environments, cognitive flexibility, and the transfer of complex knowledge. *Journal of Educational Computing Research, 12*(4), 301-333. [https://doi.org/10.2190/4T1B-6E7P-7J9M-3X4M](https://doi.org/10.2190/4T1B-6E7P-7J9M-3X4M)
+- Jacobson, M. J., & Spiro, R. J. (1995). Hypertext learning environments, cognitive flexibility, and the transfer of complex knowledge. *Journal of Educational Computing Research, 12*(4), 301-333. [https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn](https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn)

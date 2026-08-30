@@ -69,5 +69,5 @@ Mastery learning works when progression is tied to credible performance and lear
 
 ## Key Sources
 - Bloom, B. S. (1971). Mastery learning. In J. H. Block (Ed.), *Mastery learning: Theory and practice*. Holt, Rinehart and Winston.
-- Guskey, T. R. (2007). Closing achievement gaps: Revisiting Benjamin S. Bloom's "Learning for Mastery." *Journal of Advanced Academics, 19*(1), 8-31.
+- Guskey, T. R. (2007). Closing achievement gaps: Revisiting Benjamin S. Bloom's "Learning for Mastery." *Journal of Advanced Academics, 19*(1), 8-31. [doi:10.4219/jaa-2007-704](https://doi.org/10.4219/jaa-2007-704)
 - Kulik, C. L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265-299. [https://doi.org/10.3102/00346543060002265](https://doi.org/10.3102/00346543060002265)

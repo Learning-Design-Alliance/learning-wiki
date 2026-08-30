@@ -4,61 +4,66 @@ title: Reading Laterally
 description: Reading Laterally is the practice of verifying information by consulting multiple external sources to evaluate the credibility of a source before engaging deeply with it.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Reading Laterally
 
 ## Description
-Reading Laterally is the practice of verifying information by consulting multiple external sources to evaluate the credibility of a source before engaging deeply with it. Rather than examining a website's 'About Us' page or internal links (vertical reading), lateral reading involves opening multiple browser tabs to investigate what other reputable sources say about the original source's expertise, reputation, and potential biases. This approach helps readers quickly assess trustworthiness and distinguish reliable information from misinformation or propaganda. Good fact-checkers read “laterally,” across many connected sites instead of digging deep into the site at hand.
+Reading Laterally is the practice of verifying information by leaving the original source and consulting multiple external sources to evaluate its credibility before engaging deeply with its content. Rather than examining a website's "About Us" page or internal links (vertical reading), lateral readers open new tabs to investigate what independent, reputable sources say about the original source's expertise, reputation, and potential biases. Professional fact-checkers read "laterally," across many connected sites instead of digging deep into the site at hand, allowing them to reach warranted judgments in a fraction of the time vertical readers require.
 
 ## Design Implications
 
+Lateral reading works because it shifts evaluation from judging a source's self-presentation to triangulating its reputation across independent sources — a strategy that mirrors how professional fact-checkers outperform both historians and undergraduates in speed and accuracy of credibility judgments (Wineburg & McGrew, 2019). Teaching it explicitly matters: most students default to vertical reading and over-trust polished design, so instruction must model the tab-switching behavior itself rather than describe it [~M].
+
 ### Context
 #### Requirements
-- Access to a computer or mobile device with internet access. Proficiency in using search engines and navigating websites. Awareness of reliable fact-checking resources and reputable sources of information.
+- Internet access and fluency with search engines, tabbed browsing, and navigating multiple sites in parallel
+- A working knowledge of reputable reference sources (encyclopedias, news databases, fact-checking organizations)
+- Instructional modeling of the strategy — demonstrations of expert tab-switching outperform rule lists [~M]
+- Repeated practice with authentic, unfamiliar sources; the strategy does not transfer from description alone
+
 #### Constraints
-- Requires time and effort to consult multiple sources. May be challenging for individuals with limited digital literacy skills. Relies on the availability of credible external sources to provide accurate assessments.
+- Less effective when no independent coverage of a source exists — obscure or very new sources resist lateral verification
+- Search results themselves can be manipulated (SEO, coordinated inauthentic behavior), so lateral checks inherit the biases of the search ecosystem
+- Students with limited digital literacy may conflate "finding corroboration" with "finding agreement," reinforcing confirmation bias if not taught to seek disconfirming evidence
+- Time cost is real for deep engagement; lateral reading is a triage tool for deciding *whether* to read deeply, not a substitute for close reading
+
 #### Implementation Variability
-- <!-- TODO -->
+- Full protocol (Wineburg & McGrew): open new tabs, search the source's name plus terms like "bias" or "funding," consult Wikipedia and fact-checkers, then return
+- Lightweight triage: a two-source check before sharing or citing
+- Embedded practice: annotate live webpages during class, or use curated sets of credible and deceptive sites for comparison exercises
+- Discipline-specific variants: checking journal reputation and retraction status in scientific literacy instruction
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- All learners, particularly those who frequently encounter online information and need to assess its reliability, including students, researchers, and general consumers of news and social media
+- Secondary and postsecondary students, who show widespread difficulty evaluating online sources even at elite universities (Breakstone et al., 2021) [~M]
+- Pre-service teachers and professionals whose work requires curating information for others
+- General adult learners consuming news and social media; benefits are largest for those with low prior familiarity with fact-checking workflows
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Evaluate the credibility of online sources, identify bias and misinformation, improve critical thinking skills, enhance information literacy
-
-### Affordances
-- Provides a rapid and effective method for assessing the trustworthiness of online sources. Encourages a more objective and informed approach to information consumption. Reduces susceptibility to misinformation and propaganda.
-
-### Personalization
-- Can be adapted to different types of sources and claims, ranging from news articles to scientific studies. The level of scrutiny can be adjusted based on the potential impact of the information.
+- Evaluating the credibility, funding, and bias of online sources
+- Distinguishing misinformation, propaganda, and sponsored content from independent reporting
+- Building transferable information literacy and civic online reasoning habits
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Research](../elements/research.md)
-- [Resource Evaluation](../elements/resource-evaluation.md)
-
-## Assessment Evidence
-- Observe learners' ability to identify unreliable sources and misinformation. Assess the quality of their source evaluations based on external evidence. Measure improvements in their critical thinking and information literacy skills.
-
-## Impact
-- Research from Stanford indicates that professional fact-checkers using lateral reading techniques arrive at more warranted conclusions in a fraction of the time compared to those who read vertically.
+1. Encounter a claim or source and resist reading deeply; treat the source itself as the object of investigation.
+2. Open new tabs and search the source's name, authors, or domain alongside evaluative terms ("funding," "bias," "retractation").
+3. Consult at least two independent, reputable external sources — encyclopedias, established news outlets, fact-checking organizations — and note what they report about the original source.
+4. Record the verdict: trusted, untrusted, or unresolved, with the external evidence that supports it (see [Annotating](../principles/annotating.md) for structured note-taking during this step).
+5. Only then decide whether to read, cite, or share the original source; pair the routine with [Case Studies](../principles/case-studiescase-based-learning.md) using real deceptive sites to build discrimination.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [3-Source Rule](3-source_rule.md) — a corroboration heuristic that operationalizes lateral triangulation for content claims
+- [A Finder's Guide to Facts](a_finder's_guide_to_facts.md) — complementary framing for locating authoritative sources before evaluating claims
 
 ## Examples
-- When encountering a statistic on a website, a lateral reader would open a new tab and search for that statistic from other reputable sources, such as government agencies or academic studies, before accepting the original website's claim.
+- **Stanford History Education Group (SHEG) "Civic Online Reasoning" curriculum** (https://cor.stanford.edu) — free lessons and assessments that teach lateral reading through live-web tasks; the research base for the strategy's strongest evidence.
+- **News Literacy Project, "Check Center"** (https://newslit.org) — guided lateral-reading walkthroughs for evaluating viral claims.
+- **Classroom routine**: when a student cites a website, the class spends five minutes laterally reading the site's funders and reputation before discussing its content, making the verification visible rather than private.
 
 ## Key Sources
-- <!-- TODO -->
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: The studies of civic online reasoning. *Teachers College Record, 121*(11), 1–32. [doi:10.1177/016146811912101107](https://doi.org/10.1177/016146811912101107)
+- Breakstone, J., Smith, M., Ortega, P., Kerr, D., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 539–550. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- McGrew, S., Breakstone, J., Ortega, T., Richardson, M., & Wineburg, S. (2019). Can students evaluate online sources? Learning from assessments of civic online reasoning. *Theory & Research in Social Education, 47*(2), 165–193. [doi:10.1080/00933104.2018.1516760](https://doi.org/10.1080/00933104.2018.1516760)
+- Wineburg, S., McGrew, S., Breakstone, J., & Ortega, T. (2016). *Evaluating information: The cornerstone of civic online reasoning.* Stanford Digital Repository.

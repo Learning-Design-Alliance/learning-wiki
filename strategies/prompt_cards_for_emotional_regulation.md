@@ -1,65 +1,70 @@
 ---
 type: strategy
-title: Prompt Cards for Emotional Regulation
-description: Prompt cards, particularly emotion cue cards, offer accessible reminders of self-regulation strategies.
+title: Prompt Cards For Emotional Regulation
+description: Prompt cards — especially emotion prompt cards — give learners at-the-ready reminders of self-regulation strategies to use when emotions escalate.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
-# Prompt Cards for Emotional Regulation
+# Prompt Cards For Emotional Regulation
 
 ## Description
-Prompt cards, particularly emotion cue cards, offer accessible reminders of self-regulation strategies. Students can keep these cards on hand and reference them when emotions escalate or they feel a loss of control. Consistent use of these cards can help internalize strategies, supporting emotional self-regulation and moving coping mechanisms into long-term memory. The cards can include a range of strategies, such as squeezing a fidget toy or taking a mindfulness break. The cards prompt the user to identify their own emotions, teach calming strategies, and encourage practice of those strategies.
+Prompt cards are small, portable cues — physical cards, desk strips, or on-screen widgets — that display a named emotion, a strategy, or a decision prompt ("Name it to tame it," "Take five breaths," "Ask for a break"). They function as external memory supports that learners consult at the moment of emotional arousal, when working memory and executive control are degraded. Cards may be teacher-authored, co-created with learners, or self-authored, with self-authored versions generally producing stronger ownership.
 
 ## Design Implications
 
+Emotional arousal consumes working-memory resources needed for self-control, so externalizing the regulation strategy onto a card reduces the in-the-moment load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Prompt cards work as a form of self-instruction: verbalizing or reading a cue prompts the learner to execute a rehearsed strategy rather than react impulsively, consistent with cognitive-behavioral self-instruction training [+M]. They are most effective when the strategies on the cards have been explicitly taught and practiced beforehand — the card is a retrieval cue, not a substitute for instruction.
+
 ### Context
 #### Requirements
-- Requires the creation or purchase of prompt cards. The cards should be readily accessible to the learner. Regular practice and reinforcement of the strategies are necessary for long-term effectiveness.
+- Explicit prior teaching of each strategy on the cards, with modeling and rehearsal ([Coaching](../elements/coaching.md), [Act It Out](../elements/act-it-out.md))
+- Cards written in [accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md) matched to the learner's reading level
+- A low-stakes routine for consulting cards (e.g., a [Check-In](../elements/check-in.md) corner or calm-down space) so use is normalized, not punitive
+- Periodic review and revision of the card set as strategies are mastered
+
 #### Constraints
-- May not be effective in cases of severe emotional dysregulation or mental health conditions. The cards are most effective when used proactively, before emotions escalate to an unmanageable level.
+- Cards without prior strategy instruction are rarely used under real emotional load [-M] — a cue to an unrehearsed strategy does not produce behavior
+- Over-reliance can prevent internalization; prompts should be faded as learners self-initiate strategies [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
+- If introduced as a disciplinary tool or public correction, use drops and stigma rises [~M] — autonomy-supportive framing outperforms controlling framing [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
+- Less effective during acute escalation; cards work best at early warning stages, not at peak arousal [-M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Emotion-face cards** for pre-verbal or emergent readers (e.g., Zones of Regulation color zones)
+- **Strategy menus**: multiple cards so learners choose, supporting autonomy
+- **Co-created cards**: learners write their own triggers and strategies, increasing relevance and ownership
+- **Digital prompts**: scheduled or sensor-triggered nudges in learning platforms, useful for generalization to independent work
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Students of all ages, especially those who struggle with emotional regulation, including children, adolescents, and adults.
+- Young children and learners with executive-function or self-regulation difficulties, for whom external cues substitute for still-developing internal control [+M]
+- Learners with autism or ADHD, where visual supports are a widely used accommodation
+- All learners benefit during transitions, testing, or conflict — moments of elevated arousal
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Support emotional regulation, teach coping strategies, promote self-awareness, and facilitate the internalization of calming techniques.
-
-### Affordances
-- Provides immediate reminders of coping strategies, supports self-reflection on emotional states, and promotes the development of self-regulation skills. The visual cues on the cards can be especially helpful for learners who benefit from visual aids.
-
-### Personalization
-- The content of the cards can be tailored to individual needs and preferences, including specific coping strategies that are most effective for each learner. The cards can be customized with personal images or phrases.
+- Self-regulation: recognizing emotional states and selecting coping strategies
+- Metacognition: building the habit of monitoring one's own state before it disrupts learning
+- Behavioral goals: replacing impulsive reactions with rehearsed responses
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Provide guidance](../elements/provide-guidance.md)
-- [Practice](../elements/practice.md)
-- [Provide feedback](../elements/provide-feedback.md)
-
-## Assessment Evidence
-- Observe the frequency and effectiveness of card use during moments of emotional distress. Track the learner's ability to independently apply the strategies over time. Gather feedback from learners on the usefulness of the cards and specific strategies.
-
-## Impact
-- Supports emotional regulation and self-awareness: Regular use of prompt cards can help learners develop a greater awareness of their emotions and effective coping strategies. Promotes internalization of calming techniques: Consistent use of the cards can lead to the internalization of strategies, making them more readily available in moments of need.
+1. Teach 3–5 regulation strategies explicitly, with modeling and role-play ([Act It Out](../elements/act-it-out.md), [Coaching](../elements/coaching.md)).
+2. Co-create cards with learners: one side names the feeling, the other names the strategy.
+3. Establish when and where cards are used, tied to a routine such as a [Check-In](../elements/check-in.md).
+4. Rehearse card use in calm, low-stakes moments before expecting use under stress.
+5. Fade prompts — reduce card visibility or move to a self-generated mental cue — as learners initiate strategies independently [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Check-In](../elements/check-in.md) — the routine moment when cards are most naturally consulted
+- [Coaching](../elements/coaching.md) — the instructional method for teaching the strategies the cards cue
 
 ## Examples
-- Liz's Early Learning Spot provides free calming strategy cards in multiple languages. TestingMom offers social-emotional flashcards to help students identify and express emotions.
+- **[The Zones of Regulation](https://www.zonesofregulation.com)** (Kuypers, 2011) — a widely adopted curriculum using color-zone cards that prompt learners to identify their state and select a matching regulation tool.
+- **Incredible Years** (Webster-Stratton) — classroom programs using "calm-down" cards and turtle-technique cues for young children's emotion regulation.
+- **First/Then and coping-card visuals in TEACCH-style classrooms** — individualized visual prompt cards for learners with autism.
 
 ## Key Sources
-- <!-- TODO -->
+- Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. *Review of General Psychology, 2*(3), 271–299. [doi:10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271)
+- Meichenbaum, D. (1977). *Cognitive-Behavior Modification: An Integrative Approach*. Plenum Press. [doi:10.1007/978-1-4757-9739-8_10](https://doi.org/10.1007/978-1-4757-9739-8_10)
+- Kuypers, L. M. (2011). *The Zones of Regulation: A Curriculum Designed to Foster Self-Regulation and Emotional Control*. Think Social Publishing.
+- Webster-Stratton, C., & Reid, M. J. (2004). Strengthening social and emotional competence in young children—The foundation for early school readiness and success: Incredible Years classroom social skills and problem-solving curriculum. *Infants & Young Children, 17*(2), 96–113. [doi:10.1097/00001163-200404000-00002](https://doi.org/10.1097/00001163-200404000-00002)
+

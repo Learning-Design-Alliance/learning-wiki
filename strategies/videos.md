@@ -4,63 +4,83 @@ title: Videos
 description: Videos are dynamic resources for supporting curricula, engaging students through sight and sound.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Videos
 
 ## Description
-Videos are dynamic resources for supporting curricula, engaging students through sight and sound. When enhanced with subtitles, they cater to a wider range of learning styles by allowing students to watch, listen, or read the content. Videos stimulate and maintain interest, providing an innovative and effective means for educators to deliver curriculum content. They create immersive experiences by introducing voices from the past, showcasing diverse cultures, and investigating scientific phenomena, thereby making abstract concepts more concrete and memorable.
+Videos are dynamic resources for supporting curricula, engaging students through sight and sound. They can bring abstract or inaccessible phenomena into the classroom — historical footage, scientific processes, diverse cultural perspectives — making concepts concrete and memorable. When enhanced with subtitles and embedded questions, video becomes an interactive medium rather than a passive one, allowing students to watch, listen, and read simultaneously.
 
 ## Design Implications
 
+Video's learning value comes from how well its design manages [Cognitive Load Management](../principles/cognitive-load-management.md): combining narration with relevant visuals takes advantage of separate auditory and visual channels [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M], but on-screen text read aloud verbatim, seductive but irrelevant imagery, or continuous playback without pauses overloads learners [~M]. Segmented, learner-paced video with embedded questions substantially outperforms uninterrupted lecture video [~S]. Captions benefit comprehension for nearly all viewers, not only English language learners [~S].
+
 ### Context
 #### Requirements
-- Access to video resources, internet connectivity (for online videos), devices for playback, and additional support tools such as interactive word glossary, dictionary, thesaurus, and online encyclopedia.
+- Access to video resources, internet connectivity (for online videos), and playback devices
+- Support tools such as an interactive glossary, dictionary, thesaurus, or online encyclopedia for vocabulary encountered in the video
+- A follow-on activity — discussion, prediction, or [Practice](../elements/practice.md) — that requires learners to apply what they viewed
+
 #### Constraints
-- Videos should be used as an enhancement to a lesson, not as a standalone activity. The quality of content and instruction provided by the video service provider is extremely important. Free educational video-sharing websites may require teachers or parents to spend countless hours sieving through video of only a general educational nature.
+- Video used as a standalone activity produces shallow encoding; without prompts or application, learners often overestimate how much they learned from watching [-S]
+- Continuous, non-segmented playback prevents processing of transient information and depresses learning compared with segmented or learner-controlled pacing [-M]
+- On-screen text narrated word-for-word creates redundancy that impairs learning compared with narration alone or text alone [-S]
+- Seductive but irrelevant details (dramatic music, tangential imagery) divert attention from the instructional content and reduce retention [-M]
+- Quality control is a real cost: free video-sharing sites require extensive teacher screening to find content of genuine instructional value [-W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- Interactive video platforms (e.g., EDpuzzle) embed questions and voice-overs, converting viewing into [Active Learning](../principles/active-learning.md)
+- Subtitled video doubles as literacy support for English language learners and emerging readers [~S]
+- Teacher-recorded videos enable the [Flipped Classroom](../patterns/flipped-classroom.md) pattern, moving direct instruction outside class time
+- Short segments with stop-start-rewind control let teachers isolate key moments and prompt prediction or debate
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- K–12 students, auditory and visual learners, English language learners (with subtitles)
+- K–12 students encountering content that is dangerous, distant, or invisible (historical events, cell processes, other cultures) [~M]
+- English language learners, who benefit from simultaneous audio and captioned text [~S]
+- Novices, for whom a narrated [Demonstration](../elements/demonstration.md) video provides a reference model before practice [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
+- Less effective for learners with strong prior knowledge, for whom redundant narration and slow pacing impose extraneous load [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Enhance student engagement, improve reading and literacy skills, cater to auditory and visual learners, provide interactive instruction
-
-### Affordances
-- Offers sensory experiences that bring concepts to life, flexible teaching medium with stop, start, and rewind capabilities, supports interactive instruction by challenging students to predict outcomes or debate historical references. The use of subtitles can improve reading and literacy skills simultaneously, and cater to the greatest range of preferred learning styles.
-
-### Personalization
-- Teachers can isolate specific parts of videos, record their own voice-overs, and embed questions to check for student understanding. Subtitles can be adjusted for font size to cater to different visual needs.
+- Conceptual understanding: making abstract or unobservable phenomena concrete
+- Procedural knowledge: observing expert performance via demonstration video
+- Literacy development: caption-supported reading and vocabulary growth
+- Engagement and motivation: sensory immersion that stimulates interest and discussion
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Demonstration](../elements/demonstration.md)
-- [Provide guidance](../elements/provide-guidance.md)
-- [Practice](../elements/practice.md)
-- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
-
-## Assessment Evidence
-- Track student engagement and participation during and after video viewing. Assess comprehension through embedded questions, quizzes, and discussions. Analyze improvements in reading and literacy skills through pre- and post-video assessments.
-
-## Impact
-- Research supports the use of video in the classroom as a dynamic resource for supporting curricula, increasing student interest, and improving reading and literacy skills. Teachers can effectively use video during the course of the academic year to address and deliver the required curriculum content.
+1. Select or create a short, high-quality video aligned to a single learning objective; screen it fully before use
+2. Prepare learners with an [Advance Organizer](../elements/advance-organizers.md) or prediction prompt so viewing has a purpose
+3. Segment playback — pause at key points to ask questions, prompt predictions, or have students [Annotate](../principles/annotating.md) what they observed
+4. Enable captions by default; adjust font size for visual accessibility
+5. Follow viewing with [Practice](../elements/practice.md), discussion, or an application task that requires learners to use what the video presented
+6. Assess comprehension through embedded questions or quizzes, and track engagement during and after viewing
 
 ## Related Strategies
-- <!-- TODO -->
+- [Flipped Classroom](../patterns/flipped-classroom.md) — video as the pre-class direct-instruction component
+- [Demonstration](../elements/demonstration.md) — the most common instructional use of video: modeling a skill or process
+- [Chunking](../principles/chunking.md) — segmented video respects working memory limits [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 
 ## Related Elements
-- <!-- TODO -->
+- [Demonstration](../elements/demonstration.md) — video is a scalable delivery vehicle for expert modeling
+- [Practice](../elements/practice.md) — the necessary follow-on; viewing without application rarely transfers
+- [Provide Guidance](../elements/provide-guidance.md) — embedded questions and prompts guide attention during viewing
+- [Enhance Retention and Transfer](../elements/enhance-retention-and-transfer.md) — post-video application tasks serve this function
 
 ## Tools
-- <!-- TODO -->
+- **[EDpuzzle](https://edpuzzle.com)** — edit and customize existing videos: isolate segments, record voice-overs, embed questions
+- **[Zane Education](https://www.zaneeducation.com)** — online library of subtitled, curriculum-aligned videos
+- **[Khan Academy](https://www.khanacademy.org)** — narrated step-by-step demonstration videos paired with practice exercises
 
 ## Examples
-- EDpuzzle allows teachers to edit, customize, and enhance existing videos to meet their classroom needs, isolating parts of videos, recording voice-overs, and embedding questions. Zane Education provides a comprehensive online video library with subtitled videos teaching curriculum-aligned topics.
+- A science teacher uses EDpuzzle to embed prediction questions at three points in a video on volcanic eruptions, pausing for students to commit to predictions before seeing the outcome — converting passive viewing into [Active Learning](../principles/active-learning.md).
+- An ELL classroom plays subtitled historical footage with a linked glossary, building content knowledge and literacy simultaneously; comprehension is assessed with pre/post vocabulary measures.
+- A flipped math course assigns short teacher-recorded demonstration videos for homework, reserving class time for guided [Practice](../elements/practice.md).
 
 ## Key Sources
-- <!-- TODO -->
+- Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)
+- Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the science of instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
+- Brame, C. J. (2016). Effective educational videos: Principles and guidelines for maximizing student learning from video content. *CBE—Life Sciences Education, 15*(4), es6. [doi:10.1187/cbe.16-03-0125](https://doi.org/10.1187/cbe.16-03-0125)
+- Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. *Proceedings of the First ACM Conference on Learning @ Scale*, 41–50. [doi:10.1145/2556325.2566239](https://doi.org/10.1145/2556325.2566239)
+- Gernsbacher, M. A. (2015). Video captions benefit everyone. *Policy Insights from the Behavioral and Brain Sciences, 2*(1), 195–202. [doi:10.1177/2372732215602130](https://doi.org/10.1177/2372732215602130)
+

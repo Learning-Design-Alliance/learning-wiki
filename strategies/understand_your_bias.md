@@ -1,65 +1,71 @@
 ---
 type: strategy
 title: Understand Your Bias
-description: This activity increases awareness of personal stereotypes and prejudices, helping learners recognize how their viewpoint influences their perception of others.
+description: A reflective activity that surfaces learners' personal stereotypes and prejudices so they can recognize how their own viewpoint shapes their perception of others.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Understand Your Bias
 
 ## Description
-This activity increases awareness of personal stereotypes and prejudices, helping learners recognize how their viewpoint influences their perception of others. By examining photographs or actions that trigger snap judgments, learners reflect on pre-conditioned assumptions and explore alternative interpretations. This fosters self-awareness and helps individuals see that their initial judgments may limit relationships with others.
+Understand Your Bias is a structured self-reflection strategy in which learners examine their own automatic associations, stereotypes, and prejudices — often through instruments such as the Implicit Association Test, guided journaling, or structured discussion prompts — and then analyze how those biases influence their judgments of other people. The goal is metacognitive awareness of one's own perceptual filters, not immediate behavior change.
 
 ## Design Implications
 
+Bias awareness activities work by making automatic cognitive processes explicit and available for reflection. Stereotypes operate partly through automatic activation that can occur even in people who explicitly reject them [Devine, 1989](https://doi.org/10.1037/0022-3514.56.1.5) [+M], so simply telling learners to "be unbiased" is insufficient; they must first perceive the bias in their own responses. Awareness is most productive when paired with internal motivation to respond without prejudice, which predicts sustained effort at regulation [Plant & Devine, 1998](https://doi.org/10.1037/0022-3514.74.2.365) [+M]. Practitioners should note that awareness alone produces only small, short-lived changes in implicit measures [Forscher et al., 2019](https://doi.org/10.1037/pspa0000160) [~M] — the strategy's realistic outcome is improved self-monitoring, not de-biasing.
+
 ### Context
 #### Requirements
-- Photographs of people or actions that might trigger a response based on snap perceptions, a space for group discussion, and facilitation by an instructor to guide reflection.
+- A safe, low-stakes environment; disclosure of personal bias carries social risk and requires trust ([Check-In](../elements/check-in.md) routines help establish it)
+- A concrete elicitation tool (IAT, sentence-completion, case judgments) that produces observable evidence of bias rather than relying on self-report alone
+- A structured reflection framework that moves from noticing to analyzing to planning, not just confession
+- Facilitator skill in managing discomfort and defensiveness without shaming participants
+
 #### Constraints
-- Learners may resist acknowledging their biases, or the activity may trigger uncomfortable emotions. It requires a skilled facilitator to guide the discussion and ensure a safe and respectful environment.
+- Awareness interventions produce small and often non-durable effects on implicit measures [Forscher et al., 2019](https://doi.org/10.1037/pspa0000160) [-M] — expecting behavior change from a single session is unsupported
+- Mandatory or accusatory framing triggers defensiveness and reactance, especially in learners low in internal motivation to respond without prejudice [Plant & Devine, 1998](https://doi.org/10.1037/0022-3514.74.2.365) [-M]
+- Public sharing of biases can entrench them or harm group members present; private reflection followed by voluntary discussion is safer
+- The IAT's test–retest reliability is modest, so individual scores should be treated as conversation starters, not diagnostic labels [~M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Instrument-based:** learners take the Implicit Association Test (Harvard's [Project Implicit](https://implicit.harvard.edu)) and reflect on discrepant results
+- **Case-based:** learners make judgments about ambiguous [Case Studies](../elements/case-studies.md), then compare outcomes across the group to reveal divergent interpretations
+- **Journaling:** private written reflection on first impressions, followed by analysis of where those impressions came from
+- **Contrast-based:** examining [Erroneous Examples](../claims/erroneous-examples-build-conceptual-knowledge.md) of biased reasoning to sharpen discrimination between biased and fair judgment
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- All learners, particularly those who are unaware of their biases and stereotypes
+- Adolescents through adults; requires sufficient metacognitive maturity to examine one's own thinking
+- Learners in professional preparation (teaching, medicine, policing) where biased judgment has consequential effects
+- Most effective for learners with some internal motivation to examine themselves; externally compelled participants show weaker engagement [Plant & Devine, 1998](https://doi.org/10.1037/0022-3514.74.2.365) [~M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Promote self-awareness, identify personal biases, encourage open-mindedness, improve interpersonal relationships
-
-### Affordances
-- Facilitates self-reflection, promotes critical thinking about personal assumptions, encourages empathy and understanding of others. It enables learners to question their initial judgments and explore alternative viewpoints, which can lead to more inclusive attitudes.
-
-### Personalization
-- The photographs or actions used can be tailored to the specific cultural context and interests of the learners. The level of reflection can be adjusted to suit the learners' cognitive abilities and emotional maturity.
+- Metacognitive awareness: recognizing automatic associations as they occur
+- Perspective-taking and [Building Empathy](../principles/building-empathy.md): understanding how one's viewpoint filters perception of others
+- Dispositional growth: developing habits of self-monitoring in social judgment
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Direct instruction](../elements/direct-instruction.md)
-- [Individual Reflection](../elements/individual-reflection.md)
-- [Peer Discussion](../elements/peer-discussion.md)
-
-## Assessment Evidence
-- Observe the level of engagement in self-reflection, the ability to identify personal biases, and the willingness to consider alternative interpretations. Monitor changes in learners' attitudes and behaviors towards others.
-
-## Impact
-- Studies suggest that awareness of personal biases can reduce discriminatory behavior and promote more inclusive attitudes. Increased self-awareness also enhances emotional intelligence and interpersonal skills.
+1. **Establish safety.** Open with a [Check-In](../elements/check-in.md) and ground rules; frame bias as universal human cognition, not moral failure.
+2. **Elicit.** Have learners complete a bias-elicitation task (e.g., Project Implicit IAT) or write first impressions of an ambiguous case.
+3. **Notice.** Learners record their automatic responses privately before any discussion, preserving honest data.
+4. **Analyze.** Guide reflection on the origins of these responses — media, experience, cultural messaging — connecting to [Activation](../principles/activation.md) of prior knowledge, since biases are prior knowledge acting unexamined.
+5. **Discuss voluntarily.** Use structured [Class Discussion](../elements/class-discussion.md) or small groups to compare patterns; keep individual disclosures voluntary.
+6. **Plan.** Learners identify one concrete situation where they will monitor their judgment and what cue will trigger that monitoring.
+7. **Revisit.** Repeat the elicitation later in the course so awareness becomes a recurring practice rather than a one-time event.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — bias awareness is activation applied to social cognition: surfacing what learners already bring before new input is interpreted
+- [Building Empathy](../principles/building-empathy.md) — the dispositional goal that sustained bias work serves
+- [Perspective-Taking](../principles/building-empathy.md) — related but distinct; perspective-taking exercises target understanding others, this strategy targets seeing oneself
 
 ## Examples
-- A diversity and inclusion workshop uses photographs of people from different ethnic backgrounds and asks participants to describe them without making assumptions. Participants then reflect on how their descriptions reveal their biases. A classroom exercise asks students to analyze media representations of different social groups and identify stereotypes.
+- **[Project Implicit](https://implicit.harvard.edu)** — Harvard-hosted Implicit Association Tests widely used in diversity education; learners complete a test and reflect on their results in facilitated sessions.
+- **Teacher education programs** — pre-service teachers analyze their first-impression ratings of student work samples with names varied, then compare ratings to reveal name-based bias in grading judgments.
+- **Medical education** — case-based sessions where students diagnose vignettes and later examine how patient demographics influenced their differential diagnoses.
 
 ## Key Sources
-- <!-- TODO -->
+- Devine, P. G. (1989). Stereotypes and prejudice: Their automatic and controlled components. *Journal of Personality and Social Psychology, 56*(1), 5–18. [doi:10.1037/0022-3514.56.1.5](https://doi.org/10.1037/0022-3514.56.1.5)
+- Plant, E. A., & Devine, P. G. (1998). Internal and external motivation to respond without prejudice. *Journal of Personality and Social Psychology, 74*(2), 365–380. [doi:10.1037/0022-3514.74.2.365](https://doi.org/10.1037/0022-3514.74.2.365)
+- Forscher, P. S., Lai, C. K., Axt, J. R., Ebersole, C. R., Herman, M., Devine, P. G., & Nosek, B. A. (2019). A meta-analysis of procedures to change implicit measures. *Journal of Personality and Social Psychology, 117*(3), 554–595. [doi:10.1037/pspa0000160](https://doi.org/10.1037/pspa0000160)

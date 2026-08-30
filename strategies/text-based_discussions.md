@@ -1,66 +1,72 @@
 ---
 type: strategy
 title: Text-Based Discussions
-description: Text-based discussions involve engaging learners in discussions about what they read, with a focus on using evidence from the text to support their responses.
+description: Structured discussions in which learners talk about a shared text, using evidence from the text itself to support their interpretations and responses.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Text-Based Discussions
 
 ## Description
-Text-based discussions involve engaging learners in discussions about what they read, with a focus on using evidence from the text to support their responses. Teachers set expectations and routines for productive discussions.
+Text-based discussions are structured conversations in which a group of learners jointly interprets a shared text — an article, story, dataset, or document — and is expected to ground claims in evidence from the text itself. The teacher or facilitator acts primarily as a discussion leader who poses open questions, presses for textual evidence, and manages turn-taking, rather than as a lecturer. Well-known variants include [Reciprocal Teaching](../elements/reciprocal-teaching.md), Quality Talk, Collaborative Reasoning, and Socratic seminar.
 
 ## Design Implications
 
+Discussion quality, not discussion presence, drives comprehension gains: approaches that emphasize authentic questions, student uptake of peers' ideas, and evidence-based argument outperform recitation-style IRE questioning [Structured discussion approaches improve reading comprehension relative to typical recitation instruction.](../claims/structured-discussion-approaches-improve-comprehension.md) [+S]. Because learners must articulate and defend interpretations, discussion doubles as [Argumentation](../elements/argumentation.md) practice and as retrieval and elaboration on the text's content. The facilitator's role is critical — open-ended questions and genuine dialogue produce the effects; closed questioning with brief student answers does not.
+
 ### Context
 #### Requirements
-- Text or material to be read. Clear expectations and routines for discussions. Facilitation skills from the teacher.
+- A shared, discussion-worthy text with enough interpretive complexity to sustain multiple defensible readings
+- Norms and structures for turn-taking, listening, and citing textual evidence
+- A facilitator skilled in open questioning, [Coaching](../elements/coaching.md), and pressing for reasoning rather than evaluating answers
+- Sufficient time for students to read (or re-read) the text before discussion, often supported by [Annotating](../principles/annotating.md)
+
 #### Constraints
-- Requires careful facilitation to ensure productive and respectful discussions. May be challenging for learners who are hesitant to speak in class.
+- Dominant voices and status differences silence lower-status students unless structures (assigned roles, talk tokens, written pre-discussion positions) equalize participation [-M]
+- Discussions about a text students have not actually read devolve into opinion exchange with no textual grounding, producing little learning [-S]
+- Small-group discussion without training or accountability often stays off-task; benefits depend on individual accountability and group-skill norms [~S]
+- Very short or purely factual texts give students nothing to argue about, collapsing discussion into recall
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Whole-class seminar** — teacher-led, high facilitation; best for modeling reasoning norms
+- **Small-group Collaborative Reasoning / Quality Talk** — students lead; requires prior training in discussion moves
+- **Reciprocal Teaching** — structured around predicting, questioning, clarifying, summarizing roles
+- **Written-first variants** — students draft positions or annotations before speaking, which raises evidence use and broadens participation
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- All learners, particularly effective for developing literacy skills and vocabulary.
+- Upper elementary through adult learners; effects on comprehension are documented from grade 3 upward, with strong results for adolescents [Structured discussion approaches improve reading comprehension relative to typical recitation instruction.](../claims/structured-discussion-approaches-improve-comprehension.md) [+M]
+- Struggling readers benefit when discussion is paired with [Dialogic Reading](../claims/dialogic-reading-improves-expressive-language.md) [+M]-style support and explicit vocabulary work, since oral language practice builds the language resources comprehension depends on
+- Multilingual learners benefit from the dual language exposure and production, provided sentence frames and wait time are offered
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Develop oral language skills. Improve comprehension. Support vocabulary development. Engage with the text critically.
-
-### Affordances
-- Develops oral language skills. Improves comprehension. Supports vocabulary development. Promotes critical thinking. Encourages student-to-student interaction.
-
-### Personalization
-- Discussions can be tailored to the learners' interests and language proficiency levels. Sentence starters can be provided to support participation.
+- Reading comprehension, especially interpretive and critical comprehension beyond literal recall
+- Argumentation: constructing claims supported by textual evidence and evaluating peers' reasoning
+- Oral academic language development and perspective-taking
+- Discussion quality effects extend to higher-order outcomes such as reasoning and critical thinking, not just comprehension scores [Structured discussion approaches improve reading comprehension relative to typical recitation instruction.](../claims/structured-discussion-approaches-improve-comprehension.md) [+M]
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Assigned Readings](../elements/assigned-readings.md)
-- [Discussion Sections](../elements/discussion-sections.md)
-- [Peer Discussion](../elements/peer-discussion.md)
-- [Whole-Class Sharing](../elements/whole-class-sharing.md)
-
-## Assessment Evidence
-- Participation in discussions. Use of evidence from the text to support responses. Clarity and organization of ideas. Respectful interaction with peers.
-
-## Impact
-- There is both research and practice evidence showing that discussions result in measurable outcomes in literacy achievement.
+1. Select a text with genuine interpretive tension and ensure all students have read it, using [Annotating](../principles/annotating.md) or a written pre-discussion response to prepare evidence.
+2. Establish discussion norms: cite the text, build on or challenge peers' ideas, and disagree with reasons.
+3. Open with an authentic, open-ended question to which you genuinely do not hold a single "right" answer.
+4. Facilitate rather than evaluate: use uptake (building questions from student contributions), press for evidence and reasoning, and distribute turns via [Assigned Positions](../elements/assigned-positions.md) or roles.
+5. Close with individual synthesis — a written position or exit response — so each learner consolidates the jointly constructed understanding, and provide [Feedback](../elements/feedback.md) on the quality of evidence use.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a highly structured text-discussion routine with rotating comprehension-strategy roles
+- [Socratic Seminar](../strategies/socratic-seminar.md) — a whole-class, question-driven variant emphasizing dialogue over debate
+- [Jigsaw](../strategies/jigsaw.md) — distributes text segments across groups, creating a text-based information gap that discussion must resolve
 
 ## Examples
-- After reading a book, the teacher engages learners in discussing their favorite parts of the text or the information that they learned. Sentence starters are provided to support participation.
+- **Quality Talk** (Pennsylvania State University) — a research-validated small-group discussion program in which 4th–6th graders learn discussion prompts and take turns leading text conversations about reading selections; see [https://sites.psu.edu/qualitytalk/](https://sites.psu.edu/qualitytalk/)
+- **Collaborative Reasoning** (University of Illinois) — peer-led small-group discussions of morally and conceptually open questions raised by a story, with roles such as big-idea leader and recorder
+- **Paideia Seminars** — K–12 schools using scripted seminar cycles (didactic coaching, coached practice, seminar) built around open questions on a common text; see [https://www.paideia.org](https://www.paideia.org)
 
 ## Key Sources
-- <!-- TODO -->
+- Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Journal of Educational Psychology, 101*(3), 740–764. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)
+- Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
+- Applebee, A. N., Langer, J. A., Nystrand, M., & Gamoran, A. (2003). Discussion-based approaches to developing understanding: Classroom instruction and student performance in middle and high school English. *American Educational Research Journal, 40*(3), 685–730. [doi:10.3102/00028312040003685](https://doi.org/10.3102/00028312040003685)
+- Nystrand, M. (2006). Research on the role of classroom discourse as it affects reading comprehension. *Research in the Teaching of English, 40*(4), 392–412.
+- Kuhn, D., & Crowell, A. (2011). Dialogic argumentation as a vehicle for developing young adolescents' thinking. *Psychological Science, 22*(4), 545–552. [doi:10.1177/0956797611402512](https://doi.org/10.1177/0956797611402512)

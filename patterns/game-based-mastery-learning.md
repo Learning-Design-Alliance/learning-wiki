@@ -39,4 +39,4 @@ Game-Based Mastery Learning is the short-form canonical target for mastery desig
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Key Sources
-- Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan.
+- Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan. [doi:10.1145/950566.950595](https://doi.org/10.1145/950566.950595)

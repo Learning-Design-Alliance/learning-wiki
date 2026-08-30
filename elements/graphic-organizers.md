@@ -24,4 +24,4 @@ Graphic organizers are visual structures that help learners sort, compare, and c
 - [Creating Visual Representations](creating-visual-representations.md)
 
 ## Key Sources
-- Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps. *Review of Educational Research, 76*(3), 413-448.
+- Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps. *Review of Educational Research, 76*(3), 413-448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)

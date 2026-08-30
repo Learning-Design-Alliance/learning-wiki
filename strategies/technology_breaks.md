@@ -4,63 +4,65 @@ title: Technology Breaks
 description: Taking short, scheduled breaks from technology during study periods reduces the negative effects of media multitasking.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Technology Breaks
 
 ## Description
-Taking short, scheduled breaks from technology during study periods reduces the negative effects of media multitasking. Engaging with devices and social media during study time distracts from the material and reduces comprehension. Implementing short 'technology breaks' allows learners to access the internet, but then restrict its use for the rest of the study period. Alternative strategies include avoiding smartphones and other devices before studying or keeping technology away from the study space. These breaks help to maintain focus, improve learning, and enhance overall performance.
+Technology breaks are short, scheduled intervals during which learners may freely use devices and social media, bracketed by longer device-free study periods. Rather than demanding total abstinence — which learners often fail to sustain — the strategy channels the urge to check devices into predictable windows, protecting the focused study blocks in between. It is typically paired with removing devices from the study space and self-monitoring of off-task behavior.
 
 ## Design Implications
 
+Media multitasking during study reliably degrades comprehension and efficiency: learners who multitask take longer to complete tasks and show poorer learning, and even the mere presence of a smartphone consumes attentional resources [Media multitasking during study reduces comprehension and increases study time.](https://doi.org/10.1016/j.compedu.2012.10.022) [+S]. Scheduled breaks work because they reduce the self-control burden of continuous inhibition — learners defer the urge rather than fight it repeatedly, preserving working memory resources for the task itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The strategy is a form of environmental and behavioral [Self-Regulated Learning](../theories/self-regulated-learning.md): learners plan, monitor, and control their own attention environment [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
+
 ### Context
 #### Requirements
-- Scheduled breaks from technology, self-regulation strategies for managing technology use, a designated study space free from digital distractions
+- A pre-committed break schedule (e.g., 1–2 minutes of device use per 15 minutes of study, or 10 minutes per hour)
+- A study environment where devices are physically out of reach or in a do-not-disturb mode during focus blocks
+- A self-monitoring method — a timer, a log, or an app — so learners can track adherence ([Self-Monitoring](../elements/self-monitoring.md))
+
 #### Constraints
-- Success depends on self-regulation and commitment to limiting technology use during study periods. Some learners may find it challenging to disengage from technology completely.
+- Effectiveness depends on learners actually honoring the schedule; breaks without clear boundaries can expand into full multitasking sessions [-M]
+- Learners with strong habitual checking or fear of missing out may experience anxiety during device-free blocks that offsets attentional gains [~W]
+- For tasks that legitimately require technology (coding, online research), the strategy must be redefined as "distraction breaks" targeting specific apps rather than devices generally [~M]
+- Total device bans imposed without learner buy-in tend to fail; self-set schedules outperform externally imposed ones [~W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- Fixed-interval breaks (e.g., every 25 minutes, as in Pomodoro-style routines) versus learner-initiated breaks after completing a task segment
+- App-based enforcement (Freedom, Forest, Cold Turkey) versus physical separation (phone in another room)
+- Gradual reduction: starting with frequent short breaks and lengthening focus intervals as self-regulation improves
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- All learner levels, particularly those who tend to multitask with technology during study or work periods
+- Learners who habitually multitask with media during study, who show the largest deficits relative to non-multitaskers [+S]
+- Adolescents and young adults, whose rates of media multitasking during study are highest [~M]
+- Learners with weak self-regulation benefit from the external structure of a fixed schedule; highly self-regulated learners may need it less [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [~M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Reduce distractions, improve focus, and enhance cognitive performance during learning activities
-
-### Affordances
-- Reduces cognitive load by minimizing distractions, supports deeper focus and concentration, enhances memory and retention
-
-### Personalization
-- Learners can set specific times for technology breaks, choose which activities to engage in during those breaks, or use apps to block distracting websites.
+- Sustained attention and study efficiency across any content domain
+- Retention of complex material that requires uninterrupted working memory (reading comprehension, problem solving)
+- Metacognitive and self-regulatory skill: managing one's own attention environment is itself a learnable goal
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Provide guidance](../elements/provide-guidance.md)
-- [Practice](../elements/practice.md)
-- [Provide feedback](../elements/provide-feedback.md)
-- [Self-monitoring](../elements/self-monitoring.md)
-
-## Assessment Evidence
-- Track study time and frequency of technology breaks, measure task completion rates, conduct self-reports on focus and concentration.
-
-## Impact
-- Research shows that multitasking with technology reduces learning and comprehension. Technology breaks can help to maintain focus and improve cognitive performance.
+1. Set a concrete focus goal for the study session and remove devices from arm's reach ([Self-Monitoring](../elements/self-monitoring.md))
+2. Study in a device-free block of 15–25 minutes, using a visible timer ([Chunking](../principles/chunking.md) the session into manageable intervals)
+3. Take a short, timed technology break (1–10 minutes) when the timer ends — checking messages, social media, or anything else
+4. Return to a second device-free block; repeat, gradually lengthening focus intervals
+5. After the session, log adherence and off-task urges to calibrate the next session's schedule ([Self-Monitoring](../elements/self-monitoring.md))
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Pomodoro Technique](pomodoro-technique.md) — the interval-timing structure technology breaks typically ride on
+- [Self-Monitoring](self-monitoring.md) — the tracking mechanism that makes adherence visible
+- [Reducing Distractions](reducing-distractions.md) — the broader environmental-design family this strategy belongs to
 
 ## Examples
-- A student schedules 10-minute technology breaks every hour during study sessions. A professional blocks distracting websites during work periods. A learner uses an app to track and limit their technology use during study time.
+- **Rosen, Carrier, and Cheever (2013)** — In a classroom study, students allowed short "technology breaks" to check Facebook and texting on schedule showed significantly less off-task behavior during study intervals than students told to abstain entirely ([Computers & Education](https://doi.org/10.1016/j.compedu.2012.12.001)).
+- **Freedom** ([https://freedom.to](https://freedom.to)) — A cross-platform blocker that enforces device-free focus blocks with scheduled sessions, automating the break boundary.
+- **Forest** ([https://www.forestapp.cc](https://www.forestapp.cc)) — A gamified app that grows a virtual tree during focus periods; leaving the app kills the tree, providing an immediate incentive to defer device use.
 
 ## Key Sources
-- <!-- TODO -->
+- Sana, F., Weston, T., & Cepeda, N. J. (2013). Laptop multitasking hinders classroom learning for both users and nearby peers. *Computers & Education, 62*, 24–31. [doi:10.1016/j.compedu.2012.10.003](https://doi.org/10.1016/j.compedu.2012.10.003)
+- Rosen, L. D., Carrier, L. M., & Cheever, N. A. (2013). Facebook and texting made me do it: Media-induced task-switching while studying. *Computers & Education, 63*, 50–58. [doi:10.1016/j.compedu.2012.12.001](https://doi.org/10.1016/j.compedu.2012.12.001)
+- Ward, A. F., Duke, K., Gneezy, A., & Bos, M. W. (2017). Brain drain: The mere presence of one's own smartphone reduces available cognitive capacity. *Journal of the Association for Consumer Research, 2*(2), 140–154. [doi:10.1086/691462](https://doi.org/10.1086/691462)
+- Junco, R., & Cotten, S. R. (2012). No A 4 U: The relationship between multitasking and academic performance. *Computers & Education, 59*(2), 505–514. [doi:10.1016/j.compedu.2011.12.023](https://doi.org/10.1016/j.compedu.2011.12.023)

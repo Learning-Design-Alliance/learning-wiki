@@ -44,4 +44,4 @@ Structured debate is the element in which learners examine opposing claims using
 - Learners defend and rebut positions using evidence stems and timed turns.
 
 ## Key Sources
-- Kuhn, D. (1991). *The skills of argument*. Cambridge University Press.
+- Kuhn, D. (1991). *The skills of argument*. Cambridge University Press. [doi:10.1017/cbo9780511571350](https://doi.org/10.1017/cbo9780511571350)

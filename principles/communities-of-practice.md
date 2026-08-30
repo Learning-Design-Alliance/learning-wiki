@@ -81,5 +81,5 @@ Communities of practice support learning because people often learn complex work
 ## Key Sources
 - Abedini, A., Abedin, B., & Zowghi, D. (2021). Adult learning in online communities of practice: A systematic review. *British Journal of Educational Technology, 52*(4), 1663-1694. [doi:10.1111/bjet.13120](https://doi.org/10.1111/bjet.13120)
 - Boud, D., & Middleton, H. (2003). Learning from others at work: Communities of practice and informal learning. *Journal of Workplace Learning, 15*, 194-202.
-- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press.
+- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)
 - Office of Educational Technology. (2014). *Designing online communities of practice for educators to create value*. U.S. Department of Education.

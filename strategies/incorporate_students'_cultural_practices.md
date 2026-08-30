@@ -1,66 +1,76 @@
 ---
 type: strategy
 title: "Incorporate Students' Cultural Practices"
-description: "This strategy involves integrating students' cultural backgrounds and experiences into lesson design and classroom activities."
+description: "Integrating students' cultural backgrounds, experiences, and community practices into lesson design and classroom activities so content connects to what learners already know and value."
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Incorporate Students' Cultural Practices
 
 ## Description
-This strategy involves integrating students' cultural backgrounds and experiences into lesson design and classroom activities. The goal is to create a supportive and inclusive classroom community where learners feel valued and the learning content is more accessible and relevant. Teachers can start by researching students’ native countries, cultures, and educational systems. Students can contribute their own cultural experience, such as bringing music or art from their culture and describing its significance and meaning to their classmates. Student choice can be incorporated with multiple settings and character representations for learners to choose from, allowing them to connect with the work.
+This strategy integrates students' cultural backgrounds, experiences, and community practices into lesson design, materials, and classroom activities. It goes beyond surface-level representation (holidays, food, artifacts) to draw on students' funds of knowledge — the skills, language practices, and ways of knowing from their homes and communities — as instructional resources. Teachers research students' cultural and educational backgrounds, invite students to contribute cultural knowledge (e.g., music, art, family practices, with explanation of significance), and offer choice in settings, characters, and examples so learners can connect with the work.
 
 ## Design Implications
 
+Culturally responsive teaching improves engagement and achievement when cultural knowledge is used as a *bridge* to academic content rather than as decoration [Culturally relevant pedagogy is associated with stronger engagement and achievement for students of color.](../claims/belonging-interventions-improve-outcomes.md) [+M]. Activating culturally familiar prior knowledge before new content reduces the processing burden of unfamiliar contexts and improves comprehension [Activating prior knowledge improves learning.](../claims/activation-improves-learning.md) [+M]. The critical design decision is depth: practices that connect cultural knowledge to disciplinary thinking produce gains, while superficial "heroes and holidays" approaches do not [~M].
+
 ### Context
 #### Requirements
-- Instructor must research and understand students' cultural backgrounds. Resources such as multicultural literature, art, and music are needed. A classroom environment that encourages sharing and respect is essential.
+- Genuine knowledge of students' backgrounds, gathered through family surveys, community visits, home-language information, and student input — not assumptions from demographic labels
+- Curricular materials that reflect students' identities (texts, examples, character representations) with room for student choice among them
+- A classroom norm of respectful exchange so students can share at whatever depth they choose ([Check-In](../elements/check-in.md), [Class Discussion](../elements/class-discussion.md))
+- Instructional structures that treat student contributions as content, not interruption — e.g., [Activation](../elements/activation.md) routines that elicit home knowledge before new material
+
 #### Constraints
-- Requires effort from the instructor to learn about different cultures. Risk of tokenism if not implemented thoughtfully. Students may feel uncomfortable sharing personal experiences.
+- Tokenism — adding cultural artifacts without changing instruction — yields no learning benefit and can feel performative to students [~M]
+- Asking students to serve as cultural "representatives" of their group creates stereotype threat and discomfort; sharing must be voluntary and individual, not group-assigned [-M]
+- Surface-level cultural matching of texts or examples without connecting to the disciplinary task shows weak or null effects [~W]
+- Effectiveness depends on teacher cultural competence; poorly prepared implementations can reinforce stereotypes rather than disrupt them [-M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Funds-of-knowledge units**: instruction built around community practices (e.g., gardening, cooking, construction) as contexts for academic content
+- **Culturally relevant texts and choice**: [Choice Boards](../elements/choice-boards.md) offering multiple settings, characters, and reading options
+- **Student-contributed content**: students bring music, art, or family practices and explain their significance ([Demonstration](../elements/demonstration.md), [Application](../elements/application.md))
+- **Language practices**: strategic use of students' home languages and vernaculars as bridges to academic language
+- **Community-based learning**: field experiences and projects anchored in students' own neighborhoods
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- K–12 and higher education learners from diverse cultural backgrounds
+- Students from cultural, linguistic, or community backgrounds underrepresented in standard curricula, who benefit most when school content connects to home knowledge [Culturally relevant pedagogy is associated with stronger engagement and achievement for students of color.](../claims/belonging-interventions-improve-outcomes.md) [+M]
+- Learners at risk of disengagement or weak school belonging; belonging-focused practices improve outcomes broadly [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+S]
+- Multilingual learners, for whom home-language and home-culture knowledge supports comprehension [Activating prior knowledge improves learning.](../claims/activation-improves-learning.md) [+M]
+- All learners benefit from relevance, but the strategy is not a substitute for explicit instruction when content is entirely new
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Enhance student engagement, make learning more accessible and relevant, build a supportive classroom community
-
-### Affordances
-- Increases motivation and engagement by connecting learning to students' lives. Fosters a sense of belonging and validation of cultural identity. Enhances comprehension by leveraging students' background knowledge.
-
-### Personalization
-- Adaptable for different age groups and subject areas. Students can share aspects of their culture they are comfortable with. Curriculum can be tailored to specific cultural backgrounds represented in the classroom.
+- Engagement and motivation: making academic work feel relevant and worth effort
+- Comprehension: leveraging familiar contexts and prior knowledge to access new content
+- Identity and belonging: building a classroom community where students' backgrounds are assets
+- Disciplinary transfer: connecting community practices to academic concepts and discourse
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Direct instruction](../elements/direct-instruction.md)
-- [Application](../elements/application.md)
-- [Demonstration](../elements/demonstration.md)
-- [Practice](../elements/practice.md)
-
-## Assessment Evidence
-- Observe increased student participation and engagement. Analyze student work for connections to their cultural backgrounds. Gather feedback from students on their sense of belonging and cultural validation.
-
-## Impact
-- Research suggests that culturally responsive teaching enhances student achievement, motivation, and engagement. It also fosters positive relationships and a sense of belonging in the classroom. (e.g., Bridging Cultures Project)
+1. Learn about your students' cultural backgrounds, languages, and community practices through surveys, family conversations, and observation — before designing units.
+2. Open new topics by eliciting related home and community knowledge ([Activation](../elements/activation.md), [Activating Prior Knowledge](activating-prior-knowledge.md)), so new content attaches to existing schemas.
+3. Redesign examples, texts, and problem contexts to reflect students' experiences, and offer [Choice Boards](../elements/choice-boards.md) so students select representations that connect to their lives.
+4. Invite students to contribute and explain cultural practices ([Demonstration](../elements/demonstration.md)), then require academic [Application](../elements/application.md) — e.g., analyzing a family recipe as procedural writing, or community data as statistics.
+5. Use [Practice](../elements/practice.md) and [Class Discussion](../elements/class-discussion.md) to connect cultural contributions back to disciplinary concepts, ensuring cultural knowledge functions as a bridge, not a detour.
+6. Assess whether cultural connections deepened disciplinary learning (student work analysis, feedback on relevance and belonging), and revise.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — the general mechanism this strategy applies to cultural knowledge specifically
+- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — student choice structures that let learners connect work to their identities
+- [Accessing Students' Background Knowledge](accessing_students’_background_knowledge.md) — elicitation routines for home and community knowledge
 
 ## Examples
-- A kindergarten teacher allows students to explore their own families while learning about each others', building a supportive and inclusive classroom community. Teachers can use the CREATE model in urban classrooms to incorporate relatable aspects of students' daily lives, including language, prior knowledge, and extracurricular interests.
+- **Funds of Knowledge project (Moll et al., Tucson, AZ)** — Teachers visited students' households, documented community knowledge (farming, mechanics, carpentry), and built math and literacy lessons around those practices.
+- **[Zaretta Hammond's Culturally Responsive Teaching and the Brain (2015)](https://crtandthebrain.com)** — Framework connecting cultural practices to information processing, with routines that build students' independent learning capacity.
+- **Student-curated cultural exhibitions** — Students bring music, art, or family artifacts, present their significance ([Demonstration](../elements/demonstration.md)), and peers respond with analytical questions, converting sharing into disciplinary work.
+- **Culturally relevant text sets in ELA** — Units such as those from [Newsela](https://newsela.com) or [Learning for Justice](https://www.learningforjustice.org) offer leveled texts reflecting diverse communities, with choice among readings.
 
 ## Key Sources
-- <!-- TODO -->
+- Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
+- Gay, G. (2010). *Culturally Responsive Teaching: Theory, Research, and Practice* (2nd ed.). Teachers College Press.
+- Moll, L. C., Amanti, C., Neff, D., & Gonzalez, N. (1992). Funds of knowledge for teaching: Using a qualitative approach to connect homes and classrooms. *Theory Into Practice, 31*(2), 132–141. [doi:10.1080/00405849209543534](https://doi.org/10.1080/00405849209543534)
+- Hammond, Z. (2015). *Culturally Responsive Teaching and the Brain*. Corwin.
+- Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)

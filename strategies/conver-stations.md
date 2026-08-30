@@ -1,65 +1,68 @@
 ---
 type: strategy
 title: Conver-Stations
-description: A small-group discussion strategy that gives learners exposure to more of their peers’ ideas and prevents the stagnation that can happen when a group doesn’t happen to have the right chemistry.
+description: A small-group discussion strategy in which learners rotate between evolving groups, carrying ideas with them to broaden exposure to peers' perspectives.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Conver-Stations
 
 ## Description
-A small-group discussion strategy that gives learners exposure to more of their peers’ ideas and prevents the stagnation that can happen when a group doesn’t happen to have the right chemistry. Learners are placed into a few groups of 4-6 learners each and are given a discussion question to talk about. After sufficient time has passed for the discussion to develop, one or two learners from each group rotate to a different group, while the other group members remain where they are. Once in their new group, they will discuss a different, but related question, and they may also share some of the key points from their last group’s conversation. For the next rotation, learners who have not rotated before may be chosen to move, resulting in groups that are continually evolving.
+Conver-Stations is a small-group discussion structure in which learners begin in groups of 4–6 to discuss a prepared question, then one or two members from each group rotate to a new group while the others stay put. The rotating learners carry ideas from their original discussion into the new one, so each successive round mixes perspectives without requiring the whole class to reshuffle. The result is that every learner encounters a wider sample of peers' thinking than a static [group discussion](../elements/class-discussion.md) allows.
 
 ## Design Implications
 
+The strategy operationalizes [collaborative learning](../principles/collaborative-learning.md) while addressing its best-known failure mode: a group that lacks the right chemistry or knowledge stalls, and its members lose the discussion benefits that peers in other groups receive. Rotation makes peer exposure a structural property of the activity rather than a matter of luck, and the expectation of rotation gives stayers a reason to keep talking productively between rounds. Verbalizing and re-explaining ideas across groups also prompts elaboration, which supports deeper conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+
 ### Context
 #### Requirements
-- Requires a physical space where learners can form small groups, prepared discussion questions, and clear instructions for learners.
+- A physical (or virtual breakout) space where small groups can form and rotate without disruption
+- One or more well-crafted discussion questions that are genuinely open — questions with a single right answer exhaust after one round
+- Clear instructions about who rotates, when, and what the rotating learners should do (carry ideas, not just occupy a seat)
+- Sufficient time per round for discussion to develop before rotation (typically 5–10 minutes)
+
 #### Constraints
-- Can be challenging in small or crowded classrooms, requires careful facilitation to ensure all learners are engaged and on task, may be difficult for learners who struggle with social interaction or adapting to new groups.
+- Difficult in small or crowded classrooms where group formation and movement are physically awkward [-W]
+- Requires careful facilitation; without it, some learners disengage or groups go off task, and the rotation can amplify rather than distribute uneven participation [-W]
+- Learners who struggle with social interaction or adapting to new groups may find repeated regrouping stressful rather than enriching [-W]
+- With poorly designed questions, later rounds become repetitive — stayers hear the same points re-arrived at by new arrivals [~W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- Learners can choose which group they rotate to, adding autonomy [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
+- A "reporter" role can be assigned so each round ends with a synthesis, feeding into [knowledge building](../elements/application-of-knowledge.md)
+- Works in digital formats using breakout rooms with periodic reassignment
+- Can conclude with a whole-class harvest in which each group shares its most developed idea
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Suitable for secondary and higher education learners, particularly effective for discussing complex issues and synthesizing information
+- Secondary and higher-education learners with enough discussion skill to sustain small-group talk with minimal supervision
+- Learners who benefit from hearing diverse perspectives on complex, multi-perspective issues
+- Less suitable for novices on a topic who have little to contribute or carry between groups [~W]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Promote active participation, expose learners to diverse perspectives, encourage deeper understanding of complex topics, enhance communication and collaboration skills
-
-### Affordances
-- Encourages active participation, promotes exposure to diverse perspectives, provides opportunities for deeper understanding of complex topics, enhances communication and collaboration skills, supports flexible grouping
-
-### Personalization
-- Discussion questions can be tailored to learners' interests and backgrounds. Learners can choose which group they want to rotate to.
+- Synthesis: integrating multiple viewpoints into a more complete understanding of a complex topic
+- Communication and collaboration skills: articulating, defending, and adapting ideas across audiences
+- Critical thinking: evaluating competing claims encountered across groups
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Peer Discussion](../elements/peer-discussion.md)
-- [Collaborative Learning](../elements/collaborative-learning.md)
-- [Knowledge Synthesis](../elements/knowledge-synthesis.md)
-
-## Assessment Evidence
-- Observe learner participation and engagement in the activity, review the quality of their responses to the discussion questions, collect feedback from learners about their experience.
-
-## Impact
-- Enhances critical thinking, promotes exposure to diverse perspectives, improves communication and collaboration skills
+1. Prepare 1–3 open discussion questions and divide learners into groups of 4–6.
+2. Launch a first-round discussion with adequate time for ideas to develop; circulate to keep groups on task ([Coaching](../elements/coaching.md)).
+3. Signal rotation: one or two learners from each group move to a different group; stayers briefly summarize where their discussion left off.
+4. Run a second discussion round, with rotating learners contributing ideas from their original group.
+5. Optionally repeat, then close with a whole-class synthesis or individual written reflection ([Self-Explanation](../elements/articulation.md)).
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Think-Pair-Share](../patterns/think-pair-share.md) — a lower-mobility discussion structure serving a similar participation-broadening goal
+- [Jigsaw](jigsaw.md) — another rotation-based structure, but rotates expertise rather than discussion ideas
+- [Socratic Seminar](socratic-seminar.md) — whole-class alternative when group logistics are impractical
 
 ## Examples
-- <!-- TODO -->
+- A high-school civics class discusses "Should voting be mandatory?" in five groups; after ten minutes, two students per group rotate, bringing distinct arguments (compulsory turnout, civic duty, enforcement concerns) into new configurations for a second round.
+- A university seminar on research ethics uses Conver-Stations in a learning management system's breakout rooms, reassigning one participant per room every eight minutes, then harvesting positions in a shared document.
 
 ## Key Sources
-- <!-- TODO -->
+- Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
+- Springer, L., Stanne, M. E., & Donovan, S. S. (1999). Effects of small-group learning on undergraduates in science, mathematics, engineering, and technology: A meta-analysis. *Review of Educational Research, 69*(1), 21–51. [doi:10.3102/00346543069001021](https://doi.org/10.3102/00346543069001021)
+- Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243. [doi:10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823)

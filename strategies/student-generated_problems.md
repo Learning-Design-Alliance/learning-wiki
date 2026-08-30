@@ -1,66 +1,73 @@
 ---
 type: strategy
-title: Student-generated Problems
-description: "Learners create their own problems based on concepts they're learning, share them with peers, and solve each other's problems."
+title: Student-Generated Problems
+description: Learners create their own problems based on concepts they are learning, share them with peers, and solve each other's problems.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
-# Student-generated Problems
+# Student-Generated Problems
 
 ## Description
-Learners create their own problems based on concepts they're learning, share them with peers, and solve each other's problems. This encourages deeper engagement with the material, promotes problem-solving skills, and fosters motivation. Problems can be shared on digital platforms, allowing for dynamic visualizations and peer learning. For geometric reasoning, technology can be used to create dynamic visualizations of the problems. Seeing and solving problems written by peers fosters motivation and excitement for learning.
+Student-generated problems ask learners to author problems, questions, or tasks based on the concepts they are studying, rather than only solving problems supplied by the instructor. Authoring requires learners to identify the deep structure of a concept — what makes a problem solvable, what quantities or relationships matter, and what makes a distractor plausible. Problems are typically exchanged with peers, who solve them and give feedback, closing the loop between generation and application.
 
 ## Design Implications
 
+Problem generation converts learners from consumers to constructors of tasks, forcing them to process material at the level of structure rather than surface features. Generating questions or problems improves comprehension and retention relative to answering only instructor-supplied items [Students generating their own questions outperform those answering supplied questions.](../claims/activation-improves-learning.md) [+M], and explaining or teaching content to peers produces durable learning gains for the explainer [Learning by teaching improves tutor learning.](../claims/learning-by-teaching-improves-tutor-learning.md) [+S]. The quality of generated problems depends on scaffolding: unguided generation often yields superficial recall questions, while training in question types or problem schemas produces deeper items [Guided question generation is more effective than unguided generation.](../claims/activation-improves-learning.md) [+M].
+
 ### Context
 #### Requirements
-- Requires access to relevant subject matter content, tools for creating and sharing problems (e.g., paper, pencils, digital platforms), and time for learners to create, share, and solve problems.
+- Learners with enough baseline knowledge of the concept to recognize its essential features
+- Explicit criteria or exemplars for what makes a good problem (solvable, well-posed, targets the intended concept)
+- A mechanism for exchange and feedback — peer solving, gallery walk, or shared problem bank
+- Instructor review or curation for high-stakes uses, since flawed problems can propagate misconceptions
+
 #### Constraints
-- Learners may struggle with creating problems that are appropriately challenging and aligned with learning objectives. Some learners may be hesitant to share their problems or may be less motivated to solve problems created by their peers.
+- Unguided generation tends to produce low-level recall items rather than problems targeting deep structure [Guided question generation is more effective than unguided generation.](../claims/activation-improves-learning.md) [-M]
+- Novices may generate ill-posed or unsolvable problems, wasting time and embedding confusion; instructor vetting or structured templates mitigate this
+- Generation is effortful and slower than solving; when coverage pressure is high, time spent authoring competes with practice on existing problems
+- Learners with very low prior knowledge lack the schema needed to construct meaningful problems and benefit more from studying [Worked Examples](../principles/worked-examples.md) first [Example-problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Question generation**: learners write discussion or comprehension questions about a text (e.g., [Reciprocal Teaching](../patterns/cognitive-apprenticeship.md) question-asking role)
+- **Problem authoring**: learners write mathematics or physics problems matching a target structure, often with constraints ("must involve a quadratic; must include one distractor")
+- **Peer exchange and solving**: generated problems circulate; solvers flag ambiguity or errors, giving authors feedback on their own understanding
+- **Problem banks**: generated problems accumulate into a class resource for review or exam preparation
+- **Erroneous problem design**: learners deliberately build problems with common misconception traps, then explain why the trap works [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- K-12, higher education, and adult learners in various subject areas, particularly mathematics, science, and engineering.
+- Intermediate learners who have enough schema to recognize problem structure but are still consolidating it [Guided question generation is more effective than unguided generation.](../claims/activation-improves-learning.md) [+M]
+- Learners prone to illusion of knowing — authoring a solvable problem is a strong self-check on understanding
+- Less suitable for complete novices, who should first study worked examples before generating [Example-problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Develop problem-solving skills, promote deeper understanding of mathematical concepts, foster motivation and engagement, build critical thinking, and improve communication skills.
-
-### Affordances
-- Enhances problem-solving skills, promotes critical thinking, fosters motivation, encourages peer learning, and reinforces understanding of mathematical concepts. Learners apply their knowledge in a creative and meaningful way, which aids in retention and transfer of skills.
-
-### Personalization
-- Problems can be tailored to different skill levels, subject areas, and individual interests. Learners can choose the type of problem they want to create, the complexity of the problem, and the context in which the problem is situated.
+- Conceptual understanding: identifying the deep structure that defines a problem type
+- Discrimination: distinguishing well-posed from ill-posed problems and core features from surface features
+- Metacognition and self-assessment: authoring forces learners to evaluate their own grasp of what is askable
+- Transfer: generating variants of a problem type supports recognizing that structure in new contexts [Multiple contrasting cases support abstraction of deep structure.](../claims/multiple-contrasting-cases-support-abstraction.md) [+M]
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Problem Presentation](../elements/problem-presentation.md)
-- [Solution Development](../elements/solution-development.md)
-- [Peer Teaching](../elements/peer-teaching.md)
-- [Application](../elements/application.md)
-
-## Assessment Evidence
-- Evaluate the quality and complexity of problems created by learners. Assess the accuracy and completeness of solutions provided by learners. Observe learner engagement and participation in the problem-solving process.
-
-## Impact
-- Active learning: Creating and solving problems enhances learner engagement and deeper understanding of mathematical concepts. Peer learning: Sharing and solving problems with peers promotes collaboration, communication, and critical thinking.
+1. Teach or review the target concept and show one or two exemplar problems, making their structure explicit ([Advance Organizers](../elements/advance-organizers.md) can frame the problem schema).
+2. Provide generation criteria: the problem must be solvable, well-posed, and target the concept; optionally require a worked solution key from the author.
+3. Have learners draft problems individually or in pairs, using a template or question-type menu to push beyond recall ([Analogies](../elements/analogies.md) can seed novel contexts).
+4. Exchange problems for peer solving ([Practice](../elements/practice.md)); solvers give feedback on clarity and difficulty ([Check-In](../elements/check-in.md) structures help surface confusion).
+5. Debrief as a class: compare generated problems, identify which target deep structure, and resolve disputes about solvability — this discussion is where much of the learning occurs.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Peer Instruction](peer-instruction.md) — shares the peer-exchange mechanism but centers on answering rather than authoring
+- [Reciprocal Questioning](reciprocal-questioning.md) — a structured variant where learners alternate generating and answering questions in groups
+- [Self-Explanation](../elements/self-explanation.md) — complementary; explaining why a generated problem works deepens the authoring benefit
 
 ## Examples
-- In a 3rd-grade math class, students create and solve division word problems, which are then used in subsequent lessons. In a geometry class, students create dynamic visualizations of geometric problems using technology, fostering motivation and excitement for learning.
+- **Reciprocal Teaching** ([University of Illinois reading studies](https://www.readingrockets.org/strategies/reciprocal_teaching)) — students take turns generating questions about a text passage, a direct application of guided question generation.
+- **"Write your own exam question" assignments** — common in university STEM courses; students submit problems with solutions, the instructor curates the best into a review bank before exams.
+- **[Desmos Activity Builder](https://teacher.desmos.com)** — teachers and students can author custom graphing challenges; some classrooms have students design "marble slides" challenges for peers to solve.
+- **Khan Academy "create a problem" prompts** in some math classrooms — after mastering a problem type, students write and swap original word problems matching the same structure.
 
 ## Key Sources
-- <!-- TODO -->
+- Rosenshine, B., Meister, C., & Chapman, S. (1996). Teaching students to generate questions: A review of the intervention studies. *Review of Educational Research, 66*(2), 181–221. [doi:10.3102/00346543066002181](https://doi.org/10.3102/00346543066002181)
+- King, A. (1990). Enhancing peer interaction and learning in the classroom through reciprocal questioning. *American Educational Research Journal, 27*(4), 663–687. [doi:10.3102/00028312027004663](https://doi.org/10.3102/00028312027004663)
+- Foos, P. W., Mora, J. J., & Tkacs, S. (1994). Student study techniques and the generation effect. *Journal of Educational Psychology, 86*(4), 567–576. [doi:10.1037/0022-0663.86.4.567](https://doi.org/10.1037/0022-0663.86.4.567)
+- Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)

@@ -1,66 +1,71 @@
 ---
 type: strategy
 title: Stick-It Together (Collaborative Problem-Solving)
-description: Students work in small groups to collaboratively solve math problems.
+description: Students solve a problem individually on sticky notes, then merge their ideas into a single group answer, defending and refining each other's thinking.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Stick-It Together (Collaborative Problem-Solving)
 
 ## Description
-Students work in small groups to collaboratively solve math problems. Each student initially works individually on a sticky note, then the group combines their ideas to create the best possible answer on a common page, defending their thinking and building on each other's work. Variations include projecting the problem and grouping students based on completion time, chosen criteria, or randomly. The activity emphasizes accountability, participation, and developing the best possible group response.
+Stick-It Together is a cooperative problem-solving routine in which each student first works a problem individually on a sticky note, then the small group combines their ideas onto one shared page to produce the best possible collective answer. Students must defend their own reasoning, evaluate peers' approaches, and negotiate a single response, making individual thinking visible before and during collaboration. Group solutions are then shared publicly, with the teacher facilitating comparison of strategies across groups.
 
 ## Design Implications
 
+The individual-first phase is the design's key move: it guarantees every student generates their own solution before group discussion, preventing the free-riding and premature convergence that undermine unstructured group work [Cooperative learning with individual accountability outperforms group work without it.](https://doi.org/10.3102/0013189X09339057) [+S]. The negotiation phase promotes [Self-Explanation](../elements/self-explanation.md) — students must articulate and justify their methods to peers, which strengthens conceptual understanding beyond simply producing a correct answer [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Structured [Active Learning](../principles/active-learning.md) routines of this kind reliably outperform lecture-only review for later assessment performance [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S].
+
 ### Context
 #### Requirements
-- Sticky notes, problem-solving pages (one per student or group), time for individual work and group discussion, whiteboard or projector for sharing results.
+- A well-designed problem with multiple solution paths or a common misconception to surface — not a routine recall item
+- Individual work time before any group talk, so every sticky note reflects independent thinking
+- Explicit norms for the negotiation phase: each member explains their approach, the group must justify its final choice
+- A public sharing structure ([Class Discussion](../elements/class-discussion.md), document camera, or whiteboard) so groups compare strategies
+
 #### Constraints
-- May require careful facilitation to ensure all students participate equally. Some students may dominate discussions, while others may be passive. Requires well-designed problems aligned to learning goals.
+- Without the individual phase, higher-status students dominate and lower-status students copy — the collaboration produces agreement, not learning [-M]
+- Groups of four or more increase coordination costs; trios or pairs keep every voice in play [-M]
+- Ill-structured or trivially easy problems make negotiation vacuous; the task must be at a difficulty where approaches genuinely differ
+- Grouping by prior performance requires care: homogeneous low-performing groups can entrench errors without teacher coaching [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Grouping:** by completion time (early finishers extend with harder variants), by teacher-selected mixed ability, or randomly for status equalization
+- **Role assignment:** assigning positions such as recorder, skeptic, or reporter structures participation [Assigned Positions](../elements/assigned-positions.md)
+- **Error-focused variant:** groups compare sticky notes containing a planted misconception, sharpening discrimination between correct and flawed reasoning
+- **Fading:** as routines become habitual, the sticky-note scaffold can be dropped in favor of direct individual-to-group problem solving
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Grades 3–6, adaptable for higher grades with appropriate content. Beneficial for learners who benefit from collaborative work and peer interaction.
+- Upper elementary through middle school (grades 3–8), adaptable to secondary with richer problem types
+- Students who benefit from low-stakes individual drafting before public performance — the sticky note lowers the cost of a wrong answer
+- Mixed-ability classrooms, where individual accountability prevents the status hierarchies that typically silence less confident students [+S]
+- Less effective for students with very weak prerequisite skills, who may be unable to contribute meaningfully to negotiation without prior [Scaffolding](../principles/scaffolding.md) [~M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Enhance collaboration, promote accountability, foster teamwork skills, review math concepts, improve problem-solving abilities, and develop communication skills.
-
-### Affordances
-- Promotes active participation, encourages critical thinking through discussion and justification, builds teamwork and communication skills, reinforces math concepts through peer teaching, and offers administrative appeal due to accountability.
-
-### Personalization
-- Can be varied by grouping strategies (completion time, teacher choice, random), different problem types, or modifying the problem difficulty. Individual contributions can be weighted differently based on learner needs.
+- Conceptual review and consolidation of previously taught mathematics
+- Communication: justifying methods and evaluating others' reasoning
+- Metacognitive monitoring: comparing one's approach against alternatives
+- Collaborative skills: negotiation, building on others' ideas, reaching consensus
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Peer Discussion](../elements/peer-discussion.md)
-- [Problem Presentation](../elements/problem-presentation.md)
-- [Solution Development](../elements/solution-development.md)
-- [Application of Knowledge](../elements/application-of-knowledge.md)
-
-## Assessment Evidence
-- Observe student participation, assess the quality of collaborative answers, analyze the reasoning and justification presented by groups, and review individual contributions on sticky notes.
-
-## Impact
-- Practitioner evidence suggests improved student engagement and comprehension, enhanced teamwork skills, and positive administrative feedback. Collaboration and peer interaction in problem-solving boost knowledge retention and comprehension.
+1. **Pose the problem** and display it publicly; ensure it invites multiple approaches rather than a single procedure ([Application of Knowledge](../elements/application-of-knowledge.md)).
+2. **Individual solve:** every student works alone on a sticky note for a fixed time — no talking. This is the accountability anchor.
+3. **Negotiate:** groups lay out all sticky notes, compare methods, identify errors, and build one shared answer on the group page, with each member explaining their reasoning ([Articulation](../elements/articulation.md)).
+4. **Share and compare:** groups present solutions; the teacher orchestrates a whole-class comparison of strategies and misconceptions ([Class Discussion](../elements/class-discussion.md)).
+5. **Debrief the reasoning,** not just the answer — ask groups what they rejected and why, surfacing the evaluation that drove the negotiation.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- Think-Pair-Share — the same individual-then-collective structure at lower cost; Stick-It Together adds a written artifact and a negotiated product
+- Gallery Walk — a natural follow-on for the public comparison phase
+- Productive Failure — shares the design logic of individual attempts before collective resolution [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [+M]
 
 ## Examples
-- A 5th-grade math teacher uses Stick-It Together to review fraction concepts. Students solve individually, discuss their approaches in groups, and present their collaborative solution to the class, explaining their reasoning.  Variations include grouping students by prior performance to promote peer teaching.
+- A 5th-grade teacher uses Stick-It Together to review fraction addition: students solve ¾ + ⅚ individually, then groups must agree on one method and one answer, exposing the "add both numerators and denominators" misconception during negotiation.
+- A grade 8 teacher groups by completion time on a multi-step ratio problem, giving early finishers an extension variant while other groups receive [Coaching](../elements/coaching.md) during the individual phase.
 
 ## Key Sources
-- <!-- TODO -->
+- Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
+- Webb, N. M. (2009). The teacher's role in promoting collaborative dialogue in the classroom. *British Journal of Educational Psychology, 79*(1), 1–28. [doi:10.1348/000709908X380772](https://doi.org/10.1348/000709908X380772)
+- Slavin, R. E. (1996). Research on cooperative learning and achievement: What we know, what we need to know. *Contemporary Educational Psychology, 21*(1), 43–69. [doi:10.1006/ceps.1996.0004](https://doi.org/10.1006/ceps.1996.0004)
+- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)

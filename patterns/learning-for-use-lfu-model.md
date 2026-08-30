@@ -100,4 +100,4 @@ LfU is especially useful when designers want inquiry to remain conceptually grou
 - Particularly useful when designers want learners to need the knowledge before formally learning it.
 
 ## Key Sources
-- Edelson, D. C. (2001). Learning-for-use: A framework for the design of technology-supported inquiry activities. *Journal of Research in Science Teaching, 38*(3), 355-385. [https://doi.org/10.1002/1098-2736(200103)38:3<355::AID-TEA1010>3.0.CO;2-M](https://doi.org/10.1002/1098-2736(200103)38:3<355::AID-TEA1010>3.0.CO;2-M)
+- Edelson, D. C. (2001). Learning-for-use: A framework for the design of technology-supported inquiry activities. *Journal of Research in Science Teaching, 38*(3), 355-385. [https://doi.org/10.1002/1098-2736(200103)38:3<355::aid-tea1010>3.0.co;2-m)38:3<355::AID-TEA1010>3.0.CO;2-M](https://doi.org/10.1002/1098-2736(200103)38:3<355::aid-tea1010>3.0.co;2-m)38:3<355::AID-TEA1010>3.0.CO;2-M)

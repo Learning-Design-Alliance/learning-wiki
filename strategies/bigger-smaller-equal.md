@@ -1,65 +1,76 @@
 ---
 type: strategy
 title: Bigger/Smaller/Equal
-description: If the teacher says a number greater than 10, students expand their bodies to take up as much space as they can (while keeping their feet firmly planted on the ground—no running around).
+description: A whole-body kinesthetic game in which students physically expand, shrink, or neutralize their posture in response to called-out numbers, sums, and differences relative to 10.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Bigger/Smaller/Equal
 
 ## Description
-If the teacher says a number greater than 10, students expand their bodies to take up as much space as they can (while keeping their feet firmly planted on the ground—no running around). If the teacher says a number less than 10, students shrink their bodies to take up the least space they can. If the teacher gives the number 10 exactly, students hold their body neutrally and make an equals sign with their arms. As before, the teacher moves to sums and differences once students get the rules.
+The teacher calls out a number. If it is greater than 10, students expand their bodies to take up as much space as possible (feet planted, no running); if less than 10, they shrink to occupy minimal space; if exactly 10, they hold neutral and form an equals sign with their arms. Once students master the rules, the teacher advances to sums and differences ("12 − 5"), requiring students to compute before responding with their bodies.
 
 ## Design Implications
 
+The strategy converts an abstract symbolic comparison (magnitude relative to a benchmark) into a whole-body spatial representation, consistent with embodied cognition accounts in which action and gesture ground numerical concepts [Embodied training of numerical concepts improves number-line estimation and comparison.](https://doi.org/10.1016/j.tine.2013.06.005) [+M]. The benchmark of 10 also leverages the base-ten structure of the number system, anchoring later place-value work. Because responses are fast and public, the game functions as brief, repeated [Practice](../elements/practice.md) with immediate feedback — students see peers' postures and can self-correct.
+
 ### Context
 #### Requirements
-- An open space where students can move freely. Teacher needs to be able to call out numbers, sums, or differences.
+- An open space where all students can move freely and be seen by the teacher
+- A teacher able to call out numbers, then sums and differences, at a brisk pace
+- An initial [Demonstration](../elements/demonstration.md) of each posture (big, small, equal) before play begins
+
 #### Constraints
-- May not be suitable for students with physical limitations. Students may get confused if they don't grasp the math concepts.
+- Students who have not yet grasped magnitude comparison may guess postures randomly, and the game's speed can mask their confusion rather than reveal it [-M]
+- Students with mobility limitations or self-consciousness about public movement may be excluded or disengaged; offer an arm-gesture-only variant
+- The binary big/small response does not by itself teach *how much* bigger or smaller — magnitude precision requires a follow-up such as a number-line activity [~W]
+- Overuse turns novelty into routine; short sessions (3–5 minutes) as a warm-up preserve engagement
+
 #### Implementation Variability
-- <!-- TODO -->
+- Change the benchmark number (e.g., 20, 100) as fluency grows
+- Advance from single numbers to sums and differences, then to two-step expressions
+- Have students lead the calling, which adds production practice and [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) opportunities when the leader must justify a peer's response
+- Seated variant: arm spans wide, folded, or crossed as an equals sign for restricted spaces
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- K-4, adaptable to other grades
+- K–2 students building initial magnitude comparison and benchmark-of-10 fluency; adaptable through upper elementary for computation warm-ups
+- Students who benefit from movement and multimodal encoding over purely symbolic drill [Embodied training of numerical concepts improves number-line estimation and comparison.](https://doi.org/10.1016/j.tine.2013.06.005) [+M]
+- Less suitable as an introduction for students with no prior exposure to comparison language — pre-teach "greater than," "less than," "equal to" first
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Reinforce the concepts of greater than, less than, and equal to. Promote kinesthetic learning, enhance active recall, provide an opportunity for movement.
-
-### Affordances
-- Engaging way to understand math concepts. Movement refreshes students and provides another take on math concepts.
-
-### Personalization
-- Adjust complexity of numbers based on skill levels of the students. Students may come up with different physical expressions.
+- Magnitude comparison relative to a benchmark (greater than, less than, equal to)
+- Fluency with sums and differences within 20, framed as comparison decisions
+- Procedural fluency through high-frequency, low-stakes retrieval [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Practice](../elements/practice.md)
-- [Provide guidance](../elements/provide-guidance.md)
-- [Demonstration](../elements/demonstration.md)
-
-## Assessment Evidence
-- Observe students' physical expressions in response to the given numbers. Assess their math comprehension through their physical responses.
-
-## Impact
-- May help students grasp the concept of inequalities and equality in a kinesthetic and engaging way. Supports active participation.
+1. Model the three postures (big, small, equals-sign) and rehearse each once — [Demonstration](../elements/demonstration.md)
+2. Call single numbers near 10 (e.g., 8, 11, 10) at a pace that forces quick decisions — [Practice](../elements/practice.md)
+3. Call numbers farther from 10, then sums and differences ("9 + 4", "15 − 7"), pausing briefly so students must compute rather than pattern-match
+4. After each round, briefly [Provide guidance](../elements/provide-guidance.md): ask one student to justify a posture ("Why did you shrink for 7?") before the next call
+5. Increase the benchmark or expression complexity once most students respond correctly and immediately
 
 ## Related Strategies
-- <!-- TODO -->
+- [Act It Out](act_it_out.md) — the broader family of dramatization strategies this game belongs to
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — a fast round works as a lesson warm-up that surfaces comparison fluency before new content
 
 ## Related Elements
-- <!-- TODO -->
+- [Practice](../elements/practice.md) — the game is distributed, repeated retrieval practice with immediate observable feedback
+- [Demonstration](../elements/demonstration.md) — the teacher must model postures before students can respond correctly
+- [Provide guidance](../elements/provide-guidance.md) — brief justifications between rounds convert physical response into verbal reasoning
 
-## Tools
-- <!-- TODO -->
+## Patterns That Use This Strategy
+- [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — grounding number operations in students' informal, embodied understandings before symbolic work
+- [Direct Instruction](../patterns/direct-instruction.md) — the model–practice–feedback cycle within each round
 
 ## Examples
-- When the teacher says '15', students expand their bodies; when the teacher says '7', students shrink their bodies.
+- Teacher calls "15": students stretch wide and tall. Teacher calls "7": students crouch compactly. Teacher calls "10": students stand neutral with arms crossed as an equals sign. Later, "12 − 5" sends the class shrinking; "8 + 3" sends them expanding.
+- A grade 2 teacher uses a 3-minute round as a transition warm-up before a place-value lesson, with the benchmark raised to 20 for students who have mastered 10.
 
 ## Key Sources
-- <!-- TODO -->
+- Link, T., Moeller, K., Huber, S., Fischer, U., & Nuerk, H.-C. (2013). Walk the number line – An embodied training of numerical concepts. *Trends in Neuroscience and Education, 2*(2), 74–84. [doi:10.1016/j.tine.2013.06.005](https://doi.org/10.1016/j.tine.2013.06.005)
+- Wilson, M. (2002). Six views of embodied cognition. *Psychonomic Bulletin & Review, 9*(4), 625–636. [doi:10.3758/BF03196322](https://doi.org/10.3758/BF03196322)
+- Duijzer, C., Shayan, S., Bakker, A., van der Schaaf, M., & Abrahamson, D. (2017). Touchscreen tablets: Coordinating action and perception for mathematical cognition. *Frontiers in Psychology, 8*, 144. [doi:10.3389/fpsyg.2017.00144](https://doi.org/10.3389/fpsyg.2017.00144)
+- Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)

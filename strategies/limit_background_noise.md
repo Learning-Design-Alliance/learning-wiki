@@ -4,62 +4,67 @@ title: Limit Background Noise
 description: Minimizing background noise, such as television, conversations, or lyrical music, enhances concentration and learning.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Limit Background Noise
 
 ## Description
-Minimizing background noise, such as television, conversations, or lyrical music, enhances concentration and learning. Reading with irrelevant background speech requires more effort as the brain tries to process the meaning of the speech, reducing reading efficiency. Similarly, listening to lyrical music can be as detrimental to text comprehension as listening to speech due to the language processing demands. Instrumental music without lyrics has little to no negative effect on comprehension. By reducing noise, learners can concentrate more effectively, improving comprehension and overall performance.
+Minimizing background noise — television, conversations, or lyrical music — during learning activities improves concentration and comprehension. Irrelevant background speech is especially disruptive because the auditory system automatically processes its meaning, competing for the same verbal working-memory resources the learner needs for reading or listening [Irrelevant speech and lyrical music impair reading comprehension and reading efficiency.](../claims/cognitive-overload-degrades-learning.md) [+S]. Lyrical music can be as detrimental as speech because its lyrics impose comparable language-processing demands [~S]. Instrumental music without lyrics has little to no negative effect on comprehension [~S].
 
 ## Design Implications
 
+Background noise is a classic source of *extraneous* processing: it consumes working-memory capacity without contributing to schema construction [Cognitive overload degrades learning outcomes.](../claims/cognitive-overload-degrades-learning.md) [+S]. The strategy is therefore an environmental application of [Cognitive Load Management](../principles/cognitive-load-management.md) — rather than redesigning the material, the designer or learner removes a competing load source. Because the interference is largely involuntary (semantic processing of speech cannot be fully suppressed), "just ignore it" is not a viable substitute for physical or acoustic separation.
+
 ### Context
 #### Requirements
-- Quiet environment, noise-canceling headphones (optional), instrumental music (optional)
+- A study or work environment with low ambient speech and television noise
+- Noise-canceling headphones or earplugs where the environment cannot be controlled
+- Instrumental (non-lyrical) audio as an acceptable substitute when learners prefer background sound
+- Learner awareness that the effect applies to *meaningful* sound, not all sound
+
 #### Constraints
-- May be challenging to implement in noisy environments. Success depends on learner awareness and commitment to minimizing auditory distractions.
+- In open classrooms, libraries, and shared workspaces, learners often cannot control the acoustic environment [-M]
+- Effects are moderated by individual differences: working-memory capacity and attention control predict susceptibility, so some learners study effectively amid noise while others are severely impaired [~S]
+- Complete silence is not always optimal — a moderate level of steady, non-speech noise can mask more disruptive intermittent sounds [~W]
+- Learners frequently overestimate their ability to multitask with lyrical music or podcasts playing, so self-report alone is a poor guide [-W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- Environmental redesign: quiet study zones, acoustic treatment, designated silent reading periods
+- Personal equipment: noise-canceling headphones, white/pink noise, earplugs
+- Audio substitution: swap lyrical playlists for instrumental or ambient soundtracks during reading and writing tasks
+- Scheduling: reserve noisy collaborative activities for phases where verbal processing demands are low (e.g., hands-on practice) and protect quiet time for reading and comprehension tasks
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- All learner levels, particularly those sensitive to auditory distractions or those who struggle with concentration
+- All learner levels, but especially those with lower working-memory capacity or weaker attention control, who are disproportionately harmed by irrelevant speech [~S]
+- Young readers and language learners, whose comprehension is more vulnerable to semantic interference from background speech [+M]
+- Learners with attention difficulties, who show larger performance costs under background speech conditions [~M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Increase focus and comprehension, reduce distractions, and enhance cognitive performance during learning activities
-
-### Affordances
-- Reduces cognitive load by eliminating extraneous auditory stimuli, supports deeper focus and concentration, enhances memory and retention
-
-### Personalization
-- Learners can choose study environments that minimize background noise, use noise-canceling headphones, or listen to instrumental music without lyrics.
+- Reading comprehension and text-based learning, where verbal working memory is the bottleneck
+- Sustained attention during independent practice and study
+- Any task requiring verbal encoding — note-taking, listening to lectures, writing
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Provide guidance](../elements/provide-guidance.md)
-- [Practice](../elements/practice.md)
-- [Provide feedback](../elements/provide-feedback.md)
-
-## Assessment Evidence
-- Track reading comprehension scores, measure task completion rates, conduct self-reports on focus and concentration in quiet environments.
-
-## Impact
-- Research shows that irrelevant background noise and lyrical music reduce reading efficiency and comprehension. Reducing noise can lead to improved cognitive performance and enhanced learning.
+1. Assess the learning environment for meaningful sound sources (speech, television, lyrics) before the session begins.
+2. Remove or mask them: relocate to a quieter space, use noise-canceling headphones, or play instrumental audio ([Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md)).
+3. During reading or lecture phases, enforce quiet; during collaborative or hands-on phases, allow controlled noise ([Practice](../elements/practice.md)).
+4. Teach learners the rationale — that speech and lyrics are processed automatically — so they self-regulate their study environments rather than relying on willpower.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md) — the classroom-level counterpart: designing the physical environment rather than advising individual learners
+- [Chunking](../principles/chunking.md) — a complementary way to protect working-memory capacity, by structuring content rather than the environment
+- [Clear Structure Presentation](../principles/clear-structure-presentation.md) — reduces extraneous load within materials, as this strategy does within the environment
 
 ## Examples
-- A student studies in a quiet room with no background noise. A professional uses noise-canceling headphones to block out distractions while working on a project. A learner listens to instrumental music without lyrics while reading.
+- A middle-school teacher establishes a "silent reading" block with a visual noise-level indicator, reserving group discussion for a separate phase of the lesson.
+- A university student replaces a lyrical study playlist with instrumental focus music (e.g., the Brain.fm or Focus@Will instrumental channels) when reading journal articles.
+- An open-plan workplace provides noise-canceling headphones and quiet booths for training modules delivered via [e-learning](../patterns/blended-learning.md), consistent with the coherence guidance in Clark & Mayer.
 
 ## Key Sources
-- <!-- TODO -->
+- Martin, R. C., Wogalter, M. S., & Forlano, J. G. (1988). Reading comprehension in the presence of speech, music, and background noise. *Memory & Cognition, 16*(3), 271–275. [doi:10.3758/BF03197760](https://doi.org/10.3758/BF03197760)
+- Perham, N., & Currie, H. (2014). Does listening to preferred music improve reading comprehension performance? *Applied Cognitive Psychology, 28*(2), 279–284. [doi:10.1002/acp.2994](https://doi.org/10.1002/acp.2994)
+- Sörqvist, P., Halin, N., & Hygge, S. (2010). Individual differences in susceptibility to the effects of speech on reading comprehension. *Applied Cognitive Psychology, 24*(1), 67–76. [doi:10.1002/acp.1543](https://doi.org/10.1002/acp.1543)
+- Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
+- Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive Load Theory*. Springer. [doi:10.1007/978-1-4419-8126-4](https://doi.org/10.1007/978-1-4419-8126-4)

@@ -1,66 +1,73 @@
 ---
 type: strategy
 title: Self-Monitoring of Attention (SMA)
-description: Self-monitoring of attention is a strategy where learners self-assess their behavior and record the results.
+description: Learners systematically observe and record their own attention-related behavior, using cues to prompt self-assessment at regular intervals.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Self-Monitoring of Attention (SMA)
 
 ## Description
-Self-monitoring of attention is a strategy where learners self-assess their behavior and record the results. This can increase or decrease the frequency, intensity, or duration of existing behaviors, such as students who are easily distracted, get up from their seats, bother other students, or fidget with objects. The student monitors either the frequency or duration of these behaviors. SMA usually uses cues to remind students to self-assess.
+Self-monitoring of attention is a self-regulation strategy in which learners systematically observe and record whether they were attending to the task at predetermined intervals. A cue (tone, vibration, or teacher signal) prompts the learner to ask "Was I paying attention?" and mark yes/no on a recording sheet or device. Over time, the act of self-observation itself improves on-task behavior, independent of any external consequence.
 
 ## Design Implications
 
+SMA converts attention from an invisible, unexamined state into an object of explicit evaluation, building the monitoring component of [Self-Regulated Learning](../theories/self-regulated-learning.md). Meta-analytic evidence shows self-monitoring interventions produce moderate-to-large improvements in on-task behavior and academic responding, with effects maintained after the recording apparatus is removed [Self-monitoring improves on-task behavior for students with and without disabilities.](../claims/self-monitoring-improves-on-task-behavior.md) [+S]. Reactive effects of self-observation — the improvement caused merely by observing oneself — are well documented in applied behavior analysis [+M].
+
 ### Context
 #### Requirements
-- Requires a defined behavior to monitor, a method for recording behavior (e.g., a tally sheet), and cues to prompt self-assessment (e.g., beep tape).
+- A clear operational definition of "attending" the learner can apply (e.g., eyes on materials, pencil moving)
+- A cueing mechanism at random or fixed intervals (audible tone, vibrating watch, MotivAider-style device, or teacher signal)
+- A simple recording format the learner can complete in seconds without disrupting the task
+- Initial [Coaching](../elements/coaching.md) or modeling of how to judge and record attention accurately
+
 #### Constraints
-- May not create new skills or knowledge, but rather modifies existing behaviors. Requires willing participation from the learner for successful implementation.
+- Accuracy of self-recording is often poor initially; learners tend to overestimate attending [-M] — training and periodic accuracy checks against an observer are needed before data are trustworthy
+- Recording itself consumes working memory and can disrupt performance on cognitively demanding tasks [~M] — the burden must be faded as monitoring becomes habitual
+- Effects weaken when learners see no purpose in the record or when the target behavior is vaguely defined [-W]
+- For learners with severe attention difficulties, self-monitoring alone is less effective than self-monitoring combined with self-reinforcement or goal setting [-M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Self-evaluation vs. self-recording:** learners either judge their own attention or compare their rating to a teacher's rating (accuracy training)
+- **Cue-dependent vs. cue-free:** some protocols fade the external tone so learners self-prompt; cue-free versions build more transferable habits [+W]
+- **Combined packages:** SMA paired with goal setting, self-graphing of results, or self-reinforcement typically outperforms recording alone [+M]
+- **Digital implementations:** attention-check prompts embedded in learning platforms operationalize SMA at scale
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Learners who exhibit attention difficulties, including elementary, secondary, and adult learners
+- Students with ADHD or other attention difficulties, where SMA is among the most validated classroom self-management interventions [+S]
+- Elementary and secondary learners; effects appear across age bands but younger learners need more training and simpler recording formats [+M]
+- Learners developing self-regulation who benefit from externalizing the monitoring step before internalizing it [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Increase awareness of behavior, improve attention, and reduce distractions
-
-### Affordances
-- Provides immediate feedback to learners, facilitates communication between learners and parents, increases awareness of one's behavior, promotes self-regulation. Saves instructors time by shifting monitoring responsibility to the learner.
-
-### Personalization
-- Can be adapted with personalized self-monitoring forms to reflect the learner's age, developmental level, and individual needs.
+- Behavioral self-regulation: increasing time on task and reducing off-task disruption
+- Metacognitive monitoring: building the habit of noticing one's own attentional state
+- Academic engaged time: indirectly supporting achievement by increasing opportunities to learn
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Provide guidance](../elements/provide-guidance.md)
-- [Practice](../elements/practice.md)
-- [Provide feedback](../elements/provide-feedback.md)
-- [Assess performance](../elements/assess-performance.md)
-
-## Assessment Evidence
-- Track frequency and duration of targeted behaviors. Compare data before and after implementation to gauge effectiveness. Monitor consistency of self-monitoring procedures.
-
-## Impact
-- Research shows positive changes in social behaviors, completion of written work, ability to follow directions, and on-task behavior. (Gumpel & Shlomit, 2000; Hughes et al., 2002; McDougall & Brady, 1998; Rock, 2005; Wehmeyer et al., 2003)
+1. Define attending concretely and demonstrate examples and non-examples of on-task behavior.
+2. Model the self-question and recording procedure ([Coaching](../elements/coaching.md)); have learners practice judging sample intervals with feedback on accuracy.
+3. Set up the cueing schedule — random intervals of 1–5 minutes work better than predictable ones for maintaining attention [~W].
+4. Have learners record their ratings; optionally compare with teacher ratings to build accuracy.
+5. Add goal setting and self-graphing so learners see trends and take ownership of improvement.
+6. Fade the cue and recording sheet as on-task behavior stabilizes, shifting to periodic check-ins ([Check-In](../elements/check-in.md)).
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Self-monitoring of performance](self-monitoring-of-performance.md) — same mechanism applied to academic output rather than attention
+- [Goal setting](../elements/goal-setting.md) — pairing a target with the monitoring record strengthens effects
+- [Self-reinforcement](self-reinforcement.md) — learners reward themselves for meeting attention goals
+- [Checklists](checklists.md) — a related externalized self-evaluation format
 
 ## Examples
-- A teacher uses an audio tape with tones at fixed intervals to cue a student to self-assess their on-task behavior every 5 minutes. A student monitors how often they talk to a neighbor during instruction.
+- **MotivAider / vibrating watch protocols** — a student receives a silent vibration every few minutes and marks yes/no on a taped card; widely used in special education research (e.g., Harris, Friedlander, et al., 2005).
+- **Self-graphing attention charts** — students plot daily on-task percentages, turning monitoring data into a visible progress record used in Check-In conferences.
+- **ClassDojo-style self-reporting** — some teachers adapt behavior-tracking platforms so students self-record attention points, combining SMA with immediate feedback.
 
 ## Key Sources
-- <!-- TODO -->
+- Reid, R., Trout, A. L., & Schartz, M. (2005). Self-regulation interventions for students with attention deficit/hyperactivity disorder. *Exceptional Children, 71*(4), 361–377. [doi:10.1177/001440290507100401](https://doi.org/10.1177/001440290507100401)
+- Harris, K. R., Friedlander, B. D., Sadler, B., Frizzelle, R., & Graham, S. (2005). Self-monitoring of attention versus self-monitoring of academic performance: Effects among students with ADHD in the general education classroom. *The Journal of Special Education, 39*(3), 145–156. [doi:10.1177/00224669050390030201](https://doi.org/10.1177/00224669050390030201)
+- Graham, S., Harris, K. R., & Reid, R. (1992). Developing self-regulated learners. *Focus on Exceptional Children, 24*(6), 1–16.
+- Shapiro, E. S., & Cole, C. L. (1999). *Behavior change in the classroom: Self-management interventions.* Guilford Press.
+- Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

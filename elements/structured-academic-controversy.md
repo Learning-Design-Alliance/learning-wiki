@@ -24,4 +24,4 @@ Structured academic controversy is the element in which learners argue multiple 
 - [Collaborative Decision-Making](collaborative-decision-making.md)
 
 ## Key Sources
-- Johnson, D. W., & Johnson, R. T. (2009). Energizing learning. *Educational Researcher, 38*(5), 365-379.
+- Johnson, D. W., & Johnson, R. T. (2009). Energizing learning. *Educational Researcher, 38*(5), 365-379. [doi:10.3102/0013189x08330540](https://doi.org/10.3102/0013189x08330540)

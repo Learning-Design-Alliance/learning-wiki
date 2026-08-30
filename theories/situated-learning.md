@@ -25,4 +25,4 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md)
 
 ## Key Sources
-- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press.
+- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)

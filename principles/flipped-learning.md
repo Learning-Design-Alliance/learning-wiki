@@ -71,5 +71,5 @@ Flipped learning is most valuable when synchronous time is scarce and worth pres
 **Pre-reading plus seminar discussion** — Learners encounter foundational ideas before class so that live time can focus on interpretation, debate, and clarification rather than first exposure.
 
 ## Key Sources
-- Bishop, J. L., & Verleger, M. A. (2013). The flipped classroom. In *ASEE National Conference Proceedings*.
+- Bishop, J. L., & Verleger, M. A. (2013). The flipped classroom. In *ASEE National Conference Proceedings*. [doi:10.18260/1-2--22585](https://doi.org/10.18260/1-2--22585)
 - Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day*. International Society for Technology in Education.

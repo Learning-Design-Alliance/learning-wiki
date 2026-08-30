@@ -1,63 +1,64 @@
 ---
 type: strategy
 title: Monitor and Adjust Classroom Temperature
-description: Maintaining an optimal temperature range (68º and 74º Fahrenheit) in classrooms can significantly affect student engagement and productivity.
+description: Actively monitoring and adjusting classroom temperature toward a moderate range (roughly 68–74°F / 20–23°C) to protect attention, task performance, and engagement.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Monitor and Adjust Classroom Temperature
 
 ## Description
-Maintaining an optimal temperature range (68º and 74º Fahrenheit) in classrooms can significantly affect student engagement and productivity. This involves actively monitoring classroom temperatures and adjusting them as needed, potentially through individual teacher control over temperature settings or controlling small blocks of classrooms with similar sunlight exposure. Creating a comfortable thermal environment supports concentration and minimizes distractions related to discomfort.
+Classroom temperature is a physical environmental factor that measurably affects learning performance. This strategy involves monitoring classroom temperature (ideally with a sensor and logged readings) and adjusting it — via thermostats, ventilation, shading, or fans — to keep it in a moderate band, roughly 68–74°F (20–23°C). Both overheated and overcooled rooms degrade performance on academic tasks, so the goal is avoidance of thermal extremes rather than a single "perfect" setting.
 
 ## Design Implications
 
+Thermal comfort is not merely a wellbeing issue: field experiments in classrooms show that reducing classroom temperature from elevated levels toward the low 20s°C improves performance on tasks requiring concentration, such as reading and mathematics [~M]. Performance declines roughly linearly as temperature rises above the comfort band, with effects detectable even within the range typically found in school buildings [~M]. Because discomfort competes for attentional resources, temperature management functions as a low-cost form of [Cognitive Load Management](../principles/cognitive-load-management.md) — removing an environmental source of extraneous load.
+
 ### Context
 #### Requirements
-- Temperature monitoring equipment, temperature control systems (e.g., thermostats, HVAC), ability for teachers or administrators to adjust settings. Consider costs related to equipment and operation.
+- A reliable thermometer or sensor in the learning space; ideally logged over the day, since temperature drifts with sunlight, occupancy, and HVAC cycling
+- Some means of adjustment: thermostat access, operable windows, blinds/shading, fans, or portable heaters
+- A designated person (teacher, facilities staff) responsible for acting on readings
+
 #### Constraints
-- Achieving optimal temperature can be challenging due to varying sunlight exposure, building insulation, and individual preferences. Resource constraints (e.g., lack of air conditioning or heating) can limit the ability to adjust.
+- Centralized HVAC systems often prevent room-level control; teachers in many buildings cannot adjust temperature at all [-M]
+- Rooms with high solar gain can exceed the comfort band even when the thermostat setting is correct, so thermostat readings alone can mislead [-M]
+- Individual thermal preferences vary (and differ by clothing, metabolism, sex), so no single setting satisfies everyone; personal control outperforms a fixed shared setting [~M]
+- In schools lacking air conditioning, heat waves push classrooms far above the comfort band, and mitigation (fans, dimming lights) only partially offsets performance losses [-M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Teacher-controlled thermostat**: individual rooms or small blocks of rooms with similar sun exposure are grouped under one control point
+- **Low-tech mitigation**: shading windows during peak sun, cross-ventilation before occupancy, scheduling cognitively demanding tasks for cooler parts of the day
+- **Policy-level**: district standards for temperature ranges and monitoring, especially in buildings without air conditioning
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- K-12, Higher Education
+- All K–12 and higher-education learners, but effects are most consistently documented for school-age children performing reading and math tasks [~M]
+- Learners in buildings without air conditioning during warm seasons, where classroom temperatures can exceed 26°C (79°F) and performance losses are largest [~M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Enhance student engagement, improve concentration, reduce distractions, optimize learning conditions
-
-### Affordances
-- Improves focus and reduces distractibility, mitigates the impact of uncomfortable physical conditions on learning, creates a more conducive environment for concentration and cognitive tasks.
-
-### Personalization
-- Temperature preferences can vary, so allowing individual or small group control can cater to different needs. Monitoring and adjusting throughout the day can accommodate fluctuating conditions.
+- Not tied to a specific objective; this is an enabling condition that protects performance on any task requiring sustained attention — reading comprehension, mathematics, extended writing, and assessment
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Provide guidance](../elements/provide-guidance.md)
-
-## Assessment Evidence
-- Track student engagement levels, observe concentration and focus, measure productivity (e.g., task completion rates). Compare academic outcomes in classrooms with and without temperature control.
-
-## Impact
-- Research indicates that maintaining optimal temperature ranges enhances student achievement in reading and mathematics. Comfortable temperatures support concentration, minimize distractions, and create better learning environments (Wargocki & Wyon, 2007).
+1. Place a thermometer at student seating height, away from direct sun and vents; record readings at the start, middle, and end of the day.
+2. Identify the room's drift pattern (morning cool, afternoon solar gain, etc.) and set a target band of roughly 68–74°F (20–23°C).
+3. Adjust proactively — shade, ventilation, or thermostat — *before* the room exceeds the band rather than reacting to complaints.
+4. Where individual control is impossible, schedule demanding academic work during the coolest hours and use low-tech mitigation (shading, fans) during peak heat.
+5. Pair with attention to other physical conditions such as noise and air quality; see [Acoustics and Noise Management](acoustics_and_noise_management.md) for the parallel auditory factor.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Acoustics and Noise Management](acoustics_and_noise_management.md) — the other major physical-environment factor competing for attentional resources
+- [Check-ins](../principles/check-ins.md) — brief student comfort surveys can surface thermal discomfort that students hesitate to report
 
 ## Examples
-- An elementary school with no air conditioning tried to cope during a heat wave by dimming the lights, opening the windows, and blowing fans in each classroom. (Lyons, 2001).
+- **Wargocki & Wyon classroom field experiments (Denmark/Sweden)** — controlled interventions lowering classroom temperature from ~25°C to ~20°C improved children's performance on reading and numerical tasks; the work underpins Scandinavian ventilation and temperature guidelines for schools.
+- **Boston heat-wave study (Cedeño Laurent et al., 2018)** — students in non-air-conditioned dormitories during a heat wave showed slower reaction times on cognitive tests than peers in air-conditioned rooms, demonstrating measurable effects at temperatures common in unconditioned school buildings.
+- **Low-tech mitigation case (Lyons, 2001)** — an elementary school without air conditioning coped with a heat wave by dimming lights, opening windows, and running fans in each classroom.
 
 ## Key Sources
-- <!-- TODO -->
+- Wargocki, P., & Wyon, D. P. (2007). The effects of outdoor air supply rate and supply air temperature in classrooms in the tropics. *Indoor Air, 17*(3), 239–252. [doi:10.1111/j.1600-0668.2006.00448.x](https://doi.org/10.1111/j.1600-0668.2006.00448.x)
+- Cedeño Laurent, J. G., et al. (2018). Reduced cognitive function during a heat wave among residents of non-air-conditioned buildings. *PLoS Medicine, 15*(7), e1002605. [doi:10.1371/journal.pmed.1002605](https://doi.org/10.1371/journal.pmed.1002605)
+- Seppänen, O., Fisk, W. J., & Lei, Q. (2006). Room temperature and productivity in office work. In *Healthy Buildings 2006* (Vol. 1, pp. 243–247). (No DOI; conference proceedings)
+- Lyons, J. B. (2001). Do school facilities really impact a child's education? *Council of Educational Facility Planners International IssueTrak.*

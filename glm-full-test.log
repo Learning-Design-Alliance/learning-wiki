@@ -1,0 +1,24 @@
+nohup: ignoring input
+Run ID: glm-5.3-full-test-1  (results under eval/runs/glm-5.3-full-test-1)
+[z-ai/glm-5.3 / arxiv-1602.07032] Unbounded Human Learning: Optimal Scheduling for Spaced Repe
+[1/10] z-ai/glm-5.3/arxiv-1602.07032 latency=326.73s cost=$0.140282 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3 / arxiv-2105.15106] A Survey of Knowledge Tracing: Models, Variants, and Applica
+[2/10] z-ai/glm-5.3/arxiv-2105.15106 latency=322.98s cost=$0.140587 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3 / arxiv-2409.16490] Exploring Knowledge Tracing in Tutor-Student Dialogues using
+[3/10] z-ai/glm-5.3/arxiv-2409.16490 latency=336.07s cost=$0.141315 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3 / eric-ed599273] Retrieval-Based Learning: A Decade of Progress
+[4/10] z-ai/glm-5.3/eric-ed599273 latency=327.15s cost=$0.138763 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3 / eric-ej1327865] The Effects of Retrieval Practice Across Levels of Thinking 
+[5/10] z-ai/glm-5.3/eric-ej1327865 latency=308.13s cost=$0.139348 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3 / eric-ej1276025] Cognitive Load in Solving Mathematics Problems
+[6/10] z-ai/glm-5.3/eric-ej1276025 latency=314.44s cost=$0.140751 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3 / eric-ed491961] The Effectiveness of Worked Examples in a Game-Based Learnin
+[7/10] z-ai/glm-5.3/eric-ed491961 latency=346.53s cost=$0.129411 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3 / pmc-9083074] Fostering Self-Regulated Learning in Online Environments: Po
+[8/10] z-ai/glm-5.3/pmc-9083074 latency=349.37s cost=$0.140096 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3 / pmc-4237043] Self-Controlled Feedback Is Effective If It Is Based on the 
+[9/10] z-ai/glm-5.3/pmc-4237043 latency=352.86s cost=$0.134259 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3 / pmc-5932263] Self-Regulated Learning of Important Information under Seque
+[10/10] z-ai/glm-5.3/pmc-5932263 latency=335.82s cost=$0.137729 contributions=0 completeness=0.0 passed=False
+
+Done. Run report with: python3 scripts/eval_harness.py report --run-id glm-5.3-full-test-1

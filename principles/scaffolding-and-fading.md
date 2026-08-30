@@ -72,4 +72,4 @@ Scaffolding and fading work because novices often need temporary support to perf
 ## Key Sources
 - Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. [https://doi.org/10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [https://doi.org/10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
-- Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *Instructional Science, 30*(4), 293–308. [https://doi.org/10.1023/A:1016027302995](https://doi.org/10.1023/A:1016027302995)
+- Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to problem solving: Smooth transitions help learning. *Instructional Science, 30*(4), 293–308. [https://doi.org/10.1080/00220970209599510](https://doi.org/10.1080/00220970209599510)
