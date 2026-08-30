@@ -47,6 +47,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__).parent / "eval"))  # for health_report (see write_dashboard_page)
 import lint
 import check_citations as cc
 import find_cross_folder_duplicates as fcfd
@@ -118,6 +119,7 @@ def run(skip_doi: bool = False) -> dict:
     citation_conflicts = cc.find_conflicts(cc.load_all_citations())
     collisions = fcfd.find_collisions()
     self_referential = fcfd.find_self_referential(collisions)
+    needs_judgment = {slug: folders for slug, folders in collisions.items() if slug not in self_referential}
     incomplete = count_incomplete_pages()
 
     doi_issues = []
@@ -130,15 +132,23 @@ def run(skip_doi: bool = False) -> dict:
         "lint": {name: len(issues) for name, issues in lint_results.items()},
         "citation_conflicts": len(citation_conflicts),
         "doi_issues": len(doi_issues),
+        "doi_skipped": skip_doi,  # so a consumer can tell "0 problems" apart from "not checked this run"
         "cross_folder_collisions": len(collisions),
         "cross_folder_self_referential": len(self_referential),
-        "cross_folder_needs_judgment": len(collisions) - len(self_referential),
+        "cross_folder_needs_judgment": len(needs_judgment),
         "incomplete_pages": incomplete,
         "_detail": {
             "lint": lint_results,
             "citation_conflicts": citation_conflicts,
             "doi_issues": doi_issues,
             "self_referential": self_referential,
+            # {slug: [folders]} — the collisions NOT auto-resolved by the
+            # deterministic self-referential-stub check above; these are the
+            # ones find_near_duplicates.py --cross-folder (or a human) needs
+            # to actually look at. Previously only the *count* was kept on
+            # the top-level result; the health dashboard page needs the
+            # actual list to be useful rather than just a number.
+            "needs_judgment": needs_judgment,
         },
     }
 
@@ -199,6 +209,27 @@ def append_history(result: dict) -> None:
         f.write(json.dumps(summary) + "\n")
 
 
+DASHBOARD_PAGE_PATH = WIKI_ROOT / "eval" / "runs" / "health.html"
+
+
+def write_dashboard_page(result: dict) -> None:
+    """Render result as eval/runs/health.html — the same directory
+    dashboard_server.py already serves as static files for every other
+    dashboard page (optimizer.html, scrape.html, index.html), so this needs
+    no server/routing changes at all. Kept as an explicit call each caller
+    opts into (mirroring append_history's own pattern) rather than a side
+    effect inside run() itself, so run() stays a pure compute-and-return
+    function. Called from: enrich.py's _post_batch_checks (after every
+    enrichment batch), this module's own main() (the nightly systemd timer
+    and run_scrape_batch.py's post-ingest chained call both go through
+    main()), and dashboard_server.py's own startup hook (so the page exists
+    and reflects a fresh scan immediately after a deploy/restart, before
+    any batch has necessarily run since then)."""
+    import health_report
+    DASHBOARD_PAGE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    DASHBOARD_PAGE_PATH.write_text(health_report.render_html(result), encoding="utf-8")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--skip-doi", action="store_true", help="Skip Crossref DOI resolution (fast, fully offline)")
@@ -219,6 +250,7 @@ def main() -> None:
 
     if not args.no_history:
         append_history(result)
+        write_dashboard_page(result)
 
     if args.out:
         Path(args.out).write_text(report, encoding="utf-8")

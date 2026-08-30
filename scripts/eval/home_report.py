@@ -76,6 +76,12 @@ def render_html(n_optimizer_runs: int = None) -> str:
       ingest them into wiki pages.</p>
       <span class="tag">Scraper progress &rarr;</span>
     </a>
+    <a class="card" href="/health.html">
+      <h2>Wiki Health</h2>
+      <p>Lint issues, citation conflicts, DOI problems, and the draft/TODO backlog by page type — plus
+      what still needs a human's judgment call (possible duplicates, missing evidence).</p>
+      <span class="tag">Health report &rarr;</span>
+    </a>
   </div>
 </div>
 </body>

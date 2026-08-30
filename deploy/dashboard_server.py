@@ -111,6 +111,9 @@ _SAFE_VERSION_RE = re.compile(r"^v\d+$")
 # subprocess, never imported into this process.
 sys.path.insert(0, str(WIKI_ROOT))
 from scripts.eval import scrape_report, model_catalog  # noqa: E402 - after sys.path fixup, deliberately
+from scripts import wiki_health_check  # noqa: E402 - stdlib-only dependency chain (lint/check_citations/
+                                        # find_cross_folder_duplicates), safe under system python — see
+                                        # wiki_health_check.py's own module docstring chain
 
 RUN_SCRAPE_SCRIPT = WIKI_ROOT / "scripts" / "run_scrape_batch.py"
 SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
@@ -934,13 +937,30 @@ def _ensure_home_page_exists() -> None:
     _regenerate_index()
 
 
+def _ensure_health_page_exists() -> None:
+    """health.html is normally kept fresh by wiki_health_check.write_dashboard_page()
+    — called after every enrich.py batch, every scraper ingest batch (via
+    run_scrape_batch.py's chained health-check step), and the nightly
+    systemd timer. But a droplet where none of those has run yet since the
+    last deploy would otherwise 404 here, and (same reasoning as
+    _ensure_scrape_page_exists/_ensure_home_page_exists above) a deploy
+    that changes health_report.py's template should be visible immediately
+    on restart rather than waiting for the next batch. skip_doi=True: this
+    is a live scan at service-start time, not the nightly full check — no
+    Crossref calls, so it stays fast even on a large wiki."""
+    RUNS_DIR.mkdir(parents=True, exist_ok=True)
+    result = wiki_health_check.run(skip_doi=True)
+    wiki_health_check.write_dashboard_page(result)
+
+
 def main() -> None:
     _ensure_scrape_page_exists()
     _ensure_home_page_exists()
+    _ensure_health_page_exists()
     server = ThreadingHTTPServer(("127.0.0.1", PORT), Handler)
     print(f"Serving {RUNS_DIR} on http://127.0.0.1:{PORT} "
           f"(static files + POST /launch-auto-optimize, /delete-run, /rerun-run, /set-current-version, "
-          f"/launch-scrape, /stop-scrape) — scraper progress at /scrape.html")
+          f"/launch-scrape, /stop-scrape) — scraper progress at /scrape.html, wiki health at /health.html")
     server.serve_forever()
 
 

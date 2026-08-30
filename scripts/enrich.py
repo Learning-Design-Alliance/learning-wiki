@@ -314,6 +314,7 @@ def _post_batch_checks(written_files: list[str]) -> None:
     import wiki_health_check
     result = wiki_health_check.run(skip_doi=True)
     wiki_health_check.append_history(result)
+    wiki_health_check.write_dashboard_page(result)  # eval/runs/health.html, served by dashboard_server.py
     # Report draft-status and unfilled-TODO counts SEPARATELY, not just
     # summed as one "TODO" figure — a bare stub (created by
     # create_missing_stubs() for a dangling cross-link) has status: draft
