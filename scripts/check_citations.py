@@ -70,7 +70,12 @@ def _words_from_text(text: str) -> set:
     return {w for w in re.findall(r"[a-zA-Z]{4,}", text.lower()) if w not in _TITLE_STOPWORDS}
 
 
-def _title_words(line: str, year: str) -> set:
+def _extract_title_text(line: str, year: str) -> str:
+    """The raw title substring of a citation line (everything between the
+    "(Year)." clause and the venue/DOI that follows) — used both to build
+    the word-set _title_words compares with, and, as actual text (word
+    order preserved), as a Crossref bibliographic search query when no
+    already-cited DOI verifies (see resolve_doi_conflicts.py)."""
     idx = line.find(f"({year})")
     tail = line[idx + len(year) + 2:] if idx != -1 else line
     # The slice above still starts with the ". " ending the "(Year)."
@@ -92,7 +97,11 @@ def _title_words(line: str, year: str) -> set:
         tail = tail[:end_marker.start() + 1]
     else:
         tail = re.split(r"doi:|https?://", tail, maxsplit=1)[0]
-    return _words_from_text(tail)
+    return tail.strip()
+
+
+def _title_words(line: str, year: str) -> set:
+    return _words_from_text(_extract_title_text(line, year))
 
 
 def _same_paper(a: set, b: set) -> bool:

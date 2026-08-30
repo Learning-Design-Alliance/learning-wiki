@@ -87,6 +87,41 @@ def resolve_doi(doi: str) -> dict:
     return {"doi": doi, "resolved": True, "title": titles[0] if titles else None, "checked_at": today}
 
 
+def search_crossref(title_text: str, author_surname: str = None) -> list:
+    """Live Crossref bibliographic search (query.bibliographic + optional
+    query.author) — NOT a direct DOI lookup, and not cached the way
+    resolve_doi() is (a free-text query isn't a stable cache key the way
+    a DOI is). Used only as a fallback by resolve_doi_conflicts.py, for a
+    conflict cluster where none of the DOIs already cited on any page
+    verify — i.e. only when there's a real, specific reason to make one
+    more live call, not on every citation. Returns up to 3 candidates:
+    [{"doi", "title", "score"}], ranked by Crossref's own relevance score.
+    Never a source of a DOI value on its own — the caller still has to
+    independently verify a candidate's title actually matches before
+    treating it as real (same bar as resolve_doi())."""
+    import requests
+    params = {"query.bibliographic": title_text, "rows": 3}
+    if author_surname:
+        params["query.author"] = author_surname
+    contact = os.environ.get("EVAL_HARNESS_CONTACT_EMAIL", "")
+    if contact:
+        params["mailto"] = contact
+    url = "https://api.crossref.org/works"
+    compliance.guard(url)
+    resp = requests.get(url, params=params, headers={"User-Agent": compliance.USER_AGENT}, timeout=15)
+    resp.raise_for_status()
+    items = resp.json().get("message", {}).get("items", [])
+    results = []
+    for item in items:
+        titles = item.get("title") or []
+        results.append({
+            "doi": item.get("DOI"),
+            "title": titles[0] if titles else None,
+            "score": item.get("score", 0),
+        })
+    return results
+
+
 def check_all(page_types=None, force: bool = False) -> list:
     """Returns flagged issues: [{"doi", "file", "line", "issue": "not_found"
     or "title_mismatch", "resolved_title"}]. Uses/updates the on-disk cache."""
