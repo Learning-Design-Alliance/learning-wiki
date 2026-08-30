@@ -95,6 +95,7 @@ LOCK_PATH = RUNS_DIR / ".auto_optimize.lock"
 PROMPT_VERSIONS_DIR = WIKI_ROOT / "scripts" / "eval" / "prompt_versions"
 VENV_PYTHON = WIKI_ROOT / "venv" / "bin" / "python"
 SECRETS_ENV_FILE = Path("/etc/eval-harness.env")
+REFRESH_HEALTH_LOG_PATH = WIKI_ROOT / "eval" / "health" / "refresh-console.log"
 PORT = 8080
 MAX_ROUNDS = 20
 _SAFE_RUN_ID_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9_.-]*$")
@@ -705,10 +706,12 @@ class Handler(SimpleHTTPRequestHandler):
         if not VENV_PYTHON.exists():
             self._respond(500, f"{VENV_PYTHON} not found — is the venv set up?", redirect_to="/health.html")
             return
-        subprocess.Popen(
-            [str(VENV_PYTHON), "-u", "scripts/wiki_health_check.py"],
-            cwd=str(WIKI_ROOT), stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
-        )
+        REFRESH_HEALTH_LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
+        with open(REFRESH_HEALTH_LOG_PATH, "wb") as log_f:
+            subprocess.Popen(
+                [str(VENV_PYTHON), "-u", "scripts/wiki_health_check.py"],
+                cwd=str(WIKI_ROOT), stdout=log_f, stderr=subprocess.STDOUT,
+            )
         self._respond(200, "Full health check (with DOI resolution) started in the background — "
                             "this can take a few minutes on a large wiki; the page refreshes itself "
                             "every 60s, or reload once it's done.", redirect_to="/health.html")
