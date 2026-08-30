@@ -86,12 +86,15 @@ def classify_doi(doi: str, cluster_title_words: set) -> dict:
     return {"status": "wrong_paper", "title": result["title"]}
 
 
-def _search_fallback(key: str, entries: list, cluster_title_words: set):
+def _search_fallback(key: str, entries: list, cluster_title_words: set, debug: bool = False):
     """Try a live Crossref bibliographic search using the cluster's own
     title text, for a cluster where no already-cited DOI verified. Returns
     (doi, title) for the first search result whose title actually matches
     this cluster, or None if nothing does (including on any request
-    failure — this is a best-effort fallback, not a hard requirement)."""
+    failure — this is a best-effort fallback, not a hard requirement).
+    debug=True prints the exact query sent and every raw candidate
+    Crossref returned (matched or not) with its word-overlap fraction, to
+    diagnose a specific 'needs_human' case (see --key --debug)."""
     author_surname, year = key.rsplit("-", 1)
     longest_entry = max(entries, key=lambda e: len(e["title_words"]))
     # Re-read the full line from disk rather than trusting
@@ -102,6 +105,9 @@ def _search_fallback(key: str, entries: list, cluster_title_words: set):
     located = _locate_citation_line(longest_entry["source"], key, cluster_title_words)
     full_line = located[1].strip() if located else longest_entry["line"]
     title_text = cc._extract_title_text(full_line, year)
+    if debug:
+        print(f"  [debug] cluster_title_words: {sorted(cluster_title_words)}", file=sys.stderr)
+        print(f"  [debug] search query: title={title_text!r} author={author_surname!r}", file=sys.stderr)
     if not title_text:
         return None
     try:
@@ -109,6 +115,15 @@ def _search_fallback(key: str, entries: list, cluster_title_words: set):
     except Exception as e:
         print(f"  [search fallback failed for {key}: {e}]", file=sys.stderr)
         return None
+    if debug:
+        if not candidates:
+            print("  [debug] Crossref returned zero candidates", file=sys.stderr)
+        for c in candidates:
+            resolved_words = cc._words_from_text(c.get("title") or "")
+            union = cluster_title_words | resolved_words
+            overlap = len(cluster_title_words & resolved_words) / len(union) if union else 0.0
+            print(f"  [debug] candidate: {c.get('doi')!r} title={c.get('title')!r} "
+                  f"overlap={overlap:.2f} (need >= 0.35)", file=sys.stderr)
     for c in candidates:
         if not c.get("doi") or not c.get("title"):
             continue
@@ -118,7 +133,7 @@ def _search_fallback(key: str, entries: list, cluster_title_words: set):
     return None
 
 
-def resolve_cluster(conflict: dict) -> dict:
+def resolve_cluster(conflict: dict, debug: bool = False) -> dict:
     """conflict: one entry from check_citations.find_conflicts() —
     {"key", "entries", "dois"}. Returns a resolution record:
     {"key", "status": "auto_fixed"|"needs_human", ...}."""
@@ -137,7 +152,7 @@ def resolve_cluster(conflict: dict) -> dict:
         canonical, canonical_title = verified[0], classifications[verified[0]]["title"]
         via = "already cited"
     elif len(verified) == 0:
-        found = _search_fallback(key, entries, cluster_title_words)
+        found = _search_fallback(key, entries, cluster_title_words, debug=debug)
         if not found:
             return {"key": key, "status": "needs_human", "classifications": classifications,
                      "reason": "no already-cited DOI verified, and a Crossref bibliographic "
@@ -157,7 +172,7 @@ def resolve_cluster(conflict: dict) -> dict:
              "cluster_title_words": cluster_title_words}
 
 
-def resolve_standalone_issues(by_key: dict, conflict_keys: set) -> list:
+def resolve_standalone_issues(by_key: dict, conflict_keys: set, debug_key: str = None) -> list:
     """Handles the OTHER way a DOI can be wrong: every page citing this
     author-year-title agrees on the same DOI, so check_citations.py never
     flagged a cross-page disagreement — but the DOI itself is simply
@@ -171,7 +186,11 @@ def resolve_standalone_issues(by_key: dict, conflict_keys: set) -> list:
     in this same run — skipped here so a DOI already fixed isn't
     reprocessed against a stale (pre-fix) snapshot of by_key. Call this
     with a FRESH by_key (re-read from disk) if conflicts were applied
-    first — see main()."""
+    first — see main().
+
+    debug_key: print full search diagnostics (see _search_fallback), but
+    only for this one author-year key — running with debug on for all of
+    them would spam hundreds of lines."""
     by_doi: dict[str, list] = {}
     for key, entries in by_key.items():
         if key in conflict_keys:
@@ -188,7 +207,7 @@ def resolve_standalone_issues(by_key: dict, conflict_keys: set) -> list:
             continue  # already correct, nothing to do
 
         key = affected[0]["key"]
-        found = _search_fallback(key, affected, cluster_title_words)
+        found = _search_fallback(key, affected, cluster_title_words, debug=(key == debug_key))
         if not found:
             resolutions.append({
                 "key": key, "status": "needs_human",
@@ -325,16 +344,69 @@ def _apply_resolutions(resolutions: list) -> None:
           file=sys.stderr)
 
 
+def debug_key(key: str) -> None:
+    """Fast, read-only diagnostic for one author-year key's single-citation
+    DOI status: classifies every DOI it's cited with, and — for anything
+    not verified — runs the search fallback with full diagnostics (the
+    exact query sent, every raw Crossref candidate, and its word-overlap
+    fraction against the 0.35 threshold). Bypasses scanning the rest of
+    the wiki entirely, so this stays fast regardless of wiki size —
+    re-running the FULL standalone pass just to reach one key would mean
+    waiting through however many live, uncached search calls sort before
+    it alphabetically."""
+    by_key = cc.load_all_citations()
+    entries = by_key.get(key)
+    if not entries:
+        print(f"No citations found with key {key!r}.", file=sys.stderr)
+        sys.exit(1)
+
+    by_doi: dict[str, list] = {}
+    no_doi = []
+    for e in entries:
+        if e["doi"]:
+            by_doi.setdefault(e["doi"], []).append(e)
+        else:
+            no_doi.append(e)
+
+    print(f"{key}: {len(entries)} citation(s) across {len({e['source'] for e in entries})} page(s), "
+          f"{len(by_doi)} distinct DOI(s), {len(no_doi)} with no DOI at all.\n")
+
+    for doi, affected in sorted(by_doi.items()):
+        cluster_title_words = max((e["title_words"] for e in affected), key=len)
+        classification = classify_doi(doi, cluster_title_words)
+        title_note = f' — Crossref title: "{classification["title"]}"' if classification.get("title") else ""
+        print(f"DOI {doi}: {classification['status']}{title_note}")
+        print(f"  cited on: {', '.join(e['source'] for e in affected)}")
+        if classification["status"] != "verified":
+            found = _search_fallback(key, affected, cluster_title_words, debug=True)
+            if found:
+                print(f"  [debug] VERDICT: would fix to {found[0]!r} (\"{found[1]}\")")
+            else:
+                print("  [debug] VERDICT: no candidate cleared the threshold — needs human judgment")
+        print()
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--apply", action="store_true", help="Write fixes to disk (default: dry-run report only)")
     parser.add_argument("--key", default=None, help="Only process this one conflict cluster key (e.g. chi-2014) "
                                                       "— skips the single-citation DOI pass entirely")
+    parser.add_argument("--debug", action="store_true",
+                         help="With --key, print full search-fallback diagnostics for that one cluster")
+    parser.add_argument("--debug-key", default=None,
+                         help="Fast, read-only diagnostic for one author-year key's single-citation DOI "
+                              "status (the exact search query, every raw Crossref candidate, and its "
+                              "word-overlap score) — bypasses the full conflict/standalone scan entirely, "
+                              "so it's quick regardless of wiki size. Ignores every other flag.")
     parser.add_argument("--out", default=None, help="Write the report to this path instead of stdout")
     parser.add_argument("--skip-standalone", action="store_true",
                          help="Only process multi-page conflict clusters; skip the single-citation DOI pass "
                               "(every page agrees on a DOI, but the DOI itself is wrong)")
     args = parser.parse_args()
+
+    if args.debug_key:
+        debug_key(args.debug_key)
+        return
 
     conflicts = cc.find_conflicts(cc.load_all_citations())
     if args.key:
@@ -346,7 +418,7 @@ def main() -> None:
     conflict_resolutions = []
     for i, conflict in enumerate(conflicts, 1):
         print(f"[{i}/{len(conflicts)}] resolving conflict {conflict['key']}...", file=sys.stderr)
-        conflict_resolutions.append(resolve_cluster(conflict))
+        conflict_resolutions.append(resolve_cluster(conflict, debug=args.debug and conflict["key"] == args.key))
 
     if args.apply:
         _apply_resolutions(conflict_resolutions)
