@@ -125,13 +125,34 @@ relationships:
 The Word Health Organization (WHO)'s Skills for Health outline life skills important for skills-based health and life skills education. The WHO is a United Nations agency specializing in international public health, and the Skills for Health focus on the knowledge, attitudes, and skills that enable individuals to deal effectively with the demands and challenges of everyday life, including psychosocial competencies and interpersonal skills. The Skills for Health are part of the Focusing Resources on Effective School Health (FRESH) initiative, a collaboration between WHO, UNICEF, UNESCO, and the World Bank designed to promote effective school health programming.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 130 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 176 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+130 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| communication and interpersonal skills | Emotion; Emotional Knowledge and Expression; Expresses emotions to others in effective ways (e.g., Uses “I messages”); Empathy/Perspective Taking; Uses active interpersonal listening strategies to elicit and understand the feelings and opinions of others (e.g., asking probing questions, making eye contact, paraphrasing and reflecting, nodding, and leaning forward); Social (+16 more) |
+| interpersonal communication skills | Emotion; Emotional Knowledge and Expression; Expresses emotions to others in effective ways (e.g., Uses “I messages”); Empathy/Perspective Taking; Uses active interpersonal listening strategies to elicit and understand the feelings and opinions of others (e.g., asking probing questions, making eye contact, paraphrasing and reflecting, nodding, and leaning forward); Social (+4 more) |
+| negotiation/refusal skills | Social; Conflict Resolution/Social Problem Solving; Asserts oneself in an appropriate manner during a conflict (e.g., uses I messages, calmly and diplomatically states values and preferences, etc.); Prosocial/Cooperative Behavior; Stands one’s ground when another child tries to pressure him or her |
+| empathy building | Emotion; Empathy/Perspective Taking; Identifies and acknowledges the experiences, feelings, and viewpoints of others (including characters); Uses active interpersonal listening strategies to elicit and understand the feelings and opinions of others (e.g., asking probing questions, making eye contact, paraphrasing and reflecting, nodding, and leaning forward); Social; Prosocial/Cooperative Behavior (+1 more) |
+| cooperation and teamwork | Social; Prosocial/Cooperative Behavior; Acts respectfully and kindly toward others; Participates as an active and successful member of a team/community; Completes one’s responsibilities within a team in a timely manner (code only if responsibility within a team is explicit, not regular teamwork); Values (+2 more) |
+| advocacy skills | Social; Prosocial/Cooperative Behavior; Values; Civic Values; Understands the importance of setting a good example for others and acting as a positive influence |
+| decision-making and critical thinking skills | Cognitive; Cognitive Flexibility; Generates and updates hypotheses (e.g., consequential thinking: “if X, then Y”); Approaches problems in flexible ways (e.g., brainstorms multiple solutions to a problem); Critical Thinking; Carries out a solution to solve a problem (+7 more) |
+| decision-making / problem-solving skills | Cognitive; Cognitive Flexibility; Generates and updates hypotheses (e.g., consequential thinking: “if X, then Y”); Approaches problems in flexible ways (e.g., brainstorms multiple solutions to a problem); Critical Thinking; Carries out a solution to solve a problem (+6 more) |
+| critical thinking skills | Cognitive; Cognitive Flexibility; Downplays less relevant information when solving problems; Critical Thinking |
+| coping and self-management skills | Cognitive; Working Memory and Planning Skills; Sets goals (differs from acting to achieve a goal); Values; Ethical Values; Constructs and/or expresses opinions about right and wrong (e.g., makes ethical judgements) (+15 more) |
+| skills for increasing personal confidence and abilities to assume control, take responsibility, make a difference, or bring about change | Cognitive; Working Memory and Planning Skills; Sets goals (differs from acting to achieve a goal); Values; Ethical Values; Constructs and/or expresses opinions about right and wrong (e.g., makes ethical judgements) (+9 more) |
+| skills for managing feelings | Emotion; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions) |
+| skills for managing stress | Values; Performance Values; Demonstrates good organizational skills (e.g., plans ahead, manages time wisely, arrives to class prepared, etc.); Perspectives; Optimism |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 20 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **Habits of Mind** (27 matches) — e.g. "interpersonal communication skills" ↔ "listening to others with understanding and empathy"; "interpersonal communication skills" ↔ "thinking interdependently"
+- **Building Blocks for Learning** (12 matches) — e.g. "interpersonal communication skills" ↔ "social awareness"; "negotiation/refusal skills" ↔ "relationship skills"
+- **USAID YouthPower Action Key Soft Skills for Cross-Sectoral Youth Outcomes** (12 matches) — e.g. "interpersonal communication skills" ↔ "communication"; "empathy building" ↔ "communication"
+- **IB Learner Profile** (12 matches) — e.g. "interpersonal communication skills" ↔ "communicators"; "interpersonal communication skills" ↔ "caring"
+- **Kenya BECF Core Competencies for Basic Education** (11 matches) — e.g. "interpersonal communication skills" ↔ "communication and collaboration"; "cooperation and teamwork" ↔ "communication and collaboration"
+- **Pratham Life Skills Framework** (11 matches) — e.g. "interpersonal communication skills" ↔ "interpersonal skills"; "empathy building" ↔ "interpersonal skills"
+- …and 14 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/58/

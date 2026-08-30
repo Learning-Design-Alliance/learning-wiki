@@ -129,13 +129,35 @@ relationships:
 The UNICEF India Comprehensive Life Skills Framework is a life skills framework developed by the United Nations Children’s Fund (UNICEF) India in collaboration with in-country partners, including UN sister agencies, civil society organizations, academia, and independent experts. UNICEF is an intergovernmental organization mandated by the United Nations General Assembly to advocate for the protection of children's rights around the world and help meet children’s basic needs and expand their opportunities. Designed to be relevant for Indian contexts, the framework focuses on skills that support the overall development and empowerment of children and adolescents in India, enabling them to become informed and life-long learners, change social inequalities, and gain control over their lives.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 81 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 110 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+81 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| empowerment | Emotion; Emotional Knowledge and Expression; Identifies emotions in self or others; Identity; Self-Knowledge; Recognizes and understands one’s own strengths and weaknesses (+7 more) |
+| self-awareness | Emotion; Emotional Knowledge and Expression; Identifies emotions in self or others; Identity; Self-Knowledge; Recognizes and understands one’s own strengths and weaknesses (+1 more) |
+| communication | Emotion; Emotional Knowledge and Expression; Social; Prosocial/Cooperative Behavior; Effectively communicates ideas, stories, and information to others |
+| resilience | Emotion; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions); Utilizes effective strategies to cope with disappointment and failure |
+| employability skills | Cognitive; Working Memory and Planning Skills; Carries out complex tasks (e.g., completing multi-step tasks, thinking through options and choosing one, etc.); Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution); Values (+4 more) |
+| decision making | Cognitive; Working Memory and Planning Skills; Carries out complex tasks (e.g., completing multi-step tasks, thinking through options and choosing one, etc.); Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution); Values (+2 more) |
+| negotiation | Social; Conflict Resolution/Social Problem Solving |
+| citizenship | Social; Prosocial/Cooperative Behavior; Builds and maintains positive relationships; Cognitive; Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution) (+1 more) |
+| empathy | Social; Prosocial/Cooperative Behavior; Builds and maintains positive relationships |
+| participation | Cognitive; Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution); Social; Prosocial/Cooperative Behavior; Participates as an active and successful member of a team/community |
+| learning | Values; Intellectual Values; Thinks outside the box; approaches tasks and problems in novel ways (e.g., is creative); Cognitive; Critical Thinking; Plans processes needed to solve a problem (+1 more) |
+| creativity | Values; Intellectual Values; Thinks outside the box; approaches tasks and problems in novel ways (e.g., is creative) |
+| critical thinking | Cognitive; Critical Thinking |
+| problem solving | Cognitive; Critical Thinking; Plans processes needed to solve a problem; Identifies and understands the existence and nature of problems |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 19 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **Habits of Mind** (18 matches) — e.g. "communication" ↔ "thinking and communicating with clarity and precision"; "communication" ↔ "finding humor"
+- **Building Blocks for Learning** (10 matches) — e.g. "self-awareness" ↔ "self-awareness"; "communication" ↔ "social awareness"
+- **IB Learner Profile** (9 matches) — e.g. "self-awareness" ↔ "reflective"; "communication" ↔ "communicators"
+- **LEGO's Skills for Holistic Development** (9 matches) — e.g. "self-awareness" ↔ "emotional skills"; "communication" ↔ "social skills"
+- **USAID YouthPower Action Key Soft Skills for Cross-Sectoral Youth Outcomes** (8 matches) — e.g. "self-awareness" ↔ "positive self-concept"; "communication" ↔ "communication"
+- **Pratham Life Skills Framework** (8 matches) — e.g. "self-awareness" ↔ "self awareness"; "communication" ↔ "interpersonal skills"
+- …and 13 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/63/

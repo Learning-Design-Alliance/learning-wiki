@@ -177,13 +177,41 @@ relationships:
 The Four Branch Model of Emotional Intelligence is a developmental model for emotional intelligence (EI) developed by University of New Hampshire Professor of Psychology John D. Mayer and Yale University President/Professor of Psychology Peter Salovey. It focuses on how individuals perceive, regulate, and think about emotions.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 78 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 91 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+78 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| perception, appraisal, and expression of emotion | Emotion; Emotional Knowledge and Expression; Identifies emotions in self or others; Expresses emotions to others in effective ways (e.g., Uses “I messages”) |
+| ability to identify emotion in one's physical states, feelings, and thoughts | Emotion; Emotional Knowledge and Expression; Identifies emotions in self or others |
+| ability to identify emotions in other people, designs, artwork, etc., through language, sound, appearance, and behavior | Emotion; Emotional Knowledge and Expression; Identifies emotions in self or others |
+| ability to express emotions accurately, and to express needs related to those feelings | Emotion; Emotional Knowledge and Expression; Expresses emotions to others in effective ways (e.g., Uses “I messages”) |
+| ability to discriminate between accurate and inaccurate, or honest versus dishonest expressions of feeling | Emotion; Emotional Knowledge and Expression; Identifies emotions in self or others |
+| emotional faciliation of thinking | Emotion; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions); Emotional Knowledge and Expression; Cognitive; Critical Thinking (+2 more) |
+| emotions prioritize thinking by directing attention to important information | Emotion; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions) |
+| emotions are sufficiently vivid and available that they can be generated as aids to judgment and memory concerning feelings | Emotion; Emotional Knowledge and Expression; Emotional and Behavioral Regulation |
+| emotional mood swings change the individual's perspective to pessimistic, encouraging consideration of multiple points of view | Cognitive; Critical Thinking; Recognizes multiple sides of an issue and/or understands multiple perspectives; Emotion; Emotional Knowledge and Expression; Is able to monitor and predict emotions (+1 more) |
+| emotional states differentially encourage specific problem approaches such as when happiness facilitates inductive reasoning and creativity | Emotion; Emotional and Behavioral Regulation |
+| understanding and analyzing emotions; employing emotional knowledge | Emotion; Emotional Knowledge and Expression; Uses feeling words appropriate to the situation; Appropriately uses a range of feeling words of varying intensity (e.g., I felt angry vs. I felt furious); Understands relationships between situation and emotion (e.g., accurately identifies the emotion a particular situation would elicit); Understands complex/simultaneous feelings (e.g., being nervous and excited at the same time) (+1 more) |
+| ability to label emotions and recognize relations among the words and the emotions themselves, such as the relation between liking and loving | Emotion; Emotional Knowledge and Expression; Uses feeling words appropriate to the situation; Appropriately uses a range of feeling words of varying intensity (e.g., I felt angry vs. I felt furious) |
+| ability to interpret the meanings that emotions convey regarding relationships, such as that sadness often accompanies a loss | Emotion; Emotional Knowledge and Expression; Understands relationships between situation and emotion (e.g., accurately identifies the emotion a particular situation would elicit) |
+| ability to understand complex feelings; simultaneous feelings of love and hate, or blends such as awe as a combination of fear and surprise | Emotion; Emotional Knowledge and Expression; Understands complex/simultaneous feelings (e.g., being nervous and excited at the same time) |
+| ability to recognize likely transitions among emotions, such as the transition from anger to satisfaction, or from anger to shame | Emotion; Emotional Knowledge and Expression; Is able to monitor and predict emotions |
+| reflective regulation of emotions to promote emotional and intellectual growth | Emotion; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions); Perspectives; Openness; Receptive to new and unfamiliar ideas, feelings, and experiences |
+| ability to stay open to feelings, both those that are pleasant and those that are unpleasant | Emotion; Emotional and Behavioral Regulation |
+| ability to reflectively engage or detach from emotion depending upon ints judged informativeness or utility | Emotion; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions) |
+| ability to reflectively monitor emotions in relation to oneself and others, such as recognizing how clear, typical, influential, or reasonable they are | Emotion; Emotional and Behavioral Regulation; Perspectives; Openness; Receptive to new and unfamiliar ideas, feelings, and experiences |
+| ability to manage emotion in oneself and others by moderating negative emotions and enhancing pleasant ones, without repressing or exaggerating information they may convey | Emotion; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions) |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 16 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **IRC Social and Emotional Learning Competencies** (19 matches) — e.g. "ability to identify emotion in one's physical states, feelings, and thoughts" ↔ "emotion regulation"; "ability to identify emotion in one's physical states, feelings, and thoughts" ↔ "positive social skills"
+- **Preparing Youth to Thrive** (15 matches) — e.g. "ability to identify emotion in one's physical states, feelings, and thoughts" ↔ "emotion management"; "ability to identify emotions in other people, designs, artwork, etc., through language, sound, appearance, and behavior" ↔ "emotion management"
+- **Character Lab** (9 matches) — e.g. "ability to identify emotion in one's physical states, feelings, and thoughts" ↔ "social/emotional intelligence"; "ability to identify emotions in other people, designs, artwork, etc., through language, sound, appearance, and behavior" ↔ "social/emotional intelligence"
+- **Building Blocks for Learning** (9 matches) — e.g. "ability to identify emotion in one's physical states, feelings, and thoughts" ↔ "self-awareness"; "ability to identify emotions in other people, designs, artwork, etc., through language, sound, appearance, and behavior" ↔ "self-awareness"
+- **Big Five Personality Traits** (8 matches) — e.g. "emotions prioritize thinking by directing attention to important information" ↔ "neuroticism / emotional stability"; "emotions are sufficiently vivid and available that they can be generated as aids to judgment and memory concerning feelings" ↔ "neuroticism / emotional stability"
+- **Pratham Life Skills Framework** (7 matches) — e.g. "ability to identify emotion in one's physical states, feelings, and thoughts" ↔ "self awareness"; "ability to identify emotions in other people, designs, artwork, etc., through language, sound, appearance, and behavior" ↔ "self awareness"
+- …and 10 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/4/

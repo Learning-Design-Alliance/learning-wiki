@@ -1721,8 +1721,42 @@ relationships:
 ## Description
 Six top-level domains (Cognitive, Emotion, Social, Values, Perspectives, Identity/Self-Image), each with subdomains, each with individual skill/behavior descriptors — a real three-level hierarchy, all `type: default` (hierarchical) relationships.
 
-## What's tracked separately, not embedded here
-Every one of the ~40+ SEL/competency frameworks ExploreSEL catalogs (CASEL, OECD, ACT Holistic Framework, etc.) maps its own competencies onto nodes in this taxonomy — a real crosswalk with roughly 6,500 mapping edges in the source data. That crosswalk is too large and too many-to-many to embed in this page's frontmatter (or any single framework's), so it's kept as a separate dataset: [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson), keyed by the same `term_NNN` ids used as node `id`s here and in each framework's own goal-map page (see `goals/exploresel-fw-*.md`).
+## Framework Coverage
+How many of the 43 ingested frameworks' competencies map onto each domain/subdomain, via the crosswalk data below (subdomains indented under their domain; individual skill-descriptor leaves aren't broken out here — see the raw crosswalk file for those). Counts are competency *terms*, not distinct frameworks, so a framework with many competencies in one area weights that area's count accordingly.
+
+| Domain / Subdomain | Mapped competency terms | Top contributing frameworks |
+|---|---|---|
+| Cognitive | 282 | 21st Century Learning (29), Employability Skills (24), ACT Holistic Framework (17) |
+| Emotion | 228 | Emotional Intelligence (20), 21st Century Learning (13), Social, Emotional, and Ethical (SEE) Learning Framework (13) |
+| Social | 265 | Employability Skills (24), 21st Century Learning (19), Head Start (19) |
+| Values | 389 | 21st Century Learning (32), Kenya TVET Values and Life Skills (VaLI) Framework (26), ACT Holistic Framework (25) |
+| Perspectives | 102 | 21st Century Learning (11), Employability Skills (6), ACT Holistic Framework (6) |
+| Identity | 172 | ACT Holistic Framework (19), Kenya TVET Values and Life Skills (VaLI) Framework (10), K-12 SEL Standards (Anchorage) (9) |
+| &nbsp;&nbsp;Attention Control | 35 | K-3 SEL Standards (Connecticut) (3), Head Start (3), Developmental Assets (ages 8-12) (3) |
+| &nbsp;&nbsp;Working Memory and Planning Skills | 100 | K-3 SEL Standards (Connecticut) (8), 21st Century Learning (6), K-12 SEL Standards (Anchorage) (6) |
+| &nbsp;&nbsp;Inhibitory Control | 57 | K-3 SEL Standards (Connecticut) (5), K-12 SEL Standards (Anchorage) (5), Head Start (5) |
+| &nbsp;&nbsp;Cognitive Flexibility | 84 | Employability Skills (12), 21st Century Learning (11), K-3 SEL Standards (Connecticut) (9) |
+| &nbsp;&nbsp;Critical Thinking | 186 | 21st Century Learning (22), Employability Skills (22), ACT Holistic Framework (13) |
+| &nbsp;&nbsp;Emotional Knowledge and Expression | 76 | Emotional Intelligence (13), K-12 SEL Standards (Anchorage) (7), Social, Emotional, and Ethical (SEE) Learning Framework (6) |
+| &nbsp;&nbsp;Emotional and Behavioral Regulation | 103 | Emotional Intelligence (10), K-12 SEL Standards (Anchorage) (9), K-3 SEL Standards (Connecticut) (7) |
+| &nbsp;&nbsp;Empathy/Perspective Taking | 129 | 21st Century Learning (13), UNICEF MENA Life Skills and Citizenship Education - Conceptual and Programmatic Framework (9), Head Start (7) |
+| &nbsp;&nbsp;Understanding Social Cues | 32 | K-3 SEL Standards (Connecticut) (5), 21st Century Learning (3), K-12 SEL Standards (Anchorage) (3) |
+| &nbsp;&nbsp;Conflict Resolution/Social Problem Solving | 60 | Room to Read Life Skills Education Learning Outcomes (5), K-12 SEL Standards (Anchorage) (4), K-3 SEL Standards (Connecticut) (3) |
+| &nbsp;&nbsp;Prosocial/Cooperative Behavior | 248 | Employability Skills (23), 21st Century Learning (19), Head Start (19) |
+| &nbsp;&nbsp;Ethical Values | 189 | 21st Century Learning (18), Kenya TVET Values and Life Skills (VaLI) Framework (14), Developmental Assets (ages 8-12) (12) |
+| &nbsp;&nbsp;Performance Values | 158 | ACT Holistic Framework (15), 21st Century Learning (13), Employability Skills (13) |
+| &nbsp;&nbsp;Civic Values | 107 | Social, Emotional, and Ethical (SEE) Learning Framework (9), Kenya TVET Values and Life Skills (VaLI) Framework (9), Singapore Framework for 21CC and Student Outcomes (7) |
+| &nbsp;&nbsp;Intellectual Values | 116 | 21st Century Learning (17), ACT Holistic Framework (8), K-3 SEL Standards (Connecticut) (6) |
+| &nbsp;&nbsp;Optimism | 41 | 21st Century Learning (5), K-3 SEL Standards (Connecticut) (3), Employability Skills (3) |
+| &nbsp;&nbsp;Gratitude | 2 | Character Lab (1), KIPP (1) |
+| &nbsp;&nbsp;Openness | 53 | 21st Century Learning (9), Habits of Mind (5), ACT Holistic Framework (4) |
+| &nbsp;&nbsp;Enthusiasm/Zest | 22 | K-3 SEL Standards (Connecticut) (3), Developmental Assets (ages 3-5) (3), Developmental Assets (ages 5-9) (3) |
+| &nbsp;&nbsp;Self-Knowledge | 72 | ACT Holistic Framework (14), Kenya TVET Values and Life Skills (VaLI) Framework (8), Vision of the Haitian Child in Society: Social Emotional Framework (5) |
+| &nbsp;&nbsp;Purpose | 39 | K-12 SEL Standards (Anchorage) (6), ACT Holistic Framework (5), Developmental Assets (ages 3-5) (4) |
+| &nbsp;&nbsp;Self-Efficacy/Growth Mindset | 78 | K-12 SEL Standards (Anchorage) (7), 21st Century Learning (6), ACT Holistic Framework (6) |
+| &nbsp;&nbsp;Self-Esteem | 64 | Developmental Assets (ages 8-12) (7), Developmental Assets (ages 5-9) (5), Developmental Assets (ages 12-18) (5) |
+
+The full crosswalk (6,506 edges total, including the skill-descriptor leaves omitted from the table above) is too large and too many-to-many to embed per-page, so it's kept as a separate dataset: [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson), keyed by the same `term_NNN` ids used as node `id`s here and in each framework's own goal-map page (see `goals/exploresel-fw-*.md`).
 
 ## Key Sources
 - Jones, S. M., Bailey, R., Brush, K., Kahn, J., et al. (2017). *Navigating Social and Emotional Learning from the Inside Out.* Harvard Graduate School of Education / Wallace Foundation.

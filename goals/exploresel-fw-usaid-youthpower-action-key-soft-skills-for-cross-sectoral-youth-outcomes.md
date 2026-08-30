@@ -94,13 +94,30 @@ relationships: []
 USAID YouthPower Action's Key Soft Skills for Cross-Sectoral Outcomes framework outlines a set of core soft skills that predict positive outcomes for youth across three sectors: workforce success, violence prevention, and sexual and reproductive health. The core skills are those found to have the most cross-sectoral impact based on a literature review that examined which soft skills most effectively contribute to positive outcomes in each sector. The framework was developed by YouthPower Action, a USAID project that seeks to help youth reach their full potential by helping communities around the world achieve sustainable outcomes in health, education, and political and economic empowerment. YouthPower Action is funded through the Office of Population and Reproductive Health (PRH) and the Bureau for Economic Growth, Environment and Education (E3) at USAID, an independent agency of the US federal government that administers foreign aid and development assistance, and led by FHI360, an international non-profit working to improve the health and wellbeing of people around the world.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 79 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 585 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+79 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| self-control | Cognitive; Attention Control; Sustains attention by focusing on task at hand; Ignores distractions when doing a task; Inhibitory Control; Waits (e.g. waits turn to play game or talk, waits for teacher to finish giving instructions, stays in seat until time to leave and lines up appropriately without reminding, etc. ) (+6 more) |
+| positive self-concept | Identity; Self-Knowledge; Recognizes and understands one’s own strengths and weaknesses; Self-Efficacy/Growth Mindset |
+| higher order thinking skills | Cognitive; Working Memory and Planning Skills; Critical Thinking; Evaluates options for solving a problem; Carries out a solution to solve a problem; Interprets and draws conclusions (+5 more) |
+| social skills | Cognitive; Inhibitory Control; Critical Thinking; Carries out a solution to solve a problem; Employs problem-solving process to make a decision (code if stress is on selecting a solution); Emotion (+14 more) |
+| communication | Social; Understanding Social Cues; Uses social cues such as body language and tone of voice in standard and appropriate ways (refers to self); Prosocial/Cooperative Behavior; Listens attentively to others (e.g.,listening to group members, not talking over others); Effectively communicates ideas, stories, and information to others (+3 more) |
+| empathy | Emotion; Empathy/Perspective Taking; Identifies and acknowledges the experiences, feelings, and viewpoints of others (including characters); Demonstrates active role-taking (considering oneself in another’s situation) |
+| goal orientation | Cognitive; Working Memory and Planning Skills; Engages in goal-directed behavior independently and when instructed (i.e. acting to achieve a goal); Values; Performance Values; Sets one or more tasks/goals and shows motivation or passion to complete them; is determined |
+| responsibility | Values; Performance Values; Identity; Self-Knowledge; Develop and maintain a coherent sense of self and roles over time; Self-Efficacy/Growth Mindset |
+| positive attitude | Social; Prosocial/Cooperative Behavior; Encourages/supports others/team members; Perspectives; Optimism; Enthusiasm/Zest (+1 more) |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 42 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **Habits of Mind** (38 matches) — e.g. "positive self-concept" ↔ "learning continuously"; "positive self-concept" ↔ "learning continuously"
+- **ACT Holistic Framework** (35 matches) — e.g. "self-control" ↔ "stress tolerance"; "self-control" ↔ "patience"
+- **Building Blocks for Learning** (28 matches) — e.g. "self-control" ↔ "academic tenacity"; "self-control" ↔ "executive functions"
+- **Kenya TVET Values and Life Skills (VaLI) Framework** (28 matches) — e.g. "self-control" ↔ "self-management"; "self-control" ↔ "resilience"
+- **The PRACTICE Model** (24 matches) — e.g. "self-control" ↔ "control"; "self-control" ↔ "control"
+- **Employability Skills** (24 matches) — e.g. "self-control" ↔ "demonstrates responsibility and self-discipline"; "higher order thinking skills" ↔ "makes sound decisions"
+- …and 37 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/53/

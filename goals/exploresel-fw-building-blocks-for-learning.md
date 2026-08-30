@@ -106,13 +106,38 @@ relationships: []
 Building Blocks for Learning is a framework for comprehensive student development created by Turnaround for Children, a nonprofit that helps accelerate student development and academic achievement in schools facing adversity. The framework focuses on the inter- and intrapersonal skills and mindsets children need to succeed in school, college, and life.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 83 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 974 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+83 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| academic tenacity | Values; Performance Values; Follows through on commitments; Tries one’s best in challenging situations or in spite of difficulty, delay, or boredom (e.g., perseveres, does not easily give up); Remains on task and committed to goals in the face of distractions or temptations (e.g., completes homework before watching TV); is disciplined in the face of temptation |
+| agency | Identity; Self-Efficacy/Growth Mindset; Belief that one has a choice (agency) |
+| attachment | Values; Ethical Values; Expresses care/shows consideration for the feelings of others (e.g., sympathy, compassion) |
+| civic identity | Values; Civic Values; Understands one’s connection and responsibility to family, classroom, school community, neighborhood, country, and world; understands the value of civic responsibility |
+| curiosity | Values; Intellectual Values; Expresses an eagerness to know and learn new things (e.g., is curious) |
+| executive functions | Cognitive; Attention Control; Sustains attention by focusing on task at hand; Working Memory and Planning Skills; Inhibitory Control; Inhibits inappropriate responses (e.g. raising hand instead of shouting out answer) (+4 more) |
+| growth mindset | Identity; Self-Efficacy/Growth Mindset; Believes that intellectual abilities and personality traits are qualities that can be developed and improved |
+| self-efficacy | Identity; Self-Efficacy/Growth Mindset; Expresses confidence in oneself and one’s ability to improve or succeed |
+| sense of belonging | Identity; Self-Esteem; Feels a sense of belonging; feels valued by others in the community |
+| relevance of school | Values; Intellectual Values |
+| relationship skills | Social; Conflict Resolution/Social Problem Solving; Faces conflicts and deals with them in constructive ways (e.g., win-win, compromising) (including situations involving characters); Prosocial/Cooperative Behavior; Effectively enters and engages in a variety of social situations; Stands one’s ground when another child tries to pressure him or her (+8 more) |
+| resilience | Values; Intellectual Values; Expresses an eagerness to know and learn new things (e.g., is curious) |
+| self-regulation | Cognitive; Attention Control; Sustains attention by focusing on task at hand; Emotion; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions) |
+| self-awareness | Emotion; Emotional Knowledge and Expression; Identifies emotions in self or others; Differentiates between feelings and behaviors (e.g., I feel angry vs. I feel like hitting you); Perspectives; Optimism (+4 more) |
+| social awareness | Emotion; Empathy/Perspective Taking; Identifies and acknowledges the experiences, feelings, and viewpoints of others (including characters); Social; Prosocial/Cooperative Behavior; Follows classroom/institution/society rules and expectations (norms, directions) and exhibits appropriate behavior for context |
+| stress management | Values; Performance Values; Tries one’s best in challenging situations or in spite of difficulty, delay, or boredom (e.g., perseveres, does not easily give up) |
+| self-direction | Cognitive; Working Memory and Planning Skills; Engages in goal-directed behavior independently and when instructed (i.e. acting to achieve a goal) |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 42 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **ACT Holistic Framework** (57 matches) — e.g. "academic tenacity" ↔ "persistence"; "academic tenacity" ↔ "curiosity"
+- **Employability Skills** (50 matches) — e.g. "academic tenacity" ↔ "manages resources"; "academic tenacity" ↔ "solves problems"
+- **Kenya TVET Values and Life Skills (VaLI) Framework** (43 matches) — e.g. "academic tenacity" ↔ "environmental sustainability"; "academic tenacity" ↔ "planning"
+- **Head Start** (41 matches) — e.g. "academic tenacity" ↔ "child shows interest in and curiosity about the world around them"; "academic tenacity" ↔ "child persists in tasks"
+- **The PRACTICE Model** (40 matches) — e.g. "academic tenacity" ↔ "ethics"; "academic tenacity" ↔ "initiative"
+- **Building Blocks for Learning** (36 matches) — e.g. "academic tenacity" ↔ "stress management"; "academic tenacity" ↔ "stress management"
+- …and 37 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/42/

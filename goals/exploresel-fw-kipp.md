@@ -65,13 +65,28 @@ relationships: []
 The KIPP Character Strengths framework combines the knowledge of teachers and character researchers to outline a set of abilities and attitudes critical to leading an engaged, happy, and successful life. It is used by the Knowledge is Power Program (KIPP), a network of 224 college-preparatory, public charter schools. Pulling from a larger list of 24 widely-accepted character strengths, it focuses on seven that are closely tied to student success and well-being in college and beyond.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 31 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 283 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+31 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| zest | Perspectives; Enthusiasm/Zest; Approaches activities with enthusiasm and excitement |
+| grit | Values; Performance Values; Tries one’s best in challenging situations or in spite of difficulty, delay, or boredom (e.g., perseveres, does not easily give up); Sets one or more tasks/goals and shows motivation or passion to complete them; is determined |
+| optimism | Perspectives; Optimism; Expresses optimism and/or maintains optimistic outlook; Expects good things to happen |
+| self-control | Cognitive; Inhibitory Control; Inhibits inappropriate responses (e.g. raising hand instead of shouting out answer); Values; Performance Values; Remains on task and committed to goals in the face of distractions or temptations (e.g., completes homework before watching TV); is disciplined in the face of temptation |
+| gratitiude | Perspectives; Gratitude; Expresses gratitude and appreciation for good and/or everyday things |
+| social intelligence | Emotion; Empathy/Perspective Taking; Identifies and acknowledges the experiences, feelings, and viewpoints of others (including characters); Identifies the relationship between the behaviors/emotions/situation of one individual and the feelings of another (e.g., Suzy is sad because her mom is sad/sick/crying”); Uses physical gestures or verbal expressions to comfort or provide relief to another person in distress (e.g., hugs, pats, expressing concern, verbal sympathy) |
+| curiosity | Values; Intellectual Values; Expresses an eagerness to know and learn new things (e.g., is curious); Perspectives; Openness; Receptive to new and unfamiliar ideas, feelings, and experiences |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 41 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **ACT Holistic Framework** (23 matches) — e.g. "grit" ↔ "curiosity"; "grit" ↔ "search behaviors"
+- **Habits of Mind** (22 matches) — e.g. "grit" ↔ "taking responsible risks"; "grit" ↔ "persisting"
+- **Building Blocks for Learning** (20 matches) — e.g. "grit" ↔ "stress management"; "grit" ↔ "academic tenacity"
+- **Character Lab** (16 matches) — e.g. "zest" ↔ "zest"; "zest" ↔ "zest"
+- **Employability Skills** (14 matches) — e.g. "grit" ↔ "manages resources"; "grit" ↔ "solves problems"
+- **OECD** (13 matches) — e.g. "zest" ↔ "energy"; "grit" ↔ "achievement orientation"
+- …and 36 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/37/

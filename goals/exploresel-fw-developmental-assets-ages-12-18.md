@@ -210,13 +210,44 @@ relationships:
 The Developmental Assets Framework is a positive youth development framework created by Search Institute, a non-profit organization that researches and works to strengthen the qualities and supports youth need to succeed. The framework focuses on a set of internal (social-emotional strengths, values, and commitments) and external (relationships and opportunities) assets that influence young people’s development and support them to become caring, responsible, and productive adults.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 147 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 189 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+147 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| internal assets | Values; Performance Values; Intellectual Values; Displays a love of learning (e.g., is enthusiastic about and actively engaged in learning); Ethical Values; Expresses care/shows consideration for the feelings of others (e.g., sympathy, compassion) (+30 more) |
+| commitment to learning | Values; Performance Values; Intellectual Values; Displays a love of learning (e.g., is enthusiastic about and actively engaged in learning); Ethical Values; Expresses care/shows consideration for the feelings of others (e.g., sympathy, compassion) (+2 more) |
+| achievement motivation | Values; Performance Values |
+| school engagement | Values; Intellectual Values; Displays a love of learning (e.g., is enthusiastic about and actively engaged in learning) |
+| bonding to school | Values; Ethical Values; Expresses care/shows consideration for the feelings of others (e.g., sympathy, compassion); Civic Values; Understands one’s connection and responsibility to family, classroom, school community, neighborhood, country, and world; understands the value of civic responsibility |
+| positive values | Values; Ethical Values; Civic Values; Strives to help others to make their community and/or world a better place (e.g., through community service); Is aware of and works to correct unfairness/promote social justice in school, community, and the world; Conducts self with honesty and integrity (e.g., tells the truth, admits wrong-doing, doesn’t cheat or steal) (+6 more) |
+| caring | Values; Ethical Values; Civic Values; Strives to help others to make their community and/or world a better place (e.g., through community service) |
+| equality and social justice | Values; Civic Values; Is aware of and works to correct unfairness/promote social justice in school, community, and the world |
+| integrity | Values; Ethical Values; Conducts self with honesty and integrity (e.g., tells the truth, admits wrong-doing, doesn’t cheat or steal); Does the right thing in the face of difficulty (e.g., follows conscience instead of the crowd, stands up for one’s beliefs, demonstrates courage) |
+| honesty | Values; Ethical Values; Conducts self with honesty and integrity (e.g., tells the truth, admits wrong-doing, doesn’t cheat or steal) |
+| responsibility | Values; Ethical Values; Accepts responsibility for one’s words, actions, and attitudes |
+| restraint | Values; Ethical Values; Resists temptation (e.g., recognizes and avoids unsafe, unhealthy, dangerous, or undesirable situations); Identity; Self-Esteem; Understands the effects of risk behaviors (e.g., drugs, alcohol, tobacco, sex, etc.) on their body and uses that information to make responsible choices |
+| social competencies | Cognitive; Working Memory and Planning Skills; Uses strategies to make a plan (independently or under the direction of a teacher); Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution); Values (+13 more) |
+| planning and decision making | Cognitive; Working Memory and Planning Skills; Uses strategies to make a plan (independently or under the direction of a teacher); Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution); Values (+2 more) |
+| interpersonal competence | Emotion; Empathy/Perspective Taking; Social; Prosocial/Cooperative Behavior; Understands the actions and behaviors that foster friendship (e.g., understands what a friend is and how to make and sustain them) |
+| cultural competence | Values; Ethical Values; Believes it is important to be tolerant and accepting of differences in others; or celebrates/appreciates diversity |
+| resistance skills | Social; Prosocial/Cooperative Behavior; Stands one’s ground when another child tries to pressure him or her; Values; Ethical Values; Resists temptation (e.g., recognizes and avoids unsafe, unhealthy, dangerous, or undesirable situations) |
+| peaceful conflict resolution | Social; Conflict Resolution/Social Problem Solving; Uses strategies to effectively address or solve social dilemmas and conflicts (e.g., talking to an adult, seeking out mediation, peace path, using “I messages,” etc.) |
+| positive identity | Identity; Self-Efficacy/Growth Mindset; Self-Esteem; Purpose; Perspectives; Optimism |
+| personal power | Identity; Self-Efficacy/Growth Mindset |
+| self-esteem | Identity; Self-Esteem |
+| sense of purpose | Identity; Purpose |
+| positive view of personal future | Perspectives; Optimism |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 20 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **Building Blocks for Learning** (23 matches) — e.g. "achievement motivation" ↔ "academic tenacity"; "achievement motivation" ↔ "stress management"
+- **IB Learner Profile** (19 matches) — e.g. "school engagement" ↔ "inquirers"; "bonding to school" ↔ "principled"
+- **The Five Cs Model of Positive Youth Development** (19 matches) — e.g. "bonding to school" ↔ "connection"; "bonding to school" ↔ "caring/compassion"
+- **Big Five Personality Traits** (14 matches) — e.g. "achievement motivation" ↔ "conscientiousness"; "school engagement" ↔ "openness to experience"
+- **EDC Work Ready Now! Framework** (13 matches) — e.g. "achievement motivation" ↔ "work habits and conduct"; "bonding to school" ↔ "worker and employer rights and responsibilities"
+- **Kenya BECF Core Competencies for Basic Education** (13 matches) — e.g. "bonding to school" ↔ "citizenship"; "bonding to school" ↔ "digital literacy"
+- …and 14 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/84/

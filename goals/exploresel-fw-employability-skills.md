@@ -406,13 +406,68 @@ relationships:
 The Employability Skills Framework was compiled by the Office of Career, Technical, and Adult Education (OCTAE) at the U.S. Department of Education to outline the personal and interpersonal skills necessary for success in all sectors of the labor market. It focuses on leveraging and connecting the efforts of policymakers, educators, and employers to prepare young people and adults for successful careers.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 333 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 458 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+333 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| applied knowledge | Cognitive; Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution); Cognitive Flexibility; Generates and updates hypotheses (e.g., consequential thinking: “if X, then Y”); Plans processes needed to solve a problem (+12 more) |
+| applied academic skills | Cognitive; Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution); Cognitive Flexibility; Generates and updates hypotheses (e.g., consequential thinking: “if X, then Y”); Plans processes needed to solve a problem |
+| math strategies/procedures | Cognitive; Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution) |
+| scientific principles/procedures | Cognitive; Cognitive Flexibility; Generates and updates hypotheses (e.g., consequential thinking: “if X, then Y”); Critical Thinking; Plans processes needed to solve a problem |
+| critical thinking skills | Values; Intellectual Values; Thinks outside the box; approaches tasks and problems in novel ways (e.g., is creative); Cognitive; Critical Thinking; Employs strategies to analyze information, evidence, and/or arguments (including assessing assumptions, separating fact from opinion, questioning validity, verifying information, and/or listening and observing) (+12 more) |
+| thinks creatively | Values; Intellectual Values; Thinks outside the box; approaches tasks and problems in novel ways (e.g., is creative) |
+| thinks critically | Cognitive; Critical Thinking; Employs strategies to analyze information, evidence, and/or arguments (including assessing assumptions, separating fact from opinion, questioning validity, verifying information, and/or listening and observing) |
+| makes sound decisions | Cognitive; Cognitive Flexibility; Compares and contrasts ideas; Critical Thinking; Evaluates options for solving a problem; Employs problem-solving process to make a decision (code if stress is on selecting a solution) |
+| solves problems | Cognitive; Critical Thinking; Carries out a solution to solve a problem; Values; Performance Values; Identifies and takes advantage of available resources in order to accomplish a goal, sometimes in the context of limited resources |
+| reasons | Cognitive; Cognitive Flexibility; Compares and contrasts ideas; Generates and updates hypotheses (e.g., consequential thinking: “if X, then Y”); Critical Thinking; Utilizes reason to understand, predict, and/or deduce (+1 more) |
+| plans/organizes | Cognitive; Working Memory and Planning Skills; Critical Thinking; Plans processes needed to solve a problem; Values; Performance Values (+1 more) |
+| effective relationships | Social; Prosocial/Cooperative Behavior; Acts respectfully and kindly toward others; Works as a team to achieve a goal (doing something together); Works as a team to remember and summarize information (thinking together); Encourages/supports others/team members (+27 more) |
+| interpersonal skills | Social; Prosocial/Cooperative Behavior; Acts respectfully and kindly toward others; Works as a team to achieve a goal (doing something together); Works as a team to remember and summarize information (thinking together); Encourages/supports others/team members (+7 more) |
+| understands teamwork and works with others | Social; Prosocial/Cooperative Behavior; Acts respectfully and kindly toward others; Works as a team to achieve a goal (doing something together); Works as a team to remember and summarize information (thinking together) |
+| responds to customer needs | Social; Prosocial/Cooperative Behavior; Encourages/supports others/team members; Values; Civic Values; Volunteers to help when needed |
+| exercises leadership | Social; Prosocial/Cooperative Behavior; Participates as an active and successful member of a team/community; Demonstrates leadership in team tasks; Works as a team to achieve a goal (doing something together) |
+| negotiates to resolve conflict | Social; Prosocial/Cooperative Behavior; Helps others to resolve conflicts/disputes |
+| respects individual differences | Social; Prosocial/Cooperative Behavior; Listens attentively to others (e.g.,listening to group members, not talking over others); Acts respectfully and kindly toward others; Works as a team to achieve a goal (doing something together); Works as a team to remember and summarize information (thinking together) |
+| personal qualities | Cognitive; Critical Thinking; Asks and answers questions for clarification; Social; Prosocial/Cooperative Behavior; Works as a team to achieve a goal (doing something together) (+21 more) |
+| demonstrates responsibility and self-discipline | Cognitive; Critical Thinking; Asks and answers questions for clarification; Social; Prosocial/Cooperative Behavior; Works as a team to achieve a goal (doing something together) (+4 more) |
+| adapts and shows flexibility | Cognitive; Cognitive Flexibility; Easily transitions to new tasks |
+| works independently | Cognitive; Working Memory and Planning Skills; Engages in goal-directed behavior independently and when instructed (i.e. acting to achieve a goal) |
+| demonstrates a willingness to learn | Values; Intellectual Values; Displays a love of learning (e.g., is enthusiastic about and actively engaged in learning) |
+| demonstrates integrity | Values; Ethical Values |
+| demonstrates professionalism | Social; Prosocial/Cooperative Behavior; Acts respectfully and kindly toward others |
+| takes initiative | Social; Prosocial/Cooperative Behavior; Completes one’s responsibilities within a team in a timely manner (code only if responsibility within a team is explicit, not regular teamwork) |
+| displays a positive attitude and sense of self-worth | Social; Prosocial/Cooperative Behavior; Participates as an active and successful member of a team/community; Perspectives; Optimism; Identity (+1 more) |
+| takes responsibility for professional growth | Cognitive; Critical Thinking; Asks and answers questions for clarification; Emotion; Empathy/Perspective Taking; Uses active interpersonal listening strategies to elicit and understand the feelings and opinions of others (e.g., asking probing questions, making eye contact, paraphrasing and reflecting, nodding, and leaning forward) |
+| workplace skills | Social; Prosocial/Cooperative Behavior; Completes one’s responsibilities within a team in a timely manner (code only if responsibility within a team is explicit, not regular teamwork); Values; Performance Values; Demonstrates good organizational skills (e.g., plans ahead, manages time wisely, arrives to class prepared, etc.) (+18 more) |
+| resource management | Social; Prosocial/Cooperative Behavior; Completes one’s responsibilities within a team in a timely manner (code only if responsibility within a team is explicit, not regular teamwork); Values; Performance Values; Demonstrates good organizational skills (e.g., plans ahead, manages time wisely, arrives to class prepared, etc.) (+2 more) |
+| manages time | Social; Prosocial/Cooperative Behavior; Completes one’s responsibilities within a team in a timely manner (code only if responsibility within a team is explicit, not regular teamwork); Values; Performance Values; Demonstrates good organizational skills (e.g., plans ahead, manages time wisely, arrives to class prepared, etc.) |
+| manages resources | Values; Performance Values; Identifies and takes advantage of available resources in order to accomplish a goal, sometimes in the context of limited resources |
+| manages personnel | Social; Prosocial/Cooperative Behavior; Completes one’s responsibilities within a team in a timely manner (code only if responsibility within a team is explicit, not regular teamwork); Demonstrates leadership in team tasks |
+| information use | Cognitive; Critical Thinking; Employs strategies to analyze information, evidence, and/or arguments (including assessing assumptions, separating fact from opinion, questioning validity, verifying information, and/or listening and observing); Values; Performance Values; Identifies and takes advantage of available resources in order to accomplish a goal, sometimes in the context of limited resources (+5 more) |
+| locates | Cognitive; Critical Thinking; Employs strategies to analyze information, evidence, and/or arguments (including assessing assumptions, separating fact from opinion, questioning validity, verifying information, and/or listening and observing); Values; Performance Values; Identifies and takes advantage of available resources in order to accomplish a goal, sometimes in the context of limited resources |
+| organizes | Cognitive; Critical Thinking |
+| uses | Cognitive; Critical Thinking |
+| analyzes | Cognitive; Cognitive Flexibility; Downplays less relevant information when solving problems; Critical Thinking; Employs strategies to analyze information, evidence, and/or arguments (including assessing assumptions, separating fact from opinion, questioning validity, verifying information, and/or listening and observing) |
+| communicates | Social; Prosocial/Cooperative Behavior; Effectively communicates ideas, stories, and information to others |
+| communication skills | Social; Prosocial/Cooperative Behavior; Effectively communicates ideas, stories, and information to others; Listens attentively to others (e.g.,listening to group members, not talking over others); Emotion; Empathy/Perspective Taking (+2 more) |
+| communicates verbally | Social; Prosocial/Cooperative Behavior; Effectively communicates ideas, stories, and information to others |
+| listens actively | Social; Prosocial/Cooperative Behavior; Listens attentively to others (e.g.,listening to group members, not talking over others) |
+| observes carefully | Emotion; Empathy/Perspective Taking; Social; Understanding Social Cues; Accurately interpreting and appropriately responding to others’ social cues such as body language and tone of voice (refers to others, including characters) |
+| systems thinking | Social; Prosocial/Cooperative Behavior; Completes one’s responsibilities within a team in a timely manner (code only if responsibility within a team is explicit, not regular teamwork); Works as a team to achieve a goal (doing something together); Cognitive; Critical Thinking (+4 more) |
+| understands and uses systems | Social; Prosocial/Cooperative Behavior; Completes one’s responsibilities within a team in a timely manner (code only if responsibility within a team is explicit, not regular teamwork); Works as a team to achieve a goal (doing something together) |
+| monitors systems | Cognitive; Critical Thinking; Monitors progress in solving a problem |
+| improves systems | Perspectives; Openness; Adapts willingly and easily to change, both positive and negative |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 20 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **Habits of Mind** (79 matches) — e.g. "math strategies/procedures" ↔ "managing impulsivity"; "math strategies/procedures" ↔ "questioning and positing problems"
+- **Building Blocks for Learning** (50 matches) — e.g. "math strategies/procedures" ↔ "executive functions"; "scientific principles/procedures" ↔ "executive functions"
+- **The Five Cs Model of Positive Youth Development** (34 matches) — e.g. "math strategies/procedures" ↔ "competence"; "makes sound decisions" ↔ "competence"
+- **Preparing Youth to Thrive** (30 matches) — e.g. "scientific principles/procedures" ↔ "problem solving"; "thinks critically" ↔ "problem solving"
+- **IB Learner Profile** (29 matches) — e.g. "math strategies/procedures" ↔ "knowledgeable"; "thinks creatively" ↔ "thinkers"
+- **USAID YouthPower Action Key Soft Skills for Cross-Sectoral Youth Outcomes** (24 matches) — e.g. "math strategies/procedures" ↔ "higher order thinking skills"; "thinks critically" ↔ "higher order thinking skills"
+- …and 14 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/35/

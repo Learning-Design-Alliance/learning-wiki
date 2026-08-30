@@ -65,13 +65,27 @@ relationships: []
 The Foundations for Young Adult Success is a framework that outlines a set of developmental factors integral to success in young adulthood. It was developed by UChicago Consortium on School Research, a research organization focused on student success and school improvement. The framework focuses on the knowledge, skills, behaviors, and attitudes young people need to succeed in college and career, have healthy relationships, be engaged citizens, and make wise choices.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 98 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 482 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+98 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| agency | Cognitive; Working Memory and Planning Skills; Uses strategies to make a plan (independently or under the direction of a teacher); Carries out complex tasks (e.g., completing multi-step tasks, thinking through options and choosing one, etc.); Sets goals (differs from acting to achieve a goal); Critical Thinking (+20 more) |
+| integrated identity | Social; Prosocial/Cooperative Behavior; Effectively enters and engages in a variety of social situations; Values; Ethical Values; Constructs and/or expresses opinions about right and wrong (e.g., makes ethical judgements) (+8 more) |
+| self-regulation | Cognitive; Attention Control; Sustains attention by focusing on task at hand; Working Memory and Planning Skills; Carries out complex tasks (e.g., completing multi-step tasks, thinking through options and choosing one, etc.); Engages in goal-directed behavior independently and when instructed (i.e. acting to achieve a goal) (+26 more) |
+| knowledge and skills | Social; Prosocial/Cooperative Behavior; Effectively enters and engages in a variety of social situations; Follows classroom/institution/society rules and expectations (norms, directions) and exhibits appropriate behavior for context |
+| mindsets | Values; Intellectual Values; Seeks out new information and learns new skills on one’s own; Perspectives; Openness; Adapts willingly and easily to change, both positive and negative (+6 more) |
+| values | Values; Ethical Values; Constructs and/or expresses opinions about right and wrong (e.g., makes ethical judgements); Weighs options and considers consequences to make ethical decisions; Civic Values; Understands one’s connection and responsibility to family, classroom, school community, neighborhood, country, and world; understands the value of civic responsibility (+4 more) |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 42 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **Habits of Mind** (42 matches) — e.g. "agency" ↔ "creating, imagining, and innovating"; "agency" ↔ "responding with wonderment and awe"
+- **Kenya BECF Core Competencies for Basic Education** (24 matches) — e.g. "agency" ↔ "critical thinking and problem solving"; "agency" ↔ "learning to learn"
+- **The PRACTICE Model** (24 matches) — e.g. "agency" ↔ "achievement motivation"; "agency" ↔ "resilience"
+- **ACT Holistic Framework** (23 matches) — e.g. "agency" ↔ "goal striving"; "integrated identity" ↔ "goals"
+- **21st Century Learning** (21 matches) — e.g. "agency" ↔ "work creatively with others"; "agency" ↔ "be self-directed learners"
+- **Kenya TVET Values and Life Skills (VaLI) Framework** (21 matches) — e.g. "agency" ↔ "intrapreneurship"; "agency" ↔ "resilience"
+- …and 37 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/2/

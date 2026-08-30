@@ -10,6 +10,8 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 
 ## 2026-08-30
 
+* **Edit**: `goal-map batch: resolved alignment rendering` — goals/exploresel-taxonomy.md gained a Framework Coverage table (per domain/subdomain: mapped-term counts + top contributing frameworks) and each goals/exploresel-fw-*.md gained resolved Taxonomy Alignment and Similar Competencies sections (grouped/capped, sourced from the crosswalk/similarity ndjson), replacing the earlier grep-yourself placeholder text
+* **Ingest**: [goals/exploresel-entrepreneurship-search-fragment.md](goals/exploresel-entrepreneurship-search-fragment.md) — separate, smaller ExploreSEL-adjacent scrape (13 unresolved entrepreneurship-competency anchors + 152 matched U.S. state CTE competencies, no edge data); kept explicitly unresolved rather than forced into the goal-map nodes/relationships shape; data in goals/data/exploresel-entrepreneurship-search-fragment.ndjson
 * **Ingest**: `goal-map batch from ExploreSEL/EASEL graph export` — [goals/exploresel-taxonomy.md](goals/exploresel-taxonomy.md) (206-node full-depth taxonomy) + 43 framework goal-map pages (goals/exploresel-fw-*.md); cross-framework alignment data kept separate as goals/data/exploresel-framework-taxonomy-crosswalk.ndjson (6506 edges) and goals/data/exploresel-cross-framework-similarity.ndjson (8136 edges) — see sources/manifest.ndjson id=exploresel-graph-export-2026-08-30
 
 ## 2026-08-29

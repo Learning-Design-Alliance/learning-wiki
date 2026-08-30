@@ -155,13 +155,39 @@ relationships:
 The Framework for 21st Century Competencies (21CC) and Student Outcomes is a 21st century skills framework developed by the Singapore Ministry of Education (MOE). The framework focuses on core values, social and emotional skills, and 21st century competencies that underpin the holistic education necessary to successfully prepare students to thrive in an increasingly globalized world. Together, they help Singaporean students achieve the Desired Outcomes of Education for Singapore: to become confident persons, self-directed learners, active contributors, and concerned citizens. The 21CC framework is intended to guide 21st century skill development across all subject areas included in Singapore's national curriculum.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 172 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 236 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+172 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| core values | Values; Ethical Values; Understands the importance of treating others with courtesy (e.g., polite, respectful, demonstrates good sportsmanship); Understanding and respecting the intrinsic worth and rights of all people (e.g., belief in human rights/human dignity, equality, etc.); Identity; Self-Esteem (+21 more) |
+| respect | Values; Ethical Values; Understands the importance of treating others with courtesy (e.g., polite, respectful, demonstrates good sportsmanship); Understanding and respecting the intrinsic worth and rights of all people (e.g., belief in human rights/human dignity, equality, etc.); Identity; Self-Esteem |
+| harmony | Values; Ethical Values; Believes it is important to be tolerant and accepting of differences in others; or celebrates/appreciates diversity |
+| resilience | Cognitive; Critical Thinking; Demonstrates motivation and/or dispositions conducive to critical thinking (including open-mindedness, fair-mindedness, inquisitiveness, flexibility, and/or respect for others’ viewpoints); Emotion; Emotional and Behavioral Regulation; Values (+8 more) |
+| responsibility | Values; Performance Values; Follows through on commitments; Civic Values; Understands one’s connection and responsibility to family, classroom, school community, neighborhood, country, and world; understands the value of civic responsibility |
+| integrity | Values; Ethical Values; Does the right thing in the face of difficulty (e.g., follows conscience instead of the crowd, stands up for one’s beliefs, demonstrates courage) |
+| care | Social; Prosocial/Cooperative Behavior; Acts respectfully and kindly toward others; Values; Ethical Values; Expresses care/shows consideration for the feelings of others (e.g., sympathy, compassion) (+2 more) |
+| social and emotional competencies | Emotion; Emotional Knowledge and Expression; Identifies emotions in self or others; Identity; Self-Knowledge; Recognizes and understands one’s own strengths and weaknesses (+25 more) |
+| self-awareness | Emotion; Emotional Knowledge and Expression; Identifies emotions in self or others; Identity; Self-Knowledge; Recognizes and understands one’s own strengths and weaknesses (+2 more) |
+| self-management | Cognitive; Working Memory and Planning Skills; Sets goals (differs from acting to achieve a goal); Emotion; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions) (+3 more) |
+| responsible decision making | Cognitive; Cognitive Flexibility; Generates and updates hypotheses (e.g., consequential thinking: “if X, then Y”); Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution); Values (+2 more) |
+| relationship management | Social; Conflict Resolution/Social Problem Solving; Prosocial/Cooperative Behavior; Effectively communicates ideas, stories, and information to others; Builds and maintains positive relationships |
+| social awareness | Emotion; Empathy/Perspective Taking; Makes connections (compare and contrast) between self and other (including characters) (e.g., offers examples of times when one had similar emotions or experiences); Social; Prosocial/Cooperative Behavior; Acts respectfully and kindly toward others (+3 more) |
+| civic literacy, global awareness, and cross-cultural skills | Values; Civic Values; Understands one’s connection and responsibility to family, classroom, school community, neighborhood, country, and world; understands the value of civic responsibility; Strives to help others to make their community and/or world a better place (e.g., through community service); Cognitive; Critical Thinking (+9 more) |
+| active community life | Values; Civic Values; Understands one’s connection and responsibility to family, classroom, school community, neighborhood, country, and world; understands the value of civic responsibility; Strives to help others to make their community and/or world a better place (e.g., through community service) |
+| global awareness | Cognitive; Critical Thinking; Values; Civic Values |
+| national and cultural identity | Values; Civic Values; Understands one’s connection and responsibility to family, classroom, school community, neighborhood, country, and world; understands the value of civic responsibility; Expresses love of and loyalty to the things that are good about one’s country (e.g., patriotic) |
+| socio-cultural sensitivity and awareness | Emotion; Empathy/Perspective Taking; Social; Prosocial/Cooperative Behavior; Participates as an active and successful member of a team/community; Values (+3 more) |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 20 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **IB Learner Profile** (25 matches) — e.g. "respect" ↔ "principled"; "harmony" ↔ "principled"
+- **Habits of Mind** (23 matches) — e.g. "resilience" ↔ "persisting"; "resilience" ↔ "creating, imagining, and innovating"
+- **The Five Cs Model of Positive Youth Development** (19 matches) — e.g. "harmony" ↔ "character"; "harmony" ↔ "caring/compassion"
+- **Building Blocks for Learning** (18 matches) — e.g. "respect" ↔ "attachment"; "respect" ↔ "sense of belonging"
+- **Kenya BECF Core Competencies for Basic Education** (17 matches) — e.g. "respect" ↔ "citizenship"; "respect" ↔ "digital literacy"
+- **EU NESET Framework for Social and Emotional Education** (15 matches) — e.g. "respect" ↔ "social awareness"; "harmony" ↔ "social awareness"
+- …and 14 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/56/

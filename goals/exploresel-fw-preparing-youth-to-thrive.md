@@ -78,13 +78,27 @@ Preparing Youth to Thrive: Promising Practices for Social and Emotional Learning
 expanded learning systems and settings, and SCE is a national foundation dedicated to shaping an ecosystem of anytime, anywhere learning that prepares youth with the 21st century skills to thrive in a highly connected and rapidly changing world. The framework focuses on six domains of SEL practice and skill, and unlike most other frameworks, frames those domains around the youth experiences and adult practices that facilitate skill development in those areas as opposed to describing individual youth skills or outcomes.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 35 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 493 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+35 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| emotion management | Emotion; Emotional Knowledge and Expression; Identifies emotions in self or others; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions) |
+| empathy | Emotion; Empathy/Perspective Taking; Identifies and acknowledges the experiences, feelings, and viewpoints of others (including characters); Makes connections (compare and contrast) between self and other (including characters) (e.g., offers examples of times when one had similar emotions or experiences); Values; Ethical Values (+4 more) |
+| teamwork | Social; Prosocial/Cooperative Behavior; Works as a team to achieve a goal (doing something together) |
+| responsibility | Values; Performance Values; Follows through on commitments; Tries one’s best in challenging situations or in spite of difficulty, delay, or boredom (e.g., perseveres, does not easily give up) |
+| initiative | Values; Performance Values; Tries one’s best in challenging situations or in spite of difficulty, delay, or boredom (e.g., perseveres, does not easily give up); Sets one or more tasks/goals and shows motivation or passion to complete them; is determined |
+| problem solving | Cognitive; Working Memory and Planning Skills; Carries out complex tasks (e.g., completing multi-step tasks, thinking through options and choosing one, etc.); Critical Thinking; Plans processes needed to solve a problem; Employs strategies to analyze information, evidence, and/or arguments (including assessing assumptions, separating fact from opinion, questioning validity, verifying information, and/or listening and observing) (+3 more) |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 42 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **ACT Holistic Framework** (33 matches) — e.g. "emotion management" ↔ "stress tolerance"; "emotion management" ↔ "patience"
+- **Employability Skills** (30 matches) — e.g. "teamwork" ↔ "understands and uses systems"; "teamwork" ↔ "understands teamwork and works with others"
+- **Kenya TVET Values and Life Skills (VaLI) Framework** (26 matches) — e.g. "emotion management" ↔ "stress management"; "empathy" ↔ "unifying global diversity"
+- **Habits of Mind** (24 matches) — e.g. "empathy" ↔ "gathering data through all senses"; "empathy" ↔ "thinking interdependently"
+- **Head Start** (23 matches) — e.g. "emotion management" ↔ "child expresses a broad range of emotions and recognizes these emotions in self and others"; "emotion management" ↔ "child manages emotions with increasing independence"
+- **21st Century Learning** (23 matches) — e.g. "empathy" ↔ "work effectively in diverse teams"; "empathy" ↔ "analyze media"
+- …and 37 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/69/

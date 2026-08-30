@@ -475,13 +475,76 @@ relationships:
 The ACT Holistic Framework of Education and Work Readiness is a holistic model of education and work readiness developed by ACT, Inc., the non-profit behind the ACT college admissions test. The framework is multidimensional, including both traditional academic predictors of college and career readiness as well as broader non-cognitive behaviors and skills. It is focused on the skills required for academic and workplace success and designed to articulate what students need to know and be able to do at various points in their lives, from kindergarten through their careers.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 367 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 466 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+367 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| core academic skills | Cognitive; Critical Thinking; Utilizes reason to understand, predict, and/or deduce |
+| science | Cognitive; Critical Thinking; Utilizes reason to understand, predict, and/or deduce |
+| cross-cutting capabilities | Cognitive; Critical Thinking; Employs strategies to analyze information, evidence, and/or arguments (including assessing assumptions, separating fact from opinion, questioning validity, verifying information, and/or listening and observing); Social; Prosocial/Cooperative Behavior; Works as a team to achieve a goal (doing something together) (+3 more) |
+| collaborative problem solving | Cognitive; Critical Thinking; Employs strategies to analyze information, evidence, and/or arguments (including assessing assumptions, separating fact from opinion, questioning validity, verifying information, and/or listening and observing); Social; Prosocial/Cooperative Behavior; Works as a team to achieve a goal (doing something together) |
+| studying and learning | Cognitive; Working Memory and Planning Skills; Uses strategies to remember and follow complex (e.g., two- and three-part) commands(e.g. repeating directions out loud or in head, making a list, periodically consulting the directions, etc.) |
+| thinking and metacognition | Cognitive; Critical Thinking; Monitors the quality of their thought (e.g. reflection or metacognition) |
+| behavioral skills | Values; Ethical Values; Constructs and/or expresses opinions about right and wrong (e.g., makes ethical judgements); Intellectual Values; Expresses an eagerness to know and learn new things (e.g., is curious); Perspectives (+53 more) |
+| acting honestly | Values; Ethical Values; Conducts self with honesty and integrity (e.g., tells the truth, admits wrong-doing, doesn’t cheat or steal); Performance Values; Shows a willingness to learn from one’s mistakes; Social (+6 more) |
+| genuineness | Values; Ethical Values; Conducts self with honesty and integrity (e.g., tells the truth, admits wrong-doing, doesn’t cheat or steal); Performance Values; Shows a willingness to learn from one’s mistakes |
+| fairness | Social; Prosocial/Cooperative Behavior; Values; Civic Values; Is aware of and works to correct unfairness/promote social justice in school, community, and the world |
+| modesty | Identity; Self-Knowledge; Honest about what you know and don't know |
+| keeping an open mind | Values; Intellectual Values; Thinks outside the box; approaches tasks and problems in novel ways (e.g., is creative); Performance Values; Tries one’s best in challenging situations or in spite of difficulty, delay, or boredom (e.g., perseveres, does not easily give up); Perspectives (+5 more) |
+| creativity | Values; Intellectual Values; Thinks outside the box; approaches tasks and problems in novel ways (e.g., is creative) |
+| curiosity | Values; Performance Values; Tries one’s best in challenging situations or in spite of difficulty, delay, or boredom (e.g., perseveres, does not easily give up) |
+| flexibility | Perspectives; Openness; Adapts willingly and easily to change, both positive and negative |
+| accepting differences | Values; Ethical Values; Believes it is important to be tolerant and accepting of differences in others; or celebrates/appreciates diversity; Perspectives; Openness; Receptive to new and unfamiliar ideas, feelings, and experiences |
+| maintaining composure | Emotion; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions); Cognitive; Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution) (+3 more) |
+| stress tolerance | Emotion; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions) |
+| self-confidence | Cognitive; Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution); Identity; Self-Efficacy/Growth Mindset; Expresses confidence in oneself and one’s ability to improve or succeed |
+| socializing with others | Social; Prosocial/Cooperative Behavior; Demonstrates leadership in team tasks; Perspectives; Optimism; Expresses optimism and/or maintains optimistic outlook (+2 more) |
+| assertiveness | Social; Prosocial/Cooperative Behavior; Demonstrates leadership in team tasks |
+| optimism | Perspectives; Optimism; Expresses optimism and/or maintains optimistic outlook |
+| sociability | Social; Prosocial/Cooperative Behavior; Effectively enters and engages in a variety of social situations; Builds and maintains positive relationships |
+| getting along with others | Social; Conflict Resolution/Social Problem Solving; Faces conflicts and deals with them in constructive ways (e.g., win-win, compromising) (including situations involving characters); Values; Ethical Values; Understands the importance of treating others with courtesy (e.g., polite, respectful, demonstrates good sportsmanship) (+13 more) |
+| cooperation | Social; Conflict Resolution/Social Problem Solving; Faces conflicts and deals with them in constructive ways (e.g., win-win, compromising) (including situations involving characters); Values; Ethical Values; Understands the importance of treating others with courtesy (e.g., polite, respectful, demonstrates good sportsmanship) |
+| perspective taking | Emotion; Emotional Knowledge and Expression; Identifies emotions in self or others; Empathy/Perspective Taking; Identifies and acknowledges the experiences, feelings, and viewpoints of others (including characters) |
+| goodwill | Social; Understanding Social Cues; Identifies motivations and intentions of others (including when others’ actions are accidental or purposeful/hostile); Values; Ethical Values; Understands the importance of accepting and/or forgiving the shortcomings of others (e.g., is patient, forgiving) |
+| helpfulness | Values; Civic Values; Is willing to make personal sacrifices for friends, family, and country; Volunteers to help when needed |
+| patience | Emotion; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions) |
+| sustaining effort | Values; Performance Values; Follows through on commitments; Demonstrates good organizational skills (e.g., plans ahead, manages time wisely, arrives to class prepared, etc.); Tries one’s best in challenging situations or in spite of difficulty, delay, or boredom (e.g., perseveres, does not easily give up); Social (+12 more) |
+| dependability | Values; Performance Values; Follows through on commitments; Demonstrates good organizational skills (e.g., plans ahead, manages time wisely, arrives to class prepared, etc.) |
+| order | Values; Performance Values; Demonstrates good organizational skills (e.g., plans ahead, manages time wisely, arrives to class prepared, etc.) |
+| persistence | Values; Performance Values; Follows through on commitments; Tries one’s best in challenging situations or in spite of difficulty, delay, or boredom (e.g., perseveres, does not easily give up) |
+| rule consciousness | Social; Prosocial/Cooperative Behavior; Follows classroom/institution/society rules and expectations (norms, directions) and exhibits appropriate behavior for context |
+| goal striving | Cognitive; Working Memory and Planning Skills; Sets goals (differs from acting to achieve a goal); Values; Sets one or more tasks/goals and shows motivation or passion to complete them; is determined; Intellectual Values (+1 more) |
+| self-control | Cognitive; Inhibitory Control; Inhibits inappropriate responses (e.g. raising hand instead of shouting out answer); Values; Ethical Values; Weighs options and considers consequences to make ethical decisions |
+| education and career navigation skills | Identity; Self-Knowledge; Identifies and understands personality/character traits; Identifies and understands one’s interests and preferences; Develop and maintain a coherent sense of self and roles over time; Purpose (+14 more) |
+| self-knowledge | Identity; Self-Knowledge; Develop and maintain a coherent sense of self and roles over time; Purpose; Imagines the future; formulates life goals and ways to pursue them; Self-Efficacy/Growth Mindset |
+| awareness | Identity; Self-Knowledge; Develop and maintain a coherent sense of self and roles over time |
+| personal attributes | Identity; Self-Knowledge; Develop and maintain a coherent sense of self and roles over time |
+| expectations | Identity; Purpose; Imagines the future; formulates life goals and ways to pursue them |
+| self-efficacies | Identity; Self-Efficacy/Growth Mindset |
+| integration | Identity; Self-Knowledge; Identifies and understands personality/character traits; Develop and maintain a coherent sense of self and roles over time; Identifies and understands one’s interests and preferences; Purpose (+9 more) |
+| identity formation | Identity; Self-Knowledge; Identifies and understands personality/character traits; Develop and maintain a coherent sense of self and roles over time |
+| exploration | Identity; Self-Knowledge; Identifies and understands one’s interests and preferences |
+| goals | Identity; Purpose; Considers existential questions (e.g., what is the purpose of my life, what is my life passion, what is happiness, what is my place in the world, etc.); Imagines the future; formulates life goals and ways to pursue them |
+| career and education decision making | Cognitive; Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution) |
+| congruence (fit) | Identity; Self-Knowledge; Identifies and understands personality/character traits; Develop and maintain a coherent sense of self and roles over time |
+| action planning | Values; Performance Values; Sets one or more tasks/goals and shows motivation or passion to complete them; is determined; Demonstrates good organizational skills (e.g., plans ahead, manages time wisely, arrives to class prepared, etc.) |
+| managing career and education actions | Identity; Self-Knowledge; Develop and maintain a coherent sense of self and roles over time; Values; Performance Values; Sets one or more tasks/goals and shows motivation or passion to complete them; is determined (+7 more) |
+| relational behaviors | Identity; Self-Knowledge; Develop and maintain a coherent sense of self and roles over time |
+| roles | Identity; Self-Knowledge; Develop and maintain a coherent sense of self and roles over time |
+| search behaviors | Values; Performance Values; Sets one or more tasks/goals and shows motivation or passion to complete them; is determined |
+| implementation | Cognitive; Critical Thinking; Monitors progress in solving a problem; Reflects on past thoughts and actions; Values; Performance Values (+1 more) |
+| lifelong learning | Values; Intellectual Values; Seeks out new information and learns new skills on one’s own |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 20 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **Building Blocks for Learning** (57 matches) — e.g. "science" ↔ "executive functions"; "studying and learning" ↔ "executive functions"
+- **Habits of Mind** (43 matches) — e.g. "science" ↔ "managing impulsivity"; "science" ↔ "questioning and positing problems"
+- **USAID YouthPower Action Key Soft Skills for Cross-Sectoral Youth Outcomes** (35 matches) — e.g. "collaborative problem solving" ↔ "higher order thinking skills"; "studying and learning" ↔ "goal orientation"
+- **Preparing Youth to Thrive** (33 matches) — e.g. "collaborative problem solving" ↔ "teamwork"; "collaborative problem solving" ↔ "problem solving"
+- **The PRACTICE Model** (28 matches) — e.g. "collaborative problem solving" ↔ "teamwork"; "genuineness" ↔ "ethics"
+- **EDC Work Ready Now! Framework** (28 matches) — e.g. "collaborative problem solving" ↔ "interpersonal communications"; "collaborative problem solving" ↔ "leadership"
+- …and 14 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/41/

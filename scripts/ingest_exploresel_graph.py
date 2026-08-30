@@ -91,7 +91,7 @@ def write_page(path: Path, frontmatter: dict, body: str):
     path.write_text(f"---\n{fm_text}\n---\n\n{body}", encoding="utf-8")
 
 
-def build_taxonomy_page(nodes_by_id: dict, has_child_internal: list):
+def build_taxonomy_page(nodes_by_id: dict, has_child_internal: list, crosswalk_edges: list):
     taxonomy_ids = [
         nid for nid, n in nodes_by_id.items()
         if n.get("label") in ("Competency", "Skill") and "frameworkName" not in n
@@ -102,6 +102,32 @@ def build_taxonomy_page(nodes_by_id: dict, has_child_internal: list):
         {"source": s, "target": t, "type": "default"}
         for s, t in has_child_internal
     ]
+
+    from collections import Counter, defaultdict
+    child_targets = {t for s, t in has_child_internal}
+    domain_ids = [nid for nid in taxonomy_ids if nid not in child_targets]
+    domain_set = set(domain_ids)
+    subdomain_ids = sorted(
+        {t for s, t in has_child_internal if s in domain_set},
+        key=lambda x: int(x.split("_")[1]),
+    )
+    coverage_ids = domain_ids + subdomain_ids  # 6 domains + 23 subdomains = 29
+
+    inbound_count = Counter()
+    inbound_frameworks = defaultdict(Counter)
+    for s, t in crosswalk_edges:
+        if t in coverage_ids:
+            inbound_count[t] += 1
+            inbound_frameworks[t][nodes_by_id[s]["frameworkName"]] += 1
+
+    parent_of = {t: s for s, t in has_child_internal}
+    coverage_rows = []
+    for nid in coverage_ids:
+        name = nodes_by_id[nid]["name"]
+        indent = "" if nid in domain_set else "&nbsp;&nbsp;"
+        total = inbound_count.get(nid, 0)
+        top = ", ".join(f"{fw} ({c})" for fw, c in inbound_frameworks[nid].most_common(3))
+        coverage_rows.append(f"| {indent}{name} | {total} | {top or '—'} |")
 
     fm = {
         "type": "goal-map",
@@ -126,8 +152,14 @@ def build_taxonomy_page(nodes_by_id: dict, has_child_internal: list):
 ## Description
 Six top-level domains (Cognitive, Emotion, Social, Values, Perspectives, Identity/Self-Image), each with subdomains, each with individual skill/behavior descriptors — a real three-level hierarchy, all `type: default` (hierarchical) relationships.
 
-## What's tracked separately, not embedded here
-Every one of the ~40+ SEL/competency frameworks ExploreSEL catalogs (CASEL, OECD, ACT Holistic Framework, etc.) maps its own competencies onto nodes in this taxonomy — a real crosswalk with roughly 6,500 mapping edges in the source data. That crosswalk is too large and too many-to-many to embed in this page's frontmatter (or any single framework's), so it's kept as a separate dataset: [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson), keyed by the same `term_NNN` ids used as node `id`s here and in each framework's own goal-map page (see `goals/exploresel-fw-*.md`).
+## Framework Coverage
+How many of the 43 ingested frameworks' competencies map onto each domain/subdomain, via the crosswalk data below (subdomains indented under their domain; individual skill-descriptor leaves aren't broken out here — see the raw crosswalk file for those). Counts are competency *terms*, not distinct frameworks, so a framework with many competencies in one area weights that area's count accordingly.
+
+| Domain / Subdomain | Mapped competency terms | Top contributing frameworks |
+|---|---|---|
+{chr(10).join(coverage_rows)}
+
+The full crosswalk (6,506 edges total, including the skill-descriptor leaves omitted from the table above) is too large and too many-to-many to embed per-page, so it's kept as a separate dataset: [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson), keyed by the same `term_NNN` ids used as node `id`s here and in each framework's own goal-map page (see `goals/exploresel-fw-*.md`).
 
 ## Key Sources
 - Jones, S. M., Bailey, R., Brush, K., Kahn, J., et al. (2017). *Navigating Social and Emotional Learning from the Inside Out.* Harvard Graduate School of Education / Wallace Foundation.
@@ -138,8 +170,60 @@ Every one of the ~40+ SEL/competency frameworks ExploreSEL catalogs (CASEL, OECD
     return len(nodes), len(rels)
 
 
+def render_crosswalk_section(term_ids, term_names, crosswalk_by_term, nodes_by_id) -> str:
+    lines = ["| This framework's term | Maps to (ExploreSEL taxonomy) |", "|---|---|"]
+    any_rows = False
+    for tid in term_ids:
+        targets = crosswalk_by_term.get(tid)
+        if not targets:
+            continue
+        any_rows = True
+        names = [nodes_by_id[t]["name"] for t in targets]
+        shown = names[:6]
+        label = "; ".join(shown)
+        if len(names) > 6:
+            label += f" (+{len(names) - 6} more)"
+        lines.append(f"| {term_names[tid]} | {label} |")
+    return "\n".join(lines) if any_rows else "*No taxonomy crosswalk edges recorded for this framework's terms.*"
+
+
+def render_similarity_section(term_ids, term_names, nodes_by_id, similarity_pairs_for_term) -> str:
+    from collections import Counter, defaultdict
+    by_other_fw = defaultdict(list)  # other_framework_name -> [(this_term_name, other_term_name)]
+    for tid in term_ids:
+        for other_id in similarity_pairs_for_term.get(tid, []):
+            other = nodes_by_id.get(other_id)
+            if not other:
+                continue
+            other_fw = other.get("frameworkName")
+            if not other_fw:
+                continue
+            by_other_fw[other_fw].append((term_names[tid], other["name"]))
+    if not by_other_fw:
+        return "*No cross-framework similarity edges recorded for this framework's terms.*"
+    counts = Counter({k: len(v) for k, v in by_other_fw.items()})
+    lines = []
+    for fw_name, count in counts.most_common(6):
+        examples = by_other_fw[fw_name][:2]
+        ex_text = "; ".join(f'"{a}" ↔ "{b}"' for a, b in examples)
+        lines.append(f"- **{fw_name}** ({count} matches) — e.g. {ex_text}")
+    if len(counts) > 6:
+        lines.append(f"- …and {len(counts) - 6} other frameworks with at least one match")
+    return "\n".join(lines)
+
+
 def build_framework_pages(nodes_by_id, standards, jurisdictions, publishes_by_standard,
-                           describes_by_standard, framework_internal_by_fw, crosswalk_count_by_term, related_count_by_term):
+                           describes_by_standard, framework_internal_by_fw,
+                           crosswalk_edges, similarity_edges):
+    from collections import defaultdict
+    crosswalk_by_term = defaultdict(list)
+    for s, t in crosswalk_edges:
+        crosswalk_by_term[s].append(t)
+    similarity_pairs = defaultdict(list)  # term_id -> [other term ids] (either direction)
+    for s, t in similarity_edges:
+        similarity_pairs[s].append(t)
+        similarity_pairs[t].append(s)
+
     written = []
     for std_id, std in standards.items():
         fw_name = std["name"]
@@ -184,8 +268,15 @@ def build_framework_pages(nodes_by_id, standards, jurisdictions, publishes_by_st
             "relationships": rels,
         }
 
-        n_crosswalk = sum(crosswalk_count_by_term.get(t, 0) for t in term_ids)
-        n_related = sum(related_count_by_term.get(t, 0) for t in term_ids)
+        term_names = {tid: nodes_by_id[tid]["name"] for tid in term_ids}
+        n_crosswalk = sum(len(crosswalk_by_term.get(t, [])) for t in term_ids)
+        n_related_frameworks = len({
+            nodes_by_id[o]["frameworkName"]
+            for t in term_ids for o in similarity_pairs.get(t, [])
+            if nodes_by_id.get(o, {}).get("frameworkName") not in (None, fw_name)
+        })
+        crosswalk_table = render_crosswalk_section(term_ids, term_names, crosswalk_by_term, nodes_by_id)
+        similarity_list = render_similarity_section(term_ids, term_names, nodes_by_id, similarity_pairs)
 
         slug = ok.slugify(fw_name)
         body = f"""# ExploreSEL Framework — {fw_name}
@@ -196,13 +287,14 @@ def build_framework_pages(nodes_by_id, standards, jurisdictions, publishes_by_st
 {std.get("description") or "(no description in source export)"}
 
 ## Alignment to the shared taxonomy
-This framework's terms carry {n_crosswalk} crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus {n_related} cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+{n_crosswalk} crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{{term_id}}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{{term_id}}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{{term_id}}`)
+{crosswalk_table}
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in {n_related_frameworks} other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+{similarity_list}
 
 ## Key Sources
 - ExploreSEL framework profile: {std.get("eselURL") or "(no URL in source export)"}
@@ -267,14 +359,7 @@ def main():
         encoding="utf-8",
     )
 
-    from collections import Counter
-    crosswalk_count_by_term = Counter(s for s, t in crosswalk_edges)
-    related_count_by_term = Counter()
-    for s, t in similarity_edges:
-        related_count_by_term[s] += 1
-        related_count_by_term[t] += 1
-
-    n_tax_nodes, n_tax_rels = build_taxonomy_page(nodes_by_id, has_child_taxonomy_internal)
+    n_tax_nodes, n_tax_rels = build_taxonomy_page(nodes_by_id, has_child_taxonomy_internal, crosswalk_edges)
     print(f"Taxonomy page: {n_tax_nodes} nodes, {n_tax_rels} relationships")
 
     standards = {n["originalID"]: n for n in nodes if n.get("label") == "Standard"}
@@ -288,7 +373,7 @@ def main():
     written = build_framework_pages(
         nodes_by_id, standards, jurisdictions, publishes_by_standard,
         describes_by_standard, has_child_framework_internal,
-        crosswalk_count_by_term, related_count_by_term,
+        crosswalk_edges, similarity_edges,
     )
     print(f"Framework pages written: {len(written)}")
     for p in written:

@@ -120,13 +120,34 @@ relationships:
 Developed by Room to Read, the Life Skills Education Learning Outcomes framework outlines expected learning outcomes for girls in grades 6-12 receiving life skills education as part of Room to Read’s Girls’ Education Program (GEP). Room to Read is a nonprofit organization focused on improving literacy and gender equality in low-income countries. The GEP life skills curriculum is designed to help girls develop the skills and agency to complete school, make informed choices about their lives, and advocate for their futures.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 149 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 148 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+149 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| self-awareness: "i am valuable" | Values; Civic Values; Understands one’s connection and responsibility to family, classroom, school community, neighborhood, country, and world; understands the value of civic responsibility; Identity; Self-Knowledge; Recognizes and understands one’s own strengths and weaknesses (+11 more) |
+| self-competence | Values; Civic Values; Understands one’s connection and responsibility to family, classroom, school community, neighborhood, country, and world; understands the value of civic responsibility; Identity; Self-Knowledge; Recognizes and understands one’s own strengths and weaknesses (+1 more) |
+| expressing & managing emotions | Emotion; Emotional Knowledge and Expression; Expresses emotions to others in effective ways (e.g., Uses “I messages”); Identifies emotions in self or others; Emotional and Behavioral Regulation; Can regulate one's emotions (including anxiety, anger, and other emotions) (+2 more) |
+| empathy | Emotion; Empathy/Perspective Taking; Uses physical gestures or verbal expressions to comfort or provide relief to another person in distress (e.g., hugs, pats, expressing concern, verbal sympathy); Values; Civic Values; Understands the importance of setting a good example for others and acting as a positive influence |
+| self-efficacy: "i am empowered" | Cognitive; Inhibitory Control; Uses strategies to inhibit inappropriate responses (e.g., taking a deep breath, counting to 10, sitting on hands, covering mouth, self talk, covering ears, folding arms, etc.); Emotion; Emotional and Behavioral Regulation; Uses effective regulatory strategies when upset (e.g., self talk, taking deep breaths, walking away, Stop and Stay Cool, etc.) (+20 more) |
+| self-control | Cognitive; Inhibitory Control; Uses strategies to inhibit inappropriate responses (e.g., taking a deep breath, counting to 10, sitting on hands, covering mouth, self talk, covering ears, folding arms, etc.); Emotion; Emotional and Behavioral Regulation; Uses effective regulatory strategies when upset (e.g., self talk, taking deep breaths, walking away, Stop and Stay Cool, etc.) (+3 more) |
+| critical thinking | Cognitive; Critical Thinking; Asks and answers questions for clarification; Systems thinking; understands the complexity of systems and actors (including how parts interact with the whole); Prosocial/Cooperative Behavior; Effectively communicates ideas, stories, and information to others |
+| decision-making | Cognitive; Working Memory and Planning Skills; Engages in goal-directed behavior independently and when instructed (i.e. acting to achieve a goal); Sets goals (differs from acting to achieve a goal); Critical Thinking; Recognizes multiple sides of an issue and/or understands multiple perspectives (+4 more) |
+| perseverance | Cognitive; Working Memory and Planning Skills; Remembers and follows complex (e.g., two- and three-part) commands; Values; Performance Values; Tries one’s best in challenging situations or in spite of difficulty, delay, or boredom (e.g., perseveres, does not easily give up) |
+| social awareness: "we can do it" | Cognitive; Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution); Emotion; Emotional Knowledge and Expression; Expresses emotions to others in effective ways (e.g., Uses “I messages”) (+18 more) |
+| communication | Cognitive; Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution); Emotion; Emotional Knowledge and Expression; Expresses emotions to others in effective ways (e.g., Uses “I messages”) (+9 more) |
+| creative problem-solving | Cognitive; Cognitive Flexibility; Approaches problems in flexible ways (e.g., brainstorms multiple solutions to a problem); Critical Thinking; Plans processes needed to solve a problem; Social (+5 more) |
+| relationship building | Social; Prosocial/Cooperative Behavior; Understands the actions and behaviors that foster friendship (e.g., understands what a friend is and how to make and sustain them); Builds and maintains positive relationships |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 20 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **Habits of Mind** (23 matches) — e.g. "critical thinking" ↔ "managing impulsivity"; "critical thinking" ↔ "listening to others with understanding and empathy"
+- **Building Blocks for Learning** (13 matches) — e.g. "self-competence" ↔ "civic identity"; "self-competence" ↔ "self-awareness"
+- **USAID YouthPower Action Key Soft Skills for Cross-Sectoral Youth Outcomes** (12 matches) — e.g. "self-competence" ↔ "positive self-concept"; "self-competence" ↔ "responsibility"
+- **IB Learner Profile** (11 matches) — e.g. "self-competence" ↔ "balanced"; "self-competence" ↔ "reflective"
+- **IRC Social and Emotional Learning Competencies** (9 matches) — e.g. "expressing & managing emotions" ↔ "emotion regulation"; "expressing & managing emotions" ↔ "positive social skills"
+- **The Five Cs Model of Positive Youth Development** (8 matches) — e.g. "self-competence" ↔ "connection"; "empathy" ↔ "caring/compassion"
+- …and 14 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/51/

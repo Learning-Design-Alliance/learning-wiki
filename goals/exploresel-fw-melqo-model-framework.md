@@ -101,13 +101,28 @@ Measuring Early Learning Quality and Outcomes (MELQO) Measure of Development and
 Measure of Early Learning Environments (MELE) module, designed to measure the quality of pre-primary learning environments. Together, these tools help assess progress towards the UN Sustainable Development Goal 4.2 to improve the quality, feasibility, and accessibility of early childhood education.
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 72 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 65 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+72 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| executive functioning | Cognitive; Working Memory and Planning Skills; Remembers and follows complex (e.g., two- and three-part) commands; Remembers and recalls information (e.g., recalls multiple rules during a game, remembers key points from reading, recalls a plan and if it was followed, etc.); Attention Control; Ignores distractions when doing a task (+2 more) |
+| working memory | Cognitive; Working Memory and Planning Skills; Remembers and follows complex (e.g., two- and three-part) commands; Remembers and recalls information (e.g., recalls multiple rules during a game, remembers key points from reading, recalls a plan and if it was followed, etc.) |
+| inhibitory control | Cognitive; Attention Control; Ignores distractions when doing a task; Inhibitory Control; Inhibits inappropriate responses (e.g. raising hand instead of shouting out answer) |
+| social-emotional development | Cognitive; Inhibitory Control; Inhibits inappropriate responses (e.g. raising hand instead of shouting out answer); Waits (e.g. waits turn to play game or talk, waits for teacher to finish giving instructions, stays in seat until time to leave and lines up appropriately without reminding, etc. ); Emotion; Emotional and Behavioral Regulation (+19 more) |
+| self-regulation | Cognitive; Inhibitory Control; Inhibits inappropriate responses (e.g. raising hand instead of shouting out answer); Waits (e.g. waits turn to play game or talk, waits for teacher to finish giving instructions, stays in seat until time to leave and lines up appropriately without reminding, etc. ); Emotion; Emotional and Behavioral Regulation (+1 more) |
+| social cognition | Emotion; Emotional Knowledge and Expression; Identifies emotions in self or others; Understands relationships between situation and emotion (e.g., accurately identifies the emotion a particular situation would elicit); Understands complex/simultaneous feelings (e.g., being nervous and excited at the same time); Emotional and Behavioral Regulation (+12 more) |
+| social competence | Social; Prosocial/Cooperative Behavior; Effectively enters and engages in a variety of social situations; Understands the actions and behaviors that foster friendship (e.g., understands what a friend is and how to make and sustain them); Builds and maintains positive relationships |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 20 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **Building Blocks for Learning** (9 matches) — e.g. "working memory" ↔ "executive functions"; "working memory" ↔ "self-direction"
+- **IRC Social and Emotional Learning Competencies** (7 matches) — e.g. "working memory" ↔ "brain building"; "inhibitory control" ↔ "brain building"
+- **Habits of Mind** (5 matches) — e.g. "working memory" ↔ "managing impulsivity"; "working memory" ↔ "applying past knowledge to new situations"
+- **CASEL** (5 matches) — e.g. "inhibitory control" ↔ "self-management"; "self-regulation" ↔ "self-management"
+- **USAID YouthPower Action Key Soft Skills for Cross-Sectoral Youth Outcomes** (4 matches) — e.g. "working memory" ↔ "goal orientation"; "inhibitory control" ↔ "self-control"
+- **The PRACTICE Model** (4 matches) — e.g. "inhibitory control" ↔ "control"; "self-regulation" ↔ "control"
+- …and 14 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/55/

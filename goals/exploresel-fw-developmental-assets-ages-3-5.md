@@ -196,13 +196,43 @@ relationships:
 (no description in source export)
 
 ## Alignment to the shared taxonomy
-This framework's terms carry 175 crosswalk edges into the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md) (which of the six domains/23 subdomains/skill descriptors this framework's competencies map onto), plus 184 cross-framework similarity edges to other frameworks. Both are kept as separate datasets rather than embedded here — grep them by this page's node ids:
+175 crosswalk edges map this framework's terms onto the canonical [ExploreSEL taxonomy](exploresel-taxonomy.md). Each term's mapped taxonomy nodes are capped at 6 in this table — see [`goals/data/exploresel-framework-taxonomy-crosswalk.ndjson`](data/exploresel-framework-taxonomy-crosswalk.ndjson) for the full, unabridged edge list.
 
-```
-grep '"source": "{term_id}"' goals/data/exploresel-framework-taxonomy-crosswalk.ndjson
-grep '"source": "{term_id}"' goals/data/exploresel-cross-framework-similarity.ndjson
-```
-(paths relative to the wiki root; substitute one of this page's node ids for `{term_id}`)
+| This framework's term | Maps to (ExploreSEL taxonomy) |
+|---|---|
+| internal assests | Values; Intellectual Values; Displays a love of learning (e.g., is enthusiastic about and actively engaged in learning); Expresses an eagerness to know and learn new things (e.g., is curious); Perspectives; Enthusiasm/Zest (+38 more) |
+| commitment to learning | Values; Intellectual Values; Displays a love of learning (e.g., is enthusiastic about and actively engaged in learning); Expresses an eagerness to know and learn new things (e.g., is curious); Perspectives; Enthusiasm/Zest (+3 more) |
+| motivation to mastery | Values; Intellectual Values; Displays a love of learning (e.g., is enthusiastic about and actively engaged in learning); Expresses an eagerness to know and learn new things (e.g., is curious); Perspectives; Enthusiasm/Zest |
+| bonding to programs | Social; Prosocial/Cooperative Behavior; Builds and maintains positive relationships |
+| positive values | Emotion; Empathy/Perspective Taking; Identifies and acknowledges the experiences, feelings, and viewpoints of others (including characters); Social; Prosocial/Cooperative Behavior; Stands up for other children when they are teased, insulted, or left out (+12 more) |
+| caring | Emotion; Empathy/Perspective Taking; Identifies and acknowledges the experiences, feelings, and viewpoints of others (including characters) |
+| equality and social justice | Social; Prosocial/Cooperative Behavior; Stands up for other children when they are teased, insulted, or left out; Values; Ethical Values; Civic Values (+1 more) |
+| integrity | Values; Ethical Values |
+| honesty | Values; Ethical Values; Conducts self with honesty and integrity (e.g., tells the truth, admits wrong-doing, doesn’t cheat or steal) |
+| responsibility | Values; Performance Values; Follows through on commitments; Civic Values; Volunteers to help when needed |
+| self-regulation | Cognitive; Inhibitory Control; Emotion; Emotional and Behavioral Regulation; Social; Prosocial/Cooperative Behavior (+1 more) |
+| social competencies | Cognitive; Working Memory and Planning Skills; Uses strategies to make a plan (independently or under the direction of a teacher); Carries out complex tasks (e.g., completing multi-step tasks, thinking through options and choosing one, etc.); Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution) (+18 more) |
+| planning and decision making | Cognitive; Working Memory and Planning Skills; Uses strategies to make a plan (independently or under the direction of a teacher); Carries out complex tasks (e.g., completing multi-step tasks, thinking through options and choosing one, etc.); Critical Thinking; Employs problem-solving process to make a decision (code if stress is on selecting a solution) |
+| interpersonal skills | Emotion; Empathy/Perspective Taking; Uses physical gestures or verbal expressions to comfort or provide relief to another person in distress (e.g., hugs, pats, expressing concern, verbal sympathy); Social; Prosocial/Cooperative Behavior; Shares with others (toys, belongings, objects, etc.) |
+| cultural awareness and sensitivitvy | Values; Ethical Values; Believes it is important to be tolerant and accepting of differences in others; or celebrates/appreciates diversity; Identity; Self-Knowledge |
+| resistance skills | Social; Prosocial/Cooperative Behavior; Stands one’s ground when another child tries to pressure him or her; Seeks help when needed; Builds and maintains positive relationships; Values (+2 more) |
+| peaceful conflict resolution | Conflict Resolution/Social Problem Solving; Uses strategies to effectively address or solve social dilemmas and conflicts (e.g., talking to an adult, seeking out mediation, peace path, using “I messages,” etc.); Asserts oneself in an appropriate manner during a conflict (e.g., uses I messages, calmly and diplomatically states values and preferences, etc.) |
+| positive identity | Identity; Self-Efficacy/Growth Mindset; Self-Esteem; Feels a sense of belonging; feels valued by others in the community; Purpose; Imagines the future; formulates life goals and ways to pursue them |
+| personal power | Identity; Self-Efficacy/Growth Mindset |
+| self-esteem | Identity; Self-Esteem; Feels a sense of belonging; feels valued by others in the community |
+| sense of purpose | Identity; Purpose; Imagines the future; formulates life goals and ways to pursue them |
+| positive view of personal future | Identity; Purpose |
+
+## Similar competencies in other frameworks
+This framework's terms have similarity matches in 20 other frameworks (top 6 shown by match count) — full edge list in [`goals/data/exploresel-cross-framework-similarity.ndjson`](data/exploresel-cross-framework-similarity.ndjson):
+
+- **Building Blocks for Learning** (23 matches) — e.g. "motivation to mastery" ↔ "curiosity"; "motivation to mastery" ↔ "relevance of school"
+- **The Five Cs Model of Positive Youth Development** (16 matches) — e.g. "bonding to programs" ↔ "connection"; "bonding to programs" ↔ "character"
+- **Habits of Mind** (15 matches) — e.g. "motivation to mastery" ↔ "responding with wonderment and awe"; "motivation to mastery" ↔ "learning continuously"
+- **IB Learner Profile** (11 matches) — e.g. "motivation to mastery" ↔ "inquirers"; "equality and social justice" ↔ "caring"
+- **Kenya BECF Core Competencies for Basic Education** (10 matches) — e.g. "motivation to mastery" ↔ "learning to learn"; "equality and social justice" ↔ "communication and collaboration"
+- **Young Adult Success** (10 matches) — e.g. "bonding to programs" ↔ "knowledge and skills"; "equality and social justice" ↔ "integrated identity"
+- …and 14 other frameworks with at least one match
 
 ## Key Sources
 - ExploreSEL framework profile: http://exploresel.gse.harvard.edu/frameworks/48/
