@@ -100,6 +100,37 @@ MAX_ROUNDS = 20
 _SAFE_RUN_ID_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9_.-]*$")
 _SAFE_VERSION_RE = re.compile(r"^v\d+$")
 
+# Wiki content editing (see /edit, /save-page below) — real wiki page
+# filenames carry all sorts of characters straight from scraped titles
+# (apostrophes, parens, &, ?, ...), so this deliberately does NOT pattern-
+# match the filename itself. Safety instead comes from: the folder must be
+# one of these seven, and candidate.parent != folder_dir (below) catches
+# any '..' escape attempt after path resolution, regardless of what
+# characters the filename contains.
+EDITABLE_FOLDERS = {"principles", "elements", "patterns", "strategies", "theories", "claims", "learner-variables"}
+
+
+def _resolve_editable_path(rel_path: str):
+    """rel_path like 'claims/foo.md' -> the real Path if (and only if) it's
+    an existing .md page inside one of EDITABLE_FOLDERS, directly inside
+    that folder (no subdirectories) — else None. Never creates a new file;
+    /edit and /save-page both only ever operate on a page that already
+    exists on disk."""
+    if not rel_path or "/" not in rel_path:
+        return None
+    folder, _, filename = rel_path.partition("/")
+    if folder not in EDITABLE_FOLDERS:
+        return None
+    folder_dir = (WIKI_ROOT / folder).resolve()
+    candidate = (folder_dir / filename).resolve()
+    if candidate.parent != folder_dir:
+        return None  # blocks '..' (or a nested subpath) smuggled in via filename
+    if candidate.suffix != ".md" or candidate.name == "index.md":
+        return None
+    if not candidate.is_file():
+        return None
+    return candidate
+
 # scrape (discover_articles.py + fetch_article.py) launch/lock/state — kept
 # entirely separate from auto-optimize's own STATE_PATH/LOCK_PATH above,
 # since these are two independent long-running jobs a user could otherwise
@@ -388,6 +419,19 @@ class Handler(SimpleHTTPRequestHandler):
         self.send_header("Pragma", "no-cache")
         super().end_headers()
 
+    def do_GET(self):
+        # Static-file serving (health.html, optimizer.html, etc.) has no
+        # dispatch table at all — SimpleHTTPRequestHandler's default do_GET
+        # handles every real GET route by serving whatever file exists on
+        # disk under RUNS_DIR. /edit is the one exception: a generated page
+        # (not a file in RUNS_DIR), so it's intercepted here and everything
+        # else falls through to the normal static-file behavior unchanged.
+        parsed = urllib.parse.urlparse(self.path)
+        if parsed.path == "/edit":
+            self._handle_edit_page(urllib.parse.parse_qs(parsed.query))
+            return
+        super().do_GET()
+
     def do_POST(self):
         handlers = {
             "/launch-auto-optimize": self._handle_launch,
@@ -398,6 +442,8 @@ class Handler(SimpleHTTPRequestHandler):
             "/stop-auto-optimize": self._handle_stop_auto_optimize,
             "/launch-scrape": self._handle_launch_scrape,
             "/stop-scrape": self._handle_stop_scrape,
+            "/refresh-health": self._handle_refresh_health,
+            "/save-page": self._handle_save_page,
         }
         handler = handlers.get(self.path)
         if handler is None:
@@ -645,6 +691,112 @@ class Handler(SimpleHTTPRequestHandler):
                 scrape_report.render_html(state, history=_load_scrape_history()), encoding="utf-8")
 
         self._respond(200, f"Stopped scrape batch (pid {pid}).", redirect_to="/scrape.html")
+
+    def _handle_refresh_health(self, form: dict) -> None:
+        """Runs the full wiki_health_check.py pass (real Crossref DOI
+        resolution included — the every-batch calls elsewhere all pass
+        --skip-doi, since that's fast enough to run inline; this one isn't)
+        as a background subprocess, same launch-and-forget pattern as
+        /launch-scrape and /launch-auto-optimize. No lock file: unlike
+        those, a health check is read-then-compute-then-write-one-file,
+        short enough (Crossref calls are cached after the first resolution)
+        that two concurrent runs are a minor wasted-effort risk, not a
+        corruption one — not worth a second lock/state-file pair for."""
+        if not VENV_PYTHON.exists():
+            self._respond(500, f"{VENV_PYTHON} not found — is the venv set up?", redirect_to="/health.html")
+            return
+        subprocess.Popen(
+            [str(VENV_PYTHON), "-u", "scripts/wiki_health_check.py"],
+            cwd=str(WIKI_ROOT), stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+        )
+        self._respond(200, "Full health check (with DOI resolution) started in the background — "
+                            "this can take a few minutes on a large wiki; the page refreshes itself "
+                            "every 60s, or reload once it's done.", redirect_to="/health.html")
+
+    def _handle_edit_page(self, query: dict) -> None:
+        rel_path = query.get("path", [""])[0]
+        target = _resolve_editable_path(rel_path)
+        if target is None:
+            self._respond_html(404, "<pre>Not found, or not an editable wiki page.</pre>"
+                                     "<p><a href=\"/health.html\">&larr; Back to Wiki Health</a></p>")
+            return
+
+        content = target.read_text(encoding="utf-8")
+        mtime = target.stat().st_mtime
+        notice = ""
+        if query.get("saved") == ["1"]:
+            notice = '<p class="notice good">Saved.</p>'
+        elif query.get("conflict") == ["1"]:
+            notice = ('<p class="notice warn">This file changed on disk since you opened it — your '
+                       'save was NOT applied, to avoid clobbering that change. The text below is the '
+                       'current version on disk; re-apply your edit and save again.</p>')
+
+        body = f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Edit {html.escape(rel_path)}</title>
+<style>
+  body {{ margin: 0; background: #f9f9f7; font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+          color: #0b0b0b; }}
+  @media (prefers-color-scheme: dark) {{ body {{ background: #0d0d0d; color: #fff; }} }}
+  .root {{ max-width: 900px; margin: 0 auto; padding: 32px 20px 64px; }}
+  a.back {{ font-size: 13px; color: #52514e; text-decoration: none; }}
+  h1 {{ font-size: 16px; font-weight: 600; margin: 12px 0 16px; word-break: break-all; }}
+  textarea {{ width: 100%; height: 70vh; font-family: ui-monospace, "SF Mono", Menlo, monospace;
+              font-size: 13px; line-height: 1.5; padding: 12px; box-sizing: border-box;
+              border: 1px solid rgba(11,11,11,0.15); border-radius: 8px; }}
+  button {{ margin-top: 12px; padding: 8px 18px; font-size: 14px; border-radius: 8px;
+            border: 1px solid rgba(11,11,11,0.15); background: #1baf7a; color: #fff; cursor: pointer; }}
+  .notice {{ font-size: 13px; padding: 8px 12px; border-radius: 8px; }}
+  .notice.good {{ background: rgba(27,175,122,0.15); }}
+  .notice.warn {{ background: rgba(235,104,52,0.15); }}
+</style>
+</head>
+<body>
+<div class="root">
+  <a class="back" href="/health.html">&larr; Back to Wiki Health</a>
+  <h1>{html.escape(rel_path)}</h1>
+  {notice}
+  <form method="post" action="/save-page">
+    <input type="hidden" name="path" value="{html.escape(rel_path)}">
+    <input type="hidden" name="mtime" value="{mtime}">
+    <textarea name="content" spellcheck="false">{html.escape(content)}</textarea>
+    <br>
+    <button type="submit">Save</button>
+  </form>
+</div>
+</body>
+</html>"""
+        self._respond_html(200, body)
+
+    def _handle_save_page(self, form: dict) -> None:
+        rel_path = form.get("path", [""])[0]
+        new_content = form.get("content", [""])[0]
+        try:
+            expected_mtime = float(form.get("mtime", ["0"])[0])
+        except ValueError:
+            expected_mtime = 0.0
+
+        target = _resolve_editable_path(rel_path)
+        if target is None:
+            self._respond(404, "Not found, or not an editable wiki page.", redirect_to="/health.html")
+            return
+
+        # Conflict guard: if something else (an enrich.py batch, the
+        # scraper, another browser tab) wrote this file since this edit
+        # page was opened, don't silently clobber it — redirect back to
+        # /edit with conflict=1 so the human sees the real current content
+        # and has to consciously re-apply their edit on top of it.
+        current_mtime = target.stat().st_mtime
+        if abs(current_mtime - expected_mtime) > 0.5:
+            self.send_response(303)
+            self.send_header("Location", f"/edit?path={urllib.parse.quote(rel_path)}&conflict=1")
+            self.end_headers()
+            return
+
+        target.write_text(new_content, encoding="utf-8")
+        self._respond(200, "Saved.", redirect_to=f"/edit?path={urllib.parse.quote(rel_path)}&saved=1")
 
     def _handle_delete_run(self, form: dict) -> None:
         run_id = (form.get("run_id", [""])[0] or "").strip()

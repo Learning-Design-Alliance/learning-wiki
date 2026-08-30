@@ -17,6 +17,7 @@ here would break the second form.
 """
 
 import html
+import urllib.parse
 
 AUTO_REFRESH_MS = 60_000  # this page's data only changes once per batch/nightly
                           # run, not every few seconds like an active eval run —
@@ -25,6 +26,13 @@ AUTO_REFRESH_MS = 60_000  # this page's data only changes once per batch/nightly
 
 def _esc(s) -> str:
     return html.escape(str(s)) if s is not None else ""
+
+
+def _file_link(rel_path: str) -> str:
+    """A wiki-relative path like 'claims/foo.md' as a clickable link to
+    dashboard_server.py's /edit page (a simple textarea editor with a Save
+    button, path-validated there — see _resolve_editable_path)."""
+    return f'<a href="/edit?path={urllib.parse.quote(rel_path)}"><code>{_esc(rel_path)}</code></a>'
 
 
 def _fmt_ts(iso_ts: str) -> str:
@@ -95,7 +103,7 @@ def _lint_section(lint_detail: dict) -> str:
         type_blocks = []
         for itype, group in sorted(by_type.items(), key=lambda kv: -len(kv[1])):
             rows = "".join(
-                f'<li><code>{_esc(i["file"])}</code> — {_esc(i["detail"])}</li>'
+                f'<li>{_file_link(i["file"])} — {_esc(i["detail"])}</li>'
                 for i in group[:15]
             )
             more = f'<li class="muted">... and {len(group) - 15} more</li>' if len(group) > 15 else ""
@@ -121,7 +129,8 @@ def _judgment_section(result: dict) -> str:
     needs_judgment = detail.get("needs_judgment", {})
     if needs_judgment:
         rows = "".join(
-            f'<li><code>{_esc(slug)}</code> — appears in: {", ".join(_esc(f) for f in folders)}</li>'
+            f'<li><strong>{_esc(slug)}</strong> — appears in: '
+            f'{", ".join(_file_link(f"{folder}/{slug}.md") for folder in folders)}</li>'
             for slug, folders in list(needs_judgment.items())[:25]
         )
         more = (f'<li class="muted">... and {len(needs_judgment) - 25} more</li>'
@@ -140,7 +149,7 @@ def _judgment_section(result: dict) -> str:
         rows = []
         for c in conflicts[:20]:
             entries = "".join(
-                f'<li><code>{_esc(e["source"])}</code>: {_esc(e["doi"] or "(no DOI)")} — {_esc(e["line"][:100])}</li>'
+                f'<li>{_file_link(e["source"])}: {_esc(e["doi"] or "(no DOI)")} — {_esc(e["line"][:100])}</li>'
                 for e in c["entries"]
             )
             rows.append(f'<li><strong>{_esc(c["key"])}</strong><ul class="issue-list">{entries}</ul></li>')
@@ -157,13 +166,17 @@ def _judgment_section(result: dict) -> str:
     if result.get("doi_skipped"):
         parts.append("""
         <div class="issue-group">
-          <p class="muted">DOI resolution against Crossref was skipped this run (--skip-doi) —
-          see the nightly full check for real DOI validation.</p>
+          <p class="muted">DOI resolution against Crossref was skipped this pass (every automatic
+          run uses --skip-doi so it stays fast — only the nightly systemd timer, or the button
+          below, does real DOI validation).</p>
+          <form method="post" action="/refresh-health">
+            <button type="submit">Run full check now (with DOI resolution)</button>
+          </form>
         </div>""")
     elif doi_issues:
         rows = "".join(
-            f'<li><code>{_esc(i.get("doi"))}</code> — {_esc(i.get("issue", i.get("reason", "")))} '
-            f'{_esc(i.get("title", ""))}</li>'
+            f'<li>{_file_link(i["file"])}: <code>{_esc(i.get("doi"))}</code> — '
+            f'{_esc(i.get("issue", i.get("reason", "")))} {_esc(i.get("title", ""))}</li>'
             for i in doi_issues[:20]
         )
         more = f'<li class="muted">... and {len(doi_issues) - 20} more</li>' if len(doi_issues) > 20 else ""
@@ -256,6 +269,8 @@ def render_html(result: dict) -> str:
   .issue-list code {{ color: var(--text-primary); }}
   .muted {{ color: var(--text-muted); font-size: 12px; }}
   p.muted {{ font-size: 13px; }}
+  button {{ margin-top: 10px; padding: 7px 16px; font-size: 13px; border-radius: 8px;
+            border: 1px solid var(--border); background: var(--good); color: #fff; cursor: pointer; }}
 </style>
 </head>
 <body>
