@@ -630,8 +630,13 @@ evidence_strength: [preserve from the draft stub, or infer only from evidence al
 [Optional 1-2 sentence clarification of scope or mechanism — using ONLY what the draft stub already states.]
 
 ## Subclaims
-<!-- Summarize ONLY the Evidence entries already present in the draft stub below.
-     Do NOT invent a new study or finding to summarize here. -->
+<!-- Summarize ONLY the Evidence entries already present in the draft stub
+     below. Do NOT invent a new study or finding to summarize here. -->
+[If the draft stub has no real Evidence entries yet, write exactly this one
+line here and nothing else — the exact bare marker, no extra words inside
+it: <!-- TODO --> . A longer/descriptive TODO comment will silently never be
+picked up again by the wiki's health-check or future enrichment passes,
+which scan for that exact literal string.]
 `q? i?` [One-sentence summary of an EXISTING Evidence entry's finding and scope.] [→ Author Year](#author-year)
 
 ## Evidence
@@ -639,9 +644,13 @@ evidence_strength: [preserve from the draft stub, or infer only from evidence al
      stub below. If it DOES have real entries already, you may reformat or
      clarify them (plain-language description, quality/impact/n codes) but
      never change which study they cite or add a DOI that wasn't already
-     given. If the draft stub has no real Evidence entries yet, replace this
-     whole comment with a single TODO comment noting studies still need to
-     be added — never fabricate one to fill the gap. -->
+     given. -->
+[If the draft stub has no real Evidence entries yet, replace this whole
+section with exactly this one line and nothing else — the exact bare
+marker, no extra words inside it: <!-- TODO --> . Never fabricate a study to
+fill the gap. A longer/descriptive TODO comment will silently never be
+picked up again by future enrichment passes, which scan for that exact
+literal string.]
 
 ## Discussion
 [Prose covering contradictions, moderators, boundary conditions, open questions —
