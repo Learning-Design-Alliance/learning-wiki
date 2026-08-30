@@ -45,8 +45,10 @@ Usage:
 """
 
 import argparse
+import json
 import re
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -54,6 +56,7 @@ import check_citations as cc
 import doi_resolver as dr
 
 WIKI_ROOT = Path(__file__).parent.parent
+NEEDS_HUMAN_SNAPSHOT_PATH = WIKI_ROOT / "eval" / "health" / "doi_needs_human.json"
 
 
 def classify_doi(doi: str, cluster_title_words: set) -> dict:
@@ -155,12 +158,14 @@ def resolve_cluster(conflict: dict, debug: bool = False) -> dict:
         found = _search_fallback(key, entries, cluster_title_words, debug=debug)
         if not found:
             return {"key": key, "status": "needs_human", "classifications": classifications,
+                     "files": sorted({e["source"] for e in entries}),
                      "reason": "no already-cited DOI verified, and a Crossref bibliographic "
                                "search found no confident match either"}
         canonical, canonical_title = found
         via = "Crossref search (not previously cited by any page)"
     else:
         return {"key": key, "status": "needs_human", "classifications": classifications,
+                 "files": sorted({e["source"] for e in entries}),
                  "reason": f"{len(verified)} different DOIs each independently verify to a real, "
                            f"matching paper — likely two distinct papers by the same author in "
                            f"the same year, not one citation typo'd differently: "
@@ -211,6 +216,7 @@ def resolve_standalone_issues(by_key: dict, conflict_keys: set, debug_key: str =
         if not found:
             resolutions.append({
                 "key": key, "status": "needs_human",
+                "files": sorted({e["source"] for e in affected}),
                 "reason": f"cited DOI {doi} {classification['status']} against Crossref, and a "
                           f"bibliographic search on this citation's own title/author found no "
                           f"confident replacement",
@@ -327,6 +333,26 @@ def format_report(conflict_resolutions: list, standalone_resolutions: list = ())
     return "\n".join(lines)
 
 
+def write_needs_human_snapshot(conflict_resolutions: list, standalone_resolutions: list) -> None:
+    """Persists the needs_human entries from both categories as JSON, so
+    the Wiki Health dashboard (health_report.py, via
+    wiki_health_check.py's write_dashboard_page) can display and link to
+    them without re-running this whole (slow — hundreds of live,
+    uncached Crossref search calls) analysis on every page load or after
+    every enrichment batch. Only meaningful for a full, unscoped run —
+    main() skips this when --key or --debug-key narrowed the analysis to
+    one cluster, since a partial snapshot would silently hide everything
+    not covered by that run."""
+    entries = []
+    for r in list(conflict_resolutions) + list(standalone_resolutions):
+        if r["status"] != "needs_human":
+            continue
+        entries.append({"key": r["key"], "reason": r["reason"], "files": r.get("files", [])})
+    snapshot = {"generated_at": datetime.now(timezone.utc).isoformat(), "entries": entries}
+    NEEDS_HUMAN_SNAPSHOT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    NEEDS_HUMAN_SNAPSHOT_PATH.write_text(json.dumps(snapshot, indent=2), encoding="utf-8")
+
+
 def _apply_resolutions(resolutions: list) -> None:
     applied = failed = 0
     for r in resolutions:
@@ -435,6 +461,9 @@ def main() -> None:
         standalone_resolutions = resolve_standalone_issues(by_key, conflict_keys)
         if args.apply:
             _apply_resolutions(standalone_resolutions)
+
+    if not args.key:
+        write_needs_human_snapshot(conflict_resolutions, standalone_resolutions)
 
     report = format_report(conflict_resolutions, standalone_resolutions)
     if args.out:

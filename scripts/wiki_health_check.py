@@ -210,6 +210,23 @@ def append_history(result: dict) -> None:
 
 
 DASHBOARD_PAGE_PATH = WIKI_ROOT / "eval" / "runs" / "health.html"
+DOI_NEEDS_HUMAN_PATH = WIKI_ROOT / "eval" / "health" / "doi_needs_human.json"
+
+
+def load_doi_needs_human_snapshot():
+    """The cached needs_human list from the last resolve_doi_conflicts.py
+    run (if any) — that tool makes hundreds of live, uncached Crossref
+    search calls, so it's run deliberately, not on every batch the way
+    this module's own checks are; the dashboard just displays whatever
+    its last run found. Returns None (not an empty dict) if it has never
+    been run, so the page can show "not yet run" rather than implying a
+    clean 0-entry result."""
+    if not DOI_NEEDS_HUMAN_PATH.exists():
+        return None
+    try:
+        return json.loads(DOI_NEEDS_HUMAN_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return None
 
 
 def write_dashboard_page(result: dict) -> None:
@@ -226,8 +243,9 @@ def write_dashboard_page(result: dict) -> None:
     and reflects a fresh scan immediately after a deploy/restart, before
     any batch has necessarily run since then)."""
     import health_report
+    augmented = {**result, "doi_needs_human": load_doi_needs_human_snapshot()}
     DASHBOARD_PAGE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    DASHBOARD_PAGE_PATH.write_text(health_report.render_html(result), encoding="utf-8")
+    DASHBOARD_PAGE_PATH.write_text(health_report.render_html(augmented), encoding="utf-8")
 
 
 def main() -> None:

@@ -181,6 +181,37 @@ def _judgment_section(result: dict) -> str:
           <ul class="issue-list">{rows}</ul>
         </div>""")
 
+    doi_needs_human = result.get("doi_needs_human")
+    if doi_needs_human is None:
+        parts.append("""
+        <div class="issue-group">
+          <h3>DOI conflicts needing manual research</h3>
+          <p class="muted">resolve_doi_conflicts.py hasn't been run yet — it auto-fixes citation
+          DOI conflicts and single-citation DOI errors against Crossref, and reports whatever's
+          left after that (no already-cited DOI verifies, and a bibliographic search on the
+          citation's own title/author found no confident match either — often a genuinely
+          fabricated or badly mismatched citation, not something more automation can fix). Run
+          <code>python3 scripts/resolve_doi_conflicts.py --apply</code> to populate this.</p>
+        </div>""")
+    else:
+        entries = doi_needs_human.get("entries", [])
+        if entries:
+            rows = "".join(
+                f'<li><strong>{_esc(e["key"])}</strong>: {_esc(e["reason"])}<br>'
+                f'<span class="muted">{", ".join(_file_link(f) for f in e.get("files", []))}</span></li>'
+                for e in entries
+            )
+            parts.append(f"""
+            <div class="issue-group">
+              <h3>DOI conflicts needing manual research <span class="count-badge">{len(entries)}</span></h3>
+              <p class="muted">Already ran through resolve_doi_conflicts.py's Crossref-verified
+              auto-fix and its bibliographic-search fallback — these are what's left. Usually
+              either a genuinely obscure paper Crossref's search can't find, or a fabricated/
+              badly mismatched citation that needs a human to actually re-source or remove.
+              Last checked {_esc(_fmt_ts(doi_needs_human.get("generated_at", "")))}.</p>
+              <ul class="issue-list">{rows}</ul>
+            </div>""")
+
     if not parts:
         return '<p class="muted">Nothing currently needs human judgment.</p>'
     return "".join(parts)
