@@ -104,13 +104,12 @@ def _lint_section(lint_detail: dict) -> str:
         for itype, group in sorted(by_type.items(), key=lambda kv: -len(kv[1])):
             rows = "".join(
                 f'<li>{_file_link(i["file"])} — {_esc(i["detail"])}</li>'
-                for i in group[:15]
+                for i in group
             )
-            more = f'<li class="muted">... and {len(group) - 15} more</li>' if len(group) > 15 else ""
             type_blocks.append(f"""
             <details>
               <summary>{_esc(itype)} <span class="count-badge">{len(group)}</span></summary>
-              <ul class="issue-list">{rows}{more}</ul>
+              <ul class="issue-list">{rows}</ul>
             </details>""")
         blocks.append(f"""
         <div class="issue-group">
@@ -131,35 +130,32 @@ def _judgment_section(result: dict) -> str:
         rows = "".join(
             f'<li><strong>{_esc(slug)}</strong> — appears in: '
             f'{", ".join(_file_link(f"{folder}/{slug}.md") for folder in folders)}</li>'
-            for slug, folders in list(needs_judgment.items())[:25]
+            for slug, folders in needs_judgment.items()
         )
-        more = (f'<li class="muted">... and {len(needs_judgment) - 25} more</li>'
-                if len(needs_judgment) > 25 else "")
         parts.append(f"""
         <div class="issue-group">
           <h3>Cross-folder duplicate candidates <span class="count-badge">{len(needs_judgment)}</span></h3>
           <p class="muted">Same slug in more than one folder, not resolved by the deterministic
           self-referential-stub check — run <code>find_near_duplicates.py --cross-folder</code>
           or review by hand.</p>
-          <ul class="issue-list">{rows}{more}</ul>
+          <ul class="issue-list">{rows}</ul>
         </div>""")
 
     conflicts = detail.get("citation_conflicts", [])
     if conflicts:
         rows = []
-        for c in conflicts[:20]:
+        for c in conflicts:
             entries = "".join(
                 f'<li>{_file_link(e["source"])}: {_esc(e["doi"] or "(no DOI)")} — {_esc(e["line"][:100])}</li>'
                 for e in c["entries"]
             )
             rows.append(f'<li><strong>{_esc(c["key"])}</strong><ul class="issue-list">{entries}</ul></li>')
-        more = f'<li class="muted">... and {len(conflicts) - 20} more</li>' if len(conflicts) > 20 else ""
         parts.append(f"""
         <div class="issue-group">
           <h3>Citation conflicts <span class="count-badge">{len(conflicts)}</span></h3>
           <p class="muted">The same author-year citation with disagreeing DOIs, or a DOI given on
           one page and missing on another for what looks like the same paper.</p>
-          <ul class="issue-list">{"".join(rows)}{more}</ul>
+          <ul class="issue-list">{"".join(rows)}</ul>
         </div>""")
 
     doi_issues = detail.get("doi_issues", [])
@@ -177,13 +173,12 @@ def _judgment_section(result: dict) -> str:
         rows = "".join(
             f'<li>{_file_link(i["file"])}: <code>{_esc(i.get("doi"))}</code> — '
             f'{_esc(i.get("issue", i.get("reason", "")))} {_esc(i.get("title", ""))}</li>'
-            for i in doi_issues[:20]
+            for i in doi_issues
         )
-        more = f'<li class="muted">... and {len(doi_issues) - 20} more</li>' if len(doi_issues) > 20 else ""
         parts.append(f"""
         <div class="issue-group">
           <h3>DOI resolution problems <span class="count-badge">{len(doi_issues)}</span></h3>
-          <ul class="issue-list">{rows}{more}</ul>
+          <ul class="issue-list">{rows}</ul>
         </div>""")
 
     if not parts:
@@ -264,7 +259,8 @@ def render_html(result: dict) -> str:
                   font-size: 11px; padding: 1px 7px; border-radius: 10px; }}
   details {{ margin: 6px 0; }}
   summary {{ cursor: pointer; font-size: 13px; color: var(--text-secondary); }}
-  .issue-list {{ font-size: 12px; color: var(--text-secondary); margin: 8px 0 0; padding-left: 18px; }}
+  .issue-list {{ font-size: 12px; color: var(--text-secondary); margin: 8px 0 0; padding-left: 18px;
+                 max-height: 280px; overflow-y: auto; }}
   .issue-list li {{ margin-bottom: 4px; }}
   .issue-list code {{ color: var(--text-primary); }}
   .muted {{ color: var(--text-muted); font-size: 12px; }}
