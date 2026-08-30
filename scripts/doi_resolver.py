@@ -38,6 +38,7 @@ import argparse
 import json
 import os
 import sys
+import time
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -51,6 +52,39 @@ WIKI_ROOT = Path(__file__).parent.parent
 CACHE_PATH = WIKI_ROOT / "eval" / "corpus" / "doi_resolution_cache.json"
 CACHE_TTL_DAYS = 30
 CROSSREF_BASE = "https://api.crossref.org/works/"
+MAX_RETRIES = 4
+RETRY_BASE_DELAY = 5  # seconds; doubles each retry, for 429/5xx
+
+
+def _get_with_retry(url: str, params: dict):
+    """GET with retry-on-429/5xx (exponential backoff, honoring Retry-After
+    when Crossref sends one) — added after resolve_doi_conflicts.py's
+    search-fallback pass (hundreds of live Crossref calls in one run, none
+    cached) hit real 429s from Crossref in production. Without this, a
+    single rate-limit response used to raise straight out of resolve_doi()/
+    search_crossref() with nothing catching it in classify_doi(), which
+    would have crashed an entire multi-hundred-cluster run over one
+    transient rate limit."""
+    import requests
+    delay = RETRY_BASE_DELAY
+    last_error = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        resp = requests.get(url, params=params, headers={"User-Agent": compliance.USER_AGENT}, timeout=15)
+        if resp.status_code == 429 or resp.status_code >= 500:
+            last_error = resp
+            if attempt < MAX_RETRIES:
+                retry_after = resp.headers.get("Retry-After")
+                try:
+                    sleep_s = min(float(retry_after), 120) if retry_after else delay
+                except ValueError:
+                    sleep_s = delay
+                print(f"  [Crossref {resp.status_code} — retrying in {sleep_s:.0f}s "
+                      f"(attempt {attempt}/{MAX_RETRIES})]", file=sys.stderr)
+                time.sleep(sleep_s)
+                delay *= 2
+                continue
+        return resp
+    return last_error
 
 
 def load_cache() -> dict:
@@ -72,13 +106,12 @@ def resolve_doi(doi: str) -> dict:
     """Query Crossref for this DOI. Returns {"doi", "resolved": bool,
     "title": str|None, "checked_at": iso-date}. A 404 is a real, useful
     "this DOI does not exist" result, not an error — only a genuine
-    network/transport failure raises."""
-    import requests
+    network/transport failure raises (after MAX_RETRIES on 429/5xx)."""
     url = f"{CROSSREF_BASE}{doi}"
     contact = os.environ.get("EVAL_HARNESS_CONTACT_EMAIL", "")
     params = {"mailto": contact} if contact else {}
     compliance.guard(url)
-    resp = requests.get(url, params=params, headers={"User-Agent": compliance.USER_AGENT}, timeout=15)
+    resp = _get_with_retry(url, params)
     today = date.today().isoformat()
     if resp.status_code == 404:
         return {"doi": doi, "resolved": False, "title": None, "checked_at": today}
@@ -99,7 +132,6 @@ def search_crossref(title_text: str, author_surname: str = None) -> list:
     Never a source of a DOI value on its own — the caller still has to
     independently verify a candidate's title actually matches before
     treating it as real (same bar as resolve_doi())."""
-    import requests
     params = {"query.bibliographic": title_text, "rows": 3}
     if author_surname:
         params["query.author"] = author_surname
@@ -108,7 +140,16 @@ def search_crossref(title_text: str, author_surname: str = None) -> list:
         params["mailto"] = contact
     url = "https://api.crossref.org/works"
     compliance.guard(url)
-    resp = requests.get(url, params=params, headers={"User-Agent": compliance.USER_AGENT}, timeout=15)
+    # The search endpoint gets hit far harder than resolve_doi() in a
+    # resolve_doi_conflicts.py run (never cached — every fallback call is
+    # live) and appears to be throttled more aggressively than plain DOI
+    # lookups: a real run against ~600 conflict clusters hit repeated 429s
+    # here specifically. A little extra fixed pacing on top of
+    # compliance.guard's shared per-domain delay, before ever needing a
+    # retry, costs almost nothing next to the alternative (a wasted
+    # cluster reported as unfindable when it was actually just rate-limited).
+    time.sleep(1.0)
+    resp = _get_with_retry(url, params)
     resp.raise_for_status()
     items = resp.json().get("message", {}).get("items", [])
     results = []

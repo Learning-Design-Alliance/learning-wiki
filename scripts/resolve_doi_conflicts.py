@@ -1,28 +1,33 @@
 #!/usr/bin/env python3
 """
-resolve_doi_conflicts.py — Automatically resolves check_citations.py's
-citation-conflict clusters (same author-year, same/similar title cited on
-multiple pages with disagreeing or missing DOIs) down to one Crossref-
-verified canonical DOI per cluster, then rewrites every page in the
-cluster to cite it.
+resolve_doi_conflicts.py — Automatically fixes two kinds of bad DOI, using
+only real Crossref lookups, never a model's own recall (a hallucinated
+DOI is exactly the fabricated-citation risk this wiki's tooling already
+exists to catch — see check_citations.py's module docstring and
+CLAIM_TEMPLATE's anti-fabrication rules in enrich.py):
 
-Never invents a DOI from model recall — a hallucinated DOI is exactly the
-fabricated-citation risk this wiki's tooling already exists to catch (see
-check_citations.py's module docstring, and CLAIM_TEMPLATE's anti-
-fabrication rules in enrich.py). Every DOI this writes is one that was
-independently confirmed, by a real Crossref lookup, to resolve to a title
-matching the cluster's own citation text:
+1. Multi-page conflicts (check_citations.py's clusters — same author-year,
+   same/similar title cited on more than one page with disagreeing or
+   missing DOIs). Resolves every already-cited DOI against Crossref; if
+   exactly one verifies (its real title matches the citation), every page
+   in the cluster gets rewritten to it.
 
-  - Most commonly: one of the DOIs some page in the cluster already
-    cites (the majority-agreed one) verifies cleanly; the rest are
-    typos or flatly wrong DOIs that either 404 or resolve to a
-    different paper. That one clean verification becomes canonical.
-  - If NONE of the already-cited DOIs verify, this falls back to a live
-    Crossref bibliographic search on the cluster's own title/author
-    text — still a real lookup against Crossref, never a guess — and
-    verifies the top result the same way before trusting it.
+2. Single-citation DOI problems — a DOI that's simply wrong (doesn't
+   resolve at all, or resolves to a different paper) even though every
+   page citing this author-year-title agrees on it, so check_citations.py
+   never flagged it as a cross-page disagreement (there's nothing to
+   disagree with — everyone's wrong the same way). Confirmed in
+   production: a citation gave 10.1001/jama.2013.2820 for Cook et al.,
+   which doesn't exist — the real DOI, 10.1001/jama.2011.1234, has a
+   different year AND registration number, not just a typo'd digit.
 
-A cluster is left untouched and reported for a human to look at when:
+Both cases use the same fallback when nothing already cited verifies: a
+live Crossref bibliographic search on the citation's own title/author
+text (still a real lookup, never a guess), verified the same way before
+being trusted.
+
+A cluster or citation is left untouched and reported for a human to look
+at when:
   - nothing verifies (no cited DOI checks out, and the search fallback
     found no confident match either), or
   - MORE than one candidate independently verifies to a real paper —
@@ -35,6 +40,8 @@ Usage:
     python3 scripts/resolve_doi_conflicts.py                  # dry run, full report
     python3 scripts/resolve_doi_conflicts.py --apply           # write fixes to disk
     python3 scripts/resolve_doi_conflicts.py --key chi-2014    # just one cluster (debugging)
+    python3 scripts/resolve_doi_conflicts.py --skip-standalone # conflict clusters only, skip
+                                                                # the single-citation DOI pass
 """
 
 import argparse
@@ -53,13 +60,21 @@ def classify_doi(doi: str, cluster_title_words: set) -> dict:
     """Resolve `doi` against Crossref (cache-backed, same cache
     doi_resolver.py's own checks use) and classify it relative to this
     cluster's title: 'verified' (resolves, title matches), 'wrong_paper'
-    (resolves, but to a different paper), or 'not_found' (404)."""
+    (resolves, but to a different paper), 'not_found' (404), or 'error'
+    (the Crossref request itself failed even after retrying — treated the
+    same as not_found by every caller: not verified, so the cluster falls
+    through to the search fallback or gets reported, but a transient
+    network failure on one DOI never crashes the whole run)."""
     cache = dr.load_cache()
     cached = cache.get(doi)
     if cached and not dr._is_stale(cached):
         result = cached
     else:
-        result = dr.resolve_doi(doi)
+        try:
+            result = dr.resolve_doi(doi)
+        except Exception as e:
+            print(f"  [resolve failed for {doi}: {e}]", file=sys.stderr)
+            return {"status": "error", "title": None}
         cache[doi] = result
         dr.save_cache(cache)
 
@@ -79,7 +94,14 @@ def _search_fallback(key: str, entries: list, cluster_title_words: set):
     failure — this is a best-effort fallback, not a hard requirement)."""
     author_surname, year = key.rsplit("-", 1)
     longest_entry = max(entries, key=lambda e: len(e["title_words"]))
-    title_text = cc._extract_title_text(longest_entry["line"], year)
+    # Re-read the full line from disk rather than trusting
+    # longest_entry["line"] — extract_citations() truncates that to 160
+    # chars, which cuts into the title itself for any citation with a
+    # long author list (confirmed in production on a real 8-author
+    # citation), producing a garbled, incomplete search query.
+    located = _locate_citation_line(longest_entry["source"], key, cluster_title_words)
+    full_line = located[1].strip() if located else longest_entry["line"]
+    title_text = cc._extract_title_text(full_line, year)
     if not title_text:
         return None
     try:
@@ -135,20 +157,69 @@ def resolve_cluster(conflict: dict) -> dict:
              "cluster_title_words": cluster_title_words}
 
 
-def apply_change(rel_path: str, key: str, new_doi: str, cluster_title_words: set) -> bool:
-    """Finds the specific citation line in rel_path matching `key` (author-
-    year) AND this cluster's title (re-derived fresh from the file's
-    current content, not from a possibly-truncated cached copy of the
-    line) and rewrites just its DOI — both the `doi:X` link-text form and
-    the `https://doi.org/X` URL form, independently, so a line carrying
-    both isn't corrupted by a naive single string-replace. If the line
-    has no DOI at all yet, appends one. Returns whether a line was found
-    and changed."""
-    path = WIKI_ROOT / rel_path
-    text = path.read_text(encoding="utf-8")
-    lines = text.splitlines(keepends=True)
-    year = key.rsplit("-", 1)[-1]
+def resolve_standalone_issues(by_key: dict, conflict_keys: set) -> list:
+    """Handles the OTHER way a DOI can be wrong: every page citing this
+    author-year-title agrees on the same DOI, so check_citations.py never
+    flagged a cross-page disagreement — but the DOI itself is simply
+    wrong (doesn't resolve, or resolves to a different paper). Confirmed
+    in production: a citation gave a DOI for Cook et al. that doesn't
+    exist at all; the real one has a different year AND registration
+    number, not a typo'd digit — no amount of comparing pages against
+    each other would have caught it, since nothing disagreed.
 
+    conflict_keys: author-year keys already handled by resolve_cluster()
+    in this same run — skipped here so a DOI already fixed isn't
+    reprocessed against a stale (pre-fix) snapshot of by_key. Call this
+    with a FRESH by_key (re-read from disk) if conflicts were applied
+    first — see main()."""
+    by_doi: dict[str, list] = {}
+    for key, entries in by_key.items():
+        if key in conflict_keys:
+            continue
+        for e in entries:
+            if e["doi"]:
+                by_doi.setdefault(e["doi"], []).append(e)
+
+    resolutions = []
+    for doi, affected in sorted(by_doi.items()):
+        cluster_title_words = max((e["title_words"] for e in affected), key=len)
+        classification = classify_doi(doi, cluster_title_words)
+        if classification["status"] == "verified":
+            continue  # already correct, nothing to do
+
+        key = affected[0]["key"]
+        found = _search_fallback(key, affected, cluster_title_words)
+        if not found:
+            resolutions.append({
+                "key": key, "status": "needs_human",
+                "reason": f"cited DOI {doi} {classification['status']} against Crossref, and a "
+                          f"bibliographic search on this citation's own title/author found no "
+                          f"confident replacement",
+            })
+            continue
+
+        new_doi, new_title = found
+        resolutions.append({
+            "key": key, "status": "auto_fixed", "canonical_doi": new_doi,
+            "canonical_title": new_title,
+            "via": f"Crossref search (every page agreed on {doi}, which {classification['status']})",
+            "changes": [{"file": e["source"], "old_doi": doi} for e in affected],
+            "cluster_title_words": cluster_title_words,
+        })
+    return resolutions
+
+
+def _locate_citation_line(rel_path: str, key: str, cluster_title_words: set):
+    """Finds the specific citation line in rel_path matching `key` (author-
+    year) AND this cluster's title, re-derived fresh from the file's
+    actual current content — never from entries[...]["line"], which
+    extract_citations() truncates to 160 chars, cutting straight into the
+    title for anything with a long author list (confirmed on a real
+    8-author citation: the stored line ran out mid-word, inside the title
+    itself, before the DOI/URL was even reached). Returns (line_index,
+    full_untruncated_line) or None if no matching line is found."""
+    path = WIKI_ROOT / rel_path
+    lines = path.read_text(encoding="utf-8").splitlines(keepends=True)
     for i, raw_line in enumerate(lines):
         stripped = raw_line.strip()
         if not stripped or stripped.startswith("<!--"):
@@ -162,40 +233,56 @@ def apply_change(rel_path: str, key: str, new_doi: str, cluster_title_words: set
         this_title_words = cc._title_words(stripped, m.group(2))
         if not cc._same_paper(this_title_words, cluster_title_words):
             continue
+        return i, raw_line
+    return None
 
-        doi_m = cc.DOI_RE.search(stripped)
-        new_line = raw_line
-        if doi_m:
-            old_doi = cc._normalize_doi(doi_m.group(0))
-            old_doi_escaped = re.escape(old_doi)
-            new_line = re.sub(r"(doi:)" + old_doi_escaped, r"\g<1>" + new_doi,
-                               new_line, flags=re.IGNORECASE)
-            new_line = re.sub(r"(https?://doi\.org/)" + old_doi_escaped, r"\g<1>" + new_doi,
-                               new_line, flags=re.IGNORECASE)
-        else:
-            new_line = new_line.rstrip("\n") + f" [doi:{new_doi}](https://doi.org/{new_doi})\n"
 
-        if new_line != raw_line:
-            lines[i] = new_line
-            path.write_text("".join(lines), encoding="utf-8")
-            return True
+def apply_change(rel_path: str, key: str, new_doi: str, cluster_title_words: set) -> bool:
+    """Rewrites just the DOI on the matching citation line — both the
+    `doi:X` link-text form and the `https://doi.org/X` URL form,
+    independently, so a line carrying both isn't corrupted by a naive
+    single string-replace. If the line has no DOI at all yet, appends
+    one. Returns whether a line was found and changed."""
+    path = WIKI_ROOT / rel_path
+    located = _locate_citation_line(rel_path, key, cluster_title_words)
+    if located is None:
+        return False
+    i, raw_line = located
+    stripped = raw_line.strip()
+
+    doi_m = cc.DOI_RE.search(stripped)
+    new_line = raw_line
+    if doi_m:
+        old_doi = cc._normalize_doi(doi_m.group(0))
+        old_doi_escaped = re.escape(old_doi)
+        new_line = re.sub(r"(doi:)" + old_doi_escaped, r"\g<1>" + new_doi,
+                           new_line, flags=re.IGNORECASE)
+        new_line = re.sub(r"(https?://doi\.org/)" + old_doi_escaped, r"\g<1>" + new_doi,
+                           new_line, flags=re.IGNORECASE)
+    else:
+        new_line = new_line.rstrip("\n") + f" [doi:{new_doi}](https://doi.org/{new_doi})\n"
+
+    if new_line == raw_line:
         return False  # matched the line but nothing actually needed changing
-    return False
+    lines = path.read_text(encoding="utf-8").splitlines(keepends=True)
+    lines[i] = new_line
+    path.write_text("".join(lines), encoding="utf-8")
+    return True
 
 
-def format_report(resolutions: list) -> str:
+def _format_section(resolutions: list, heading: str) -> list:
     auto_fixed = [r for r in resolutions if r["status"] == "auto_fixed"]
     needs_human = [r for r in resolutions if r["status"] == "needs_human"]
     total_changes = sum(len(r["changes"]) for r in auto_fixed)
 
     lines = [
-        f"{len(resolutions)} conflict cluster(s) examined: "
-        f"{len(auto_fixed)} auto-resolved ({total_changes} page edit(s)), "
-        f"{len(needs_human)} need human judgment.\n",
+        f"## {heading}", "",
+        f"{len(resolutions)} examined: {len(auto_fixed)} auto-resolved "
+        f"({total_changes} page edit(s)), {len(needs_human)} need human judgment.\n",
     ]
 
     if auto_fixed:
-        lines.append("## Auto-resolved\n")
+        lines.append("### Auto-resolved\n")
         for r in auto_fixed:
             if not r["changes"]:
                 continue  # every page already agreed on the canonical DOI, nothing to do
@@ -205,18 +292,48 @@ def format_report(resolutions: list) -> str:
                 lines.append(f"  - {c['file']}: {c['old_doi'] or '(no DOI)'} -> {r['canonical_doi']}")
 
     if needs_human:
-        lines.append("\n## Needs human judgment\n")
+        lines.append("\n### Needs human judgment\n")
         for r in needs_human:
             lines.append(f"- **{r['key']}**: {r['reason']}")
 
+    return lines
+
+
+def format_report(conflict_resolutions: list, standalone_resolutions: list = ()) -> str:
+    lines = _format_section(conflict_resolutions, "Multi-page conflicts")
+    if standalone_resolutions:
+        lines.append("")
+        lines.extend(_format_section(standalone_resolutions, "Single-citation DOI problems "
+                                                              "(every page agreed, but the DOI was wrong)"))
     return "\n".join(lines)
+
+
+def _apply_resolutions(resolutions: list) -> None:
+    applied = failed = 0
+    for r in resolutions:
+        if r["status"] != "auto_fixed":
+            continue
+        for c in r["changes"]:
+            ok = apply_change(c["file"], r["key"], r["canonical_doi"], r["cluster_title_words"])
+            if ok:
+                applied += 1
+            else:
+                failed += 1
+                print(f"  [WARN] could not locate/edit the citation line for {r['key']} "
+                      f"in {c['file']} — left unchanged", file=sys.stderr)
+    print(f"Applied {applied} page edit(s); {failed} could not be located and were left unchanged.",
+          file=sys.stderr)
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--apply", action="store_true", help="Write fixes to disk (default: dry-run report only)")
-    parser.add_argument("--key", default=None, help="Only process this one conflict cluster key (e.g. chi-2014)")
+    parser.add_argument("--key", default=None, help="Only process this one conflict cluster key (e.g. chi-2014) "
+                                                      "— skips the single-citation DOI pass entirely")
     parser.add_argument("--out", default=None, help="Write the report to this path instead of stdout")
+    parser.add_argument("--skip-standalone", action="store_true",
+                         help="Only process multi-page conflict clusters; skip the single-citation DOI pass "
+                              "(every page agrees on a DOI, but the DOI itself is wrong)")
     args = parser.parse_args()
 
     conflicts = cc.find_conflicts(cc.load_all_citations())
@@ -226,28 +343,28 @@ def main() -> None:
             print(f"No conflict cluster with key {args.key!r}.", file=sys.stderr)
             sys.exit(1)
 
-    resolutions = []
+    conflict_resolutions = []
     for i, conflict in enumerate(conflicts, 1):
-        print(f"[{i}/{len(conflicts)}] resolving {conflict['key']}...", file=sys.stderr)
-        resolutions.append(resolve_cluster(conflict))
+        print(f"[{i}/{len(conflicts)}] resolving conflict {conflict['key']}...", file=sys.stderr)
+        conflict_resolutions.append(resolve_cluster(conflict))
 
     if args.apply:
-        applied = failed = 0
-        for r in resolutions:
-            if r["status"] != "auto_fixed":
-                continue
-            for c in r["changes"]:
-                ok = apply_change(c["file"], r["key"], r["canonical_doi"], r["cluster_title_words"])
-                if ok:
-                    applied += 1
-                else:
-                    failed += 1
-                    print(f"  [WARN] could not locate/edit the citation line for {r['key']} "
-                          f"in {c['file']} — left unchanged", file=sys.stderr)
-        print(f"\nApplied {applied} page edit(s); {failed} could not be located and were left unchanged.",
-              file=sys.stderr)
+        _apply_resolutions(conflict_resolutions)
 
-    report = format_report(resolutions)
+    standalone_resolutions = []
+    if not args.skip_standalone and not args.key:
+        # Re-read from disk so this reflects any conflict fixes just
+        # applied above, rather than resolving against a stale, pre-fix
+        # snapshot that would still show the old (already-fixed) DOI.
+        by_key = cc.load_all_citations()
+        conflict_keys = {c["key"] for c in conflicts}
+        print("Checking single-citation DOI problems (every page agrees, but the DOI is wrong)...",
+              file=sys.stderr)
+        standalone_resolutions = resolve_standalone_issues(by_key, conflict_keys)
+        if args.apply:
+            _apply_resolutions(standalone_resolutions)
+
+    report = format_report(conflict_resolutions, standalone_resolutions)
     if args.out:
         Path(args.out).write_text(report, encoding="utf-8")
         print(f"Wrote report to {args.out}", file=sys.stderr)
