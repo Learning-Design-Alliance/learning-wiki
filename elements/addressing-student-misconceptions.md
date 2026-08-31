@@ -50,7 +50,7 @@ Just-In-Time Teaching's WarmUps are one concrete mechanism for surfacing misconc
 ## Key Sources
 - Tanner, K., & Allen, D. (2005). Approaches to biology teaching and learning: Understanding the wrong answers — teaching toward conceptual change. *Cell Biology Education, 4*(2), 112-117.
 - Chiu, M. H., & Lin, J. W. (2005). Promoting fourth graders' conceptual change of their understanding of electric current via multiple analogies. *Journal of Research in Science Teaching, 42*(4), 429-464.
-- Chi, M. T. H. (2005). Commonsense conceptions of emergent processes: Why some misconceptions are robust. *Journal of the Learning Sciences, 14*(2), 161-199.
+- Chi, M. T. H. (2005). Commonsense conceptions of emergent processes: Why some misconceptions are robust. *Journal of the Learning Sciences, 14*(2), 161-199. [doi:10.1207/s15327809jls1402_1](https://doi.org/10.1207/s15327809jls1402_1)
 - Clark, D. (2006). Longitudinal conceptual change in students' understanding of thermal equilibrium: An examination of the process of conceptual restructuring. *Cognition and Instruction, 24*(4), 467-563.
 - Slotta, J. D., & Chi, M. T. H. (2006). Helping students understand challenging topics in science through ontology training. *Cognition and Instruction, 24*(2), 261-289.
 - Owens, K. D. (2003). *Common misconceptions in science*.

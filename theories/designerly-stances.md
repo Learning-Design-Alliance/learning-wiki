@@ -44,4 +44,4 @@ Drawn from design-studies literature (Schön's reflective practice, Dorst's prob
 ## Key Sources
 - Clark, D. B., Scott, D., DiPasquale, J. P., & Becker, S. (2024). Reframing design in education: Proposing a framework to support pre-service teachers in adopting designerly stances. *Journal of the Learning Sciences, 33*(4-5), 613-666. [https://doi.org/10.1080/10508406.2024.2397762](https://doi.org/10.1080/10508406.2024.2397762)
 - Schön, D. A. (1983). *The reflective practitioner: How professionals think in action*. Basic Books.
-- Dorst, K. (2011). The core of "design thinking" and its application. *Design Studies, 32*(6), 521-532.
+- Dorst, K. (2011). The core of "design thinking" and its application. *Design Studies, 32*(6), 521-532. [doi:10.1016/j.destud.2011.07.006](https://doi.org/10.1016/j.destud.2011.07.006)

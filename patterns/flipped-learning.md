@@ -76,6 +76,6 @@ Flipped Learning is a pattern that moves some initial content exposure outside c
 
 ## Key Sources
 - Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day*. International Society for Technology in Education.
-- Lage, M. J., Platt, G. J., & Treglia, M. (2000). Inverting the classroom: A gateway to creating an inclusive learning environment. *The Journal of Economic Education, 31*(1), 30-43. An earlier "inverted classroom" paper credited with popularizing the model in higher education, using pre-class preparation and in-class economics experiments — a direct precursor to the model Bergmann and Sams later branded "flipped."
+- Lage, M. J., Platt, G. J., & Treglia, M. (2000). Inverting the classroom: A gateway to creating an inclusive learning environment. *The Journal of Economic Education, 31*(1), 30-43. An earlier "inverted classroom" paper credited with popularizing the model in higher education, using pre-class preparation and in-class economics experiments — a direct precursor to the model Bergmann and Sams later branded "flipped.". [doi:10.1080/00220480009596759](https://doi.org/10.1080/00220480009596759)
 - Walvoord, B. E., & Anderson, V. J. (1998). *Effective grading: A tool for learning and assessment*. Jossey-Bass.
 - Arduini-Van Hoose, N. (2020). Flipped classroom. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

@@ -62,6 +62,6 @@ A student who fails to listen faces a consequence (missing important information
 - [Teacher Effectiveness Training / Conflict Resolution](../strategies/teacher-effectiveness-training-conflict-resolution.md) — for misbehavior persistent enough that a single consequence doesn't resolve it, this strategy's negotiation step picks up where natural/logical consequences leave off
 
 ## Key Sources
-- Weinstein, C. S., Tomlinson-Clarke, S., & Curran, M. (2004). Toward a conception of culturally responsive classroom management. *Journal of Teacher Education, 55*(1), 25-38.
+- Weinstein, C. S., Tomlinson-Clarke, S., & Curran, M. (2004). Toward a conception of culturally responsive classroom management. *Journal of Teacher Education, 55*(1), 25-38. [doi:10.1177/0022487103259812](https://doi.org/10.1177/0022487103259812)
 - Kohn, A. (2006). *Beyond discipline: From compliance to community*. Association for Supervision and Curriculum Development.
 - Arduini-Van Hoose, N. (2020). Responding to student misbehavior. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

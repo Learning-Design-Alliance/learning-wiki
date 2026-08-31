@@ -80,4 +80,4 @@ The shared object (a scientific paper) is engaged in four moments across the ter
 
 ## Key Sources
 - Papendieck, A., & Clarke, J. A. (2024). Curiosity to Question: Tracing productive engagement in an interdisciplinary course-based research experience. *Journal of the Learning Sciences, 33*(2), 323-364. [https://doi.org/10.1080/10508406.2024.2347597](https://doi.org/10.1080/10508406.2024.2347597)
-- Engle, R. A., & Conant, F. R. (2002). Guiding principles for fostering productive disciplinary engagement. *Cognition and Instruction, 20*(4), 399-483.
+- Engle, R. A., & Conant, F. R. (2002). Guiding principles for fostering productive disciplinary engagement. *Cognition and Instruction, 20*(4), 399-483. [doi:10.1207/s1532690xci2004_1](https://doi.org/10.1207/s1532690xci2004_1)

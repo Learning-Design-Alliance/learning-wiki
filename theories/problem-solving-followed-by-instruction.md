@@ -44,4 +44,4 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 ## Key Sources
 - Sinha, T. (2022). Enriching problem-solving followed by instruction with explanatory accounts of emotions. *Journal of the Learning Sciences, 31*(2), 151-198. [https://doi.org/10.1080/10508406.2021.1964506](https://doi.org/10.1080/10508406.2021.1964506)
 - Sinha, T., & Kapur, M. (2021b). When problem solving followed by instruction works: Evidence for productive failure. *Review of Educational Research, 91*(5), 761-798.
-- Kapur, M. (2014). Productive failure in learning math. *Cognitive Science, 38*(5), 1008-1022.
+- Kapur, M. (2014). Productive failure in learning math. *Cognitive Science, 38*(5), 1008-1022. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)

@@ -38,5 +38,5 @@ This same three-part structure extends directly to conversations with parents an
 - [Culturally Responsive Classroom Norms](culturally-responsive-classroom-norms.md) — a parallel case of a well-intentioned default (here, ordinary two-part praise-and-criticism feedback) landing differently depending on a student's background and history with the institution
 
 ## Key Sources
-- Cohen, G. L., Steele, C. M., & Ross, L. D. (1999). The mentor's dilemma: Providing critical feedback across the racial divide. *Personality and Social Psychology Bulletin, 25*(10), 1302-1318.
+- Cohen, G. L., Steele, C. M., & Ross, L. D. (1999). The mentor's dilemma: Providing critical feedback across the racial divide. *Personality and Social Psychology Bulletin, 25*(10), 1302-1318. [doi:10.1177/0146167299258011](https://doi.org/10.1177/0146167299258011)
 - Arduini-Van Hoose, N. (2020). Providing feedback; Communication with parents. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

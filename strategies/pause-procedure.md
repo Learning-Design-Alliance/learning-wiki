@@ -46,6 +46,6 @@ The pause procedure is one of the simplest supplements to an otherwise unchanged
 ## Key Sources
 - Bonwell, C. C., & Eison, J. A. (1991). *Active learning: Creating excitement in the classroom* (ASHE-ERIC Higher Education Report No. 1). George Washington University, School of Education and Human Development.
 - Rowe, M. B. (1980). Pausing principles and their effects on reasoning in science. *New Directions for Community Colleges, 1980*(31), 27-34.
-- Rowe, M. B. (1986). Wait time: Slowing down may be a way of speeding up! *Journal of Teacher Education, 37*(1), 43-50.
+- Rowe, M. B. (1986). Wait time: Slowing down may be a way of speeding up! *Journal of Teacher Education, 37*(1), 43-50. [doi:10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
 - Ruhl, K. L., Hughes, C. A., & Schloss, P. J. (1980). Using the pause procedure to enhance lecture recall. *Teacher Education and Special Education, 10*(3), 14-18.
 - Arduini-Van Hoose, N. (2020). Active learning. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

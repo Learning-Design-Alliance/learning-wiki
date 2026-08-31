@@ -75,7 +75,7 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - Wentzel, K. R. (2000). What is it that I'm trying to achieve? Classroom goals from a content perspective. *Contemporary Educational Psychology, 25*(1), 105-115.
 - Ames, C., & Archer, J. (1988). Achievement goals in the classroom: Students' learning strategies and motivation processes. *Journal of Educational Psychology, 80*(3), 260-267.
 - Meece, J. L., Anderman, E. M., & Anderman, L. H. (2006). Classroom goal structure, student motivation, and academic achievement. *Annual Review of Psychology, 57*, 487-503.
-- Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256-273.
+- Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. *Psychological Review, 95*(2), 256-273. [doi:10.1037/0033-295x.95.2.256](https://doi.org/10.1037/0033-295x.95.2.256)
 - Elliot, A. J., & Dweck, C. S. (1988). Goals: An approach to motivation and achievement. *Journal of Personality and Social Psychology, 54*(1), 5-12.
 - Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. *Psychological Review, 91*(3), 328-346.
 - Maehr, M. L., & Midgley, C. (1991). Enhancing student motivation: A schoolwide approach. *Educational Psychologist, 26*(3-4), 399-427.

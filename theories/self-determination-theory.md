@@ -73,10 +73,10 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - Koestner, R., & Losier, G. F. (2004). Distinguishing three ways of being highly motivated: A closer look at introjection, identification, and intrinsic motivation. In E. L. Deci & R. M. Ryan (Eds.), *Handbook of self-determination research* (pp. 101-121). University of Rochester Press.
 - Ryan, R. M., & Lynch, M. F. (2003). Motivation and classroom management. In R. Curwin, A. Mendler, & B. Mendler (Eds.), *Discipline with dignity*. Association for Supervision and Curriculum Development.
 - Elliott, A. J., McGregor, H. A., & Thrash, T. M. (2004). The need for competence. In E. L. Deci & R. M. Ryan (Eds.), *Handbook of self-determination research* (pp. 361-387). University of Rochester Press.
-- Cohen, E. G. (1994). Restructuring the classroom: Conditions for productive small groups. *Review of Educational Research, 64*(1), 1-35.
+- Cohen, E. G. (1994). Restructuring the classroom: Conditions for productive small groups. *Review of Educational Research, 64*(1), 1-35. [doi:10.3102/00346543064001001](https://doi.org/10.3102/00346543064001001)
 - Cohen, E. G., Brody, C. M., & Sapon-Shevin, M. (2004). *Teaching cooperative learning: The challenge for teacher education*. State University of New York Press.
 - Aronson, E., & Patnoe, S. (1997). *The jigsaw classroom: Building cooperation in the classroom* (2nd ed.). Longman.
-- Flowerday, T., & Schraw, G. (2003). Effect of choice on cognitive and affective engagement. *The Journal of Educational Research, 96*(4), 207-215.
+- Flowerday, T., & Schraw, G. (2003). Effect of choice on cognitive and affective engagement. *The Journal of Educational Research, 96*(4), 207-215. [doi:10.1080/00220670309598810](https://doi.org/10.1080/00220670309598810)
 - Schwartz, B. (2004). *The paradox of choice: Why more is less*. Ecco.
 - Deci, E. L., & Ryan, R. M. (2003). *Handbook of self-determination research*. University of Rochester Press.
 - Arduini-Van Hoose, N. (2020). Self-determination theory. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

@@ -68,5 +68,5 @@ Rhetorical skill development matters when learning requires more than having ide
 **Presentation critique with rhetorical criteria** — Peers or instructors give feedback on clarity, organization, evidence use, and audience adaptation rather than on style alone.
 
 ## Key Sources
-- Toulmin, S. (2003). *The uses of argument* (Updated ed.). Cambridge University Press.
+- Toulmin, S. (2003). *The uses of argument* (Updated ed.). Cambridge University Press. [doi:10.1017/cbo9780511840005](https://doi.org/10.1017/cbo9780511840005)
 - Graff, G., & Birkenstein, C. (2021). *They say / I say* (5th ed.). W. W. Norton.

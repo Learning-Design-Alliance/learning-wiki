@@ -47,6 +47,6 @@ People also perceive relationships between variables that don't actually exist a
 - A study reporting that students who use a particular study app have higher grades (correlational) is a different, weaker claim than a study that randomly assigns students to use the app or not and then compares outcomes (experimental)
 
 ## Key Sources
-- Rotton, J., & Kelly, I. W. (1985). Much ado about the full moon: A meta-analysis of lunar-lunacy research. *Psychological Bulletin, 97*(2), 286-306.
+- Rotton, J., & Kelly, I. W. (1985). Much ado about the full moon: A meta-analysis of lunar-lunacy research. *Psychological Bulletin, 97*(2), 286-306. [doi:10.1037/0033-2909.97.2.286](https://doi.org/10.1037/0033-2909.97.2.286)
 - Fiedler, K. (2004). Illusory correlation. In R. F. Pohl (Ed.), *Cognitive illusions: A handbook on fallacies and biases in thinking, judgement and memory* (pp. 97-114). Psychology Press.
 - Arduini-Van Hoose, N. (2020). Quantitative and qualitative approaches to research; Descriptive research; Correlational research. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

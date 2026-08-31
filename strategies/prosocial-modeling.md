@@ -47,7 +47,7 @@ Bandura's observational-learning research showed that model consequences shape i
 - A parent who wants a child to read keeps books visibly present at home, is seen reading regularly, and talks about favorite books, rather than only telling the child to read.
 
 ## Key Sources
-- Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models. *Journal of Abnormal and Social Psychology, 63*(3), 575-582.
+- Bandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models. *Journal of Abnormal and Social Psychology, 63*(3), 575-582. [doi:10.1037/h0045925](https://doi.org/10.1037/h0045925)
 - Murrell, A. R., Christoff, K. A., & Henning, K. R. (2007). Characteristics of domestic violence offenders: Associations with childhood exposure to violence. *Journal of Family Violence, 22*(7), 523-532.
 - U.S. Department of Health & Human Services. (2013). *Child maltreatment 2012*. Administration for Children and Families.
 - Arduini-Van Hoose, N. (2020). Social cognitive learning theory. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
