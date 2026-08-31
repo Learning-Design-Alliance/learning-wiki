@@ -136,7 +136,11 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   is almost always journal + volume, and two articles in one volume of one journal is the
   normal case, not evidence. At 2/3 the check proposed rewriting "Reading aloud improves
   memory" to "Why are background telephone conversations distracting?". The first page is
-  what identifies an article within a volume. `resolve_citation_metadata.py` fixes the title in that case
+  what identifies an article within a volume. And a registry title that is merely a
+  *prefix* of the page's is a truncated record, not a correction — Crossref gives Okonofua
+  & Eberhardt (2015) as just "Two Strikes" while the page carries the full "Two strikes:
+  Race and the disciplining of young students". The registry is not automatically the
+  fuller source. `resolve_citation_metadata.py` fixes the title in that case
   and strips only when nothing corroborates the DOI.
 - **Crossref returns HTML-escaped strings** — `Youth &amp; Society`. `doi_resolver` unescapes
   once at the boundary; writing the raw value puts the entity on the page.

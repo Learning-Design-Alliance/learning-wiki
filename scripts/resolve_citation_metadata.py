@@ -149,6 +149,23 @@ def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
             # every genuine case here it matched (Cook-Sather 3/3, Okonofua &
             # Eberhardt 3/3) and in every false one it did not.
             if j_ok and v_ok and p_ok:
+                # Do not trade a fuller title for a truncated registry record.
+                # Crossref gives Okonofua & Eberhardt (2015) as just "Two
+                # Strikes", while the page carries "Two strikes: Race and the
+                # disciplining of young students" — the real published title.
+                # Rewriting there deletes a correct subtitle in the name of
+                # matching the registry, which is the opposite of the point.
+                #
+                # A registry title that is a PREFIX of the cited one is a
+                # shorter rendering of the same title, not a different one; a
+                # registry title that diverges (Cook-Sather's "Sound, Presence,
+                # and Power" against the page's "silence in education") is a
+                # genuine correction.
+                c_norm, r_norm = cc._norm_title(cited_title), cc._norm_title(reg_title)
+                if c_norm.startswith(r_norm):
+                    return {"action": "none", "fields": {},
+                            "why": "registry title is a truncation of the fuller one "
+                                   "already on the page"}
                 return {"action": "fix_title", "fields": {"title": reg_title},
                         "why": f"title is wrong, not the DOI (journal, volume AND first page "
                                f"all match the registry): \"{cited_title[:45]}\" -> "
