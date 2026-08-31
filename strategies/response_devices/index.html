@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Response devices allow learners to anonymously share answers with the whole class.">
+        <meta name="description" content="Response devices allow learners to anonymously share answers with the whole class, enabling whole-group participation and rapid formative assessment.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,74 +744,90 @@
 
 
 <h1 id="response-devices">Response Devices<a class="headerlink" href="#response-devices" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Response devices allow learners to anonymously share answers with the whole class. They provide a way to encourage whole-group participation and collect formative data. Instructors can present a problem, have learners work on it individually (e.g., on whiteboards), and then share their answers using a response system. The instructor and class then view the responses to assess overall comprehension and inform next steps.</p>
+<p>Response devices allow learners to anonymously share answers with the whole class. They range from low-tech whiteboards and colored cards to commercial clicker systems and web-based polling tools (e.g., <a href="https://www.polleverywhere.com">Poll Everywhere</a>, <a href="https://www.socrative.com">Socrative</a>, <a href="https://kahoot.com">Kahoot!</a>, <a href="https://www.mentimeter.com">Mentimeter</a>). The typical cycle: the instructor poses a question, learners commit to an answer individually, responses are aggregated and displayed, and the distribution drives discussion or instructional adjustment.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Response devices convert passive audiences into active respondents and give instructors real-time formative data on whole-class understanding <a href="../../claims/active-learning-improves-exam-performance/">Active learning improves exam performance relative to lecture alone.</a> [+S]. Their learning benefit depends less on the device than on the question design and what happens after the vote: displaying a response distribution and requiring peer discussion or instructor explanation produces substantially deeper learning than polling alone <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at the task and process levels.</a> [+S]. Anonymity lowers the social cost of wrong answers, surfacing misconceptions that hand-raising conceals.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Response system (e.g., clickers, mobile app, whiteboards), structured prompts, time for individual work and sharing</li>
+<li>A reliable response mechanism (clickers, mobile app, or whiteboards) accessible to every learner</li>
+<li>Well-designed questions targeting known misconceptions, not just factual recall (<a href="../questioning/">Questioning</a>)</li>
+<li>Time for individual commitment <em>before</em> any group response — committing first is what drives engagement</li>
+<li>A follow-up routine: display the distribution, discuss, and re-vote or explain (<a href="../../elements/class-discussion/">Class Discussion</a>, <a href="../../elements/provide-feedback/">Provide Feedback</a>)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires a reliable response system, potential for technical issues, may be perceived as superficial if not integrated into meaningful discussion</li>
+<li>Devices used for attendance, trivia, or low-level recall add logistics without learning benefit [~M]</li>
+<li>If the instructor moves on without addressing a wrong-answer distribution, learners' misconceptions are confirmed rather than corrected [-M]</li>
+<li>Technical failures and device-access inequities can exclude learners; low-tech fallbacks (whiteboards, cards) mitigate this</li>
+<li>Perceived as superficial by learners if polling is not visibly connected to subsequent instruction</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Peer instruction</strong>: individual vote → peer discussion → re-vote → instructor explanation; the strongest-evidenced variant [~S]</li>
+<li><strong>Low-tech</strong>: mini whiteboards or A/B/C/D cards achieve the same commit-and-reveal cycle with no infrastructure</li>
+<li><strong>Gamified quizzing</strong>: Kahoot-style competition increases engagement and motivation, but speed pressure can favor fast retrieval over reasoning [~W]</li>
+<li><strong>Open-response polling</strong>: word clouds and free-text collection for brainstorming or prior-knowledge checks</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>K-12, higher education, and professional development; beneficial for learners of all ages</li>
+<li>Large-enrollment classes where individual learners rarely speak; anonymity enables participation at scale</li>
+<li>Anxious or low-confidence learners who avoid public error — anonymous response creates a safe space to be wrong</li>
+<li>All age levels, K–12 through professional development; question sophistication, not the device, is the age-dependent variable</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Encourage active participation, collect formative data on learner understanding, provide immediate feedback, promote self-reflection</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides a structured format for engagement, creates a safe space for sharing answers, supports formative assessment, gives immediate feedback to the instructor, can be gamified to increase motivation</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Adaptable to different question types and content areas, can be used in a variety of settings (in-person, online, hybrid), may allow for open-ended responses or predetermined options.</li>
+<li>Formative assessment: diagnosing whole-class misconceptions in real time</li>
+<li>Conceptual understanding: conceptual-confrontation questions that expose and resolve misconceptions</li>
+<li>Engagement and attention: sustained on-task participation during direct instruction</li>
+<li>Self-assessment: learners calibrate their understanding against the class distribution</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track participation rates, monitor answer accuracy, assess the depth of learner engagement, analyze the feedback provided by learners</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Increased engagement, improved formative assessment, and a better understanding of learner comprehension.</li>
-</ul>
+<ol>
+<li>Design a question with plausible distractors based on known misconceptions (<a href="../questioning/">Questioning</a>)</li>
+<li>Give adequate time for individual work and commitment to an answer (<a href="../../elements/practice/">Practice</a>)</li>
+<li>Collect anonymous responses and display the distribution</li>
+<li>If answers diverge, have learners discuss with neighbors and re-vote (<a href="../../elements/peer-discussion/">Peer Discussion</a>, <a href="../../elements/class-discussion/">Class Discussion</a>)</li>
+<li>Address the remaining confusion explicitly and adjust instruction (<a href="../../elements/provide-feedback/">Provide Feedback</a>, <a href="../../elements/assess-performance/">Assess Performance</a>)</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../peer-instruction/">Peer Instruction</a> — the canonical response-device pedagogy: vote, discuss, re-vote</li>
+<li><a href="../../patterns/think-pair-share/">Think-Pair-Share</a> — a low-tech variant with the same commit-discuss-share structure</li>
+<li><a href="../formative-assessment/">Formative Assessment</a> — response devices are one instrument for enacting it</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — each question is a retrieval practice opportunity</li>
+<li><a href="../../elements/provide-feedback/">Provide Feedback</a> — the post-vote discussion is where feedback operates</li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — aggregated responses give whole-class performance data</li>
+<li><a href="../../elements/class-discussion/">Class Discussion</a> — the response distribution is a discussion prompt</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="https://www.polleverywhere.com">Poll Everywhere</a> — web/mobile polling with live word clouds and multiple choice</li>
+<li><a href="https://www.socrative.com">Socrative</a> — quizzes, space race, and exit tickets with teacher dashboards</li>
+<li><a href="https://kahoot.com">Kahoot!</a> — gamified multiple-choice quizzes</li>
+<li><a href="https://www.mentimeter.com">Mentimeter</a> — polling, open response, and visualization</li>
+<li>Mini whiteboards — zero-infrastructure anonymous response</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>A kindergarten teacher uses student response systems to encourage whole-group math participation and collect formative data on student learning. Socrative allows for a variety of student interactions and for teachers to assess student learning.</li>
+<li>A physics instructor uses <a href="../peer-instruction/">Peer Instruction</a> with clickers: a conceptual question on Newton's third law yields a split vote, students argue with neighbors, and the re-vote shows majority convergence before the instructor resolves the remainder (Mazur's method at Harvard).</li>
+<li>A kindergarten teacher uses mini whiteboards for whole-group math: every child writes an answer, all boards go up simultaneously, and the teacher scans for error patterns before reteaching.</li>
+<li>A large lecture course uses <a href="https://www.socrative.com">Socrative</a> exit tickets; the instructor reviews the response report before the next session and opens class by addressing the two most common wrong answers.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., &amp; Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. <em>PNAS, 111</em>(23), 8410–8415. <a href="https://doi.org/10.1073/pnas.1319030111">doi:10.1073/pnas.1319030111</a></li>
+<li>Caldwell, J. E. (2007). Clickers in the large classroom: Current research and best-practice tips. <em>CBE—Life Sciences Education, 6</em>(1), 9–20. <a href="https://doi.org/10.1187/cbe.06-12-0205">doi:10.1187/cbe.06-12-0205</a></li>
+<li>Beatty, I. D., Gerace, W. J., Leonard, W. J., &amp; Dufresne, R. J. (2006). Designing effective questions for classroom response system teaching. <em>American Journal of Physics, 74</em>(1), 31–39. <a href="https://doi.org/10.1119/1.2121753">doi:10.1119/1.2121753</a></li>
+<li>Mazur, E. (1997). <em>Peer instruction: A user's manual.</em> Prentice Hall.</li>
+<li>Black, P., &amp; Wiliam, D. (1998). Assessment and classroom learning. <em>Assessment in Education: Principles, Policy &amp; Practice, 5</em>(1), 7–74. <a href="https://doi.org/10.1080/0969595980050102">doi:10.1080/0969595980050102</a></li>
 </ul>
 
 

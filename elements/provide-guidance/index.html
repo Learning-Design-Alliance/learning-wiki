@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -695,54 +722,75 @@
 
 
 <h1 id="provide-guidance">Provide guidance<a class="headerlink" href="#provide-guidance" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Element</strong> · <a href="../">All elements</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Offers scaffolding, modeling, or examples to support learning.</p>
+<p>Providing guidance means supplying learners with scaffolding, models, worked examples, or coaching support while they acquire new knowledge or skills. The instructor or system structures the task enough to prevent unproductive search and error, then progressively withdraws support as competence develops.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Guidance reduces the working-memory burden of early learning by narrowing the space of possible actions and giving learners a reference model to study <a href="../../claims/worked-examples-reduce-novice-search/">Worked examples reduce unnecessary search for novices.</a> [+M]. Its effectiveness depends on matching the amount of support to learner expertise: too little guidance leaves novices floundering, while too much produces redundancy for more knowledgeable learners <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [~M]. Guidance should be adaptive and faded over time, shifting responsibility to the learner as performance improves <a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading support promotes transfer of responsibility.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>A task analysis identifying where learners are likely to struggle, so support targets actual difficulty points</li>
+<li>Support that is contingent on learner performance, adjusted in response to evidence of understanding <a href="../../claims/contingent-scaffolding-improves-learning/">Contingent scaffolding improves learning.</a> [+M]</li>
+<li>A plan for fading: moving from full models to partial examples to independent performance (<a href="../fading/">Fading</a>)</li>
+<li>Opportunities for learners to apply guidance actively rather than passively receive it (<a href="../practice/">Practice</a>)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Unguided or minimally guided discovery is less effective for novices than explicit guidance, particularly for complex content [~S] — inquiry works best <em>after</em> foundational guidance, not instead of it</li>
+<li>Over-guidance for learners with prior knowledge wastes capacity and can depress performance <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [~M]</li>
+<li>Static, one-size-fits-all guidance ignores the expertise-reversal effect; support calibrated for the middle of a group helps no one at the extremes</li>
+<li>Guidance that does the cognitive work for the learner (e.g., fully completed solutions with no <a href="../self-explanation/">Self-Explanation</a> prompts) yields shallow encoding <a href="../../claims/worked-examples-with-practice-improve-transfer/">Pairing worked examples with practice or fading supports transfer better than examples alone.</a> [-S]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Best for learners acquiring complex concepts or procedural knowledge.</li>
+<li>Novices acquiring complex concepts or procedural knowledge, who lack schemas to organize unguided search <a href="../../claims/worked-examples-reduce-novice-search/">Worked examples reduce unnecessary search for novices.</a> [+M]</li>
+<li>Learners in the middle of an expertise trajectory, for whom faded and contingent support accelerates growth <a href="../../claims/contingent-scaffolding-improves-learning/">Contingent scaffolding improves learning.</a> [+M]</li>
+<li>Less beneficial for experts, who perform better with problem-solving opportunities than with redundant guidance <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Help learners process and apply information effectively.</li>
+<li>Procedural knowledge: learning how to execute multi-step tasks correctly</li>
+<li>Conceptual understanding: using examples and explanations to build accurate mental models <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+M]</li>
+<li>Transfer: faded guidance that hands responsibility to learners supports application beyond the original context <a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading support promotes transfer of responsibility.</a> [+M]</li>
 </ul>
 <h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<!-- Links to principles applied -->
 <ul>
-<li><a href="../../principles/scaffolding/">Scaffolding</a></li>
-<li><a href="../../principles/metacognition/">Metacognition</a></li>
-<li><a href="../../principles/inquiry-based-learning/">Inquiry-Based Learning</a></li>
+<li><a href="../../principles/scaffolding/">Scaffolding</a> — providing guidance <em>is</em> the enactment of scaffolding: temporary, contingent support that is withdrawn as competence grows</li>
+<li><a href="../../principles/cognitive-load-management/">Cognitive Load Management</a> — worked examples and models externalize intermediate steps so novices attend to task structure rather than means-ends search <a href="../../claims/example-problem-sequences-reduce-cognitive-load/">Example-problem sequences reduce cognitive load.</a> [+M]</li>
+<li><a href="../../principles/metacognition/">Metacognition</a> — guidance can model self-monitoring (via <a href="../think-aloud/">Think-Aloud</a>) and prompt learners to explain and evaluate their own reasoning</li>
+<li><a href="../../principles/inquiry-based-learning/">Inquiry-Based Learning</a> — guidance makes inquiry productive: prompts, hints, and <a href="../coaching/">Coaching</a> keep exploration oriented without eliminating the learner's own reasoning work</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../worked-examples/">Worked Examples</a></li>
-<li><a href="../guided-discovery/">Guided Discovery</a></li>
-<li><a href="../immediate-feedback/">Immediate Feedback</a></li>
+<li><a href="../worked-examples/">Worked Examples</a> — the most heavily researched form of guidance; complete solution models for study</li>
+<li><a href="../guided-discovery/">Guided Discovery</a> — inquiry with built-in prompts and hints, balancing exploration and support</li>
+<li><a href="../immediate-feedback/">Immediate Feedback</a> — corrective guidance delivered at the moment of error, before misconceptions consolidate</li>
+<li><a href="../demonstration/">Demonstration</a> — modeling expert performance as a form of guidance</li>
+<li><a href="../fading/">Fading</a> — the mechanism for withdrawing guidance as expertise develops</li>
+<li><a href="../coaching/">Coaching</a> — interactive, performance-contingent guidance during practice</li>
 </ul>
 <h2 id="patterns-that-use-this-element">Patterns That Use This Element<a class="headerlink" href="#patterns-that-use-this-element" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../../patterns/gagn%C3%A9s-9-events/">Gagné’s 9 Events</a></li>
-<li><a href="../../patterns/merrills-first-principles-demonstration/">Merrill’s First Principles (Demonstration)</a></li>
+<li><a href="../../patterns/gagn%C3%A9s-9-events-of-instruction/">Gagné's 9 Events</a> — "provide learning guidance" is the fifth event</li>
+<li><a href="../../patterns/4cid-four-component-instructional-design/">4C/ID</a> — supportive information and procedural information are the guidance components surrounding learning tasks</li>
+<li><a href="../../patterns/cognitive-apprenticeship/">Cognitive Apprenticeship</a> — modeling and coaching phases deliver guidance before fading</li>
+<li><a href="../../patterns/direct-instruction/">Direct Instruction</a> — high-guidance enactment with scripted models and prompted practice</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
-<!-- Links to strategies that use this element, with ratings -->
-<ul>
-<li><!-- TODO --></li>
-</ul>
+<p><strong><a href="../../strategies/use_worked_examples/">Use Worked Examples</a></strong> — Presents a fully solved problem with step-by-step reasoning, then alternates with problems for the learner to solve; the canonical example-problem pairing.</p>
+<p><strong><a href="../../strategies/think-aloud-modeling/">Think-Aloud Modeling</a></strong> — Instructor verbalizes reasoning and self-monitoring while performing a task, making expert decision-making available for imitation.</p>
+<p><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — Narrated video demonstrations paired with practice exercises and a graduated hint system that delivers progressively more explicit guidance on demand.</p>
+<p><strong><a href="https://www.carnegielearning.com">Cognitive Tutor</a></strong> (Carnegie Learning) — Adaptive tutoring software that provides just-in-time hints and feedback calibrated to each learner's current step in a problem, enacting contingent guidance at scale.</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Sweller, J., &amp; Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. <em>Cognition and Instruction, 2</em>(1), 59–89. <a href="https://doi.org/10.1207/s1532690xci0201_3">doi:10.1207/s1532690xci0201_3</a></li>
+<li>Kirschner, P. A., Sweller, J., &amp; Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. <em>Educational Psychologist, 41</em>(2), 75–86. <a href="https://doi.org/10.1207/s15326985ep4102_1">doi:10.1207/s15326985ep4102_1</a></li>
+<li>van Merriënboer, J. J. G., &amp; Kirschner, P. A. (2018). <em>Ten steps to complex learning</em> (3rd ed.). Routledge.</li>
+<li>Kalyuga, S., Ayres, P., Chandler, P., &amp; Sweller, J. (2003). The expertise reversal effect. <em>Educational Psychologist, 38</em>(1), 23–31. <a href="https://doi.org/10.1207/S15326985EP3801_4">doi:10.1207/S15326985EP3801_4</a></li>
+<li>van Gog, T., &amp; Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. <em>Educational Psychology Review, 22</em>(2), 155–174. <a href="https://doi.org/10.1007/s10648-010-9134-7">doi:10.1007/s10648-010-9134-7</a></li>
 </ul>
 
 

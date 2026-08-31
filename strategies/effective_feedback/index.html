@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Feedback is any response from a teacher regarding a student's performance or behavior.">
+        <meta name="description" content="Feedback is any response from a teacher regarding a student's performance or behavior, provided with the goal of closing the gap between current and desired performance.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -703,10 +686,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
+  <a href="#patterns-that-use-this-strategy" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Tools
+        Patterns That Use This Strategy
       
     </span>
   </a>
@@ -761,74 +744,87 @@
 
 
 <h1 id="effective-feedback">Effective Feedback<a class="headerlink" href="#effective-feedback" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Feedback is any response from a teacher regarding a student's performance or behavior. It can be verbal, written, or gestural. The purpose of feedback in the learning process is to improve a student’s performance. Effective feedback determines a learner's level of understanding and skill development in order to plan the next steps towards achieving the learning intentions or goals. It should assist the learner to reflect on their learning and their learning strategies so they can make adjustments to make better progress in their learning.</p>
+<p>Feedback is any response from a teacher, peer, or system regarding a student's performance or behavior — verbal, written, or gestural. Effective feedback does more than evaluate: it tells the learner <em>where they are</em> relative to a goal, <em>how</em> to close the gap, and prompts them to monitor and adjust their own learning strategies. Its power depends less on how much is given than on whether the learner can act on it.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Feedback is among the most powerful influences on achievement, but its effects are highly variable — poorly designed feedback can depress performance <a href="../../claims/assessment-for-learning-improves-achievement/">Feedback effects on learning are large on average but highly variable, depending on design and delivery.</a> [~S]. Feedback works when it is task-focused, specific, and actionable; it fails when it is directed at the person ("you're so smart") or when it supplies answers the learner has not yet attempted to find. Feedback is most effective when embedded in a cycle of <a href="../../elements/assessment/">Assessment</a> → response → revision, rather than delivered as a terminal verdict.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Time for observation, assessment, and communication with the student. May require tools such as rubrics, notebooks, digital portfolios, or communication platforms.</li>
+<li>Clear learning intentions and success criteria shared with learners — feedback is only meaningful against a known target</li>
+<li>Time for observation and communication; tools such as rubrics, notebooks, digital portfolios, or communication platforms</li>
+<li>Opportunities for the learner to <em>use</em> the feedback — revision, retry, or next attempt (<a href="../../elements/practice/">Practice</a>, <a href="../../elements/individual-reflection/">Individual Reflection</a>)</li>
+<li>A climate of psychological safety in which corrective information is not experienced as a threat</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>If not delivered sensitively, feedback can discourage learners. Requires time and effort from the instructor. May be perceived as too corrective if not balanced with positive reinforcement.</li>
+<li>Feedback directed at the self rather than the task (praise of ability, personal criticism) reduces motivation and can backfire [~S]</li>
+<li>Feedback given before learners have attempted the task removes productive struggle and creates dependence [-M]</li>
+<li>Overly dense or vague feedback ("good work," page-long margin comments) exceeds working memory capacity and is ignored <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [-M]</li>
+<li>Grades assigned alongside comments cause learners to attend to the grade and ignore the comments [-S]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Timing:</strong> immediate feedback supports procedural skill; delayed feedback supports retention and transfer in conceptually complex tasks [~M]</li>
+<li><strong>Source:</strong> teacher, automated system, peer, or self-assessment; peer feedback benefits the giver as much as the receiver</li>
+<li><strong>Mode:</strong> written comments, audio/video commentary, conferences, or in-system hints (e.g., Khan Academy's stepwise hints)</li>
+<li><strong>Feed-forward:</strong> shifting emphasis from what was wrong to what to do next ("actionable next step") increases uptake</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learners, across grade levels and subject areas</li>
+<li>All learners across grade levels and subject areas, but especially novices who lack the knowledge to self-diagnose errors</li>
+<li>Struggling learners benefit from specific, task-level guidance; high achievers benefit more from prompts to self-evaluate [~M]</li>
+<li>Learners with low self-efficacy need feedback framed around progress and strategy rather than ability</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Improve learner performance, encourage self-reflection, guide future learning, provide timely and specific information on progress</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Improves learner confidence and self-esteem, reinforces learning, builds motivation, reduces negative feelings about learning, helps both student and teacher understand progress</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Can be adapted to individual learner needs, preferences, and learning styles. Consider diverse learners when crafting feedback, balancing proper encouragement with avoiding hurt feelings.</li>
+<li>Improving performance on well-defined tasks and products</li>
+<li>Self-regulation: building learners' capacity to monitor and adjust their own strategies</li>
+<li>Conceptual correction: resolving misconceptions through targeted information</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-<li><a href="../../elements/individual-reflection/">Individual Reflection</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Observe changes in learner performance and attitude towards learning. Track learner progress towards goals. Analyze learner self-assessments and reflections.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research shows feedback has an effect size of 1.13 on learning achievement. Effective feedback can enhance motivation, engagement, and self-regulation.</li>
-</ul>
+<ol>
+<li>Establish learning intentions and success criteria before the task (<a href="../../principles/assessment-for-learning/">Assessment for Learning</a>)</li>
+<li>Observe or collect performance evidence (<a href="../../elements/assess-performance/">Assess Performance</a>)</li>
+<li>Provide feedback that is specific, task-focused, and actionable (<a href="../../elements/provide-feedback/">Provide Feedback</a>) — identify the gap and one concrete next step</li>
+<li>Prompt the learner to interpret and act on the feedback (<a href="../../elements/individual-reflection/">Individual Reflection</a>)</li>
+<li>Provide an opportunity to revise or retry, closing the loop (<a href="../../elements/practice/">Practice</a>)</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../action-oriented_feedback/">Action-Oriented Feedback</a> — a variant that structures every comment around a next action</li>
+<li><a href="../../principles/check-ins/">Check-Ins</a> — low-stakes moments that generate the evidence feedback depends on</li>
+<li><a href="../../elements/coaching/">Coaching</a> — feedback embedded in an ongoing relationship with guided practice</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — generates the evidence on which feedback is based</li>
+<li><a href="../../elements/provide-feedback/">Provide Feedback</a> — the delivery element itself</li>
+<li><a href="../../elements/individual-reflection/">Individual Reflection</a> — how learners process and internalize feedback</li>
+<li><a href="../../elements/coaching/">Coaching</a> — sustained feedback within a guided-practice relationship</li>
+<li><a href="../../elements/articulation/">Articulation</a> — learners verbalize their reasoning, making it feedbackable</li>
 </ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
+<h2 id="patterns-that-use-this-strategy">Patterns That Use This Strategy<a class="headerlink" href="#patterns-that-use-this-strategy" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../patterns/formative-assessment/">Formative Assessment</a> — feedback is the central mechanism of the assess–adjust cycle</li>
+<li><a href="../../patterns/cognitive-apprenticeship/">Cognitive Apprenticeship</a> — the coaching phase consists largely of situated feedback</li>
+<li><a href="../../patterns/competency-based-learning/">Competency-Based Learning</a> — feedback against explicit criteria replaces norm-referenced grading</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>A teacher provides written comments on a student's essay, highlighting strengths and areas for improvement, and suggesting specific steps for revision. A mentor provides verbal feedback to a mentee on their presentation skills, offering constructive criticism and encouragement.</li>
+<li>A teacher returns essay drafts with two specific comments and one revision step, and schedules in-class time to revise before final submission — feedback that is used, not just received.</li>
+<li><a href="https://www.khanacademy.org">Khan Academy</a> — exercises deliver immediate, stepwise hints after incorrect answers, fading toward full solutions.</li>
+<li><a href="https://www.turnitin.com">Turnitin Feedback Studio</a> — instructors embed voice and margin comments directly in student writing, linking each comment to rubric criteria.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Educational Research, 77</em>(1), 81–112. <a href="https://doi.org/10.3102/003465430298487">doi:10.3102/003465430298487</a></li>
+<li>Black, P., &amp; Wiliam, D. (1998). Assessment and classroom learning. <em>Assessment in Education: Principles, Policy &amp; Practice, 5</em>(1), 7–74. <a href="https://doi.org/10.1080/0969595980050102">doi:10.1080/0969595980050102</a></li>
+<li>Shute, V. J. (2008). Focus on formative feedback. <em>Review of Educational Research, 78</em>(1), 153–189. <a href="https://doi.org/10.3102/0034654307313795">doi:10.3102/0034654307313795</a></li>
+<li>Kluger, A. N., &amp; DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. <em>Psychological Bulletin, 119</em>(2), 254–284. <a href="https://doi.org/10.1037/0033-2909.119.2.254">doi:10.1037/0033-2909.119.2.254</a></li>
 </ul>
 
 

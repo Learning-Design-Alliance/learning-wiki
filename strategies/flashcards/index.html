@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Flashcards are a study tool used for memorization and reinforcement of knowledge.">
+        <meta name="description" content="Flashcards present a prompt on one side and its answer on the other, enabling rapid self-testing; paired with spaced repetition software such as Anki, they schedule review at expanding intervals to maximize long-term retention.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +733,81 @@
 
 
 <h1 id="flashcards">Flashcards<a class="headerlink" href="#flashcards" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Flashcards are a study tool used for memorization and reinforcement of knowledge. They present a question, concept, or term on one side and the corresponding answer or explanation on the other, providing a quick, accessible method for self-testing and review. Using Anki, flashcards become powerful and intelligent, adapting to the learner's pace and knowledge level. Anki's system is based on spaced repetition, which helps users focus on challenging material and review less frequently on what they already know.</p>
+<p>Flashcards are a study tool in which a question, term, or concept appears on one side and the corresponding answer or explanation on the other, providing a quick, accessible method for self-testing and review. In digital form — most prominently <a href="https://apps.ankiweb.net">Anki</a> — cards are scheduled by a spaced repetition algorithm that expands review intervals for material recalled successfully and shortens them for material that is forgotten, concentrating effort on difficult items. The core mechanism is <a href="../../principles/active-learning/">retrieval practice</a>: each card forces the learner to reconstruct an answer from memory rather than reread it.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Flashcards work because retrieval is a learning event, not merely an assessment: the act of recalling information strengthens its memory trace far more than restudying does <a href="../../claims/worked-examples-with-practice-improve-transfer/">Testing strengthens retention more than restudying.</a> [+S]. Spacing those retrievals over expanding intervals compounds the benefit, exploiting the spacing effect to produce durable retention with less total study time <a href="../../claims/chunking-reduces-working-memory-load/">Spaced retrieval outperforms massed study for long-term retention.</a> [+S]. Card quality is the decisive design variable: cards should elicit a full retrieval attempt (not recognition), isolate one fact or relationship per card, and be phrased as questions rather than statements.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires creation of flashcard decks with questions and answers. Anki software or similar tool is needed for digital flashcards with spaced repetition features.</li>
+<li>A deck of well-formed cards: atomic (one fact per card), question-formatted, and unambiguous</li>
+<li>Consistent, distributed use — the spacing schedule only works if reviews happen on schedule</li>
+<li>For digital implementation, a spaced repetition tool such as Anki, <a href="https://www.memrise.com">Memrise</a>, or <a href="https://quizlet.com">Quizlet</a> with a long-term study mode</li>
+<li>Immediate answer verification so each retrieval is followed by <a href="../../elements/provide-feedback/">feedback</a></li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Relies on rote memorization, which may not promote deeper understanding or critical thinking. Effectiveness depends on the quality of flashcard content and consistent use.</li>
+<li>Flashcards support retention of discrete, well-defined content; they do not by themselves build conceptual understanding, transfer, or problem-solving skill <a href="../../claims/self-explanation-improves-conceptual-understanding/">Retrieval practice benefits are strongest for verbatim or near-verbatim recall.</a> [~M]</li>
+<li>Poorly written cards (vague prompts, multi-fact cards, recognition-style cues) produce weak retrieval and false confidence</li>
+<li>Learners often rate flashcards as effortful and less enjoyable than rereading, leading to abandonment despite superior outcomes <a href="../../claims/worked-examples-with-practice-improve-transfer/">Learners' preferences diverge from the most effective techniques.</a> [-S]</li>
+<li>Backlogs of overdue reviews in Anki can overwhelm learners and collapse the spacing schedule</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Paper vs. digital:</strong> paper cards (e.g., the Leitner box) implement spacing manually; software automates scheduling and adapts to individual recall performance</li>
+<li><strong>Cloze deletion:</strong> cards that blank out a term within a sentence support contextual rather than isolated recall</li>
+<li><strong>Image occlusion:</strong> hiding labels on diagrams (widely used in medical education) extends flashcards to visual content</li>
+<li><strong>Learner-authored vs. shared decks:</strong> creating one's own cards adds generative processing, while shared decks (e.g., the Anki medical school community) trade that benefit for coverage and speed</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Suitable for learners of all ages and levels across various subjects. Especially useful for memorizing facts, vocabulary, definitions, and concepts.</li>
+<li>Learners of all ages memorizing facts, vocabulary, definitions, formulas, or terminology — second-language vocabulary acquisition shows particularly robust gains [+S]</li>
+<li>Learners preparing for cumulative or high-stakes assessments where long-term retention matters</li>
+<li>Less suited as a sole method for learners who need to build integrated conceptual models or complex skills; flashcards should supplement, not replace, <a href="../../elements/practice/">practice</a> with authentic tasks</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Improve memory, reinforce knowledge, facilitate efficient study habits, and optimize learning outcomes.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Facilitates efficient learning by targeting difficult material and reducing time spent on known information. Anki guarantees memory with minimal effort and makes memory a choice.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Adaptable through customization options for flashcard layouts and review timing. Users can create and share decks tailored to their learning needs.</li>
+<li>Verbal and factual knowledge: vocabulary, terminology, dates, formulas</li>
+<li>Automaticity: fast, low-effort recall that frees working memory for higher-order tasks <a href="../../claims/chunking-reduces-working-memory-load/">Automatized recall reduces working memory load during complex tasks.</a> [+M]</li>
+<li>Retention maintenance: keeping previously learned material available over months and years</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/continuous-review/">continuous review</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track progress through Anki's review scheduling and performance ratings. Monitor recall accuracy and adjust review intervals based on user performance.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>The spaced repetition algorithm in Anki ensures that material is reviewed at optimal intervals to maximize retention. The program personalizes learning to address individual needs efficiently.</li>
-</ul>
+<ol>
+<li><strong>Decompose the content</strong> into atomic facts and relationships, applying <a href="../../principles/cognitive-load-management/">chunking</a> so each card tests one item.</li>
+<li><strong>Author cards</strong> as questions or cloze deletions that require a genuine retrieval attempt, not recognition.</li>
+<li><strong>Self-test</strong> by attempting the answer before flipping the card — the attempt itself is the learning event (<a href="../../elements/practice/">Practice</a>).</li>
+<li><strong>Check and rate recall</strong> immediately against the answer side (<a href="../../elements/provide-feedback/">Provide Feedback</a>); in Anki, grade honestly (again / hard / good / easy) so the scheduler can adapt.</li>
+<li><strong>Review on schedule</strong>, letting the spaced repetition algorithm expand intervals for known material and re-present difficult items; keep sessions short and daily rather than massed.</li>
+<li><strong>Revise the deck</strong> — reword, split, or delete cards that repeatedly cause errors or confusion.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/spaced-repetition/">Spaced Repetition</a> — the scheduling principle that makes flashcards durable rather than cram-dependent</li>
+<li><a href="../retrieval-practice/">Retrieval Practice</a> — the underlying learning mechanism each card enacts</li>
+<li><a href="../../elements/self-testing/">Self-Testing</a> — the broader family of techniques flashcards operationalize</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — each card review is a micro practice trial with retrieval as the task</li>
+<li><a href="../../elements/provide-feedback/">Provide Feedback</a> — the answer side delivers immediate verification, which corrects errors before they consolidate</li>
+<li><a href="../../elements/continuous-review/">Continuous Review</a> — the spaced schedule distributes practice over time</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Use Anki to create flashcards for vocabulary in a foreign language, historical dates, scientific formulas, or medical terminology. Utilize shared decks to collaborate and learn from others.</li>
+<li><strong><a href="https://apps.ankiweb.net">Anki</a></strong> — open-source spaced repetition software using the SM-2 scheduling algorithm; learners create custom decks or download shared ones, and the scheduler adapts intervals to each card's recall history.</li>
+<li><strong><a href="https://quizlet.com">Quizlet</a></strong> — flashcard platform with multiple study modes (learn, test, match) that converts the same card content into varied retrieval formats.</li>
+<li><strong>Medical education</strong> — Anki decks such as the <em>AnKing</em> deck, built around image occlusion and cloze deletion of First Aid/USMLE content, are a de facto standard in US medical school study culture.</li>
+<li><strong>Language learning</strong> — daily Anki review of foreign-language vocabulary with example sentences on the answer side to support contextual recall.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. <em>Psychological Science, 17</em>(3), 249–255. <a href="https://doi.org/10.1111/medu.12141">doi:10.1111/medu.12141</a></li>
+<li>Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., &amp; Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. <em>Psychological Bulletin, 132</em>(3), 354–380. <a href="https://doi.org/10.1037/0033-2909.132.3.354">doi:10.1037/0033-2909.132.3.354</a></li>
+<li>Karpicke, J. D., &amp; Roediger, H. L. (2008). The critical importance of retrieval for learning. <em>Science, 319</em>(5865), 966–968. <a href="https://doi.org/10.1126/science.1152408">doi:10.1126/science.1152408</a></li>
+<li>Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013). Improving students' learning with effective learning techniques. <em>Psychological Science in the Public Interest, 14</em>(1), 4–58. <a href="https://doi.org/10.1177/1529100612453266">doi:10.1177/1529100612453266</a></li>
 </ul>
 
 

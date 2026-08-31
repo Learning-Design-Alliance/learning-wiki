@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Educational charts are visual aids that present data in an accessible and understandable format, revealing patterns and stories behind the numbers.">
+        <meta name="description" content="Educational charts are visual aids that present data in an accessible format, revealing patterns and stories behind the numbers.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +722,75 @@
 
 
 <h1 id="educational-charts">Educational Charts<a class="headerlink" href="#educational-charts" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Educational charts are visual aids that present data in an accessible and understandable format, revealing patterns and stories behind the numbers. They are valuable tools for simplifying complex information, analyzing processes, and supporting arguments in presentations, handouts, and reports. Common types of charts include pyramid charts for visualizing hierarchies and flowcharts for illustrating processes. Effective charts use clear labeling, appropriate scales, and strategic colors to enhance readability and comprehension.</p>
+<p>Educational charts translate quantitative or procedural information into visual form — bar charts, line graphs, flowcharts, pyramid diagrams, and similar displays — so learners can perceive structure and pattern directly rather than reconstructing it from prose or tables. Effective charts pair an appropriate visual encoding with clear labeling, honest scales, and strategic emphasis, turning raw data into an interpretable display.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Well-designed charts exploit the visual system's capacity for rapid pattern detection, offloading cognitive work that would otherwise consume working memory <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]. Comprehension depends on matching the chart type to the message: position and length encodings (bars, points) are read far more accurately than area, angle, or color saturation encodings [Cleveland &amp; McGill, 1984] [+S]. Charts work best when integrated with verbal explanation rather than standing alone — the combination of visual and verbal channels supports richer mental models than either alone <a href="../../claims/media-combinations-affect-recall-and-retention/">Media combinations affect recall and retention.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires access to charting software or tools. Implementation involves careful selection of chart types and integration of data. May require training in data visualization.</li>
+<li>A chart type matched to the communicative goal (comparison → bars; trend → lines; process → flowchart; hierarchy → pyramid or tree)</li>
+<li>Clear axis labels, units, titles, and legends; learners should not need to reverse-engineer what is displayed</li>
+<li>Honest scales — truncated axes or inconsistent intervals distort perceived differences and undermine trust</li>
+<li>Verbal framing or annotation that directs attention to the pattern the chart is meant to reveal <a href="../../claims/relevancy-of-emphasis-directs-attention/">Relevancy of emphasis directs attention.</a> [+M]</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Poorly designed charts can be misleading or confusing. Inaccurate data can undermine credibility. Requires attention to detail and accuracy.</li>
+<li>Decorative chart junk and 3D effects degrade comprehension by adding irrelevant visual processing [Franconeri et al., 2021] [-S]</li>
+<li>Learners with low graph literacy misread even well-designed charts, particularly when inference beyond the plotted points is required [Shah &amp; Hoeffner, 2002] [~M]</li>
+<li>Charts encourage reading <em>the displayed relationship</em> as the whole story; learners often fail to consider alternative explanations or missing variables unless prompted [Shah &amp; Hoeffner, 2002] [-M]</li>
+<li>Color-only encoding fails for color-vision-deficient learners and in grayscale printing; redundant encoding (shape + color) is required for accessibility</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Static charts in handouts and slides vs. interactive displays (e.g., <a href="https://www.gapminder.org/tools">Gapminder</a>) that let learners manipulate parameters and observe change</li>
+<li>Partially completed charts that learners finish themselves, converting reception into construction</li>
+<li>Learner-generated charts, where the act of choosing encodings and scales is itself the learning activity</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Educators, students, researchers, and presenters across all disciplines and levels</li>
+<li>Novices encountering a dataset or process for the first time, who benefit from external structure <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]</li>
+<li>Learners with low prior knowledge of the domain, who rely on the chart's explicit organization as an <a href="../../elements/advance-organizers/">Advance Organizers</a>-style scaffold</li>
+<li>Less beneficial for expert audiences, who may extract the pattern faster from the raw numbers than from a decorative display</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Make data accessible, simplify complex information, reveal patterns, support analysis, enhance comprehension</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Makes data approachable and understandable. Supports visual learners. Enhances analysis and interpretation of information. Provides a clear and organized format for presenting data.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Can be customized to various types of data and learning objectives. Chart types and design elements can be adjusted based on the audience and subject matter.</li>
+<li>Data interpretation: reading trends, comparisons, and distributions from evidence</li>
+<li>Conceptual understanding of systems and processes (flowcharts, cycle diagrams)</li>
+<li>Argumentation: using visualized evidence to support claims <a href="../../elements/argument-construction/">Argument Construction</a></li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/direct-instruction/">Direct instruction</a></li>
-<li><a href="../../elements/demonstration/">Demonstration</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Assess learner comprehension of data through quizzes or discussions. Evaluate the effectiveness of charts in simplifying complex information. Observe learner engagement and participation.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Well-designed charts have been shown to improve data comprehension and decision-making. Visual aids, in general, have been found to enhance learning and engagement in educational settings.</li>
-</ul>
+<ol>
+<li>Identify the single message the chart must convey, then select the chart type whose visual encoding matches that message (comparison, trend, part-whole, process, hierarchy).</li>
+<li>Design for accurate perception: use position/length encodings, direct labeling, and minimal ink; avoid 3D and decorative elements [Franconeri et al., 2021] [+S].</li>
+<li>Present the chart with a verbal framing question or headline statement that directs attention to the target pattern <a href="../../claims/relevancy-of-emphasis-directs-attention/">Relevancy of emphasis directs attention.</a> [+M].</li>
+<li>Model interpretation with a <a href="../../elements/demonstration/">Demonstration</a> — narrate how to read the axes, locate the pattern, and state what it means.</li>
+<li>Ask learners to generate the takeaway themselves, e.g., "What does this chart show? What does it <em>not</em> show?" — prompting <a href="../../elements/articulation/">Self-Explanation</a> of the displayed relationship <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+M].</li>
+<li>Follow with application: have learners critique, redraw, or build charts from raw data as <a href="../../elements/assessment/">Assessment</a> of graph literacy.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/advance-organizers/">Advance Organizers</a> — a chart can serve the same function: a structure presented before detail to anchor incoming information</li>
+<li><a href="../../elements/analogies/">Analogies</a> — pyramid and flowchart forms often encode an analogy between the data structure and a familiar spatial or process schema</li>
+<li><a href="../../elements/case-studies/">Case Studies</a> — charts frequently supply the evidence base that case analysis works over</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Examples include pyramid charts illustrating different levels of a topic, flowcharts analyzing processes, and bar charts comparing budget requests. Venngage and other design platforms offer templates for creating educational charts.</li>
+<li><strong><a href="https://www.gapminder.org/tools">Gapminder Tools</a></strong> — animated bubble charts showing development indicators over time; Hans Rosling's lectures demonstrate narrated chart interpretation as instruction.</li>
+<li><strong><a href="https://ourworldindata.org">Our World in Data</a></strong> — published charts paired with explanatory prose modeling honest axis choices and trend interpretation.</li>
+<li><strong>Flowcharts in science curricula</strong> — e.g., experimental-design flowcharts in inquiry-based biology labs, making the decision structure of hypothesis testing visible before students design their own studies.</li>
+<li><strong>Budget bar charts in civics courses</strong> — learners compare allocations across categories, then critique the scale choices for potential distortion.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Cleveland, W. S., &amp; McGill, R. (1984). Graphical perception: Theory, experimentation, and application to the development of graphical methods. <em>Journal of the American Statistical Association, 79</em>(387), 531–554. <a href="https://doi.org/10.1080/01621459.1984.10478080">doi:10.1080/01621459.1984.10478080</a></li>
+<li>Shah, P., &amp; Hoeffner, J. (2002). Review of graph comprehension research: Implications for instruction. <em>Educational Psychology Review, 14</em>(1), 47–69. <a href="https://doi.org/10.1023/A:1013180410169">doi:10.1023/A:1013180410169</a></li>
+<li>Mayer, R. E. (2009). <em>Multimedia learning</em> (2nd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/CBO9780511811678">doi:10.1017/CBO9780511811678</a></li>
+<li>Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., &amp; Hullman, J. (2021). The science of visual data communication: What works. <em>Psychological Science in the Public Interest, 22</em>(3), 110–161. <a href="https://doi.org/10.1177/15291006211051956">doi:10.1177/15291006211051956</a></li>
+<li>Tufte, E. R. (2001). <em>The visual display of quantitative information</em> (2nd ed.). Graphics Press.</li>
 </ul>
 
 

@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Acronyms use the first letter of each word in a list or phrase to create a new, memorable word or abbreviation.">
+        <meta name="description" content="Verbal mnemonic devices that condense a list of items into a single memorable word (acronym) or sentence (acrostic) to serve as a retrieval cue.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,73 +722,74 @@
 
 
 <h1 id="acronyms-and-acrostics">Acronyms and Acrostics<a class="headerlink" href="#acronyms-and-acrostics" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Acronyms use the first letter of each word in a list or phrase to create a new, memorable word or abbreviation. Acrostics use the first letter of each item to form a sentence or phrase. These devices can aid in recall by providing a simple, easily remembered cue.</p>
+<p>Acronyms and acrostics are verbal mnemonic devices that restructure arbitrary lists into a single retrievable unit. An acronym compresses the first letters of items into a pronounceable word (e.g., HOMES for the Great Lakes); an acrostic embeds them in a sentence whose first letters map to the target items (e.g., "Every Good Boy Does Fine" for the musical notes E-G-B-D-F). Both work by converting an unordered set into a single, well-practiced retrieval cue that is unpacked at recall.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>These devices reduce the working-memory and retrieval burden of arbitrary ordered information by chunking many items into one cue <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S]. They are most effective when the mnemonic is vivid, meaningful, and practiced until retrieval is automatic; they support recall of <em>what</em> the items are, not <em>why</em> they matter, so they should be paired with instruction that builds conceptual understanding <a href="../../claims/spaced-repetition-improves-retention/">Mnemonic instruction improves recall of factual content.</a> [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>List of items to be remembered. Ability to create words or phrases from the first letters of those items.</li>
+<li>A fixed, enumerable set of items (steps, categories, names, rules) — the device degrades with fuzzy or changing lists</li>
+<li>A mnemonic that is itself easy to remember: pronounceable, vivid, or humorous; learners often benefit from generating their own</li>
+<li>Practice retrieving from the cue, ideally distributed over time <a href="../../claims/spaced-repetition-improves-retention/">Spaced repetition improves retention.</a> [+S]</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May not work well for complex or abstract concepts. The acronym or acrostic must be easily remembered itself.</li>
+<li>Supports rote recall only; learners who can recite the acronym may still lack conceptual understanding [-M] — the device can create an illusion of mastery</li>
+<li>Adds a decoding step: learners must map the cue back to the original items, which imposes overhead for short or already-meaningful lists [~M]</li>
+<li>Ineffective when item order or membership changes, or when the target is flexible application rather than recall</li>
+<li>Learner-generated mnemonics outperform supplied ones; imposed devices can feel arbitrary and be rejected [~W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Acronym</strong> (HOMES, NASA) — best for short lists of 3–7 items</li>
+<li><strong>Acrostic/sentence</strong> (Every Good Boy Does Fine) — preserves order; scales to longer sequences</li>
+<li><strong>Keyword mnemonic</strong> — a related verbal device linking a new term to a familiar word via an interactive image; strongest for vocabulary learning</li>
+<li><strong>Learner-generated vs. instructor-supplied</strong> — generation adds elaborative processing but requires guidance for novices</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learners, especially useful for those who need to memorize lists or sequences.</li>
+<li>Novices facing arbitrary, unfamiliar content with no prior schema to organize it (e.g., music students, anatomy students, trainees learning safety procedures)</li>
+<li>Learners with working-memory limitations or learning disabilities; mnemonic instruction has a substantial evidence base in special education [~S]</li>
+<li>Less useful for advanced learners, for whom the content is already structured and the device adds redundant load [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Improve recall of lists, names, or sequences; simplify complex information into easily remembered cues</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Reduces cognitive load by condensing information into a single, easily remembered word or phrase. Activates pattern recognition to facilitate recall.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Learners can create their own acronyms or acrostics tailored to their learning style and the specific information they need to remember.</li>
+<li>Verbal recall of ordered lists, sequences, and taxonomies</li>
+<li>Automaticity of foundational facts that free capacity for higher-order work</li>
+<li>Not appropriate as the sole goal for conceptual understanding, transfer, or problem-solving objectives</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/enhance-retention-and-transfer/">Enhance retention and transfer</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track the number of items recalled correctly after using an acronym or acrostic. Monitor the ease with which learners can generate and use these devices.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research supports the effectiveness of mnemonic devices in improving memory recall (Radovic et al., 2019).</li>
-</ul>
+<ol>
+<li>Identify the fixed list or sequence learners must recall automatically.</li>
+<li>Decide whether order matters; if so, use an acrostic rather than an unordered acronym.</li>
+<li>Draft or co-construct the device, favoring vivid, pronounceable forms; consider having learners generate their own.</li>
+<li>Model unpacking the cue: retrieve the acronym, then expand each letter to its item (<a href="../../principles/clear-structure/">Clear Structure</a>).</li>
+<li>Schedule retrieval practice with the device, spaced over days and weeks <a href="../../claims/spaced-repetition-improves-retention/">Spaced repetition improves retention.</a> [+S].</li>
+<li>Follow with tasks that require applying the items, not just reciting them, so the mnemonic supports rather than substitutes for understanding.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../principles/chunking/">Chunking</a> — the underlying mechanism; acronyms are chunking applied to verbal lists</li>
+<li><a href="../spaced_retrieval_practice/">Spaced Retrieval Practice</a> — the practice schedule that makes the cue durable</li>
+<li><a href="../../theories/dual-coding-theory/">Dual Coding</a> — pairing the verbal device with an image strengthens it further</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>HOMES for the Great Lakes (Huron, Ontario, Michigan, Erie, Superior); My Very Educated Mother Just Served Us Noodles for the planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune)</li>
+<li><strong>Music education</strong> — "Every Good Boy Does Fine" for the lines of the treble clef (E-G-B-D-F), taught universally in beginning instrumental instruction.</li>
+<li><strong>Medical education</strong> — cranial nerve mnemonics ("Oh Oh Oh, To Touch And Feel Very Good Velvet, Ah Heaven") used in anatomy courses despite the field's otherwise conceptual emphasis.</li>
+<li><strong>Aviation and emergency training</strong> — checklists compressed into acronyms (e.g., the pre-flight "CIGARETS" mnemonic) so procedures remain retrievable under stress.</li>
+<li><strong>Special education</strong> — the <a href="https://sim.kucrl.org">University of Kansas Strategic Instruction Model</a> includes explicit mnemonic instruction routines with a strong research base for adolescents with learning disabilities.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. <em>Psychological Science in the Public Interest, 14</em>(1), 4–58. <a href="https://doi.org/10.1177/1529100612453266">doi:10.1177/1529100612453266</a></li>
+<li>Scruggs, T. E., &amp; Mastropieri, M. A. (1990). Mnemonic instruction for students with mild learning disabilities: Implications for resource room settings. <em>Learning Disabilities Research &amp; Practice, 5</em>(3), 149–160.</li>
+<li>Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. <em>Psychological Review, 63</em>(2), 81–97. <a href="https://doi.org/10.1037/h0043158">doi:10.1037/h0043158</a></li>
+<li>Putnam, A. L. (2015). Mnemonics in education: Current research and potential applications. <em>Educational Psychology Review, 27</em>(3), 417–445. <a href="https://doi.org/10.1037/tps0000023">doi:10.1037/tps0000023</a></li>
 </ul>
 
 

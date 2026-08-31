@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Point systems or experience (XP) systems reward learners for completing various tasks, assignments, or assessments.">
+        <meta name="description" content="Point systems or experience (XP) systems reward learners for completing tasks, assignments, or assessments, accumulating points toward flexible goals.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,74 +744,88 @@
 
 
 <h1 id="points-or-experience-xp-systems">Points or Experience (XP) Systems<a class="headerlink" href="#points-or-experience-xp-systems" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Point systems or experience (XP) systems reward learners for completing various tasks, assignments, or assessments. They offer limitless points, flexible goals, and learner choice, where learners can accumulate points by focusing on reflection activities, tests, or other relevant activities. Points can be tracked using gradebook features or shared using online tools.</p>
+<p>Point systems or experience (XP) systems reward learners for completing tasks, assignments, or assessments. Unlike traditional grading, XP typically starts at zero and only accumulates — signaling progress rather than loss — and can offer limitless points, flexible goals, and learner choice about which activities to pursue. Points are tracked in a gradebook, leaderboard, or dedicated platform, and may be tied to levels, badges, or privileges.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>XP systems are a form of <a href="../../theories/behaviorism/">gamification</a> that applies game scoring structures to learning activities. Meta-analytic evidence suggests gamification produces significant but small-to-moderate cognitive, motivational, and behavioral gains, with stronger effects when game elements are combined (e.g., points + badges + leaderboards) than when points stand alone <a href="../../claims/claim-slug/">Gamification improves learning outcomes modestly, with stronger effects for combined game elements.</a> [~M]. Their motivational power depends on supporting learner autonomy: when learners choose which point-earning activities to pursue, the system can support intrinsic motivation, but when points function as controlling rewards for required work they risk undermining it <a href="../../claims/autonomy-supports-intrinsic-motivation/">Rewards perceived as controlling can undermine intrinsic motivation for the rewarded activity.</a> [~S].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Integration with learning management systems or digital gradebooks. Design of a point system aligned with course objectives. Clear communication of point values and rewards.</li>
+<li>Point values aligned with learning objectives, so that the highest-value activities are the highest-value learning activities</li>
+<li>Transparent rules: learners must know how points are earned, what they are worth, and what they unlock</li>
+<li>A tracking mechanism (LMS gradebook, platform dashboard, or spreadsheet) with visible progress indicators</li>
+<li>Meaningful redemption options — privileges, flexibility, or unlockable content — not just cosmetic rewards</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May lead to a focus on points rather than learning. Can be demotivating if points are not distributed equitably. Requires careful planning to ensure meaningful activities are rewarded.</li>
+<li>Points can shift attention from learning to scoring; learners may choose easy, high-point tasks over difficult, valuable ones <a href="../../claims/autonomy-supports-intrinsic-motivation/">Rewards perceived as controlling can undermine intrinsic motivation for the rewarded activity.</a> [-S] — the overjustification effect is strongest when rewards are expected, tangible, and contingent on task completion</li>
+<li>Accumulation-only systems can demotivate learners who fall behind early, since catching up feels unattainable</li>
+<li>Leaderboards paired with XP can depress motivation for lower-ranked learners; competitive displays should be optional or cohort-relative</li>
+<li>Effects fade over time; novelty-driven engagement gains diminish in long courses <a href="../../claims/claim-slug/">Gamification improves learning outcomes modestly, with stronger effects for combined game elements.</a> [~W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Grading replacement:</strong> XP <em>is</em> the grade (e.g., all activities sum to a target); reduces loss aversion compared to deductions-from-100 grading</li>
+<li><strong>Choice-based menus:</strong> learners select from point-earning activities of equal value, supporting autonomy <a href="../../claims/autonomy-supports-intrinsic-motivation/">Rewards perceived as controlling can undermine intrinsic motivation for the rewarded activity.</a> [+M]</li>
+<li><strong>Leveling:</strong> XP unlocks levels that grant privileges (late passes, topic choice) rather than serving as grades directly</li>
+<li><strong>Team XP:</strong> points accrue to groups, combining with <a href="../../patterns/cooperative-learning/">cooperative-learning</a> structures</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learner levels, especially effective in online learning environments</li>
+<li>K–12 and undergraduate learners in online or blended environments, where visible progress indicators compensate for reduced instructor presence <a href="../../claims/claim-slug/">Gamification improves learning outcomes modestly, with stronger effects for combined game elements.</a> [~M]</li>
+<li>Learners motivated by mastery progress rather than social comparison; competitive displays can harm anxious or low-performing learners</li>
+<li>Less effective for learners with strong intrinsic interest in the subject, for whom point scaffolding may crowd out existing motivation <a href="../../claims/autonomy-supports-intrinsic-motivation/">Rewards perceived as controlling can undermine intrinsic motivation for the rewarded activity.</a> [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Reward task completion, provide feedback, track progress, offer flexible goals, support learner choice</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides immediate feedback through point accumulation. Offers flexible goals and learner choice, increasing motivation. Allows learners to track their progress and see their accomplishments.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Learners can choose activities that align with their interests and learning preferences. Instructors can tailor point values and rewards to meet individual needs.</li>
+<li>Sustained engagement and participation across a term</li>
+<li>Progress monitoring and self-regulation: XP dashboards make growth visible</li>
+<li>Flexible goal-setting: learners choose pathways to a point target</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track learner participation in point-earning activities. Compare point accumulation with learning outcomes. Gather feedback on motivation and engagement.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Experience points can introduce useful affordances to learning environments, including limitless points, flexible goals, and student choice.</li>
-</ul>
+<ol>
+<li>Map course objectives to point-earning activities, weighting <a href="../../elements/practice/">practice</a> and <a href="../../elements/assessment/">assessment</a> so that points track learning value, not volume.</li>
+<li>Set a target XP total that defines course success; allow multiple pathways to reach it via a <a href="../../elements/choice-boards/">choice-boards</a> menu of activities.</li>
+<li>Configure tracking in the LMS or a platform (see Tools), with progress visible to learners and updated promptly.</li>
+<li>Define redemption rules (privileges, flexibility, unlocks) and communicate them at course start.</li>
+<li>Provide <a href="../../elements/provide-feedback/">feedback</a> alongside points — points signal <em>that</em> work was done; feedback explains <em>how</em> to improve <a href="../../claims/assessment-for-learning-improves-achievement/">Assessment information used to improve performance improves achievement more than grades alone.</a> [+S].</li>
+<li>Review point distribution mid-term; adjust if learners are gaming the system or disengaging.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Mastery-based grading — shares the accumulation-only structure but ties progress to demonstrated competency rather than activity volume</li>
+<li>Badging — badges are typically XP milestones made visible; the two are usually layered</li>
+<li>Leaderboards — a common XP companion that adds social comparison, with mixed motivational effects</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — the primary activity XP should reward; points on practice encourage volume and <a href="../../claims/distributed-practice-improves-retention/">distributed practice</a> [+S]</li>
+<li><a href="../../elements/assessment/">Assessment</a> — XP can reduce the stakes on low-stakes assessment by reframing it as accumulation</li>
+<li><a href="../../elements/provide-feedback/">Provide feedback</a> — points alone are not feedback; pairing is essential</li>
+<li><a href="../../elements/check-in/">Check-in</a> — low-cost point-earning activity that sustains engagement between major tasks</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Canvas / Moodle gradebooks</strong> — native point accumulation and progress display</li>
+<li><strong>Classcraft</strong> — XP with levels, teams, and privileges designed for classrooms</li>
+<li><strong>Kahoot!</strong> — points for quiz responses with immediate feedback</li>
+<li><strong>Duolingo</strong> — XP, streaks, and leagues; a widely studied consumer example of accumulation mechanics</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Awarding points for completing assignments, participating in discussions, or attending events. Allowing learners to use points to gain extra time on assignments or bypass certain tasks.</li>
+<li><strong>Duolingo</strong> (<a href="https://www.duolingo.com">duolingo.com</a>) — XP awarded per lesson, with streaks and leagues; learners choose which skills to practice, illustrating choice-based XP.</li>
+<li><strong>Classcraft</strong> (<a href="https://www.classcraft.com">classcraft.com</a>) — classroom XP that unlocks character powers and privileges rather than grades, decoupling points from evaluation.</li>
+<li><strong>University grading replacement</strong> — instructors who replace letter grades with cumulative XP toward a target (e.g., 1,000 XP = A) report reduced grade anxiety and increased resubmission of work; the accumulation-only structure removes loss framing.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Deterding, S., Dixon, D., Khaled, R., &amp; Nacke, L. (2011). From game design elements to gamefulness: Defining "gamification." <em>Proceedings of the 15th International Academic MindTrek Conference</em>, 9–15. <a href="https://doi.org/10.1145/2181037.2181040">doi:10.1145/2181037.2181040</a></li>
+<li>Hamari, J., Koivisto, J., &amp; Sarsa, H. (2014). Does gamification work? A literature review of empirical studies on gamification. <em>Proceedings of the 47th Hawaii International Conference on System Sciences</em>, 3025–3034. <a href="https://doi.org/10.1109/HICSS.2014.377">doi:10.1109/HICSS.2014.377</a></li>
+<li>Deci, E. L., Koestner, R., &amp; Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. <em>Psychological Bulletin, 125</em>(6), 627–668. <a href="https://doi.org/10.1037/0033-2909.125.6.627">doi:10.1037/0033-2909.125.6.627</a></li>
+<li>Sailer, M., &amp; Homner, L. (2020). The gamification of learning: A meta-analysis. <em>Educational Psychology Review, 32</em>, 77–112. <a href="https://doi.org/10.1007/s10648-019-09498-w">doi:10.1007/s10648-019-09498-w</a></li>
 </ul>
 
 

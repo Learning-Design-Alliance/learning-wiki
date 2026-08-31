@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Among all the math fluency apps listed here, Reflex stands out with a research-based system of learning math for students ages 2-8.">
+        <meta name="description" content="An adaptive, game-based app (ExploreLearning) that builds math fact fluency through individualized practice, timed retrieval, and progress monitoring for students in grades 2–8.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +722,71 @@
 
 
 <h1 id="reflex-math-app">Reflex Math App<a class="headerlink" href="#reflex-math-app" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Among all the math fluency apps listed here, Reflex stands out with a research-based system of learning math for students ages 2-8. It offers an adaptive learning environment creating scopes of learning math for students with different ability levels. It is thoroughly intuitive to offer learners problems in line with their skill levels.</p>
+<p>Reflex Math is a commercial adaptive platform (ExploreLearning) that develops automatic recall of addition/subtraction and multiplication/division facts. The system continuously assesses which facts a learner can retrieve quickly and accurately, prioritizes instruction and practice on not-yet-mastered facts, and embeds this practice in fast-paced game formats with rewards, coaching characters, and progress monitoring visible to both student and teacher.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Reflex operationalizes the research consensus that fluency with basic facts frees working memory for higher-order mathematics <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S]. Its core loop is timed retrieval practice with immediate feedback, which strengthens fact retrieval more than re-teaching or counting strategies alone <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S]. The adaptive engine embodies <a href="../../principles/adaptive-learning/">Adaptive Learning</a>: item selection shifts difficulty to the learner's current mastery state, which matters because fixed-difficulty practice either wastes time for advanced students or overwhelms novices <a href="../../claims/expertise-reversal-effect/">The expertise-reversal effect means guidance optimal for novices becomes redundant for experts.</a> [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to the Reflex math app on a compatible device.</li>
+<li>Regular short sessions (typically 10–15 minutes, 2–3 times per week) sustained over months; fluency gains are cumulative, not one-off</li>
+<li>Individual devices/accounts so the adaptive engine can track each learner's fact-by-fact mastery</li>
+<li>Teacher monitoring of dashboards to identify students who plateau and need offline support</li>
+<li>Conceptual understanding of the operations <em>before</em> fluency drilling — the app assumes learners understand what multiplication means and targets retrieval speed</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May be expensive.</li>
+<li>Timed practice can produce math anxiety and pressure in students who already struggle [~M] — students with low fluency and high anxiety may avoid or disengage from the game format</li>
+<li>Fluency gains do not automatically transfer to applied problem solving; drilling facts without concurrent concept- and strategy-focused instruction yields narrow gains [-M]</li>
+<li>Game rewards can crowd out intrinsic interest in mathematics itself, especially for students motivated primarily by the extrinsic game layer [~W]</li>
+<li>Effectiveness drops sharply when sessions are irregular; the adaptive model depends on consistent exposure to maintain accurate mastery estimates</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Whole-class fluency station rotation vs. targeted intervention for identified students only</li>
+<li>Addition/subtraction (grades 2–4) vs. multiplication/division (grades 3–6) tracks</li>
+<li>Home-use component with family progress reports vs. school-only implementation</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Students ages 2-8.</li>
+<li>Students in grades 2–8 who have conceptual understanding of the operations but lack automatic recall</li>
+<li>Struggling students benefit most from the adaptive pacing, which avoids the fixed-pace mismatch that harms low performers <a href="../../claims/expertise-reversal-effect/">The expertise-reversal effect means guidance optimal for novices becomes redundant for experts.</a> [~M]</li>
+<li>Less valuable for students who already retrieve facts automatically — continued practice yields minimal gains</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Learn math with an adaptive learning environment.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Adaptive learning environment and problems in line with skill levels.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Offers adaptive learning environments for students with different ability levels.</li>
+<li>Automaticity: retrieval of basic facts without conscious strategy use</li>
+<li>Working-memory liberation for multi-step computation and problem solving <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S]</li>
+<li>Not appropriate as a primary vehicle for conceptual understanding of operations</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide Feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track progress in math fact fluency and problem-solving skills.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Provides a research-based system of learning math with personalized learning environments.</li>
-</ul>
+<ol>
+<li>Confirm learners understand the target operations conceptually before beginning fluency practice (<a href="../../elements/practice/">Practice</a> should follow understanding, not substitute for it).</li>
+<li>Set a consistent schedule of short sessions; brief, distributed practice outperforms massed sessions.</li>
+<li>Have students complete the initial assessment so the adaptive engine can calibrate starting difficulty (<a href="../../elements/adaptive-difficulty/">Adaptive Difficulty</a>).</li>
+<li>Monitor the teacher dashboard weekly; identify students whose fact mastery plateaus and pair them with offline strategy instruction or <a href="../../elements/coaching/">Coaching</a>.</li>
+<li>Use progress data as <a href="../../elements/assessment/">Assessment</a> for grouping and intervention decisions rather than as a grade.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../timed-retrieval-practice/">Timed Retrieval Practice</a> — the core mechanism Reflex automates</li>
+<li><a href="../mastery-based-progression/">Mastery-Based Progression</a> — Reflex advances students only after demonstrated fluency per fact</li>
+<li><a href="../gamified-practice/">Gamified Practice</a> — the reward and game layer that sustains engagement across repeated sessions</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Using the Reflex math app for adaptive learning tailored to different skill levels.</li>
+<li><strong>Reflex Math (ExploreLearning)</strong> — <a href="https://www.explorelearning.com/reflex/">https://www.explorelearning.com/reflex/</a>; used district-wide as a grades 2–6 fluency intervention, with educator dashboards tracking "fluency growth" per student.</li>
+<li><strong>Tier 2 intervention blocks</strong> — schools commonly schedule Reflex during intervention time for students below benchmark on fact automaticity screeners, alongside small-group instruction.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Rittle-Johnson, B., Siegler, R. S., &amp; Alibali, R. W. (2001). Developing conceptual understanding and procedural skill in mathematics: An iterative process. <em>Journal of Educational Psychology, 93</em>(2), 346–362. <a href="https://doi.org/10.1037/0022-0663.93.2.346">doi:10.1037/0022-0663.93.2.346</a></li>
+<li>Pashler, H., Bain, P., Bottge, B., Graesser, A., Koedinger, K., McDaniel, M., &amp; Metcalfe, J. (2007). <em>Organizing instruction and study to improve student learning</em> (IES Practice Guide, NCER 2007-2004). National Center for Education Research, U.S. Department of Education.</li>
+<li>Baroody, A. J. (2006). Why children have difficulties mastering the basic number combinations and how to help them. <em>Teaching Children Mathematics, 13</em>(1), 22–31. <a href="https://doi.org/10.5951/tcm.13.1.0022">doi:10.5951/tcm.13.1.0022</a></li>
+<li>National Mathematics Advisory Panel. (2008). <em>Foundations for success: The final report of the National Mathematics Advisory Panel</em>. U.S. Department of Education.</li>
 </ul>
 
 

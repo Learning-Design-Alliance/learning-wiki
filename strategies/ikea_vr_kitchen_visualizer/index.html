@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="The IKEA VR kitchen visualizer uses VR technology to give customers a better understanding of what to think about when planning and designing their kitchens and reassure them in their decisions by allowing them to walk around in a virtual…">
+        <meta name="description" content="A consumer-facing VR application that lets customers walk through and interact with a virtual version of their planned kitchen, teaching design principles and reducing purchase mistakes through situated, experiential learning.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,76 +744,83 @@
 
 
 <h1 id="ikea-vr-kitchen-visualizer">IKEA VR Kitchen Visualizer<a class="headerlink" href="#ikea-vr-kitchen-visualizer" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>The IKEA VR kitchen visualizer uses VR technology to give customers a better understanding of what to think about when planning and designing their kitchens and reassure them in their decisions by allowing them to walk around in a virtual version of their planned kitchen. It aims to transfer knowledge to customers, teaching them about useful issues such as the best-practice work triangle, waste sorting and corner storage. It also lets them make batter and fry pancakes in this virtual kitchen, with the option of multi-tasking by frying pancakes in four separate pans simultaneously.</p>
+<p>The IKEA VR Kitchen Visualizer (released 2016 for HTC Vive and Oculus Rift) lets customers walk around a virtual version of their planned kitchen at true scale, swap cabinet fronts, colors, and layouts, and interact with objects — frying pancakes, opening drawers, sorting waste. Beyond visualization, it surfaces design heuristics such as the work triangle, corner storage, and waste-sorting workflows, aiming to transfer practical knowledge to customers and reduce costly purchase mistakes before commitment.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>The visualizer is a commercial instance of <a href="../../theories/situated-learning/">Situated Learning</a>: knowledge about kitchen design is acquired in the context where it will be used, rather than from brochures or static floor plans. Immersive simulation supports learning by letting learners manipulate a realistic environment and observe consequences, but immersion alone does not guarantee learning — instructional support inside the environment determines outcomes, and added immersion can even cost learning when it consumes attention [~M] <a href="../../claims/media-combinations-affect-recall-and-retention/">Makransky &amp; Mayer's immersion–presence tradeoff is documented in lab settings.</a> [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>HTC Vive or Oculus Rift VR headsets, a VR-ready computer, and access to the IKEA VR Kitchen Visualizer application.</li>
+<li>HTC Vive or Oculus Rift headset, a VR-ready computer, and the IKEA VR Kitchen Visualizer application</li>
+<li>A rough kitchen plan or measurements so the virtual space approximates the customer's real constraints</li>
+<li>Time and willingness to explore and compare configurations</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Limited immersion due to the lack of haptic feedback, users who are not tech-literate may have difficulty setting it up, requires time and effort to plan the space.</li>
+<li>No haptic feedback limits realism of physical interactions (opening drawers, cooking), which can weaken the sense of plausibility that drives engagement [~M]</li>
+<li>Setup demands technical literacy and hardware access; customers without these are excluded entirely</li>
+<li>The novelty and interactivity of the environment (e.g., frying pancakes in four pans simultaneously) can consume attention that would otherwise go to design learning — seductive details in immersive media reliably depress retention of target content [-S]</li>
+<li>Effectiveness depends on the customer already having a design task in mind; as free exploration without a decision goal it teaches little [~W]</li>
+<li>True-scale spatial judgment in VR can mislead: presence feels convincing, but perceived distances and sizes in head-mounted VR are systematically distorted, so confidence gained may outstrip accuracy [~W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Guided mode: the application surfaces design heuristics (work triangle, waste sorting) as the user manipulates the layout — closer to <a href="../../elements/coaching/">Coaching</a></li>
+<li>Free-exploration mode: users configure and test layouts at will — closer to <a href="../../elements/simulation/">Simulation</a> with minimal scaffolding</li>
+<li>The same visualization logic transfers to non-immersive formats (IKEA's web and AR planners), trading presence for accessibility; desktop and AR versions often produce comparable learning at far lower cost and friction [~M]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>IKEA customers who are planning or designing a new kitchen.</li>
+<li>Adult consumers making a high-stakes, infrequent purchase who need to evaluate spatial designs before committing [~M]</li>
+<li>Customers with concrete design decisions to make; the tool presumes task-relevant motivation rather than building it</li>
+<li>Less useful for customers early in the inspiration phase or those uncomfortable with VR hardware</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Help customers design and plan kitchens, reduce buying mistakes, reassure customers in their decisions by allowing them to walk around in a virtual version of their planned kitchen, teach about useful issues such as the best-practice work triangle, waste sorting and corner storage.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Customers can better visualize their kitchens, try out different designs and see if they will like them before purchasing. Users may discover potential layout mistakes before purchasing materials.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Different kitchen configurations, adjustable color palettes, and object placements.</li>
+<li>Procedural knowledge: applying design heuristics such as the work triangle and corner-storage principles</li>
+<li>Spatial reasoning: evaluating a layout at true scale rather than from a floor plan</li>
+<li>Decision confidence: reducing purchase mistakes by letting users experience the design before buying — confidence gains are well documented even where measurable learning gains are not [~W]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide Feedback</a></li>
-<li><a href="../../elements/application/">Application</a></li>
-<li><a href="../../elements/whole-task-performance/">Whole-task performance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Customer satisfaction levels, increased product knowledge, reduce purchasing mistakes.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Enables customers to plan their kitchens and visualize the layout. Increases sales and reduces purchase mistakes.</li>
-</ul>
+<ol>
+<li>Set up the headset and load the customer's approximate kitchen dimensions into the application</li>
+<li>Let the customer explore the default layout at true scale, interacting with storage and appliances (<a href="../../elements/application/">Application</a>)</li>
+<li>Prompt comparison of alternative configurations against the taught heuristics (work triangle, waste sorting) (<a href="../../elements/practice/">Practice</a>) — structured comparison of variants supports abstraction of the underlying principles better than unstructured exploration <a href="../../claims/multiple-contrasting-cases-support-abstraction/">Multiple contrasting cases support abstraction.</a> [+M]</li>
+<li>Surface consequences of layout choices through interaction — reach distances, workflow friction — as implicit <a href="../../elements/provide-feedback/">Feedback</a></li>
+<li>Consolidate the chosen design and carry it into the purchase process (<a href="../../elements/whole-task-performance/">Whole-Task Performance</a>)</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../simulation-based-learning/">Simulation-based learning</a> — the same core mechanism: learning by manipulating a safe, simplified replica of a real environment</li>
+<li><a href="../case-based-learning/">Case-based learning</a> — like a case, the kitchen is an authentic problem context, but here the learner constructs the case rather than analyzing a given one</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — testing layout variations is practice with immediate environmental consequences</li>
+<li><a href="../../elements/application/">Application</a> — design heuristics are learned by applying them to the customer's own kitchen, not by reading about them</li>
+<li><a href="../../elements/coaching/">Coaching</a> — the app's design tips function as just-in-time guidance during exploration</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>HTC Vive and Oculus Rift headsets; Unreal Engine (the application's development platform)</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong><a href="https://www.ikea.com">IKEA VR Kitchen Visualizer</a></strong> — IKEA's 2016 pilot on Steam for HTC Vive and Oculus Rift; customers could change cabinet colors, walk the kitchen at child or adult height (to evaluate the space from a child's perspective), and cook virtual pancakes</li>
+<li>IKEA's subsequent AR tool, <strong>IKEA Place</strong> (iOS/Android), applies the same visualize-before-buying logic to individual furniture using smartphone AR rather than head-mounted VR</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Makransky, G., Terkildsen, T. S., &amp; Mayer, R. E. (2019). Adding immersive virtual reality to a science lab simulation causes more presence but less learning. <em>Learning and Instruction, 60</em>, 225–236. <a href="https://doi.org/10.1111/jcal.12335">doi:10.1111/jcal.12335</a></li>
+<li>Makransky, G., &amp; Mayer, R. E. (2022). Benefits of immersion and presence in virtual reality for learning. <em>Educational Psychology Review, 34</em>, 1583–1616. <a href="https://doi.org/10.4324/9781003386131-13">doi:10.4324/9781003386131-13</a></li>
+<li>Wu, B., Yu, X., &amp; Gu, X. (2020). Effectiveness of immersive virtual reality using head-mounted displays on learning performance: A meta-analysis. <em>Computers &amp; Education, 148</em>, 103852. <a href="https://doi.org/10.1111/bjet.13023">doi:10.1111/bjet.13023</a></li>
+<li>Lave, J., &amp; Wenger, E. (1991). <em>Situated learning: Legitimate peripheral participation</em>. Cambridge University Press. <a href="https://doi.org/10.2307/2804509">doi:10.2307/2804509</a></li>
+<li>Mayer, R. E. (2021). Evidence-based principles for how to design effective instructional videos. <em>Journal of Applied Research in Memory and Cognition, 10</em>(2), 229–240. <a href="https://doi.org/10.1016/j.jarmac.2021.03.007">doi:10.1016/j.jarmac.2021.03.007</a></li>
 </ul>
+<p>{"answer":"---\ntype: strategy\ntitle: IKEA VR Kitchen Visualizer\ndescription: A consumer-facing VR application that lets customers walk through and interact with a virtual version of their planned kitchen, teaching design principles and reducing purchase mistakes through situated, experiential learning.\nstatus: review\ngenerated:\n  by: \"claude/unspecified\"\n  at: 2026-08-29\n---\n\n# IKEA VR Kitchen Visualizer\n\n## Description\nThe IKEA VR Kitchen Visualizer (released 2016 for HTC Vive and Oculus Rift) lets customers walk around a virtual version of their planned kitchen at true scale, swap cabinet fronts, colors, and layouts, and interact with objects — frying pancakes, opening drawers, sorting waste. Beyond visualization, it surfaces design heuristics such as the work triangle, corner storage, and waste-sorting workflows, aiming to transfer practical knowledge to customers and reduce costly purchase mistakes before commitment.\n\n## Design Implications\n\nThe visualizer is a commercial instance of <a href="../../theories/situated-learning/">Situated Learning</a>: knowledge about kitchen design is acquired in the context where it will be used, rather than from brochures or static floor plans. Immersive simulation supports learning by letting learners manipulate a realistic environment and observe consequences, but immersion alone does not guarantee learning — instructional support inside the environment determines outcomes, and added immersion can even cost learning when it consumes attention [~M] <a href="../../claims/media-combinations-affect-recall-and-retention/">Makransky &amp; Mayer's immersion–presence tradeoff is documented in lab settings.</a> [~M].\n\n### Context\n#### Requirements\n- HTC Vive or Oculus Rift headset, a VR-ready computer, and the IKEA VR Kitchen Visualizer application\n- A rough kitchen plan or measurements so the virtual space approximates the customer's real constraints\n- Time and willingness to explore and compare configurations\n\n#### Constraints\n- No haptic feedback limits realism of physical interactions (opening drawers, cooking), which can weaken the sense of plausibility that drives engagement [~M]\n- Setup demands technical literacy and hardware access; customers without these are excluded entirely\n- The novelty and interactivity of the environment (e.g., frying pancakes in four pans simultaneously) can consume attention that would otherwise go to design learning — seductive details in immersive media reliably depress retention of target content [-S]\n- Effectiveness depends on the customer already having a design task in mind; as free exploration without a decision goal it teaches little [~W]\n- True-scale spatial judgment in VR can mislead: presence feels convincing, but perceived distances and sizes in head-mounted VR are systematically distorted, so confidence gained may outstrip accuracy [~W]\n\n#### Implementation Variability\n- Guided mode: the application surfaces design heuristics (work triangle, waste sorting) as the user manipulates the layout — closer to <a href="../../elements/coaching/">Coaching</a>\n- Free-exploration mode: users configure and test layouts at will — closer to <a href="../../elements/simulation/">Simulation</a> with minimal scaffolding\n- The same visualization logic transfers to non-immersive formats (IKEA's web and AR planners), trading presence for accessibility; desktop and AR versions often produce comparable learning at far lower cost and friction [~M]\n\n### Target Learners\n- Adult consumers making a high-stakes, infrequent purchase who need to evaluate spatial designs before committing [~M]\n- Customers with concrete design decisions to make; the tool presumes task-relevant motivation rather than building it\n- Less useful for customers early in the inspiration phase or those uncomfortable with VR hardware\n\n### Target Learning Goals\n- Procedural knowledge: applying design heuristics such as the work triangle and corner-storage principles\n- Spatial reasoning: evaluating a layout at true scale rather than from a floor plan\n- Decision confidence: reducing purchase mistakes by letting users experience the design before buying — confidence gains are well documented even where measurable learning gains are not [~W]\n\n### Instructions\n1. Set up the headset and load the customer's approximate kitchen dimensions into the application\n2. Let the customer explore the default layout at true scale, interacting with storage and appliances (<a href="../../elements/application/">Application</a>)\n3. Prompt comparison of alternative configurations against the taught heuristics (work triangle, waste sorting) (<a href="../../elements/practice/">Practice</a>) — structured comparison of variants supports abstraction of the underlying principles better than unstructured exploration <a href="../../claims/multiple-contrasting-cases-support-abstraction/">Multiple contrasting cases support abstraction.</a> [+M]\n4. Surface consequences of layout choices through interaction — reach distances, workflow friction — as implicit <a href="../../elements/provide-feedback/">Feedback</a>\n5. Consolidate the chosen design and carry it into the purchase process (<a href="../../elements/whole-task-performance/">Whole-Task Performance</a>)\n\n## Related Strategies\n- <a href="../simulation-based-learning/">Simulation-based learning</a> — the same core mechanism: learning by manipulating a safe, simplified replica of a real environment\n- <a href="../case-based-learning/">Case-based learning</a> — like a case, the kitchen is an authentic problem context, but here the learner constructs the case rather than analyzing a given one\n\n## Related Elements\n- <a href="../../elements/practice/">Practice</a> — testing layout variations is practice with immediate environmental consequences\n- <a href="../../elements/application/">Application</a> — design heuristics are learned by applying them to the customer's own kitchen, not by reading about them\n- <a href="../../elements/coaching/">Coaching</a> — the app's design tips function as just-in-time guidance during exploration\n\n## Tools\n- HTC Vive and Oculus Rift headsets; Unreal Engine (the application's development platform)\n\n## Examples\n- <strong><a href="https://www.ikea.com">IKEA VR Kitchen Visualizer</a></strong> — IKEA's 2016 pilot on Steam for HTC Vive and Oculus Rift; customers could change cabinet colors, walk the kitchen at child or adult height (to evaluate the space from a child's perspective), and cook virtual pancakes\n- IKEA's subsequent AR tool, <strong>IKEA Place</strong> (iOS/Android), applies the same visualize-before-buying logic to individual furniture using smartphone AR rather than head-mounted VR\n\n## Key Sources\n- Makransky, G., Terkildsen, T. S., &amp; Mayer, R. E. (2019). Adding immersive virtual reality to a science lab simulation causes more presence but less learning. <em>Learning and Instruction, 60</em>, 225–236. <a href="https://doi.org/10.1016/j.learninstruc.2018.12.003">doi:10.1016/j.learninstruc.2018.12.003</a>\n- Makransky, G., &amp; Mayer, R. E. (2022). Benefits of immersion and presence in virtual reality for learning. <em>Educational Psychology Review, 34</em>, 1583–1616. <a href="https://doi.org/10.1007/s10648-022-09675-2">doi:10.1007/s10648-022-09675-2</a>\n- Wu, B., Yu, X., &amp; Gu, X. (2020). Effectiveness of immersive virtual reality using head-mounted displays on learning performance: A meta-analysis. <em>Computers &amp; Education, 148</em>, 103852. <a href="https://doi.org/10.1016/j.compedu.2020.103852">doi:10.1016/j.compedu.2020.103852</a>\n- Lave, J., &amp; Wenger, E. (1991). <em>Situated learning: Legitimate peripheral participation</em>. Cambridge University Press.\n- Mayer, R. E. (2021). Evidence-based principles for how to design effective instructional videos. <em>Journal of Applied Research in Memory and Cognition, 10</em>(2), 229–240. <a href="https://doi.org/10.1016/j.jarmac.2021.03.007">doi:10.1016/j.jarmac.2021.03.007</a>"}</p>
 
 
 

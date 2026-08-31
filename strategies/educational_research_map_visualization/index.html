@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="This strategy involves using a research map visualization tool to explore education and learning sciences research.">
+        <meta name="description" content="Using an interactive bibliometric map to explore, navigate, and make sense of education and learning sciences research.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,77 +722,71 @@
 
 
 <h1 id="educational-research-map-visualization">Educational Research Map Visualization<a class="headerlink" href="#educational-research-map-visualization" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>This strategy involves using a research map visualization tool to explore education and learning sciences research. The visualization is built using data from academic journals, analyzing titles, keywords, authors, and abstracts to create a bibliographic coupling network. Articles sharing common references are linked, forming topics and subtopics. This tool allows users to explore common themes, connections between topics, and save articles of interest. It serves as an interactive encyclopedia, providing a wide breadth of information arranged by subject. The tool is designed to help educators stay informed about current research, explore topics in depth, and identify resources relevant to their practice.</p>
+<p>This strategy uses an interactive research map visualization to explore education and learning sciences literature. The map is built from bibliographic coupling of journal articles — analyzing titles, keywords, authors, and abstracts, then linking articles that share references — so that clusters of related work emerge as topics and subtopics. Users browse the map like an interactive encyclopedia: identifying themes, tracing connections between topics, and saving articles of interest for later reading.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Bibliometric maps reduce the search cost of navigating a large, unfamiliar literature by externalizing its structure — much as <a href="../../elements/advance-organizers/">Advance Organizers</a> provide a scaffold for new content <a href="../../claims/advance-organizers-improve-learning/">advance organizers improve learning</a> [+M]. The spatial clustering gives users a schema for the field before they read individual articles, supporting orientation and selective depth-first exploration rather than unstructured keyword searching. Because the map presents breadth without a point of view, its value depends on the user's purpose: it is strongest as a discovery and orientation tool, and weakest as a substitute for critical appraisal or a curated synthesis.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires access to the research map visualization tool and internet connectivity. Users need to be familiar with basic research concepts and terminology.</li>
+<li>Access to the visualization tool and internet connectivity</li>
+<li>Basic familiarity with research concepts and terminology (journals, citations, peer review) to interpret what cluster membership does and does not mean</li>
+<li>A purpose or question to guide exploration; open-ended browsing without a goal tends to produce shallow engagement</li>
+<li>A follow-on step that moves users from saved articles to reading and application (<a href="../../elements/assigned-readings/">Assigned Readings</a> built from saved items)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>The visualization is based on data from a specific time period (2009-2018) and may not include the most recent research. It is more of an encyclopedia than a structured literature review and does not offer a specific point of view.</li>
+<li>The map reflects a fixed data window (e.g., 2009–2018 for Digital Promise's Research Map) and omits more recent research [-W]</li>
+<li>It is an encyclopedia, not a literature review: it offers no synthesis, quality weighting, or point of view, so users may mistake topical proximity for evidential strength [-W]</li>
+<li>Bibliographic coupling links articles by shared references, not by shared findings; adjacent clusters can contain methodologically or ideologically divergent work [~W]</li>
+<li>Users unfamiliar with research conventions may over-trust prominent clusters or misread citation-based relatedness as consensus [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Structured use: an instructor assigns a map region as the basis for <a href="../../elements/assigned-readings/">Assigned Readings</a> or a literature-scavenging task</li>
+<li>Collaborative use: teams explore different clusters and report back, enacting <a href="../../elements/collaborative-learning/">Collaborative Learning</a> with the map as shared workspace</li>
+<li>Professional development use: practitioners locate clusters adjacent to their practice area to find transferable evidence</li>
+<li>The same bibliometric approach underlies general science-mapping tools (e.g., VOSviewer, SciMapper) that can be applied to education corpora</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Educators, researchers, and policymakers who want to stay informed about current research in education and learning sciences.</li>
+<li>Educators, instructional designers, and policymakers seeking to ground decisions in research but lacking time for systematic searching</li>
+<li>Graduate students and new researchers orienting to the structure of the learning sciences literature</li>
+<li>Less suited to lay audiences without research literacy, who need curated syntheses rather than raw bibliometric structure [-W]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Enhance educators' understanding of current education research, facilitate exploration of common themes and connections, and provide access to relevant resources.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides a visual and interactive way to explore a vast amount of research data, identifies connections between different topics, and offers access to articles of interest.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Users can focus on specific topics relevant to their interests and needs. The tool allows for customized exploration and saving of articles.</li>
+<li>Orientation: building a cognitive map of a research field's topics and their relationships</li>
+<li>Evidence literacy: locating primary sources relevant to a practice question</li>
+<li>Professional development: sustaining awareness of research themes over time</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/assigned-readings/">Assigned Readings</a></li>
-<li><a href="../../elements/advance-organizers/">Advance Organizers</a></li>
-<li><a href="../../elements/collaborative-learning/">Collaborative Learning</a></li>
-<li><a href="../../elements/inquiry-based-exploration/">Inquiry-Based Exploration</a></li>
-<li><a href="../../elements/just-in-time-information/">Just-in-Time Information</a></li>
-<li><a href="../../elements/resource-evaluation/">Resource Evaluation</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track usage of the visualization tool, survey users about the usefulness of the resources, and monitor the extent to which educators incorporate research findings into their practice.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>By providing access to a wide range of research-based content, this strategy supports evidence-based decision-making and promotes continuous professional development.</li>
-</ul>
+<ol>
+<li>Define a guiding question or practice problem to anchor exploration.</li>
+<li>Orient on the map: survey major clusters to build an advance organizer for the field (<a href="../../elements/advance-organizers/">Advance Organizers</a>).</li>
+<li>Drill into the cluster most relevant to the question; skim titles and abstracts to identify candidate articles.</li>
+<li>Trace links to adjacent clusters to surface cross-topic connections and alternative perspectives.</li>
+<li>Save and curate articles of interest, then convert them into a reading plan (<a href="../../elements/assigned-readings/">Assigned Readings</a>).</li>
+<li>Where possible, discuss findings with peers to interpret applicability (<a href="../../elements/collaborative-learning/">Collaborative Learning</a>).</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li>Literature mapping and systematic review — the map is a discovery front-end; systematic review adds quality appraisal and synthesis the map lacks</li>
+<li>Evidence-based practice adoption — the map locates evidence; structured implementation frameworks translate it into practice</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Digital Promise's Research Map visualization tool allows users to explore common topics, connections between topics, and save articles of interest.</li>
+<li><strong><a href="https://researchmap.digitalpromise.org">Digital Promise Research Map</a></strong> — an interactive visualization of education research built from bibliographic coupling of journal articles; users explore topics, connections between topics, and save articles of interest.</li>
+<li><strong><a href="https://www.vosviewer.com">VOSviewer</a></strong> — a general-purpose bibliometric mapping tool widely used to construct and visualize co-citation and bibliographic coupling networks, including education literature.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Boyack, K. W., &amp; Klavans, R. (2010). Co-citation analysis, bibliographic coupling, and direct citation: Which citation approach represents the research network best? <em>Journal of the American Society for Information Science and Technology, 61</em>(12), 2389–2404. <a href="https://doi.org/10.1002/asi.21419">doi:10.1002/asi.21419</a></li>
+<li>Small, H. (1973). Co-citation in the scientific literature: A new measure of the relationship between two documents. <em>Journal of the American Society for Information Science, 24</em>(4), 265–269. <a href="https://doi.org/10.1002/asi.4630240406">doi:10.1002/asi.4630240406</a></li>
+<li>Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. <em>Educational Researcher, 31</em>(7), 15–21. <a href="https://doi.org/10.3102/0013189X031007015">doi:10.3102/0013189X031007015</a></li>
 </ul>
 
 

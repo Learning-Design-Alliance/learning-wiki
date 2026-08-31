@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,73 +722,75 @@
 
 
 <h1 id="text-to-speech-tts">Text-to-Speech (TTS)<a class="headerlink" href="#text-to-speech-tts" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Text-to-speech (TTS) technology converts written text into spoken words, enhancing accessibility and comprehension for individuals with dyslexia, visual impairments, or other learning differences. It involves highlighting text on a digital device, and then using software or an app to read the text aloud. Users can adjust the voice, speed, and pitch to suit their preferences. Devices include computers, tablets, and smartphones with TTS capabilities.</p>
+<p>Text-to-speech (TTS) converts written text into synthesized spoken audio, allowing learners to listen to digital text rather than — or alongside — reading it. It is implemented through screen readers (JAWS, NVDA), literacy support tools (<a href="https://www.texthelp.com/products/readwrite/">Read&amp;Write</a>, <a href="https://www.learningally.org">Learning Ally</a>), built-in OS features, and audio narration embedded in courseware. TTS serves both as an <a href="../../elements/accommodations/">accommodation</a> for learners with print disabilities and as a universal design option for any learner who benefits from hearing text.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>TTS reduces the decoding burden so that working memory resources can be directed toward comprehension rather than word recognition <a href="../../claims/automatic-word-recognition-frees-resources-for-comprehension/">Automatic word recognition frees resources for comprehension.</a> [+S]. For learners with dyslexia or visual impairment, this access benefit is well established; for fluent readers, listening to text while reading it can support attention and engagement, though benefits shrink as reading skill increases [~M]. Combining spoken and written presentation of the <em>same</em> text can aid recall, but presenting redundant narration with identical on-screen text can also add extraneous load if learners cannot control pacing <a href="../../claims/media-combinations-affect-recall-and-retention/">Media combinations affect recall and retention.</a> [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>A device (computer, tablet, or smartphone) with text-to-speech software or app. Digital text that can be highlighted and read aloud. Headphones or speakers for audio output.</li>
+<li>Digital text in an accessible format (HTML, EPUB, tagged PDF) so the synthesizer can parse reading order and structure</li>
+<li>Adjustable speech rate and voice options; learners differ widely in preferred pace</li>
+<li>Highlighting of the word or sentence being spoken, to bind audio and visual input</li>
+<li>For assessment use, a clear policy on whether TTS is permitted and whether it is read-aloud accommodation or a universal tool</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Comprehension may be reduced if the synthesized voice is difficult to understand. May not accurately convey tone or emotion. Not all digital content is compatible with TTS technology. Reliance on TTS may hinder the development of decoding skills for some individuals.</li>
+<li>For learners still building decoding skills, TTS can bypass the practice needed for automatic word recognition <a href="../../claims/automatic-word-recognition-frees-resources-for-comprehension/">Automatic word recognition frees resources for comprehension.</a> [-M] — over-reliance may slow reading development if listening replaces decoding practice entirely</li>
+<li>Synthetic speech degrades comprehension of complex syntax, homographs, and technical vocabulary compared with human narration [-W]</li>
+<li>Listening alone yields poorer recall of expository text than reading for skilled readers, because auditory input is transient and harder to review [~M]</li>
+<li>Poorly tagged documents produce garbled reading order, adding rather than reducing load <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Word-level highlighting with audio</strong> (Read&amp;Write, Voice Dream Reader) — supports tracking and phoneme-grapheme mapping</li>
+<li><strong>Full-document audio</strong> (<a href="../../principles/audiobooks/">audiobooks</a>, Learning Ally) — access to grade-level content beyond current decoding skill</li>
+<li><strong>Screen readers</strong> (JAWS, NVDA, VoiceOver) — full non-visual access, requiring document accessibility standards (WCAG)</li>
+<li><strong>Embedded courseware narration</strong> — TTS as a universal option in LMS content and assessments</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Students and adults with dyslexia, visual impairments, or anyone who struggles with reading.</li>
+<li>Learners with dyslexia, low vision, or blindness, for whom TTS is often essential access [~S]</li>
+<li>Struggling decoders whose listening comprehension exceeds their reading comprehension — TTS lets them work at grade level while decoding develops</li>
+<li>English language learners using audio support to map spoken and written forms [~W]</li>
+<li>Skilled readers benefit least; for them TTS is mainly a convenience or preference [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Improve reading comprehension, support independent learning, enhance access to digital content, and increase vocabulary development.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Reduces the cognitive load associated with decoding and reading, allowing individuals to focus on comprehension. Provides an alternative means of accessing written information for those with visual impairments. Improves vocabulary development by exposing individuals to new words in context.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Users can select different voices, adjust the speaking rate, and choose whether to highlight words as they are read aloud. The technology supports diverse devices and platforms, including computers, tablets, and smartphones. Languages and accents can be selected based on learner needs.</li>
+<li>Comprehension of complex texts when decoding is a barrier</li>
+<li>Content-area knowledge acquisition (science, social studies) independent of reading level</li>
+<li>Fluency development when TTS models are used for read-along rather than read-for</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/direct-instruction/">Direct instruction</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Measure reading comprehension with and without TTS. Evaluate the speed and accuracy of reading aloud. Gather feedback from users on their experience and perceived benefits. Track improvements in reading skills and vocabulary development over time.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research shows that TTS technology improves reading comprehension and reduces reading fatigue for individuals with dyslexia and visual impairments. Enhances access to digital content and supports independent learning.</li>
-</ul>
+<ol>
+<li>Verify the source content is accessible: proper heading structure, reading order, alt text — otherwise the synthesizer output is unusable.</li>
+<li>Select a tool matched to the goal: word-level highlighting for decoding support (<a href="../../elements/accommodations/">Accommodations</a>), full-document audio for content access.</li>
+<li>Let the learner control speech rate, voice, and whether to listen, read, or read along — learner control is central to effective use.</li>
+<li>Pair listening with comprehension activity (annotation, summarizing) so audio input is processed actively rather than passively.</li>
+<li>Review periodically whether TTS remains needed or whether it should be faded as decoding improves.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li>Audiobook-supported reading — TTS at book scale, pairing human-narrated audio with print</li>
+<li>Read-aloud accommodation — TTS applied to assessment conditions</li>
+<li>Highlighting and text marking — complements TTS by adding a visual processing layer to spoken input</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>NaturalReader, Read&amp;Write, ClaroRead, voice dictation function in Mac and Android devices. Use cases include students listening to textbooks, completing assignments, and conducting research; professionals accessing documents and emails; and individuals with visual impairments reading digital content.</li>
+<li><strong><a href="https://www.texthelp.com/products/readwrite/">Read&amp;Write</a></strong> (Texthelp) — toolbar with word-level highlighting, dictionary, and adjustable voices, widely used in K–12 for dyslexia support.</li>
+<li><strong><a href="https://www.learningally.org">Learning Ally</a></strong> — human-narrated audiobooks with synced text highlighting for students with print disabilities.</li>
+<li><strong><a href="https://www.voicedream.com">Voice Dream Reader</a></strong> — mobile app combining TTS with synchronized highlighting and configurable voices.</li>
+<li><strong>NVDA (<a href="https://www.nvaccess.org">nvaccess.org</a>)</strong> — free open-source screen reader providing full non-visual access to digital content.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Wood, S. G., Moxley, J. H., Tighe, E. L., &amp; Wagner, R. K. (2018). Does use of text-to-speech and related read-aloud tools improve reading comprehension for students with reading disabilities? A meta-analysis. <em>Journal of Learning Disabilities, 51</em>(1), 73–84. <a href="https://doi.org/10.1177/0022219416688170">doi:10.1177/0022219416688170</a></li>
+<li>Rose, D. H., &amp; Meyer, A. (2002). <em>Teaching every student in the digital age: Universal design for learning.</em> ASCD.</li>
+<li>Mayer, R. E. (2021). <em>Multimedia learning</em> (3rd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/9781316941355">doi:10.1017/9781316941355</a></li>
+<li>Perfetti, C. A., &amp; Stafura, J. (2014). Word knowledge in a theory of reading comprehension. <em>Scientific Studies of Reading, 18</em>(1), 22–37. <a href="https://doi.org/10.1080/10888438.2013.827687">doi:10.1080/10888438.2013.827687</a></li>
 </ul>
 
 

@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Text-to-speech (TTS) software allows written text to be read aloud.">
+        <meta name="description" content="Text-to-speech (TTS) software converts written text into spoken audio, providing an alternative access route to digital and printed content.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +722,75 @@
 
 
 <h1 id="text-to-speech-tts-software">Text-to-Speech (TTS) Software<a class="headerlink" href="#text-to-speech-tts-software" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Text-to-speech (TTS) software allows written text to be read aloud. It can convert files like Word documents and PDFs into spoken words, read emails and web pages, and convert text to audio files (MP3, WAV) for portable devices. TTS software often includes a toolbar for reading within applications and can integrate with OCR software to convert printed text into voice.</p>
+<p>Text-to-speech (TTS) software converts written text into synthesized spoken audio, allowing learners to listen to digital or scanned text rather than — or alongside — reading it. Modern implementations offer adjustable reading rate, voice selection, word-level highlighting that synchronizes audio with text, and integration with browsers, documents, and dedicated reading platforms. TTS is both an <a href="../../elements/accommodations/">accommodation</a> for learners with reading difficulties and a universal design feature that benefits a broad range of learners.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>TTS bypasses decoding bottlenecks so learners can devote working memory to comprehension rather than word recognition <a href="../../claims/automatic-word-recognition-frees-resources-for-comprehension/">Automatic word recognition frees resources for comprehension.</a> [+S]. A meta-analysis of read-aloud tools for students with reading disabilities found moderate positive effects on comprehension, with stronger effects when TTS was used as an accommodation during instruction than as a substitute for reading instruction itself <a href="https://doi.org/10.1177/0022219416688446">Wood et al., 2018</a> [+M]. Synchronized highlighting (audio plus visual text) supports dual-channel processing consistent with multimedia learning principles <a href="../../claims/media-combinations-affect-recall-and-retention/">Media combinations affect recall and retention.</a> [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Computer or device with TTS software installed, compatible operating system, and necessary file formats (PDF, DOCX, PPT, TXT, HTML). Headphones may be required depending on the environment.</li>
+<li>Digital text or accurate OCR conversion of printed material; poor scans degrade synthesis quality and comprehension</li>
+<li>Adjustable speech rate and voice options so learners can match listening speed to comprehension capacity</li>
+<li>For struggling readers, pairing with explicit decoding instruction — TTS supplements rather than replaces it</li>
+<li>Synchronized text highlighting where possible, to anchor attention to the words being spoken</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Effectiveness may vary based on voice quality and customization options. Some TTS may not read system information like screen readers. Compatibility issues may arise with certain applications or file formats.</li>
+<li>TTS does not build decoding skills; over-reliance can displace the practice struggling readers need to develop word recognition [-M]</li>
+<li>Benefits shrink for proficient readers, for whom listening is often slower than reading and adds no comprehension advantage [~M]</li>
+<li>Comprehension from audio alone drops for complex expository text and for learners with limited vocabulary, since speech is transient and cannot be easily re-inspected [-W]</li>
+<li>Poorly paced or robotic narration increases extraneous cognitive load, particularly for novices [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Accommodation mode</strong>: TTS on assessments or assignments for learners with documented reading disabilities, decoupling content access from decoding ability</li>
+<li><strong>Bimodal reading</strong>: audio with synchronized highlighting, which supports word-reading development better than audio alone [+W]</li>
+<li><strong>Universal access</strong>: available to all learners in a <a href="https://udlguidelines.cast.org">Universal Design for Learning</a> environment for preference-based use</li>
+<li><strong>Writing support</strong>: TTS read-back of the learner's own drafts to support revision and error detection [+W]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Individuals who prefer or need to hear text, including students with reading difficulties, individuals with visual impairments, and those who benefit from auditory learning.</li>
+<li>Students with reading disabilities, dyslexia, or slow decoding <a href="https://doi.org/10.1177/0022219416688446">Wood et al., 2018</a> [+M]</li>
+<li>English language learners, who can connect written and spoken forms of unfamiliar words [+W]</li>
+<li>Learners with visual impairments or print-related fatigue</li>
+<li>Less beneficial for strong readers with adequate time, who gain little and may prefer silent reading [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Assist with proofreading, enhance time management and productivity, provide accessible formats for diverse learners</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Enhances auditory processing, provides multisensory support by activating verbal and visual working memory, strengthens visual processing through tracking (highlighting the spoken word), offers alternative formats for communication, and increases accessibility to digital content.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Users can customize voices (speech, pitch, volume), adjust reading chunks (paragraph, sentence), and select compatible applications and file formats. Some TTS offer multiple installations per license, online or built-in options.</li>
+<li>Content-area comprehension: accessing grade-level material despite decoding difficulty</li>
+<li>Vocabulary development: hearing pronunciation of new words in context</li>
+<li>Self-regulated revision: evaluating one's own writing by ear</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/demonstration/">Demonstration</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Improved reading comprehension, increased fluency, enhanced productivity, and positive user feedback. Assess user's ability to proofread, manage time, and engage with digital content more effectively.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research supports the effectiveness of TTS in improving reading comprehension, enhancing learning outcomes for students with dyslexia, and increasing accessibility to educational materials. Read&amp;Write has been used to support all learners, promoting accessibility and deeper learning.</li>
-</ul>
+<ol>
+<li>Verify the text is digital and accurately converted (OCR quality check for scanned material).</li>
+<li>Configure rate, voice, and highlighting to the learner's preference; teach the learner to adjust these independently.</li>
+<li>Model bimodal use — following highlighted text while listening — before independent use.</li>
+<li>Pair TTS with comprehension supports such as <a href="../../principles/chunking/">Chunking</a> of text into sections and <a href="../../principles/annotating/">Annotating</a> during listening.</li>
+<li>Review periodically whether TTS remains an access tool or is displacing needed decoding practice.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../audiobooks/">Audiobooks</a> — the pre-recorded counterpart; human narration offers prosody TTS lacks, while TTS offers any-text flexibility</li>
+<li><a href="../accommodating_processing_speed_challenges/">Accommodating Processing Speed Challenges</a> — TTS rate adjustment is a direct lever for pacing</li>
+<li><a href="../accessible_syntax/">Accessible Syntax</a> — simplifying text complements TTS by reducing the comprehension burden of complex sentences</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Read&amp;Write by Texthelp, NaturalReader, ClaroRead, Snap&amp;Read. Examples of TTS software implementation in classrooms and for personal use can be found on vendor websites.</li>
+<li><strong><a href="https://learningally.org">Learning Ally</a></strong> and <strong><a href="https://www.bookshare.org">Bookshare</a></strong> — accessible libraries serving students with print disabilities, combining human-narrated and TTS audio with synchronized text.</li>
+<li><strong><a href="https://www.microsoft.com/education/products/immersive-reader">Microsoft Immersive Reader</a></strong> — free TTS with syllable splitting, picture dictionary, and line focus, embedded across Office and Teams.</li>
+<li><strong><a href="https://www.texthelp.com/products/readwrite/">Read&amp;Write (Texthelp)</a></strong> — toolbar-based TTS with highlighting, widely used as a UDL accommodation in K–12 and higher education.</li>
+<li><strong>Kurzweil 3000</strong> — long-standing TTS platform for students with dyslexia, combining read-aloud with study-skill tools.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Wood, S. G., Moxley, J. H., Tighe, E. L., &amp; Wagner, R. K. (2018). Does use of text-to-speech and related read-aloud tools improve reading comprehension for students with reading disabilities? A meta-analysis. <em>Journal of Learning Disabilities, 51</em>(1), 73–84. <a href="https://doi.org/10.1177/0022219416688170">doi:10.1177/0022219416688170</a></li>
+<li>Clark, R. C., &amp; Mayer, R. E. (2016). <em>E-Learning and the Science of Instruction</em> (4th ed.). Wiley. <a href="https://doi.org/10.1002/9781119239086">doi:10.1002/9781119239086</a></li>
+<li>CAST. (2018). <em>Universal Design for Learning Guidelines version 2.2</em>. <a href="https://udlguidelines.cast.org">https://udlguidelines.cast.org</a></li>
+<li>Mayer, R. E. (2021). <em>Multimedia Learning</em> (3rd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/9781316941355">doi:10.1017/9781316941355</a></li>
 </ul>
 
 

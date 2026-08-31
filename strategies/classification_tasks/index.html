@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,73 +722,74 @@
 
 
 <h1 id="classification-tasks">Classification Tasks<a class="headerlink" href="#classification-tasks" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Classification tasks involve sorting objects or concepts into categories based on shared properties. Learners develop and justify their classification schemes, demonstrating their understanding of the properties and relationships between objects or concepts. These tasks can be adapted for various subjects, from classifying rocks based on observable properties to classifying candies based on their attributes. Tasks may include binary classification systems or classification trees, depending on the complexity.</p>
+<p>Classification tasks ask learners to sort objects, examples, or concepts into categories based on shared properties, and to justify the criteria they used. Learners may develop their own classification schemes or apply a given one, working from binary sorts up to multi-level classification trees. Because learners must attend to features, compare cases, and defend boundaries, classification is fundamentally an inductive activity: the category structure is constructed from evidence rather than delivered as a definition.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Classification tasks build conceptual structure through comparison. Contrasting multiple cases — especially cases that differ on only one dimension — helps learners abstract the underlying features that define a category <a href="../../claims/multiple-contrasting-cases-support-abstraction/">Comparing multiple contrasting cases supports abstraction of deep features.</a> [+S]. Requiring learners to explain <em>why</em> an item belongs in a category converts sorting from a mechanical exercise into self-explanation, which improves conceptual understanding <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+S]. Sorting also functions as chunking: grouping items under a category label reduces the number of separate elements learners must hold in mind <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Objects to be classified, classification criteria, tools for observation (e.g., magnifying glass), recording sheets</li>
+<li>A set of items with enough shared and distinguishing features to make sorting non-trivial</li>
+<li>Clear (or learner-generated) classification criteria, with recording sheets or sorting tools</li>
+<li>A justification step — learners must articulate the properties that drove each placement</li>
+<li>For science contexts, observation tools appropriate to the items (magnifiers, rulers, reference keys)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May require a variety of materials. Success depends on the clarity of the classification criteria.</li>
+<li>Ambiguous or overlapping criteria produce arbitrary sorts; learners may learn that classification is idiosyncratic rather than principled [-M]</li>
+<li>If all items differ on many dimensions at once, learners cannot isolate which features matter; sorting degenerates into guessing [~M]</li>
+<li>Learners with strong prior knowledge of the categories gain little from simple sorting and may find it redundant <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective as expertise increases.</a> [~M]</li>
+<li>Sorting alone, without feedback or a "time for telling," can leave learners with invented but incorrect category boundaries; classification works best when followed by explicit instruction that names and consolidates the structure [~S]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Given vs. generated criteria</strong>: learners apply a provided taxonomy (e.g., a dichotomous rock key) or invent their own scheme and defend it</li>
+<li><strong>Binary vs. hierarchical</strong>: two-way sorts (living/non-living) suit younger learners; multi-level trees (kingdom → species) suit advanced ones</li>
+<li><strong>Interleaved presentation</strong>: mixing category members across practice sets forces feature comparison, whereas blocked presentation lets learners sort by surface similarity alone [~S]</li>
+<li><strong>Erroneous examples</strong>: sorting items that have been deliberately misclassified and asking learners to find and fix the errors builds conceptual knowledge <a href="../../claims/erroneous-examples-build-conceptual-knowledge/">Erroneous examples build conceptual knowledge.</a> [+M]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>K–4 learners across various subject areas, particularly science and mathematics</li>
+<li>Novices and younger learners (K–4) encountering a new domain's category structure, particularly in science and mathematics</li>
+<li>Learners who benefit from concrete manipulation before formal definitions are introduced</li>
+<li>Less valuable for learners who already command the taxonomy; for them, application or exception-handling tasks are better <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective as expertise increases.</a> [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Develop observation skills, enhance analytical thinking, improve understanding of properties, promote justification of reasoning</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Develops analytical and reasoning skills. Encourages observation and critical thinking. Adapts to different content areas.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Adaptable to various objects and concepts. Supports different classification schemes. Can be simplified or made more complex based on the learner's level.</li>
+<li>Concept formation: learning what defines a category and where its boundaries lie</li>
+<li>Feature discrimination: noticing which properties are diagnostic versus incidental</li>
+<li>Analytical reasoning and justification: defending a scheme with evidence</li>
+<li>Preparation for later explicit instruction — sorting builds the differentiated intuitions that definitions then organize</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/application/">Application</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Quality of the classification scheme, justification of the scheme, accuracy of observations</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Enhanced observation and analytical skills. Better understanding of properties and relationships.</li>
-</ul>
+<ol>
+<li>Present a varied set of items and let learners explore their properties before any sorting (<a href="../../elements/activation/">Activation</a>).</li>
+<li>Ask learners to sort items into categories, initially with their own criteria (<a href="../../elements/application/">Application</a>).</li>
+<li>Have learners compare their schemes with peers and reconcile disagreements (<a href="../../elements/class-discussion/">Class Discussion</a>).</li>
+<li>Introduce contrasting cases that differ on a single dimension to sharpen attention to diagnostic features (<a href="../../elements/practice/">Practice</a>).</li>
+<li>Follow with explicit instruction that names the canonical categories and explains why the expert scheme works.</li>
+<li>Assess with novel items: can learners classify examples they have never seen and justify the placement?</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../principles/case-studiescase-based-learning/">Case Studies</a> — extended classification of a single rich instance rather than many small ones</li>
+<li><a href="../../elements/comparing-cases/">Comparing Cases</a> — the comparison mechanism that makes classification tasks build abstractions</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Classifying Rocks (KDE): Learners develop classification schemes based on observable properties in rocks. Classifying Candy (NYSED): Learners develop binary classification systems using a selection of candies.</li>
+<li><strong>Classifying Rocks (Kentucky DOE)</strong> — learners develop and justify classification schemes for rock samples based on observable properties, then compare their schemes to geologists' dichotomous keys.</li>
+<li><strong>Classifying Candy (NYSED)</strong> — elementary learners build binary classification systems from a set of candies, iterating on criteria as new attributes emerge.</li>
+<li><strong>Kornell's interleaved painting study</strong> — learners who viewed paintings interleaved by artist (an implicit classification task) outperformed blocked learners at categorizing new paintings, despite feeling they learned less.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Schwartz, D. L., &amp; Bransford, J. D. (1998). A time for telling. <em>Cognition and Instruction, 16</em>(4), 475–522. <a href="https://doi.org/10.1207/s1532690xci1604_4">doi:10.1207/s1532690xci1604_4</a></li>
+<li>Markman, A. B., &amp; Ross, B. H. (2003). Category use and category learning. <em>Psychological Bulletin, 129</em>(4), 592–613. <a href="https://doi.org/10.1037/0033-2909.129.4.592">doi:10.1037/0033-2909.129.4.592</a></li>
+<li>Kornell, N., &amp; Bjork, R. A. (2008). Learning concepts and categories: Is spacing the "enemy of induction"? <em>Psychological Science, 19</em>(6), 585–592. <a href="https://doi.org/10.1111/j.1467-9280.2008.02127.x">doi:10.1111/j.1467-9280.2008.02127.x</a></li>
+<li>Chi, M. T. H., Feltovich, P. J., &amp; Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. <em>Cognitive Science, 5</em>(2), 121–152. <a href="https://doi.org/10.1207/s15516709cog0502_2">doi:10.1207/s15516709cog0502_2</a></li>
 </ul>
 
 

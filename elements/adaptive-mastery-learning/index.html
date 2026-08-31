@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -695,53 +722,73 @@
 
 
 <h1 id="adaptive-mastery-learning">Adaptive Mastery Learning<a class="headerlink" href="#adaptive-mastery-learning" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Element</strong> · <a href="../">All elements</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Learners progress through levels of difficulty with personalized challenges and just-in-time feedback.</p>
+<p>Adaptive mastery learning combines Bloom's mastery learning model — requiring demonstrated proficiency before advancing — with adaptive systems that adjust task difficulty, sequencing, and feedback to individual performance. The system continuously estimates what each learner knows and serves the next challenge at the frontier of their competence, advancing only when mastery criteria are met.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Adaptive mastery systems ensure that foundational gaps are closed before higher-order content is introduced, and that practice is distributed where it is most needed. Mastery requirements raise achievement over conventional group-paced instruction, particularly for slower learners <a href="https://doi.org/10.3102/00346543060003265">Kulik et al.'s meta-analysis of mastery learning programs.</a> [+S]. Adaptive difficulty keeps learners working at an appropriate challenge level, avoiding both overload and disengagement; intelligent tutoring systems that adapt to learner responses produce substantial learning gains over conventional instruction <a href="https://doi.org/10.1007/s10648-010-9121-z">VanLehn's review of tutoring effectiveness.</a> [+S]. Spacing review items adaptively — resurfacing material at the point of predicted forgetting — improves long-term retention <a href="../../claims/spaced-repetition-improves-retention/">Spaced repetition improves retention.</a> [+S].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>A decomposable skill hierarchy with clear mastery criteria per level (<a href="../assessment/">Assessment</a> items that validly indicate proficiency)</li>
+<li>Just-in-time feedback tied to specific errors, not just right/wrong signals</li>
+<li>An adaptive engine (algorithmic or teacher-mediated) that adjusts difficulty and review scheduling based on performance data</li>
+<li>Sufficient item variety so mastery is not demonstrated by memorizing specific questions</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Mastery gating can demotivate learners who repeatedly fail a level; unbounded retries without support produce frustration rather than persistence [~M] — pair retries with <a href="../coaching/">Coaching</a> or scaffolded hints</li>
+<li>Over-reliance on extrinsic rewards and streaks can undermine intrinsic motivation once rewards stop [~M]; autonomy-supportive framing (learner choice of path or pace) mitigates this</li>
+<li>Adaptive systems are weakest on open-ended, ill-structured, or collaborative goals that resist item-based measurement</li>
+<li>Algorithmic difficulty adjustment can misclassify mastery from lucky guesses; require multiple successful items per criterion</li>
+<li>Expertise reversal: adaptive scaffolding that helps novices can slow down experts, so adaptation must reduce support as proficiency grows <a href="../../claims/expertise-reversal-effect/">Expertise reversal effect.</a> [~S]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>K-12, higher education, corporate training</li>
+<li>K–12 learners building foundational skills with wide within-class variability; adaptive pacing removes the group-pace bottleneck <a href="https://doi.org/10.3102/00346543060003265">Kulik et al.'s meta-analysis of mastery learning programs.</a> [+S]</li>
+<li>Struggling learners who benefit from repeated, low-stakes attempts with immediate feedback</li>
+<li>Corporate trainees in compliance or procedural domains where uniform proficiency is a requirement</li>
+<li>Less suitable for advanced learners working on integrative or creative outcomes, where item-based mastery criteria poorly represent the goal</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Ensure retention and skill mastery through progressive challenges.</li>
+<li>Retention and fluency: ensuring durable mastery of prerequisite knowledge <a href="../../claims/spaced-repetition-improves-retention/">Spaced repetition improves retention.</a> [+S]</li>
+<li>Procedural skill acquisition through progressive difficulty levels</li>
+<li>Self-efficacy: visible progress through levels builds confidence that supports persistence <a href="../../claims/self-efficacy-predicts-academic-persistence/">Self-efficacy predicts academic persistence.</a> [+M]</li>
 </ul>
 <h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<!-- Links to principles applied -->
 <ul>
-<li><a href="../../principles/behaviorism/">Behaviorism</a></li>
-<li><a href="../../principles/cognitive-load-theory/">Cognitive Load Theory</a></li>
-<li><a href="../../principles/self-determination-theory/">Self-Determination Theory</a></li>
+<li><a href="../../principles/behaviorism/">Behaviorism</a> — mastery gating with immediate feedback is a direct application of reinforcement contingencies: correct responses advance the learner, errors trigger corrective loops</li>
+<li><a href="../../principles/cognitive-load-theory/">Cognitive Load Theory</a> — adaptive difficulty keeps tasks within working memory limits, serving challenges that are neither overwhelming nor trivially easy</li>
+<li><a href="../../principles/self-determination-theory/">Self-Determination Theory</a> — learner-paced progression and visible mastery support competence; systems that offer path choice also support autonomy</li>
+<li><a href="../../principles/assessment-for-learning/">Assessment for Learning</a> — the continuous performance data that drives adaptation doubles as formative assessment, making each item a diagnostic event</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../mastery-learning/">Mastery Learning</a></li>
-<li><a href="../spaced-repetition/">Spaced Repetition</a></li>
-<li><a href="../adaptive-learning/">Adaptive Learning</a></li>
+<li><a href="../mastery-learning/">Mastery Learning</a> — the underlying model; adaptive systems automate its pacing and remediation decisions</li>
+<li><a href="../spaced-repetition/">Spaced Repetition</a> — the scheduling mechanism for retention; adaptive systems decide <em>when</em> to resurface material</li>
+<li><a href="../adaptive-learning/">Adaptive Learning</a> — the broader category; mastery learning adds the advancement criterion to adaptation</li>
+<li><a href="../adaptive-difficulty/">Adaptive Difficulty</a> — the difficulty-adjustment mechanism within each level</li>
+<li><a href="../assessment/">Assessment</a> — mastery judgments are only as valid as the assessments gating advancement</li>
 </ul>
 <h2 id="patterns-that-use-this-element">Patterns That Use This Element<a class="headerlink" href="#patterns-that-use-this-element" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../../patterns/game-based-mastery-learning-duolingo-pattern/">Game-Based Mastery Learning (Duolingo Pattern)</a></li>
+<li><a href="../../patterns/game-based-mastery-learning-duolingo-pattern/">Game-Based Mastery Learning (Duolingo Pattern)</a> — level-based progression with adaptive review and streak mechanics</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
-<!-- Links to strategies that use this element, with ratings -->
-<ul>
-<li><!-- TODO --></li>
-</ul>
+<p><strong><a href="https://www.duolingo.org">Duolingo</a></strong> — Adaptive spaced repetition model predicts when individual learners will forget items and schedules review accordingly; skills unlock only after mastery thresholds are met (Settles &amp; Meeder, 2016).</p>
+<p><strong><a href="https://www.carnegielearning.com">Carnegie Learning's MATHia (Cognitive Tutor)</a></strong> — Cognitive tutoring system that adapts problem sequences and hints to a student skill model; demonstrated significant gains in algebra across randomized trials (Pane et al., 2014).</p>
+<p><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — Mastery-based practice with adaptive exercise selection; learners advance through proficiency levels (attempted → proficient → mastered) per skill.</p>
+<p><strong><a href="https://www.aleks.com">ALEKS</a></strong> — Knowledge-space-theory-based adaptive system that maps what a learner is ready to learn and gates progression on demonstrated mastery.</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Bloom, B. S. (1968). Learning for mastery. <em>Evaluation Comment, 1</em>(2), 1–12.</li>
+<li>Kulik, C.-L. C., Kulik, J. A., &amp; Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. <em>Review of Educational Research, 60</em>(2), 265–299. <a href="https://doi.org/10.3102/00346543060002265">doi:10.3102/00346543060002265</a></li>
+<li>VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. <em>Educational Psychologist, 46</em>(4), 197–221. <a href="https://doi.org/10.1080/00461520.2011.611369">doi:10.1080/00461520.2011.611369</a></li>
+<li>Pane, J. F., Steiner, E. D., Baird, M. D., &amp; Hamilton, L. S. (2015). Continued progress: Promising evidence on personalized learning. <em>RAND Corporation.</em> <a href="https://doi.org/10.7249/RR1365">doi:10.7249/RR1365</a></li>
+<li>Settles, B., &amp; Meeder, B. (2016). A trainable spaced repetition model for language learning. <em>Proceedings of ACL 2016</em>, 1848–1858. <a href="https://doi.org/10.18653/v1/p16-1174">doi:10.18653/v1/p16-1174</a></li>
 </ul>
 
 

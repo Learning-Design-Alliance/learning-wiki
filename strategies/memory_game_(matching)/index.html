@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,6 +679,28 @@
     <span class="md-ellipsis">
       
         Related Elements
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#assessment-evidence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Assessment Evidence
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#impact" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Impact
       
     </span>
   </a>
@@ -761,74 +766,100 @@
 
 
 <h1 id="memory-game-matching">Memory Game (Matching)<a class="headerlink" href="#memory-game-matching" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>A memory game where learners match pairs of word cards to reinforce vocabulary and memory skills. Learners turn over cards, say the words aloud, and try to find matching pairs. Successfully matched words must be used in a sentence from a familiar context, like a song, to further reinforce understanding and application.</p>
+<p>A memory game in which learners turn over pairs of face-down word cards, attempting to find matching pairs. Each successful match triggers an elaboration step — the learner says the word aloud and uses it in a sentence drawn from a familiar context, such as a song or shared text. The game combines repeated exposure, <a href="../../elements/practice/">active recall</a>, and contextualized production in a low-stakes, playful format.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>The matching mechanic forces retrieval of each word's location and identity, and retrieval practice strengthens retention far more than re-reading <a href="../../claims/spaced-repetition-improves-retention/">Spaced repetition improves retention.</a> [+S]. The sentence-production requirement converts passive recognition into generative use, which deepens conceptual understanding <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+M]. Because the game is turn-based and social, it also sustains engagement through peer observation and light competition <a href="../../claims/active-learning-improves-exam-performance/">Active learning improves exam performance.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Word cards (two sets of each), small group setting, and writing materials. Teachers must prepare the word cards by printing and cutting them apart. Printing on cardstock is recommended to prevent see-through.</li>
+<li>Two identical sets of word cards, printed on cardstock (to prevent see-through) and cut apart</li>
+<li>A small-group setting (3–6 learners) with a surface large enough to lay out a grid of cards</li>
+<li>A shared familiar context (song, story, or text) from which matched words can be used in sentences</li>
+<li>Clear turn-taking rules and a teacher or peer monitor to verify sentence accuracy</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Preparation and setup can be time-consuming. Implementation requires careful monitoring to ensure engagement. Effectiveness depends on clear instructions and appropriate vocabulary selection.</li>
+<li>Preparation and setup are time-consuming; laminated or digital card sets amortize this cost across uses</li>
+<li>If the sentence-production step is skipped or unmonitored, the game reduces to visual search and rote location memory, with little vocabulary learning [-M]</li>
+<li>Words that are too similar (e.g., minimal pairs) can frustrate beginning readers; words too easy make matching trivial and eliminate retrieval effort [~M]</li>
+<li>Turn-based play means individual learners get few turns in large groups — wait time between turns invites off-task behavior [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Match word–to–definition</strong> or <strong>word-to-picture</strong> instead of word-to-word, shifting the task from recognition to comprehension</li>
+<li><strong>Concentration with a twist</strong>: after a match, the learner must also produce a <em>new</em> sentence (not one from the song) for an extra point</li>
+<li><strong>Digital versions</strong> (e.g., Quizlet's "Match" mode, Flippity's Google Sheets template) remove the cardstock overhead and add timing data</li>
+<li><strong>Sentence frames</strong> ("The ___ is ___.") scaffold production for <a href="../../elements/practice/">English language learners</a></li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Elementary grades (K-5), learners who need vocabulary and memory reinforcement, and English language learners</li>
+<li>Elementary learners (K–5) building decoding and vocabulary foundations</li>
+<li>English language learners, who benefit from the pairing of oral production with a visual/physical task</li>
+<li>Learners who need low-stakes repetition; the game format reduces anxiety around making errors in front of peers [~W]</li>
+<li>Less appropriate for advanced learners who already recognize the words fluently — matching then measures visual search speed, not vocabulary [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Improve vocabulary retention, enhance memory skills, reinforce contextual understanding, promote active recall</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Active recall and memory skills are reinforced through engaging gameplay. Vocabulary is contextualized through sentence creation. Collaboration and peer support are encouraged.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Can adapt the content (e.g., simpler or more complex vocabulary). Provide sentence frames for extra support. Implement in small groups for personalized learning.</li>
+<li>Vocabulary retention through repeated retrieval <a href="../../claims/spaced-repetition-improves-retention/">Spaced repetition improves retention.</a> [+S]</li>
+<li>Contextual application: using target words in meaningful sentences</li>
+<li>Working memory and attention: holding card locations in mind across turns <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]</li>
+<li>Turn-taking and peer support as incidental social goals</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track the number of matches achieved. Observe learners' ability to use words in sentences. Collect anecdotal notes on participation and peer support.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Games and memory activities enhance retention and recall. Contextual use of vocabulary improves understanding and application. Active participation increases engagement and learning outcomes.</li>
-</ul>
+<ol>
+<li>Prepare two identical sets of target word cards (8–12 pairs for a first round) and lay them face down in a grid.</li>
+<li>Model one full turn: flip two cards, read each aloud, and demonstrate a correct sentence for a matched pair (<a href="../../elements/practice/">Practice</a> via modeling).</li>
+<li>Learners take turns flipping two cards, reading each word aloud. Non-matches are turned back over; all players attend to locations.</li>
+<li>On a match, the learner says the word aloud and uses it in a sentence from the shared context (e.g., the class song); peers verify.</li>
+<li>Provide immediate, specific correction on mispronunciations or off-context sentences (<a href="../../elements/provide-feedback/">Provide feedback</a>), targeting the word and sentence rather than the child <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback most effective at task and process levels.</a> [+S].</li>
+<li>Close with a quick check: each learner uses one matched word in an original sentence (<a href="../../elements/assess-performance/">Assess performance</a>).</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Vocabulary Quilting — another card-based vocabulary routine with production requirements</li>
+<li>Choral Reading of Songs — builds the shared context from which game sentences are drawn</li>
+<li>Word Wall Routines — provides the reference display that supports the game's target words</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — each card flip is a retrieval attempt; the game is structured practice in game form</li>
+<li><a href="../../elements/provide-feedback/">Provide feedback</a> — immediate correction during matches keeps errors from consolidating</li>
+<li><a href="../../elements/assess-performance/">Assess performance</a> — match counts and sentence quality serve as embedded formative evidence</li>
+</ul>
+<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Track the number of matches per learner across rounds as a rough fluency indicator</li>
+<li>Observe and note the quality and originality of sentences produced on matches</li>
+<li>Collect anecdotal records of participation, pronunciation, and peer support behaviors</li>
+</ul>
+<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Retrieval-based games produce better retention than recognition-only review of the same words [+S]</li>
+<li>Requiring contextual sentence production on each match converts a memory exercise into vocabulary application [+M]</li>
+<li>Game formats increase engagement and time-on-task, especially for young learners, but engagement alone does not guarantee learning without the production step [~M]</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="https://quizlet.com">Quizlet — Match mode</a> — digital matching with timing; auto-generates card sets from a term list</li>
+<li><a href="https://flippity.net">Flippity — Memory Game template</a> — Google Sheets template that turns a spreadsheet into an online memory game</li>
+<li>Cardstock, laminator, and word-card templates for the physical version</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>The strategy should be implemented using a familiar learning activity, like a song. If students get a match, they need to use the word in a sentence from the song.</li>
+<li>A first-grade class learning vocabulary from a songbook plays the game with words from the current song; on each match, the student sings the line containing the word, then says an original sentence using it.</li>
+<li>An ESL adult class matches words to picture cards; on a match, the learner produces a sentence about their own daily routine using the word, personalizing the context.</li>
+<li>A Quizlet Match set is used as a warm-up race in a middle-school science class to consolidate unit terminology before a lab.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. <em>Psychological Science in the Public Interest, 14</em>(1), 4–58. <a href="https://doi.org/10.1177/1529100612453266">doi:10.1177/1529100612453266</a></li>
+<li>Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. <em>Psychological Science, 17</em>(3), 249–255. <a href="https://doi.org/10.1111/medu.12141">doi:10.1111/medu.12141</a></li>
+<li>Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Educational Research, 77</em>(1), 81–112. <a href="https://doi.org/10.3102/003465430298487">doi:10.3102/003465430298487</a></li>
+<li>Nation, I. S. P. (2001). <em>Learning vocabulary in another language</em>. Cambridge University Press. <a href="https://doi.org/10.1017/CBO9781139524759">doi:10.1017/CBO9781139524759</a></li>
 </ul>
 
 

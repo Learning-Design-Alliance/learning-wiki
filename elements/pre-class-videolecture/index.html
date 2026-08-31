@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Instructional content is delivered via video or recorded lecture before in-class activities.">
+        <meta name="description" content="Instructional content is delivered via video or recorded lecture before in-class activities, freeing class time for active learning.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -695,55 +722,76 @@
 
 
 <h1 id="pre-class-videolecture">Pre-Class Video/Lecture<a class="headerlink" href="#pre-class-videolecture" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Element</strong> · <a href="../">All elements</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Instructional content is delivered via video or recorded lecture before in-class activities.</p>
+<p>Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a <a href="../../patterns/flipped-classroom/">Flipped Classroom</a>, shifting information transmission outside the group learning space.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Pre-class video works only when paired with accountability and application: students who watch without a follow-up task learn little, and class time that merely re-lectures the video undermines the design <a href="../../claims/worked-examples-with-practice-improve-transfer/">Pairing worked examples with practice or fading supports transfer better than examples alone.</a> [+S]. Videos should be short, segmentable, and aligned to specific in-class activities; multimedia design principles (signaling, segmenting, conversational narration) measurably improve learning from video <a href="../../claims/media-combinations-affect-recall-and-retention/">Media presentations combining narration and relevant visuals affect recall and retention.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Short segments (roughly 6 minutes or less) matched to a single objective; engagement drops sharply with longer videos <a href="https://doi.org/10.1145/2556325.2566239">Video length and production style affect student engagement.</a> [+M]</li>
+<li>Embedded questions or note-taking prompts that require active processing, not passive viewing <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+M]</li>
+<li>A low-stakes accountability mechanism (quiz, ticket-in, <a href="../../principles/check-ins/">Check-Ins</a>) so instructors can verify completion before class</li>
+<li>In-class activities that <em>depend</em> on the video content, creating a reason to watch</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Without accountability or in-class dependence, completion rates collapse and the flip fails [-M]</li>
+<li>Re-lecturing video content in class signals that preparation was optional and erodes the norm [-M]</li>
+<li>Students with weak prior knowledge may misinterpret first-exposure video without a mechanism for questions; the video cannot respond to confusion the way live instruction can [~M]</li>
+<li>Requires reliable device and bandwidth access; assigning video as homework can widen equity gaps [~W]</li>
+<li>For complex or high-load material, a single unsegmented lecture video overloads working memory <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Best for flipped classrooms, STEM, and professional training.</li>
+<li>Undergraduates and professionals with the self-regulation to complete asynchronous work <a href="../../claims/self-monitoring-improves-self-regulation/">Self-monitoring improves self-regulation.</a> [+M]</li>
+<li>STEM and procedural domains where demonstrations translate well to video</li>
+<li>Less effective for novices with no prior knowledge base, who benefit more from guided first exposure with immediate question-answering <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [~M] — the flip assumes learners can extract structure from unguided exposure</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Free up in-class time for active learning and discussion.</li>
+<li>First-exposure knowledge acquisition (facts, concepts, procedures) moved out of class to reserve class time for higher-order goals</li>
+<li>Procedural preparation: students arrive ready to <a href="../practice/">Practice</a> or apply rather than to hear content for the first time</li>
+<li>Not well suited as the sole vehicle for conceptual change or discussion-dependent goals</li>
 </ul>
 <h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<!-- Links to principles applied -->
 <ul>
-<li><a href="../../principles/cognitive-load-theory/">Cognitive Load Theory</a></li>
-<li><a href="../../principles/flipped-learning/">Flipped Learning</a></li>
-<li><a href="../../principles/direct-instruction/">Direct Instruction</a></li>
+<li><a href="../../principles/cognitive-load-theory/">Cognitive Load Theory</a> — video allows precise segmenting, pausing, and signaling that live lecture cannot; learners control pace and can re-watch difficult segments, managing intrinsic load themselves</li>
+<li><a href="../../principles/direct-instruction/">Direct Instruction</a> — the video is a scripted, reusable form of explicit first exposure, delivering the same clear explanation to every learner</li>
+<li><a href="../../principles/active-learning/">Active Learning</a> — the entire rationale is to convert contact time from transmission to active learning; the video is the enabling condition, not the intervention itself</li>
+<li><a href="../../principles/chunking/">Chunking</a> — short, single-objective videos enact chunking by presenting one concept per segment</li>
+<li><a href="../../principles/clear-structure-presentation/">Clear Structure</a> — a video with explicit objectives, signaling, and a predictable format reduces extraneous processing</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../flipped-classroom/">Flipped Classroom</a></li>
-<li><a href="../assigned-readings/">Assigned Readings</a></li>
-<li><a href="../multimedia-learning/">Multimedia Learning</a></li>
+<li><a href="../assigned-readings/">Assigned Readings</a> — the text-based alternative for pre-class first exposure; video offers better control of pace and tone, text offers faster skimming and search</li>
+<li><a href="../practice/">Practice</a> — the in-class activity the video should feed into</li>
+<li><a href="../assessment/">Assessment</a> — low-stakes pre-class quizzes serve as both accountability and retrieval practice</li>
+<li><a href="../class-discussion/">Class Discussion</a> — a common use of the freed class time</li>
+<li><a href="../advance-organizers/">Advance Organizers</a> — a framing device that can precede the video to orient viewing</li>
 </ul>
 <h2 id="patterns-that-use-this-element">Patterns That Use This Element<a class="headerlink" href="#patterns-that-use-this-element" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../../patterns/flipped-classroom/">Flipped Classroom</a></li>
-<li><a href="../../patterns/blended-learning/">Blended Learning</a></li>
+<li><a href="../../patterns/flipped-classroom/">Flipped Classroom</a> — the defining element; first exposure via video, application in class</li>
+<li><a href="../../patterns/blended-learning/">Blended Learning</a> — the online/in-person boundary the video marks</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
-<!-- Links to strategies that use this element, with ratings -->
-<ul>
-<li><!-- TODO --></li>
-</ul>
+<p><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — Short narrated problem-solving videos designed for pre-class or pre-practice viewing, paired with exercises that depend on them.</p>
+<p><strong><a href="https://edpuzzle.com">Edpuzzle</a></strong> — Platform for embedding questions into existing videos, enforcing accountability and active viewing during pre-class assignments.</p>
+<p><strong><a href="https://www.3blue1brown.com">3Blue1Brown</a></strong> — Visually rich animated mathematics explanations illustrating how signaling and dynamic visualization can make abstract content tractable as first exposure.</p>
+<p><strong>Flipped STEM courses (e.g., University of Washington's flipped introductory chemistry)</strong> — Published implementations pairing short pre-class videos with in-class problem solving; studies report moderate learning gains over lecture-only formats <a href="https://doi.org/10.1187/cbe.14-08-0129">Investigating the effects of a flipped classroom on student learning.</a> [+M]</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Guo, P. J., Kim, J., &amp; Rubin, R. (2014). How video production affects student engagement in MOOCs. <em>Proceedings of the First ACM Conference on Learning @ Scale</em>, 41–50. <a href="https://doi.org/10.1145/2556325.2566239">doi:10.1145/2556325.2566239</a></li>
+<li>Brame, C. J. (2016). Effective educational videos: Principles and guidelines for maximizing student learning from video content. <em>CBE—Life Sciences Education, 15</em>(4), es6. <a href="https://doi.org/10.1187/cbe.16-03-0125">doi:10.1187/cbe.16-03-0125</a></li>
+<li>Jensen, J. L., Kummer, T. A., &amp; Godoy, P. D. d. M. (2015). Improvements from a flipped classroom may simply be the fruits of active learning. <em>CBE—Life Sciences Education, 14</em>(1), ar5. <a href="https://doi.org/10.1187/cbe.14-08-0129">doi:10.1187/cbe.14-08-0129</a></li>
+<li>Mayer, R. E. (2009). <em>Multimedia learning</em> (2nd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/CBO9780511811678">doi:10.1017/CBO9780511811678</a></li>
+<li>Bergmann, J., &amp; Sams, A. (2012). <em>Flip your classroom: Reach every student in every class every day</em>. ISTE/ASCD.</li>
 </ul>
+<hr />
 
 
 

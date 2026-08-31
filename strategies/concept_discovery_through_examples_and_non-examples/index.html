@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Expose learners to a wide range of examples and nonexamples and allow them to discover the concept.">
+        <meta name="description" content="Expose learners to a wide range of examples and non-examples and allow them to discover the concept through guided comparison and classification.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -703,10 +686,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
+  <a href="#patterns-that-use-this-strategy" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Tools
+        Patterns That Use This Strategy
       
     </span>
   </a>
@@ -761,74 +744,90 @@
 
 
 <h1 id="concept-discovery-through-examples-and-non-examples">Concept Discovery Through Examples and Non-examples<a class="headerlink" href="#concept-discovery-through-examples-and-non-examples" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Expose learners to a wide range of examples and nonexamples and allow them to discover the concept. Present multiple examples to the learner and inquire about shared characteristics of the examples. Through exploration and discovery (interactive activities), learners can acquire the concept. Then use questions and context-sensitive feedback, to correct any misconceptions.</p>
+<p>Learners are presented with a carefully sequenced set of examples and non-examples of a target concept and asked to identify shared characteristics, classify new instances, and articulate the concept's defining attributes. The instructor or system supports exploration with questions and context-sensitive feedback that corrects misconceptions as they emerge. The strategy treats concept acquisition as pattern discrimination built from varied instances rather than transmission of a definition.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Concept learning depends on exposure to varied, well-chosen instances: comparing multiple cases helps learners abstract the deep structure that defines a concept rather than surface features of any single instance <a href="../../claims/cognitive-flexibility-theory-multiple-cases/">Multiple varied cases support flexible transfer of concepts.</a> [+M]. Non-examples are as important as examples — they establish the boundaries of the concept and prevent overgeneralization <a href="../../claims/erroneous-examples-build-conceptual-knowledge/">Erroneous examples build conceptual knowledge by making boundaries explicit.</a> [+M]. However, unguided discovery is unreliable: learners left to explore without prompts, sequencing, or feedback frequently fail to induce the intended concept, and guided forms of discovery consistently outperform pure discovery <a href="../../claims/guided-discovery-outperforms-pure-discovery/">Guided discovery outperforms pure discovery across outcome measures.</a> [+S].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires a rich set of examples and non-examples. Needs interactive activities that promote exploration and discovery.</li>
+<li>A rich, representative set of examples and non-examples, varying surface features while holding defining attributes constant</li>
+<li>Sequencing that starts with clear, matched pairs (example/non-example differing on one attribute) before moving to harder discriminations</li>
+<li>Interactive classification tasks with immediate, context-sensitive feedback (<a href="../../elements/practice/">Practice</a>, <a href="../../elements/feedback/">Feedback</a>)</li>
+<li>Prompts that direct attention to relevant attributes rather than leaving search entirely open (<a href="../../elements/advance-organizers/">Advance Organizers</a>)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May be less effective for learners with limited prior knowledge. Requires careful design to guide exploration and prevent confusion.</li>
+<li>Unguided exploration with minimal prior knowledge produces weak or erroneous inductions; novices need more scaffolding than experts <a href="../../claims/minimal-guidance-less-effective-for-novices/">Minimal guidance is less effective for novices than explicit guidance.</a> [-S]</li>
+<li>Effectiveness reverses with expertise: highly knowledgeable learners benefit less from heavily scaffolded example sets and may profit from more open exploration <a href="../../claims/expertise-reversal-effect/">Guidance benefits decline as learner expertise increases.</a> [~M]</li>
+<li>Poorly chosen non-examples (differing on irrelevant features) teach spurious discriminations</li>
+<li>Time-intensive: building a sufficient instance set and feedback logic costs more design effort than presenting a definition</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Rational set design</strong>: systematically vary variables across examples (easy/difficult, divergent/range of divergence) per Tennyson &amp; Park's concept-teaching model</li>
+<li><strong>Matched pairs</strong>: present an example and non-example side by side differing on exactly one defining attribute</li>
+<li><strong>Learner-generated instances</strong>: after classification practice, learners produce their own examples and non-examples, which deepens encoding</li>
+<li><strong>Erroneous examples</strong>: present flawed instances for diagnosis, leveraging error analysis rather than avoidance <a href="../../claims/erroneous-examples-build-conceptual-knowledge/">Erroneous examples build conceptual knowledge.</a> [+M]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Learners with a developed knowledge base, suitable for complex or abstract concepts</li>
+<li>Learners with some relevant prior knowledge who can notice attribute patterns with prompting <a href="../../claims/activation-improves-learning/">Activating prior knowledge improves learning of new related concepts.</a> [+M]</li>
+<li>Intermediate learners refining fuzzy or misconceived concepts (e.g., distinguishing mass from weight)</li>
+<li>Novices benefit most when discovery is strongly guided; pure exploration suits them poorly <a href="../../claims/minimal-guidance-less-effective-for-novices/">Minimal guidance is less effective for novices.</a> [-S]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Promote self-directed learning, foster deeper understanding through exploration</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Encourages active learning and critical thinking. Develops problem-solving skills.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Allow learners to explore examples and non-examples at their own pace and in their own way.</li>
+<li>Concept acquisition: learning defining attributes and category boundaries</li>
+<li>Discrimination and classification: accurately sorting novel instances</li>
+<li>Conceptual change: replacing misconceptions through confrontation with counterexamples</li>
+<li>Inductive reasoning: practicing abstraction from instances to rule</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/problem-scenario/">Problem Scenario</a></li>
-<li><a href="../../elements/inquiry-and-research/">Inquiry and Research</a></li>
-<li><a href="../../elements/solution-development/">Solution Development</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Assess learners' ability to articulate the key attributes of the concept and classify new instances accurately.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>An effective way to learn concepts is to discover them from interacting with a set of examples and nonexamples.</li>
-</ul>
+<ol>
+<li>Activate relevant prior knowledge and surface likely misconceptions before presenting instances (<a href="../../elements/activation/">Activation</a>)</li>
+<li>Present a matched example/non-example pair and ask learners to identify the distinguishing attribute (<a href="../../elements/comparing-cases/">Comparing Cases</a>)</li>
+<li>Present a varied sequence of additional examples and non-examples, prompting learners to test and refine their hypothesis about the concept's definition</li>
+<li>Require classification of novel instances with immediate feedback on errors (<a href="../../elements/practice/">Practice</a>, <a href="../../elements/feedback/">Feedback</a>)</li>
+<li>Ask learners to state the rule and generate their own example and non-example (<a href="../../elements/articulation/">Articulation</a>)</li>
+<li>Fade support: move from prompted comparison to independent classification as accuracy grows (<a href="../../elements/fading/">Fading</a>)</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../use_worked_examples/">Use Worked Examples</a> — the procedural analogue: studying solved instances rather than inducing a concept</li>
+<li><a href="../../elements/comparing-cases/">Comparing Cases</a> — the core comparison mechanism this strategy sequences into a concept lesson</li>
+<li><a href="../../elements/guided-inquiry/">Guided Inquiry</a> — broader inquiry framing in which example sets serve as the data</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/non-examples/">Non-Examples</a> — the boundary-defining counterpart to examples; essential for preventing overgeneralization</li>
+<li><a href="../../elements/comparing-cases/">Comparing Cases</a> — the comparison activity that drives attribute abstraction</li>
+<li><a href="../../elements/feedback/">Feedback</a> — context-sensitive correction of misclassifications</li>
+<li><a href="../../elements/advance-organizers/">Advance Organizers</a> — frames what learners should look for before exploration</li>
 </ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
+<h2 id="patterns-that-use-this-strategy">Patterns That Use This Strategy<a class="headerlink" href="#patterns-that-use-this-strategy" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../patterns/concept-attainment/">Concept Attainment</a> — the canonical pattern: hypothesis testing against positive and negative instances</li>
+<li><a href="../../patterns/cognitive-flexibility-theory/">Cognitive Flexibility Theory</a> — multiple varied cases across contexts for complex concepts</li>
+<li><a href="../../patterns/direct-instruction/">Direct Instruction</a> — uses example/non-example sequences but with teacher-led rule statement, contrasting on the discovery dimension</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Presenting multiple examples of Impressionist paintings and asking learners to identify common characteristics to discover the concept of Impressionism.</li>
+<li><strong>Concept Attainment model (Bruner, Goodnow &amp; Austin)</strong> — learners see labeled YES/NO instances (e.g., of "democracy") and hypothesize the defining attributes, then classify new cases.</li>
+<li><strong>Impressionism lesson</strong> — learners view a set of Impressionist paintings alongside Academic Salon works, identify shared characteristics (visible brushwork, light effects), then classify unfamiliar paintings.</li>
+<li><strong><a href="https://demonstrations.wolfram.com">Wolfram Demonstrations</a></strong> — interactive parameter manipulation lets learners discover what makes a function continuous by generating examples and non-examples on demand.</li>
+<li><strong>Merrill's Pebble-in-the-Pond concept lessons</strong> — a portrayal (specific instance) followed by a sequence of similar portrayals for classification practice.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Tennyson, R. D., &amp; Park, O.-C. (1980). The teaching of concepts: A review of instructional design research literature. <em>Review of Educational Research, 50</em>(1), 55–70. <a href="https://doi.org/10.3102/00346543050001055">doi:10.3102/00346543050001055</a></li>
+<li>Alfieri, L., Brooks, P. J., Aldrich, N. J., &amp; Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? A meta-analysis. <em>Journal of Educational Psychology, 103</em>(1), 1–18. <a href="https://doi.org/10.1037/a0021017">doi:10.1037/a0021017</a></li>
+<li>Kirschner, P. A., Sweller, J., &amp; Clark, R. E. (2006). Why minimal guidance during instruction does not work. <em>Educational Psychologist, 41</em>(2), 75–86. <a href="https://doi.org/10.1207/s15326985ep4102_1">doi:10.1207/s15326985ep4102_1</a></li>
+<li>Merrill, M. D. (2002). First principles of instruction. <em>Educational Technology Research and Development, 50</em>(3), 43–59. <a href="https://doi.org/10.1007/bf02505024">doi:10.1007/bf02505024</a></li>
+<li>Marton, F., &amp; Booth, S. (1997). <em>Learning and awareness</em>. Lawrence Erlbaum Associates.</li>
 </ul>
 
 

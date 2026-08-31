@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,75 +722,75 @@
 
 
 <h1 id="customizable-display-of-information">Customizable Display of Information<a class="headerlink" href="#customizable-display-of-information" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Providing adjustable settings and accessible formats to accommodate individual needs and preferences. This involves using materials that learners can modify based on their requirements, such as font size, contrast, or text-to-speech options. Customization enhances accessibility and supports diverse learning styles.</p>
+<p>Customizable display of information means presenting content in digital formats whose appearance and modality learners can adjust — font size and type, spacing, color contrast, text-to-speech, captions, language, and layout. Rather than fixing a single presentation, the design exposes controls so each learner can configure the display to fit perceptual, linguistic, and working-memory constraints. This is a core UDL (Universal Design for Learning) representation strategy: the content stays constant while its rendering flexes.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Adjusting display parameters changes how much working-memory capacity is consumed by perception and decoding, freeing resources for comprehension <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [+S]. For example, larger character spacing and shorter line lengths measurably improve reading speed and comprehension for readers with dyslexia, and e-reader displays that permit font manipulation outperform fixed paper for some of these readers (Schneps et al., 2013) [+M]. Pairing adjustable text with adjustable audio or visual rendering supports dual-channel processing <a href="../../claims/dual-coding-improves-recall/">Dual coding improves recall.</a> [+S], but added visual decoration does not by itself aid learning <a href="../../claims/decorative-illustrations-do-not-improve-learning/">Decorative illustrations do not improve learning.</a> [~S] — customization should serve legibility and modality access, not ornament.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Accessible digital materials, software with adjustable settings, and awareness of learner preferences.</li>
+<li>Digital source materials (HTML/EPUB rather than scanned images) so settings actually propagate</li>
+<li>Built-in or platform-level controls: text size, font, spacing, contrast, captions, text-to-speech, translation</li>
+<li>Default settings that are already legible and accessible, so learners who never touch the controls are still served</li>
+<li>Brief guidance or defaults for learners who cannot judge which settings help them</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires careful design of materials and ongoing feedback to ensure customization options meet learner needs. Some learners may require guidance in selecting appropriate settings.</li>
+<li>Offering too many unexplained options creates decision overhead and extraneous load, particularly for novices [~M] — curated presets outperform raw control panels</li>
+<li>Customization cannot compensate for poorly structured content; if the underlying text is disorganized, no display setting fixes it</li>
+<li>Matching display to self-reported "learning style" preferences does not improve outcomes [X] — customize for measured needs (vision, decoding, language), not for style labels</li>
+<li>Print-locked materials (PDFs of scans, fixed-layout e-books) defeat customization entirely</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Learner-controlled settings (font, contrast, playback speed) vs. system-adaptive rendering (automatic reflow, responsive layout)</li>
+<li>Author-provided alternatives (captions, transcripts, alt text, simplified-language versions) vs. tool-provided transformations (text-to-speech, browser readers)</li>
+<li>Range from individual accommodations documented in a plan to universal defaults available to everyone</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Learners with sensory disabilities (e.g., blindness or deafness), learning disabilities (e.g., dyslexia), and those representing diverse or non-dominant cultures and/or languages</li>
+<li>Learners with sensory disabilities (low vision, blindness, deafness, hearing loss), who depend on adjustable size, contrast, screen-reader compatibility, captions, and transcripts [+M]</li>
+<li>Learners with dyslexia or other decoding difficulties, who benefit from adjustable font, spacing, and text-to-speech (Rello &amp; Baeza-Yates, 2013; Schneps et al., 2013) [+M]</li>
+<li>Second-language learners, who benefit from captions, adjustable reading speed, and translation options [+M]</li>
+<li>Older adults and learners using small screens or suboptimal environments — effectively most learners at some point</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Enhance accessibility, support diverse learning styles, accommodate individual needs and preferences, improve comprehension</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Enhances engagement by allowing learners to tailor content to their specific needs. Supports self-regulation by giving learners control over their learning environment. Promotes inclusivity by accommodating diverse learning styles and abilities.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Offer options for text size, font, color contrast, audio descriptions, captions, and alternative formats (e.g., braille, large print)</li>
+<li>Comprehension of text and multimedia content: removing decoding and perceptual barriers so the goal-level learning is reachable</li>
+<li>Vocabulary and language access: adjustable glossing, translation, and speech support</li>
+<li>Self-regulated learning: choosing and evaluating one's own display settings builds awareness of what conditions support one's work</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/supportive-information/">Supportive information</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track learner use of customization features. Gather feedback on the effectiveness of customization options in supporting learning. Monitor learner performance and engagement with customized materials.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Improved accessibility and engagement: Research shows that customizable learning environments can enhance motivation and improve learning outcomes for diverse learners.</li>
-</ul>
+<ol>
+<li>Publish content in reflowable, accessible formats (HTML, EPUB, tagged PDF) rather than images of text.</li>
+<li>Provide defaults that meet accessibility standards (sufficient contrast, readable base size, <a href="../../principles/chunking/">Chunking</a> of long passages into navigable sections) <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S].</li>
+<li>Expose a small set of high-value controls — text size, contrast, text-to-speech, captions, playback speed — with sensible presets; document formal <a href="../../elements/accommodations/">Accommodations</a> separately for learners who need more.</li>
+<li>Offer equivalent modalities (captions, transcripts, audio versions) so learners can shift channels rather than strain one <a href="../../claims/dual-coding-improves-recall/">Dual coding improves recall.</a> [+S].</li>
+<li>Briefly teach learners what the settings do and when to use them; check that chosen settings actually improve their reading and viewing, and adjust.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../principles/chunking/">Chunking</a> — segmenting content complements display control; both reduce perceptual and memory load</li>
+<li><a href="../accessible_syntax/">Accessible syntax</a> — simplifying sentence structure addresses the same decoding barriers at the text level rather than the display level</li>
+<li><a href="../providing_multiple_means_of_representation/">Providing multiple means of representation</a> — customizable display is the delivery mechanism for this UDL principle</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong><a href="https://udlguidelines.cast.org">CAST UDL Guidelines</a></strong> — "Multiple Means of Representation" includes customizable display as a named checkpoint, with concrete options (text size, contrast, captions, text-to-speech).</li>
+<li><strong><a href="https://www.bookshare.org">Bookshare</a></strong> — accessible e-book library for readers with print disabilities; downloads in formats supporting large print, braille, and audio.</li>
+<li><strong><a href="https://www.microsoft.com/en-us/education/products/immersive-reader">Immersive Reader (Microsoft)</a></strong> — free tool embedded in Word, Teams, and Edge offering adjustable spacing, syllable highlighting, line focus, and read-aloud; widely used for dyslexia support.</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — video playback-speed control and multilingual subtitles and transcripts on lesson videos.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Rose, D. H., &amp; Meyer, A. (2002). <em>Teaching every student in the digital age: Universal design for learning.</em> ASCD.</li>
+<li>Mayer, R. E. (2009). <em>Multimedia learning</em> (2nd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/CBO9780511811678">doi:10.1017/CBO9780511811678</a></li>
+<li>Schneps, M. H., Thomson, J. M., Chen, C., Sonnert, G., &amp; Pomplun, M. (2013). E-readers are more effective than paper for some with dyslexia. <em>PLoS ONE, 8</em>(9), e75634. <a href="https://doi.org/10.1371/journal.pone.0075634">doi:10.1371/journal.pone.0075634</a></li>
+<li>Rello, L., &amp; Baeza-Yates, R. (2013). Good fonts for dyslexia. <em>Proceedings of the 15th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '13).</em> ACM. <a href="https://doi.org/10.1145/2513383.2513447">doi:10.1145/2513383.2513447</a></li>
+<li>Pashler, H., McDaniel, M., Rohrer, D., &amp; Bjork, R. (2008). Learning styles: Concepts and evidence. <em>Psychological Science in the Public Interest, 9</em>(3), 105–119. <a href="https://doi.org/10.1111/j.1539-6053.2009.01038.x">doi:10.1111/j.1539-6053.2009.01038.x</a></li>
 </ul>
 
 

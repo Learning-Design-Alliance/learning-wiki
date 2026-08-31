@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Students engage with educational games designed to introduce or reinforce specific concepts.">
+        <meta name="description" content="Students engage with educational games designed to introduce or reinforce specific concepts, paired with a structured activity that consolidates and applies what the game introduced.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +733,82 @@
 
 
 <h1 id="games-structured-activity">Games + Structured Activity<a class="headerlink" href="#games-structured-activity" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Students engage with educational games designed to introduce or reinforce specific concepts. These games are combined with a structured activity to ensure active learning and application of the concepts. Games can make learning fun and engaging, while the structured activity helps to consolidate understanding and promote application.</p>
+<p>Students engage with educational games designed to introduce or reinforce specific concepts, then complete a structured activity that requires them to apply, explain, or extend what the game surfaced. The game provides engagement, immediate feedback, and low-stakes experimentation; the structured activity converts that experience into durable understanding through <a href="../../elements/practice/">Practice</a> and <a href="../../elements/application/">Application</a>. The pairing matters because game play alone rarely produces transfer — the debrief and application work is where consolidation happens.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Games can raise engagement and time-on-task, but meta-analytic evidence shows that learning benefits from serious games depend heavily on the instructional support wrapped around them — debriefing, collaboration, and structured reflection substantially increase effectiveness [~S]. Games deliver frequent, immediate feedback at the action level, which supports learning when it directs attention to the task and process rather than the score <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S]. The structured activity should require learners to articulate the concepts the game exercised, since self-explaining game strategies strengthens conceptual understanding beyond what play alone yields <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires selection or creation of educational games, design of structured activities, and access to technology (e.g., computers, tablets).</li>
+<li>A game whose mechanics genuinely embody the target concept — not a quiz wrapper around unrelated game play</li>
+<li>A structured follow-on activity (<a href="../../elements/practice/">Practice</a>, <a href="../../elements/application/">Application</a>, or <a href="../../elements/individual-reflection/">Individual Reflection</a>) that names and applies the concepts exercised in play</li>
+<li>Debrief time in which learners connect game decisions to the underlying principles</li>
+<li>Clear alignment between game mechanics, learning objectives, and assessment criteria</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May not be suitable for all types of content or learners. Requires careful alignment of games and learning objectives.</li>
+<li>Games with high extraneous mechanics (complex rules, reward systems unrelated to content) consume working memory without supporting learning [~M] — align with <a href="../../elements/cognitive-load-management/">Cognitive Load Management</a> by keeping mechanics simple relative to the content</li>
+<li>Free-choice game play without debrief produces engagement but shallow encoding; learners often overestimate what they learned from playing alone [-M]</li>
+<li>Competition and leaderboards can undermine motivation for learners who value mastery over performance, shifting focus from learning to winning [-M]</li>
+<li>Poorly matched games — fun but conceptually thin — can actively mislead by rewarding strategies unrelated to the target content [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Game-first: play to build intuition, then formalize with instruction and structured practice</li>
+<li>Instruction-first: teach the concept, then use the game for low-stakes rehearsal and feedback</li>
+<li>Collaborative variant: teams play and debrief together, adding peer explanation to the structured activity (<a href="../../elements/collaboration/">Collaboration</a>)</li>
+<li>Digital or analog: board games, simulations, and card games work on the same structure without technology</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learners, particularly those who benefit from gamified learning and interactive activities.</li>
+<li>Learners with low prior knowledge, for whom the game provides safe, feedback-rich exploration before formal instruction [~M]</li>
+<li>Learners whose motivation is fragile — game framing can raise task value and persistence <a href="../../claims/task-value-increases-motivation-and-engagement/">Task value increases motivation and engagement.</a> [+M]</li>
+<li>Less effective for advanced learners, for whom game scaffolds and mechanics may feel redundant or slow [~W]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Enhance engagement, promote active learning, facilitate understanding and application of concepts through gamification.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Offers a fun and engaging approach to learning, promotes active participation, and can improve motivation and retention.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Games can be selected or designed to match learner interests and skill levels. Structured activities can be tailored to reinforce specific concepts or skills.</li>
+<li>Conceptual intuition-building: experiencing a system's behavior before formalizing it</li>
+<li>Procedural fluency: repeated low-stakes practice with immediate feedback</li>
+<li>Strategy and decision-making: games make consequences of choices visible and rapid</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/application/">Application</a></li>
-<li><a href="../../elements/individual-reflection/">Individual Reflection</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Engagement with games, completion of structured activities, performance on related assignments.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Effective when combined with well-designed structured activities that reinforce learning and promote application of the game concepts. Can improve learner outcomes and engagement by making learning more fun and interactive.</li>
-</ul>
+<ol>
+<li>Select or design a game whose core mechanics map onto the target concept; verify that winning requires the reasoning you want to teach.</li>
+<li>Brief learners on the concept-level goal, not just the rules — tell them what to watch for during play.</li>
+<li>Run the game session, ensuring feedback during play points to task and process, not just outcomes <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S].</li>
+<li>Debrief: learners explain what strategies worked and why, connecting game decisions to the underlying principles (<a href="../../elements/individual-reflection/">Individual Reflection</a> or <a href="../../elements/class-discussion/">Class Discussion</a>).</li>
+<li>Follow with structured <a href="../../elements/practice/">Practice</a> or <a href="../../elements/application/">Application</a> that transfers the concept beyond the game context.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../simulation-based-learning/">Simulation-Based Learning</a> — the same play-then-debrief structure applied to modeled systems rather than game mechanics</li>
+<li><a href="../gamification/">Gamification</a> — applies game elements (points, levels, narrative) to non-game activities; here the game itself is the content vehicle</li>
+<li><a href="../case-based-learning/">Case-Based Learning</a> — an alternative experiential anchor with more explicit structure and less intrinsic feedback</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — the structured follow-on that consolidates what play introduced</li>
+<li><a href="../../elements/application/">Application</a> — transfer of game-learned concepts to authentic tasks</li>
+<li><a href="../../elements/individual-reflection/">Individual Reflection</a> — the debrief mechanism that converts experience into understanding</li>
+<li><a href="../../elements/collaboration/">Collaboration</a> — team play and joint debrief add peer explanation</li>
+<li><a href="../../elements/feedback/">Feedback</a> — the game's core instructional mechanism during play</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>DragonBox (https://dragonbox.com)</strong> — algebra concepts introduced through game mechanics; effective when followed by worked problems that formalize the notation the game implicitly taught.</li>
+<li><strong>Minecraft Education Edition (https://education.minecraft.net)</strong> — classroom lessons embed curriculum tasks in game play, with structured build challenges and reflection prompts.</li>
+<li><strong>Kahoot! (https://kahoot.com)</strong> — quiz-game review followed by teacher-led discussion of missed items; the debrief, not the game, addresses the errors.</li>
+<li><strong>Model UN and market simulation games in economics courses</strong> — negotiation or trading games followed by structured debrief linking decisions to supply/demand and incentive concepts.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Wouters, P., van Nimwegen, C., van Oostendorp, H., &amp; van der Spek, E. D. (2013). A meta-analysis of the cognitive and motivational effects of serious games. <em>Journal of Educational Psychology, 105</em>(2), 249–265. <a href="https://doi.org/10.1037/a0031311">doi:10.1037/a0031311</a></li>
+<li>Clark, D. B., Tanner-Smith, E. E., &amp; Killingsworth, S. S. (2016). Digital games, design, and learning: A systematic review and meta-analysis. <em>Review of Educational Research, 86</em>(1), 79–122. <a href="https://doi.org/10.3102/0034654315582065">doi:10.3102/0034654315582065</a></li>
+<li>Plass, J. L., Homer, B. D., &amp; Kinzer, C. K. (2015). Foundations of game-based learning. <em>Educational Psychologist, 50</em>(4), 258–283. <a href="https://doi.org/10.1080/00461520.2015.1122533">doi:10.1080/00461520.2015.1122533</a></li>
+<li>Vogel, J. J., Vogel, D. S., Cannon-Bowers, J., Bowers, C. A., Muse, K., &amp; Wright, M. (2006). Computer gaming and interactive simulations for learning: A meta-analysis. <em>Journal of Educational Computing Research, 34</em>(3), 229–243. <a href="https://doi.org/10.2190/flhv-k4wa-wpvq-h0ym">doi:10.2190/flhv-k4wa-wpvq-h0ym</a></li>
 </ul>
 
 

@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="AR provides step-by-step instructions while a trainee is practicing, using AR headsets to provide step-by-step instructions while a trainee is practicing.">
+        <meta name="description" content="AR overlays step-by-step instructions, diagrams, and media onto the physical work environment via headsets or smartglasses while a trainee performs the task.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,76 +744,87 @@
 
 
 <h1 id="augmented-reality-ar-for-manufacturing-training">Augmented Reality (AR) for Manufacturing Training<a class="headerlink" href="#augmented-reality-ar-for-manufacturing-training" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>AR provides step-by-step instructions while a trainee is practicing, using AR headsets to provide step-by-step instructions while a trainee is practicing. With hands-free devices, new hires can use images and videos as a part of their initial training.</p>
+<p>AR for manufacturing training overlays digital instructions — 3D part models, step sequences, animations, and warnings — directly onto the physical workstation or machine a trainee is working on, typically via head-mounted displays or smartglasses. Because the guidance is hands-free and spatially anchored to the actual components, trainees practice the real task with in-context support rather than switching between a manual and the workpiece.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>AR reduces the split-attention cost of consulting separate documentation during assembly and maintenance tasks by integrating instructions with the task environment [~M]. Meta-analytic evidence shows AR instruction generally outperforms conventional instruction on learning gains, with the largest effects when content is interactive and aligned to concrete tasks <a href="../../claims/cognitive-overload-degrades-learning/">Garzón &amp; Acevedo meta-analysis of AR learning gains.</a> [+M]. However, poorly designed overlays can themselves consume working memory; the same cognitive load principles that justify AR also limit how much information should be displayed at once <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]. Support should fade as competence grows — persistent step-by-step overlays that help novices can slow or disrupt experienced technicians <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective as learner expertise increases.</a> [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>AR headsets (e.g., smartglasses), AR software, stable network connectivity, trained instructors.</li>
+<li>AR hardware (headsets or smartglasses), authoring software, and stable network connectivity</li>
+<li>Accurate 3D models and task decompositions of the actual procedures being trained</li>
+<li>Trained instructors and a plan for integrating AR sessions with hands-on <a href="../../elements/practice/">Practice</a></li>
+<li>Content chunked into single-step displays rather than dense multi-step overlays</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>High initial setup costs, requires technical expertise, software must be updated regularly.</li>
+<li>High initial hardware and content-authoring costs; content must be updated whenever products or procedures change</li>
+<li>Headset ergonomics, battery life, and field-of-view limits can degrade usability on long shifts</li>
+<li>Over-reliance on step-by-step overlays can produce dependence — trainees may complete tasks accurately without building transferable mental models of the underlying system [~M]</li>
+<li>Displaying too much information simultaneously overloads novices and degrades performance <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [-S]</li>
+<li>Less effective for tasks requiring judgment, diagnosis, or improvisation where no fixed step sequence exists</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Head-mounted AR (e.g., RealWear, HoloLens) vs. tablet/projected AR for stations where headsets are impractical</li>
+<li>Full step-by-step guidance for new hires vs. on-demand prompts or error-checking overlays for experienced workers</li>
+<li>Remote-expert annotation, where a remote instructor draws onto the trainee's field of view, as a coaching variant</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Manufacturing industry employees, new hires, technicians, quality control personnel</li>
+<li>New hires and apprentices encountering complex assembly, wiring, or maintenance procedures for the first time [+M]</li>
+<li>Trainees with limited prior knowledge who would otherwise spend effort searching manuals and holding steps in working memory <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]</li>
+<li>Less beneficial for expert technicians, for whom persistent guidance is redundant or disruptive <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective as learner expertise increases.</a> [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Accelerate skills acquisition, enhance productivity, reduce errors, improve new hire training and product launch efficiency</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides step-by-step instructions in real-time, allows hands-free operation, helps with complex tasks, improves training accuracy and reduces time.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Tailored instructions, adapt to individual learning paces, track progress.</li>
+<li>Procedural skill acquisition: executing multi-step assembly, inspection, and maintenance sequences accurately</li>
+<li>Error reduction and quality compliance in safety-critical or tolerance-critical tasks</li>
+<li>Faster ramp-up time on new product lines and equipment</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/direct-instruction/">Direct instruction</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-<li><a href="../../elements/application/">Application</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Task completion time, error reduction, productivity improvement, new hire ramp-up times.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Improves productivity and reduces training times with fewer errors.</li>
-</ul>
+<ol>
+<li>Decompose the target procedure into discrete, ordered steps and author AR content for each (<a href="../../elements/direct-instruction/">Direct Instruction</a> in spatial form)</li>
+<li>Deliver a brief orientation to the headset and interface before task work (<a href="../../elements/coaching/">Coaching</a>)</li>
+<li>Have trainees perform the task with full AR guidance, keeping each display to one step (<a href="../../elements/practice/">Practice</a>)</li>
+<li>Log completion, errors, and time per step; deliver corrective feedback at the step level <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+M] (<a href="../../elements/assess-performance/">Assess Performance</a>)</li>
+<li>Fade the overlay — from full guidance to on-demand prompts to no support — and verify performance unaided (<a href="../../elements/application/">Application</a>)</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../simulation-based-training/">Simulation-Based Training</a> — AR is a form of simulation embedded in the real workspace rather than a separate simulator</li>
+<li><a href="../just-in-time-learning/">Just-in-Time Learning</a> — AR delivers guidance at the moment of need during real task performance</li>
+<li><a href="../video-based-instruction/">Video-Based Instruction</a> — a lower-cost, less spatially integrated alternative for the same procedural content</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — AR's value comes from guiding performance of the real task, not from viewing content</li>
+<li><a href="../../elements/coaching/">Coaching</a> — remote-expert AR annotation is a coaching delivery channel</li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — AR systems log step-level performance data for feedback</li>
+<li><a href="../../elements/application/">Application</a> — faded, unaided performance verifies that learning transferred beyond the overlay</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="https://www.ptc.com/en/products/vuforia">PTC Vuforia / Vuforia Expert Capture</a> — industrial AR authoring and step-by-step work instruction capture</li>
+<li><a href="https://dynamics.microsoft.com/en-us/mixed-reality/guides/">Microsoft Dynamics 365 Guides</a> — HoloLens-based guided procedural training with analytics</li>
+<li><a href="https://www.realwear.com">RealWear</a> — hands-free assisted-reality headsets used on factory floors</li>
+<li><a href="https://www.teamviewer.com/en-us/solutions/frontline/">TeamViewer Frontline</a> — AR work instructions and remote expert support</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Boeing wiring harness assembly</strong> — Boeing technicians used AR tablets and later headsets with step-by-step wiring instructions, cutting harness build time substantially and reducing errors relative to paper instructions (Hou, Wang, &amp; Truijens reported similar gains in shipbuilding assembly training).</li>
+<li><strong>Lockheed Martin's "smart glasses" program</strong> — Orion spacecraft assembly technicians used AR work instructions, reporting large reductions in assembly time and near-elimination of errors on guided tasks.</li>
+<li><strong>Siemens and BMW technician training</strong> — AR modules for maintenance procedures let trainees rehearse on real equipment with overlaid component identification and step guidance before certification.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Garzón, J., &amp; Acevedo, J. (2019). Meta-analysis of the impact of augmented reality on students' learning gains: A new educational technology or an added value to existing learning environments? <em>Educational Research Review, 27</em>, 244–260. <a href="https://doi.org/10.1016/j.edurev.2019.03.001">doi:10.1016/j.edurev.2019.03.001</a></li>
+<li>Hou, L., Wang, X., &amp; Truijens, M. (2013). Using augmented reality to facilitate procedural task training for spaceconstrained maintenance tasks. <em>Journal of Computing in Civil Engineering, 29</em>(5). <a href="https://doi.org/10.1061/(ASCE)CP.1943-5487.0000282">doi:10.1061/(ASCE)CP.1943-5487.0000282</a></li>
+<li>Bacca, J., Baldiris, S., Fabregat, R., Graf, S., &amp; Kinshuk. (2014). Augmented reality trends in education: A systematic review of research and applications. <em>RUSC. Universities and Knowledge Society Journal, 11</em>(2), 133–149. <a href="https://doi.org/10.7238/rusc.v11i1.2030">doi:10.7238/rusc.v11i1.2030</a></li>
+<li>Sweller, J., &amp; Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. <em>Cognition and Instruction, 2</em>(1), 59–89. <a href="https://doi.org/10.1207/s1532690xci0201_3">doi:10.1207/s1532690xci0201_3</a></li>
 </ul>
 
 

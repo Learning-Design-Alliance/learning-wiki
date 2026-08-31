@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="AR is used to create models of the human body that let medical students learn anatomy in depth; provide more training opportunities for medical students with the help of simulations; and allow students to practice surgeries on virtual…">
+        <meta name="description" content="AR overlays interactive 3D anatomical and procedural content onto the real world or the patient, enabling anatomy learning, simulation-based skills practice, and low-stakes surgical rehearsal.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,75 +744,84 @@
 
 
 <h1 id="augmented-reality-ar-for-medical-education-and-training">Augmented Reality (AR) for Medical Education and Training<a class="headerlink" href="#augmented-reality-ar-for-medical-education-and-training" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>AR is used to create models of the human body that let medical students learn anatomy in depth; provide more training opportunities for medical students with the help of simulations; and allow students to practice surgeries on virtual patients.</p>
+<p>AR overlays interactive, spatially registered 3D content — anatomical models, procedural guidance, virtual patients — onto the learner's real view of the world, typically via head-mounted displays, tablets, or mobile devices. In medical education it is used to teach anatomy in depth, multiply training opportunities through simulation, and let trainees rehearse procedures on virtual patients before touching real ones.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>AR's principal learning-science advantage is making invisible, three-dimensional structure directly manipulable and inspectable, which supports spatial understanding of anatomy and reduces the working-memory burden of mentally rotating 2D images into 3D representations <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working-memory load.</a> [+M]. Meta-analytic and systematic-review evidence shows AR-based anatomy instruction outperforms conventional 2D materials on knowledge acquisition, though effects depend on integration with sound pedagogy rather than novelty [+M]. AR works best as a component within a full instructional sequence — demonstration, guided practice, feedback, application — not as a stand-alone technology.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>AR technology and tools.</li>
+<li>Reliable AR hardware and content calibrated to accurate anatomical or procedural models</li>
+<li>Structured tasks that direct attention; free exploration of rich 3D scenes invites extraneous processing (<a href="../../principles/cognitive-load-management/">Cognitive Load Management</a>)</li>
+<li>An instructor or system loop that delivers corrective information during practice <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S]</li>
+<li>Integration with a broader sequence: <a href="../../elements/demonstration/">Demonstration</a> of the procedure, then <a href="../../elements/practice/">Practice</a>, then real-world <a href="../../elements/application/">Application</a></li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Limited haptic feedback, high costs.</li>
+<li>Current AR systems provide limited or no haptic feedback, so psychomotor skills learned purely in AR may not transfer to the tactile demands of real surgery [-M]</li>
+<li>High acquisition and maintenance costs and device ergonomics (weight, field of view, hygiene) restrict routine classroom use [-M]</li>
+<li>Novelty effects inflate short-term outcomes; gains shrink when compared against well-designed non-AR instruction over longer intervals [~M]</li>
+<li>Learners with low spatial ability can be overwhelmed by dense overlaid information unless content is segmented and progressive [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Marker-based tablet AR (e.g., pointing a device at a textbook page to raise a 3D heart) versus markerless/head-mounted AR registered to a real patient or manikin</li>
+<li>Individual exploration versus instructor-led group sessions where the AR model anchors discussion</li>
+<li>Preclinical anatomy learning versus procedural rehearsal (e.g., ultrasound-guided needle placement, laparoscopic navigation)</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Medical students, medical professionals</li>
+<li>Preclinical medical and health-science students learning anatomy for the first time, who benefit most from manipulable 3D structure [+M]</li>
+<li>Trainees needing repeated, zero-risk rehearsal opportunities that cadaver and operating-room time cannot provide</li>
+<li>Less beneficial for experts, who may find the added visualization redundant — the same expertise-reversal pattern seen with worked examples applies to heavy guidance <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Allow for medical students to learn anatomy in depth; to provide more training opportunities with the help of simulations; and to practice surgeries on virtual patients.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Improved knowledge and skills by taking advantage of virtual and augmented reality.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Simulations can be tailored to the specific student based on level, subject, etc.</li>
+<li>Spatial and structural knowledge: anatomy, relationships between systems, pathology localization</li>
+<li>Procedural understanding: step sequences and decision points of clinical procedures</li>
+<li>Safe error tolerance: practicing rare or high-risk scenarios without patient harm</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/demonstration/">Demonstration</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide Feedback</a></li>
-<li><a href="../../elements/application/">Application</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Knowledge acquisition, psychomotor skills, communication, and problem-solving</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Enables more in-depth learning, provides more training opportunities and lets students practice surgeries in a safe virtual environment.</li>
-</ul>
+<ol>
+<li>Open with a <a href="../../elements/demonstration/">Demonstration</a>: instructor navigates the AR model or procedure while narrating key structures and decisions</li>
+<li>Have learners manipulate the AR content themselves — rotating, sectioning, isolating structures — with prompts to verbalize what they observe <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+S]</li>
+<li>Move to guided <a href="../../elements/practice/">Practice</a> on virtual patients or manikins with system- or instructor-delivered feedback <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S]</li>
+<li>Consolidate through <a href="../../elements/application/">Application</a> — case-based tasks or supervised real procedures — so AR learning connects to clinical reasoning (<a href="../../theories/situated-learning/">Situated Learning</a>)</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../simulation-based-medical-training/">Simulation-Based Medical Training</a> — AR is one modality within the broader simulation family; VR and manikin simulation offer complementary fidelity trade-offs</li>
+<li><a href="../virtual-reality-immersive-training/">Virtual Reality (VR) Immersive Training</a> — fully synthetic environments versus AR's overlay on the real world</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/demonstration/">Demonstration</a> — instructor-led navigation of the AR model makes expert reasoning visible before independent exploration</li>
+<li><a href="../../elements/practice/">Practice</a> — repeated procedural rehearsal in AR with zero patient risk</li>
+<li><a href="../../elements/coaching/">Coaching</a> — instructors monitor AR sessions and correct technique in real time</li>
+<li><a href="../../elements/application/">Application</a> — transfer of AR-learned structure and procedure to clinical contexts</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Complete Anatomy (3D4Medical/Elsevier)</strong> — AR anatomical models with sectioning and labeling, widely used in medical curricula (https://3d4medical.com)</li>
+<li><strong>Microsoft HoloLens with medical applications (e.g., Case Western Reserve University / Cleveland Clinic HoloAnatomy curriculum)</strong> — instructor-and-class shared holographic anatomy teaching (https://www.case.edu/med/holoanatomy)</li>
+<li><strong>Touch Surgery (Medtronic)</strong> — mobile procedural rehearsal and step-by-step surgical simulation (https://www.touchsurgery.com)</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Case Western Reserve University HoloAnatomy</strong> — first-year anatomy taught via shared HoloLens holograms; comparative studies found comparable or better quiz performance than cadaver-based sessions at lower instructional time [+M]</li>
+<li><strong>Mobile AR anatomy atlases (Küçük et al., 2016)</strong> — students learning cardiac anatomy via marker-based mobile AR outperformed textbook controls on knowledge tests and reported higher motivation [+M]</li>
+<li><strong>AR-guided laparoscopic and ultrasound training (Barsom et al., 2016 systematic review)</strong> — AR overlays used in surgical skills training improved accuracy and reduced errors in simulated procedures [~M]</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Moro, C., Štromberga, Z., Raikos, A., &amp; Stirling, A. (2017). The effectiveness of virtual and augmented reality in health sciences and medical anatomy. <em>Anatomical Sciences Education, 10</em>(6), 549–559. <a href="https://doi.org/10.1002/ase.1696">doi:10.1002/ase.1696</a></li>
+<li>Küçük, S., Kapakin, S., &amp; Göktaş, Y. (2016). Learning anatomy via mobile augmented reality: Effects on achievement and cognitive load. <em>Anatomical Sciences Education, 9</em>(5), 411–421. <a href="https://doi.org/10.1002/ase.1603">doi:10.1002/ase.1603</a></li>
+<li>Barsom, E. Z., Graafland, M., &amp; Schijven, M. P. (2016). Systematic review on the effectiveness of augmented reality applications in medical training. <em>Surgical Endoscopy, 30</em>(10), 4174–4183. <a href="https://doi.org/10.1007/s00464-016-4800-6">doi:10.1007/s00464-016-4800-6</a></li>
+<li>Kamphuis, C., Barsom, E., Schijven, M., &amp; Christoph, N. (2014). Augmented reality in medical education? <em>Perspectives on Medical Education, 3</em>(4), 300–311. <a href="https://doi.org/10.1007/s40037-013-0107-7">doi:10.1007/s40037-013-0107-7</a></li>
+<li>Cook, D. A., &amp; Triola, M. M. (2009). Virtual patients: A critical literature review and proposed next steps. <em>Medical Education, 43</em>(4), 303–311. <a href="https://doi.org/10.1111/j.1365-2923.2008.03286.x">doi:10.1111/j.1365-2923.2008.03286.x</a></li>
 </ul>
 
 

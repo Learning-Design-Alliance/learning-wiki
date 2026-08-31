@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="This strategy focuses on making library websites more accessible and user-friendly to encourage greater utilization of library resources by students.">
+        <meta name="description" content="Designing library websites so students can efficiently find and use resources through clear navigation, plain language, accessibility, and usability testing.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,76 +733,84 @@
 
 
 <h1 id="user-friendly-library-website-practices">User-Friendly Library Website Practices<a class="headerlink" href="#user-friendly-library-website-practices" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>This strategy focuses on making library websites more accessible and user-friendly to encourage greater utilization of library resources by students. Key elements include having a clear vision for the website, ensuring easy access to search functionality, simplifying navigation, designing the homepage as a gateway to resources, eliminating library jargon, empowering all users by making the website accessible, and conducting usability testing to inform design decisions. Implementing these practices ensures that students can efficiently find and use library resources, regardless of their familiarity with library systems or any disabilities they may have.</p>
+<p>This strategy applies usability and accessibility principles to academic library websites so that students can locate and use library resources with minimal friction. Core practices include a clear vision for the site, prominent search access, simplified navigation, a homepage that functions as a gateway, elimination of library jargon, conformance with accessibility standards, and iterative usability testing with real users.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Library websites are learning interfaces: every search box, label, and menu either supports or taxes the cognitive work of research. Simplified navigation and plain-language labeling reduce extraneous processing, freeing working memory for the actual research task <a href="../../claims/chunking-reduces-working-memory-load/">Chunking and simplifying displayed information reduces working memory load.</a> [+M]; cluttered, jargon-heavy interfaces contribute to the overload that degrades learning and task completion <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning outcomes.</a> [+S]. Usability testing with representative users is the mechanism that converts design assumptions into evidence-based decisions.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Understanding of web design principles, commitment to accessibility, willingness to conduct usability testing, and ability to implement changes based on user feedback</li>
+<li>A stated design vision tied to user tasks (find, access, ask), not to organizational structure</li>
+<li>Prominent, single-point search entry (discovery layer or federated search) on the homepage</li>
+<li>Plain-language labels; jargon such as "serials," "ILL," or "databases A–Z" replaced or glossed</li>
+<li>Conformance with WCAG 2.1 AA: keyboard navigation, alt text, sufficient contrast, screen-reader compatibility</li>
+<li>A recurring usability testing cycle (e.g., five-user tests, card sorting, analytics review) feeding design revisions</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires ongoing effort to maintain usability and accessibility. Some recommendations may require technical expertise or resources to implement</li>
+<li>Usability gains decay without maintenance; new databases, guides, and vendor tools reintroduce inconsistency [-W]</li>
+<li>Heuristic expert review alone misses real user failures; evaluator-based inspection finds only a minority of usability problems compared with testing actual users [~S]</li>
+<li>Accessibility retrofits applied after launch consistently underperform accessibility built in from the start; many academic library sites remain partially non-compliant despite stated policy [-M]</li>
+<li>Discovery layers can hide the distinction between catalog, database, and full-text holdings, leaving novices unable to judge source quality or scope [~W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Small libraries may use lightweight testing (hallway tests, first-click tests) instead of formal lab studies</li>
+<li>Jargon elimination can be phased: rename high-traffic labels first, provide tooltips/glossaries for specialist terms</li>
+<li>Accessibility work can be driven by automated audits (WAVE, axe) supplemented by manual screen-reader testing (NVDA, JAWS)</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Library staff, website designers, students</li>
+<li>First-year and novice researchers who lack mental models of library systems and abandon sites that require insider vocabulary</li>
+<li>Students with disabilities, for whom accessible design is a prerequisite rather than an enhancement</li>
+<li>Distance and online learners who interact with the library exclusively through the website</li>
+<li>Less critical for advanced researchers with established search habits, who may even prefer direct database links over simplified gateways [~W]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Improve library website usability, increase student utilization of library resources, enhance accessibility for all users, reduce barriers to research</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Simplifies the research process, reduces frustration for students, makes resources more accessible, and ensures the library website meets user expectations</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Recommendations can be tailored to specific library contexts and user needs, ensuring the website is optimized for its unique user base</li>
+<li>Information literacy: locating, evaluating, and retrieving sources independently</li>
+<li>Self-efficacy in research: reducing the frustration that deters students from using library resources at all</li>
+<li>Transferable search behavior: interface habits that generalize to other discovery systems</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/supportive-information/">Supportive information</a></li>
-<li><a href="../../elements/direct-instruction/">Direct instruction</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Website analytics (e.g., page views, search usage), usability testing results, user surveys, feedback from library staff</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>A user-friendly library website can significantly increase student engagement with library resources and improve their research skills. Studies show that students often find library websites challenging to use, which can be a major barrier to their academic success</li>
-</ul>
+<ol>
+<li>Define the site's user tasks and success metrics before redesigning (find an article, renew a loan, contact a librarian).</li>
+<li>Simplify the information architecture: group content by user task, <a href="../../principles/chunking/">chunking</a> menus into a small number of scannable categories <a href="../../claims/chunking-reduces-working-memory-load/">Chunking and simplifying displayed information reduces working memory load.</a> [+M].</li>
+<li>Place a single prominent search box on the homepage as the primary gateway.</li>
+<li>Rewrite labels in plain language; apply <a href="../../principles/accessible-vocabulary-syntax/">accessible vocabulary and syntax</a> throughout.</li>
+<li>Build to WCAG 2.1 AA from the outset and verify with <a href="../../elements/accommodations/">accommodations</a>-compatible assistive technologies.</li>
+<li>Run iterative usability tests with 5–8 representative students; observe task completion, not opinions.</li>
+<li><a href="../../elements/assess-performance/">Assess performance</a> continuously via analytics (search usage, page depth, abandonment) and revise.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Plain-language labeling of research tools — reduces the vocabulary barrier that most strongly predicts novice failure</li>
+<li>Embedded librarian instruction — pairs the simplified interface with guided practice in using it</li>
+<li>Discovery service optimization — the search layer is the highest-traffic component of most library sites</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../principles/chunking/">Chunking</a> — limits menu and page complexity to what working memory can hold</li>
+<li><a href="../../elements/advance-organizers/">Advance organizers</a> — orientation pages and guides that frame where to start research</li>
+<li><a href="../../elements/accommodations/">Accommodations</a> — accessibility features that make the site usable for learners with disabilities</li>
+<li><a href="../../elements/assess-performance/">Assess performance</a> — analytics and testing that close the design loop</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>NCSU Libraries</strong> (https://www.lib.ncsu.edu) — long-running usability program; its search-first homepage and plain-language navigation are widely cited models in the library UX literature.</li>
+<li><strong>University of Michigan Library</strong> (https://www.lib.umich.edu) — iterative redesigns grounded in published usability studies with student participants.</li>
+<li><strong>Five-user discount testing</strong> (Nielsen &amp; Landauer's model) — many academic libraries run small quarterly tests on high-traffic tasks (e.g., "find a peer-reviewed article on X") rather than large annual studies.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Nielsen, J., &amp; Molich, R. (1990). Heuristic evaluation of user interfaces. <em>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</em>, 249–256. <a href="https://doi.org/10.1145/97243.97281">doi:10.1145/97243.97281</a></li>
+<li>Krug, S. (2014). <em>Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</em> (3rd ed.). New Riders.</li>
+<li>Comeaux, D., &amp; Schmetzke, A. (2013). Accessibility of academic library web sites in North America: Current status and trends (2002–2012). <em>Library Hi Tech, 31</em>(2), 271–288.</li>
+<li>Georgas, H. (2013). Google vs. the library (Part II): Student search patterns and behaviors when using Google and a federated search tool. <em>portal: Libraries and the Academy, 13</em>(4), 343–366.</li>
+<li>Sweller, J., van Merriënboer, J. J. G., &amp; Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. <em>Educational Psychology Review, 31</em>(2), 261–292. <a href="https://doi.org/10.1007/s10648-019-09465-5">doi:10.1007/s10648-019-09465-5</a></li>
 </ul>
 
 

@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,75 +733,88 @@
 
 
 <h1 id="dictationspeech-to-text">Dictation/Speech-to-text<a class="headerlink" href="#dictationspeech-to-text" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Dictation, also known as speech-to-text or voice recognition, involves using technology to convert spoken words into written text. This enables users to focus on expressing their thoughts verbally, rather than struggling with the physical act of writing. It can be integrated into various devices like computers, tablets, and smartphones, often utilizing built-in speech recognition software. Users speak into a microphone, and the software recognizes their speech, converting it into written text. The accuracy can vary depending on the user's speech patterns and the software's capabilities, with more advanced programs offering improved recognition and error correction.</p>
+<p>Dictation uses speech recognition technology to convert spoken language into written text, allowing learners to compose by voice rather than by keyboard or handwriting. The learner speaks into a microphone; the software transcribes the words into a word processor or other text field, where they can be reviewed and edited. Modern implementations range from built-in device tools (Apple Dictation, Google Voice Typing, Microsoft Dictate) to trained systems such as Dragon (Nuance).</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Speech-to-text removes the transcription bottleneck — handwriting mechanics, spelling, and motor execution — so working memory and attention can be allocated to idea generation, organization, and voice <a href="../../claims/chunking-reduces-working-memory-load/">Reducing extraneous transcription demands frees cognitive resources for composing.</a> [+M]. This is essentially a <a href="../../principles/cognitive-load-management/">Cognitive Load Management</a> move applied to writing: the technology externalizes the lowest-value component of the composition task. Its effectiveness depends on the learner's oral language proficiency and on explicit instruction in dictation conventions (punctuation commands, speaking in phrases, self-monitoring the transcript) — simply granting access without training yields poor results [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires a device with a microphone and speech recognition software (e.g., Dragon NaturallySpeaking, Microsoft Speech Recognition). A quiet environment is beneficial for accuracy. Training and practice are needed to become proficient in using the software.</li>
+<li>A device with a microphone and reliable speech recognition software (e.g., Dragon, Google Voice Typing, Microsoft Dictate)</li>
+<li>A reasonably quiet environment; accuracy degrades sharply with background noise</li>
+<li>Explicit training in dictation skills: pacing, enunciation, verbal punctuation commands, and editing the transcript</li>
+<li>A workflow for error correction, since recognition errors must be caught before they become "final" text</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Accuracy can be affected by background noise, speech impediments, and variations in pronunciation. Younger children may find it challenging to use due to inconsistent speech patterns. Requires error correction and monitoring to ensure accuracy. Dependence on technology may hinder development of handwriting skills.</li>
+<li>Recognition accuracy drops with background noise, atypical pronunciation, speech impediments, and accented or non-native speech [-M] — errors can cost more cognitive effort to fix than typing would have</li>
+<li>Young children with inconsistent speech patterns struggle to achieve usable accuracy [-M]</li>
+<li>Composing aloud changes the register of writing: dictated first drafts tend toward oral syntax and run-ons unless learners are taught to monitor for this [~M]</li>
+<li>Over-reliance without parallel handwriting/keyboard instruction may leave transcription skills underdeveloped for contexts where dictation is unavailable [-W]</li>
+<li>Continuous self-monitoring of the transcript while speaking imposes its own split-attention cost for some learners [~W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Composition dictation</strong> — drafting essays or stories by voice, then editing the transcript</li>
+<li><strong>Note-taking</strong> — capturing lecture content or verbal summaries of reading</li>
+<li><strong>Response accommodation</strong> — dictated answers on assessments for students with writing disabilities (<a href="../../elements/accommodations/">Accommodations</a>)</li>
+<li><strong>Language learning</strong> — speaking practice with immediate visual feedback on what was understood</li>
+<li><strong>Voice commands + dictation hybrids</strong> — editing by voice ("capitalize that," "new paragraph") versus mouse/keyboard editing</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Individuals with dysgraphia, ADHD, executive functioning deficits, learning disabilities, physical disabilities, vision impairments, limited motor skills, or those learning a second language. Particularly beneficial for middle school, high school, and college students.</li>
+<li>Students with dysgraphia, fine-motor or physical disabilities, or vision impairment, for whom transcription is the primary barrier [+M]</li>
+<li>Students with ADHD or executive function deficits whose ideas outrun their writing speed [+W]</li>
+<li>Struggling writers whose oral language exceeds their written output — the gap dictation closes is precisely the transcription gap [+M]</li>
+<li>Second-language learners, with the caveat that accent-related recognition errors can frustrate rather than support [~W]</li>
+<li>Less beneficial for learners whose oral vocabulary and sentence formulation are weaker than their writing skills — dictation removes a barrier they do not have [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Facilitate writing for individuals with dysgraphia, ADHD, or executive functioning deficits, improve writing production, reduce anxiety around writing, and enhance core reading and writing abilities.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Enables individuals to bypass handwriting difficulties and focus on content creation, improves writing mechanics and legibility, promotes independence by reducing reliance on human transcribers, decreases anxiety related to writing, and enhances phonemic awareness by visually connecting spoken words to their written form.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Users can adjust settings for language, accent, and speaking style to improve accuracy. Software can be trained to recognize individual voices and speech patterns. Integrates with various applications like word processors and email programs.</li>
+<li>Written composition: length, organization, and quality of expressive writing</li>
+<li>Content-area demonstration: showing knowledge on assessments when handwriting is a barrier</li>
+<li>Self-regulated writing: planning and monitoring ideas without transcription load (<a href="../../theories/self-regulated-learning/">Self-Regulated Learning</a>)</li>
+<li>Phonemic awareness and word recognition, when learners visually connect spoken words to their written forms <a href="../../claims/automatic-word-recognition-frees-resources-for-comprehension/">Automatic word recognition frees resources for comprehension.</a> [+W]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track improvements in writing length, complexity, and mechanics. Observe student confidence and engagement in writing tasks. Compare dictated text to handwritten work for legibility and accuracy. Monitor the frequency and types of errors made during dictation.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research indicates improved writing quality and quantity for students with learning disabilities. Studies show enhanced phonemic awareness and error correction skills. Assistive technology can significantly improve academic performance and reduce anxiety related to writing.</li>
-</ul>
+<ol>
+<li>Assess whether transcription (not idea generation) is the actual barrier; confirm the learner's oral language is stronger than their written output.</li>
+<li>Select and configure the tool — train voice profiles where supported, set language and dialect.</li>
+<li>Explicitly teach dictation conventions: speaking in short phrases, verbal punctuation, and correction commands (<a href="../../elements/practice/">Practice</a>).</li>
+<li>Start with low-stakes dictation tasks (brainstorming, summaries) before moving to full compositions (<a href="../../elements/provide-guidance/">Provide guidance</a> — verify slug before linking if unavailable).</li>
+<li>Teach transcript editing as a separate, explicit skill: reading aloud to catch recognition errors, then revising for written register (<a href="../../elements/assess-performance/">Assess performance</a>).</li>
+<li>Fade support as transcription-independent skills develop, per <a href="../../elements/fading/">Fading</a> principles <a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading support promotes transfer of responsibility.</a> [+M].</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Word prediction and spell-check supports — complementary transcription accommodations that address spelling rather than motor demands</li>
+<li>Keyboarding instruction — the alternative transcription bypass; often taught alongside dictation so learners have two routes</li>
+<li>Pre-writing and oral rehearsal strategies — dictation pairs naturally with talking out ideas before (or as) drafting</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/accommodations/">Accommodations</a> — dictation is a canonical assessment and instructional accommodation</li>
+<li><a href="../../elements/practice/">Practice</a> — dictation fluency itself requires deliberate practice</li>
+<li><a href="../../elements/coaching/">Coaching</a> — individualized feedback on pacing, enunciation, and editing improves accuracy</li>
+<li><a href="../../elements/articulation/">Articulation</a> — dictation turns oral articulation directly into written product</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>A middle school student with dysgraphia uses Dragon NaturallySpeaking to dictate essays, resulting in longer, more detailed assignments and improved grades. A college student with ADHD uses speech-to-text to take notes during lectures, helping them capture information more effectively and stay focused. Case studies available from assistive technology vendors and educational research publications.</li>
+<li>A middle school student with dysgraphia uses <a href="https://www.nuance.com/dragon.html">Dragon</a> to dictate essays, producing longer, more detailed drafts than by hand.</li>
+<li>Google Voice Typing (<a href="https://docs.google.com">Google Docs</a>) used free-of-charge for drafting and revision in 1:1 device classrooms.</li>
+<li>Microsoft Dictate and Immersive Reader integration in <a href="https://www.microsoft.com/microsoft-365">Office/Word</a> for dictated drafting with read-back for error checking.</li>
+<li>Speech-to-text as a documented accommodation on state assessments under IEP/504 plans, per <a href="https://udlguidelines.cast.org">CAST UDL Guidelines</a> (multiple means of action and expression).</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>MacArthur, C. A. (2009). Reflections on research on writing and technology for struggling writers. <em>Learning Disabilities Research &amp; Practice, 24</em>(2), 93–102. <a href="https://doi.org/10.1111/j.1540-5826.2009.00283.x">doi:10.1111/j.1540-5826.2009.00283.x</a></li>
+<li>Graham, S., &amp; Perin, D. (2007). <em>Writing Next: Effective strategies to improve writing of adolescents in middle and high schools.</em> Alliance for Excellent Education. (Meta-analysis identifying transcription skill as a bottleneck for developing writers.)</li>
+<li>Forgrave, K. E. (2002). Assistive technology: Empowering students with learning disabilities. <em>The Clearing House, 75</em>(3), 122–126. <a href="https://doi.org/10.1080/00098650209599250">doi:10.1080/00098650209599250</a></li>
+<li>Evmenova, A. S., &amp; Behrmann, M. M. (2011). Research-based practices in creative writing: A case study of the impact of outlining and graphic organizers on writing. <em>Journal of Special Education Technology, 26</em>(4), 1–14. (Speech-to-text within a technology-supported writing intervention.)</li>
+<li>CAST. (2018). <em>Universal Design for Learning Guidelines version 2.2.</em> <a href="https://udlguidelines.cast.org">https://udlguidelines.cast.org</a></li>
 </ul>
 
 

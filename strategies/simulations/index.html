@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Simulations use electronic or software-based activities to simulate a real-world situation to which a learner must react.">
+        <meta name="description" content="Simulations use electronic or software-based activities to simulate a real-world situation to which a learner must react, allowing safe practice and consequence exploration.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,76 +733,83 @@
 
 
 <h1 id="simulations">Simulations<a class="headerlink" href="#simulations" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Simulations use electronic or software-based activities to simulate a real-world situation to which a learner must react. Learners have the opportunity to practice certain skills and make mistakes in a safe environment. Simulation-based training is popular in the healthcare and aviation industries, however, with the advancement of technologies like Artificial Intelligence (AI) and Virtual Reality (VR), simulation-based training is being adopted across all types of industries.</p>
+<p>Simulations use electronic or software-based activities to model a real-world situation to which a learner must react — operating equipment, managing a patient, negotiating with a customer, or responding to a system failure. Learners practice skills, make decisions, and experience the consequences of mistakes in a safe environment. Long established in aviation and healthcare, simulation-based training is spreading across industries as AI and VR lower the cost of realistic scenario generation.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Simulation works because it lets learners practice whole tasks with realistic decision consequences, which supports transfer better than isolated skill drills <a href="../../claims/whole-task-performance-improves-transfer/">Whole-task practice supports transfer to real performance.</a> [+M]. Its effectiveness depends heavily on structured <a href="../../elements/debriefing/">debriefing</a> and <a href="../../elements/provide-feedback/">feedback</a>: simulation alone produces modest gains, but simulation plus guided reflection produces large ones <a href="https://doi.org/10.1001/jama.2011.1234">Simulation-based education with deliberate practice and feedback outperforms no intervention.</a> [+S]. Fidelity should be matched to the learning goal — physical realism matters less than functional and psychological realism (do the decisions and consequences behave like the real task?).</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>A computer or other device to run the simulation, software to create the simulation, facilitator to guide the learning process</li>
+<li>A device and software capable of running the simulation, with scenario logic that responds meaningfully to learner decisions</li>
+<li>A facilitator or system that guides the learning process and delivers <a href="../../elements/provide-feedback/">feedback</a> on decisions</li>
+<li>A structured debriefing step in which learners examine what they did, why, and what consequences followed</li>
+<li>Scenario design that maps decisions to realistic consequences (<a href="../../elements/problem-scenario/">Problem Scenario</a>)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Simulations can be expensive to create and run, and success depends on the realism of the simulation.</li>
+<li>High development and maintenance cost; low-fidelity or poorly modeled scenarios can teach wrong mental models [-M]</li>
+<li>Excessive physical fidelity can consume working memory on surface features rather than the underlying decision structure <a href="../../principles/cognitive-load-management/">Managing extraneous load is essential for effective learning.</a> [~M]</li>
+<li>Without debriefing, learners may enjoy the experience but extract little transferable learning <a href="https://doi.org/10.1097/SIH.0b013e3180315539">Simulation without structured debriefing yields weaker outcomes.</a> [-M]</li>
+<li>Complex whole-task simulations can overwhelm novices; starting with <a href="../../elements/part-task-practice/">part-task practice</a> reduces load for them <a href="../../claims/part-task-practice-reduces-load-for-novices/">Part-task practice reduces cognitive load for novices.</a> [+M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Screen-based branching scenarios (e.g., decision trees) — low cost, good for procedural and judgment skills</li>
+<li>Immersive VR/AR — high presence, useful where spatial or equipment familiarity matters</li>
+<li>Human-in-the-loop simulation with actors or instructors (standardized patients, flight instructors) — adds social and communication skill practice</li>
+<li>AI-driven conversational simulations — adaptive scenario branching tailored to the learner's own work context</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All employee levels in corporate training settings</li>
+<li>Employees at all levels in corporate training settings, especially those preparing for high-stakes or infrequent events (emergencies, difficult conversations, system failures)</li>
+<li>Novices benefit from simplified, part-task versions before full-complexity scenarios <a href="../../claims/part-task-practice-reduces-load-for-novices/">Part-task practice reduces cognitive load for novices.</a> [+M]</li>
+<li>Experienced practitioners benefit most from rare, high-consequence scenarios and <a href="../../elements/coaching/">coaching</a> during replay</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Practice certain skills, make mistakes in a safe environment, understand the consequences of different decisions.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides an opportunity to practice certain skills and make mistakes in a safe environment, allows learners to understand the consequences of different decisions.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Simulations can be tailored to reflect the learner's own working environment.</li>
+<li>Procedural and psychomotor skill acquisition under realistic conditions</li>
+<li>Decision-making: understanding the consequences of different choices (<a href="../../elements/decision-making/">Decision-Making</a>)</li>
+<li>Team coordination and crisis resource management</li>
+<li>Transfer of classroom knowledge to applied performance (<a href="../../elements/application/">Application</a>)</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/application/">Application</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide Feedback</a></li>
-<li><a href="../../elements/problem-scenario/">Problem Scenario</a></li>
-<li><a href="../../elements/decision-making/">Decision-Making</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track learner decisions in the simulation, provide feedback on learner decisions, and assess learner understanding of the consequences of different decisions.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Provides an opportunity to practice certain skills and make mistakes in a safe environment, allows learners to understand the consequences of different decisions.</li>
-</ul>
+<ol>
+<li>Define the target performance and the decisions it requires; design a <a href="../../elements/problem-scenario/">Problem Scenario</a> whose branches map to realistic consequences.</li>
+<li>Brief learners on their role and objectives, then let them <a href="../../elements/practice/">Practice</a> by making decisions in the simulation (<a href="../../elements/decision-making/">Decision-Making</a>).</li>
+<li>Track learner decisions and provide immediate or post-hoc <a href="../../elements/provide-feedback/">feedback</a> tied to consequences.</li>
+<li>Run a structured debrief: replay key moments, ask learners to explain their reasoning (<a href="../../claims/self-explanation-improves-conceptual-understanding/">self-explanation improves conceptual understanding</a> [+M]).</li>
+<li>Increase scenario complexity or fade support across repetitions as competence grows <a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading support promotes transfer of responsibility.</a> [+M].</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../patterns/case-based-learning/">Case-based learning</a> — simulations are interactive, consequential cases; cases are reflective, pre-resolved ones</li>
+<li><a href="../role-play/">Role-play</a> — human-performed simulation without software mediation</li>
+<li><a href="../scenario-based_e-learning/">Scenario-based e-learning</a> — lighter-weight branching simulations</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — the core activity the simulation hosts</li>
+<li><a href="../../elements/provide-feedback/">Provide Feedback</a> — consequence feedback is what converts play into learning</li>
+<li><a href="../../elements/problem-scenario/">Problem Scenario</a> — the scenario structure that defines decision points</li>
+<li><a href="../../elements/decision-making/">Decision-Making</a> — the primary cognitive skill simulations exercise</li>
+<li><a href="../../elements/coaching/">Coaching</a> — facilitator guidance during and after runs</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong><a href="https://www.flightsafety.com">FlightSafety International</a></strong> — full-motion flight simulators with instructor-led scenario replay and debriefing; the canonical high-fidelity example.</li>
+<li><strong><a href="https://www.laerdal.com">Laerdal SimCenter</a></strong> — patient simulators and scenario platforms used in nursing and medical education with standardized debriefing protocols.</li>
+<li><strong><a href="https://www.capsim.com">CapsimInbox</a></strong> — inbox-style business simulations where learners manage a simulated company and see financial and team consequences of decisions.</li>
+<li><strong><a href="https://www.mursion.com">Mursion</a></strong> — VR simulations with human-powered avatars for practicing difficult workplace conversations.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Cook, D. A., Hatala, R., Brydges, R., Zendejas, B., Szostek, J. H., Wang, A. T., Erwin, P. J., &amp; Barsuk, J. H. (2011). Technology-enhanced simulation for health professions education: A systematic review and meta-analysis. <em>JAMA, 306</em>(9), 978–988. <a href="https://doi.org/10.1001/jama.2011.1234">doi:10.1001/jama.2011.1234</a></li>
+<li>Sitzmann, T. (2011). A meta-analytic examination of the instructional effectiveness of computer-based simulation environments. <em>Personnel Psychology, 64</em>(2), 487–528. <a href="https://doi.org/10.1111/j.1744-6570.2011.01190.x">doi:10.1111/j.1744-6570.2011.01190.x</a></li>
+<li>Fanning, R. M., &amp; Gaba, D. M. (2007). The role of debriefing in simulation-based learning. <em>Simulation in Healthcare, 2</em>(2), 115–125. <a href="https://doi.org/10.1097/SIH.0b013e3180315539">doi:10.1097/SIH.0b013e3180315539</a></li>
+<li>Gaba, D. M. (2004). The future vision of simulation in health care. <em>Quality and Safety in Health Care, 13</em>(suppl 1), i2–i10. <a href="https://doi.org/10.1136/qshc.2004.009878">doi:10.1136/qshc.2004.009878</a></li>
 </ul>
 
 

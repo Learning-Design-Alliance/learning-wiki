@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Mobile apps like Remind can provide a quick and easy way for parents, teachers, and students to communicate about student progress, assignments, and other school-related activities.">
+        <meta name="description" content="Mobile apps like Remind provide a quick, low-friction channel for parents, teachers, and students to communicate about progress, assignments, and school activities.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -714,10 +697,21 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#examples" class="md-nav__link">
+  <a href="#assessment-evidence" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Examples
+        Assessment Evidence
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#impact" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Impact
       
     </span>
   </a>
@@ -761,73 +755,89 @@
 
 
 <h1 id="communicate-quickly-and-easily-through-mobile-apps">Communicate Quickly and Easily Through Mobile Apps<a class="headerlink" href="#communicate-quickly-and-easily-through-mobile-apps" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Mobile apps like Remind can provide a quick and easy way for parents, teachers, and students to communicate about student progress, assignments, and other school-related activities. This supports increased information flow and collaboration between home and school.</p>
+<p>Mobile apps such as Remind, ClassDojo, and Seesaw give teachers a fast, asynchronous channel for communicating with parents and students about assignments, progress, and school events. By lowering the effort cost of contact — no phone calls, notes home, or scheduled meetings — they increase the frequency and timeliness of home–school information flow, which supports <a href="../../elements/check-in/">Check-Ins</a> and ongoing <a href="../../elements/feedback/">Feedback</a> beyond the classroom day.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Frequent, low-cost communication increases parental awareness of student work and expectations, a precondition for parental involvement that actually affects achievement [~M]. The channel itself does not improve learning; effects come from what the communication carries — timely, specific information about tasks and progress rather than generic announcements <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S]. Two-way messaging matters: apps that let parents respond and ask questions build relationship and trust, not just information transfer.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Smartphone or device with internet access. App installation and account setup.</li>
+<li>Smartphone or device with internet access for teachers and (ideally) families; app installation and account setup</li>
+<li>School/district policy compliance for privacy, records, and appropriate teacher–student contact</li>
+<li>A sustainable teacher routine — batched, scheduled messages — so communication does not become an unmanaged workload</li>
+<li>Translation support for multilingual families (Remind and ClassDojo both offer built-in translation)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Relies on parents having access to technology and being comfortable using it. May not be suitable for families who prefer face-to-face communication.</li>
+<li>Effectiveness depends on families having device access, data plans, and digital comfort; app-based channels can exclude the families who most need outreach [-M]</li>
+<li>One-way broadcast use ("announcement mode") produces awareness at best and rarely changes parent behavior or student outcomes [~W]</li>
+<li>Notification fatigue: high message volume trains parents to ignore alerts, eroding the channel's value [-W]</li>
+<li>Text-based updates can miss nuance and are a poor substitute for face-to-face conferences on sensitive issues; some families prefer in-person contact [-W]</li>
+<li>Blurred boundaries — parents expecting replies at all hours — create teacher burnout risk without clear norms [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Broadcast updates</strong>: weekly class summaries of assignments and deadlines (lowest effort, lowest impact)</li>
+<li><strong>Individual progress messages</strong>: short, specific notes about a student's work or improvement, tied to <a href="../../elements/assessment/">Assessment</a> evidence</li>
+<li><strong>Two-way conferencing-lite</strong>: scheduled windows when parents can message and expect replies</li>
+<li><strong>Student-facing use</strong>: reminders and <a href="../../elements/check-in/">Check-Ins</a> sent directly to older students to support self-management</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All grade levels, particularly beneficial for parents with limited time or access to traditional communication methods</li>
+<li>All grade levels; strongest documented effects in early childhood and middle school, where parental oversight still directly shapes homework completion and attendance [~M]</li>
+<li>Working parents and families with limited time for in-person school contact</li>
+<li>Multilingual families, when translation features are enabled</li>
+<li>Less effective for families without reliable device or data access — pair with SMS fallback or paper communication [-M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Improve communication, enhance parent engagement, support student progress</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides instant updates, facilitates two-way communication, breaks down language barriers (with translation features), increases parent awareness of student activities and performance</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Translation features cater to multilingual families. Teachers can tailor updates to individual student needs.</li>
+<li>Improved assignment completion and homework submission through timely reminders</li>
+<li>Stronger home–school partnership supporting attendance and engagement</li>
+<li>Student self-regulation: external reminders that gradually transfer responsibility to the learner</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track frequency of communication between teachers and parents. Monitor student attendance and academic performance. Gather feedback from parents on the usefulness of the app.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Studies of text messaging efforts have shown high rates of parent engagement and positive outcomes for middle school students as well as for preschoolers. Mobile communication can bridge gaps in understanding and involvement.</li>
-</ul>
+<ol>
+<li>Choose a platform that meets district privacy requirements and offers translation (e.g., Remind, ClassDojo, Seesaw).</li>
+<li>Set communication norms at the start of term: what will be sent, how often, and expected response times.</li>
+<li>Send brief, specific progress messages tied to concrete work — task-level and process-level information, not grades alone <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S]</li>
+<li>Invite two-way use: prompt parents to ask questions and share context about the child.</li>
+<li>Provide non-app alternatives (SMS, paper, phone) for families who cannot or prefer not to use the app.</li>
+<li>Periodically review message open rates and family feedback; prune volume to prevent fatigue.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../principles/check-ins/">Check-ins</a> — app messaging is a low-cost vehicle for routine check-ins with students and families</li>
+<li><a href="../action-oriented_feedback/">Action-oriented feedback</a> — progress messages work when they name the next action, not just the outcome</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/check-in/">Check-in</a> — the recurring touchpoint the app operationalizes</li>
+<li><a href="../../elements/feedback/">Feedback</a> — the content that makes messages educationally meaningful</li>
+<li><a href="../../elements/assessment/">Assessment</a> — progress data that grounds individual messages</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="https://www.remind.com">Remind</a> — two-way messaging with translation; the canonical example of this strategy</li>
+<li><a href="https://www.classdojo.com">ClassDojo</a> — class feeds, portfolios, and parent messaging with translation</li>
+<li><a href="https://web.seesaw.me">Seesaw</a> — student work portfolios shared with families, making communication artifact-based</li>
 </ul>
-<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Track message reach and response rates by family, not just messages sent, to detect exclusion.</li>
+<li>Monitor attendance, homework completion, and course performance before and after adoption.</li>
+<li>Survey families annually on usefulness, language access, and preferred channels.</li>
 </ul>
+<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
+<p>Large-scale text-messaging programs show high parent engagement and meaningful effects on student outcomes in early childhood (e.g., READY4K's literacy text program for preschool parents) and on middle schoolers' homework completion and attendance [~M]. Effects are strongest when messages include specific, actionable tips tied to classroom content rather than generic encouragement [~M].</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Kraft, M. A., &amp; Rogers, T. (2015). The underutilized potential of teacher-to-parent communication: Evidence from a field experiment. <em>Economics of Education Review, 47</em>, 49–63. <a href="https://doi.org/10.2139/ssrn.2528688">doi:10.2139/ssrn.2528688</a></li>
+<li>Doss, C., Fahle, E. M., Loeb, S., &amp; York, B. N. (2019). More than just a nudge: Supporting kindergarten parents with differentiated and personalized text messages. <em>Journal of Human Capital, 13</em>(4), 535–563. <a href="https://doi.org/10.3386/w24450">doi:10.3386/w24450</a></li>
+<li>York, B. N., &amp; Loeb, S. (2014). One step at a time: The effects of an early literacy text messaging program for parents of preschoolers. <em>NBER Working Paper No. 20659</em>. <a href="https://doi.org/10.3386/w20659">doi:10.3386/w20659</a></li>
+<li>Epstein, J. L., &amp; Van Voorhis, F. L. (2001). More than minutes: Teachers' roles in designing homework. <em>Educational Psychologist, 36</em>(3), 181–193. <a href="https://doi.org/10.1207/S15326985EP3603_4">doi:10.1207/S15326985EP3603_4</a></li>
 </ul>
 
 

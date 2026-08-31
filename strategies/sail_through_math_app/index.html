@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="A fun math fluency iOS app that uses storytelling to help young learners develop math skills over time.">
+        <meta name="description" content="A pirate-themed iOS app that builds arithmetic fluency in young learners through story-framed, leveled practice with immediate feedback.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,74 +744,80 @@
 
 
 <h1 id="sail-through-math-app">Sail through Math App<a class="headerlink" href="#sail-through-math-app" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>A fun math fluency iOS app that uses storytelling to help young learners develop math skills over time. Offers three different levels for playing with numbers to help kids learning addition, subtraction, multiplication and division. Besides building basic math skills, the app also helps with addition equations, subtraction equations, multiplication equations, two-step equations and some other relatively advanced math facts.  Built with a pirate theme, even has fun background music and cannonballs firing!</p>
+<p>Sail through Math is an iOS app from McGraw-Hill Education that develops arithmetic fluency — addition, subtraction, multiplication, and division, including equations and two-step problems — through a pirate-themed narrative. Learners progress through three difficulty levels, solving math facts and equations embedded in story contexts (firing cannonballs, earning treasure), with the game providing immediate correctness feedback and level progression as performance improves.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>The app exemplifies game-framed <a href="../../elements/practice/">Practice</a> for math facts: fluency with basic combinations frees working memory for higher-order reasoning, and retrieval practice with feedback is the most reliable route to that automaticity <a href="../../claims/spaced-repetition-improves-retention/">Spaced, repeated retrieval practice improves retention.</a> [+S]. Immediate feedback on each answer supports error correction at the task level <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at the task and process levels.</a> [+S]. The three-level structure functions as coarse <a href="../../elements/adaptive-difficulty/">Adaptive Difficulty</a>, keeping problems within a manageable band of challenge <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to the Sail through Math app on an iOS device.</li>
+<li>Access to the Sail through Math app on an iOS device (iPad or iPhone)</li>
+<li>Learners with sufficient decoding ability or adult support to read story prompts</li>
+<li>Periodic adult monitoring of which level a learner is working at, since self-pacing can stall at easy levels</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Limited to iOS devices.</li>
+<li>Limited to iOS devices; no web or Android version, restricting classroom deployment</li>
+<li>The narrative theme is decorative rather than integral — the stories frame problems but do not change the underlying mathematics, so engagement gains may fade once novelty wears off [~W]</li>
+<li>Drill-based fact practice alone does not build conceptual understanding of operations; it must be paired with instruction on number relationships [-S] — overreliance on timed fact apps can produce math anxiety in some young learners [~M]</li>
+<li>Three fixed levels provide limited adaptation compared with fully adaptive systems; learners far above or below a level band get little benefit</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Use as a station-rotation activity (10–15 min sessions) rather than whole-class instruction</li>
+<li>Pair with concrete manipulatives or number talks so fact retrieval is connected to conceptual models</li>
+<li>Use level completion data as a formative checkpoint in <a href="../../elements/assess-performance/">Assess Performance</a> routines</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Young learners.</li>
+<li>Early elementary learners (roughly ages 6–10) building initial fluency with the four operations</li>
+<li>Learners who benefit from low-stakes, high-repetition practice with immediate feedback <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at the task and process levels.</a> [+S]</li>
+<li>Less suitable for learners who already have fluent fact retrieval (redundant practice) or who need conceptual reteaching rather than drill</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Develop math skills with storytelling.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Storytelling and interactive user interface, pirate theme, engaging background music.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Three levels for learning addition, subtraction, multiplication, and division.</li>
+<li>Automatic recall of basic math facts across the four operations</li>
+<li>Solving one- and two-step equations</li>
+<li>Fluency as a prerequisite for later problem solving — automaticity reduces cognitive load during complex tasks <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide Feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Measure fluency in math facts and success in completing levels.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Develops math skills through storytelling in a fun and interactive environment.</li>
-</ul>
+<ol>
+<li>Set the learner at the appropriate level (addition/subtraction for early grades; multiplication/division later) and model one session so learners understand the story framing and feedback signals.</li>
+<li>Schedule short, regular practice sessions — distributed practice outperforms massed sessions for fact retention <a href="../../claims/spaced-repetition-improves-retention/">Spaced, repeated retrieval practice improves retention.</a> [+S].</li>
+<li>Have learners <a href="../../elements/practice/">Practice</a> within the app while the system delivers immediate correctness <a href="../../elements/provide-feedback/">Provide Feedback</a> on each response.</li>
+<li>Review level-completion data with the learner to <a href="../../elements/assess-performance/">Assess Performance</a> and adjust level placement or provide targeted offline support for persistent error patterns.</li>
+<li>Connect app practice to classroom instruction — discuss strategies (doubles, make-ten) so retrieval is anchored in understanding.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../timed_math_fact_drills/">Timed math fact drills</a> — the non-digital counterpart; the app gamifies the same retrieval-practice mechanism</li>
+<li><a href="../station_rotation/">Station rotation</a> — a common classroom structure for scheduling short app-based practice blocks</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — the core mechanism; the app is a delivery vehicle for distributed retrieval practice</li>
+<li><a href="../../elements/provide-feedback/">Provide Feedback</a> — immediate per-item feedback is the app's primary instructional lever</li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — level progression provides built-in performance data</li>
+<li><a href="../../elements/adaptive-difficulty/">Adaptive Difficulty</a> — the three-level structure approximates difficulty calibration</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="https://apps.apple.com/us/app/everyday-mathematics-sail-through-math/id465271965">Sail through Math (McGraw-Hill, iOS App Store)</a></li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Using the pirate-themed app to learn addition, subtraction, multiplication, and division through engaging stories.</li>
+<li>A second-grade classroom uses Sail through Math as a 10-minute morning station three times per week; the teacher reviews level-completion data weekly to identify students needing small-group support with subtraction regrouping.</li>
+<li>A parent uses the app at home over summer break to maintain multiplication fluency, with the pirate narrative sustaining engagement across sessions.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>National Mathematics Advisory Panel. (2008). <em>Foundations for success: The final report of the National Mathematics Advisory Panel</em>. U.S. Department of Education.</li>
+<li>Shin, N., Sutherland, L. M., Norris, C. A., &amp; Soloway, E. (2012). Effects of game technology on elementary student learning in mathematics. <em>British Journal of Educational Technology, 43</em>(4), 540–560. <a href="https://doi.org/10.1111/j.1467-8535.2011.01197.x">doi:10.1111/j.1467-8535.2011.01197.x</a></li>
+<li>Outhwaite, L. A., Faulder, M., Gulliford, A., &amp; Pitchford, N. J. (2019). Raising early achievement in math with interactive apps: A randomized control trial. <em>Journal of Educational Psychology, 111</em>(2), 284–298. <a href="https://doi.org/10.1037/edu0000286">doi:10.1037/edu0000286</a></li>
+<li>Baroody, A. J., Bajwa, N. P., &amp; Eiland, M. (2009). Why can't Johnny remember the basic facts? <em>Developmental Disabilities Research Reviews, 15</em>(1), 69–79. <a href="https://doi.org/10.1002/ddrr.45">doi:10.1002/ddrr.45</a></li>
 </ul>
 
 

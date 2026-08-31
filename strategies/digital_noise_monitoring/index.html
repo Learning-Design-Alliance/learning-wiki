@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Digital noise monitoring involves using apps or devices like Super Sound Box, Class Dojo, or Too Noisy to detect and signal excessive noise levels in the classroom.">
+        <meta name="description" content="Digital noise monitoring uses apps or devices to detect and signal excessive classroom noise, giving students real-time feedback to support self-regulation of the sound environment.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,73 +744,86 @@
 
 
 <h1 id="digital-noise-monitoring">Digital Noise Monitoring<a class="headerlink" href="#digital-noise-monitoring" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Digital noise monitoring involves using apps or devices like Super Sound Box, Class Dojo, or Too Noisy to detect and signal excessive noise levels in the classroom. These tools provide auditory or visual cues when the noise exceeds a predetermined threshold, helping students self-regulate their behavior and maintain a quieter learning environment.</p>
+<p>Digital noise monitoring involves using apps or devices (e.g., Too Noisy, Bouncy Balls, ClassDojo's noise meter) to detect ambient sound levels and signal when they exceed a predetermined threshold, typically via visual displays (a meter, changing colors, an animated face) or auditory cues. The tool externalizes an otherwise implicit classroom norm — "quiet enough" — into a continuously visible signal, shifting some regulation of the sound environment from teacher intervention to student self-monitoring.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Noise monitoring works as a form of automated, objective <a href="../../elements/provide-feedback/">feedback</a>: it converts a diffuse behavioral expectation into an immediate, unambiguous signal, which supports self-regulation far better than delayed verbal reprimands <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective when it addresses the task or process level and is timely.</a> [+M]. It also protects learning conditions directly: chronic background noise degrades speech intelligibility and working-memory-dependent comprehension, especially for younger children <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning outcomes.</a> [+S]. The tool is a management aid, not a pedagogy — its value depends on pairing the signal with taught expectations and reinforcement.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to digital devices or apps, setup and calibration of noise monitoring tools, clear explanation of noise level expectations.</li>
+<li>A device with a microphone positioned to sample the room fairly (not next to the loudest table or the HVAC vent)</li>
+<li>Explicit teaching of what each signal level means and which behaviors correspond to it (silent reading vs. pair talk vs. group work)</li>
+<li>A consistent, pre-agreed consequence or reinforcement routine when the threshold is crossed</li>
+<li>Calibration of the threshold per activity — a single "quiet" standard for all activities defeats the purpose</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May be distracting or disruptive if not implemented properly, requires technical setup and maintenance, some students may ignore the cues.</li>
+<li>The display itself can become a distraction or a game — students may test the meter, shout to trigger it, or watch it instead of working [-M]</li>
+<li>Public, normative signaling can shame students with sensory sensitivities, anxiety, or self-regulation difficulties (e.g., ADHD, autism) [~M]</li>
+<li>Thresholds set too low create constant triggering and habituation, after which the cue loses all salience [-M]</li>
+<li>Requires working hardware and microphone calibration; a malfunctioning meter undermines the credibility of the whole routine</li>
+<li>Addresses the symptom (volume) not the cause (unclear task structure, off-task behavior, poor transitions)</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Visual-only</strong> displays (color meters, animated characters) avoid adding auditory interruptions to an already noisy room</li>
+<li><strong>Student-facing vs. teacher-facing</strong>: projecting the meter makes it a collective self-regulation tool; keeping it private preserves teacher discretion</li>
+<li><strong>Reinforcement-linked</strong>: pairing the meter with a group contingency (e.g., class earns minutes toward a privilege when the level stays in range) substantially increases effectiveness [+M]</li>
+<li><strong>Transition-specific use</strong>: running the monitor only during transitions or independent work, rather than all day, reduces habituation</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>K-12 educators</li>
+<li>K–12 classrooms, especially early years and primary, where noise norms are still being established</li>
+<li>Students developing self-regulation: the external signal acts as a prosthetic monitor until internal monitoring matures [+M]</li>
+<li>Use caution with students sensitive to public behavioral signaling; offer private or individualized alternatives [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Monitor classroom noise levels, promote self-regulation, create a quieter learning environment</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides real-time feedback on noise levels, encourages self-regulation, reduces the need for constant teacher intervention.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Noise threshold can be adjusted to fit different activities and classroom environments. Visual or auditory cues can be customized to student preferences.</li>
+<li>Classroom climate: maintaining conditions for <a href="../../principles/cognitive-load-management/">cognitive load management</a> by limiting irrelevant sound</li>
+<li>Self-regulation: practicing monitoring and adjusting behavior against an external standard</li>
+<li>Procedural fluency in classroom routines (transitions, group work norms)</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track noise levels over time using monitoring tools. Observe student responses to auditory or visual cues.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Digital noise monitoring can improve classroom management by providing real-time feedback and promoting self-regulation, leading to a quieter and more focused learning environment.</li>
-</ul>
+<ol>
+<li>Set and teach the noise scale: define what "silent," "whisper," "partner," and "group" levels sound like, ideally with student demonstration (<a href="../../elements/modeling/">Modeling</a>)</li>
+<li>Calibrate the tool per activity type and position the microphone centrally</li>
+<li>Introduce the display with a brief trial period; let students observe the meter respond to their own voices</li>
+<li>Pair the signal with a consistent reinforcement routine (<a href="../../elements/reinforcement/">Reinforcement</a>) — group contingency or individual recognition</li>
+<li>Fade the display over time (<a href="../../elements/fading/">Fading</a>), checking whether the class maintains levels without it; the goal is internalized norms, not permanent dependence on the meter</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../acoustics_and_noise_management/">Acoustics and Noise Management</a> — the broader physical and architectural approach; digital monitoring is one tactic within it</li>
+<li><a href="../group-contingency/">Group Contingency</a> — the reinforcement structure that makes the shared signal consequential</li>
+<li><a href="../../elements/check-in/">Check-In</a> — periodic teacher-led climate monitoring that complements automated noise data</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/provide-feedback/">Provide Feedback</a> — the meter is automated, continuous feedback on a behavioral variable</li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — logged noise data can serve as a low-stakes behavioral record</li>
+<li><a href="../../elements/fading/">Fading</a> — progressive removal of the external signal as self-regulation develops</li>
+<li><a href="../../elements/reinforcement/">Reinforcement</a> — the consequence layer that gives the signal meaning</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="https://tonoisyapp.com">Too Noisy</a> — meter app with visual feedback for projected classroom display</li>
+<li><a href="https://bouncyballs.org">Bouncy Balls</a> — free browser-based visualizer; balls bounce in response to sound</li>
+<li><a href="https://www.classdojo.com">ClassDojo</a> — includes a noise meter within a broader classroom management platform</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>A Year 3 teacher projects Bouncy Balls during independent reading, with the class earning one minute of Friday game time per day the balls stay "calm"; the display is removed after four weeks once norms hold</li>
+<li>A middle school science teacher runs Too Noisy only during lab transitions, with thresholds set higher than for reading, teaching students that different activities carry different sound norms</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Shield, B. M., &amp; Dockrell, J. E. (2003). The effects of noise on children at school: A review. <em>Building Acoustics, 10</em>(2), 97–116. <a href="https://doi.org/10.1260/135101003768965960">doi:10.1260/135101003768965960</a></li>
+<li>Bruhn, A. L., McDaniel, S. C., Kreigh, C., &amp; Barton, E. (2015). Self-monitoring interventions for students with behavior problems: A systematic review of current research. <em>Behavioral Disorders, 40</em>(2), 102–117. <a href="https://doi.org/10.17988/bd-13-45.1">doi:10.17988/bd-13-45.1</a></li>
+<li>Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Educational Research, 77</em>(1), 81–112. <a href="https://doi.org/10.3102/003465430298487">doi:10.3102/003465430298487</a></li>
+<li>Litow, L., &amp; Pumroy, D. K. (1975). A brief review of classroom group-oriented contingencies. <em>Journal of Applied Behavior Analysis, 8</em>(3), 341–347. <a href="https://doi.org/10.1901/jaba.1975.8-341">doi:10.1901/jaba.1975.8-341</a></li>
 </ul>
 
 

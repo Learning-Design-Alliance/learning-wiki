@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,75 +722,76 @@
 
 
 <h1 id="multiple-modalities-for-perceiving-information">Multiple Modalities for Perceiving Information<a class="headerlink" href="#multiple-modalities-for-perceiving-information" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Sharing information through various modalities beyond text and images, such as audio, video, simulations, or interactive models. This approach ensures that learners with different sensory preferences and abilities can access the content effectively. It involves presenting information in multiple formats to cater to diverse learning styles.</p>
+<p>Presenting information in more than one sensory format — text, audio, video, diagrams, animations, simulations, or interactive models — so learners can access content through the channel best suited to the material, the task, and their abilities. The goal is not decoration or preference-matching but complementary representation: each modality should carry part of the meaning or make the same meaning accessible in a different way.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Pairing words with relevant pictures or narration improves learning compared with words alone, because verbal and visual channels are processed separately and can share the load <a href="../../claims/dual-coding-improves-recall/">Dual coding improves recall when verbal and visual representations are integrated.</a> [+S]. The benefit is conditional, however: modalities must be <em>complementary and integrated</em>, not redundant or competing. Presenting identical text on screen while narrating it, or adding decorative images, adds load without adding meaning <a href="../../claims/decorative-illustrations-do-not-improve-learning/">Decorative illustrations do not improve learning.</a> [-S]. Poorly combined modalities can overload working memory and degrade learning <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning when demands exceed working memory capacity.</a> [-S].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Diverse multimedia resources, software for creating and delivering content in multiple formats, and awareness of learner preferences.</li>
+<li>A clear analysis of which content is inherently visual, verbal, spatial, or dynamic, so modality choices follow the content rather than novelty</li>
+<li>Integration of modalities: captions near visuals, narration synchronized with animation, not separated in time or space</li>
+<li>Accessible alternatives for every modality — captions, transcripts, alt text, keyboard-navigable interactives — so multiple modalities function as access routes, not barriers</li>
+<li>Alignment with <a href="../../principles/cognitive-load-management/">Cognitive Load Management</a>: each added modality must earn its place by reducing extraneous load or adding representational power</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires careful design to ensure coherence across modalities. Some learners may be overwhelmed by too many options.</li>
+<li>Redundant modality pairing (identical on-screen text plus narration) can <em>hurt</em> learning by forcing parallel processing of duplicate verbal input [~S]</li>
+<li>Adding a second modality does not help when the first already suffices; extra channels consume limited working memory <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning when demands exceed working memory capacity.</a> [-S]</li>
+<li>The "learning styles" rationale — matching modality to a learner's preferred style — lacks supporting evidence; modality should match the <em>content</em>, not a presumed style [X]</li>
+<li>Interactive simulations and 3D models impose high extraneous load for novices without guidance or orientation</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Sequential alternatives</strong>: the same content offered as text, podcast, and video, with learners choosing one route (accessibility and flexibility function)</li>
+<li><strong>Complementary combination</strong>: narration plus diagram, where each channel carries different information (multimedia principle)</li>
+<li><strong>Interactive representation</strong>: simulations and manipulable models where learners generate the visual dynamic themselves</li>
+<li><strong>Temporal adaptation</strong>: video for processes that unfold over time; static diagrams for structures that benefit from simultaneous inspection</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learners, especially those with sensory disabilities (e.g., blindness or deafness), learning disabilities, and diverse cultural backgrounds.</li>
+<li>Learners with sensory disabilities or language-processing differences, for whom alternative modalities are an access requirement rather than an enhancement [+M]</li>
+<li>Novices learning spatially or dynamically complex content (e.g., circulatory systems, mechanical processes), who benefit from animation plus narration [+M]</li>
+<li>Second-language learners, who benefit from captions pairing speech with text [+W]</li>
+<li>Less beneficial — and sometimes harmful — when modality is added merely to match a self-reported preference, or for learners who already have fluent text-based strategies [~W]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Enhance comprehension, support diverse learning styles, improve engagement, accommodate sensory preferences and abilities</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Caters to various learning styles. Improves accessibility for learners with sensory impairments. Enhances understanding through multiple representations.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Offer content in text, audio, video, and interactive formats. Allow learners to choose the modalities that best suit their needs and preferences.</li>
+<li>Conceptual understanding of systems, structures, and dynamic processes</li>
+<li>Retention of verbally and visually coded information <a href="../../claims/dual-coding-improves-recall/">Dual coding improves recall when verbal and visual representations are integrated.</a> [+S]</li>
+<li>Accessibility and equitable participation across abilities</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/application/">Application</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Measure learner engagement with different modalities. Gather feedback on the effectiveness of each modality in supporting learning. Assess learner performance across different modalities.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Enhanced learning outcomes: Studies indicate that using multiple modalities can improve comprehension and retention, particularly for learners with diverse learning styles and abilities.</li>
-</ul>
+<ol>
+<li>Analyze the content: identify what is inherently verbal, visual, or dynamic, and let that drive modality selection</li>
+<li>Prepare the core representation in the most load-appropriate channel (e.g., narration for dynamic process, <a href="../../principles/chunking/">Chunking</a> of text for dense information)</li>
+<li>Add a complementary representation in a second channel — diagram, animation, or physical model — integrated spatially and temporally with the first</li>
+<li>Provide accessible equivalents: captions, transcripts, alt text, tactile or audio alternatives</li>
+<li>Give learners guided interaction with the representation — <a href="../../elements/practice/">Practice</a> interpreting, manipulating, or reproducing it — rather than passive viewing</li>
+<li>Apply and assess: require learners to use the representations in an <a href="../../elements/application/">Application</a> task and check comprehension across modalities</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li>Activating prior knowledge — preparing learners before a complex multimodal presentation reduces the load of interpreting a new representation</li>
+<li>Accessible vocabulary and syntax — the textual counterpart to modality accessibility; both remove unnecessary processing barriers</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>PhET Interactive Simulations</strong> (https://phet.colorado.edu) — research-validated physics and chemistry simulations combining visual manipulation with optional guided-inquiry activities; widely used for dynamic processes that static text cannot show</li>
+<li><strong>Khan Academy</strong> (https://www.khanacademy.org) — narrated video with synchronized visual work, plus transcripts and captions, exemplifying complementary narration-and-visual pairing</li>
+<li><strong>CAST UDL Guidelines</strong> (https://udlguidelines.cast.org) — the "multiple means of representation" principle operationalizes this strategy as a universal design requirement, with concrete accessibility checkpoints</li>
+<li><strong>Newsela</strong> (https://www.newsela.com) — leveled text alternatives to the same article, illustrating modality/difficulty alternatives for access rather than decoration</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Mayer, R. E. (2021). <em>Multimedia Learning</em> (3rd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/9781316941355">doi:10.1017/9781316941355</a></li>
+<li>Paivio, A. (1986). <em>Mental Representations: A Dual Coding Approach</em>. Oxford University Press.</li>
+<li>Moreno, R., &amp; Mayer, R. E. (2007). Interactive multimodal learning environments. <em>Educational Psychology Review, 19</em>(3), 309–326. <a href="https://doi.org/10.1007/s10648-007-9047-2">doi:10.1007/s10648-007-9047-2</a></li>
+<li>Pashler, H., McDaniel, M., Rohrer, D., &amp; Bjork, R. (2008). Learning styles: Concepts and evidence. <em>Psychological Science in the Public Interest, 9</em>(3), 105–119. <a href="https://doi.org/10.1111/j.1539-6053.2009.01038.x">doi:10.1111/j.1539-6053.2009.01038.x</a></li>
+<li>Clark, R. C., &amp; Mayer, R. E. (2016). <em>E-Learning and the Science of Instruction</em> (4th ed.). Wiley. <a href="https://doi.org/10.1002/9781119239086">doi:10.1002/9781119239086</a></li>
 </ul>
 
 

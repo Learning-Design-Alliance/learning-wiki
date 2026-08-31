@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Leaderboards showcase the distribution of point totals that learners have accumulated through various learning activities.">
+        <meta name="description" content="Leaderboards showcase the distribution of point totals that learners have accumulated through various learning activities, leveraging competition to drive engagement.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,73 +733,81 @@
 
 
 <h1 id="leaderboards">Leaderboards<a class="headerlink" href="#leaderboards" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Leaderboards showcase the distribution of point totals that learners have accumulated through various learning activities. Competition can motivate learners and can be leveraged by leaderboards. To avoid discouraging students who are performing poorly, instructors can consider using a system in which learners see only the two students who are directly above them and below them.</p>
+<p>Leaderboards rank learners by points accumulated through learning activities such as quizzes, discussions, or practice sets, providing a visible representation of relative progress. They are a core gamification mechanic: competition can motivate some learners, but full public ranking can demoralize those at the bottom. A common mitigation is a "relative" leaderboard in which each learner sees only the participants directly above and below them, reframing the display as actionable next steps rather than a verdict on ability.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Leaderboards operate on competitive and achievement-based motivation, which reliably increases engagement with the <em>activity</em> but does not automatically increase learning of the <em>content</em> [~M]. Meta-analytic evidence on gamification shows significant positive cognitive, motivational, and behavioral effects on average, but with substantial heterogeneity driven by design and context <a href="https://doi.org/10.1007/s10648-019-09498-w">Sailer &amp; Homner meta-analysis</a> [+M]. Because points are outcome-oriented, leaderboards can pull attention away from mastery; for novices, process goals tend to outperform outcome goals <a href="../../claims/process-goals-outperform-outcome-goals-for-novices/">Process goals outperform outcome goals for novices.</a> [+M]. Design should therefore reward controllable behaviors (attempts, revisions, streaks of practice) rather than raw rank alone.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Use of digital tools to track and display scores. Clear criteria for earning points. Careful monitoring to ensure fair competition.</li>
+<li>Digital tools to track and display scores transparently and accurately</li>
+<li>Clear, published criteria for how points are earned, so the leaderboard reflects valued learning behaviors rather than gaming the metric</li>
+<li>Careful monitoring to ensure fair competition and to catch disengagement among low-ranked learners</li>
+<li>A feedback channel so rankings connect to <a href="../../elements/provide-feedback/">Feedback</a> about <em>what to improve</em>, not just where one stands</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Can be demotivating for learners at the bottom. May lead to a focus on competition rather than learning. Requires careful management to avoid creating a negative classroom environment.</li>
+<li>Full public ranking is a disincentive for learners at the bottom; visible low rank can depress self-efficacy, which predicts persistence <a href="../../claims/self-efficacy-predicts-academic-persistence/">Self-efficacy predicts academic persistence.</a> [-M]</li>
+<li>Competition can crowd out intrinsic motivation when learners perceive the reward as the point <a href="../../claims/autonomy-supports-intrinsic-motivation/">Autonomy supports intrinsic motivation.</a> [-M] — a field study found a leaderboard course section produced lower intrinsic motivation, satisfaction, and exam performance than a non-gamified section <a href="https://doi.org/10.1016/j.compedu.2014.08.019">Hanus &amp; Fox (2015)</a> [-M]</li>
+<li>Points for volume (posts, logins) can shift focus from learning to point accumulation [-M]</li>
+<li>Effects fade over time; novelty-driven engagement gains often decay after a few weeks [~W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Relative leaderboards</strong>: each learner sees only the two adjacent ranks, converting the display into an attainable next target</li>
+<li><strong>Team leaderboards</strong>: aggregate scores across small groups, adding accountability while shielding individuals from public bottom-rank exposure</li>
+<li><strong>Multiple boards</strong>: separate rankings for effort, improvement, and accuracy so different learners can appear at the top</li>
+<li><strong>Opt-in or private ranking</strong>: learners see their own percentile without a public list, preserving progress visibility without social comparison</li>
+<li><strong>Resetting periods</strong>: weekly or unit-level resets keep entry points attainable for late starters</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learner levels, with caution for those sensitive to competition</li>
+<li>Learners motivated by competition and social comparison, typically those with moderate-to-high self-efficacy [+W]</li>
+<li>Learners who benefit from a concrete visual representation of progress toward goals <a href="../../claims/task-value-increases-motivation-and-engagement/">Task value increases motivation and engagement.</a> [+M]</li>
+<li>Use caution with learners sensitive to competition, low-performing students, and those with low self-efficacy, for whom visible bottom ranks can be actively harmful [-M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Motivate learners through competition. Provide visual representation of progress. Encourage engagement with learning activities.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Leverages competitive spirit to drive engagement. Provides a clear visual representation of learner progress. Encourages learners to strive for higher achievement.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Instructors can choose to display only a limited range of scores. Learners can focus on improving their own performance rather than comparing themselves to others.</li>
+<li>Engagement and participation in routine practice activities (drills, quizzes, discussion)</li>
+<li>Behavioral persistence: sustaining regular engagement over a course or term</li>
+<li>Not well suited to deep conceptual learning or creative work, where quality resists point quantification [~M]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track learner participation and engagement with leaderboard activities. Compare leaderboard rankings with learning outcomes. Gather feedback on the impact of the leaderboard.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Displaying all learners in order of point totals can be a disincentive for learners at the bottom.</li>
-</ul>
+<ol>
+<li>Define the behaviors worth rewarding and publish transparent point criteria, tied to <a href="../../elements/assess-performance/">Assess Performance</a></li>
+<li>Award points for controllable, learning-relevant actions (completing practice, revising after <a href="../../elements/provide-feedback/">Feedback</a>) rather than raw speed or volume</li>
+<li>Choose a display mode — full, relative, team, or private — based on your learners' sensitivity to social comparison</li>
+<li>Pair every ranking with actionable feedback so learners know <em>what to do next</em>, not just where they stand</li>
+<li>Monitor participation and outcomes, and gather learner feedback on the leaderboard's motivational impact; retire or restructure it if it demotivates a segment of the class</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Badges and achievements — complementary gamification mechanics that reward milestones without public ranking</li>
+<li>Streaks and daily goals — reward consistency rather than relative standing</li>
+<li>Team-based competition — shifts comparison from individual to group level</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — the scoring mechanism that feeds the leaderboard</li>
+<li><a href="../../elements/provide-feedback/">Provide Feedback</a> — rankings must connect to improvement information to support learning rather than mere competition</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Displaying a leaderboard showing the top scores in a quiz. Creating a leaderboard showing the most active participants in a discussion forum. Using a system where learners only see the scores of those directly above and below them.</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — energy-point totals and avatar badges reward practice volume; points accrue from exercises and videos rather than public rank alone</li>
+<li><strong><a href="https://www.duolingo.com">Duolingo</a></strong> — weekly leagues place each learner in a small cohort of ~30, an implementation of the relative-leaderboard design that limits visible comparison range</li>
+<li><strong><a href="https://kahoot.com">Kahoot!</a></strong> — post-quiz leaderboards display top five scorers after each question, using short-lived, low-stakes competition within a single session</li>
+<li>A discussion forum leaderboard showing most active participants — effective only if activity criteria reward substantive contribution rather than post count</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Sailer, M., &amp; Homner, L. (2020). The gamification of learning: A meta-analysis. <em>Educational Psychology Review, 32</em>(1), 77–112. <a href="https://doi.org/10.1007/s10648-019-09498-w">doi:10.1007/s10648-019-09498-w</a></li>
+<li>Hanus, M. D., &amp; Fox, J. (2015). Assessing the effects of gamification in the classroom: A longitudinal study on intrinsic motivation, social comparison, satisfaction, effort, and academic performance. <em>Computers &amp; Education, 80</em>, 152–161. <a href="https://doi.org/10.1016/j.compedu.2014.08.019">doi:10.1016/j.compedu.2014.08.019</a></li>
+<li>Domínguez, A., Saenz-de-Navarrete, J., de-Marcos, L., Fernández-Sanz, L., Pagés, C., &amp; Martínez-Herráiz, J.-J. (2013). Gamifying learning experiences: Practical implications and outcomes. <em>Computers &amp; Education, 63</em>, 380–392. <a href="https://doi.org/10.1016/j.compedu.2012.12.034">doi:10.1016/j.compedu.2012.12.034</a></li>
+<li>Deterding, S., Dixon, D., Khaled, R., &amp; Nacke, L. (2011). From game design elements to gamefulness: Defining "gamification." <em>Proceedings of the 15th International Academic MindTrek Conference</em>, 9–15. <a href="https://doi.org/10.1145/2181037.2181040">doi:10.1145/2181037.2181040</a></li>
+<li>Hamari, J., Koivisto, J., &amp; Sarsa, H. (2014). Does gamification work? A literature review of empirical studies on gamification. <em>Proceedings of the 47th Hawaii International Conference on System Sciences</em>, 3025–3034. <a href="https://doi.org/10.1109/HICSS.2014.377">doi:10.1109/HICSS.2014.377</a></li>
 </ul>
 
 

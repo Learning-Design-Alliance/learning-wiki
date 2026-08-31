@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Dual color highlighting is a feature within text-to-speech software that highlights words being read aloud in one color (e.g., yellow) while highlighting the sentence in another color.">
+        <meta name="description" content="Dual color highlighting is a text-to-speech feature that highlights the word being read aloud in one color while highlighting the containing sentence in another, synchronizing auditory and visual input during reading.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +722,73 @@
 
 
 <h1 id="dual-color-highlighting">Dual Color Highlighting<a class="headerlink" href="#dual-color-highlighting" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Dual color highlighting is a feature within text-to-speech software that highlights words being read aloud in one color (e.g., yellow) while highlighting the sentence in another color. This multisensory approach activates both verbal and visual Working Memory and enhances Visual Processing skills by tracking the spoken word in a distinct color from the sentence.</p>
+<p>Dual color highlighting is a feature within text-to-speech software that highlights the word currently being read aloud in one color (e.g., yellow) while highlighting the containing sentence in another color (e.g., blue). This creates a bimodal reading condition in which learners see and hear the text simultaneously, with the two-color scheme providing both word-level tracking and sentence-level context. It operationalizes multimedia learning principles by pairing spoken and written verbal input with visual attention cues <a href="../../claims/media-combinations-affect-recall-and-retention/">Combining spoken and written presentation affects recall and retention depending on modality conditions.</a> [~M].</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Dual color highlighting reduces the working memory demand of visual tracking by externally guiding eye movements to the exact word being spoken, freeing capacity for comprehension <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S]. The sentence-level highlight supplies context that word-only highlighting lacks, supporting prosodic parsing and phrase-level meaning. Effectiveness depends on the emphasis directing attention to the right unit at the right time — the word highlight must track the audio precisely or the cue becomes misleading <a href="../../claims/relevancy-of-emphasis-directs-attention/">Relevant emphasis directs learner attention to content.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Text-to-speech software with dual color highlighting feature, computer or mobile device, and digital text.</li>
+<li>Text-to-speech software with synchronized dual-color highlighting (e.g., <a href="https://www.texthelp.com/products/readwrite/">Read&amp;Write</a>, <a href="https://www.clarosoftware.com">ClaroRead</a>, <a href="https://www.voicedream.com">Voice Dream Reader</a>)</li>
+<li>Digital text in an accessible format; adjustable reading speed so audio and highlight remain synchronized</li>
+<li>Learner orientation to the color scheme: which color marks the word, which marks the sentence</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May be visually distracting for some learners, requiring careful adjustment of colors and settings. Effectiveness depends on the clarity and coherence of the text and the learner's visual processing abilities.</li>
+<li>Poorly synchronized highlighting disrupts rather than supports tracking; even small audio-visual lag forces learners to re-locate their place [-M]</li>
+<li>Learners with strong decoding skills may find the visual motion distracting and comprehension may drop relative to silent reading [~W]</li>
+<li>Bimodal (simultaneous spoken + written) presentation can produce redundancy effects for fluent readers, adding load rather than reducing it [~S]</li>
+<li>Effectiveness drops with low-quality text, dense layout, or small displays where sentence boundaries are hard to see</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Word-only vs. word-plus-sentence highlighting; some tools offer phrase or paragraph units</li>
+<li>Adjustable color contrast, font size, and reading speed; karaoke-style (word) highlighting is common in early-literacy apps</li>
+<li>Can be combined with <a href="../../principles/annotating/">Annotating</a> so learners mark text while it is read aloud</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Learners with reading difficulties, visual processing challenges, or attention deficits; K-12 students, higher education students, adult learners.</li>
+<li>Struggling readers and learners with dyslexia, who benefit from bimodal input and reduced tracking demand <a href="https://doi.org/10.1177/002221949602900305">Bimodal reading with talking computers improves comprehension for less skilled readers.</a> [+M]</li>
+<li>Beginning readers building print-to-sound mapping and left-to-right tracking</li>
+<li>Learners with attention difficulties, where the moving highlight anchors visual attention</li>
+<li>Less beneficial for fluent readers, for whom synchronized text and audio can be redundant [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Enhance visual tracking skills, improve focus during reading, support multisensory learning, increase engagement with text, and improve reading comprehension by linking auditory and visual stimuli.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides visual reinforcement of auditory input, reduces cognitive load by visually tracking the spoken word, improves reading fluency, and strengthens the connection between visual and auditory information.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Allows customization of highlight colors, font sizes, and reading speed. Some software offers options to highlight by word, sentence, or paragraph, catering to individual preferences and needs.</li>
+<li>Decoding and word recognition: linking spoken and written word forms</li>
+<li>Reading fluency: modeling pacing and phrase boundaries via sentence highlighting</li>
+<li>Comprehension: freeing working memory from tracking so capacity goes to meaning-making</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track improvements in reading speed, accuracy, and comprehension. Observe increased focus and engagement during reading tasks. Collect student feedback on the usability and helpfulness of the dual color highlighting feature.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Studies suggest that dual color highlighting improves reading comprehension and fluency, particularly for students with reading difficulties. The visual cue supports tracking and reinforces the connection between spoken and written words. Source: Research on multisensory reading interventions.</li>
-</ul>
+<ol>
+<li>Select digital text and open it in text-to-speech software with dual color highlighting enabled.</li>
+<li>Configure the color scheme and reading speed with the learner; confirm the word highlight tracks the audio accurately.</li>
+<li>Model one read-through, pointing out that the word color shows "where we are" and the sentence color shows "what we're in."</li>
+<li>Have the learner read along with the audio, following the highlights (<a href="../../elements/practice/">Practice</a>).</li>
+<li>Re-read the passage without audio, then discuss comprehension to check that understanding, not just tracking, improved.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../principles/chunking/">Chunking</a> — sentence-level highlighting groups text into meaningful units, the same principle applied to reading units</li>
+<li><a href="../../principles/annotating/">Annotating</a> — highlighting is a system-driven form of text marking; learner-driven marking complements it</li>
+<li><a href="../../principles/audiobooks/">Audiobooks</a> — dual color highlighting adds synchronized visual tracking to audio-only reading</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong><a href="https://www.texthelp.com/products/readwrite/">Read&amp;Write (Texthelp)</a></strong> — toolbar for docs and web with configurable dual-color highlighting; widely used in K-12 special education and UDL implementations.</li>
+<li><strong><a href="https://www.clarosoftware.com">ClaroRead</a></strong> — word and sentence highlighting with adjustable colors and speaking rate across Word, PDF, and browser text.</li>
+<li><strong><a href="https://www.voicedream.com">Voice Dream Reader</a></strong> — mobile reader offering karaoke-style word highlighting plus sentence highlighting for accessible reading.</li>
+<li><strong><a href="https://learningally.org">Learning Ally</a></strong> — audiobook platform for students with reading disabilities that synchronizes highlighted text with human-recorded audio.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Montali, J., &amp; Lewandowski, L. (1996). Bimodal reading: Benefits of a talking computer for average and less skilled readers. <em>Journal of Learning Disabilities, 29</em>(3), 271–279. <a href="https://doi.org/10.1177/002221949602900305">doi:10.1177/002221949602900305</a></li>
+<li>Mayer, R. E. (2009). <em>Multimedia Learning</em> (2nd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/CBO9780511811678">doi:10.1017/CBO9780511811678</a></li>
+<li>Takacs, Z. K., Swart, E. K., &amp; Bus, A. G. (2015). Transfer and retention of transfer of multimedia features in multimedia learning. <em>Review of Educational Research, 85</em>(4), 581–620. <a href="https://doi.org/10.3102/0034654314566171">doi:10.3102/0034654314566171</a></li>
+<li>Paivio, A. (1986). <em>Mental Representations: A Dual Coding Approach</em>. Oxford University Press.</li>
 </ul>
 
 

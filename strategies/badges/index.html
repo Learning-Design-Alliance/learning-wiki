@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Badges are a digital way to acknowledge learner work.">
+        <meta name="description" content="Badges are digital credentials that acknowledge learner work, awarded for achievement levels or additional contributions such as submitting drafts or sharing notes.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,73 +733,82 @@
 
 
 <h1 id="badges">Badges<a class="headerlink" href="#badges" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Badges are a digital way to acknowledge learner work. Learners can receive a badge if they achieve certain levels of success on assignments, or if they do additional work, such as submitting a draft or sharing notes with another learner. Badges may be displayed to other learners in the class as a means to encourage competition or to demonstrate the variety of badges which can be earned.</p>
+<p>Badges are a digital way to acknowledge learner work. Learners can receive a badge if they achieve certain levels of success on assignments, or if they do additional work, such as submitting a draft or sharing notes with another learner. Badges may be displayed to other learners in the class as a means to encourage competition or to demonstrate the variety of badges which can be earned. Well-designed badges function as micro-credentials: they carry explicit criteria and evidence, making them closer to <a href="../../principles/competency-based-assessment/">Competency-Based Assessment</a> than to simple participation rewards.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Badges operate as extrinsic motivators, and their effect on learning depends almost entirely on what they signal and how they are framed. Badges tied to meaningful performance criteria can support engagement and goal-directed effort <a href="../../claims/task-value-increases-motivation-and-engagement/">task value increases motivation and engagement</a> [+M], but rewards for activities learners already find interesting can undermine intrinsic motivation <a href="../../claims/autonomy-supports-intrinsic-motivation/">autonomy supports intrinsic motivation</a> [~M]. Badges that mark progress toward mastery (e.g., "revised and resubmitted") align better with learning than badges that mark rank or comparison.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Use of badge-making tools (e.g., Credly, OpenBadges). Clear criteria for earning badges. Integration with learning management systems or digital platforms.</li>
+<li>Badge-issuing infrastructure (e.g., <a href="https://info.credly.com">Credly</a>, <a href="https://1edtech.org/standards/open-badges">Open Badges</a> from 1EdTech) or LMS integration (Canvas, Moodle badges)</li>
+<li>Clear, transparent criteria for earning each badge, so the badge represents a verifiable achievement rather than a token</li>
+<li>Alignment between badge criteria and valued learning behaviors, not just completion counts</li>
+<li>A display or portfolio mechanism so badges have social or personal meaning</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May lead to a focus on earning badges rather than learning. Requires careful design to ensure badges represent meaningful achievements. May not be motivating for all learners.</li>
+<li>Badges can shift attention from learning to token accumulation — learners optimize for the reward rather than the underlying goal [~M]</li>
+<li>Expected, contingent rewards for tasks learners already enjoy can reduce intrinsic motivation once rewards stop [~S]</li>
+<li>Public badge displays framed as competition can demotivate lower-performing learners and reduce <a href="../../claims/self-efficacy-predicts-academic-persistence/">self-efficacy</a> [-M]</li>
+<li>Badges awarded for mere participation carry little evidential value and quickly lose motivational force [-W]</li>
+<li>Badge systems require ongoing maintenance; stale or trivially easy badges erode credibility of the whole system [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Achievement badges</strong> — tied to performance levels on assessments; strongest link to learning</li>
+<li><strong>Process badges</strong> — reward productive behaviors (submitting a draft, peer feedback, sharing notes); support self-regulation and process goals <a href="../../claims/process-goals-outperform-outcome-goals-for-novices/">process goals outperform outcome goals for novices</a> [+M]</li>
+<li><strong>Progression badges</strong> — sequenced levels that visualize a learning pathway, similar to leveling in games</li>
+<li><strong>Private vs. public display</strong> — private badges function as progress markers; public badges add social recognition but introduce comparison effects</li>
+<li><strong>Learner-selected display</strong> — letting learners choose which badges to showcase supports autonomy and identity-building</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learner levels</li>
+<li>All learner levels; particularly useful in online and large-enrollment settings where individual recognition is otherwise scarce</li>
+<li>Younger learners and gamification-responsive audiences, though effects vary widely by individual [~W]</li>
+<li>Less effective for learners who find game mechanics juvenile or who are already highly self-regulated [-W]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Acknowledge learner work, reward achievement, encourage participation, demonstrate a variety of achievements.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides visual recognition of accomplishments. Encourages learners to strive for specific achievements. Fosters a sense of accomplishment and pride.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Badges can be tailored to individual learning goals and achievements. Learners can choose which badges to display to showcase their accomplishments.</li>
+<li>Motivation and engagement: encouraging participation and persistence</li>
+<li>Self-regulation: rewarding productive process behaviors such as drafting and revision</li>
+<li>Competency signaling: making achievement levels visible to learners, peers, and (with Open Badges) external audiences</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track badge completion rates. Observe learner engagement with badge-earning activities. Gather feedback on the perceived value of badges.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Badges can be the result of simple participation or acknowledge the achievement of certain levels of success on assignments.</li>
-</ul>
+<ol>
+<li>Define the learning behaviors or achievements worth recognizing, aligned to course goals — not every activity needs a badge.</li>
+<li>Write explicit, verifiable criteria for each badge and publish them in advance.</li>
+<li>Configure badge issuance in your platform (<a href="https://info.credly.com">Credly</a>, Open Badges, or LMS-native badges).</li>
+<li><a href="../../elements/assessment/">Assess performance</a> against the published criteria and issue badges promptly so recognition follows the achievement.</li>
+<li><a href="../../elements/provide-feedback/">Provide feedback</a> alongside badges — a badge should accompany, not replace, substantive feedback on the work.</li>
+<li>Decide on display policy: private progress tracking, learner-curated portfolios, or class-visible boards; prefer learner choice over imposed competition.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../gamification/">Gamification</a> — badges are one of the most common gamification elements; the same motivation caveats apply</li>
+<li><a href="../micro-credentials/">Micro-credentials</a> — badges at institutional scale with external recognition</li>
+<li><a href="../leaderboards/">Leaderboards</a> — a competitive display mechanism often paired with badges, with stronger demotivation risks</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/assessment/">Assessment</a> — badge criteria must be grounded in real assessment of the work</li>
+<li><a href="../../elements/provide-feedback/">Provide Feedback</a> — badges should accompany feedback, not substitute for it</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Receiving a badge for achieving a certain grade on an assignment. Earning a badge for submitting a draft or sharing notes. Displaying badges to encourage competition.</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — energy-point and badge system rewarding practice volume and mastery levels; an early large-scale implementation of badge progression.</li>
+<li><strong><a href="https://1edtech.org/standards/open-badges">Mozilla Open Badges</a></strong> (now 1EdTech standard) — open specification for portable, evidence-linked badges used in professional and higher education credentialing.</li>
+<li><strong><a href="https://info.credly.com">Credly</a></strong> — enterprise badging platform used by universities and professional bodies for stackable micro-credentials.</li>
+<li><strong>Course-level example</strong> — awarding a "Reviser" badge for submitting a revised draft after feedback, rewarding process rather than outcome.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Deci, E. L., Koestner, R., &amp; Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. <em>Psychological Bulletin, 125</em>(6), 627–668. <a href="https://doi.org/10.1037/0033-2909.125.6.627">doi:10.1037/0033-2909.125.6.627</a></li>
+<li>Abramovich, S., Schunn, C., &amp; Higashi, R. M. (2013). Are badges useful in education? It depends upon the type of badge and expertise of learner. <em>Educational Technology Research and Development, 61</em>(2), 217–232. <a href="https://doi.org/10.1007/s11423-013-9289-2">doi:10.1007/s11423-013-9289-2</a></li>
+<li>Gibson, D., Ostashewski, N., Flintoff, K., Grant, S., &amp; Knight, E. (2015). Digital badges in education. <em>Education and Information Technologies, 20</em>(2), 403–410. <a href="https://doi.org/10.1007/s10639-013-9291-7">doi:10.1007/s10639-013-9291-7</a></li>
+<li>Filsecker, M., &amp; Kerres, M. (2014). Engagement as a volitional construct: A framework for evidence-based design of motivational gamification. <em>On the Horizon, 22</em>(3), 171–178. <a href="https://doi.org/10.1108/OTH-04-2014-0013">doi:10.1108/OTH-04-2014-0013</a></li>
 </ul>
 
 

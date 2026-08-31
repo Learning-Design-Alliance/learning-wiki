@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,73 +733,78 @@
 
 
 <h1 id="research-map">Research Map<a class="headerlink" href="#research-map" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>A research map is a visual representation of research topics and their interconnections, allowing users to explore academic literature in a structured and intuitive way. It displays clusters of related articles and topics, with connections indicating shared references or themes. This tool supports learners in navigating complex research landscapes, identifying key areas of study, and understanding the relationships between different concepts. It can enhance research skills, promote interdisciplinary thinking, and facilitate the discovery of relevant resources.</p>
+<p>A research map is a visual representation of research topics and their interconnections, allowing users to explore academic literature in a structured and intuitive way. It displays clusters of related articles and topics, with connections indicating shared references, themes, or conceptual relationships. Learners use the map to navigate a complex research landscape, locate key areas of study, and discover relevant sources they would not find through linear search.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Research maps function as a form of <a href="../../elements/advance-organizers/">Advance Organizer</a>: they present the structure of a knowledge domain before learners engage with individual sources, giving new material a place to attach [~M]. Because the map externalizes relationships that would otherwise be held in mind while reading, it reduces the working-memory burden of navigating unfamiliar literatures <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]. Graphical knowledge representations such as concept maps and node-link diagrams generally outperform text-only or list-based presentations for knowledge acquisition and transfer, particularly when learners actively work with the structure rather than passively viewing it [~S].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to a research map tool or platform. Basic understanding of research concepts and terminology.</li>
+<li>A map tool or curated dataset (bibliometric network, concept map, or hand-built diagram) with accurate topic clusters and connections</li>
+<li>Learner understanding of basic research concepts and terminology sufficient to interpret nodes and links</li>
+<li>A follow-on task that requires using the map — formulating a question, selecting sources, or comparing clusters — rather than free browsing (<a href="../../elements/research/">Research</a>, <a href="../../principles/annotating/">Annotating</a>)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>The map may not be exhaustive or completely up-to-date. Requires users to critically evaluate the sources and connections presented.</li>
+<li>Maps are never exhaustive or current; learners may over-trust a stale or incomplete map and miss recent or dissenting work [-W]</li>
+<li>Pre-built connections can anchor learners to the map's framing, discouraging them from questioning how topics were clustered or related [~W]</li>
+<li>Dense maps with many nodes and links impose extraneous load on novices, who lack the prior knowledge to distinguish central from peripheral material [-M]</li>
+<li>Passive viewing of a supplied map yields little benefit; learners gain more when they construct, extend, or annotate the map themselves [~S]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Bibliometric maps</strong> (e.g., citation or co-citation networks generated from databases) suit literature reviews and disciplinary overviews</li>
+<li><strong>Concept maps</strong> built by instructors or students suit conceptual understanding within a single course</li>
+<li><strong>Collaborative maps</strong> grown over a term support cumulative knowledge building and <a href="../../elements/self-explanation/">Self-Explanation</a> as learners justify added links</li>
+<li>Maps can be filtered or scaffolded by showing only top-level clusters first, then expanding detail as learners' familiarity grows</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Beneficial for higher education students, researchers, and professionals seeking to understand and explore academic literature.</li>
+<li>Higher education students beginning independent research who need an orientation to an unfamiliar literature [~M]</li>
+<li>Interdisciplinary learners who must relate concepts across fields; explicit cross-links make hidden connections visible [~W]</li>
+<li>Less beneficial for domain experts, who already hold the structure the map externalizes and may find it redundant [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Navigate complex research, identify key study areas, understand concept relationships, enhance research skills, promote interdisciplinary thinking</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides a visual overview of research topics. Facilitates the discovery of relevant articles and connections. Supports interdisciplinary thinking and exploration.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Users can customize their exploration by focusing on specific topics or connections of interest. The map can be filtered to show relevant information.</li>
+<li>Research skills: locating, selecting, and contextualizing sources</li>
+<li>Structural knowledge: understanding how concepts and subfields relate</li>
+<li>Interdisciplinary thinking: transferring ideas across topic boundaries</li>
+<li>Question formulation: identifying gaps and promising areas for inquiry</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/assigned-readings/">Assigned Readings</a></li>
-<li><a href="../../elements/research/">Research</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track user engagement with the research map. Monitor the number of articles and connections explored. Assess the quality of research questions and investigations informed by the map.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research maps can enhance research skills and promote interdisciplinary thinking. By providing a structured overview of the research landscape, these tools can facilitate the discovery of relevant resources and connections.</li>
-</ul>
+<ol>
+<li>Orient learners to the map's conventions (what nodes, links, and cluster sizes represent) before content exploration.</li>
+<li>Activate relevant background knowledge so learners can interpret the map meaningfully (<a href="../activating-prior-knowledge/">Activating Prior Knowledge</a>).</li>
+<li>Have learners trace one or two pathways through the map, reading the sources along a route rather than sampling randomly (<a href="../../elements/assigned-readings/">Assigned Readings</a>).</li>
+<li>Require learners to explain <em>why</em> two topics are connected, prompting elaboration rather than recognition (<a href="../../elements/self-explanation/">Self-Explanation</a>).</li>
+<li>Ask learners to extend or critique the map — adding a missing connection, a recent source, or a counter-position — converting them from consumers to constructors of the structure.</li>
+<li>Use the map to support a concrete output: a research question, annotated bibliography, or literature review (<a href="../../elements/research/">Research</a>).</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../activating-prior-knowledge/">Activating Prior Knowledge</a> — maps are most interpretable when learners already hold some relevant schema to connect to</li>
+<li><a href="../case-based-learning/">Case-Based Learning</a> — cases can serve as concrete entry points into the abstract structure a map presents</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/advance-organizers/">Advance Organizer</a> — a research map is a domain-scale organizer presented before detailed study</li>
+<li><a href="../../principles/annotating/">Annotating</a> — learner annotations turn a supplied map into a personal knowledge artifact</li>
+<li><a href="../../elements/research/">Research</a> — the inquiry activity the map orients and accelerates</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Digital Promise's Research Map is a visual representation of education and learning sciences research. Users can explore common topics and connections between topics, and save articles of interest.</li>
+<li><strong><a href="https://researchmap.digitalpromise.org">Digital Promise Research Map</a></strong> — a visual map of education and learning sciences research; users explore topic clusters and connections and save articles of interest.</li>
+<li><strong><a href="https://www.connectedpapers.com">Connected Papers</a></strong> — generates a similarity graph around a seed paper, letting researchers see how a literature clusters and which works are foundational.</li>
+<li><strong><a href="https://www.vosviewer.com">VOSviewer</a></strong> — free tool for constructing and viewing bibliometric maps of publications, authors, or keywords based on citation and co-occurrence data.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Nesbit, J. C., &amp; Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. <em>Review of Educational Research, 76</em>(3), 413–448. <a href="https://doi.org/10.3102/00346543076003413">doi:10.3102/00346543076003413</a></li>
+<li>Novak, J. D., &amp; Cañas, A. J. (2008). The theory underlying concept maps and how to construct and use them. <em>Florida Institute for Human and Machine Cognition Technical Report IHMC CmapTools 2006-01 Rev 01-2008.</em></li>
+<li>Kessler, M. M. (1963). Bibliographic coupling between scientific papers. <em>American Documentation, 14</em>(1), 10–25. <a href="https://doi.org/10.1002/asi.5090140103">doi:10.1002/asi.5090140103</a></li>
 </ul>
 
 

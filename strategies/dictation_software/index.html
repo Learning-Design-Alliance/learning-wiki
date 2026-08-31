@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Dictation software allows learners to speak their ideas and have them transcribed into text.">
+        <meta name="description" content="Dictation software allows learners to speak their ideas and have them transcribed into text, bypassing transcription demands during composition.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,73 +722,76 @@
 
 
 <h1 id="dictation-software">Dictation Software<a class="headerlink" href="#dictation-software" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Dictation software allows learners to speak their ideas and have them transcribed into text. This supports learners with strengths in auditory processing by allowing them to bypass visual cues involved with writing and focus on expressing their thoughts orally.</p>
+<p>Dictation (speech-to-text) software converts spoken language into written text, allowing learners to compose orally rather than by hand or keyboard. This decouples idea generation from the mechanical demands of transcription — spelling, handwriting, and keystrokes — so working memory can be devoted to content, organization, and voice. Modern implementations range from built-in OS dictation (Apple Dictation, Windows Speech Recognition, Google Docs Voice Typing) to dedicated tools such as Dragon (Nuance) and Read&amp;Write (Texthelp).</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Dictation reduces the transcription burden that consumes working memory during early writing, freeing capacity for planning and composing <a href="../../principles/cognitive-load-management/">Cognitive Load Management</a>. This matters most for learners whose transcription skills lag behind their oral language ability — a common profile in dysgraphia and other learning differences. Effectiveness depends on learners first planning what to say; unstructured "talk to write" without <a href="../../elements/advance-organizers/">advance organizers</a> or oral pre-planning tends to produce rambling, low-cohesion text [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to dictation software, training on its use</li>
+<li>Reliable speech recognition with acceptable accuracy for the learner's voice, accent, and domain vocabulary</li>
+<li>Explicit training on dictation conventions (saying punctuation, navigating, correcting errors) — accuracy without editing skills produces frustration</li>
+<li>A planning step before dictation: outlining, oral rehearsal, or graphic organizer</li>
+<li>A revision pass, since dictated first drafts typically need structural editing</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May not be suitable for all writing tasks, some learners may struggle with speaking their thoughts clearly</li>
+<li>Dictation accuracy degrades in noisy environments and for learners with atypical speech, non-dominant accents, or speech impairments [-M]</li>
+<li>Learners with weak oral language or limited verbal fluency may find speaking compositions as hard as writing them; dictation does not supply ideas [-M]</li>
+<li>Recognition errors interrupt composing flow and can shift cognitive load from transcription to error correction, particularly for early versions of the software [-M]</li>
+<li>Less suited to tasks requiring precise formatting, equations, or code, where voice input is inefficient [~W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Drafting mode:</strong> dictate a fast first draft, then revise in print — treats dictation as an idea-generation tool</li>
+<li><strong>Full composition mode:</strong> dictate, punctuate, and edit entirely by voice — requires more training and fluency</li>
+<li><strong>Accommodation mode:</strong> dictation as an assessed-work accommodation for learners with documented writing disabilities, often paired with text-to-speech for review</li>
+<li><strong>Scaffolded mode:</strong> teacher provides sentence frames or prompts the learner elaborates orally, then fades support</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Learners with strengths in auditory processing who struggle with writing</li>
+<li>Learners with dysgraphia, dyslexia, or slow handwriting whose oral language outpaces their transcription [~M]</li>
+<li>Learners whose working memory is overloaded by spelling and letter formation during composition <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]</li>
+<li>Young writers (K–2) whose transcription skills lag behind oral storytelling ability [~W]</li>
+<li>Less beneficial for learners with strong transcription fluency, where the transcription bottleneck is not the limiting factor [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Facilitate idea generation, improve writing fluency, support learners with auditory strengths</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Leverages auditory strengths, reduces cognitive load associated with writing, facilitates idea generation</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provide training on dictation software, offer prompts and scaffolds to support idea generation</li>
+<li>Writing fluency and volume: increasing output and reducing avoidance</li>
+<li>Idea generation and content quality in early drafting</li>
+<li>Composing self-efficacy for learners with a history of writing failure <a href="../../claims/self-efficacy-predicts-academic-persistence/">Self-efficacy predicts academic persistence.</a> [+M]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/application/">Application</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Assess writing quality, track improvements in writing fluency, gather learner feedback on the effectiveness of the software.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research indicates that dictation software can improve writing outcomes for learners with certain learning differences. Practitioner experience supports the effectiveness of dictation software in enhancing writing fluency.</li>
-</ul>
+<ol>
+<li>Diagnose the bottleneck: confirm that transcription, not idea generation, is limiting the learner's writing.</li>
+<li>Select and configure software; train the recognizer on the learner's voice and add domain vocabulary.</li>
+<li>Teach dictation conventions explicitly — speaking punctuation, navigation, and correction commands (<a href="../../elements/coaching/">Coaching</a>).</li>
+<li>Have the learner plan orally or with a graphic organizer before dictating (<a href="../../elements/advance-organizers/">Advance Organizers</a>).</li>
+<li>Dictate a first draft without stopping to fix errors; defer editing to a separate pass (<a href="../../elements/application/">Application</a>).</li>
+<li>Revise and edit the transcript, comparing dictated output against the plan (<a href="../../elements/articulation/">Articulation</a> — the learner explains what changed and why).</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li>Sentence Combining — a complementary writing-fluency intervention with meta-analytic support</li>
+<li>Text-to-Speech — the inverse accommodation; often paired so learners can review dictated text aurally</li>
+<li>Word Processing — the editing environment in which dictated drafts are revised</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Using dictation software for brainstorming, drafting essays, or completing written assignments. Resource: Auditory Processing micro-credential, Friday Institute at NC State</li>
+<li><strong>Google Docs Voice Typing</strong> (https://support.google.com/docs/answer/4492226) — free, browser-based dictation used for brainstorming and drafting in mainstream classrooms.</li>
+<li><strong>Dragon Professional/Home</strong> (https://www.nuance.com) — high-accuracy dictation with custom vocabulary and full voice-based editing; long the standard in research on speech recognition for students with learning disabilities.</li>
+<li><strong>Read&amp;Write (Texthelp)</strong> (https://www.texthelp.com) — combines dictation with text-to-speech and word prediction, supporting a draft-then-revise workflow.</li>
+<li><strong>De La Paz &amp; Graham's dictation studies</strong> — struggling writers in middle school composed longer, higher-quality essays by dictating than by handwriting, particularly when dictation followed planning instruction.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Graham, S., &amp; Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. <em>Journal of Educational Psychology, 99</em>(3), 445–476. <a href="https://doi.org/10.1037/0022-0663.99.3.445">doi:10.1037/0022-0663.99.3.445</a></li>
+<li>De La Paz, S. (1999). Composing via dictation and speech recognition systems: Compensatory technology for students with learning disabilities. <em>Learning Disability Quarterly, 22</em>(3), 173–182.</li>
+<li>Higgins, E. L., &amp; Raskind, M. H. (2000). Speaking to read: The effects of continuous vs. discrete speech recognition systems on the reading and spelling of children with learning disabilities. <em>Journal of Special Education Technology, 15</em>(1), 19–30.</li>
+<li>Quinlan, T. (2004). Speech recognition technology and students with writing difficulties: Improving fluency. <em>Journal of Educational Multimedia and Hypermedia, 13</em>(3), 323–346.</li>
 </ul>
 
 

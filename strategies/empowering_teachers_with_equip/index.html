@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="EQUIP is a customizable observation tool designed to track patterns in student participation, empowering teachers to build more equitable classrooms.">
+        <meta name="description" content="EQUIP is a customizable classroom observation tool that quantifies patterns in student participation, empowering teachers to build more equitable classrooms through data-driven reflection.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,75 +744,90 @@
 
 
 <h1 id="empowering-teachers-with-equip">Empowering Teachers with EQUIP<a class="headerlink" href="#empowering-teachers-with-equip" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>EQUIP is a customizable observation tool designed to track patterns in student participation, empowering teachers to build more equitable classrooms. It can be used in real-time or with videos of classroom teaching. After completing an observation, EQUIP generates instant analytics that teachers can use to improve their practice by tracking social markers (race, gender, etc.) and aspects of classroom discourse (type of teacher question, quality of student talk, etc.).</p>
+<p>EQUIP (Equity Quantified in Participation) is a customizable observation tool for tracking patterns in student participation during classroom discourse. An observer — the teacher, a peer, or a coach — codes who speaks and the quality of that participation in real time or from video, tagging turns with social markers (race, gender) and discourse features (question type, student talk quality). EQUIP generates instant analytics that teachers use to recognize inequitable participation patterns and set goals for changing their practice.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>EQUIP works by making the invisible visible: teachers' implicit calling patterns and discourse habits are typically inaccessible to introspection, so structured observation converts them into analyzable data [~M]. The tool functions as a form of <a href="../../principles/assessment-for-learning/">Assessment for Learning</a> applied to teaching itself — evidence gathered not to evaluate teachers but to inform their next instructional moves <a href="../../claims/assessment-for-learning-improves-achievement/">Assessment for learning improves achievement when feedback informs subsequent learning.</a> [+S]. Because the data are disaggregated by social markers, EQUIP surfaces bias that teachers often deny or underestimate, creating the cognitive disequilibrium needed for practice change [~W].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to EQUIP tool, time for observation and analysis, willingness to reflect on and improve practice.</li>
+<li>Access to the EQUIP tool (free web app at <a href="https://www.equip.measuringsuccess.org">equip.measuringsuccess.org</a>) and a device for live coding or video review</li>
+<li>Training in the coding scheme so observations are accurate and consistent across observers</li>
+<li>Time for observation, analysis, and — critically — goal-setting and follow-up observation cycles</li>
+<li>A non-evaluative climate of trust; data must not feed into formal teacher evaluation</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires training to use effectively, relies on accurate observation and data entry.</li>
+<li>Coding accuracy degrades without training; untrained observers produce unreliable data [-W]</li>
+<li>Awareness of inequitable patterns does not automatically change practice — without goal-setting and re-observation, teachers may acknowledge bias and continue as before [-M]</li>
+<li>Using EQUIP in high-stakes evaluation contexts suppresses honest reflection and distorts observed behavior [-M]</li>
+<li>Single observations are noisy; participation varies with lesson type and content, so one session can mislead [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Self-observation from video</strong>: teachers code their own recorded lessons, adding a reflection layer</li>
+<li><strong>Peer observation</strong>: colleagues code each other's classes, building shared norms around equitable discourse</li>
+<li><strong>Instructional coaching</strong>: coaches use EQUIP data to anchor debrief conversations</li>
+<li><strong>Student-generated data</strong>: students code participation, making discourse norms a shared classroom concern</li>
+<li>Customization of tracked dimensions: cold-call vs. volunteer patterns, wait time, quality of student reasoning, or specific social markers relevant to the local context</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Teachers and educators aiming to create equitable classrooms</li>
+<li>In-service teachers seeking to examine and improve equitable participation in their classrooms</li>
+<li>Pre-service teachers in methods coursework, where EQUIP builds habits of noticing before entering the classroom</li>
+<li>Instructional coaches and professional learning communities using data to anchor non-evaluative conversations</li>
+<li>Especially valuable for teachers who believe their classroom is already equitable but whose observed patterns diverge from that belief [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Promote equitable classroom practices, track student participation, improve teacher practice, analyze trends in data</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides instant analytics, customizable observation criteria, tracks patterns in student participation.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Teachers can customize the social markers and aspects of classroom discourse they want to track.</li>
+<li>Equitable discourse practices: distributing voice across student groups</li>
+<li>Data-informed reflective practice: connecting observation evidence to instructional decisions</li>
+<li>Bias awareness: recognizing implicit patterns in calling on and responding to students</li>
+<li>Improved student participation and belonging, which supports outcomes for marginalized students <a href="../../claims/belonging-interventions-improve-outcomes/">Belonging interventions improve outcomes for marginalized students.</a> [+M]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/individual-reflection/">Individual Reflection</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Changes in teacher practice, improvements in student participation, data-driven insights.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research shows that tools like EQUIP can help teachers recognize and address their own biases in the classroom, leading to more equitable and inclusive learning environments. Empowering teachers to reflect on their practices can improve student engagement and achievement.</li>
-</ul>
+<ol>
+<li><strong>Define the focus.</strong> Customize the EQUIP session: choose social markers and discourse dimensions (e.g., question type, student talk quality) relevant to your equity goals.</li>
+<li><strong>Train the observer.</strong> Practice coding a short video clip until ratings are consistent; calibration is essential for trustworthy data.</li>
+<li><strong>Observe.</strong> Code a lesson live or from video, recording each student turn and its attributes.</li>
+<li><strong>Analyze.</strong> Review EQUIP's instant analytics — who participated, how often, and with what quality — looking for patterns disaggregated by social marker.</li>
+<li><strong>Reflect and set a goal.</strong> In <a href="../../elements/individual-reflection/">Individual Reflection</a> or a coaching debrief, identify one concrete practice change (e.g., revising cold-call routines, adjusting wait time).</li>
+<li><strong>Re-observe.</strong> Repeat the cycle to check whether the change shifted participation patterns, closing the formative-assessment loop <a href="../../elements/assess-performance/">Assess Performance</a>.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../patterns/formative-assessment/">Formative Assessment</a> — EQUIP applies the same evidence-adjust cycle to teacher practice rather than student learning</li>
+<li><a href="../../elements/coaching/">Instructional Coaching</a> — EQUIP data give coaching conversations a shared, objective anchor</li>
+<li><a href="../../elements/video-based-reflection/">Video-Based Reflection</a> — recording lessons enables EQUIP coding after the fact and repeated analysis</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — EQUIP is performance assessment applied to teaching practice</li>
+<li><a href="../../elements/coaching/">Coaching</a> — the debrief structure that turns EQUIP data into practice change</li>
+<li><a href="../../elements/articulation/">Articulation</a> — teachers verbalize what the data reveal about their intentions versus their actions</li>
+<li><a href="../../elements/check-in/">Check-In</a> — brief structured conversations that sustain momentum between observation cycles</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong><a href="https://www.equip.measuringsuccess.org">EQUIP web app</a></strong> — free, browser-based tool with customizable sessions and instant analytics</li>
+<li>Classroom video capture (Swivl, phone recording) for asynchronous self-observation</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Calculus classrooms (Reinholz &amp; colleagues)</strong> — EQUIP was developed and tested in undergraduate calculus, where instructors used participation analytics to shift from volunteer-dominated to more equitably distributed discourse, increasing participation by women and students of color.</li>
+<li><strong>K-12 professional learning communities</strong> — teachers code each other's lessons with EQUIP and use the disaggregated charts to set collective norms for cold-calling and wait time.</li>
+<li><strong>Teacher education methods courses</strong> — pre-service teachers code videos of their own teaching to build awareness of calling patterns before student teaching.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Reinholz, D. L., &amp; Shah, N. (2018). Equity analytics: A methodological approach for quantifying participation patterns in mathematics classroom discourse. <em>Journal for Research in Mathematics Education, 49</em>(2), 140–177. <a href="https://doi.org/10.5951/jresematheduc.49.2.0140">doi:10.5951/jresematheduc.49.2.0140</a></li>
+<li>Reinholz, D. L., Stone-Johnstone, A., &amp; Shah, N. (2020). A developmental approach to dismantling anti-Black racism in undergraduate science classrooms. <em>Journal of College Science Teaching, 49</em>(6), 20–25.</li>
+<li>Shah, N., &amp; Lewis, C. M. (2019). Tracing an approach to teaching and learning equity: A historical case study of EQUIP. <em>International Journal of STEM Education, 6</em>, 32. <a href="https://doi.org/10.1186/s40594-019-0182-4">doi:10.1186/s40594-019-0182-4</a></li>
+<li>Reinholz, D. L., &amp; Andrews, T. C. (2020). Change theory: A theoretical approach to guide organizational change efforts in higher education. <em>Journal of Educational Change, 21</em>, 335–359. <a href="https://doi.org/10.1007/s10833-019-09364-z">doi:10.1007/s10833-019-09364-z</a></li>
+<li>Brinkmann, S., &amp; Kvale, S. (2015). <em>InterViews: Learning the craft of qualitative research interviewing</em> (3rd ed.). Sage.</li>
 </ul>
 
 

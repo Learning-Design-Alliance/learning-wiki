@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,73 +733,81 @@
 
 
 <h1 id="whats-my-number">What’s My Number?<a class="headerlink" href="#whats-my-number" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>A guessing game where one person thinks of a number and provides clues, and others use logical reasoning and deduction to determine the number. This promotes number sense, problem-solving, and strategic thinking.</p>
+<p>One player (or the instructor) selects a secret number within a stated range and reveals incremental clues — comparisons ("greater than 20"), properties ("even," "a multiple of 5"), or digit information — while other players narrow the candidate set through logical deduction. Each clue and guess is an opportunity to reason aloud about what the information eliminates, making the game a low-stakes vehicle for number sense, inequality reasoning, and strategic question-asking.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>The game's power comes from forcing learners to maintain and update a shrinking candidate set, which exercises the same constraint-satisfaction reasoning underlying algebra and proof. Because each clue restructures the problem space, the game rewards systematic elimination over random guessing; instructors should make that elimination visible (e.g., crossing out numbers on a hundred chart) to reduce working-memory demands <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S]. Asking players to justify guesses before they are confirmed converts the game into a self-explanation activity, which improves conceptual understanding beyond what play alone produces <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+S].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>A clearly stated number range so the candidate set is well-defined</li>
+<li>Clues that are logically consistent and progressively informative; ambiguous clues stall the deduction chain</li>
+<li>An external representation (number line, hundred chart, written list) so learners can track eliminated candidates instead of holding them in memory</li>
+<li>A norm that players explain <em>why</em> a guess follows from the clues, not just name a number</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires clear and logical clues for effective gameplay. May be challenging for learners with limited number sense.</li>
+<li>Vague or contradictory clues break the deduction chain and turn the activity into pure guessing [-M]</li>
+<li>Learners with weak number sense may not be able to generate candidate sets at all, leaving them excluded from the reasoning; the range must be small enough that every player can enumerate it</li>
+<li>If the range is very large and clues are sparse, search becomes unguided and low-yield for novices [~M] — analogous to the unguided-search problem that makes pure discovery inefficient for novices</li>
+<li>Whole-class formats let most students go passive; only the guesser reasons unless every student records and updates their own candidate set</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Reverse format:</strong> students give clues for a teacher-chosen number, shifting the challenge from deduction to clue design — a harder task requiring deeper property knowledge</li>
+<li><strong>Twenty-Questions variant:</strong> students earn points for guessing in fewer questions, rewarding optimal information-seeking (binary-search style halving)</li>
+<li><strong>Range scaling:</strong> 1–10 for early counters, 1–100 with a hundred chart for mid-elementary, negative numbers or decimals for older students</li>
+<li><strong>Fraction/decimal variant:</strong> clues reference benchmarks ("closer to ½ than to 1") to build magnitude reasoning</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Elementary school students</li>
+<li>Elementary students building number sense and magnitude comparison; number-line and board-game formats with similar structure show measurable gains in numerical knowledge for young children <a href="https://doi.org/10.1037/0012-1649.44.2.345">Playing linear number board games improves children's numerical knowledge.</a> [+S]</li>
+<li>Struggling students benefit when the range is small and a visual candidate set is provided, reducing load <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S]</li>
+<li>Advanced students need larger ranges, sparser clues, or the clue-designing role to avoid trivial search</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Promote number sense, improve problem-solving skills, and enhance strategic thinking</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Promotes number sense, problem-solving, and strategic thinking.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Adjust the difficulty of clues based on the learner's skill level. Vary the number range to suit different age groups.</li>
+<li>Number sense: magnitude comparison, place value, and properties of numbers (odd/even, multiples, primes)</li>
+<li>Logical deduction: constraint satisfaction and systematic elimination</li>
+<li>Strategic questioning: choosing questions that maximize information gained</li>
+<li>Mathematical communication: justifying reasoning aloud</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/problem-presentation/">Problem Presentation</a></li>
-<li><a href="../../elements/application-of-knowledge/">Application of Knowledge</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Observe the learner's ability to use clues to deduce the number. Track the number of clues needed to guess the correct number.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Help children become more engaged in your family adventures.</li>
-</ul>
+<ol>
+<li>State the range and display the candidate set on a number line or hundred chart (<a href="../../elements/problem-presentation/">Problem Presentation</a> if available; otherwise a posted chart).</li>
+<li>The number-holder gives the first clue; players mark which candidates remain (<a href="../../elements/application-of-knowledge/">Application of Knowledge</a>).</li>
+<li>Before each guess, the player states which numbers are still possible and why (<a href="../../elements/articulation/">Articulation</a>).</li>
+<li>After the reveal, debrief one question: "Which clue eliminated the most numbers?" — feedback at the strategy level, not just right/wrong <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S].</li>
+<li>Rotate roles; when students become number-holders, require them to plan a clue sequence in advance.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Twenty Questions — the same information-seeking structure applied to non-numerical domains</li>
+<li>Number Talks — complementary routine for building magnitude and computation reasoning through discourse</li>
+<li>Guess My Rule — the property-based clue variant focused on pattern and function rather than a single value</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/application-of-knowledge/">Application of Knowledge</a> — each guess applies number properties to a live problem</li>
+<li><a href="../../elements/articulation/">Articulation</a> — the justification norm that turns guessing into reasoning</li>
+<li><a href="../../elements/coaching/">Coaching</a> — instructor prompts ("What do you know for sure?") scaffold deduction</li>
+<li><a href="../../elements/assessment/">Assessment</a> — clues-needed-to-solve and justification quality serve as observable evidence</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Mental Math routines (K–5 classrooms):</strong> "Guess My Number" on a hundred chart is a standard warm-up in Number Talks–style elementary curricula; teachers cross out eliminated numbers publicly so the whole class tracks the shrinking set.</li>
+<li><strong>Binary-search CS teaching:</strong> the game is a common unplugged introduction to binary search — asking students to minimize guesses in 1–100 leads them to rediscover halving, connecting the game to algorithm design.</li>
+<li><strong>Fraction variant (grades 4–6):</strong> secret number between 0 and 1 with benchmark clues ("greater than ¾") on a fraction number line builds rational-number magnitude, a known weak spot in elementary mathematics.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Ramani, G. B., &amp; Siegler, R. S. (2008). Promoting broad and stable improvements in low-income children's numerical knowledge through playing number board games. <em>Child Development, 79</em>(2), 375–394. <a href="https://doi.org/10.1111/j.1467-8624.2007.01131.x">doi:10.1111/j.1467-8624.2007.01131.x</a></li>
+<li>Siegler, R. S., &amp; Ramani, G. B. (2009). Playing linear number board games — but not circular ones — improves low-income preschoolers' numerical understanding. <em>Journal of Educational Psychology, 101</em>(3), 545–560. <a href="https://doi.org/10.1037/a0014239">doi:10.1037/a0014239</a></li>
+<li>Chi, M. T. H., de Leeuw, N., Chiu, M.-H., &amp; LaVancher, C. (1994). Eliciting self-explanations improves understanding. <em>Cognitive Science, 18</em>(3), 439–477. <a href="https://doi.org/10.1207/s15516709cog1803_3">doi:10.1207/s15516709cog1803_3</a></li>
+<li>Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Educational Research, 77</em>(1), 81–112. <a href="https://doi.org/10.3102/003465430298487">doi:10.3102/003465430298487</a></li>
 </ul>
 
 

@@ -427,6 +427,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../claims/" class="md-nav__link">
         
   
@@ -646,6 +673,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#page-type-banner" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Page-type banner
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#cross-link-conventions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -739,6 +777,17 @@
     <span class="md-ellipsis">
       
         Theory
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#learner-variable" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Learner Variable
       
     </span>
   </a>
@@ -912,6 +961,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#page-type-banner" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Page-type banner
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#cross-link-conventions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1012,6 +1072,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#learner-variable" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Learner Variable
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#claim" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1064,7 +1135,7 @@
 
 
 <h1 id="learning-design-wiki-agent-operating-guide">Learning Design Wiki — Agent Operating Guide<a class="headerlink" href="#learning-design-wiki-agent-operating-guide" title="Permanent link">&para;</a></h1>
-<p>This is a <strong>persistent, LLM-maintained knowledge base</strong> for learning design. The wiki compiles design principles, instructional patterns, elements, strategies, theories, and empirical claims into a structured, cross-linked reference.</p>
+<p>This is a <strong>persistent, LLM-maintained knowledge base</strong> for learning design. The wiki compiles design principles, instructional patterns, elements, strategies, theories, learner variables, and empirical claims into a structured, cross-linked reference.</p>
 <p><strong>You never write the wiki yourself.</strong> The LLM reads sources, ingests new content, cross-links pages, and keeps schemas consistent. You source materials and ask questions.</p>
 <p>The wiki is a bundle in the <a href="https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md">Open Knowledge Format (OKF) v0.2</a>: every content page is markdown with YAML frontmatter carrying <code>type</code>, <code>title</code>, <code>description</code>, <code>status</code>, <code>generated</code>, and (where applicable) <code>sources</code>; cross-links are plain bundle-relative markdown links, not Obsidian wikilinks; <code>index.md</code> and <code>log.md</code> are OKF's reserved directory-listing and change-log filenames.</p>
 <hr />
@@ -1072,7 +1143,7 @@
 <h3 id="1-ingest">1. Ingest<a class="headerlink" href="#1-ingest" title="Permanent link">&para;</a></h3>
 <p>Process a new source (paper, book chapter, CSV batch, worked example) into wiki pages.</p>
 <p>Steps:
-1. Identify the page type(s) the source contributes to (principle, element, pattern, strategy, theory, claim)
+1. Identify the page type(s) the source contributes to (principle, element, pattern, strategy, theory, learner-variable, claim). <code>learner-variable</code> is schema-ready but not yet part of the automated single-pass extraction prompt (deliberately deferred to a dedicated future sweep, so the extraction agent isn't juggling a fourth job on top of claims/omission/fabrication) — for now, factor a learner-variable page out by hand when a claim reports a finding about a learner characteristic (e.g. "X predicts/moderates Y outcome"), rather than leaving it as a bare, unlinked claim.
 2. Check if a page already exists (<code>index.md</code> or <code>grep</code> by name)
 3. If new: create a page in the correct folder using the template below
 4. If existing: merge new content into the right sections; append to <code>## Key Sources</code> (or <code>## Evidence</code> for claims); log the change
@@ -1170,7 +1241,7 @@
 </table>
 <hr />
 <h2 id="frontmatter-fields">Frontmatter fields<a class="headerlink" href="#frontmatter-fields" title="Permanent link">&para;</a></h2>
-<p>Every content page (principle, element, pattern, strategy, theory, claim) carries this OKF-conformant frontmatter:</p>
+<p>Every content page (principle, element, pattern, strategy, theory, learner-variable, claim) carries this OKF-conformant frontmatter:</p>
 <table>
 <thead>
 <tr>
@@ -1183,7 +1254,7 @@
 <tr>
 <td><code>type</code></td>
 <td>Yes</td>
-<td><code>principle</code> | <code>element</code> | <code>pattern</code> | <code>strategy</code> | <code>theory</code> | <code>claim</code></td>
+<td><code>principle</code> | <code>element</code> | <code>pattern</code> | <code>strategy</code> | <code>theory</code> | <code>learner-variable</code> | <code>claim</code></td>
 </tr>
 <tr>
 <td><code>title</code></td>
@@ -1263,6 +1334,33 @@
 </code></pre></div>
 <p>which appends the <code>verified</code> entry alongside its normal <code>generated</code>/log-update work. Never add a <code>verified</code> entry yourself (as an agent) just because a page looks complete or well-sourced — that defeats the point of the tier. <code>python3 scripts/lint.py</code> flags any <code>status: stable</code> page that has no <code>verified</code> entry, since "stable" should mean someone actually checked it, not just that it looks finished.</p>
 <hr />
+<h2 id="page-type-banner">Page-type banner<a class="headerlink" href="#page-type-banner" title="Permanent link">&para;</a></h2>
+<p>Every content page carries a one-line banner directly under its <code># H1</code>, naming
+the page's type and linking back to its section index:</p>
+<div class="highlight"><pre><span></span><code><span class="gh"># Cooperative Learning</span>
+
+<span class="k">&gt; </span><span class="ge">**Principle** · [All principles](index.md)</span>
+</code></pre></div>
+<p>This exists because 73 slugs live in more than one type folder — <code>cooperative-learning</code>
+and <code>direct-instruction</code> each exist in <strong>all four</strong> of principles/elements/patterns/strategies,
+with near-identical titles. Frontmatter carries <code>type</code>, but mkdocs strips frontmatter out
+of the rendered page entirely, so on the docs site, in GitHub's file view, in the dashboard's
+edit box, and in whatever an agent reads during an ingest, the folder in the URL was the only
+thing distinguishing them. A blockquote renders as a visible callout in both GitHub and
+mkdocs-material.</p>
+<p>The banner's label follows the <strong>folder the page is in</strong>, which is what actually determines
+its section — so where frontmatter <code>type</code> and the folder disagree, that's a real data bug
+(the page is either misfiled or mislabelled) and a human decides which. <code>lint.py</code>'s
+<code>check_type_banner</code> verifies all three agree — banner present, label matches folder, and
+frontmatter <code>type</code> matches folder — on every health run.</p>
+<p>Run <code>python3 scripts/add_type_banner.py --apply</code> after any batch that creates pages; it's
+idempotent (updates an existing banner in place rather than stacking a second one), so it's
+safe to re-run at any time. <code>--check</code> reports without writing.</p>
+<p>Yes, this duplicates <code>type:</code> from frontmatter into the body — the same tradeoff this schema
+already accepts for <code>sources:</code> mirroring the citations in <code>## Key Sources</code>: a structured field
+and a human-readable rendering of the same fact, kept in sync by a lint check rather than by
+dropping one.</p>
+<hr />
 <h2 id="cross-link-conventions">Cross-link conventions<a class="headerlink" href="#cross-link-conventions" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Cross-links are standard markdown links, relative to the linking page: <code>slug.md</code> for another page in the same folder, <code>../folder/slug.md</code> for a page in a different folder (every content folder sits exactly one level under the wiki root, so <code>../folder/</code> always resolves correctly regardless of which folder you're linking from)</li>
@@ -1283,6 +1381,7 @@
   patterns/          ← instructional patterns (reusable designs at lesson/unit level)
   strategies/        ← teaching strategies (concrete activity recipes)
   theories/          ← learning theories (explanatory frameworks)
+  learner-variables/ ← canonical learner characteristics (prior knowledge, self-efficacy, ...) claims link into
   claims/            ← empirical claims with evidence
   sources/           ← bibliographic source pages (optional; most citations live inline in Key Sources / Evidence)
     manifest.ndjson    ← append-only log of every source reviewed, ingested or rejected (see Source Manifest below)
@@ -1293,6 +1392,7 @@
     build_indexes.py   ← regenerates index.md and every per-folder index from disk state
     log_revision.py    ← records a revision card + updates a page's `generated` field + appends to log.md
     log_source_review.py ← appends one entry to sources/manifest.ndjson (see Source Manifest below)
+    add_type_banner.py ← inserts/refreshes the page-type banner under each page's H1 (see below)
     lint.py            ← health-check (see Lint above)
 </code></pre></div>
 <p>Each folder's <code>index.md</code> is itself a reserved OKF filename: no frontmatter (except the bundle-root's <code>okf_version</code>), and a plain <code>* [Title](slug.md) - description</code> bullet listing grouped by status. Regenerate these with <code>python3 scripts/build_indexes.py</code> rather than hand-editing them.</p>
@@ -1332,6 +1432,8 @@ generated:
 <span class="gu">---</span>
 
 <span class="gh"># [Principle Name]</span>
+
+<span class="k">&gt; </span><span class="ge">**Principle** · [All principles](index.md)</span>
 
 <span class="gu">## Description</span>
 [What this principle is and what it recommends.]
@@ -1384,6 +1486,8 @@ generated:
 
 <span class="gh"># [Element Name]</span>
 
+<span class="k">&gt; </span><span class="ge">**Element** · [All elements](index.md)</span>
+
 <span class="gu">## Description</span>
 [What this instructional element is; how it functions.]
 
@@ -1432,6 +1536,8 @@ author:
 <span class="gu">---</span>
 
 <span class="gh"># [Pattern Name]</span>
+
+<span class="k">&gt; </span><span class="ge">**Pattern** · [All patterns](index.md)</span>
 
 <span class="gu">## Description</span>
 [What this pattern is; how it works; what problem it solves.]
@@ -1505,6 +1611,8 @@ generated:
 
 <span class="gh"># [Strategy Name]</span>
 
+<span class="k">&gt; </span><span class="ge">**Strategy** · [All strategies](index.md)</span>
+
 <span class="gu">## Description</span>
 [What this strategy is and how it is carried out.]
 
@@ -1554,6 +1662,8 @@ generated:
 
 <span class="gh"># [Theory Name]</span>
 
+<span class="k">&gt; </span><span class="ge">**Theory** · [All theories](index.md)</span>
+
 <span class="gu">## Description</span>
 [What this theory proposes; its core mechanism or claim.]
 
@@ -1583,6 +1693,58 @@ generated:
 - 
 </code></pre></div>
 <hr />
+<h3 id="learner-variable">Learner Variable<a class="headerlink" href="#learner-variable" title="Permanent link">&para;</a></h3>
+<p>A canonical page per distinct learner characteristic/variable (prior knowledge, self-efficacy,
+working memory capacity, spatial ability, ...). Claims that report a finding about the variable
+link <em>into</em> it, the same way claims link into theories — this keeps "prior knowledge," "prior
+domain knowledge," and "background knowledge" from three different articles as one page instead
+of three fragmented, undiscoverable mentions. Schema-ready but not yet part of the automated
+single-pass extraction prompt — see the Ingest section above for why, and factor these out by
+hand for now when a claim clearly reports a learner-characteristic finding.</p>
+<div class="highlight"><pre><span></span><code>---
+type: learner-variable
+title: [Variable Name]
+description: [One-sentence definition of this learner characteristic]
+status: draft
+generated:
+  by: &lt;actor&gt;
+<span class="gu">  at: YYYY-MM-DD</span>
+<span class="gu">---</span>
+
+<span class="gh"># [Variable Name]</span>
+
+<span class="k">&gt; </span><span class="ge">**Learner Variable** · [All learner variables](index.md)</span>
+
+<span class="gu">## Description</span>
+[What this learner variable is; how it's typically measured or operationalized.]
+
+<span class="gu">## Implications</span>
+
+<span class="gu">### Context</span>
+- 
+
+<span class="gu">### Target Learners</span>
+- 
+
+<span class="gu">### Target Learning Objectives</span>
+&lt;!-- Learning outcomes this variable has been shown to affect --&gt;
+- 
+
+<span class="gu">## Claims</span>
+&lt;!-- Claims reporting findings about this variable, with evidence tags: [<span class="nt">Claim statement</span>](<span class="na">../claims/claim-slug.md</span>) [+M] --&gt;
+- 
+
+<span class="gu">## Related Learner Variables</span>
+- 
+
+<span class="gu">## Examples</span>
+&lt;!-- Links to principles/elements/patterns/strategies that account for this variable --&gt;
+- 
+
+<span class="gu">## Key Sources</span>
+- 
+</code></pre></div>
+<hr />
 <h3 id="claim">Claim<a class="headerlink" href="#claim" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>---
 type: claim
@@ -1596,6 +1758,8 @@ generated:
 <span class="gu">---</span>
 
 <span class="gh"># [Claim statement — one sentence, present tense]</span>
+
+<span class="k">&gt; </span><span class="ge">**Claim** · [All claims](index.md)</span>
 
 [Optional 1–2 sentence clarification of scope or mechanism.]
 

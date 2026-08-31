@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Virtual Reality (VR) training is a method of using VR technology to create simulated environments where learners can engage in interactive training scenarios.">
+        <meta name="description" content="VR training places learners inside simulated, interactive 3D environments where they can rehearse procedures and decisions safely before performing them in real settings.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,75 +744,86 @@
 
 
 <h1 id="virtual-reality-vr-training">Virtual Reality (VR) Training<a class="headerlink" href="#virtual-reality-vr-training" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Virtual Reality (VR) training is a method of using VR technology to create simulated environments where learners can engage in interactive training scenarios. VR training has proven effective in enhancing training efficiency and improving skill retention, especially in hands-on jobs. VR simulates real-world situations, allowing learners to practice and make mistakes in a safe, controlled environment, promoting experiential learning and mastery.</p>
+<p>Virtual Reality (VR) training uses head-mounted displays and interactive simulation to place learners inside a three-dimensional representation of a task environment — an operating theatre, a cockpit, a hazardous industrial site — where they can rehearse procedures and make decisions without real-world consequences. Effective VR training is not passive immersion: it pairs the simulated environment with structured <a href="../../elements/practice/">Practice</a>, <a href="../../elements/demonstration/">Demonstration</a>, and feedback loops, so the medium serves an instructional design rather than substituting for one.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>VR's distinctive contribution is <em>embodied, consequence-free practice</em> in environments that are dangerous, expensive, or rare in real life. Meta-analytic and review evidence shows VR training improves learning outcomes and skill transfer relative to conventional instruction in many domains, but the advantage is largest when the simulation affords interactivity and guided feedback rather than passive 360° viewing [~M]. Immersive media also impose extraneous cognitive load — navigating an unfamiliar interface competes with learning the content — so designs must manage that load deliberately <a href="../../principles/cognitive-load-management/">Cognitive Load Management</a> [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>VR headsets and equipment, appropriate software, realistic and well-designed virtual environments, trained facilitators.</li>
+<li>Headsets and controllers, well-built virtual environments that faithfully represent the target task's critical features, and a facilitator or system that structures pre-briefing, practice, and debriefing</li>
+<li>Instructional scaffolding inside the simulation: prompts, <a href="../../elements/coaching/">Coaching</a>, and feedback tied to learner actions <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at the task and process levels.</a> [+S]</li>
+<li>A pre-training orientation to the controls, so interface manipulation does not consume working memory during learning <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S]</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Initial setup costs can be high, requires technical expertise, may cause motion sickness in some users, needs ongoing updates and maintenance.</li>
+<li>Passive or exploratory VR without guidance often underperforms simpler media: learners attend to surface features and miss the to-be-learned content, and immersion can add extraneous load that harms retention [~S] — pre-training on the interface and signaling of critical features mitigates this</li>
+<li>Cybersickness affects a substantial minority of users and degrades both experience and performance; session length and locomotion design matter</li>
+<li>High development and maintenance costs are only justified for tasks that are dangerous, rare, or expensive to practice otherwise — VR for content easily taught by text or video is a poor investment</li>
+<li>Transfer depends on <em>fidelity to the task</em>, not visual realism per se; photorealistic but procedurally shallow simulations add cost without learning benefit</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Fully immersive (head-mounted) vs. desktop simulation vs. 360° video — immersion is a continuum, and lower-cost formats often achieve similar outcomes for declarative goals</li>
+<li>Individual rehearsal vs. multi-user collaborative scenarios (e.g., team-based emergency response)</li>
+<li>Standalone simulation vs. blended designs that interleave VR practice with classroom or on-the-job instruction <a href="../../patterns/blended-learning/">Blended Learning</a></li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Workforce training, medical professionals, aviation personnel, military, technicians, and any field benefiting from hands-on practice and realistic scenario simulation.</li>
+<li>Novices in procedural, high-stakes domains (surgery, aviation, industrial safety) who need safe repetition before real performance [+M]</li>
+<li>Learners who benefit from spatially embodied understanding of environments and equipment layouts</li>
+<li>Less valuable for learners who already perform the task competently, unless the goal is rare-event or failure-mode rehearsal</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Improve skill retention, increase training efficiency, enhance safety in training, provide realistic and immersive learning experiences.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides a safe and controlled environment for practice, enables realistic scenario simulations, facilitates experiential learning, improves engagement and knowledge retention.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>VR training can be tailored to specific job roles, tasks, and skill levels, with varying difficulty levels and interactive elements.</li>
+<li>Procedural skill acquisition and motor sequencing through repeated safe rehearsal</li>
+<li>Spatial and situational awareness: learning the layout and dynamics of a real environment</li>
+<li>Decision-making under pressure, including rare and emergency scenarios that cannot be staged safely</li>
+<li>Confidence and readiness: successful virtual performance builds self-efficacy that supports persistence in real settings <a href="../../claims/self-efficacy-predicts-academic-persistence/">Self-efficacy predicts academic persistence.</a> [+M]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/demonstration/">Demonstration</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide Feedback</a></li>
-<li><a href="../../elements/application/">Application</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Metrics on skill improvement, error reduction, task completion time, knowledge retention, and learner engagement can be collected and analyzed.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Studies show increased efficiency, improved memory recall, reduced procedural errors, enhanced performance, and higher engagement levels in various industries.</li>
-</ul>
+<ol>
+<li><strong>Brief and orient</strong> — pre-train learners on the controls and task goals so interface handling becomes automatic before content learning begins</li>
+<li><strong>Model the performance</strong> — show an expert execution of the procedure in the simulation or via <a href="../../elements/demonstration/">Demonstration</a> before learner attempts</li>
+<li><strong>Practice with feedback</strong> — have learners perform the task in the simulation with immediate, action-contingent feedback <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at the task and process levels.</a> [+S]; break complex procedures into segments using <a href="../../elements/part-task-practice/">Part-Task Practice</a> for novices <a href="../../claims/part-task-practice-reduces-load-for-novices/">Part-task practice reduces load for novices.</a> [+M]</li>
+<li><strong>Increase complexity and variability</strong> — progress to whole-task scenarios with complications, distractors, and failure states</li>
+<li><strong>Debrief</strong> — review performance data and errors with a facilitator, connecting virtual performance to real-world application <a href="../../elements/application/">Application</a></li>
+<li><strong>Space the rehearsal</strong> — distribute repeat sessions over time rather than massing them <a href="../../claims/spaced-repetition-improves-retention/">Spaced repetition improves retention.</a> [+S]</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../simulation-based-training/">Simulation-Based Training</a> — the broader family; VR is its most immersive form</li>
+<li><a href="../acting-role-play/">Role-Play</a> — low-tech embodiment of the same principle of enacted practice</li>
+<li><a href="../flipped-classroom/">Flipped Classroom</a> — VR sessions can serve as the application layer after preparatory study</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — the core activity VR enables at scale and without risk</li>
+<li><a href="../../elements/demonstration/">Demonstration</a> — expert models can be shown inside the same environment learners will perform in</li>
+<li><a href="../../elements/coaching/">Coaching</a> — facilitator or system guidance during simulation</li>
+<li><a href="../../elements/application/">Application</a> — debriefing and transfer activities that convert virtual performance into real competence</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Osso VR</strong> — surgical rehearsal platform with objective performance scoring</li>
+<li><strong>STRIVR</strong> — workplace and safety training using immersive scenario practice</li>
+<li><strong>Oxford Medical Simulation</strong> — virtual patient simulators for clinical decision-making in nursing and medicine</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Surgical training:</strong> randomized studies of VR laparoscopic simulation (e.g., MIST-VR) show trainees trained in VR perform procedures faster and with fewer errors than conventionally trained controls [+M]</li>
+<li><strong>Walmart</strong> used STRIVR's VR modules to prepare associates for high-pressure events (Black Friday, emergency procedures) at scale across thousands of stores</li>
+<li><strong>Flight simulation</strong> — the longest-standing VR-adjacent training tradition; full-motion simulators are the regulatory standard for airline pilot certification</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Makransky, G., &amp; Mayer, R. E. (2022). Benefits of immersion and presence in a virtual reality-based learning environment. <em>Educational Psychology Review, 34</em>, 2323–2345. <a href="https://doi.org/10.4324/9781003386131-13">doi:10.4324/9781003386131-13</a></li>
+<li>Parong, J., &amp; Mayer, R. E. (2018). Learning science in immersive virtual reality. <em>Journal of Educational Psychology, 110</em>(6), 785–797. <a href="https://doi.org/10.1037/edu0000241">doi:10.1037/edu0000241</a></li>
+<li>Jensen, L., &amp; Konradsen, F. (2018). A review of the use of virtual reality head-mounted displays in education and training. <em>Education and Information Technologies, 23</em>, 1515–1529. <a href="https://doi.org/10.1007/s10639-017-9676-0">doi:10.1007/s10639-017-9676-0</a></li>
+<li>Seymour, N. E., Gallagher, A. G., Roman, S. A., O'Brien, M. K., Bansal, V. K., Andersen, D. K., &amp; Satava, R. M. (2002). Virtual reality training improves operating room performance: Results of a randomized, double-blinded study. <em>Annals of Surgery, 236</em>(4), 458–464. <a href="https://doi.org/10.1097/00000658-200210000-00008">doi:10.1097/00000658-200210000-00008</a></li>
 </ul>
 
 

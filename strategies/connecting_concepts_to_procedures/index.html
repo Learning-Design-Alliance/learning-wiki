@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Conceptual understanding must precede and coincide with instruction on procedures.">
+        <meta name="description" content="Instruction explicitly links conceptual understanding with procedural skill so each reinforces the other, rather than teaching algorithms as rote steps.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -703,10 +686,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
+  <a href="#patterns-that-use-this-strategy" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Tools
+        Patterns That Use This Strategy
       
     </span>
   </a>
@@ -761,74 +744,89 @@
 
 
 <h1 id="connecting-concepts-to-procedures">Connecting Concepts to Procedures<a class="headerlink" href="#connecting-concepts-to-procedures" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Conceptual understanding must precede and coincide with instruction on procedures. Learning is supported when instruction on procedures and concepts is explicitly connected in ways that make sense to learners and are iterative. Conceptual foundations lead to opportunities to develop reasoning strategies, which in turn deepens conceptual understanding; memorizing an algorithm does not. Examples of explicitly connecting procedures and concepts can be found in the Additional Resources section.</p>
+<p>This strategy treats conceptual knowledge (why a procedure works) and procedural knowledge (how to execute it) as mutually reinforcing rather than separate instructional tracks. Instruction sequences and interleaves the two: procedures are introduced with explicit reference to the concepts that justify them, and conceptual discussion is grounded in the procedures learners are mastering. The relationship is iterative — procedural fluency creates material for conceptual reasoning, and conceptual insight improves procedural flexibility and error detection.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>The strategy rests on a well-documented reciprocal relationship: growth in one knowledge type predicts subsequent growth in the other across domains such as mathematics <a href="https://doi.org/10.1111/1467-8624.00377">Rittle-Johnson et al. model iterative bidirectional development of conceptual and procedural knowledge.</a> [+M]. Teaching procedures without conceptual grounding produces brittle, error-prone performance that fails to transfer; teaching concepts without procedural practice leaves learners unable to act. The design problem is sequencing and connection-making, not choosing one over the other.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Demands thorough preparation, creative instructional strategies, and access to resources that effectively illustrate connections. Requires educators to deeply understand both concepts and procedures.</li>
+<li>Instructor command of <em>both</em> the concept and the procedure — superficial procedural knowledge cannot be connected to anything</li>
+<li>Explicit connection points: prompts that ask learners to explain <em>why</em> a step works, not just <em>what</em> to do (<a href="../../elements/self-explanation/">Self-Explanation</a> or structured questioning)</li>
+<li>Representational variety — concrete, visual, and symbolic forms of the same idea so the procedure can be seen as one instantiation of the concept</li>
+<li>Practice that includes varied problem formats, forcing learners to decide <em>which</em> procedure applies and why</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Conceptual understanding and instruction can be time-consuming, resource-intensive, and may not be suitable for topics with limited real-world applications.</li>
+<li>Time-intensive: building conceptual foundations before or alongside procedures is slower than direct algorithm drill in the short term, and gains may not appear on immediate procedural tests [~M]</li>
+<li>Weak or inaccurate conceptual instruction can actively interfere — misconceptions taught as "understanding" produce worse outcomes than clean procedural instruction alone [-M]</li>
+<li>For learners with very low prior knowledge, heavy conceptual discussion can overload working memory before the procedure is stable <a href="../../claims/part-task-practice-reduces-load-for-novices/">Cognitive load constraints favor part-task practice before integrated reasoning.</a> [~M]</li>
+<li>The benefit reverses with expertise: advanced learners often gain little from re-deriving concepts they have already integrated <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective as expertise grows.</a> [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Concepts-first:</strong> develop the conceptual model, then formalize the procedure (common in <a href="../../patterns/cognitively-guided-instruction-cgi-for-math/">Cognitively Guided Instruction</a>)</li>
+<li><strong>Procedures-first with retroactive connection:</strong> teach the algorithm, then unpack why it works — efficient when the procedure is simple but the concept is abstract</li>
+<li><strong>Interleaved/iterative:</strong> alternate between the two across a unit, the design most consistent with the bidirectional-development evidence [+M]</li>
+<li><strong>Comparison-based:</strong> present two procedures side by side and ask what conceptual difference explains their difference <a href="../../claims/multiple-contrasting-cases-support-abstraction/">Comparing multiple cases supports abstraction of the underlying structure.</a> [+M]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>K-12, higher education, and adult learners</li>
+<li>Novices in a domain, who otherwise memorize algorithms they cannot adapt or debug <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation of why steps work improves conceptual understanding.</a> [+S]</li>
+<li>Intermediate learners who execute procedures accurately but apply them indiscriminately</li>
+<li>Less beneficial for experts, for whom the connection is already consolidated <a href="../../claims/expertise-reversal-effect/">Expertise reverses the benefit of added conceptual scaffolding.</a> [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Develops deep understanding, improves long-term memory, reduces errors, promotes reasoning strategies</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Enhances understanding, aids retention, minimizes rote memorization, and promotes flexible application of knowledge. Learners are better equipped to solve complex problems and adapt to new situations when they grasp the underlying concepts.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Adapt content by using familiar analogies and real-world examples to suit individual Background Knowledge. Vary examples to include diverse cultural contexts and experiences.</li>
+<li>Procedural flexibility: selecting and adapting methods to problem features</li>
+<li>Conceptual schema formation: understanding why procedures work <a href="../../claims/whole-task-performance-improves-transfer/">Whole-task practice improves transfer better than isolated drill.</a> [+M]</li>
+<li>Error detection and self-correction: using conceptual understanding to catch procedural slips <a href="../../claims/erroneous-examples-build-conceptual-knowledge/">Erroneous examples build conceptual knowledge by requiring diagnosis.</a> [+M]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/direct-instruction/">Direct instruction</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Evaluates learners’ ability to articulate connections between concepts and procedures through explanations, applications, and problem-solving tasks. Assesses learners’ conceptual understanding using multiple-choice questions and their ability to apply procedures correctly in context.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Enhances understanding, aids retention, minimizes rote memorization, and promotes flexible application of knowledge. Learners are better equipped to solve complex problems and adapt to new situations when they grasp the underlying concepts.</li>
-</ul>
+<ol>
+<li>Establish the conceptual foundation with a concrete or visual model (<a href="../../elements/analogies/">Analogies</a>, manipulatives, or a real-world scenario tied to learners' background knowledge)</li>
+<li>Introduce the procedure as a <em>consequence</em> of the concept, narrating why each step is justified (<a href="../../elements/direct-instruction/">Direct Instruction</a> with explicit connection language)</li>
+<li>Have learners explain the connection in their own words during early practice (<a href="../../elements/practice/">Practice</a> with self-explanation prompts) [+S]</li>
+<li>Present varied and contrasting problems so learners must reason about <em>when</em> the procedure applies, not just <em>how</em></li>
+<li>Use erroneous examples — a worked solution with a conceptual error — and ask learners to find and explain the flaw [+M]</li>
+<li>Fade the conceptual supports as fluency develops, shifting prompts from "why does this work?" to "which method fits this problem?"</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../worked-examples/">Worked Examples</a> — worked examples annotated with conceptual rationale are a primary vehicle for connecting the two knowledge types</li>
+<li><a href="../../elements/self-explanation/">Self-Explanation</a> — the mechanism by which learners extract the concept–procedure link</li>
+<li><a href="../../elements/comparing-cases/">Comparing Cases</a> — contrast supports abstraction of the concept underlying different procedures</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/analogies/">Analogies</a> — bridge unfamiliar procedures to familiar conceptual structures</li>
+<li><a href="../../elements/practice/">Practice</a> — the site where connections are consolidated; practice prompts should require justification, not just execution</li>
+<li><a href="../../elements/coaching/">Coaching</a> — in-the-moment questioning that surfaces why a procedure step is warranted</li>
+<li><a href="../../elements/case-studies/">Case Studies</a> — contextualize procedures within meaningful conceptual problems</li>
 </ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
+<h2 id="patterns-that-use-this-strategy">Patterns That Use This Strategy<a class="headerlink" href="#patterns-that-use-this-strategy" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../patterns/cognitively-guided-instruction-cgi-for-math/">Cognitively Guided Instruction</a> — builds procedures from learners' conceptual problem models</li>
+<li><a href="../../patterns/4cid-four-component-instructional-design/">Four-Component Instructional Design</a> — pairs supportive (conceptual) information with procedural information on learning tasks</li>
+<li><a href="../../patterns/cognitive-apprenticeship/">Cognitive Apprenticeship</a> — expert narration makes the conceptual basis of procedures visible</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Explicitly connecting procedures and concepts can be found in the Additional Resources section.</li>
+<li><strong>Cognitively Guided Instruction (CGI)</strong> — elementary mathematics teachers elicit children's informal solution strategies and connect standard algorithms to the conceptual operations children already use (<a href="https://www.education.wisc.edu/wwi/about/">CGI overview</a>)</li>
+<li><strong>Number Talks</strong> — brief classroom routines where learners solve a computation mentally, share strategies, and the teacher connects each strategy to place-value or operation concepts</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — math lessons pair procedural video demonstrations with "why this works" conceptual explanations and varied practice sets</li>
+<li><strong><a href="https://illustrativemathematics.org">Illustrative Mathematics</a></strong> — curriculum explicitly sequenced so conceptual tasks precede and accompany procedural fluency practice</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Rittle-Johnson, B., Siegler, R. S., &amp; Alibali, M. W. (2001). Developing conceptual understanding and procedural skill in mathematics: An iterative process. <em>Child Development, 72</em>(2), 346–361. <a href="https://doi.org/10.1037/0022-0663.93.2.346">doi:10.1037/0022-0663.93.2.346</a></li>
+<li>Rittle-Johnson, B., Loehr, A. M., &amp; Durkin, K. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. <em>ZDM Mathematics Education, 49</em>, 599–611. <a href="https://doi.org/10.1007/s11858-017-0834-z">doi:10.1007/s11858-017-0834-z</a></li>
+<li>Hiebert, J., &amp; Lefevre, P. (1986). Conceptual and procedural knowledge in mathematics: An introductory analysis. In J. Hiebert (Ed.), <em>Conceptual and procedural knowledge: The case of mathematics</em> (pp. 1–27). Lawrence Erlbaum.</li>
+<li>Rittle-Johnson, B., &amp; Schneider, M. (2015). Developing conceptual and procedural knowledge of mathematics. In R. C. Kadosh &amp; A. Dowker (Eds.), <em>Oxford Handbook of Numerical Cognition</em> (pp. 1118–1134). Oxford University Press.</li>
+<li>Canobi, K. H. (2009). Concept–procedure interactions in children's addition and subtraction. <em>Journal of Experimental Child Psychology, 102</em>(2), 131–149. <a href="https://doi.org/10.1016/j.jecp.2008.07.008">doi:10.1016/j.jecp.2008.07.008</a></li>
 </ul>
 
 

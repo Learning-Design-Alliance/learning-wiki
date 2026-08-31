@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Interactive storytelling involves creating narratives where the reader or user can make choices that affect the story's direction and outcome.">
+        <meta name="description" content="Interactive storytelling places learners inside a branching narrative where their choices shape the story's direction and outcome, making them active participants rather than passive readers.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +722,74 @@
 
 
 <h1 id="interactive-storytelling">Interactive Storytelling<a class="headerlink" href="#interactive-storytelling" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Interactive storytelling involves creating narratives where the reader or user can make choices that affect the story's direction and outcome. This is often achieved through tools like inklewriter, which allows writers to create branching narratives with ease. Interactive storytelling enhances engagement, critical thinking, and reader agency.</p>
+<p>Interactive storytelling creates narratives in which the reader or user makes choices that affect the story's direction and outcome, typically through branching structures built with tools such as <a href="https://www.inklewriter.com">inklewriter</a>, <a href="https://twinery.org">Twine</a>, or <a href="https://www.articulate.com/360/storyline/">Storyline</a>. The learner is positioned as an agent whose decisions carry consequences, which converts narrative consumption into narrative participation. It is used both as a medium learners <em>experience</em> (to explore consequences of decisions) and one they <em>author</em> (to demonstrate understanding of narrative structure and content).</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Narrative context supports engagement and comprehension by giving abstract content a concrete, causal structure learners can reason about [~M], and authoring choices requires learners to anticipate consequences, which promotes deeper processing of the underlying content [~W]. The design burden is high: every branch must be written, and weak branches teach wrong lessons as effectively as strong ones teach right ones.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to interactive storytelling software or platforms like inklewriter, and a basic understanding of narrative structure.</li>
+<li>A branching authoring tool (inklewriter, Twine, Articulate Storyline) and basic understanding of narrative structure</li>
+<li>A decision point design where each choice maps to a meaningful conceptual distinction, not arbitrary plot variation</li>
+<li>Consequence feedback within the story itself — outcomes that show <em>why</em> a choice was good or poor, rather than an external score (<a href="../../elements/application/">Application</a>)</li>
+<li>For authoring tasks: exemplar stories and a model of the authoring process (<a href="../../elements/demonstration/">Demonstration</a>)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Can be time-consuming to create, requires careful planning of multiple narrative paths, and may be technically challenging for beginners.</li>
+<li>Production cost grows combinatorially with branching depth; most projects collapse into shallow "fake choice" branches that offer the appearance but not the substance of agency [~M]</li>
+<li>Learners can focus on plot entertainment and disengage from the learning goal entirely; narrative must be tightly coupled to the target concepts [~W]</li>
+<li>Free exploration of branches can encourage guessing rather than reasoning; requiring learners to justify choices before committing mitigates this <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+M]</li>
+<li>Less effective when the learning goal is procedural fluency or factual recall, where the narrative wrapper adds extraneous processing without adding structure [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Learner-as-reader:</strong> branching scenarios for decision-making training (ethics, clinical reasoning, history "what-ifs")</li>
+<li><strong>Learner-as-author:</strong> students build the branching story, which requires them to map the full possibility space of a topic</li>
+<li><strong>Constrained branching:</strong> limited choice points (2–3 per node, converging paths) to control production cost while preserving agency</li>
+<li><strong>Group authorship:</strong> teams draft competing branches and defend their choices, adding <a href="../../elements/collaboration/">Collaboration</a></li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learner levels, including K–12, higher education, and adult learners interested in creative writing and game design</li>
+<li>K–12 through adult learners; particularly effective for reluctant writers, who gain a low-stakes structure for producing extended text [~W]</li>
+<li>Learners training for consequential decisions (medical, ethical, managerial) where real practice is costly or risky [~M]</li>
+<li>Novice authors benefit from worked exemplar stories before branching out; experienced writers may find heavy scaffolding constraining [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Develop creative writing skills, enhance understanding of narrative structure, and promote critical thinking through decision-making.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Increases reader engagement, promotes active participation, and strengthens critical thinking skills through decision-making.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Readers can explore different paths and outcomes, allowing for a customized and personalized experience.</li>
+<li>Narrative structure and creative writing craft (pacing, point of view, cause and effect)</li>
+<li>Perspective-taking and empathy through inhabiting decision-makers' positions [~W]</li>
+<li>Applied judgment in ill-structured domains — exploring consequences of choices in ethics, history, and clinical scenarios</li>
+<li>Systems thinking: authoring a branching story requires modeling how variables interact</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/application/">Application</a></li>
-<li><a href="../../elements/demonstration/">Demonstration</a></li>
-<li><a href="../../elements/provide-feedback/">Provide Feedback</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Assess the creativity and coherence of the narrative, the effectiveness of the interactive elements, and the overall impact of the story.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Interactive storytelling enhances reader engagement, promotes active participation, and strengthens critical thinking skills through decision-making.</li>
-</ul>
+<ol>
+<li><strong>Play an exemplar.</strong> Have learners experience a published interactive story and map its branch structure, making the design visible (<a href="../../elements/demonstration/">Demonstration</a>).</li>
+<li><strong>Plan the decision map.</strong> Learners outline the key choice points and their consequences on paper before writing — the branching logic, not the prose, is the hard part.</li>
+<li><strong>Draft branches with meaningful consequences.</strong> Each choice should reflect a real conceptual distinction; weak outcomes should show <em>why</em> they are weak within the story (<a href="../../elements/application/">Application</a>).</li>
+<li><strong>Peer-test and revise.</strong> Readers play each other's stories and identify branches where choices felt arbitrary or consequences unclear (<a href="../../elements/coaching/">Coaching</a>).</li>
+<li><strong>Reflect on authoring decisions.</strong> Learners explain why particular branches lead where they do, converting narrative choices into explicit conceptual reasoning.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/case-studies/">Case Studies</a> — interactive stories are essentially cases where the learner chooses the protagonist's moves</li>
+<li>Role-play and simulation — share the goal of practicing decisions in consequence-bearing contexts</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Creating a choose-your-own-adventure story, designing an interactive game narrative.</li>
+<li><strong><a href="https://twinery.org">Twine</a></strong> — open-source branching narrative tool widely used in classrooms; students author hypertext stories with no coding required.</li>
+<li><strong><a href="https://www.inklewriter.com">inklewriter</a></strong> — free web tool from inkle (creators of <em>80 Days</em>) designed for writing choose-your-own-adventure stories.</li>
+<li><strong><a href="https://www.icivics.org">iCivics</a></strong> — decision-driven narrative games where students act as judges, legislators, and presidents and see policy consequences unfold.</li>
+<li><strong>Choose-your-own-adventure units in ELA</strong> — students study a published interactive novel, then author their own as an assessment of narrative craft and topic knowledge.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Dickey, M. D. (2006). Game design narrative for learning: Appropriating adventure game design narrative devices and techniques for the production of educational environments. <em>Educational Technology Research and Development, 54</em>(3), 245–263. <a href="https://doi.org/10.1007/s11423-006-8806-y">doi:10.1007/s11423-006-8806-y</a></li>
+<li>Ryan, M.-L. (2001). <em>Narrative as virtual reality: Immersion and interactivity in literature and electronic media.</em> Johns Hopkins University Press.</li>
+<li>Squire, K. (2011). <em>Video games and learning: Teaching and participatory culture in the digital age.</em> Teachers College Press.</li>
+<li>Ritterfeld, U., Cody, M., &amp; Vorderer, P. (Eds.). (2009). <em>Serious games: Mechanisms and effects.</em> Routledge.</li>
 </ul>
 
 

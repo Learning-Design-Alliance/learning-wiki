@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -695,55 +722,74 @@
 
 
 <h1 id="quizzes">Quizzes<a class="headerlink" href="#quizzes" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Element</strong> · <a href="../">All elements</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Short, low-stakes assessments that reinforce learning and provide feedback.</p>
+<p>Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Quizzes are one of the most robustly supported instructional elements: testing itself improves long-term retention, often more than restudying the same material [Rowland, 2014 meta-analysis] [+S]. The benefit comes from the act of retrieval, not merely from re-exposure to content, so quiz questions should require learners to produce or select answers from memory rather than simply reread. Feedback is essential — retrieval without corrective feedback can entrench errors, especially for high-confidence wrong answers <a href="../../claims/high-confidence-errors-improve-retention/">High-confidence errors improve retention when corrected.</a> [~M]. Distributing quizzes over time multiplies the effect, since spaced retrieval produces markedly better retention than massed testing <a href="../../claims/spaced-repetition-improves-retention/">Spaced retrieval outperforms massed.</a> [+S].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Questions that target retrieval, not recognition of recently seen text (avoid verbatim repetition of study material)</li>
+<li>Immediate or rapid feedback with correct answers and brief explanations</li>
+<li>Low or no stakes, so errors are treated as learning events rather than failures</li>
+<li>Distribution across time, aligned with a <a href="../spaced-repetition/">Spaced Repetition</a> schedule</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Quizzes that only test recall of isolated facts can narrow study behavior toward memorization at the expense of deeper understanding [~M] — learners study to the test format</li>
+<li>Testing without feedback risks reinforcing errors; learners may confidently re-retrieve wrong answers [-S]</li>
+<li>Frequent identical re-testing produces diminishing returns once material is mastered; question difficulty must adapt or rotate [~M]</li>
+<li>High-stakes framing undermines the benefit — anxiety and grade pressure shift attention from learning to performance [~M]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Effective for all learners, particularly in digital learning environments.</li>
+<li>Effective across ages and subject domains, including young children and medical students [Rowland, 2014 meta-analysis] [+S]</li>
+<li>Particularly valuable in digital environments where automated question delivery and feedback are cheap and scalable</li>
+<li>Benefits learners with weaker prior knowledge especially, because retrieval success builds a foundation for later integration [+M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Encourage frequent knowledge checks and spaced learning.</li>
+<li>Retention of factual and conceptual knowledge over weeks and months</li>
+<li>Formative diagnosis: identifying gaps for both learner and instructor</li>
+<li>Fluency building: automating prerequisite knowledge to free working memory for complex tasks</li>
 </ul>
 <h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<!-- Links to principles applied -->
 <ul>
-<li><a href="../../principles/cognitive-load-theory/">Cognitive Load Theory</a></li>
-<li><a href="../../principles/mastery-learning/">Mastery Learning</a></li>
-<li><a href="../../principles/formative-assessment/">Formative Assessment</a></li>
+<li><a href="../retrieval-practice/">Retrieval Practice</a> — a quiz is the operational form of retrieval practice; the testing effect is the mechanism behind the element</li>
+<li><a href="../../principles/formative-assessment/">Formative Assessment</a> — low-stakes quizzes generate evidence of understanding that can trigger instructional adjustment before summative assessment</li>
+<li><a href="../../principles/cognitive-load-theory/">Cognitive Load Theory</a> — successful retrieval of prerequisite knowledge automates it, reducing working-memory load during subsequent complex learning</li>
+<li><a href="../../principles/mastery-learning/">Mastery Learning</a> — quizzes provide the checkpoint mechanism: learners advance only after demonstrating criterion performance</li>
+<li><a href="../spaced-repetition/">Spaced Repetition</a> — quiz scheduling is the delivery vehicle for spacing; systems resurface items at expanding intervals</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../retrieval-practice/">Retrieval Practice</a></li>
-<li><a href="../formative-assessment/">Formative Assessment</a></li>
-<li><a href="../spaced-repetition/">Spaced Repetition</a></li>
+<li><a href="../retrieval-practice/">Retrieval Practice</a> — the underlying mechanism; a quiz is retrieval practice with assessment structure</li>
+<li><a href="../formative-assessment/">Formative Assessment</a> — the broader function quizzes serve when results inform teaching</li>
+<li><a href="../spaced-repetition/">Spaced Repetition</a> — the scheduling principle that determines when quizzes should occur</li>
+<li><a href="../feedback/">Feedback</a> — the component that converts retrieval into corrected knowledge</li>
+<li><a href="../assess-performance/">Assess Performance</a> — Gagné's event that quizzes operationalize</li>
 </ul>
 <h2 id="patterns-that-use-this-element">Patterns That Use This Element<a class="headerlink" href="#patterns-that-use-this-element" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../../patterns/formative-assessment/">Formative Assessment</a></li>
-<li><a href="../../patterns/mastery-learning/">Mastery Learning</a></li>
-<li><a href="../../patterns/competency-based-learning/">Competency-Based Learning</a></li>
+<li><a href="../../patterns/formative-assessment/">Formative Assessment</a> — quizzes as the recurring evidence-gathering loop</li>
+<li><a href="../../patterns/mastery-learning/">Mastery Learning</a> — quizzes as criterion-referenced checkpoints gating progression</li>
+<li><a href="../../patterns/competency-based-learning/">Competency-Based Learning</a> — quizzes as evidence of demonstrated competency</li>
+<li><a href="../../patterns/flipped-classroom/">Flipped Classroom</a> — pre-class quizzes hold learners accountable for first-exposure material</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
-<!-- Links to strategies that use this element, with ratings -->
-<ul>
-<li><!-- TODO --></li>
-</ul>
+<p><strong><a href="https://www.duolingo.com">Duolingo</a></strong> — Short, frequent, gamified quizzes with adaptive item resurfacing; a mass-market implementation of spaced retrieval.</p>
+<p><strong><a href="https://apps.ankiweb.net">Anki</a></strong> — Spaced-repetition flashcard system that schedules retrieval attempts at expanding intervals based on self-rated difficulty.</p>
+<p><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — Practice exercises with immediate feedback and mastery tracking; quizzes gate progression through skill levels.</p>
+<p><strong><a href="https://www.retrievalpractice.org">Retrieval practice guides</a></strong> — Agarwal and Bain's teacher-facing resources translating testing-effect research into classroom quiz routines (e.g., "brain dumps," two-things exit tickets).</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. <em>Psychological Science, 17</em>(3), 249–255. <a href="https://doi.org/10.1111/medu.12141">doi:10.1111/medu.12141</a></li>
+<li>Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. <em>Psychological Bulletin, 140</em>(6), 1432–1463. <a href="https://doi.org/10.1037/a0037559">doi:10.1037/a0037559</a></li>
+<li>Black, P., &amp; Wiliam, D. (1998). Assessment and classroom learning. <em>Assessment in Education: Principles, Policy &amp; Practice, 5</em>(1), 7–74. <a href="https://doi.org/10.1080/0969595980050102">doi:10.1080/0969595980050102</a></li>
+<li>Butler, A. C., &amp; Roediger, H. L. (2008). Feedback enhances the positive effects and reduces the negative effects of multiple-choice testing. <em>Memory &amp; Cognition, 36</em>(3), 604–616. <a href="https://doi.org/10.3758/MC.36.3.604">doi:10.3758/MC.36.3.604</a></li>
 </ul>
 
 

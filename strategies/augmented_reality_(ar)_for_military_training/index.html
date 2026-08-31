@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="AR creates training environments required for soldiers to train more often, save travel costs, and reduce the need for special equipment.">
+        <meta name="description" content="AR overlays virtual objects and scenario elements onto real training environments, allowing soldiers to rehearse tasks more frequently, safely, and cheaply than live exercises permit.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,76 +733,82 @@
 
 
 <h1 id="augmented-reality-ar-for-military-training">Augmented Reality (AR) for Military Training<a class="headerlink" href="#augmented-reality-ar-for-military-training" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>AR creates training environments required for soldiers to train more often, save travel costs, and reduce the need for special equipment. Augmented reality technology is used to add virtual objects to the physical world, such as virtual vehicles and enemies. This method creates systems that eliminate the need to travel to remote locations and helps soldiers train without danger.</p>
+<p>AR overlays virtual objects — enemy combatants, vehicles, hazards, equipment callouts — onto the physical world as seen through head-mounted displays, tablets, or projected systems. This lets trainees rehearse tactical, maintenance, and decision-making tasks in real terrain and on real equipment without the cost, travel, range time, and risk of fully live exercises. Unlike <a href="../virtual-reality-simulations/">Virtual Reality</a>, AR preserves the physical cues of the actual environment, supporting <a href="../../theories/situated-learning/">situated learning</a> [~M].</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>AR's training value comes from combining real-world context with controllable, repeatable scenario content — a form of <a href="../simulation-based-training/">Simulation</a> that reduces the gap between training and operational environments. Because AR adds visual information to an already demanding task, scenario design must manage <a href="../../principles/cognitive-load-management/">cognitive load</a>: poorly integrated overlays can split attention between the display and the real world <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [+S]. AR is most effective as a component within a blended training pipeline, not a replacement for live exercises [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>AR software, mobile devices, virtual effects.</li>
+<li>Reliable tracking and registration so virtual objects stay anchored to real positions; misregistration destroys training value</li>
+<li>Scenario content aligned to actual mission-relevant tasks, not technology demonstrations</li>
+<li>Instructor control of scenario variables (adversary behavior, weather, failures) to enable <a href="../../elements/practice/">Practice</a> with varied conditions</li>
+<li>Debrief capability — recorded scenario data supports <a href="../../elements/feedback/">Feedback</a> and after-action review</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Cannot fully replace traditional training.</li>
+<li>AR cannot replicate live-fire stress, physical fatigue, or the consequences of real danger; over-reliance risks confidence without competence [-M]</li>
+<li>Display field-of-view limits and latency can degrade marksmanship and vehicle-handling skill transfer [-M]</li>
+<li>Effectiveness drops for tasks where the virtual overlay cues attention learners must eventually allocate themselves; guidance should fade as proficiency grows <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective as learner expertise increases.</a> [~M]</li>
+<li>Hardware fragility, battery life, and environmental conditions (bright sun, dust) constrain field use [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Head-mounted AR</strong> (e.g., IVAS-style systems) for dismounted squad tactics and navigation</li>
+<li><strong>Tablet/phone AR</strong> for maintenance training, overlaying step-by-step procedures on actual equipment</li>
+<li><strong>Projected/dome AR</strong> for vehicle and gunnery simulators</li>
+<li><strong>Marker-based overlays on ranges</strong> to populate live ranges with virtual adversaries at fraction of live-opposition cost</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Soldiers, military personnel</li>
+<li>Novice soldiers learning equipment operation, procedures, and spatial tasks, where contextual overlays reduce search and error <a href="../../claims/cognitive-overload-degrades-learning/">AR supports learning by visualizing spatial and procedural information in context.</a> [+M]</li>
+<li>Experienced personnel benefit mainly from scenario variability and stress inoculation, not from procedural overlays, which become redundant <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective as learner expertise increases.</a> [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Prepare soldiers for field operations; provide realistic training; reduce travel costs; improve knowledge retention</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Realistic training environments, safe space to make mistakes, provides training that is difficult to replicate in real life.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Scenarios tailored to specific roles, adaptability to different settings</li>
+<li>Procedural skill: weapons maintenance, equipment checks, call-for-fire procedures</li>
+<li>Spatial and situational awareness: navigation, terrain association, threat detection</li>
+<li>Team coordination and decision-making under simulated operational conditions</li>
+<li>Knowledge retention through repeated, low-cost rehearsal [~M]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/direct-instruction/">Direct instruction</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-<li><a href="../../elements/application/">Application</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Performance metrics and skill improvement.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Cost efficient; improves soldier preparedness</li>
-</ul>
+<ol>
+<li><strong>Brief and orient</strong> — deliver <a href="../../elements/direct-instruction/">Direct Instruction</a> on the task and the AR system's conventions before first use.</li>
+<li><strong>Demonstrate</strong> — model the task with AR overlays active, using <a href="../../elements/coaching/">Coaching</a> to narrate decisions.</li>
+<li><strong>Practice with feedback</strong> — trainees perform the task in AR scenarios; instructors adjust difficulty and deliver task-level <a href="../../elements/feedback/">Feedback</a> <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S].</li>
+<li><strong>Debrief</strong> — replay recorded scenario data in an after-action review; require trainees to <a href="../../elements/articulation/">Articulate</a> their decisions.</li>
+<li><strong>Fade and transfer</strong> — progressively remove overlays and cues, then confirm performance in live training <a href="../../elements/application/">Application</a>.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../simulation-based-training/">Simulation-Based Training</a> — AR is a variant that preserves real-world context</li>
+<li><a href="../virtual-reality-training/">Virtual Reality Training</a> — fully synthetic alternative when real terrain is unavailable</li>
+<li><a href="../scenario-based-training/">Scenario-Based Training</a> — AR supplies the scenario content layer</li>
+<li><a href="../after-action-review/">After-Action Review</a> — the debrief method that converts AR exercise data into learning</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — AR enables high-repetition, low-cost practice</li>
+<li><a href="../../elements/coaching/">Coaching</a> — instructor intervention during AR scenarios</li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — AR systems log objective performance data</li>
+<li><a href="../../elements/application/">Application</a> — AR rehearsal must culminate in live-task application</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>U.S. Army Integrated Visual Augmentation System (IVAS)</strong> — head-mounted AR for squad-level training and rehearsal, projecting virtual adversaries and waypoints onto real terrain (https://peo-soldier.army.mil).</li>
+<li><strong>AVTR (Augmented Virtuality Tactical Rehearsal) and synthetic training environments</strong> — mixed-reality range systems that overlay virtual opposing forces onto live ranges.</li>
+<li><strong>Maintenance AR applications</strong> — tablet-based overlays guiding armorers and mechanics through weapon and vehicle procedures step by step, reducing errors and training time [+M].</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Akçayır, M., &amp; Akçayır, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. <em>Computers &amp; Education, 114</em>, 506–527. <a href="https://doi.org/10.1016/j.compedu.2016.11.002">doi:10.1016/j.compedu.2016.11.002</a></li>
+<li>Bacca, J., Baldiris, S., Fabregat, R., Graf, S., &amp; Kinshuk. (2014). Augmented reality trends in education: A systematic review of research and applications. <em>Educational Technology &amp; Society, 17</em>(4), 133–149.</li>
+<li>Billinghurst, M., Clark, A., &amp; Lee, G. (2015). A survey of augmented reality. <em>Foundations and Trends in Human–Computer Interaction, 8</em>(2–3), 73–272. <a href="https://doi.org/10.1561/1100000049">doi:10.1561/1100000049</a></li>
+<li>Mayer, R. E. (2021). <em>Multimedia learning</em> (3rd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/9781316941355">doi:10.1017/9781316941355</a></li>
+<li>Stone, R. J., &amp; Watts, K. P. (2010). Steering simulation technologies for military training. In E. Salas et al. (Eds.), <em>Military training effectiveness</em> (pp. 155–190). Wiley.</li>
 </ul>
 
 

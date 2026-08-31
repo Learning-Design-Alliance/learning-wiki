@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Students try to give a high-five to five different classmates.">
+        <meta name="description" content="A movement-based game in which students try to high-five five different classmates, then use the pattern of success and failure to discover parity (handshake) reasoning.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -703,10 +686,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
+  <a href="#patterns-that-use-this-strategy" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Tools
+        Patterns That Use This Strategy
       
     </span>
   </a>
@@ -761,74 +744,86 @@
 
 
 <h1 id="five-high-fives">Five High Fives<a class="headerlink" href="#five-high-fives" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Students try to give a high-five to five different classmates. When they’ve gotten their five high-fives done, they sit down. This game is part mystery: sometimes it will be possible for everyone to get a high-five; sometimes not. The difference (which the teacher knows but the students don’t) is that it is only possible if there are an even number of people giving high-fives. Try this game at different times and let students guess whether they think everyone will get a high-five or not. Why does it only work sometimes, not always? If you make it four or six high-fives instead of five, then everyone will be able to get their high-fives every time.</p>
+<p>Students try to give a high-five to five different classmates; when they have collected five, they sit down. The game is partly a mystery: sometimes everyone succeeds, sometimes someone is left stranded. The hidden variable — known to the teacher but not the students — is parity. Each high-five involves two people, so the total number of high-fives given is always half the number of participants; with five high-fives each, an odd-sized group cannot complete the task, while an even-sized group can. Played repeatedly across different class sizes or groupings, the game becomes a concrete, embodied puzzle from which students can induce the underlying mathematical structure.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>The activity pairs whole-body movement with a genuine mathematical puzzle, so it works on two fronts: brief physical activity restores attention for subsequent instruction <a href="../../claims/classroom-physical-activity-improves-attention/">Classroom physical activity improves attention.</a> [+M], and the surprising failure pattern creates cognitive conflict that motivates students to seek an explanation <a href="../../claims/cognitive-disequilibrium-motivates-conceptual-change/">Cognitive disequilibrium motivates conceptual change.</a> [+M]. The teacher's role is to withhold the answer, run the game under varied conditions, and then orchestrate a discussion in which students propose and test conjectures about <em>why</em> it only sometimes works.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Open space where students can move freely.</li>
+<li>An open space where students can move freely and pair up quickly</li>
+<li>Multiple rounds with deliberately varied group sizes (odd and even) so the pattern is detectable</li>
+<li>A follow-up discussion structure (<a href="../../elements/class-discussion/">Class Discussion</a>) where students compare results and form conjectures</li>
+<li>Teacher tracking of group size and outcome across rounds (e.g., a simple tally on the board)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Some students may find it difficult to get their high-fives due to social dynamics.</li>
+<li>Social dynamics can leave some students repeatedly un-paired; the "loser" of each round is publicly visible, which can be uncomfortable for socially vulnerable students [-M] — mitigate by framing the leftover person as the <em>clue</em> rather than the failure</li>
+<li>If the teacher reveals the parity rule too early, the puzzle collapses into recall and the conjecture work is lost [-M]</li>
+<li>With very small groups, the pattern may not emerge from experience alone; students may need the tally data made explicit</li>
+<li>The connection to the handshake lemma is not automatic — without structured discussion, students may remember the game but not the mathematics [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Change the target number: with four or six high-fives, everyone succeeds every time, giving students a contrasting case to reason with</li>
+<li>Run it as a prediction game: before each round, students vote whether everyone will succeed, then test their prediction</li>
+<li>Substitute elbow-bumps, beanbag exchanges, or string connections for high-fives to manage hygiene or physical contact concerns</li>
+<li>For older students, move from the game to graph-theory representation: each student is a vertex, each high-five an edge, and the degree sum must be even</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>K-4, adaptable to other grades</li>
+<li>Elementary students (K–4) encountering parity and even/odd structure for the first time; adaptable upward through middle school as an introduction to graph theory and proof</li>
+<li>Students who benefit from embodied, kinesthetic entry points into abstract concepts</li>
+<li>Less suitable as-is for students for whom unstructured peer contact is aversive; offer a role as "recorder" who tallies outcomes instead</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Promote social interaction, encourage teamwork, provide kinesthetic learning, enhance pattern recognition</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Quick and fun activity that reinforces social skills and cooperation. Movement refreshes students and provides another take on math concepts.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Adjust the number of high-fives based on the size of the class. Allow students to analyze the patterns for when everyone can or can't get their high-fives.</li>
+<li>Pattern recognition and conjecture-forming: noticing <em>when</em> the game works and proposing why</li>
+<li>Foundational number sense: parity, even/odd structure of sums</li>
+<li>Early proof reasoning: explaining why an odd group must leave someone out (each high-five uses two people, so the total must be even)</li>
+<li>Social interaction and cooperation through a shared physical task</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/collaboration/">Collaboration</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Observe students' interactions and teamwork. Assess their ability to recognize and explain the patterns.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Can promote social skills and encourage pattern recognition. Supports active participation.</li>
-</ul>
+<ol>
+<li>Explain the goal: everyone must give a high-five to five different classmates, then sit down. Do not mention parity.</li>
+<li>Say "go!" and let students attempt it. Observe who completes the task and who is left standing.</li>
+<li>Record the outcome (group size, how many succeeded) on a visible tally, then repeat with a different group size or grouping — mixing odd and even counts across rounds.</li>
+<li>Before later rounds, have students predict the outcome and justify their prediction (<a href="../../elements/practice/">Practice</a> with prediction builds engagement with the underlying rule).</li>
+<li>Once the tally shows a pattern, shift to <a href="../../elements/class-discussion/">Class Discussion</a>: ask "Why does it only work sometimes?" and let students propose and test explanations.</li>
+<li>Guide students toward the key insight — every high-five involves two people, so the total must split evenly — using <a href="../../elements/act-it-out/">Act It Out</a> with a small demonstration group if needed.</li>
+<li>Extend: ask what happens with four or six high-fives, and why; for older students, introduce the vertex-and-edge representation.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../act_it_out/">Act It Out</a> — the same embodied-modeling move applied to word problems and processes</li>
+<li><a href="../acting-role-play/">Acting-Role-Play</a> — dramatizing structure through physical movement</li>
+<li><a href="../predict-observe-explain/">Predict–Observe–Explain</a> — the prediction cycle this game embeds in steps 4–5</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/cognitive-conflict/">Cognitive Conflict</a> — the failed rounds create the disequilibrium that drives the inquiry</li>
+<li><a href="../../elements/collaboration/">Collaboration</a> — the game is inherently interactive; every data point is a peer interaction</li>
+<li><a href="../../elements/analogies/">Analogies</a> — the handshake lemma analogy (party guests shaking hands) formalizes what students experienced</li>
 </ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
+<h2 id="patterns-that-use-this-strategy">Patterns That Use This Strategy<a class="headerlink" href="#patterns-that-use-this-strategy" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../patterns/cooperative-learning/">Cooperative Learning</a> — structured peer interaction with individual accountability for completing the task</li>
+<li><a href="../../patterns/cgi-for-math/">Cognitively Guided Instruction (CGI) for Math</a> — students' own actions and conjectures, not teacher explanation, generate the mathematical idea</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>The teacher says 'go!' and the students try to give a high-five to five different classmates, trying to figure out whether everyone can complete the task.</li>
+<li>A third-grade teacher runs the game three times with class sizes of 22, 23, and 22 (one student sitting out each time). The tally on the board shows failure only on the odd-sized day, and students use this to build the even/odd explanation themselves.</li>
+<li>A middle-school teacher uses the game as the launch for a graph theory unit: students draw themselves as dots and their high-fives as lines, then discover that the number of odd-degree vertices must be even.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Piaget, J. (1985). <em>The equilibration of cognitive structures: The central problem of intellectual development.</em> University of Chicago Press.</li>
+<li>Hillman, C. H., Erickson, K. I., &amp; Kramer, A. F. (2008). Be smart, exercise your heart: Exercise effects on brain and cognition. <em>Nature Reviews Neuroscience, 9</em>(1), 58–65. <a href="https://doi.org/10.1038/nrn2298">doi:10.1038/nrn2298</a></li>
+<li>Carpenter, T. P., Fennema, E., Peterson, P. L., Chiang, C.-P., &amp; Loef, M. (1989). Using knowledge of children's mathematics thinking in classroom teaching: An experimental study. <em>American Educational Research Journal, 26</em>(4), 499–531. <a href="https://doi.org/10.3102/00028312026004499">doi:10.3102/00028312026004499</a></li>
+<li>West, P., &amp; Steiner, D. (2014). <em>Table Tricks: Parity games and the handshake lemma.</em> In classroom activity collections on discrete mathematics for elementary grades (see e.g., <a href="https://mathigon.org">Mathigon parity puzzles</a>).</li>
 </ul>
 
 

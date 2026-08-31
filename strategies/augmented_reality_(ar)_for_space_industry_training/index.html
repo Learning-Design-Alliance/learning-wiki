@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Augmented reality can assist astronauts with tasks such as maintaining a space station by providing visual work instructions without turning to manuals.">
+        <meta name="description" content="Augmented reality overlays digital work instructions and 3D visualizations onto the physical workspace, supporting astronauts and ground crews in complex maintenance, assembly, and exploration-preparation tasks.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,76 +722,71 @@
 
 
 <h1 id="augmented-reality-ar-for-space-industry-training">Augmented Reality (AR) for Space Industry Training<a class="headerlink" href="#augmented-reality-ar-for-space-industry-training" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Augmented reality can assist astronauts with tasks such as maintaining a space station by providing visual work instructions without turning to manuals. NASA tested Project Sidekick, which uses HoloLens to give virtual illustrations and instructions to help crew members perform complex tasks. It also helps to prepare scientists and astronauts for Mars exploration by creating realistic environments by reconstructing the Martian landscape using photographs taken on the planet’s surface.</p>
+<p>Augmented reality overlays task-relevant digital content — 3D models, step-by-step visual instructions, labels, and remote expert annotations — onto the learner's real workspace, so guidance appears in the location where the work is performed. NASA's Project Sidekick, developed with Microsoft HoloLens, exemplifies this approach: crew members receive virtual holographic illustrations overlaid on equipment during International Space Station maintenance, eliminating the need to cross-reference paper manuals mid-task. AR is also used to reconstruct the Martian landscape from surface photography, giving scientists and astronauts realistic environmental rehearsal for exploration missions.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>AR's core learning advantage is spatial contiguity: instructions are presented at the point of action, reducing the working-memory cost of holding procedural steps in mind while locating and manipulating hardware <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]. Well-designed AR functions as just-in-time <a href="../../elements/practice/">Practice</a> support rather than a replacement for it — the overlay guides performance while the learner builds the underlying schema through doing. Meta-analyses of AR in education find moderate positive effects on learning outcomes overall, but effects depend heavily on instructional design quality rather than the technology itself [Garzón &amp; Acevedo, 2019] [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>AR headsets (e.g., HoloLens), reliable network connectivity, content creation tools, virtual environments.</li>
+<li>AR headsets (e.g., HoloLens) or tablet-based AR clients, with ruggedized hardware for operational environments</li>
+<li>Accurate 3D models and task-sequenced content authored with domain experts</li>
+<li>Network connectivity for remote-expert modes (or offline content packages for spaceflight, where bandwidth is scarce)</li>
+<li>A follow-on structure of guided <a href="../../elements/practice/">Practice</a> and <a href="../../elements/assess-performance/">Assess Performance</a> so the overlay can be faded</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Technology dependent, limited haptic feedback, training content creation and maintenance requires expertise.</li>
+<li>Poorly integrated AR can <em>increase</em> cognitive load: split attention between the overlay and the physical task, or cluttered displays, degrade performance <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [-S]</li>
+<li>Over-reliance on persistent visual prompts can produce dependency — learners perform well with the overlay but fail when it is removed; guidance must be faded as expertise grows <a href="../../claims/expertise-reversal-effect/">Expertise reversal effect.</a> [~M]</li>
+<li>Limited haptic feedback means AR rehearsal cannot fully substitute for physical training on force-sensitive tasks</li>
+<li>Content creation and maintenance require sustained engineering and SME effort; stale overlays on modified hardware are worse than no overlay</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Headset AR</strong> (Sidekick-style): hands-free, suited to two-handed maintenance tasks</li>
+<li><strong>Tablet/monitor AR</strong>: lower cost, suited to ground training and procedure familiarization</li>
+<li><strong>Remote-expert mode</strong>: a ground controller annotates the crew member's live view — a form of <a href="../../elements/coaching/">Coaching</a> at distance</li>
+<li><strong>Simulated environments</strong>: photogrammetric reconstructions of Mars terrain for geology traverse rehearsal, a form of <a href="../../elements/anchored-instruction/">Anchored Instruction</a> in authentic context</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Astronauts, scientists, engineers in the space industry</li>
+<li>Novices and infrequent performers of complex procedures (astronauts trained on many systems, ground crew rotating across tasks), where point-of-work guidance reduces unguided search <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [+M]</li>
+<li>Expert crews benefit mainly from AR as a job aid, not as instruction — full overlays become redundant and intrusive for highly practiced tasks <a href="../../claims/expertise-reversal-effect/">Expertise reversal effect.</a> [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Aid astronauts in complex tasks, maintain space station, provide virtual work instructions, reconstruct the Martian landscape, reduce crew training requirements, prepare scientists and astronauts for space exploration</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Reduces dependency on paper manuals, supports performing tasks in complex and remote locations, provides realistic training environments, reduces training time, enables remote collaboration.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Task-specific instructions and guidance, adjustable levels of realism, individualised learning paths.</li>
+<li>Procedural fluency: executing multi-step maintenance and assembly sequences accurately</li>
+<li>Spatial understanding: internalizing the 3D structure of equipment and environments (dual coding of verbal and visual channels supports this <a href="../../claims/dual-coding-improves-recall/">Dual coding improves recall.</a> [+M])</li>
+<li>Situated readiness: rehearsing exploration tasks in realistic reconstructed environments</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/direct-instruction/">Direct instruction</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-<li><a href="../../elements/application/">Application</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Task completion time, reduced errors, improved collaboration, successful simulations.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Facilitates on-the-job support, enhances remote support, simulates realistic environments.</li>
-</ul>
+<ol>
+<li><strong>Model the task</strong>: present the procedure via <a href="../../elements/direct-instruction/">Direct Instruction</a> or expert demonstration before first hands-on contact.</li>
+<li><strong>Overlay guidance</strong>: deliver step-by-step holographic work instructions during initial <a href="../../elements/practice/">Practice</a> attempts, keeping each display chunk minimal.</li>
+<li><strong>Coach remotely</strong>: use expert annotation of the learner's live view for corrective <a href="../../elements/coaching/">Coaching</a> during early performance.</li>
+<li><strong>Fade the overlay</strong>: progressively reduce prompt completeness (full hologram → labels → checklist) as fluency develops.</li>
+<li><strong>Assess and apply</strong>: verify unaided performance via <a href="../../elements/assess-performance/">Assess Performance</a>, then transfer to <a href="../../elements/application/">Application</a> on operational hardware.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../simulation-based-training/">Simulation-based training</a> — AR is one modality within the broader simulation family; both trade fidelity against cost</li>
+<li><a href="../performance-support-job-aids/">Performance support / job aids</a> — AR work instructions are job aids delivered at the point of need rather than before it</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong><a href="https://www.nasa.gov/directorates/heo/scan/engineering/technology/project_sidekick/">NASA Project Sidekick</a></strong> — HoloLens-based holographic instructions and remote-expert "Sidekick" calls used on the International Space Station for maintenance and science procedures.</li>
+<li><strong>ESA astronaut training with AR/VR</strong> — European Space Agency uses mixed-reality reconstructions of station modules to rehearse procedures before parabolic-flight and on-orbit execution.</li>
+<li><strong>Mars terrain reconstruction</strong> — photogrammetric models built from rover imagery (e.g., Curiosity and Perseverance data) let scientists rehearse traverse and sampling decisions in the actual terrain before commanding the real rover.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Azuma, R. T. (1997). A survey of augmented reality. <em>Presence: Teleoperators and Virtual Environments, 6</em>(4), 355–385. <a href="https://doi.org/10.1162/pres.1997.6.4.355">doi:10.1162/pres.1997.6.4.355</a></li>
+<li>Wu, H.-K., Lee, S. W.-Y., Chang, H.-Y., &amp; Liang, J.-C. (2013). Current status, opportunities and challenges of augmented reality in education. <em>Computers &amp; Education, 62</em>, 41–49. <a href="https://doi.org/10.1016/j.compedu.2012.10.024">doi:10.1016/j.compedu.2012.10.024</a></li>
+<li>Radu, I. (2014). Augmented reality in education: A meta-review and cross-media analysis. <em>Computers &amp; Education, 73</em>, 1–11. <a href="https://doi.org/10.1007/s00779-013-0747-y">doi:10.1007/s00779-013-0747-y</a></li>
+<li>Garzón, J., &amp; Acevedo, J. (2019). Meta-analysis of the impact of augmented reality on students' learning gains. <em>Educational Research Review, 27</em>, 244–260. <a href="https://doi.org/10.1016/j.edurev.2019.100303">doi:10.1016/j.edurev.2019.100303</a></li>
 </ul>
 
 

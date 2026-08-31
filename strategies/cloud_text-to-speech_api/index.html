@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,72 +722,75 @@
 
 
 <h1 id="cloud-text-to-speech-api">Cloud Text-to-Speech API<a class="headerlink" href="#cloud-text-to-speech-api" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Cloud Text-to-Speech allows developers to create natural-sounding, synthetic human speech as playable audio. It can convert text or Speech Synthesis Markup Language (SSML) input into audio data like MP3 or LINEAR16 (the encoding used in WAV files). Developers can use the audio data files to power applications or augment media like videos or audio recordings.</p>
+<p>Cloud Text-to-Speech (TTS) services — such as <a href="https://cloud.google.com/text-to-speech">Google Cloud Text-to-Speech</a>, <a href="https://aws.amazon.com/polly/">Amazon Polly</a>, <a href="https://azure.microsoft.com/products/ai-services/text-to-speech">Microsoft Azure Speech</a>, and the open-source <a href="https://github.com/coqui-ai/TTS">Coqui TTS</a> — convert written text into natural-sounding synthesized speech delivered as audio. In learning design, they let teams add narration to text, visuals, and interactive content programmatically, without studio recording, and at scale across languages and voices.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Adding spoken narration to educational content draws on the modality principle: presenting words as speech alongside visuals can outperform on-screen text alone, because audio offloads verbal processing from the visual channel <a href="../../claims/media-combinations-affect-recall-and-retention/">Media combinations affect recall and retention.</a> [+M]. Cloud TTS makes this affordance cheap and dynamic — narration can be generated on demand for user-authored content, adaptive pathways, or localized versions. Quality matters: neural voices are markedly more acceptable than older concatenative synthesis, and poor prosody or mispronounced technical terms can impose extraneous <a href="../../elements/cognitive-load-management/">Cognitive Load Management</a> demands that undermine the benefit [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>A Google Cloud Platform account. Access to the Cloud Text-to-Speech API. Programming skills to integrate the API into applications.</li>
+<li>Clean, well-edited source text — TTS reads what is written, including errors, abbreviations, and awkward phrasing (<a href="../../principles/accessible-vocabulary-syntax/">Accessible Vocabulary &amp; Syntax</a> improves both comprehension and synthesis quality)</li>
+<li>SSML markup (or equivalent) to control pauses, emphasis, pronunciation of technical terms, and pacing</li>
+<li>Synchronized visual design when narrating graphics — narration should align with what is on screen, following <a href="../../principles/chunking/">Chunking</a> of content into learner-paced segments</li>
+<li>A fallback (transcript or captions) for accessibility and learners in sound-off environments</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires familiarity with cloud computing and API integration. Costs may be associated with usage of the API. Not all SSML elements are supported for all languages.</li>
+<li>Narrating <em>redundant</em> on-screen text harms learning: when learners can read the same words they hear, the redundancy effect degrades performance [-S] — TTS makes it easy to produce this harmful combination at scale</li>
+<li>Synthetic mispronunciation of domain terminology can create confusion or erode credibility, particularly for novice learners who cannot detect the error [-M]</li>
+<li>Long unsegmented audio re-introduces the transient-information problem: speech disappears as it plays, unlike text, which learners can re-inspect [~M]</li>
+<li>Learners with strong reading skills may prefer text and find forced narration slower than reading [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Static pre-generation</strong>: narrate fixed course content at build time for maximum voice quality control</li>
+<li><strong>Dynamic generation</strong>: synthesize narration on demand for user-generated text (e.g., reading fluency practice, pronunciation models, or <a href="../../principles/audiobooks/">Audiobooks</a>-style scaffolds for struggling readers)</li>
+<li><strong>Multilingual localization</strong>: one source text rendered in many languages and accents</li>
+<li><strong>Voice choice</strong>: consistent single voice across a course reduces extraneous processing; voice similarity to the learner can affect social response and engagement [~W]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Developers and content creators who want to integrate text-to-speech capabilities into their applications and media.</li>
+<li>Beginning readers and learners with reading difficulties, for whom audio removes decoding demands and frees resources for comprehension <a href="../../claims/automatic-word-recognition-frees-resources-for-comprehension/">Automatic word recognition frees resources for comprehension.</a> [+M]</li>
+<li>Learners with visual impairments, when TTS provides an alternative to costly human narration</li>
+<li>Language learners, who benefit from consistent, repeatable pronunciation models [~M]</li>
+<li>Less beneficial as a default for skilled readers with well-matched text</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Enable speech synthesis in applications, enhance accessibility of digital content, create audio files from text, augment media with synthetic speech</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Allows for dynamic generation of speech from text. Provides a wide selection of custom voices differing by language, gender, and accent. Supports configuration of speaking rate, pitch, volume, and sample rate hertz. Enhances synthetic speech through Speech Synthesis Markup Language (SSML).</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Developers can choose from various voices, configure audio output settings, and use SSML to fine-tune the speech synthesis process.</li>
+<li>Verbal information acquisition: narrated explanations paired with diagrams or animations</li>
+<li>Reading support: decoding practice and access to grade-level content beyond current reading skill</li>
+<li>Pronunciation and listening comprehension in language learning</li>
+<li>Accessibility compliance (WCAG audio alternatives)</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/direct-instruction/">Direct instruction</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Evaluate the quality and naturalness of the synthesized speech. Measure the effectiveness of the API in different applications. Collect user feedback on the accessibility and usability of the resulting audio content.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Cloud Text-to-Speech enables developers to create more accessible and engaging applications and media by providing high-quality synthetic speech.</li>
-</ul>
+<ol>
+<li>Write and edit the narration script as spoken language, not adapted prose; break it into learner-paced segments (<a href="../../principles/chunking/">Chunking</a>).</li>
+<li>Mark up the script with SSML for pauses, emphasis, and correct pronunciation of technical terms.</li>
+<li>Generate audio via the API (e.g., Google Cloud TTS neural voices), auditioning voices for clarity and consistency across the course.</li>
+<li>Pair narration with visuals, not with identical on-screen text, to avoid redundancy [-S]; provide captions or transcripts as an alternative mode.</li>
+<li>Pilot with target learners, checking specifically for mispronunciations and pacing, and revise the script rather than the voice settings when problems appear.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li>Human voiceover recording — higher prosody quality and authenticity, but costly and slow to update; TTS trades some naturalness for scale and editability</li>
+<li>Captioned video — the complementary direction (speech-to-text); together they support multiple access modes</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Using Cloud Text-to-Speech in a voice assistant app to provide natural language feedback, creating audio files for e-learning content, augmenting videos with synthesized narration.</li>
+<li><strong><a href="https://cloud.google.com/text-to-speech">Google Cloud Text-to-Speech</a></strong> — WaveNet and Neural2 voices with SSML support; used to narrate adaptive courseware and reading-support tools.</li>
+<li><strong><a href="https://aws.amazon.com/polly/">Amazon Polly</a></strong> — used in literacy products to read aloud user-submitted or leveled text with adjustable speaking rate.</li>
+<li><strong><a href="https://azure.microsoft.com/products/ai-services/text-to-speech">Microsoft Azure AI Speech</a></strong> — custom neural voice and pronunciation tools for branded course narration.</li>
+<li><strong><a href="https://github.com/coqui-ai/TTS">Coqui TTS</a></strong> — open-source synthesis for offline or privacy-constrained educational deployments.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Mayer, R. E. (2009). <em>Multimedia learning</em> (2nd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/CBO9780511811678">doi:10.1017/CBO9780511811678</a></li>
+<li>Clark, R. C., &amp; Mayer, R. E. (2016). <em>E-Learning and the science of instruction</em> (4th ed.). Wiley. <a href="https://doi.org/10.1002/9781119239086">doi:10.1002/9781119239086</a></li>
+<li>Moreno, R., &amp; Mayer, R. E. (2002). Learning science in virtual reality multimedia environments: Role of methods and media. <em>Journal of Educational Psychology, 94</em>(3), 598–610. <a href="https://doi.org/10.1037/0022-0663.94.3.598">doi:10.1037/0022-0663.94.3.598</a></li>
+<li>Kalyuga, S., Chandler, P., &amp; Sweller, J. (1999). Managing split-attention and redundancy in multimedia instruction. <em>Applied Cognitive Psychology, 13</em>(4), 351–371. <a href="https://doi.org/10.1002/(SICI)1099-0720(199908)13:4%3C351::AID-ACP589%3E3.0.CO;2-6">doi:10.1002/(SICI)1099-0720(199908)13:4&lt;351::AID-ACP589&gt;3.0.CO;2-6</a></li>
 </ul>
 
 

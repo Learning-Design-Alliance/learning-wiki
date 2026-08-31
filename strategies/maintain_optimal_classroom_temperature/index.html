@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="The temperature in a workspace affects engagement levels and overall productivity.">
+        <meta name="description" content="Keeping classroom temperature within a moderate comfort range (roughly 68–74°F / 20–23°C) protects attention, working memory, and task engagement.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +722,71 @@
 
 
 <h1 id="maintain-optimal-classroom-temperature">Maintain Optimal Classroom Temperature<a class="headerlink" href="#maintain-optimal-classroom-temperature" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>The temperature in a workspace affects engagement levels and overall productivity. The ideal temperature range for effective learning in reading and mathematics is between 68º and 74º. Teachers need to be able to control the temperature in their own classrooms, or at least small blocks of classrooms, to maintain a comfortable learning environment. Ensuring appropriate temperature levels enhances student engagement and learning.</p>
+<p>Thermal comfort is a physical precondition for learning: rooms that are too hot or too cold divert physiological and attentional resources away from the task at hand. Field studies in schools show that learning performance on tasks requiring concentration (reading speed, comprehension, arithmetic) declines measurably as classroom temperature rises above roughly 23–24°C, with each degree of excess heat imposing a small but consistent cost <a href="https://doi.org/10.1080/09613210308668851">Wargocki &amp; Wyon's school field experiments link reduced classroom temperature to improved learning task performance.</a> [+S]. The strategy is carried out by giving teachers or building operators the ability to monitor and adjust temperature at the classroom level, and by treating thermal comfort as part of routine instructional setup rather than facilities management alone.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Thermal discomfort functions as extraneous cognitive load: the body's effort to regulate temperature competes with working memory resources needed for learning <a href="../../principles/cognitive-load-management/">Cognitive load theory distinguishes intrinsic, extraneous, and germane load; environmental distraction is a classic extraneous source.</a> [+M]. Because the effect is dose-dependent and continuous, the design goal is not a single "perfect" number but keeping rooms inside a comfort band and preventing the upper tail (hot, stuffy rooms) where performance losses are steepest.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Temperature controls, training for teachers on temperature management</li>
+<li>Classroom-level temperature monitoring (thermometers or sensors teachers can actually see)</li>
+<li>A mechanism for adjustment — operable windows, thermostats, or responsive building management — at the classroom or small-block level</li>
+<li>Ventilation to accompany cooling; temperature and air quality interact, and CO₂ buildup independently degrades decision performance <a href="https://doi.org/10.1111/j.1600-0668.2006.00427.x">Classroom ventilation and air quality affect learning outcomes.</a> [+M]</li>
+<li>Awareness among staff that comfort complaints are instructional data, not noise</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Implementation can be costly. Individual preferences for temperature may vary.</li>
+<li>Individual thermal preferences vary by body size, clothing, metabolism, and acclimatization; no single setpoint satisfies everyone, so a rigid district-wide standard can create discomfort for some students even at the "correct" temperature [-M]</li>
+<li>Retrofitting HVAC for classroom-level control is costly, and many legacy buildings give teachers no local control at all [-M]</li>
+<li>Overcooling is a real failure mode: cold rooms increase discomfort and reduce fine-motor performance and self-reported comfort, with some evidence of performance costs below ~20°C [~M]</li>
+<li>Effects on complex, high-interest tasks are smaller than on routine speed-and-accuracy tasks; a warm room will not sink a highly engaging activity, but it will tax sustained attention during drill and assessment [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Low-cost: portable thermometers, scheduled ventilation, fan use, dress-code flexibility, relocating activities to cooler rooms during heat events</li>
+<li>Mid-cost: zoned thermostats for classroom blocks with teacher override authority</li>
+<li>Systems-level: building management systems with per-room sensors and automated setpoints tied to occupancy schedules</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>K-12 students, teachers, and administrators</li>
+<li>All learners benefit from the comfort band, but the largest measured effects are on school-age children in reading and mathematics tasks during warm-season instruction [+S]</li>
+<li>Younger children are more vulnerable: they thermoregulate less efficiently and are less likely to report discomfort or act on it</li>
+<li>Students with certain disabilities or medications that impair thermoregulation need particular attention</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Improve student engagement and enhance academic performance by maintaining optimal classroom temperatures</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Enhances comfort, improves focus and concentration, and boosts academic performance</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Install individual temperature controls in classrooms or small blocks of classrooms and provide training for teachers on effective temperature management.</li>
+<li>Any goal requiring sustained attention and working memory: reading fluency, computation, extended writing, assessment performance</li>
+<li>Not specific to a content domain — this is an enabling condition rather than a pedagogical technique</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track student engagement, measure test scores, and collect feedback from teachers and students.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research shows that maintaining optimal classroom temperatures enhances student engagement and academic performance.</li>
-</ul>
+<ol>
+<li>Measure: place a visible thermometer or sensor in the instructional space; record readings at the start of key activities.</li>
+<li>Set a target band (approximately 68–74°F / 20–23°C) and identify who can adjust what, and how quickly.</li>
+<li>Pair temperature management with <a href="../acoustics_and_noise_management/">Acoustics and Noise Management</a> — both are environmental load reducers best handled as a single "learning environment" routine.</li>
+<li>Treat complaints as data: survey students on comfort and cross-check against sensor readings, since perceived comfort predicts performance effects better than the thermostat number alone.</li>
+<li>During heat events, shift high-load activities (tests, dense reading) to cooler times of day or cooler rooms rather than pushing through.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../acoustics_and_noise_management/">Acoustics and Noise Management</a> — the parallel environmental-load strategy; noise and heat both consume attention nonproductively</li>
+<li><a href="../../principles/chunking/">Chunking</a> — reduces intrinsic processing demands; environmental management reduces extraneous demands, and the two compound</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Schools install individual temperature controls in classrooms, provide training for teachers, and regularly monitor classroom temperatures.</li>
+<li><strong>Wargocki &amp; Wyon's school field studies (Denmark/Sweden)</strong> — classroom intervention studies in which lowering temperature from ~25°C to ~20°C and improving ventilation produced significant gains in speed and accuracy on reading and numerical tasks.</li>
+<li><strong>Heat and learning at scale (Goodman et al., 2018)</strong> — analysis of U.S. exam data showing that each 1°F hotter school year reduces learning, with air conditioning substantially offsetting the effect, implying large equity gaps between hot and cool school buildings.</li>
+<li><strong>Practical low-cost case</strong> — a teacher without thermostat access uses a $10 thermometer, cross-ventilation before class, fans, and a seating plan that moves heat-sensitive students away from sunlit windows.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Wargocki, P., &amp; Wyon, D. P. (2007). The effects of moderately raised classroom temperatures and classroom ventilation rate on the performance of schoolwork by children. <em>HVAC&amp;R Research, 13</em>(2), 193–220. <a href="https://doi.org/10.1080/10789669.2007.10390951">doi:10.1080/10789669.2007.10390951</a></li>
+<li>Wargocki, P., &amp; Wyon, D. P. (2013). Providing better thermal and air quality conditions in school classrooms would be cost-effective. <em>Building and Environment, 64</em>, 139–153. <a href="https://doi.org/10.1016/j.buildenv.2012.10.007">doi:10.1016/j.buildenv.2012.10.007</a></li>
+<li>Goodman, J., Hurwitz, M., Park, J., &amp; Smith, J. (2020). Heat and learning. <em>American Economic Journal: Economic Policy, 12</em>(2), 306–339. <a href="https://doi.org/10.1257/pol.20180612">doi:10.1257/pol.20180612</a></li>
+<li>Cedeño Laurent, J. G., et al. (2018). Reduced cognitive function during a heat wave among residents of non-air-conditioned buildings. <em>PLOS Medicine, 15</em>(7), e1002605. <a href="https://doi.org/10.1371/journal.pmed.1002605">doi:10.1371/journal.pmed.1002605</a></li>
+<li>Seppänen, O., Fisk, W. J., &amp; Lei, Q. H. (2006). Ventilation and performance in office work. <em>Indoor Air, 16</em>(6), 465–480. <a href="https://doi.org/10.1111/j.1600-0668.2006.00447.x">doi:10.1111/j.1600-0668.2006.00447.x</a></li>
 </ul>
 
 

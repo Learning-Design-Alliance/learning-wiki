@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Help kids develop their problem-solving and algebra skills with different levels of difficulties.">
+        <meta name="description" content="A game-based app that teaches algebraic reasoning by having learners manipulate cards to isolate a "box," implicitly solving equations before formal notation is introduced.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +722,70 @@
 
 
 <h1 id="dragonbox-algebra-5-app">DragonBox Algebra 5+ App<a class="headerlink" href="#dragonbox-algebra-5-app" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Help kids develop their problem-solving and algebra skills with different levels of difficulties. It offers a very intuitive interface that makes it easier to use, with different levels appropriate for the learner’s skill.  The app, which maintains a pedagogical structure along with an amusing interface, can be ideal for teachers as well. The app comes with two versions, one for ages 5-8 and the other for 12+ ages.</p>
+<p>DragonBox Algebra 5+ (WeWantToKnow AS) is a commercial game-based learning app that introduces algebraic equation solving through a fantasy card game. Learners drag cards and apply operations to isolate a glowing "box" on one side of a balance-like field; each move corresponds to a legal algebraic operation (adding to both sides, dividing both sides, etc.). Only after learners have mastered the implicit manipulation rules does the app progressively substitute formal notation — variables, coefficients, operators — for the game objects, mapping the game world onto standard equation syntax.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>The app exemplifies <em>implicit scaffolding through representational sequencing</em>: it teaches the structure of equation solving before the symbol system, reducing the simultaneous demands of learning procedures and decoding notation <a href="../../theories/cognitive-load-theory/">Cognitive load theory: novices fail when intrinsic element interactivity is compounded by unfamiliar representations.</a> [+S]. The card-manipulation rules are discovered through play rather than stated, which works here because the rule space is small, deterministic, and immediately consequential — conditions under which guided discovery outperforms pure exposition <a href="../../patterns/direct-instruction/">Unguided discovery is ineffective for novices, but constrained environments with immediate feedback narrow the gap.</a> [~M]. The progressive substitution of formal symbols for game objects is a form of fading the concrete representation, analogous to fading worked-example support <a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading support promotes transfer of responsibility.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to the DragonBox Algebra app on a compatible device.</li>
+<li>A tightly constrained rule space where every game action maps one-to-one onto a target-domain operation</li>
+<li>Immediate, visual feedback (illegal moves are impossible or visibly fail) so learners can infer rules from consequences</li>
+<li>A deliberate transition phase where game objects are replaced by formal notation — without this bridge, transfer to paper algebra is weak</li>
+<li>Adult or teacher support to name and consolidate what was learned implicitly (<a href="../../elements/coaching/">Coaching</a>)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires purchase and may not be suitable for very young children.</li>
+<li>Learning the game mechanics is not the same as learning algebra; learners can become fluent at isolating the box without ever verbalizing the underlying principle, producing shallow encoding <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [-M] — the app's implicit design provides no prompt for learners to articulate the rule</li>
+<li>Transfer to standard symbolic notation is limited if the notation-substitution phase is rushed or skipped; some studies of DragonBox-style apps find game performance does not predict paper-and-pencil equation solving without supplementary instruction [-M]</li>
+<li>The discovery-based mechanics demand more time than explicit instruction for equivalent procedural coverage, and weaker players can stall on game fluency rather than algebraic reasoning [~W]</li>
+<li>Effectiveness declines for learners who already know symbolic manipulation; the concrete game layer becomes redundant <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective as learner expertise increases.</a> [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Classroom use: play sessions interleaved with teacher-led notation lessons, so each game mechanic is named in algebraic terms shortly after it is discovered</li>
+<li>Home use: parent co-play with prompts ("what did that move do to both sides?") to add <a href="../../elements/self-explanation/">Self-Explanation</a>-style articulation the app omits</li>
+<li>Remedial/intervention use for adolescents and adults with math anxiety, where the game frame lowers threat before formal instruction</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Kids ages 5-8 and 12+.</li>
+<li>Young learners (ages 5–12) encountering equation structure for the first time, for whom simultaneous notation decoding would overload working memory <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S]</li>
+<li>Novices who benefit from concrete, manipulable representations before abstract ones [~M]</li>
+<li>Older learners with existing symbolic fluency gain little and may find the game layer inefficient <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective as learner expertise increases.</a> [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Develop problem-solving and algebra skills.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Intuitive interface, different levels of difficulty, and a pedagogical structure.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Different levels appropriate for the learner’s skill.</li>
+<li>Implicit procedural schemas: the invariant structure "do the same operation to both sides to isolate the unknown"</li>
+<li>Pre-algebraic readiness: preparing learners to attach meaning to formal notation before it is introduced</li>
+<li>Not appropriate as a standalone route to symbolic fluency, word-problem interpretation, or algebraic justification</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide Feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track progress and skill development through levels.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Improves problem-solving and algebra skills in a structured and engaging manner.</li>
-</ul>
+<ol>
+<li>Let learners play the early levels without explanation, allowing the feedback loop to establish the manipulation rules (<a href="../../elements/application/">Application</a> through immediate consequence).</li>
+<li>At the notation-transition levels, co-play and name each move in algebraic language ("you divided both sides by 3") — the app fades the concrete representation, the adult supplies the formal label.</li>
+<li>Follow game sessions with paper-and-pencil equations using the same structures, so the schema transfers off-screen.</li>
+<li>Ask learners to explain <em>why</em> a move is legal, converting implicit procedure into articulable principle <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+S].</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li>Concrete–representational–abstract sequencing — DragonBox automates the concrete-to-abstract transition that this instructional sequence manages manually</li>
+<li>Worked-example fading — the app's progressive symbol substitution parallels fading example completeness, though it fades representation rather than steps</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Students using the app to progress through levels of difficulty to learn algebra.</li>
+<li><strong>DragonBox Algebra 5+ / 12+</strong> (<a href="https://wewanttoknow.com">https://wewanttoknow.com</a>) — the app itself; the 12+ version introduces notation earlier and covers more equation types for older learners.</li>
+<li><strong>Norwegian classroom pilots</strong> — WeWantToKnow reported school deployments in Norway where DragonBox play preceded formal algebra units; independent evaluations caution that game mastery must be paired with explicit notation instruction to show paper-test gains.</li>
+<li><strong>DragonBox Big Numbers</strong> — the same developer applies the implicit-manipulation approach to place value and long addition/subtraction.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Clark, D. B., Tanner-Smith, E. E., &amp; Killingsworth, S. S. (2016). Digital games as a context for cognitive ability, learning, and assessment: A meta-analysis. <em>Review of Educational Research, 86</em>(1), 79–122. <a href="https://doi.org/10.3102/0034654315582065">doi:10.3102/0034654315582065</a></li>
+<li>Wouters, P., van Nimwegen, C., van Oostendorp, H., &amp; van der Spek, E. D. (2013). A meta-analysis of the cognitive and motivational effects of serious games. <em>Journal of Educational Psychology, 105</em>(2), 249–265. <a href="https://doi.org/10.1037/a0031311">doi:10.1037/a0031311</a></li>
+<li>Kirschner, P. A., Sweller, J., &amp; Clark, R. E. (2006). Why minimal guidance during instruction does not work. <em>Educational Psychologist, 41</em>(2), 75–86. <a href="https://doi.org/10.1207/s15326985ep4102_1">doi:10.1207/s15326985ep4102_1</a></li>
+<li>Mayer, R. E. (2019). <em>Computer games for learning: An evidence-based approach</em>. MIT Press.</li>
 </ul>
 
 

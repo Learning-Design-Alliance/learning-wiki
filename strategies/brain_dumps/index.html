@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Brain dumps involve learners writing down everything they can recall about a specific topic within a set time.">
+        <meta name="description" content="Learners write down everything they can recall about a topic within a set time, turning retrieval itself into a learning event.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -703,10 +686,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
+  <a href="#patterns-that-use-this-strategy" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Tools
+        Patterns That Use This Strategy
       
     </span>
   </a>
@@ -761,72 +744,84 @@
 
 
 <h1 id="brain-dumps">Brain Dumps<a class="headerlink" href="#brain-dumps" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Brain dumps involve learners writing down everything they can recall about a specific topic within a set time. This strategy tests knowledge, generates ideas, and creates longer-term retention. Collaboration can be added by having learners compare notes to identify gaps and misconceptions, and research the answers together.</p>
+<p>A brain dump asks learners to write down everything they can recall about a topic within a set time (typically 2–10 minutes), without notes or resources. The act of retrieval is the mechanism: pulling content out of memory strengthens it more than re-reading it <a href="../../claims/spaced-repetition-improves-retention/">Retrieval practice produces durable retention gains over restudying.</a> [+S]. The resulting artifact also serves diagnostic purposes — it surfaces gaps and misconceptions for both learner and instructor, and can seed follow-up activities such as comparison, <a href="../../elements/self-explanation/">Self-Explanation</a>, or collaborative gap-filling.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Brain dumps enact <a href="../../principles/retrieval-practice/">Retrieval Practice</a> at near-zero cost: a blank page and a timer. Their value comes from two functions in one activity — retrieval strengthens memory, and the written record makes the state of knowledge visible for formative use <a href="../../claims/spaced-repetition-improves-retention/">Retrieval practice produces durable retention gains over restudying.</a> [+S]. Design decisions that matter most are timing (before instruction to activate prior knowledge, after to consolidate), whether learners then compare or extend their dumps, and whether the dump is low-stakes or graded.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires time and writing utensils or a word processor.</li>
+<li>A well-specified prompt naming the topic or question</li>
+<li>A time limit short enough to force genuine retrieval rather than slow composition</li>
+<li>A follow-up structure: self-check against materials, peer comparison, or instructor feedback (<a href="../../elements/assessment/">Assessment</a>)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Can be difficult for learners with low background knowledge.</li>
+<li>Learners with little prior knowledge retrieve almost nothing, so a pre-instruction dump can frustrate rather than activate <a href="../../claims/prior-knowledge-not-related-to-performance/">Prior knowledge is a prerequisite for meaningful retrieval from long-term memory.</a> [~M]</li>
+<li>If learners can covertly consult notes or neighbors, the retrieval benefit disappears [-M]</li>
+<li>Retrieval of poorly encoded material can entrench errors; high-confidence wrong answers need correction to yield gains <a href="../../claims/high-confidence-errors-improve-retention/">High-confidence errors, once corrected, improve retention.</a> [~S]</li>
+<li>Timed free recall advantages verbal/writing fluency; learners with writing difficulties may under-represent what they know [~W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Pre-instruction dump</strong> — surfaces prior knowledge and misconceptions before new content (<a href="../../elements/activation/">Activation</a>)</li>
+<li><strong>Post-lecture dump</strong> — consolidation and formative check; compare against notes to identify gaps</li>
+<li><strong>Collaborative dump</strong> — individuals dump, then pairs merge lists and research what neither recalled</li>
+<li><strong>Cumulative dump</strong> — periodic dumps covering everything so far, adding <a href="../spaced-retrieval/">Spaced Retrieval</a> benefits</li>
+<li><strong>Non-written variants</strong> — diagramming, listing aloud, or sketchnoting for learners whose writing is a bottleneck</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learner levels, including K–12, higher education, and adult learners.</li>
+<li>Learners who already have some encoded knowledge to retrieve — the effect is strongest after initial study, not before it <a href="../../claims/spaced-repetition-improves-retention/">Retrieval practice produces durable retention gains over restudying.</a> [+S]</li>
+<li>All levels, K–12 through adult and professional education; the format scales trivially</li>
+<li>Less suitable as a <em>first</em> exposure activity for complete novices [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Test knowledge, generate ideas, and create longer-term retention.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Helps generate knowledge and create longer term retention.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Can be modified to include collaboration with other learners.</li>
+<li>Retention and consolidation of factual and conceptual content <a href="../../claims/spaced-repetition-improves-retention/">Retrieval practice produces durable retention gains over restudying.</a> [+S]</li>
+<li>Metacognitive accuracy: learners discover what they do and do not know</li>
+<li>Idea generation and prior-knowledge activation at the start of a unit</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/summarization-and-synthesis/">Summarization and Synthesis</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Assess the amount of information recalled and the accuracy of the information.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Brain dumps help learners generate knowledge and create longer term retention.</li>
-</ul>
+<ol>
+<li>Set a clear prompt and time limit (e.g., "everything you remember about photosynthesis — 5 minutes").</li>
+<li>Have learners write continuously without notes; forbid resource-checking during the dump.</li>
+<li>Stop the timer and have learners self-check against source material or notes, marking gaps and errors (<a href="../../elements/assessment/">Assessment</a>).</li>
+<li>Optionally pair learners to compare dumps, identify what the other recalled, and jointly research missing items (<a href="../../elements/collaboration/">Collaboration</a>).</li>
+<li>Close with <a href="../../elements/self-explanation/">Self-Explanation</a> of the corrected gaps, or a second dump days later for spacing.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../spaced-retrieval/">Spaced Retrieval</a> — distributing brain dumps over time multiplies the retention benefit</li>
+<li><a href="../activating-prior-knowledge/">Activating Prior Knowledge</a> — a pre-instruction brain dump is one concrete way to do this</li>
+<li><a href="../exit-tickets/">Exit Tickets</a> — a brief, structured post-lesson variant of the same retrieval mechanism</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/summarization-and-synthesis/">Summarization and Synthesis</a> — a brain dump is free-recall summarization without the source in view</li>
+<li><a href="../../elements/self-explanation/">Self-Explanation</a> — natural follow-up once gaps are identified <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+S]</li>
+<li><a href="../../elements/assessment/">Assessment</a> — the dump doubles as a low-stakes formative assessment artifact</li>
 </ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
+<h2 id="patterns-that-use-this-strategy">Patterns That Use This Strategy<a class="headerlink" href="#patterns-that-use-this-strategy" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../patterns/formative-assessment/">Formative Assessment</a> — brain dumps as an evidence-gathering routine</li>
+<li><a href="../../patterns/flipped-classroom/">Flipped Classroom</a> — opening dumps verify that pre-class materials were processed</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Retrieval practice routines (Agarwal &amp; Bain, <em>Powerful Teaching</em>)</strong> — "Brain Dump" is one of four named core routines; teachers use two-minute dumps at lesson start and end, then have students swap and compare.</li>
+<li><strong>Medical education</strong> — students free-recall a disease process after case study, then compare against reference material to find knowledge gaps before exams.</li>
+<li><strong>Cumulative course review</strong> — weekly 10-minute dumps covering all content to date, replacing re-reading as the primary study routine.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. <em>Psychological Science, 17</em>(3), 249–255. <a href="https://doi.org/10.1111/medu.12141">doi:10.1111/medu.12141</a></li>
+<li>Agarwal, P. K., &amp; Bain, P. M. (2019). <em>Powerful Teaching: Unleash the Science of Learning</em>. Jossey-Bass.</li>
+<li>Karpicke, J. D., &amp; Blunt, J. R. (2011). Retrieval practice produces more learning than elaborative studying with concept mapping. <em>Science, 331</em>(6018), 772–775. <a href="https://doi.org/10.1126/science.1199327">doi:10.1126/science.1199327</a></li>
+<li>Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. <em>Psychological Bulletin, 140</em>(6), 1432–1463. <a href="https://doi.org/10.1037/a0037559">doi:10.1037/a0037559</a></li>
 </ul>
 
 

@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,75 +744,88 @@
 
 
 <h1 id="training-handouts">Training Handouts<a class="headerlink" href="#training-handouts" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Training handouts are supplementary materials distributed during training sessions to enhance learner engagement, structure interactions, and provide a reference for key content. They can take various forms, including outlines, worksheets, feedback forms, and action plans. Effective handouts should not merely duplicate presentation slides but should instead encourage active participation by incorporating note-taking sections, interactive exercises, and opportunities for peer collaboration. Well-designed handouts contribute to a more professional learning environment and improve learner retention by prompting learners to actively engage with the material.</p>
+<p>Training handouts are supplementary materials distributed during training sessions to structure attention, support note-taking, and provide a durable reference after the session ends. Effective handouts do not duplicate slides verbatim; they are designed as participation tools — outlines with gaps to complete, worksheets, feedback forms, and action plans — that require learners to actively process content during the session.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Handouts work when they function as an external memory aid plus an engagement device: providing a partial outline frees working memory for processing rather than transcription <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M], and structured note-taking prompts produce better recall than verbatim transcription or passive listening [~M]. The critical design decision is what to leave out — handouts containing all the content invite passive reading instead of active listening.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires careful instructional design to align with learning objectives. May require printing or digital distribution. Implementation involves guiding learners to actively use handouts during the session.</li>
+<li>Alignment with session learning objectives; each handout section should map to a goal or activity</li>
+<li>Deliberate gaps: fill-in sections, response prompts, or checklists that require learner generation (<a href="../../principles/annotating/">Annotating</a>)</li>
+<li>Guidance on <em>when</em> to use the handout during the session, not just distribution at the start (<a href="../../elements/provide-guidance/">Provide guidance</a>)</li>
+<li>A post-session role — action plans and reference summaries — so the handout supports later retrieval (<a href="../../claims/spaced-repetition-improves-retention/">Spaced repetition improves retention.</a> [+S])</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>If poorly designed, handouts may distract from the presentation. If handouts contain all the information, learners may become passive. Effectiveness depends on active engagement by learners.</li>
+<li>Handouts that reproduce the full presentation reduce attention to the presenter and encourage passive reading [-M]</li>
+<li>Distributing dense reference material <em>during</em> a presentation splits visual attention between slides and page, harming both [~S] — reference handouts are better distributed after the session</li>
+<li>Verbatim note-taking prompts (handouts that encourage transcription) yield poorer conceptual learning than generative prompts [~M]</li>
+<li>Handouts no one revisits after the session add cost without retention benefit; without a follow-up task, post-session value approaches zero [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Partial outlines</strong> — key structure provided, details left for learners to complete during the session</li>
+<li><strong>Activity worksheets</strong> — structured templates for pair work, case analysis, or peer feedback forms</li>
+<li><strong>Action plans</strong> — end-of-session commitment sheets that convert content into intended workplace behavior</li>
+<li><strong>Post-session references</strong> — summaries, job aids, and checklists distributed afterward for on-the-job support</li>
+<li><strong>Digital interactive handouts</strong> — live documents (shared docs, LMS pages) that learners annotate collaboratively</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Trainers and educators in corporate, academic, and professional development settings</li>
+<li>Novice trainees who cannot yet distinguish central from peripheral content and benefit from an expert-prepared structure signaling what matters <a href="../../claims/relevancy-of-emphasis-directs-attention/">Relevancy of emphasis directs attention.</a> [+M]</li>
+<li>Learners with limited note-taking skill, for whom a partial outline compensates for poor self-generated notes [~M]</li>
+<li>Less necessary for expert audiences, who can structure their own notes and may find guided outlines constraining [~W]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Enhance learner engagement, structure peer interactions, provide a reference for key content, encourage active participation, improve learner retention</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Promotes active learning by encouraging note-taking and participation. Structures peer interactions and feedback. Enhances retention by providing a tangible reference. Contributes to a professional learning environment.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Can be tailored to different learning styles and content areas. Formats can be adapted to include fill-in-the-blanks, checklists, or open-ended questions.</li>
+<li>Retention of key facts and procedures via a structured reference for later review</li>
+<li>Active engagement during sessions: prompts that trigger <a href="../../elements/self-explanation/">Self-explanation</a> and application rather than transcription</li>
+<li>Transfer to practice: action plans and job aids that bridge training content and workplace performance</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/discussion-sections/">Discussion Sections</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Observe learner engagement with handouts during the session. Collect feedback on the usefulness of handouts. Assess retention of key content after the session.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Well-designed handouts have been shown to improve learner engagement, retention, and overall satisfaction with training sessions. Research indicates that active learning strategies, such as those facilitated by effective handouts, lead to deeper understanding and better application of knowledge.</li>
-</ul>
+<ol>
+<li>Identify the 3–5 session objectives and design one handout section per objective; cut anything that merely restates slides (<a href="../../principles/clear-structure-presentation/">Clear structure presentation</a>)</li>
+<li>Build in generative gaps — blanks, prediction prompts, rating scales — so learners produce content rather than receive it (<a href="../../principles/annotating/">Annotating</a>)</li>
+<li>Embed the handout in session activities: worksheets structure pair discussion, case analysis, and peer feedback rounds (<a href="../../elements/practice/">Practice</a>, <a href="../../elements/class-discussion/">Class discussion</a>)</li>
+<li>Close with an action-planning section where each learner commits to specific applications (<a href="../../elements/application-of-knowledge/">Application of knowledge</a>)</li>
+<li>Distribute reference material after the session and attach it to a follow-up task or reminder so it is actually revisited</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/advance-organizers/">Advance organizers</a> — a partial-outline handout is an advance organizer delivered on paper</li>
+<li><a href="../../principles/active-learning/">Active learning</a> — handouts are a low-cost vehicle for embedding activity into lecture-based training</li>
+<li><a href="../../principles/check-ins/">Check-ins</a> — handout rating scales and response prompts can double as structured check-in tools</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../principles/annotating/">Annotating</a> — the core learner behavior a well-designed handout elicits</li>
+<li><a href="../../elements/practice/">Practice</a> — worksheets structure in-session practice</li>
+<li><a href="../../principles/chunking/">Chunking</a> — handout sections should present content in digestible units</li>
+<li><a href="../../elements/assessment/">Assessment</a> — feedback forms and exit prompts make handouts a light formative-assessment channel</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Soapbox</strong> (https://www.soapboxhq.com) — generates participant handouts automatically from a lesson plan outline</li>
+<li><strong>Google Docs / Microsoft 365</strong> — shared live handouts for collaborative annotation</li>
+<li><strong>LMS handout repositories</strong> (Canvas, Moodle) — post-session reference distribution with follow-up reminders</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Examples include fill-in-the-blank outlines, peer feedback forms, action planning worksheets, and BINGO cards for observation activities. Soapbox is a presentation tool that automatically generates handouts from lesson plans.</li>
+<li><strong>Corporate onboarding (e.g., Dale Carnegie training programs)</strong> — participant manuals with fill-in frameworks, practice exercises, and commitment pages that structure each module rather than duplicating slides</li>
+<li><strong>Peer feedback forms in workshop training</strong> — structured observation sheets that guide specific, criterion-referenced peer comments during practice rounds</li>
+<li><strong>Action planning worksheets in teacher professional development</strong> — end-of-session plans naming one technique, one context, and one success indicator, revisited at the next session</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Clark, R. C., &amp; Mayer, R. E. (2016). <em>E-Learning and the Science of Instruction</em> (4th ed.). Wiley. <a href="https://doi.org/10.1002/9781119239086">doi:10.1002/9781119239086</a></li>
+<li>Kiewra, K. A. (1989). A review of note-taking: The encoding-storage paradigm and beyond. <em>Educational Psychology Review, 1</em>(2), 147–172. <a href="https://doi.org/10.1007/bf01326640">doi:10.1007/bf01326640</a></li>
+<li>Mueller, P. A., &amp; Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. <em>Psychological Science, 25</em>(6), 1159–1168. <a href="https://doi.org/10.1037/e502412013-155">doi:10.1037/e502412013-155</a></li>
+<li>Bligh, D. A. (2001). <em>What's the Use of Lectures?</em> (6th ed.). Jossey-Bass.</li>
+<li>Hartley, J., &amp; Davies, I. K. (1978). Note-taking: A critical review. <em>Programmed Learning and Educational Technology, 15</em>(3), 207–224.</li>
 </ul>
 
 

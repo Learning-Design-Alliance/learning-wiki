@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Augmented reality can be used to turn an ordinary class into an engaging experience.">
+        <meta name="description" content="Overlaying interactive digital content onto the physical classroom environment to make abstract content manipulable, visible, and engaging.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,76 +744,91 @@
 
 
 <h1 id="augmented-reality-ar-in-classroom">Augmented Reality (AR) in Classroom<a class="headerlink" href="#augmented-reality-ar-in-classroom" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Augmented reality can be used to turn an ordinary class into an engaging experience. AR technology provides virtual examples and adds gaming elements to support textbook materials, making classes more interactive and helping students better remember information. Students can scan elements of a book and receive text, audio, or video tips from teachers, or they may find useful information about the course, a teacher, or other students which could lead to better communication.</p>
+<p>Augmented reality overlays digital content — 3D models, annotations, audio, video — onto the learner's physical environment, typically via smartphone, tablet, or AR headset. In classrooms, AR is used to visualize phenomena that are otherwise invisible or inaccessible (molecular structures, anatomy, historical sites), to add interactive layers to physical materials such as textbooks and worksheets, and to support situated, inquiry-based activity. Unlike virtual reality, AR keeps learners grounded in the real environment, allowing digital and physical information to be manipulated together.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>AR's learning benefit comes primarily from externalizing abstract or spatially complex content into manipulable 3D representations, which supports mental model construction through dual coding — combining verbal and visual channels <a href="../../claims/dual-coding-improves-recall/">Dual coding improves recall.</a> [+M]. Meta-analytic evidence shows moderate positive effects on learning gains and substantially larger effects on motivation and engagement compared with non-AR instruction <a href="https://doi.org/10.1007/s00779-014-0747-y">Radu, 2014</a> [+M]; a broader meta-analysis confirms positive effects on achievement, with the largest gains when AR supplements rather than replaces existing instruction <a href="https://doi.org/10.1111/bjet.12794">Garzón &amp; Acevedo, 2019</a> [+M]. However, AR is a delivery medium, not a pedagogy: benefits depend on the instructional design wrapped around it, and poorly designed AR can add extraneous load through novelty effects, interface friction, and split attention between device and physical task <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Mobile devices (smartphones or tablets), AR apps, internet connection (optional).</li>
+<li>Mobile devices (smartphones or tablets) or AR headsets with sufficient processing capability</li>
+<li>AR applications matched to the content (e.g., <a href="https://mergeedu.com">Merge Cube</a>, <a href="https://www.cospaces.io">CoSpaces Edu</a>, <a href="https://arvr.google.com">Google AR-enabled apps</a>, <a href="https://zspace.com">zSpace</a>)</li>
+<li>A defined pedagogical role for the AR layer — visualization, simulation, or guided inquiry — not decoration</li>
+<li>Teacher preparation time; AR activities typically require more setup and orchestration than equivalent non-AR activities</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Not all schools may have access to the proper technology.</li>
+<li>Device and infrastructure inequity: schools without reliable hardware or bandwidth cannot implement AR equitably, and BYOD approaches disadvantage students without current devices</li>
+<li>Novelty effects inflate short-term engagement measures; learning gains often shrink as novelty fades <a href="https://doi.org/10.1111/bjet.12794">Garzón &amp; Acevedo, 2019</a> [~M]</li>
+<li>Interface manipulation (holding, aiming, navigating the device) consumes working memory that is unavailable for learning, particularly for younger learners <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [-M]</li>
+<li>AR overlays that merely decorate content do not improve learning, mirroring the multimedia evidence on decorative illustrations <a href="../../claims/decorative-illustrations-do-not-improve-learning/">Decorative illustrations do not improve learning.</a> [-S]</li>
+<li>Splitting attention between a physical object and a device screen can impose split-attention costs unless the overlay is spatially integrated with the referent <a href="https://doi.org/10.1016/j.compedu.2012.11.012">Wu et al., 2013</a> [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Marker-based AR</strong>: scanning a physical trigger (book page, poster, <a href="https://mergeedu.com">Merge Cube</a>) to launch content — simplest to deploy, works well as an enrichment layer on existing materials</li>
+<li><strong>Markerless/location-based AR</strong>: content anchored to real-world locations, supporting field work and campus-based inquiry</li>
+<li><strong>Learner-created AR</strong>: students author their own overlays (e.g., in <a href="https://www.cospaces.io">CoSpaces Edu</a>), shifting AR from consumption to construction</li>
+<li><strong>Supplemental vs. replacement</strong>: evidence favors AR as a supplement to, not a substitute for, hands-on or teacher-led instruction <a href="https://doi.org/10.1111/bjet.12794">Garzón &amp; Acevedo, 2019</a> [+M]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Students of all ages in classrooms</li>
+<li>Learners encountering spatially complex, abstract, or invisible content (chemistry, anatomy, geometry, astronomy) for the first time <a href="https://doi.org/10.1007/s00779-014-0747-y">Radu, 2014</a> [+M]</li>
+<li>K–12 students, where engagement effects are strongest; effects on achievement are more consistent in secondary and higher education <a href="https://doi.org/10.1111/bjet.12794">Garzón &amp; Acevedo, 2019</a> [~M]</li>
+<li>Learners who benefit from concrete manipulation before symbolic representation — AR can serve as a bridge between physical and abstract [~W]</li>
+<li>Less beneficial for learners who already hold accurate mental models of the content, for whom the 3D overlay is redundant</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Increase student engagement, support textbook materials, turn an ordinary class into an engaging experience, provide gaming elements</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Visual, auditory, and kinesthetic learning; increases engagement and better retention of information</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>AR apps can be tailored to the specific content, age groups, and educational levels.</li>
+<li>Spatial and structural understanding: mental models of 3D objects, systems, and processes <a href="https://doi.org/10.1007/s00779-014-0747-y">Radu, 2014</a> [+M]</li>
+<li>Conceptual change in science: making invisible mechanisms (forces, currents, cellular processes) observable [~M]</li>
+<li>Engagement and motivation as a lever for persistence on challenging content [+M]</li>
+<li>Not well suited to goals centered on text comprehension, discussion, or argumentation, where AR adds little beyond the underlying activity</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/gain-attention/">Gain attention</a></li>
-<li><a href="../../elements/direct-instruction/">Direct instruction</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Student engagement, retention of learned material, interaction during class.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research shows positive outcomes in enhancing engagement and improving knowledge retention through interactive and gamified learning experiences.</li>
-</ul>
+<ol>
+<li>Identify a learning goal where visualization or manipulation genuinely adds value — typically spatial, structural, or process content; do not adopt AR for content that works as well in text or 2D <a href="../../claims/decorative-illustrations-do-not-improve-learning/">Decorative illustrations do not improve learning.</a> [-S]</li>
+<li><a href="../../claims/activation-improves-learning/">Activate prior knowledge</a> before the AR activity so students approach the overlay with a question to answer, not just a toy to explore</li>
+<li>Introduce the AR tool with a brief <a href="../../elements/demonstration/">demonstration</a> of the interface itself, so device manipulation does not compete with content processing during the task <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [-M]</li>
+<li>Structure the AR experience around an explicit task — prediction, comparison, labeling, or inquiry — rather than free exploration; pair with a <a href="../../elements/graphic-organizers/">graphic organizer</a> or recording sheet to direct attention</li>
+<li>Follow with <a href="../../elements/practice/">practice</a> in a non-AR format (drawing, explaining, solving) to check that the visualization produced durable understanding rather than momentary engagement</li>
+<li><a href="../../elements/provide-feedback/">Provide feedback</a> on students' interpretations of the AR content, not just on task completion</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../simulation-based-learning/">Simulation-based learning</a> — AR is one delivery mechanism for simulation; the same design principles for guided vs. exploratory simulation apply</li>
+<li><a href="../gamification/">Gamification</a> — AR apps frequently embed game mechanics; the same caveats about extrinsic motivation apply</li>
+<li><a href="../../patterns/flipped-classroom/">Flipped classroom</a> — AR exploration can serve as the in-class active segment after content exposure</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/demonstration/">Demonstration</a> — AR overlays can deliver annotated, spatially anchored demonstrations of processes</li>
+<li><a href="../../elements/practice/">Practice</a> — AR engagement must be followed by application to produce durable learning</li>
+<li><a href="../../elements/anchored-instruction/">Anchored instruction</a> — AR's location- and object-anchoring enacts the same principle of situating learning in a meaningful context</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="https://mergeedu.com">Merge EDU</a> — handheld AR science simulations (Merge Cube)</li>
+<li><a href="https://www.cospaces.io">CoSpaces Edu</a> — student-authored AR/VR scenes</li>
+<li><a href="https://zspace.com">zSpace</a> — AR/VR workstation for STEM labs</li>
+<li><a href="https://arvr.google.com/arcore/">Google ARCore-enabled apps</a> — device-anchored 3D models in mainstream Android/iOS apps</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Anatomy 4D / Human Anatomy Atlas (<a href="https://www.visiblebody.com">Visible Body</a>)</strong>: students scan a marker or surface to place a manipulable 3D body on their desk, isolating systems and layers during a unit on circulation — the AR layer makes spatial relationships visible that 2D diagrams cannot.</li>
+<li><strong><a href="https://mergeedu.com">Merge EDU</a> in elementary science</strong>: students hold a "digital fossil" or erupting volcano on a Merge Cube, making predictions before and observations after manipulation.</li>
+<li><strong>AR-enhanced textbooks</strong>: scanning a page triggers narrated explanations or 3D models, functioning as an on-demand <a href="../../elements/demonstration/">demonstration</a> layer over static text <a href="https://doi.org/10.1016/j.compedu.2012.11.012">Wu et al., 2013</a>.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Radu, I. (2014). Augmented reality in education: A meta-review and cross-media analysis. <em>Personal and Ubiquitous Computing, 18</em>(6), 1533–1543. <a href="https://doi.org/10.1007/s00779-013-0747-y">doi:10.1007/s00779-013-0747-y</a></li>
+<li>Wu, H.-K., Lee, S. W.-Y., Chang, H.-Y., &amp; Liang, J.-C. (2013). Current status, opportunities and challenges of augmented reality in education. <em>Computers &amp; Education, 62</em>, 41–49. <a href="https://doi.org/10.1016/j.compedu.2012.10.024">doi:10.1016/j.compedu.2012.10.024</a></li>
+<li>Akçayır, M., &amp; Akçayır, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. <em>Computers &amp; Education, 114</em>, 506–527. <a href="https://doi.org/10.1016/j.compedu.2016.10.011">doi:10.1016/j.compedu.2016.10.011</a></li>
+<li>Garzón, J., &amp; Acevedo, J. (2019). Meta-analysis of the impact of augmented reality on students' learning gains. <em>Educational Research Review, 27</em>, 244–260. <a href="https://doi.org/10.1016/j.edurev.2019.04.001">doi:10.1016/j.edurev.2019.04.001</a></li>
+<li>Mayer, R. E. (2021). <em>Multimedia learning</em> (3rd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/9781316941355">doi:10.1017/9781316941355</a></li>
 </ul>
 
 

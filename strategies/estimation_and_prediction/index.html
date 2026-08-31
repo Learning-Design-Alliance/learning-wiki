@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Asking students to use estimation and prediction skills.">
+        <meta name="description" content="Asking learners to estimate their performance or task duration in advance, record those estimates, and reflect on their accuracy afterward.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,75 +733,82 @@
 
 
 <h1 id="estimation-and-prediction">Estimation and Prediction<a class="headerlink" href="#estimation-and-prediction" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Asking students to use estimation and prediction skills. Asking them how they might do on an upcoming project or how long it might take them to complete a task or assignment. Recording estimates and reflecting on the accuracy of their predictions.</p>
+<p>Estimation and prediction asks learners to commit in advance to a judgment about their own learning or performance — how well they will do on an upcoming project, how long a task will take, or what score they expect — and then compare the recorded estimate against the actual outcome. The comparison converts a private guess into a feedback event, exposing gaps between confidence and competence and calibrating future judgments.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Prediction tasks function as a low-cost metacognitive probe: committing to an estimate before work begins activates prior knowledge and forces learners to survey the task's demands, and the subsequent comparison drives self-monitoring <a href="../../claims/self-monitoring-improves-self-regulation/">Self-monitoring improves self-regulation.</a> [+M]. The critical design feature is that estimates must be <em>recorded and revisited</em> — unrecorded predictions are silently revised after the fact and produce no calibration learning. Predictions also serve a motivational function: learners who set specific, challenging expectations for themselves tend to outperform those with vague or outcome-only goals <a href="../../claims/process-goals-outperform-outcome-goals-for-novices/">Process goals outperform outcome goals for novices.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Projects or assignments, recording sheets, and class time for estimation and reflection.</li>
+<li>A concrete, upcoming task with a measurable outcome (score, completion time, rubric level) so the estimate can be checked against reality</li>
+<li>A recording mechanism (prediction sheet, LMS field, journal entry) that timestamps estimates before work begins</li>
+<li>Protected time after the outcome for structured comparison and reflection (<a href="../../elements/individual-reflection/">Individual Reflection</a>)</li>
+<li>Feedback on the actual outcome that is specific enough to explain <em>why</em> the estimate was off (<a href="../../elements/provide-feedback/">Provide Feedback</a>)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Learners may struggle to accurately estimate their performance or time required. Some learners may find it challenging to reflect on their predictions. Estimation and prediction can be influenced by factors beyond the learners’ control.</li>
+<li>Learners are systematically overconfident and underestimate task duration (the planning fallacy), especially on complex or unfamiliar tasks [-S] — early estimates will be poor, which is the point, but instructors must frame errors as diagnostic rather than as failure</li>
+<li>Predictions based on ability beliefs rather than task analysis produce stable miscalibration that does not improve with repetition unless the comparison step is explicit [-M]</li>
+<li>If outcomes are ambiguous or graded subjectively, learners cannot verify their estimates and the calibration loop collapses [~M]</li>
+<li>High-stakes framing can depress <a href="../../claims/self-efficacy-predicts-academic-persistence/">self-efficacy</a> when repeated misses are made public; keep comparisons private or low-stakes [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Performance predictions</strong> ("What score do you expect?") before quizzes or projects</li>
+<li><strong>Time estimates</strong> ("How long will this take?") for writing, problem sets, or reading — particularly effective because time is objectively measurable</li>
+<li><strong>Confidence ratings</strong> item-by-item on practice problems, compared against correctness to expose illusions of knowing</li>
+<li><strong>Planning predictions</strong> ("What will be the hardest part?") that shift estimation from outcome to process</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learner levels, including K–12, higher education, and adult learners in professional development programs</li>
+<li>Novices benefit most, because their judgments of learning are least accurate and have the most room to calibrate <a href="../../claims/self-monitoring-improves-self-regulation/">Self-monitoring improves self-regulation.</a> [+M]</li>
+<li>Learners prone to overconfidence or the "fluency illusion" — those who feel they understand material they cannot yet apply</li>
+<li>Less useful for experts, whose estimates are already well calibrated and for whom the prediction step adds little beyond time cost [~W]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Enhance self-awareness, improve estimation skills, promote goal-setting, encourage self-monitoring, and foster accuracy in predictions.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides opportunities to practice estimation and prediction, encourages self-monitoring and reflection, promotes goal-setting and self-regulation, and supports personal growth.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Projects and assignments can be chosen to align with different age groups, interests, or real-world situations. Learners can be given options for how to record their estimates and reflections. Support can be provided for learners who struggle with estimation or self-monitoring.</li>
+<li>Metacognitive calibration: aligning confidence with actual competence</li>
+<li>Self-regulated learning: planning, monitoring, and evaluating one's own work</li>
+<li>Task analysis: learning to survey demands, resources, and difficulty before beginning</li>
+<li>Study-strategy selection: learners who discover their estimates are wrong become more receptive to strategy feedback</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/individual-reflection/">Individual Reflection</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Review students’ recorded estimates and reflections. Observe students’ ability to set goals and monitor their progress. Evaluate students’ accuracy in predicting their performance or time required.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Estimation and prediction skills can improve self-awareness, promote goal-setting, and enhance performance. Regular self-monitoring can help learners adjust their strategies and achieve their goals.</li>
-</ul>
+<ol>
+<li>Introduce the task and its success criteria before work begins; make the criteria concrete enough to estimate against (<a href="../../elements/advance-organizers/">Advance Organizers</a>)</li>
+<li>Have each learner record a specific, written estimate — expected score, time, or difficulty ranking — before starting (<a href="../../elements/practice/">Practice</a>)</li>
+<li>During work, prompt brief check-ins comparing progress to the estimate (<a href="../../principles/check-ins/">Check-ins</a>)</li>
+<li>After the outcome, return the original estimate and have learners compare it to the result, explaining any gap (<a href="../../elements/assess-performance/">Assess Performance</a>)</li>
+<li>Close with structured reflection: what information would have made the estimate more accurate, and what will change next time (<a href="../../elements/individual-reflection/">Individual Reflection</a>)</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../activating-prior-knowledge/">Activating Prior Knowledge</a> — prediction forces the same pre-task survey of what learners already know</li>
+<li><a href="../../elements/self-assessment/">Self-Assessment</a> — the post-hoc counterpart; estimation accuracy improves when paired with rubric-based self-scoring</li>
+<li><a href="../../elements/goal-setting/">Goal Setting</a> — estimates function as provisional goals that feedback then revises</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/individual-reflection/">Individual Reflection</a> — the comparison step where calibration learning actually occurs</li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — supplies the objective outcome the estimate is checked against</li>
+<li><a href="../../elements/provide-feedback/">Provide Feedback</a> — explains the gap between predicted and actual performance</li>
+<li><a href="../../principles/check-ins/">Check-ins</a> — mid-task monitoring that catches drift from the estimate early</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Ask students how they might do on an upcoming project or how long it might take them to complete a task or assignment. Recording estimates and reflecting on the accuracy of their predictions.</li>
+<li><strong>Writing courses</strong>: Students record a time estimate and a predicted rubric level before drafting an essay; after grading, they compare both against reality and write a short calibration note. Over a semester, time estimates typically converge toward accurate.</li>
+<li><strong>Introductory statistics</strong>: Before each problem set, students predict their score and identify which problem will be hardest; item-level comparison exposes which topics they misjudge.</li>
+<li><strong>Project-based learning (e.g., PBLWorks-affiliated projects)</strong>: Teams estimate milestones and durations during planning, then hold a retrospective comparing planned versus actual timelines — a direct transfer of professional estimation practice.</li>
+<li><strong>Reading comprehension</strong>: Students predict what a text will be about from its title and structure before reading, then revise after reading — prediction errors create curiosity and improve engagement with expository text.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Buehler, R., Griffin, D., &amp; Ross, M. (1994). Exploring the "planning fallacy": Why people underestimate their task completion times. <em>Journal of Personality and Social Psychology, 67</em>(3), 366–381. <a href="https://doi.org/10.1037/0022-3514.67.3.366">doi:10.1037/0022-3514.67.3.366</a></li>
+<li>Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. <em>Theory Into Practice, 41</em>(2), 64–70. <a href="https://doi.org/10.1207/s15430421tip4102_2">doi:10.1207/s15430421tip4102_2</a></li>
+<li>Nelson, T. O., &amp; Narens, L. (1990). Metamemory: A theoretical framework and new findings. <em>Psychology of Learning and Motivation, 26</em>, 125–173. <a href="https://doi.org/10.1016/S0079-7421(08)60053-5">doi:10.1016/S0079-7421(08)60053-5</a></li>
+<li>Dunlosky, J., &amp; Rawson, K. A. (2012). Overconfidence produces underachievement: Inaccurate self evaluations undermine students' learning and retention. <em>Learning and Instruction, 22</em>(4), 271–280. <a href="https://doi.org/10.1016/j.learninstruc.2011.08.003">doi:10.1016/j.learninstruc.2011.08.003</a></li>
 </ul>
 
 

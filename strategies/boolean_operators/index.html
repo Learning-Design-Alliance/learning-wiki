@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="For older students, teach them Boolean Operators (and, or, not, near, ( ), *) to better refine their searches.">
+        <meta name="description" content="Explicitly teach Boolean operators (AND, OR, NOT, NEAR, parentheses, truncation) so learners can deliberately narrow, broaden, and refine database and web searches.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -653,12 +658,7 @@
   
 </li>
         
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
+          <li class="md-nav__item">
   <a href="#assessment-evidence" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -668,8 +668,8 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#impact" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -677,6 +677,11 @@
       
     </span>
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -696,17 +701,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,73 +755,92 @@
 
 
 <h1 id="boolean-operators">Boolean Operators<a class="headerlink" href="#boolean-operators" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>For older students, teach them Boolean Operators (and, or, not, near, ( ), *) to better refine their searches.  Ask students to perform a search before introducing Boolean Operators and then to perform the same search after.  Ask them to reflect on the different types of information these searches find.</p>
+<p>Boolean operators are the logical connectors (AND, OR, NOT, NEAR), grouping symbols (parentheses), and truncation symbols (*) that control how a search engine or database combines query terms. Teaching them means giving learners explicit instruction in what each operator does, followed by guided practice in which learners compare an unrefined search with an operator-refined search of the same question and reflect on how the result set changed. The strategy converts searching from keyword guessing into a deliberate, testable query formulation skill.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Search is a problem-solving task with a hidden logic layer; without instruction, learners default to natural-language queries and treat the first page of results as the answer set [~M]. Explicit teaching of operators gives learners a small, powerful syntax for controlling result set size and precision, and the before/after comparison makes the effect of each operator visible rather than merely stated. Because operators are procedural knowledge, they require modeling and practice with feedback, not just definition <a href="../../elements/practice/">Practice</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Internet access.</li>
+<li>Internet access and access to at least one database or search interface that supports operators (e.g., Google, JSTOR, ERIC, PubMed, library discovery layers)</li>
+<li>A genuine research question or assignment so refinement has a purpose</li>
+<li>Explicit instruction with worked demonstrations of each operator (<a href="../../patterns/direct-instruction/">Direct Instruction</a> plus a modeled think-aloud of query construction)</li>
+<li>Structured <a href="../../elements/practice/">Practice</a> with comparison tasks (same query, with and without operators)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires explicit instruction.</li>
+<li>Web search engines increasingly ignore or silently reinterpret operators (e.g., Google treats implicit AND and deprecates + and NEAR), so instruction must be tied to interfaces where operators behave predictably [-M]</li>
+<li>Operators refine retrieval but do not teach source evaluation; learners may retrieve a precise set of low-quality sources and mistake precision for credibility [-M]</li>
+<li>Learners with low domain knowledge struggle to choose productive search terms regardless of syntactic skill — operator fluency cannot substitute for conceptual understanding of the topic [~M]</li>
+<li>Rote teaching of operator definitions without authentic search tasks produces knowledge that does not transfer to real research behavior [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Introduce operators incrementally (AND/OR first, then NOT, then parentheses and truncation) rather than all at once, to manage <a href="../../principles/cognitive-load-management/">cognitive load</a></li>
+<li>Use a "query journal" in which learners record each query, the result count, and what changed — making search an object of reflection</li>
+<li>Pair with database-specific features (field limits, filters, controlled vocabulary/subject headings) once basic operators are fluent</li>
+<li>Adapt for younger or novice learners with simplified two-operator searches; for advanced students, extend to proximity operators and nested Boolean logic in systematic review searching</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learners</li>
+<li>Secondary, postsecondary, and adult learners conducting independent research</li>
+<li>Most effective for learners who already search regularly but inefficiently — the before/after contrast creates <a href="../../claims/cognitive-disequilibrium-motivates-conceptual-change/">cognitive disequilibrium</a> that motivates adopting the new syntax [+W]</li>
+<li>Less valuable for learners with no search experience at all, who need basic query formulation first [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>To better refine their searches.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Refined searches.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li><!-- TODO --></li>
+<li>Information literacy: formulating and revising effective search queries</li>
+<li>Procedural fluency: applying a small formal syntax to a real task</li>
+<li>Metacognitive strategy use: monitoring and adjusting search behavior based on result feedback</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
+<ol>
+<li>Diagnose: have learners run a natural-language search on a research question and record the number and quality of results.</li>
+<li>Model: demonstrate each operator with a think-aloud, showing the query, the result count, and why the change helps (AND narrows, OR broadens with synonyms, NOT excludes, parentheses group, * truncates) — a form of <a href="../../claims/example-problem-sequences-reduce-cognitive-load/">worked example</a> [+M].</li>
+<li>Contrast: learners re-run the identical search using operators and compare result sets side by side.</li>
+<li>Practice: assign search challenges requiring a target result set size (e.g., "get between 20 and 50 relevant results"), forcing deliberate operator use <a href="../../elements/practice/">Practice</a>.</li>
+<li>Reflect: learners explain which operators helped and why, connecting syntax to the information need.</li>
+<li>Transfer: require operator use in an authentic research assignment, with the query log as part of the submission.</li>
+</ol>
+<h3 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h3>
 <ul>
-<li><a href="../../elements/direct-instruction/">Direct instruction</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
+<li>Query logs showing systematic refinement (result counts moving toward a target range)</li>
+<li>Performance on search tasks requiring a specified precision or recall level</li>
+<li>Learner explanations of why a given operator changed the result set</li>
 </ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
+<h3 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h3>
 <ul>
-<li>Ability to use boolean operators.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Improved research.</li>
+<li>More efficient and precise retrieval in databases and library catalogs</li>
+<li>Foundation for advanced research skills, including systematic review searching</li>
+<li>Improved independence in inquiry and research projects</li>
 </ul>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Search strategy instruction generally — Boolean operators are the syntax component of broader search strategy training</li>
+<li>Source evaluation instruction — the necessary complement, since precise retrieval does not guarantee credible sources</li>
+<li>Inquiry-based research projects — authentic tasks that give operator practice a purpose</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — operators only become fluent through repeated, feedback-rich search attempts</li>
+<li><a href="../../elements/advance-organizers/">Advance Organizers</a> — a simple operator reference chart serves as an organizer during search tasks</li>
+<li><a href="../../elements/case-studies/">Case Studies</a> — contrasting successful and failed queries works like worked examples for search behavior</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>A high school library media specialist has students search "plastic pollution ocean" in Google Scholar, then "plastic AND (ocean OR marine) NOT microbeads," comparing result counts and relevance.</li>
+<li>ERIC and PubMed instruction sessions (common in teacher education and nursing programs) teach MeSH subject headings alongside Boolean nesting for literature reviews.</li>
+<li>Systematic review methodology (e.g., Cochrane Handbook guidance) requires full Boolean query construction with documented syntax — the professional endpoint of this instruction.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Brand-Gruwel, S., Wopereis, I., &amp; Vermetten, Y. (2005). Information problem solving by experts and novices: Analysis of a complex cognitive skill. <em>Computers in Human Behavior, 21</em>(3), 487–508. <a href="https://doi.org/10.1016/j.chb.2004.10.005">doi:10.1016/j.chb.2004.10.005</a></li>
+<li>Walraven, A., Brand-Gruwel, S., &amp; Boshuizen, H. P. A. (2008). Information-problem solving: A review of problems students encounter and instructional solutions. <em>Computers in Human Behavior, 24</em>(3), 623–648. <a href="https://doi.org/10.1016/j.chb.2007.01.030">doi:10.1016/j.chb.2007.01.030</a></li>
+<li>Wildemuth, B. M. (2004). The effects of domain knowledge on search tactic formulation. <em>Journal of the American Society for Information Science and Technology, 55</em>(3), 246–258. <a href="https://doi.org/10.1002/asi.10367">doi:10.1002/asi.10367</a></li>
+<li>Kuhlthau, C. C. (1991). Inside the search process: Information seeking from the user's perspective. <em>Journal of the American Society for Information Science, 42</em>(5), 361–371. <a href="https://doi.org/10.1002/(SICI)1097-4571(199106)42:5%3C361::AID-ASI6%3E3.0.CO;2-%23">doi:10.1002/(sici)1097-4571(199106)42:5&lt;361::aid-asi6&gt;3.0.co;2-#</a></li>
 </ul>
 
 

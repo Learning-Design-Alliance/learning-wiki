@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +733,88 @@
 
 
 <h1 id="address-technology-related-fears">Address Technology-Related Fears<a class="headerlink" href="#address-technology-related-fears" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Recognize and address adult learners' fears related to technology, such as data loss, privacy concerns, or damaging equipment. Offer clear, reassuring guidance and support. Design user-friendly interfaces and provide explicit instructions to reduce anxiety and promote a positive user experience.</p>
+<p>Technology-related fear — anxiety about breaking equipment, losing data, exposing personal information, or appearing incompetent — is a documented barrier to adult participation in technology-mediated learning <a href="https://doi.org/10.28945/66">Computer anxiety in e-learning is reduced primarily through computer self-efficacy, not through reassurance or access alone.</a> [+M]. This strategy makes those fears explicit and legitimate, then systematically reduces them through low-stakes orientation, <a href="../../elements/demonstration/">Demonstration</a> of safe procedures and error recovery, redundant plain-language instructions, and accessible human support. The goal is to lower the affective barrier before the cognitive demands of the content are added.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Anxiety consumes working memory and attention that would otherwise support learning, so reducing it is a precondition for effective instruction rather than a courtesy (<a href="../../principles/cognitive-load-management/">Cognitive Load Management</a>) [+M]. Computer self-efficacy — a learner's belief in their capacity to use technology — predicts persistence and performance in digital learning environments, and it is built primarily through mastery experiences and vicarious demonstration, not reassurance alone <a href="../../claims/self-efficacy-predicts-academic-persistence/">Self-efficacy predicts academic persistence.</a> [+M]. Because fear of failure suppresses exploration, early tasks must be designed so that errors are recoverable and consequence-free.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Empathy, clear communication, user-friendly design, robust technical support</li>
+<li>Early, explicit acknowledgment that anxiety is common and normal (normalization, not dismissal)</li>
+<li>Low-stakes orientation activities: sandbox environments, practice accounts, undo-able tasks where errors carry no penalty</li>
+<li><a href="../../elements/demonstration/">Demonstration</a> of risky-seeming procedures (saving, backing up, recovering from a mistake) with narrated reasoning</li>
+<li>Redundant, plain-language instructions — printed quick-reference guides alongside in-tool help (<a href="../../principles/accessible-vocabulary-syntax/">Accessible Vocabulary &amp; Syntax</a>)</li>
+<li>A named, reachable human support channel with stated response-time expectations</li>
+<li>Privacy transparency: plain statements of what data is collected, where it is stored, and how learners can control it</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires time and resources for individual support, addressing deep-seated fears can be challenging</li>
+<li>Reassurance without mastery experience does not reduce anxiety; verbal persuasion is the weakest source of self-efficacy [~M] — learners must succeed at small tasks themselves</li>
+<li>One-on-one support does not scale; if the only remedy is individual hand-holding, the interface or onboarding design should be revised instead [-W]</li>
+<li>Deep technology anxiety in adult learners can co-occur with broader quantitative anxiety or low literacy; addressing technology fear alone will not resolve these [-W]</li>
+<li>Over-scaffolding can signal that the technology is indeed dangerous, reinforcing rather than reducing fear [~W]</li>
+<li>Extensive orientation imposed on digitally fluent learners wastes time and can feel patronizing, reducing engagement [~W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Cohort-based: a live "first session" orientation where the whole group practices basic operations together, normalizing questions</li>
+<li>Self-paced: embedded sandbox tutorials and a visible FAQ of common fears ("What happens if I close the window before saving?")</li>
+<li>Blended: a pre-course in-person or phone <a href="../../principles/check-ins/">check-in</a> for learners flagged as hesitant</li>
+<li>Institutional: peer-mentor pairing, where a more experienced learner demonstrates procedures (<a href="../../elements/coaching/">Coaching</a>)</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Adult learners with anxiety or fear related to technology.</li>
+<li>Adult learners returning to education after long absences, for whom the learning platform itself is novel</li>
+<li>Learners with low computer self-efficacy, who avoid exploration and disengage when early tasks fail <a href="../../claims/self-efficacy-predicts-academic-persistence/">Self-efficacy predicts academic persistence.</a> [+M]</li>
+<li>Learners with legitimate privacy or data-security concerns, which should be answered with information, not reassurance</li>
+<li>Less necessary for digitally fluent learners, for whom extensive orientation is redundant and can feel patronizing [~W]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Reduce technology-related anxiety, promote confidence in using technology, foster a positive learning environment</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Reduces barriers to participation, fosters a supportive learning environment, increases engagement and motivation</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provide clear and simple instructions, offer one-on-one technical support, provide a safe and non-judgmental environment for asking questions</li>
+<li>Affective: reducing technology anxiety and building confidence as a precondition for content learning</li>
+<li>Procedural: safe basic operations (saving, backing up, recovering from errors, managing privacy settings)</li>
+<li>Metacognitive: teaching learners to diagnose and recover from common technical problems independently</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Solicit feedback on anxiety levels and support resources, observe learner participation and engagement, track usage of technical support</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Reduced anxiety related to technology, increased confidence in using technology, improved learning outcomes</li>
-</ul>
+<ol>
+<li><strong>Surface the fears early.</strong> In the first interaction, ask or anonymously poll learners about their concerns (data loss, privacy, breaking things, looking foolish); name them explicitly in orientation materials.</li>
+<li><strong>Demonstrate recovery, not just success.</strong> Use <a href="../../elements/demonstration/">Demonstration</a> to show what happens when something goes wrong — a file closed without saving, a wrong click — and narrate the recovery steps, so errors are seen as routine.</li>
+<li><strong>Provide a consequence-free sandbox.</strong> Give learners <a href="../../elements/practice/">Practice</a> tasks in an environment where nothing can be broken and everything can be undone, sequenced from trivially easy to slightly challenging to build mastery experiences.</li>
+<li><strong>Chunk and simplify instructions.</strong> Break procedures into small numbered steps with screenshots (<a href="../../principles/chunking/">Chunking</a>) <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M], and provide a printable quick-reference so learners are not forced to switch between the tool and the instructions.</li>
+<li><strong>Answer privacy concerns with specifics.</strong> State plainly what data is collected, who sees it, and how to control it; vague reassurance increases distrust.</li>
+<li><strong>Guarantee a human fallback.</strong> Publish a support contact with a stated response time, and normalize its use — learners who ask for help early persist longer.</li>
+<li><strong>Fade the support.</strong> As confidence grows, shift from guided orientation to self-service resources, so learners attribute success to their own competence rather than to the scaffolding <a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading support promotes transfer of responsibility.</a> [+M].</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../accommodate_varying_technology_experience/">Accommodate Varying Technology Experience</a> — the broader design response to heterogeneous digital skills; this strategy targets the affective subset</li>
+<li><a href="../activate_background_knowledge/">Activate Background Knowledge</a> — connecting new tools to familiar analogies (folders, filing cabinets) reduces perceived strangeness</li>
+<li><a href="../achievable_micro-goals/">Achievable Micro-Goals</a> — small early wins are the mechanism by which this strategy builds self-efficacy</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/demonstration/">Demonstration</a> — vicarious mastery: watching an expert make and recover from errors lowers perceived risk</li>
+<li><a href="../../elements/practice/">Practice</a> — mastery experiences in a safe sandbox are the primary builder of computer self-efficacy</li>
+<li><a href="../../elements/coaching/">Coaching</a> — a patient human presence during first attempts prevents a single failure from becoming a lasting aversion</li>
+<li><a href="../../elements/advance-organizers/">Advance Organizers</a> — a simple map of the platform's structure reduces fear of getting lost</li>
+<li><a href="../../principles/check-ins/">Check-Ins</a> — early structured contact surfaces fears before they become disengagement</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Community college hybrid-course onboarding:</strong> Many US community colleges run mandatory "online learning readiness" orientations (e.g., Canvas student orientation courses) that include a practice quiz students can retake unlimited times, a syllabus quiz on where to get help, and a demo of what happens when a deadline is missed — deliberately surfacing feared scenarios before they occur.</li>
+<li><strong><a href="https://www.futurelearn.com">FutureLearn</a> and <a href="https://www.coursera.org">Coursera</a> first-run experiences:</strong> Both platforms walk new users through a guided tour of the interface and use low-stakes first activities (introduce yourself in a forum) to produce an early, easy success before graded work.</li>
+<li><strong>Public library digital-skills programs:</strong> Programs such as the <a href="https://www.digitalliteracyassessment.org">Northstar Digital Literacy Assessment</a> begin with proctored, no-penalty practice modules so adult learners can attempt certification without fear of a permanent failing record.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Bandura, A. (1997). <em>Self-efficacy: The exercise of control</em>. W. H. Freeman.</li>
+<li>Compeau, D. R., &amp; Higgins, C. A. (1995). Computer self-efficacy: Development of a measure and initial test. <em>MIS Quarterly, 19</em>(2), 189–211. <a href="https://doi.org/10.2307/249688">doi:10.2307/249688</a></li>
+<li>Venkatesh, V., Morris, M. G., Davis, G. B., &amp; Davis, F. D. (2003). User acceptance of information technology: Toward a unified view. <em>MIS Quarterly, 27</em>(3), 425–478. <a href="https://doi.org/10.2307/30036540">doi:10.2307/30036540</a></li>
+<li>Saadé, R. G., &amp; Kira, D. (2009). Computer anxiety in e-learning: The effect of computer self-efficacy. <em>Journal of Information Technology Education, 8</em>, 177–191. <a href="https://doi.org/10.28945/66">doi:10.28945/66</a></li>
+<li>Clark, R. C., &amp; Mayer, R. E. (2016). <em>E-Learning and the science of instruction</em> (4th ed.). Wiley. <a href="https://doi.org/10.1002/9781119239086">doi:10.1002/9781119239086</a></li>
 </ul>
 
 

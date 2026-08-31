@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Sending parents a link to a personalized video that provides context about their child’s report card, such as a history of the child’s performance in core subjects, areas for growth, and recommendations to further support the child’s…">
+        <meta name="description" content="Sending parents a link to a personalized video that provides context about their child's report card, such as a history of the child's performance in core subjects, areas for growth, and recommendations to further support the child's learning.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,17 +679,6 @@
     <span class="md-ellipsis">
       
         Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +733,80 @@
 
 
 <h1 id="video-report-cards">Video Report Cards<a class="headerlink" href="#video-report-cards" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Sending parents a link to a personalized video that provides context about their child’s report card, such as a history of the child’s performance in core subjects, areas for growth, and recommendations to further support the child’s learning. These video report cards can be translated into a parent’s native language to improve clarity.</p>
+<p>A video report card is a short, personalized recording — typically 2–5 minutes — in which a teacher walks parents through their child's performance: trends across grading periods, specific strengths, areas for growth, and concrete recommendations for home support. Videos can be translated, captioned, or recorded in the family's home language to reduce language barriers that written reports often create.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Video report cards apply multimedia and personalization principles to family communication: combining the teacher's voice and face with the report card on screen makes feedback more concrete and less open to misinterpretation than a grade alone <a href="../../claims/media-combinations-affect-recall-and-retention/">Media combinations affect recall and retention.</a> [+M]. Their value depends less on production quality than on specificity — feedback that names the task, the process, and the next step is far more useful than evaluative commentary <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S]. Because the audience is parents rather than students, the goal is building parents' capacity to support learning at home, which the parent-involvement literature links to achievement when involvement is directly tied to learning rather than general attendance or supervision [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Video recording equipment, video editing skills, translated video templates</li>
+<li>A template structure (performance history → strengths → growth areas → home recommendations) so videos are consistent and efficient to produce</li>
+<li>Recording and sharing infrastructure (screen recording, LMS or secure link distribution) with privacy protections for student data</li>
+<li>Translation, captions, or recording in the family's home language for multilingual communities</li>
+<li>Accurate, current performance data to narrate — errors in a personalized video damage trust more than errors in a generic report</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires time and effort to create personalized videos, may be difficult to ensure accuracy of translations</li>
+<li>Production time scales with class size; personalized videos are unsustainable for secondary teachers with 100+ students unless templates and batching are used [-M]</li>
+<li>Machine or rushed translations can distort feedback; inaccurate translation is worse than a well-translated generic message [~M]</li>
+<li>Families without reliable internet access or devices are systematically excluded unless an audio-only or phone-based alternative is offered [-M]</li>
+<li>One-way video communication does not by itself create dialogue; without a response channel, parents may remain passive recipients [~W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Full personalization (one video per student) vs. semi-personalized (class-level video plus a short individual segment)</li>
+<li>Student-created video report cards, in which learners narrate their own progress — shifting the strategy toward <a href="../../elements/assessment/">Assessment</a> as learning and self-explanation</li>
+<li>Audio newsletters or translated written summaries as low-bandwidth equivalents</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Schools, educators, and parents</li>
+<li>Families of students in elementary and middle grades, where a single teacher can feasibly produce individualized videos</li>
+<li>Multilingual families, for whom spoken and translated communication substantially improves comprehension of school feedback [+W]</li>
+<li>Parents of students who are disengaged or underperforming, where concrete process-level guidance changes how home support is delivered <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Enhance parent understanding of student progress, improve communication, personalize feedback</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides personalized and accessible information, offers visual and auditory learning, breaks down language barriers</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Video report cards are tailored to individual students and their performance.</li>
+<li>Parent understanding of student progress and of specific actions that support learning at home</li>
+<li>Student self-assessment and communication skills when students produce the videos themselves</li>
+<li>Home–school alignment on growth areas and next steps</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/demonstration/">Demonstration</a></li>
-<li><a href="../../elements/provide-guidance/">Provide Guidance</a></li>
-<li><a href="../../elements/provide-feedback/">Provide Feedback</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Gather feedback from parents on the usefulness of video report cards, track parent understanding of student progress</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Personalized video report cards can enhance parent understanding and engagement.</li>
-</ul>
+<ol>
+<li>Collect performance data across grading periods and identify one strength and one growth area per student.</li>
+<li>Record a short video following a consistent template, narrating the report card on screen and making reasoning explicit — model how you interpret the data, as in a <a href="../../elements/demonstration/">Demonstration</a>.</li>
+<li>Frame recommendations as process-level guidance ("practice multiplication facts 10 minutes nightly") rather than outcome judgments ("needs to work harder") <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S].</li>
+<li>Translate, caption, or re-record in home languages; verify translations with a bilingual staff member or family liaison.</li>
+<li>Distribute via a secure link and provide a response channel (reply form, <a href="../../principles/check-ins/">Check-Ins</a> conference, or translation-supported messaging) so communication is two-way.</li>
+<li>Where feasible, have students draft or co-record their segment to build ownership and self-monitoring skills <a href="../../claims/self-monitoring-improves-self-regulation/">Self-monitoring improves self-regulation.</a> [+M].</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Student-Led Conferences — the in-person counterpart; video report cards can prepare families for them</li>
+<li>Positive Phone Calls Home — a lower-production channel serving the same relationship-building function</li>
+<li>Progress Monitoring Dashboards — the data source the video narrates</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/assessment/">Assessment</a> — the report card data being communicated</li>
+<li><a href="../../elements/accommodations/">Accommodations</a> — translation, captions, and alternative formats make the communication accessible</li>
+<li><a href="../../elements/coaching/">Coaching</a> — recommendations to parents function as coaching for home-based support</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Elementary teachers using <strong>Seesaw</strong> (https://web.seesaw.me) to record and share individual video progress updates with families, with built-in translation into dozens of languages.</li>
+<li><strong>TalkingPoints</strong> (https://talkingpts.org) — a two-way translated messaging platform used for video and text family communication in multilingual districts.</li>
+<li>Schools adopting video report cards during COVID-19 remote learning, where teachers screen-recorded the digital gradebook while narrating each student's trends and next steps.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Educational Research, 77</em>(1), 81–112. <a href="https://doi.org/10.3102/003465430298487">doi:10.3102/003465430298487</a></li>
+<li>Clark, R. C., &amp; Mayer, R. E. (2016). <em>E-Learning and the Science of Instruction</em> (4th ed.). Wiley. <a href="https://doi.org/10.1002/9781119239086">doi:10.1002/9781119239086</a></li>
+<li>Epstein, J. L. (2011). <em>School, family, and community partnerships: Preparing educators and improving schools</em> (2nd ed.). Westview Press.</li>
+<li>Hoover-Dempsey, K. V., &amp; Sandler, H. M. (1995). Parental involvement in children's education: Why does it make a difference? <em>Teachers College Record, 97</em>(2), 310–331. <a href="https://doi.org/10.1177/016146819509700202">doi:10.1177/016146819509700202</a></li>
+<li>Jeynes, W. H. (2007). The relationship between parental involvement and urban secondary school student academic achievement: A meta-analysis. <em>Urban Education, 42</em>(1), 82–110. <a href="https://doi.org/10.1177/0042085906293818">doi:10.1177/0042085906293818</a></li>
 </ul>
 
 

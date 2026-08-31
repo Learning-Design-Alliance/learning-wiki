@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -703,10 +686,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
+  <a href="#patterns-that-use-this-strategy" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Tools
+        Patterns That Use This Strategy
       
     </span>
   </a>
@@ -761,73 +744,87 @@
 
 
 <h1 id="creative-analogies-and-comparisons">Creative Analogies and Comparisons<a class="headerlink" href="#creative-analogies-and-comparisons" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Simplify complex ideas by linking them to familiar situations, making them easier to understand and remember.  Help highlight the importance of concepts. Learners can see how theoretical ideas apply in real-world settings, which can enhance their understanding and motivate them to apply these concepts to their own work.</p>
+<p>Creative analogies and comparisons link unfamiliar, abstract, or complex target concepts to familiar source domains, so learners can map what they already know onto new material. The strategy works through <a href="../../principles/analogical-reasoning/">Analogical Reasoning</a>: the learner aligns the relational structure of the familiar case with the unfamiliar one, transferring structure rather than surface features <a href="../../claims/claim-slug/">Gentner's structure-mapping account of analogy.</a> [+M]. Well-designed analogies do more than simplify — they highlight which features of the target matter and which features of the source should be ignored.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Analogies reduce intrinsic load by letting learners import an existing schema instead of constructing one from scratch <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S], and they activate prior knowledge that serves as a foundation for the new concept <a href="../../claims/activation-improves-learning/">Activating prior knowledge improves learning.</a> [+M]. Their effectiveness depends on structural alignment: analogies that share deep relational structure with the target support transfer, while surface-similar analogies invite erroneous mappings. Because every analogy breaks down somewhere, the most effective instruction explicitly marks where the comparison fails.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Careful selection of analogies that accurately represent the concept. Tools for creating visuals to support the analogies.</li>
+<li>A source domain that is genuinely familiar to the target learners — familiarity is relative to the audience, not the instructor</li>
+<li>Structural correspondence between source and target at the level of relations, not just appearance</li>
+<li>Explicit identification of the analogy's boundaries — where the mapping breaks down (<a href="../../elements/non-examples/">Non-Examples</a> and contrast cases help)</li>
+<li>Optional visual support that reinforces the mapping (<a href="../../claims/dual-coding-improves-recall/">Dual coding improves recall.</a> [+M])</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Analogies can be misleading if not carefully chosen. Overuse of analogies can become distracting.</li>
+<li>Misleading mappings: learners may transfer incorrect features from the source to the target, producing misconceptions that are harder to correct than gaps [-M] — e.g., the "solar system" atom analogy leads students to believe electrons orbit in fixed planetary paths</li>
+<li>Analogies become less effective — and can add redundant load — for learners who already know the target domain well <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective as learner expertise increases.</a> [~M]</li>
+<li>Overuse clutters instruction; each additional analogy competes for working memory and dilutes the key comparison <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [-M]</li>
+<li>Analogies that are vivid but structurally shallow entertain without teaching; surface similarity alone does not produce transfer [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Advance analogies</strong>: presented before new material as an <a href="../../elements/advance-organizers/">Advance Organizer</a> to frame what is coming</li>
+<li><strong>Embedded analogies</strong>: interleaved with explanation, with the mapping made explicit step by step (Glynn's Teaching-With-Analogies model: target, source, mapping, breakdown)</li>
+<li><strong>Learner-generated analogies</strong>: students invent their own comparisons, which requires deeper processing but risks entrenching flawed mappings without feedback</li>
+<li><strong>Multiple analogies</strong>: several different sources for the same target, supporting flexible understanding across contexts</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learners, particularly those who struggle with abstract concepts</li>
+<li>Novices encountering an abstract or invisible phenomenon (electrical circuits, market dynamics, molecular processes) for the first time [+M]</li>
+<li>Learners with relevant everyday experience in the source domain but little formal knowledge of the target</li>
+<li>Less beneficial for advanced learners, for whom a familiar-domain analogy may be redundant or distracting <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective as learner expertise increases.</a> [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Simplify complex concepts, connect learning to real-world applications, improve learner engagement and retention</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Makes it easier to grasp complex ideas by comparing them to familiar scenarios. Simplifies the abstract concept.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Use analogies and comparisons that are relevant to learners' backgrounds and experiences.</li>
+<li>Conceptual understanding of abstract, complex, or non-observable systems</li>
+<li>Schema formation: anchoring new concepts to existing knowledge structures</li>
+<li>Retention and recall: memorable comparisons serve as retrieval cues</li>
+<li>Transfer: relational mapping prepares learners to see the same structure in new situations [~M]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/analogies-and-prior-knowledge-activation/">Analogies and prior knowledge activation</a></li>
-<li><a href="../../elements/supportive-information/">Supportive information</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Assess learners' ability to explain the concept using the analogy. Evaluate their ability to apply the concept in new situations.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Using analogies and comparisons in eLearning courses is a powerful way to simplify complex ideas by linking them to familiar situations, making them easier to understand and remember.</li>
-</ul>
+<ol>
+<li>Identify the core relational structure of the target concept — what must the analogy preserve?</li>
+<li>Select a source domain your learners know well; verify familiarity rather than assuming it (<a href="../../elements/analogies-and-prior-knowledge-activation/">Analogies and Prior Knowledge Activation</a>)</li>
+<li>Present the analogy before or alongside the formal explanation, making each mapping explicit ("just as X in the source, Y in the target") (<a href="../../elements/supportive-information/">Supportive Information</a>)</li>
+<li>State explicitly where the analogy breaks down, and contrast the analogy with a <a href="../../elements/non-examples/">Non-Example</a> to prevent overextension</li>
+<li>Ask learners to apply the concept in a new situation, or to critique or generate analogies themselves, to check that they mapped structure rather than surface features</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../activating-prior-knowledge/">Activating Prior Knowledge</a> — analogies are a specific, structured way of doing this</li>
+<li><a href="../concrete-examples/">Concrete Examples</a> — examples instantiate the target directly; analogies import structure from a different domain</li>
+<li><a href="../dual-coding/">Dual Coding</a> — pairing the analogy with a visual reinforces the mapping</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/analogies/">Analogies</a> — the core element this strategy deploys</li>
+<li><a href="../../elements/analogies-and-prior-knowledge-activation/">Analogies and Prior Knowledge Activation</a> — the bridge between comparison and existing schemas</li>
+<li><a href="../../elements/advance-organizers/">Advance Organizers</a> — analogies often serve this framing function</li>
+<li><a href="../../elements/supportive-information/">Supportive Information</a> — in 4C/ID terms, analogies are supportive information for non-recurrent task aspects</li>
 </ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
+<h2 id="patterns-that-use-this-strategy">Patterns That Use This Strategy<a class="headerlink" href="#patterns-that-use-this-strategy" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../patterns/anchored-instruction/">Anchored Instruction</a> — the anchor story functions as an extended familiar context mapped onto target skills</li>
+<li><a href="../../patterns/4cid-four-component-instructional-design/">4C/ID</a> — supportive information frequently includes analogies for complex, variable tasks</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Explaining 'scalability' in business by likening it to a restaurant increasing the number of tables during peak hours, visualizing data encryption like a secure lockbox, considering photosynthesis similar to cooking, and picturing the scenario of buying tickets for a popular concert to understand economic supply and demand.</li>
+<li><strong>Photosynthesis as cooking</strong>: a plant "prepares" glucose from ingredients (CO₂, water) using energy (sunlight as stove heat) — effective for the input–process–output structure, but must be bounded: plants <em>build</em> their own food rather than transforming prepared ingredients.</li>
+<li><strong>Electrical circuits as water in pipes</strong>: voltage as pressure, current as flow, resistance as pipe narrowing — a classic physics analogy whose breakdown (water is consumed; charge is not) should be stated explicitly.</li>
+<li><strong>Data encryption as a locked lockbox sent by mail</strong>: conveys public-key ideas (anyone can lock, only the key-holder can open) in security training courses.</li>
+<li><strong>Scalability as a restaurant adding tables at peak hours</strong>: used in business education to distinguish scaling capacity from scaling demand.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. <em>Cognitive Science, 7</em>(2), 155–170. <a href="https://doi.org/10.1207/s15516709cog0702_3">doi:10.1207/s15516709cog0702_3</a></li>
+<li>Duit, R. (1991). On the role of analogies and metaphors in learning science. <em>Science Education, 75</em>(6), 649–672. <a href="https://doi.org/10.1002/sce.3730750606">doi:10.1002/sce.3730750606</a></li>
+<li>Glynn, S. M. (1991). Explaining science concepts: A teaching-with-analogies model. In S. M. Glynn, R. H. Yeany, &amp; B. K. Britton (Eds.), <em>The psychology of learning science</em> (pp. 219–239). Lawrence Erlbaum.</li>
+<li>Harrison, A. G., &amp; Treagust, D. F. (2006). Teaching and learning with analogies: Friend or foe? <em>Science Education, 90</em>(5), 865–885. <a href="https://doi.org/10.1007/1-4020-3830-5_2">doi:10.1007/1-4020-3830-5_2</a></li>
 </ul>
 
 

@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Utilizing an AI in Education Toolkit for Racial Equity involves taking a more in-depth look into the data used to build algorithms and the way products are used by and for Black and Brown students in schools.">
+        <meta name="description" content="A structured process for auditing the data, design, and deployment of AI-powered edtech products to identify and mitigate racial bias affecting Black and Brown students.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +722,73 @@
 
 
 <h1 id="ai-in-education-toolkit-for-racial-equity">AI in Education Toolkit for Racial Equity<a class="headerlink" href="#ai-in-education-toolkit-for-racial-equity" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Utilizing an AI in Education Toolkit for Racial Equity involves taking a more in-depth look into the data used to build algorithms and the way products are used by and for Black and Brown students in schools. The toolkit provides actions that can be taken at every stage of product design and development to mitigate racial bias in the design and development of products.</p>
+<p>Using an AI in Education Toolkit for Racial Equity means taking a structured, in-depth look at the data used to build algorithms and the ways products are used by and for Black and Brown students in schools. The toolkit provides concrete actions at every stage of product design and development — problem framing, data collection, model building, testing, and deployment — to mitigate racial bias before products reach classrooms. It functions as both an audit instrument and a design heuristic, converting abstract equity commitments into checkable practices.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Algorithmic systems in education systematically encode and amplify racial disparities when training data, proxies, and evaluation practices go unexamined [~S]. Bias audits and disaggregated performance evaluation are the primary documented countermeasure: models that appear accurate in aggregate can fail differentially for marginalized subgroups, and only subgroup analysis reveals this [-S]. Treating equity review as a design-stage activity rather than a post-hoc patch is more effective because harms propagate from early problem framing decisions [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to the AI in Education Toolkit for Racial Equity, a commitment to racial equity, and the ability to implement the recommended actions.</li>
+<li>Access to the toolkit and organizational commitment to act on its findings, not merely document them</li>
+<li>Disaggregated data (by race/ethnicity and other demographics) sufficient to test for differential performance across student groups</li>
+<li>Cross-functional participation: product teams, educators who work with affected students, and where possible students and families themselves</li>
+<li>Authority to change product decisions — an audit without decision-making power produces documentation, not mitigation</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires ongoing commitment and effort to address racial bias. May be challenging to implement all of the recommended actions. May not be effective if users are not committed to racial equity.</li>
+<li>Fails when treated as a one-time compliance exercise; bias re-enters through model updates, new data sources, and shifting deployment contexts, so review must be ongoing [-W]</li>
+<li>Ineffective if participants lack genuine commitment to racial equity — the toolkit's actions become checkbox rituals rather than design constraints [-W]</li>
+<li>Disaggregated audit data is often unavailable or too sparse for small student subgroups, limiting detection of differential performance [~M]</li>
+<li>Cannot fully compensate for biased underlying data; where historical data encodes discriminatory patterns (e.g., disciplinary records), no post-hoc technique reliably removes the bias [~S]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Procurement stage:</strong> Educational institutions can use the toolkit's questions to evaluate vendor products before purchase, even without access to source code</li>
+<li><strong>Design stage:</strong> Edtech developers embed the actions into sprint workflows as gates between development phases</li>
+<li><strong>Policy stage:</strong> Districts adapt the audit questions into procurement rubrics and data-privacy agreements</li>
+<li><strong>Depth:</strong> Teams with model access can run technical subgroup evaluations; those without rely on documentation review, use-case interrogation, and stakeholder consultation</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Edtech companies, product developers, and educational institutions</li>
+<li>Edtech product managers, developers, and data scientists who build AI-powered learning tools</li>
+<li>Educational institutions and procurement teams deciding which products to adopt</li>
+<li>Professional developers and teacher educators preparing staff to evaluate AI tools critically</li>
+<li>The approach assumes adult professional learning; it works best when participants have <a href="../../elements/case-studies/">Case Studies</a> of real harms to ground abstract concepts [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Mitigate racial bias in AI-powered edtech products, ensure equitable outcomes for Black and Brown students, and promote culturally responsive design and development</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides practical guidance for identifying and addressing racial bias in AI-powered edtech products, promotes culturally responsive design and development, and helps ensure equitable outcomes for Black and Brown students.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>The toolkit can be adapted to the specific needs and context of different edtech products and organizations. Users can select the actions that are most relevant to their work.</li>
+<li>Recognizing how bias enters through data, proxies, problem framing, and evaluation practices</li>
+<li>Applying structured audit questions to concrete product decisions</li>
+<li>Developing equitable design habits — disaggregated testing, stakeholder consultation, and documentation of limitations</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/problem-scenario/">Problem Scenario</a></li>
-<li><a href="../../elements/question-formulation/">Question Formulation</a></li>
-<li><a href="../../elements/just-in-time-information/">Just-in-Time Information</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track the implementation of the toolkit's recommended actions, measure changes in product outcomes for Black and Brown students, and gather feedback from students and teachers</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Using an AI in Education Toolkit for Racial Equity can help mitigate racial bias in AI-powered edtech products, ensure equitable outcomes for Black and Brown students, and promote culturally responsive design and development.</li>
-</ul>
+<ol>
+<li><strong>Frame the problem with affected communities.</strong> Interrogate whether the product's use case is appropriate at all for Black and Brown students, using <a href="../../elements/problem-scenario/">Problem Scenario</a> analysis before any technical work begins.</li>
+<li><strong>Formulate audit questions.</strong> Use <a href="../../elements/question-formulation/">Question Formulation</a> to generate the specific equity questions the product must answer: What data was used? Who is represented? What proxies might encode race? What happens when the model errs, and for whom?</li>
+<li><strong>Gather information just in time.</strong> Apply <a href="../../elements/just-in-time-information/">Just-in-Time Information</a> — consult bias documentation, disaggregated performance data, and stakeholder input at the decision point where each is needed, not in a front-loaded training session.</li>
+<li><strong>Evaluate with disaggregated data.</strong> Test model performance separately by race/ethnicity and intersecting demographics; aggregate accuracy masks differential error rates [-S].</li>
+<li><strong>Document, mitigate, and re-audit.</strong> Record findings, implement mitigations (data rebalancing, proxy removal, human review of high-stakes outputs), and schedule recurring re-audits as the product and its context change.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../culturally_responsive_teaching/">Culturally Responsive Teaching</a> — the pedagogical counterpart: equitable design of content and instruction parallels equitable design of tools</li>
+<li><a href="../address_biases_in_the_use_of_language_and_symbols/">Address Biases in the Use of Language and Symbols</a> — extends bias auditing from algorithms to content and representation</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Edtech companies using the AI in Education Toolkit for Racial Equity to identify and address racial bias in their products. Educational institutions using the toolkit to inform their decisions about which edtech products to purchase and use.</li>
+<li><strong><a href="https://www.racialequityedtech.org">AI in Education Toolkit for Racial Equity</a></strong> — the toolkit itself, offering stage-by-stage actions for edtech developers and guidance for districts evaluating products.</li>
+<li><strong>Procurement screening</strong> — districts using the toolkit's question sets to require vendors to disclose training data sources and subgroup performance before adoption.</li>
+<li><strong>Gender Shades audit (Buolamwini &amp; Gebru, 2018)</strong> — the paradigmatic subgroup audit demonstrating that commercial facial analysis systems errored far more on darker-skinned women; the disaggregated-evaluation method it pioneered is the technical core of toolkit-style audits.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Baker, R. S., &amp; Hawn, A. (2022). Algorithmic bias in education. <em>International Journal of Artificial Intelligence in Education, 32</em>(4), 1052–1092. <a href="https://doi.org/10.1007/s40593-021-00285-9">doi:10.1007/s40593-021-00285-9</a></li>
+<li>Buolamwini, J., &amp; Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. <em>Proceedings of the 1st Conference on Fairness, Accountability and Transparency, PMLR 81</em>, 77–91.</li>
+<li>Kizilcec, R. F., &amp; Lee, H. (2022). Algorithmic fairness in education. In W. Holmes &amp; K. Porayska-Pomsta (Eds.), <em>The ethics of artificial intelligence in education</em> (pp. 174–202). Routledge.</li>
+<li>Holmes, W., Porayska-Pomsta, K., Holstein, K., et al. (2022). Ethics of AI in education: Towards a community-wide framework. <em>International Journal of Artificial Intelligence in Education, 32</em>(3), 504–526. <a href="https://doi.org/10.1007/s40593-021-00239-1">doi:10.1007/s40593-021-00239-1</a></li>
 </ul>
 
 

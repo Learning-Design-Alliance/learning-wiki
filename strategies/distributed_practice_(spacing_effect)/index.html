@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Distributed practice, also known as the spacing effect, is a learning technique where reviews of information or practice of a task are spaced out over time rather than massed together.">
+        <meta name="description" content="Distributed practice schedules reviews of information or practice of a task across multiple sessions separated in time, rather than massing them together, producing markedly better long-term retention.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,73 +722,76 @@
 
 
 <h1 id="distributed-practice-spacing-effect">Distributed Practice (Spacing Effect)<a class="headerlink" href="#distributed-practice-spacing-effect" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Distributed practice, also known as the spacing effect, is a learning technique where reviews of information or practice of a task are spaced out over time rather than massed together. This method promotes long-term retention because it forces the brain to actively retrieve the information from memory during each review session, making the memory more durable. Distributed practice contrasts with massed practice (cramming), where study sessions occur immediately following the initial learning event.</p>
+<p>Distributed practice (spacing) schedules encounters with the same material or skill across multiple sessions separated by time, rather than massing them into one block. Each spaced encounter requires the learner to reconstruct a partially forgotten memory trace, and this effortful retrieval strengthens the trace more than an immediate repetition would. It contrasts with massed practice (cramming), which produces strong short-term performance but rapid forgetting.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Spacing is one of the most robust findings in learning science: distributed practice reliably outperforms massed practice on delayed tests across ages, materials, and tasks <a href="../../claims/distributed-practice-improves-retention/">Distributed practice produces superior long-term retention compared to massed practice.</a> [+S]. Its benefit comes partly from the retrieval effort each spaced session demands — which is why spacing pairs naturally with <a href="../../elements/practice/">retrieval practice</a> rather than rereading [~S]. Optimal gaps scale with retention interval: longer delays to the final test call for longer spacing gaps between sessions [+S].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Scheduled review sessions, awareness of optimal spacing gaps, technology to sequence assignments effectively</li>
+<li>A curriculum plan that revisits each topic at least twice, with genuine gaps between encounters</li>
+<li>Knowledge of the retention interval (when the material must be recalled) to set gap lengths — roughly 10–20% of the retention interval is a practical heuristic [+M]</li>
+<li>Scheduling infrastructure: course calendars, homework sequencing, or spaced-repetition software that enforces the gaps</li>
+<li>Cumulative assessment so that earlier material remains consequential after its first test</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires planning and discipline, may be inconvenient to implement in traditional linear instruction settings</li>
+<li>Learners judge massed study to be more effective because it feels fluent, while spaced study feels harder — this metacognitive illusion drives cramming even when learners know better [-M]</li>
+<li>Spacing requires advance planning across weeks; it fits poorly with linear, topic-per-week course structures where material is never revisited [-M]</li>
+<li>Benefits are largest for retention of the same material; spacing alone does not build new understanding of poorly comprehended content [-W]</li>
+<li>For very short retention intervals (recall needed within hours), massing may be as effective or more efficient [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Fixed spacing</strong>: predetermined review schedule (e.g., 1 day, 1 week, 1 month after initial learning)</li>
+<li><strong>Expanding spacing</strong>: gaps lengthen with each successive review (1 day → 3 days → 7 days), often more efficient than fixed schedules [~M]</li>
+<li><strong>Adaptive spacing</strong>: software schedules each item based on individual recall success (e.g., Anki's algorithm)</li>
+<li><strong>Interleaving within spacing</strong>: mixing problem types across sessions compounds the benefit for discrimination-based skills [~S]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learners, especially those preparing for exams or seeking to retain information over extended periods</li>
+<li>All learners benefit, from early childhood through adulthood [+S]</li>
+<li>Especially valuable for learners preparing for delayed assessments (final exams, certification, licensure)</li>
+<li>Learners prone to cramming benefit most, but must be supported against the fluency illusion — spaced study feels less effective even while producing more learning [-M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Enhance long-term retention, improve memory recall, promote deeper understanding</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Improves memory durability, increases resistance to forgetting, enhances higher-order learning, strengthens contextual encoding.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Spacing intervals can be adjusted based on the type of material, individual learning styles, and retention goals.</li>
+<li>Long-term retention of factual and conceptual knowledge</li>
+<li>Durable procedural skill (foreign-language vocabulary, mathematics, music, motor skills)</li>
+<li>Maintenance of prerequisite knowledge that later learning depends on</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/continuous-review/">Continuous Review</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Improved scores on delayed recall tests, better ability to apply concepts to novel situations</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research consistently shows that distributed practice is superior to massed practice for long-term learning and retention. It enhances memory by making retrieval more effortful and by encoding variable contextual information.</li>
-</ul>
+<ol>
+<li>Identify the retention interval — when must this material still be retrievable? Set the first review gap accordingly.</li>
+<li>Schedule at least two to three review encounters per topic, using <a href="../../elements/continuous-review/">Continuous Review</a> to revisit earlier material within each new session.</li>
+<li>Make each spaced encounter a retrieval event, not a rereading: use <a href="../../elements/practice/">Practice</a> with questions, problems, or recall prompts before feedback.</li>
+<li>Prefer expanding gaps for efficiency; lengthen gaps as recall becomes easier.</li>
+<li>Use cumulative quizzes and exams so spaced material continues to carry assessment weight.</li>
+<li>Where volume is high, use adaptive spaced-repetition software to individualize item scheduling (<a href="../../principles/adaptive-learning/">Adaptive Learning</a>).</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../retrieval-practice/">Retrieval Practice</a> — the mechanism spacing amplifies; spaced retrieval is the strongest known combination for retention</li>
+<li><a href="../interleaving/">Interleaving</a> — a scheduling sibling: spacing separates sessions in time, interleaving mixes content within them</li>
+<li><a href="../cumulative-review/">Cumulative Review</a> — course-level structure that operationalizes spacing across a term</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Reviewing material one day, three days, and seven days after initial learning, or using software programs that automatically schedule spaced assignments.</li>
+<li><strong>Duolingo</strong> — schedules practice of previously learned vocabulary on an expanding-spaced algorithm, re-presenting items as recall strength decays.</li>
+<li><strong>Anki</strong> — open-source flashcard system implementing adaptive spaced repetition (SM-2 family algorithms) for self-directed learners.</li>
+<li><strong>ASSISTments</strong> — math homework system that interleaves and spaces previously taught skills into new assignments; field studies show improved delayed test performance.</li>
+<li>A typical classroom application: reviewing vocabulary one day, three days, and one week after introduction, with each review as a quiz rather than a rereading.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., &amp; Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. <em>Psychological Bulletin, 132</em>(3), 354–380. <a href="https://doi.org/10.1037/0033-2909.132.3.354">doi:10.1037/0033-2909.132.3.354</a></li>
+<li>Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013). Improving students' learning with effective learning techniques. <em>Psychological Science in the Public Interest, 14</em>(1), 4–58. <a href="https://doi.org/10.1177/1529100612453266">doi:10.1177/1529100612453266</a></li>
+<li>Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. <em>Psychological Science, 17</em>(3), 249–255. <a href="https://doi.org/10.1111/medu.12141">doi:10.1111/medu.12141</a></li>
+<li>Kang, S. H. K. (2016). Spaced repetition promotes efficient and effective learning: Policy implications of innovations in teaching and learning. <em>Educational Psychology Review, 28</em>(4), 809–830. <a href="https://doi.org/10.1177/2372732215624708">doi:10.1177/2372732215624708</a></li>
+<li>Rohrer, D., &amp; Taylor, K. (2007). The shuffling of mathematics problems improves learning. <em>Instructional Science, 35</em>(6), 481–498. <a href="https://doi.org/10.1007/s11251-007-9015-8">doi:10.1007/s11251-007-9015-8</a></li>
 </ul>
 
 

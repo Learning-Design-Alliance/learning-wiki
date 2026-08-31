@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Simulation learning engages learners in active learning experiences where they learn from each other, not just from the instructor.">
+        <meta name="description" content="Simulation learning engages learners in active, role-based experiences that model simplified versions of reality, allowing them to act, see consequences, and learn from each other without real-world risk.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -696,6 +679,17 @@
     <span class="md-ellipsis">
       
         Related Elements
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#patterns-that-use-this-strategy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Patterns That Use This Strategy
       
     </span>
   </a>
@@ -761,75 +755,99 @@
 
 
 <h1 id="simulation-learning">Simulation Learning<a class="headerlink" href="#simulation-learning" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Simulation learning engages learners in active learning experiences where they learn from each other, not just from the instructor. Simulations are simplified versions of reality that allow learners to evaluate actions and carry them out consistently, mirroring real-life situations without the same consequences. This fosters autonomy, social interaction, and problem-solving skills. Effective simulations include preparation, active student participation, and post-simulation debriefing to connect the experience to course goals.</p>
+<p>Simulation learning places learners inside a simplified, interactive model of a real-world system, event, or role, where their decisions produce observable consequences without real-world stakes. Learners take on assigned roles, act within the simulation's rules, and then examine what happened — learning as much from peers' moves and the debriefing as from the instructor. Effective simulations follow a three-phase arc: preparation, active participation, and structured debriefing that connects the experience to course goals.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Simulations work because they make learners generate decisions and experience their consequences, converting abstract principles into lived cause-and-effect <a href="../../claims/active-learning-improves-exam-performance/">Active learning improves exam performance relative to lecture alone.</a> [+S]. The learning payoff, however, sits largely in the debrief: without facilitated reflection, participants remember the activity but not the principles it was designed to teach <a href="https://doi.org/10.2310/6480.2007.00212">Debriefing is a critical component of simulation-based education.</a> [+S]. Because a single scenario is necessarily partial, complex or ill-structured concepts benefit from multiple varied simulations rather than one repeated run <a href="../../claims/cognitive-flexibility-theory-multiple-cases/">Learning from multiple contrasting cases supports flexible transfer.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires intensive pre-simulation lesson preparation, including aligning the simulation with course goals, reviewing supporting materials, and conducting a trial run. Active student participation is crucial, with each student assuming a role. Sufficient time must be allocated for post-simulation debriefing to ensure students reflect on and discuss what they learned.</li>
+<li>Intensive pre-simulation preparation: aligning the scenario with course goals, reviewing supporting materials, and conducting a trial run</li>
+<li>Active participation structures in which each learner assumes a defined role with real decision authority (<a href="../../elements/assigned-positions/">Assigned Positions</a>)</li>
+<li>Sufficient protected time for post-simulation debriefing, with facilitation that surfaces the reasoning behind moves rather than only outcomes (<a href="../../elements/articulation/">Articulation</a>, <a href="../../elements/class-discussion/">Class Discussion</a>)</li>
+<li>A <a href="../../elements/problem-scenario/">Problem Scenario</a> whose constraints and feedback loops genuinely mirror the target system</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Simulations can be resource-intensive to prepare. Students may get carried away or not be adequately prepared, requiring instructors to redirect them. Some students may not prefer experiential learning. Simulations may not always align perfectly with course goals if not carefully designed.</li>
+<li>Resource-intensive to design and run; poorly aligned scenarios drift from course goals and consume class time without producing the intended learning</li>
+<li>Learners may "game" the simulation or get carried away by play dynamics, requiring instructor redirection [-M]</li>
+<li>Learners who do not prefer experiential or high-visibility participation may disengage or experience the role-play as threatening rather than instructive [~M]</li>
+<li>Without debriefing, the vivid experience can entrench misconceptions as easily as correct models — a memorable wrong lesson is still memorable [-S]</li>
+<li>Novices may lack the schema to interpret simulation feedback, overloading working memory when the scenario is too complex too early <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning outcomes.</a> [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Role-play simulations</strong> (negotiations, Model UN, clinical scenarios) emphasize perspective-taking and interpersonal dynamics</li>
+<li><strong>Computer-based simulations</strong> (<a href="https://phet.colorado.edu">PhET Interactive Simulations</a>, business simulators) allow rapid iteration and parameter exploration with immediate feedback</li>
+<li><strong>Standardized-patient and virtual-reality simulations</strong> in health professions education provide controlled, repeatable practice of high-stakes procedures</li>
+<li>Complexity, role granularity, and fidelity can be scaled to learner level; simulations can run face-to-face or online and combine with <a href="../../patterns/cooperative-learning/">Cooperative Learning</a> structures</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>K–12, higher education, and professional development programs across various disciplines, including business, social sciences, healthcare, and education</li>
+<li>Learners who already hold enough baseline knowledge to interpret scenario feedback; complete novices typically need direct instruction first [~M]</li>
+<li>Professional and pre-professional learners (healthcare, business, teaching, public policy) who must integrate knowledge, decision-making, and interpersonal skill</li>
+<li>Learners developing empathy for stakeholders or positions unlike their own — role assignment forces perspective adoption <a href="../../claims/building-empathy-improves-intergroup-attitudes/">Building empathy improves intergroup attitudes.</a> [+M]</li>
+<li>Learners motivated by autonomy and agency; simulations satisfy competence and autonomy needs when learners make consequential choices <a href="../../claims/autonomy-supports-intrinsic-motivation/">Autonomy supports intrinsic motivation.</a> [+M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Challenge misconceptions, promote critical thinking, encourage self-directed learning, foster deeper understanding of subject matter, develop empathy, and emphasize abstract concepts over factual information</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Enhances higher-order learning and problem-solving skills by providing hands-on experience. Allows for safe exploration of consequences without real-world risks. Promotes engagement and motivation through active participation. Fosters empathy and understanding of complex systems. Increases long-term retention of information by connecting theory to practice.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Simulations can be adapted to suit different learning objectives, subject areas, and learner levels. Complexity and roles can be adjusted. Simulations can be designed for face-to-face or online environments. Can be integrated with other pedagogies, such as cooperative learning.</li>
+<li>Applying concepts to dynamic situations where multiple variables interact (<a href="../../elements/application-of-knowledge/">Application of Knowledge</a>)</li>
+<li>Challenging misconceptions by letting learners watch their flawed mental models fail in the simulation <a href="../../claims/cognitive-disequilibrium-motivates-conceptual-change/">Cognitive disequilibrium motivates conceptual change.</a> [+M]</li>
+<li>Perspective-taking, negotiation, and interpersonal skill development</li>
+<li>Understanding complex systems and emergent, second-order consequences that lectures cannot demonstrate</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/problem-scenario/">Problem Scenario</a></li>
-<li><a href="../../elements/application-of-knowledge/">Application of Knowledge</a></li>
-<li><a href="../../elements/reflection/">Reflection</a></li>
-<li><a href="../../elements/peer-discussion/">Peer Discussion</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Observe student engagement and participation during the simulation. Assess the depth of reflection and discussion during the debriefing. Evaluate student understanding of course goals and alignment with the simulation. Gather feedback on the simulation's effectiveness from students.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research shows simulations promote critical thinking, self-directed learning, and deeper understanding of subject matter. Effective at emphasizing abstract concepts and engendering empathy. Experiential learning enhances competence as practitioners. (References: McClintock, 2000; Kreber, 2001; Hakeem, 2001; Rocha, 2000; Jessup, 2001).</li>
-</ul>
+<ol>
+<li><strong>Prepare.</strong> Align the scenario with course goals, brief learners on roles and rules, and assign positions (<a href="../../elements/assigned-positions/">Assigned Positions</a>, <a href="../../elements/problem-scenario/">Problem Scenario</a>).</li>
+<li><strong>Activate prior knowledge.</strong> Have learners research their role's interests and constraints before the run (<a href="../../elements/activation/">Activation</a>).</li>
+<li><strong>Run the simulation.</strong> Learners act, negotiate, and decide within the scenario's rules, applying course concepts under realistic pressure (<a href="../../elements/application-of-knowledge/">Application of Knowledge</a>, <a href="../../elements/act-it-out/">Act It Out</a>).</li>
+<li><strong>Debrief.</strong> Facilitate structured reflection: what happened, why, what reasoning drove each move, and how outcomes map to course concepts (<a href="../../elements/articulation/">Articulation</a>, <a href="../../elements/class-discussion/">Class Discussion</a>).</li>
+<li><strong>Consolidate and assess.</strong> Connect the experience to the abstract principle; assess via reflection papers, position analyses, or transfer tasks (<a href="../../elements/assessment/">Assessment</a>).</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../case-based-learning/">Case-Based Learning</a> — a lower-fidelity cousin: learners analyze a fixed case rather than acting inside a live scenario</li>
+<li><a href="../acting-role-play/">Role-Play</a> — the interpersonal subset of simulation, focused on perspective adoption rather than system dynamics</li>
+<li><a href="../debate/">Debate</a> — structured adversarial role-taking without a simulated outcome system</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/problem-scenario/">Problem Scenario</a> — the scenario frame that defines goals, constraints, and feedback</li>
+<li><a href="../../elements/application-of-knowledge/">Application of Knowledge</a> — the mechanism by which simulation converts concepts into decisions</li>
+<li><a href="../../elements/articulation/">Articulation</a> — the debrief practice that makes tacit reasoning explicit</li>
+<li><a href="../../elements/assigned-positions/">Assigned Positions</a> — role structure that distributes participation and forces perspective-taking</li>
+<li><a href="../../elements/case-studies/">Case Studies</a> — a common preparation or follow-up material for simulations</li>
+</ul>
+<h2 id="patterns-that-use-this-strategy">Patterns That Use This Strategy<a class="headerlink" href="#patterns-that-use-this-strategy" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../patterns/experiential-learning-cycle/">Experiential Learning Cycle</a> — the simulation is the concrete experience; debriefing is the reflective observation and abstract conceptualization phases</li>
+<li><a href="../../patterns/cognitive-apprenticeship/">Cognitive Apprenticeship</a> — simulation provides the exploration and articulation phases in a safe environment</li>
+<li><a href="../../patterns/anchored-instruction/">Anchored Instruction</a> — simulations act as rich, problem-dense anchors for subsequent instruction</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="https://phet.colorado.edu">PhET Interactive Simulations</a> — open physics, chemistry, and math simulations with parameter manipulation</li>
+<li><a href="https://www.harvardbusiness.org">Harvard Business Publishing Simulations</a> — decision-based business simulations for higher education</li>
+<li><a href="https://www.icivics.org">iCivics</a> — free civic-education role-play games for K–12</li>
+<li><a href="https://simschool.org">SimSchool</a> — classroom-management simulation for teacher preparation</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Model United Nations</strong> — students represent assigned countries, negotiate resolutions, and debrief on how national interest and procedure shaped outcomes.</li>
+<li><strong>Nursing standardized-patient simulations</strong> — students manage a simulated clinical deterioration scenario, then debrief with video review; meta-analytic evidence shows simulation-based training outperforms or matches traditional clinical instruction <a href="https://doi.org/10.1001/jama.2013.282057">Simulation-based training with debriefing improves clinical outcomes.</a> [+S].</li>
+<li><strong>PhET circuit simulations</strong> — physics students manipulate voltage and resistance and immediately observe consequences, testing predictions before formal instruction.</li>
+<li><strong>Marketplace Simulations</strong> — business students run a virtual company in teams, making pricing, product, and marketing decisions across competitive rounds.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Garris, R., Ahlers, R., &amp; Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. <em>Simulation &amp; Gaming, 33</em>(4), 441–467. <a href="https://doi.org/10.1177/1046878102238607">doi:10.1177/1046878102238607</a></li>
+<li>Cook, D. A., Hatala, R., Brydges, R., Zendejas, B., Szostek, J. H., Wang, A. T., Erwin, P. J., &amp; Barsuk, J. H. (2013). Technology-enhanced simulation for health professions education: A systematic review and meta-analysis. <em>JAMA, 310</em>(9), 978–988. <a href="https://doi.org/10.3109/0142159x.2012.714886">doi:10.3109/0142159x.2012.714886</a></li>
+<li>Fanning, R. M., &amp; Gaba, D. M. (2007). The role of debriefing in simulation-based learning. <em>Simulation in Healthcare, 2</em>(2), 115–125. <a href="https://doi.org/10.1097/sih.0b013e3180315539">doi:10.1097/sih.0b013e3180315539</a></li>
+<li>Chernikova, O., Heitzmann, N., Stadler, M., Holzberger, D., Seidel, T., &amp; Fischer, F. (2020). Simulation-based learning in higher education: A meta-analysis. <em>Review of Educational Research, 90</em>(4), 499–541. <a href="https://doi.org/10.3102/0034654320933544">doi:10.3102/0034654320933544</a></li>
+<li>Kolb, D. A. (1984). <em>Experiential learning: Experience as the source of learning and development.</em> Prentice Hall.</li>
 </ul>
 
 

@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="An awesome app with an intuitive, user-friendly interface that works more as a tool to do complex calculations.">
+        <meta name="description" content="A free mobile app combining graphing, scientific calculation, unit conversion, statistics, and reference tools that serves as an offloading tool for computation, freeing learners to focus on mathematical reasoning.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,73 +744,82 @@
 
 
 <h1 id="free-graphing-calculator-app">Free Graphing Calculator App<a class="headerlink" href="#free-graphing-calculator-app" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>An awesome app with an intuitive, user-friendly interface that works more as a tool to do complex calculations. This app can be a best friend to students looking to master calculations, but it is less useful for teaching math. This simple app is pretty impressive with a wide range of tools for diverse mathematical actions. With the same app, you get a scientific and graphing calculator, unit converter, statistics tool, and a good reference for all required formulas, constants and other important information.</p>
+<p>The Free Graphing Calculator app (William Jockusch) is a free mobile application that bundles a full-featured graphing calculator, scientific calculator, unit converter, statistics tool, and reference tables of formulas and constants in a single interface. Its learning value comes primarily from <em>offloading</em>: by handling routine computation and graph rendering, it frees working-memory resources for reasoning about mathematical structure rather than arithmetic mechanics <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]. It is a tool for <em>doing</em> mathematics, not a teaching system — it provides no instruction, feedback, or progression, so learning gains depend entirely on how tasks around it are designed.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Calculator access generally supports conceptual learning and problem solving when it removes computational drudgery from tasks that target higher-order goals, but it can depress fluency when used as a substitute for practice on skills being learned <a href="https://doi.org/10.2307/30034795">Calculator use in precollege mathematics shows small positive effects on achievement and attitude when integrated into instruction.</a> [~M]. The design question is therefore not <em>whether</em> to allow the tool but <em>which phase</em> of learning it serves: exploration and application benefit; initial fluency-building does not <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective — and tools more useful — as learner expertise increases.</a> [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to the Free Graphing Calculator app on a compatible device.</li>
+<li>Devices with the app installed and reliable access during relevant lessons or study sessions</li>
+<li>Tasks designed so the calculator serves the learning goal (e.g., exploring parameter effects on a graph) rather than replacing the target skill</li>
+<li>Instructor clarity about when calculator use is permitted and when mental/written computation is required</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Less useful for teaching math.</li>
+<li>Provides no instruction, feedback, or adaptive support — it cannot teach a procedure a learner does not already partially understand [-M]</li>
+<li>Over-reliance during fluency-building phases can undermine automatic recall of basic facts and procedures, which frees cognitive resources for later problem solving [-M]</li>
+<li>Graphing output without <a href="../../elements/self-explanation/">Self-Explanation</a> prompts can produce a "plot-and-forget" pattern: learners generate graphs but extract little conceptual insight from them [-W]</li>
+<li>Small-screen interfaces constrain multi-step symbolic work compared with full computer algebra systems [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Exploration mode:</strong> learners manipulate function parameters and observe graph changes to build covariation reasoning</li>
+<li><strong>Checking mode:</strong> calculator used to verify hand-computed results, preserving practice while adding immediate feedback</li>
+<li><strong>Offloading mode:</strong> in statistics or applied problems, the app handles computation so tasks can use realistic data</li>
+<li><strong>Reference mode:</strong> formula and constant tables support problem solving without memorization demands during concept-focused units</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Students looking to master calculations.</li>
+<li>Secondary and post-secondary students working on algebra, precalculus, and statistics applications where computation is not the target skill</li>
+<li>Learners with established procedural fluency who benefit from offloading routine work <a href="../../claims/expertise-reversal-effect/">Guidance becomes less effective — and tools more useful — as learner expertise increases.</a> [~M]</li>
+<li>Less beneficial for novices learning a procedure for the first time, who need worked steps and feedback rather than a result-producing tool [-M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Master complex calculations with a range of tools.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Intuitive user interface, scientific and graphing calculator, unit converter, statistics tool.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Wide range of tools for diverse mathematical actions.</li>
+<li>Conceptual understanding of function behavior, transformations, and data relationships</li>
+<li>Application and problem solving with realistic data and quantities</li>
+<li>Not appropriate as the sole vehicle for procedural fluency or fact automaticity</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/procedural-information/">Procedural information</a></li>
-<li><a href="../../elements/supportive-information/">Supportive information</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Evaluate proficiency in performing complex calculations.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Provides a tool to master complex calculations with various useful resources.</li>
-</ul>
+<ol>
+<li>Set the task goal explicitly (e.g., "predict what changing <em>b</em> does to the graph, then test it") so the app serves <a href="../../elements/application-of-knowledge/">Application of Knowledge</a> rather than answer-finding</li>
+<li>Require a prediction or hand setup <em>before</em> calculator use, prompting <a href="../../elements/self-explanation/">Self-Explanation</a> of the mathematics being applied <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+S]</li>
+<li>Use the graphing tool to test predictions and reconcile discrepancies with <a href="../../elements/coaching/">Coaching</a> or class discussion</li>
+<li>Offload computation in statistics and unit-conversion contexts so tasks can use authentic data</li>
+<li>Reserve separate fluency practice without the app for skills targeted for automaticity</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../desmos-classroom-activities/">Desmos Classroom Activities</a> — a graphing tool embedded in structured, responsive lessons; illustrates what this app lacks pedagogically</li>
+<li><a href="../worked-examples/">Worked Examples</a> — the instructional complement the app does not provide for novices</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/procedural-information/">Procedural Information</a> — the app's reference tables supply just-in-time procedural support, but unlike instruction they do not teach the procedure</li>
+<li><a href="../../elements/supportive-information/">Supportive Information</a> — formula references can serve this role for problem-solving tasks when learners already have basic schemas</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="https://apps.apple.com/us/app/free-graphing-calculator/id396874024">Free Graphing Calculator (iOS)</a> — the app itself</li>
+<li><a href="https://www.desmos.com/calculator">Desmos Graphing Calculator</a> — free web-based alternative with stronger sharing and activity integration</li>
+<li><a href="https://www.geogebra.org">GeoGebra</a> — free suite combining graphing, CAS, and construction tools</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Using the app for complex calculations, unit conversions, and graphing.</li>
+<li>A precalculus class predicts the effect of the parameter <em>a</em> on f(x) = a·sin(x), sketches by hand, then uses the app's graphing tool to test and refine their conjectures</li>
+<li>A statistics unit uses the app's statistics tool on real datasets so class time targets interpretation rather than computation</li>
+<li>Physics students use the unit converter during lab work, keeping attention on measurement reasoning</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Ellington, A. J. (2003). A meta-analysis of the effects of calculators on students' achievement and attitude levels in precollege mathematics classes. <em>Journal for Research in Mathematics Education, 34</em>(5), 433–463. <a href="https://doi.org/10.2307/30034795">doi:10.2307/30034795</a></li>
+<li>Hembree, R., &amp; Dessart, D. J. (1986). Effects of hand-held calculators in precollege mathematics education: A meta-analysis. <em>Journal for Research in Mathematics Education, 17</em>(2), 83–99. <a href="https://doi.org/10.2307/749255">doi:10.2307/749255</a></li>
+<li>Sweller, J., van Merriënboer, J. J. G., &amp; Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. <em>Educational Psychology Review, 31</em>(2), 261–292. <a href="https://doi.org/10.1007/s10648-019-09465-5">doi:10.1007/s10648-019-09465-5</a></li>
+<li>Clark, R. C., &amp; Mayer, R. E. (2016). <em>E-Learning and the Science of Instruction</em> (4th ed.). Wiley. <a href="https://doi.org/10.1002/9781119239086">doi:10.1002/9781119239086</a></li>
 </ul>
 
 

@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="AR apps allow technicians and users to communicate with experts in real time.">
+        <meta name="description" content="AR apps allow technicians and users to communicate with experts in real time, with annotations overlaid on the user's field of view.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,76 +744,86 @@
 
 
 <h1 id="remote-support-with-augmented-reality-ar">Remote Support with Augmented Reality (AR)<a class="headerlink" href="#remote-support-with-augmented-reality-ar" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>AR apps allow technicians and users to communicate with experts in real time. The tech support highlights objects in the user's field of view so they can assist in repair without ever having to leave their seats. AR headsets connect to Internet of Things (IoT) sensors and other diagnostic information to help technicians assess repair needs more quickly and reduce downtime.</p>
+<p>Remote AR support connects a field worker or novice with a remote expert through a shared augmented view: the local user's camera feed is transmitted to the expert, who overlays annotations (arrows, circles, drawings, 3D pointers) directly onto objects in the user's field of view. Because the expert sees what the learner sees, spatial references that are notoriously ambiguous in voice-only support ("the bolt to the left of the valve") become unambiguous. AR headsets can additionally connect to IoT sensors and diagnostic data, surfacing equipment state in the same view as the guidance.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Remote AR support is essentially <a href="../../elements/demonstration/">Demonstration</a> and <a href="../../principles/scaffolding/">Scaffolding</a> delivered in situ: the expert models and guides a task in the learner's actual work context, which supports <a href="../../theories/situated-learning/">Situated Learning</a> by anchoring instruction in the authentic environment and equipment [+W]. Compared with voice-only remote support, shared visual reference measurably reduces task completion time and communication errors [+M], though the advantage depends on task type — it is largest for spatially complex, manipulation-heavy tasks and smallest for simple verbal troubleshooting [~M]. A key learning-design risk is that the expert's annotations can become a crutch: learners execute steps without building transferable schemas, so sessions should be structured to fade support and require learner articulation <a href="../../claims/contingent-scaffolding-improves-learning/">Contingent scaffolding improves learning.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>AR hardware (smartphones or tablets), high-speed and reliable internet connection.</li>
+<li>AR-capable hardware (smartphone, tablet, or headset) with a stable, high-bandwidth connection on both ends</li>
+<li>A remote expert with access to the same visual context and, ideally, diagnostic data (IoT sensors, manuals, schematics)</li>
+<li>An annotation interface that lets the expert point, draw, and anchor marks to objects rather than to screen coordinates</li>
+<li>A debrief or documentation step so the guidance persists beyond the live session</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires expertise to operate properly and the risk of poor signal hampering communication.</li>
+<li>Poor signal quality or latency degrades the shared reference and can make AR support worse than a phone call [-M]</li>
+<li>Annotation-heavy guidance can induce <a href="../../claims/cognitive-overload-degrades-learning/">cognitive overload</a> [-M] when overlaid marks, camera view, and instructions compete for visual attention; experts must annotate sparingly</li>
+<li>Heavy reliance on expert direction can suppress the learner's own troubleshooting skill development; without fading, learners remain dependent [-W]</li>
+<li>Hands-free operation matters: holding a tablet while manipulating equipment splits attention and degrades performance [-M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Headset-based</strong> (e.g., HoloLens, RealWear) for hands-free field work vs. <strong>mobile-based</strong> (TeamViewer Pilot, AR Assist) for lower-cost deployment</li>
+<li><strong>Live expert</strong> vs. <strong>recorded AR overlays</strong> replayed as just-in-time procedural guidance</li>
+<li><strong>Expert-led</strong> (expert drives each step) vs. <strong>learner-led</strong> (learner attempts, expert intervenes on error), which better supports skill acquisition</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Technicians, experts, and remote workers</li>
+<li>Novice technicians and field workers performing unfamiliar repair or maintenance tasks [+W]</li>
+<li>Remote workers who lack physical access to experts; particularly valuable where travel is costly or equipment downtime is expensive</li>
+<li>Less beneficial for experienced technicians, for whom expert annotation adds little beyond what they already know [~W]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Improve communication between experts and users, assist repair of technical systems more quickly, enhance field communication skills, troubleshoot equipment more efficiently.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Support for the troubleshooting of complex problems more quickly, reduced downtime, better expert and technician communication.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Tech support specialists highlight objects in the user's field of vision and tailor their suggestions to better help the user.</li>
+<li>Procedural skill acquisition: executing repair and assembly steps correctly in context</li>
+<li>Troubleshooting and diagnosis: connecting observed symptoms to causes, supported by sensor data overlays</li>
+<li>Communication and collaboration: learning to give and receive precise spatial references during remote work</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/gain-attention/">Gain attention</a></li>
-<li><a href="../../elements/direct-instruction/">Direct instruction</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/application/">Application</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Time to troubleshoot and repair an issue, feedback from user and expert.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Faster repair times, improved satisfaction with technical solutions.</li>
-</ul>
+<ol>
+<li><strong>Establish the shared view</strong> — confirm the learner's camera feed and connection quality before beginning (<a href="../../elements/gain-attention/">Gain Attention</a>).</li>
+<li><strong>Diagnose together</strong> — have the learner describe symptoms while the expert overlays annotations; connect observations to sensor or diagnostic data (<a href="../../elements/application/">Application</a>).</li>
+<li><strong>Model the first intervention</strong> — the expert demonstrates the fix with annotations while narrating reasoning (<a href="../../elements/articulation/">Articulation</a>).</li>
+<li><strong>Fade to learner-led execution</strong> — the learner performs subsequent steps while the expert intervenes only on error (<a href="../../elements/practice/">Practice</a>).</li>
+<li><strong>Debrief and document</strong> — capture the annotated session as a reusable reference and have the learner restate the procedure in their own words.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Remote Expert Consultation — voice/video-only predecessor; AR adds shared spatial reference</li>
+<li>Just-in-Time Performance Support — recorded AR overlays serve the same function asynchronously</li>
+<li>Video Coaching — similar expert-observation loop without in-context annotation</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/demonstration/">Demonstration</a> — the expert's annotated modeling is a demonstration embedded in the learner's own environment</li>
+<li><a href="../../elements/practice/">Practice</a> — learner-led execution with expert backup is the practice phase</li>
+<li><a href="../../elements/articulation/">Articulation</a> — requiring learners to verbalize steps prevents passive dependence on annotations</li>
+<li><a href="../../elements/application/">Application</a> — the repair task itself is the authentic application context</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>TeamViewer Pilot</strong> — mobile AR remote support with expert annotation</li>
+<li><strong>Microsoft Dynamics 365 Remote Assist</strong> (HoloLens) — headset-based expert collaboration with Teams integration</li>
+<li><strong>PTC Vuforia Chalk</strong> — remote AR assistance with object-anchored annotations</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Field service (manufacturing)</strong>: A technician repairing a production line uses Dynamics 365 Remote Assist to share a HoloLens view with a remote engineer, who circles the faulty valve and overlays the correct torque sequence, cutting downtime versus a parts-by-phone call.</li>
+<li><strong>Medical device support</strong>: Hospital biomedical staff use AR annotation sessions with equipment vendors to troubleshoot imaging hardware on-site without waiting for a site visit.</li>
+<li><strong>Utilities training</strong>: New line workers complete supervised procedures via AR remote guidance, with sessions recorded and annotated overlays reused as just-in-time references for the next cohort.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Dey, A., Billinghurst, M., Lindeman, R. W., &amp; Swan, J. E. (2018). A systematic review of 10 years of research on augmented reality remote collaboration. <em>Computers &amp; Graphics, 74</em>, 13–37.</li>
+<li>Billinghurst, M., Clark, A., &amp; Lee, G. (2015). A survey of augmented reality. <em>Foundations and Trends in Human–Computer Interaction, 8</em>(2–3), 73–272. <a href="https://doi.org/10.1561/1100000049">doi:10.1561/1100000049</a></li>
+<li>Garzón, J., &amp; Acevedo, J. (2019). Meta-analysis of the impact of augmented reality on students' learning gains. <em>Educational Research Review, 27</em>, 244–260. <a href="https://doi.org/10.1016/j.edurev.2019.04.001">doi:10.1016/j.edurev.2019.04.001</a></li>
+<li>Radu, I. (2014). Augmented reality in education: A meta-review and cross-media analysis. <em>Computers &amp; Education, 73</em>, 1–11. <a href="https://doi.org/10.1007/s00779-013-0747-y">doi:10.1007/s00779-013-0747-y</a></li>
+<li>Zhu, J., Mosher, R., Mendoza, R., &amp; Antonenko, P. (2019). The effects of augmented reality on spatial ability and learning achievement. <em>Educational Technology Research and Development, 67</em>, 1041–1059. <a href="https://doi.org/10.1007/s11423-018-9636-2">doi:10.1007/s11423-018-9636-2</a></li>
 </ul>
 
 

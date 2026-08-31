@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Short video lectures are distributed as study material along with short assignments.">
+        <meta name="description" content="Short video lectures are distributed as pre-class study material along with short assignments, freeing class time for active application.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,76 +722,72 @@
 
 
 <h1 id="micro-flipped-classroom">Micro Flipped Classroom<a class="headerlink" href="#micro-flipped-classroom" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Short video lectures are distributed as study material along with short assignments. The rest of the lecture and assignments are conducted during the classroom time.</p>
+<p>Short video lectures (typically under 10 minutes, each covering a single concept) are assigned as pre-class study material together with brief assignments or comprehension checks. Class time is then devoted to applying, discussing, and extending that material rather than delivering it. The "micro" variant distinguishes itself from the general <a href="../../patterns/flipped-classroom/">Flipped Classroom</a> by deliberately chunking pre-class content into small, single-objective segments with low-stakes accountability tasks attached.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>The micro flipped approach combines first exposure outside class with active learning inside class, consistent with evidence that active formats outperform lecture-only delivery <a href="../../claims/active-learning-improves-exam-performance/">Active learning improves exam performance relative to lecture.</a> [+S]. Keeping videos short matters: engagement with instructional video drops sharply as length increases, and learners skip or skim long segments [~S]. Chunking each video to one concept also manages extraneous load and supports retention <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]. The short pre-class assignment is not optional garnish — it provides the accountability that drives actual video engagement and gives the instructor diagnostic information before class begins.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires creation of concise video lectures and targeted assignments.</li>
+<li>Concise, single-concept video lectures (roughly 3–10 minutes each), ideally with embedded questions (<a href="../../elements/lectures/">Lectures</a>)</li>
+<li>A short pre-class assignment or comprehension check that makes viewing visible and informs in-class planning (<a href="../../elements/assigned-readings/">Assigned Readings</a>)</li>
+<li>In-class activities that genuinely depend on the pre-class material — application problems, discussion, or problem-solving (<a href="../../elements/practice/">Practice</a>, <a href="../../elements/peer-discussion/">Peer Discussion</a>)</li>
+<li>A feedback loop so learners learn from in-class work, not just complete it (<a href="../../elements/provide-feedback/">Provide Feedback</a>)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May not be suitable for complex topics requiring more in-depth pre-class preparation.</li>
+<li>If in-class time merely re-delivers the video content, learners rationally stop watching and the model collapses [-M]</li>
+<li>Complex, highly interconnected topics may need more sustained first exposure than micro-videos provide; forcing them into 5-minute segments fragments the schema being built [~M]</li>
+<li>Students who arrive without having watched are stranded in class activities; ungraded pre-work produces low completion rates [-M]</li>
+<li>Video production burden is real: a full course of micro-lectures is a substantial upfront investment, though individual videos are easier to maintain and update than long lectures</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>First-exposure material can be video, annotated readings, or interactive tutorials — the micro principle (small, single-objective, accountable) applies to any format</li>
+<li>Pre-class checks range from auto-graded quizzes to one-minute reflection prompts; embedded questions within videos give the tightest feedback loop</li>
+<li>In-class time can be structured as problem-solving workshops, case discussion, peer instruction, or stations depending on the discipline</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Suitable for learners who benefit from focused, bite-sized content and immediate application.</li>
+<li>Undergraduates in concept-dense introductory courses, where the flipped model shows its largest gains [~S]</li>
+<li>Learners who benefit from self-pacing through first exposure — pausing and rewatching a 5-minute segment is far less costly than rewatching a 50-minute lecture</li>
+<li>Students with weak self-regulation need the short assignment as external structure; without it, completion drops [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Introduce key concepts succinctly, reinforce learning through short assignments, facilitate in-class application and discussion.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Keeps pre-class material manageable and focused, allows for immediate reinforcement in class.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Short assignments can be tailored to different skill levels.</li>
+<li>Conceptual foundations that enable in-class application and problem-solving</li>
+<li>Procedural fluency built through supervised practice with immediate feedback</li>
+<li>Preparation for discussion and collaborative work, where common pre-class exposure is a prerequisite</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/assigned-readings/">Assigned Readings</a></li>
-<li><a href="../../elements/lectures/">Lectures</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide Feedback</a></li>
-<li><a href="../../elements/peer-discussion/">Peer Discussion</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Engagement with pre-class material, performance on in-class assignments and discussions.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Can improve learners' grasp of fundamental concepts and ability to apply them in class.</li>
-</ul>
+<ol>
+<li>Identify the concepts that are best explained (rather than discovered) and script one micro-video per concept, each with a single learning objective.</li>
+<li>Publish videos with a short accompanying assignment or embedded questions (<a href="../../elements/assigned-readings/">Assigned Readings</a>, <a href="../../elements/lectures/">Lectures</a>).</li>
+<li>Review pre-class responses to identify misconceptions and adjust the in-class plan.</li>
+<li>Open class with a brief check-in on the pre-work, then move immediately into application activities (<a href="../../elements/practice/">Practice</a>, <a href="../../elements/peer-discussion/">Peer Discussion</a>).</li>
+<li>Circulate, question, and give feedback during in-class work (<a href="../../elements/provide-feedback/">Provide Feedback</a>).</li>
+<li>Close by having learners consolidate — a summary prompt or exit ticket that connects the pre-class concepts to the in-class application.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../patterns/flipped-classroom/">Flipped Classroom</a> — the parent pattern; the micro variant differs mainly in granularity of pre-class content and tighter accountability loops</li>
+<li><a href="../../patterns/blended-learning/">Blended Learning</a> — the broader family of designs that mix online first exposure with face-to-face interaction</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Mathematics courses using short videos to explain formulas followed by practice problems.</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — short single-concept videos with embedded practice; a ready-made micro-content library teachers assign before class.</li>
+<li><strong><a href="https://flippedlearning.org">Flipped Learning Global Initiative</a></strong> — practitioner resources and case studies across K-12 and higher education.</li>
+<li>Introductory chemistry courses using 5–8 minute videos on stoichiometry steps, with a two-problem pre-class quiz, then spending class time on multi-step problems in pairs.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Lo, C. K., &amp; Hew, K. F. (2017). A critical review of flipped classroom challenges in K-12 education: Possible solutions and recommendations for future research. <em>Research and Practice in Technology Enhanced Learning, 12</em>(1), 4. <a href="https://doi.org/10.1186/s41039-016-0044-2">doi:10.1186/s41039-016-0044-2</a></li>
+<li>Strelan, P., Osborn, A., &amp; Palmer, E. (2020). The flipped classroom: A meta-analysis of effects on student performance across disciplines and education levels. <em>Educational Research Review, 30</em>, 100314. <a href="https://doi.org/10.1016/j.edurev.2020.100314">doi:10.1016/j.edurev.2020.100314</a></li>
+<li>Guo, P. J., Kim, J., &amp; Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. <em>Proceedings of the First ACM Conference on Learning @ Scale</em>, 41–50. <a href="https://doi.org/10.1145/2556325.2566239">doi:10.1145/2556325.2566239</a></li>
+<li>Bergmann, J., &amp; Sams, A. (2012). <em>Flip your classroom: Reach every student in every class every day.</em> ISTE/ASCD.</li>
 </ul>
 
 

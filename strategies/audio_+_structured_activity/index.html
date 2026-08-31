@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,75 +744,87 @@
 
 
 <h1 id="audio-structured-activity">Audio + Structured Activity<a class="headerlink" href="#audio-structured-activity" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Students engage with audio resources (music, podcasts, voice-recorded lectures) accompanied by a structured activity. This combines the advantages of audio learning with the benefits of active engagement and application of concepts. Audio resources are typically smaller in file size and easier to host, making them accessible to learners with limited bandwidth.</p>
+<p>Students engage with audio resources — podcasts, voice-recorded lectures, music, or dramatized audio — paired with a structured activity that requires them to process, apply, or respond to what they hear. The activity converts passive listening into active engagement: note-taking against a prompt, answering embedded questions, annotating a transcript, or applying the content to a task. Audio is also a low-bandwidth, low-cost medium, making it more accessible than video for learners with limited connectivity.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Audio alone is a transient, single-channel medium; without structure, listeners drift and retain little. Pairing audio with a task leverages generative processing — learners must select, organize, and integrate what they hear rather than let it wash over them <a href="../../claims/media-combinations-affect-recall-and-retention/">Pairing audio with prompts or activities improves retention over unstructured listening.</a> [~M]. Because audio carries no visual channel, it avoids some forms of split-attention overload, but it also removes visual supports that aid comprehension; structured activities (transcripts, diagrams to complete, advance organizers) must compensate for what the medium omits.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires creation or selection of audio resources and design of structured activities. Instructor must provide clear instructions and feedback.</li>
+<li>A curated audio resource matched to the learning goal in length and difficulty (typically under 20 minutes for a single activity)</li>
+<li>A structured activity with clear instructions: guided notes, response prompts, application tasks, or discussion questions</li>
+<li>Instructor or system feedback on the activity, so learners can check their understanding of what they heard</li>
+<li>Optionally, a transcript or visual organizer to support learners who struggle with audio-only input</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May not be suitable for all types of content or learners. Requires careful planning to ensure active engagement and understanding.</li>
+<li>Unstructured listening produces weak retention; the activity is the active ingredient, not the audio [-M]</li>
+<li>Audio is transient — learners cannot skim or re-locate information the way they can with text, which penalizes learners with working memory or processing-speed limitations [~M]</li>
+<li>Complex, spatial, or procedural content often requires visuals; forcing it into audio-only form degrades comprehension [-M]</li>
+<li>Learners frequently multitask while listening (walking, driving), which splits attention and undermines the structured activity [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Pre-listening structure</strong>: <a href="../../elements/advance-organizers/">Advance Organizers</a> or guiding questions given before listening to direct attention</li>
+<li><strong>During-listening structure</strong>: guided notes, embedded pauses with questions, or <a href="../../principles/annotating/">Annotating</a> a transcript while listening</li>
+<li><strong>Post-listening structure</strong>: <a href="../../elements/practice/">Practice</a> problems, <a href="../../elements/application/">Application</a> tasks, discussion, or <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-Explanation</a> prompts requiring learners to reconstruct the audio content in their own words</li>
+<li><strong>Segmented audio</strong>: short clips interleaved with activities, mirroring chunked video designs</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learners, particularly those who prefer audio-based learning and those with limited access to technology or bandwidth.</li>
+<li>Learners with limited bandwidth or older devices, for whom audio is a practical alternative to video</li>
+<li>Auditory learners and those who commute or multitask — though multitasking during structured activities should be discouraged</li>
+<li>Learners with visual impairments, for whom audio-first design is an accessibility benefit rather than a compromise</li>
+<li>Less suitable for novices with no prior knowledge of the topic, who lack the schema to organize transient spoken input without heavy scaffolding [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Provide accessible and flexible content, promote active learning, facilitate understanding and application of concepts.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Offers a low-bandwidth alternative to video, provides flexibility and accessibility, promotes active engagement with the material. The sound of a human voice can play an important role in learning.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Structured activities can be tailored to different learning styles and needs. Audio resources can be selected based on learner interests and preferences.</li>
+<li>Conceptual understanding and vocabulary building from narrative or expository audio</li>
+<li>Listening comprehension in language learning</li>
+<li>Affective and dispositional goals (empathy, engagement) where the human voice carries pedagogical weight</li>
+<li>Review and reinforcement of previously taught content, where audio serves as a low-effort re-exposure channel</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/lectures/">Lectures</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/application/">Application</a></li>
-<li><a href="../../elements/individual-reflection/">Individual Reflection</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Completion and quality of structured activities, learner feedback, performance on related assignments.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Effective when paired with well-designed structured activities that promote active engagement and application of the audio material. Can improve learner outcomes and engagement in the absence of video technology.</li>
-</ul>
+<ol>
+<li>Select or record an audio resource aligned to a single learning goal; keep segments short (<a href="../../principles/chunking/">Chunking</a>)</li>
+<li>Provide a pre-listening organizer or guiding questions to activate prior knowledge and direct attention</li>
+<li>Assign the structured activity: guided notes, response prompts, or an application task (<a href="../../elements/practice/">Practice</a>, <a href="../../elements/application/">Application</a>)</li>
+<li>Require learners to generate something — a summary, an argument, a solution — rather than only answer recall questions</li>
+<li>Provide feedback or a follow-up check (<a href="../../elements/assessment/">Assessment</a>) so learners can verify their comprehension of the audio content</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../podcast-based-learning/">Podcast-based learning</a> — audio-first course designs where structured activities supplement episodic content</li>
+<li><a href="../flipped-classroom/">Flipped classroom</a> — audio can substitute for video as the pre-class exposure medium when bandwidth is limited</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — the structured activity most commonly paired with audio; converts listening into retrieval and application</li>
+<li><a href="../../elements/application/">Application</a> — tasks that require learners to use what they heard in a new context</li>
+<li><a href="../../elements/advance-organizers/">Advance Organizers</a> — pre-listening structure that compensates for audio's lack of visual signposting</li>
+<li><a href="../../elements/assessment/">Assessment</a> — comprehension checks that verify the activity actually processed the audio content</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Voice-recorded lectures</strong>: any audio recorder or LMS audio tool; low production cost compared to video</li>
+<li><strong>Podcast platforms</strong>: <a href="https://www.bbc.co.uk/bitesize">BBC Bitesize audio</a>, subject-specific podcasts paired with instructor-created question sheets</li>
+<li><strong>Language learning</strong>: <a href="https://www.duolingo.com">Duolingo</a> and <a href="https://www.pimsleur.com">Pimsleur</a> interleave audio input with structured response activities — the canonical commercial implementation of this strategy</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>A history instructor assigns a podcast episode on a historical event with a guided-notes sheet requiring students to identify causes, actors, and contested claims, followed by a seminar discussion</li>
+<li>A language course uses Pimsleur-style audio prompts: learners hear a phrase, are prompted to respond aloud before the model answer plays, then complete written exercises</li>
+<li>A low-bandwidth online course replaces screencast lectures with voice-recorded audio segments, each paired with a one-page application worksheet submitted through the LMS</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Mayer, R. E. (2009). <em>Multimedia learning</em> (2nd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/CBO9780511811678">doi:10.1017/CBO9780511811678</a></li>
+<li>Clark, R. C., &amp; Mayer, R. E. (2016). <em>E-Learning and the science of instruction</em> (4th ed.). Wiley. <a href="https://doi.org/10.1002/9781119239086">doi:10.1002/9781119239086</a></li>
+<li>Clark, J. M., &amp; Paivio, A. (1991). Dual coding theory and education. <em>Educational Psychology Review, 3</em>(3), 149–210. <a href="https://doi.org/10.1007/bf01320076">doi:10.1007/bf01320076</a></li>
+<li>Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. <em>Psychological Science, 17</em>(3), 249–255. <a href="https://doi.org/10.1111/medu.12141">doi:10.1111/medu.12141</a></li>
 </ul>
 
 

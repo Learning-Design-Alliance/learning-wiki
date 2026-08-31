@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Peergrade is a platform that allows learners to give and receive feedback effectively.">
+        <meta name="description" content="A digital platform for structured, rubric-based anonymous peer feedback in which learners evaluate each other's work, rate the feedback received, and flag disagreements for teacher review.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,74 +744,83 @@
 
 
 <h1 id="peergrade">Peergrade<a class="headerlink" href="#peergrade" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Peergrade is a platform that allows learners to give and receive feedback effectively. Learners anonymously offer different types of feedback using a rubric set by the teacher, which allows for some objective and some open feedback questions. The feedback receivers can then go through the feedback and react to it, rating the feedback itself and offering tips for improvement. In the case of disagreement, learners can flag responses so that teachers can intervene and respond to the feedback.</p>
+<p>Peergrade is a platform that allows learners to give and receive feedback effectively. Learners anonymously offer different types of feedback using a rubric set by the teacher, which allows for some objective and some open feedback questions. The feedback receivers can then go through the feedback and react to it, rating the feedback itself and offering tips for improvement. In the case of disagreement, learners can flag responses so that teachers can intervene and respond to the feedback. The platform's core design move is to make peer feedback <em>structured</em> — the rubric constrains what reviewers attend to — and <em>accountable</em> — receivers evaluate the usefulness of the feedback they receive.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Peer assessment works best when it is criterion-referenced rather than impressionistic: rubric-guided peer feedback produces feedback quality and learner outcomes comparable to instructor feedback in many contexts [~M], and the act of evaluating peers' work against criteria itself builds evaluative judgement — the ability to judge quality in one's own work <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+M]. Anonymity and the feedback-rating loop are the platform's distinctive contributions: anonymity reduces social-evaluative threat, and requiring receivers to rate feedback forces engagement with it rather than passive receipt.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to the Peergrade platform, a clear rubric or set of success criteria, and structured time for learners to provide and respond to feedback.</li>
+<li>Access to the Peergrade platform and reliable internet connectivity</li>
+<li>A clear rubric or set of success criteria, ideally with both closed (objective) and open (qualitative) items</li>
+<li>Structured class time for the full cycle: submission, review, receiving, and reacting to feedback</li>
+<li>A draft worth revising — peer feedback pays off when learners act on it in a subsequent revision</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires access to technology and internet connectivity. Some learners may be hesitant to provide honest feedback due to the fear of being identified.</li>
+<li>Requires access to technology and internet connectivity, which can exclude some learners or shift the activity toward logistics rather than critique</li>
+<li>Some learners may be hesitant to provide honest feedback due to fear of being identified, even in nominally anonymous settings, particularly in small classes where writing style is recognizable</li>
+<li>Novice reviewers often give vague or inaccurate feedback; without rubric scaffolding and exemplar calibration, peer comments can mislead receivers [~M]</li>
+<li>Feedback that is not acted upon produces little learning gain — the platform supports the exchange but cannot enforce revision</li>
+<li>Grading stakes distort behavior: when peer scores count toward grades, leniency bias and strategic scoring increase [~M]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Rubrics can be customized to any content area, from writing to code review to design critique</li>
+<li>Feedback can be formative-only (revision-oriented) or contribute a small portion of assessment grades</li>
+<li>The feedback-rating step can be used as its own learning object: discussing why some comments were rated useful and others not builds criteria for quality feedback</li>
+<li>Teachers can intervene on flagged disagreements, turning disputes into whole-class teaching moments about criteria</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>High school and higher education</li>
+<li>High school and higher education students with enough literacy and domain exposure to interpret criteria and critique work</li>
+<li>Learners developing evaluative judgement; reviewing peers' work against a rubric helps them internalize quality standards [~M]</li>
+<li>Less suitable for young learners or novices so inexperienced that they cannot distinguish competent from incompetent work, since their feedback will be unreliable [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Provide structured and objective feedback, promote self-reflection, and enhance critical thinking skills</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides a structured and anonymous platform for peer feedback, promoting honest and objective critique. The rubric-based feedback ensures that learners focus on specific aspects of the work and provide targeted suggestions for improvement.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Teachers can customize the rubric to fit different content areas and learning objectives. Learners can provide both objective and open-ended feedback, allowing for personalized critique.</li>
+<li>Improving work quality through revision informed by peer critique</li>
+<li>Critical thinking: analyzing others' work against explicit criteria</li>
+<li>Self-reflection and evaluative judgement: using criteria applied to peers' work as a mirror for one's own</li>
+<li>Feedback literacy: giving, receiving, and appraising feedback</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-<li><a href="../../elements/peer-discussion/">Peer Discussion</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Review of feedback provided by learners to assess the depth and quality of their critique. Analysis of learner ratings and responses to feedback to assess their engagement with the process.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Peergrade and similar platforms can enhance the effectiveness of peer feedback, leading to improved revisions and a deeper understanding of the subject matter.</li>
-</ul>
+<ol>
+<li>Teacher creates an assignment and a rubric mixing objective criteria and open-ended prompts, aligned to the target learning goals (<a href="../../elements/assess-performance/">Assess Performance</a>).</li>
+<li>Learners submit their work by a deadline.</li>
+<li>The platform distributes submissions anonymously; each learner reviews a small set of peers' work, answering rubric questions (<a href="../../elements/provide-feedback/">Provide Feedback</a>).</li>
+<li>Receivers read their feedback, rate its helpfulness, and reply with clarifications or improvement tips (<a href="../../elements/peer-discussion/">Peer Discussion</a>).</li>
+<li>Disagreements or inappropriate feedback are flagged; the teacher reviews flags and intervenes where needed.</li>
+<li>Learners revise their work using the feedback; the teacher reviews the feedback quality and ratings as formative evidence.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Structured peer review more broadly — Peergrade is one platform implementation of the general peer assessment strategy; the design principles (rubrics, anonymity, feedback appraisal) transfer to any tool.</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — the rubric-based evaluation step that structures what reviewers attend to</li>
+<li><a href="../../elements/collaboration/">Collaboration</a> — peer feedback is a structured form of learner-to-learner collaboration</li>
+<li><a href="../../elements/feedback/">Feedback</a> — the core mechanism; the platform adds anonymity and an appraisal loop to it</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="https://www.peergrade.io">Peergrade / Peergrade.io</a> — the platform itself (now part of <a href="https://feedbackfruits.com">FeedbackFruits</a>), offering rubric creation, anonymous distribution, feedback ratings, and flagging</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>A high school teacher uses Peergrade to facilitate peer feedback on writing assignments, allowing learners to provide anonymous and rubric-based critique.</li>
+<li>A high school teacher uses Peergrade to facilitate peer feedback on writing assignments, allowing learners to provide anonymous and rubric-based critique, then revise their drafts before final submission.</li>
+<li>A university instructor runs a two-stage cycle: learners first rate sample essays against the rubric to calibrate, then review live peers' submissions; the instructor discusses highly-rated and poorly-rated feedback in class to build criteria for quality critique.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Topping, K. (1998). Peer assessment between students in colleges and universities. <em>Review of Educational Research, 68</em>(3), 249–276. <a href="https://doi.org/10.3102/00346543068003249">doi:10.3102/00346543068003249</a></li>
+<li>Falchikov, N., &amp; Goldfinch, J. (2000). Student peer assessment in higher education: A meta-analysis comparing peer and teacher marks. <em>Review of Educational Research, 70</em>(3), 287–322. <a href="https://doi.org/10.3102/00346543070003287">doi:10.3102/00346543070003287</a></li>
+<li>Double, K. S., McGrane, J. A., &amp; Hopfenbeck, T. N. (2020). The impact of peer assessment on academic performance: A meta-analysis of control group studies. <em>Educational Psychology Review, 32</em>, 481–509. <a href="https://doi.org/10.1007/s10648-019-09510-3">doi:10.1007/s10648-019-09510-3</a></li>
+<li>Panadero, E., &amp; Alqassab, M. (2019). An empirical review of anonymity in educational assessment: The effects of anonymity on peer assessment. <em>Educational Psychology Review, 31</em>, 1043–1077. <a href="https://doi.org/10.1080/02602938.2019.1600186">doi:10.1080/02602938.2019.1600186</a></li>
 </ul>
 
 

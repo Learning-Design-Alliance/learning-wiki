@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Instructional designers create tools that work across any platform, avoiding bias towards specific operating systems or web browsers.">
+        <meta name="description" content="Designing learning materials and activities to function equivalently across operating systems, browsers, and devices, so technology choice never becomes a barrier to learning.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,74 +722,72 @@
 
 
 <h1 id="platform-agnostic-design">Platform Agnostic Design<a class="headerlink" href="#platform-agnostic-design" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Instructional designers create tools that work across any platform, avoiding bias towards specific operating systems or web browsers. This ensures adult learners are not limited by their preferred technology and can access learning resources regardless of their device or software.</p>
+<p>Platform agnostic design means instructional materials, activities, and assessments work consistently regardless of the learner's operating system, browser, device, or assistive technology. Rather than building for one environment (e.g., a specific LMS, app, or browser), designers use open web standards, responsive layouts, and multiple format options so that access is determined by learner need, not by technology preference or institutional mandate.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Platform dependence adds extraneous load and friction that is unrelated to learning goals; every compatibility failure forces learners to spend working memory on troubleshooting instead of content <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [+M]. Agnostic design treats the delivery layer as infrastructure to be made invisible, applying the same logic as <a href="../../principles/cognitive-load-management/">Cognitive Load Management</a>: remove demands that do not contribute to schema building. It also functions as an equity measure — learners on older devices, mobile-only connections, or non-mainstream assistive software are disproportionately affected by platform-specific design.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Knowledge of different platforms and browsers, use of web standards, testing across multiple devices and systems</li>
+<li>Authoring in open web standards (HTML5, W3C WCAG accessibility guidelines) rather than proprietary formats where possible</li>
+<li>Responsive design and testing across major browsers (Chrome, Firefox, Safari, Edge), operating systems, and screen sizes</li>
+<li>Multiple format options for key content (e.g., documents as PDF <em>and</em> web pages; video with captions and transcripts)</li>
+<li>A maintenance plan: browsers and devices change, so compatibility requires periodic re-testing, not one-time certification</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Can be challenging to implement due to technical constraints or cost considerations. Requires ongoing maintenance to ensure compatibility.</li>
+<li>Some tools genuinely require specific platforms (e.g., discipline-specific software, virtual labs); forcing agnosticism there can strip out pedagogically valuable functionality [~M]</li>
+<li>Lowest-common-denominator design can suppress richer interactive experiences; the trade-off between reach and capability must be decided per activity, not by blanket rule</li>
+<li>Ongoing maintenance cost is real — compatibility degrades silently as platforms update, and untested pages fail without anyone noticing [-W]</li>
+<li>Offline or low-bandwidth learners need explicit alternatives (downloadable materials, printable versions); "works in a browser" is not automatically agnostic</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Full agnosticism</strong>: all content in standards-based web formats, any device, any browser — appropriate for open courses and diverse adult audiences</li>
+<li><strong>Tiered access</strong>: core content agnostic; optional enrichment activities may require specific software, with clear advance notice and alternatives</li>
+<li><strong>Offline-first</strong>: materials downloadable and usable without connectivity, synced when back online — critical for mobile-only or rural learners</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Adult learners with varying levels of technological familiarity, particularly those with limited access to specific platforms</li>
+<li>Adult learners using personal, heterogeneous devices rather than institutionally standardized equipment [+W]</li>
+<li>Learners with limited bandwidth, older hardware, or mobile-only internet access</li>
+<li>Learners using assistive technologies, who are most likely to be excluded by platform-specific formats</li>
+<li>Less critical for cohorts with guaranteed uniform equipment (e.g., managed computer labs), where platform-specific tools carry less risk [~W]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Ensure accessibility of learning materials across different technology platforms, reduce technological barriers for adult learners</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Reduces frustration and barriers to entry for adult learners, promotes equal access to educational resources, allows learners to use familiar technology</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Design courses to function on multiple platforms (Windows, Mac, Android, iOS) and browsers (Chrome, Firefox, Safari). Offer alternative formats or offline access for learners with limited internet access.</li>
+<li>Any content- or skill-based goal — platform agnosticism is a delivery constraint, not a pedagogical goal; it serves all objectives by removing access barriers</li>
+<li>Self-regulated learning: learners managing their own study across contexts (commute, work, home) need materials that follow them across devices</li>
+<li>Reducing technology-induced frustration that competes with cognitive resources for learning <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [+M]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/direct-instruction/">Direct instruction</a></li>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-<li><a href="../../elements/practice/">Practice</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track access rates from different platforms and browsers. Solicit learner feedback on platform compatibility and usability.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Increased accessibility of learning materials, reduced frustration among adult learners, higher course completion rates</li>
-</ul>
+<ol>
+<li>Inventory the target audience's actual devices, browsers, and connectivity before selecting tools; design to the observed floor, not the ideal case.</li>
+<li>Author core content in open, standards-based formats; avoid single-platform dependencies for anything required for assessment or <a href="../../elements/practice/">Practice</a>.</li>
+<li>Provide every required resource in at least two formats (e.g., streaming video plus downloadable transcript/PDF) to cover bandwidth and assistive-technology variation.</li>
+<li>Test each learning activity end-to-end on at least two operating systems, two browsers, and one mobile device before release.</li>
+<li>Build a re-testing cycle into course maintenance so compatibility is verified each term, not assumed.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li><a href="../../principles/universal-design-for-learning/">Universal Design for Learning</a> — shares the multiple-means-of-access logic; platform agnosticism is its technological dimension</li>
+<li><a href="../offline-learning-packets/">Offline Learning Packets</a> — a concrete fallback for low-connectivity learners</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Open textbook platforms such as <a href="https://openstax.org">OpenStax</a></strong> — textbooks readable as web pages, downloadable PDFs, and e-book formats on any device, with no account or specific software required.</li>
+<li><strong>Responsive MOOC platforms (e.g., <a href="https://www.coursera.org">Coursera</a>, <a href="https://www.edx.org">edX</a>)</strong> — course video, readings, and <a href="../../elements/practice/">Practice</a> exercises function in any modern browser and on mobile apps, with offline video download options.</li>
+<li><strong>W3C Web Accessibility Initiative (<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG 2</a>)</strong> — the standards baseline most institutions adopt to guarantee cross-platform, cross-assistive-technology access.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Clark, R. C., &amp; Mayer, R. E. (2016). <em>E-Learning and the science of instruction</em> (4th ed.). Wiley. <a href="https://doi.org/10.1002/9781119239086">doi:10.1002/9781119239086</a></li>
+<li>Sweller, J., Ayres, P., &amp; Kalyuga, S. (2011). <em>Cognitive load theory</em>. Springer. <a href="https://doi.org/10.1007/978-1-4419-8126-4">doi:10.1007/978-1-4419-8126-4</a></li>
+<li>Burgstahler, S. (2015). <em>Universal design in higher education: From principles to practice</em> (2nd ed.). Harvard Education Press.</li>
+<li>W3C. (2018). <em>Web Content Accessibility Guidelines (WCAG) 2.1</em>. World Wide Web Consortium. <a href="https://www.w3.org/TR/WCAG21/">https://www.w3.org/TR/WCAG21/</a></li>
 </ul>
 
 

@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -695,53 +722,69 @@
 
 
 <h1 id="hypertext-navigation">Hypertext Navigation<a class="headerlink" href="#hypertext-navigation" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Element</strong> · <a href="../">All elements</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Learners explore interconnected digital content at their own pace.</p>
+<p>Hypertext navigation presents content as a network of linked nodes — pages, sections, or media objects — that learners traverse in an order they choose, rather than as a fixed linear sequence. The learner controls both the path and the pace, constructing their own route through the material.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Hypertext supports flexible, non-linear exploration and can help learners build richly connected knowledge structures, particularly when content is genuinely multi-dimensional and ill-structured <a href="../../patterns/cognitive-flexibility-theory/">Cognitive Flexibility Theory</a> [~M]. But navigation freedom imposes costs: deciding where to go next consumes working-memory resources that would otherwise support comprehension, and disorientation ("lost in hyperspace") reliably degrades learning when structure is weak <a href="https://doi.org/10.1016/j.chb.2006.05.019">DeStefano &amp; LeFevre's review of hypertext cognitive load.</a> [-M]. Effective hypertext design therefore pairs learner control with strong orientation aids — maps, breadcrumbs, clear node titles — rather than treating freedom as an end in itself.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>A clear content structure visible to the learner (site map, table of contents, or consistent navigation cues) so they always know where they are and what remains</li>
+<li>Meaningful link labels that describe the destination's content, not vague "click here" affordances</li>
+<li>Chunked nodes that each address one coherent idea <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]</li>
+<li>For novices, a recommended or default pathway through the network (<a href="../advance-organizers/">Advance Organizers</a> can serve this role)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Novices with low prior knowledge learn less from freely navigated hypertext than from sequenced instruction; they lack the schema needed to judge which nodes are relevant <a href="../../claims/expertise-reversal-effect/">Expertise reverses the benefit of learner control.</a> [~S]</li>
+<li>Unstructured link networks increase disorientation and extraneous cognitive load, reducing comprehension relative to linear text <a href="https://doi.org/10.1016/j.chb.2006.05.019">DeStefano &amp; LeFevre's review of hypertext cognitive load.</a> [-M]</li>
+<li>Excessive choice among nodes can produce shallow "skimming" behavior rather than sustained study</li>
+<li>Decorative links and multimedia embellishments add navigation decisions without adding content <a href="../../claims/decorative-illustrations-do-not-improve-learning/">Decorative illustrations do not improve learning.</a> [-M]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Best for e-learning, research skills, and self-directed study.</li>
+<li>Learners with moderate-to-high prior knowledge, who can use their schemas to evaluate and sequence nodes productively <a href="../../claims/expertise-reversal-effect/">Expertise reverses the benefit of learner control.</a> [~S]</li>
+<li>Self-directed learners conducting research or inquiry, where the goal is information-seeking skill itself</li>
+<li>Less suitable for complete novices, who benefit from an expert-imposed sequence until basic structure is established</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Support flexible, non-linear exploration of information.</li>
+<li>Research and information-literacy skills: locating, evaluating, and synthesizing distributed sources</li>
+<li>Complex, ill-structured domains where multiple perspectives and criss-crossing routes build flexible knowledge <a href="../../patterns/cognitive-flexibility-theory/">Cognitive Flexibility Theory</a> [~M]</li>
+<li>Self-regulated learning: planning, monitoring, and evaluating one's own path through material</li>
 </ul>
 <h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<!-- Links to principles applied -->
 <ul>
-<li><a href="../../principles/constructivist-learning/">Constructivist Learning</a></li>
-<li><a href="../../principles/cognitive-load-theory/">Cognitive Load Theory</a></li>
+<li><a href="../../principles/cognitive-load-management/">Cognitive Load Management</a> — well-chunked nodes let learners process one idea at a time and offload structure onto the interface; poorly structured hypertext does the opposite, so this principle is the central design lever</li>
+<li><a href="../../principles/cognitive-flexibility/">Cognitive Flexibility</a> — multiple linked routes through the same content let learners revisit concepts from different contexts, enacting the "criss-crossing the landscape" idea of Cognitive Flexibility Theory</li>
+<li><a href="../self-paced-learning/">Self-Paced Learning</a> — learners control traversal speed and can revisit nodes as needed, aligning study time with individual needs</li>
+<li><a href="../../principles/constructivism/">Constructivism</a> — learners actively assemble their own knowledge path rather than receiving a pre-sequenced presentation</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../digital-learning/">Digital Learning</a></li>
-<li><a href="../multimedia-learning/">Multimedia Learning</a></li>
-<li><a href="../self-paced-learning/">Self-Paced Learning</a></li>
+<li><a href="../advance-organizers/">Advance Organizers</a> — provide the structural overview that prevents disorientation in a hypertext network</li>
+<li><a href="../case-studies/">Case Studies</a> — hypertext nodes organized around cases suit ill-structured domains where multiple perspectives matter</li>
 </ul>
 <h2 id="patterns-that-use-this-element">Patterns That Use This Element<a class="headerlink" href="#patterns-that-use-this-element" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../../patterns/adaptive-learning/">Adaptive Learning</a></li>
-<li><a href="../../patterns/multimedia-learning/">Multimedia Learning</a></li>
+<li><a href="../../patterns/cognitive-flexibility-theory/">Cognitive Flexibility Theory</a> — hypertext as the delivery mechanism for criss-crossing complex content</li>
+<li><a href="../../patterns/adaptive-learning/">Adaptive Learning</a> — hypertext networks whose links are selected based on learner model or learner choice</li>
+<li><a href="../../patterns/blended-learning/">Blended Learning</a> — online hypertext resources complementing face-to-face instruction</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
-<!-- Links to strategies that use this element, with ratings -->
-<ul>
-<li><!-- TODO --></li>
-</ul>
+<p><strong><a href="https://www.wikipedia.org">Wikipedia</a></strong> — The canonical large-scale hypertext: densely interlinked articles with infoboxes and section structure. Effective for learners with enough prior knowledge to evaluate link relevance; easy to get lost in for novices.</p>
+<p><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — Knowledge-map navigation lets learners choose their path through linked exercises and videos, with a recommended progression available as a default route for novices.</p>
+<p><strong><a href="https://doi.org/10.1111/j.1467-8535.2007.00790.x">Kandinsky-style case hypertext (Spiro's "Romeo and Juliet" hypertext)</a></strong> — Cognitive Flexibility Theory's classic demonstration: learners criss-cross thematic lenses over the same text via multiple link sets to build flexible interpretation.</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>DeStefano, D., &amp; LeFevre, J.-A. (2007). Cognitive load in hypertext reading: A review. <em>Computers in Human Behavior, 23</em>(3), 1616–1641. <a href="https://doi.org/10.1016/j.chb.2005.08.012">doi:10.1016/j.chb.2005.08.012</a></li>
+<li>Jacobson, M. J., &amp; Spiro, R. J. (1995). Hypertext learning environments, cognitive flexibility, and the transfer of complex knowledge: An empirical investigation. <em>Journal of Educational Computing Research, 12</em>(4), 301–333. <a href="https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn">doi:10.2190/4t1b-hbp0-3f7e-j4pn</a></li>
+<li>Rouet, J.-F. (2006). <em>The Skills of Document Use: From Text Comprehension to Web-Based Learning</em>. Lawrence Erlbaum Associates.</li>
+<li>Shapiro, A. M. (2008). Hypermedia design as learner scaffolding. <em>Educational Technology Research and Development, 56</em>(3), 291–314. <a href="https://doi.org/10.1007/s11423-007-9063-4">doi:10.1007/s11423-007-9063-4</a></li>
+<li>Salmerón, L., Cañas, J. J., Kintsch, W., &amp; Fajardo, I. (2005). Reading strategies and hypertext comprehension. <em>Discourse Processes, 40</em>(3), 171–191. <a href="https://doi.org/10.1207/s15326950dp4003_1">doi:10.1207/s15326950dp4003_1</a></li>
 </ul>
 
 

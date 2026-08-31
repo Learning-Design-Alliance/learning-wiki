@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Ask learners to rate the level of challenge in an activity on a scale of 1 to 10.">
+        <meta name="description" content="Ask learners to rate the level of challenge in an activity on a scale of 1 to 10, then adjust the task based on the rating.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -703,10 +686,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
+  <a href="#patterns-that-use-this-strategy" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Tools
+        Patterns That Use This Strategy
       
     </span>
   </a>
@@ -761,72 +744,88 @@
 
 
 <h1 id="rate-and-change-tasks">Rate (and Change) Tasks<a class="headerlink" href="#rate-and-change-tasks" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Ask learners to rate the level of challenge in an activity on a scale of 1 to 10. If the activity is rated an eight or higher, ask what could be done to make the task a two or three. This provides insight into how to help the learner decrease frustration.</p>
+<p>Ask learners to rate the level of challenge in an activity on a scale of 1 to 10. If the activity is rated an eight or higher, ask what could be done to make the task a two or three. The rating acts as a rapid <a href="../../principles/check-ins/">check-in</a> that surfaces frustration before it escalates into avoidance, and the follow-up question converts the rating into a concrete plan for modifying the task.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>The strategy combines two mechanisms: it gives the learner a low-cost way to signal that difficulty has exceeded their current capacity, and it gives the teacher or system actionable information for adjusting the task toward the learner's zone of proximal development — the range of difficulty a learner can handle with support [~M]. Because learners' judgments of their own difficulty and performance are often miscalibrated, the rating should be treated as one data source alongside observed performance, not as a definitive measure <a href="../../claims/self-monitoring-improves-self-regulation/">Dunlosky &amp; Rawson found learners' confidence judgments are frequently overconfident and poorly calibrated.</a> [~M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>A rating scale, structured tasks, and the ability to adjust tasks based on feedback.</li>
+<li>A simple, consistent rating scale the learner understands (numeric, emoji, or color-coded)</li>
+<li>Structured tasks that can be decomposed or modified — simplified examples, reduced steps, added <a href="../../elements/scaffolding/">scaffolding</a>, or alternative entry points</li>
+<li>A routine for acting on ratings quickly; ratings that never produce changes erode learner trust in the process</li>
+<li>A follow-up question ("What would make this a 3?") that elicits specific, actionable suggestions rather than vague complaints</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Learners may not always provide accurate ratings. Some adjustments may not be feasible.</li>
+<li>Learners may not provide accurate ratings — young children, learners with limited metacognitive skill, or anxious learners may rate everything as too hard (or claim everything is fine to escape the task) [~M]</li>
+<li>Some adjustments are not feasible within fixed curricula, timed assessments, or standardized task sequences [-M]</li>
+<li>Repeatedly lowering difficulty on request can deprive learners of <a href="../../theories/cognitive-load-theory/">desirable difficulties</a>; tasks rated 8–10 are sometimes exactly where productive struggle and learning occur, and automatic downshifting removes that opportunity [-M]</li>
+<li>Ratings reflect momentary frustration and motivation as much as objective difficulty, so a single high rating may signal fatigue rather than task design problems [~W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Numeric scale (1–10)</strong> with a defined action threshold (e.g., ≥8 triggers modification)</li>
+<li><strong>Emoji or color scales</strong> for pre-readers and younger learners</li>
+<li><strong>Two-part rating</strong> — difficulty and interest rated separately, since a task can be too easy <em>and</em> boring</li>
+<li><strong>Learner-directed change</strong> — instead of the teacher deciding, the learner proposes the modification, building self-regulation and problem-solving <a href="../../claims/self-monitoring-improves-self-regulation/">Zimmerman argues that involving learners in monitoring and adjusting their own learning processes builds self-regulatory skill.</a> [+M]</li>
+<li><strong>System-mediated</strong> — adaptive platforms collect difficulty ratings or struggle signals and adjust item difficulty automatically</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Learners who avoid work or appear distracted</li>
+<li>Learners who avoid work, shut down, or appear distracted when frustrated — the rating gives them a legitimate, non-punitive escape valve before avoidance behavior starts</li>
+<li>Learners with weak self-advocacy skills who cannot yet articulate <em>why</em> a task feels impossible; the scale lowers the expressive demand</li>
+<li>Learners with anxiety or low frustration tolerance, for whom early difficulty signaling prevents escalation</li>
+<li>Less reliable with very young learners or those with limited metacognitive development, whose ratings need to be cross-checked against observed performance [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Reduce frustration, increase engagement, adjust task difficulty</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides learner input, reduces frustration, increases engagement, allows for task adjustment</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Tasks can be tailored based on learner feedback. Strategies can be adjusted to meet individual needs.</li>
+<li>Self-regulation: building the habit of monitoring difficulty and requesting help appropriately <a href="../../claims/self-monitoring-improves-self-regulation/">Self-monitoring improves self-regulation.</a> [+M]</li>
+<li>Task engagement: keeping learners working within a productive difficulty range rather than disengaging</li>
+<li>Metacognitive calibration: over time, comparing ratings to actual performance helps learners judge difficulty more accurately</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track the learner's ratings of task difficulty. Monitor changes in engagement and frustration levels. Collect feedback on the effectiveness of task adjustments.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Rating and changing tasks can significantly reduce frustration and increase engagement by ensuring tasks are appropriately challenging. This approach promotes a positive learning environment and supports individualized instruction.</li>
-</ul>
+<ol>
+<li><strong>Introduce the scale.</strong> Teach the 1–10 rating explicitly with anchor examples ("a 1 is something you could do in your sleep; a 10 feels impossible").</li>
+<li><strong>Rate before or during the task.</strong> Ask for a rating at task start or at a natural checkpoint, using a quick <a href="../../principles/check-ins/">check-in</a> routine.</li>
+<li><strong>Set an action threshold.</strong> Agree in advance what rating triggers a change (typically 8+).</li>
+<li><strong>Ask the change question.</strong> "What would make this a 2 or 3?" Elicit a specific suggestion — fewer items, an example first, a <a href="../../elements/advance-organizers/">graphic organizer</a>, working with a partner.</li>
+<li><strong>Adjust the task.</strong> Modify difficulty, add <a href="../../elements/scaffolding/">scaffolding</a>, or reduce scope based on the learner's suggestion and your judgment.</li>
+<li><strong>Re-rate and reflect.</strong> After the change, ask for a new rating and compare — this builds the learner's calibration and shows that feedback leads to action.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../principles/check-ins/">Check-ins</a> — the rating is a structured, task-focused form of check-in</li>
+<li><a href="../../elements/adaptive-difficulty/">Adaptive difficulty</a> — the system-driven version of the same adjustment loop</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/scaffolding/">Scaffolding</a> — the most common way to change a task that rates too high</li>
+<li><a href="../../elements/coaching/">Coaching</a> — the teacher's role during the rating-and-change conversation</li>
+<li><a href="../../elements/feedback/">Feedback</a> — the rating is learner-to-teacher feedback; the adjustment is teacher-to-learner feedback <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective when it addresses the task and process levels rather than the person.</a> [+S]</li>
+<li><a href="../../elements/cognitive-load-management/">Cognitive load management</a> — lowering task difficulty reduces extraneous or intrinsic load when it exceeds working memory capacity <a href="../../claims/chunking-reduces-working-memory-load/">Chunking and reducing element interactivity reduces working memory load.</a> [+S]</li>
 </ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
+<h2 id="patterns-that-use-this-strategy">Patterns That Use This Strategy<a class="headerlink" href="#patterns-that-use-this-strategy" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../patterns/adaptive-learning/">Adaptive learning</a> — learner-supplied difficulty ratings are one input to adaptive task selection</li>
+<li><a href="../../patterns/formative-assessment/">Formative assessment</a> — the rating functions as minute-to-minute formative evidence for adjusting instruction</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>A teacher asks a student to rate the difficulty of a math problem and then simplifies it based on the student's feedback. A parent adjusts a homework assignment based on a child's assessment of the challenge level.</li>
+<li><strong>Elementary classroom:</strong> A teacher uses a traffic-light card system; a student flips to red during multi-step word problems, and the teacher swaps in a version with the first step modeled.</li>
+<li><strong>Special education / home:</strong> A parent asks a child to rate homework difficulty; a rating of 9 on a writing assignment leads to breaking it into an outline plus two paragraphs, dropping the rating to a 4.</li>
+<li><strong>Adaptive platforms:</strong> Systems like <a href="https://www.dreambox.com">DreamBox Learning</a> and <a href="https://www.khanacademy.org">Khan Academy</a> adjust task difficulty based on performance signals; explicit difficulty ratings add a self-report channel to this loop.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Vygotsky, L. S. (1978). <em>Mind in society: The development of higher psychological processes.</em> Harvard University Press.</li>
+<li>Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Educational Research, 77</em>(1), 81–112. <a href="https://doi.org/10.3102/003465430298487">doi:10.3102/003465430298487</a></li>
+<li>Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. <em>Theory Into Practice, 41</em>(2), 64–70. <a href="https://doi.org/10.1207/s15430421tip4102_2">doi:10.1207/s15430421tip4102_2</a></li>
+<li>Dunlosky, J., &amp; Rawson, K. A. (2012). Overconfidence produces underachievement: Inaccurate self evaluations undermine students' learning and retention. <em>Learning and Instruction, 22</em>(4), 271–280. <a href="https://doi.org/10.1016/j.learninstruc.2011.08.003">doi:10.1016/j.learninstruc.2011.08.003</a></li>
+<li>Bjork, R. A., &amp; Bjork, E. L. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher et al. (Eds.), <em>Psychology and the real world</em> (pp. 56–64). Worth Publishers.</li>
 </ul>
 
 

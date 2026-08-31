@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Students engage with simulations designed to provide hands-on experience with real-world scenarios or abstract concepts.">
+        <meta name="description" content="Students engage with simulations designed to provide hands-on experience with real-world scenarios or abstract concepts, paired with a structured activity that directs attention, prompts decisions, and consolidates learning.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -703,10 +686,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
+  <a href="#patterns-that-use-this-strategy" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Tools
+        Patterns That Use This Strategy
       
     </span>
   </a>
@@ -761,74 +744,92 @@
 
 
 <h1 id="simulations-structured-activity">Simulations + Structured Activity<a class="headerlink" href="#simulations-structured-activity" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Students engage with simulations designed to provide hands-on experience with real-world scenarios or abstract concepts. These simulations are combined with a structured activity to ensure active learning and application of the concepts. Simulations allow students to experiment and learn from their mistakes in a safe and controlled environment.</p>
+<p>Students engage with simulations — physical or digital environments that model real-world systems, processes, or phenomena — combined with a structured activity that specifies goals, roles, decision points, and reflection prompts. The simulation provides safe, consequential experimentation; the structure ensures that exploration is directed toward the target concepts rather than left to unguided discovery. Debriefing and reflection convert the experience into transferable knowledge.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Simulation alone is an experience; learning comes from the structure wrapped around it. Unguided exploration in complex environments can overwhelm novices and produce activity without learning [~M], so effective designs constrain the task, scaffold decisions, and require learners to articulate what happened and why <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+S]. Structured debriefing after the simulation is consistently the highest-leverage component: without it, learners retain the experience but not the underlying principles [~S].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires access to simulations (physical or virtual), design of structured activities, and facilitation of simulation experiences.</li>
+<li>A simulation whose fidelity is adequate for the target concept — accurate dynamics matter more than visual realism</li>
+<li>A structured activity with explicit goals, decision points, and constraints aligned to learning objectives</li>
+<li>Facilitation or embedded prompts that direct attention to the variables that matter</li>
+<li>A debriefing or reflection phase that connects simulation events to underlying principles (<a href="../../elements/individual-reflection/">Individual Reflection</a>)</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May not be suitable for all types of content or learners. Requires careful alignment of simulations and learning objectives.</li>
+<li>High environmental fidelity can increase extraneous load for novices, who attend to surface features instead of the target structure [~M] — simplify or sequence the simulation before adding realism</li>
+<li>Free exploration without goals or prompts produces shallow, inconsistent learning; structure is not optional [~S]</li>
+<li>Simulations of poorly understood or simplified systems can teach misconceptions if learners treat the model as reality [-M]</li>
+<li>Poorly run debriefing (or none) leaves learning to chance; the activity structure must include it [-S]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Pre-simulation briefing</strong>: orient learners to the model's variables and rules before interaction</li>
+<li><strong>In-simulation structure</strong>: role assignments, decision logs, embedded challenges, or staged scenarios that escalate complexity</li>
+<li><strong>Post-simulation debriefing</strong>: whole-class discussion, structured worksheets, or prediction–observation–explanation cycles</li>
+<li><strong>Iterative runs</strong>: repeat the simulation with modified parameters so learners test hypotheses across <a href="../../claims/multiple-contrasting-cases-support-abstraction/">Multiple contrasting cases</a> [+M]</li>
+<li><strong>Failure-first variants</strong>: let learners attempt the task before formal instruction, then use the simulation to confront gaps <a href="../../claims/productive-failure-improves-conceptual-learning/">Productive failure improves conceptual learning.</a> [+M]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learners, particularly those who benefit from hands-on learning and real-world applications.</li>
+<li>Novices benefit when the simulation is simplified and heavily structured; complexity should grow with expertise [~M]</li>
+<li>Learners who need to connect abstract principles to observable behavior — the simulation makes invisible dynamics visible</li>
+<li>Less effective for learners who lack the prerequisite knowledge to interpret what they see; provide <a href="../../elements/advance-organizers/">Advance Organizers</a> or prerequisite instruction first</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Provide authentic learning experiences, promote active learning, facilitate understanding and application of complex concepts.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Offers a hands-on and interactive approach to learning, promotes critical thinking and problem-solving skills, enhances engagement and retention.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Simulations can be tailored to match learner interests and skill levels. Structured activities can be designed to address specific learning objectives.</li>
+<li>Conceptual understanding of dynamic systems (ecosystems, markets, circuits, physiological processes)</li>
+<li>Procedural and decision-making skill in risk-sensitive domains (clinical, flight, laboratory safety)</li>
+<li>Hypothesis testing and scientific inquiry practices</li>
+<li>Transfer of classroom concepts to authentic contexts <a href="../../claims/case-based-learning-improves-exam-performance/">Case-based learning improves exam performance.</a> [+M]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/application/">Application</a></li>
-<li><a href="../../elements/individual-reflection/">Individual Reflection</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Engagement with simulations, completion of structured activities, performance on related assignments.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Effective when combined with well-designed structured activities that promote reflection and application of the simulation experiences. Can improve learner outcomes and engagement by providing authentic and interactive learning opportunities.</li>
-</ul>
+<ol>
+<li><strong>Brief</strong>: state the learning goal, explain what the simulation models and what it omits, and activate relevant prior knowledge (<a href="../../elements/activation/">Activation</a>)</li>
+<li><strong>Orient</strong>: demonstrate or walk through the interface once so mechanics don't consume working memory during the task (<a href="../../elements/cognitive-load-management/">Cognitive Load Management</a>)</li>
+<li><strong>Engage</strong>: run the simulation under a structured task — assigned roles, target outcomes, decision logs, or staged scenarios (<a href="../../elements/practice/">Practice</a>)</li>
+<li><strong>Reflect during play</strong>: prompt predictions before key decisions and explanations after outcomes (<a href="../../elements/individual-reflection/">Individual Reflection</a>)</li>
+<li><strong>Debrief</strong>: compare outcomes across groups or runs, name the underlying principle, and address misconceptions surfaced by the simulation (<a href="../../elements/application/">Application</a>)</li>
+<li><strong>Transfer</strong>: ask learners to predict behavior in a new scenario or apply the principle to a real-world case</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Case-Based Learning — simulations are dynamic, learner-driven cases; both trade direct telling for situated experience</li>
+<li>Productive Failure — a failure-first simulation run before instruction leverages the same mechanism</li>
+<li>Predict–Observe–Explain — a structured activity format well suited to simulation events</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — the structured engagement phase inside the simulation</li>
+<li><a href="../../elements/application/">Application</a> — debriefing and transfer tasks that consolidate simulation experience</li>
+<li><a href="../../elements/individual-reflection/">Individual Reflection</a> — prompts that convert experience into articulated principles</li>
+<li><a href="../../elements/coaching/">Coaching</a> — facilitator moves during simulation play that redirect attention without taking over</li>
+<li><a href="../../elements/case-studies/">Case Studies</a> — a static alternative when a dynamic model is unnecessary</li>
 </ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
+<h2 id="patterns-that-use-this-strategy">Patterns That Use This Strategy<a class="headerlink" href="#patterns-that-use-this-strategy" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../patterns/cognitive-apprenticeship/">Cognitive Apprenticeship</a> — simulation as the exploration phase before expert modeling</li>
+<li><a href="../../patterns/anchored-instruction/">Anchored Instruction</a> — simulations serve as the rich anchor context for problem solving</li>
+<li><a href="../../patterns/flipped-classroom/">Flipped Classroom</a> — class time freed for simulation and debriefing</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>PhET Interactive Simulations</strong> (https://phet.colorado.edu) — research-validated physics and chemistry simulations; effective use pairs them with guided-inquiry worksheets rather than free play</li>
+<li><strong>NetSim for nursing education</strong> — virtual patient scenarios with structured charting and post-simulation debriefing aligned to clinical objectives</li>
+<li><strong>EconEdLink classroom market simulations</strong> — students trade in a mock market, then debrief price-setting behavior against supply-and-demand principles</li>
+<li><strong>iCivics "Argument Wars"</strong> (https://www.icivics.org) — simulated Supreme Court arguments with structured role goals and post-game reflection questions</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Sitzmann, T. (2011). A meta-analytic examination of the instructional effectiveness of computer-based simulation environments. <em>Personnel Psychology, 64</em>(2), 489–528. <a href="https://doi.org/10.1111/j.1744-6570.2011.01190.x">doi:10.1111/j.1744-6570.2011.01190.x</a></li>
+<li>Chernikova, O., Heitzmann, N., Stadler, M., Holzberger, D., Seidel, T., &amp; Fischer, F. (2020). Simulation-based learning in higher education: A meta-analysis. <em>Educational Psychology Review, 32</em>, 489–521. <a href="https://doi.org/10.3102/0034654320933544">doi:10.3102/0034654320933544</a></li>
+<li>Garris, R., Ahlers, R., &amp; Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. <em>Simulation &amp; Gaming, 33</em>(4), 441–467. <a href="https://doi.org/10.1177/1046878102238607">doi:10.1177/1046878102238607</a></li>
+<li>Kolb, D. A. (1984). <em>Experiential learning: Experience as the source of learning and development</em>. Prentice Hall.</li>
+<li>Lederman, L. C. (1992). Debriefing: Toward a systematic assessment of theory and practice. <em>Simulation &amp; Gaming, 23</em>(2), 145–160. <a href="https://doi.org/10.1177/1046878192232003">doi:10.1177/1046878192232003</a></li>
 </ul>
 
 

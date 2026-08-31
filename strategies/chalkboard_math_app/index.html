@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="App for students to practice basic math.">
+        <meta name="description" content="A tablet app for drilling basic math facts (addition, subtraction, multiplication, division) with immediate feedback and a chalkboard-style interface.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,74 +744,79 @@
 
 
 <h1 id="chalkboard-math-app">Chalkboard Math App<a class="headerlink" href="#chalkboard-math-app" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>App for students to practice basic math. The app, as the name suggests, comes with an interface offering a chalkboard to go with the math practice. It helps kids to learn all the basic math facts corresponding to addition, subtraction, multiplication and division in a quickly-engaging manner. It generates math practice in two different modes: answer mode and flashcard mode. While the first one allows entering answers and getting feedback, the second one allows verbal answering.</p>
+<p>Chalkboard Math is a mobile app for practicing basic math facts in addition, subtraction, multiplication, and division. It generates practice in two modes: <strong>answer mode</strong>, in which learners enter answers and receive immediate feedback, and <strong>flashcard mode</strong>, in which learners respond verbally. The chalkboard interface lets learners write answers by hand rather than selecting from options.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>The app is essentially a delivery vehicle for <a href="../../elements/practice/">Practice</a> with <a href="../../elements/provide-feedback/">Provide Feedback</a>: short, repeated, self-paced retrieval of math facts with immediate correctness information. Its learning value rests on well-established mechanisms — retrieval strengthens memory for facts, and immediate feedback corrects errors before they consolidate <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective when it addresses the task and the learner's processing.</a> [+M]. Automaticity with basic facts also matters indirectly: when fact retrieval is automatic, working memory is freed for higher-level reasoning such as multi-digit computation and problem solving <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces the load that familiar material places on working memory.</a> [+M].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to the Chalkboard Math app on a compatible device.</li>
+<li>Access to the app on a compatible device (iOS/Android tablet or phone)</li>
+<li>Short, regular practice sessions (5–10 minutes) rather than long infrequent ones — distributed practice outperforms massed practice for retention</li>
+<li>A way to monitor progress (the app tracks scores and completion) so practice can be adjusted to the learner's current level</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>May not be suitable for advanced math topics.</li>
+<li>Restricted to single-operation basic facts; it does not teach concepts, strategies, or multi-step problem solving [-W] — using it as a primary instructional tool for students who lack conceptual understanding risks rote answers without meaning</li>
+<li>Drill of already-confusing material can entrench errors; learners who do not yet understand the underlying operation need <a href="../../elements/demonstration/">Demonstration</a> or explicit teaching first</li>
+<li>Timed or competitive modes can raise anxiety for math-anxious students and depress performance [~M]</li>
+<li>Handwriting input on small screens can introduce motor errors unrelated to math knowledge</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Answer mode</strong> for independent written practice with feedback; <strong>flashcard mode</strong> for verbal responding, useful for pairs (one student quizzes another) or teacher-led warm-ups</li>
+<li>Use as a classroom warm-up, a station in math rotations, or a home-practice assignment</li>
+<li>Configure operation sets and number ranges to target specific fact families a learner has not yet mastered</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Elementary and middle school students.</li>
+<li>Elementary students (roughly grades 1–5) building fluency with basic facts [+M]</li>
+<li>Middle school students with gaps in fact fluency whose higher-level work is being slowed by laborious fact retrieval <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces the load that familiar material places on working memory.</a> [+M]</li>
+<li>Less appropriate for learners who have not yet developed conceptual understanding of the operations</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Practice and develop skills in basic math facts (addition, subtraction, multiplication, and division).</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Provides immediate feedback, allows for verbal answering, and engages students through a chalkboard interface.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Generates math practice in two different modes: answer mode and flashcard mode.</li>
+<li>Automatic recall of basic math facts (procedural fluency)</li>
+<li>Speed and accuracy of single-operation computation</li>
+<li>Not suited for conceptual understanding, word problems, or reasoning goals</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide Feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track scores and completion rates in the app.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Offers math practice with immediate feedback, improving basic math skills.</li>
-</ul>
+<ol>
+<li>Diagnose which fact families the learner has not yet mastered (use app scores or a timed pre-check with <a href="../../elements/assess-performance/">Assess Performance</a>).</li>
+<li>Configure the app to target those operations and number ranges.</li>
+<li>Have the learner complete short <a href="../../elements/practice/">Practice</a> sessions in answer mode, attending to the immediate <a href="../../elements/provide-feedback/">Provide Feedback</a> after each item.</li>
+<li>Follow written practice with flashcard mode for verbal retrieval, ideally with a partner or teacher to add accountability.</li>
+<li>Re-assess periodically and expand number ranges as fluency grows; fade app practice as facts become automatic.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Spaced retrieval practice for math facts — the same mechanism the app implements, generalized to any content</li>
+<li>Math fact fluency interventions — app-based drill is one delivery format among several (worksheets, games, flashcards)</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — the core activity the app delivers</li>
+<li><a href="../../elements/provide-feedback/">Provide Feedback</a> — immediate correctness feedback after each response</li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — score tracking supports monitoring and adjustment</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>Chalkboard Math</strong> — the app itself (iOS/Android), with answer and flashcard modes</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Students using the app to practice math facts in flashcard mode or answer mode, receiving immediate feedback.</li>
+<li>A second-grade classroom uses the app as a 5-minute warm-up during math rotations: students practice targeted multiplication facts in answer mode, then quiz each other verbally in flashcard mode.</li>
+<li>A parent assigns 10 minutes of app practice nightly for a fifth grader still counting on fingers for subtraction, with weekly score checks to confirm growing automaticity.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Educational Research, 77</em>(1), 81–112. <a href="https://doi.org/10.3102/003465430298487">doi:10.3102/003465430298487</a></li>
+<li>Sweller, J., van Merriënboer, J. J. G., &amp; Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. <em>Educational Psychology Review, 31</em>(2), 261–292. <a href="https://doi.org/10.1007/s10648-019-09465-5">doi:10.1007/s10648-019-09465-5</a></li>
+<li>Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., &amp; Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. <em>Psychological Bulletin, 132</em>(3), 354–380. <a href="https://doi.org/10.1037/0033-2909.132.3.354">doi:10.1037/0033-2909.132.3.354</a></li>
+<li>Ashcraft, M. H., &amp; Krause, J. A. (2007). Working memory, math performance, and math anxiety. <em>Psychonomic Bulletin &amp; Review, 14</em>(2), 243–248. <a href="https://doi.org/10.3758/BF03194059">doi:10.3758/BF03194059</a></li>
 </ul>
 
 

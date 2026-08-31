@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -695,53 +722,74 @@
 
 
 <h1 id="just-in-time-information">Just-in-Time Information<a class="headerlink" href="#just-in-time-information" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Element</strong> · <a href="../">All elements</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Instruction is provided at the point of need rather than upfront.</p>
+<p>Just-in-time information presents explanatory content — procedures, concepts, feedback — at the moment the learner needs it to perform the current task step, rather than as a block of upfront instruction. The task comes first; information is delivered on demand or automatically triggered when the learner reaches a point where it is required.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Delivering information at the point of need reduces the burden of holding unapplied content in working memory and improves the relevance and retrievability of what is learned <a href="../../claims/example-problem-sequences-reduce-cognitive-load/">Presenting prerequisite information just before it is needed improves learning efficiency compared with presenting it upfront.</a> [+M]. In whole-task designs, supportive information is offered before the task while procedural information is embedded within it, appearing precisely at the step where it applies <a href="../../claims/whole-task-performance-improves-transfer/">Whole-task sequencing improves transfer compared with part-task sequencing.</a> [+M]. The design decision is <em>when</em> to present: information given too early is forgotten or ignored; information given too late forces unproductive trial-and-error search.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>A well-analyzed task sequence so the system or instructor knows <em>which</em> information is needed at <em>which</em> step</li>
+<li>On-demand access mechanisms: embedded hints, tooltips, help panels, or instructor circulation (<a href="../coaching/">Coaching</a>)</li>
+<li>Information formatted for quick uptake — concise, step-local, and action-oriented (<a href="../procedural-information/">Procedural Information</a>)</li>
+<li>A task complex enough that upfront instruction would overload learners; trivial tasks do not need it</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Constant interruption with information fragments can fragment the learner's developing schema and disrupt understanding of the whole task [~M] — just-in-time presentation suits <em>procedural</em> information better than material requiring integrated conceptual understanding</li>
+<li>Learners who never request help miss critical information; on-demand systems depend on help-seeking behavior, which weaker learners often underuse [-M]</li>
+<li>Less effective when learners lack the prior knowledge to recognize <em>when</em> they need information — novices may not know what to ask for [~M]</li>
+<li>In self-paced e-learning, poorly timed pop-ups can split attention between the information and the task itself [~M]</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Best for self-paced training, e-learning, and STEM.</li>
+<li>Novices in complex, multi-step domains (STEM, software, statistics) where upfront instruction would exceed working memory capacity <a href="../../claims/example-problem-sequences-reduce-cognitive-load/">Presenting prerequisite information just before it is needed improves learning efficiency compared with presenting it upfront.</a> [+M]</li>
+<li>Self-paced learners who can control when they request support</li>
+<li>Less beneficial for advanced learners, who can integrate upfront material efficiently and may find step-by-step prompting redundant <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [~M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Reduce cognitive overload and improve knowledge retention.</li>
+<li>Procedural skill acquisition: knowing how to execute each step as it arises</li>
+<li>Complex task performance in domains with high element interactivity</li>
+<li>Just-in-time scaffolding toward independent performance, with support fading over time</li>
 </ul>
 <h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<!-- Links to principles applied -->
 <ul>
-<li><a href="../../principles/constructivist-learning/">Constructivist Learning</a></li>
-<li><a href="../../principles/cognitive-load-theory/">Cognitive Load Theory</a></li>
+<li><a href="../../principles/cognitive-load-management/">Cognitive Load Management</a> — by deferring information until the task creates a slot for it, just-in-time presentation avoids forcing learners to hold unapplied content in working memory, directly enacting load-reduction principles</li>
+<li><a href="../../principles/cognitive-load-theory/">Cognitive Load Theory</a> — the timing distinction between supportive information (before the task) and procedural information (during the task) is a core CLT-based design prescription</li>
+<li><a href="../../principles/scaffolding/">Scaffolding</a> — just-in-time information is scaffolding in its most literal form: temporary, task-contingent support that should fade as competence grows (<a href="../fading/">Fading</a>)</li>
+<li><a href="../../principles/worked-examples/">Worked Examples</a> — worked examples with embedded completion steps deliver explanatory information exactly where the learner's own attempt begins <a href="../../claims/worked-examples-reduce-novice-search/">Worked examples reduce unnecessary search for novices.</a> [+M]</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../scaffolding/">Scaffolding</a></li>
-<li><a href="../procedural-learning/">Procedural Learning</a></li>
-<li><a href="../cognitive-load-management/">Cognitive Load Management</a></li>
+<li><a href="../scaffolding/">Scaffolding</a> — just-in-time information is the informational form of scaffolding; both require fading</li>
+<li><a href="../procedural-information/">Procedural Information</a> — the content type most suited to just-in-time delivery</li>
+<li><a href="../coaching/">Coaching</a> — the human-delivered mechanism for supplying information at the point of need</li>
+<li><a href="../demonstration/">Demonstration</a> — demonstrations can be triggered just-in-time when a learner reaches an unfamiliar step</li>
+<li><a href="../fading/">Fading</a> — the mechanism for withdrawing just-in-time support as expertise develops</li>
 </ul>
 <h2 id="patterns-that-use-this-element">Patterns That Use This Element<a class="headerlink" href="#patterns-that-use-this-element" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../../patterns/just-in-time-learning/">Just-in-Time Learning</a></li>
-<li><a href="../../patterns/cognitive-apprenticeship/">Cognitive Apprenticeship</a></li>
+<li><a href="../../patterns/cognitive-apprenticeship/">Cognitive Apprenticeship</a> — the coaching phase delivers hints and information as the learner works</li>
+<li><a href="../../patterns/4cid-four-component-instructional-design/">4C/ID (Four-Component Instructional Design)</a> — procedural information is explicitly designed to be presented just-in-time during learning tasks</li>
+<li><a href="../../patterns/cognitive-load-reduction-clt-scaffolding-approach/">Cognitive Load Reduction (CLT Scaffolding Approach)</a> — timing of information presentation is a primary load-management lever</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
-<!-- Links to strategies that use this element, with ratings -->
 <ul>
-<li><!-- TODO --></li>
+<li><strong><a href="../../strategies/use_worked_examples/">Use Worked Examples</a></strong> — completion problems embed explanatory information at the exact step where the learner takes over from the model.</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — hints in practice exercises reveal step-by-step information only when the learner requests it, delivering support at the point of need.</li>
+<li><strong>Codecademy (<a href="https://www.codecademy.com">https://www.codecademy.com</a>)</strong> — contextual hints and documentation panels appear inline as learners write code, triggered by the current exercise step.</li>
+<li><strong>Duolingo (<a href="https://www.duolingo.com">https://www.duolingo.com</a>)</strong> — grammar tips surface at the point in a lesson where the new structure is first encountered, rather than as upfront grammar lectures.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Kester, L., Kirschner, P. A., &amp; van Merriënboer, J. J. G. (2004). Timing of information presentation in learning statistics. <em>Instructional Science, 32</em>(1–2), 1–29. <a href="https://doi.org/10.1023/b:truc.0000024191.27560.e3">doi:10.1023/b:truc.0000024191.27560.e3</a></li>
+<li>van Merriënboer, J. J. G., &amp; Kirschner, P. A. (2018). <em>Ten steps to complex learning</em> (3rd ed.). Routledge.</li>
+<li>Mayer, R. E. (2009). <em>Multimedia learning</em> (2nd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/CBO9780511811678">doi:10.1017/CBO9780511811678</a></li>
+<li>Renkl, A., &amp; Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. <em>Educational Psychologist, 38</em>(1), 15–22. <a href="https://doi.org/10.1207/S15326985EP3801_3">doi:10.1207/S15326985EP3801_3</a></li>
 </ul>
 
 

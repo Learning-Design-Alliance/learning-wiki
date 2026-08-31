@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Eliminate the 0 to 100 scale as it disproportionately punishes missed assignments.">
+        <meta name="description" content="Replace fine-grained percentage scales (0–100) with coarse scales (e.g., 0–4) so that grades describe performance levels rather than accumulating arithmetic penalties.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -703,10 +686,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
+  <a href="#patterns-that-use-this-strategy" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Tools
+        Patterns That Use This Strategy
       
     </span>
   </a>
@@ -761,73 +744,87 @@
 
 
 <h1 id="simplify-grading-scales">Simplify Grading Scales<a class="headerlink" href="#simplify-grading-scales" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Eliminate the 0 to 100 scale as it disproportionately punishes missed assignments. Simpler scales, such as a 0-4 scale, allow for a clear delineation between levels of performance.</p>
+<p>Simplify Grading Scales replaces the conventional 0–100 percentage scale with a coarse ordinal scale — typically 0–4 or a small set of performance levels — often anchored to rubric descriptors. The core rationale is mathematical: on a 100-point scale, a zero for a missed assignment is catastrophically far from the next lowest grade (typically 50–60), so a single missing or failed task can mathematically dominate a term grade regardless of later learning. Coarse scales compress this range, keep grades tied to demonstrated performance levels, and make grade meaning transparent to students and families.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Coarse, criterion-referenced scales shift grades from averaging behavior over time toward describing current proficiency, which aligns grading with <a href="../../principles/assessment-for-learning/">Assessment for Learning</a> <a href="../../claims/assessment-for-learning-improves-achievement/">Assessment for learning practices improve achievement.</a> [+S]. Because each scale point maps to a described performance level, grades become interpretable feedback rather than opaque point totals, and students can see what the next level requires. The strategy is most powerful when combined with <a href="../../elements/rubrics/">Rubrics</a> that define each level and with policies that let later evidence replace earlier evidence (revision, retakes, most-recent-over-mean).</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Adoption of simpler grading scales</li>
+<li>A small set of clearly described performance levels (e.g., 4 = exceeds, 3 = meets, 2 = approaching, 1 = beginning, 0 = no evidence)</li>
+<li>Rubrics or descriptors that make each level observable, so the scale is criterion-referenced rather than a compressed percentage (<a href="../../elements/assess-performance/">Assess Performance</a>)</li>
+<li>A policy decision about missing work: either a separate reporting category (e.g., "incomplete") or a floor grade, rather than a zero on the achievement scale</li>
+<li>Communication to students and families explaining what the new scale means</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Requires changing existing grading systems</li>
+<li>A zero on a 100-point scale is not equidistant from other grades; averaging it in punishes a single missing assignment out of proportion to its learning significance [-M] — this is the arithmetic problem the strategy exists to solve, but it only disappears if the zero is removed or redefined, not if the 100-point scale is merely relabeled</li>
+<li>Coarse scales reduce discrimination between adjacent performances; in selective or high-stakes contexts this can be perceived as a loss of information [~W]</li>
+<li>If scale points are not anchored to described criteria, a 0–4 scale is just a smaller 0–100 scale and inherits the same problems of subjectivity and grade inflation</li>
+<li>Transcript and reporting-system compatibility can constrain adoption; converting 0–4 back to letter grades can reintroduce the distortions the change was meant to remove</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li><strong>0–4 mastery scale</strong> with rubric descriptors per level (most common in standards-based grading)</li>
+<li><strong>Minimum grade floors</strong> (e.g., 50% as the lowest reportable score) as a lighter-touch fix that preserves the 100-point scale</li>
+<li><strong>Most-recent-evidence / replace-the-grade</strong> policies, where later performance supersedes earlier scores</li>
+<li><strong>Separating academic achievement from behavior, effort, and timeliness</strong>, reporting the latter separately rather than blending them into one grade</li>
+<li><strong>Single-point or binary scales</strong> (meets / not yet) for specific skills, paired with narrative feedback</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All levels</li>
+<li>Students who miss assignments due to external factors (work, caregiving, instability), for whom a single zero can make a passing grade mathematically unreachable [-M]</li>
+<li>Students recovering from a weak start; coarse scales plus revision policies keep early failure from capping final achievement <a href="../../claims/assessment-for-learning-improves-achievement/">Assessment for learning practices improve achievement.</a> [+M]</li>
+<li>Younger learners and multilingual families, for whom a 4-level scale with plain-language descriptors is more interpretable than a percentage</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Reduce punishment for missed assignments, simplify grading process, ensure clear performance delineation</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Reduces impact of missed assignments, simplifies grading</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Easier for students to understand performance levels</li>
+<li>Accurate communication of current proficiency rather than accumulation of points</li>
+<li>Motivation to revise and re-attempt: when grades describe levels, improving the work visibly moves the grade</li>
+<li>Separation of achievement from compliance behaviors, so grades reflect learning goals</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-<li><a href="../../elements/provide-feedback/">Provide feedback</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Distribution of grades, student understanding</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Simpler scales allow for a clear delineation between levels of performance without overly dramatic consequences for a single missed assignment or instance of poor performance.</li>
-</ul>
+<ol>
+<li>Audit current grading practices: identify where zeros, averaging, and blended non-academic factors distort the meaning of grades.</li>
+<li>Define 4–5 performance levels with observable descriptors for each major learning goal, using <a href="../../elements/rubrics/">Rubrics</a> so each scale point is criterion-anchored.</li>
+<li>Decide the missing-work policy: report incompleteness separately or use a floor, and never average a zero into an achievement grade.</li>
+<li>Align <a href="../../elements/assess-performance/">Assess Performance</a> tasks to the scale, and score against the rubric rather than deducting points.</li>
+<li>Pair every scale judgment with <a href="../../elements/provide-feedback/">Provide Feedback</a> that names what the student did and what the next level requires — the scale communicates <em>where</em>, the feedback communicates <em>how</em>.</li>
+<li>Pilot in one course or department, compare grade distributions and student understanding, then iterate before school-wide adoption.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../standards-based-grading/">Standards-Based Grading</a> — the broader system in which coarse scales are usually embedded; the scale is the reporting mechanism, standards-based grading is the philosophy</li>
+<li><a href="../grading-for-equity/">Grading for Equity</a> — Feldman's framework combining simplified scales with minimum grades and revision policies</li>
+<li><a href="../mastery-based-progression/">Mastery-Based Progression</a> — advances students on demonstrated proficiency, which coarse scales make reportable</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — the scale only means something if the assessment tasks genuinely elicit the target performance</li>
+<li><a href="../../elements/provide-feedback/">Provide Feedback</a> — a coarse grade without descriptive feedback tells students their level but not how to move up</li>
+<li><a href="../../elements/rubrics/">Rubrics</a> — the descriptors that give each scale point a defensible meaning</li>
 </ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
+<h2 id="patterns-that-use-this-strategy">Patterns That Use This Strategy<a class="headerlink" href="#patterns-that-use-this-strategy" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../patterns/competency-based-learning/">Competency-Based Learning</a> — proficiency scales are the reporting backbone of competency models</li>
+<li><a href="../../principles/assessment-for-learning/">Assessment for Learning</a> — grades as information for the learner rather than judgment of the learner</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Adopting a 0-4 grading scale</li>
+<li><strong>Standards-based grading in districts such as Mineola Union Free School District (NY)</strong> — K–12 reporting on 4-level scales with published descriptors for each standard (<a href="https://www.mineola.k12.ny.us">example overview</a>).</li>
+<li><strong>Marzano's proficiency scales</strong> — Robert Marzano's scale templates (0.0–4.0 with half-step scores) used widely in competency-based schools (<a href="https://www.marzanoresources.com">Marzano Resources</a>).</li>
+<li><strong>Grading for Equity pilots</strong> — schools implementing Feldman's three pillars (accuracy, bias-resistance, motivation), of which a 0–4 scale with a floor grade is one component.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Guskey, T. R. (2011). Five obstacles to grading reform. <em>Educational Leadership, 69</em>(3), 16–21.</li>
+<li>Brookhart, S. M. (2013). <em>How to create and use rubrics for formative assessment and grading.</em> ASCD.</li>
+<li>Feldman, J. (2019). <em>Grading for equity: What it is, why it matters, and how it can transform schools and classrooms.</em> Corwin.</li>
+<li>Reeves, D. B. (2008). Effective grading practices. <em>Educational Leadership, 65</em>(5), 85–87.</li>
+<li>Wiggins, G. (1998). <em>Educative assessment: Designing assessments to inform and improve student performance.</em> Jossey-Bass.</li>
 </ul>
 
 

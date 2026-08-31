@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Provides a very easy way to learn and practice math with a very easy-to-understand user interface, with everything clearly explained and accessible.">
+        <meta name="description" content="A game-based math app in which learners complete timed spy-themed missions to build fluency in addition, subtraction, multiplication, and division.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -655,28 +660,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
   
 </li>
       
@@ -761,74 +744,83 @@
 
 
 <h1 id="operation-math-app">Operation Math App<a class="headerlink" href="#operation-math-app" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Provides a very easy way to learn and practice math with a very easy-to-understand user interface, with everything clearly explained and accessible. The app also comes with a very user-friendly in-app support for the learners. Operation Math is unique because it creates an engaging game-like interface with 105 timed missions allowing kids to learn and practice all mathematical actions including addition, subtraction, division and multiplication. Ideally targeted for ages 9-11, it offers a fun-filled way of engaging with numbers and calculations.</p>
+<p>Operation Math (Spinlight Studio) is a game-based app in which learners play a secret agent who defeats villains by completing 105 timed math missions covering addition, subtraction, multiplication, and division. Each mission presents a short sequence of computation problems under a countdown timer, with immediate right/wrong feedback and unlockable gear as rewards. The app is aimed primarily at ages 9–11 and is designed to build <a href="../../elements/automaticity/">automaticity</a> with basic facts and multi-digit computation through repeated, game-framed <a href="../../elements/practice/">practice</a>.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Operation Math exemplifies <a href="../../principles/game-based-learning/">game-based learning</a>: it wraps retrieval-heavy computation practice in narrative, time pressure, and reward structures to sustain engagement across many repetitions <a href="https://doi.org/10.1080/00461520.2015.1122533">Plass et al. (2015) argue narrative and reward structures sustain engagement in game-based learning.</a> [+M]. The core learning mechanism is repeated retrieval of math facts, which strengthens fact recall and frees working memory for higher-level reasoning <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S]; automaticity with basic facts is a well-documented prerequisite for success with more complex mathematics <a href="https://doi.org/10.1037/0022-0663.93.2.346">Rittle-Johnson et al. (2001) show procedural and conceptual knowledge develop iteratively in math.</a> [+S]. The app's clean interface and in-app support reduce extraneous load, consistent with <a href="../../principles/cognitive-load-management/">Cognitive Load Management</a> <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [+S].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Access to the Operation Math app on a compatible device.</li>
+<li>Access to the Operation Math app on a compatible tablet or desktop device</li>
+<li>Learners who have at least initial conceptual understanding of the operations being drilled — the app practices procedures, it does not teach them from scratch</li>
+<li>A way to monitor progress (missions completed, operation types) so practice can be targeted to gaps</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Timed missions may stress some students.</li>
+<li>Timed missions can induce anxiety and degrade performance for students with math anxiety or slow processing speed <a href="https://doi.org/10.1016/j.cedpsych.2008.10.004">Math anxiety consumes working memory resources and impairs performance, particularly under time pressure.</a> [-M] — the timer should be disabled or reframed for these learners</li>
+<li>Drill-based practice does not build conceptual understanding of operations; used alone it produces procedural fluency without meaning <a href="https://doi.org/10.1037/0022-0663.93.2.346">Rittle-Johnson et al. (2001) show procedural and conceptual knowledge develop iteratively in math.</a> [~M]</li>
+<li>Game rewards can become the goal, with learners optimizing for mission completion rather than accuracy [-W]</li>
+<li>Effectiveness depends on practice being distributed over time; massed app sessions produce weaker retention <a href="../../claims/distributed-practice-improves-retention/">Distributed practice improves retention.</a> [-S] — schedule short, spaced sessions rather than long blocks</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Use as a station in a rotating math block (10–15 min sessions), with the teacher pulling small groups for conceptual instruction</li>
+<li>Assign specific operations or number ranges per learner based on diagnostic data, rather than letting all students progress linearly</li>
+<li>Turn off or extend the timer for students with math anxiety or processing-speed challenges</li>
+<li>Pair app practice with <a href="../peer-tutoring/">Peer Tutoring</a> — students explain their strategies for missed problems to a partner</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Ages 9-11.</li>
+<li>Students ages 8–11 who have initial conceptual understanding of the four operations and need fluency practice</li>
+<li>Learners motivated by game contexts who avoid traditional drill worksheets <a href="https://doi.org/10.1080/00461520.2015.1122533">Plass et al. (2015) argue narrative and reward structures sustain engagement in game-based learning.</a> [+M]</li>
+<li>Less appropriate for students still building conceptual models of the operations, or for those whom timed conditions reliably distress <a href="https://doi.org/10.1016/j.cedpsych.2008.10.004">Math anxiety consumes working memory resources and impairs performance, particularly under time pressure.</a> [-M]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Learn and practice all mathematical actions including addition, subtraction, division and multiplication.</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Engaging game-like interface with 105 timed missions, user-friendly support.</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Timed missions that pace the mathematical abilities of the student.</li>
+<li>Procedural fluency and automatic recall of basic math facts across the four operations</li>
+<li>Speed and accuracy of multi-digit computation</li>
+<li>Sustained engagement in independent math practice (a motivational, not cognitive, goal)</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/practice/">Practice</a></li>
-<li><a href="../../elements/provide-feedback/">Provide Feedback</a></li>
-<li><a href="../../elements/assess-performance/">Assess performance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Assess proficiency in completing mathematical missions.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Engages with numbers and calculations in a fun and easy way.</li>
-</ul>
+<ol>
+<li>Diagnose which facts or operations each learner has not yet automatized, using a short <a href="../../elements/assessment/">Assessment</a> or the app's own mission performance.</li>
+<li>Assign 10–15 minute app sessions on a spaced schedule (e.g., 3–4 times per week), targeting the diagnosed operation <a href="../../claims/distributed-practice-improves-retention/">Distributed practice improves retention.</a> [+S].</li>
+<li>Have learners complete timed missions, with the app providing immediate <a href="../../elements/provide-feedback/">Provide Feedback</a> on each problem.</li>
+<li>Review mission results with the learner; for missed problems, have them explain their strategy aloud (<a href="../../elements/self-explanation/">Self-Explanation</a>) or work the problem on paper to surface errors.</li>
+<li>Adjust difficulty and operation type as fluency grows, using <a href="../../elements/adaptive-difficulty/">Adaptive Difficulty</a> reasoning — keep success rates high enough to sustain motivation.</li>
+<li>Periodically <a href="../../elements/assess-performance/">Assess Performance</a> outside the app (untimed, mixed-problem sets) to confirm transfer beyond the game context.</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../timed-fact-fluency-drills/">Timed Fact Fluency Drills</a> — the non-digital counterpart; Operation Math gamifies the same practice structure</li>
+<li><a href="../spaced-practice-scheduling/">Spaced Practice Scheduling</a> — how to schedule app sessions for retention</li>
+<li><a href="../math-anxiety-reduction/">Math Anxiety Reduction</a> — needed before or alongside timed practice for affected students</li>
 </ul>
 <h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="../../elements/practice/">Practice</a> — the app's core mechanism; missions are structured practice trials</li>
+<li><a href="../../elements/provide-feedback/">Provide Feedback</a> — immediate correctness feedback on every problem</li>
+<li><a href="../../elements/assess-performance/">Assess Performance</a> — mission completion and accuracy serve as ongoing performance data</li>
+<li><a href="../../elements/adaptive-difficulty/">Adaptive Difficulty</a> — mission progression should be matched to learner fluency level</li>
 </ul>
 <h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li><a href="https://apps.apple.com/us/app/operation-math/id478993817">Operation Math (Spinlight Studio)</a> — the app itself; available for iOS, with a Code Squad variant for multiplayer</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Practicing addition, subtraction, division, and multiplication through timed missions.</li>
+<li>A 4th-grade teacher uses Operation Math as a 12-minute rotation during math workshop: students complete two multiplication missions, then log their three most-missed facts on a fluency tracker for follow-up practice.</li>
+<li>A interventionist assigns division missions only, with the timer extended, for a student with math anxiety, and confirms gains with weekly untimed curriculum-based measurement probes.</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Plass, J. L., Homer, B. D., &amp; Kinzer, C. K. (2015). Foundations of game-based learning. <em>Educational Psychologist, 50</em>(4), 258–283. <a href="https://doi.org/10.1080/00461520.2015.1122533">doi:10.1080/00461520.2015.1122533</a></li>
+<li>Rittle-Johnson, B., Siegler, R. S., &amp; Alibali, M. W. (2001). Developing conceptual understanding and procedural skill in mathematics: An iterative process. <em>Journal of Educational Psychology, 93</em>(2), 346–362. <a href="https://doi.org/10.1037/0022-0663.93.2.346">doi:10.1037/0022-0663.93.2.346</a></li>
+<li>Ashcraft, M. H., &amp; Moore, A. M. (2009). Mathematics anxiety and the affective drop in performance. <em>Journal of Psychoeducational Assessment, 27</em>(3), 197–205. <a href="https://doi.org/10.1177/0734282908330580">doi:10.1177/0734282908330580</a></li>
+<li>National Mathematics Advisory Panel. (2008). <em>Foundations for success: The final report of the National Mathematics Advisory Panel</em>. U.S. Department of Education.</li>
 </ul>
 
 

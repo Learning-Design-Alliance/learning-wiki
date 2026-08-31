@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Maintaining an optimal temperature range in classrooms affects student engagement and productivity.">
+        <meta name="description" content="Maintaining classroom temperatures within a moderate comfort range (roughly 68–74°F / 20–23°C) to protect attention, working memory, and engagement.">
       
       
       
@@ -425,6 +425,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../claims/" class="md-nav__link">
         
   
@@ -621,28 +648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#affordances" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affordances
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#personalization" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Personalization
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#instructions" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -659,54 +664,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#assessment-evidence" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Assessment Evidence
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Impact
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#related-strategies" class="md-nav__link">
     <span class="md-ellipsis">
       
         Related Strategies
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-elements" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Elements
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tools" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Tools
       
     </span>
   </a>
@@ -761,72 +722,71 @@
 
 
 <h1 id="temperature-control">Temperature Control<a class="headerlink" href="#temperature-control" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a></p>
+</blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
-<p>Maintaining an optimal temperature range in classrooms affects student engagement and productivity. The ideal range for effective learning in reading and mathematics is between 68°F and 74°F. Teachers need the ability to control the temperature to ensure a comfortable learning environment.</p>
+<p>Temperature control is the deliberate regulation of ambient thermal conditions in learning environments to keep them within a moderate comfort range — roughly 68–74°F (20–23°C) for typical sedentary classroom activity. It is carried out through HVAC management, monitoring, and responsive adjustment, treating thermal comfort as an instructional precondition rather than a facilities afterthought.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Thermal conditions measurably affect cognitive performance: performance on learning and office tasks declines as temperatures move above the low-to-mid 70s°F, with losses of roughly 2% per °C above ~25°C <a href="https://doi.org/10.1080/10789669.2006.10391208">Seppänen &amp; Fisk's quantitative review links elevated temperatures to reduced work performance.</a> [+M]. Field studies in schools show that improving thermal and air quality conditions produces reliable gains in learning-relevant task performance <a href="https://doi.org/10.1016/j.buildenv.2013.01.017">Wargocki &amp; Wyon's school intervention studies.</a> [+S], and even moderate heat exposure during heat waves degrades cognitive function in occupants of non-air-conditioned buildings <a href="https://doi.org/10.1371/journal.pmed.1002605">Cedeño Laurent et al. heat-wave study.</a> [+S]. Temperature control is best treated as one component of a broader environmental-quality strategy alongside ventilation and lighting.</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Temperature control systems, thermostats, proper insulation.</li>
+<li>A means of measuring actual classroom temperature (thermostat readings often diverge from conditions at student desks)</li>
+<li>Heating/cooling capacity that can hold the target range across seasons and occupancy levels</li>
+<li>Attention to interacting factors — ventilation and CO₂ levels compound thermal effects on cognition <a href="https://doi.org/10.1289/ehp.1510037">Allen et al. cognitive function study.</a> [+S]</li>
+<li>A mechanism for gathering learner comfort feedback, since individual comfort varies</li>
 </ul>
 <h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Implementation can be costly and may require significant facility upgrades.</li>
+<li>Overcooling is as harmful as overheating: performance drops when temperatures fall below the comfort range, and cold-induced distraction competes for attentional resources [~M]</li>
+<li>Individual thermal comfort varies by clothing, metabolism, and acclimatization; a single setpoint will leave some learners uncomfortable regardless of where it is set [~W]</li>
+<li>Older buildings without adequate HVAC may be unable to hold the target range during heat waves, making schedule adjustments (moving high-cognitive-load tasks to cooler parts of the day) the only viable mitigation [~M]</li>
+<li>Thermal effects are smaller than instructional-quality effects; temperature control cannot compensate for poor teaching [-W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
-<li><!-- TODO --></li>
+<li>Passive strategies: shading, ventilation timing, dress-code flexibility, and scheduling demanding work during cooler hours</li>
+<li>Active strategies: programmable HVAC setpoints, portable units, and zoned controls</li>
+<li>Learner agency: allowing students to adjust layers or relocate within the room rather than fixing one room-wide temperature</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>All learners and educators in K-12 or higher education settings.</li>
+<li>Children and adolescents, who are more sensitive to elevated classroom temperatures than adults in task performance studies <a href="https://doi.org/10.1016/j.buildenv.2013.01.017">Wargocki &amp; Wyon's school intervention studies.</a> [+S]</li>
+<li>Learners in buildings without air conditioning during warm periods, who show measurable cognitive decrements <a href="https://doi.org/10.1371/journal.pmed.1002605">Cedeño Laurent et al. heat-wave study.</a> [+S]</li>
+<li>Learners with attention difficulties, who are disproportionately affected by environmental distraction and discomfort [~W]</li>
 </ul>
 <h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
-<!-- Link to sub-claims -->
 <ul>
-<li>Improve student engagement and achievement, enhance comfort, create a more conducive learning environment</li>
-</ul>
-<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Reduces discomfort and distraction, improves focus and concentration</li>
-</ul>
-<h3 id="personalization">Personalization<a class="headerlink" href="#personalization" title="Permanent link">&para;</a></h3>
-<ul>
-<li>Allow teachers to control the temperature in their classrooms or blocks of classrooms.</li>
+<li>Any goal requiring sustained attention or working memory — the cognitive functions most degraded by thermal discomfort</li>
+<li>High-stakes assessment performance, where environmental conditions should not add noise to measurement</li>
+<li>Complex problem-solving tasks, which are more temperature-sensitive than simple or routine tasks [~M]</li>
 </ul>
 <h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
-<!-- Steps with links to elements -->
-<ul>
-<li><a href="../../elements/provide-guidance/">Provide guidance</a></li>
-</ul>
-<h2 id="assessment-evidence">Assessment Evidence<a class="headerlink" href="#assessment-evidence" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Track student engagement and achievement, monitor classroom temperature, survey teacher and student satisfaction.</li>
-</ul>
-<h2 id="impact">Impact<a class="headerlink" href="#impact" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Research indicates that maintaining an optimal temperature range improves student learning outcomes.</li>
-</ul>
+<ol>
+<li>Establish a baseline: measure temperature at student level during typical instructional hours, not just at the thermostat.</li>
+<li>Set and maintain the target range (68–74°F / 20–23°C), adjusting seasonally for clothing norms.</li>
+<li>Pair temperature control with ventilation management, since CO₂ buildup independently degrades cognition <a href="https://doi.org/10.1289/ehp.1510037">Allen et al. cognitive function study.</a> [+S].</li>
+<li>Schedule cognitively demanding activities (<a href="../../elements/assessment/">Assessment</a>, <a href="../../elements/practice/">Practice</a>) during the coolest parts of the day when full control is not possible.</li>
+<li>Use brief <a href="../../elements/check-in/">Check-Ins</a> to surface thermal discomfort and adjust within available means (open windows, fan direction, seating changes).</li>
+</ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
-</ul>
-<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h2>
-<ul>
-<li><!-- TODO --></li>
+<li>Acoustics and noise management — the other major physical-environment factor competing for attentional resources</li>
+<li>Accommodating processing speed challenges — thermal discomfort slows response times, compounding processing-speed difficulties</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Installing individual thermostats in classrooms, providing temperature control systems for blocks of classrooms, improving insulation.</li>
+<li><strong>School HVAC intervention studies (Denmark)</strong> — Wargocki and Wyon's field experiments improved classroom ventilation and temperature and documented significant gains in children's performance on speed and accuracy tasks (<a href="https://doi.org/10.1016/j.buildenv.2013.01.017">Building and Environment</a>).</li>
+<li><strong>Heat-wave natural experiment (Boston area)</strong> — College students living in non-air-conditioned dormitories during a 2016 heat wave performed ~13% slower on cognitive tests than peers in air-conditioned buildings (<a href="https://doi.org/10.1371/journal.pmed.1002605">PLoS Medicine</a>).</li>
+<li><strong>COGfx study (Syracuse University / Harvard)</strong> — Controlled exposure studies showing cognitive function scores decline sharply as CO₂ rises, motivating combined temperature-and-ventilation management (<a href="https://doi.org/10.1289/ehp.1510037">Environmental Health Perspectives</a>).</li>
 </ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
-<li><!-- TODO --></li>
+<li>Wargocki, P., &amp; Wyon, D. P. (2013). Providing better thermal and air quality conditions in school classrooms would be cost-effective. <em>Building and Environment, 59</em>, 581–589. <a href="https://doi.org/10.1016/j.buildenv.2012.10.007">doi:10.1016/j.buildenv.2012.10.007</a></li>
+<li>Cedeño Laurent, J. G., et al. (2018). Reduced cognitive function during a heat wave among residents of non-air-conditioned buildings. <em>PLoS Medicine, 15</em>(7), e1002605. <a href="https://doi.org/10.1371/journal.pmed.1002605">doi:10.1371/journal.pmed.1002605</a></li>
+<li>Allen, J. G., et al. (2016). Associations of cognitive function scores with carbon dioxide, ventilation, and volatile organic compound exposures in office workers. <em>Environmental Health Perspectives, 124</em>(6), 805–812. <a href="https://doi.org/10.1289/ehp.1510037">doi:10.1289/ehp.1510037</a></li>
+<li>Seppänen, O., &amp; Fisk, W. J. (2006). Some quantitative relations between indoor environmental quality and work performance or health. <em>HVAC&amp;R Research, 12</em>(3), 623–636. <a href="https://doi.org/10.1080/10789669.2006.10391208">doi:10.1080/10789669.2006.10391208</a></li>
 </ul>
 
 
