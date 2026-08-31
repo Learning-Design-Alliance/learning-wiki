@@ -68,7 +68,7 @@ Thermal discomfort consumes working-memory and attentional resources that would 
 - **Practical school implementations** — elementary classrooms using fans, window control, and dimmed lighting during heat events; districts installing smart HVAC that adjusts setpoints based on occupancy sensors and real-time temperature feedback.
 
 ## Key Sources
-- Wargocki, P., & Wyon, D. P. (2007). The effects of moderately raised classroom temperatures and classroom ventilation rate on the performance of schoolwork by children (RP-1257). *HVAC&amp;R Research, 13*(2), 193-220. [doi:10.1080/10789669.2007.10390951](https://doi.org/10.1080/10789669.2007.10390951)
+- Wargocki, P., & Wyon, D. P. (2007). The effects of moderately raised classroom temperatures and classroom ventilation rate on the performance of schoolwork by children (RP-1257). *HVAC&R Research, 13*(2), 193-220. [doi:10.1080/10789669.2007.10390951](https://doi.org/10.1080/10789669.2007.10390951)
 - Wargocki, P., & Wyon, D. P. (2013). Providing better thermal and air quality conditions in school classrooms would be cost-effective. *Building and Environment, 59*, 581–589. [doi:10.1016/j.buildenv.2012.10.007](https://doi.org/10.1016/j.buildenv.2012.10.007)
 - Cedeño Laurent, J. G., Allen, J. G., McNeely, E., Spengler, J. D., & Catalano, P. J. (2018). Heat, human performance, and occupational health. *PLOS Medicine, 15*(7), e1002605. [doi:10.1371/journal.pmed.1002605](https://doi.org/10.1371/journal.pmed.1002605)
 - Seppänen, O., Fisk, W. J., & Lei, Q. H. (2006). Room temperature and productivity in office work. In *Healthy Buildings 2006* (Vol. 1, pp. 243–247).

@@ -72,7 +72,7 @@ Rhyming makes the phonological structure of language salient and memorable, whic
 
 ## Key Sources
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction*. National Institute of Child Health and Human Development.
-- Ehri, L. C., Nunes, S. R., Willows, D. M., & Schuster, B. V. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.3](https://doi.org/10.1598/RRQ.36.3.3)
+- Ehri, L. C., Nunes, S. R., Willows, D. M., & Schuster, B. V. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287.
 - Bradley, L., & Bryant, P. E. (1983). Categorizing sounds and learning to read — a causal connection. *Nature, 301*, 419–421. [doi:10.1038/301419a0](https://doi.org/10.1038/301419a0)
 - Goswami, U., & Bryant, P. (1990). *Phonological skills and learning to read*. Lawrence Erlbaum Associates.
 - Yopp, H. K. (1988). The validity and reliability of phonemic awareness tests. *Reading Research Quarterly, 23*(2), 159–177. [doi:10.2307/747800](https://doi.org/10.2307/747800)

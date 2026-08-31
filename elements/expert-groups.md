@@ -68,4 +68,4 @@ Expert groups promote deep processing because preparing to teach forces learners
 - Aronson, E., Stephan, C., Sikes, J., Blaney, N., & Snapp, M. (1978). *The jigsaw classroom*. Sage.
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Fiorella, L., & Mayer, R. E. (2013). The relative benefits of learning by teaching and teaching expectancy. *Contemporary Educational Psychology, 38*(4), 281–288. [doi:10.1016/j.cedpsych.2013.06.001](https://doi.org/10.1016/j.cedpsych.2013.06.001)
-- Souvignier, E., & Kronenberger, J. (2007). Cooperative learning with the jigsaw method: Effects on achievement and motivation. *Learning and Instruction, 17*(4), 423–431. [doi:10.1016/j.learninstruc.2007.04.003](https://doi.org/10.1016/j.learninstruc.2007.04.003)
+- Souvignier, E., & Kronenberger, J. (2007). Cooperative learning with the jigsaw method: Effects on achievement and motivation. *Learning and Instruction, 17*(4), 423–431.

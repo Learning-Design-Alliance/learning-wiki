@@ -69,5 +69,5 @@ RJC works as a learning intervention because it converts a disciplinary event in
 - Sherman, L. W., Strang, H., Mayo-Wilson, E., Woods, D. J., & Ariel, B. (2015). Are restorative justice conferences effective in reducing repeat offenses? Findings from a Campbell systematic review. *Journal of Experimental Criminology, 11*(1), 139–146. [doi:10.1007/s10940-014-9222-9](https://doi.org/10.1007/s10940-014-9222-9)
 - Braithwaite, J. (1989). *Crime, shame and reintegration.* Cambridge University Press. [doi:10.1017/cbo9780511804618](https://doi.org/10.1017/cbo9780511804618)
 - Sherman, L. W., & Strang, H. (2007). *Restorative justice: The evidence.* The Smith Institute.
-- Karp, D. R., & Breslin, B. (2001). Restorative justice in school communities. *Youth & Society, 33*(2), 249–272. [doi:10.1177/0044118X01033002005](https://doi.org/10.1177/0044118X01033002005)
+- Karp, D. R., & Breslin, B. (2001). Restorative justice in school communities. *Youth & Society, 33*(2), 249–272.
 - Okonofua, J. A., Walton, G. M., & Eberhardt, J. L. (2016). A vicious cycle: A asymmetric psychological approach to punitive discipline. *Perspectives on Psychological Science, 11*(4), 481–499. [doi:10.1177/1745691616658454](https://doi.org/10.1177/1745691616658454)

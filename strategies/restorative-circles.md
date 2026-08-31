@@ -76,5 +76,5 @@ Restorative Circles operationalize social-emotional and community-building goals
 - Braithwaite, J. (1989). *Crime, Shame and Reintegration*. Cambridge University Press. [doi:10.1017/CBO9780511804618](https://doi.org/10.1017/CBO9780511804618)
 - Sherman, L. W., & Strang, H. (2007). *Restorative Justice: The Evidence*. The Smith Institute.
 - Augustine, C. H., Engberg, J., Grimm, G. E., Lee, E., Wang, E. L., Christianson, K., & Joseph, A. A. (2018). *Can Restorative Practices Improve School Climate and Curb Suspensions? An Evaluation of the Use of Restorative Practices in 34 Pittsburgh Middle Schools*. RAND Corporation. [doi:10.7249/RR2840](https://doi.org/10.7249/RR2840)
-- Karp, D. R., & Breslin, B. (2001). Restorative justice in school communities. *Youth & Society, 33*(2), 249–272. [doi:10.1177/0044118X01033002007](https://doi.org/10.1177/0044118X01033002007)
+- Karp, D. R., & Breslin, B. (2001). Restorative justice in school communities. *Youth & Society, 33*(2), 273-295. [doi:10.1177/0044118X01033002007](https://doi.org/10.1177/0044118X01033002007)
 - Wachtel, T. (2016). *Defining Restorative*. International Institute for Restorative Practices.

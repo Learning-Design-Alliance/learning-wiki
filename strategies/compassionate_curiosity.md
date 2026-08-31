@@ -72,7 +72,7 @@ Compassionate curiosity operationalizes the finding that teachers' interpretatio
 - **Everyday practice:** a student repeatedly submits late homework; instead of a penalty, the teacher asks "Is something bothering you, or is the work itself the problem?" — discovering a reading barrier and arranging support rather than punishment.
 
 ## Key Sources
-- Okonofua, J. A., & Eberhardt, J. L. (2015). Two strikes: Race and the disciplining of young students. *Psychological Science, 26*(5), 617–624. [doi:10.1177/0956797615570362](https://doi.org/10.1177/0956797615570362)
+- Okonofua, J. A., & Eberhardt, J. L. (2015). Two strikes: Race and the disciplining of young students. *Psychological Science, 26*(5), 617–624.
 - Okonofua, J. A., Paunesku, D., & Walton, G. M. (2016). Brief intervention to encourage empathic discipline cuts suspension rates in half among adolescents. *Proceedings of the National Academy of Sciences, 113*(19), 5221–5226. [doi:10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)
 - Cornelius-White, J. (2007). Learner-centered teacher-student relationships are effective: A meta-analysis. *Review of Educational Research, 77*(1), 113–143. [doi:10.3102/003465430298563](https://doi.org/10.3102/003465430298563)
 - Noddings, N. (2012). The caring relation in teaching. *Oxford Review of Education, 38*(6), 771–781. [doi:10.1080/03054985.2012.745047](https://doi.org/10.1080/03054985.2012.745047)
