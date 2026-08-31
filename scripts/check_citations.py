@@ -902,15 +902,76 @@ def format_variant_report(families: list[dict]) -> str:
     return "\n".join(lines)
 
 
-def format_report(conflicts: list[dict]) -> str:
+def conflict_shape(c: dict) -> str:
+    """"fill" if one DOI is agreed and the rest merely omit it, else "split"."""
+    return "fill" if len(c["dois"]) == 1 else "split"
+
+
+def format_report(conflicts: list[dict], full: bool = False) -> str:
+    """Summarise each conflict by its shape; --full dumps every citation line.
+
+    The flat dump this replaced printed one line per citation, so patall-2008 —
+    where 22 pages agree on 10.1037/0033-2909.134.2.270 and exactly one omits
+    it — arrived as 23 near-identical lines with nothing saying which one was
+    the problem. A reader reasonably concludes the check is misfiring. It was
+    not: 22 of those lines are the evidence and one is the finding, and a
+    report that cannot tell them apart makes the reader re-derive the
+    difference by eye on every entry.
+
+    The two shapes need different work, which is why they are separated rather
+    than counted together:
+
+      fill  - one agreed DOI, N citations omit it. standardize_citations.py
+              writes it onto them, but only where Crossref confirms the DOI
+              resolves to the paper being cited. That gate is the whole
+              difference between patall-2008 (22 assert / 1 omits) and
+              bandura-1977 (1 asserts / 67 omit) — identical in shape, and
+              copying the majority is right in one and catastrophic in the
+              other. Direction of the majority is not evidence.
+
+      split - two or more DOIs are asserted for one paper. Nothing can count
+              its way out of this; only the registry settles it."""
     if not conflicts:
         return "No citation conflicts found."
-    lines = [f"{len(conflicts)} citation conflict(s):\n"]
-    for c in conflicts:
-        lines.append(f"## {c['key']}")
+    fill = [c for c in conflicts if conflict_shape(c) == "fill"]
+    split = [c for c in conflicts if conflict_shape(c) == "split"]
+    to_fill = sum(sum(1 for e in c["entries"] if not e["doi"]) for c in fill)
+
+    lines = [f"{len(conflicts)} citation conflict(s).\n",
+             f"  {len(split)} split - two or more DOIs asserted for one paper; only Crossref "
+             f"settles these",
+             f"  {len(fill)} fill  - one agreed DOI that {to_fill} citation(s) omit; "
+             f"scripts/standardize_citations.py writes it where Crossref confirms it\n"]
+
+    # Split first: a paper carrying two DOIs is a live fabrication, while a
+    # missing DOI is only an incomplete citation.
+    for c in sorted(split, key=lambda c: -len(c["entries"])):
+        lines.append(f"## {c['key']}  —  {len(c['dois'])} DOIs over "
+                     f"{len(c['entries'])} citation(s)")
+        by_doi = defaultdict(list)
         for e in c["entries"]:
-            lines.append(f"  - {e['source']}: {e['doi'] or '(no DOI)'} — {e['line']}")
+            by_doi[e["doi"]].append(e)
+        for doi, es in sorted(by_doi.items(), key=lambda kv: -len(kv[1])):
+            lines.append(f"     {len(es):4}x  {doi or '(no DOI)'}")
+            for e in (es if full else es[:2]):
+                lines.append(f"             {e['source']}")
+            if not full and len(es) > 2:
+                lines.append(f"             ... and {len(es) - 2} more")
         lines.append("")
+
+    for c in sorted(fill, key=lambda c: -sum(1 for e in c["entries"] if not e["doi"])):
+        doi = next(iter(c["dois"]))
+        missing = [e for e in c["entries"] if not e["doi"]]
+        have = len(c["entries"]) - len(missing)
+        lines.append(f"## {c['key']}  —  {have} assert / {len(missing)} omit   {doi}")
+        for e in (missing if full or len(missing) <= 5 else missing[:5]):
+            lines.append(f"     omits: {e['source']}")
+        if not full and len(missing) > 5:
+            lines.append(f"     ... and {len(missing) - 5} more")
+        lines.append("")
+
+    if not full:
+        lines.append("Run with --full to list every citing page.")
     return "\n".join(lines)
 
 
@@ -970,7 +1031,7 @@ def main() -> None:
         sys.exit(0 if not collisions else 1)
 
     conflicts = find_conflicts(by_key, touched)
-    print(format_report(conflicts))
+    print(format_report(conflicts, args.full))
     sys.exit(0 if not conflicts else 1)
 
 
