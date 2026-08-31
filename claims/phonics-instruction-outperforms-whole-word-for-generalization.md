@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Phonics Instruction Outperforms Whole Word For Generalization
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

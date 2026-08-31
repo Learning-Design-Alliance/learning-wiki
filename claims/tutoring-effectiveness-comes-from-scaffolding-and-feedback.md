@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Tutoring Effectiveness Comes From Scaffolding And Feedback
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

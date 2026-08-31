@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Civic Online Reasoning Instruction Improves Evaluation
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

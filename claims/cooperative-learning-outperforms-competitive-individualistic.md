@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Cooperative learning outperforms competitive and individualistic goal structures
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

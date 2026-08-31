@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Brief Intervention Empathic Discipline Cuts Suspensions
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

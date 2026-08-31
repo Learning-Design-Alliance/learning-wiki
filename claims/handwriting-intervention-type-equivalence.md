@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

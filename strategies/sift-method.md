@@ -55,7 +55,7 @@ SIFT operationalizes the observed practices of professional fact-checkers, who s
 
 ## Related Strategies
 - [Lateral Reading](lateral-reading.md) — the core investigative move within SIFT, extracted as a standalone technique
-- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — companion approach emphasizing locating authoritative coverage over judging individual pages
+- [A Finder's Guide to Facts](a_finder%27s_guide_to_facts.md) — companion approach emphasizing locating authoritative coverage over judging individual pages
 
 ## Examples
 - **Caulfield's open textbook** — [SIFT (The Four Moves)](https://hapgood.us/2019/06/19/sift-the-four-moves/) is freely licensed and widely adopted in information literacy courses; the companion *Check, Please!* course provides guided practice.

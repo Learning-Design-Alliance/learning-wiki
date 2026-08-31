@@ -2,35 +2,76 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**423 entries** · 0 stable · 343 in review · 80 drafts
+**423 entries** · 0 stable · 28 in review · 395 drafts
 
 ---
 
 ## In Review
 
-Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w)
+* [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md)
+* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md)
+* [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)
+* [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md)
+* [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md)
+* [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md)
+* [Example–problem sequences reduce cognitive load and improve learning outcomes](example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes.md)
+* [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-examples-example-problem-sequences.md)
+* [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md)
+* [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)
+* [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md)
+* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
+* [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md)
+* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md)
+* [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md)
+* [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md)
+* [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md)
+* [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md)
+* [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md)
+* [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md)
+* [Self-explanation improves conceptual understanding and problem-solving performance.](self-explanation-improves-conceptual-understanding.md)
+* [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md)
+* [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](specific-difficult-goals-lead-to-higher-performance.md)
+* [Whole-task performance improves transfer of complex skills to real-world settings.](whole-task-performance-improves-transfer.md)
+* [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md)
+* [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md)
+* [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
+* [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md)
+
+## Draft
+
+Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [Y](#letter-y)
 
 #### A {: #letter-a }
 
+* [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md)
+* [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md)
 * [Activation](activation.md)
 * [Activation Improves Learning](activation-improves-learning.md)
 * [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md)
+* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md)
 * [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md)
 * [Advance Organizers Improve Learning](advance-organizers-improve-learning.md)
 * [Advance organizers improve learning](advance-organizers-improves-learning.md)
+* [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md)
+* [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md)
+* [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md)
 * [Analogical Reasoning Improves Transfer](analogical-reasoning-improves-transfer.md)
 * [Annotating improves learning](annotating-improves-learning.md)
 * [Argumentation Improves Reasoning](argumentation-improves-reasoning.md)
+* [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md)
 * [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md)
+* [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md)
 * [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md)
 * [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md)
-* [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md)
+* [Average scores on intelligence tests have risen substantially across generations worldwide](flynn-effect-rising-iq-scores-over-generations.md)
+* [Awareness of heterogeneous problem perceptions does not by itself predict successful regulation](awareness-of-heterogeneity-does-not-predict-regulation-success.md)
 
 #### B {: #letter-b }
 
 * [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md)
 * [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md)
 * [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md)
+* [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md)
 * [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md)
 * [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md)
 
@@ -38,19 +79,22 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md)
 * [Checklist-based evaluation instruction does not reliably improve online source evaluation](checklist-evaluation-ineffective-online.md)
-* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md)
+* [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md)
 * [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md)
 * [Claim Slug](claim-slug.md)
 * [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md)
 * [Classroom Physical Activity Improves Attention](classroom-physical-activity-improves-attention.md)
 * [Clear Structure Improves Learning](clear-structure-improves-learning.md)
+* [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](co-design-tools-support-balancing-standards-and-student-interests.md)
 * [Cognitive disequilibrium motivates conceptual change](cognitive-disequilibrium-motivates-conceptual-change.md)
 * [Cognitive Load Management](cognitive-load-management.md)
 * [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md)
 * [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md)
 * [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md)
+* [Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md)
 * [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md)
 * [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md)
+* [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md)
 * [Comparing contrasting cases improves learning](comparing-contrasting-cases-improve-learning.md)
 * [Comparing Contrasting Cases Improves Learning](comparing-contrasting-cases-improves-learning.md)
 * [Concept mapping improves learning](concept-mapping-improves-learning.md)
@@ -58,10 +102,15 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md)
 * [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md)
 * [Contiguity Principle Improves Learning](contiguity-principle-improves-learning.md)
-* [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)
+* [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md)
 * [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md)
 * [Cooperative learning outperforms competitive and individualistic goal structures](cooperative-learning-outperforms-competitive-individualistic.md)
 * [Cooperative learning without individual accountability produces free-riding that reduces learning outcomes](cooperative-learning-free-rider-without-accountability.md)
+* [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md)
+* [Course-based research experience boundary objects support disciplinary integration and authentic research networks](course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md)
+* [Creating computational literature develops computational literacy even when code modification is minor](creating-computational-literature-develops-computational-literacy.md)
+* [Critical constructive feedback is neglected at multiple, independently measurable processing stages](critical-constructive-feedback-is-neglected-at-multiple-stages.md)
+* [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](critical-speculative-design-supports-critical-consciousness-in-science.md)
 
 #### D {: #letter-d }
 
@@ -69,12 +118,14 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Deliberate Practice Improves Performance](deliberate-practice-improves-performance.md)
 * [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md)
 * [Desirable Difficulties Improve Retention](desirable-difficulties-improve-retention.md)
+* [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md)
 * [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md)
 * [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md)
-* [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md)
+* [Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit](dialogic-teacher-support-cultivates-statistical-modeling-practice.md)
 * [Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency](handwriting-intervention-type-equivalence.md)
 * [Direct instruction improves learning outcomes](direct-instruction-improves-outcomes.md)
 * [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md)
+* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md)
 * [Discussion Quality Drives Comprehension](discussion-quality-drives-comprehension.md)
 * [Distributed Practice Improves Retention](distributed-practice-improves-retention.md)
 * [Drawing Improves Learning](drawing-improves-learning.md)
@@ -83,26 +134,31 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### E {: #letter-e }
 
+* [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md)
+* [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md)
+* [Elaborated discussion of narrated emotions supports teacher professional learning](elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md)
 * [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md)
 * [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md)
+* [Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria](elementary-students-prefer-mechanistic-explanations.md)
 * [Eliciting Self Explanations Improves Understanding](eliciting-self-explanations-improves-understanding.md)
+* [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md)
+* [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md)
+* [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md)
 * [Emotion Labeling Improves Regulation](emotion-labeling-improves-regulation.md)
-* [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md)
-* [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md)
-* [Example–problem sequences reduce cognitive load and improve learning outcomes](example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes.md)
-* [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-examples-example-problem-sequences.md)
+* [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md)
 * [Exercise Increases Hippocampal Volume](exercise-increases-hippocampal-volume.md)
-* [Experimenter-generated underlining is as effective as student-generated underlining for test performance](experimenter-underlining-effective-as-student-underlining.md)
 * [Expertise Reversal Guidance Hurts Experts](expertise-reversal-guidance-hurts-experts.md)
+* [Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves](explicit-contextualization-instruction-improves-writing-procedure-not-scores.md)
 * [Explicit Handwriting Instruction Improves Legibility](explicit-handwriting-instruction-improves-legibility.md)
 * [Explicit Writing Strategy Instruction Improves Writing](explicit-writing-strategy-instruction-improves-writing.md)
+* [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md)
 * [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md)
 * [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md)
+* [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](external-evidence-can-refute-computational-models-of-particle-interactions.md)
 * [Extrinsic Rewards Undermine Intrinsic Motivation](extrinsic-rewards-undermine-intrinsic-motivation.md)
 
 #### F {: #letter-f }
 
-* [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md)
 * [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md)
 * [Feedback Answers Three Questions](feedback-answers-three-questions.md)
 * [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md)
@@ -113,10 +169,14 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Feedback Praise Reduces Learning](feedback-praise-reduces-learning.md)
 * [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md)
 * [Feedback Use Improves Learning](feedback-use-improves-learning.md)
+* [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md)
 * [Fiction Reading Improves Empathy](fiction-reading-improves-empathy.md)
 * [Fluency is a poor cue for actual learning](fluency-poor-cue-learning.md)
 * [Fluency Judgments Mislead Learners](fluency-judgments-mislead-learners.md)
+* [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md)
 * [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md)
+* [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md)
+* [Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses](funds-of-knowledge-tasks-reveal-computational-thinking.md)
 
 #### G {: #letter-g }
 
@@ -127,6 +187,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Goal setting improves performance](goal-setting-improves-performance.md)
 * [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md)
 * [Group rewards combined with individual accountability make cooperative learning effective](cooperative-learning-group-rewards-and-individual-accountability.md)
+* [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md)
 * [Growth mindset improves achievement](growth-mindset-improves-achievement.md)
 * [Growth Mindset Interventions Improve Achievement](growth-mindset-interventions-improve-achievement.md)
 * [Growth mindset interventions produce small positive effects on academic outcomes](growth-mindset-interventions-small-effects.md)
@@ -139,31 +200,35 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Hands On Without Conceptual Integration Insufficient](hands-on-without-conceptual-integration-insufficient.md)
 * [Hands-on learning improves achievement](hands-on-learning-improves-achievement.md)
-* [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md)
+* [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks](heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md)
 * [Highlighting Alone Is Ineffective](highlighting-alone-is-ineffective.md)
 * [Highlighting Alone Low Utility](highlighting-alone-low-utility.md)
 * [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md)
+* [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md)
 
 #### I {: #letter-i }
 
+* [Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth](identity-centered-making-supports-stem-engagement-and-identity-affirmation.md)
+* [Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence](illusory-correlations-persist-through-confirmation-bias.md)
 * [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md)
 * [Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure](incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure.md)
 * [Increasing Wait Time Improves Response Quality](increasing-wait-time-improves-response-quality.md)
 * [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md)
-* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
+* [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md)
+* [Interesting but irrelevant details added to a lesson can distract from learning the material they were meant to enliven](seductive-details-distract-from-learning.md)
 * [Interesting but irrelevant details impair learning](seductive-details-effect.md)
 * [Interleaved Practice Improves Retention](interleaved-practice-improves-retention.md)
 * [Interleaving Improves Discrimination](interleaving-improves-discrimination.md)
 * [Interleaving Improves Inductive Learning](interleaving-improves-inductive-learning.md)
 * [Interleaving Improves Learning](interleaving-improves-learning.md)
 * [Interleaving Improves Transfer](interleaving-improves-transfer.md)
-* [Intuitive learners tend to outperform sensing learners in media-based presentations](intuitive-learners-outperform-sensing-learners.md)
 * [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md)
 
 #### J {: #letter-j }
 
 * [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md)
 * [Judgments of learning are often inaccurate](judgments-of-learning-inaccurate.md)
+* [Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition](justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md)
 
 #### L {: #letter-l }
 
@@ -173,14 +238,12 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Learner Generated Organizers Beat Provided Organizers](learner-generated-organizers-beat-provided-organizers.md)
 * [Learner Paced Beats System Paced Complex Material](learner-paced-beats-system-paced-complex-material.md)
 * [Learner-centered teacher–student relationships improve student outcomes](learner-centered-teacher-student-relationships-are-effective.md)
-* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md)
 * [Learners Misjudge Effective Study Strategies](learners-misjudge-effective-study-strategies.md)
 * [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md)
 * [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md)
 * [Learners misjudge the benefits of spaced practice](learners-misjudge-spacing.md)
 * [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md)
 * [Learners mistake fluency and familiarity for actual knowledge, producing an illusion of knowing](illusion-of-knowing.md)
-* [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md)
 * [Learning By Teaching Improves Learning](learning-by-teaching-improves-learning.md)
 * [Learning By Teaching Improves Mastery](learning-by-teaching-improves-mastery.md)
 * [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md)
@@ -193,41 +256,55 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md)
 * [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md)
 * [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md)
+* [Material choice shapes conceptual learning and who feels invited to learn](material-choice-shapes-conceptual-learning-and-participation.md)
 * [Math Anxiety Degrades Performance](math-anxiety-degrades-performance.md)
+* [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md)
+* [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md)
 * [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md)
 * [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md)
+* [Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal](students-progress-through-zones-of-mathematical-play.md)
 * [Minimal Guidance Instruction Less Effective](minimal-guidance-instruction-less-effective.md)
 * [Minimal guidance is ineffective for novices](minimal-guidance-ineffective-for-novices.md)
 * [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md)
 * [Minimally Guided Instruction Less Effective For Novices](minimally-guided-instruction-less-effective-for-novices.md)
 * [Misconceptions Interfere With New Learning](misconceptions-interfere-with-new-learning.md)
 * [Mismatched Graphic Organizers Increase Extraneous Load](mismatched-graphic-organizers-increase-extraneous-load.md)
+* [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md)
 * [Mnemonic Instruction Improves Recall For Students With Disabilities](mnemonic-instruction-improves-recall-for-students-with-disabilities.md)
 * [Modality Principle Narration Beats On Screen Text](modality-principle-narration-beats-on-screen-text.md)
 * [Modality Principle Spoken Narration Beats On Screen Text](modality-principle-spoken-narration-beats-on-screen-text.md)
 * [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md)
 * [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md)
+* [Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.](motor-milestones-vary-by-cultural-childcare-practices.md)
 * [Multimedia Learning More Effective With Words And Pictures](multimedia-learning-more-effective-with-words-and-pictures.md)
 * [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md)
 * [Multimedia Principles Benefit Novices](multimedia-principles-benefit-novices.md)
 * [Multimedia Words Plus Images Beat Words Alone](multimedia-words-plus-images-beat-words-alone.md)
+* [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md)
 * [Multiple Contrasting Cases Support Abstraction](multiple-contrasting-cases-support-abstraction.md)
 * [Multiple representations improve learning](multiple-representations-improve-learning.md)
+* [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md)
 
 #### N {: #letter-n }
 
 * [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md)
+* [Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding](numerical-routines-individualize-through-bonding.md)
+
+#### O {: #letter-o }
+
+* [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md)
 
 #### P {: #letter-p }
 
+* [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md)
 * [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md)
-* [Pairing worked examples with practice or fading supports transfer better than examples alone.](worked-examples-with-practice-improve-transfer.md)
 * [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md)
 * [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md)
 * [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md)
 * [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md)
 * [Parental Involvement Improves Achievement](parental-involvement-improves-achievement.md)
-* [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md)
+* [Participant examples support identity reconstruction through academic content](participant-examples-support-identity-reconstruction-through-academic-content.md)
+* [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md)
 * [Peer Assessment Benefits Assessor](peer-assessment-benefits-assessor.md)
 * [Peer Assessment Improves Academic Performance](peer-assessment-improves-academic-performance.md)
 * [Peer Assessment Improves Achievement](peer-assessment-improves-achievement.md)
@@ -240,6 +317,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Peer Feedback Improves Writing Outcomes](peer-feedback-improves-writing-outcomes.md)
 * [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md)
 * [People learn better from words and pictures than from words alone](multimedia-principle.md)
+* [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md)
 * [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md)
 * [Personalized Normative Feedback Corrects Misperceived Norms](personalized-normative-feedback-corrects-misperceived-norms.md)
 * [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md)
@@ -249,18 +327,19 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Phonological Awareness Training Improves Reading](phonological-awareness-training-improves-reading.md)
 * [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md)
 * [Play Based Learning Improves Outcomes](play-based-learning-improves-outcomes.md)
+* [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md)
+* [Positioning students as sources increases productive participation in science discourse](positioning-students-as-sources-increases-productive-participation-in-science-discourse.md)
 * [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md)
 * [Positive Greetings At The Door Improve Engagement And Behavior](positive-greetings-at-the-door-improve-engagement-and-behavior.md)
 * [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](cognitive-flexibility-theory-multiple-cases.md)
 * [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md)
+* [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md)
 * [Pretesting Can Harm Motivation](pretesting-can-harm-motivation.md)
 * [Pretesting enhances learning](pretesting-enhances-learning.md)
 * [Pretesting Improves Retention](pretesting-improves-retention.md)
 * [Pretraining Improves Transfer](pretraining-improves-transfer.md)
 * [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md)
-* [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md)
 * [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md)
-* [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md)
 * [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md)
 * [Process Writing Instruction Improves Writing Quality](process-writing-instruction-improves-writing-quality.md)
 * [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md)
@@ -287,9 +366,13 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Redundant on-screen text duplicates of narration or graphics impair learning](redundancy-principle.md)
 * [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md)
 * [Reflective practice shows mixed evidence of effectiveness in professional education](reflective-practice-evidence-mixed-in-professional-education.md)
-* [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md)
+* [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md)
+* [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md)
+* [Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction](relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety.md)
 * [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md)
 * [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md)
+* [Resolving a participation double-bind requires redesigning activity structures, not just adding outreach](resolving-participation-double-bind-requires-redesigned-activity-structures.md)
+* [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](restorying-supports-computing-identity-reconstruction.md)
 * [Retrieval Fails Without Encoding](retrieval-fails-without-encoding.md)
 * [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md)
 * [Retrieval Practice Enhances Long Term Retention](retrieval-practice-enhances-long-term-retention.md)
@@ -298,6 +381,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md)
 * [Retrieval practice improves long-term retention more than restudying](testing-effect-retrieval-practice-improves-retention.md)
 * [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md)
+* [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](overjustification-effect-reduces-intrinsic-motivation.md)
 * [Rewards Undermine Intrinsic Motivation](rewards-undermine-intrinsic-motivation.md)
 * [Rubrics Improve Peer Feedback Quality](rubrics-improve-peer-feedback-quality.md)
 * [Rubrics improve student work](rubrics-improve-student-work.md)
@@ -308,6 +392,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md)
 * [Scaffolding improves learning](scaffolding-improves-learning.md)
 * [Scaffolding improves learning outcomes](scaffolding-improves-learning-outcomes.md)
+* [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md)
 * [Seductive Details Harm Learning](seductive-details-harm-learning.md)
 * [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md)
 * [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md)
@@ -333,9 +418,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md)
 * [Self-affirmation improves outcomes](self-affirmation-improves-outcomes.md)
 * [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md)
-* [Self-explanation improves conceptual understanding and problem-solving performance.](self-explanation-improves-conceptual-understanding.md)
 * [Self-explanation improves learning](self-explanation-improves-learning.md)
-* [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md)
 * [Self-questioning improves comprehension](self-questioning-improves-comprehension.md)
 * [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md)
 * [Self-regulated learning improves outcomes](self-regulated-learning-improves-outcomes.md)
@@ -360,10 +443,12 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Spatial Contiguity Improves Learning](spatial-contiguity-improves-learning.md)
 * [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md)
 * [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md)
-* [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](specific-difficult-goals-lead-to-higher-performance.md)
 * [Split attention between mutually referring sources of information impairs learning](split-attention-effect-impairs-learning.md)
 * [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md)
 * [Split Attention Effect Integration Improves Learning](split-attention-effect-integration-improves-learning.md)
+* [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md)
+* [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md)
+* [Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md)
 * [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md)
 * [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md)
 * [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md)
@@ -374,6 +459,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Structured Discussion Methods Improve Comprehension](structured-discussion-methods-improve-comprehension.md)
 * [Structured Literacy Interventions Help Struggling Readers](structured-literacy-interventions-help-struggling-readers.md)
 * [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md)
+* [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md)
+* [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md)
 * [Summarization Effective With Training](summarization-effective-with-training.md)
 * [Summarization Improves Learning](summarization-improves-learning.md)
 * [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md)
@@ -385,6 +472,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md)
 * [Teacher Student Relationships Improve Engagement](teacher-student-relationships-improve-engagement.md)
 * [Teacher Student Relationships Improve Engagement And Achievement](teacher-student-relationships-improve-engagement-and-achievement.md)
+* [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md)
+* [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md)
 * [Teaching Others Generative Strategy](teaching-others-generative-strategy.md)
 * [Testing Effect Improves Learning](testing-effect-improves-learning.md)
 * [Testing Effect Improves Retention](testing-effect-improves-retention.md)
@@ -404,155 +493,13 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### W {: #letter-w }
 
-* [Whole-task performance improves transfer of complex skills to real-world settings.](whole-task-performance-improves-transfer.md)
+* [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md)
 * [Words and pictures are better than words alone](words-and-pictures-better-than-words-alone.md)
-* [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-expertise-reversal.md)
-* [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md)
 * [Worked examples reduce unnecessary search for novices](peer-assisted-learning-improves-achievement.md)
-* [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)
-* [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md)
 * [Writing Improves Mathematical Understanding](writing-improves-mathematical-understanding.md)
 * [Writing Strategy Instruction Improves Writing Quality](writing-strategy-instruction-improves-writing-quality.md)
 * [Writing To Learn Improves Content Learning](writing-to-learn-improves-content-learning.md)
 * [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md)
-
-
-## Draft
-
-Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [W](#letter-w) · [Y](#letter-y)
-
-#### A {: #letter-a }
-
-* [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md)
-* [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md)
-* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md)
-* [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md)
-* [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md)
-* [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md)
-* [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md)
-* [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md)
-* [Average scores on intelligence tests have risen substantially across generations worldwide](flynn-effect-rising-iq-scores-over-generations.md)
-* [Awareness of heterogeneous problem perceptions does not by itself predict successful regulation](awareness-of-heterogeneity-does-not-predict-regulation-success.md)
-
-#### B {: #letter-b }
-
-* [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md)
-
-#### C {: #letter-c }
-
-* [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md)
-* [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](co-design-tools-support-balancing-standards-and-student-interests.md)
-* [Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md)
-* [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md)
-* [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md)
-* [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md)
-* [Course-based research experience boundary objects support disciplinary integration and authentic research networks](course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md)
-* [Creating computational literature develops computational literacy even when code modification is minor](creating-computational-literature-develops-computational-literacy.md)
-* [Critical constructive feedback is neglected at multiple, independently measurable processing stages](critical-constructive-feedback-is-neglected-at-multiple-stages.md)
-* [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](critical-speculative-design-supports-critical-consciousness-in-science.md)
-
-#### D {: #letter-d }
-
-* [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md)
-* [Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit](dialogic-teacher-support-cultivates-statistical-modeling-practice.md)
-* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md)
-
-#### E {: #letter-e }
-
-* [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md)
-* [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md)
-* [Elaborated discussion of narrated emotions supports teacher professional learning](elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md)
-* [Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria](elementary-students-prefer-mechanistic-explanations.md)
-* [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md)
-* [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md)
-* [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md)
-* [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md)
-* [Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves](explicit-contextualization-instruction-improves-writing-procedure-not-scores.md)
-* [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md)
-* [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](external-evidence-can-refute-computational-models-of-particle-interactions.md)
-
-#### F {: #letter-f }
-
-* [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md)
-* [Fluent bilingualism enhances metalinguistic awareness](bilingual-fluency-enhances-metalinguistic-awareness.md)
-* [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md)
-* [Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses](funds-of-knowledge-tasks-reveal-computational-thinking.md)
-
-#### G {: #letter-g }
-
-* [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md)
-
-#### H {: #letter-h }
-
-* [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks](heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md)
-* [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md)
-
-#### I {: #letter-i }
-
-* [Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth](identity-centered-making-supports-stem-engagement-and-identity-affirmation.md)
-* [Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence](illusory-correlations-persist-through-confirmation-bias.md)
-* [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md)
-* [Interesting but irrelevant details added to a lesson can distract from learning the material they were meant to enliven](seductive-details-distract-from-learning.md)
-
-#### J {: #letter-j }
-
-* [Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition](justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md)
-
-#### M {: #letter-m }
-
-* [Material choice shapes conceptual learning and who feels invited to learn](material-choice-shapes-conceptual-learning-and-participation.md)
-* [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md)
-* [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md)
-* [Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal](students-progress-through-zones-of-mathematical-play.md)
-* [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md)
-* [Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.](motor-milestones-vary-by-cultural-childcare-practices.md)
-* [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md)
-* [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md)
-
-#### N {: #letter-n }
-
-* [Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding](numerical-routines-individualize-through-bonding.md)
-
-#### O {: #letter-o }
-
-* [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md)
-
-#### P {: #letter-p }
-
-* [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md)
-* [Participant examples support identity reconstruction through academic content](participant-examples-support-identity-reconstruction-through-academic-content.md)
-* [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md)
-* [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md)
-* [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md)
-* [Positioning students as sources increases productive participation in science discourse](positioning-students-as-sources-increases-productive-participation-in-science-discourse.md)
-* [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md)
-
-#### R {: #letter-r }
-
-* [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md)
-* [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md)
-* [Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction](relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety.md)
-* [Resolving a participation double-bind requires redesigning activity structures, not just adding outreach](resolving-participation-double-bind-requires-redesigned-activity-structures.md)
-* [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](restorying-supports-computing-identity-reconstruction.md)
-* [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](overjustification-effect-reduces-intrinsic-motivation.md)
-
-#### S {: #letter-s }
-
-* [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md)
-* [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md)
-* [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md)
-* [Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md)
-* [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md)
-* [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md)
-
-#### T {: #letter-t }
-
-* [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md)
-* [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md)
-
-#### W {: #letter-w }
-
-* [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md)
 
 #### Y {: #letter-y }
 

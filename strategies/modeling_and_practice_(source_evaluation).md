@@ -56,7 +56,7 @@ Source evaluation is a procedural skill that novices cannot acquire from rules a
 5. **Distribute and revisit**: schedule brief re-practice across the term rather than concentrating it in one unit ([Distributed Practice](distributed-practice.md))
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a framing device for teaching students how to locate reliable information rather than just avoid bad information
+- [A Finder's Guide to Facts](a_finder%27s_guide_to_facts.md) — a framing device for teaching students how to locate reliable information rather than just avoid bad information
 - [Case-Based Learning](../elements/case-based-learning.md) — real misinformation cases give evaluation practice authentic stakes
 
 ## Examples

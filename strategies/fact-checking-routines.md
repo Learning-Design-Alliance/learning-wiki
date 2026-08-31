@@ -56,7 +56,7 @@ Explicit instruction in evaluation routines produces measurable gains in student
 5. **Debrief failures** — examine cases where the routine caught a false claim and cases where it was skipped, connecting misses to the specific move that was omitted ([Argumentation](../elements/argumentation.md) about why the evidence did or did not hold up)
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a published framework for evaluating sources that pairs naturally with a checking routine
+- [A Finder's Guide to Facts](a_finder%27s_guide_to_facts.md) — a published framework for evaluating sources that pairs naturally with a checking routine
 - [Case-Based Learning](case-based-learning.md) — real viral-claim cases provide the varied practice the routine requires
 
 ## Examples

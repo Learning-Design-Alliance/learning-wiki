@@ -76,10 +76,9 @@ Spacing works because the partial forgetting that occurs between sessions makes 
 - Desirable difficulties research qualifies spacing: it is beneficial only when the difficulty is *productive* — if the gap exceeds what retrieval can bridge, the difficulty becomes undesirable
 
 ### Claims
-<!-- TODO: add claim links when evidence pages exist -->
-- Spaced practice improves long-term retention relative to massed practice [+S] — Cepeda et al. (2006) meta-analysis; effect grows with retention interval
-- Distributed practice is among the highest-utility learning techniques [+S] — Dunlosky et al. (2013) utility ratings
-- Spacing mathematics practice improves delayed test performance [+M] — Rohrer & Taylor (2007)
+- [Spaced practice improves long-term retention](../claims/spaced-practice-improves-long-term-retention.md) [+S] — Cepeda et al. (2006) meta-analysis; effect grows with retention interval
+- [Distributed practice improves retention](../claims/distributed-practice-improves-retention.md) [+S] — Dunlosky et al. (2013) rate it among the highest-utility techniques
+- [Learners misjudge spacing benefits](../claims/learners-misjudge-spacing-benefits.md) [~M] — the fluency illusion that makes spacing feel less effective than massing
 
 ## Related Principles
 - Retrieval Practice — spaced retrieval is the most powerful combination; spacing without retrieval (e.g., spaced rereading) forfeits most of the benefit

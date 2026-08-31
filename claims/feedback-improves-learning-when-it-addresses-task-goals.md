@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Feedback Improves Learning When It Addresses Task Goals
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

@@ -53,12 +53,12 @@ Citation chaining shifts information seeking from keyword luck to structured inq
 2. **Chain backward** — scan the reference list; identify the 2–3 most-cited or most-relevant prior works and skim them.
 3. **Chain forward** — use "Cited by" in Google Scholar or Scopus to find later work engaging the seed source.
 4. **Read citation contexts** — for each citing work, find where it cites the seed and note whether it supports, extends, or challenges it.
-5. **Evaluate and prune** — apply source-evaluation criteria (venue, methods, retraction status) and keep only branches worth following; see [A Finder's Guide to Facts](a_finders_guide_to_facts.md).
+5. **Evaluate and prune** — apply source-evaluation criteria (venue, methods, retraction status) and keep only branches worth following; see [A Finder's Guide to Facts](a_finder%27s_guide_to_facts.md).
 6. **Map the conversation** — record the chain as a diagram or annotated bibliography, noting agreements and disputes; enforce a [3-Source Rule](3-source_rule.md) minimum of independent sources per key claim.
 7. **Iterate** — treat the strongest new sources as seeds and repeat until the conversation's shape is clear.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — the evaluation dispositions learners apply while judging which chain branches to trust
+- [A Finder's Guide to Facts](a_finder%27s_guide_to_facts.md) — the evaluation dispositions learners apply while judging which chain branches to trust
 - [3-Source Rule](3-source_rule.md) — a verification norm that citation chaining operationalizes by surfacing independent sources for the same claim
 
 ## Examples

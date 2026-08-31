@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Self-regulated learning improves achievement
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

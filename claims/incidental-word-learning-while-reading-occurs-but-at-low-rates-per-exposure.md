@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Incidental Word Learning While Reading Occurs But At Low Rates Per Exposure
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Writing Strategy Instruction Improves Writing Quality
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

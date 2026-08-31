@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**2559 entries** · 0 stable · 2524 in review · 35 drafts
+**2556 entries** · 0 stable · 2523 in review · 33 drafts
 
 ---
 
@@ -553,7 +553,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Deliberate Play](deliberate-play.md) - Structured yet intrinsically motivating play activities designed to develop skills and enjoyment simultaneously, typically in early-stage skill development.
 * [Deliberate Practice](deliberate_practice.md) - Deliberate practice involves focused, strategic efforts to improve specific skills or knowledge areas.
 * [Demonstrating Caring](demonstrating_caring.md) - Demonstrating caring communicates sincere personal investment in learners through everyday actions and words, building the relational trust that underpins motivation, persistence, and classroom climate.
-* [Demonstration](on-the-job_training_(ojt).md) - ...
 * [Demonstration-Based Flipped Classroom](demonstration-based_flipped_classroom.md) - Instructional demonstrations (often screencasts) are assigned as pre-class homework, freeing class time for guided practice, feedback, and problem-solving.
 * [Demystification of Learning Challenges](demystification_of_learning_challenges.md) - Explaining to learners how memory, attention, and learning work — especially when they struggle — so they can interpret difficulties accurately and adopt effective strategies.
 * [Derived Facts](derived-facts.md) - Learners generate unknown facts from facts they already know, using reasoning strategies rather than rote recall.
@@ -2615,4 +2614,4 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
-35 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
+33 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.

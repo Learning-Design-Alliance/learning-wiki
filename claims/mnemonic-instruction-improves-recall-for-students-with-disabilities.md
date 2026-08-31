@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Mnemonic Instruction Improves Recall For Students With Disabilities
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

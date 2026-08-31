@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Presenting multiple cases from different perspectives supports transfer in ill-structured domains
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

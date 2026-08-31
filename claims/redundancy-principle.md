@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Redundant on-screen text duplicates of narration or graphics impair learning
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

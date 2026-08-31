@@ -55,7 +55,7 @@ Naming and repeatedly applying evaluation criteria converts tacit "gut feelings"
 5. Fade support over time ([Scaffolding](../elements/scaffolding.md)), so evaluation terms become self-initiated habits rather than teacher prompts.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a companion routine for checking facts that operationalizes these evaluation concepts
+- [A Finder's Guide to Facts](a_finder%27s_guide_to_facts.md) — a companion routine for checking facts that operationalizes these evaluation concepts
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — learners' existing beliefs about sources shape how they apply evaluation criteria
 
 ## Examples

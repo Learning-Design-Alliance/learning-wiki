@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Joint Book Reading Predicts Literacy Success
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

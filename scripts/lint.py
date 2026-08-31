@@ -129,7 +129,21 @@ def check_claims_missing_evidence(pages: dict[str, Path]) -> list[dict]:
                 "type": "claim_no_evidence_strength",
                 "detail": "evidence_strength missing from frontmatter",
             })
-        # Check for at least one DOI or URL in evidence table
+        # Check for at least one DOI or URL in evidence table.
+        #
+        # Skipped for status: draft, which CLAUDE.md defines as "skeleton or
+        # stub; content not reviewed" — a draft claim having no evidence yet
+        # is the expected state, not a defect, and the status field exists to
+        # say so. This mirrors the rest of this module:
+        # check_draft_no_description only fires on drafts and
+        # check_stable_unverified only on stable. The unenriched backlog stays
+        # visible — wiki_health_check.py counts every draft and TODO page for
+        # the health dashboard — it just doesn't fail CI for pages that are
+        # honestly labelled unfinished. A claim promoted to review or stable
+        # is held to the full standard again.
+        status_m = STATUS_RE.search(text)
+        if status_m and status_m.group(1).strip() == "draft":
+            continue
         evidence_section = ok.get_section(text, "Evidence")
         if evidence_section is not None:
             if not re.search(r"https?://|doi\.org|10\.\d{4}", evidence_section):

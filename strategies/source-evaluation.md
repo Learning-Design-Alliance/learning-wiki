@@ -59,7 +59,7 @@ Explicit instruction in evaluation techniques substantially improves learners' a
 
 ## Related Strategies
 - [3-Source Rule](3-source_rule.md) — a corroboration requirement that operationalizes evaluation in student work
-- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a framework for locating and assessing factual claims
+- [A Finder's Guide to Facts](a_finder%27s_guide_to_facts.md) — a framework for locating and assessing factual claims
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the demonstration method for making expert evaluation visible
 
 ## Examples

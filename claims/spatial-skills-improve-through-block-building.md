@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Spatial Skills Improve Through Block Building
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

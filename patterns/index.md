@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**130 entries** · 0 stable · 91 in review · 39 drafts
+**130 entries** · 0 stable · 90 in review · 40 drafts
 
 ---
 
@@ -51,7 +51,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### E {: #letter-e }
 
 * [Elaboration Theory](elaboration-theory.md) - Elaboration Theory is the short-form canonical target for Reigeluth's elaboration pattern, which sequences from simple, inclusive ideas toward more complex detail.
-* [Experiential Learning Cycle](experiential-learning-cycle.md) - The experiential learning cycle organizes learning as a repeating four-stage sequence — concrete experience, reflective observation, abstract conceptualization, and active experimentation — that turns raw experience into tested knowledge.
 * [Explicit Teaching](explicit-teaching.md) - Explicit teaching is the short-form canonical pattern for clearly stating goals, demonstrating performance, and guiding practice.
 
 #### F {: #letter-f }
@@ -165,6 +164,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Embodied Physics Inquiry Through Dance Improvisation](embodied-physics-inquiry-through-dance.md) - A session structure that pairs a short physics concept demonstration with dance improvisation exploring that concept, validating culturally specific movement styles as legitimate scientific expression.
 * [Emergent Curriculum](emergent-curriculum.md) - Emergent curriculum builds instruction from students' own expressed interests as they arise, rather than from goals set in advance by curriculum writers or teachers, requiring continuous observation and flexible responsiveness in place of predetermined planning.
 * [Epistemic Games](epistemic-games.md) - Epistemic Games immerse learners in the values, identity, and situated decision-making of a professional community of practice, so that facts and skills are acquired as a byproduct of doing the community's work rather than as isolated content.
+* [Experiential Learning Cycle](experiential-learning-cycle.md) - The experiential learning cycle organizes learning as a repeating four-stage sequence — concrete experience, reflective observation, abstract conceptualization, and active experimentation — that turns raw experience into tested knowledge.
 * [Explicit Instruction in Historical Contextualization](explicit-instruction-in-historical-contextualization.md) - A two-part unit design that first gives students a reason to engage with historical background knowledge through discussion-based case studies and source-sorting, then supports the procedural writing skill of placing and connecting that background to evidence through modeled text analysis and targeted language practice.
 * [Fiber Crafting for Proportional Reasoning](fiber-crafting-for-proportional-reasoning.md) - A multi-day craft camp (knitting, crochet, and fabric pleating) in which learners define their own stitch or fold units through personal tension and material choice, then discover multiplicative proportional relationships (e.g., stitch width-to-height ratios, row-to-row growth, unfolded-to-folded fabric ratios) as an emergent property of the material rather than a taught formula.
 * [Five "E" Model](five-e-model.md) - The Five "E" Model is a constructivist lesson pattern with five sequential stages — Engage, Explore, Explain, Elaborate, Evaluate — that structures inquiry-based lessons around students' own discovery before formal terminology is introduced.

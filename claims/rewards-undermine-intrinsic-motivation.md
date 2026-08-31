@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Rewards Undermine Intrinsic Motivation
-status: review
+status: draft
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

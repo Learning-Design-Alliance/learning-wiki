@@ -52,7 +52,7 @@ The strategy converts expert source-evaluation into a compact, memorable schema,
 5. Fade the checklist: students evaluate new stories without the scaffold, then justify their reasoning in writing.
 
 ## Related Strategies
-- [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a complementary framework for fact-checking claims rather than whole stories
+- [A Finder's Guide to Facts](a_finder%27s_guide_to_facts.md) — a complementary framework for fact-checking claims rather than whole stories
 - [3-Source Rule](3-source_rule.md) — a verification routine that operationalizes the Evidence and Source lenses
 
 ## Related Elements
