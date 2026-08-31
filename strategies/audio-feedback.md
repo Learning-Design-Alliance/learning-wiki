@@ -64,7 +64,7 @@ Audio feedback increases feedback richness and perceived instructor presence, an
 - **UK Open University large-scale adoption** — Ice et al. documented student preference for audio over text feedback across online courses, with students reporting they attended more closely to spoken comments.
 
 ## Key Sources
-- Ice, P., Curtis, R., Phillips, P., & Wells, J. (2007). Using asynchronous audio feedback to enhance teaching presence and students' sense of community. *Journal of Asynchronous Learning Networks, 11*(2), 3–25. [doi:10.24059/olj.v11i2.1724](https://doi.org/10.24059/olj.v11i2.1724)
-- Lunt, T., & Curran, J. (2010). 'Are you listening please?' The advantages of electronic audio feedback compared to written feedback. *Assessment & Evaluation in Higher Education, 35*(4), 433–444. [doi:10.1080/02602930902977772](https://doi.org/10.1080/02602930902977772)
+- Ice, P., Curtis, R., Phillips, P., & Wells, J. (2007). Using asynchronous audio feedback to enhance teaching presence and students' sense of community. *Online Learning, 11*(2), 3. [doi:10.24059/olj.v11i2.1724](https://doi.org/10.24059/olj.v11i2.1724)
+- Lunt, T., & Curran, J. (2010). 'Are you listening please?' The advantages of electronic audio feedback compared to written feedback. *Assessment &amp; Evaluation in Higher Education, 35*(7), 759-769. [doi:10.1080/02602930902977772](https://doi.org/10.1080/02602930902977772)
 - Merry, S., & Orsmond, P. (2008). Students' attitudes to and usage of academic feedback provided via audio files. *Bioscience Education, 11*(1), 1–11. [doi:10.3108/beej.11.3](https://doi.org/10.3108/beej.11.3)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

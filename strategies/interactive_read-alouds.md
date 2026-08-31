@@ -71,6 +71,6 @@ Interactive read-alouds work because they combine an expert model of comprehensi
 
 ## Key Sources
 - Whitehurst, G. J., Falco, F. L., Lonigan, C. J., Fischel, J. E., DeBaryshe, B. D., Valdez-Menchaca, M. C., & Caulfield, M. (1988). Accelerating language development through picture book reading. *Developmental Psychology, 24*(4), 552–559. [doi:10.1037/0012-1649.24.4.552](https://doi.org/10.1037/0012-1649.24.4.552)
-- Dickinson, D. K., & Smith, M. W. (1994). Long-term effects of preschool teachers' book readings on low-income children's vocabulary and story comprehension. *Reading Research Quarterly, 29*(2), 105–122. [doi:10.2307/747807](https://doi.org/10.2307/747807)
+- Dickinson, D. K., & Smith, M. W. (1994). Long-term effects of preschool teachers' book readings on low-income children's vocabulary and story comprehension. *Reading Research Quarterly, 29*(2), 104. [doi:10.2307/747807](https://doi.org/10.2307/747807)
 - Sipe, L. R. (2008). *Storytime: Young children's literary understanding in the classroom*. Teachers College Press.
 - Morrow, L. M., & Gambrell, L. B. (2019). *Best practices in literacy instruction* (6th ed.). Guilford Press.

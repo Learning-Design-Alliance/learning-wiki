@@ -68,6 +68,6 @@ The strategy combines embodied choice with low-stakes [activation](../elements/a
 
 ## Key Sources
 - CASEL. (2020). *CASEL's SEL framework: What are the core competence areas and where are they promoted?* Collaborative for Academic, Social, and Emotional Learning. [https://casel.org/fundamentals-of-sel/](https://casel.org/fundamentals-of-sel/)
-- Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
+- Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Emotion Review, 10*(2), 116-124. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
 - Immordino-Yang, M. H., & Damasio, A. (2007). We feel, therefore we learn: The relevance of affective and social neuroscience to education. *Mind, Brain, and Education, 1*(1), 3–10. [doi:10.1111/j.1751-228X.2007.00004.x](https://doi.org/10.1111/j.1751-228X.2007.00004.x)

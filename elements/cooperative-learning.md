@@ -70,6 +70,6 @@ Cooperative learning reliably improves achievement when group goals and individu
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
-- Slavin, R. E. (1996). Research on cooperative learning and achievement: What we know, what we need to know. *Review of Educational Research, 66*(1), 43–54. [doi:10.1006/ceps.1996.0004](https://doi.org/10.1006/ceps.1996.0004)
+- Slavin, R. E. (1996). Research on cooperative learning and achievement: What we know, what we need to know. *Contemporary Educational Psychology, 21*(1), 43-69. [doi:10.1006/ceps.1996.0004](https://doi.org/10.1006/ceps.1996.0004)
 - Springer, L., Stanne, M. E., & Donovan, S. S. (1999). Effects of small-group learning on undergraduates in science, mathematics, engineering, and technology: A meta-analysis. *Review of Educational Research, 69*(1), 21–51. [doi:10.3102/00346543069001021](https://doi.org/10.3102/00346543069001021)
 - Kagan, S. (1994). *Cooperative learning*. Kagan Publishing.

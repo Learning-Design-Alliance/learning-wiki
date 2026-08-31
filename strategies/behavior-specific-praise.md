@@ -66,7 +66,7 @@ BSP works through two mechanisms: it increases the future frequency of the prais
 - **Online discussion moderation** — an instructor replies to a forum post naming the move ("Your counterexample directly tests the claim"), reinforcing argumentation behaviors in an asynchronous course
 
 ## Key Sources
-- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(3), 351–380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
+- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Dweck, C. S. (2006). *Mindset: The new psychology of success.* Random House.
 - Cook, C. R., et al. (2017). Positive greetings at the door: Evaluation of a low-cost, high-yield proactive classroom management strategy. *Journal of Positive Behavior Interventions, 20*(3), 149–159. [doi:10.1177/1098300717753831](https://doi.org/10.1177/1098300717753831)

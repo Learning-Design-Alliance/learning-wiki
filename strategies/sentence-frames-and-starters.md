@@ -68,6 +68,6 @@ Sentence frames act as a linguistic form of [Chunking](../principles/chunking.md
 
 ## Key Sources
 - Gibbons, P. (2003). Mediating language learning: Teacher interactions with ESL students in a content-based classroom. *TESOL Quarterly, 37*(2), 247–273. [doi:10.2307/3588504](https://doi.org/10.2307/3588504)
-- Walqui, A. (2006). Scaffolding instruction for English language learners: A conceptual review. *International Journal of Bilingual Education and Bilingualism, 9*(2), 222–240. [doi:10.1080/13670050608668639](https://doi.org/10.1080/13670050608668639)
+- Walqui, A. (2006). Scaffolding instruction for English language learners: A conceptual review. *International Journal of Bilingual Education and Bilingualism, 9*(2), 159-180. [doi:10.1080/13670050608668639](https://doi.org/10.1080/13670050608668639)
 - de Oliveira, L. C. (2016). A language-based approach to content instruction (LACI) for English language learners. *International Multilingual Research Journal, 10*(3), 216–236. [doi:10.1080/19313152.2016.1185911](https://doi.org/10.1080/19313152.2016.1185911)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.

@@ -67,6 +67,6 @@ The evidence base is narrower and more conditional than popular adoption suggest
 
 ## Key Sources
 - Pfeiffer, B., Clark, G. F., & Arbesman, M. (2018). Effectiveness of cognitive and occupation-based interventions for children with challenges in sensory processing and integration: A systematic review. *American Journal of Occupational Therapy, 72*(1). [doi:10.5014/ajot.2018.028233](https://doi.org/10.5014/ajot.2018.028233)
-- Graziano, P. A., Garcia, A. M., & Landis, T. S. (2018). To fidget or not to fidget, that is the question: A classroom intervention study with children with ADHD. *Journal of Attention Disorders, 24*(1), 109–119. [doi:10.1177/1087054718770009](https://doi.org/10.1177/1087054718770009)
+- Graziano, P. A., Garcia, A. M., & Landis, T. S. (2018). To fidget or not to fidget, that is the question: A classroom intervention study with children with ADHD. *Journal of Attention Disorders, 24*(1), 163-171. [doi:10.1177/1087054718770009](https://doi.org/10.1177/1087054718770009)
 - Hill, L. J. B., Williams, J. H. G., Aucott, L., Thomson, J., Mon-Williams, M. (2011). How does exercise benefit performance on cognitive tests in primary-school pupils? *Developmental Medicine & Child Neurology, 53*(7), 630–635. [doi:10.1111/j.1469-8749.2011.03954.x](https://doi.org/10.1111/j.1469-8749.2011.03954.x)
 - Weisberg, S. M., & Newcombe, N. (2017). Embodied cognition and STEM learning. *Cognitive Research: Principles and Implications, 2*, 38. [doi:10.1186/s41235-017-0071-6](https://doi.org/10.1186/s41235-017-0071-6)

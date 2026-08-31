@@ -69,7 +69,7 @@ Reassessment aligns grading with the mastery learning finding that most learners
 **Standards-based grading in K-12 districts (e.g., Ken O'Connor's and Rick Wormeli's frameworks)** — District grading policies that mandate reassessment opportunities with score replacement for standards-based report cards.
 
 ## Key Sources
-- Kulik, C. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 279–307. [doi:10.3102/00346543060002265](https://doi.org/10.3102/00346543060002265)
+- Kulik, C. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. *Review of Educational Research, 60*(2), 265-299. [doi:10.3102/00346543060002265](https://doi.org/10.3102/00346543060002265)
 - Bloom, B. S. (1968). Learning for mastery. *Evaluation Comment, 1*(2), 1–12.
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Guskey, T. R. (2007). Closing achievement gaps: Revisiting Benjamin S. Bloom's "Learning for Mastery." *Journal of Advanced Academics, 19*(1), 8–31. [doi:10.4219/jaa-2007-704](https://doi.org/10.4219/jaa-2007-704)

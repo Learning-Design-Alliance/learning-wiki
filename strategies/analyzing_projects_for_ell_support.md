@@ -67,7 +67,7 @@ The strategy operationalizes the finding that content and language learning are 
 - **NGSS-aligned science units (Stanford SCALE)**: science curricula designed so ELLs learn disciplinary practices (arguing from evidence, constructing explanations) as language opportunities, per the framework in Lee, Quinn, & Valdés (2013).
 
 ## Key Sources
-- Bunch, G. C. (2013). Pedagogical language knowledge: Preparing mainstream teachers for English learners in the new standards era. *Review of Research in Education, 37*(1), 298–341. [doi:10.1177/016146811011201404](https://doi.org/10.1177/016146811011201404)
+- Bunch, G. C. (2013). Pedagogical language knowledge: Preparing mainstream teachers for English learners in the new standards era. *Teachers College Record: The Voice of Scholarship in Education, 112*(14), 351-383. [doi:10.1177/016146811011201404](https://doi.org/10.1177/016146811011201404)
 - Lee, O., Quinn, H., & Valdés, G. (2013). Science and language for English language learners in relation to Next Generation Science Standards and with implications for Common Core State Standards for English language arts and mathematics. *Educational Researcher, 42*(4), 223–233. [doi:10.3102/0013189X13480524](https://doi.org/10.3102/0013189X13480524)
 - Echevarría, J., Vogt, M., & Short, D. (2008). *Making content comprehensible for English learners: The SIOP model* (3rd ed.). Pearson.
 - Gibbons, P. (2002). *Scaffolding language, scaffolding learning: Teaching second language learners in the mainstream classroom*. Heinemann.

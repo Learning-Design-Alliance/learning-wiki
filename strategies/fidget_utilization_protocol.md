@@ -70,6 +70,6 @@ The protocol treats fidget use as a trained behavior rather than an open accommo
 
 ## Key Sources
 - Sarver, D. E., Rapport, M. D., Kofler, M. J., Raiker, J. S., & Bolden, J. (2015). Hyperactivity in attention-deficit/hyperactivity disorder (ADHD): Impairing deficit or compensatory behavior? *Journal of Abnormal Child Psychology, 43*(7), 1219–1232. [doi:10.1007/s10802-015-0011-1](https://doi.org/10.1007/s10802-015-0011-1)
-- Graziano, P. A., Garcia, A. M., & Landis, T. S. (2018). To fidget or not to fidget, that is the question: A systematic classroom observation of students with ADHD. *Journal of Attention Disorders, 24*(2), 303–312. [doi:10.1177/1087054718770009](https://doi.org/10.1177/1087054718770009)
+- Graziano, P. A., Garcia, A. M., & Landis, T. S. (2018). To fidget or not to fidget, that is the question: A systematic classroom observation of students with ADHD. *Journal of Attention Disorders, 24*(1), 163-171. [doi:10.1177/1087054718770009](https://doi.org/10.1177/1087054718770009)
 - Pecher, D., & Zeelenberg, R. (2020). Do fidget spinners help attention? *Trends in Cognitive Sciences* correspondence literature on fidget spinner effects in classrooms.
 - Barkley, R. A. (2011). *ADHD and the nature of self-control*. Guilford Press.

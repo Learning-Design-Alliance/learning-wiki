@@ -83,6 +83,6 @@ Because instructional time and working memory are limited, word selection is the
 
 ## Key Sources
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing Words to Life: Robust Vocabulary Instruction* (2nd ed.). Guilford Press.
-- Stahl, S. A., & Fairbanks, M. M. (1986). The effects of vocabulary instruction: A model-based meta-analysis. *Review of Educational Research, 56*(1), 71–110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
+- Stahl, S. A., & Fairbanks, M. M. (1986). The effects of vocabulary instruction: A model-based meta-analysis. *Review of Educational Research, 56*(1), 72-110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
 - Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Reading Research Quarterly, 47*(1), 91–108. [doi:10.1002/rrq.011](https://doi.org/10.1002/rrq.011)
 - Beck, I. L., & McKeown, M. G. (2007). Increasing young low-income children's oral vocabulary repertoires through rich and focused instruction. *The Elementary School Journal, 107*(3), 251–271. [doi:10.1086/511706](https://doi.org/10.1086/511706)

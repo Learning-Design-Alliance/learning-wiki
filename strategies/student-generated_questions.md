@@ -71,6 +71,6 @@ Question generation is itself a cognitive act: formulating a question requires i
 ## Key Sources
 - Chin, C., & Osborne, J. (2008). Students' questions: A potential resource for teaching and learning science. *Studies in Science Education, 44*(1), 1–39. [doi:10.1080/03057260701828101](https://doi.org/10.1080/03057260701828101)
 - King, A. (1994). Guiding knowledge construction in the classroom: Effects of teaching children how to question and how to explain. *American Educational Research Journal, 31*(2), 338–368. [doi:10.3102/00028312031002338](https://doi.org/10.3102/00028312031002338)
-- Hakkarainen, K. (2003). Emergence of progressive-inquiry culture in computer-supported collaborative learning. *Learning Environments Research, 6*(2), 199–220. [doi:10.3115/1599773.1599794](https://doi.org/10.3115/1599773.1599794)
+- Hakkarainen, K. (2003). Emergence of progressive-inquiry culture in computer-supported collaborative learning. *Proceedings of the 2nd international conference on Computer support for collaborative learning - CSCL '97, 6*(2), 171-175. [doi:10.3115/1599773.1599794](https://doi.org/10.3115/1599773.1599794)
 - Rothstein, D., & Santana, L. (2011). *Make just one change: Teach students to ask their own questions.* Harvard Education Press.
 - Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97–118). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)

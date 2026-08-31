@@ -71,5 +71,5 @@ The strategy works because it offloads the selection and organization stages of 
 ## Key Sources
 - Robinson, D. H., & Kiewra, K. A. (1995). Visual argument: Graphic organizers are superior to outlines in improving learning from text. *Journal of Educational Psychology, 87*(3), 455–467. [doi:10.1037/0022-0663.87.3.455](https://doi.org/10.1037/0022-0663.87.3.455)
 - Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)
-- Kiewra, K. A. (1989). A review of note-taking: The encoding-storage perspective and beyond. *Educational Technology Research and Development, 37*(3), 5–14. [doi:10.1007/bf01326640](https://doi.org/10.1007/bf01326640)
+- Kiewra, K. A. (1989). A review of note-taking: The encoding-storage perspective and beyond. *Educational Psychology Review, 1*(2), 147-172. [doi:10.1007/bf01326640](https://doi.org/10.1007/bf01326640)
 - Katayama, A. D., & Robinson, D. H. (2000). Getting students "partially involved" in note-taking using graphic organizers. *Journal of Experimental Education, 68*(2), 119–134. [doi:10.1080/00220970009598498](https://doi.org/10.1080/00220970009598498)

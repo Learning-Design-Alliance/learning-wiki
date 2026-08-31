@@ -67,7 +67,7 @@ Circles work by giving every learner equal, protected airtime and public acknowl
 
 ## Key Sources
 - Pranis, K. (2005). *The Little Book of Circle Processes: A New/Old Approach to Peacemaking*. Good Books.
-- Gregory, A., Clawson, K., Davis, A., & Gerewich, J. (2016). The triggers of teacher misconceptions and the promise of restorative practices in school discipline. *American Educational Research Journal, 53*(3), 722–759. [doi:10.1080/10474412.2014.929950](https://doi.org/10.1080/10474412.2014.929950)
+- Gregory, A., Clawson, K., Davis, A., & Gerewich, J. (2016). The triggers of teacher misconceptions and the promise of restorative practices in school discipline. *Journal of Educational and Psychological Consultation, 26*(4), 325-353. [doi:10.1080/10474412.2014.929950](https://doi.org/10.1080/10474412.2014.929950)
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Roffey, S. (2011). *Changing Behaviour in Schools: Promoting Positive Relationships and Wellbeing*. SAGE.
 - Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)

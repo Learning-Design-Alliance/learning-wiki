@@ -69,6 +69,6 @@ Positive time-out treats dysregulation as a skill deficit rather than willful de
 - Nelsen, J. (2006). *Positive discipline: The classic guide to helping children develop self-discipline, responsibility, cooperation, and problem-solving skills* (Rev. ed.). Ballantine Books.
 - Brantner, J. P., & Doherty, M. A. (1983). A review of timeout: A conceptual and methodological analysis. *Journal of Applied Behavior Analysis, 16*(1), 123–136. [doi:10.1016/b978-0-12-068740-4.50010-6](https://doi.org/10.1016/b978-0-12-068740-4.50010-6)
 - Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
-- Webster-Stratton, C., Reid, M. J., & Hammond, M. (2004). Treating children with early-onset conduct problems: Intervention outcomes for parent, child, and teacher training. *Journal of Clinical Child and Adolescent Psychology, 33*(1), 105–124. [doi:10.1207/S15374424JCCP3301_11](https://doi.org/10.1207/S15374424JCCP3301_11)
+- Webster-Stratton, C., Reid, M. J., & Hammond, M. (2004). Treating children with early-onset conduct problems: Intervention outcomes for parent, child, and teacher training. *Journal of Clinical Child &amp; Adolescent Psychology, 33*(1), 105-124. [doi:10.1207/S15374424JCCP3301_11](https://doi.org/10.1207/S15374424JCCP3301_11)
 
 ---

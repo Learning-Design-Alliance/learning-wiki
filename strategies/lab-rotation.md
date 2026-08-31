@@ -68,6 +68,6 @@ Lab Rotation concentrates the scalable, self-paced parts of instruction (content
 
 ## Key Sources
 - Staker, H., & Horn, M. B. (2012). *Classifying K–12 blended learning*. Christensen Institute (formerly Innosight Institute). [https://www.christenseninstitute.org/publications/classifying-k-12-blended-learning/](https://www.christenseninstitute.org/publications/classifying-k-12-blended-learning/)
-- Means, B., Toyama, Y., Murphy, R., & Baki, M. (2013). The effectiveness of online and blended learning: A meta-analysis of the empirical literature. *Teachers College Record, 115*(3), 1–47. [doi:10.1177/016146811311500307](https://doi.org/10.1177/016146811311500307)
+- Means, B., Toyama, Y., Murphy, R., & Baki, M. (2013). The effectiveness of online and blended learning: A meta-analysis of the empirical literature. *Teachers College Record: The Voice of Scholarship in Education, 115*(3), 1-47. [doi:10.1177/016146811311500307](https://doi.org/10.1177/016146811311500307)
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., & Pane, J. D. (2017). Informing progress: Insights on personalized learning implementation and effects. *RAND Corporation*. [https://doi.org/10.7249/RR2042](https://doi.org/10.7249/RR2042)

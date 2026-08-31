@@ -64,6 +64,6 @@ Emotion labeling supports self-regulation and communication, and affective granu
 
 ## Key Sources
 - Barrett, L. F., Gross, J., Christensen, T. C., & Benvenuto, M. (2001). Knowing what you're feeling and knowing what to do about it: Emotion differentiation and regulation. *Cognition and Emotion, 15*(6), 713–724. [doi:10.1080/02699930143000239](https://doi.org/10.1080/02699930143000239)
-- Lieberman, M. D., et al. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
+- Lieberman, M. D., et al. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Emotion Review, 10*(2), 116-124. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Kashdan, T. B., Barrett, L. F., & McKnight, P. E. (2015). Unpacking emotion differentiation: Transforming unpleasant experience by perceiving distinctions in negativity. *Current Directions in Psychological Science, 24*(1), 10–16. [doi:10.1177/0963721414550708](https://doi.org/10.1177/0963721414550708)

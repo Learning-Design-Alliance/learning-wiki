@@ -66,7 +66,7 @@ Attention signals function as conditioned cues: their power comes from pairing a
 - **Chime in workshop settings** — facilitators of protocol-driven discussions (e.g., [School Reform Initiative](https://www.schoolreforminitiative.org) Critical Friends groups) use a chime to return groups to whole-circle discussion.
 
 ## Key Sources
-- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(3), 351–380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
+- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
 - Wong, H. K., & Wong, R. T. (2018). *The First Days of School: How to Be an Effective Teacher* (5th ed.). Harry K. Wong Publications.
 - Kounin, J. S. (1970). *Discipline and group management in classrooms*. Holt, Rinehart & Winston.
 - Emmer, E. T., & Sabornie, E. J. (2015). *Handbook of Classroom Management* (2nd ed.). Routledge. [doi:10.4324/9780203074114](https://doi.org/10.4324/9780203074114)

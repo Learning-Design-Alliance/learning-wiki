@@ -69,7 +69,7 @@ Student voice strategies work because they convert learners from recipients to s
 
 ## Key Sources
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
-- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
+- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record: The Voice of Scholarship in Education, 106*(4), 651-688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
 - Yonezawa, S., & Jones, M. (2009). Student voices: Generating reform from the inside out. *Theory Into Practice, 48*(3), 205–212.
 - Cook-Sather, A. (2006). Sound, presence, and power: "Student voice" in educational research and reform. *Curriculum Inquiry, 36*(4), 359–390. [doi:10.1111/j.1467-873X.2006.00363.x](https://doi.org/10.1111/j.1467-873X.2006.00363.x)
 - Gay, G. (2010). *Culturally responsive teaching: Theory, research, and practice* (2nd ed.). Teachers College Press.

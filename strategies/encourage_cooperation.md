@@ -81,6 +81,6 @@ Cooperative structures work because articulating ideas to peers forces elaborati
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
-- Slavin, R. E. (1996). Research on cooperative learning: Consensus and controversy. *Educational Psychologist, 31*(1), 43–54. [doi:10.1006/ceps.1996.0004](https://doi.org/10.1006/ceps.1996.0004)
+- Slavin, R. E. (1996). Research on cooperative learning: Consensus and controversy. *Contemporary Educational Psychology, 21*(1), 43-69. [doi:10.1006/ceps.1996.0004](https://doi.org/10.1006/ceps.1996.0004)
 - Springer, L., Stanne, M. E., & Donovan, S. S. (1999). Effects of small-group learning on undergraduates in science, mathematics, engineering, and technology: A meta-analysis. *Review of Educational Research, 69*(1), 21–51. [doi:10.3102/00346543069001021](https://doi.org/10.3102/00346543069001021)
 - Chickering, A. W., & Gamson, Z. F. (1987). Seven principles for good practice in undergraduate education. *AAHE Bulletin, 39*(7), 3–7.

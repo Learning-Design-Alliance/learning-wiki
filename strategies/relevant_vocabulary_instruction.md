@@ -73,6 +73,6 @@ Vocabulary instruction works best when the words taught are ones learners will a
 ## Key Sources
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing words to life: Robust vocabulary instruction* (2nd ed.). Guilford Press.
 - Nation, I. S. P. (2001). *Learning vocabulary in another language*. Cambridge University Press. [doi:10.1017/cbo9781139524759](https://doi.org/10.1017/cbo9781139524759)
-- Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Theory Into Practice, 51*(4), 305–312. [doi:10.1002/rrq.011](https://doi.org/10.1002/rrq.011)
+- Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Reading Research Quarterly, 47*(1), 91-108. [doi:10.1002/rrq.011](https://doi.org/10.1002/rrq.011)
 - Stahl, S. A., & Fairbanks, M. M. (1986). The effects of vocabulary instruction: A model-based meta-analysis. *Review of Educational Research, 56*(1), 72–110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
 - Laufer, B. (2005). Focus on form in second language vocabulary learning. In J. Barcroft & J. Williams (Eds.), *Vocabulary in a second language* (pp. 65–82). John Benjamins.

@@ -74,8 +74,8 @@ Vocabulary knowledge is incremental and context-dependent; words are acquired th
 - **A science teacher opens a unit on *inertia* by telling a story about a coffee cup left on the car roof** — students laugh, retell the story using the word, then meet *inertia* again in a reading, a lab report prompt, and a quiz two weeks later.
 
 ## Key Sources
-- Stahl, S. A., & Fairbanks, M. M. (1986). The effects of vocabulary instruction: A model-based meta-analysis. *Review of Educational Research, 56*(1), 71–110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
+- Stahl, S. A., & Fairbanks, M. M. (1986). The effects of vocabulary instruction: A model-based meta-analysis. *Review of Educational Research, 56*(1), 72-110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing Words to Life: Robust Vocabulary Instruction* (2nd ed.). Guilford Press.
-- Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Journal of Adolescent & Adult Literacy, 55*(7), 601–609. [doi:10.1002/rrq.011](https://doi.org/10.1002/rrq.011)
+- Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Reading Research Quarterly, 47*(1), 91-108. [doi:10.1002/rrq.011](https://doi.org/10.1002/rrq.011)
 - Nation, I. S. P. (2001). *Learning Vocabulary in Another Language*. Cambridge University Press. [doi:10.1017/cbo9781139524759](https://doi.org/10.1017/cbo9781139524759)
 - Marzano, R. J. (2004). *Building Background Knowledge for Academic Achievement*. ASCD.

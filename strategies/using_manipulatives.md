@@ -72,6 +72,6 @@ Manipulatives work as *symbols* for mathematical ideas, not as self-interpreting
 ## Key Sources
 - Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Psychology, 105*(2), 380–400. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)
 - Sowell, E. J. (1989). Effects of manipulative materials in mathematics instruction. *Journal for Research in Mathematics Education, 20*(5), 498–505. [doi:10.5951/jresematheduc.20.5.0498](https://doi.org/10.5951/jresematheduc.20.5.0498)
-- Uttal, D. H., Scudder, K. V., & DeLoache, J. S. (1997). Manipulatives as symbols: A new perspective on the use of concrete objects to teach mathematics. *Journal of Applied Developmental Psychology, 18*(2), 213–254. [doi:10.1016/s0193-3973(97)90013-7](https://doi.org/10.1016/s0193-3973(97)90013-7)
+- Uttal, D. H., Scudder, K. V., & DeLoache, J. S. (1997). Manipulatives as symbols: A new perspective on the use of concrete objects to teach mathematics. *Journal of Applied Developmental Psychology, 18*(1), 37-54. [doi:10.1016/s0193-3973(97)90013-7](https://doi.org/10.1016/s0193-3973(97)90013-7)
 - McNeil, N. M., & Jarvin, L. (2007). When theories don't add up: Disentangling the manipulatives debate. *Theory Into Practice, 46*(4), 309–316. [doi:10.1080/00405840701593899](https://doi.org/10.1080/00405840701593899)
 - Bruner, J. S. (1966). *Toward a theory of instruction*. Cambridge, MA: Harvard University Press.

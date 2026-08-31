@@ -67,7 +67,7 @@ The strategy rests on operant principles: teacher attention reliably functions a
 - **Positive Phone Calls Home** — many MTSS/PBIS implementations (e.g., https://www.pbis.org) require a set ratio of positive contacts to corrective contacts with families, applying the same principle at the school level.
 
 ## Key Sources
-- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(3), 351–380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
+- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
 - Sutherland, K. S., Wehby, J. H., & Copeland, S. R. (2000). Effect of varying rates of behavior-specific praise on the on-task behavior of students with EBD. *Journal of Emotional and Behavioral Disorders, 8*(1), 2–8. [doi:10.1177/106342660000800101](https://doi.org/10.1177/106342660000800101)
 - Cook, C. R., et al. (2017). Positive greetings at the door: Evaluation of a low-cost, high-yield proactive classroom management strategy. *Journal of Positive Behavior Interventions, 20*(3), 149–159. [doi:10.1177/1098300717753831](https://doi.org/10.1177/1098300717753831)
 - Reinke, W. M., Herman, K. C., & Sprick, R. (2011). *Motivational interviewing for effective classroom management: The classroom check-up.* Guilford Press.

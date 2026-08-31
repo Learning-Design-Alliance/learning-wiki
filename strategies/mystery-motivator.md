@@ -69,6 +69,6 @@ Mystery Motivators apply the variable-ratio/variable-interval logic of reinforce
 ## Key Sources
 - Rhode, G., Jenson, W. R., & Reavis, H. K. (1992). *The Tough Kid Book: Practical classroom management strategies.* Sopris West.
 - Theodore, L. A., Bray, M. A., Kehle, T. J., & Jenson, W. R. (2001). Randomization of group contingencies and reinforcers to reduce classroom disruptive behavior. *Journal of School Psychology, 39*(3), 267–283. [doi:10.1016/s0022-4405(01)00068-1](https://doi.org/10.1016/s0022-4405(01)00068-1)
-- Maggin, D. M., Johnson, A. H., Chafouleas, S. M., Ruberto, L. M., & Berggren, M. (2012). A systematic evidence review of school-based group contingency interventions for students with challenging behavior. *Journal of Behavioral Education, 21*(3), 230–254. [doi:10.1016/j.jsp.2012.06.001](https://doi.org/10.1016/j.jsp.2012.06.001)
+- Maggin, D. M., Johnson, A. H., Chafouleas, S. M., Ruberto, L. M., & Berggren, M. (2012). A systematic evidence review of school-based group contingency interventions for students with challenging behavior. *Journal of School Psychology, 50*(5), 625-654. [doi:10.1016/j.jsp.2012.06.001](https://doi.org/10.1016/j.jsp.2012.06.001)
 - Cooper, J. O., Heron, T. E., & Heward, W. L. (2020). *Applied behavior analysis* (3rd ed.). Pearson.
 - Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. *Psychological Bulletin, 125*(6), 627–668. [doi:10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627)

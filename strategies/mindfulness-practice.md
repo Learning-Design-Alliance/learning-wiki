@@ -69,6 +69,6 @@ Mindfulness training targets the attentional control system: regular practice st
 ## Key Sources
 - Mrazek, M. D., Franklin, M. S., Phillips, D. T., Baird, B., & Schooler, J. W. (2013). Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering. *Psychological Science, 24*(5), 776–781. [doi:10.1177/0956797612459659](https://doi.org/10.1177/0956797612459659)
 - Tang, Y.-Y., Hölzel, B. K., & Posner, M. I. (2015). The neuroscience of mindfulness meditation. *Nature Reviews Neuroscience, 16*(4), 213–225. [doi:10.1038/nrn3916](https://doi.org/10.1038/nrn3916)
-- Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Mindfulness, 5*(6), 691–704. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
+- Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Frontiers in Psychology, 5*(6), 691. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
 - Kabat-Zinn, J. (1990). *Full catastrophe living: Using the wisdom of your body and mind to face stress, pain, and illness.* Delacorte Press.
 - Weare, K. (2013). Developing mindfulness with children and young people: A review of the evidence and policy context. *Journal of Children's Services, 8*(2), 141–153. [doi:10.1108/JCS-12-2012-0014](https://doi.org/10.1108/JCS-12-2012-0014)

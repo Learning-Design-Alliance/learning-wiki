@@ -69,6 +69,6 @@ Student voice works as a motivational lever: autonomy and perceived ownership su
 
 ## Key Sources
 - Cook-Sather, A. (2006). Sound, presence, and silence: The evolving scholarship on student voice in education. *Review of Educational Research, 76*(3), 359–392. [doi:10.3102/00346543076003359](https://doi.org/10.3102/00346543076003359)
-- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
+- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record: The Voice of Scholarship in Education, 106*(4), 651-688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
 - Jocz, J. A., Zhai, J., & Tan, A. L. (2014). Inquiry learning through student-centered teaching in middle school science classrooms. *The Journal of Educational Research, 107*(3), 189–199.
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

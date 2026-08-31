@@ -71,7 +71,7 @@ Writing is generative: composing requires learners to retrieve knowledge, select
 
 ## Key Sources
 - Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The effects of school-based writing-to-learn interventions on academic achievement: A meta-analysis. *Review of Educational Research, 74*(1), 29–58. [doi:10.3102/00346543074001029](https://doi.org/10.3102/00346543074001029)
-- Emig, J. (1977). Writing as a mode of learning. *College Composition and Communication, 28*(2), 122–128. [doi:10.2307/356095](https://doi.org/10.2307/356095)
+- Emig, J. (1977). Writing as a mode of learning. *College Composition &amp; Communication, 28*(2), 122-128. [doi:10.2307/356095](https://doi.org/10.2307/356095)
 - Klein, P. D. (1999). Reopening inquiry into cognitive processes in writing-to-learn. *Educational Psychology Review, 11*(3), 203–270. [doi:10.1023/a:1021913217147](https://doi.org/10.1023/a:1021913217147)
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Rivard, L. O. P. (1994). A review of writing to learn in science: Implications for practice and research. *Journal of Research in Science Teaching, 31*(9), 969–983. [doi:10.1002/tea.3660310910](https://doi.org/10.1002/tea.3660310910)

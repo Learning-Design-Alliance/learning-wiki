@@ -65,7 +65,7 @@ Explicit instruction in evaluation routines produces measurable gains in student
 - **NewsGuard browser extension** — embeds a routine-like judgment (nutrition labels for news sites) at the point of encounter, scaffolding the "investigate the source" move
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Training college students to evaluate online sources. *Teachers College Record, 121*(4), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
-- Breakstone, J., Smith, M., Ortega, P., Kerr, D., & Wineburg, S. (2021). Teaching students to reason online: The effectiveness of the Stanford Civic Online Reasoning curriculum. *Journal of Educational Psychology, 113*(7), 1420–1439. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Training college students to evaluate online sources. *Harvard Kennedy School Misinformation Review, 121*(4), 1. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
+- Breakstone, J., Smith, M., Ortega, P., Kerr, D., & Wineburg, S. (2021). Teaching students to reason online: The effectiveness of the Stanford Civic Online Reasoning curriculum. *Journal of Educational Psychology, 113*(7), 1420–1439.
 - Pennycook, G., & Rand, D. G. (2021). Shifting attention to accuracy can reduce misinformation online. *Nature, 592*, 590–595. [doi:10.1038/s41586-021-03344-2](https://doi.org/10.1038/s41586-021-03344-2)
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social media environment. *American Educator, 41*(3), 4–9.

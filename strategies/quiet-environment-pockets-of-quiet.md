@@ -70,7 +70,7 @@ Noise competes for limited attentional and working-memory resources, particularl
 - **Library quiet zones** — academic libraries' designated silent floors versus collaborative floors operationalize the same distinction between quiet and interactive zones.
 
 ## Key Sources
-- Shield, B. M., & Dockrell, J. E. (2003). The effects of noise on children at school: A review. *Journal of Building and Construction Engineering, 78*(1), 97–106. [doi:10.1260/135101003768965960](https://doi.org/10.1260/135101003768965960)
+- Shield, B. M., & Dockrell, J. E. (2003). The effects of noise on children at school: A review. *Building Acoustics, 10*(2), 97-116. [doi:10.1260/135101003768965960](https://doi.org/10.1260/135101003768965960)
 - Klatte, M., Bergström, K., & Lachmann, T. (2013). Does noise affect learning? A short review on noise effects on cognitive performance in children. *Frontiers in Psychology, 4*, 578. [doi:10.3389/fpsyg.2013.00578](https://doi.org/10.3389/fpsyg.2013.00578)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Evans, G. W., & Lepore, S. J. (1993). Nonauditory effects of noise on children: A critical review. *Children's Environments, 10*(1), 31–51.

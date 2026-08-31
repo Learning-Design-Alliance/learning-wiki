@@ -83,5 +83,5 @@ Arts integration works when the artistic task forces deep processing of the cont
 - Rinne, L., Gregory, E., Yarborough, A., & Yarborough, J. (2011). Why arts integration improves long-term retention of content. *Mind, Brain, and Education, 5*(2), 89–96. [doi:10.1111/j.1751-228X.2011.01114.x](https://doi.org/10.1111/j.1751-228X.2011.01114.x)
 - Hardiman, M., Rinne, L., Gregory, E., & Yarmus-Heger, A. (2014). The effects of arts-integrated instruction on memory for math content. *Mind, Brain, and Education, 8*(1), 36–42. [doi:10.1016/j.tine.2019.02.002](https://doi.org/10.1016/j.tine.2019.02.002)
 - Winner, E., & Hetland, L. (2000). The arts and academic achievement: What the evidence shows. *Review of Educational Research, 70*(2).
-- Brouillette, L. (2009). How the arts help children to create healthy social scripts: Exploring the implications. *Education and Urban Society, 42*(3), 288–299. [doi:10.1080/10632910903228116](https://doi.org/10.1080/10632910903228116)
+- Brouillette, L. (2009). How the arts help children to create healthy social scripts: Exploring the implications. *Arts Education Policy Review, 111*(1), 16-24. [doi:10.1080/10632910903228116](https://doi.org/10.1080/10632910903228116)
 - Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press.

@@ -71,6 +71,6 @@ Air writing exploits the finding that motor production shapes letter representat
 
 ## Key Sources
 - James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Psychological Science, 23*(12), 1673–1675. [doi:10.1177/0956797612454526](https://doi.org/10.1177/0956797612454526)
-- Longcamp, M., Zerbato-Poudou, M.-T., & Velay, J.-L. (2005). The influence of writing practice on letter recognition in preschool children: A comparison between learning letters using handwriting and keyboard. *Neuropsychologia, 43*(6), 913–922. [doi:10.1016/j.actpsy.2004.10.019](https://doi.org/10.1016/j.actpsy.2004.10.019)
+- Longcamp, M., Zerbato-Poudou, M.-T., & Velay, J.-L. (2005). The influence of writing practice on letter recognition in preschool children: A comparison between learning letters using handwriting and keyboard. *Acta Psychologica, 119*(1), 67-79. [doi:10.1016/j.actpsy.2004.10.019](https://doi.org/10.1016/j.actpsy.2004.10.019)
 - Bara, F., Gentaz, E., & Colé, P. (2007). Haptics in learning to read with children from low socio-economic status families. *British Journal of Developmental Psychology, 25*(4), 643–663. [doi:10.1348/026151007X186643](https://doi.org/10.1348/026151007X186643)
 - Montessori, M. (1912). *The Montessori method*. Frederick A. Stokes Company.

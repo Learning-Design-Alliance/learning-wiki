@@ -72,7 +72,7 @@ Analogies support comprehension by letting learners import a known relational st
 
 ## Key Sources
 - Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155–170. [doi:10.1207/s15516709cog0702_3](https://doi.org/10.1207/s15516709cog0702_3)
-- Richland, L. E., Zur, O., & Holyoak, K. J. (2007). Mathematics: Cognitive supports for analogical reasoning in the classroom. *Journal of Educational Psychology, 99*(3), 549–555. [doi:10.1126/science.1142103](https://doi.org/10.1126/science.1142103)
+- Richland, L. E., Zur, O., & Holyoak, K. J. (2007). Mathematics: Cognitive supports for analogical reasoning in the classroom. *Science, 316*(5828), 1128-1129. [doi:10.1126/science.1142103](https://doi.org/10.1126/science.1142103)
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart & Winston.
 - Holyoak, K. J., & Thagard, P. (1995). *Mental leaps: Analogy in creative thought*. MIT Press.
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)

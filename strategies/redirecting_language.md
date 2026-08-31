@@ -68,7 +68,7 @@ Redirecting language works because it removes ambiguity about the expected behav
 - [Responsive Classroom](https://www.responsiveschool.org) teacher language training teaches "redirecting language" as one of three teacher-language types (alongside reinforcing and reminding language), emphasizing brevity, naming the positive behavior, and a firm tone.
 
 ## Key Sources
-- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Exceptional Children, 74*(3), 351–364. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
+- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
 - Cook, C. R., Fiat, A., Larson, M., et al. (2018). Positive greetings at the door: Evaluation of a low-cost, high-yield proactive classroom management strategy. *Journal of Positive Behavior Interventions, 20*(3), 149–159. [doi:10.1177/1098300717753831](https://doi.org/10.1177/1098300717753831)
 - Marzano, R. J., Marzano, J. S., & Pickering, D. J. (2003). *Classroom management that works: Research-based strategies for every teacher.* ASCD.
 - Wood, C. (2007). *Yardsticks: Children in the classroom ages 4–14* (3rd ed.). Northeast Foundation for Children.

@@ -68,7 +68,7 @@ The central design problem is that the count sequence to 100 far exceeds what yo
 - **Every Day Counts calendar math** — daily whole-class routines building the count sequence and hundred-chart patterns across the school year
 
 ## Key Sources
-- Siegler, R. S., & Ramani, G. B. (2008). Playing linear number board games — but not circular ones — improves low-income preschoolers' numerical understanding. *Child Development, 79*(2), 375–394. [doi:10.1111/j.1467-7687.2008.00714.x](https://doi.org/10.1111/j.1467-7687.2008.00714.x)
+- Siegler, R. S., & Ramani, G. B. (2008). Playing linear number board games — but not circular ones — improves low-income preschoolers' numerical understanding. *Developmental Science, 11*(5), 655-661. [doi:10.1111/j.1467-7687.2008.00714.x](https://doi.org/10.1111/j.1467-7687.2008.00714.x)
 - Booth, J. L., & Siegler, R. S. (2008). Numerical magnitude representations influence arithmetic learning. *Child Development, 79*(4), 1016–1031. [doi:10.1111/j.1467-8624.2008.01173.x](https://doi.org/10.1111/j.1467-8624.2008.01173.x)
 - Fuson, K. C. (1988). *Children's counting and concepts of number*. Springer-Verlag. [doi:10.1007/978-1-4612-3754-9](https://doi.org/10.1007/978-1-4612-3754-9)
 - Clements, D. H., & Sarama, J. (2014). *Learning and teaching early math: The learning trajectories approach* (2nd ed.). Routledge. [doi:10.4324/9780203520574](https://doi.org/10.4324/9780203520574)

@@ -67,7 +67,7 @@ The game builds emotional granularity — the ability to distinguish and label f
 - Middle school advisory programs use a mood-meter variant (e.g., the [RULER](https://ei.yale.edu/ruler/ruler-approach) Mood Meter, Yale Center for Emotional Intelligence) in which students locate their current feeling on a two-axis grid — a low-exposure version of the same labeling move.
 
 ## Key Sources
-- Lieberman, M. D., et al. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
+- Lieberman, M. D., et al. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Emotion Review, 10*(2), 116-124. [doi:10.1177/1754073917742706](https://doi.org/10.1177/1754073917742706)
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Denham, S. A. (2006). Social-emotional competence as support for school readiness: What is it and how do we assess it? *Early Education and Development, 17*(1), 57–89. [doi:10.1207/s15566935eed1701_4](https://doi.org/10.1207/s15566935eed1701_4)
 - Ekman, P. (1992). An argument for basic emotions. *Cognition and Emotion, 6*(3–4), 169–200. [doi:10.1080/02699939208411068](https://doi.org/10.1080/02699939208411068)

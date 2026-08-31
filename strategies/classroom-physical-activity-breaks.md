@@ -69,7 +69,7 @@ Brief in-class movement is associated with small improvements in on-task behavio
 - **Content-linked movement**: students act out vocabulary words or walk through a scaled model of the solar system in the hallway, combining a break with retrieval practice.
 
 ## Key Sources
-- Owen, K. B., Parker, P. D., Van Beurden, E., Astell-Burt, T., & Lonsdale, C. (2016). Effectiveness of school-based physical activity interventions for children to reduce sedentary behaviour: A systematic review and meta-analysis. *Journal of Science and Medicine in Sport, 19*(7), 553–557. [doi:10.1080/00461520.2016.1151793](https://doi.org/10.1080/00461520.2016.1151793)
+- Owen, K. B., Parker, P. D., Van Beurden, E., Astell-Burt, T., & Lonsdale, C. (2016). Effectiveness of school-based physical activity interventions for children to reduce sedentary behaviour: A systematic review and meta-analysis. *Journal of Science and Medicine in Sport, 19*(7), 553–557.
 - Watson, A., Timperio, A., Brown, H., Best, K., & Hesketh, K. D. (2017). Effect of classroom-based physical activity interventions on academic and physical activity outcomes: A systematic review and meta-analysis. *International Journal of Behavioral Nutrition and Physical Activity, 14*, 114. [doi:10.1186/s12966-017-0569-9](https://doi.org/10.1186/s12966-017-0569-9)
 - Mahar, M. T. (2011). Impact of short bouts of physical activity on attention-to-task in elementary school children. *Preventive Medicine, 52*(Suppl. 1), S60–S64. [doi:10.1016/j.ypmed.2011.01.026](https://doi.org/10.1016/j.ypmed.2011.01.026)
 - Centers for Disease Control and Prevention & SHAPE America. (2018). *Strategies for classroom physical activity integration*. https://www.cdc.gov/healthyschools/physicalactivity/classroom-pa.htm

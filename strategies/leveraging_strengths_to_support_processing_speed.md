@@ -67,7 +67,7 @@ Processing speed shares substantial variance with working memory and fluid reaso
 - IEP practice: a student with a processing-speed discrepancy receives extended time and reduced item volume on tests while all conceptual content and rigor are held constant.
 
 ## Key Sources
-- Fry, A. F., & Hale, S. (1996). Processing speed, working memory, and fluid intelligence: Evidence for a developmental cascade. *Psychological Bulletin, 119*(1), 1–22. [doi:10.1111/j.1467-9280.1996.tb00366.x](https://doi.org/10.1111/j.1467-9280.1996.tb00366.x)
+- Fry, A. F., & Hale, S. (1996). Processing speed, working memory, and fluid intelligence: Evidence for a developmental cascade. *Psychological Science, 7*(4), 237-241. [doi:10.1111/j.1467-9280.1996.tb00366.x](https://doi.org/10.1111/j.1467-9280.1996.tb00366.x)
 - Kail, R., & Salthouse, T. A. (1994). Processing speed as a mental capacity. *Acta Psychologica, 86*(2–3), 199–225. [doi:10.1016/0001-6918(94)90003-5](https://doi.org/10.1016/0001-6918(94)90003-5)
 - Swanson, H. L., & Jerman, O. (2006). Working memory, phonological awareness, spelling, and autism spectrum... (see instead) Swanson, H. L. (2006). Cross-sectional and incremental changes in working memory and mathematical problem solving. *Journal of Educational Psychology, 98*(2), 265–281. [doi:10.1037/0022-0663.98.2.265](https://doi.org/10.1037/0022-0663.98.2.265)
 - Armstrong, T. (2012). *Neurodiversity in the classroom: Strength-based strategies to help students with special needs succeed in school and life.* ASCD.

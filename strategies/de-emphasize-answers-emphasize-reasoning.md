@@ -73,7 +73,7 @@ Requiring learners to explain and justify their steps triggers self-explanation,
 
 ## Key Sources
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)
-- Kapur, M. (2014). Productive failure in learning math. *Journal of Educational Psychology, 106*(3), 750–761. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)
+- Kapur, M. (2014). Productive failure in learning math. *Cognitive Science, 38*(5), 1008-1022. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)
 - Hiebert, J., & Wearne, D. (2003). Developing understanding through problem solving. In J. Kilpatrick, W. G. Martin, & D. Schifter (Eds.), *A research companion to Principles and Standards for School Mathematics* (pp. 227–236). NCTM.
 - Isotani, S., Adams, D., Mayer, R. E., Durkin, K., Rittle-Johnson, B., & McLaren, B. M. (2011). Can erroneous examples help middle school students learn decimals? *Towards Learning and Instruction in Web 3.0*, Springer.
 - Boaler, J., & Brodie, K. (2004). The importance, nature, and impact of teacher questions. *Proceedings of the 26th PME-NA*.

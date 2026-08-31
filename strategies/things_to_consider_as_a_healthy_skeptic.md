@@ -66,7 +66,7 @@ Skepticism develops through repeated, structured opportunities to evaluate claim
 - **Science class claim-evidence-reasoning prompts**: students evaluate a product's health claim from an advertisement, identify what evidence would be needed, and present their assessment for peer critique.
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Training college students to evaluate online sources. *Teachers College Record, 121*(4), 1–40. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Training college students to evaluate online sources. *Harvard Kennedy School Misinformation Review, 121*(4), 1. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
 - Abrami, P. C., Bernard, R. M., Borokhovski, E., Waddington, D. I., Wade, C. A., & Persson, T. (2015). Strategies for teaching students to think critically: A meta-analysis. *Review of Educational Research, 85*(2), 275–314. [doi:10.3102/0034654314551063](https://doi.org/10.3102/0034654314551063)
 - Abrami, P. C., Bernard, R. M., Borokhovski, E., Wade, A., Surkes, M. A., Tamim, R., & Zhang, D. (2008). Instructional interventions affecting critical thinking skills and dispositions: A stage 1 meta-analysis. *Review of Educational Research, 78*(4), 1102–1134. [doi:10.3102/0034654308326084](https://doi.org/10.3102/0034654308326084)
 - Kuhn, D. (1999). A developmental model of critical thinking. *Educational Researcher, 28*(2), 16–46. [doi:10.3102/0013189X028002016](https://doi.org/10.3102/0013189X028002016)

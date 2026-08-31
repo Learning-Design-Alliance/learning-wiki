@@ -68,5 +68,5 @@ Advance organizers work by providing ideational scaffolding: they give learners 
 ## Key Sources
 - Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology, 51*(5), 267–272. [doi:10.1037/h0046669](https://doi.org/10.1037/h0046669)
 - Luiten, J., Ames, W., & Ackerson, G. (1980). A meta-analysis of the effects of advance organizers on learning and retention. *American Educational Research Journal, 17*(2), 211–218. [doi:10.3102/00028312017002211](https://doi.org/10.3102/00028312017002211)
-- Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research, 49*(3), 371–383. [doi:10.3102/00346543049002371](https://doi.org/10.3102/00346543049002371)
+- Mayer, R. E. (1979). Can advance organizers influence meaningful learning? *Review of Educational Research, 49*(2), 371-383. [doi:10.3102/00346543049002371](https://doi.org/10.3102/00346543049002371)
 - Ausubel, D. P., Novak, J. D., & Hanesian, H. (1978). *Educational psychology: A cognitive view* (2nd ed.). Holt, Rinehart & Winston.

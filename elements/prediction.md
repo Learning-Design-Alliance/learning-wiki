@@ -73,5 +73,5 @@ Predictions leverage the pretesting effect: attempting to answer before instruct
 ## Key Sources
 - Kornell, N., Hays, M. J., & Bjork, R. A. (2009). Unsuccessful retrieval attempts enhance subsequent learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 35*(4), 989–998. [doi:10.1037/a0015729](https://doi.org/10.1037/a0015729)
 - Richland, L. E., Kornell, N., & Kao, L. S. (2009). The pretesting effect: Do unsuccessful retrieval attempts enhance learning? *Journal of Experimental Psychology: Applied, 15*(3), 243–257. [doi:10.1037/a0016496](https://doi.org/10.1037/a0016496)
-- Carpenter, S. K., & Toftness, A. R. (2017). The effect of prequestions on learning from video presentations. *Journal of Experimental Psychology: Applied, 23*(1), 83–92. [doi:10.1016/j.jarmac.2016.07.014](https://doi.org/10.1016/j.jarmac.2016.07.014)
+- Carpenter, S. K., & Toftness, A. R. (2017). The effect of prequestions on learning from video presentations. *Journal of Applied Research in Memory and Cognition, 6*(1), 104-109. [doi:10.1016/j.jarmac.2016.07.014](https://doi.org/10.1016/j.jarmac.2016.07.014)
 - White, R., & Gunstone, R. (1992). Probing understanding. *London: Falmer Press.*

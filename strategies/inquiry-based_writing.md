@@ -74,5 +74,5 @@ Inquiry-based writing works because it supplies rich, personally processed conte
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Hillocks, G. (1986). *Research on written composition: New directions for teaching.* Urbana, IL: NCTE.
-- Graham, S., & Sandmel, D. (2011). The process writing instruction: A meta-analysis. *The Elementary School Journal, 111*(4), 617–648. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
+- Graham, S., & Sandmel, D. (2011). The process writing instruction: A meta-analysis. *Harvard Educational Review, 81*(4), 710-744. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
 - Keys, C. W., Hand, B., Prain, V., & Collins, S. (1999). Using the science writing heuristic as a tool for learning from laboratory investigations in secondary science. *Journal of Research in Science Teaching, 36*(10), 1065–1084. [doi:10.1002/(SICI)1098-2736(199912)36:10<1065::AID-TEA2>3.0.CO;2-I](https://doi.org/10.1002/(SICI)1098-2736(199912)36:10<1065::AID-TEA2>3.0.CO;2-I)

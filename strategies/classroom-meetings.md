@@ -67,7 +67,7 @@ Classroom meetings operationalize the classroom as a community of practice, buil
 - **Restorative practice circles** in secondary schools — weekly talking-piece circles used to build community and repair harm, as implemented in Denver Public Schools' restorative justice program.
 
 ## Key Sources
-- Rimm-Kaufman, S. E., Fan, X., Chiu, Y.-J., & You, W. (2007). The contribution of the Responsive Classroom Approach on children's academic achievement: Results from a three-year longitudinal study. *Journal of School Psychology, 45*(4), 401–421. [doi:10.1002/pits.20231](https://doi.org/10.1002/pits.20231)
+- Rimm-Kaufman, S. E., Fan, X., Chiu, Y.-J., & You, W. (2007). The contribution of the Responsive Classroom Approach on children's academic achievement: Results from a three-year longitudinal study. *Psychology in the Schools, 44*(4), 397-413. [doi:10.1002/pits.20231](https://doi.org/10.1002/pits.20231)
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Glasser, W. (1969). *Schools without failure.* Harper & Row.
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

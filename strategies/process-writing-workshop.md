@@ -72,6 +72,6 @@ The workshop's effectiveness rests on separating the cognitively demanding subpr
 ## Key Sources
 - Flower, L., & Hayes, J. R. (1981). A cognitive process theory of writing. *College Composition and Communication, 32*(4), 365–387. [doi:10.2307/356600](https://doi.org/10.2307/356600)
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Research, 104*(6), 396–407.
 - Calkins, L. M. (1986). *The art of teaching writing.* Heinemann.
 - Atwell, N. (1987). *In the middle: Writing, reading, and learning with adolescents.* Boynton/Cook.

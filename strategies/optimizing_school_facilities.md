@@ -66,6 +66,6 @@ The physical environment functions as a precondition for instruction: even well-
 
 ## Key Sources
 - Barrett, P., Zhang, Y., Moffat, J., & Kobbacy, K. (2013). A holistic, multi-level analysis identifying the impact of classroom design on pupils' learning. *Building and Environment, 59*, 678–689. [doi:10.1016/j.buildenv.2012.09.016](https://doi.org/10.1016/j.buildenv.2012.09.016)
-- Wargocki, P., & Wyon, D. P. (2013). Providing better thermal and air quality conditions in school classrooms would be cost-effective. *Indoor Air, 23*(5), 432–439. [doi:10.1016/j.buildenv.2012.10.007](https://doi.org/10.1016/j.buildenv.2012.10.007)
+- Wargocki, P., & Wyon, D. P. (2013). Providing better thermal and air quality conditions in school classrooms would be cost-effective. *Building and Environment, 59*(5), 581-589. [doi:10.1016/j.buildenv.2012.10.007](https://doi.org/10.1016/j.buildenv.2012.10.007)
 - Cheryan, S., Ziegler, S. A., Plaut, V. C., & Meltzoff, A. N. (2014). Designing classrooms to maximize student achievement. *Policy Insights from the Behavioral and Brain Sciences, 1*(1), 4–12. [doi:10.1177/2372732214548677](https://doi.org/10.1177/2372732214548677)
-- Shield, B. M., & Dockrell, J. E. (2003). The effects of noise on children at school: A review. *Journal of Building Acoustics, 10*(2), 97–116. [doi:10.1260/135101003768965960](https://doi.org/10.1260/135101003768965960)
+- Shield, B. M., & Dockrell, J. E. (2003). The effects of noise on children at school: A review. *Building Acoustics, 10*(2), 97-116. [doi:10.1260/135101003768965960](https://doi.org/10.1260/135101003768965960)

@@ -81,7 +81,7 @@ By externalizing the lecture's structure, these tools reduce the working-memory 
 - **Science lecture concept maps** — Instructor projects a partially completed concept map; learners fill in linking words and missing nodes during the explanation.
 
 ## Key Sources
-- Konrad, M., Joseph, L. M., & Eveleigh, E. (2009). A meta-analytic review of guided notes. *Remedial and Special Education, 30*(6), 364–376. [doi:10.1353/etc.0.0066](https://doi.org/10.1353/etc.0.0066)
+- Konrad, M., Joseph, L. M., & Eveleigh, E. (2009). A meta-analytic review of guided notes. *Education and Treatment of Children, 32*(3), 421-444. [doi:10.1353/etc.0.0066](https://doi.org/10.1353/etc.0.0066)
 - Dexter, D. D., & Hughes, C. A. (2011). Graphic organizers and students with learning disabilities: A meta-analysis. *Learning Disability Quarterly, 34*(1), 51–72. [doi:10.1177/073194871103400104](https://doi.org/10.1177/073194871103400104)
 - Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. [doi:10.3102/00346543076003413](https://doi.org/10.3102/00346543076003413)
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)

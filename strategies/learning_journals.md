@@ -72,4 +72,4 @@ Learning journals work primarily by forcing elaboration and self-monitoring: tra
 - Moon, J. A. (2006). *Learning Journals: A Handbook for Reflective Practice and Professional Development* (2nd ed.). Routledge.
 - Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
-- Connor-Greene, P. A. (2000). Assessing and promoting student learning: Blurring the line between teaching and testing. *Teaching of Psychology, 27*(3), 195–198. [doi:10.1207/s15328023top2702_01](https://doi.org/10.1207/s15328023top2702_01)
+- Connor-Greene, P. A. (2000). Assessing and promoting student learning: Blurring the line between teaching and testing. *Teaching of Psychology, 27*(2), 84-88. [doi:10.1207/s15328023top2702_01](https://doi.org/10.1207/s15328023top2702_01)

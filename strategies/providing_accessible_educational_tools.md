@@ -77,5 +77,5 @@ Tool access shifts the burden of adapting a task from the teacher to the learner
 ## Key Sources
 - Dolan, R. P., & Hall, T. E. (2001). Universal design for learning: Technology for a broader and more inclusive curriculum. *Journal of Special Education Technology, 16*(4), 39–46.
 - Rose, D. H., & Meyer, A. (2002). *Teaching every student in the digital age: Universal design for learning.* ASCD. [https://files.eric.ed.gov/fulltext/ED466086.pdf](https://files.eric.ed.gov/fulltext/ED466086.pdf)
-- Bouck, E. C., Satsangi, R., & Park, J. (2018). The concrete–representational–abstract approach for students with learning disabilities: An evidence-based practice. *Educational Psychology Review, 30*(2), 411–449. [doi:10.1177/0741932517721712](https://doi.org/10.1177/0741932517721712)
+- Bouck, E. C., Satsangi, R., & Park, J. (2018). The concrete–representational–abstract approach for students with learning disabilities: An evidence-based practice. *Remedial and Special Education, 39*(4), 211-228. [doi:10.1177/0741932517721712](https://doi.org/10.1177/0741932517721712)
 - Edyburn, D. L. (2006). Assistive technology and mild disabilities. *Special Education Technology Practice, 8*(4), 18–28.

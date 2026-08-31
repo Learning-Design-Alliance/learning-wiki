@@ -78,7 +78,7 @@ The number line's power comes from forcing a mapping between numerical magnitude
 - An elementary teacher prints a 0–100 line as a game board; students roll dice, move tokens, and must name "which number you're closest to" on landing, building estimation into movement.
 
 ## Key Sources
-- Siegler, R. S., & Ramani, G. B. (2009). Playing linear number board games—but not circular ones—improves low-income children's numerical understanding. *Child Development, 80*(2), 375–395. [doi:10.1037/a0014239](https://doi.org/10.1037/a0014239)
+- Siegler, R. S., & Ramani, G. B. (2009). Playing linear number board games—but not circular ones—improves low-income children's numerical understanding. *Journal of Educational Psychology, 101*(3), 545-560. [doi:10.1037/a0014239](https://doi.org/10.1037/a0014239)
 - Booth, J. L., & Siegler, R. S. (2008). Numerical magnitude representations influence arithmetic learning. *Child Development, 79*(4), 1016–1031. [doi:10.1111/j.1467-8624.2008.01173.x](https://doi.org/10.1111/j.1467-8624.2008.01173.x)
 - Ainsworth, S. (2006). DeFT: A conceptual framework for considering learning with multiple representations. *Learning and Instruction, 16*(3), 183–198. [doi:10.1016/j.learninstruc.2006.03.001](https://doi.org/10.1016/j.learninstruc.2006.03.001)
 - Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review, 3*(3), 149–210. [doi:10.1007/BF01320076](https://doi.org/10.1007/BF01320076)

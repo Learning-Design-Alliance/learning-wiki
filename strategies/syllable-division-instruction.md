@@ -67,7 +67,7 @@ Syllable division reduces the working-memory burden of decoding long words by co
 - **[Reading Rockets](https://www.readingrockets.org)** publishes classroom routines for teaching syllable patterns and division in whole-class and intervention settings.
 
 ## Key Sources
-- Bhattacharya, A., & Ehri, L. C. (2004). Graphosyllabic analysis helps adolescent struggling readers read and spell words. *Journal of Educational Psychology, 96*(1), 27–39. [doi:10.1177/00222194040370040501](https://doi.org/10.1177/00222194040370040501)
+- Bhattacharya, A., & Ehri, L. C. (2004). Graphosyllabic analysis helps adolescent struggling readers read and spell words. *Journal of Learning Disabilities, 37*(4), 331-348. [doi:10.1177/00222194040370040501](https://doi.org/10.1177/00222194040370040501)
 - Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Review of Educational Research, 71*(3), 393–447. [doi:10.3102/00346543071003393](https://doi.org/10.3102/00346543071003393)
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
 - National Institute of Child Health and Human Development. (2000). *Report of the National Reading Panel: Teaching children to read*. U.S. Government Printing Office.

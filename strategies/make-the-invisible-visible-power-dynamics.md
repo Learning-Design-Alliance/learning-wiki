@@ -68,7 +68,7 @@ Surfacing power dynamics converts an implicit political process into an inspecta
 
 ## Key Sources
 - Costanza-Chock, S. (2020). *Design justice: Community-led practices to build the worlds we need.* MIT Press. [doi:10.7551/mitpress/12255.001.0001](https://doi.org/10.7551/mitpress/12255.001.0001)
-- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
+- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record: The Voice of Scholarship in Education, 106*(4), 651-688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
 - Cook-Sather, A. (2014). Student-faculty partnership in explorations of pedagogical practice: A threshold concept in academic development. *International Journal for Academic Development, 19*(3), 220–233. [doi:10.1080/1360144X.2013.842696](https://doi.org/10.1080/1360144X.2013.842696)
 - Hammond, Z. (2015). *Culturally responsive teaching and the brain.* Corwin.
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

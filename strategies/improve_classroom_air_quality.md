@@ -63,7 +63,7 @@ Elevated CO₂ and poor ventilation measurably reduce attention, decision-making
 
 ## Key Sources
 - Mendell, M. J., & Heath, G. A. (2005). Do indoor pollutants and thermal conditions in schools influence student performance? A critical review of the literature. *Indoor Air, 15*(1), 27–52. [doi:10.1111/j.1600-0668.2004.00320.x](https://doi.org/10.1111/j.1600-0668.2004.00320.x)
-- Wargocki, P., & Wyon, D. P. (2013). Providing better thermal and air quality conditions in school classrooms would be cost-effective. *Indoor Air, 23*(5), 432–439. [doi:10.1016/j.buildenv.2012.10.007](https://doi.org/10.1016/j.buildenv.2012.10.007)
+- Wargocki, P., & Wyon, D. P. (2013). Providing better thermal and air quality conditions in school classrooms would be cost-effective. *Building and Environment, 59*(5), 581-589. [doi:10.1016/j.buildenv.2012.10.007](https://doi.org/10.1016/j.buildenv.2012.10.007)
 - Haverinen-Shaughnessy, U., Moschandreas, D. J., & Shaughnessy, R. J. (2011). Association between substandard classroom ventilation rates and students' academic achievement. *Indoor Air, 21*(2), 121–131. [doi:10.1111/j.1600-0668.2010.00686.x](https://doi.org/10.1111/j.1600-0668.2010.00686.x)
-- Fisk, W. J. (2017). The ventilation problem in schools: Literature review. *Indoor Air, 27*(5), 879–902. [doi:10.1111/ina.12403](https://doi.org/10.1111/ina.12403)
+- Fisk, W. J. (2017). The ventilation problem in schools: Literature review. *Indoor Air, 27*(6), 1039-1051. [doi:10.1111/ina.12403](https://doi.org/10.1111/ina.12403)
 - Jones, S. E., Axelrad, R., & Wattigney, W. A. (2007). Healthy and safe school environment, Part II, Physical school environment: Results from the School Health Policies and Programs Study 2006. *Journal of School Health, 77*(9), 544–556. [doi:10.1111/j.1746-1561.2007.00233.x](https://doi.org/10.1111/j.1746-1561.2007.00233.x)

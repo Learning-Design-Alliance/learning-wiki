@@ -68,7 +68,7 @@ Errors are cognitively valuable: being corrected after committing an error produ
 
 ## Key Sources
 - Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465–489. [doi:10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)
-- Kapur, M. (2014). Productive failure in learning math. *Journal of the Learning Sciences, 23*(2), 289–328. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)
+- Kapur, M. (2014). Productive failure in learning math. *Cognitive Science, 38*(5), 1008-1022. [doi:10.1111/cogs.12107](https://doi.org/10.1111/cogs.12107)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Dweck, C. S. (2006). *Mindset: The new psychology of success.* Random House.

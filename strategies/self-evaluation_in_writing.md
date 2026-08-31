@@ -77,7 +77,7 @@ Self-evaluation is the self-assessment step within self-regulated writing cycles
 **Portfolio self-assessment in Writers' Workshop** — Students select pieces, evaluate them against published criteria, and write reflective cover letters justifying their judgments, combining evaluation with [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md).
 
 ## Key Sources
-- Graham, S., & Perin, D. (2007). Writing next: Effective strategies to improve writing of adolescents in middle and high schools. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
+- Graham, S., & Perin, D. (2007). Writing next: Effective strategies to improve writing of adolescents in middle and high schools. *Journal of Educational Psychology, 99*(3), 445–476.
 - Graham, S., & Harris, K. R. (2005). Improving the writing performance of young struggling writers: Theoretical and programmatic research from the center on accelerating student learning. *The Journal of Special Education, 39*(1), 19–33. [doi:10.1177/00224669050390010301](https://doi.org/10.1177/00224669050390010301)
 - Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*(3), 245–281. [doi:10.3102/00346543065003245](https://doi.org/10.3102/00346543065003245)
 - Zimmerman, B. J., & Risemberg, R. (1997). Becoming a self-regulated writer: A social cognitive perspective. *Contemporary Educational Psychology, 22*(1), 73–101. [doi:10.1006/ceps.1997.0919](https://doi.org/10.1006/ceps.1997.0919)

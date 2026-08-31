@@ -66,7 +66,7 @@ Refutation texts work by surfacing and directly challenging misconceptions rathe
 
 ## Key Sources
 - Guzzetti, B. J., Snyder, T. E., Glass, G. V., & Gamas, W. S. (1993). Promoting conceptual change in science: A comparative meta-analysis of instructional interventions from reading education and science education. *Reading Research Quarterly, 28*(2), 116–159. [doi:10.2307/747886](https://doi.org/10.2307/747886)
-- Tippett, C. D. (2010). Refutation text in science education: A review of two decades of research. *International Journal of Science and Mathematics Education, 8*(4), 951–970. [doi:10.1007/s10763-010-9203-x](https://doi.org/10.1007/s10763-010-9203-x)
+- Tippett, C. D. (2010). Refutation text in science education: A review of two decades of research. *International Journal of Science and Mathematics Education, 8*(6), 951-970. [doi:10.1007/s10763-010-9203-x](https://doi.org/10.1007/s10763-010-9203-x)
 - Kowalski, P., & Taylor, A. K. (2009). The effect of refuting misconceptions in the introductory psychology class. *Teaching of Psychology, 36*(3), 153–159. [doi:10.1080/00986280902959986](https://doi.org/10.1080/00986280902959986)
 - Sinatra, G. M., & Broughton, S. H. (2011). Bridging reading comprehension and conceptual change in science education: The promise of refutation text. *Reading Research Quarterly, 46*(4), 374–393. [doi:10.1002/rrq.005](https://doi.org/10.1002/rrq.005)
 - Lewandowsky, S., Ecker, U. K. H., Seifert, C. M., Schwarz, N., & Cook, J. (2012). Misinformation and its correction: Continued influence and successful debiasing. *Psychological Science in the Public Interest, 13*(3), 106–131. [doi:10.1177/1529100612451018](https://doi.org/10.1177/1529100612451018)

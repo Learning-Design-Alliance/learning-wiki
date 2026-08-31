@@ -69,5 +69,5 @@ Shadowing functions as a form of situated, perspective-taking inquiry: the adult
 ## Key Sources
 - Cook-Sather, A. (2002). Authorizing students' perspectives: Toward trust, dialogue, and change in education. *Educational Researcher, 31*(4), 3–14. [doi:10.3102/0013189X031004003](https://doi.org/10.3102/0013189X031004003)
 - Cook-Sather, A. (2009). "I am not afraid to listen": Prospective teachers learning from students. *Theory Into Practice, 48*(4), 257–264. [doi:10.1080/00405840902997261](https://doi.org/10.1080/00405840902997261)
-- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
+- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record: The Voice of Scholarship in Education, 106*(4), 651-688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
 - Fielding, M. (2001). Students as radical agents of change. *Journal of Educational Change, 2*(3), 123–141. [doi:10.1023/A:1017949213447](https://doi.org/10.1023/A:1017949213447)

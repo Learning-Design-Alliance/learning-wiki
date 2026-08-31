@@ -81,7 +81,7 @@ The format combines two evidence-backed mechanisms: structured peer discussion a
 - **Edutopia's published pinwheel protocol** ([edutopia.org](https://www.edutopia.org)) — describes the four-group rotation with provocateurs as a classroom-ready discussion structure for secondary ELA and social studies.
 
 ## Key Sources
-- Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Review of Educational Research, 79*(2), 814–859. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)
+- Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Journal of Educational Psychology, 101*(3), 740-764. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Mercer, N. (2000). *Words and Minds: How We Use Language to Think Together.* Routledge.
 - Resnick, L. B., Michaels, S., & O'Connor, C. (2010). How (well-structured) talk builds the mind. In R. Sternberg & D. Preiss (Eds.), *Innovations in Educational Psychology.* Springer.

@@ -81,6 +81,6 @@ PALS converts [Practice](../elements/practice.md) into high-frequency, individua
 
 ## Key Sources
 - Fuchs, D., & Fuchs, L. S. (2005). Peer-assisted learning strategies: Promoting word recognition, fluency, and reading comprehension in young children. *Journal of Educational Psychology, 97*(2), 251–261. [doi:10.1037/0022-0663.97.2.251](https://doi.org/10.1037/0022-0663.97.2.251)
-- Mathes, P. G., Torgesen, J. K., Clancy-Menchetti, J., Santi, K., Nicholas, K., Robinson, C., & Grek, M. (2003). A comparison of teacher-directed versus peer-assisted instruction to struggling first-grade readers. *The Elementary School Journal, 103*(5), 455–473. [doi:10.1086/499735](https://doi.org/10.1086/499735)
+- Mathes, P. G., Torgesen, J. K., Clancy-Menchetti, J., Santi, K., Nicholas, K., Robinson, C., & Grek, M. (2003). A comparison of teacher-directed versus peer-assisted instruction to struggling first-grade readers. *The Elementary School Journal, 103*(5), 459-479. [doi:10.1086/499735](https://doi.org/10.1086/499735)
 - Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R. (2003). Peer-assisted learning interventions with elementary school students: A meta-analytic review. *Journal of Educational Psychology, 95*(2), 240–257. [doi:10.1037/0022-0663.95.2.240](https://doi.org/10.1037/0022-0663.95.2.240)
 - Topping, K. J. (2005). Trends in peer learning. *Educational Psychology, 25*(6), 631–645. [doi:10.1080/01443410500345172](https://doi.org/10.1080/01443410500345172)

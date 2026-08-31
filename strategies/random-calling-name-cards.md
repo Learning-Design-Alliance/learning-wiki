@@ -68,7 +68,7 @@ Random calling converts a whole-class question from an optional invitation into 
 - **University seminar courses** (documented in Dallimore et al.'s research on MBA and undergraduate classes) — instructors using cold calling report higher voluntary participation and higher perceived learning once the norm is established.
 
 ## Key Sources
-- Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation and perceptions of learning. *Journal on Excellence in College Teaching, 24*(2), 25–52. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
+- Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation and perceptions of learning. *Journal of Management Education, 37*(3), 305-341. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
 - Rowe, M. B. (1986). Wait time: Slowing down may be a way of speeding up! *Journal of Teacher Education, 37*(1), 43–50. [doi:10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
 - Cohen, E. G. (1994). *Designing groupwork: Strategies for the heterogeneous classroom* (2nd ed.). Teachers College Press.
 - Lemov, D. (2015). *Teach like a champion 2.0: 62 techniques that put students on the path to college*. Jossey-Bass.

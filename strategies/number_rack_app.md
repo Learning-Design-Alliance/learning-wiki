@@ -69,7 +69,7 @@ The rekenrek's 5-and-10 structure exploits subitizing and the fives-structure of
 - **Bridges in Mathematics (K–2)** — classroom lessons using physical and digital rekenreks for quick images, ten-frame equivalents, and story-problem modeling.
 
 ## Key Sources
-- Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Research, 106*(1), 45–59. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)
+- Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Psychology, 105*(2), 380-400. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)
 - Clements, D. H., & Sarama, J. (2020). Learning and teaching early math: The learning trajectories approach (3rd ed.). Routledge. [doi:10.4324/9780203520574](https://doi.org/10.4324/9780203520574)
 - Moyer-Packenham, P. S., & Westenskow, A. (2013). Effects of virtual manipulatives on student achievement and mathematics learning. *International Journal of Virtual and Personal Learning Environments, 4*(3), 35–50.
 - Gravemeijer, K., & van Galen, F. (2003). Facts and algorithms as products and goals of mathematics learning. In J. Kilpatrick, W. G. Martin, & D. Schifter (Eds.), *A research companion to Principles and Standards for School Mathematics* (pp. 114–122). NCTM.

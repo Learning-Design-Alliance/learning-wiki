@@ -68,6 +68,6 @@ Reading and writing instruction produce stronger outcomes when integrated than w
 ## Key Sources
 - Graham, S., & Perin, D. (2007). Writing next: Effective strategies to improve writing of adolescents in middle and high schools. *A report to the Carnegie Corporation of New York*. [doi:10.17763/haer.77.1.951705466374h377](https://doi.org/10.17763/haer.77.1.951705466374h377)
 - Graham, S., & Hebert, M. (2010). *Writing to read: Evidence for how writing can improve reading*. Carnegie Corporation of New York.
-- Fitzgerald, J., & Shanahan, T. (2000). Reading and writing relations and their development. *Reading Research Quarterly, 35*(1), 39–75. [doi:10.1207/s15326985ep3501_5](https://doi.org/10.1207/s15326985ep3501_5)
+- Fitzgerald, J., & Shanahan, T. (2000). Reading and writing relations and their development. *Educational Psychologist, 35*(1), 39-50. [doi:10.1207/s15326985ep3501_5](https://doi.org/10.1207/s15326985ep3501_5)
 - Shanahan, T. (2006). Relations among oral language, reading, and writing development. In C. A. MacArthur, S. Graham, & J. Fitzgerald (Eds.), *Handbook of writing research* (pp. 171–183). Guilford Press.
-- Graham, S. (2019). Changing how writing is taught. *Science, 361*(6400), 302–303. [doi:10.3102/0091732x18821125](https://doi.org/10.3102/0091732x18821125)
+- Graham, S. (2019). Changing how writing is taught. *Review of Research in Education, 43*(1), 277-303. [doi:10.3102/0091732x18821125](https://doi.org/10.3102/0091732x18821125)

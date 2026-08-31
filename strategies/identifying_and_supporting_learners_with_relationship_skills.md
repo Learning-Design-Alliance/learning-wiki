@@ -74,7 +74,7 @@ Relationship skills are teachable: meta-analytic evidence shows that sequenced, 
 
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
-- Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: From programs to strategies. *Social Policy Report, 26*(4), 1–33. [doi:10.1002/j.2379-3988.2012.tb00073.x](https://doi.org/10.1002/j.2379-3988.2012.tb00073.x)
+- Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: From programs to strategies. *Child Policy Nexus, 26*(4), 1-33. [doi:10.1002/j.2379-3988.2012.tb00073.x](https://doi.org/10.1002/j.2379-3988.2012.tb00073.x)
 - Denham, S. A., & Brown, C. (2010). "Plays nice with others": Social-emotional learning and academic success. *Early Education and Development, 21*(5), 652–680. [doi:10.1080/10409289.2010.497450](https://doi.org/10.1080/10409289.2010.497450)
 - Collaborative for Academic, Social, and Emotional Learning (CASEL). *Framework for systemic social and emotional learning.* https://casel.org/fundamentals-of-sel/
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

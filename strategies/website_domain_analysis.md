@@ -63,7 +63,7 @@ Domain analysis provides a concrete, teachable framework that supports critical 
 - A first-year composition course where students annotate their bibliographies with a domain analysis plus a lateral-reading note on what other sources say about each publisher.
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: The studies of civic online reasoning. *Teachers College Record, 121*(11), 1–32. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: The studies of civic online reasoning. *Teachers College Record, 121*(11), 1–32.
 - Breakstone, J., Smith, M., Orland, M., Barr, D., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189X211017495](https://doi.org/10.3102/0013189X211017495)
 - Metzger, M. J., Flanagin, A. J., & Medders, R. B. (2010). Social and heuristic approaches to credibility evaluation online. *Journal of Communication, 60*(3), 413–439. [doi:10.1111/j.1460-2466.2010.01488.x](https://doi.org/10.1111/j.1460-2466.2010.01488.x)
 - Kiili, C., Leu, D. J., Marttunen, M., Hautala, J., & Leppänen, P. H. T. (2018). Evaluating the credibility of online sources: The effects of reading purpose and topic on students' evaluation skills. *Computers & Education, 117*, 172–184. [doi:10.1016/j.compedu.2017.10.005](https://doi.org/10.1016/j.compedu.2017.10.005)

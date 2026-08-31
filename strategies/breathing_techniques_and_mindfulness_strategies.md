@@ -67,7 +67,7 @@ Mindfulness-based practices in school settings show small-to-moderate positive e
 - A high school teacher leads a daily two-minute box-breathing exercise before starting academic work, then prompts students to use it independently before assessments.
 
 ## Key Sources
-- Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Mindfulness, 5*(6), 691–704. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
+- Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools — a systematic review and meta-analysis. *Frontiers in Psychology, 5*(6), 691. [doi:10.3389/fpsyg.2014.00603](https://doi.org/10.3389/fpsyg.2014.00603)
 - Hölzel, B. K., Lazar, S. W., Gard, T., Schuman-Olivier, Z., Vago, D. R., & Ott, U. (2011). How does mindfulness meditation work? Proposing mechanisms of action from a conceptual and neural perspective. *Perspectives on Psychological Science, 6*(6), 537–559. [doi:10.1177/1745691611419671](https://doi.org/10.1177/1745691611419671)
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Kabat-Zinn, J. (1982). An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation. *General Hospital Psychiatry, 4*(1), 33–47. [doi:10.1016/0163-8343(82)90026-3](https://doi.org/10.1016/0163-8343(82)90026-3)

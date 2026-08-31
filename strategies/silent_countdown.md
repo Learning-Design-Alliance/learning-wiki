@@ -64,7 +64,7 @@ Non-verbal cueing and predictable routines reduce instructional disruption and p
 - Teach Like a Champion's "100%" and "Strong Voice" techniques (Lemov, 2010) describe silent, non-verbal compliance signals of this kind in high-performing urban classrooms.
 
 ## Key Sources
-- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(3), 351–380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
+- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
 - Kounin, J. S. (1970). *Discipline and group management in classrooms.* New York: Holt, Rinehart & Winston.
 - Emmer, E. T., & Stough, L. M. (2001). Classroom management: A critical part of educational psychology, with implications for teacher education. *Educational Psychologist, 36*(2), 103–112. [doi:10.1207/S15326985EP3602_5](https://doi.org/10.1207/S15326985EP3602_5)
 - Lemov, D. (2010). *Teach Like a Champion.* San Francisco: Jossey-Bass.

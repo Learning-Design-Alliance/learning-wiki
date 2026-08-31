@@ -75,6 +75,6 @@ Feedback content quality matters more than delivery medium, but format affects h
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
-- Lunt, T., & Curran, J. (2010). 'Are you listening please?' The advantages of electronic audio feedback compared to written feedback. *Assessment & Evaluation in Higher Education, 35*(4), 433–444. [doi:10.1080/02602930902977772](https://doi.org/10.1080/02602930902977772)
-- Ice, P., Diaz, C. R., Hueng, K., Brooks, D., Baran, E., & Swan, K. (2007). An exploratory study of the effects of asynchronous audio feedback on student perceptions of teaching presence. *Journal of Asynchronous Learning Networks, 11*(2), 15–34. [doi:10.24059/olj.v11i2.1724](https://doi.org/10.24059/olj.v11i2.1724)
-- Henderson, M., & Phillips, M. (2015). Video-based feedback on student assessment: scarily personal. *Australian Journal of Educational Technology, 31*(1), 51–66. [doi:10.14742/ajet.1878](https://doi.org/10.14742/ajet.1878)
+- Lunt, T., & Curran, J. (2010). 'Are you listening please?' The advantages of electronic audio feedback compared to written feedback. *Assessment &amp; Evaluation in Higher Education, 35*(7), 759-769. [doi:10.1080/02602930902977772](https://doi.org/10.1080/02602930902977772)
+- Ice, P., Diaz, C. R., Hueng, K., Brooks, D., Baran, E., & Swan, K. (2007). An exploratory study of the effects of asynchronous audio feedback on student perceptions of teaching presence. *Journal of Asynchronous Learning Networks, 11*(2), 15–34.
+- Henderson, M., & Phillips, M. (2015). Video-based feedback on student assessment: scarily personal. *Australasian Journal of Educational Technology, 31*(1), 51. [doi:10.14742/ajet.1878](https://doi.org/10.14742/ajet.1878)

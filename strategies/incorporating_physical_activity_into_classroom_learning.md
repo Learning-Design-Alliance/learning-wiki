@@ -68,6 +68,6 @@ Movement-based instruction works when the physical activity is *semantically con
 
 ## Key Sources
 - Donnelly, J. E., & Lambourne, K. (2011). Classroom-based physical activity, cognition, and academic achievement. *Preventive Medicine, 52*(Suppl. 1), S36–S42. [doi:10.1016/j.ypmed.2011.01.021](https://doi.org/10.1016/j.ypmed.2011.01.021)
-- Fedewa, A. L., & Ahn, S. (2011). The effects of physical activity and physical fitness on children's achievement outcomes: A meta-analysis. *Research Quarterly for Exercise and Sport, 82*(4), 521–535. [doi:10.1080/02701367.2011.10599785](https://doi.org/10.1080/02701367.2011.10599785)
+- Fedewa, A. L., & Ahn, S. (2011). The effects of physical activity and physical fitness on children's achievement outcomes: A meta-analysis. *Research Quarterly for Exercise and Sport, 82*(3), 521-535. [doi:10.1080/02701367.2011.10599785](https://doi.org/10.1080/02701367.2011.10599785)
 - Toumpaniari, K., Loyens, S., Mavilidi, M.-F., & Paas, F. (2015). Preschool children's foreign language vocabulary learning by embodying words through physical activity and gesturing. *Educational Psychology Review, 27*(3), 445–456. [doi:10.1007/s10648-015-9316-4](https://doi.org/10.1007/s10648-015-9316-4)
 - Hillman, C. H., Pontifex, M. B., Raine, L. B., Castelli, D. M., Hall, E. E., & Kramer, A. F. (2009). The effect of acute treadmill walking on cognitive control and academic achievement in preadolescent children. *Neuroscience, 159*(3), 1044–1054. [doi:10.1016/j.neuroscience.2009.01.057](https://doi.org/10.1016/j.neuroscience.2009.01.057)

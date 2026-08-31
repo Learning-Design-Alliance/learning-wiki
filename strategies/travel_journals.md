@@ -69,7 +69,7 @@ Travel journals work because they force elaborative encoding: translating experi
 
 ## Key Sources
 - Moon, J. A. (2006). *Learning Journals: A Handbook for Reflective Practice and Professional Development* (2nd ed.). Routledge.
-- Connor-Greene, P. A. (2000). Assessing and promoting student learning: Blurring the line between teaching and testing. *College Teaching, 48*(2), 62–65. [doi:10.1207/s15328023top2702_01](https://doi.org/10.1207/s15328023top2702_01)
+- Connor-Greene, P. A. (2000). Assessing and promoting student learning: Blurring the line between teaching and testing. *Teaching of Psychology, 27*(2), 84-88. [doi:10.1207/s15328023top2702_01](https://doi.org/10.1207/s15328023top2702_01)
 - Hiemstra, R. (2001). Uses and benefits of journal writing. *New Directions for Adult and Continuing Education, 2001*(90), 19–26. [doi:10.1002/ace.17](https://doi.org/10.1002/ace.17)
 - Paivio, A. (1986). *Mental Representations: A Dual Coding Approach*. Oxford University Press.
 - Boud, D., Keogh, R., & Walker, D. (1985). *Reflection: Turning Experience into Learning*. Kogan Page.

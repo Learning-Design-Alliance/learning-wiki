@@ -66,7 +66,7 @@ Random calling distributes participation across the whole class and keeps every 
 - A statistics instructor poses a conceptual question, gives 60 seconds of silent think time, then two minutes of pair discussion, then spins the wheel — every learner has rehearsed an answer before anyone is named.
 
 ## Key Sources
-- Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation and perceptions of learning. *Journal of Management Education, 37*(4), 447–472. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
+- Dallimore, E. J., Hertenstein, J. H., & Platt, M. B. (2013). Impact of cold-calling on student voluntary participation and perceptions of learning. *Journal of Management Education, 37*(3), 305-341. [doi:10.1177/1052562912446067](https://doi.org/10.1177/1052562912446067)
 - Waugh, M., & Andrews, J. J. (2017). Effects of cold-calling on student participation and learning behaviors in a large-enrollment course. *Journal of Teaching and Learning with Technology, 6*, 45–60.
 - Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
 - Rowe, M. B. (1986). Wait time: Slowing down may be a way of speeding up! *Journal of Teacher Education, 37*(1), 43–50. [doi:10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)

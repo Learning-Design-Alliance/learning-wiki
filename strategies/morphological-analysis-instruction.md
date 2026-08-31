@@ -68,6 +68,6 @@ Morphological analysis converts vocabulary learning from rote memorization of th
 
 ## Key Sources
 - Goodwin, A. P., & Ahn, S. (2013). A meta-analysis of morphological interventions in English: Effects on literacy outcomes for school-age children. *Scientific Studies of Reading, 17*(4), 257–285. [doi:10.1080/10888438.2012.689791](https://doi.org/10.1080/10888438.2012.689791)
-- Bowers, P. N., Kirby, J. R., & Deacon, S. H. (2010). The effects of morphological instruction on literacy skills: A systematic review of the literature. *Reading Research Quarterly, 45*(3), 394–407. [doi:10.3102/0034654309359353](https://doi.org/10.3102/0034654309359353)
+- Bowers, P. N., Kirby, J. R., & Deacon, S. H. (2010). The effects of morphological instruction on literacy skills: A systematic review of the literature. *Review of Educational Research, 80*(2), 144-179. [doi:10.3102/0034654309359353](https://doi.org/10.3102/0034654309359353)
 - Carlisle, J. F. (2010). Effects of instruction in morphological awareness on literacy achievement: An integrative review. *Reading Research Quarterly, 45*(4), 464–487. [doi:10.1598/RRQ.45.4.5](https://doi.org/10.1598/RRQ.45.4.5)
 - Nagy, W., Berninger, V. W., & Abbott, R. D. (2006). Contributions of morphology beyond phonology to literacy outcomes of upper elementary and middle-school students. *Journal of Educational Psychology, 98*(1), 134–147. [doi:10.1037/0022-0663.98.1.134](https://doi.org/10.1037/0022-0663.98.1.134)

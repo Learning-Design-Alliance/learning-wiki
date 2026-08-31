@@ -65,6 +65,6 @@ Lateral reading works because it shifts evaluation from judging *content* to jud
 - **A high school civics unit**: students evaluate a polished advocacy site, first vertically, then laterally, discovering through a Wikipedia search that the organization is an industry front group
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: The studies of professional fact-checkers. *Teachers College Record, 121*(9), 1–24. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
-- Breakstone, J., Smith, M., Ortega, P., Kerr, D., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 539–550. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
-- McGrew, S., Breakstone, J., Ortega, T., Kaiser, M., & Wineburg, S. (2018). Can students evaluate online sources? Learning from assessments of civic online reasoning. *Theory & Research in Social Education, 46*(2), 165–193. [doi:10.1080/00933104.2017.1416320](https://doi.org/10.1080/00933104.2017.1416320)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: The studies of professional fact-checkers. *Teachers College Record, 121*(9), 1–24.
+- Breakstone, J., Smith, M., Ortega, P., Kerr, D., & Wineburg, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505-515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
+- McGrew, S., Breakstone, J., Ortega, T., Kaiser, M., & Wineburg, S. (2018). Can students evaluate online sources? Learning from assessments of civic online reasoning. *Theory &amp; Research in Social Education, 46*(2), 165-193. [doi:10.1080/00933104.2017.1416320](https://doi.org/10.1080/00933104.2017.1416320)

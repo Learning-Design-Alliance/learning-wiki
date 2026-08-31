@@ -69,7 +69,7 @@ A culture of error changes what learners do with mistakes: instead of concealing
 - **Code review culture in CS courses** — peer review routines that frame bugs as normal artifacts of programming, with explicit norms against blaming the author.
 
 ## Key Sources
-- Kapur, M. (2008). Product failure. *Cognition and Instruction, 26*(3), 379–424. [doi:10.1080/07370000802212669](https://doi.org/10.1080/07370000802212669)
+- Kapur, M. (2008). Product failure. *Cognition and Instruction, 26*(3), 379–424.
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. *Psychological Science, 29*(4), 549–571. [doi:10.1177/0956797617739704](https://doi.org/10.1177/0956797617739704)

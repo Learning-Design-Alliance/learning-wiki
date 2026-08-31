@@ -67,7 +67,7 @@ Phonics works because it builds automatic word recognition, which frees limited 
 - **[Endless Alphabet / Teach Your Monster to Read](https://www.teachyourmonster.org)** — Adaptive games that drill letter–sound correspondences with immediate feedback.
 
 ## Key Sources
-- Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub-Zadeh, Z., & Shanahan, T. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.5](https://doi.org/10.1598/RRQ.36.3.5)
+- Ehri, L. C., Nunes, S. R., Willows, D. M., Schuster, B. V., Yaghoub-Zadeh, Z., & Shanahan, T. (2001). Systematic phonics instruction helps students learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287.
 - Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert. *Psychological Science in the Public Interest, 19*(1), 5–51. [doi:10.1177/1529100618772271](https://doi.org/10.1177/1529100618772271)
 - Galuschka, K., Ise, E., Krick, K., & Schulte-Körne, G. (2014). Effectiveness of treatment approaches for children and adolescents with reading disabilities: A meta-analysis of randomized controlled trials. *PLOS ONE, 9*(2), e89923. [doi:10.1371/journal.pone.0089900](https://doi.org/10.1371/journal.pone.0089900)
 - National Reading Panel (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction.* National Institute of Child Health and Human Development.

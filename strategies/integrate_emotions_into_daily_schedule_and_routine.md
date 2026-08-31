@@ -69,5 +69,5 @@ Anticipating emotions before they occur is a form of situation selection and cog
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
 - Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. *Review of General Psychology, 2*(3), 271–299. [doi:10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271)
-- Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: From programs to strategies. *Social Policy Report, 26*(4), 1–33. [doi:10.1002/j.2379-3988.2012.tb00073.x](https://doi.org/10.1002/j.2379-3988.2012.tb00073.x)
+- Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: From programs to strategies. *Child Policy Nexus, 26*(4), 1-33. [doi:10.1002/j.2379-3988.2012.tb00073.x](https://doi.org/10.1002/j.2379-3988.2012.tb00073.x)
 - Raver, C. C. (2002). Emotions matter: Making the case for the role of young children's emotional development for early school readiness. *Social Policy Report, 16*(3), 3–18.

@@ -75,7 +75,7 @@ Visual mnemonics work best when the image is *interactive* — when it links the
 
 ## Key Sources
 - Paivio, A. (1991). Dual coding theory: Retrospect and current status. *Canadian Journal of Psychology, 45*(3), 255–287. [doi:10.1037/h0084295](https://doi.org/10.1037/h0084295)
-- Raugh, M. R., & Atkinson, R. C. (1975). A mnemonic method for learning a second-language vocabulary. *Journal of Experimental Psychology: Human Learning and Memory, 1*(2), 126–139. [doi:10.1037/h0078665](https://doi.org/10.1037/h0078665)
+- Raugh, M. R., & Atkinson, R. C. (1975). A mnemonic method for learning a second-language vocabulary. *Journal of Educational Psychology, 67*(1), 1-16. [doi:10.1037/h0078665](https://doi.org/10.1037/h0078665)
 - Carney, R. N., & Levin, J. R. (2002). Pictorial illustrations still improve students' learning from text. *Educational Psychology Review, 14*(1), 5–26. [doi:10.1023/a:1013176309260](https://doi.org/10.1023/a:1013176309260)
 - Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
 - Willoughby, T., Porter, L., Belsito, L., & Yearsley, T. (1999). The effectiveness of mnemonics for three different educational tasks. *Applied Cognitive Psychology, 13*(5), 437–452.

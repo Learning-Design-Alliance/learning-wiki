@@ -96,7 +96,7 @@ Social awareness develops through the same mechanisms as other complex skills: o
 
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)
-- Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: From programs to strategies. *Social Policy Report, 26*(4), 1–33. [doi:10.1002/j.2379-3988.2012.tb00073.x](https://doi.org/10.1002/j.2379-3988.2012.tb00073.x)
+- Jones, S. M., & Bouffard, S. M. (2012). Social and emotional learning in schools: From programs to strategies. *Child Policy Nexus, 26*(4), 1-33. [doi:10.1002/j.2379-3988.2012.tb00073.x](https://doi.org/10.1002/j.2379-3988.2012.tb00073.x)
 - Bandura, A. (1977). *Social learning theory.* Prentice Hall.
 - Jagers, R. J., Rivas-Drake, D., & Williams, B. (2019). Transformative social and emotional learning (SEL): Toward SEL in service of educational equity and excellence. *Educational Psychologist, 54*(3), 162–184. [doi:10.1080/00461520.2019.1623032](https://doi.org/10.1080/00461520.2019.1623032)
 - CASEL. (2020). *CASEL's SEL framework: What are the core competence areas and where are they promoted?* Collaborative for Academic, Social, and Emotional Learning. [https://casel.org](https://casel.org)

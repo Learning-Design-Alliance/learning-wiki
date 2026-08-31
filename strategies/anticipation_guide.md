@@ -68,5 +68,5 @@ Anticipation guides work by activating relevant prior knowledge before new conte
 ## Key Sources
 - Duffelmeyer, F. A., Baum, D. D., & Merkley, N. J. (1987). Maximizing reader-anticipated conflict: An intervention. *Journal of Reading Behavior, 19*(2), 157–170.
 - Head, M. H., & Readence, J. E. (1986). Anticipation guides: Meaning through prediction. In E. K. Dishner et al. (Eds.), *Reading in the content areas* (pp. 226–231). Kendall/Hunt.
-- Vosniadou, S. (2013). Conceptual change in learning and instruction: From framework frameworks to framework theory. *Zeitschrift für Pädagogische Psychologie, 27*(1), 5–9. [doi:10.4324/9780203154472.ch1](https://doi.org/10.4324/9780203154472.ch1)
+- Vosniadou, S. (2013). Conceptual change in learning and instruction: From framework frameworks to framework theory. *International Handbook of Research on Conceptual Change, 27*(1), 5. [doi:10.4324/9780203154472.ch1](https://doi.org/10.4324/9780203154472.ch1)
 - Dole, J. A., Duffy, G. G., Roehler, L. R., & Pearson, P. D. (1991). Moving from the old to the new: Research on reading comprehension instruction. *Review of Educational Research, 61*(2), 239–264. [doi:10.3102/00346543061002239](https://doi.org/10.3102/00346543061002239)

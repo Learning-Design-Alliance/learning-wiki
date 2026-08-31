@@ -69,6 +69,6 @@ CICO works because it combines high-frequency adult attention, explicit behavior
 
 ## Key Sources
 - Crone, D. A., Hawken, L. S., & Horner, R. H. (2010). *Responding to problem behavior in schools: The Behavior Education Program* (2nd ed.). Guilford Press.
-- Hawken, L. S., MacLeod, K. S., & Rawlings, L. (2007). Effects of the Behavior Education Program on office discipline referrals of elementary school students. *Behavioral Disorders, 32*(4), 232–248. [doi:10.1177/10983007070090020601](https://doi.org/10.1177/10983007070090020601)
+- Hawken, L. S., MacLeod, K. S., & Rawlings, L. (2007). Effects of the Behavior Education Program on office discipline referrals of elementary school students. *Journal of Positive Behavior Interventions, 9*(2), 94-101. [doi:10.1177/10983007070090020601](https://doi.org/10.1177/10983007070090020601)
 - Drevon, D., Hixson, M. D., Wyse, R. D., & Rigney, A. M. (2019). A meta-analytic review of the evidence for Check In Check Out. *Psychology in the Schools, 56*(3), 393–412. [doi:10.1002/pits.22195](https://doi.org/10.1002/pits.22195)
 - Wolfe, K., Pyle, D., Charlton, C. T., Sabey, C. V., Lund, E. M., & Ross, S. W. (2016). A systematic review of the empirical support for Check-In Check-Out. *Journal of Positive Behavior Interventions, 18*(2), 74–88. [doi:10.1177/1098300715595957](https://doi.org/10.1177/1098300715595957)

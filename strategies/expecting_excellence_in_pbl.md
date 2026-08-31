@@ -76,7 +76,7 @@ Teacher expectations function as self-fulfilling prophecies: expectations shape 
 - A teacher launching a documentary project shows a strong prior student film with annotations explaining *why* it works, sets a rubric requiring multiple revision cycles, and schedules conferencing checkpoints — the same bar for all, with varied scaffolding.
 
 ## Key Sources
-- Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies. *Personality and Social Psychology Review, 9*(3), 131–155. [doi:10.1207/s15327957pspr0902_3](https://doi.org/10.1207/s15327957pspr0902_3)
+- Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies. *Personality and Social Psychology Review, 9*(2), 131-155. [doi:10.1207/s15327957pspr0902_3](https://doi.org/10.1207/s15327957pspr0902_3)
 - Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
 - Rosenthal, R., & Jacobson, L. (1968). *Pygmalion in the classroom: Teacher expectation and pupils' intellectual development.* Holt, Rinehart & Winston. [doi:10.2307/2092211](https://doi.org/10.2307/2092211)
 - Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement.* Routledge. [doi:10.4324/9780203887332](https://doi.org/10.4324/9780203887332)

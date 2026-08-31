@@ -69,6 +69,6 @@ Text Talk converts a passive listening activity into an active, dialogic one: ch
 ## Key Sources
 - Beck, I. L., & McKeown, M. G. (2001). Text Talk: Capturing the benefits of read-aloud experiences for young children. *The Reading Teacher, 55*(1), 10–20.
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing Words to Life: Robust Vocabulary Instruction* (2nd ed.). Guilford Press.
-- Dickinson, D. K., & Smith, M. W. (1994). Long-term effects of preschool teachers' book readings on low-income children's vocabulary and story comprehension. *Reading Research Quarterly, 29*(2), 105–122. [doi:10.2307/747807](https://doi.org/10.2307/747807)
+- Dickinson, D. K., & Smith, M. W. (1994). Long-term effects of preschool teachers' book readings on low-income children's vocabulary and story comprehension. *Reading Research Quarterly, 29*(2), 104. [doi:10.2307/747807](https://doi.org/10.2307/747807)
 - Whitehurst, G. J., et al. (1988). Accelerating language development through picture book reading. *Developmental Psychology, 24*(4), 552–559. [doi:10.1037/0012-1649.24.4.552](https://doi.org/10.1037/0012-1649.24.4.552)
 - Wasik, B. A., & Hindman, A. H. (2014). Understanding the active ingredients in an effective preschool vocabulary intervention: An exploratory study of teacher and child talk during book reading. *Early Childhood Research Quarterly, 29*(2), 175–188. [doi:10.1080/10409289.2014.896064](https://doi.org/10.1080/10409289.2014.896064)

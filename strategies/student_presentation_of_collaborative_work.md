@@ -68,7 +68,7 @@ Presenting group work requires learners to reconstruct and verbalize their reaso
 - University engineering courses using project-based learning (e.g., [PBL at Aalborg University](https://www.en.aau.dk/about-aau/profile/profile/education/pbl)) culminate in group presentations of designs to peers and external reviewers
 
 ## Key Sources
-- Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Psychologist, 44*(1), 15–23. [doi:10.3102/0013189x09339057](https://doi.org/10.3102/0013189x09339057)
+- Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365-379. [doi:10.3102/0013189x09339057](https://doi.org/10.3102/0013189x09339057)
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)
 - Cohen, E. G. (1994). Restructuring the classroom: Conditions for productive small groups. *Review of Educational Research, 64*(1), 1–35. [doi:10.3102/00346543064001001](https://doi.org/10.3102/00346543064001001)
 - Webb, N. M. (1989). Peer interaction and learning in small groups. *International Journal of Educational Research, 13*(1), 21–39. [doi:10.1016/0883-0355(89)90014-1](https://doi.org/10.1016/0883-0355(89)90014-1)

@@ -66,7 +66,7 @@ Drawing combines verbal and visual codes and forces generative processing, produ
 - **Science sketching curricula** — programs such as the [Science Sketches](https://www.science-sketches.org) initiative and university "sketch your science" activities ask students to draw and narrate scientific concepts for peers, combining drawing with explanation.
 
 ## Key Sources
-- Wammes, J. D., Meade, M. E., & Fernandes, M. A. (2016). Learning concepts by drawing: The benefit of drawing as a study strategy. *Quarterly Journal of Experimental Psychology, 69*(9), 1759–1773. [doi:10.1080/17470218.2015.1094494](https://doi.org/10.1080/17470218.2015.1094494)
+- Wammes, J. D., Meade, M. E., & Fernandes, M. A. (2016). Learning concepts by drawing: The benefit of drawing as a study strategy. *Quarterly Journal of Experimental Psychology, 69*(9), 1759–1773.
 - Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. *Educational Psychology Review, 28*(4), 717–741. [doi:10.1007/s10648-015-9348-9](https://doi.org/10.1007/s10648-015-9348-9)
 - Paivio, A. (1986). *Mental representations: A dual coding approach.* Oxford University Press.
 - Van Meter, P., & Garner, J. (2005). The promise and challenge of advancing visual literacy through learner-generated drawing. *Educational Psychology Review, 17*(4), 285–325. [doi:10.1007/s10648-005-8134-3](https://doi.org/10.1007/s10648-005-8134-3)

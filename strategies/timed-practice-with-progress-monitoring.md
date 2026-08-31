@@ -69,6 +69,6 @@ Timed practice targets the shift from accurate to *fluent* performance: automati
 
 ## Key Sources
 - Fuchs, L. S., & Fuchs, D. (1986). Effects of systematic formative evaluation: A meta-analysis. *Exceptional Children, 53*(3), 199–208. [doi:10.1177/001440298605300301](https://doi.org/10.1177/001440298605300301)
-- Stecker, P. M., Fuchs, L. S., & Fuchs, D. (2005). Using curriculum-based measurement to improve student achievement: Review of research. *Assessment for Effective Intervention, 30*(2), 15–26. [doi:10.1002/pits.20113](https://doi.org/10.1002/pits.20113)
-- Binder, C. (1996). Behavioral fluency: Evolution of a new field. *Journal of Precision Teaching and Celeration, 14*(2), 171–183. [doi:10.1007/bf03393163](https://doi.org/10.1007/bf03393163)
+- Stecker, P. M., Fuchs, L. S., & Fuchs, D. (2005). Using curriculum-based measurement to improve student achievement: Review of research. *Psychology in the Schools, 42*(8), 795-819. [doi:10.1002/pits.20113](https://doi.org/10.1002/pits.20113)
+- Binder, C. (1996). Behavioral fluency: Evolution of a new field. *The Behavior Analyst, 19*(2), 163-197. [doi:10.1007/bf03393163](https://doi.org/10.1007/bf03393163)
 - Codding, R. S., Archer, J., & Connell, J. (2010). A meta-analysis of mathematics intervention research effects on fluency. *Psychology in the Schools, 47*(4), 363–380. [doi:10.1002/pits.20476](https://doi.org/10.1002/pits.20476)

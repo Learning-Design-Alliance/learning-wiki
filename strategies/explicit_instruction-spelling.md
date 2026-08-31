@@ -67,7 +67,7 @@ Explicit instruction outperforms incidental or naturalistic approaches to spelli
 - **Test-study-test in classroom practice** — a weekly cycle in which Monday's pretest errors drive individualized study lists, with previously missed words reappearing on later tests until mastered.
 
 ## Key Sources
-- Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers or readers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743. [doi:10.1007/s11145-014-9517-0](https://doi.org/10.1007/s11145-014-9517-0)
+- Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers or readers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743.
 - Graham, S. (2000). Should the natural learning approach replace spelling instruction? *Journal of Educational Psychology, 92*(2), 235–247. [doi:10.1037/0022-0663.92.2.235](https://doi.org/10.1037/0022-0663.92.2.235)
 - Ehri, L. C. (2000). Learning to read and learning to spell: Two sides of a coin. *Topics in Language Disorders, 20*(3), 19–36. [doi:10.1097/00011363-200020030-00005](https://doi.org/10.1097/00011363-200020030-00005)
 - Joshi, R. M., Treiman, R., Carreker, S., & Moats, L. C. (2008). How words cast their spell: Spelling is an integral part of learning the language, not a matter of memorization. *American Educator, 32*(4), 6–16, 42–43.

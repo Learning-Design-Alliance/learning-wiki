@@ -67,7 +67,7 @@ Systematic, explicit phonics produces stronger word-reading and generalization o
 - **[Reading Simplified](https://readingsimplified.com)** — a streamlined blending routine ("Switch It," "Read It") that compresses the modeling–guided–independent arc into short small-group sessions
 
 ## Key Sources
-- Ehri, L. C., Nunes, S. R., Willows, D. M., & Schuster, B. V. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.5](https://doi.org/10.1598/RRQ.36.3.5)
+- Ehri, L. C., Nunes, S. R., Willows, D. M., & Schuster, B. V. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287.
 - Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. [doi:10.1207/s1532799xssr0902_4](https://doi.org/10.1207/s1532799xssr0902_4)
 - Archer, A. L., & Hughes, C. A. (2011). *Explicit instruction: Effective and efficient teaching*. Guilford Press. [doi:10.4324/9780203866271](https://doi.org/10.4324/9780203866271)
 - Dehaene, S. (2009). *Reading in the brain: The new science of how we read*. Viking.

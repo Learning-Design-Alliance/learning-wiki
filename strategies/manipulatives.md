@@ -77,7 +77,7 @@ Manipulatives leverage embodied and dual-coding pathways: pairing a concept with
 - Resource: Speed of Processing micro-credential, Friday Institute at NC State.
 
 ## Key Sources
-- Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Research, 106*(1), 45–63. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)
+- Carbonneau, K. J., Marley, S. C., & Selig, J. P. (2013). A meta-analysis of the efficacy of teaching mathematics with concrete manipulatives. *Journal of Educational Psychology, 105*(2), 380-400. [doi:10.1037/a0031084](https://doi.org/10.1037/a0031084)
 - McNeil, N. M., & Jarvin, L. (2007). When theories don't add up: Disentangling the manipulatives debate. *Theory Into Practice, 46*(4), 309–316. [doi:10.1080/00405840701593899](https://doi.org/10.1080/00405840701593899)
 - Resnick, L. B., & Omanson, S. F. (1987). Learning to understand arithmetic. In R. Glaser (Ed.), *Advances in instructional psychology* (Vol. 3, pp. 41–95). Lawrence Erlbaum.
 - Bruner, J. S. (1966). *Toward a theory of instruction*. Harvard University Press.

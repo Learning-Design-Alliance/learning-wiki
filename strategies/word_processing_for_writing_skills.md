@@ -72,5 +72,5 @@ Word processing shifts writing from a product to a process: revision cost drops 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Graham, S. (2019). Changing how writing is taught. *Review of Research in Education, 43*(1), 277–303. [doi:10.3102/0091732X18821125](https://doi.org/10.3102/0091732X18821125)
-- Morphy, P., & Graham, S. (2012). Word processing programs and weaker writers/readers: A meta-analysis of research findings. *Reading and Writing, 25*(3), 759–782. [doi:10.1007/s11145-010-9292-5](https://doi.org/10.1007/s11145-010-9292-5)
+- Morphy, P., & Graham, S. (2012). Word processing programs and weaker writers/readers: A meta-analysis of research findings. *Reading and Writing, 25*(3), 641-678. [doi:10.1007/s11145-010-9292-5](https://doi.org/10.1007/s11145-010-9292-5)
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

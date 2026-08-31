@@ -67,6 +67,6 @@ Quiet spaces work by reducing extraneous processing: background speech and unpre
 
 ## Key Sources
 - Klatte, M., Bergström, K., & Lachmann, T. (2013). Does noise affect learning? A short review on noise effects on cognitive performance in children. *Frontiers in Psychology, 4*, 578. [doi:10.3389/fpsyg.2013.00578](https://doi.org/10.3389/fpsyg.2013.00578)
-- Shield, B. M., & Dockrell, J. E. (2003). The effects of noise on children at school: A review. *Journal of Building Acoustics, 10*(2), 97–116. [doi:10.1260/135101003768965960](https://doi.org/10.1260/135101003768965960)
+- Shield, B. M., & Dockrell, J. E. (2003). The effects of noise on children at school: A review. *Building Acoustics, 10*(2), 97-116. [doi:10.1260/135101003768965960](https://doi.org/10.1260/135101003768965960)
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

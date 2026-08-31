@@ -77,5 +77,5 @@ Engagement matters because even strong content design has little effect if learn
 **Project launches with visible purpose** — Learners are more likely to stay engaged when they know what the work is for, who it matters to, and what success looks like.
 
 ## Key Sources
-- Fredricks, J. A., Blumenfeld, P. C., & Paris, A. H. (2004). School engagement. *Review of Educational Research, 74*(1), 59-109. [https://doi.org/10.3102/00346543074001059](https://doi.org/10.3102/00346543074001059)
+- Fredricks, J. A., Blumenfeld, P. C., & Paris, A. H. (2004). School engagement. *Review of Educational Research, 74*(1), 59-109.
 - Sinatra, G. M., Heddy, B. C., & Lombardi, D. (2015). The challenges of defining and measuring student engagement in science. *Educational Psychologist, 50*(1), 1-13. [https://doi.org/10.1080/00461520.2014.1002924](https://doi.org/10.1080/00461520.2014.1002924)

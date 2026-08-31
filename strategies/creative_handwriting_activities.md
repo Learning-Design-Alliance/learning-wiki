@@ -69,6 +69,6 @@ Handwriting fluency matters because letter production that is not automatic cons
 
 ## Key Sources
 - Graham, S., Harris, K. R., & Fink, B. (2000). Is handwriting causally related to learning to write? Treatment of handwriting problems in beginning writers. *Journal of Educational Psychology, 92*(4), 620–633. [doi:10.1037/0022-0663.92.4.620](https://doi.org/10.1037/0022-0663.92.4.620)
-- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Trends in Neuroscience and Education, 1*(2), 32–42. [doi:10.1016/j.tine.2012.08.001](https://doi.org/10.1016/j.tine.2012.08.001)
-- Longcamp, M., Zerbato-Poudou, M.-T., & Velay, J.-L. (2005). The influence of writing practice on letter recognition in preschool children: A comparison between learning handwriting and learning to type letters. *Neuropsychologia, 43*(3), 368–374. [doi:10.1016/j.actpsy.2004.10.019](https://doi.org/10.1016/j.actpsy.2004.10.019)
+- James, K. H., & Engelhardt, L. (2012). The effects of handwriting experience on literacy learning. *Trends in Neuroscience and Education, 1*(2), 32–42.
+- Longcamp, M., Zerbato-Poudou, M.-T., & Velay, J.-L. (2005). The influence of writing practice on letter recognition in preschool children: A comparison between learning handwriting and learning to type letters. *Acta Psychologica, 119*(1), 67-79. [doi:10.1016/j.actpsy.2004.10.019](https://doi.org/10.1016/j.actpsy.2004.10.019)
 - Berninger, V. W., et al. (2006). Early development of language by hand: Composing, reading, listening, and speaking connections; three letter-writing modes; and fast mapping in spelling. *Developmental Neuropsychology, 29*(1), 61–92. [doi:10.1207/s15326942dn2901_5](https://doi.org/10.1207/s15326942dn2901_5)

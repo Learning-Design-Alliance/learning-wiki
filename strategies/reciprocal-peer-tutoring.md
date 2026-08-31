@@ -67,7 +67,7 @@ RPT converts review and practice into an active, social format: explaining mater
 - **Reciprocal Teaching (Palincsar & Brown)** — the reading-comprehension analogue: pairs or small groups alternate leading a dialogue using predict, question, clarify, and summarize strategies.
 
 ## Key Sources
-- Topping, K. J. (2005). Trends in peer learning. *Educational Psychology Review, 17*(4), 331–353. [doi:10.1080/01443410500345172](https://doi.org/10.1080/01443410500345172)
+- Topping, K. J. (2005). Trends in peer learning. *Educational Psychology, 25*(6), 631-645. [doi:10.1080/01443410500345172](https://doi.org/10.1080/01443410500345172)
 - Rohrbeck, C. A., Ginsburg-Block, M. D., Fantuzzo, J. W., & Miller, T. R. (2003). Peer-assisted learning interventions with elementary school students: A meta-analytic review. *Journal of Educational Psychology, 95*(2), 240–257. [doi:10.1037/0022-0663.95.2.240](https://doi.org/10.1037/0022-0663.95.2.240)
 - Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
 - Fantuzzo, J. W., King, J. A., & Heller, L. R. (1992). Effects of reciprocal peer tutoring on mathematics and school adjustment: A component analysis. *Journal of Educational Psychology, 84*(3), 331–339. [doi:10.1037/0022-0663.84.3.331](https://doi.org/10.1037/0022-0663.84.3.331)

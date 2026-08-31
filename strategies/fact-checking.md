@@ -67,7 +67,7 @@ Fact checking instruction improves learners' ability to evaluate online informat
 - **SIFT method (Mike Caulfield)** — a four-move heuristic (Stop, Investigate, Find, Trace) designed for fast, real-time verification, widely adopted in academic library instruction at [https://hapgood.us/2019/06/19/sift-the-four-moves/](https://hapgood.us/2019/06/19/sift-the-four-moves/)
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Training college students to evaluate digital sources. *Journal of Educational Psychology, 111*(8), 1504–1519. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Training college students to evaluate digital sources. *Harvard Kennedy School Misinformation Review, 111*(8), 1504. [doi:10.37016/mr-2020-56](https://doi.org/10.37016/mr-2020-56)
 - Breakstone, J., Smith, M., Orlandi, M., Wineburg, S., & McGrew, S. (2021). Students' civic online reasoning: A national portrait. *Educational Researcher, 50*(8), 505–515. [doi:10.3102/0013189x211017495](https://doi.org/10.3102/0013189x211017495)
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social media environment. *American Educator, 41*(3), 4–9.
 - Caulfield, M. (2019). SIFT: The four moves. *Hapgood*. [https://hapgood.us/2019/06/19/sift-the-four-moves/](https://hapgood.us/2019/06/19/sift-the-four-moves/)

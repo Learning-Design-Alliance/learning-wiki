@@ -67,6 +67,6 @@ Inferring word meaning from context engages learners in generative processing, w
 
 ## Key Sources
 - Nagy, W. E., Herman, P. A., & Anderson, R. C. (1985). Learning words from context. *Reading Research Quarterly, 20*(2), 233–253. [doi:10.2307/747758](https://doi.org/10.2307/747758)
-- Swanborn, M. S. L., & de Glopper, K. (1999). Incidental word learning while reading: A meta-analysis. *Journal of Educational Psychology, 91*(1), 94–111. [doi:10.3102/00346543069003261](https://doi.org/10.3102/00346543069003261)
+- Swanborn, M. S. L., & de Glopper, K. (1999). Incidental word learning while reading: A meta-analysis. *Review of Educational Research, 69*(3), 261-285. [doi:10.3102/00346543069003261](https://doi.org/10.3102/00346543069003261)
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing Words to Life: Robust Vocabulary Instruction* (2nd ed.). Guilford Press.
 - Nation, I. S. P. (2001). *Learning Vocabulary in Another Language*. Cambridge University Press. [doi:10.1017/cbo9781139524759](https://doi.org/10.1017/cbo9781139524759)

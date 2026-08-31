@@ -66,7 +66,7 @@ Self advocacy instruction works because it converts help-seeking from an admissi
 - **Postsecondary disability services offices** (e.g., at most US universities) — require students to self-identify and request accommodations each term, making advocacy a gatekeeper skill; effective programs pair this with explicit coaching in how to make the request.
 
 ## Key Sources
-- Konrad, M., Fowler, C. H., Walker, A. R., Test, D. W., & Wood, W. M. (2007). Effects of self-determination interventions on students with disabilities: A research synthesis. *Exceptional Children, 73*(3), 257–277. [doi:10.1177/001440290707300301](https://doi.org/10.1177/001440290707300301)
+- Konrad, M., Fowler, C. H., Walker, A. R., Test, D. W., & Wood, W. M. (2007). Effects of self-determination interventions on students with disabilities: A research synthesis. *Exceptional Children, 73*(3), 257–277.
 - Shogren, K. A., Palmer, S. B., Wehmeyer, M. L., Williams-Diehm, K., & Little, T. D. (2012). Effect of intervention with the Self-Determined Learning Model of Instruction on access and goal attainment. *Remedial and Special Education, 33*(5), 320–330. [doi:10.1177/0741932511410072](https://doi.org/10.1177/0741932511410072)
 - Van Reusen, A. K., Bos, C. S., Schumaker, J. B., & Deshler, D. D. (1994). *The Self-Advocacy Strategy for education and transition planning*. Edge Enterprises.
 - Wehmeyer, M. L., & Palmer, S. B. (2003). Adult outcomes for students with cognitive disabilities three years after high school: The impact of self-determination. *Education and Training in Developmental Disabilities, 38*(2), 131–144.

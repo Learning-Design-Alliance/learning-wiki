@@ -98,7 +98,7 @@ Seating arrangement acts as an environmental scaffold for the intended interacti
 - [Antecedent-Behavior-Consequence Model](../elements/antecedent-behavior-consequence-model.md) — seating placement as a behavioral antecedent
 
 ## Key Sources
-- Wannarka, R., & Ruhl, K. (2008). Seating arrangements that promote positive academic and behavioural outcomes: A review of empirical research. *Educational Psychology Review, 20*(3), 361–378. [doi:10.1111/j.1467-9604.2008.00375.x](https://doi.org/10.1111/j.1467-9604.2008.00375.x)
+- Wannarka, R., & Ruhl, K. (2008). Seating arrangements that promote positive academic and behavioural outcomes: A review of empirical research. *Support for Learning, 23*(2), 89-93. [doi:10.1111/j.1467-9604.2008.00375.x](https://doi.org/10.1111/j.1467-9604.2008.00375.x)
 - Marx, A., Fuhrer, U., & Hartig, T. (1999). Effects of classroom seating arrangements on children's question-asking. *Learning Environments Research, 2*(3), 249–263. [doi:10.1023/a:1009901922191](https://doi.org/10.1023/a:1009901922191)
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)
 - Hastings, N., & Schwieso, J. (1995). Tasks and tables: The effects of seating arrangements on task engagement in primary classrooms. *Educational Research, 37*(3), 279–292. [doi:10.1080/0013188950370306](https://doi.org/10.1080/0013188950370306)

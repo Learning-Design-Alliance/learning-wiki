@@ -67,7 +67,7 @@ Comprehension monitoring is among the most consistently supported reading strate
 - While reading a complex science text, a learner pauses to ask, "Can I explain what I just read?" If not, she rereads the paragraph, looks up an unfamiliar term, or reads ahead for a defining example before continuing.
 
 ## Key Sources
-- Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 2*(2), 117–175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
+- Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117-175. [doi:10.1207/s1532690xci0102_1](https://doi.org/10.1207/s1532690xci0102_1)
 - Markman, E. M. (1977). Realizing that you don't understand: Elementary school children's growing awareness of their own knowledge of comprehension. *Child Development, 48*(3), 986–992.
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
 - Baker, L. (1989). Metacognition, comprehension monitoring, and the adult reader. *Educational Psychology Review, 1*(1), 3–38. [doi:10.1007/BF01326548](https://doi.org/10.1007/BF01326548)

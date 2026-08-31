@@ -75,7 +75,7 @@ Shadowing functions as professional learning through perspective-taking: direct,
 - A high school department shadows five different students (one per teacher) on the same day, then compares logs — revealing that students experienced four high-stakes assessments in a single day, prompting a coordinated assessment calendar.
 
 ## Key Sources
-- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
+- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record: The Voice of Scholarship in Education, 106*(4), 651-688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)
 - Cook-Sather, A. (2009). *Learning from the student's perspective: A sourcebook for effective teaching*. Paradigm Publishers.
 - Davis, M. H. (1983). Measuring individual differences in empathy: Evidence for a multidimensional approach. *Journal of Personality and Social Psychology, 44*(1), 113–126. [doi:10.1037/0022-3514.44.1.113](https://doi.org/10.1037/0022-3514.44.1.113)
 - School Retool. (n.d.). *Shadow a Student Challenge*. Stanford d.school. [shadowastudent.org](http://shadowastudent.org)

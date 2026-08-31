@@ -67,7 +67,7 @@ Vocabulary knowledge is one of the strongest predictors of reading comprehension
 - **Project-based learning launch** — before a science project on watersheds, the teacher pre-teaches *runoff*, *permeable*, and *erosion* with diagrams and non-examples, then requires each term in the team's project proposal and final presentation.
 
 ## Key Sources
-- Stahl, S. A., & Fairbanks, M. M. (1986). The effects of vocabulary instruction: A model-based meta-analysis. *Review of Educational Research, 56*(1), 71–110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
+- Stahl, S. A., & Fairbanks, M. M. (1986). The effects of vocabulary instruction: A model-based meta-analysis. *Review of Educational Research, 56*(1), 72-110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
 - Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Reading Research Quarterly, 47*(1), 91–108. [doi:10.1002/rrq.011](https://doi.org/10.1002/rrq.011)
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing words to life: Robust vocabulary instruction* (2nd ed.). Guilford Press.
 - Graves, M. F. (2016). *The vocabulary book: Learning and instruction* (2nd ed.). Teachers College Press.

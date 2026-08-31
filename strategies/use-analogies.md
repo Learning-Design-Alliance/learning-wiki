@@ -69,5 +69,5 @@ Analogies are effective because they transfer *relational structure*, not surfac
 ## Key Sources
 - Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science, 7*(2), 155–170. [doi:10.1207/s15516709cog0702_3](https://doi.org/10.1207/s15516709cog0702_3)
 - Duit, R. (1991). On the role of analogies and metaphors in learning science. *Science Education, 75*(6), 649–672. [doi:10.1002/sce.3730750606](https://doi.org/10.1002/sce.3730750606)
-- Donnelly, C. M., & McDaniel, M. A. (1993). Use of analogies in learning unknown scientific concepts. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 19*(5), 975–987. [doi:10.1037/0278-7393.19.4.975](https://doi.org/10.1037/0278-7393.19.4.975)
+- Donnelly, C. M., & McDaniel, M. A. (1993). Use of analogies in learning unknown scientific concepts. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 19*(4), 975-987. [doi:10.1037/0278-7393.19.4.975](https://doi.org/10.1037/0278-7393.19.4.975)
 - Aubusson, P. J., Harrison, A. G., & Ritchie, S. M. (Eds.). (2006). *Metaphor and analogy in science education*. Springer. [doi:10.1007/1-4020-3830-5](https://doi.org/10.1007/1-4020-3830-5)

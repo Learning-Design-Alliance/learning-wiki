@@ -67,6 +67,6 @@ Quotation instruction works because it makes the abstract norm of "support your 
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Psychology, 103*(4), 879–896. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
+- Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *Journal of Educational Psychology, 103*(4), 879–896.
 - Graham, S., McKeown, D., Kiuhara, S., & Harris, K. R. (2012). A meta-analysis of writing instruction for students in the elementary grades. *Journal of Educational Psychology, 104*(4), 879–896. [doi:10.1037/a0029185](https://doi.org/10.1037/a0029185)
 - Shanahan, T., Fisher, D., & Frey, N. (2012). The challenge of challenging text. *Educational Leadership, 69*(6), 58–62.

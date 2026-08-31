@@ -66,7 +66,7 @@ Pre-teaching reduces the extraneous cognitive load of decoding unfamiliar words 
 - **[Reading Rockets](https://www.readingrockets.org)** — practitioner-facing guidance and video examples of pre-teaching vocabulary routines in elementary classrooms.
 
 ## Key Sources
-- Stahl, S. A., & Fairbanks, M. M. (1986). The effects of vocabulary instruction: A model-based meta-analysis. *Review of Educational Research, 56*(1), 71–110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
+- Stahl, S. A., & Fairbanks, M. M. (1986). The effects of vocabulary instruction: A model-based meta-analysis. *Review of Educational Research, 56*(1), 72-110. [doi:10.3102/00346543056001072](https://doi.org/10.3102/00346543056001072)
 - Beck, I. L., McKeown, M. G., & Kucan, L. (2013). *Bringing words to life: Robust vocabulary instruction* (2nd ed.). Guilford Press.
 - Nagy, W., & Townsend, D. (2012). Words as tools: Learning academic vocabulary as language acquisition. *Reading Research Quarterly, 47*(1), 91–108. [doi:10.1002/RRQ.011](https://doi.org/10.1002/RRQ.011)
 - National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction*. National Institute of Child Health and Human Development.
