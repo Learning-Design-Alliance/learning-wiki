@@ -10,6 +10,8 @@ generated:
 
 # Goal Orientation Theory
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
 

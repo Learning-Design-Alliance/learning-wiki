@@ -10,6 +10,8 @@ generated:
 
 # Explicit Teaching
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Explicit teaching is the element in which instructors directly explain, model, and sequence key knowledge or procedures rather than leaving them to be inferred. It is useful when learners need clarity about what to attend to and how to proceed.
 

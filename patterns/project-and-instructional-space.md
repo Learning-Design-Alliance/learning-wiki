@@ -12,6 +12,8 @@ grain_size: unit
 
 # Project Space and Instructional Space
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Reigeluth (2011) identifies four persistent weaknesses of problem-based instruction (PBI): team-based assessment makes it hard to verify that *every* individual learned the intended content (a "loafer" can ride the team's work); learners typically use a given skill only once or twice within a project, insufficient for the extensive practice complex skills need to transfer to new situations; PBI does not build automaticity for skills that need to be executed with reduced conscious effort; and unguided search for information within a project wastes significant learner time. His response is not to abandon PBI for direct instruction, but to architect two distinct, alternating spaces within the same learning experience.
 

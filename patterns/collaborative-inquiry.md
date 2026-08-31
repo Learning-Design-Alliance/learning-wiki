@@ -17,6 +17,8 @@ grain_size: unit
 
 # Collaborative Inquiry
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Collaborative inquiry is a pattern in which learners pose questions together, investigate possible answers, critique emerging explanations, and revise their understanding in public. It differs from traditional research assignments by making inquiry collective and iterative rather than individual and linear. The group's evolving questions and explanations become the main engine of learning.
 
@@ -106,5 +108,5 @@ The pattern is most useful when the instructional goal is not just finding infor
 - Strongest when inquiry products are shared, critiqued, and revised repeatedly.
 
 ## Key Sources
-- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97-115). Cambridge University Press.
+- Scardamalia, M., & Bereiter, C. (2006). Knowledge building: Theory, pedagogy, and technology. In R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 97-115). Cambridge University Press. [doi:10.1017/cbo9780511816833.008](https://doi.org/10.1017/cbo9780511816833.008)
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning. *Educational Psychologist, 42*(2), 99-107. [https://doi.org/10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

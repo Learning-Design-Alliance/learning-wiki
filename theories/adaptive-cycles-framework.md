@@ -15,6 +15,8 @@ sources:
 
 # Adaptive Cycles Framework
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Borrowed from ecological systems theory (Gunderson & Holling's panarchy model), the adaptive cycles framework describes a learning system as cycling through four phases rather than progressing linearly: **problematization** (recognizing a gap or tension in current practice), **reorganization** (planning new approaches and navigating institutional or personal constraints), **growth** (experimenting with new ideas in practice), and **conservation** (consolidating and stabilizing a new practice as routine). The framework treats connectedness and resource availability as varying by phase — in growth and reorganization phases, a system is loosely connected and open to new resources; in conservation, it is tightly connected and resources are more bound/stabilized. For professional development, this implies that the same kind of support (e.g., video-based reflection) will not be equally useful at every phase — different phases call for different inputs.
 

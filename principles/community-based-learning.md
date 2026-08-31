@@ -10,6 +10,8 @@ generated:
 
 # Community-Based Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Community-based learning is the principle of connecting learning to shared participation, responsibility, and contribution within a classroom, local community, or broader social context. It matters when learning is strengthened by belonging, collective meaning-making, and contribution beyond the individual.
 

@@ -15,6 +15,8 @@ sources:
 
 # Person-Centered Psychology
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Drawing on Carl Rogers' humanistic psychology and small-group encounter methods, person-centered psychology offers a relational methodology for the conditions under which people can safely engage with uncomfortable material about themselves and others — including, in a learning-sciences context, material about power, privilege, and systemic oppression. The framework centers three conditions: **unconditional positive regard** (accepting a person without conditions attached to that acceptance), **empathic listening** (understanding a situation from inside the other person's frame of reference, not just one's own), and **congruence** (a facilitator's own authenticity, which invites reciprocal vulnerability from participants). Enacted in small groups with a here-and-now focus, these conditions let participants enact and examine their own habitual relational patterns — around voice, power, and belonging — in real time, rather than only discussing such patterns in the abstract.
 

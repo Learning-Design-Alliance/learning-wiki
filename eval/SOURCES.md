@@ -53,37 +53,50 @@ actually sanctioned, and what to do if a source blocks bulk access outright.
   full PDFs available from the companion `gs://arxiv-dataset` Google Cloud
   Storage bucket. This is arXiv's own maintained export, not a scrape by a
   third party — a good starting point for candidate selection before
-  fetching only the PDFs you actually need.
+  fetching only the PDFs you actually need. This harness fetches it
+  automatically: `discover_articles.resolve_arxiv_snapshot()` calls
+  `kagglehub.dataset_download()` the first time a batch requests `--arxiv >
+  0` with no explicit `--arxiv-snapshot`, authenticating from
+  `KAGGLE_USERNAME`/`KAGGLE_KEY` (see `deploy/eval-harness.env.example`) and
+  caching the result on disk — no manual download step needed.
 - **Attribution**: if you build an index/tool on the full text, link back to
   the arXiv abstract page for downloads (their license term, not just courtesy).
 
 ## PubMed Central (PMC) / NCBI
 
-- **This is the one place the original design was wrong, and has been fixed**:
-  NCBI's own documentation states that **the PMC OAI-PMH Service, PMC FTP
-  Service, E-Utilities, and BioC API are the only services that may be used
-  for automated retrieval of PMC content** — scraping the rendered
-  `/pmc/articles/PMC.../` HTML page (what an earlier version of
+- **This is the one place the original design was wrong, and has been fixed
+  twice**: NCBI's own documentation states that automated retrieval of PMC
+  content must go through one of their own sanctioned channels — scraping
+  the rendered `/pmc/articles/PMC.../` HTML page (what an earlier version of
   `fetch_article.py` did) isn't one of them, independent of what robots.txt
-  says. `fetch_article.py` now fetches PMC articles through the
-  [BioC-PMC API](https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/BioC-PMC/)
-  instead: `.../pmcoa.cgi/BioC_json/<PMCID>/unicode`.
-- **Why this matters beyond politeness**: the BioC-PMC API only serves the
-  **PMC Open Access subset**. A 404 from it means the article isn't in that
-  subset — i.e. it isn't cleared for automated bulk retrieval *at all*, not
-  just via that one endpoint. `fetch_article.py` treats a 404 here as "swap
-  this manifest entry," not "fall back to scraping the HTML page."
-- **Rate limits (E-utilities/BioC)**: 3 requests/second without an API key,
-  10/second with a free one (NCBI account → Settings → API keys); higher on
-  request to `eutilities@ncbi.nlm.nih.gov`. `compliance.py` defaults to a much
-  more conservative 1 req/s since this harness processes articles one at a
-  time anyway.
+  says. `fetch_article.py` first moved to the BioC-PMC API, then (August
+  2026) to the **PMC Article Datasets on AWS** described below, after NCBI
+  fully decommissioned the old FTP-based bulk distribution — see the dated
+  entry below.
+- **Discovery (`discover_articles.search_pmc()`)**: runs ESearch against
+  `db=pmc` with the `open access[filter]` tag, same as always — but that tag
+  is best-effort, not a guarantee: a very recently published PMCID can be
+  flagged OA before it's actually been processed and made available. Every
+  ESearch hit is now cross-checked against its own PMC AWS metadata object
+  (see below) before an ESummary call or a manifest slot is spent on it —
+  ground truth (`is_pmc_openaccess`) instead of a search-time flag. A hit
+  this check can't verify (network hiccup) is kept, not dropped — this is a
+  safety net on top of the ESearch flag, not a hard dependency.
+- **Fetch (`fetch_article.py`, via `pmc_aws.py`)**: pulls full text from the
+  **PMC Article Datasets on AWS** — see the next section — using the exact
+  same metadata object discovery already checked, so "flagged OA at search
+  time, unfetchable at fetch time" is closed at its root rather than just
+  filtered out earlier.
+- **Rate limits (E-utilities, still used for ESearch/ESummary)**: 3
+  requests/second without an API key, 10/second with a free one (NCBI
+  account → Settings → API keys); higher on request to
+  `eutilities@ncbi.nlm.nih.gov`. `compliance.py` defaults to a much more
+  conservative 1 req/s since this harness processes articles one at a time
+  anyway.
 - **`eutils.ncbi.nlm.nih.gov`'s own robots.txt is a blanket `Disallow: /`**
   (verified live: `# robots.txt - robot exclusion file - back-end server
   version - no robots!` followed by `User-agent: *` / `Disallow: /`, no
-  exceptions). This is the same "robots.txt doesn't get the final word over a
-  documented API policy" situation as the BioC endpoint above, just more
-  extreme — a backend-server default telling generic crawlers "there is
+  exceptions) — a backend-server default telling generic crawlers "there is
   nothing here to index," not a rescission of the E-Utilities channel NCBI's
   own usage guidelines sanction for automated PMC retrieval. `compliance.py`
   carries a narrow, cited `API_TERMS_OVERRIDE` for this exact host so
@@ -95,17 +108,46 @@ actually sanctioned, and what to do if a source blocks bulk access outright.
   `email` identifier so they can contact you before blocking your IP if
   something misbehaves — hence `EVAL_HARNESS_CONTACT_EMAIL` in
   `compliance.py`'s `User-Agent`. Set it for real.
-- **Bulk alternative for scale**: the
-  [PMC Open Access Subset](https://pmc.ncbi.nlm.nih.gov/tools/openftlist) —
-  bulk XML/text packages of hundreds of thousands of articles at a time via
-  FTP (`ftp.ncbi.nlm.nih.gov/pub/pmc/`), or the
-  [BioC-PMC bulk FTP mirror](https://ftp.ncbi.nlm.nih.gov/pub/wilbur/BioC-PMC).
-  For thousands of articles, download the bulk package once instead of one
-  API call per article.
-- **Third-party mirror**: [`pmc/open_access` on Hugging Face](https://huggingface.co/datasets/pmc/open_access) —
-  a ready-to-use dataset mirror of the same OA subset (3.4M+ articles), handy
-  for candidate selection or if you'd rather not manage the FTP bulk packages
-  yourself.
+
+### PMC Article Datasets on AWS (August 2026 — replaces the BioC API + FTP bulk files)
+
+NCBI fully removed the legacy FTP-hosted bulk files (including the old
+`oa_file_list.csv` bulk manifest this document used to point at) the week of
+August 24, 2026, migrating bulk/programmatic PMC access to a single new
+channel: the **PMC Article Datasets on AWS**
+(<https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/>, cited via
+<https://registry.opendata.aws/ncbi-pmc>). Verified live against the actual
+endpoints, not just the docs, after the old `oa_file_list.csv` URL started
+404ing in production.
+
+- **Bucket**: `pmc-oa-opendata` — public, world-readable, `us-east-1`, no AWS
+  account or credentials needed for read access. Fetchable over plain HTTPS
+  (no AWS SDK required): `https://pmc-oa-opendata.s3.amazonaws.com/<key>`.
+- **Per-article-version JSON metadata** at `metadata/<PMCID>.<version>.json`
+  (most articles have only version 1) — fields include `is_pmc_openaccess`
+  (the ground-truth flag this harness now checks), `is_retracted`,
+  `license_code`, and direct URLs (`xml_url`, `pdf_url`, `text_url`,
+  `media_urls`) to that version's objects, each as an `s3://` URL.
+  `pmc_aws.s3_to_https()` converts these to the plain-HTTPS form above before
+  fetching (`pmc-oa-opendata.s3.amazonaws.com` isn't a signed/authenticated
+  URL, so this conversion is all that's needed).
+- **No robots.txt at this host** (a request for it 404s, same as any other
+  missing object) — Python's `robotparser` treats a 404 as "allow all," so no
+  `API_TERMS_OVERRIDE` entry was needed here, unlike the eutils/ERIC cases
+  above.
+- **Rate limiting**: `compliance.py` gives this host its own low floor (0.1s)
+  rather than the generic 3s fallback — it's a public, high-volume AWS Open
+  Data bucket under the AWS Open Data Sponsorship Program, not one of NCBI's
+  own modest research servers, and there's no published per-request ceiling
+  to be conservative against.
+- **Bulk inventory exists too, but this harness doesn't use it**: a daily
+  S3 Inventory (gzip-compressed CSV parts, discovered via a dated
+  `manifest.json`) lists every metadata object in the bucket. It's real S3
+  API machinery (anonymous unsigned requests still work, but need list/get
+  semantics beyond a flat file), and per-candidate metadata checks already
+  cover this harness's actual need (confirm one candidate, get its URLs) —
+  see `pmc_aws.py`'s module docstring if a future bulk-scan use case
+  actually needs the inventory.
 
 ## ERIC (Institute of Education Sciences / U.S. Dept. of Education)
 

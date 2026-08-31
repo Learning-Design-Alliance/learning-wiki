@@ -16,6 +16,8 @@ sources:
 
 # Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks
 
+> **Claim** · [All claims](index.md)
+
 Interviews with 33 focal sixth-graders in a heterogeneity-seeking ecosystems modeling unit found that most students expressed one or more of four epistemic commitments (real-world connection, seeing/showing, controlling variables, caring for), including a "caring for" commitment with no direct analog in prior epistemic-cognition research, and that these commitments shaped model design decisions in ways the curriculum had not anticipated.
 
 ## Subclaims

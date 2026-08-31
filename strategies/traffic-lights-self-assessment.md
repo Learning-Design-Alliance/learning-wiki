@@ -10,6 +10,8 @@ generated:
 
 # Traffic Lights Self-Assessment
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Students mark their own confidence in a just-completed assignment or homework using a traffic-light color: red means unsure of success, orange means partially unsure, and green means confident of success (Black & Wiliam, 2006). The colors then drive differentiated grouping rather than functioning as a mere display of feeling: students who marked orange or green work together in mixed groups evaluating each other's work through peer assessment, while the teacher works directly with the students who marked red, giving them more direct support rather than expecting them to benefit as much from peer evaluation alone.
 

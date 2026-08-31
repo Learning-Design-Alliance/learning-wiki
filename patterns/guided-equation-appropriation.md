@@ -17,6 +17,8 @@ sources:
 
 # Guided Equation Appropriation
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 When a student encounters a physics equation directly (e.g., looked up or given), they can often derive or apply it long before they understand what it means or implies. This pattern sequences instruction to build understanding in the other direction: mechanistic, intuitive reasoning first, formal equation second, deep interpretive reading of the equation third — with a mentor making seven specific kinds of moves throughout to keep the student's own reasoning central rather than substituting the mentor's expertise for it.
 

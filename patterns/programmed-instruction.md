@@ -12,6 +12,8 @@ grain_size: lesson
 
 # Programmed Instruction
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Programmed Instruction (PI) restructures content as a sequence of small "frames," each presenting a small amount of information and then requiring the learner to make an active response — write or select an answer — before immediately revealing whether it was correct. Skinner's original **linear programming** moved every learner through the same fixed sequence of small steps; Norman Crowder's **intrinsic (branching) programming** let learners skip ahead through easy material or branch to remedial frames when they struggled, based on their responses (Molenda, 2008).
 

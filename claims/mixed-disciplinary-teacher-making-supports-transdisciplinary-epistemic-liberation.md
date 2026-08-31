@@ -16,6 +16,8 @@ sources:
 
 # Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation
 
+> **Claim** · [All claims](index.md)
+
 When art, science, and computing teachers jointly built programmable sculptural lanterns representing a shared classroom garden, all participating teachers raised evaluative criteria from disciplines outside their own — evidence that hands-on, mixed-disciplinary making can expand (not just apply) teachers' sense of what makes a representation "good."
 
 ## Subclaims

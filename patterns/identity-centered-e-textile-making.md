@@ -17,6 +17,8 @@ sources:
 
 # Identity-Centered E-Textile Making
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Participants design and build wearable, functional e-textile objects (bracelets, badges, clothing) using sewable conductive thread, LEDs, and simple microcontrollers, where circuit design is explicitly bound up with identity expression rather than treated as separate from it. The sequence starts with a low-barrier entry project (e.g., a paper-circuit pronoun/name placard) that centers self-naming while teaching basic circuit function, then progresses to increasingly open-ended projects where participants exercise full autonomy over materials, colors, and form to encode aspects of their identity into the artifact.
 

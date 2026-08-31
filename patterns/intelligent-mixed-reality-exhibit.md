@@ -17,6 +17,8 @@ sources:
 
 # Intelligent Mixed-Reality Exhibit
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 An informal-learning exhibit combines a tangible physical interface (an earthquake table and building blocks, in the source study) with a depth camera and vision algorithm that detects the learner's physical actions — where blocks are placed, whether and how a tower falls — and an animated on-screen character that runs a predict-observe-explain cycle in response: the learner predicts an outcome, the system runs the physical event, and a curated menu of explanations (not free-form text) prompts the learner to explain what happened, with immediate confirmation or correction. The system presents a sequence of physically contrasting cases that each isolate one physics principle (height, symmetry, base width, or center of mass) before shifting to an open "test my tower" mode where the learner builds freely and the system only reports pass/fail — guidance fades as the learner gains agency. This differs from a classroom intelligent tutoring system chiefly in setting and stakes: it operates in a self-paced, optional, free-choice museum context, embeds the "problem" in tangible physical construction rather than a screen-only or symbolic task, and uses intrinsic play (an animated gorilla character, a physical build) rather than grades to sustain engagement.
 

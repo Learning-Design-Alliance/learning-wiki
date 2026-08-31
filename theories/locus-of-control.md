@@ -10,6 +10,8 @@ generated:
 
 # Locus of Control
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Julian Rotter (1966) proposed locus of control as a cognitive factor shaping behavior and personality, distinct from [Self-Efficacy Theory](self-efficacy-theory.md): self-efficacy is a belief about one's own *ability* to perform a specific task, while locus of control is a broader belief about *who or what controls outcomes* in one's life generally. People with an **internal locus of control** ("internals") tend to believe their outcomes are the direct result of their own effort; people with an **external locus of control** ("externals") tend to believe their outcomes are controlled by other people, luck, or chance. Rotter framed the two orientations as ends of a continuum rather than a strict dichotomy.
 

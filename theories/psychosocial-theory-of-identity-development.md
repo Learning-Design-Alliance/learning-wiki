@@ -10,6 +10,8 @@ generated:
 
 # Psychosocial Theory of Identity Development
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Erik Erikson took the psychoanalytic foundation laid by Freud and extended it across the full lifespan rather than stopping at adolescence, shifting emphasis from purely biological drives toward social and cultural forces, and toward human strength and constructive potential rather than pathology. Each of Erikson's eight stages is defined by a **psychosocial crisis** between two opposing forces; resolving a stage in favor of its positive pole yields a corresponding **virtue** carried into later stages. Mastery of a stage is not required to advance — "the outcome of one stage is not permanent and can be modified by later experiences" — but unresolved crises tend to resurface as problems later. All eight crises are present from birth, but each becomes most prominent according to both a maturational schedule and a person's ecological and cultural upbringing.
 

@@ -15,6 +15,8 @@ sources:
 
 # Personal Inquiry
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Personal inquiry treats science learning as an investigation of a topic of genuine personal significance to the student (a nearby noise source, a family food-shopping habit), scaffolded through an explicit 8-phase inquiry cycle — Find My Topic, Form My Question, Plan My Investigation, Collect My Evidence, Analyze My Evidence, Respond to Evidence, Share My Results, Reflect on My Experience — represented visually to students throughout so they always know where they are in the process and can move non-linearly (e.g., revisiting a hypothesis after new evidence). The theory's central pedagogical move is **scripted orchestration**: rather than relying on a teacher's contingent, moment-to-moment support (see [Scaffolding](../elements/scaffolding.md)), a pre-authored inquiry script — implemented in software — pre-specifies which phases are visible, which activities happen individually versus in groups, and how data collected outside the classroom (at home, in a park, at a nature reserve) flows back into classroom analysis. This is explicitly framed as a distinct mechanism from scaffolding: it does not require a person calibrating support in real time to an individual student's understanding, but instead structures the activity in advance so that transitions between settings, individual and group work, and inquiry phases happen predictably.
 

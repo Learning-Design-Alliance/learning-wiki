@@ -12,6 +12,8 @@ grain_size: course
 
 # Flipped Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Flipped Learning is a pattern that moves some initial content exposure outside class so synchronous time can be used for application, discussion, and feedback. This page serves as the canonical short-form target for links that refer to the flipped model under the broader "flipped learning" label.
 

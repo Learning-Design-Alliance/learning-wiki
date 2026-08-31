@@ -16,6 +16,8 @@ sources:
 
 # Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth
 
+> **Claim** · [All claims](index.md)
+
 When a STEM maker space explicitly invites participants to author identity into their design choices, queer youth can experience STEM and identity as mutually reinforcing rather than needing to compartmentalize or choose between them, and may extend that openness to questioning other imposed binary categories.
 
 ## Subclaims

@@ -15,6 +15,8 @@ sources:
 
 # Restorying Computing Futures Through Electronic Quilting
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A concrete operationalization of [Womanist Restorying](../theories/womanist-restorying.md) for computing education. Youth first name their own group's dominant stereotype of "who is a computer scientist" (in the source study: "old white men" who "code" and "know all technology"), then design an interactive quilt patch — built from construction paper, copper tape, microcontrollers, and LEDs — that tells a counter-story centering an underrepresented perspective (e.g., a Black woman founding computer science). The paper-circuit medium is chosen deliberately: it echoes Black women's historical quilt-making as a form of resistance and knowledge preservation, and its "looks simple, but complexity is hidden" character challenges norms about what technical work looks and feels like. Group quilting sessions are explicitly framed as a form of collaborative kinship-building, not solitary maker work.
 

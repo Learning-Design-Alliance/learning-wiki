@@ -21,6 +21,8 @@ grain_size: lesson
 
 # Discussion Group
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Discussion Group is a structured pattern for using small-group or whole-group talk to deepen understanding, surface interpretation, and test ideas in relation to a prompt or problem. It is more than "talk in groups"; the pattern works by giving discussion a clear purpose, enough preparation, and enough moderation that the conversation stays intellectually productive.
 

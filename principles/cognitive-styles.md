@@ -10,6 +10,8 @@ generated:
 
 # Cognitive Styles
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Teachers commonly speak of students' **learning styles** — preferred ways of engaging with material — but the term can misleadingly imply more cross-situational consistency than actually exists: a student who prefers diagrams to outlines can typically still learn well from either, given the chance (Loo, 2004; Stahl, 2002). **Cognitive styles** are a more specific and better-evidenced construct: relatively stable (though not perfectly so) individual differences in *how* a person typically perceives, remembers, and solves problems, rather than a mere preference (Zhang & Sternberg, 2006).
 

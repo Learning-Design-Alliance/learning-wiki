@@ -10,6 +10,8 @@ generated:
 
 # Free-Choice Learning Environment Design
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Falk and Dierking's research, cited by Ashton, Nelson, and Millward (2018), estimates that only about 5% of a person's lifetime learning occurs in classroom settings — the rest happens across a lifetime in self-selected, informal contexts: museums, hobbies, and everyday exploration. **Free-choice learning environments** are deliberately designed for this reality: they give visitors genuine control over what and how deeply they engage, rather than imposing a fixed sequence or curriculum. This differs in kind from bounded choice inside a fixed curriculum (offering a menu of topics or formats within a course, as in [Learner Choice](learner-choice.md)) — free-choice design assumes no externally imposed sequence or objective at all, and success means visitors can curate a coherent experience entirely of their own.
 

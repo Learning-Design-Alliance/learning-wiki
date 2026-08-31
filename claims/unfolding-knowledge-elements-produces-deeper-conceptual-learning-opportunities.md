@@ -16,6 +16,8 @@ sources:
 
 # Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure
 
+> **Claim** · [All claims](index.md)
+
 Across video-recorded whole-class discussions on formal volume calculation, teacher facilitation practices that explicitly grounded higher-order student contributions in lower-order concept elements (rows, layers, structured counting) produced extensively connected, deep conceptual learning opportunities, while practices that jumped straight to procedure or funneled toward an answer produced only shallow ones — and the same eight teachers, using identical curriculum materials, varied substantially in which they enacted.
 
 ## Subclaims

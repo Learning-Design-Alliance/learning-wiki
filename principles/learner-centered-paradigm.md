@@ -10,6 +10,8 @@ generated:
 
 # Learner-Centered Paradigm of Education
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Watson and Reigeluth (2008) argue that most school systems are still organized on an Industrial-Age, sorting-based model: time is held constant (a fixed school year, fixed pace), so achievement is forced to vary — some students master the material, others fall behind and accumulate deficits, and the system's implicit function is to sort students into different tracks rather than ensure everyone reaches mastery. The learner-centered paradigm proposes inverting this: hold **attainment** constant (every learner reaches mastery of each standard) and let **time/pace** vary to fit the individual, alongside person-based (rather than group-based) progression, resource-based (rather than purely teacher-based) instruction, and criterion-based (rather than norm-based) assessment.
 

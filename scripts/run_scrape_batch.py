@@ -23,6 +23,7 @@ caller in this project uses, nothing source-specific is duplicated.
 import argparse
 import json
 import os
+import subprocess
 import sys
 import time
 from datetime import datetime, timezone
@@ -35,8 +36,10 @@ from scripts.eval import discover_articles, fetch_article, scrape_report
 
 RUNS_DIR = WIKI_ROOT / "eval" / "runs"
 SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
+SCRAPE_HISTORY_PATH = RUNS_DIR / ".scrape_history.json"
 SCRAPE_CONSOLE_LOG_PATH = RUNS_DIR / ".scrape_console.log"
 SCRAPE_REPORT_PATH = RUNS_DIR / "scrape.html"
+MAX_HISTORY = 20
 
 # entry["source"] values differ from the CLI/config vocabulary for PMC only
 # (search_pmc() sets "pubmed", to match the existing benchmark manifest.json
@@ -74,17 +77,76 @@ def _now() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
+def _load_history() -> list:
+    if not SCRAPE_HISTORY_PATH.exists():
+        return []
+    try:
+        return json.loads(SCRAPE_HISTORY_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return []
+
+
+def _trim_state_for_history(state: dict) -> dict:
+    """Drops the per-article fetch.results list (can be hundreds of entries)
+    before archiving — a past run's aggregate ok/fail counts are what a
+    history table needs, not the full per-article detail, which would make
+    .scrape_history.json grow unboundedly."""
+    trimmed = dict(state)
+    fetch = dict(trimmed.get("fetch") or {})
+    fetch.pop("results", None)
+    trimmed["fetch"] = fetch
+    trimmed.pop("pid", None)
+    return trimmed
+
+
+def _archive_current_state_if_any() -> None:
+    """Called once, before a new batch's first _save_state() overwrites
+    .scrape_state.json — .scrape_state.json is a singleton (today's whole
+    "previous runs" gap: there was no history at all, just whatever the
+    last batch left behind), so this is the one hook point that preserves
+    it: whatever the previous batch's last-recorded state was (completed,
+    errored, or killed mid-run and never updated again) gets appended to
+    .scrape_history.json right before it would otherwise be lost."""
+    if not SCRAPE_STATE_PATH.exists():
+        return
+    try:
+        prev_state = json.loads(SCRAPE_STATE_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return
+    history = _load_history()
+    history.append(_trim_state_for_history(prev_state))
+    history = history[-MAX_HISTORY:]
+    SCRAPE_HISTORY_PATH.write_text(json.dumps(history, indent=2), encoding="utf-8")
+
+
 def _save_state(state: dict) -> None:
     state["updated_at"] = _now()
     RUNS_DIR.mkdir(parents=True, exist_ok=True)
     SCRAPE_STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
-    SCRAPE_REPORT_PATH.write_text(scrape_report.render_html(state), encoding="utf-8")
+    SCRAPE_REPORT_PATH.write_text(scrape_report.render_html(state, history=_load_history()), encoding="utf-8")
+
+
+def _run_chained_step(cmd: list, log_path: Path) -> int:
+    """Runs a generation/ingestion step as a real subprocess (not an
+    in-process import of eval_harness.py/ingest_extractions.py — both are
+    large modules with their own sys.path and secrets-loading side effects
+    better kept isolated), writing its stdout/stderr straight into the same
+    console log file _ConsoleTee already tees this process's own output
+    into, so the dashboard's live console shows generation/ingestion
+    progress with no extra plumbing. Returns the subprocess's exit code."""
+    with open(log_path, "a", encoding="utf-8") as f:
+        proc = subprocess.run(cmd, cwd=str(WIKI_ROOT), stdout=f, stderr=subprocess.STDOUT)
+    return proc.returncode
 
 
 def run(args) -> None:
+    _archive_current_state_if_any()
+
     config = {
         "pmc": args.pmc, "eric": args.eric, "arxiv": args.arxiv,
         "arxiv_snapshot": args.arxiv_snapshot, "out": args.out,
+        "model": args.model, "prompt_version": args.prompt_version,
+        "max_correction_attempts": args.max_correction_attempts,
     }
     state = {
         "label": args.label,
@@ -102,12 +164,9 @@ def run(args) -> None:
     print(f"=== scrape batch {args.label!r} starting: pmc={args.pmc} eric={args.eric} "
           f"arxiv={args.arxiv} out={args.out} ===", flush=True)
 
-    existing_manifest_path = discover_articles.EVAL_ROOT / "corpus" / "manifest.json"
-    existing_ids = set()
-    if existing_manifest_path.exists():
-        existing = json.loads(existing_manifest_path.read_text(encoding="utf-8"))
-        existing_entries = existing if isinstance(existing, list) else existing.get("articles", [])
-        existing_ids = {e["id"] for e in existing_entries}
+    existing_ids = discover_articles.load_excluded_ids()
+    print(f"Excluding {len(existing_ids)} already-known article id(s) "
+          f"(benchmark manifest + processed-articles registry).", flush=True)
 
     topics = discover_articles.topics_from_wiki()
     state["discover"]["topics_seeded"] = len(topics)
@@ -118,21 +177,27 @@ def run(args) -> None:
         targets["pmc"] = args.pmc
     if args.eric > 0:
         targets["eric"] = args.eric
-    if args.arxiv > 0 and not args.arxiv_snapshot:
-        targets["arxiv"] = args.arxiv  # will correctly hit the live-API compliance block; see discover_articles.py
 
     manifest = []
     if targets:
-        manifest = discover_articles.build_manifest(targets, topics, existing_ids)
+        manifest = discover_articles.build_manifest(targets, topics, existing_ids,
+                                                      use_cache=not args.refresh_cache)
         for source, target in targets.items():
             entry_source = _SOURCE_KEY_TO_ENTRY_SOURCE[source]
             found = sum(1 for e in manifest if e["source"] == entry_source)
             state["discover"]["by_source"][source] = {"found": found, "target": target}
         _save_state(state)
 
-    if args.arxiv > 0 and args.arxiv_snapshot:
+    if args.arxiv > 0:
+        # Always resolved to a local snapshot file — either the explicit
+        # --arxiv-snapshot path, or an on-demand kagglehub download/cache
+        # hit — never the live API; see discover_articles.resolve_arxiv_snapshot().
+        print(f"Resolving arXiv snapshot (explicit path: {args.arxiv_snapshot or '(none — using kagglehub)'})...",
+              flush=True)
+        snapshot_path = discover_articles.resolve_arxiv_snapshot(args.arxiv_snapshot)
+        print(f"Using arXiv snapshot: {snapshot_path}", flush=True)
         arxiv_entries = discover_articles.build_arxiv_manifest_from_snapshot(
-            Path(args.arxiv_snapshot), topics, args.arxiv,
+            snapshot_path, topics, args.arxiv,
             existing_ids | {e["id"] for e in manifest},
         )
         manifest.extend(arxiv_entries)
@@ -163,11 +228,62 @@ def run(args) -> None:
         _save_state(state)
 
     state["fetch"]["done"] = True
+    print(f"=== scrape batch {args.label!r} done: {state['fetch']['ok']}/{state['fetch']['total']} "
+          f"fetched successfully ===", flush=True)
+
+    if args.model:
+        state["status"] = "generating"
+        _save_state(state)
+        print(f"\n=== generating with {args.model} (prompt version: "
+              f"{args.prompt_version or 'CURRENT'}) ===", flush=True)
+        gen_cmd = [sys.executable, "-u", "scripts/eval_harness.py", "run",
+                   "--models", args.model, "--run-id", args.label,
+                   "--manifest", args.out, "--max-tokens", "24000",
+                   "--judges", "--overwrite",
+                   "--max-correction-attempts", str(args.max_correction_attempts)]
+        if args.prompt_version:
+            gen_cmd += ["--prompt-version", args.prompt_version]
+        gen_rc = _run_chained_step(gen_cmd, SCRAPE_CONSOLE_LOG_PATH)
+        if gen_rc != 0:
+            state["status"] = "error"
+            state["error_detail"] = f"Generation step exited {gen_rc} — see console log."
+            state["finished_at"] = _now()
+            _save_state(state)
+            print(f"=== scrape batch {args.label!r} stopped: generation failed (exit {gen_rc}) ===", flush=True)
+            return
+
+        state["status"] = "ingesting"
+        _save_state(state)
+        print(f"\n=== ingesting {args.label!r} results into wiki pages ===", flush=True)
+        ingest_cmd = [sys.executable, "-u", "scripts/ingest_extractions.py",
+                      "--run-id", args.label, "--model", args.model, "--by", "claude/unspecified"]
+        ingest_rc = _run_chained_step(ingest_cmd, SCRAPE_CONSOLE_LOG_PATH)
+        if ingest_rc != 0:
+            state["status"] = "error"
+            state["error_detail"] = f"Ingest step exited {ingest_rc} — see console log."
+            state["finished_at"] = _now()
+            _save_state(state)
+            print(f"=== scrape batch {args.label!r} stopped: ingest failed (exit {ingest_rc}) ===", flush=True)
+            return
+
+        # --skip-doi here: Crossref resolution is cached, but a batch with
+        # many freshly-cited DOIs would still pay full per-DOI latency on
+        # its first run. The nightly systemd timer (see
+        # deploy/wiki-health-check.service) runs the full check including
+        # DOI resolution independent of scraper activity, so nothing here
+        # goes unchecked for more than a day.
+        print(f"\n=== health check on {args.label!r}'s new pages ===", flush=True)
+        health_cmd = [sys.executable, "-u", "scripts/wiki_health_check.py", "--skip-doi"]
+        health_rc = _run_chained_step(health_cmd, SCRAPE_CONSOLE_LOG_PATH)
+        if health_rc != 0:
+            print(f"=== health check flagged issues (exit {health_rc}) — see console log; "
+                  f"not treated as a batch failure ===", flush=True)
+
     state["status"] = "completed"
     state["finished_at"] = _now()
     _save_state(state)
-    print(f"=== scrape batch {args.label!r} done: {state['fetch']['ok']}/{state['fetch']['total']} "
-          f"fetched successfully ===", flush=True)
+    print(f"=== scrape batch {args.label!r} fully complete "
+          f"({'discover+fetch+generate+ingest' if args.model else 'discover+fetch'} done) ===", flush=True)
 
 
 def main() -> None:
@@ -178,6 +294,27 @@ def main() -> None:
     parser.add_argument("--arxiv-snapshot", default=None)
     parser.add_argument("--out", default=str(discover_articles.EVAL_ROOT / "corpus" / "manifest_bulk.json"))
     parser.add_argument("--label", default=None)
+    parser.add_argument("--model", default=None,
+                         help="OpenRouter model slug — if given, chains generation (--judges none, "
+                              "--max-tokens 24000, --overwrite) and then ingest_extractions.py "
+                              "straight after a successful discover+fetch, all under this same batch's "
+                              "label as the run-id. Omit to keep this a discover+fetch-only batch, "
+                              "same as before this option existed.")
+    parser.add_argument("--prompt-version", default=None,
+                         help="Only meaningful with --model. Omit to use whatever CURRENT is at run time.")
+    parser.add_argument("--max-correction-attempts", type=int, default=2,
+                         help="Only meaningful with --model. eval_harness.py's own default is 0 — "
+                              "deliberately, since run/optimize/auto-optimize measure a model's FIRST-attempt "
+                              "quality for benchmark purposes. A real ingest batch has no such purity to "
+                              "protect; the goal is just the best final wiki content, so this defaults to 2 "
+                              "here instead — a validator failure gets shown back to the model for a bounded "
+                              "number of fix-it attempts before the article is given up on. Pass 0 to opt "
+                              "back into single-shot behavior.")
+    parser.add_argument("--refresh-cache", action="store_true",
+                         help="Ignore eval/corpus/.discovery_cache.json's cached PMC/ERIC search results "
+                              "and re-query live instead — needed to actually exercise a change to "
+                              "search_pmc()/search_eric() (e.g. a new filter), since a cache hit skips "
+                              "calling them at all. Off by default so repeat batches stay fast/cheap.")
     args = parser.parse_args()
     if not args.label:
         args.label = f"scrape-{int(time.time())}"

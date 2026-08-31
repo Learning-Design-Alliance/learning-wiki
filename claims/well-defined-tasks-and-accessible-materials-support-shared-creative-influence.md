@@ -16,6 +16,8 @@ sources:
 
 # Well-defined tasks and accessible materials support shared creative influence in group work
 
+> **Claim** · [All claims](index.md)
+
 The same adolescent group produced shared, distributed creative influence during a well-defined modeling task with accessible materials, and unproductive social conflict during an ill-defined form-design task with resource-constrained materials — with a formally designated "expert" role failing to protect a student's merit-based argument from being overridden by peer social dominance in the latter task.
 
 ## Subclaims

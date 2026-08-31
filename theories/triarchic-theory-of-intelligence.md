@@ -10,6 +10,8 @@ generated:
 
 # Triarchic Theory of Intelligence
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Robert Sternberg's (1988) triarchic theory of intelligence proposes three distinct components of intelligence — **analytical**, **creative**, and **practical** — offered partly as a rebuttal to both Spearman's single-factor "g" and Cattell's fluid/crystallized split. Analytical intelligence is closely aligned with academic problem-solving: the ability to analyze, evaluate, judge, compare, and contrast, of the kind exercised in comparing literary characters or working a multi-step math problem. Creative intelligence is the ability to invent or imagine a novel solution to a problem or situation. Practical intelligence — sometimes compared to "street smarts" — is the ability to find solutions that work in everyday life by applying knowledge from one's own experience, and Sternberg's own research indicates it is empirically separable from the other two: a person can score high on practical intelligence without scoring comparably on analytical or creative measures, or vice versa.
 

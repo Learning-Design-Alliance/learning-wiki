@@ -15,6 +15,8 @@ sources:
 
 # Reflexive Noticing
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Teacher professional talk about students tends to sustain a shared **lived ideology** (Billig et al.) — a "common sense" that works through contradictions rather than resolving them, and that can protect teachers from difficult realities while also freezing what they see as possible ("that's just how it is here"). Drawing on activity theory's distinction between **stabilization knowledge** (which freezes practice) and **possibility knowledge** (which opens it and supports teachers' sense of agency), this theory identifies why contrary evidence often fails to shift a limiting lived ideology: surprising positive evidence (e.g., a disengaged student succeeding at a new task) is frequently discursively **re-stabilized** — reframed as an exception ("that was strange," "I wouldn't do this again with this lot") that leaves the frozen view intact. **Reflexive noticing** is the alternative discursive move that does produce a shift, built from three devices: **sustained puzzle** (holding a difficulty open and connecting it to a need to change, rather than sealing it as unsolvable), **dilemmas as the origin of change** (treating a contradiction as the source of, not the impediment to, future work), and **discursive consciousness** (teachers becoming metacognitively aware of their own institutional common sense and starting to question it explicitly). These devices create a **dialogic space** (Wegerif) in which competing perspectives on students' capabilities can coexist long enough for a new possibility discourse to emerge.
 

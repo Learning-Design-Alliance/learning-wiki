@@ -10,6 +10,8 @@ generated:
 
 # Kounin's Classroom Management Research
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Where the humanist tradition ([Ginott](ginotts-congruent-communication.md), [Glasser](glassers-choice-theory-and-cooperative-learning.md)) and the applied-behavior-analysis tradition are both largely *reactive* — emphasizing solutions to misbehavior after it occurs — the classroom-management tradition begun by Kounin (1970), and continued by the Research and Development Center for Teacher Education at the University of Texas at Austin (Emmer et al., 1994) and the Institute for Research on Teaching at Michigan State University (Brophy, 1986, 1988), reframed the question of control and warmth in terms of *prevention*. Its research base observed experienced and inexperienced teachers while they taught, and its major conclusion was that the distinction between more and less effective classroom managers can be made more by what they do to *prevent* misbehavior than by how they respond to it.
 

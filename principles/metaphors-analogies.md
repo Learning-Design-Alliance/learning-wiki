@@ -23,6 +23,8 @@ sources:
 
 # Metaphors & Analogies
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Metaphors and analogies help learners understand unfamiliar ideas by mapping them onto more familiar experiences, systems, or images. Their instructional power lies in comparative structure: they can make abstract concepts more concrete, reveal patterns, and help learners reason about relationships they might otherwise miss. Used carefully, they support explanation, transfer, and conceptual flexibility. Used carelessly, they can oversimplify or mislead.
 

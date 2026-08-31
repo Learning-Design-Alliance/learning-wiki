@@ -12,6 +12,8 @@ grain_size: lesson
 
 # Game-Based Mastery Learning (Duolingo Pattern)
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 This page is the short-form canonical target for Duolingo-style game-based mastery learning, where frequent practice, progression gates, feedback, and motivational signals are combined in a mastery sequence.
 
@@ -40,4 +42,4 @@ This page is the short-form canonical target for Duolingo-style game-based maste
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Key Sources
-- Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan.
+- Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan. [doi:10.1145/950566.950595](https://doi.org/10.1145/950566.950595)

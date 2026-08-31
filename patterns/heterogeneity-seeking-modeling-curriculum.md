@@ -17,6 +17,8 @@ sources:
 
 # Heterogeneity-Seeking Modeling Curriculum
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Most modeling curricula aim for convergence: students revise their models until the class agrees on one shared, canonical representation. This pattern instead treats multiple, non-reconciled model types as the intended end state — students build a physical model (e.g., a sealed biosphere jar), a computational model (a simulation), a diagrammatic model (a food web), and sometimes an embodied model (role-playing organisms) of the *same* phenomenon, and instruction treats each model as revealing something the others don't, rather than ranking them against one canonical standard. Teacher facilitation prompts are correspondingly open-ended ("what can you learn from each model?" "why are we doing both at the same time?") rather than discipline-directed toward a single correct answer.
 

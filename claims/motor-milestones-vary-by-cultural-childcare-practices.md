@@ -16,6 +16,8 @@ sources:
 
 # Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.
 
+> **Claim** · [All claims](index.md)
+
 Standard motor-milestone charts (e.g., typical walking age) are often treated as universal biological timetables. Cross-cultural evidence shows the *timing* of milestones is substantially shaped by childcare practice, even though the eventual, functional motor competence converges across cultures by around age 9.
 
 ## Subclaims

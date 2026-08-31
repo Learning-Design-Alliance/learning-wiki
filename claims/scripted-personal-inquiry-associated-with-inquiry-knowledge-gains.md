@@ -16,6 +16,8 @@ sources:
 
 # Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change
 
+> **Claim** · [All claims](index.md)
+
 Across two design-based-research implementations of a personal-inquiry toolkit, students showed pre-to-post gains on a comic-format test of inquiry-decision accuracy relative to a non-equivalent control class, successfully carried out investigations across classroom, home, and field settings with only minor technical friction, and some students reported (via interview, not measurement) carrying sustainability-related purchasing changes home — though the authors themselves caution against strong causal or attitude-change conclusions.
 
 ## Subclaims

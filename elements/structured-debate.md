@@ -10,6 +10,8 @@ generated:
 
 # Structured Debate
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Structured debate is the element in which learners examine opposing claims using explicit roles, turn structures, evidence requirements, and response rules. It is useful when the goal is disciplined argumentation rather than free-form disagreement.
 
@@ -44,4 +46,4 @@ Structured debate is the element in which learners examine opposing claims using
 - Learners defend and rebut positions using evidence stems and timed turns.
 
 ## Key Sources
-- Kuhn, D. (1991). *The skills of argument*. Cambridge University Press.
+- Kuhn, D. (1991). *The skills of argument*. Cambridge University Press. [doi:10.1017/cbo9780511571350](https://doi.org/10.1017/cbo9780511571350)

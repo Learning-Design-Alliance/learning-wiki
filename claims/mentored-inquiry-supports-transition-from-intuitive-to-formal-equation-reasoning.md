@@ -16,6 +16,8 @@ sources:
 
 # Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning
 
+> **Claim** · [All claims](index.md)
+
 Over a year-long mentored physics research project, one student's reasoning about a wave-velocity equation progressed from purely intuitive mechanistic explanation to increasingly sophisticated, mathematically-grounded interpretation, moving through the equation's meaning at increasing depth and shifting from passively following instructions to autonomous, self-directed investigation.
 
 ## Subclaims

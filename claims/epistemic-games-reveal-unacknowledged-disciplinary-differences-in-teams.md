@@ -16,6 +16,8 @@ sources:
 
 # Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams
 
+> **Claim** · [All claims](index.md)
+
 Interdisciplinary student teams constructing a shared problem statement used five recurring, profoundly multimodal (not purely verbal) interaction moves — knowledge sharing, perspective-taking, simulation, knowledge validation, and negotiation — and these moves regularly surfaced disciplinary differences in what counts as trustworthy evidence and how quickly a problem framing should be treated as settled, but these differences were rarely explicitly discussed as disciplinary in origin.
 
 ## Subclaims

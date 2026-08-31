@@ -10,6 +10,8 @@ generated:
 
 # Performance Technology
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Performance Technology (also called Human Performance Technology, HPT) holds that instructional designers should not assume training is the answer to a performance problem until they have analyzed the gap between desired and actual performance and identified its cause. HPT emerged in the 1960s–70s out of behaviorism — its "father," Thomas Gilbert, was a student of B.F. Skinner — and is grounded in general systems theory: any solution must be understood as operating inside a larger system of people, processes, and organizational culture, not in isolation (Stefaniak, 2018).
 

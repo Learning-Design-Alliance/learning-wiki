@@ -16,6 +16,8 @@ sources:
 
 # Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption
 
+> **Claim** · [All claims](index.md)
+
 When an acute disruption (e.g., a pandemic) hits, research-practice partnerships (RPPs) that had already built relational trust and embedded-researcher relationships could pivot to rapid, practically useful work — even at the cost of publishable rigor — and partners reported this strengthened rather than weakened the partnership.
 
 ## Subclaims

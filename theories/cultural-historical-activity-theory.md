@@ -19,6 +19,8 @@ sources:
 
 # Cultural-Historical Activity Theory
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Cultural-historical activity theory (CHAT) holds that human thinking and learning cannot be separated from the culturally mediated activity in which they occur. Building on Vygotsky's insight that action is mediated rather than a direct stimulus-response link, CHAT analyzes learning through activity systems: a subject pursuing an object (a motive) using tools, within a community governed by rules and a division of labor. Object formation is treated as a joint, evolving achievement of participants rather than a fixed target defined in advance — the same activity can shift meaning as different groups (e.g., students, teachers, outside partners) bring different histories and interests to it. Two concepts extend the framework for settings that cross institutional boundaries: a **boundary object** is something plastic enough to adapt to each group's local needs yet stable enough to hold a shared identity across groups, and **dialogicality** describes how meaning is made by encounters between old (there-and-then) and new (here-and-now) meanings carried into the activity by different participants.
 

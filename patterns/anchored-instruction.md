@@ -17,6 +17,8 @@ grain_size: lesson
 
 # Anchored Instruction
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Anchored instruction organizes learning around a rich, shared scenario that acts as the "anchor" for inquiry, discussion, and problem solving. Instead of teaching ideas first and application later, the pattern begins with a narrative or multimedia situation containing the information, constraints, and questions learners will need to investigate. The anchor creates a common reference point that learners can revisit as they gather evidence and develop solutions.
 

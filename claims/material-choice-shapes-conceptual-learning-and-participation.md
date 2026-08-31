@@ -16,6 +16,8 @@ sources:
 
 # Material choice shapes conceptual learning and who feels invited to learn
 
+> **Claim** · [All claims](index.md)
+
 Which physical materials a hands-on STEM task uses is not an interchangeable implementation detail: material affordances (e.g., whether a component only works in one orientation) drive how much conceptual learning happens, and materials culturally coded as "feminine" (e.g., sewing-based e-textiles) can produce equal or stronger conceptual learning than conventionally masculine-coded materials, contrary to common assumptions that arts-integrated or craft-based materials sacrifice rigor.
 
 ## Subclaims

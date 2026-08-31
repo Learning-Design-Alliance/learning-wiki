@@ -10,6 +10,8 @@ generated:
 
 # Developmental Research Designs — Cross-Sectional, Longitudinal, and Sequential
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Research design is the strategy or blueprint for deciding how to collect and analyze information, distinct from the specific methods used to gather it; when the goal is examining change over time, three designs are available, each with a different cost and a different vulnerability.
 

@@ -1,6 +1,6 @@
 # Learning Design Wiki — Agent Operating Guide
 
-This is a **persistent, LLM-maintained knowledge base** for learning design. The wiki compiles design principles, instructional patterns, elements, strategies, theories, and empirical claims into a structured, cross-linked reference.
+This is a **persistent, LLM-maintained knowledge base** for learning design. The wiki compiles design principles, instructional patterns, elements, strategies, theories, learner variables, and empirical claims into a structured, cross-linked reference.
 
 **You never write the wiki yourself.** The LLM reads sources, ingests new content, cross-links pages, and keeps schemas consistent. You source materials and ask questions.
 
@@ -14,7 +14,7 @@ The wiki is a bundle in the [Open Knowledge Format (OKF) v0.2](https://github.co
 Process a new source (paper, book chapter, CSV batch, worked example) into wiki pages.
 
 Steps:
-1. Identify the page type(s) the source contributes to (principle, element, pattern, strategy, theory, claim)
+1. Identify the page type(s) the source contributes to (principle, element, pattern, strategy, theory, learner-variable, claim). `learner-variable` is schema-ready but not yet part of the automated single-pass extraction prompt (deliberately deferred to a dedicated future sweep, so the extraction agent isn't juggling a fourth job on top of claims/omission/fabrication) — for now, factor a learner-variable page out by hand when a claim reports a finding about a learner characteristic (e.g. "X predicts/moderates Y outcome"), rather than leaving it as a bare, unlinked claim.
 2. Check if a page already exists (`index.md` or `grep` by name)
 3. If new: create a page in the correct folder using the template below
 4. If existing: merge new content into the right sections; append to `## Key Sources` (or `## Evidence` for claims); log the change
@@ -83,11 +83,11 @@ Always link the tag to a claim page: `[Claim statement](../claims/example-claim.
 
 ## Frontmatter fields
 
-Every content page (principle, element, pattern, strategy, theory, claim) carries this OKF-conformant frontmatter:
+Every content page (principle, element, pattern, strategy, theory, learner-variable, claim) carries this OKF-conformant frontmatter:
 
 | Field | Required | Meaning |
 |-------|----------|---------|
-| `type` | Yes | `principle` \| `element` \| `pattern` \| `strategy` \| `theory` \| `claim` |
+| `type` | Yes | `principle` \| `element` \| `pattern` \| `strategy` \| `theory` \| `learner-variable` \| `claim` |
 | `title` | Recommended | Display name — normally matches the page's `# H1` |
 | `description` | Recommended | One-sentence summary, used in index listings |
 | `status` | Recommended | See Status values above |
@@ -133,6 +133,42 @@ which appends the `verified` entry alongside its normal `generated`/log-update w
 
 ---
 
+## Page-type banner
+
+Every content page carries a one-line banner directly under its `# H1`, naming
+the page's type and linking back to its section index:
+
+```markdown
+# Cooperative Learning
+
+> **Principle** · [All principles](index.md)
+```
+
+This exists because 73 slugs live in more than one type folder — `cooperative-learning`
+and `direct-instruction` each exist in **all four** of principles/elements/patterns/strategies,
+with near-identical titles. Frontmatter carries `type`, but mkdocs strips frontmatter out
+of the rendered page entirely, so on the docs site, in GitHub's file view, in the dashboard's
+edit box, and in whatever an agent reads during an ingest, the folder in the URL was the only
+thing distinguishing them. A blockquote renders as a visible callout in both GitHub and
+mkdocs-material.
+
+The banner's label follows the **folder the page is in**, which is what actually determines
+its section — so where frontmatter `type` and the folder disagree, that's a real data bug
+(the page is either misfiled or mislabelled) and a human decides which. `lint.py`'s
+`check_type_banner` verifies all three agree — banner present, label matches folder, and
+frontmatter `type` matches folder — on every health run.
+
+Run `python3 scripts/add_type_banner.py --apply` after any batch that creates pages; it's
+idempotent (updates an existing banner in place rather than stacking a second one), so it's
+safe to re-run at any time. `--check` reports without writing.
+
+Yes, this duplicates `type:` from frontmatter into the body — the same tradeoff this schema
+already accepts for `sources:` mirroring the citations in `## Key Sources`: a structured field
+and a human-readable rendering of the same fact, kept in sync by a lint check rather than by
+dropping one.
+
+---
+
 ## Cross-link conventions
 
 - Cross-links are standard markdown links, relative to the linking page: `slug.md` for another page in the same folder, `../folder/slug.md` for a page in a different folder (every content folder sits exactly one level under the wiki root, so `../folder/` always resolves correctly regardless of which folder you're linking from)
@@ -156,6 +192,7 @@ ld-wiki/
   patterns/          ← instructional patterns (reusable designs at lesson/unit level)
   strategies/        ← teaching strategies (concrete activity recipes)
   theories/          ← learning theories (explanatory frameworks)
+  learner-variables/ ← canonical learner characteristics (prior knowledge, self-efficacy, ...) claims link into
   claims/            ← empirical claims with evidence
   sources/           ← bibliographic source pages (optional; most citations live inline in Key Sources / Evidence)
     manifest.ndjson    ← append-only log of every source reviewed, ingested or rejected (see Source Manifest below)
@@ -166,6 +203,7 @@ ld-wiki/
     build_indexes.py   ← regenerates index.md and every per-folder index from disk state
     log_revision.py    ← records a revision card + updates a page's `generated` field + appends to log.md
     log_source_review.py ← appends one entry to sources/manifest.ndjson (see Source Manifest below)
+    add_type_banner.py ← inserts/refreshes the page-type banner under each page's H1 (see below)
     lint.py            ← health-check (see Lint above)
 ```
 
@@ -227,6 +265,8 @@ generated:
 
 # [Principle Name]
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 [What this principle is and what it recommends.]
 
@@ -282,6 +322,8 @@ generated:
 
 # [Element Name]
 
+> **Element** · [All elements](index.md)
+
 ## Description
 [What this instructional element is; how it functions.]
 
@@ -334,6 +376,8 @@ grain_size:
 ---
 
 # [Pattern Name]
+
+> **Pattern** · [All patterns](index.md)
 
 ## Description
 [What this pattern is; how it works; what problem it solves.]
@@ -411,6 +455,8 @@ generated:
 
 # [Strategy Name]
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 [What this strategy is and how it is carried out.]
 
@@ -464,6 +510,8 @@ generated:
 
 # [Theory Name]
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 [What this theory proposes; its core mechanism or claim.]
 
@@ -495,6 +543,63 @@ generated:
 
 ---
 
+### Learner Variable
+
+A canonical page per distinct learner characteristic/variable (prior knowledge, self-efficacy,
+working memory capacity, spatial ability, ...). Claims that report a finding about the variable
+link *into* it, the same way claims link into theories — this keeps "prior knowledge," "prior
+domain knowledge," and "background knowledge" from three different articles as one page instead
+of three fragmented, undiscoverable mentions. Schema-ready but not yet part of the automated
+single-pass extraction prompt — see the Ingest section above for why, and factor these out by
+hand for now when a claim clearly reports a learner-characteristic finding.
+
+```markdown
+---
+type: learner-variable
+title: [Variable Name]
+description: [One-sentence definition of this learner characteristic]
+status: draft
+generated:
+  by: <actor>
+  at: YYYY-MM-DD
+---
+
+# [Variable Name]
+
+> **Learner Variable** · [All learner variables](index.md)
+
+## Description
+[What this learner variable is; how it's typically measured or operationalized.]
+
+## Implications
+
+### Context
+- 
+
+### Target Learners
+- 
+
+### Target Learning Objectives
+<!-- Learning outcomes this variable has been shown to affect -->
+- 
+
+## Claims
+<!-- Claims reporting findings about this variable, with evidence tags: [Claim statement](../claims/claim-slug.md) [+M] -->
+- 
+
+## Related Learner Variables
+- 
+
+## Examples
+<!-- Links to principles/elements/patterns/strategies that account for this variable -->
+- 
+
+## Key Sources
+- 
+```
+
+---
+
 ### Claim
 
 ```markdown
@@ -510,6 +615,8 @@ evidence_strength:   # strong / moderate / weak / mixed
 ---
 
 # [Claim statement — one sentence, present tense]
+
+> **Claim** · [All claims](index.md)
 
 [Optional 1–2 sentence clarification of scope or mechanism.]
 

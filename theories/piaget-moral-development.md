@@ -10,6 +10,8 @@ generated:
 
 # Piaget's Theory of Moral Development
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Before Kohlberg extended and formalized the study of moral reasoning, Piaget studied it directly — partly by observing how children negotiate and enforce the rules of their own games, and partly through structured moral dilemmas. He described a two-phase progression driven by the same cognitive maturation that underlies his broader stage theory, tied to a shift from viewing rules as fixed and externally imposed to viewing them as constructed, revisable social agreements.
 

@@ -19,6 +19,8 @@ sources:
 
 # Pairing Non-examples with Examples
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Pairing non-examples with examples helps learners understand a concept, procedure, or category by seeing both what fits and what does not. The contrast matters because examples alone can make a pattern look obvious when it is not; non-examples force learners to discriminate, compare, and articulate what distinguishes a valid case from an invalid or misleading one. This principle is especially useful when learners hold persistent misconceptions or when the concept boundary is easy to blur.
 
@@ -76,5 +78,5 @@ Pairing non-examples with examples strengthens learning because contrast makes c
 - **Procedure contrast**: Learners compare a correct sequence of steps with an incorrect or incomplete one.
 
 ## Key Sources
-- Barbieri, C. A., & Booth, J. L. (2020). Mistakes on display: Incorrect examples refine equation solving and algebraic feature knowledge. *Applied Cognitive Psychology, 34*(4), 862-878. [https://doi.org/10.1002/acp.3662](https://doi.org/10.1002/acp.3662)
-- Bowe, B. J. (2019). Separating real from fake: Building news literacy with the Frayer Model. *Communication Teacher, 33*(4), 246-252. [https://doi.org/10.1080/17404622.2019.1635700](https://doi.org/10.1080/17404622.2019.1635700)
+- Barbieri, C. A., & Booth, J. L. (2020). Mistakes on display: Incorrect examples refine equation solving and algebraic feature knowledge. *Applied Cognitive Psychology, 34*(4), 862-878. [https://doi.org/10.1002/acp.3663](https://doi.org/10.1002/acp.3663)
+- Bowe, B. J. (2019). Separating real from fake: Building news literacy with the Frayer Model. *Communication Teacher, 33*(4), 246-252. [https://doi.org/10.1080/17404622.2019.1575971](https://doi.org/10.1080/17404622.2019.1575971)

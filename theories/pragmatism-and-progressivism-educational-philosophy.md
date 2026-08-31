@@ -10,6 +10,8 @@ generated:
 
 # Pragmatism and Progressivism (Educational Philosophy)
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Like Realism, Pragmatism requires empirical observation of the real world; unlike Realism and Idealism, however, that world is not an unchanging whole but is evolving and changing according to how thought is applied to action on a problem. Thought should not merely describe or represent reality — it should be applied practically to problems as they arise, so that the universe is always evolving according to newly applied thoughts turned into action. Pragmatism's founder, Charles Sanders Peirce, held that thought must produce action toward an ever-changing universe.
 

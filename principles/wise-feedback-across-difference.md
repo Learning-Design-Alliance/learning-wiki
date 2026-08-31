@@ -10,6 +10,8 @@ generated:
 
 # Wise Feedback Across Racial and Ethnic Difference
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Feedback that both encourages and includes genuine criticism is already a delicate balance to strike, and it becomes measurably harder across a racial or ethnic difference between teacher and student: students of color have historically grounded reasons to distrust critical comments from a white teacher, since such comments can be (and too often have been) a vehicle for lower expectations rather than genuine developmental feedback. Cohen, Steele, and Ross (1999) found that effective — "wise" — feedback across this kind of difference needs three components together, not just the usual two: **positive comments**, **criticism**, and — the addition that makes it "wise" — **an explicit assurance that the teacher believes the student is capable of reaching a higher standard**. Without that third component, criticism risks being read (not unreasonably, given the historical pattern) as confirmation of a lower expectation rather than as an investment in the student's actual growth.
 

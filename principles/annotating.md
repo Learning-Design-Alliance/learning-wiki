@@ -10,6 +10,8 @@ generated:
 
 # Annotating
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Annotating is the practice of marking a text with notes, questions, summaries, definitions, or visual cues while reading. Done well, it turns reading from passive exposure into active sense-making: learners identify what matters, track confusion, connect ideas to prior knowledge, and leave behind an external record of their thinking that can support discussion, writing, and review.
 

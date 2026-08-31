@@ -10,6 +10,8 @@ generated:
 
 # User-Centered Design for Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Learning technologies fail not only when the pedagogy is wrong, but when the interface itself creates barriers — a learner who cannot find an assignment or navigate a confusing menu is paying a cognitive cost that has nothing to do with the content being taught (Earnshaw, Tawfik, & Schmidt, 2018). **Usability** describes how easily an interface can be used as intended; **user experience (UX)** is the broader "person's perceptions and responses that result from the use... of a product, system, or service" (ISO, 2010). **User-centered design (UCD)** is the practice of centering users' needs and mental models throughout the design process rather than treating the interface as an afterthought to the pedagogy.
 

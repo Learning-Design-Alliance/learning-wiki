@@ -15,6 +15,8 @@ sources:
 
 # Social Interdependence
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Social interdependence is the principle that the structure of relationships among learners shapes the quality of collaboration, motivation, and learning. It is useful when tasks require learners to depend on each other's contributions rather than merely work side by side.
 

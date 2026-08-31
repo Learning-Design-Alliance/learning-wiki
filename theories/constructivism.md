@@ -10,6 +10,8 @@ generated:
 
 # Constructivism
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
 

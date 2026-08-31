@@ -15,6 +15,8 @@ sources:
 
 # Knowledge Objects and Knowledge Practices
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Drawing on Knorr Cetina's (2001) concept of epistemic objects, a **knowledge object (KO)** is an evolving, materially mediated artifact or representation — a report, a proposal, a logo, a plan — that is shaped through participants' interaction and, in turn, structures what the group does next. Unlike a finished document, a knowledge object is treated as perpetually unfinished: it raises awareness of understanding gaps, makes group progress visible, and prompts reflection precisely because it keeps changing. A **knowledge practice (KP)** is a recurring, dynamic epistemic activity through which a group jointly creates knowledge around an open-ended, complex problem — not limited to talk, but including the embodied and materially mediated practices (writing on a flip chart, restructuring a shared document) that channel a group's collective effort.
 

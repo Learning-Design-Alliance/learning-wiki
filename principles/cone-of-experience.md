@@ -10,6 +10,8 @@ generated:
 
 # Cone of Experience (Concrete-to-Abstract Media Selection)
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Edgar Dale's Cone of Experience (1946, revised 1969) organizes instructional media and methods along a continuum of concreteness: direct, purposeful experience ("seen, handled, tasted, touched, felt, and smelled") at the broad base, moving up through observed and mediated experience (demonstrations, dramatized experience, exhibits, field trips, motion pictures), to highly abstract verbal and visual symbols at the narrow top (Lee & Reeves, 2018). Dale later mapped Bruner's three modes of representation onto the Cone: enactive (learning by doing), iconic (learning through observation), and symbolic (learning through abstraction). Dale explicitly called the Cone a "visual analogy" for the progression of experience, **not** a prescription that concrete media are always superior or that instruction should be sequenced strictly bottom-to-top.
 

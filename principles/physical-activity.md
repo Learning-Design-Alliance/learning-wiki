@@ -23,6 +23,8 @@ sources:
 
 # Physical Activity
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Physical activity in learning contexts means intentionally incorporating movement, exercise, or embodied breaks to support attention, energy, regulation, and readiness to learn. This can range from short movement breaks to physically active tasks or longer routines that help learners recover from fatigue and re-engage. The instructional value is usually indirect: physical activity does not teach content by itself, but it can improve the conditions under which focus, mood, and persistence are more available.
 

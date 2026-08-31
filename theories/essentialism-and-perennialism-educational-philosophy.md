@@ -10,6 +10,8 @@ generated:
 
 # Essentialism and Perennialism (Educational Philosophy)
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 **Essentialism** adheres to the belief that a core set of essential skills — a universal pool of knowledge needed by all students — must be taught to everyone. Essentialists favor traditional academic disciplines that develop prescribed skills and objectives across content areas and build a common culture, typically arguing for a back-to-basics approach to intellectual and moral standards; vocational classes are not seen as a necessary part of educational training. Schools should be sites of rigor where students learn to work hard and respect authority. Because of this stance, Essentialism tends to subscribe to the tenets of [Realism](realism-educational-philosophy.md). Essentialist classrooms tend to be teacher-centered, emphasizing lecture and teacher demonstration; assessment is predominately through testing, with few if any projects or portfolios — a stance that made it comfortable with the No Child Left Behind Act's reliance on test scores as the main form of evaluation (Ornstein & Levine, 2003).
 

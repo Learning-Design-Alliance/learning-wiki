@@ -16,6 +16,8 @@ sources:
 
 # Students' application of teacher support predicts accurate answers in small-group work
 
+> **Claim** · [All claims](index.md)
+
 A mediation analysis of 35 secondary lessons found that students who applied (rather than ignored or merely copied) a teacher's scaffolding went on to give significantly more accurate answers in subsequent small-group work, but how well-calibrated (contingent) the teacher's support was did not itself predict whether students applied it — timely fading, checking understanding before withdrawing, did.
 
 ## Subclaims

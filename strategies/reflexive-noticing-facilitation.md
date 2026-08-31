@@ -15,6 +15,8 @@ sources:
 
 # Reflexive Noticing Facilitation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 This strategy operationalizes [Reflexive Noticing](../theories/reflexive-noticing.md) as a facilitation discipline for teacher professional-development (PD) dialogue. Facilitators resist the group's default tendency to "collectively rush to quick (often closed) solutions" when a difficulty or surprising result comes up, and instead explicitly slow down and sustain the puzzle. Three linguistic markers help a facilitator recognize (and a teacher-leader can be coached to produce) each device: **sustained puzzle** talk keeps a "we need to work on this" framing rather than resolving into "it can't be helped"; **dilemma-as-origin-of-change** talk names a contradiction (e.g., "our teaching style may be causing the passivity it's meant to fix") as the focal point for the group's next steps, not evidence of an impossible bind; **discursive consciousness** talk has teachers name their own shared assumptions out loud ("we're used to thinking X, but that isn't true for everyone") rather than only applying those assumptions unreflectively.
 

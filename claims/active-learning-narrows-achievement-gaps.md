@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Active learning narrows achievement gaps for disadvantaged and underrepresented students
 
+> **Claim** · [All claims](index.md)
+
 Active learning approaches benefit students broadly, but two independent studies in introductory STEM courses found the benefit was *disproportionately* larger for students already at a disadvantage — educationally/economically disadvantaged students in one case, women in a male-dominated field in the other — narrowing pre-existing achievement gaps rather than simply raising everyone's performance by the same amount.
 
 ## Subclaims

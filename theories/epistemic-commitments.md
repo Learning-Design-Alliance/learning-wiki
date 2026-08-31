@@ -15,6 +15,8 @@ sources:
 
 # Epistemic Commitments
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Epistemic cognition research typically studies students' judgments against disciplinary evaluation criteria set from outside (e.g., is this model valid, does it correspond to data). Epistemic commitments start instead from *students' own values* — what a model needs to do to matter to them — and ask how those values shape modeling activity in the moment. Unlike a fixed ideal, a commitment is "pressing but unstable": it presses a student toward specific actions (choosing a model, revising it, asking a new question) but is interpreted differently by different students and can shift with context. Four commitments were identified inductively in a modeling curriculum: **real world** (models should connect to actual phenomena, components, or data), **seeing and showing** (models should reveal or make observable aspects of a phenomenon not otherwise visible), **controlling and changing variables** (models should let a student manipulate or isolate conditions), and **caring for** (models should reflect ethical/emotional responsibility toward the living things or environments they represent — a value with no direct analog in prior epistemic-cognition frameworks). Commitments function both evaluatively (judging whether a model is "good") and generatively (prompting new investigative questions the curriculum never anticipated).
 

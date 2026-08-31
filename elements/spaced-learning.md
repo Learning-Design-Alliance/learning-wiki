@@ -10,6 +10,8 @@ generated:
 
 # Spaced Learning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.
 

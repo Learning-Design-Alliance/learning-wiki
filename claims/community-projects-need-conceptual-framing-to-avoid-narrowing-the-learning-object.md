@@ -16,6 +16,8 @@ sources:
 
 # Community projects need conceptual framing to avoid narrowing the learning object
 
+> **Claim** · [All claims](index.md)
+
 When a real-world or community-partnered project is not anchored to explicit disciplinary or conceptual content, the different groups involved (students, teachers, outside partners) tend to converge on whichever meaning system is easiest to coordinate around — often a narrow, transactional one — rather than the broader learning object the design intended.
 
 ## Subclaims

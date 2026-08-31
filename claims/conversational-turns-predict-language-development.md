@@ -20,6 +20,8 @@ sources:
 
 # Conversational turn-taking predicts language development better than raw word count or socioeconomic status.
 
+> **Claim** · [All claims](index.md)
+
 The widely cited "30 million word gap" (Hart & Risley, 1995) framed early language disparities in terms of sheer quantity of words a child overhears. More recent research reframes the mechanism: the responsiveness and reciprocity of interaction — measured as conversational turns, not raw word count — is the stronger predictor of language-relevant brain development.
 
 ## Subclaims

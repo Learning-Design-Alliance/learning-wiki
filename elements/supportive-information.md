@@ -19,6 +19,8 @@ sources:
 
 # Supportive information
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Supportive information provides the cognitive strategies, mental models, and conceptual frameworks necessary for tackling complex tasks. It makes explicit the domain knowledge and reasoning patterns required to navigate ill-defined problems, functioning as a bridge between prior knowledge and the demands of authentic application.
 

@@ -16,6 +16,8 @@ sources:
 
 # Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design
 
+> **Claim** · [All claims](index.md)
+
 Automated frame-by-frame facial-emotion coding of 132 university students across three randomized problem-solving-before-instruction scaffolding conditions found that failure-driven scaffolding produces more shame and more diverse emotion sequences than success-driven scaffolding, and that the same emotions (e.g., disgust, contempt) correlate with opposite learning-outcome directions depending on which scaffolding condition a student was in.
 
 ## Subclaims

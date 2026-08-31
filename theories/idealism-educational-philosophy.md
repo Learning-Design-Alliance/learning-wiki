@@ -10,6 +10,8 @@ generated:
 
 # Idealism (Educational Philosophy)
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 For Idealists, ideas are the only true reality; conscious reasoning is the only way to locate what is true, beautiful, and just. Plato founded Idealism and outlined its tenets in *The Republic*. For Plato there are two worlds: a spiritual or mental world where universal ideas and truth are permanent, reachable only through conscious reasoning, and a world of appearances and imperfection experienced through the senses. Plato dramatizes this duality in the Allegory of the Cave — people chained facing a wall mistake shadows cast by a fire for reality; only by breaking free and reaching the world outside does one discover the true source of everything previously known, the realm of pure fact and form. The everyday world is only an imperfect projection of that realm of ideas.
 

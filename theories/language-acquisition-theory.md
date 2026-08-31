@@ -10,6 +10,8 @@ generated:
 
 # Language Acquisition Theory
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 How children acquire language so quickly and reliably, without formal instruction, is a long-running theoretical debate with three main competing accounts.
 

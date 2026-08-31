@@ -23,6 +23,8 @@ sources:
 
 # Boundary Crossing Learning
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Boundary crossing (Akkerman & Bakker, 2011; Akkerman & Bruining, 2016) explains learning that happens specifically at points of sociocultural discontinuity — where practices, institutions, or roles differ enough that moving between them requires real interpretive work, not just information transfer. It operates through four dialogical mechanisms: **identification** (articulating how the practices differ and what each one is), **coordination** (finding enough mutual, working common ground to cooperate despite the differences), **reflection** (adopting another practice's perspective on one's own), and **transformation** (hybridizing elements of both practices into something new). These mechanisms can operate at three nested levels: **institutional** (between organizations, e.g., a school and a research lab), **interpersonal** (between individuals or groups, e.g., a domain expert and novices), and **intrapersonal** (within one person inhabiting multiple roles at once, e.g., a teacher who is simultaneously an authority figure and a co-learner).
 

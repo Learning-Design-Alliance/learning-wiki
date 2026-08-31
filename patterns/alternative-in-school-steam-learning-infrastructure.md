@@ -17,6 +17,8 @@ sources:
 
 # Alternative In-School STEAM Learning Infrastructure
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Interest-driven learning is usually associated with out-of-school settings (makerspaces, clubs, museums) precisely because school structures — grading, fixed pacing, curriculum coverage requirements — tend to crowd it out. This pattern describes an infrastructure that brings interest-driven learning inside the school day: a recurring, ungraded time block; a large library of self-contained "challenges" that can be leveled up, combined, or extended; adult "facilitators" (not "teachers") who observe and rarely intervene; and an expectation that students who progress further become peer experts others are directed to. The result is not that every student pursues a deep interest, but that the infrastructure makes it *possible* for a student's interest to be sparked, sustained, and extended well beyond the original activity — including into forms of learning the designed challenges never anticipated.
 

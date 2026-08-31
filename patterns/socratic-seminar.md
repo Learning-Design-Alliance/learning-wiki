@@ -17,6 +17,8 @@ grain_size: lesson
 
 # Socratic Seminar
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Socratic Seminar is a structured, text-centered discussion pattern in which learners explore a complex question through dialogue, evidence, and follow-up questioning rather than through debate aimed at victory. The goal is disciplined interpretation: learners listen closely, build on one another's ideas, test assumptions, and return to the text or shared source as they refine understanding.
 
@@ -108,6 +110,6 @@ The pattern works best when the prompt is open enough to sustain interpretation 
 
 ## Key Sources
 - Adler, M. J. (1982). *The Paideia proposal: An educational manifesto*. Macmillan.
+- Billings, L., & Fitzgerald, J. (2002). Dialogic discussion and the Paideia seminar. *American Educational Research Journal, 39*(4), 907-941. [https://doi.org/10.3102/00028312039004905](https://doi.org/10.3102/00028312039004905)
 - Hawkins, K. (2006). Discussion-based critical thinking through personal-incident analysis. [Cited via secondary source without full publication details]
 - Arduini-Van Hoose, N. (2020). Critical thinking. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
-- Billings, L., & Fitzgerald, J. (2002). Dialogic discussion and the Paideia seminar. *American Educational Research Journal, 39*(4), 907-941. [https://doi.org/10.3102/00028312039004907](https://doi.org/10.3102/00028312039004907)

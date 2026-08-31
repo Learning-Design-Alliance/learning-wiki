@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**89 entries** · 0 stable · 11 in review · 78 drafts
+**89 entries** · 0 stable · 12 in review · 77 drafts
 
 ---
 
@@ -19,6 +19,7 @@ Explanatory frameworks that ground principles and claims.
 * [Self-Regulated Learning](self-regulated-learning.md) - Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance.
 * [Situated Learning](situated-learning.md) - Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used.
 * [Social Learning Theory](social-learning-theory.md) - Social Learning Theory, developed primarily by Albert Bandura, proposes that learning occurs not only through direct reinforcement (as behaviorism holds) but also through observation of others and the cognitive processing of those observations.
+* [The von Restorff effect in text marking](von-restorff-effect-text-marking.md) - The von Restorff effect is used to explain how underlining and other text marking function by isolating information against a homogeneous background, directing attention and supporting recall of the marked material.
 
 ## Draft
 
@@ -147,7 +148,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### T {: #letter-t }
 
 * [Teaching Styles as Warmth and Control](teaching-styles-warmth-and-control.md) - Soar and Soar's framework treats classroom warmth and control as two independent dimensions rather than opposite ends of one continuum, yielding four distinct teaching-style profiles — authoritarian, authoritative, permissive, and neglectful — each with a characteristic motivational climate.
-* [The von Restorff effect in text marking](von-restorff-effect-text-marking.md) - The von Restorff effect is used to explain how underlining functions by isolating information against a background.
 * [Triarchic Theory of Intelligence](triarchic-theory-of-intelligence.md) - Robert Sternberg's triarchic theory holds that intelligence has three empirically separable components — analytical, creative, and practical — so a learner can score high on one without scoring high on the others.
 * [Turiel's Social Domain Theory](turiels-social-domain-theory.md) - Turiel's social domain theory holds that children differentiate three distinct kinds of social knowledge from early in development — moral, societal, and personal — rather than reasoning from a single, unified level of moral development.
 

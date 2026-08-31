@@ -15,6 +15,8 @@ sources:
 
 # Pedagogical Agent Signaling for Feedback Salience
 
+> **Element** · [All elements](index.md)
+
 ## Description
 An embodied pedagogical agent already central to the learning task (e.g., a teachable agent whose in-game success depends on the student's help) turns to face and points at a feedback text box the moment it appears, using gaze and gesture rather than a purely directional cue like an animated arrow. The mechanism is social: gaze and pointing recruit reflexive joint-attention responses and load the pointed-at content with the implicit message "this matters," in a way a non-social directional cue does not.
 

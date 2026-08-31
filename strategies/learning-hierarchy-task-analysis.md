@@ -10,6 +10,8 @@ generated:
 
 # Learning Hierarchy Task Analysis
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Behavioral science attributes almost all learning failure to either a lack of prerequisite skills or poorly designed instructional sequencing — not to a lack of general ability, aptitude, or intelligence. The idea of breaking a complex behavior into smaller component behaviors originates with Skinner's (1954) shaping research; Gagné (1970) demonstrated its importance for classroom learning specifically.
 

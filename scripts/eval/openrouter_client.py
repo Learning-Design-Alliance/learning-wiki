@@ -40,6 +40,8 @@ def generate(
     max_tokens: int = 8000,
     temperature: float = 0.2,
     disable_reasoning: bool = False,
+    reasoning_effort: Optional[str] = None,
+    json_mode: bool = True,
 ) -> GenerationResult:
     """Call one OpenRouter model, return raw usage/latency plus a resolved cost.
     Raises GenerationError on a non-retryable failure or on unparseable JSON.
@@ -50,7 +52,28 @@ def generate(
     OpenRouter's documented fix is this reasoning.enabled=false field, which
     is a no-op for models without a reasoning mode. A model that mandates
     reasoning and rejects this field raises a normal GenerationError below,
-    same as any other bad request — not a crash."""
+    same as any other bad request — not a crash.
+
+    reasoning_effort: for models where reasoning is mandatory and
+    enabled=false is itself rejected (see model_catalog.REASONING_EFFORT_LOW
+    — confirmed on z-ai/glm-5.3-flash, which 400s on enabled=false but
+    accepts reasoning.effort="low" with HTTP 200 and a clean finish_reason
+    of "stop"), this bounds how much the model reasons instead of trying to
+    turn it off outright. Mutually exclusive with disable_reasoning per
+    model — a model belongs in at most one of REASONING_DISABLED /
+    REASONING_EFFORT_LOW.
+
+    json_mode: forces response_format={"type": "json_object"} (default,
+    matching every original caller — eval_harness.py's extraction pipeline,
+    judge.py, find_near_duplicates.py — which all want strict JSON back).
+    Pass False for a caller whose system_prompt asks for plain-text output
+    (e.g. enrich.py, which wants raw markdown) — sending json_object there
+    forces the model to emit valid JSON no matter what the prompt says,
+    which directly contradicts a "no commentary, no wrapper" instruction
+    and was confirmed as the actual cause of GLM wrapping enrich.py's
+    markdown output in JSON (`{"answer": "---\\ntype: ..."}`, or inventing
+    a JSON shape that mirrors the page's own frontmatter keys) instead of
+    returning it plain, corrupting the pages enrich.py wrote them to."""
     payload = {
         "model": model,
         "messages": [
@@ -59,11 +82,14 @@ def generate(
         ],
         "max_tokens": max_tokens,
         "temperature": temperature,
-        "response_format": {"type": "json_object"},
         "usage": {"include": True},
     }
+    if json_mode:
+        payload["response_format"] = {"type": "json_object"}
     if disable_reasoning:
         payload["reasoning"] = {"enabled": False}
+    elif reasoning_effort:
+        payload["reasoning"] = {"effort": reasoning_effort}
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",

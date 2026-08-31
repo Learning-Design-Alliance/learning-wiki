@@ -16,6 +16,8 @@ sources:
 
 # Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances
 
+> **Claim** · [All claims](index.md)
+
 Pre-service teachers move toward more "informed designer" stances — treating problems of practice as reframable, systemic, and stakeholder-centered rather than fixed and routine — when a design-focused course explicitly teaches problem reframing and stakeholder inquiry, and this shift is associated with teachers proposing more systemic and equity-oriented classroom interventions.
 
 ## Subclaims

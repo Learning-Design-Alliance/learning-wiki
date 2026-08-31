@@ -19,6 +19,8 @@ sources:
 
 # Inquiry-based Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Inquiry-based learning organizes learning around questions, investigation, evidence, and explanation rather than around direct transmission alone. Learners are asked to pose or pursue questions, gather and interpret information, test ideas, and communicate what they have found. The core promise of inquiry is that learners become more active sense-makers, but strong inquiry design is not the same as leaving learners alone. It usually depends on well-scaffolded tasks, structured prompts, and explicit support for evidence use and explanation.
 
@@ -78,6 +80,6 @@ Inquiry-based learning is powerful when learners investigate genuine questions a
 - [Interdisciplinary Societal Dilemma Units](../patterns/interdisciplinary-societal-dilemma-units.md) — small-group deliberative inquiry into an authentic, multi-solution societal dilemma
 
 ## Key Sources
-- Moon, J. A., & Brockway, D. (2019). Facilitating learning in an interactive science simulation: The effects of task segmentation guidance on adults' inquiry-based learning and cognitive load. *Journal of Research on Technology in Education, 51*(1), 77-100. [https://doi.org/10.1080/15391523.2018.1470483](https://doi.org/10.1080/15391523.2018.1470483)
-- Mataniari, R., Willison, J., Hasibuan, E., Sulistiyo, U., & Dewi, F. (2020). Portraying students' critical thinking skills through research skill development (RSD) framework: A case of a biology course in an Indonesian university. *Journal of Turkish Science Education, 17*(2), 302-314. [https://doi.org/10.36681/tused.2020.26](https://doi.org/10.36681/tused.2020.26)
+- Moon, J. A., & Brockway, D. (2019). Facilitating learning in an interactive science simulation: The effects of task segmentation guidance on adults' inquiry-based learning and cognitive load. *Journal of Research on Technology in Education, 51*(1), 77-100. [https://doi.org/10.1080/15391523.2019.1566038](https://doi.org/10.1080/15391523.2019.1566038)
+- Mataniari, R., Willison, J., Hasibuan, E., Sulistiyo, U., & Dewi, F. (2020). Portraying students' critical thinking skills through research skill development (RSD) framework: A case of a biology course in an Indonesian university. *Journal of Turkish Science Education, 17*(2), 302-314. [https://doi.org/10.36681/tused.2020.28](https://doi.org/10.36681/tused.2020.28)
 - Purkayastha, S., Guntu, M., Ravindran, R., & Surapaneni, A. K. (2019). Learning gains of process-oriented guided inquiry learning in an online course setting. *Proceedings of the European Conference on E-Learning*, 495-504.

@@ -19,6 +19,8 @@ sources:
 
 # Funds of Knowledge
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Funds of knowledge (Moll, Amanti, Neff & Gonzalez, 1992) refers to the historically accumulated and culturally developed bodies of knowledge and skill that households use for everyday functioning and well-being — practical know-how around work, caregiving, navigation, budgeting, and problem-solving. The framework treats this household and community knowledge as a genuine instructional asset, typically surfaced through family interviews or home visits, rather than as background irrelevant to formal disciplinary content. It is more operationally specific than a general commitment to valuing learners' backgrounds: it points instructors toward concretely identifying particular practices (e.g., how a family plans a bus route, or sequences steps in a caregiving routine) and building instructional tasks that connect those practices to disciplinary concepts.
 

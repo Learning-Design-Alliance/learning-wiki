@@ -27,6 +27,8 @@ sources:
 
 # Strengths-based Approach
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 A strengths-based approach starts from the assumption that learners bring assets, knowledge, strategies, identities, and capabilities that instruction should recognize and build on. Rather than organizing teaching primarily around deficits, it looks for what learners can already do, what conditions help them succeed, and how those strengths can be leveraged to address new challenges. This does not mean ignoring real barriers. It means refusing to define learners only by gaps.
 
@@ -85,7 +87,7 @@ A strengths-based approach improves learning when instructors make existing capa
 - **Experience-informed task entry**: Learners can begin with examples from work, family, language, or community knowledge.
 
 ## Key Sources
-- Garwood, J. D., & Ampuja, A. A. (2019). Inclusion of students with learning, emotional, and behavioral disabilities through strength-based approaches. *Intervention in School and Clinic, 55*(1), 46-51. [https://doi.org/10.1177/1053451219837737](https://doi.org/10.1177/1053451219837737)
+- Garwood, J. D., & Ampuja, A. A. (2019). Inclusion of students with learning, emotional, and behavioral disabilities through strength-based approaches. *Intervention in School and Clinic, 55*(1), 46-51. [https://doi.org/10.1177/1053451218767918](https://doi.org/10.1177/1053451218767918)
 - Linkins, M., Niemiec, R. M., Gillham, J., & Mayerson, D. (2015). Through the lens of strength: A framework for educating the heart. *The Journal of Positive Psychology, 10*(1), 64-68. [https://doi.org/10.1080/17439760.2014.888581](https://doi.org/10.1080/17439760.2014.888581)
 - Lopez, S. J., & Louis, M. C. (2009). The principles of strengths-based education. *Journal of College and Character, 10*(4). [https://doi.org/10.2202/1940-1639.1041](https://doi.org/10.2202/1940-1639.1041)
-- Uink, B., Bennett, R., & van den Berg, C. (2021). Factors that enable Australian Aboriginal women's persistence at university: A strengths-based approach. *Higher Education Research & Development, 40*(1), 178-193. [https://doi.org/10.1080/07294360.2020.1735313](https://doi.org/10.1080/07294360.2020.1735313)
+- Uink, B., Bennett, R., & van den Berg, C. (2021). Factors that enable Australian Aboriginal women's persistence at university: A strengths-based approach. *Higher Education Research & Development, 40*(1), 178-193. [https://doi.org/10.1080/07294360.2020.1852185](https://doi.org/10.1080/07294360.2020.1852185)

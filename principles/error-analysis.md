@@ -23,6 +23,8 @@ sources:
 
 # Error Analysis
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Error analysis is an instructional principle that treats learner errors as valuable opportunities for deepening conceptual understanding and improving long-term retention. By actively analyzing their own mistakes or studying [erroneous examples](../elements/erroneous-examples.md), learners develop metacognitive monitoring and critical reasoning skills [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S].
 

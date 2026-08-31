@@ -16,6 +16,8 @@ sources:
 
 # Agentic engagement with lively data supports epistemically just crisis sensemaking
 
+> **Claim** · [All claims](index.md)
+
 When official/institutional data about a crisis is incomplete, delayed, or inaccessible to a minoritized community, youth who take up active roles with data — researching, analyzing, authoring, and communicating it, rather than only receiving it — can use their own embodied and community experience as a legitimate epistemic resource, and can surface gaps and contradictions in dominant narratives that comparing across local, national, and global scales makes visible.
 
 ## Subclaims

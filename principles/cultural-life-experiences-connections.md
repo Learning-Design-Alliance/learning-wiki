@@ -27,6 +27,8 @@ sources:
 
 # Cultural & Life Experiences Connections
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Connecting instruction to learners' cultural and life experiences means treating what learners already know, value, and have lived through as assets for meaning-making rather than as irrelevant background. When instruction acknowledges community knowledge, work experience, language practices, family contexts, and prior responsibilities, learners are more likely to see the material as legible, worthwhile, and connected to real life. This principle strengthens relevance, belonging, and transfer by making learning something learners can situate within what they already understand.
 
@@ -92,7 +94,7 @@ Connecting instruction to learners’ cultural and life experiences improves lea
 - **Context mapping**: Before a new unit, learners identify what prior experience or community knowledge might connect to the topic.
 
 ## Key Sources
-- Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [https://doi.org/10.1002/ace.6](https://doi.org/10.1002/ace.6)
+- Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [https://doi.org/10.1002/ace.7](https://doi.org/10.1002/ace.7)
 - National Academies of Sciences, Engineering, and Medicine. (2018). *How people learn II: Learners, contexts, and cultures*. National Academies Press. [https://doi.org/10.17226/24783](https://doi.org/10.17226/24783)
-- Papen, U., & Tusting, K. (2019). Using ethnography and 'real literacies' to develop a curriculum for English literacy teaching for young deaf adults in India. *Compare: A Journal of Comparative and International Education, 51*(2), 173-191. [https://doi.org/10.1080/03057925.2019.1600504](https://doi.org/10.1080/03057925.2019.1600504)
+- Papen, U., & Tusting, K. (2019). Using ethnography and 'real literacies' to develop a curriculum for English literacy teaching for young deaf adults in India. *Compare: A Journal of Comparative and International Education, 51*(2), 173-191. [https://doi.org/10.1080/03057925.2019.1585756](https://doi.org/10.1080/03057925.2019.1585756)
 - Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for "Outward" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2686084](https://doi.org/10.1080/10508406.2026.2686084)

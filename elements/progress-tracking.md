@@ -15,6 +15,8 @@ sources:
 
 # Progress Tracking
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Progress tracking is the element in which learners or instructors monitor advancement through goals, tasks, competencies, or milestones over time. It is useful when visibility into progress supports planning, motivation, and coordination.
 

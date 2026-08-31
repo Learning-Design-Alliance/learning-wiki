@@ -10,6 +10,8 @@ generated:
 
 # ARCS Model of Motivational Design
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 The ARCS model (Keller, 1987, 2010) is the most widely used motivational-design framework within instructional design and technology. It names four conditions that must all be met for motivation to be sustained — **Attention**, **Relevance**, **Confidence**, **Satisfaction** — and treats designing for motivation as a systematic process, structurally parallel to the traditional instructional design process, rather than an afterthought bolted onto content that was designed for other reasons (Park, 2018).
 

@@ -17,6 +17,8 @@ sources:
 
 # Explicit Instruction in Historical Contextualization
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 This pattern operationalizes [Historical Reasoning Framework](../theories/historical-reasoning-framework.md)'s contextualization aspect as a two-part instructional sequence within a CLIL (Content and Language Integrated Learning) history course. Part one gives students a *reason* to engage with historical background knowledge, using discussion-based case studies (students decide how a fictional historical actor would have acted given provided context, then defend the decision) and a quote-sorting activity (unattributed primary-source quotes sorted into the correct historical period using only evidence in the quote). Part two targets the separate *procedural* skill of writing contextualization effectively: modeling via annotated sample essays with guiding questions ("what did this essay forget to account for?"), paired-paragraph comparison (with and without effective contextualization), and focused language practice for chronological phrasing ("for at least 500 years," "before the Empire began") and connective phrasing ("this demonstrates...", "it is reasonable to conclude that..."). In the source study, this pattern improved unexpected downstream aspects of writing (claim quality, explicit connection-making, contextualization placement) without moving the contextualization rubric score itself — see the linked claim for the full, more cautious pattern of results.
 

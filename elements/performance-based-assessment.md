@@ -10,6 +10,8 @@ generated:
 
 # Performance-Based Assessment
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance. Typically the teacher observes both the process (e.g., data collection during an experiment) and the product (e.g., the completed report), though for some tasks (a paper drafted partly outside class) only the product may actually be visible, and for others (group interaction skills) there may be no discrete product at all.
 

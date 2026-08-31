@@ -10,6 +10,8 @@ generated:
 
 # Child-Directed Speech
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Child-directed speech (sometimes called "parentese" or, informally, "baby talk") is a near-universal pattern adults adopt when addressing infants and toddlers: exaggerated vowel and consonant sounds, higher pitch, slower pace, and heightened facial expression relative to adult-directed speech. It increases infant attention and engagement, and helps infants more clearly perceive the phonemic boundaries of the language(s) around them. It also establishes an early reciprocal turn-taking rhythm between speaker and listener that anticipates conversational structure well before the infant can speak.
 

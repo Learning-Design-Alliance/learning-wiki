@@ -17,6 +17,8 @@ grain_size: course
 
 # Reigeluth's Elaboration Theory
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Reigeluth's Elaboration Theory is a macro-level sequencing pattern that begins with a simple but meaningful version of the whole and then elaborates progressively toward greater complexity, detail, and specialization. The aim is to give learners a coherent big-picture structure early, then deepen and extend that structure through increasingly elaborate treatment. The pattern relies on summary, synthesis, analogy, and review to help learners keep the growing knowledge structure integrated.
 
@@ -106,5 +108,5 @@ It is especially useful for curriculum-scale design where content complexity is 
 - Especially valuable where learners need a durable map of the terrain, not just a sequence of isolated lessons.
 
 ## Key Sources
-- Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [https://doi.org/10.1007/BF02984376](https://doi.org/10.1007/BF02984376)
+- Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development, 2*(3), 8-15. [https://doi.org/10.1007/bf02984374](https://doi.org/10.1007/bf02984374)
 - Reigeluth, C. M., & Stein, F. S. (1983). The elaboration theory of instruction. In C. Reigeluth (Ed.), *Instructional-design theories and models* (pp. 335-381). Erlbaum.

@@ -10,6 +10,8 @@ generated:
 
 # Functional Behavior Assessment
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Disruptive behavior is handled more effectively by identifying the specific circumstance or event that triggers it than by focusing on the personality or character of the student doing the disrupting. Triggers generally fall into three categories (Heineman, Dunlap, & Kincaid, 2005): **physiological** (illness, fatigue, hunger, medication side effects); **physical/environmental** (a classroom too warm or cold, uncomfortable seating, a seating arrangement that interferes with hearing or seeing); and **instructional** (unduly restricted student choice, unclear instructions, activities that are too difficult or too long, or preventing students from asking for help when they need it). Once the specific trigger variables are identified, prevention becomes far more targeted — either by avoiding the trigger directly where possible, or by explicitly teaching the student a specific alternative response to the triggering circumstance, rather than applying a generic behavior-management approach that doesn't address the actual cause.
 

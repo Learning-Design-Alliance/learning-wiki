@@ -10,6 +10,8 @@ generated:
 
 # Twelve Characteristics of Effective Teachers
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Walker (2008) asked in-service and preservice teachers to identify characteristics of their most effective teachers — "effective" meaning teachers who made the most significant and positive impact on their lives. Twelve characteristics emerged from those responses:
 

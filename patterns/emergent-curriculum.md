@@ -11,6 +11,8 @@ grain_size: lesson
 
 # Emergent Curriculum
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Instructional planning is normally described as if goals and objectives are chosen by educators rather than students — but this places a real burden on everyone involved: curriculum writers must be confident their specified goals genuinely matter, teachers must motivate students toward goals the students didn't choose, and students must master objectives regardless of personal interest. Critics argue this can be a serious impediment to learning (Kohn, 2004), especially for the youngest students, who may have little patience for an agenda set entirely by others (Kohn, 1999; Seitz, 2006), and in culturally diverse classrooms, where students and families may hold legitimate but unconventional expectations about what matters to learn (Banks & Banks, 2005).
 

@@ -10,6 +10,8 @@ generated:
 
 # Social Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Social learning is the principle that understanding and performance often develop through interaction with other people, not just individual study. Discussion, observation, explanation, critique, and shared activity can all help learners test ideas, appropriate expert practices, and refine judgment.
 

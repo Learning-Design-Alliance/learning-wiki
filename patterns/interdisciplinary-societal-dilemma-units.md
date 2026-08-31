@@ -17,6 +17,8 @@ sources:
 
 # Interdisciplinary Societal Dilemma Units
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Interdisciplinary Societal Dilemmas (ISDs) — problems tied to students' lived experience, emotionally resonant, with multiple defensible solutions and no single correct answer, that no single discipline can resolve alone (e.g., "should parents be compelled to vaccinate their children?") — anchor a unit design combining six named design principles across content, pedagogy, and organization. Disciplinary preparation (in the source study: mathematics, science, and philosophy) precedes interdisciplinary small-group deliberation, using dialogic argumentation and roles (tribunal members, newspaper editors) to build both disciplinary competence and civic engagement. Because this pattern's dialogic pedagogy conflicts with typical school institutional norms (tracking, rigid scheduling, teacher-centered authority), the source study ran it as out-of-school "focus days" negotiated directly with a municipality and its stakeholders.
 

@@ -10,6 +10,8 @@ generated:
 
 # Supporting Students with Intellectual Disabilities
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 **Intellectual disability** (or intellectual developmental disorder) is assessed on two dimensions together, not IQ alone: cognitive capacity and **adaptive functioning** — how well a person handles everyday life tasks. About 1% of the U.S. population, disproportionately male, meets diagnostic criteria; some children lose the classification later as they develop better everyday functioning. Students with intellectual disabilities score poorly on standardized intelligence tests and may have limited language or impaired speech, but the defining feature by definition is the combination of both intellectual *and* daily-functioning limitations, not either alone.
 

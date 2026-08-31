@@ -10,6 +10,8 @@ generated:
 
 # Criterion- and Norm-Referenced Testing
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 **Criterion-referenced** standardized tests measure performance against a specific standard or criterion, independent of how anyone else performed — a report might state that a student mastered 65 percent of the grade-level problems, or classify a student as basic, proficient, or advanced based on a pre-set mastery threshold. **Norm-referenced** standardized tests instead report performance relative to a **norm group** — a representative sample of students who took the test while it was being developed (drawn from the state, for state tests, or from the nation, for national tests) — so a student scoring in the 85th percentile scored better than 85 percent of that norm group. The two report genuinely different information from the same underlying test content: a criterion-referenced report describes what a student can or cannot do; a norm-referenced report describes how a student compares to others. Because classroom teachers planning instruction need to know what students can and cannot do, criterion-referenced tests are typically more instructionally useful (Popham, 2004), and current standards-based accountability (including NCLB) relies predominantly on criterion-based tests — norm-referenced tests have consequently become concentrated in more specialized uses like diagnosis and placement of students with disabilities or exceptional abilities (Haertel & Herman, 2005). Some newer tests blend both: reporting a student's mastery level on a content standard *and* the percentage of students who reached that level.
 

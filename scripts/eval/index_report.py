@@ -311,8 +311,21 @@ def _short_run_label(run_id: str) -> str:
     return run_id if len(run_id) <= 12 else run_id[:11] + "…"
 
 
+def _percentile(values: list, pct: float) -> float:
+    """Linear-interpolation percentile (pct in [0, 1]) — stdlib-only, no
+    numpy dependency for one chart-axis calculation."""
+    s = sorted(values)
+    if len(s) == 1:
+        return s[0]
+    k = (len(s) - 1) * pct
+    f, c = int(k), min(int(k) + 1, len(s) - 1)
+    if f == c:
+        return s[f]
+    return s[f] + (s[c] - s[f]) * (k - f)
+
+
 def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, colors: dict,
-                  scale100: bool = False) -> str:
+                  scale100: bool = False, y_max_fixed: float = None, tick_step: float = None) -> str:
     def scaled(v):
         return v * 100 if scale100 else v
 
@@ -336,14 +349,27 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
     plot_w, plot_bottom = W - 2 * PAD, H - PAD_BOTTOM
     n = len(run_order)
     x_step = plot_w / (n - 1) if n > 1 else 0
-    y_max = 100 if scale100 else (max(values) * 1.15 or 1)
+    # Cap the axis at the 90th percentile (with headroom) rather than the
+    # raw max — one outlier point (e.g. a pricier model variant tested
+    # once) would otherwise stretch the whole axis and crush every other
+    # series into an unreadable band near zero. Points above this cap are
+    # clamped to the top edge and drawn as a distinct marker below, with
+    # their real value still in the tooltip — compressed, never hidden.
+    # y_max_fixed overrides this for a metric with a known natural ceiling
+    # (e.g. judge score, always out of 5) rather than a data-driven cap.
+    if scale100:
+        y_max = 100
+    elif y_max_fixed is not None:
+        y_max = y_max_fixed
+    else:
+        y_max = _percentile(values, 0.9) * 1.3 or 1
 
     def x_for(run_id):
         idx = run_order.index(run_id)
         return PAD + (idx * x_step if n > 1 else plot_w / 2)
 
     def y_for(v):
-        return plot_bottom - (v / y_max) * (plot_bottom - PAD)
+        return plot_bottom - (min(v, y_max) / y_max) * (plot_bottom - PAD)
 
     series_parts = []
     for i, model in enumerate(colors):
@@ -352,18 +378,56 @@ def _trend_chart(history_rows: list, metric_key: str, label: str, unit: str, col
                if r["model"] == model and r.get(metric_key) is not None]
         if not pts:
             continue
-        coords = [(x_for(rid), y_for(v), rid, v) for rid, v in pts]
-        path_d = "M " + " L ".join(f"{x:.1f} {y:.1f}" for x, y, _, _ in coords)
-        dots = "".join(
-            f'<circle cx="{x:.1f}" cy="{y:.1f}" r="4" fill="var(--series-{slot})" stroke="var(--surface-1)" '
-            f'stroke-width="1.5"><title>{_esc(model)} — {_esc(rid)}: '
-            f'{_esc(f"${v}" if unit == "$" else f"{v}{unit}")}</title></circle>'
-            for x, y, rid, v in coords
-        )
-        series_parts.append(
-            f'<path d="{path_d}" fill="none" stroke="var(--series-{slot})" stroke-width="2"/>{dots}')
+        coords = [(x_for(rid), y_for(v), rid, v, run_order.index(rid)) for rid, v in pts]
 
-    fracs = (0, 0.25, 0.5, 0.75, 1.0)
+        # Break the connecting line wherever this model's next result isn't
+        # the very next run in run_order — e.g. glm-5.3-flash-test-1/-2 sit
+        # early in run_order (non-versioned runs sort before all v<N> runs,
+        # see history._run_order_key) but a later auto-v116 result is
+        # separated from them by a hundred-odd runs it didn't participate
+        # in. Drawing one straight line across that gap reads as a smooth
+        # trend that never happened. Only join truly adjacent runs; treat
+        # everything else as separate segments (a lone point becomes an
+        # unconnected dot, which is the honest picture).
+        segments, current = [], [coords[0]]
+        for prev, nxt in zip(coords, coords[1:]):
+            if nxt[4] - prev[4] == 1:
+                current.append(nxt)
+            else:
+                segments.append(current)
+                current = [nxt]
+        segments.append(current)
+
+        paths = "".join(
+            f'<path d="M ' + " L ".join(f"{x:.1f} {y:.1f}" for x, y, _, _, _ in seg) +
+            f'" fill="none" stroke="var(--series-{slot})" stroke-width="2"/>'
+            for seg in segments if len(seg) > 1
+        )
+        def _dot(x, y, rid, v):
+            title = (f'<title>{_esc(model)} — {_esc(rid)}: '
+                     f'{_esc(f"${v}" if unit == "$" else f"{v}{unit}")}'
+                     f'{" (off-scale, see tooltip)" if v > y_max else ""}</title>')
+            if v > y_max:
+                # A small upward-pointing triangle instead of a circle — an
+                # honest "this point is compressed to fit, the real value is
+                # higher" marker, not a plain dot that reads as in-range.
+                return (f'<path d="M {x:.1f} {y - 5:.1f} L {x - 5:.1f} {y + 4:.1f} '
+                        f'L {x + 5:.1f} {y + 4:.1f} Z" fill="var(--series-{slot})" '
+                        f'stroke="var(--surface-1)" stroke-width="1.5">{title}</path>')
+            return (f'<circle cx="{x:.1f}" cy="{y:.1f}" r="4" fill="var(--series-{slot})" '
+                    f'stroke="var(--surface-1)" stroke-width="1.5">{title}</circle>')
+
+        dots = "".join(_dot(x, y, rid, v) for x, y, rid, v, _ in coords)
+        series_parts.append(f'{paths}{dots}')
+
+    # tick_step gives clean whole-number gridlines for a fixed-ceiling metric
+    # (e.g. step=1 on a judge score out of 5 -> 0,1,2,3,4,5) instead of the
+    # generic quarter-split, which on a non-100 axis lands on odd fractions
+    # (e.g. 1.25, 3.75 out of a 5.0 max).
+    if tick_step:
+        fracs = [i * tick_step / y_max for i in range(int(y_max / tick_step) + 1)]
+    else:
+        fracs = (0, 0.25, 0.5, 0.75, 1.0)
     gridlines = "".join(
         f'<line x1="{PAD}" y1="{plot_bottom - f * (plot_bottom - PAD)}" x2="{W - PAD}" '
         f'y2="{plot_bottom - f * (plot_bottom - PAD)}" class="gridline" />'
@@ -751,22 +815,24 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
         rows_html = '<tr><td colspan="11" class="empty-note">No runs yet.</td></tr>'
 
     trend_specs = [
-        ("trend-pass-rate", "Pass rate", "validator_pass_rate", "Validator pass rate", "%", True),
-        ("trend-completeness", "Completeness", "avg_completeness_score", "Completeness", "%", True),
-        ("trend-judge-score", "Judge score", "avg_judge_score", "Judge score (of 5)", "", False),
-        ("trend-cost", "Cost", "cost_per_article_usd", "Cost per article ($)", "$", False),
-        ("trend-latency", "Latency", "avg_latency_s", "Avg latency (s)", "s", False),
+        ("trend-pass-rate", "Pass rate", "validator_pass_rate", "Validator pass rate", "%", True, None, None),
+        ("trend-completeness", "Completeness", "avg_completeness_score", "Completeness", "%", True, None, None),
+        ("trend-judge-score", "Judge score", "avg_judge_score", "Judge score (of 5)", "", False, 5, 1),
+        ("trend-cost", "Cost", "cost_per_article_usd", "Cost per article ($)", "$", False, None, None),
+        ("trend-latency", "Latency", "avg_latency_s", "Avg latency (s)", "s", False, None, None),
     ]
     trend_tabs_html = "".join(
         f'<button class="tab-btn{" active" if i == 0 else ""}" data-target="{tab_id}" role="tab" '
         f'aria-selected="{"true" if i == 0 else "false"}">{_esc(tab_label)}</button>'
         for i, (tab_id, tab_label, *_rest) in enumerate(trend_specs)
     )
-    trend_panels_html = "".join(
-        f'<div id="{tab_id}" class="tab-panel{" active" if i == 0 else ""}">'
-        f'{_trend_chart(history_rows, metric_key, label, unit, colors, scale100=scale100)}</div>'
-        for i, (tab_id, _tab_label, metric_key, label, unit, scale100) in enumerate(trend_specs)
-    )
+    def _trend_panel(i, spec):
+        tab_id, _tab_label, metric_key, label, unit, scale100, y_max_fixed, tick_step = spec
+        chart = _trend_chart(history_rows, metric_key, label, unit, colors, scale100=scale100,
+                              y_max_fixed=y_max_fixed, tick_step=tick_step)
+        return f'<div id="{tab_id}" class="tab-panel{" active" if i == 0 else ""}">{chart}</div>'
+
+    trend_panels_html = "".join(_trend_panel(i, spec) for i, spec in enumerate(trend_specs))
 
     return f"""<!doctype html>
 <html lang="en">
@@ -901,7 +967,7 @@ def render_html(run_summaries: list, history_rows: list, auto_optimize_state: di
   <h1>Eval harness — all runs</h1>
   <div class="meta">{len(run_summaries)} run(s) &middot; auto-refreshes every {AUTO_REFRESH_MS // 1000}s
   {f' &middot; current prompt version: <code>{_esc(current_prompt_version)}</code> (what the next run will use)' if current_prompt_version else ''}
-  &middot; <a href="/scrape.html">Scraper progress →</a></div>
+  &middot; <a href="/scrape.html">Scraper progress →</a> &middot; <a href="/">&larr; Home</a></div>
 
   {_auto_optimize_status_html(auto_optimize_state or {})}
   {_launch_form_html()}

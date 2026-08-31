@@ -16,6 +16,8 @@ sources:
 
 # Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one
 
+> **Claim** · [All claims](index.md)
+
 After a semester of collaboratively critiquing and redesigning flawed psychological studies, introductory psychology students significantly increased their use of disciplinary evidence-evaluation ideals (valid methods, replication, procedural objectivity) and significantly decreased reliance on personal experience and a naive, value-free notion of objectivity — while their evaluation of *lay* evidence sources (source credibility, outlet reliability) did not significantly change.
 
 ## Subclaims

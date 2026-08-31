@@ -17,6 +17,8 @@ sources:
 
 # Multilevel Professional Development School Partnership
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 This pattern structures a school-university research-practice partnership as three nested, hierarchically linked meeting groups, so that [Boundary Crossing Learning](../theories/boundary-crossing-learning.md) can be pursued deliberately at the institutional, interpersonal, and intrapersonal levels rather than left to chance. A **policy group** (school boards, school directors, the university-side project leader and professor) meets a few times a year to set strategic intent and resourcing. A **broad knowledge community** (school directors, internal facilitators, teacher educators, a research educator) meets more often to develop and operationalize partnership policy. Within each participating school, a **small knowledge community** (student teachers on placement, in-service teachers, the teacher-research educator, and an internal facilitator) meets regularly to plan, conduct, and discuss classroom-embedded research. The three tiers are connected vertically by the same people occupying roles at more than one level (brokers), and the structure's success depends heavily on whether research topics chosen at the small-community level connect visibly to that school's actual teaching priorities — a generic, imposed research topic produced sharply lower teacher engagement than a topic tied to a live school priority in the source study.
 

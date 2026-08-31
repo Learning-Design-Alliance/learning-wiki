@@ -10,6 +10,8 @@ generated:
 
 # Supporting Students with ADHD
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 **Attention Deficit Hyperactivity Disorder (ADHD)** is a constant pattern of inattention and/or hyperactive-impulsive behavior that interferes with normal functioning (APA, 2013), affecting about 5% of children, with boys diagnosed roughly three times more often than girls — though this ratio may partly reflect boys' greater likelihood of exhibiting aggressive or antisocial behavior that triggers a referral, rather than a true prevalence difference (Barkley, 2006). Inattention signs include difficulty sustaining attention, failure to follow instructions, disorganization, inattention to detail, distractibility, and forgetfulness; hyperactivity/impulsivity signs include excessive movement, fidgeting, difficulty remaining seated, blurting out answers, and difficulty waiting one's turn. Compared to peers, students with ADHD have lower grades and test scores, higher rates of expulsion, grade retention, and dropout, and are more often rejected by peers (Loe & Feldman, 2007; Hoza et al., 2005) — the disorder carries real academic and social costs beyond the classroom-management inconvenience it's sometimes reduced to.
 

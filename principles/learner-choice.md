@@ -19,6 +19,8 @@ sources:
 
 # Learner Choice
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Learner choice is the principle of giving learners meaningful decisions about aspects of their learning, such as topic, format, sequence, pacing, strategy, or demonstration of understanding. The instructional value of choice comes from agency with purpose: when learners can make decisions that matter, they are more likely to experience ownership, motivation, and relevance. Effective choice is not unlimited freedom. It is bounded in ways that preserve learning goals, quality standards, and sufficient support.
 
@@ -77,6 +79,6 @@ Learner choice improves motivation and ownership when the options are meaningful
 - **Paced pathway choices**: Learners decide whether to review, practice more, or move into extension work.
 
 ## Key Sources
-- Hanewicz, C., Platt, A., & Arendt, A. (2017). Creating a learner-centered teaching environment using student choice in assignments. *Distance Education, 38*(3), 273-287. [https://doi.org/10.1080/01587919.2017.1369008](https://doi.org/10.1080/01587919.2017.1369008)
+- Hanewicz, C., Platt, A., & Arendt, A. (2017). Creating a learner-centered teaching environment using student choice in assignments. *Distance Education, 38*(3), 273-287. [https://doi.org/10.1080/01587919.2017.1369349](https://doi.org/10.1080/01587919.2017.1369349)
 - Stefanou, C. R., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97-110. [https://doi.org/10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)
 - Herbold, K. (2011). Giving student choice in online learning environments: Addressing adult learner needs. *International Journal of Technology, Knowledge & Society, 7*(5).

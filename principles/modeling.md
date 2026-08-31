@@ -10,6 +10,8 @@ generated:
 
 # Modeling
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Modeling is the principle of making successful performance visible so learners can study processes, standards, and reasoning before attempting work themselves.
 

@@ -19,6 +19,8 @@ sources:
 
 # Motivation
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Motivation is the principle of designing learning so that learners see value, feel capable of progress, and want to continue engaging with the work. It matters when attention, persistence, and effort are shaped by the learner's sense of purpose, challenge, and reward.
 

@@ -10,6 +10,8 @@ generated:
 
 # Think-Aloud Modeling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Think-aloud modeling is a strategy in which an instructor performs a task while verbalizing the reasoning, checks, and decisions normally kept internal. It helps learners see not just what to do, but how an expert monitors and adapts during performance.
 
@@ -44,4 +46,4 @@ Think-aloud modeling is a strategy in which an instructor performs a task while 
 - A teacher reads a text and verbalizes how they infer meaning, notice confusion, and reread.
 
 ## Key Sources
-- Chi, M. T. H. (1996). Constructing self-explanations and scaffolded explanations in tutoring. *Applied Cognitive Psychology, 10*(7), S33-S49. [https://doi.org/10.1002/(SICI)1099-0720(199612)10:7<S33::AID-ACP436>3.0.CO;2-2](https://doi.org/10.1002/(SICI)1099-0720(199612)10:7<S33::AID-ACP436>3.0.CO;2-2)
+- Chi, M. T. H. (1996). Constructing self-explanations and scaffolded explanations in tutoring. *Applied Cognitive Psychology, 10*(7), S33-S49. [https://doi.org/10.1002/(sici)1099-0720(199611)10:7<33::aid-acp436>3.0.co;2-e](https://doi.org/10.1002/(sici)1099-0720(199611)10:7<33::aid-acp436>3.0.co;2-e)

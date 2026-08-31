@@ -23,6 +23,8 @@ sources:
 
 # Explaining Their Thinking
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Explaining their thinking, also known as self-explanation, is an instructional principle where learners generate explanations for themselves as they solve problems or study worked examples. This process requires learners to make their internal reasoning explicit, helping them to bridge gaps in understanding, integrate new information with prior knowledge, and monitor their own comprehension [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
@@ -71,4 +73,4 @@ Explaining their thinking improves learning because it forces learners to make r
 ## Key Sources
 - Chi, M. T. H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182. [https://doi.org/10.1207/s15516709cog1302_1](https://doi.org/10.1207/s15516709cog1302_1)
 - Rittle-Johnson, B. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*(4), 599–611. [https://doi.org/10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)
-- McNamara, D. S. (2004). SERT: Self-explanation reading training. *Discourse Processes, 38*(1), 1–30. [https://doi.org/10.1207/s15326977dp3801_1](https://doi.org/10.1207/s15326977dp3801_1)
+- McNamara, D. S. (2004). SERT: Self-explanation reading training. *Discourse Processes, 38*(1), 1–30. [https://doi.org/10.1207/s15326950dp3801_1](https://doi.org/10.1207/s15326950dp3801_1)

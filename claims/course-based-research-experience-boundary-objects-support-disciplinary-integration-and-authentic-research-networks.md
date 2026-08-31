@@ -16,6 +16,8 @@ sources:
 
 # Course-based research experience boundary objects support disciplinary integration and authentic research networks
 
+> **Claim** · [All claims](index.md)
+
 Organizing an interdisciplinary Course-Based Research Experience around a shared scientific-paper boundary object — that shifts function from compelling, to concrete, to normative, to novel across the term — helped disciplinarily diverse students integrate disciplinary differences and connected them to authentic research networks beyond the classroom, though students used varied and sometimes divergent tactics to cope with unresolved disciplinary disagreements.
 
 ## Subclaims

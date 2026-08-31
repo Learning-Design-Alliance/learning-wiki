@@ -10,6 +10,8 @@ generated:
 
 # Turiel's Social Domain Theory
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Elliot Turiel proposed that stage-based models of moral development (Piaget's and Kohlberg's) share an assumption worth questioning: that a person reasons from one unified "level" of moral development that applies uniformly across every kind of social rule. Turiel's social domain theory argues instead that children differentiate at least three distinct domains of social knowledge from early in development, and reason differently within each:
 

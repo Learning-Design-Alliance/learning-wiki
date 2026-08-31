@@ -10,6 +10,8 @@ generated:
 
 # Existentialism (Educational Philosophy)
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Existentialism grew out of continental philosophies forming in 19th- and early-20th-century Europe, most notably hermeneutic phenomenology — the examination of lived experience — and it countered the mind/body and mind/world dualisms inherent in both Idealism and Realism: the world has no meaning outside human existence within it. Jean-Paul Sartre held that "existence precedes essence" — an individual's existence comes before the nature or fact of what they are, meaning individual human beings are free to determine their own meaning for life rather than possessing any inherent identity beyond what they choose or create.
 

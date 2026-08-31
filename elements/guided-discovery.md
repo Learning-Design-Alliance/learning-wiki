@@ -15,6 +15,8 @@ sources:
 
 # Guided Discovery
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Guided discovery is the element in which learners investigate, infer, or notice patterns for themselves, but with prompts, constraints, examples, or feedback that keep the exploration productive. It is useful when the goal is active sensemaking without leaving learners entirely unguided.
 

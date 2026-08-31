@@ -10,6 +10,8 @@ generated:
 
 # Flipped Classroom
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
 

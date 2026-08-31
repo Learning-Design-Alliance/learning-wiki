@@ -10,6 +10,8 @@ generated:
 
 # Selected-Response Assessment Items
 
+> **Element** · [All elements](index.md)
+
 ## Description
 In selected-response items — multiple-choice, true-false, and matching — students select a response the teacher or test developer provides rather than constructing one in their own words, so the item measures recognition rather than recall. Because results don't depend on a scorer's judgment (and so are often machine-scored), these items are called "objective," and their elimination of scoring error increases reliability. But teachers who rely on objective items exclusively risk reducing the validity of their overall assessment, since objective items aren't appropriate for every learning goal — effective assessment depends on aligning the technique to the actual goal (if the goal is for students to conduct an experiment, they should be asked to conduct one, not asked about conducting one).
 

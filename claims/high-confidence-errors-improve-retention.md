@@ -20,6 +20,8 @@ evidence_strength: strong
 
 # High-confidence errors lead to better retention after correction than low-confidence errors.
 
+> **Claim** · [All claims](index.md)
+
 The "hypercorrection effect" describes the phenomenon where errors committed with high confidence are more likely to be corrected and remembered accurately later than low-confidence errors, likely due to increased attention triggered by the surprise of being wrong.
 
 ## Subclaims

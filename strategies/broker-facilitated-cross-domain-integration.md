@@ -15,6 +15,8 @@ sources:
 
 # Broker-Facilitated Cross-Domain Integration
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 When a learning design crosses institutional boundaries — a school partnering with a research lab, museum, or outside organization that has never before hosted this kind of activity — a single facilitator with prior experience in both domains (a "broker") pre-visits the partner institution, maps its constraints (safety rules, access limits, scheduling), and builds enough trust that novel practices can be introduced "painlessly." During the activity itself, the broker continues translating: helping the host institution's experts adjust their communication for a non-expert audience, and helping learners understand what constraints the host institution operates under and why.
 

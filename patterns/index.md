@@ -2,7 +2,7 @@
 
 Reusable instructional designs at the lesson or unit level.
 
-**117 entries** · 0 stable · 77 in review · 40 drafts
+**130 entries** · 0 stable · 90 in review · 40 drafts
 
 ---
 
@@ -14,6 +14,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Adaptive Learning](adaptive-learning.md) - Adaptive learning is the short-form canonical pattern for adjusting pacing, difficulty, or support based on learner performance.
 * [Anchored Instruction](anchored-instruction.md) - Anchored instruction organizes learning around a rich, shared scenario that acts as the \"anchor\" for inquiry, discussion, and problem solving.
+* [Authentic Assessment](authentic-assessment.md) - Authentic assessment evaluates learning through tasks that mirror the knowledge work of real disciplines, professions, and communities rather than through proxies like multiple-choice tests.
 
 #### B {: #letter-b }
 
@@ -33,9 +34,13 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Collaborative Inquiry](collaborative-inquiry.md) - Collaborative inquiry is a pattern in which learners pose questions together, investigate possible answers, critique emerging explanations, and revise their understanding in public.
 * [Collaborative Learning](collaborative-learning.md) - Collaborative learning is the short-form canonical pattern for shared work, discussion, and co-construction of understanding.
 * [Competency-Based Learning](competency-based-learning.md) - Competency-Based Learning is a pattern that organizes progression around demonstrated competence on defined outcomes rather than uniform pacing.
+* [Concept Attainment](concept-attainment.md) - Learners infer the defining attributes of a concept by comparing labeled positive and negative examples, then test and refine their hypothesis.
+* [Constructive Alignment](constructive-alignment.md) - Constructive alignment coordinates intended learning outcomes, teaching activities, and assessment tasks so that what learners are asked to do, practice, and be graded on all demand the same cognitive work.
+* [Cooperative Learning](cooperative-learning.md) - Cooperative learning structures small-group work so that members are positively interdependent, individually accountable, and taught explicit collaborative skills.
 
 #### D {: #letter-d }
 
+* [Data Wise Improvement Process](data-wise-improvement-process.md) - The Data Wise Improvement Process is an eight-step, team-based protocol for using student assessment data to drive instructional improvement in schools.
 * [Debate](debate.md) - Debate is the short-form canonical pattern for structured instructional argumentation around a contested question.
 * [Debate Format](debate-format.md) - Debate format is a structured discussion pattern in which learners prepare positions, present arguments, respond to opposing claims, and justify conclusions within a defined sequence.
 * [Develop Understanding](develop-understanding.md) - Develop Understanding is a lesson-scale pattern that moves learners from initial exposure to meaningful conceptual grasp by activating prior knowledge, introducing new ideas clearly, giving guided opportunities to use them, and then…
@@ -102,20 +107,24 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Peer Instruction](peer-instruction.md) - Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief.
 * [Peer Teaching](peer-teaching.md) - Peer teaching is the short-form canonical pattern for learners teaching concepts, processes, or interpretations to one another.
 * [POGIL](pogil.md) - POGIL is the short-form canonical target for Process-Oriented Guided Inquiry Learning.
+* [Positive Behavioral Interventions And Supports](positive-behavioral-interventions-and-supports.md) - PBIS is a school-wide framework that teaches and reinforces expected behavior through tiered prevention rather than reactive punishment.
 * [Problem-Based Learning](problem-based-learning.md) - Problem-Based Learning uses an authentic or ill-structured problem to drive inquiry, knowledge building, and solution development.
 * [Problem-Based Learning (PBL)](problem-based-learning-pbl.md) - Problem-Based Learning is a pattern that organizes a course, unit, or module around a complex problem that learners must investigate and respond to.
 * [Process-Oriented Guided Inquiry Learning (POGIL)](process-oriented-guided-inquiry-learning-pogil.md) - POGIL is a team-based inquiry pattern in which learners work through carefully designed activities that move from exploration to concept invention to application.
+* [Professional Development](professional-development.md) - Professional development (PD) is the structured, sustained process by which educators build the knowledge, skills, and dispositions needed to improve their teaching practice.
 
 #### R {: #letter-r }
 
 * [Reflective Practice](reflective-practice.md) - Reflective Practice is a pattern in which learners or practitioners act, examine what happened, identify lessons, and deliberately adjust future performance.
 * [Reigeluth's Elaboration Theory](reigeluths-elaboration-theory.md) - Reigeluth's Elaboration Theory is a macro-level sequencing pattern that begins with a simple but meaningful version of the whole and then elaborates progressively toward greater complexity, detail, and specialization.
 * [Research-Based Learning](research-based-learning.md) - Research-Based Learning is a pattern in which learners investigate questions, gather and evaluate evidence, and build explanations or products from that inquiry.
+* [Responsive Classroom](responsive-classroom.md) - Responsive Classroom is a whole-school social-emotional learning approach that integrates community-building routines, proactive discipline, and academic choice into daily K–8 instruction.
 
 #### S {: #letter-s }
 
 * [Self-Directed Learning](self-directed-learning.md) - Self-Directed Learning is the pattern-level target for designs in which learners take substantial responsibility for setting goals, selecting resources, monitoring progress, and evaluating outcomes within a structured environment.
 * [Self-Regulated Learning](self-regulated-learning.md) - Self-Regulated Learning is the pattern-level target for designs that explicitly cycle planning, monitoring, feedback, and revision so learners can manage their own learning more effectively.
+* [Social Emotional Learning](social-emotional-learning.md) - Social Emotional Learning (SEL) develops learners' self-awareness, self-management, social awareness, relationship skills, and responsible decision-making through explicit instruction and embedded practice.
 * [Socratic Seminar](socratic-seminar.md) - Socratic Seminar is a structured, text-centered discussion pattern in which learners explore a complex question through dialogue, evidence, and follow-up questioning rather than through debate aimed at victory.
 * [Spaced Learning](spaced-learning.md) - Spaced learning is the short-form canonical pattern for distributing study and retrieval over time instead of massing it in one session.
 * [Structured Academic Controversy](structured-academic-controversy.md) - Structured Academic Controversy is a discussion pattern in which learners examine opposing positions, advocate for one side, switch roles, and work toward a more integrated conclusion.
@@ -125,6 +134,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### T {: #letter-t }
 
+* [Team Based Learning](team-based-learning.md) - Team-Based Learning (TBL) is a structured instructional sequence in which stable small teams repeatedly apply course content to significant problems, with individual accountability enforced through readiness assurance testing.
 * [Think-Pair-Share](think-pair-share.md) - Think-Pair-Share is a short discussion pattern in which learners first think individually, then discuss with a partner, and finally share outward to a larger group.
 * [Traditional Lecture / Reading / Midterm / Final Assessment](traditional-lecture-reading-midterm-final-assessment.md) - This pattern describes the common lecture-dominant course model in which instructors deliver content primarily through lecture, assign readings for independent study, and evaluate learning mainly through high-stakes midterm and final…
 * [Traditional Lecture-Based Instruction](traditional-lecture-based-instruction.md) - Traditional Lecture-Based Instruction is the short-form canonical target for designs centered on lecture, assigned study, and subsequent discussion or assessment.
@@ -132,11 +142,14 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### W {: #letter-w }
 
 * [Worked Examples](worked-examples.md) - Worked examples is the short-form canonical pattern for studying solved models before independent problem solving.
+* [Workshop Model](workshop-model.md) - The workshop model structures lessons as a short focused mini-lesson followed by an extended block of independent student work with conferring and small-group support, closing with shared reflection.
+* [Writing Workshop](writing-workshop.md) - Writing Workshop structures writing instruction as a sustained writing time in which students draft, receive feedback, revise, and publish within a predictable mini-lesson → writing → sharing routine.
 
 #### 0-9 & Other {: #letter-num }
 
 * [4C/ID](4cid.md) - 4C/ID is the short-form canonical target for Four-Component Instructional Design, a whole-task instructional pattern that combines learning tasks, supportive information, procedural information, and part-task practice.
 * [4C/ID (Four-Component Instructional Design)](4cid-four-component-instructional-design.md) - 4C/ID is a design pattern for teaching complex skills by organizing instruction around four coordinated components: whole learning tasks, supportive information, procedural information, and part-task practice.
+* [5E Learning Cycle](5e-learning-cycle.md) - The 5E Learning Cycle organizes instruction into five phases — Engage, Explore, Explain, Elaborate, Evaluate — sequencing hands-on exploration before formal explanation.
 
 
 ## Draft
@@ -151,6 +164,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Embodied Physics Inquiry Through Dance Improvisation](embodied-physics-inquiry-through-dance.md) - A session structure that pairs a short physics concept demonstration with dance improvisation exploring that concept, validating culturally specific movement styles as legitimate scientific expression.
 * [Emergent Curriculum](emergent-curriculum.md) - Emergent curriculum builds instruction from students' own expressed interests as they arise, rather than from goals set in advance by curriculum writers or teachers, requiring continuous observation and flexible responsiveness in place of predetermined planning.
 * [Epistemic Games](epistemic-games.md) - Epistemic Games immerse learners in the values, identity, and situated decision-making of a professional community of practice, so that facts and skills are acquired as a byproduct of doing the community's work rather than as isolated content.
+* [Experiential Learning Cycle](experiential-learning-cycle.md) - The experiential learning cycle organizes learning as a repeating four-stage sequence — concrete experience, reflective observation, abstract conceptualization, and active experimentation — that turns raw experience into tested knowledge.
 * [Explicit Instruction in Historical Contextualization](explicit-instruction-in-historical-contextualization.md) - A two-part unit design that first gives students a reason to engage with historical background knowledge through discussion-based case studies and source-sorting, then supports the procedural writing skill of placing and connecting that background to evidence through modeled text analysis and targeted language practice.
 * [Fiber Crafting for Proportional Reasoning](fiber-crafting-for-proportional-reasoning.md) - A multi-day craft camp (knitting, crochet, and fabric pleating) in which learners define their own stitch or fold units through personal tension and material choice, then discover multiplicative proportional relationships (e.g., stitch width-to-height ratios, row-to-row growth, unfolded-to-folded fabric ratios) as an emergent property of the material rather than a taught formula.
 * [Five "E" Model](five-e-model.md) - The Five "E" Model is a constructivist lesson pattern with five sequential stages — Engage, Explore, Explain, Elaborate, Evaluate — that structures inquiry-based lessons around students' own discovery before formal terminology is introduced.
@@ -177,7 +191,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Scripted Personally Meaningful Inquiry](scripted-personally-meaningful-inquiry.md) - A six-step classroom-to-field-to-classroom inquiry sequence, supported by a persistent visual inquiry-cycle diagram, in which students collectively frame a personally meaningful question, collect data individually outside the classroom, and return to jointly analyze shared results — including explaining unexpected or inconclusive findings.
 * [Storyline Science Curriculum Design](storyline-science-curriculum-design.md) - A science unit design in which lessons are organized around a sequence of questions students themselves generate in response to an anchoring phenomenon, written from the student's own perspective, rather than around a sequence of disciplinary topics.
 * [Synthetic Planning for Discovery-Oriented Writing](synthetic-planning-for-discovery-oriented-writing.md) - A writing-task design that deliberately withholds a detailed structural outline — asking writers only to state their overall goal before drafting — so that spontaneous, minimally-planned sentence production can generate new ideas, at the cost of initial text quality that must be repaired through global revision.
-* [Team-Based Learning (TBL)](team-based-learning.md) - Team-Based Learning organizes an entire course into permanent-team modules, each beginning with individual and team readiness tests over pre-class material, then moving to team application activities built on the "4S" framework, requiring a genuine paradigm shift from content delivery to designing and managing team learning experiences.
 * [Threading, Weaving, Patternmaking](threading-weaving-patternmaking.md) - A three-phase science unit sequence that moves learners from critical annotation of texts exposing embedded bias, through cross-source synthesis, to speculative multimedia redesign of a more just future.
 * [Three Practices for Ontological Alignment in Computational Modeling](three-practices-for-ontological-alignment-in-computational-modeling.md) - Three classroom practices — elevating student ideas that match a tool's representational units, explicitly testing links between conceptual and computational models, and introducing evidence that speaks directly to the tool's representational claims — for introducing a computational modeling tool so its structure aligns with students' existing thinking.
 * [Understanding by Design](understanding-by-design.md) - Wiggins and McTighe's backward design process plans a course or unit in three stages — identify desired results, determine acceptable evidence, then plan learning experiences — so that activities and assessments are derived from the learning goals rather than chosen first and justified afterward.

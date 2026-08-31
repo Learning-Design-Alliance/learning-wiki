@@ -16,6 +16,8 @@ sources:
 
 # Embodied dance improvisation supports physics engagement and sense-making
 
+> **Claim** · [All claims](index.md)
+
 Validating culturally specific movement (e.g., krumping, stepping) as legitimate physics expression, and using dance improvisation to explore physics concepts, shifted participating Black girls' emotional relationship to physics content and gave them an embodied vocabulary for reasoning about and critiquing their own scientific models.
 
 ## Subclaims

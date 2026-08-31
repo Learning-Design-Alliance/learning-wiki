@@ -10,6 +10,8 @@ generated:
 
 # Adolescent Peer Group Structure
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Adolescent peer relationships operate through several distinct, overlapping structures, each studied somewhat separately in developmental psychology.
 

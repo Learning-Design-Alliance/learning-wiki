@@ -10,6 +10,8 @@ generated:
 
 # Collaborative Inquiry
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Collaborative inquiry is the element in which learners investigate a question together through shared sensemaking and evidence use.
 

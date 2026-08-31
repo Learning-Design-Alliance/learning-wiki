@@ -10,6 +10,8 @@ generated:
 
 # Research Data Collection Methods
 
+> **Element** · [All elements](index.md)
+
 ## Description
 People tend to change their behavior when they know they're being watched — the **Hawthorne effect**. Observational research can be done **naturalistically**, in the participants' natural environment where they are usually unaware they're being observed (reducing the likelihood of the Hawthorne effect), or in a **laboratory** setting, where the researcher can control confounding factors and distractions at the cost of ecological validity and the expense of maintaining the controlled setting. A naturalistic classroom observation loses control — a substitute teacher on the observation day, for instance, could change student behavior and skew the data — that a laboratory setting would avoid, but at the price of studying behavior somewhat removed from its natural context.
 

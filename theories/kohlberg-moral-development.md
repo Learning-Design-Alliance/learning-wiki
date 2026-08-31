@@ -10,6 +10,8 @@ generated:
 
 # Kohlberg's Stages of Moral Development
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Lawrence Kohlberg (1927–1987), building directly on Piaget's [Stages of Cognitive Development](stages-of-cognitive-development.md), proposed that moral *reasoning* — not moral behavior or the specific choice a person makes — develops through three levels and six stages. Kohlberg assessed stage using the **Moral Judgment Interview**, a semi-structured interview (established in his 1958 dissertation) that scores the structure of a person's justification for a moral choice, not the choice itself. His signature instrument is the **Heinz dilemma**: a man, Heinz, cannot afford a drug that could save his dying wife; should he steal it? The "right" answer is irrelevant to scoring — a person can justify either "steal it" or "don't steal it" from any of the six stages, and it is the *form* of the justification that reveals the stage.
 

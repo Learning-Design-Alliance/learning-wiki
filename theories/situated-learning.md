@@ -10,6 +10,8 @@ generated:
 
 # Situated Learning
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
 
@@ -34,4 +36,4 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Epistemic Games](../patterns/epistemic-games.md)
 
 ## Key Sources
-- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press.
+- Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation*. Cambridge University Press. [doi:10.2307/2804509](https://doi.org/10.2307/2804509)

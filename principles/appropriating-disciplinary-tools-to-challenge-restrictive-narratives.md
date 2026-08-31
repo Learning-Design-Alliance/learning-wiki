@@ -15,6 +15,8 @@ sources:
 
 # Appropriating Disciplinary Tools to Challenge Restrictive Narratives
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Disciplinary tools taught to teachers as fixed procedures (e.g., a linear six-step engineering design process) can themselves carry restrictive, exclusionary assumptions about the discipline — who counts as a practitioner, what kinds of work count as "real" engineering. When a teacher personally experiences authentic, ill-structured disciplinary work (rather than only teaching a scripted version of the tool), they can appropriate the tool's language to describe their own lived, messier experience — and then redeploy that appropriated, expanded understanding to challenge the restrictive narrative in their own teaching and beyond the classroom.
 

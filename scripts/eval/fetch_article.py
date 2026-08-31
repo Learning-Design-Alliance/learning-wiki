@@ -3,8 +3,9 @@ fetch_article.py — Fetch and cache full text for the eval corpus (arXiv / ERIC
 
 Every request goes through compliance.guard() first (robots.txt + per-domain
 rate limiting) — see eval/SOURCES.md for why each source is fetched the way
-it is (e.g. PMC via the BioC API rather than scraping article HTML, which
-NCBI's usage guidelines don't list as a sanctioned automated-retrieval path).
+it is (e.g. PMC via the PMC Article Datasets on AWS, see pmc_aws.py, rather
+than scraping article HTML, which NCBI's usage guidelines don't list as a
+sanctioned automated-retrieval path).
 
 Text is cached to eval/corpus/cache/<id>.txt so repeated harness runs (and reruns
 against new models) don't re-download or re-parse PDFs. Delete a cache file (or
@@ -18,7 +19,7 @@ from pathlib import Path
 
 import requests
 
-from . import compliance
+from . import compliance, pmc_aws
 
 EVAL_ROOT = Path(__file__).parent.parent.parent / "eval"
 CACHE_DIR = EVAL_ROOT / "corpus" / "cache"
@@ -74,25 +75,35 @@ def _extract_pdf_text(content: bytes) -> str:
     return text
 
 
-def _extract_pmc_bioc(data) -> str:
-    """Parse a BioC-PMC JSON response into plain text. The BioC-PMC API only
-    serves the PMC Open Access subset — a 404 here means this PMCID isn't in
-    that subset, i.e. it isn't cleared for automated bulk retrieval at all,
-    not just via this endpoint. Don't fall back to scraping the HTML page for
-    it; swap the manifest entry for one that IS in the OA subset instead."""
-    collection = data[0] if isinstance(data, list) and data else data
-    documents = collection.get("documents", []) if isinstance(collection, dict) else []
-
-    parts = []
-    for doc in documents:
-        for passage in doc.get("passages", []):
-            text = passage.get("text", "").strip()
-            if text:
-                parts.append(text)
-
-    text = "\n\n".join(parts)
+def _fetch_pmc_via_aws(entry: dict) -> str:
+    """Fetches full text via the PMC Article Datasets on AWS (pmc_aws.py)
+    instead of the old BioC-PMC API — see that module's docstring. Uses the
+    same `is_pmc_openaccess` ground truth discover_articles.search_pmc() now
+    checks before adding a manifest entry, so a 404/empty-body surprise here
+    should be rare — but a manifest entry can come from a hand-curated
+    source (the original 10-article benchmark) that never went through that
+    check, so this still verifies rather than assuming. Don't fall back to
+    scraping the HTML page for a miss; swap the manifest entry instead."""
+    pmcid = entry.get("pmcid") or entry["id"]
+    aws_meta = pmc_aws.fetch_metadata(pmcid)
+    if aws_meta is None:
+        raise FetchError(
+            f"{pmcid} has no PMC AWS metadata object (metadata/{pmcid}.1.json not found) — "
+            f"not available via the PMC Article Datasets on AWS. Replace this manifest entry."
+        )
+    if not aws_meta.get("is_pmc_openaccess"):
+        raise FetchError(
+            f"{pmcid} is not marked is_pmc_openaccess in its PMC AWS metadata — not cleared "
+            f"for automated bulk retrieval. Replace this manifest entry rather than scraping "
+            f"the HTML article page as a workaround."
+        )
+    text_url = aws_meta.get("text_url")
+    if not text_url:
+        raise FetchError(f"{pmcid}'s PMC AWS metadata has no text_url.")
+    resp = _get(pmc_aws.s3_to_https(text_url))
+    text = resp.text
     if len(text.strip()) < 500:
-        raise FetchError("Extracted BioC text is suspiciously short (<500 chars) — "
+        raise FetchError("Extracted PMC AWS text is suspiciously short (<500 chars) — "
                           "check the PMCID is correct and actually in the PMC OA subset.")
     return text
 
@@ -113,38 +124,14 @@ def fetch_article_text(entry: dict, refresh: bool = False) -> str:
             resp = _get(fetch_url)
             text = _extract_pdf_text(resp.content)
         elif source == "pubmed":
-            resp = _get(fetch_url)
-            text = _extract_pmc_bioc(resp.json())
+            text = _fetch_pmc_via_aws(entry)
         else:
             raise FetchError(f"Unknown source type: {source}")
     except compliance.ComplianceError:
         raise
     except requests.HTTPError as e:
-        if source == "pubmed" and e.response is not None and e.response.status_code == 404:
-            raise FetchError(
-                f"{entry.get('pmcid', fetch_url)} returned 404 from the BioC-PMC API — "
-                f"it's likely not in the PMC Open Access subset, so it isn't cleared for "
-                f"automated retrieval. Replace this manifest entry rather than scraping "
-                f"the HTML article page as a workaround."
-            ) from e
         raise FetchError(f"HTTP error fetching {fetch_url}: {e}") from e
     except ValueError as e:
-        # resp.json() raising here (a 200 with an empty/near-empty body) is the
-        # same underlying issue as the 404 case above, just a different HTTP
-        # status: open access[filter] in search_pmc()'s ESearch query means
-        # "flagged OA," not "already processed into the BioC full-text corpus"
-        # — very recently published PMCIDs are the ones most likely to hit
-        # this. Caught here (ValueError, which requests' own JSONDecodeError
-        # and the stdlib json.JSONDecodeError both subclass) rather than
-        # falling through to the generic RequestException case below, which
-        # would otherwise mislabel this "Network error" and obscure the cause.
-        if source == "pubmed":
-            raise FetchError(
-                f"{entry.get('pmcid', fetch_url)} returned an empty/unparseable body from "
-                f"the BioC-PMC API — likely not yet processed into the OA full-text corpus, "
-                f"even though it was flagged open access[filter] at search time. Replace "
-                f"this manifest entry; it may become fetchable later, but isn't now."
-            ) from e
         raise FetchError(f"Unparseable response from {fetch_url}: {e}") from e
     except requests.RequestException as e:
         raise FetchError(f"Network error fetching {fetch_url}: {e}") from e

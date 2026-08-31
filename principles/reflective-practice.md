@@ -10,6 +10,8 @@ generated:
 
 # Reflective Practice
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Reflective practice is the principle of examining actions, decisions, and outcomes in order to improve later performance.
 

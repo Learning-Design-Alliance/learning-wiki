@@ -10,6 +10,8 @@ generated:
 
 # Cognitivism
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Cognitivism emerged in the late 1950s as a reaction against behaviorism's refusal to look inside the "black box" of the mind. Rather than treating learning as a change in observable stimulus-response associations, cognitivists treat it as a change in internal mental structures — the way information is received, organized, stored, and retrieved. Learning is equated with discrete changes between states of knowledge, not with changes in the probability of a response, and the learner is viewed as an active participant who attends to, codes, transforms, rehearses, and stores information rather than merely reacting to it (Ertmer & Newby, 2013).
 

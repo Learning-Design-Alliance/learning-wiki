@@ -10,6 +10,8 @@ generated:
 
 # Ignoring and Nonverbal Redirection
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Many misbehaviors don't deserve any response at all. A behavior that is infrequent and unlikely to spread — an otherwise-quiet student whispering to a neighbor once in a while — is often more effectively left alone than responded to, since it is likely to disappear on its own (or "extinguish," in behaviorist terms) and interrupting the activity to address it risks causing more disruption than the misbehavior itself. Some misbehaviors are worth ignoring even if frequent, as long as they don't bother other students (a student who is chronically out of her seat sharpening her pencil, unnoticed by classmates, may not actually be "a problem" despite being unnecessary or ill-timed). The genuinely difficult cases are the ambiguous ones in between — whispering that happens more than "rarely" but less than "often," or a habit that bothers a few classmates but not most — where there's no clean threshold for when ignoring stops being the right call and a more active response becomes necessary.
 

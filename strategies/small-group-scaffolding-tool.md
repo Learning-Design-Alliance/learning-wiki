@@ -15,6 +15,8 @@ sources:
 
 # Small-Group Scaffolding Tool
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Standard scaffolding theory (contingency, fading, transfer of responsibility) is normally operationalized at the level of an individual student's zone of proximal development, even inside a group setting. The Small-Group Scaffolding Tool (SGS-Tool) instead trains teachers to diagnose and respond to the *group's* maximum level of understanding as a collective unit. It is a six-step decision procedure: the teacher first determines whether the group as a whole is stuck (not just one member), and only then diagnoses the group's collective understanding, checks that diagnosis with the group, provides content support pitched to that collective level, checks whether the group can now proceed unaided, and — if so — deliberately steps back into process support (encouraging students to explain to and question each other) rather than continuing to supply content. See [Scaffolding](../elements/scaffolding.md) for the underlying element this strategy specializes.
 

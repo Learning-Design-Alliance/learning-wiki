@@ -16,6 +16,8 @@ sources:
 
 # Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning
 
+> **Claim** · [All claims](index.md)
+
 Which of three spontaneous strategies (counting-on, doubling ±1, break-apart-make-ten) a fourth-grader uses to solve a single addition problem is strongly associated with their independent ability to reason about multiplicative double counting (mDC), a foundational form of multiplicative reasoning.
 
 ## Subclaims

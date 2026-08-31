@@ -17,6 +17,8 @@ grain_size: unit
 
 # Goal-Based Scenarios
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Goal-Based Scenarios organize learning around a mission or role-based objective pursued inside a realistic scenario. This page serves as the canonical short-form pattern target for references that point to the GBS family without the explicit acronym.
 
@@ -78,4 +80,4 @@ Goal-Based Scenarios organize learning around a mission or role-based objective 
 - Clinical, business, or technical training built around mission execution under realistic constraints.
 
 ## Key Sources
-- Schank, R. C. (1994). Goal-based scenarios: A radical look at education. *The Journal of the Learning Sciences, 3*(4), 429-453. [https://doi.org/10.1207/s15327809jls0304_3](https://doi.org/10.1207/s15327809jls0304_3)
+- Schank, R. C. (1994). Goal-based scenarios: A radical look at education. *The Journal of the Learning Sciences, 3*(4), 429-453. [https://doi.org/10.1207/s15327809jls0304_5](https://doi.org/10.1207/s15327809jls0304_5)

@@ -17,6 +17,8 @@ sources:
 
 # Scripted Personally Meaningful Inquiry
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 This pattern operationalizes [Personal Inquiry](../theories/personal-inquiry.md)'s scripted-orchestration approach as a six-step activity sequence, implemented in the source study using the nQuire software toolkit. A persistent octagon diagram of the theory's 8-phase inquiry cycle is shown on every screen, functioning as both orientation ("where am I in this investigation?") and a navigable to-do list, and the software allows non-linear movement — students can return to revise a question or plan after collecting evidence. Teachers configure which phases and activities happen individually, in groups, at home, or in the field, and whether students see each other's data in real time or after the fact.
 

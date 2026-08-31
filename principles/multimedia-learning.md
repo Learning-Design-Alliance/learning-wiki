@@ -15,6 +15,8 @@ sources:
 
 # Multimedia Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Multimedia learning is the principle of combining words, visuals, and other media in ways that support understanding without overloading attention.
 

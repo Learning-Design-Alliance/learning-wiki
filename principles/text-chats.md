@@ -15,6 +15,8 @@ sources:
 
 # Text Chats
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Text chats use live or near-live written exchange as a learning space for discussion, coordination, questioning, and low-stakes composition. They are useful because they blend social interaction with writing practice: learners have to formulate ideas for an audience, respond to others, and keep pace with an unfolding conversation. In some contexts, chats also lower the participation threshold for learners who are less ready to speak aloud in front of a group.
 

@@ -10,6 +10,8 @@ generated:
 
 # Least-to-Most Prompting Hierarchy
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A **prompt** is a hint or supplementary instructional stimulus that helps a learner make a correct response. Behavioral-science practice identifies three categories of prompt, ordered from least to most intrusive:
 

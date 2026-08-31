@@ -16,6 +16,8 @@ sources:
 
 # Organization-simulation knowledge practices support interdisciplinary learning
 
+> **Claim** · [All claims](index.md)
+
 Interdisciplinary student teams in a multi-week organization simulation engaged in six identifiable collective knowledge practices while jointly building a shared knowledge object (a client offer); material tools (whiteboards, flip charts) visibly mediated shifts from unfocused discussion to structured, integrated problem-solving, while unclear leadership and time pressure were the most commonly reported barriers to productive collaboration.
 
 ## Subclaims

@@ -17,6 +17,8 @@ sources:
 
 # Differentiated Activity Structures for Inclusive Participation
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Deliberative and participatory learning processes (civic, community, or organizational) that aim to diversify participation often face a **double-bind**: naive inclusion — outreach plus sequential interpretation into an otherwise unchanged process — gets underrepresented participants into the room but not into the decision-making, because the tools, pacing, and norms of the existing activity structure were built around the majority group's language and interactional style. Attendees experience this as tokenism and stop attending. The alternative this pattern documents is a **redesigned activity structure**: a dedicated, full-standing deliberative body for the underrepresented group (not a subcommittee reporting to the "main" one), simultaneous deliberation in participants' own language rather than sequentially-interpreted turns in the majority language, flexible norms that let participants surface priorities outside the official agenda, and an explicit shift in participants' role from input-providers to decision-makers.
 

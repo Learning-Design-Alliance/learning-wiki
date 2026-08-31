@@ -16,6 +16,8 @@ sources:
 
 # Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition
 
+> **Claim** · [All claims](index.md)
+
 A two-year critical ethnography of 12 youth in a community STEM-making program found that all five youth teams redefined entrepreneurialism toward community benefit rather than profit, grounded their designs in community-rooted problems, and collectively recognized and resisted racialized structural misrecognition at a public entrepreneurial fair, sustaining and deepening this orientation over more than a year of follow-up.
 
 ## Subclaims

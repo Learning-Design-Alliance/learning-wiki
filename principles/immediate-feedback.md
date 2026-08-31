@@ -23,6 +23,8 @@ sources:
 
 # Immediate Feedback
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Immediate feedback is feedback delivered close enough to a learner's action that it can still shape interpretation, correction, and the next attempt. Its value is not just speed, but timeliness relative to the learner's current thinking: when feedback arrives while the reasoning path, misconception, or uncertainty is still active, it is easier to adjust strategy and avoid rehearsing errors. Immediate feedback is especially useful during skill acquisition, guided practice, and high-frequency retrieval or problem-solving tasks.
 
@@ -82,4 +84,4 @@ Immediate feedback works because correction is most usable while the learner’s
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81-112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
 - Metcalfe, J. (2017). Learning from errors. *Annual Review of Psychology, 68*, 465-489. [https://doi.org/10.1146/annurev-psych-010416-044022](https://doi.org/10.1146/annurev-psych-010416-044022)
-- Hooley, D. S., & Thorpe, J. (2017). The effects of formative reading assessments closely linked to classroom texts on high school reading comprehension. *Educational Technology Research and Development, 65*(5), 1215-1238. [https://doi.org/10.1007/s11423-017-9525-2](https://doi.org/10.1007/s11423-017-9525-2)
+- Hooley, D. S., & Thorpe, J. (2017). The effects of formative reading assessments closely linked to classroom texts on high school reading comprehension. *Educational Technology Research and Development, 65*(5), 1215-1238. [https://doi.org/10.1007/s11423-017-9514-5](https://doi.org/10.1007/s11423-017-9514-5)

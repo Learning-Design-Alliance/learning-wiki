@@ -16,6 +16,8 @@ sources:
 
 # Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses
 
+> **Claim** · [All claims](index.md)
+
 When formative assessment tasks for young children are built around specific household and community practices identified through family interviews, they reveal computational thinking (sequencing, abstraction, data reasoning, algorithmic logic) that standard, decontextualized computational-thinking assessments are likely to miss.
 
 ## Subclaims

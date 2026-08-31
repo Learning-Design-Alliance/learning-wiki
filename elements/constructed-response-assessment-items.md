@@ -10,6 +10,8 @@ generated:
 
 # Constructed-Response Assessment Items
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
 

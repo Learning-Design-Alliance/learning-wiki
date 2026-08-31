@@ -10,6 +10,8 @@ generated:
 
 # Vertical and Horizontal Bonding in Numerical Routines
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Under [Commognition](../theories/commognition.md), a numerical routine de-ritualizes (moves from rote performance to outcome-sensitive exploration) through two teaching moves. **Vertical bonding** demonstrates and scaffolds the connection between the first step of a procedure (e.g., counting a set) and how its result is used (e.g., choosing the larger set) — the child must see that what is counted matters for the decision that follows. **Horizontal bonding** makes explicit that different procedures (visual estimation, counting, physical alignment) applied to the same comparison task produce the same answer, so the child comes to recognize equivalence across methods rather than treating each as an unrelated ritual. The source study additionally found that embedding a numerical comparison within a purposeful, consequential action (e.g., choosing between piles of a desired snack) rather than presenting it as a decontextualized exercise accelerated a child's progress toward spontaneous, flexible counting.
 

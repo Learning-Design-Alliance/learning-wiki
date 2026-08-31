@@ -10,6 +10,8 @@ generated:
 
 # Dual Coding Theory
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
 

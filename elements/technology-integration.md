@@ -10,6 +10,8 @@ generated:
 
 # Technology Integration
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
 

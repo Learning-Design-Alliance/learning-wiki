@@ -10,6 +10,8 @@ generated:
 
 # Integrate Self-Regulation Instruction with Scientific Reasoning Instruction
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Process data from computer-based scientific inquiry shows that students rarely self-regulate (plan or monitor) spontaneously, and that when they do, it co-occurs with more connected, correct scientific-reasoning behavior and higher-quality argumentation. Because the two skill sets are naturally entangled in students' actual inquiry behavior but are typically taught in separate curricular strands (scientific method vs. study-skills/metacognition), this principle recommends designing instruction and support tools that address both together — e.g., video models that narrate monitoring alongside correct reasoning steps, planning prompts at the start of inquiry, and real-time monitoring prompts during it.
 

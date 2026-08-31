@@ -16,6 +16,8 @@ sources:
 
 # Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction
 
+> **Claim** · [All claims](index.md)
+
 Over four collaborative-autoethnography sessions across a school year, six secondary science teachers converged on and progressively deepened the view that trust, vulnerability, and safety are foundational to productive scientific argumentation, and several explicitly reframed their conception of instructional "rigor" from difficulty/workload toward discourse-based, equity-oriented engagement.
 
 ## Subclaims

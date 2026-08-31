@@ -10,6 +10,8 @@ generated:
 
 # Self-Regulation Questionnaire (SRQ)
 
+> **Element** · [All elements](index.md)
+
 ## Description
 The Self-Regulation Questionnaire (SRQ; Brown, Miller, & Lawendowski, 1999) is a self-report assessment built directly on Miller and Brown's seven-step model of self-regulation (Miller & Brown, 1991; Brown, 1998), itself built on Kanfer's foundational work (Kanfer, 1970a, 1970b). Respondents rate each item on a five-point scale (Strongly Disagree to Strongly Agree), covering behaviors such as goal-tracking, distractibility, follow-through, learning from mistakes, and resistance to peer conformity. Scores above 239 indicate high (intact) self-regulation capacity (top quartile); scores from 214-238 indicate moderate self-regulation capacity; scores below 213 indicate low (impaired) self-regulation capacity (bottom quartile).
 

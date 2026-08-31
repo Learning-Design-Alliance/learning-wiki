@@ -15,6 +15,8 @@ sources:
 
 # Digital Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Digital learning is the principle of using digital environments and tools to support access, interaction, practice, and feedback in instruction.
 

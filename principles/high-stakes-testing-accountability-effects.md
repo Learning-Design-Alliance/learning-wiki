@@ -10,6 +10,8 @@ generated:
 
 # High-Stakes Testing and Accountability Effects
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Standardized testing is "high-stakes" when performance carries real consequences — for students (a graduation test required for a diploma, a licensure exam required for a career), or for schools (under the No Child Left Behind Act, or NCLB, failing to reach targeted proficiency levels can trigger reduced funding or restructuring). Accountability, standardized testing, academic content standards, and teacher quality are the four components of the broader Standards-Based Reform movement in U.S. education, dating to the 1980s.
 

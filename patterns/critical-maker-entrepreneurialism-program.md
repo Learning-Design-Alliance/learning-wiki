@@ -17,6 +17,8 @@ sources:
 
 # Critical Maker-Entrepreneurialism Program
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 This pattern operationalizes [Critical Maker-Entrepreneurialism](../theories/critical-maker-entrepreneurialism.md) as a four-phase, multi-month program sequence: (1) community ethnography and problem identification, where youth use surveys, interviews, and observation to surface a problem rooted in their own community's historicized injustices, not an externally-assigned prompt; (2) prototype development with iterative community input, where youth design and test solutions against ongoing feedback from the people the solution serves; (3) discursive reframing, where youth are supported in co-opting required entrepreneurial forms (e.g., a business plan) to argue for nonprofit, community-benefit framing rather than market framing; and (4) public presentation at a high-visibility, often market-oriented platform (e.g., a citywide entrepreneurial fair), where youth use the platform for visibility while collectively resisting and critiquing its competitive, profit-centered norms. Adult mentors play a specific, bounded role throughout: technical and organizational scaffolding, transparency about the tensions of engaging mainstream platforms, and active advocacy with organizers — while deferring to youth on problem identification and success criteria.
 

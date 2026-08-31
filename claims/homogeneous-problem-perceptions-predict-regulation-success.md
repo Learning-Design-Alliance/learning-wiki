@@ -16,6 +16,8 @@ sources:
 
 # Homogeneous problem perceptions predict better regulation outcomes in collaborative groups
 
+> **Claim** · [All claims](index.md)
+
 Groups whose members perceive the problems they face during collaboration (comprehension, motivation, coordination, resource problems) similarly to one another report higher satisfaction, greater perceived success in addressing those problems, and higher subjective learning gain than groups whose members perceive the same problems differently.
 
 ## Subclaims

@@ -16,6 +16,8 @@ sources:
 
 # Fiber crafting develops proportional reasoning through nested, personally-defined units
 
+> **Claim** · [All claims](index.md)
+
 Three youth engaging in knitting, crochet, and fabric pleating each developed and used multiplicative proportional reasoning specific to their craft's material structure — gauge in knitting, sector growth in crochet, and hidden-layer ratios in pleating — with material properties (tension, needle size, fabric spring-back) actively shaping what unit each child defined and discovered.
 
 ## Subclaims

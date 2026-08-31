@@ -10,6 +10,8 @@ generated:
 
 # Realism (Educational Philosophy)
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Realism's central tenet holds that reality — the external universe — exists independent of the human mind. Aristotle, Plato's student, contradicted his teacher's Idealism and formulated a philosophy centered on determining truth through observation: reality can be truly understood by careful observation of all the data, and through logic humans can reason about the physical universe. Because of this emphasis, Aristotle is often called the Father of the Scientific Method; his logic emphasizes both induction and deduction, with the essence of a thing determinable through examination of the thing itself.
 

@@ -15,6 +15,8 @@ sources:
 
 # Dialogic Facilitation of Student Resources
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 When students spontaneously invoke an everyday experience or example during a whole-class science discussion (e.g., a student wonders whether a fictional superhero's spider bite transferred spider genes), the productiveness of that resource depends less on the example itself than on how the teacher positions the class around it. In an **authoritative** pattern, the teacher treats the student as a "listener" — someone posing a question to be answered — and quickly supplies the canonical explanation, closing down exploration of the student's underlying reasoning. In a **dialogic** pattern, the teacher instead positions the student (and their peers) as "sources" — accountable holders of information whose contribution is elaborated, tested, and responded to by other students rather than immediately validated or corrected by the teacher. This strategy names and operationalizes the dialogic pattern as a repeatable facilitation move.
 

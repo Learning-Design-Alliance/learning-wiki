@@ -10,6 +10,8 @@ generated:
 
 # Explicit Interpersonal Skills Instruction
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Some students — particularly those with a history of behavior disorders — have had little real opportunity to learn basic social skills. Simple courtesies (remembering to say please or thank you) and body language (eye contact, sitting attentively rather than slouching and looking away) may not be entirely unknown to the student, but unpracticed and treated as unimportant. The core design challenge is teaching these skills in a way that doesn't become part of the student's punishment, doesn't come across as "preachy," and doesn't shame the student in front of classmates.
 

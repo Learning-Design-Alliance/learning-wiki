@@ -27,6 +27,8 @@ sources:
 
 # Use Worked Examples
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The instructor presents a fully solved problem — showing each step and explaining the reasoning behind it — and then asks learners to solve a similar problem independently or in pairs. The cycle of study-then-solve can repeat multiple times, with the level of detail in the example gradually reduced (faded) as learners gain confidence.
 

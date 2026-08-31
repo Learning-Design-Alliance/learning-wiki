@@ -16,6 +16,8 @@ sources:
 
 # Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope
 
+> **Claim** · [All claims](index.md)
+
 Two sixth-grade students, given sustained access to a choice-rich, ungraded in-school STEAM infrastructure, extended a single game-design challenge into a year-long, self-directed project involving skills and practices the challenge never taught, encountering and independently resolving 23 discrete technical problems along the way.
 
 ## Subclaims

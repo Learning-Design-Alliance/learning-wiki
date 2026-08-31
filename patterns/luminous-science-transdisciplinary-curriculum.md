@@ -17,6 +17,8 @@ sources:
 
 # Luminous Science Transdisciplinary Curriculum
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Most cross-disciplinary STEAM projects ask students to apply one discipline's methods to illustrate another's content (e.g., "make art about science"), which tends to keep disciplines multidisciplinary — combined in parallel — rather than transdisciplinary — critically integrated. This pattern instead anchors a unit in a single shared, changing phenomenon (a hydroponic garden) and a single flexible representational medium (programmable, hand-crafted sculptural lanterns whose light color, brightness, and animation can simultaneously encode scientific data, artistic narrative, and computational logic) that does not belong cleanly to any one discipline's normal toolkit. Because no single discipline's standard evaluation criteria apply cleanly to the artifact, teachers and students are forced to negotiate what makes a "good" representation across art, science, and computing simultaneously — the productive struggle of that negotiation is where transdisciplinary thinking is documented to emerge.
 

@@ -10,6 +10,8 @@ generated:
 
 # Four-Phase Model of Interest Development
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Interest, distinct from effort, is a source of intrinsic motivation: when students learn from interest rather than pure effort, they devote more attention to the topic and tend to use more thoughtful learning strategies (Hidi & Renninger, 2006; Hidi, 2001). The distinction between interest and effort is often artificial in practice — the two commonly blend, as when a student works hard at a skill they also genuinely enjoy — but the useful instructional target is to draw on interest as much as possible so that required effort stays within a reasonable, sustainable range.
 

@@ -16,6 +16,8 @@ sources:
 
 # PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle
 
+> **Claim** · [All claims](index.md)
+
 Reflective, video-based examination of one's own practice appears most generative during a teacher team's problematization and conservation phases, while invoking and experimenting with external practices, frameworks, or curricular resources appears more generative during reorganization and growth phases — meaning the same PD design can produce very different trajectories for two teams depending on what phase (per the [adaptive cycles framework](../theories/adaptive-cycles-framework.md)) they enter it in and what resources their broader context provides.
 
 ## Subclaims

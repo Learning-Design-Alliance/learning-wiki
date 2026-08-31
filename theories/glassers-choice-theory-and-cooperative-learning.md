@@ -10,6 +10,8 @@ generated:
 
 # Glasser's Choice Theory and Cooperative Learning
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Glasser's (1990) cooperation-through-problem-solving approach — also called reality therapy — is the other half of the humanist tradition in classroom management, alongside [Ginott's Congruent Communication](ginotts-congruent-communication.md); Glasser and Ginott "represent two sides of the same coin." Glasser holds that effective classroom managers create a learning environment students *want* to be in, develop mutually agreed-upon standards of behavior that must be followed to remain in that environment, and hold problem-solving conferences with students who violate those standards.
 

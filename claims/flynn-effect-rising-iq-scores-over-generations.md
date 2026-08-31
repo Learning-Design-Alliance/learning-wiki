@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Average scores on intelligence tests have risen substantially across generations worldwide
 
+> **Claim** · [All claims](index.md)
+
 Known as the **Flynn effect**: raw scores on standardized intelligence tests have increased across successive generations in most countries where they have been tracked, at an average rate of roughly 3 IQ points per decade — a rate large enough that intelligence tests must be periodically re-standardized against a new population sample, or older norms will systematically overstate a test-taker's relative intelligence.
 
 ## Subclaims

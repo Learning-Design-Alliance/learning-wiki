@@ -19,6 +19,8 @@ sources:
 
 # Self-Regulated Learning
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
 

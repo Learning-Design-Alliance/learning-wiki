@@ -10,6 +10,8 @@ generated:
 
 # Well-Structured vs. Ill-Structured Problems
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Problems vary along two related dimensions: how much of the information needed for a solution is actually given, and how many (and how clear) the rules or procedures for reaching a solution are. A **well-structured problem** provides most of the needed information and can, in principle, be solved with relatively few clearly understood rules — the word problems common in math classes are a classic example, since everything needed is contained in the stated problem and the solution procedure is relatively clear and precise. An **ill-structured problem** has the opposite qualities: the needed information is not necessarily contained in the problem itself, many different procedures are potentially applicable, and multiple different solutions are plausible (Voss, 2006) — extreme examples include "How can the world achieve lasting peace?" or "How can teachers ensure that students learn?"
 

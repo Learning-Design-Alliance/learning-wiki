@@ -15,6 +15,8 @@ sources:
 
 # Failure-Driven Scaffolding
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Within a [Problem-Solving Followed by Instruction](../theories/problem-solving-followed-by-instruction.md) design, failure-driven scaffolding presents students with a sequence of increasingly suboptimal representations of a task (e.g., histogram → bar chart → 2D histogram for a comparison task better suited to a scatterplot), inverting the usual assumption that a scaffold should make a task easier. The scaffold's purpose is to reliably provoke a specific, informative kind of failure — not to prevent failure — so the later instruction phase has a concrete misconception to correct. This contrasts with success-driven scaffolding, which shapes the same phase toward an increasingly optimal representation (e.g., a prompt → hint → bottom-out syntax sequence), and with unscaffolded productive failure, where students generate their own range of solutions without any directional pressure.
 

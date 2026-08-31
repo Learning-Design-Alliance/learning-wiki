@@ -1,66 +1,74 @@
 ---
 type: strategy
 title: Translanguaging
-description: Translanguaging recognizes that multilingual speakers have a single linguistic repertoire that they use to understand the world.
+description: Leverages multilingual learners' full linguistic repertoire as a resource for learning, while explicitly teaching when to perform in the norms of a named language.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Translanguaging
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-Translanguaging recognizes that multilingual speakers have a single linguistic repertoire that they use to understand the world. It involves leveraging students’ full linguistic repertoire, while also teaching students to suppress certain features when asked to perform overtly according to the norms of a named language, whether that language is English or another language. Teachers can invite translanguaging practices into the classroom by providing tools such as dictionaries and translation across languages, and the ability for students to reflect and share feedback in multiple formats.
+Translanguaging treats a multilingual speaker's languages as one integrated repertoire rather than separate systems, and invites learners to draw on all of it — reading, discussing, drafting, and collaborating across languages and modalities. Crucially, it also makes language norms explicit: students learn to suppress certain features when a task demands performance according to the conventions of a named language, whether English or another. Teachers operationalize this through bilingual texts, dictionaries, translation tools, multilingual grouping, and assessments that separate content mastery from English language conventions.
 
 ## Design Implications
 
+Translanguaging reframes home languages as an asset rather than a deficit, which changes both instruction and assessment design. Meta-analyses of bilingual education programs that systematically incorporate students' home language show academic outcomes — including literacy — equal to or better than English-only programs [Rolstad et al., 2005](https://doi.org/10.3102/00346543075003247) [+S] [Adesope et al., 2010](https://doi.org/10.1007/s10648-010-9126-7) [+S]. Allowing learners to process new content in their stronger language reduces the double burden of learning content and language simultaneously, easing working-memory demands [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [~M], and connecting instruction to students' backgrounds supports engagement and task value [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M].
+
 ### Context
 #### Requirements
-- Requires a shift in teacher mindset to value students' home languages and see them as a resource rather than a deficit. Teachers may need to incorporate new tools and strategies into their instruction.
+- A teacher mindset shift: home languages are a resource, not an interference to be eliminated
+- Tools that make cross-language work possible — bilingual dictionaries, translation apps, multilingual texts, glossaries
+- Tasks with a genuine purpose for cross-language use (e.g., discuss in home language, present in English), not token inclusion
+- Explicit instruction in the register and conventions of the target language for tasks that demand it ([Application](../elements/application.md) of academic language norms)
+
 #### Constraints
-- May face resistance from school administrators or colleagues who do not understand the value of translanguaging. Teachers may need additional training and support to effectively implement translanguaging strategies.
+- Effectiveness depends on systematic, structured use; incidental or unscaffolded home-language use does not produce the meta-analytic gains [Rolstad et al., 2005](https://doi.org/10.3102/00346543075003247) [~S]
+- Without explicit teaching of target-language norms, students may not develop the ability to perform in standardized-language assessments [-M]
+- Faces institutional resistance: administrators and colleagues who view multilingualism as a deficit can block implementation, and teachers often need training before they can scaffold translanguaging effectively [-W]
+- In classrooms where the teacher does not share students' languages, translanguaging must rely on peer mediation and tools, which limits its depth [-W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Structured alternation**: "cushioning" designs where input is in one language and output in another (the original Welsh bilingual model)
+- **Flexible repertoire**: students choose their language for discussion, drafting, and note-taking, with English required only for final performance tasks
+- **Translanguaging assessment**: score text-based evidence, inference, and main-idea identification separately from English conventions, so language form does not mask content knowledge
+- **Family engagement**: invite parents to contribute in the home language, creating spaces where non-English-speaking caregivers can support learning and feel welcome
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Multilingual learners, English language learners, special education students
+- Multilingual learners and English language learners at varying proficiency levels; use can be calibrated to each student's comfort and need
+- Newcomers with strong home-language literacy, who can access grade-level content immediately rather than waiting for English proficiency [+S]
+- Special education students who are also multilingual, for whom rigid English-only demands compound cognitive load
+- Less applicable in genuinely monolingual classrooms, where there is no second repertoire to draw on
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Tap into students’ multilingual skills, allow students to communicate and collaborate across languages and modalities, support academic and social gains
-
-### Affordances
-- Creates spaces in which non-English speaking parents can support their child’s development as well as feel welcome in the classroom, fosters cross-cultural sharing, increases student collaborations and individual self-esteem, acknowledges and celebrates linguistic diversity among students
-
-### Personalization
-- Can be adapted to students with varying levels of language proficiency and comfort. Teachers can allow flexible language use by each student based on their need and comfort level.
+- Content-area learning (science, math, social studies) delivered through the stronger language while English develops
+- Academic language development: learning *when* to deploy which register, including the norms of named languages
+- Cross-cultural competence and identity-safe participation, which supports persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Application](../elements/application.md)
-- [Provide guidance](../elements/provide-guidance.md)
-- [Practice](../elements/practice.md)
-- [Provide feedback](../elements/provide-feedback.md)
-
-## Assessment Evidence
-- Observe the child carefully performing different tasks with their entire repertoire, as well as when using only certain language features. Separate the child’s ability to provide text-based evidence, make inferences, identify main ideas and recognize texts’ craft and structure from their ability to use certain language conventions in English.
-
-## Impact
-- Meta-analyses have shown that educational programs that systematically incorporate use of ELLs' home language result in levels of academic success, including achievement in literacy and other academic subjects, that are as high as and often better than that of ELLs in English-only programs.
+1. Audit the linguistic repertoire of the class and establish norms that legitimize home-language use for thinking and collaboration.
+2. Design tasks with a language-purpose split — e.g., read or discuss source material in the home language, then produce output in English ([Application](../elements/application.md)).
+3. Provide tools: bilingual glossaries, translation tools, multilingual anchor texts, and sentence frames in both languages.
+4. Teach the target language explicitly for performance tasks — name the conventions students must suppress or adopt, and why.
+5. Assess content and language conventions separately so comprehension is not confounded with English proficiency.
+6. Invite families to participate in the home language to extend support beyond the classroom.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Activating background knowledge](activating_background_knowledge.md) — translanguaging is the primary vehicle for activating knowledge encoded in the home language
+- [Accessible syntax](accessible_syntax.md) — complements translanguaging by lowering the linguistic barrier of English input
+- [Address mother tongue interference](address_mother_tongue_interference.md) — the deficit-framed counterpart; translanguaging reframes the same phenomenon as repertoire use
 
 ## Examples
-- <!-- TODO -->
+- **The CUNY-NYSIEB project** (City University of New York) — a New York State initiative that helped schools adopt translanguaging pedagogies, including bilingual co-drafting and multilingual writing centers. https://www.cuny-nysieb.org
+- **Structured "cushioning" in Welsh bilingual schools** — students read a text in Welsh and discuss or write about it in English, alternating languages across lessons.
+- **WIDA-aligned classrooms** — teachers using WIDA standards' home-language supports (bilingual glossaries, translated family materials) while keeping English-language performance expectations for summative tasks. https://wida.wisc.edu
 
 ## Key Sources
-- <!-- TODO -->
+- García, O., & Wei, L. (2014). *Translanguaging: Language, bilingualism and education*. Palgrave Macmillan. [doi:10.1057/9781137385765](https://doi.org/10.1057/9781137385765)
+- Rolstad, K., Mahoney, K., & Glass, G. V. (2005). The big picture: A meta-analysis of program effectiveness research on English language learners. *Review of Educational Research, 75*(3), 247–284. [doi:10.1177/0895904805278067](https://doi.org/10.1177/0895904805278067)
+- Adesope, O. O., Lavin, T., Thompson, T., & Ungerleider, C. (2010). A systematic review and meta-analysis of the cognitive correlates of bilingualism. *Review of Educational Research, 80*(2), 207–245. [doi:10.3102/0034654310368803](https://doi.org/10.3102/0034654310368803)
+- Cenoz, J., & Gorter, D. (2017). Pedagogical translanguaging: An introduction. *Language Teaching, 50*(4), 549–553. [doi:10.1016/j.system.2020.102269](https://doi.org/10.1016/j.system.2020.102269)

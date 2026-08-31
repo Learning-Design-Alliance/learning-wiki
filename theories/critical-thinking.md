@@ -10,6 +10,8 @@ generated:
 
 # Critical Thinking
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Critical thinking requires both a skill (analyzing the reliability and validity of information) and a disposition to actually apply that skill, in principle across any realm of knowledge, not only a single subject or topic (Halpern, 2003; Williams, Oliver, & Stockade, 2004). A critical thinker is not simply someone with a negative or fault-finding attitude; rather, the critical thinker asks key questions, evaluates evidence for ideas, reasons about problems logically and objectively, and expresses ideas and conclusions clearly and precisely — and can carry these habits of mind across more than one domain of life or knowledge.
 

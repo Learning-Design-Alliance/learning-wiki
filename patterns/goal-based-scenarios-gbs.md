@@ -17,6 +17,8 @@ grain_size: unit
 
 # Goal-Based Scenarios (GBS)
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Goal-Based Scenarios organize learning around a mission or role-based objective that learners pursue inside a realistic scenario. Instead of learning content first and applying it later, learners confront a goal, make decisions, access information as needed, and experience the consequences of their choices. The scenario gives purpose and coherence to the learning sequence.
 
@@ -106,5 +108,5 @@ GBS is especially useful when the instructional target involves judgment, proced
 - Strongest when scenarios are paired with explicit debrief rather than left as pure experience.
 
 ## Key Sources
-- Schank, R. C. (1994). Goal-based scenarios: A radical look at education. *The Journal of the Learning Sciences, 3*(4), 429-453. [https://doi.org/10.1207/s15327809jls0304_3](https://doi.org/10.1207/s15327809jls0304_3)
+- Schank, R. C. (1994). Goal-based scenarios: A radical look at education. *The Journal of the Learning Sciences, 3*(4), 429-453. [https://doi.org/10.1207/s15327809jls0304_5](https://doi.org/10.1207/s15327809jls0304_5)
 - Schank, R. C., Berman, T. R., & Macpherson, K. A. (1999). Learning by doing. In C. Reigeluth (Ed.), *Instructional-design theories and models: A new paradigm of instructional theory* (Vol. II, pp. 161-181). Erlbaum.

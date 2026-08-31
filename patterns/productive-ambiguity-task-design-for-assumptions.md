@@ -17,6 +17,8 @@ sources:
 
 # Productive Ambiguity Task Design for Assumptions
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Mathematics tasks conventionally specify all needed conditions up front, so students never have occasion to notice that a conclusion's truth depends on an assumption. This pattern breaks that convention on purpose: a task leaves a local assumption ambiguous — either a task condition (e.g., what kind of function relates two given data points) or the meaning of an everyday word used in a mathematical instruction (e.g., what "same parts" means when dividing a shape) — so that students working independently produce genuinely different, individually defensible answers. A structured discussion then surfaces why the answers differ, and a follow-up task asks students to revise the original wording themselves so that only one answer remains valid, which requires them to articulate the assumption explicitly.
 

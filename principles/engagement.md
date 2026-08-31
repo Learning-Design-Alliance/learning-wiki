@@ -19,6 +19,8 @@ sources:
 
 # Engagement
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Engagement is the principle of designing learning so that learners attend, participate, and sustain effort in cognitively meaningful ways. It matters when attention, persistence, and active involvement affect whether instruction actually results in learning.
 

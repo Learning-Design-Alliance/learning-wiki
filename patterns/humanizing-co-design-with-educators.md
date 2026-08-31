@@ -17,6 +17,8 @@ sources:
 
 # Humanizing Co-Design with Educators
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Co-design (researchers and educators collaboratively designing curriculum) is not automatically humanizing — it requires deliberate facilitation to treat participants' emotional and relational experience as legitimate design material, not a distraction from the "real" design work. This pattern adds concrete, replicable structures on top of a standard co-design process: shared contemplative training so no one enters as "the expert," ritualized opening/closing affective check-ins at every meeting, a reflective field-note protocol that surfaces educators' lived classroom struggles as design input, and explicit responsiveness that lets facilitators set the design agenda aside when participants' personal or collective wellbeing needs it.
 

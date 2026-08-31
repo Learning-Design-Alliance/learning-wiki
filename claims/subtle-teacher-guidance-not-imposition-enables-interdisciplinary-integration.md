@@ -16,6 +16,8 @@ sources:
 
 # Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation
 
+> **Claim** · [All claims](index.md)
+
 Even after careful content, pedagogy, and organizational design, unguided student small-group discussion of interdisciplinary societal dilemmas stayed animated but "sterile" — students did not spontaneously integrate prior disciplinary learning into their reasoning. When a teacher noticed a student's partial, unprompted reference to disciplinary content and sharpened it with a targeted question, integration followed while dialogic quality was preserved; when a teacher instead interrupted with direct explanation, students resisted and talk shifted away from dialogic collaboration.
 
 ## Subclaims

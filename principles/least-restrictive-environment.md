@@ -10,6 +10,8 @@ generated:
 
 # Least Restrictive Environment
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 The U.S. IDEA legislation requires placing students with disabilities in the **least restrictive environment (LRE)** — the combination of settings that involves the student with regular classrooms and school programs as much as possible. The exact combination is determined by the circumstances of the particular school and student, not fixed by disability label alone: a kindergartner with a mild cognitive disability might spend most of the day in a regular kindergarten classroom with a teacher assistant's help, while an adolescent with a similar disability might be assigned mainly to specially designed classes but still join some school-wide activities with non-disabled peers. This variation partly reflects a real (and debatable) pattern in teacher perception — curriculum modification is generally seen as more difficult to manage at higher grade levels — rather than being dictated purely by the disability's nature. A student whose disability is strictly physical, by contrast, might spend virtually the entire school career in regular classes, since curriculum adjustment may not be an issue at all.
 

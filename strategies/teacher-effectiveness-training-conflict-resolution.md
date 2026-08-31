@@ -10,6 +10,8 @@ generated:
 
 # Teacher Effectiveness Training / Conflict Resolution
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 When a student misbehaves persistently and disruptively, strategies more active than ignoring, nonverbal redirection, or a single consequence become necessary — strategies aimed at **conflict resolution**, the reduction of disagreements that persist over time. Most conflict-resolution approaches educators use combine two moves: precisely identifying what "the" problem actually is, and reminding the student of classroom expectations with clarity and assertiveness, but without apology or harshness (Jones, 2004). Thomas Gordon's widely cited **Teacher Effectiveness Training** develops this into a four-step model.
 

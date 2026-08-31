@@ -10,6 +10,8 @@ generated:
 
 # Teaching Styles as Warmth and Control
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 For many years, warmth and control were treated as opposite ends of a single continuum — a teacher who chose to be warm could not also be in control, and vice versa. Soar and Soar (1983) proposed instead that warmth and control are two independent dimensions that can occur in any combination and to any degree, each measured by its own set of classroom behaviors. **Control** runs from low (student spontaneity, risk-taking, student-initiated responses) to high (teacher talk, task orientation, teacher authority). **Warmth** runs from low (frequent reference to formal rules and procedures, punishment, criticism, scolding, reprimanding) to high (praise and rewards, use of student ideas, responsiveness to student requests). Crossing the two dimensions yields four teaching-style profiles:
 

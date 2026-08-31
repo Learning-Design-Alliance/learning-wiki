@@ -10,6 +10,8 @@ generated:
 
 # Conditioning Natural Reinforcers
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A **natural reinforcer** is a reinforcer naturally present in the setting where a behavior occurs — grades in classrooms, the applause of fans on a ballfield, money in the workplace, story hour or parental attention at home. Skinner's own definition is more specific: a natural reinforcer is a change in stimulation that results from the behavior itself, rather than from another person's delivered consequence. The pleasurable sound of hitting the correct piano keys, or a first-grader's satisfaction at seeing correctly formed letters appear on the page, are natural reinforcers in this stricter sense — the behavior's own product is what reinforces it, with no external praise or reward required. Children who enjoy solving puzzles, writing poetry, or reading novels are being naturally reinforced in this way.
 

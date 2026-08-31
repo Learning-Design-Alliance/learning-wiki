@@ -1,71 +1,76 @@
 ---
 type: strategy
 title: Flipped Learning
-description: Flipped learning is a pedagogical approach that reverses the traditional learning environment by delivering instructional content, often via pre-recorded videos or other materials, outside of class, and using class time for active…
+description: Flipped learning delivers first-exposure instruction outside class (typically via video) and repurposes class time for active, instructor-facilitated application and problem-solving.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Flipped Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-Flipped learning is a pedagogical approach that reverses the traditional learning environment by delivering instructional content, often via pre-recorded videos or other materials, outside of class, and using class time for active learning activities such as discussions, problem-solving, and group projects. Learners gain initial exposure to new concepts individually before class, enabling the classroom to become a dynamic, interactive environment where the instructor guides students as they apply concepts and engage creatively with the subject matter. This approach shifts students from passive recipients to active constructors of knowledge.
+Flipped learning reverses the traditional sequence: learners encounter new content individually before class — usually through short recorded videos, readings, or podcasts — and class time is devoted to active learning such as problem-solving, discussion, and group work with the instructor present to coach. The design logic is that first exposure is well suited to individual study (it can be paused, replayed, and self-paced), while application benefits most from expert support and peer interaction. Flipping only the logistics is insufficient; the approach depends on what class time is *used for*, not merely on moving lectures online.
 
 ## Design Implications
 
+Flipped learning works because it pairs self-paced first exposure with in-class [Active Learning](../principles/active-learning.md), which reliably improves exam performance over lecture-only formats [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]. Meta-analytic evidence across disciplines shows moderate positive effects on achievement and consistently positive effects on engagement and satisfaction when implementation is faithful to the model [~S]. The pre-class materials function as [Demonstration](../elements/demonstration.md)-style first exposure; their value is realized only if class time requires application rather than re-teaching.
+
 ### Context
 #### Requirements
-- Requires the creation or curation of pre-class learning materials (e.g., videos, readings, podcasts). Class time must be structured to facilitate active learning and interaction. Instructor must be prepared to guide and facilitate student activities rather than lecture.
+- Short, focused pre-class materials (ideally under ~10 minutes per video, segmented by topic) with embedded questions or accountability checks
+- Structured in-class activities that depend on the pre-work — problems, [Case Study](../elements/case-study.md) analysis, [Class Discussion](../elements/class-discussion.md), or [Application](../elements/application.md) tasks students cannot complete without preparation
+- A low-stakes accountability mechanism (entry quiz, warm-up problem) that surfaces who did the pre-work and where misconceptions lie
+- Instructor readiness to facilitate and [Coaching](../elements/coaching.md) rather than re-lecture
+
 #### Constraints
-- Can be time-consuming to set up initially due to the creation of pre-class materials. Requires students to engage with pre-class materials, which may not always happen. May not be suitable for all subjects or learners without careful planning and implementation. Reliance on pre-class quizzes may shift learner focus from understanding to test performance.
+- Pre-class compliance is the dominant failure mode: when students arrive unprepared, instructors re-teach and the model collapses into expensive lecture [~M]
+- Video-only pre-work watched passively produces shallow encoding; embedding questions and requiring [Self-Explanation](../elements/self-explanation.md) notes mitigates this [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
+- Over-reliance on pre-class quizzes can shift learner focus from understanding to test performance [~W]
+- Initial production cost is high; effects in math and engineering are weaker than in language, technology, and health sciences without careful activity design [~M]
+- Students with poor time management or low [Self-Regulated Learning](../theories/self-regulated-learning.md) skills need scaffolds (deadlines, check-ins) or they fall behind before class even begins
+
 #### Implementation Variability
-- <!-- TODO -->
+- Partial flips: flipping only selected units, or using a "flipped-mastery" model where students progress on demonstrated competency (Bergmann & Sams's original formulation)
+- First-exposure modality varies: video, annotated readings, podcasts, or interactive simulations; video is common but not essential
+- In-class structure ranges from loosely facilitated group work to tightly scripted peer instruction cycles with clicker questions
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Secondary and higher education learners across various disciplines, adaptable for skills-based courses (language, technology, health sciences) and potentially less effective in math and engineering courses without careful design.
+- Secondary and higher-education learners across disciplines; strongest documented gains in language, technology, and health-science courses [~S]
+- Students who benefit from self-paced first exposure — the ability to pause and replay supports learners who need more processing time
+- Less effective by default for students with weak study habits or low prior knowledge, who need explicit guidance on how to use pre-class materials [~M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Enhance student engagement, deepen understanding of content, promote active participation, improve interpersonal skills, develop metacognitive abilities, foster collaboration and communication skills.
-
-### Affordances
-- Allows students to learn at their own pace and revisit material as needed. Frees up class time for interactive activities and personalized guidance. Encourages deeper understanding and application of knowledge through active learning. Increases student engagement and satisfaction.
-
-### Personalization
-- Can be tailored to different learning styles and needs by providing a variety of pre-class materials (videos, readings, audio). In-class activities can be designed to cater to different levels of understanding and learning preferences. Instructors can offer personalized support and feedback during class time.
+- Application and higher-order thinking: class time is spent analyzing, solving, and creating rather than receiving
+- Conceptual understanding built through in-class [Collaborative Learning](../principles/collaborative-learning.md) and discussion
+- Self-regulation: managing pre-class preparation develops time management and study strategies [~W]
+- Procedural fluency through guided in-class practice with immediate instructor feedback
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Pre-Class Video/Lecture](../elements/pre-class-videolecture.md)
-- [In-Class Activities](../elements/in-class-activities.md)
-- [Formative Assessment](../elements/formative-assessment.md)
-- [Peer Collaboration](../elements/peer-collaboration.md)
-- [Case Study](../elements/case-study.md)
-- [Class Discussion](../elements/class-discussion.md)
-- [Decision-Making](../elements/decision-making.md)
-- [Reflection](../elements/reflection.md)
-- [Application](../elements/application.md)
-
-## Assessment Evidence
-- Improved performance on exams and assignments measuring foundational knowledge, higher-order thinking, and applied skills. Enhanced student engagement and identification with the course or discipline. Development of metacognitive skills (time management, learning strategies). Increased student satisfaction with the course and instruction.
-
-## Impact
-- Meta-analysis of 317 studies (51,437 participants) shows that flipped classrooms can lead to better academic performance, improved interpersonal skills, increased student engagement, and enhanced metacognitive abilities, especially in language, technology, and health-science courses. The impact varies based on discipline and geographic location.
+1. Produce or curate short pre-class materials that present the concept with worked demonstrations ([Demonstration](../elements/demonstration.md)); segment topics and keep each segment focused.
+2. Attach a brief accountability task — embedded questions or an entry quiz ([Assessment](../elements/assessment.md)) — that students complete before class.
+3. Open class with a quick check of pre-work understanding; address only the most common misconceptions, briefly.
+4. Run the main in-class activity: problem sets, [Case Study](../elements/case-study.md) analysis, or structured [Class Discussion](../elements/class-discussion.md) that requires applying the pre-class content.
+5. Circulate and coach, giving feedback at the task and process level [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+6. Close with individual or group [Reflection](../elements/reflection.md) — a minute-paper or exit ticket connecting the activity back to the pre-class material.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Peer Instruction](peer-instruction.md) — a common in-class engine for flipped courses
+- [Just-in-Time Teaching](just-in-time-teaching.md) — uses pre-class responses to shape the day's lesson
+- [Problem-Based Learning](problem-based-learning.md) — an alternative use of freed class time
 
 ## Examples
-- Michigan's Clintondale High School transformed its curriculum with flipped learning, leading to a 33% drop in failure rates. MEF University in Istanbul adopted the flipped learning model university-wide. Robert Talbert uses screencasting to teach math concepts on YouTube, providing resources for students before class.
+- **Clintondale High School (Michigan, USA)** — flipped its entire curriculum school-wide; reported substantial drops in failure rates, though as a school-wide case study rather than a controlled experiment.
+- **MEF University (Istanbul, Turkey)** — the first university to adopt flipped learning institution-wide across all programs.
+- **Robert Talbert's mathematics screencasts (YouTube, Grand Valley State University)** — a widely cited model of short, single-concept pre-class videos for calculus and linear algebra.
+- **Harvard's Peer Instruction (Eric Mazur)** — pre-class reading with online questions, class time devoted to conceptual clicker questions and peer discussion.
 
 ## Key Sources
-- <!-- TODO -->
+- Låg, T., & Sæle, R. G. (2019). Does the flipped classroom method improve academic performance in the classroom? A meta-analysis. *Frontiers in Education, 4*, 50. [doi:10.3389/feduc.2019.00050](https://doi.org/10.3389/feduc.2019.00050)
+- Strelan, P., Osborn, A., & Palmer, E. (2020). The flipped classroom: A meta-analysis of effects on student performance across disciplines and education levels. *Educational Research Review, 30*, 100314. [doi:10.1016/j.edurev.2020.100314](https://doi.org/10.1016/j.edurev.2020.100314)
+- Freeman, S., Eddy, S. L., McDonough, M., Smith, M. K., Okoroafor, N., Jordt, H., & Wenderoth, M. P. (2014). Active learning increases student performance in science, engineering, and mathematics. *PNAS, 111*(23), 8410–8415. [doi:10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111)
+- Bergmann, J., & Sams, A. (2012). *Flip your classroom: Reach every student in every class every day.* ISTE/ASCD.
+- Talbert, R. (2017). *Flipped learning: A guide for higher education faculty.* Stylus Publishing.

@@ -15,6 +15,8 @@ sources:
 
 # Community of Inquiry
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Community of inquiry is the principle that meaningful learning in collaborative settings depends on the interaction of social presence, cognitive presence, and teaching presence. It is useful when instruction relies on discussion, collaboration, and shared sensemaking rather than only individual study.
 

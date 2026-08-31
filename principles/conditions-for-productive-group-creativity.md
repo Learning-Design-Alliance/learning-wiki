@@ -15,6 +15,8 @@ sources:
 
 # Conditions for Productive Group Creativity
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 When a group creative task is genuinely open-ended (e.g., "design a building form" rather than "arrange these blocks to meet this constraint"), creative influence within the group is not automatically allocated by the merit of an idea — it can instead default to whoever has the strongest social presence. Three conditions shape whether a group converges on shared, distributed creative influence or collapses into unproductive social conflict: whether the group has enough shared domain knowledge to evaluate competing ideas, whether the physical materials are equally accessible and revisable by every member, and whether ground rules and facilitation actively distribute authority by the merit of a contribution rather than by who argues loudest or holds an assigned "expert" role.
 

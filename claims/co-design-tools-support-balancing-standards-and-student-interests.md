@@ -16,6 +16,8 @@ sources:
 
 # Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests
 
+> **Claim** · [All claims](index.md)
+
 Across a two-year co-design partnership, teachers and researchers reported that specific tools — unpacking standards, writing target explanations, collecting disaggregated student-interest data, and rehearsing unit launches with peers — each directly supported balancing the dual goals of standards coverage and student/community interest, while also producing new critical perspectives on how the process itself should change.
 
 ## Subclaims

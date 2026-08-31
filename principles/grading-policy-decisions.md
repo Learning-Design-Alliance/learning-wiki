@@ -10,6 +10,8 @@ generated:
 
 # Grading Policy Decisions
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Assigning a grade is rarely a single, self-evident calculation — it bundles several genuinely separable policy decisions, each carrying real tradeoffs.
 

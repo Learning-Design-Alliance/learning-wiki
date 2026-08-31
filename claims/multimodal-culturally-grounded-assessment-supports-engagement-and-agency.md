@@ -16,6 +16,8 @@ sources:
 
 # Multimodal, culturally grounded formative assessment supports engagement and agency
 
+> **Claim** · [All claims](index.md)
+
 When formative assessment centers embodied, creative, and culturally familiar modes of expression (movement, music, vernacular language) and is framed as ongoing dialogue rather than performance evaluation, youth engage more openly with developing ideas and are more willing to share exploratory or incomplete thinking.
 
 ## Subclaims

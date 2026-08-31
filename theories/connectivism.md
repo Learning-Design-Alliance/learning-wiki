@@ -10,6 +10,8 @@ generated:
 
 # Connectivism
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Connectivism, proposed by George Siemens (2004/2005), argues that behaviorism, cognitivism, and constructivism were all developed before digital technology reorganized how people communicate and learn, and that the conditions underlying them have shifted too far for those theories to simply be revised. Where the earlier theories differ on *how* learning happens inside a person, they share the assumption that learning is knowable and occurs inside an individual. Connectivism drops that assumption: learning can reside outside the person entirely — in an organization, a database, or a network — and the central skill is not holding knowledge but forming and maintaining the connections needed to access it when needed.
 

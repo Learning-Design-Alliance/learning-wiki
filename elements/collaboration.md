@@ -10,6 +10,8 @@ generated:
 
 # Collaboration
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Collaboration is the short-form canonical target for learners working together toward a shared product, understanding, or decision.
 

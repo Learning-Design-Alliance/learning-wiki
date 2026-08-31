@@ -17,6 +17,8 @@ sources:
 
 # Grounding and Unfolding Facilitation Moves
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 During whole-class discussion, students often volunteer higher-order contributions — a formula, a shortcut, a partially-justified calculation — before the class has collectively built the underlying concept those contributions depend on. A teacher can respond in at least three ways: jump to the procedure alongside the student (skipping the underlying concept), funnel the class toward the answer through narrowing questions (arriving at a correct-sounding formula without verifying understanding), or explicitly unfold the contribution — asking the student (or class) to articulate the concrete structure (e.g., rows, layers) that justifies it, then leverage back upward to reconnect the unfolded structure to the original higher-order idea. Only the third move reliably produces learning opportunities that let students later justify, not just state, the procedure.
 

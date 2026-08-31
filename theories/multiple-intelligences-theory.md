@@ -10,6 +10,8 @@ generated:
 
 # Multiple Intelligences Theory
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Howard Gardner (1983) proposed that intelligence is not the single general factor ("g") that Charles Spearman and earlier theorists described, but a set of at least eight relatively independent intelligences — commonly listed as linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalistic. Gardner (1999) later proposed a ninth, **existential** intelligence, which he himself notes "has yet to experience full acceptance by educators in the classroom." A person typically excels in some of these and not others, which is a direct challenge to instructional designs that treat "ability" as a single scale a learner sits somewhere on.
 

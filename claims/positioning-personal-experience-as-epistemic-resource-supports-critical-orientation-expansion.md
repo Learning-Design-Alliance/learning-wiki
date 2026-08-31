@@ -16,6 +16,8 @@ sources:
 
 # Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations
 
+> **Claim** · [All claims](index.md)
+
 When instruction treats learners' personal, lived experience with a technology or topic as a legitimate starting point for disciplinary analysis — rather than a motivational hook set aside once "real" content begins — learners are more likely to extend individual ("inward") concerns into systemic, collective ("outward") critique.
 
 ## Subclaims

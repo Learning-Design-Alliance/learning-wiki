@@ -15,6 +15,8 @@ sources:
 
 # Goal Setting
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Goal setting is the element in which learners or instructors establish clear targets for performance, progress, or improvement. It is useful when visible goals help focus effort, strategy choice, and persistence.
 

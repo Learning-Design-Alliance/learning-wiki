@@ -10,6 +10,8 @@ generated:
 
 # Social Learning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
 

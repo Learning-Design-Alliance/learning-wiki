@@ -23,6 +23,8 @@ sources:
 
 # Demonstration
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A demonstration presents a complete or partial model of a skill, process, or solution so learners can observe expert performance before attempting it themselves. The instructor or system makes thinking visible — articulating what is being done and why — rather than simply showing the end result.
 

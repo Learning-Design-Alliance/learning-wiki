@@ -17,6 +17,8 @@ grain_size: lesson
 
 # Merrill's First Principles (Activation)
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 This page is the short-form canonical target for the activation move within Merrill's First Principles: prompting learners to recall or connect relevant prior knowledge before new instruction or application.
 

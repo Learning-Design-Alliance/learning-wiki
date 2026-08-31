@@ -10,6 +10,8 @@ generated:
 
 # Student-Teams Achievement Divisions (STAD)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Student-Teams Achievement Divisions (STAD; Slavin, 1994) is a cooperative-learning technique built around teams of 4-5 students. The teacher presents a lesson or unit to the whole class and later tests students on it individually, but grades are based partly on each student's own **improvement** and the team's collective improvement, not solely on absolute test performance. Team members work together during the lesson to help each other improve as much as possible, then take the actual test as individuals — combining team-based preparation with individual accountability at assessment time.
 

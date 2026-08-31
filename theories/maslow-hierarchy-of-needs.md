@@ -10,6 +10,8 @@ generated:
 
 # Maslow's Hierarchy of Needs
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Abraham Maslow proposed that human motivation is organized into a hierarchy of five need levels, in ascending order of "prepotency": **physiological** needs (food, water, sleep — "the most pre-potent of all needs"), **safety** (structure, order, security, freedom from danger and chaos), **love/belonging** (friends, family, group identification, intimate relationship), **esteem** (both strength/achievement/confidence and earned respect/recognition from others — Maslow is explicit that esteem "must come from earned respect and not from fame or social status"), and **self-actualization** (growth and self-improvement, which Maslow described as rare). Maslow also discussed a **desire to know and understand** as a separate cognitive drive, prepotent in itself (the desire to know precedes the desire to understand), but he treated it as distinct from, not a sixth member of, the core five-level hierarchy.
 

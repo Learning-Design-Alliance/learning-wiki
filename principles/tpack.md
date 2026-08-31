@@ -10,6 +10,8 @@ generated:
 
 # TPACK (Technological Pedagogical Content Knowledge)
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 TPACK (Koehler & Mishra, 2009) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
 

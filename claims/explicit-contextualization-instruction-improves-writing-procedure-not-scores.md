@@ -16,6 +16,8 @@ sources:
 
 # Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves
 
+> **Claim** · [All claims](index.md)
+
 In a quasi-experiment with 140 university L2 history students, explicit instruction in historical contextualization did not raise contextualization rubric scores relative to a content-matched active control, but it unexpectedly improved claim-writing and shifted how (not how much) students used and placed contextualization in their essays.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Designing a Valid Experiment
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 An experiment, in the scientific sense, has precise requirements that everyday use of the word "experiment" doesn't imply. The most basic design involves an **experimental group** and a **control group**, built to be identical except for one deliberate difference — the **experimental manipulation** (the treatment or variable being tested). Because that manipulation is the only planned difference between the groups, any resulting difference in outcome can be attributed to it rather than to chance. Manipulated variables need an **operational definition** — a precise description of how the variable is actually measured — so that other researchers can understand exactly what was measured and can repeat the study if they choose to.
 

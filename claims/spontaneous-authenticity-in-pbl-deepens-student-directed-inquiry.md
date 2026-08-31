@@ -16,6 +16,8 @@ sources:
 
 # Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves
 
+> **Claim** · [All claims](index.md)
+
 Problem-based learning curricula are typically written to be authentic in advance ("contrived" authenticity — realistic scenarios embedded in the design), but when a teacher instead departs from the written sequence to respond to an unplanned, spontaneous real-world event connected to the unit's driving question, students can show deeper self-directed inquiry and engagement than the designed lessons produced — provided the teacher has both the curricular flexibility and the professional autonomy to make that departure.
 
 ## Subclaims

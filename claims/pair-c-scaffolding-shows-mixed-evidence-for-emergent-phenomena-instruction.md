@@ -16,6 +16,8 @@ sources:
 
 # PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction
 
+> **Claim** · [All claims](index.md)
+
 Explicitly scaffolding the contrast between emergent (decentralized, collective) and sequential (individualistic, cumulative) causal structure — the [PAIR-C framework](../patterns/pair-c-framework.md) — produced a statistically significant advantage on near-transfer tasks, a non-significant trend on deep-understanding questions, and no far transfer, in one quasi-experimental study.
 
 ## Subclaims

@@ -16,6 +16,8 @@ sources:
 
 # Multivoiced boundary crossing supports holistic nature connection and ethical reflection
 
+> **Claim** · [All claims](index.md)
+
 A bioart-making project structured to cross institutional, interpersonal, and intrapersonal boundaries let students engage nature across material, experiential, cognitive, emotional, and philosophical dimensions simultaneously rather than sequentially, with material/sensory encounters prompting spontaneous ethical reflection about organism use.
 
 ## Subclaims

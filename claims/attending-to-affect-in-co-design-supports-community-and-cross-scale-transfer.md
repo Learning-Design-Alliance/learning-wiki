@@ -16,6 +16,8 @@ sources:
 
 # Attending to affect in co-design supports community formation and cross-scale transfer
 
+> **Claim** · [All claims](index.md)
+
 When a co-design process deliberately affirms educators' affective and relational experience — through ritualized check-ins, shared contemplative practice, and reflective field-note protocols — educators report a stronger sense of community, apply what they learn across personal, classroom, and systems-level scales, and the design object itself expands from an individual course toward a collective vision for systems change.
 
 ## Subclaims

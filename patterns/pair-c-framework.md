@@ -17,6 +17,8 @@ sources:
 
 # PAIR-C Framework (Pattern, Agents, Interactions, Relations, Causality)
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 PAIR-C is a scaffolding framework for teaching emergent phenomena — systems where a macro-level pattern (e.g., a species' traits changing over generations, an ant colony's foraging trails) arises from many decentralized, uncoordinated micro-level interactions with no controlling agent. Learners typically default to a sequential-process schema (a single agent causing change in a step-by-step, cumulative way) when reasoning about these phenomena, producing well-documented misconceptions such as teleological reasoning ("organisms choose to evolve") and anthropomorphism. PAIR-C makes the contrast between emergent and sequential causal structure explicit through five dimensions: **Pattern** (the macro-level, system-wide change), **Agents** (the individual entities involved, and whether control is centralized or decentralized), **Interactions** (whether agent interactions are uniform/random, simultaneous/serial, independent/dependent), **Relations** (how interaction features combine and compare), and **Causality** (how micro-level behavior sums to produce the macro-level pattern).
 

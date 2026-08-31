@@ -16,6 +16,8 @@ sources:
 
 # Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking
 
+> **Claim** · [All claims](index.md)
+
 When young children watch and interpret video of their own collaborative mathematical play, they surface sophisticated mathematical reasoning (debating definitions, noticing mathematical uniqueness) alongside social and affective dimensions of the experience (care for peers, aesthetics, fun) that a content-only lens on the same play would miss.
 
 ## Subclaims

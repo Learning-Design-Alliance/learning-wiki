@@ -10,6 +10,8 @@ generated:
 
 # Competency-Based Learning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Competency-based learning is the element in which progression is organized around demonstrated competence rather than seat time.
 

@@ -17,6 +17,8 @@ sources:
 
 # Embodied Physics Inquiry Through Dance Improvisation
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Learners physically enact physics phenomena — gravity, Newton's laws, atomic bonding — through dance improvisation and choreography, using their bodies as the primary sense-making tool rather than treating movement as an illustration of ideas already understood. The pattern was developed for high-school girls with prior training in community-based dance (ballet, krumping, stepping), and its central move is to validate whatever culturally specific movement vocabulary emerges the moment it appears, which opens the activity to broader cultural participation rather than confining it to a single, teacher-specified movement style. See [Funds of Knowledge](../theories/funds-of-knowledge.md) for the theoretical basis: the pattern treats trained bodies and movement repertoires as a fund of knowledge on par with household or community practical knowledge.
 

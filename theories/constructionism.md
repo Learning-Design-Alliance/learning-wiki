@@ -10,6 +10,8 @@ generated:
 
 # Constructionism
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Constructionism is Seymour Papert's extension of Piagetian constructivism, developed at the MIT AI Lab alongside Marvin Minsky and expressed through the Logo programming language Papert created with Wallace Feurzig (Lee, 2018). Where constructivism broadly holds that learners build understanding by connecting new experience to existing knowledge, constructionism adds a specific, stronger claim: learning is most effective when that building takes the form of constructing a **public, shareable artifact** — a program, a model, an object — that a learner can inspect, debug, show to others, and revise (Papert, 1980).
 

@@ -15,6 +15,8 @@ sources:
 
 # Narrated Emotional Storytelling in Professional Learning Communities
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 In a routine professional-learning team meeting, a facilitator or peer invites a teacher to tell a small story about a specific teaching moment, often with a prompt that explicitly references emotion (e.g., "tell us about a time you felt frustrated with a student"). The narrating teacher's story includes an explicit or semi-explicit emotional label ("I felt annoyed," "I was worried"). Colleagues then respond — the strategy's effectiveness depends on whether that response is *elaborated* (asking what triggered the emotion, what it reveals about the teacher's beliefs, offering alternative interpretations) rather than *narrow* (a brief acknowledgment or expression of solidarity) or absent. Elaborated responses turn a teacher's emotional experience into a shared object of professional inquiry, surfacing beliefs and assumptions that might not come up if the conversation stayed at the level of what the teacher thought or did.
 

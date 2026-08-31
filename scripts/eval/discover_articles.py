@@ -26,12 +26,13 @@ arXiv defaults to 0: export.arxiv.org (the host behind search_arxiv's API
 calls) serves a real, deliberate `User-agent: * / Disallow: /` for its
 entire domain (verified live — see eval/SOURCES.md), so there is no
 compliant way to query it via this script at all, not just a volume concern.
-Pass --arxiv > 0 with no --arxiv-snapshot to try the live API anyway
-(compliance.py will correctly block it; this isn't a bug to route around).
 Real arXiv coverage instead uses the officially sanctioned Kaggle bulk
 metadata snapshot (https://www.kaggle.com/datasets/Cornell-University/arxiv,
-updated weekly) — download it yourself (needs a Kaggle account API token)
-and pass --arxiv-snapshot <path to arxiv-metadata-oai-snapshot.json>; see
+updated weekly). Any --arxiv > 0 is automatically resolved to a local copy
+of that snapshot via resolve_arxiv_snapshot() — kagglehub downloads and
+caches it on first use (auth from KAGGLE_USERNAME/KAGGLE_KEY, see
+deploy/eval-harness.env.example), or pass --arxiv-snapshot <path> yourself
+to use an already-downloaded file instead; see
 build_arxiv_manifest_from_snapshot() below and eval/SOURCES.md — it's
 restricted to the physics.ed-ph category, so its real yield is small by
 design. This is a DISCOVERY step only — it
@@ -51,15 +52,107 @@ import re
 import sys
 import time
 import xml.etree.ElementTree as ET
+from datetime import date
 from pathlib import Path
 
 import requests
 
-from . import compliance
+from . import compliance, pmc_aws
 
 WIKI_ROOT = Path(__file__).parent.parent.parent
 EVAL_ROOT = WIKI_ROOT / "eval"
 TIMEOUT = 30
+
+# Committed to git (small, text, a valuable historical record) — every
+# article id that has ever reached generation (eval_harness.py run),
+# so a later discovery batch doesn't re-spend the real cost (paid model
+# calls) re-generating something already processed. Re-discovering and
+# re-fetching a previously-failed-to-fetch article is cheap and sometimes
+# even useful (a PMC article "not yet in the OA corpus" may become
+# available later) — this registry is deliberately about the expensive
+# step, not every step. Written by ingest_extractions.py after each run;
+# read by load_excluded_ids() below, alongside the original benchmark
+# manifest.json.
+#
+# "regardless of outcome" used to mean literally that — a single
+# validation_failed touch excluded an id forever, identical to a genuinely
+# successful ingest. That's wrong: a validator failure can be a transient
+# bad roll, a prompt version that later improved, or a model that just had
+# an off attempt — none of which mean the article can never become a good
+# wiki page. "ingested" and "no_new_pages" ARE genuinely done (re-running
+# either would produce a duplicate or the same no-contribution result) and
+# stay excluded unconditionally; "validation_failed" instead gets a bounded
+# number of separate batch exposures (MAX_VALIDATION_RETRY_ATTEMPTS) before
+# giving up on it for good — see load_excluded_ids() and
+# record_processed_articles().
+PROCESSED_REGISTRY_PATH = EVAL_ROOT / "corpus" / "processed_articles.json"
+
+# How many separate batch exposures (not correction-loop attempts within
+# one run — eval_harness.py's max_correction_attempts already covers that)
+# a validation_failed article gets before it's excluded for good. 3 batches
+# x up to 3 correction attempts each (this project's current default) is
+# still cheap in absolute terms (a few cents) for something that might
+# otherwise be permanently unwritable wiki content.
+MAX_VALIDATION_RETRY_ATTEMPTS = 3
+
+
+def load_processed_registry() -> dict:
+    if not PROCESSED_REGISTRY_PATH.exists():
+        return {}
+    try:
+        return json.loads(PROCESSED_REGISTRY_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def record_processed_articles(entries: dict) -> None:
+    """Merge `entries` ({article_id: {outcome, run_id, model, pages}}) into
+    the persistent registry, stamping today's date, and write it back.
+    Tracks `attempts` — incremented each time an id is recorded — so
+    load_excluded_ids() can tell "failed once, still worth trying again"
+    apart from "failed repeatedly, genuinely not going to work." Never
+    removes an existing entry; a later run touching the same id (expected
+    now for a validation_failed id under the retry cap, not just a
+    theoretical edge case) overwrites that id's outcome/run_id/model/pages
+    while carrying its attempt count forward."""
+    registry = load_processed_registry()
+    today = date.today().isoformat()
+    for article_id, info in entries.items():
+        attempts = registry.get(article_id, {}).get("attempts", 0) + 1
+        registry[article_id] = {**info, "date": today, "attempts": attempts}
+    PROCESSED_REGISTRY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    PROCESSED_REGISTRY_PATH.write_text(
+        json.dumps(registry, indent=2, sort_keys=True), encoding="utf-8"
+    )
+
+
+def load_excluded_ids() -> set:
+    """Article ids a fresh discovery pass should never re-surface: the
+    original 10-article benchmark corpus (manifest.json) plus the
+    processed-articles registry — except a validation_failed id that
+    hasn't yet used up its MAX_VALIDATION_RETRY_ATTEMPTS separate batch
+    exposures stays OUT of this set, i.e. still eligible to be found again
+    by the normal search machinery next time a matching batch runs (no
+    special resurfacing logic needed — the same query just hits it again).
+    The single source of truth for this union — both discover_articles.py's
+    own main() and run_scrape_batch.py's run() call this instead of each
+    keeping their own copy of the manifest.json-loading logic (they used
+    to; that duplication is exactly how this kind of check silently drifts
+    out of sync)."""
+    ids = set()
+    for article_id, info in load_processed_registry().items():
+        if info.get("outcome") == "validation_failed" and info.get("attempts", 1) < MAX_VALIDATION_RETRY_ATTEMPTS:
+            continue
+        ids.add(article_id)
+    manifest_path = EVAL_ROOT / "corpus" / "manifest.json"
+    if manifest_path.exists():
+        try:
+            existing = json.loads(manifest_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            existing = {}
+        existing_entries = existing if isinstance(existing, list) else existing.get("articles", [])
+        ids |= {e["id"] for e in existing_entries}
+    return ids
 
 # See the module docstring — ERIC is the majority share (purpose-built
 # education database, stays on-topic), PMC is a smaller supplementary source
@@ -150,10 +243,15 @@ PMC_ESUMMARY_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
 
 def search_pmc(query: str, retmax: int) -> list:
     """Returns manifest-shaped entries. Restricted to the PMC Open Access
-    subset via the "open access[filter]" ESearch tag — narrows results to
-    what's actually retrievable through the BioC API fetch_article.py uses,
-    though this is a best-effort filter, not a guarantee (see the prefetch-
-    verify step for the real check)."""
+    subset via the "open access[filter]" ESearch tag, then cross-checked
+    per-candidate against the PMC Article Datasets on AWS (pmc_aws.py) — the
+    ESearch flag alone is best-effort, not a guarantee (a very recently
+    published PMCID can be flagged OA before it's actually processed into
+    that dataset); `is_pmc_openaccess` in the AWS metadata is ground truth.
+    A candidate this check can't verify (network hiccup) is kept rather than
+    dropped — this is a safety net on top of the ESearch flag, not a hard
+    dependency — but one confirmed NOT in the OA subset is dropped here,
+    before it costs an ESummary call or a manifest slot."""
     search_params = {
         "db": "pmc",
         "term": f"({query}) AND open access[filter]",
@@ -167,6 +265,28 @@ def search_pmc(query: str, retmax: int) -> list:
     except (requests.RequestException, ValueError, KeyError) as e:
         print(f"  [WARN] PMC search failed for {query!r}: {e}", file=sys.stderr)
         return []
+    if not ids:
+        return []
+
+    confirmed_ids = []
+    dropped = 0
+    for uid in ids:
+        pmcid = f"PMC{uid}"
+        try:
+            aws_meta = pmc_aws.fetch_metadata(pmcid)
+        except (requests.RequestException, ValueError) as e:
+            print(f"  [WARN] Could not check {pmcid} against the PMC AWS dataset ({e}) — "
+                  f"keeping it on the ESearch flag alone.", file=sys.stderr)
+            confirmed_ids.append(uid)
+            continue
+        if aws_meta is not None and aws_meta.get("is_pmc_openaccess"):
+            confirmed_ids.append(uid)
+        else:
+            dropped += 1
+    if dropped:
+        print(f"  [pmc-oa] {query!r}: dropped {dropped}/{len(ids)} hit(s) not confirmed in the "
+              f"PMC Open Access subset.")
+    ids = confirmed_ids
     if not ids:
         return []
 
@@ -201,7 +321,7 @@ def search_pmc(query: str, retmax: int) -> list:
             "authors": authors,
             "year": year,
             "url": f"https://www.ncbi.nlm.nih.gov/pmc/articles/{pmcid}",
-            "fetch_url": f"https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/{pmcid}/unicode",
+            "fetch_url": pmc_aws.metadata_url(pmcid),
             "topic_hint": query,
         })
     return entries
@@ -412,6 +532,59 @@ def build_manifest(targets: dict, topics: list, existing_ids: set, verbose: bool
 # verified robots.txt finding).
 # ---------------------------------------------------------------------------
 
+ARXIV_KAGGLE_HANDLE = "Cornell-University/arxiv"
+ARXIV_SNAPSHOT_FILENAME = "arxiv-metadata-oai-snapshot.json"
+
+
+def resolve_arxiv_snapshot(explicit_path: str = None) -> Path:
+    """Returns a local path to the Kaggle arXiv metadata snapshot file (see
+    build_arxiv_manifest_from_snapshot()'s docstring for its format).
+
+    If explicit_path is given and actually exists, it's used as-is — this
+    lets an already-downloaded file, or a non-default location, override
+    the default. Otherwise the dataset is fetched via kagglehub, which
+    authenticates from KAGGLE_USERNAME/KAGGLE_KEY (see
+    deploy/eval-harness.env.example — already loaded into this process's
+    environment the same way OPENROUTER_API_KEY etc. are) and maintains its
+    own on-disk cache (~/.cache/kagglehub by default), so only the very
+    first call ever actually downloads anything; every call after that,
+    including every later scrape batch, resolves instantly from cache.
+    """
+    if explicit_path:
+        p = Path(explicit_path)
+        if p.is_file():
+            return p
+
+    try:
+        import kagglehub
+    except ImportError as e:
+        raise DiscoveryError(
+            f"No local --arxiv-snapshot file given/found, and kagglehub isn't installed "
+            f"(`pip install kagglehub` — already in requirements-eval.txt) to auto-download "
+            f"{ARXIV_KAGGLE_HANDLE!r}. See eval/SOURCES.md."
+        ) from e
+
+    try:
+        dataset_dir = Path(kagglehub.dataset_download(ARXIV_KAGGLE_HANDLE))
+    except Exception as e:
+        raise DiscoveryError(
+            f"kagglehub could not download {ARXIV_KAGGLE_HANDLE!r}: {e}. Check KAGGLE_USERNAME/"
+            f"KAGGLE_KEY in /etc/eval-harness.env (see deploy/eval-harness.env.example)."
+        ) from e
+
+    snapshot_path = dataset_dir / ARXIV_SNAPSHOT_FILENAME
+    if not snapshot_path.is_file():
+        candidates = list(dataset_dir.glob("*.json"))
+        if len(candidates) == 1:
+            snapshot_path = candidates[0]
+        else:
+            raise DiscoveryError(
+                f"kagglehub downloaded {dataset_dir} but couldn't find {ARXIV_SNAPSHOT_FILENAME} "
+                f"in it (found: {sorted(p.name for p in dataset_dir.iterdir())})."
+            )
+    return snapshot_path
+
+
 def build_arxiv_manifest_from_snapshot(snapshot_path: Path, topics: list, target: int,
                                         existing_ids: set, verbose: bool = True) -> list:
     """Single streaming pass over a downloaded Kaggle arXiv metadata snapshot
@@ -520,14 +693,15 @@ def main() -> None:
     parser.add_argument("--eric", type=int, default=DEFAULT_TARGETS["eric"], help="Target ERIC candidate count")
     parser.add_argument("--arxiv", type=int, default=DEFAULT_TARGETS["arxiv"],
                          help="Target arXiv candidate count (default 0 — export.arxiv.org's "
-                              "robots.txt disallows all automated access; pass --arxiv-snapshot "
-                              "to source candidates from the offline Kaggle metadata dump instead)")
+                              "robots.txt disallows all automated access; any value > 0 is sourced "
+                              "from the offline Kaggle metadata snapshot, auto-downloaded via "
+                              "kagglehub if --arxiv-snapshot isn't given — see resolve_arxiv_snapshot())")
     parser.add_argument("--arxiv-snapshot", default=None,
-                         help="Path to a downloaded Kaggle arXiv metadata snapshot "
+                         help="Path to an already-downloaded Kaggle arXiv metadata snapshot "
                               "(arxiv-metadata-oai-snapshot.json from "
-                              "https://www.kaggle.com/datasets/Cornell-University/arxiv). If given "
-                              "and --arxiv > 0, arXiv candidates come from this file instead of the "
-                              "(blocked) live API.")
+                              "https://www.kaggle.com/datasets/Cornell-University/arxiv). Omit to "
+                              "have it auto-downloaded via kagglehub instead (needs KAGGLE_USERNAME/"
+                              "KAGGLE_KEY — see deploy/eval-harness.env.example).")
     parser.add_argument("--out", default=str(EVAL_ROOT / "corpus" / "manifest_bulk.json"),
                          help="Output manifest path (default: eval/corpus/manifest_bulk.json — "
                               "deliberately NOT manifest.json, so the original 10-article benchmark stays intact)")
@@ -536,12 +710,9 @@ def main() -> None:
                               "(cache lives at eval/corpus/.discovery_cache.json)")
     args = parser.parse_args()
 
-    existing_manifest_path = EVAL_ROOT / "corpus" / "manifest.json"
-    existing_ids = set()
-    if existing_manifest_path.exists():
-        existing = json.loads(existing_manifest_path.read_text(encoding="utf-8"))
-        existing_entries = existing if isinstance(existing, list) else existing.get("articles", [])
-        existing_ids = {e["id"] for e in existing_entries}
+    existing_ids = load_excluded_ids()
+    print(f"Excluding {len(existing_ids)} already-known article id(s) "
+          f"(benchmark manifest + processed-articles registry).")
 
     topics = topics_from_wiki()
     if not topics:
@@ -550,16 +721,16 @@ def main() -> None:
     print(f"Seeded {len(topics)} search topics from theories/ + principles/.\n")
 
     targets = {"pmc": args.pmc, "eric": args.eric}
-    if args.arxiv > 0 and not args.arxiv_snapshot:
-        # No snapshot given — attempt the live API anyway via the normal
-        # per-source loop, which now degrades gracefully (warns and moves on)
-        # instead of aborting the whole run when compliance.py blocks it.
-        targets["arxiv"] = args.arxiv
     manifest = build_manifest(targets, topics, existing_ids, use_cache=not args.refresh_cache)
 
-    if args.arxiv > 0 and args.arxiv_snapshot:
+    if args.arxiv > 0:
+        # Always resolved to a local snapshot file — either the explicit
+        # --arxiv-snapshot path, or an on-demand kagglehub download/cache
+        # hit — never the live API, which export.arxiv.org's robots.txt
+        # disallows outright. See resolve_arxiv_snapshot()'s docstring.
+        snapshot_path = resolve_arxiv_snapshot(args.arxiv_snapshot)
         arxiv_entries = build_arxiv_manifest_from_snapshot(
-            Path(args.arxiv_snapshot), topics, args.arxiv,
+            snapshot_path, topics, args.arxiv,
             existing_ids | {e["id"] for e in manifest},
         )
         manifest.extend(arxiv_entries)

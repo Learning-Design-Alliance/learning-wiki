@@ -16,6 +16,8 @@ sources:
 
 # Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction
 
+> **Claim** · [All claims](index.md)
+
 Eighteen months of video-coded individual music lessons across three teacher-student dyads showed each pair converging on a distinct, self-reinforcing interaction pattern (a directive/entrenched pattern, an unsettled pattern, or a positive "flow" pattern), with a student's initially low autonomy need predicting a more directive trajectory and a sudden large increase in teacher autonomy support failing to stick when it was too far outside the dyad's established pattern.
 
 ## Subclaims

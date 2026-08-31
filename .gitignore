@@ -13,4 +13,9 @@ venv/
 eval/corpus/cache/
 eval/corpus/.discovery_cache.json
 eval/corpus/manifest_*.json
+eval/corpus/doi_resolution_cache.json
 eval/runs/
+
+# wiki_health_check.py's dated reports (regenerable) and its run-history
+# log (local trend data, not wiki content) — see scripts/wiki_health_check.py
+eval/health/

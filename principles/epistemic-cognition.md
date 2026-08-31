@@ -15,6 +15,8 @@ sources:
 
 # Epistemic Cognition
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Epistemic cognition is the principle of helping learners reason about knowledge itself: what counts as evidence, how claims are justified, how certainty should be calibrated, and how knowledge is constructed or revised. It is useful when the goal is not only to know content, but to judge the quality of arguments and evidence.
 

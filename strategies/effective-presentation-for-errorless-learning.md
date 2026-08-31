@@ -10,6 +10,8 @@ generated:
 
 # Effective Presentation for Errorless Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Behavioral scientists identify three levers a teacher controls when presenting instructional material to minimize errors and bring correct responses under reliable stimulus control (Cooper, Heron, & Heward, 1987; Englemann, 1991):
 

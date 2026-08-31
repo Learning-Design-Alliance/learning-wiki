@@ -10,6 +10,8 @@ generated:
 
 # Preserve Heritage Language While Acquiring an Additional Language
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Most children worldwide grow up bilingual or multilingual; the United States is unusual in its relative monolingualism and in schooling practices that sometimes implicitly treat a student's home language as an obstacle to English acquisition rather than an asset. Bilingual proficiency ranges from balanced fluency in both languages to more uneven competence across domains, and many bilingual students in U.S. schools are in the process of losing proficiency in a heritage language while still developing English — a pattern of language attrition that research links to *slower*, not faster, English development: a strong vocabulary base in a first language facilitates rather than competes with acquiring a second (Hansen, Umeda, & McKinney, 2002). Fully proficient bilingual learners also show cognitive advantages in metalinguistic awareness — the ability to reflect on language as an object, not just use it — and in flexibility of concept expression (Jimenez, Garcia, & Pearson, 1995; Francis, 2006).
 

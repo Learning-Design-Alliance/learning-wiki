@@ -4,62 +4,71 @@ title: Process-Focused Learning
 description: Emphasizing and valuing the process of learning, rather than solely focusing on grades, promotes a growth mindset and encourages learners to embrace challenges.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Process-Focused Learning
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-Emphasizing and valuing the process of learning, rather than solely focusing on grades, promotes a growth mindset and encourages learners to embrace challenges. When learners prioritize the learning process, they are more likely to view intelligence as malleable and see effort as a path to mastery. In contrast, focusing on grades can lead learners to equate their self-worth with their academic performance, fostering a fixed mindset. Instructors should design learning experiences that highlight the importance of exploration, experimentation, and reflection. Providing opportunities for learners to make mistakes, learn from them, and revise their work can reinforce the value of the learning process. Encouraging learners to set goals, track their progress, and reflect on their learning strategies can further enhance their focus on the process of learning.
+Process-focused learning shifts attention from outcome measures (grades, scores, rankings) to the quality of the learning process itself — strategy use, revision, persistence through difficulty, and reflection. Instructors enact this by praising effort and strategy rather than ability, building revision into assessment, and making thinking and progress visible. The approach is grounded in achievement-goal and mindset research: when evaluation is task-involving rather than ego-involving, learners adopt mastery goals, take intellectual risks, and persist after setbacks [Mueller & Dweck's praise studies.](../claims/growth-mindset-improves-achievement.md) [+M].
 
 ## Design Implications
 
+Process focus changes what gets noticed and rewarded. Learners calibrate their goals to what is assessed: when only final products carry consequences, they optimize for performance and avoid difficulty; when process is explicitly valued, they engage more deeply with the material [Task-involving evaluation sustains interest better than ego-involving evaluation.](../claims/assessment-for-learning-improves-achievement.md) [+M]. The design task is to make process *visible and consequential* — through journals, drafts, revision cycles, and strategy reflection — not merely to tell learners that process matters.
+
 ### Context
 #### Requirements
-- A shift in focus from grades to learning. Design of engaging and meaningful learning activities. Opportunities for exploration, experimentation, and reflection. Supportive feedback that emphasizes the learning process.
+- Assessment structures that reward process: drafts, revisions, learning logs, and strategy reflection carrying real weight ([Assessment](../elements/assessment.md))
+- Feedback that names specific strategies and their effects, not just correctness or effort in the abstract ([Coaching](../elements/coaching.md))
+- Low-stakes opportunities to fail and recover, so mistakes are informative rather than costly
+- Explicit teaching of learning strategies, so "engage with the process" is actionable rather than vague
+
 #### Constraints
-- May require a significant shift in mindset for both learners and instructors. Some learners may initially resist a focus on the process rather than the outcome. Requires careful planning to ensure that learning activities are both engaging and aligned with learning objectives.
+- Praise for effort alone, without strategy content, can backfire — learners perceive empty effort praise as a signal of low ability [Effort praise without strategy guidance can undermine motivation.](../claims/growth-mindset-improves-achievement.md) [-M]
+- In high-stakes grading environments, process emphasis without grade reform is often ignored; learners discount what does not count
+- Can reduce motivation for learners with strong performance-approach goals who are energized by competitive outcomes [~M]
+- Requires instructor time for iterative feedback; scaling poorly designed revision cycles produces compliance, not reflection
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Learning journals / portfolios** — learners document strategies, obstacles, and revisions over time
+- **Draft-and-revision cycles** — graded improvement from draft to final, making process the object of assessment
+- **Mastery-based structures** — [Competency-Based Learning](../patterns/competency-based-learning.md) reframes grades as evidence of process completion
+- **Process-praise language** — instructors narrate strategy use ("your diagram helped you find the error") during [Coaching](../elements/coaching.md) and [Check-ins](../elements/check-in.md)
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- All learner levels, particularly those who are grade-focused or who have a fear of failure
+- Learners who are grade-focused, anxious about failure, or avoid challenge [Task-involving evaluation sustains interest better than ego-involving evaluation.](../claims/assessment-for-learning-improves-achievement.md) [+M]
+- Novices who have not yet developed effective learning strategies and need process modeling
+- Less effective as a standalone intervention for learners with entrenched fixed-mindset beliefs unless paired with strategy instruction [~W]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Promote a growth mindset, encourage exploration, enhance self-reflection, and improve learning outcomes
-
-### Affordances
-- Encourages learners to take risks and experiment. Promotes a deeper understanding of the material. Reduces anxiety associated with grades and performance. Fosters a love of learning.
-
-### Personalization
-- Learning activities can be tailored to individual learner interests and needs. Learners can choose the pace at which they progress through the material. Instructors can provide individualized feedback that focuses on the learning process.
+- Dispositional: growth mindset, intellectual risk-taking, persistence
+- Metacognitive: strategy selection, self-monitoring, reflection on learning ([Self-Regulated Learning](../theories/self-regulated-learning.md))
+- Mastery of complex skills that require iteration, where single-attempt performance measures distort learning
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Practice](../elements/practice.md)
-- [Provide feedback](../elements/provide-feedback.md)
-- [Individual Reflection](../elements/individual-reflection.md)
-
-## Assessment Evidence
-- Track changes in learner attitudes towards learning. Measure the depth of learner understanding. Assess the quality of learner reflections. Observe changes in learner engagement and motivation.
-
-## Impact
-- Research shows that emphasizing the learning process enhances motivation, persistence, and overall learning outcomes (reference Dweck's research on mindset and learning). A focus on the process promotes a growth mindset and reduces fear of failure (reference research on resilience).
+1. Reframe assessment so process artifacts (drafts, logs, revisions) carry weight — see [Assessment for Learning](../principles/assessment-for-learning.md)
+2. Model process aloud during instruction, making strategy decisions and error recovery visible ([Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md))
+3. Build structured revision into every major task, with feedback delivered between attempts ([Practice](../elements/practice.md))
+4. Use process-focused feedback language: name the strategy, its effect, and the next adjustment ([Coaching](../elements/coaching.md))
+5. Close the loop with brief reflection — learners identify what strategies worked and what they will change ([Check-ins](../elements/check-in.md))
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Assessment for Learning](../principles/assessment-for-learning.md) — the assessment architecture that makes process consequential
+- [Self-Regulated Learning](../theories/self-regulated-learning.md) — the individual capability this strategy cultivates
+- [Competency-Based Learning](../patterns/competency-based-learning.md) — a structural alternative to grade-based evaluation
 
 ## Examples
-- Encouraging learners to keep a learning journal to reflect on their progress and challenges. Providing opportunities for learners to revise their work based on feedback. Designing project-based learning activities that require learners to explore, experiment, and solve problems.
+- **Learning journals** — learners record strategies attempted, obstacles encountered, and revisions made; the journal is assessed for depth of reflection, not polish.
+- **Draft-revision grading** — writing courses that grade improvement from first draft to final, so early errors cost nothing and revision is rewarded.
+- **[Khan Academy](https://www.khanacademy.org)** — mastery-based progress tracking rewards persistence and retrying rather than penalizing early errors.
+- **Portfolio assessment in studio art and design programs** — process books documenting iterations are graded alongside final pieces, making experimentation visible and valued.
 
 ## Key Sources
-- <!-- TODO -->
+- Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. *Journal of Personality and Social Psychology, 75*(1), 33–52. [doi:10.1037/0022-3514.75.1.33](https://doi.org/10.1037/0022-3514.75.1.33)
+- Butler, R. (1988). Enhancing and undermining intrinsic motivation: The effects of task-involving and ego-involving evaluation on interest and performance. *British Journal of Educational Psychology, 58*(1), 1–14. [doi:10.1111/j.2044-8279.1988.tb00874.x](https://doi.org/10.1111/j.2044-8279.1988.tb00874.x)
+- Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
+- Dweck, C. S. (2006). *Mindset: The new psychology of success.* Random House.
+- Grant, H., & Dweck, C. S. (2003). Clarifying achievement goals and their impact. *Journal of Personality and Social Psychology, 85*(4), 541–553. [doi:10.1037/0022-3514.85.3.541](https://doi.org/10.1037/0022-3514.85.3.541)

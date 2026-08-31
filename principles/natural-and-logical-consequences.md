@@ -10,6 +10,8 @@ generated:
 
 # Natural and Logical Consequences
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Two kinds of consequences are especially effective for influencing student behavior. **Natural consequences** happen on their own, without anyone's deliberate intention — a student late for class naturally misses information needed for an assignment. **Logical consequences** happen because of another person's response or decision, but retain an obvious, "logical" relationship to the original action — a student who steals another's lunch reimburses its cost. The two are often woven together: a student who picks a fight risks a natural consequence (injury, to either party) and a logical one (losing friends, as others respond to the fighting). Research finds both kinds of consequences effective at minimizing undesirable behavior when applied in appropriate situations (Weinstein, Tomlinson-Clarke, & Curran, 2004): a student who runs in the halls has "traffic accidents" and (hopefully) learns running there isn't safe; a student who chronically talks instead of working has to make up the assignment as homework. In either case, the two features that make a consequence work are that it is proportionate to the misbehavior, and that the student understands the connection between the consequence and the original behavior.
 

@@ -19,6 +19,8 @@ sources:
 
 # Memory Consolidation
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Memory consolidation is the principle of designing instruction so that learning is stabilized across time rather than treated as secure after one exposure. It matters when durable retention depends on revisiting, retrieving, and integrating material across multiple encounters.
 
@@ -75,5 +77,5 @@ Memory consolidation matters because initial understanding is not the same as du
 **Interleaved return to core ideas** — A unit repeatedly returns to foundational concepts in new contexts, helping learners stabilize and integrate them over time.
 
 ## Key Sources
-- Dudai, Y. (2004). The neurobiology of consolidations. *Neuron, 44*(1), 93-112. [https://doi.org/10.1016/j.neuron.2004.09.007](https://doi.org/10.1016/j.neuron.2004.09.007)
+- Dudai, Y. (2004). The neurobiology of consolidations. *Neuron, 44*(1), 93-112. [https://doi.org/10.1146/annurev.psych.55.090902.142050](https://doi.org/10.1146/annurev.psych.55.090902.142050)
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks. *Psychological Bulletin, 132*(3), 354-380. [https://doi.org/10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)

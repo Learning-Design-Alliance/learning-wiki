@@ -16,6 +16,8 @@ sources:
 
 # Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it
 
+> **Claim** · [All claims](index.md)
+
 Discourse analysis of nine whole-school intervention sessions over a school year found that teachers' stabilizing talk about students persisted even in the face of contrary evidence (surprises were usually reframed as exceptions), but that a specific discursive pattern — reflexive noticing — later emerged and correlated with a large, independently quantified increase in positive framing of students.
 
 ## Subclaims

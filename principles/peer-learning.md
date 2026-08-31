@@ -19,6 +19,8 @@ sources:
 
 # Peer Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Peer learning is the principle that learners can deepen understanding by explaining, questioning, modeling, and responding to one another. It is useful when learners can benefit from articulating ideas and encountering alternate explanations at a similar level of expertise.
 

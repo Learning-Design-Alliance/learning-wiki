@@ -17,6 +17,8 @@ grain_size: unit
 
 # Problem-Based Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Problem-Based Learning uses an authentic or ill-structured problem to drive inquiry, knowledge building, and solution development. This page serves as the canonical short-form target for links that refer to PBL without the explicit acronym.
 

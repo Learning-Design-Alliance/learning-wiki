@@ -12,6 +12,8 @@ grain_size: lesson
 
 # Gagné's 9 Events
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Gagné's 9 Events is a lesson pattern that sequences attention, objectives, recall, presentation, guidance, practice, feedback, assessment, and transfer. This page serves as the canonical short-form pattern target for pages that reference the nine-event lesson arc.
 

@@ -17,6 +17,8 @@ sources:
 
 # Interdisciplinary Course-Based Research Experience
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 A Course-Based Research Experience (CBRE) has a whole class work on authentic, open research instead of individually supervised capstone projects. This pattern adapts CBRE for interdisciplinary contexts by deliberately recruiting students across disciplines and levels (undergraduate and graduate together) and organizing the course around a **shared scientific paper as a boundary object** that different students engage differently depending on their own discipline, while the class collectively builds a shared understanding of what counts as a strong research paper across disciplines. It extends [Productive Disciplinary Engagement](../principles/inquiry-based-learning.md) (Engle & Conant's four supports: problematizing, granting authority, holding accountable, providing resources) into what the source study calls **Productive Syncretic Engagement (PSE)**: instead of committing learners to one discipline's problem-framing, authority structure, accountability norms, and resources, the course explicitly asks them to explore, weigh, and negotiate *among* different disciplines' versions of each.
 

@@ -10,6 +10,8 @@ generated:
 
 # Expertise Reversal Effect
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 The expertise reversal effect is the idea that instructional guidance that helps novices can become redundant or counterproductive as learner expertise increases.
 
@@ -18,4 +20,4 @@ The expertise reversal effect is the idea that instructional guidance that helps
 - [Information Processing Theory](information-processing-theory.md)
 
 ## Key Sources
-- Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31.
+- Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23-31. [doi:10.1207/s15326985ep3801_4](https://doi.org/10.1207/s15326985ep3801_4)

@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones
 
+> **Claim** · [All claims](index.md)
+
 Teacher effectiveness, tracked as a growth or value-added measure rather than a single-year snapshot, produces large downstream differences in student outcomes — and the students most likely to benefit from an effective teacher are, on average, less likely to actually get one across consecutive years.
 
 ## Subclaims

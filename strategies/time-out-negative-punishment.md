@@ -10,6 +10,8 @@ generated:
 
 # Time-Out (Negative Punishment)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Time-out operates on the principle of **negative punishment**: removing a pleasant stimulus to decrease a behavior. When a child displays an undesirable behavior, the child is removed from the desirable activity at hand and placed somewhere less desirable for a brief period, then returned to ordinary activity. Time-out is one instance of a broader category of negative consequences called **exclusion** — removing a learner from one setting and placing them in another.
 

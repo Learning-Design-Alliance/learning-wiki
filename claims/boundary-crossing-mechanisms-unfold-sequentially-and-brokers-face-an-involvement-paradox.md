@@ -16,6 +16,8 @@ sources:
 
 # Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox
 
+> **Claim** · [All claims](index.md)
+
 A five-year case study of a school-university research partnership found that boundary-crossing mechanisms (coordination, identification, reflection, transformation) emerged in sequence rather than in parallel across institutional, interpersonal, and intrapersonal levels, that research topics needed visible connection to school priorities to sustain teacher engagement, and that the brokers who made the partnership work also, through their own centrality, limited broader involvement.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Self-Determination Theory
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Self-determination theory is used here as a principle emphasizing autonomy, competence, and relatedness as conditions that support motivation.
 

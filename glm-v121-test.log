@@ -1,0 +1,24 @@
+nohup: ignoring input
+Run ID: glm-5.3-flash-v121-test  (results under eval/runs/glm-5.3-flash-v121-test)
+[z-ai/glm-5.3-flash / arxiv-1602.07032] Unbounded Human Learning: Optimal Scheduling for Spaced Repe
+[1/10] z-ai/glm-5.3-flash/arxiv-1602.07032 latency=81.12s cost=$0.003248 contributions=10 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / arxiv-2105.15106] A Survey of Knowledge Tracing: Models, Variants, and Applica
+[2/10] z-ai/glm-5.3-flash/arxiv-2105.15106 latency=89.15s cost=$0.003139 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / arxiv-2409.16490] Exploring Knowledge Tracing in Tutor-Student Dialogues using
+[3/10] z-ai/glm-5.3-flash/arxiv-2409.16490 latency=52.98s cost=$0.002915 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed599273] Retrieval-Based Learning: A Decade of Progress
+[4/10] z-ai/glm-5.3-flash/eric-ed599273 latency=78.27s cost=$0.003058 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ej1327865] The Effects of Retrieval Practice Across Levels of Thinking 
+[5/10] z-ai/glm-5.3-flash/eric-ej1327865 latency=62.57s cost=$0.002837 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ej1276025] Cognitive Load in Solving Mathematics Problems
+[6/10] z-ai/glm-5.3-flash/eric-ej1276025 latency=72.73s cost=$0.003261 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed491961] The Effectiveness of Worked Examples in a Game-Based Learnin
+[7/10] z-ai/glm-5.3-flash/eric-ed491961 latency=66.64s cost=$0.002079 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-9083074] Fostering Self-Regulated Learning in Online Environments: Po
+[8/10] z-ai/glm-5.3-flash/pmc-9083074 latency=60.73s cost=$0.002926 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-4237043] Self-Controlled Feedback Is Effective If It Is Based on the 
+[9/10] [GEN ERROR] z-ai/glm-5.3-flash/pmc-4237043: Empty completion from z-ai/glm-5.3-flash (finish_reason=error).
+[z-ai/glm-5.3-flash / pmc-5932263] Self-Regulated Learning of Important Information under Seque
+[10/10] z-ai/glm-5.3-flash/pmc-5932263 latency=31.73s cost=$0.002933 contributions=8 completeness=1.0 passed=True
+
+Done. Run report with: python3 scripts/eval_harness.py report --run-id glm-5.3-flash-v121-test

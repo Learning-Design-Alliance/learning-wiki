@@ -15,6 +15,8 @@ sources:
 
 # Mechanistic Reasoning
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Drawn from philosophy of science (Machamer, Darden & Craver, 2000) and operationalized in science education research (Russ et al., 2008), mechanistic reasoning treats a good scientific explanation as one that answers a "how" question: it identifies lower-level entities, their properties, and the causal chain that links a cause to its effect. This is distinguished from **teleological explanations** (explaining a biological trait by its function or purpose, e.g., "so that the plant can survive") and **circular explanations** (restating the effect as its own cause). In biology especially, teleological and mechanistic reasoning compete, and learners — including young children — can be taught to recognize which type of explanation a question actually calls for.
 

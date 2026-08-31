@@ -16,6 +16,8 @@ sources:
 
 # External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot
 
+> **Claim** · [All claims](index.md)
+
 When a sixth-grade class's computational simulation of particle diffusion could not visually distinguish between a correct theory and a plausible but incorrect "infect" theory, a physical evaporation experiment that directly tested the underlying particle-level claim shifted a substantial share of students away from the incorrect theory.
 
 ## Subclaims

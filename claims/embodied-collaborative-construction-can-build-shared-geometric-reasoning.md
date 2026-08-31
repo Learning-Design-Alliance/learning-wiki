@@ -16,6 +16,8 @@ sources:
 
 # Embodied collaborative construction can build shared geometric reasoning
 
+> **Claim** · [All claims](index.md)
+
 When a group physically constructs a complex geometric structure without instructions, individual members' perceptual insights — communicated through combined gesture, speech, and material action — can sediment into shared, reusable structural concepts that the group later uses for formal geometric reasoning.
 
 ## Subclaims

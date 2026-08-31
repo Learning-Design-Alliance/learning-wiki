@@ -16,6 +16,8 @@ sources:
 
 # Positioning students as sources increases productive participation in science discourse
 
+> **Claim** · [All claims](index.md)
+
 When a teacher positions students who invoke everyday experiences as accountable "sources" of information — rather than as "listeners" seeking validation — students produce more arguments and counter-arguments and a wider range of students engage, compared to sequences where the teacher retains sole authority over the correct answer.
 
 ## Subclaims

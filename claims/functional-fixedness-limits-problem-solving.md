@@ -16,6 +16,8 @@ sources:
 
 # Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.
 
+> **Claim** · [All claims](index.md)
+
 Functional fixedness is a tendency to regard the functions of objects and ideas as fixed — over time, people become so used to one particular purpose for an object that they overlook its other possible uses (a dictionary is "for" checking spelling, even though it could equally serve as a doorstop or gift). The same fixedness applies to how a problem itself is framed, not only to physical objects.
 
 ## Subclaims

@@ -16,6 +16,8 @@ sources:
 
 # Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum
 
+> **Claim** · [All claims](index.md)
+
 Undergraduate physics Learning Assistants who developed a shared model of why a research-based tutorial curriculum's activities and question sequences were designed as they were subsequently made six distinct, responsive instructional moves — such as choosing when to intervene, referring students to other sections, and inventing on-the-fly activities — that they explicitly attributed to that knowledge.
 
 ## Subclaims

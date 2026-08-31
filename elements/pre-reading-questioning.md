@@ -10,6 +10,8 @@ generated:
 
 # Pre-Reading Questioning
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Pre-reading questioning is the element in which learners preview a text through guiding questions before or during initial reading.
 

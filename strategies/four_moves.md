@@ -1,65 +1,44 @@
 ---
 type: strategy
 title: Four Moves
-description: If you have time to scroll Facebook or watch the news, you probably have a moment to decide if a news story seems credible.
+description: A rapid source-evaluation routine (Stop, Investigate the source, Find better coverage, Trace to the original) adapted from professional fact-checkers' practice of lateral reading.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Four Moves
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-If you have time to scroll Facebook or watch the news, you probably have a moment to decide if a news story seems credible. Ask some quick questions: Is the story so outrageous you can't believe it? Maybe you shouldn't. Is the story so outrageous you do believe it? That's also a warning sign. Many stories play on your existing beliefs. If the story perfectly confirms your worst suspicions, look for more information. Does the headline match the article? Many compelling headlines don't. Does the article match the news story it's lifted from? Many sites rewrite other news articles to fit the political slant of their presumed audience. Look for links to original sources and click through and see what the original says. Are quotes in context? Look for the sentences before and after the quote that makes your blood boil. If the article fails to give them, that's a warning sign. Is the story set in the future? It's hard to get firsthand reporting from there. Any story that tells you what will happen should be marked down 50 percent for this reason alone. Does the story attack a generic enemy? Vague denunciations of "Washington" or "the media" or "Trump supporters" or "the left" should be marked down 99 percent. Are you asked to rely on one killer factoid? Not a good idea.
+The Four Moves — popularized by Mike Caulfield as **SIFT** — are a lightweight routine for evaluating the credibility of online information: **Stop** (notice your emotional reaction and resist acting on first impressions), **Investigate the source** (read *laterally*, leaving the page to learn what others say about it), **Find better coverage** (look for trusted reporting on the claim itself rather than judging the site in isolation), and **Trace claims, quotes, and media to the original context** (find the primary study, transcript, or image). The routine is carried out in seconds to minutes using browser tabs and search, mirroring how professional fact-checkers actually work. It replaces the common classroom habit of judging a page by its own surface features — design, domain suffix, "About" page — with the practice of checking what the rest of the web says.
 
 ## Design Implications
 
+The Four Moves work because they shift evaluation from *vertical* reading (staying on the page and analyzing its features) to *lateral* reading (leaving the page to see what independent sources say), which is the observable behavior that distinguishes professional fact-checkers from historians, PhD students, and college students in evaluation tasks [Lateral reading outperforms on-page analysis for evaluating digital sources.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]. Because lateral reading relies on the collective judgment of the web rather than the learner's own domain expertise, it works even when the learner knows nothing about the topic — a decisive advantage over content-based evaluation for novices. Explicit instruction in these moves measurably improves students' evaluation of search results and social media content [Civic online reasoning instruction improves students' evaluation of digital sources.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S].
+
 ### Context
 #### Requirements
-- List of questions to evaluate news stories and examples.
+- Live internet access and basic search fluency — the moves are performed *with* the web, not from memory
+- A short list of trusted reference points (e.g., established newsrooms, Snopes, PolitiFact, AP Fact Check, Wikipedia) so "find better coverage" has somewhere to land
+- Authentic practice with real, current web content; evaluation skill does not transfer from lectures about misinformation alone
+- Brief modeling of the moves ([Think-Aloud](../elements/think-aloud.md) demonstration of a fact-checker leaving a page within seconds)
+
 #### Constraints
-- Requires critical thinking skills and attention to detail.
+- Generic source-evaluation checklists (CRAAP, RADCAB) that keep students on the page produce no measurable improvement in evaluation skill [-M] — the Four Moves must be taught as *actions in new tabs*, not as criteria to apply to the page itself
+- Novices default to vertical reading even when a page is professionally designed and deceptive [-S]; without explicit training, design polish and a .org domain reliably mislead
+- Emotionally charged content that confirms prior beliefs short-circuits the Stop move; motivated reasoning can override the routine precisely when it is most needed [~M]
+- In offline or locked-down environments where learners cannot open new tabs or search, moves 2–4 collapse and the routine degenerates into the checklist behavior it was designed to replace [-M]
+- Classroom implementations that require exhaustive investigation of every source lose the speed that makes the routine usable in real information environments [~W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Full SIFT lesson sequence**: Caulfield's open textbook provides scripted activities for each move, including reverse image search and Wikipedia "W:PT" checks
+- **Embedded practice**: short recurring warm-ups in which students apply the moves to one live story per session, rather than a standalone unit
+- **Domain adaptation**: the same moves apply to scholarly sources (trace a news claim back to the actual study) and to images/video (reverse image search, original upload tracing)
+- **Scaled-down version**: teaching only Stop + Investigate as a two-move minimum routine for younger learners
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- General audience
-
-### Target Learning Goals
-<!-- Link to sub-claims -->
-- Enable learners to quickly assess the credibility of news stories by asking critical questions.
-
-### Affordances
-- Provides a set of practical questions to evaluate news stories quickly.
-
-### Personalization
-- Can be applied to various news sources and topics.
-
-### Instructions
-<!-- Steps with links to elements -->
-- [Question Formulation](../elements/question-formulation.md)
-- [Individual Reflection](../elements/individual-reflection.md)
-- [Criteria Development](../elements/criteria-development.md)
-
-## Assessment Evidence
-- Observe learners' ability to apply the questions to evaluate news stories and identify red flags.
-
-## Impact
-- Improved critical thinking: Learners become more discerning consumers of news. Enhanced information literacy: Learners are better equipped to assess the credibility of news sources.
-
-## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
-
-## Examples
-- Evaluate a news story by checking if the headline matches the article or if the quotes are in context.
-
-## Key Sources
-- <!-- TODO -->
+- Secondary and postsecondary students, who show large gaps between confidence and actual evaluation skill [Civic online reasoning instruction improves students' evaluation of digital sources.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
+- Adult

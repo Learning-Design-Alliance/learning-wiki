@@ -10,6 +10,8 @@ generated:
 
 # Prosocial Modeling
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Bandura's observational-learning research showed that model consequences shape imitation in both directions: children who watched a model punished for aggressive behavior decreased their own aggression, while children who watched the same behavior praised or simply ignored (not punished) imitated it, including specific words and actions (Bandura, Ross, & Ross, 1961) — see [Social Learning Theory](../theories/social-learning-theory.md). Bandura concluded this dynamic has both **prosocial** (positive) and **antisocial** effects: children observe and learn from models' behavior, including parents' own conduct, and tend to copy what a model actually *does* rather than what the model merely *says* to do. Research on abuse cycles illustrates the antisocial side: children who grow up witnessing parents manage anger through violence often learn to behave the same way, and roughly 30% of abused children go on to become abusive parents themselves (Murrell, Christoff, & Henning, 2007; U.S. Department of Health & Human Services, 2013).
 

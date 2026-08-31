@@ -10,6 +10,8 @@ generated:
 
 # Expert Modeling
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Expert modeling is the element in which a skilled performer demonstrates not only what to do, but how an expert notices cues, makes decisions, and checks quality during performance. It is useful when learners need access to expert judgment that would otherwise remain tacit.
 
@@ -42,4 +44,4 @@ Expert modeling is the element in which a skilled performer demonstrates not onl
 - A clinician verbalizes why a particular diagnosis step matters while examining a case.
 
 ## Key Sources
-- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction*. Erlbaum.
+- Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction*. Erlbaum. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)

@@ -10,6 +10,8 @@ generated:
 
 # Low-Profile Classroom Control
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Rinne (1982) coined **low-profile classroom control** for coping strategies effective teachers use to stop misbehavior without disrupting a lesson's flow. It targets **surface behaviors** (Levin & Nolan, 1991) — laughing, talking out of turn, passing notes, daydreaming, not following directions, combing hair, doodling, humming, tapping — the ordinary, non-pathological behaviors of children confined to a small space with many peers, which nonetheless disrupt lesson flow and other students' work engagement if left unchecked. Low-profile control has three components:
 

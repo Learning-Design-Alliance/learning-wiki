@@ -4,61 +4,70 @@ title: Modeling Positive Self-Talk
 description: Demonstrating positive thinking skills aloud when talking about oneself and others.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Modeling Positive Self-Talk
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-Demonstrating positive thinking skills aloud when talking about oneself and others. This includes highlighting the positive aspects of situations, giving genuine compliments, and encouraging optimism, even in difficult circumstances.
+Modeling positive self-talk means the teacher, parent, or mentor deliberately verbalizes constructive internal dialogue — reframing setbacks, acknowledging effort, and expressing realistic optimism — so learners can observe how a competent adult manages their own thinking. It is a form of [Demonstration](../elements/demonstration.md) applied to affective and metacognitive skills: the "expert performance" being modeled is not a procedure but a pattern of self-directed thought.
 
 ## Design Implications
 
+Modeling works through observational learning: learners acquire attitudes, self-efficacy beliefs, and coping strategies by watching credible models [Social learning theory](../theories/social-learning-theory.md) [+M]. Verbalizing the self-talk is essential — silent optimism teaches nothing; the coping model who narrates recovery from difficulty ("This is hard, but I've done hard things before — let me try a smaller step") produces stronger self-efficacy and persistence than a mastery model who never struggles [Peer coping models raise children's self-efficacy more than mastery models.](https://doi.org/10.1037/0022-0663.77.3.313) [+S]. The modeled talk must be genuine and situationally credible; learners rapidly discount positivity that contradicts evident reality.
+
 ### Context
 #### Requirements
-- Requires conscious effort to use positive language and reframe situations. May involve self-reflection to identify and change negative thought patterns.
+- A model with perceived credibility and similarity to the learner — similarity increases attention and "I can do this too" judgments
+- Visible struggle followed by constructive reframing; a model who only succeeds teaches learners that success is the norm, not a strategy
+- Consistency across settings — a single scripted moment of positivity is discounted if the surrounding climate is critical
+- Follow-up opportunities for learners to rehearse the language themselves ([Coaching](../elements/coaching.md), role-play, or prompted reflection)
+
 #### Constraints
-- Can be perceived as insincere if not genuine. May not be effective if learners are resistant to positive thinking or feel it is unrealistic.
+- Perceived insincerity or "toxic positivity" — reframing that dismisses legitimate frustration — reduces model credibility and can increase learner cynicism [-M]
+- Ineffective when learners attribute the model's optimism to stable traits ("she's just naturally positive") rather than learnable strategies; naming the strategy explicitly ("I'm telling myself this because…") mitigates this [~M]
+- Positive self-talk alone does not build skill; paired with actual strategy instruction it supports persistence, but without competence gains it produces empty encouragement [-M]
+- Adolescents with strong resistance to adult influence may reject overt modeling; peer models are often more effective at this age [~M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Coping models vs. mastery models:** a model who initially struggles and recovers is generally more effective than one who performs flawlessly [+S]
+- **Peer self-modeling:** video of the learner's own past successful performance (e.g., in sports psychology) is a powerful variant
+- **Written modeling:** annotated think-aloud transcripts or character dialogue in curricula (e.g., SEL programs) for settings where live modeling is impractical
+- **Group-level reframing:** teachers modeling collective talk ("We haven't figured this out *yet*") to shape classroom norms rather than individual dialogue
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Educators, parents, mentors, and leaders in any setting who wish to promote positive thinking and resilience.
+- Young children and novices, who rely heavily on imitation before internalizing self-regulatory language [+M]
+- Learners with low self-efficacy after failure, for whom a coping model demonstrates that recovery is possible [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+- Less effective for learners who already use adaptive self-talk, for whom the modeling is redundant [~W]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- To influence learners' internal dialogue through observable examples.
-
-### Affordances
-- Helps learners internalize positive thinking patterns by seeing them in action. Creates a supportive and encouraging environment. Fosters a sense of optimism and resilience.
-
-### Personalization
-- Tailor the modeling to specific situations or challenges that learners face. Adjust the complexity of the language and concepts to suit the audience's age and understanding.
+- Self-regulation: internalizing monitoring and reframing language [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- Self-efficacy and resilience: building beliefs that effortful recovery from setbacks is possible
+- Social-emotional norms: establishing how the community talks about mistakes and effort
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Demonstration](../elements/demonstration.md)
-- [Provide guidance](../elements/provide-guidance.md)
-
-## Assessment Evidence
-- Observe changes in learners' language and behavior, such as increased use of positive statements or a more optimistic outlook. Gather feedback from learners about the impact of the modeling on their thinking and attitudes.
-
-## Impact
-- Research indicates that modeling positive behaviors can significantly influence others' attitudes and actions. Seeing positive self-talk in action can inspire learners to adopt similar strategies.
+1. Identify your own negative self-talk patterns in the target domain and prepare authentic reframes — the modeling must be genuine to be credible.
+2. [Demonstrate](../elements/demonstration.md) the self-talk aloud at a natural moment of difficulty, narrating both the feeling and the reframe ("I notice I'm frustrated… here's what I'm telling myself").
+3. Name the strategy explicitly so learners see it as learnable, not a personality trait.
+4. Provide guided rehearsal: prompt learners to generate their own reframes with [Coaching](../elements/coaching.md) and feedback, then fade the prompts as they self-initiate.
+5. Maintain consistency — model the same language in feedback, grading conversations, and informal moments.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the same demonstration logic applied to cognitive rather than affective self-talk
+- [Growth Mindset Framing](../strategies/growth-mindset-framing.md) — a specific content focus ("not yet") that positive self-talk modeling often carries
 
 ## Examples
-- After a bad grade on a test, say, “It’s one bad grade, and you’ll be okay. You can learn from this and get better next time. The most important thing is that you try your best.” Give genuine compliments to others freely and encourage seeing the bright side of things.
+- After returning a poor quiz, a teacher thinks aloud: "My first thought was 'I'm bad at teaching this.' But one quiz is one data point — let me look at which questions most students missed and reteach that."
+- The [PATHS curriculum](https://www.pathseducation.com) has teachers model verbal self-statements ("stop, name the feeling, make a plan") for emotional regulation in elementary classrooms.
+- Sports psychology self-modeling: athletes watch edited video of their own best performances while verbalizing the positive self-statements they used, a technique with consistent performance gains [+M].
 
 ## Key Sources
-- <!-- TODO -->
+- Bandura, A. (1977). *Social learning theory*. Prentice Hall.
+- Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman.
+- Schunk, D. H., & Hanson, A. R. (1985). Peer models: Influence on children's self-efficacy and achievement. *Journal of Educational Psychology, 77*(3), 313–322. [doi:10.1037/0022-0663.77.3.313](https://doi.org/10.1037/0022-0663.77.3.313)
+- Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of self-regulation* (pp. 13–39). Academic Press. [doi:10.1016/b978-012109890-2/50031-7](https://doi.org/10.1016/b978-012109890-2/50031-7)
+- Seligman, M. E. P. (1991). *Learned optimism*. Alfred A. Knopf.
+

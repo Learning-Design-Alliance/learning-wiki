@@ -17,6 +17,8 @@ sources:
 
 # Threading, Weaving, Patternmaking
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 A three-phase instructional sequence operationalizing [Critical Speculative Design Pedagogy](../theories/critical-speculative-design-pedagogy.md) within a standard science unit. In the source study it replaced a conventional 8th-grade physics unit on light waves with the driving question "How can and does light serve some communities and not other communities?" **Threading** cultivates sociopolitical consciousness through close, emotionally open annotation of texts that center Communities of Global Majority (e.g., racial bias in AI-driven dermatology, medical racism and melanin, workplace inequity in solar energy). **Weaving** has learners connect insights across multiple readings and their own cultural/community knowledge to recognize a pattern of bias as systemic rather than isolated. **Patternmaking** has learners produce a speculative, transdisciplinary artifact — a multimedia "Visioning Board," a poem, a visual narrative — envisioning a more just, restorative future, deliberately substituting these forms for the standard causal-explanation or conceptual-model culminating assessment.
 

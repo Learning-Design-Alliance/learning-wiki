@@ -10,6 +10,8 @@ generated:
 
 # Fuller's Concerns Theory of Teacher Development
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Fuller (1969) grew concerns theory out of analysis of recorded interview transcripts with student teachers, tracking what problems and concerns they expressed at different points in their training. The theory conceptualizes a prospective teacher's development as a natural flow from concerns for self (teacher), to task (teaching), to impact (pupil).
 

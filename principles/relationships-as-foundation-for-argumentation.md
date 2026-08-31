@@ -15,6 +15,8 @@ sources:
 
 # Relationships as Foundation for Argumentation
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Argumentation instruction is often taught as a set of discourse moves (making claims, citing evidence, responding to counterarguments) without addressing the relational conditions that make those moves possible for students to risk in the first place. This principle holds that trust and emotional safety — knowing and being known by the teacher and peers, feeling it is acceptable to be wrong and revise publicly, having space to bring one's own cultural and linguistic resources into the conversation — are a foundational layer beneath argumentation, not a separate, optional classroom-climate concern. Teachers who center this view also tend to reframe "rigor" itself: away from difficulty and volume of work, toward the depth of discourse and peer engagement a trusting classroom makes possible.
 

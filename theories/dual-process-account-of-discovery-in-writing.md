@@ -15,6 +15,8 @@ sources:
 
 # Dual-Process Account of Discovery in Writing
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 The **problem-solving account** of writing (Flower & Hayes; Bereiter & Scardamalia's knowledge-transforming) holds that discovery — the deepening of a writer's own understanding through the act of writing — happens because writers deliberately adapt content to rhetorical goals through controlled, iterative problem-solving. On this view, discovery and text quality should rise together, since both stem from the same rhetorical-planning process.
 

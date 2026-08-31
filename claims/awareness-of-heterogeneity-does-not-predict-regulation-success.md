@@ -16,6 +16,8 @@ sources:
 
 # Awareness of heterogeneous problem perceptions does not by itself predict successful regulation
 
+> **Claim** · [All claims](index.md)
+
 Even when a group member accurately recognizes that peers perceive a collaboration problem differently than they do, that awareness alone is not associated with higher satisfaction, perceived regulation success, subjective learning gain, or objective knowledge — contrary to theoretical predictions that awareness should enable groups to resolve disagreement.
 
 ## Subclaims

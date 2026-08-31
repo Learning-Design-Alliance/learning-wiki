@@ -10,6 +10,8 @@ generated:
 
 # Social Learning Theory
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Social Learning Theory, developed primarily by Albert Bandura, proposes that learning occurs not only through direct reinforcement (as behaviorism holds) but also through observation of others and the cognitive processing of those observations. The core mechanism is *modeling*: learners observe a model performing a behavior, encode the behavioral pattern, and reproduce it — with reproduction mediated by attention, retention, motor reproduction, and motivation. Bandura's Bobo doll studies (Bandura, Ross, & Ross, 1961) are the theory's signature demonstration: children who watched an adult model act aggressively toward an inflatable doll reproduced that aggression themselves. Observational learning can occur in at least three ways (Lefrançois, 2012): a learner acquires an entirely new response; a learner decides whether to imitate a model based on what happened to the model; or a learner extracts a general rule applicable beyond the specific modeled instance. Bandura distinguished three kinds of models: a **live model** demonstrates the behavior in person; a **verbal instructional model** describes or explains the behavior without performing it (e.g., a coach describing correct kicking technique); and a **symbolic model** is a real or fictional figure demonstrating behavior through media (books, film, television, video games, the internet).
 

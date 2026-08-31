@@ -10,6 +10,8 @@ generated:
 
 # Pause Procedure
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 The pause procedure is one of the simplest supplements to an otherwise unchanged lecture: pause for about two minutes every 12-18 minutes and have students discuss and rework their notes in pairs. The pause gives students a moment to consider their actual understanding of the material just covered, including how it's organized, and creates a natural opportunity for questions and clarification before the lecture continues. Despite requiring no redesign of the lecture content itself, this simple interruption has been shown to significantly increase learning compared to an uninterrupted lecture covering the same material (Bonwell & Eison, 1991; Rowe, 1980, 1986; Ruhl, Hughes, & Schloss, 1980).
 

@@ -10,6 +10,8 @@ generated:
 
 # Informal Learning
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Boileau (2019), drawing on Jay Cross, frames formal and informal learning as opposite ends of a continuum rather than a strict dichotomy. Formal learning is "pushed" to learners according to a predetermined curriculum decided by someone else — "like riding a bus: the driver decides where the bus is going; the passengers are along for the ride" (Cross, 2007, p. 236). Informal learning is "pulled" by the learner's own perceived need — "like riding a bike; the rider chooses the destination, the speed, and the route" (Cross, 2007, p. 236) — and is unofficial, self-directed, and situated in meaningful, performance-linked experience rather than separated in time and place from its application.
 

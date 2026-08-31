@@ -10,6 +10,8 @@ generated:
 
 # Standardized Test Fairness and Bias
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Whether standardized tests are biased against particular social class, racial, or ethnic groups is a genuinely complicated question, because "bias" itself has multiple distinct technical meanings. Three specific, documented mechanisms are worth separating clearly, since each implies a different fix.
 

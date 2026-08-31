@@ -10,6 +10,8 @@ generated:
 
 # Educational Readiness
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Readiness traditionally refers to a student's preparedness to cope with or profit from the activities and expectations of school — for example, whether a kindergartner is in good health, has moderately good social skills, can manage personal physical needs unsupervised, and can use a pencil to draw simple shapes. At older ages, this same idea is often called **prerequisites** instead of readiness (e.g., a student needs advanced algebra before taking physics).
 

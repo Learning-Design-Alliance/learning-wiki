@@ -16,6 +16,8 @@ sources:
 
 # A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life
 
+> **Claim** · [All claims](index.md)
+
 Over an 18-month graduate certificate program, a white, working-class elementary teacher's discourse about the engineering design process (EDP) shifted from describing it as a fixed linear sequence to describing it as nonlinear and personally-owned, and she used this reframed understanding to reclassify her own family's work as engineering, to advocate for student tinkering time in colleagues' classrooms, and to reinterpret her son's non-traditional academic path as "still STEM."
 
 ## Subclaims

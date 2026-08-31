@@ -11,6 +11,8 @@ grain_size: lesson
 
 # Peer Teaching
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Peer teaching is the short-form canonical pattern for learners teaching concepts, processes, or interpretations to one another.
 
@@ -25,4 +27,4 @@ Peer teaching is the short-form canonical pattern for learners teaching concepts
 - [Peer Instruction](peer-instruction.md)
 
 ## Key Sources
-- Fiorella, L., & Mayer, R. E. (2013). The relative benefits of learning by teaching. *Contemporary Educational Psychology, 38*(4), 281-288.
+- Fiorella, L., & Mayer, R. E. (2013). The relative benefits of learning by teaching. *Contemporary Educational Psychology, 38*(4), 281-288. [doi:10.1016/j.cedpsych.2013.06.001](https://doi.org/10.1016/j.cedpsych.2013.06.001)

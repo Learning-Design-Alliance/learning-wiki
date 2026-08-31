@@ -16,6 +16,8 @@ sources:
 
 # Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal
 
+> **Claim** · [All claims](index.md)
+
 Qualitative video/audio analysis of 14 middle-school students playing a designed fraction-based puzzle game found that nearly all progressed through at least three of the theory's five zones, that progression was consistently triggered by failure-feedback cycles, and that students used a variety of mathematical conceptualizations — not only the one the game was designed to evoke — to succeed.
 
 ## Subclaims

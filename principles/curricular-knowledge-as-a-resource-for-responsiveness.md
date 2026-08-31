@@ -15,6 +15,8 @@ sources:
 
 # Curricular Knowledge as a Resource for Responsiveness
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Responsive teaching is often framed as being in tension with structured, research-based curricula — as if following a designed sequence of activities necessarily limits a teacher's ability to attend and build on student thinking in the moment. This principle proposes an additional component of curricular knowledge, beyond knowing what materials exist: knowledge of *why* a curriculum's specific activities and question sequences are designed the way they are — what misconception each section anticipates, what conceptual tool each activity builds, and how sections relate to one another. Teachers who develop this knowledge can use a structured curriculum as a responsive partner rather than a script: deciding when to intervene or hold back, which sections to prioritize under time pressure, how to explain a stuck point using the curriculum's own designed logic, and when to deviate from the sequence because a student's actual thinking doesn't match what the curriculum anticipated.
 

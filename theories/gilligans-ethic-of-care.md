@@ -10,6 +10,8 @@ generated:
 
 # Gilligan's Ethic of Care
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Carol Gilligan, a former student of Kohlberg's, argued that his [Stages of Moral Development](kohlberg-moral-development.md) were built on all-male original samples and, in centering abstract justice, undervalued an equally legitimate moral orientation: an ethic of **care** — a system of beliefs about responsibility, interdependence, and responsiveness to the needs of others. Gilligan proposed this morality of care not as a replacement for justice reasoning but as a complementary orientation; a fully developed moral reasoner draws on both. Subsequent research has generally found no consistent gender difference in which orientation people use, which tempers Gilligan's original hypothesis that care reasoning was distinctly more common among women — but the justice-versus-care framing itself has remained a live and useful distinction in moral education independent of that empirical question.
 

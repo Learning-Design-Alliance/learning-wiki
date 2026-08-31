@@ -16,6 +16,8 @@ sources:
 
 # Teachers actively synthesize professional-development practices with their own context rather than transferring them intact
 
+> **Claim** · [All claims](index.md)
+
 When teachers bring a practice learned in professional development back to their classroom, they actively reshape it by synthesizing it with their own problems of practice, professional identity, implementation constraints, and goals — meaning two teachers from the same PD session can end up with substantially different, but each personally meaningful, versions of the same practice. This means fidelity of implementation (whether a teacher used the practice "as designed") is an incomplete lens for evaluating what teachers actually learned.
 
 ## Subclaims

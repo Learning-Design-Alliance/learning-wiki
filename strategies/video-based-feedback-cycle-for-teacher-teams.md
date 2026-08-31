@@ -15,6 +15,8 @@ sources:
 
 # Video-Based Feedback Cycle for Teacher Teams
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A teacher (or team) articulates their own inquiry question about their practice; a lesson is filmed; a facilitator (researcher or coach) selects video clips relevant to that inquiry question rather than clips chosen to evaluate the teacher; the team and facilitator watch and discuss the clips together, with the facilitator positioning their video-analysis expertise as complementary to the teachers' instructional knowledge rather than authoritative over it; the team debriefs, often spontaneously invoking outside practices or frameworks from their own prior experience or PD as they make sense of what the video shows.
 

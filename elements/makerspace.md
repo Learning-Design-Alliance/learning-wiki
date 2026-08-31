@@ -10,6 +10,8 @@ generated:
 
 # Makerspace
 
+> **Element** · [All elements](index.md)
+
 ## Description
 A makerspace is "an informal site for creative production in art, science, and engineering where people of all ages blend digital and physical technologies to explore ideas, learn technical skills, and create new products" (Sheridan et al., 2014, as cited in Dousay, 2017). Makerspaces sit at the intersection of [Constructivism](../theories/constructivism.md) (learning through social interaction, at the learner's own pace) and constructionism (Papert & Harel) — the idea that learning is strengthened specifically by making a tangible artifact.
 

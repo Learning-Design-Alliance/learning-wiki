@@ -16,6 +16,8 @@ sources:
 
 # Critical constructive feedback is neglected at multiple, independently measurable processing stages
 
+> **Claim** · [All claims](index.md)
+
 Using eye-tracking and interaction logs to separate noticing, reading, acting-upon, and progress, only 4.5% of feedback instances in a real classroom digital game survived all four stages; a pointing, gazing pedagogical agent significantly increased noticing and reading (but not acting-upon or progress), while an equivalent arrow cue did not.
 
 ## Subclaims

@@ -10,6 +10,8 @@ generated:
 
 # Digital Open Badges
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Digital badges are small digital images representing a learner's achievement within a specific domain, embedded with metadata (issuer, date, criteria/rubric, and evidence of learning) that makes what was actually learned far more transparent than a traditional grade or degree (Farmer & West, 2016). **Open** badges add a specific technical affordance on top of this: they can be exported to portable "backpacks" and displayed across institutions and platforms, rather than being locked into one issuing system — this portability is what separates them from closed badge systems like Khan Academy's or Duolingo's.
 

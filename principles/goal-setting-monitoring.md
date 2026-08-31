@@ -23,6 +23,8 @@ sources:
 
 # Goal Setting & Monitoring
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Goal setting and monitoring is the instructional principle of helping learners define specific, challenging targets and systematically tracking their progress toward those targets. This process is central to self-regulated learning (SRL), as it directs attention, mobilizes effort, and provides a framework for metacognitive evaluation [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S].
 

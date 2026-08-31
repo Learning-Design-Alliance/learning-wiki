@@ -16,6 +16,8 @@ sources:
 
 # Participant examples support identity reconstruction through academic content
 
+> **Claim** · [All claims](index.md)
+
 Over a four-month knowledge-building unit presenting national identity as a contested, multiply-defined category, one student's language use shifted from essentialist uncertainty about his own identity category membership toward a confident, constructionist stance — a shift documented through his use of an academic case as a [participant example](../elements/participant-examples.md), positioning himself as analogous to the case's subject.
 
 ## Subclaims

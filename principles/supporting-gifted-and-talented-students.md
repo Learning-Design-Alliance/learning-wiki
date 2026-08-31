@@ -10,6 +10,8 @@ generated:
 
 # Supporting Gifted and Talented Students
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 **Giftedness** traditionally refers to an IQ of 130 or higher (Lally & Valentine-French, 2015) — the upper roughly 2% of the population, given a standard deviation of about 15 points on most IQ scales. It is a common assumption that unusually high intelligence brings adjustment problems that make social relationships harder. Terman and Oden's (1959) landmark longitudinal study directly tested this: roughly 1,500 high school students scoring in the top 1% on the Stanford-Binet and similar tests (IQ ≈ 135+) were tracked for more than seven decades (subjects became known as the "Termites" and are still studied today). The study found these students were, if anything, *above* average in physical health, taller and heavier than the general population, had above-average social relationships, and were less likely to divorce. They also achieved disproportionately in prestigious professions: 7% earned doctoral degrees, 4% medical degrees, and 6% law degrees — all far above general-population base rates. A separate study of adolescents with even higher IQs found they attended graduate school at a rate more than 50 times the general population (Lubinski & Benbow, 2006). The stereotype of the socially awkward, narrowly-focused genius is not supported by this evidence (Steiner & Carr, 2003); gifted and talented students come from all economic and cultural backgrounds.
 

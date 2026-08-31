@@ -17,6 +17,8 @@ sources:
 
 # Organization Simulation for Interdisciplinary Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Students form simulated consulting organizations (e.g., HR-service companies) that compete to win a real external client's request for tenders. Teams of 11-15 students, deliberately mixed across degree programs, take on internal roles (CEO, HR head, finance head, communications head) and spend a multi-week course iteratively producing a shared, evolving offer — the course's central [knowledge object](../theories/knowledge-objects-and-knowledge-practices.md). An authentic external evaluator (a real HR professional) reviews and selects the winning offer, creating real stakes and a genuine success criterion beyond an instructor's grade.
 

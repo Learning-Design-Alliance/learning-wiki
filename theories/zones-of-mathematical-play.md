@@ -15,6 +15,8 @@ sources:
 
 # Zones of Mathematical Play
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Zones of mathematical play describes five non-linear zones players move through (and back through) while engaged in mathematical play within a well-designed digital game: **Zone 1 (Pure Play)**, enjoying actions and observing reactions without yet valuing some outcomes over others; **Zone 2 (Developing a Preference)**, experiencing failure and beginning to want to avoid it, without yet understanding what causes it; **Zone 3 (Developing Responsibility and Causality)**, recognizing that one's own actions consistently cause specific game reactions — the foundation for mathematical reasoning; **Zone 4 (Developing Anticipation)**, generating, testing, and refining explicit mathematical hypotheses about action-response relationships; and **Zone 5 (Developing the Adidactical Situation)**, drawing on prior in-game or formal-education experience to guide choices, where play connects most directly to transferable mathematical learning. The theory is grounded in Brousseau's **adidactical situations** — designed problem spaces where the environment's own feedback, not a teacher's authority, drives learning, under an implicit **didactical contract** that the task is solvable with the learner's existing knowledge. The companion construct **provocative objects** (Williams-Pierce, 2019) specifies what makes a digital environment support this kind of play; see [Provocative Objects](../elements/provocative-objects.md). Failure is treated as consistently positive-valence feedback within play, in contrast to its typically punitive framing in school mathematics.
 

@@ -15,6 +15,8 @@ sources:
 
 # Co-Design Tools for Standards and Interest Balancing
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Curriculum co-design teams often face two goals in tension: covering required standards, and connecting to what students and their communities actually find compelling. This strategy sequences a specific set of tools that make both goals visible and negotiable at the same time, rather than treating standards coverage as a fixed constraint decided in advance and student interest as an afterthought layered on top. The tools work through three interacting mechanisms: deliberation (confronting different perspectives on what standards mean and what counts as compelling), anticipation (rehearsing a unit's launch to test whether it actually elicits the intended questions), and reflection (explicit group review of how well each tool served its purpose).
 

@@ -15,6 +15,8 @@ sources:
 
 # Responsive RPP Adaptation During Disruption
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A research-practice partnership (RPP) can respond to a crisis or sudden disruption (a pandemic, a policy change, a local emergency) by deliberately pausing its predetermined research agenda and instead producing rapid-turnaround, practically useful information — a quick survey, a dashboard, a synthesis — even at the cost of publishable rigor. This works because prior investment in relational trust between researchers and practitioners, plus an embedded-researcher role that keeps researchers close to day-to-day practice, lets the partnership pivot without collapsing. Continuous, deliberate monitoring of the partnership's environment ("situational awareness" — Endsley, 1988) helps partners notice when such a pivot is needed before practitioners have to ask for it.
 

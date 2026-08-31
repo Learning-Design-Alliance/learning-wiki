@@ -10,6 +10,8 @@ generated:
 
 # Instinct, Drive, and Arousal Theories
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 These three theories represent an early, largely biological line of thinking about motivation, each superseding the last, and each still echoed in later frameworks.
 

@@ -10,6 +10,8 @@ generated:
 
 # Hugging and Bridging for Transfer
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Perkins and Salomon's research on transfer of learning identified two complementary teacher strategies for promoting positive transfer (Souza, 2016). **Hugging** encourages transfer by incorporating similarities between the learning situation and the future situations in which the learning might be used — the learning experience "hugs" its eventual application closely. **Bridging** encourages transfer by helping students find connections between what they already know and new concepts, and by abstracting existing knowledge so it generalizes — building a "bridge" across situations that are not superficially similar. Transfer itself is less a deliberate act by the learner than a product of the learning environment, which makes the teacher, as part of that environment, a direct instrument of transfer — for better or worse (Souza, 2016).
 

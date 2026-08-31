@@ -1,0 +1,991 @@
+nohup: ignoring input
+Run ID: glm-batch-1  (results under eval/runs/glm-batch-1)
+[z-ai/glm-5.3-flash / pmc-13503349] What are we really measuring? The semantic confound in psych
+[1/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13503349: PMC13503349 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13503800] Development and validation of the Life after Stroke question
+[2/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13503800: PMC13503800 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13504182] Enhancing Skeletal Health in Developmental Coordination Diso
+[3/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13504182: PMC13504182 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13501450] Education Research: Integrating AI-Enabled Interactive Case-
+[4/492] z-ai/glm-5.3-flash/pmc-13501450 latency=69.52s cost=$0.002553 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-13446272] Novel tetrazole annulation on benzopyridodiazepine derivativ
+[5/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13446272: PMC13446272 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13440763] From clay pots to graphene membranes: the evolutionary journ
+[6/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13440763: PMC13440763 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13460252] "Biodegradable caterpillar inspired soft robotic systems for
+[7/492] z-ai/glm-5.3-flash/pmc-13460252 latency=65.5s cost=$0.00283 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-13464434] Perovskite quantum dot-based fluorescent and electrochemilum
+[8/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13464434: PMC13464434 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13440585] Wine chemistry and language bottleneck hypothesis: insights 
+[9/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13440585: PMC13440585 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13436566] Beyond the lithium-ion trilemma: a six-dimension integrated 
+[10/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13436566: PMC13436566 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13502745] Safety and Effectiveness of Placental Connective Tissue Matr
+[11/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13502745: PMC13502745 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13464421] Liquid organic hydrogen carriers for hydrogen storage: advan
+[12/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13464421: PMC13464421 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13421380] Canonical Ru(ii) tris-polypyridyl complexes as confocal-comp
+[13/492] z-ai/glm-5.3-flash/pmc-13421380 latency=87.07s cost=$0.003553 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-13441050] Automated SEM-based nanoparticle metrology for materials cha
+[14/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13441050: PMC13441050 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13336028] β-Elemene Rescues Radiation-Induced Enteritis by Orchestrati
+[15/492] z-ai/glm-5.3-flash/pmc-13336028 latency=95.79s cost=$0.003895 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-13506227] The Relation of the Home Literacy Environment to White Matte
+[16/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13506227: PMC13506227 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13503623] From Presentation to Prognosis: Case-Based Learning in Pedia
+[17/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13503623: PMC13503623 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13503608] Arts engagement, active inference, and allostatic regulation
+[18/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13503608: PMC13503608 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-11253732] Time to resolution of symptoms and recovery after mild traum
+[19/492] z-ai/glm-5.3-flash/pmc-11253732 latency=47.02s cost=$0.002227 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-13335923] Fine-Tuned Regulation of mRNA Translation and Transport by S
+[20/492] z-ai/glm-5.3-flash/pmc-13335923 latency=106.81s cost=$0.004159 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / pmc-13517763] Barriers to Antiretroviral Therapy Adherence in Rural and Ur
+[21/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517763: PMC13517763 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13515021] Potential threats of porcine Getah virus outbreaks and its s
+[22/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13515021: PMC13515021 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13516682] Perceiving animacy in 'identical' images.
+[23/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13516682: PMC13516682 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13515425] Serum Metabolomic Profiling in a Neonatal Piglet Model of Pe
+[24/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13515425: PMC13515425 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13516694] Adaptive behavior is guided by integrated representations of
+[25/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13516694: PMC13516694 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517148] Artificial Intelligence and Psychophysiological Monitoring f
+[26/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517148: PMC13517148 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13515016] Biosafety, biosecurity and antimicrobial resistance containm
+[27/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13515016: PMC13515016 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13515018] Linguistic markers of deception in Arabic news headlines: A 
+[28/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13515018: PMC13515018 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13515022] Revisiting differential expression analysis: An updated six-
+[29/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13515022: PMC13515022 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13515623] Hospital-to-Home Neurological Transition Care: A Scoping Rev
+[30/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13515623: PMC13515623 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517508] From Prenatal Exposure to Adult Sexual Dysfunction: The Impa
+[31/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517508: PMC13517508 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517091] Understanding Barriers to Uptake of TB Preventive Treatment 
+[32/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517091: PMC13517091 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517812] Prenatal Exposure to Size-Fractionated Particulate Matter an
+[33/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517812: PMC13517812 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13515025] RSMA-enabled satellite-terrestrial communication networks: P
+[34/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13515025: PMC13515025 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13516740] Advancing Evidence-Based Health Innovation in Brazil: A Qual
+[35/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13516740: PMC13516740 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517002] Digital Hesitancy Among Nurses and Physicians in Anesthesia 
+[36/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517002: PMC13517002 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517873] Cross-Cultural Adaptation and Psychometric Evaluation of Gre
+[37/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517873: PMC13517873 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517675] Modelling African Swine Fever Transmission and Epidemiology:
+[38/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517675: PMC13517675 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517668] Temporal Reproducibility of Fracture Interpretation in Foren
+[39/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517668: PMC13517668 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13503427] Predicting Risk for Reading Difficulty among Spanish-English
+[40/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13503427: PMC13503427 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517137] Genotoxic, Cytotoxic, and Physiological Effects of Nano- and
+[41/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517137: PMC13517137 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13516690] Top-down feedback in deep neural networks leads to functiona
+[42/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13516690: PMC13516690 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517669] Source Apportionment of Heavy Metals in Stream Sediments fro
+[43/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517669: PMC13517669 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13516459] Parkinson's Disease: Pathophysiology, Treatment Strategies, 
+[44/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13516459: PMC13516459 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517401] Probabilistic Ecological Risk Assessment of Synthetic Musk C
+[45/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517401: PMC13517401 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517782] Microplastics-Mediated Behavior of Potentially Toxic Element
+[46/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517782: PMC13517782 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13518085] Airway Management Practices in Burn Patients: A Protocol for
+[47/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13518085: PMC13518085 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517916] Ozone Exposure Induces Pulmonary Microbiota Dysbiosis and As
+[48/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517916: PMC13517916 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517735] Progressive Resistance Exercise Training and Physical and Be
+[49/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517735: PMC13517735 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517043] Nursing Informatics Competence and Digital Health Readiness 
+[50/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517043: PMC13517043 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517265] Applications of Machine Learning in the Research of Heavy Me
+[51/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517265: PMC13517265 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517257] Self-Efficacy and Performance in Artistic Gymnastics: A Syst
+[52/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517257: PMC13517257 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517187] Basketball Players Jump and Maximal Strength Performance Imp
+[53/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517187: PMC13517187 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13516783] Embedding Resilience Activities Across an Undergraduate Phar
+[54/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13516783: PMC13516783 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13514830] Comparing Aha! Moments in Problem Solving and Generative Ide
+[55/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13514830: PMC13514830 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13515997] Singapore Basic Cardiac Life Support and Automated External 
+[56/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13515997: PMC13515997 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517699] Aqueous Extract of Saposhnikoviae Radix Antagonizes Arsenic 
+[57/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517699: PMC13517699 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13507494] Do People Listen to Cassandra? Persuasion and Accuracy in Ge
+[58/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13507494: PMC13507494 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13516530] Advances in Structural Colors-Mechanisms, Quantitative Evalu
+[59/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13516530: PMC13516530 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13516541] Virtual Reality Training for Post-Stroke Upper Limb Hemipare
+[60/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13516541: PMC13516541 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517574] Methods Used to Assess Physical Abilities in Police Students
+[61/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517574: PMC13517574 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13508543] Using interactive learning activities to predict learning ou
+[62/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13508543: PMC13508543 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517567] One Health Prioritization of Rabies Risk in the Republic of 
+[63/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517567: PMC13517567 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517775] Automated Cardiac Reorientation and Slice Extraction in Cine
+[64/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517775: PMC13517775 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13516019] Integration and Outcomes of Entrustable Professional Activit
+[65/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13516019: PMC13516019 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13516053] Trying to Survive in an Emotional Storm: A Qualitative Frame
+[66/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13516053: PMC13516053 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / pmc-13517716] Age-Related Changes in Standing Sprint Start Performance and
+[67/492] [FETCH ERROR] z-ai/glm-5.3-flash/pmc-13517716: PMC13517716 returned an empty/unparseable body from the BioC-PMC API — likely not yet processed into the OA full-text corpus, even though it was flagged open access[filter] at search time. Replace this manifest entry; it may become fetchable later, but isn't now.
+[z-ai/glm-5.3-flash / eric-ed495301] Behaviorism and the Construction of Knowledge
+[68/492] z-ai/glm-5.3-flash/eric-ed495301 latency=53.84s cost=$0.002154 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed613714] An Application of Cognitive Apprenticeship to Philosophy Ins
+[69/492] z-ai/glm-5.3-flash/eric-ed613714 latency=71.82s cost=$0.002897 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed337689] Designing Effective Learning Environments: Cognitive Apprent
+[70/492] z-ai/glm-5.3-flash/eric-ed337689 latency=39.28s cost=$0.002133 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed338729] A Cognitive Apprenticeship for Disadvantaged Students.
+[71/492] z-ai/glm-5.3-flash/eric-ed338729 latency=66.22s cost=$0.002962 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed284181] Cognitive Apprenticeship: Teaching the Craft of Reading, Wri
+[72/492] z-ai/glm-5.3-flash/eric-ed284181 latency=188.95s cost=$0.005056 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed353398] Solutions.
+[73/492] z-ai/glm-5.3-flash/eric-ed353398 latency=57.52s cost=$0.002957 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed602403] Cognitive Load Theory
+[74/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed602403: HTTP error fetching https://files.eric.ed.gov/fulltext/ED602403.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED602403.pdf
+[z-ai/glm-5.3-flash / eric-ed458689] Constructivism in Education: Opinions and Second Opinions on
+[75/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed458689: HTTP error fetching https://files.eric.ed.gov/fulltext/ED458689.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED458689.pdf
+[z-ai/glm-5.3-flash / eric-ed362202] Qualitative Research? Quantitative Research? What's the Prob
+[76/492] z-ai/glm-5.3-flash/eric-ed362202 latency=65.65s cost=$0.002881 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed476964] Dual Coding Theory and Computer Education: Some Media Experi
+[77/492] z-ai/glm-5.3-flash/eric-ed476964 latency=64.54s cost=$0.00258 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed413764] A Test on a Bilingual Dual Coding Hypothesis in Japanese-Eng
+[78/492] z-ai/glm-5.3-flash/eric-ed413764 latency=337.51s cost=$0.007982 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed614293] L2 Vocabulary Learning from Educational Media: Extending Dua
+[79/492] z-ai/glm-5.3-flash/eric-ed614293 latency=62.99s cost=$0.003279 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed476972] Media Combinations and Learning Styles: A Dual Coding Approa
+[80/492] z-ai/glm-5.3-flash/eric-ed476972 latency=56.55s cost=$0.002498 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed637968] Graphics Visualizations and Their Relation to Expertise Leve
+[81/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed637968: HTTP error fetching https://files.eric.ed.gov/fulltext/ED637968.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED637968.pdf
+[z-ai/glm-5.3-flash / eric-ed554518] The Interaction Effects of Working Memory Capacity, Gaming E
+[82/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed554518: HTTP error fetching https://files.eric.ed.gov/fulltext/ED554518.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED554518.pdf
+[z-ai/glm-5.3-flash / eric-ed616622] A Bibliography of Cognitive Information Processing Theory, R
+[83/492] z-ai/glm-5.3-flash/eric-ed616622 latency=57.82s cost=$0.003299 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed262089] Verbal Information Processing Paradigms: A Review of Theory 
+[84/492] z-ai/glm-5.3-flash/eric-ed262089 latency=107.54s cost=$0.003308 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed598366] Cognitive Learning Theories with Emphasis on Latent Learning
+[85/492] z-ai/glm-5.3-flash/eric-ed598366 latency=94.22s cost=$0.003474 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed133649] Notes on a Theory of the Development of the Human Informatio
+[86/492] z-ai/glm-5.3-flash/eric-ed133649 latency=68.48s cost=$0.002503 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed645632] Special Education Teacher Credential Candidates&apos; Promot
+[87/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed645632: HTTP error fetching https://files.eric.ed.gov/fulltext/ED645632.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED645632.pdf
+[z-ai/glm-5.3-flash / eric-ed638037] Employee Satisfaction and Delaying Turnover in Land-Grant Un
+[88/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed638037: HTTP error fetching https://files.eric.ed.gov/fulltext/ED638037.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED638037.pdf
+[z-ai/glm-5.3-flash / eric-ed577702] Self-Regulated Learning: A Motivational Approach for Learnin
+[89/492] z-ai/glm-5.3-flash/eric-ed577702 latency=59.63s cost=$0.002801 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed510995] Self-Regulated Learning: From Theory to Practice
+[90/492] z-ai/glm-5.3-flash/eric-ed510995 latency=103.11s cost=$0.003275 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed668494] The Impact of Self-Regulated Learning Interventions on Actin
+[91/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed668494: HTTP error fetching https://files.eric.ed.gov/fulltext/ED668494.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED668494.pdf
+[z-ai/glm-5.3-flash / eric-ed475183] Situated Cognition: Describing the Theory.
+[92/492] z-ai/glm-5.3-flash/eric-ed475183 latency=48.75s cost=$0.002374 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed373746] Situated Learning and the Limits of Applying the Results of 
+[93/492] z-ai/glm-5.3-flash/eric-ed373746 latency=56.49s cost=$0.002582 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed183975] A Social Learning Theory Conceptualization of Interpersonal 
+[94/492] z-ai/glm-5.3-flash/eric-ed183975 latency=44.31s cost=$0.002071 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed492309] Toward a Meta-Theory of Learning and Performance
+[95/492] z-ai/glm-5.3-flash/eric-ed492309 latency=71.84s cost=$0.00266 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed015100] RELATIONSHIP BETWEEN FORMAL INTRA-LIST SIMILARITY AND MAGNIT
+[96/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed015100: HTTP error fetching https://files.eric.ed.gov/fulltext/ED015100.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED015100.pdf
+[z-ai/glm-5.3-flash / eric-ed102502] An Examination of the Practical Import of the Von Restorff E
+[97/492] z-ai/glm-5.3-flash/eric-ed102502 latency=71.03s cost=$0.002363 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed041262] Quantitative Measures of Word Meaning and Effects of Variati
+[98/492] z-ai/glm-5.3-flash/eric-ed041262 latency=59.27s cost=$0.00311 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed424564] Semantics and Syntax: Context Clues in Reading for Young Chi
+[99/492] z-ai/glm-5.3-flash/eric-ed424564 latency=62.9s cost=$0.002388 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed053917] The Effects of Syntax and Vocabulary upon the Difficulty of 
+[100/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed053917: HTTP error fetching https://files.eric.ed.gov/fulltext/ED053917.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED053917.pdf
+[z-ai/glm-5.3-flash / eric-ed200304] An Analysis of the Vocabulary and Syntax Development of Pres
+[101/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed200304: HTTP error fetching https://files.eric.ed.gov/fulltext/ED200304.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED200304.pdf
+[z-ai/glm-5.3-flash / eric-ed606619] Evaluating Socioeconomic Gaps in Preschoolers&apos; Vocabula
+[102/492] z-ai/glm-5.3-flash/eric-ed606619 latency=99.12s cost=$0.003993 contributions=10 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed625180] The Role of Learners&apos; Memory in App-Based Language Inst
+[103/492] z-ai/glm-5.3-flash/eric-ed625180 latency=75.0s cost=$0.002496 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed235476] SAPIENS: Spreading Activation Processor for Information Enco
+[104/492] z-ai/glm-5.3-flash/eric-ed235476 latency=87.38s cost=$0.002982 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed633119] Faculty Beliefs on Active Learning Strategies in Higher Educ
+[105/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed633119: HTTP error fetching https://files.eric.ed.gov/fulltext/ED633119.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED633119.pdf
+[z-ai/glm-5.3-flash / eric-ed662966] Implementing Active Learning: A Critical Examination of Sour
+[106/492] z-ai/glm-5.3-flash/eric-ed662966 latency=88.87s cost=$0.003403 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed648025] Describing Students&apos; Analogical Reasoning While Creatin
+[107/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed648025: HTTP error fetching https://files.eric.ed.gov/fulltext/ED648025.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED648025.pdf
+[z-ai/glm-5.3-flash / eric-ed300826] Analogical Reasoning as a Mechanism in Knowledge Acquisition
+[108/492] z-ai/glm-5.3-flash/eric-ed300826 latency=54.23s cost=$0.002854 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed265520] The Effects of High and Low Relevant Text Underlining on Tes
+[109/492] z-ai/glm-5.3-flash/eric-ed265520 latency=52.81s cost=$0.002357 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed281155] Teaching Students To Annotate and Underline Text Effectively
+[110/492] z-ai/glm-5.3-flash/eric-ed281155 latency=56.95s cost=$0.002565 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed681789] Annotating Student Engagement across Grades 1-12: Associatio
+[111/492] z-ai/glm-5.3-flash/eric-ed681789 latency=94.91s cost=$0.001799 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed644983] Exploring the Use of Perusall Social Annotating to Support A
+[112/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed644983: HTTP error fetching https://files.eric.ed.gov/fulltext/ED644983.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED644983.pdf
+[z-ai/glm-5.3-flash / eric-ed402024] Children's Television Programmes in a Qualitative Perspectiv
+[113/492] z-ai/glm-5.3-flash/eric-ed402024 latency=42.41s cost=$0.002349 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed482570] Assessment As Learning: Using Classroom Assessment To Maximi
+[114/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed482570: HTTP error fetching https://files.eric.ed.gov/fulltext/ED482570.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED482570.pdf
+[z-ai/glm-5.3-flash / eric-ed500378] Assessment and Learning
+[115/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed500378: HTTP error fetching https://files.eric.ed.gov/fulltext/ED500378.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED500378.pdf
+[z-ai/glm-5.3-flash / eric-ed480068] Assessment for Learning: Classroom Assessment To Improve Stu
+[116/492] z-ai/glm-5.3-flash/eric-ed480068 latency=46.53s cost=$0.002648 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed607856] Children, Young People and Audiobooks before and during Lock
+[117/492] z-ai/glm-5.3-flash/eric-ed607856 latency=75.76s cost=$0.003122 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed561484] Audiobooks and Attitudes: An Examination of School Librarian
+[118/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed561484: HTTP error fetching https://files.eric.ed.gov/fulltext/ED561484.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED561484.pdf
+[z-ai/glm-5.3-flash / eric-ed607775] Audiobooks and Literacy: A Rapid Review of the Literature. A
+[119/492] z-ai/glm-5.3-flash/eric-ed607775 latency=55.89s cost=$0.00279 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed614814] The Role of Audiobooks to Engage Reluctant Readers and Under
+[120/492] z-ai/glm-5.3-flash/eric-ed614814 latency=56.96s cost=$0.002678 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed655062] Teacher Perceptions of Junior High Student Reading Motivatio
+[121/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed655062: HTTP error fetching https://files.eric.ed.gov/fulltext/ED655062.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED655062.pdf
+[z-ai/glm-5.3-flash / eric-ed408580] Student Publishing in a WWW Digital Library--Goals and Instr
+[122/492] z-ai/glm-5.3-flash/eric-ed408580 latency=72.02s cost=$0.002678 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed295161] Looking and Listening for My Voice.
+[123/492] z-ai/glm-5.3-flash/eric-ed295161 latency=63.0s cost=$0.002234 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed644946] Placing Students at the Center: Examining How Teacher Empath
+[124/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed644946: HTTP error fetching https://files.eric.ed.gov/fulltext/ED644946.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED644946.pdf
+[z-ai/glm-5.3-flash / eric-ed598526] Teaching Empathy: Strategies for Building Emotional Intellig
+[125/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed598526: HTTP error fetching https://files.eric.ed.gov/fulltext/ED598526.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED598526.pdf
+[z-ai/glm-5.3-flash / eric-ed653887] Empathy Driven Social Emotional Learning (SEL): Unraveling t
+[126/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed653887: HTTP error fetching https://files.eric.ed.gov/fulltext/ED653887.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED653887.pdf
+[z-ai/glm-5.3-flash / eric-ed598538] Case Studies and Case-Based Learning: Inquiry and Authentic 
+[127/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed598538: HTTP error fetching https://files.eric.ed.gov/fulltext/ED598538.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED598538.pdf
+[z-ai/glm-5.3-flash / eric-ed608574] Examining the Impact of Online Case-Based Discussions on Stu
+[128/492] z-ai/glm-5.3-flash/eric-ed608574 latency=49.0s cost=$0.002213 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed648739] School Counselor Effects on Ninth Grade On-Track Data for At
+[129/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed648739: HTTP error fetching https://files.eric.ed.gov/fulltext/ED648739.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED648739.pdf
+[z-ai/glm-5.3-flash / eric-ed647470] Building Teachers&apos; Capacity to Support Elementary Stude
+[130/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed647470: HTTP error fetching https://files.eric.ed.gov/fulltext/ED647470.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED647470.pdf
+[z-ai/glm-5.3-flash / eric-ed666900] Utilizing a Technology-Based Meal Planning Engine, EatLove, 
+[131/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed666900: HTTP error fetching https://files.eric.ed.gov/fulltext/ED666900.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED666900.pdf
+[z-ai/glm-5.3-flash / eric-ed667717] Eliciting Rich Data for Qualitative Social Research: Queer T
+[132/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed667717: HTTP error fetching https://files.eric.ed.gov/fulltext/ED667717.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED667717.pdf
+[z-ai/glm-5.3-flash / eric-ed180446] Modeling and Simulation with INS.
+[133/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed180446: HTTP error fetching https://files.eric.ed.gov/fulltext/ED180446.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED180446.pdf
+[z-ai/glm-5.3-flash / eric-ed165097] Chunking Method of Teaching and Studying: II.
+[134/492] z-ai/glm-5.3-flash/eric-ed165097 latency=43.91s cost=$0.002208 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed142392] An Analysis of the Effects of the Use of Manipulatives and P
+[135/492] z-ai/glm-5.3-flash/eric-ed142392 latency=67.64s cost=$0.002469 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed331809] The Effect of Instructional Clarity and Concept Structure on
+[136/492] z-ai/glm-5.3-flash/eric-ed331809 latency=86.88s cost=$0.00361 contributions=10 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed121890] Effects of Organization and Instruction on Free and Cued Rec
+[137/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed121890: HTTP error fetching https://files.eric.ed.gov/fulltext/ED121890.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED121890.pdf
+[z-ai/glm-5.3-flash / eric-ed579466] Refining Presentation Documents with Presentation Schema
+[138/492] z-ai/glm-5.3-flash/eric-ed579466 latency=71.01s cost=$0.002559 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed240638] Conference Presentations.
+[139/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed240638: HTTP error fetching https://files.eric.ed.gov/fulltext/ED240638.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED240638.pdf
+[z-ai/glm-5.3-flash / eric-ed444237] Meeting the Challenge of Standards: Planning Effective Stand
+[140/492] z-ai/glm-5.3-flash/eric-ed444237 latency=48.18s cost=$0.002683 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed219266] Chemical Literature Exercises and Resources (CLEAR).
+[141/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed219266: HTTP error fetching https://files.eric.ed.gov/fulltext/ED219266.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED219266.pdf
+[z-ai/glm-5.3-flash / eric-ed308718] Unaccusative Verbs in Japanese.
+[142/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed308718: HTTP error fetching https://files.eric.ed.gov/fulltext/ED308718.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED308718.pdf
+[z-ai/glm-5.3-flash / eric-ed661027] Primary Students&apos; Responses to a Cognitive Activation L
+[143/492] z-ai/glm-5.3-flash/eric-ed661027 latency=63.25s cost=$0.002518 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed623753] Understanding the Relationship between Cognitive Activation 
+[144/492] z-ai/glm-5.3-flash/eric-ed623753 latency=61.15s cost=$0.002654 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed118211] An Experimental Test of the Effects of Internal and External
+[145/492] z-ai/glm-5.3-flash/eric-ed118211 latency=380.94s cost=$0.008238 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed240918] Teaching Problem-Solving: Implications from Cognitive Develo
+[146/492] z-ai/glm-5.3-flash/eric-ed240918 latency=66.34s cost=$0.002657 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed503173] Unconsciously Indigenous Leadership: The Role of Cognitive D
+[147/492] z-ai/glm-5.3-flash/eric-ed503173 latency=56.73s cost=$0.002306 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed298254] The Conflict between Equilibrium and Disequilibrium Theories
+[148/492] z-ai/glm-5.3-flash/eric-ed298254 latency=76.77s cost=$0.003231 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed179317] Peer Interaction as a Source of Cognitive Developmental Chan
+[149/492] z-ai/glm-5.3-flash/eric-ed179317 latency=62.75s cost=$0.002365 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed406649] Effects of Cognitive Flexibility and Phonemic Awareness Trai
+[150/492] z-ai/glm-5.3-flash/eric-ed406649 latency=52.15s cost=$0.002323 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed573546] High School Students' Cognitive Flexibility Is Predicted by 
+[151/492] z-ai/glm-5.3-flash/eric-ed573546 latency=64.67s cost=$0.002679 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed606340] Examining the Relationship between Patience, Emotion Regulat
+[152/492] z-ai/glm-5.3-flash/eric-ed606340 latency=64.45s cost=$0.003308 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed654289] Load Reduction Leadership: A Cognitive Load Theory-Based Fra
+[153/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed654289: HTTP error fetching https://files.eric.ed.gov/fulltext/ED654289.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED654289.pdf
+[z-ai/glm-5.3-flash / eric-ed600094] Teachers Learning to Teach: A Phenomenological Exploration o
+[154/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed600094: HTTP error fetching https://files.eric.ed.gov/fulltext/ED600094.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED600094.pdf
+[z-ai/glm-5.3-flash / eric-ed347914] Collaborative Learning: Sourcebook for Collaborative Learnin
+[155/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed347914: HTTP error fetching https://files.eric.ed.gov/fulltext/ED347914.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED347914.pdf
+[z-ai/glm-5.3-flash / eric-ed454818] ICCE/ICCAI 2000 Full &amp; Short Papers (Collaborative Learn
+[156/492] z-ai/glm-5.3-flash/eric-ed454818 latency=78.95s cost=$0.003301 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed428693] Learning of Basic Concepts in Informatics Using Collaborativ
+[157/492] z-ai/glm-5.3-flash/eric-ed428693 latency=68.65s cost=$0.002445 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed678865] Teacher&apos;s Roles in Supporting Collaborative Learning. M
+[158/492] z-ai/glm-5.3-flash/eric-ed678865 latency=63.49s cost=$0.003382 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed526904] Facilitating Community: Key Strategies for Building Communit
+[159/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed526904: HTTP error fetching https://files.eric.ed.gov/fulltext/ED526904.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED526904.pdf
+[z-ai/glm-5.3-flash / eric-ed612248] Studying a School and Its Teachers
+[160/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed612248: HTTP error fetching https://files.eric.ed.gov/fulltext/ED612248.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED612248.pdf
+[z-ai/glm-5.3-flash / eric-ed612251] Workplace Learning, Policy and Practice: Connecting Communit
+[161/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed612251: HTTP error fetching https://files.eric.ed.gov/fulltext/ED612251.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED612251.pdf
+[z-ai/glm-5.3-flash / eric-ed526905] Communities of Practice: A New Approach to Solving Complex E
+[162/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed526905: HTTP error fetching https://files.eric.ed.gov/fulltext/ED526905.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED526905.pdf
+[z-ai/glm-5.3-flash / eric-ed606785] What Does It Take to Be a Fox? New Horizons for Mathematics 
+[163/492] z-ai/glm-5.3-flash/eric-ed606785 latency=68.01s cost=$0.002777 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed385253] Community-Based Organizations and the Delivery of Lifelong L
+[164/492] z-ai/glm-5.3-flash/eric-ed385253 latency=53.01s cost=$0.002613 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed491639] Community-Based Learning: Engaging Students for Success and 
+[165/492] z-ai/glm-5.3-flash/eric-ed491639 latency=385.34s cost=$0.00802 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed429925] Community Service Learning for Multicultural Teacher Educati
+[166/492] z-ai/glm-5.3-flash/eric-ed429925 latency=69.06s cost=$0.003109 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed490980] Community-Based Learning: Engaging Students for Success and 
+[167/492] z-ai/glm-5.3-flash/eric-ed490980 latency=77.03s cost=$0.003126 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed080110] The Community Involvement Program: Recognizing Community-Bas
+[168/492] z-ai/glm-5.3-flash/eric-ed080110 latency=77.52s cost=$0.002738 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed503136] Faculty Inquiry in Action: Guidelines for Working Together t
+[169/492] z-ai/glm-5.3-flash/eric-ed503136 latency=56.86s cost=$0.001855 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed648544] Learning in a Community: An Investigation of Mentor Inquiry 
+[170/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed648544: HTTP error fetching https://files.eric.ed.gov/fulltext/ED648544.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED648544.pdf
+[z-ai/glm-5.3-flash / eric-ed417935] Mathematics. Competency-Based Education Assessment Series.
+[171/492] z-ai/glm-5.3-flash/eric-ed417935 latency=67.74s cost=$0.00312 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed492404] Development of Competency-Based Assessment Centers
+[172/492] z-ai/glm-5.3-flash/eric-ed492404 latency=58.43s cost=$0.002585 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed321131] Competency Based Curricula. Missouri LINC Module.
+[173/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed321131: HTTP error fetching https://files.eric.ed.gov/fulltext/ED321131.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED321131.pdf
+[z-ai/glm-5.3-flash / eric-ed379446] Competency-Based Training and Assessment. Review of Research
+[174/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed379446: HTTP error fetching https://files.eric.ed.gov/fulltext/ED379446.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED379446.pdf
+[z-ai/glm-5.3-flash / eric-ed121212] Experiences with, and Assessment of, Competency-Based Curric
+[175/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed121212: HTTP error fetching https://files.eric.ed.gov/fulltext/ED121212.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED121212.pdf
+[z-ai/glm-5.3-flash / eric-ed404438] Competency Based Training. How To Do It--for Trainers. A Gui
+[176/492] z-ai/glm-5.3-flash/eric-ed404438 latency=69.28s cost=$0.0031 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed659107] Alternative Assessment: Definitions, Examples, Tools, and Re
+[177/492] z-ai/glm-5.3-flash/eric-ed659107 latency=65.03s cost=$0.00271 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed603989] How Systems of Assessments Aligned with Competency-Based Edu
+[178/492] z-ai/glm-5.3-flash/eric-ed603989 latency=68.92s cost=$0.002891 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed170285] Learning to Manage a Minimum Competency Testing Program.
+[179/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed170285: HTTP error fetching https://files.eric.ed.gov/fulltext/ED170285.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED170285.pdf
+[z-ai/glm-5.3-flash / eric-ed678072] The Impact of Constructivist Learning Environment on Student
+[180/492] z-ai/glm-5.3-flash/eric-ed678072 latency=59.0s cost=$0.002502 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed504124] Meaning Making and Self-Evaluation
+[181/492] z-ai/glm-5.3-flash/eric-ed504124 latency=56.44s cost=$0.002602 contributions=8 completeness=0.902 passed=True
+[z-ai/glm-5.3-flash / eric-ed444966] Constructivism: From Philosophy to Practice.
+[182/492] z-ai/glm-5.3-flash/eric-ed444966 latency=48.22s cost=$0.002535 contributions=8 completeness=0.98 passed=False
+[z-ai/glm-5.3-flash / eric-ed408352] Visual Portraits: An Artistic Approach to Qualitative Educat
+[183/492] z-ai/glm-5.3-flash/eric-ed408352 latency=52.27s cost=$0.002386 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed521329] Great Performances: Creating Classroom-Based Assessment Task
+[184/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed521329: HTTP error fetching https://files.eric.ed.gov/fulltext/ED521329.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED521329.pdf
+[z-ai/glm-5.3-flash / eric-ed623662] Exploring Visual Representations of Multiplication and Divis
+[185/492] z-ai/glm-5.3-flash/eric-ed623662 latency=51.29s cost=$0.002165 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed403553] What Does Cultural Identity Have To Do with the Preparation 
+[186/492] z-ai/glm-5.3-flash/eric-ed403553 latency=50.66s cost=$0.002509 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed373325] ESL Students Writing Autobiographies: Are There Any Connecti
+[187/492] z-ai/glm-5.3-flash/eric-ed373325 latency=52.19s cost=$0.00229 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed342001] Intertextuality: Making Connections across Literature and Li
+[188/492] z-ai/glm-5.3-flash/eric-ed342001 latency=58.11s cost=$0.002665 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed421730] Point of Information: Practical and Theoretical Concerns in 
+[189/492] z-ai/glm-5.3-flash/eric-ed421730 latency=57.31s cost=$0.002527 contributions=7 completeness=0.925 passed=False
+[z-ai/glm-5.3-flash / eric-ed384943] Formal Debate as a Pedagogical Tool in the College Classroom
+[190/492] z-ai/glm-5.3-flash/eric-ed384943 latency=40.14s cost=$0.002119 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed257152] The Relationship of Imposed Format Structures and Emergent C
+[191/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed257152: HTTP error fetching https://files.eric.ed.gov/fulltext/ED257152.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED257152.pdf
+[z-ai/glm-5.3-flash / eric-ed421728] At the Speed of Sound: Rate of Delivery as a Dividing Factor
+[192/492] z-ai/glm-5.3-flash/eric-ed421728 latency=47.89s cost=$0.002219 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed427376] Apples and Oranges? A Comparative Analysis of Adjudication i
+[193/492] z-ai/glm-5.3-flash/eric-ed427376 latency=56.79s cost=$0.002177 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed589611] Identifying Learning Acquired during Debriefing
+[194/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed589611: HTTP error fetching https://files.eric.ed.gov/fulltext/ED589611.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED589611.pdf
+[z-ai/glm-5.3-flash / eric-ed557803] A Randomized Control Study Comparing Outcomes in Student Nur
+[195/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed557803: HTTP error fetching https://files.eric.ed.gov/fulltext/ED557803.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED557803.pdf
+[z-ai/glm-5.3-flash / eric-ed557857] Debriefing after Human Patient Simulation and Nursing Studen
+[196/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed557857: HTTP error fetching https://files.eric.ed.gov/fulltext/ED557857.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED557857.pdf
+[z-ai/glm-5.3-flash / eric-ed588551] The Impact of Debriefing for Meaningful Learning on Knowledg
+[197/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed588551: HTTP error fetching https://files.eric.ed.gov/fulltext/ED588551.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED588551.pdf
+[z-ai/glm-5.3-flash / eric-ed661883] Deliberate Practice: An Effective Way to Raise the Real Esta
+[198/492] z-ai/glm-5.3-flash/eric-ed661883 latency=85.66s cost=$0.0029 contributions=7 completeness=0.904 passed=False
+[z-ai/glm-5.3-flash / eric-ed575599] Defining Deliberate Practice in Supervised Dietetics Educati
+[199/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed575599: HTTP error fetching https://files.eric.ed.gov/fulltext/ED575599.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED575599.pdf
+[z-ai/glm-5.3-flash / eric-ed553817] The Relationship between Deliberate Practice and Reading Abi
+[200/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed553817: HTTP error fetching https://files.eric.ed.gov/fulltext/ED553817.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED553817.pdf
+[z-ai/glm-5.3-flash / eric-ed199130] Annotated Bibliography of Materials for Developing Cultural 
+[201/492] z-ai/glm-5.3-flash/eric-ed199130 latency=53.34s cost=$0.002863 contributions=8 completeness=0.972 passed=False
+[z-ai/glm-5.3-flash / eric-ed564322] The Art of Awareness: How Observation Can Transform Your Tea
+[202/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed564322: HTTP error fetching https://files.eric.ed.gov/fulltext/ED564322.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED564322.pdf
+[z-ai/glm-5.3-flash / eric-ed676009] Culturally Conscious Decision-Making for School Leaders: A T
+[203/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed676009: HTTP error fetching https://files.eric.ed.gov/fulltext/ED676009.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED676009.pdf
+[z-ai/glm-5.3-flash / eric-ed457633] Cultural Reciprocity Aids Collaboration with Families. ERIC/
+[204/492] z-ai/glm-5.3-flash/eric-ed457633 latency=47.47s cost=$0.001899 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed477886] Intelligence Builders for Every Student: 44 Exercises To Exp
+[205/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed477886: HTTP error fetching https://files.eric.ed.gov/fulltext/ED477886.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED477886.pdf
+[z-ai/glm-5.3-flash / eric-ed447781] The Power of Digital Learning: Integrating Digital Content. 
+[206/492] z-ai/glm-5.3-flash/eric-ed447781 latency=75.25s cost=$0.003178 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed593329] Digital Skills and Online Learning in Albania. Digital Facts
+[207/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed593329: HTTP error fetching https://files.eric.ed.gov/fulltext/ED593329.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED593329.pdf
+[z-ai/glm-5.3-flash / eric-ed674194] Designing Effective Digital Learning Environments. New Persp
+[208/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed674194: HTTP error fetching https://files.eric.ed.gov/fulltext/ED674194.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED674194.pdf
+[z-ai/glm-5.3-flash / eric-ed587258] Exploring the Benefits of Digital Learning Opportunities in 
+[209/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed587258: HTTP error fetching https://files.eric.ed.gov/fulltext/ED587258.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED587258.pdf
+[z-ai/glm-5.3-flash / eric-ed413575] Research on Direct Instruction: 25 Years beyond DISTAR.
+[210/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed413575: HTTP error fetching https://files.eric.ed.gov/fulltext/ED413575.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED413575.pdf
+[z-ai/glm-5.3-flash / eric-ed451493] Direct Instruction and the Teaching of Early Reading: Wiscon
+[211/492] z-ai/glm-5.3-flash/eric-ed451493 latency=180.17s cost=$0.004814 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed155152] Instructional Principles in Direct Instruction.
+[212/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed155152: HTTP error fetching https://files.eric.ed.gov/fulltext/ED155152.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED155152.pdf
+[z-ai/glm-5.3-flash / eric-ed231768] Using Direct Instruction.
+[213/492] z-ai/glm-5.3-flash/eric-ed231768 latency=78.91s cost=$0.002629 contributions=10 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed293984] Direct Instruction and Affective Learning in Career Educatio
+[214/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed293984: HTTP error fetching https://files.eric.ed.gov/fulltext/ED293984.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED293984.pdf
+[z-ai/glm-5.3-flash / eric-ed403541] Are the Teachers' Manuals in Basal Readers Helpful for Discu
+[215/492] z-ai/glm-5.3-flash/eric-ed403541 latency=60.57s cost=$0.002541 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed261873] 1985 Cancer Facts and Figures.
+[216/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed261873: HTTP error fetching https://files.eric.ed.gov/fulltext/ED261873.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED261873.pdf
+[z-ai/glm-5.3-flash / eric-ed436153] Where Is My Brain? Distributed Cognition, Activity Theory, a
+[217/492] z-ai/glm-5.3-flash/eric-ed436153 latency=74.05s cost=$0.003007 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed380084] Message Into Medium: An Extension of the Dual Coding Hypothe
+[218/492] z-ai/glm-5.3-flash/eric-ed380084 latency=52.81s cost=$0.002213 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed614364] Empathy Interviews for Developing Inclusive Computing Pathwa
+[219/492] z-ai/glm-5.3-flash/eric-ed614364 latency=54.51s cost=$0.002116 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed060468] A Reconsideration of Empathy in Counselor Effectiveness.
+[220/492] z-ai/glm-5.3-flash/eric-ed060468 latency=57.2s cost=$0.002331 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed578739] Understanding Student Behavioral Engagement: Importance of S
+[221/492] z-ai/glm-5.3-flash/eric-ed578739 latency=57.7s cost=$0.003212 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed502653] Error Analysis and the EFL Classroom Teaching
+[222/492] z-ai/glm-5.3-flash/eric-ed502653 latency=58.11s cost=$0.002267 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed227480] Error Pattern Analysis in a Workshop Format.
+[223/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed227480: HTTP error fetching https://files.eric.ed.gov/fulltext/ED227480.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED227480.pdf
+[z-ai/glm-5.3-flash / eric-ed100192] L'analyse des erreurs: etat actuel de la recherche (Error An
+[224/492] z-ai/glm-5.3-flash/eric-ed100192 latency=65.67s cost=$0.002162 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed105750] The Context for Error Analysis.
+[225/492] z-ai/glm-5.3-flash/eric-ed105750 latency=69.22s cost=$0.002548 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed121104] Error Analysis and Error Correction with Respect to the Trai
+[226/492] z-ai/glm-5.3-flash/eric-ed121104 latency=72.84s cost=$0.003323 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed433011] Authoritative Guide to Evaluating Information on the Interne
+[227/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed433011: HTTP error fetching https://files.eric.ed.gov/fulltext/ED433011.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED433011.pdf
+[z-ai/glm-5.3-flash / eric-ed252156] Informed Professional Judgment: A Guide to Evaluation in Pos
+[228/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed252156: HTTP error fetching https://files.eric.ed.gov/fulltext/ED252156.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED252156.pdf
+[z-ai/glm-5.3-flash / eric-ed545643] Organizational Effectiveness in Higher Education: Faculty In
+[229/492] z-ai/glm-5.3-flash/eric-ed545643 latency=102.6s cost=$0.003329 contributions=10 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed149410] Vision and Hindsight: The Future of Communications.
+[230/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed149410: HTTP error fetching https://files.eric.ed.gov/fulltext/ED149410.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED149410.pdf
+[z-ai/glm-5.3-flash / eric-ed097318] Cross Cultural Methods, Experiential Learning-Teaching.
+[231/492] z-ai/glm-5.3-flash/eric-ed097318 latency=114.61s cost=$0.002781 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed438140] Experiential Education: The Main Dish, Not Just a Side Cours
+[232/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed438140: HTTP error fetching https://files.eric.ed.gov/fulltext/ED438140.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED438140.pdf
+[z-ai/glm-5.3-flash / eric-ed260631] History and Rationale for Experiential Learning. PANEL Resou
+[233/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed260631: HTTP error fetching https://files.eric.ed.gov/fulltext/ED260631.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED260631.pdf
+[z-ai/glm-5.3-flash / eric-ed489004] Using Experiential Learning in the Classroom: Practical Idea
+[234/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed489004: HTTP error fetching https://files.eric.ed.gov/fulltext/ED489004.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED489004.pdf
+[z-ai/glm-5.3-flash / eric-ed461661] Explaining in the Primary School. Successful Teaching Series
+[235/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed461661: HTTP error fetching https://files.eric.ed.gov/fulltext/ED461661.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED461661.pdf
+[z-ai/glm-5.3-flash / eric-ed583709] Representing Video Clips of Students&apos; Thinking in a Mat
+[236/492] z-ai/glm-5.3-flash/eric-ed583709 latency=65.58s cost=$0.002627 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed589451] Exploring Critical Thinking in a Mathematics Problem-Based L
+[237/492] z-ai/glm-5.3-flash/eric-ed589451 latency=58.83s cost=$0.002339 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed599957] Investigating Student Participation Trajectories in a Mathem
+[238/492] z-ai/glm-5.3-flash/eric-ed599957 latency=69.08s cost=$0.002561 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed332537] Beyond Drill and Filler: The Computer/Composition Connection
+[239/492] z-ai/glm-5.3-flash/eric-ed332537 latency=57.82s cost=$0.002248 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed247053] Computer-Aided Instruction in Education Basics for Indian St
+[240/492] z-ai/glm-5.3-flash/eric-ed247053 latency=76.76s cost=$0.003094 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed232964] Wyoming Teacher Resource Kit and Caboodle.
+[241/492] z-ai/glm-5.3-flash/eric-ed232964 latency=60.19s cost=$0.00295 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed399385] Career Planning and Job Searching in the Information Age.
+[242/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed399385: HTTP error fetching https://files.eric.ed.gov/fulltext/ED399385.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED399385.pdf
+[z-ai/glm-5.3-flash / eric-ed415105] Teaching Biology by the Internet.
+[243/492] z-ai/glm-5.3-flash/eric-ed415105 latency=56.71s cost=$0.002264 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed411813] Twenty Years of Training in Online Searching: Integrating th
+[244/492] z-ai/glm-5.3-flash/eric-ed411813 latency=67.79s cost=$0.002515 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed417465] The Internet and the First Amendment: School and Sexually Ex
+[245/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed417465: HTTP error fetching https://files.eric.ed.gov/fulltext/ED417465.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED417465.pdf
+[z-ai/glm-5.3-flash / eric-ed374770] From Information Searching to Learning: A Comparison of Cont
+[246/492] z-ai/glm-5.3-flash/eric-ed374770 latency=89.65s cost=$0.003312 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed416501] Strategic Learning: The Implications of Language in Successf
+[247/492] z-ai/glm-5.3-flash/eric-ed416501 latency=67.5s cost=$0.00297 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed557579] Teaching Strategies for Effective Fifth Grade Math Intervent
+[248/492] z-ai/glm-5.3-flash/eric-ed557579 latency=68.93s cost=$0.002792 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed502351] Increasing the Power of Instruction: Integration of Language
+[249/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed502351: HTTP error fetching https://files.eric.ed.gov/fulltext/ED502351.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED502351.pdf
+[z-ai/glm-5.3-flash / eric-ed613541] Measuring Explicit Instruction Using the &quot;Classroom Obs
+[250/492] z-ai/glm-5.3-flash/eric-ed613541 latency=69.98s cost=$0.00311 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed491520] The Impact of Individualized Explicit Fluency Instruction
+[251/492] z-ai/glm-5.3-flash/eric-ed491520 latency=73.33s cost=$0.002973 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed605010] Augmenting Senior Secondary ESL Learners&apos; Reading Skill
+[252/492] z-ai/glm-5.3-flash/eric-ed605010 latency=61.22s cost=$0.002811 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed559409] The Effects of Explicit Reading Strategy Instruction and Coo
+[253/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed559409: HTTP error fetching https://files.eric.ed.gov/fulltext/ED559409.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED559409.pdf
+[z-ai/glm-5.3-flash / eric-ed294152] Explicit Comprehension Instruction: A Review of Research and
+[254/492] z-ai/glm-5.3-flash/eric-ed294152 latency=70.96s cost=$0.003238 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed398727] The Effect of Explicit Teaching of Learning Strategies on St
+[255/492] z-ai/glm-5.3-flash/eric-ed398727 latency=69.44s cost=$0.003026 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed612072] Review of Additional K-2 Reading Instruction Resources: A Su
+[256/492] z-ai/glm-5.3-flash/eric-ed612072 latency=58.83s cost=$0.002503 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed669957] Teachers Perception of Explicit Phonics Instruction as a Too
+[257/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed669957: HTTP error fetching https://files.eric.ed.gov/fulltext/ED669957.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED669957.pdf
+[z-ai/glm-5.3-flash / eric-ed625722] Cognitive Flexibility + Phonics Intervention Effects on Read
+[258/492] z-ai/glm-5.3-flash/eric-ed625722 latency=82.55s cost=$0.003469 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed634331] The Role Systematic and Explicit Phonics Instruction Has on 
+[259/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed634331: HTTP error fetching https://files.eric.ed.gov/fulltext/ED634331.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED634331.pdf
+[z-ai/glm-5.3-flash / eric-ed482405] The Teaching of Phonics. ERIC Research Summary.
+[260/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed482405: Extracted PDF text is suspiciously short (<500 chars) — likely a scanned/image PDF that needs OCR.
+[z-ai/glm-5.3-flash / eric-ed677318] Explicit Vocabulary Instruction to Build Fair Access for All
+[261/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed677318: HTTP error fetching https://files.eric.ed.gov/fulltext/ED677318.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED677318.pdf
+[z-ai/glm-5.3-flash / eric-ed643452] The Effect of Explicit Vocabulary Instruction on Elementary 
+[262/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed643452: HTTP error fetching https://files.eric.ed.gov/fulltext/ED643452.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED643452.pdf
+[z-ai/glm-5.3-flash / eric-ed522103] Vocabulary Acquisition in Children with Typically Developing
+[263/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed522103: HTTP error fetching https://files.eric.ed.gov/fulltext/ED522103.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED522103.pdf
+[z-ai/glm-5.3-flash / eric-ed575571] Using Explicit Instruction for African American Male Student
+[264/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed575571: HTTP error fetching https://files.eric.ed.gov/fulltext/ED575571.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED575571.pdf
+[z-ai/glm-5.3-flash / eric-ed258140] Teaching a Reading Comprehension Skill: Fact and Opinion.
+[265/492] z-ai/glm-5.3-flash/eric-ed258140 latency=56.83s cost=$0.003098 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed549391] Explicit Instruction Elements in Core Reading Programs
+[266/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed549391: HTTP error fetching https://files.eric.ed.gov/fulltext/ED549391.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED549391.pdf
+[z-ai/glm-5.3-flash / eric-ed622549] Feedback Loops: Mapping Transformative Interactions in Educa
+[267/492] z-ai/glm-5.3-flash/eric-ed622549 latency=66.62s cost=$0.002827 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed603883] Feedback Loops for Common Core State Standards Implementatio
+[268/492] z-ai/glm-5.3-flash/eric-ed603883 latency=55.55s cost=$0.002159 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed026732] The Logic of Evaluation.
+[269/492] z-ai/glm-5.3-flash/eric-ed026732 latency=59.84s cost=$0.002664 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed658055] Combining Covariational Reasoning and Causality to Conceptua
+[270/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed658055: Extracted PDF text is suspiciously short (<500 chars) — likely a scanned/image PDF that needs OCR.
+[z-ai/glm-5.3-flash / eric-ed433229] Grouping for Instruction in Teaching Science.
+[271/492] z-ai/glm-5.3-flash/eric-ed433229 latency=66.91s cost=$0.002664 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed473482] Where Have All the Bluebirds Gone? How To Soar with Flexible
+[272/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed473482: HTTP error fetching https://files.eric.ed.gov/fulltext/ED473482.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED473482.pdf
+[z-ai/glm-5.3-flash / eric-ed382936] Flexible Grouping for Literacy in the Elementary Grades.
+[273/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed382936: HTTP error fetching https://files.eric.ed.gov/fulltext/ED382936.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED382936.pdf
+[z-ai/glm-5.3-flash / eric-ed489510] Differentiation Through Flexible Grouping: Successfully Reac
+[274/492] z-ai/glm-5.3-flash/eric-ed489510 latency=56.43s cost=$0.002766 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed651164] Classroom Management and Flexible Grouping in Upper Elementa
+[275/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed651164: HTTP error fetching https://files.eric.ed.gov/fulltext/ED651164.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED651164.pdf
+[z-ai/glm-5.3-flash / eric-ed493241] Making Formative Assessment Work: Effective Practice in the 
+[276/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed493241: HTTP error fetching https://files.eric.ed.gov/fulltext/ED493241.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED493241.pdf
+[z-ai/glm-5.3-flash / eric-ed507447] Formative Assessment: Responding to Your Students
+[277/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed507447: HTTP error fetching https://files.eric.ed.gov/fulltext/ED507447.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED507447.pdf
+[z-ai/glm-5.3-flash / eric-ed573930] Internal and External Factors Affecting Teachers' Adoption o
+[278/492] z-ai/glm-5.3-flash/eric-ed573930 latency=153.34s cost=$0.005858 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed579876] Handbook of Formative Assessment
+[279/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed579876: HTTP error fetching https://files.eric.ed.gov/fulltext/ED579876.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED579876.pdf
+[z-ai/glm-5.3-flash / eric-ed591792] Effective Formative Assessment for Elementary Grade Classroo
+[280/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed591792: HTTP error fetching https://files.eric.ed.gov/fulltext/ED591792.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED591792.pdf
+[z-ai/glm-5.3-flash / eric-ed559452] Helping Educators Foster a Growth Mindset in Community Colle
+[281/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed559452: HTTP error fetching https://files.eric.ed.gov/fulltext/ED559452.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED559452.pdf
+[z-ai/glm-5.3-flash / eric-ed659952] Impact of a Growth Mindset Instruction on Mobile Learning in
+[282/492] z-ai/glm-5.3-flash/eric-ed659952 latency=71.86s cost=$0.002163 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed604307] Promoting Belonging, Growth Mindset, and Resilience to Foste
+[283/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed604307: HTTP error fetching https://files.eric.ed.gov/fulltext/ED604307.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED604307.pdf
+[z-ai/glm-5.3-flash / eric-ed536502] How Students' Beliefs about Their Intelligence Influence The
+[284/492] z-ai/glm-5.3-flash/eric-ed536502 latency=66.47s cost=$0.00245 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed562249] Problem-Based Educational Game Becomes Student-Centered Lear
+[285/492] z-ai/glm-5.3-flash/eric-ed562249 latency=81.06s cost=$0.002515 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed656648] Self-Monitoring with Goal-Setting: Decreasing Disruptive Beh
+[286/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed656648: HTTP error fetching https://files.eric.ed.gov/fulltext/ED656648.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED656648.pdf
+[z-ai/glm-5.3-flash / eric-ed599697] Strategies for Setting High-Quality Academic Individualized 
+[287/492] z-ai/glm-5.3-flash/eric-ed599697 latency=54.59s cost=$0.002552 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed650788] Strategies for Setting High-Quality Academic Individualized 
+[288/492] z-ai/glm-5.3-flash/eric-ed650788 latency=56.12s cost=$0.002647 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed578044] Common Progress Monitoring Graph Omissions: Missing Goal and
+[289/492] z-ai/glm-5.3-flash/eric-ed578044 latency=53.5s cost=$0.002242 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed643826] Academic Self-Monitoring in College Students with Attention-
+[290/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed643826: HTTP error fetching https://files.eric.ed.gov/fulltext/ED643826.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED643826.pdf
+[z-ai/glm-5.3-flash / eric-ed418381] A Qualitative Investigation of the Use of Graphic Organizers
+[291/492] z-ai/glm-5.3-flash/eric-ed418381 latency=65.23s cost=$0.002887 contributions=10 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed414256] Using Graphic Organizers To Teach Vocabulary: How Does Avail
+[292/492] z-ai/glm-5.3-flash/eric-ed414256 latency=47.56s cost=$0.002138 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed379646] The Effect of Using Graphic Organizers with Learning Disable
+[293/492] z-ai/glm-5.3-flash/eric-ed379646 latency=53.4s cost=$0.002274 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed300787] Promoting Active Thinking and Comprehension through the Use 
+[294/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed300787: HTTP error fetching https://files.eric.ed.gov/fulltext/ED300787.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED300787.pdf
+[z-ai/glm-5.3-flash / eric-ed383333] The Influence of Dominant Languages on the Effectiveness of 
+[295/492] z-ai/glm-5.3-flash/eric-ed383333 latency=63.15s cost=$0.002546 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed377169] Guiding Teacher Learning: Insider Studies of Classroom-Based
+[296/492] z-ai/glm-5.3-flash/eric-ed377169 latency=89.02s cost=$0.003459 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed030680] Giving Emphasis to Guided Learning; Proceedings of the Confe
+[297/492] z-ai/glm-5.3-flash/eric-ed030680 latency=86.33s cost=$0.003316 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed577294] The Impact of Highly and Minimally Guided Discovery Instruct
+[298/492] z-ai/glm-5.3-flash/eric-ed577294 latency=65.13s cost=$0.003345 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed518520] The Twin Purposes of Guided Inquiry: Guiding Student Inquiry
+[299/492] z-ai/glm-5.3-flash/eric-ed518520 latency=98.47s cost=$0.003352 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed646276] Whole-College Guided Pathways Reform Practices: Scale of Ado
+[300/492] z-ai/glm-5.3-flash/eric-ed646276 latency=107.38s cost=$0.003434 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed136196] "Imbedded Aids" to Readers: Alternatives to Traditional Text
+[301/492] z-ai/glm-5.3-flash/eric-ed136196 latency=58.74s cost=$0.002247 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed150544] An Investigation into the Effects of &quot;Imbedded Aids.&qu
+[302/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed150544: HTTP error fetching https://files.eric.ed.gov/fulltext/ED150544.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED150544.pdf
+[z-ai/glm-5.3-flash / eric-ed032669] Sensory Aids for the Blind.
+[303/492] z-ai/glm-5.3-flash/eric-ed032669 latency=68.95s cost=$0.002944 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed079884] Aids for Handicapped Readers.
+[304/492] z-ai/glm-5.3-flash/eric-ed079884 latency=111.47s cost=$0.003254 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed193607] Effect of Inference-Making Aids on Poor Readers' Comprehensi
+[305/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed193607: HTTP error fetching https://files.eric.ed.gov/fulltext/ED193607.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED193607.pdf
+[z-ai/glm-5.3-flash / eric-ed383511] Holistic Education: Principles, Perspectives and Practices. 
+[306/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed383511: HTTP error fetching https://files.eric.ed.gov/fulltext/ED383511.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED383511.pdf
+[z-ai/glm-5.3-flash / eric-ed202072] Effects of Immediate Instructor Feedback on Group Discussion
+[307/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed202072: HTTP error fetching https://files.eric.ed.gov/fulltext/ED202072.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED202072.pdf
+[z-ai/glm-5.3-flash / eric-ed049892] Feedback and Perseverence in Reading.
+[308/492] z-ai/glm-5.3-flash/eric-ed049892 latency=53.88s cost=$0.002135 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed456043] Inquire Within: Implementing Inquiry-Based Science Standards
+[309/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed456043: HTTP error fetching https://files.eric.ed.gov/fulltext/ED456043.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED456043.pdf
+[z-ai/glm-5.3-flash / eric-ed506511] Cognitive Development, Analytical Thinking and Learning Sati
+[310/492] z-ai/glm-5.3-flash/eric-ed506511 latency=57.77s cost=$0.002344 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed545570] Inquiry-Based Learning in China: Lesson Learned for School S
+[311/492] z-ai/glm-5.3-flash/eric-ed545570 latency=45.06s cost=$0.002377 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed623490] A Digital Book-Based Pedagogy to Improve Course Content Acce
+[312/492] z-ai/glm-5.3-flash/eric-ed623490 latency=112.22s cost=$0.00367 contributions=10 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed502683] How to Be an Effective Online Instructor
+[313/492] z-ai/glm-5.3-flash/eric-ed502683 latency=71.23s cost=$0.002472 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed432338] Guidelines for Good Practices: Effective Instructor-Student 
+[314/492] z-ai/glm-5.3-flash/eric-ed432338 latency=58.01s cost=$0.002589 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed637935] From Invitation to Isolation in Online First Year Compositio
+[315/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed637935: HTTP error fetching https://files.eric.ed.gov/fulltext/ED637935.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED637935.pdf
+[z-ai/glm-5.3-flash / eric-ed468808] Keeping a Nature Journal: Discover a Whole New Way of Seeing
+[316/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed468808: HTTP error fetching https://files.eric.ed.gov/fulltext/ED468808.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED468808.pdf
+[z-ai/glm-5.3-flash / eric-ed171804] Effects of Internal Knowledge Organization on Task Performan
+[317/492] z-ai/glm-5.3-flash/eric-ed171804 latency=82.61s cost=$0.003381 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed453425] Knowledge Management and Human Capital. Symposium 18. [AHRD 
+[318/492] z-ai/glm-5.3-flash/eric-ed453425 latency=73.85s cost=$0.003121 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed518188] Taxonomic Organization Scaffolds Young Children's Learning f
+[319/492] z-ai/glm-5.3-flash/eric-ed518188 latency=73.12s cost=$0.002631 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed638273] Paradigm Shift of Change Management in the 21st Century to S
+[320/492] z-ai/glm-5.3-flash/eric-ed638273 latency=85.66s cost=$0.003292 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed336078] Learner-Generated Summaries in Tutorial Courseware.
+[321/492] z-ai/glm-5.3-flash/eric-ed336078 latency=67.99s cost=$0.002912 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed630027] Generating Multiple Choice Questions with a Multi-Angle Ques
+[322/492] z-ai/glm-5.3-flash/eric-ed630027 latency=62.16s cost=$0.00266 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed238505] The Effect of Mastery Learning on Student Achievement.
+[323/492] z-ai/glm-5.3-flash/eric-ed238505 latency=40.91s cost=$0.002066 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed449413] A Study of Mastery Learning versus Non-Mastery Learning Inst
+[324/492] z-ai/glm-5.3-flash/eric-ed449413 latency=76.1s cost=$0.003444 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed473455] Standards and Mastery Learning: Aligning Teaching and Assess
+[325/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed473455: HTTP error fetching https://files.eric.ed.gov/fulltext/ED473455.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED473455.pdf
+[z-ai/glm-5.3-flash / eric-ed446024] A Contrast of Mastery Learning and Non-Mastery Learning Inst
+[326/492] z-ai/glm-5.3-flash/eric-ed446024 latency=74.92s cost=$0.003053 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed382567] Synthesis of Research on Mastery Learning.
+[327/492] z-ai/glm-5.3-flash/eric-ed382567 latency=63.58s cost=$0.002497 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed519181] Explorations of Metacognition among Academically Talented Mi
+[328/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed519181: HTTP error fetching https://files.eric.ed.gov/fulltext/ED519181.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED519181.pdf
+[z-ai/glm-5.3-flash / eric-ed474273] Metacognition: An Overview.
+[329/492] z-ai/glm-5.3-flash/eric-ed474273 latency=53.19s cost=$0.002265 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed528293] Metaphors & Analogies: Power Tools for Teaching Any Subject
+[330/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed528293: HTTP error fetching https://files.eric.ed.gov/fulltext/ED528293.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED528293.pdf
+[z-ai/glm-5.3-flash / eric-ed391504] Scientific Thinking Is in the Mind's Eye.
+[331/492] z-ai/glm-5.3-flash/eric-ed391504 latency=53.29s cost=$0.002516 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed195975] Interaction and Analogy in the Comprehension and Appreciatio
+[332/492] z-ai/glm-5.3-flash/eric-ed195975 latency=67.83s cost=$0.003357 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed278963] Evidence for a Structure-Mapping Theory of Analogy and Metap
+[333/492] z-ai/glm-5.3-flash/eric-ed278963 latency=99.33s cost=$0.003342 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed171393] Misunderstanding Metaphor: Cognitive Problem or Pragmatic Pr
+[334/492] z-ai/glm-5.3-flash/eric-ed171393 latency=67.97s cost=$0.002407 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed598370] Mindful Minutes in the Classroom
+[335/492] z-ai/glm-5.3-flash/eric-ed598370 latency=62.83s cost=$0.002611 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed631616] Dance Steps as Mnemonic Device to Increase Retention Rate of
+[336/492] z-ai/glm-5.3-flash/eric-ed631616 latency=42.47s cost=$0.001956 contributions=5 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed011088] AN EVALUATION OF THE EFFECTIVENESS OF MNEMONIC DEVICES AS AI
+[337/492] z-ai/glm-5.3-flash/eric-ed011088 latency=66.0s cost=$0.00312 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed154828] Modeling and the State Planning System.
+[338/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed154828: HTTP error fetching https://files.eric.ed.gov/fulltext/ED154828.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED154828.pdf
+[z-ai/glm-5.3-flash / eric-ed454715] Teaching and Researching Motivation. Applied Linguistics in 
+[339/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed454715: HTTP error fetching https://files.eric.ed.gov/fulltext/ED454715.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED454715.pdf
+[z-ai/glm-5.3-flash / eric-ed349298] Motivation in Education.
+[340/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed349298: Extracted PDF text is suspiciously short (<500 chars) — likely a scanned/image PDF that needs OCR.
+[z-ai/glm-5.3-flash / eric-ed428561] Language Learning Motivation and Language Learning Strategie
+[341/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed428561: HTTP error fetching https://files.eric.ed.gov/fulltext/ED428561.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED428561.pdf
+[z-ai/glm-5.3-flash / eric-ed428728] What Expertise Do Teachers Require To Facilitate Pupils' Sel
+[342/492] z-ai/glm-5.3-flash/eric-ed428728 latency=39.1s cost=$0.002045 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed530802] Multimedia Learning. Second Edition
+[343/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed530802: HTTP error fetching https://files.eric.ed.gov/fulltext/ED530802.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED530802.pdf
+[z-ai/glm-5.3-flash / eric-ed508873] Interactive Multimedia in Education and Training
+[344/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed508873: HTTP error fetching https://files.eric.ed.gov/fulltext/ED508873.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED508873.pdf
+[z-ai/glm-5.3-flash / eric-ed464596] Multimedia Projects in the Classroom: A Guide to Development
+[345/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed464596: HTTP error fetching https://files.eric.ed.gov/fulltext/ED464596.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED464596.pdf
+[z-ai/glm-5.3-flash / eric-ed491891] Multimedia Projects in Education: Designing, Producing, and 
+[346/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed491891: HTTP error fetching https://files.eric.ed.gov/fulltext/ED491891.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED491891.pdf
+[z-ai/glm-5.3-flash / eric-ed414887] Multimedia Projects in Education: Designing, Producing, and 
+[347/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed414887: HTTP error fetching https://files.eric.ed.gov/fulltext/ED414887.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED414887.pdf
+[z-ai/glm-5.3-flash / eric-ed350990] Hypermedia, Multimedia: What's Going On in Today's Classroom
+[348/492] z-ai/glm-5.3-flash/eric-ed350990 latency=59.85s cost=$0.002193 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed475216] Multimedia Projects in Education: Designing, Producing, and 
+[349/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed475216: HTTP error fetching https://files.eric.ed.gov/fulltext/ED475216.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED475216.pdf
+[z-ai/glm-5.3-flash / eric-ed649155] The Instructional Decisions and Considerations Teachers Util
+[350/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed649155: HTTP error fetching https://files.eric.ed.gov/fulltext/ED649155.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED649155.pdf
+[z-ai/glm-5.3-flash / eric-ed536439] Multimodal Instruction as a Means to Scaffold Literary Inter
+[351/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed536439: HTTP error fetching https://files.eric.ed.gov/fulltext/ED536439.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED536439.pdf
+[z-ai/glm-5.3-flash / eric-ed678961] Multimodal Strategies in Literacy Teaching in Vocational Hig
+[352/492] z-ai/glm-5.3-flash/eric-ed678961 latency=66.46s cost=$0.002829 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed425195] Multiple Assessments for Multiple Intelligences. Third Editi
+[353/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed425195: HTTP error fetching https://files.eric.ed.gov/fulltext/ED425195.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED425195.pdf
+[z-ai/glm-5.3-flash / eric-ed426084] Implementing Standards-Based Multiple Measures for IASA, Tit
+[354/492] z-ai/glm-5.3-flash/eric-ed426084 latency=64.48s cost=$0.002888 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed366647] Reassessing Performance Based Assessment.
+[355/492] z-ai/glm-5.3-flash/eric-ed366647 latency=82.67s cost=$0.002681 contributions=10 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed358161] Assessment of Student Learning in Mathematics.
+[356/492] z-ai/glm-5.3-flash/eric-ed358161 latency=45.99s cost=$0.002392 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed426059] Balanced Assessment. K-College.
+[357/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed426059: HTTP error fetching https://files.eric.ed.gov/fulltext/ED426059.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED426059.pdf
+[z-ai/glm-5.3-flash / eric-ed300805] Note-Taking: What Do We Know about the Benefits? ERIC Digest
+[358/492] z-ai/glm-5.3-flash/eric-ed300805 latency=49.8s cost=$0.002124 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed482546] Note-Taking Made Easy. The Study Smart Series.
+[359/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed482546: HTTP error fetching https://files.eric.ed.gov/fulltext/ED482546.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED482546.pdf
+[z-ai/glm-5.3-flash / eric-ed114289] Lessons Designed to Teach Fifth Grade Students the Concept T
+[360/492] z-ai/glm-5.3-flash/eric-ed114289 latency=78.79s cost=$0.003143 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed616219] Using Interviews with Non-Examples to Assess Reasoning in F-
+[361/492] z-ai/glm-5.3-flash/eric-ed616219 latency=66.73s cost=$0.002526 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed108924] Differential Treatments in Learning Disjunctive Concepts in 
+[362/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed108924: HTTP error fetching https://files.eric.ed.gov/fulltext/ED108924.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED108924.pdf
+[z-ai/glm-5.3-flash / eric-ed325766] Peer Facilitator Programs: An Extension of Effective Guidanc
+[363/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed325766: HTTP error fetching https://files.eric.ed.gov/fulltext/ED325766.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED325766.pdf
+[z-ai/glm-5.3-flash / eric-ed394148] Peer-Led Literature Discussion Groups: An Analysis of Recent
+[364/492] z-ai/glm-5.3-flash/eric-ed394148 latency=78.55s cost=$0.002515 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed485093] Designing a Peer Rating System for Asynchronous Discussion
+[365/492] z-ai/glm-5.3-flash/eric-ed485093 latency=68.7s cost=$0.002339 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed214202] Weaving the Web of Meaning: Interaction Patterns in Peer-Res
+[366/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed214202: HTTP error fetching https://files.eric.ed.gov/fulltext/ED214202.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED214202.pdf
+[z-ai/glm-5.3-flash / eric-ed426646] Peer Review of Teaching. A Sourcebook.
+[367/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed426646: HTTP error fetching https://files.eric.ed.gov/fulltext/ED426646.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED426646.pdf
+[z-ai/glm-5.3-flash / eric-ed429343] Peer Review of Teachers. ERIC Digest, Number 126.
+[368/492] z-ai/glm-5.3-flash/eric-ed429343 latency=65.69s cost=$0.002185 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed469301] Evaluacion entre colegas profesores (Peer Review of Teachers
+[369/492] z-ai/glm-5.3-flash/eric-ed469301 latency=65.88s cost=$0.002261 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed422313] Teachers Evaluating Teachers. Peer Review and the New Unioni
+[370/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed422313: HTTP error fetching https://files.eric.ed.gov/fulltext/ED422313.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED422313.pdf
+[z-ai/glm-5.3-flash / eric-ed500172] An Online Peer Assisted Learning Community Model and its App
+[371/492] z-ai/glm-5.3-flash/eric-ed500172 latency=65.64s cost=$0.002291 contributions=7 completeness=0.9 passed=False
+[z-ai/glm-5.3-flash / eric-ed457773] Peer Learning in Higher Education: Learning from & with Each
+[372/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed457773: HTTP error fetching https://files.eric.ed.gov/fulltext/ED457773.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED457773.pdf
+[z-ai/glm-5.3-flash / eric-ed433126] Peer-Assisted Learning.
+[373/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed433126: HTTP error fetching https://files.eric.ed.gov/fulltext/ED433126.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED433126.pdf
+[z-ai/glm-5.3-flash / eric-ed431225] Combining Cultural and Political Perspectives on Educational
+[374/492] z-ai/glm-5.3-flash/eric-ed431225 latency=63.16s cost=$0.002907 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed623455] Perspective Taking and Language Features in Secondary Studen
+[375/492] z-ai/glm-5.3-flash/eric-ed623455 latency=75.1s cost=$0.003527 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed388108] Perspective-Taking in Classroom Science Talk.
+[376/492] z-ai/glm-5.3-flash/eric-ed388108 latency=59.02s cost=$0.002847 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed461013] Five Perspectives on Teaching in Adult and Higher Education.
+[377/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed461013: HTTP error fetching https://files.eric.ed.gov/fulltext/ED461013.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED461013.pdf
+[z-ai/glm-5.3-flash / eric-ed154637] Bilingual, ESOL and Foreign Language Teacher Preparation: Mo
+[378/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed154637: HTTP error fetching https://files.eric.ed.gov/fulltext/ED154637.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED154637.pdf
+[z-ai/glm-5.3-flash / eric-ed639659] Individual Differences in Perspective-Taking during Language
+[379/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed639659: HTTP error fetching https://files.eric.ed.gov/fulltext/ED639659.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED639659.pdf
+[z-ai/glm-5.3-flash / eric-ed113038] Perceptual, Cognitive, and Affective Perspective Taking and 
+[380/492] z-ai/glm-5.3-flash/eric-ed113038 latency=65.72s cost=$0.002788 contributions=8 completeness=0.972 passed=False
+[z-ai/glm-5.3-flash / eric-ed235903] Perspective-Taking and Social Behavior in Behaviorally Disor
+[381/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed235903: HTTP error fetching https://files.eric.ed.gov/fulltext/ED235903.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED235903.pdf
+[z-ai/glm-5.3-flash / eric-ed339513] Accounting for Correlations across Measures of Perspective T
+[382/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed339513: HTTP error fetching https://files.eric.ed.gov/fulltext/ED339513.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED339513.pdf
+[z-ai/glm-5.3-flash / eric-ed131015] Foundations of Physical Activity: Applications as Discipline
+[383/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed131015: HTTP error fetching https://files.eric.ed.gov/fulltext/ED131015.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED131015.pdf
+[z-ai/glm-5.3-flash / eric-ed431768] The Impact of Teachers' Praise on Students' Self-Talk and Se
+[384/492] z-ai/glm-5.3-flash/eric-ed431768 latency=42.98s cost=$0.002122 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed404590] Childrens&apos; Self-Talk and Significant Others&apos; Posit
+[385/492] z-ai/glm-5.3-flash/eric-ed404590 latency=65.97s cost=$0.002172 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed155590] The Teacher Teaches Thinking Skills; Dx and Rx for Students'
+[386/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed155590: HTTP error fetching https://files.eric.ed.gov/fulltext/ED155590.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED155590.pdf
+[z-ai/glm-5.3-flash / eric-ed320107] Using Literature To Develop Critical Thinking.
+[387/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed320107: HTTP error fetching https://files.eric.ed.gov/fulltext/ED320107.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED320107.pdf
+[z-ai/glm-5.3-flash / eric-ed447456] Using Questioning Techniques and the Cloze Procedure in a Se
+[388/492] z-ai/glm-5.3-flash/eric-ed447456 latency=52.84s cost=$0.002797 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed411696] Effects of Three Questioning Strategies on EFL Reading Compr
+[389/492] z-ai/glm-5.3-flash/eric-ed411696 latency=52.39s cost=$0.002488 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed215294] A Study of Teacher Questioning and Student Response Interact
+[390/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed215294: HTTP error fetching https://files.eric.ed.gov/fulltext/ED215294.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED215294.pdf
+[z-ai/glm-5.3-flash / eric-ed355490] Self-Questioning Prediction Strategy's Effect on Comprehensi
+[391/492] z-ai/glm-5.3-flash/eric-ed355490 latency=58.28s cost=$0.002609 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed395769] Practice-Based Learning: Problem-Based Learning Applied to M
+[392/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed395769: HTTP error fetching https://files.eric.ed.gov/fulltext/ED395769.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED395769.pdf
+[z-ai/glm-5.3-flash / eric-ed415220] The Challenge of Problem-Based Learning. 2nd Edition.
+[393/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed415220: HTTP error fetching https://files.eric.ed.gov/fulltext/ED415220.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED415220.pdf
+[z-ai/glm-5.3-flash / eric-ed447747] Problem-Based Learning in Higher Education: Untold Stories.
+[394/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed447747: HTTP error fetching https://files.eric.ed.gov/fulltext/ED447747.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED447747.pdf
+[z-ai/glm-5.3-flash / eric-ed431607] Problem-Based Learning Approach for Science Teachers' Profes
+[395/492] z-ai/glm-5.3-flash/eric-ed431607 latency=48.86s cost=$0.002443 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed623874] Procedural Flowcharts Can Enhance Senior Secondary Mathemati
+[396/492] z-ai/glm-5.3-flash/eric-ed623874 latency=60.43s cost=$0.002464 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed241798] A Cognitive Analysis of Armor Procedural Task Training. Tech
+[397/492] z-ai/glm-5.3-flash/eric-ed241798 latency=209.12s cost=$0.004866 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed293139] Instruction of the Writing Process Affects Students' Writing
+[398/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed293139: HTTP error fetching https://files.eric.ed.gov/fulltext/ED293139.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED293139.pdf
+[z-ai/glm-5.3-flash / eric-ed554510] Missing in Action: Writing Process-Based Instructional Pract
+[399/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed554510: HTTP error fetching https://files.eric.ed.gov/fulltext/ED554510.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED554510.pdf
+[z-ai/glm-5.3-flash / eric-ed562252] Leveraging Sociocultural Theory to Create a Mentorship Progr
+[400/492] z-ai/glm-5.3-flash/eric-ed562252 latency=66.75s cost=$0.002181 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed682309] The Purposeful Principal: Practices for Leading Joyful, Succ
+[401/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed682309: HTTP error fetching https://files.eric.ed.gov/fulltext/ED682309.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED682309.pdf
+[z-ai/glm-5.3-flash / eric-ed085907] Special Education Facilities for Emotionally Disturbed Child
+[402/492] z-ai/glm-5.3-flash/eric-ed085907 latency=71.84s cost=$0.002084 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed147915] Quiet Children and the Classroom Teacher.
+[403/492] z-ai/glm-5.3-flash/eric-ed147915 latency=83.36s cost=$0.003127 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed672838] Quiet Classrooms, Educational Soundscapes, and the Power of 
+[404/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed672838: HTTP error fetching https://files.eric.ed.gov/fulltext/ED672838.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED672838.pdf
+[z-ai/glm-5.3-flash / eric-ed209276] Evaluation Report for Project Year I of &quot;Relating Mathe
+[405/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed209276: HTTP error fetching https://files.eric.ed.gov/fulltext/ED209276.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED209276.pdf
+[z-ai/glm-5.3-flash / eric-ed464600] Teaching Early Mathematics with PLATO[R] Software: An Overvi
+[406/492] z-ai/glm-5.3-flash/eric-ed464600 latency=71.86s cost=$0.003054 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed473359] Day by Day Math: Activities for Grades 3-6.
+[407/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed473359: HTTP error fetching https://files.eric.ed.gov/fulltext/ED473359.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED473359.pdf
+[z-ai/glm-5.3-flash / eric-ed451063] Teaching Math and Science in the Real World.
+[408/492] z-ai/glm-5.3-flash/eric-ed451063 latency=66.04s cost=$0.003042 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed414567] Mathematics and Literature: An Approach to Success.
+[409/492] z-ai/glm-5.3-flash/eric-ed414567 latency=71.23s cost=$0.002943 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed443994] Reflection in Learning &amp; Professional Development: Theor
+[410/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed443994: HTTP error fetching https://files.eric.ed.gov/fulltext/ED443994.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED443994.pdf
+[z-ai/glm-5.3-flash / eric-ed621016] Reflection in Quality Teachers: Examining Reflective Practic
+[411/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed621016: HTTP error fetching https://files.eric.ed.gov/fulltext/ED621016.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED621016.pdf
+[z-ai/glm-5.3-flash / eric-ed429177] Teaching Critical Reflection. Trends and Issues Alerts.
+[412/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed429177: Extracted PDF text is suspiciously short (<500 chars) — likely a scanned/image PDF that needs OCR.
+[z-ai/glm-5.3-flash / eric-ed375110] Facilitating Reflection: Issues and Research.
+[413/492] z-ai/glm-5.3-flash/eric-ed375110 latency=84.3s cost=$0.003251 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed549562] Reflective Teaching
+[414/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed549562: HTTP error fetching https://files.eric.ed.gov/fulltext/ED549562.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED549562.pdf
+[z-ai/glm-5.3-flash / eric-ed608200] Reflective Teaching, Revised Edition. ELT Development Series
+[415/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed608200: HTTP error fetching https://files.eric.ed.gov/fulltext/ED608200.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED608200.pdf
+[z-ai/glm-5.3-flash / eric-ed488861] Talking Teaching: Implementing Reflective Practice in Groups
+[416/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed488861: HTTP error fetching https://files.eric.ed.gov/fulltext/ED488861.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED488861.pdf
+[z-ai/glm-5.3-flash / eric-ed370156] Reflective Practice for Educators: Improving Schooling throu
+[417/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed370156: HTTP error fetching https://files.eric.ed.gov/fulltext/ED370156.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED370156.pdf
+[z-ai/glm-5.3-flash / eric-ed674857] (Re)Learning as Reflective Practitioners: Insights for Other
+[418/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed674857: HTTP error fetching https://files.eric.ed.gov/fulltext/ED674857.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED674857.pdf
+[z-ai/glm-5.3-flash / eric-ed085078] On the Possibility of a Reinforcement Theory of Cognitive Le
+[419/492] z-ai/glm-5.3-flash/eric-ed085078 latency=46.72s cost=$0.001977 contributions=5 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed112553] The Establishment of Learned Reinforcers in Mildly Retarded 
+[420/492] z-ai/glm-5.3-flash/eric-ed112553 latency=76.15s cost=$0.003129 contributions=10 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed040595] The Nature of Reinforcement: Part I. (Volume I), Part II. (V
+[421/492] z-ai/glm-5.3-flash/eric-ed040595 latency=72.72s cost=$0.00295 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed015507] A REINFORCEMENT LEARNING MODEL OF PERSUASIVE COMMUNICATION.
+[422/492] z-ai/glm-5.3-flash/eric-ed015507 latency=61.59s cost=$0.002292 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed062286] Social Influence and Verbal Reinforcement.
+[423/492] z-ai/glm-5.3-flash/eric-ed062286 latency=84.66s cost=$0.00288 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed636486] Ending on a High Note: A Simple Technique for Encouraging St
+[424/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed636486: HTTP error fetching https://files.eric.ed.gov/fulltext/ED636486.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED636486.pdf
+[z-ai/glm-5.3-flash / eric-ed599268] Improving Self-Regulated Learning with a Retrieval Practice 
+[425/492] z-ai/glm-5.3-flash/eric-ed599268 latency=96.62s cost=$0.003628 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed403616] Taking the Helm in Critical Pedagogy: The Basic Speech Curri
+[426/492] z-ai/glm-5.3-flash/eric-ed403616 latency=62.12s cost=$0.002565 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed019188] ESTABLISHING AN INDIVIDUALIZED READING PROGRAM--RHETORICAL A
+[427/492] z-ai/glm-5.3-flash/eric-ed019188 latency=55.77s cost=$0.002598 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed278075] Rhetorical Types and &quot;Training.&quot;
+[428/492] z-ai/glm-5.3-flash/eric-ed278075 latency=64.37s cost=$0.002362 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed646328] Learning Improvement at Scale: Improving Rhetorical Awarenes
+[429/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed646328: HTTP error fetching https://files.eric.ed.gov/fulltext/ED646328.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED646328.pdf
+[z-ai/glm-5.3-flash / eric-ed208422] Hierarchies of Skill in the Composing Process: A Review of C
+[430/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed208422: HTTP error fetching https://files.eric.ed.gov/fulltext/ED208422.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED208422.pdf
+[z-ai/glm-5.3-flash / eric-ed570610] Effects of Faded Scaffolding in Computer-Based Instruction o
+[431/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed570610: HTTP error fetching https://files.eric.ed.gov/fulltext/ED570610.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED570610.pdf
+[z-ai/glm-5.3-flash / eric-ed408317] Scaffolding in a Computer-Based Constructivist Environment f
+[432/492] z-ai/glm-5.3-flash/eric-ed408317 latency=97.01s cost=$0.003383 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed586984] Scaffolding Made Visible
+[433/492] z-ai/glm-5.3-flash/eric-ed586984 latency=122.42s cost=$0.003657 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed441166] Conceptions of Self-Directed Learning: Theoretical and Conce
+[434/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed441166: HTTP error fetching https://files.eric.ed.gov/fulltext/ED441166.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED441166.pdf
+[z-ai/glm-5.3-flash / eric-ed368923] Emerging Perspectives of Self-Directed Learning.
+[435/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed368923: HTTP error fetching https://files.eric.ed.gov/fulltext/ED368923.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED368923.pdf
+[z-ai/glm-5.3-flash / eric-ed408441] Expanding Horizons in Self-Directed Learning.
+[436/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed408441: HTTP error fetching https://files.eric.ed.gov/fulltext/ED408441.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED408441.pdf
+[z-ai/glm-5.3-flash / eric-ed441167] European Views of Self-Directed Learning: Historical, Concep
+[437/492] z-ai/glm-5.3-flash/eric-ed441167 latency=67.83s cost=$0.003076 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed368922] Self-Directed Learning: Application and Research.
+[438/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed368922: HTTP error fetching https://files.eric.ed.gov/fulltext/ED368922.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED368922.pdf
+[z-ai/glm-5.3-flash / eric-ed303603] Self-Monitoring Process for Job Training Partnership Act (JT
+[439/492] z-ai/glm-5.3-flash/eric-ed303603 latency=43.83s cost=$0.002139 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed663314] Examining the Relations between Number of Opportunities to S
+[440/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed663314: HTTP error fetching https://files.eric.ed.gov/fulltext/ED663314.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED663314.pdf
+[z-ai/glm-5.3-flash / eric-ed281133] Temperamental Correlates of Self-Monitoring.
+[441/492] z-ai/glm-5.3-flash/eric-ed281133 latency=62.22s cost=$0.002323 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed208273] When Opposites May Attract: Self-Monitoring and Dating Relat
+[442/492] z-ai/glm-5.3-flash/eric-ed208273 latency=64.06s cost=$0.002365 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed132492] The Effects of Continuous Vs. Intermittent Self-Monitoring o
+[443/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed132492: HTTP error fetching https://files.eric.ed.gov/fulltext/ED132492.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED132492.pdf
+[z-ai/glm-5.3-flash / eric-ed594226] Promoting Self-Regulation in Adolescents and Young Adults: A
+[444/492] z-ai/glm-5.3-flash/eric-ed594226 latency=71.81s cost=$0.002524 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed591697] Self-Determination and Self-Regulation for Students with Int
+[445/492] z-ai/glm-5.3-flash/eric-ed591697 latency=61.51s cost=$0.002171 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed670126] Social-Emotional Learning and Its Effect on Children&apos;s 
+[446/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed670126: HTTP error fetching https://files.eric.ed.gov/fulltext/ED670126.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED670126.pdf
+[z-ai/glm-5.3-flash / eric-ed524750] From Head to Toes: Preliminary Findings from a Pilot Self-Re
+[447/492] z-ai/glm-5.3-flash/eric-ed524750 latency=69.29s cost=$0.002596 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed618651] Self-Regulation in Preschool: Examining Its Factor Structure
+[448/492] z-ai/glm-5.3-flash/eric-ed618651 latency=95.15s cost=$0.003903 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed455810] Guidelines for Instructional Sequencing in Emotional Literac
+[449/492] z-ai/glm-5.3-flash/eric-ed455810 latency=63.82s cost=$0.002806 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed348040] A Critical Review of Elaboration Theory.
+[450/492] z-ai/glm-5.3-flash/eric-ed348040 latency=81.13s cost=$0.003249 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed374285] Understanding Sequence: Electrical Instrumentation, Millwrig
+[451/492] z-ai/glm-5.3-flash/eric-ed374285 latency=56.2s cost=$0.002924 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed324132] Improving Auditory Sequencing Skills in the Kindergarten-Age
+[452/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed324132: HTTP error fetching https://files.eric.ed.gov/fulltext/ED324132.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED324132.pdf
+[z-ai/glm-5.3-flash / eric-ed424582] Sequencing in Literature Instruction.
+[453/492] z-ai/glm-5.3-flash/eric-ed424582 latency=75.82s cost=$0.003091 contributions=10 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed680187] Immersive Learning in Teacher Education: Simulated Environme
+[454/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed680187: HTTP error fetching https://files.eric.ed.gov/fulltext/ED680187.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED680187.pdf
+[z-ai/glm-5.3-flash / eric-ed639734] Virtual and Immersive Learning Environments Using ArtSteps: 
+[455/492] z-ai/glm-5.3-flash/eric-ed639734 latency=57.98s cost=$0.002155 contributions=0 completeness=0.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed661787] Perception of Virtual Environment as a Space for Education
+[456/492] z-ai/glm-5.3-flash/eric-ed661787 latency=64.21s cost=$0.002304 contributions=7 completeness=1.0 passed=False
+[z-ai/glm-5.3-flash / eric-ed099344] What Research Tells the Coach About Sprinting.
+[457/492] z-ai/glm-5.3-flash/eric-ed099344 latency=81.33s cost=$0.003273 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed597102] Effect of Plyometric Training on Repeated Sprint Performance
+[458/492] z-ai/glm-5.3-flash/eric-ed597102 latency=75.14s cost=$0.00282 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed525159] Radical versus Social Constructivism: Dilemma, Dialogue, and
+[459/492] z-ai/glm-5.3-flash/eric-ed525159 latency=87.06s cost=$0.003183 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed099988] Differentiation, Interdependence, and Performance in Formal 
+[460/492] z-ai/glm-5.3-flash/eric-ed099988 latency=59.96s cost=$0.002462 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed237654] Interdependence or Independence: the Aims and Functions of A
+[461/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed237654: HTTP error fetching https://files.eric.ed.gov/fulltext/ED237654.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED237654.pdf
+[z-ai/glm-5.3-flash / eric-ed216981] Learning the Concept of Interdependence: A Study in Two Dime
+[462/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed216981: HTTP error fetching https://files.eric.ed.gov/fulltext/ED216981.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED216981.pdf
+[z-ai/glm-5.3-flash / eric-ed402038] The Cooperative Companion Digest (No. 1-4). Thinking about t
+[463/492] z-ai/glm-5.3-flash/eric-ed402038 latency=50.05s cost=$0.002557 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed120084] A New Civic Literacy: American Education and Global Interdep
+[464/492] z-ai/glm-5.3-flash/eric-ed120084 latency=354.27s cost=$0.007136 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed507069] &quot;Social Learning&quot; Buzz Masks Deeper Dimensions: Mi
+[465/492] z-ai/glm-5.3-flash/eric-ed507069 latency=61.64s cost=$0.002182 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed600841] Social Media for Active Learning: Engaging Students in Meani
+[466/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed600841: HTTP error fetching https://files.eric.ed.gov/fulltext/ED600841.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED600841.pdf
+[z-ai/glm-5.3-flash / eric-ed233509] The Effect of Redundancy on Accelerating Academic Performanc
+[467/492] z-ai/glm-5.3-flash/eric-ed233509 latency=46.14s cost=$0.00203 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed427772] The Effects of Spaced Practice and Spaced Review on Recall a
+[468/492] z-ai/glm-5.3-flash/eric-ed427772 latency=93.52s cost=$0.003135 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed509238] A Guide to Speech-to-Text Services in the Postsecondary Envi
+[469/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed509238: HTTP error fetching https://files.eric.ed.gov/fulltext/ED509238.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED509238.pdf
+[z-ai/glm-5.3-flash / eric-ed166725] English Intonation and Computerized Speech Synthesis. Techni
+[470/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed166725: HTTP error fetching https://files.eric.ed.gov/fulltext/ED166725.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED166725.pdf
+[z-ai/glm-5.3-flash / eric-ed591891] A Strengths-Based Approach to Career Development Using Appre
+[471/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed591891: HTTP error fetching https://files.eric.ed.gov/fulltext/ED591891.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED591891.pdf
+[z-ai/glm-5.3-flash / eric-ed616177] An Introduction to the Strengths Approach
+[472/492] z-ai/glm-5.3-flash/eric-ed616177 latency=47.67s cost=$0.002124 contributions=5 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed616174] A Strengths Approach to Birth to 3 Mathematics Education: Th
+[473/492] z-ai/glm-5.3-flash/eric-ed616174 latency=71.26s cost=$0.002265 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed591783] &quot;Looking beyond What Aren&apos;t They Getting&quot;: Su
+[474/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed591783: HTTP error fetching https://files.eric.ed.gov/fulltext/ED591783.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED591783.pdf
+[z-ai/glm-5.3-flash / eric-ed639831] Deficit-Based vs. Strengths-Based Goal Setting: Does Goal Se
+[475/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed639831: HTTP error fetching https://files.eric.ed.gov/fulltext/ED639831.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED639831.pdf
+[z-ai/glm-5.3-flash / eric-ed612103] Exploring Relations between Formative and Summative Assessme
+[476/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed612103: HTTP error fetching https://files.eric.ed.gov/fulltext/ED612103.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED612103.pdf
+[z-ai/glm-5.3-flash / eric-ed673321] A Policymaker&apos;s Guide to State Summative Assessment Sys
+[477/492] z-ai/glm-5.3-flash/eric-ed673321 latency=62.92s cost=$0.002614 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed548223] Voice vs. Text Chats: Their Efficacy for Learning Probing Qu
+[478/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed548223: HTTP error fetching https://files.eric.ed.gov/fulltext/ED548223.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED548223.pdf
+[z-ai/glm-5.3-flash / eric-ed496128] Making the Case for Formalizing the Lingo and Acronyms of Vi
+[479/492] z-ai/glm-5.3-flash/eric-ed496128 latency=59.58s cost=$0.00221 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed669237] Educators&apos; Experiences with Twitter Chats as Opportunit
+[480/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed669237: HTTP error fetching https://files.eric.ed.gov/fulltext/ED669237.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED669237.pdf
+[z-ai/glm-5.3-flash / eric-ed642925] Effect of Gender and Location of Superintendents on Their Us
+[481/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed642925: HTTP error fetching https://files.eric.ed.gov/fulltext/ED642925.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED642925.pdf
+[z-ai/glm-5.3-flash / eric-ed424412] Partners in the Transfer of Learning. A Resource Manual for 
+[482/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed424412: HTTP error fetching https://files.eric.ed.gov/fulltext/ED424412.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED424412.pdf
+[z-ai/glm-5.3-flash / eric-ed427318] Motivation and Transfer in Language Learning. ERIC Digest.
+[483/492] z-ai/glm-5.3-flash/eric-ed427318 latency=38.16s cost=$0.001905 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed156664] Transfer of Learning in the Acquisition of Motor Skills.
+[484/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed156664: HTTP error fetching https://files.eric.ed.gov/fulltext/ED156664.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED156664.pdf
+[z-ai/glm-5.3-flash / eric-ed431968] Transfer of Learning.
+[485/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed431968: HTTP error fetching https://files.eric.ed.gov/fulltext/ED431968.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED431968.pdf
+[z-ai/glm-5.3-flash / eric-ed492250] Organizational Learning Culture, Transfer Climate and Percei
+[486/492] z-ai/glm-5.3-flash/eric-ed492250 latency=54.68s cost=$0.002618 contributions=6 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed229121] The Use of Stopped-Action Video Replay to Heighten Theory Te
+[487/492] z-ai/glm-5.3-flash/eric-ed229121 latency=63.44s cost=$0.003083 contributions=8 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed035833] Video Tape Feedback in the Development of Listening Skills b
+[488/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed035833: HTTP error fetching https://files.eric.ed.gov/fulltext/ED035833.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED035833.pdf
+[z-ai/glm-5.3-flash / eric-ed256311] Using Video to Study Cognition.
+[489/492] z-ai/glm-5.3-flash/eric-ed256311 latency=87.96s cost=$0.003197 contributions=9 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed630088] Interpreting Worked Examples of Integer Subtraction
+[490/492] z-ai/glm-5.3-flash/eric-ed630088 latency=75.55s cost=$0.002887 contributions=7 completeness=1.0 passed=True
+[z-ai/glm-5.3-flash / eric-ed514877] The Effectiveness of Worked Examples Associated with Present
+[491/492] [FETCH ERROR] z-ai/glm-5.3-flash/eric-ed514877: HTTP error fetching https://files.eric.ed.gov/fulltext/ED514877.pdf: 404 Client Error: Not Found for url: https://files.eric.ed.gov/fulltext/ED514877.pdf
+[z-ai/glm-5.3-flash / eric-ed630470] College Students&apos; Input on the Design of Worked Example
+[492/492] z-ai/glm-5.3-flash/eric-ed630470 latency=70.81s cost=$0.002649 contributions=7 completeness=1.0 passed=True
+
+Done. Run report with: python3 scripts/eval_harness.py report --run-id glm-batch-1
+[ERROR] /opt/learning-wiki/eval/runs/glm-batch-1/z-ai/glm-5.3-flash not found. Run eval_harness.py's `run` command first, or check --run-id/--model.
+cripts/eval_harness.py report --run-id glm-batch-1
+[ERROR] /opt/learning-wiki/eval/runs/glm-batch-1/z-ai/glm-5.3-flash not found. Run eval_harness.py's `run` command first, or check --run-id/--model.

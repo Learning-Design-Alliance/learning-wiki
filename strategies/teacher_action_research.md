@@ -10,6 +10,8 @@ generated:
 
 # Teacher Action Research
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 A good teacher evaluates their own practice and reflects on how to improve — analyzing data, assessing student work, talking to students about what they found difficult, or asking a colleague to observe a lesson. This kind of evaluation shapes future planning, but it doesn't automatically count as *research*. Research is "systematic investigation towards increasing the sum of knowledge," and a piece of inquiry or evaluation work becomes research specifically when: the work involves capturing data (recording conversations or lessons, collecting student work as evidence) so it can be used outside the moment it happened; participants are asked to do something out of their ordinary routine (a focus group, a disruptive interview); and the output is public, which means the knowledge behind it needs to be defensible — based on reliable evidence, valid conclusions, and properly conducted work — before it can contribute anything to the wider field.
 

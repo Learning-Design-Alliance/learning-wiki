@@ -4,67 +4,71 @@ title: Youth Participatory Action Research (YPAR)
 description: Youth Participatory Action Research (YPAR) is an approach where young people collaborate with adults to conduct research and implement actions to address issues in their communities.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Youth Participatory Action Research (YPAR)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-Youth Participatory Action Research (YPAR) is an approach where young people collaborate with adults to conduct research and implement actions to address issues in their communities. YPAR democratically engages academics and participants in research design, methods, and analyses. It empowers youth to investigate and address injustices, utilizing their lived experiences to inform the research process and drive community change. Technology tools can support various stages of the YPAR process, including data collection, analysis, collaboration, and dissemination of findings through digital formats like infographics and videos.
+Youth Participatory Action Research (YPAR) positions young people as co-researchers who investigate problems affecting their own communities, analyze evidence, and act on findings. Unlike adult-led research about youth, YPAR democratically engages participants in research design, methods, and analysis, drawing on their lived experience as expertise. The cycle typically moves from identifying a problem, through systematic inquiry, to dissemination and action aimed at institutional or community change.
 
 ## Design Implications
 
+YPAR is a form of [Community-Based Learning](../principles/community-based-learning.md) grounded in critical pedagogy and situated cognition: learning is embedded in authentic inquiry with real stakes. Systematic reviews report consistent gains in civic engagement, leadership, and critical consciousness, with more variable evidence for academic and health outcomes [~M]. Because youth own the research question, motivation is sustained by authenticity and purpose rather than external reward [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
+
 ### Context
 #### Requirements
-- Adult mentors or educators to guide the research process, access to data and resources relevant to the research question, time for conducting research and analysis, and a supportive environment that values youth voice and leadership.
+- Adult facilitators who can share research expertise without taking over decision-making ([Coaching](../elements/coaching.md) rather than directing)
+- Sufficient time — a full YPAR cycle typically spans a semester or longer
+- Access to data sources, community settings, and an audience with power to act on findings ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md))
+- A supportive environment that treats youth voice as legitimate evidence
+
 #### Constraints
-- Requires significant time and commitment from both youth and adults. Can be challenging to navigate power dynamics between youth and adults. May face resistance from institutions or community members who are not open to youth-led change. Ensuring that the research is rigorous and ethical can be complex.
+- Time-intensive; the inquiry cycle rarely fits within standard lesson units, and rushed cycles collapse into token consultation [-M]
+- Power asymmetries between adults and youth can quietly reassert adult control over question selection and interpretation, undermining the participatory core [-M]
+- Institutional resistance can block the "action" phase — youth produce findings that no decision-maker acts on, which is demoralizing and teaches that inquiry is futile [-W]
+- Outcomes depend heavily on facilitator skill; poorly scaffolded projects yield strong engagement but weak methodological learning [~M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Scale**: whole-classroom projects, after-school programs, or multi-site youth councils
+- **Adult role**: from full co-researcher to technical consultant; the level of [Scaffolding](../principles/scaffolding.md) should fade as youth research competence grows
+- **Domain focus**: health equity, school climate, environmental justice, curriculum reform
+- **Digital tools**: survey platforms, mapping software, and video/infographic production for dissemination
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Youth in middle school, high school, and community organizations, adult educators and mentors
+- Adolescents and young adults in middle school, high school, and community organizations, who have the lived experience and emerging analytical capacity to conduct authentic inquiry
+- Youth from marginalized communities, for whom investigating structural inequities builds critical consciousness and agency [~M]
+- Youth with low school engagement, who often show stronger persistence when the work has visible community purpose [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Promote positive community change, empower youth leadership, democratize research, enhance youth development, develop research skills, foster critical thinking
-
-### Affordances
-- Provides youth with agency and voice in addressing issues that affect them. Connects learning to real-world problems and encourages youth to use their unique insights and experiences. Builds collaborative skills through partnership with peers and adults. Promotes critical thinking by engaging in research, data analysis, and problem-solving. Fosters a sense of ownership and responsibility for creating positive change in their communities.
-
-### Personalization
-- The YPAR project can be adapted to different contexts and issues, based on the needs and interests of the youth involved. Research methods can be tailored to fit the resources and skills available. The level of adult involvement can be adjusted based on the youth's experience and capacity.
+- Research and inquiry skills: question formulation, data collection, analysis, and argumentation ([Argumentation](../elements/argumentation.md))
+- Critical consciousness: recognizing and analyzing structural causes of community problems
+- Civic and leadership development: presenting to decision-makers, organizing for change
+- Collaboration and communication through sustained work with peers and adults
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Problem Presentation](../elements/problem-presentation.md)
-- [Inquiry and Research](../elements/inquiry-and-research.md)
-- [Solution Development](../elements/solution-development.md)
-- [Application](../elements/application.md)
-- [Peer Collaboration](../elements/peer-collaboration.md)
-- [Discussion Sections](../elements/discussion-sections.md)
-- [Provide Feedback](../elements/provide-feedback.md)
-- [Assess Performance](../elements/assess-performance.md)
-
-## Assessment Evidence
-- Track the number of youth involved in YPAR projects, the types of issues addressed, and the actions taken as a result of the research. Collect feedback from youth and adults involved in the process to assess their experiences and learning. Measure the impact of YPAR projects on community change, such as policy changes or improved outcomes.
-
-## Impact
-- Studies show that YPAR increases youth engagement, critical consciousness, and civic participation. YPAR can lead to positive changes in schools and communities by addressing issues such as inequality, discrimination, and environmental concerns. Research indicates YPAR can promote youth empowerment and build stronger relationships between youth and adults.
+1. **Identify a problem** grounded in youth experience — use [Challenge Identification](../elements/challenge-identification.md) to surface issues youth genuinely care about
+2. **Build research capacity** — teach methods through [Case Studies](../elements/case-studies.md) of prior youth research, then practice skills on low-stakes questions
+3. **Design and conduct the inquiry** — surveys, interviews, observation, or mapping, with adults coaching rather than leading
+4. **Analyze and interpret** — youth analyze data and construct evidence-based claims, with [Class Discussion](../elements/class-discussion.md) to stress-test interpretations
+5. **Act and disseminate** — present findings to authentic decision-makers through reports, testimony, infographics, or video ([Application](../elements/application.md))
+6. **Reflect and iterate** — assess what changed, what didn't, and what the next cycle should investigate ([Assess Performance](../elements/assess-performance.md))
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Action Research](action-research.md) — YPAR applies the same inquiry cycle with youth as the researchers rather than teachers
+- [Community-Based Learning](../principles/community-based-learning.md) — shares the commitment to learning embedded in real community contexts
+- [Service Learning](service-learning.md) — related but typically adult-directed; YPAR shifts the locus of decision-making to youth
 
 ## Examples
-- Youth in Montgomery County, MD, are using YPAR to research and address issues in their communities (see description). The YPAR Hub provides curriculum and resources to support YPAR projects (see description).
+- **[YPAR Hub](https://yparhub.berkeley.edu)** — University of California, Berkeley resource offering a step-by-step YPAR curriculum, facilitator guides, and example youth projects.
+- **[Council of Youth Research](https://ucla.in/3WqYcF)** — UCLA-based program where Los Angeles high school students research educational inequity and present findings to district and civic leaders.
+- **Health equity projects** — Youth-led photovoice and survey studies of neighborhood food access and school wellness policies, documented in *Health Education & Behavior* special issues on YPAR.
 
 ## Key Sources
-- <!-- TODO -->
+- Anyon, Y., Bender, K., Kennedy, H., Ditch, S., Whitfield, K., Fulton, A., Delgado, D., Haghighat, E., Meiklejohn, K., & McIntosh, K. (2018). A systematic review of youth participatory action research (YPAR) in the United States: Methodologies, youth outcomes, and future directions. *Health Education & Behavior, 45*(4), 465–478. [doi:10.1177/1090198118769357](https://doi.org/10.1177/1090198118769357)
+- Ozer, E. J. (2016). Youth-led participatory action research: Developmental and equity perspectives. *Advances in Child Development and Behavior, 50*, 189–207. [doi:10.1016/bs.acdb.2015.11.006](https://doi.org/10.1016/bs.acdb.2015.11.006)
+- Cammarota, J., & Fine, M. (Eds.). (2008). *Revolutionizing education: Youth participatory action research in motion*. Routledge.
+- Kirshner, B. (2015). *Youth activism in an era of education inequality*. NYU Press.

@@ -17,6 +17,8 @@ sources:
 
 # Fiber Crafting for Proportional Reasoning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Proportional reasoning is persistently difficult for learners taught primarily through abstract symbolic ratios. This pattern instead grounds proportional reasoning in fiber crafting, where a personally-defined unit (a knit stitch, a crochet stitch, a fabric fold) is repeated into a larger pattern, and the multiplicative relationship between the unit and the pattern becomes visible and tactile rather than purely symbolic. Three craft instantiations target the same underlying concept through different sensory and material affordances: knitting foregrounds gauge (the ratio between stitch width and height), crochet foregrounds multiplicative row growth (sectors of stitches multiplying outward), and pleating foregrounds hidden-layer ratios (the 3:1 relationship between unfolded and folded fabric length).
 

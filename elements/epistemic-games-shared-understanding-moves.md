@@ -15,6 +15,8 @@ sources:
 
 # Epistemic Games: Shared-Understanding Moves
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Five recurring interaction moves that interdisciplinary teams use, often supported by a shared visual representation (a whiteboard, a sketch), to build a single, integrated problem statement out of individually held knowledge and perspectives:
 

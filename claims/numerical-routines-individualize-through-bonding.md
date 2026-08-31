@@ -16,6 +16,8 @@ sources:
 
 # Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding
 
+> **Claim** · [All claims](index.md)
+
 A longitudinal teaching experiment tracing one child's numerical development over 18 months (corroborated by three additional cases) found a consistent three-stage sequence — unbonded precursor routines, then separately vertically-bonded quantitative and numerical routines, then horizontally-bonded coalescence into a discourse of cardinality — with the same qualitative sequence, though not the same pace, across all four children studied.
 
 ## Subclaims

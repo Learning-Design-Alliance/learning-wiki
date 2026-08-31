@@ -16,6 +16,8 @@ sources:
 
 # Elaborated discussion of narrated emotions supports teacher professional learning
 
+> **Claim** · [All claims](index.md)
+
 Teachers rarely make their pedagogical emotions explicit in professional-learning conversations compared to how often they narrate thoughts and actions, and implicit "emotional rules" further suppress explicit discussion of negative emotions about students — but when a group does respond to a narrated emotion with elaborated, inquiry-oriented discussion (rather than brief acknowledgment or no response), that discussion can surface and examine beliefs in ways that support professional learning.
 
 ## Subclaims

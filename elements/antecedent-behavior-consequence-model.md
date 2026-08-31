@@ -10,6 +10,8 @@ generated:
 
 # Antecedent-Behavior-Consequence (ABC) Model
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Applied behavior analysis — using behaviorist techniques to change socially important behavior (Lovitt, 1994) — begins by analyzing a behavior into three components: **antecedents** (the environmental events or stimuli that trigger a behavior), **behaviors** (what the person actually does, says, or observably does), and **consequences** (the outcome that either encourages or discourages the behavior's recurrence). If a behavior reliably occurs when a specific antecedent is present, that pattern implies a favorable outcome has been reinforcing it, making the antecedent a genuine "trigger" for the next occurrence.
 

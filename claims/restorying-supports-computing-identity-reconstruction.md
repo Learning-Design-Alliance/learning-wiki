@@ -16,6 +16,8 @@ sources:
 
 # Restorying supports Black girls' identification of and resistance to dominant narratives in computing
 
+> **Claim** · [All claims](index.md)
+
 In a museum computing workshop using electronic quilting to enact womanist restorying, one Black girl explicitly deconstructed her group's dominant stereotype of computer scientists, designed a counter-narrative quilt patch centering a Black woman, and reported increased self-reported belonging and aspiration toward computing.
 
 ## Subclaims

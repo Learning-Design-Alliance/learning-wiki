@@ -10,6 +10,8 @@ generated:
 
 # Experiential Learning Theory
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 David Kolb's Experiential Learning Theory (ELT) is "a holistic model of the learning process and a multi-linear model of adult development" (Baker, Jensen, & Kolb, 2002, p. 51), rooted explicitly in Dewey, Kurt Lewin, and Piaget. It models learning as a four-stage cycle — concrete experience, reflective observation, abstract conceptualization, and active experimentation — organized around two underlying dialectical continuums: **apprehension** (concrete experience) versus **comprehension** (abstract conceptualization), and **intension** (reflective observation) versus **extension** (active experimentation). Kolb's central theoretical claim is that learning requires actively resolving the discomfort of whichever pole of each continuum a learner is *not* naturally comfortable with: "perception alone is not sufficient for learning; something must be done with it," and "transformation alone cannot represent learning, for there must be something to be transformed" (Baker, Jensen, & Kolb, pp. 56–67). This dialectical-resolution requirement is the theory's core explanatory mechanism, distinguishing it from a purely descriptive account of "learning by doing."
 

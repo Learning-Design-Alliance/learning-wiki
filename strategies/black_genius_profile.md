@@ -1,64 +1,78 @@
 ---
 type: strategy
 title: Black Genius Profile
-description: This strategy involves capturing Black learners’ genius using specific elements such as Interest Awareness, Racial Identity, Social Justice, Multi-cultural Navigation, Selective Trust, and Can-do Attitude.
+description: A strengths-based profiling tool through which parents, caregivers, and educators document Black learners' interests, racial identity, skills, and growth areas as an advocacy and personalization instrument.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Black Genius Profile
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-This strategy involves capturing Black learners’ genius using specific elements such as Interest Awareness, Racial Identity, Social Justice, Multi-cultural Navigation, Selective Trust, and Can-do Attitude. Parents complete a Black Genius profile for their child as an advocacy tool, cultural tool, and personal learning tool to learn more about the child’s interests, skills, expectations, strengths, and growth areas to support their healthy development. The profile is completed with the input of the child and involves reflecting on questions to capture their thoughts and ideas.
+The Black Genius Profile is a structured instrument through which parents, caregivers, and educators capture Black learners' strengths across six dimensions: Interest Awareness, Racial Identity, Social Justice, Multi-cultural Navigation, Selective Trust, and Can-do Attitude. The profile is completed collaboratively with the child, who reflects on guided questions about their interests, skills, expectations, and growth areas. It functions simultaneously as an advocacy tool (informing school-based decisions), a cultural tool (affirming identity), and a personal learning tool (surfacing strengths that instruction can build on).
 
 ## Design Implications
 
+The profile operationalizes a strengths-based, culturally responsive stance: instruction that connects to learners' cultural knowledge and identities produces stronger engagement and achievement than deficit-framed approaches (Ladson-Billings, 1995) [+M]. Because the child co-authors the profile, the process itself builds self-efficacy — learners see their own interests and identities treated as instructional assets rather than obstacles [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]. Identity-affirming environments also counteract the performance costs of stereotype threat, which depresses achievement when intellectual identity is under threat (Steele, 1997) [+S].
+
 ### Context
 #### Requirements
-- Black Genius Profile workbook, trained facilitators, time for reflection and discussion, and a commitment to cultural responsiveness.
+- A structured profile instrument (workbook or equivalent) with prompts for each of the six dimensions
+- Trained facilitators or educators who can interpret and act on profile content in culturally responsive ways
+- Time for child–caregiver reflection and discussion; the child's own voice is essential, not optional
+- A commitment from educators to use the profile for instructional planning, not merely documentation
+
 #### Constraints
-- May require additional support for families and educators to understand and implement the framework effectively. Could be perceived as a deficit-based approach if not implemented with sensitivity and care.
+- If educators treat the profile as a one-time intake form rather than a living document, its advocacy value collapses [-W]
+- Can drift into a deficit lens if facilitators emphasize "growth areas" over strengths, or if the profile is used to sort or label learners [-W]
+- Requires educator cultural competence; without it, responses may be misread or tokenized [~W]
+- Effectiveness depends on school structures actually accommodating the profile's findings; a profile with no decision-making pathway changes little [-W]
+- Identity affirmation alone does not raise achievement without accompanying instructional rigor; pairing the profile with high expectations is essential (Gay, 2018) [~M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- Completed primarily by parents as advocacy documentation for IEP or placement meetings, or co-completed in classroom settings
+- Used as a recurring reflection tool (revisited each term) versus a single intake snapshot
+- Adapted for digital completion, allowing multimedia evidence of the child's interests and skills
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Black learners, parents, educators, and caregivers
+- Black learners across K–12, particularly in settings where their cultural knowledge and strengths are under-recognized (Ladson-Billings, 1995) [+M]
+- Learners whose interest and identity data would otherwise be invisible to instructional planning — connecting content to interests raises task value and engagement [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+- Parents, caregivers, and educators as secondary users who gain a shared, strengths-based vocabulary for supporting the child
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Capture Black learners’ genius, promote positive racial identity formation, support advocacy, enhance cultural responsiveness, facilitate personal learning, and support healthy development.
-
-### Affordances
-- Provides a framework for understanding and celebrating Black learners' unique strengths and perspectives. Enhances communication and collaboration between parents, educators, and learners. Promotes a strengths-based approach to learning and development.
-
-### Personalization
-- Profiles can be tailored to individual learners' experiences, interests, and cultural backgrounds. Flexible completion methods allow for varying levels of input from children and parents.
+- Positive racial identity formation, which supports academic persistence and resilience [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+- Metacognitive self-knowledge: learners articulate their own interests, strengths, and growth areas
+- Socio-emotional development: agency, advocacy, and a "can-do" orientation toward challenge
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Individual Reflection](../elements/individual-reflection.md)
-- [Eliciting Student Thinking](../elements/eliciting-student-thinking.md)
-
-## Assessment Evidence
-- Track the completion and use of Black Genius Profiles. Gather feedback from learners, parents, and educators on the effectiveness of the framework. Observe changes in learners' self-esteem, academic performance, and social-emotional development.
-
-## Impact
-- Empowers Black learners by affirming their identities and strengths. Facilitates culturally responsive teaching practices. Enhances parent-educator collaboration to support learners' holistic development.
+1. Introduce the six dimensions (Interest Awareness, Racial Identity, Social Justice, Multi-cultural Navigation, Selective Trust, Can-do Attitude) to the child and caregiver in plain language.
+2. Have the child respond to guided questions independently or with caregiver support before adult perspectives are recorded — individual reflection first prevents adult framing from dominating the profile.
+3. Facilitator probes the child's responses to surface reasoning, not just preferences — ask *why* an interest matters, not only *what* the interests are.
+4. Caregiver and educator complete their sections, noting convergences and divergences with the child's self-assessment.
+5. Translate profile findings into concrete instructional decisions: interest-linked texts, identity-affirming examples, and strengths-based framing of growth areas.
+6. Revisit and update the profile periodically; treat it as a living document, supported by ongoing [Check-ins](../principles/check-ins.md).
 
 ## Related Strategies
-- <!-- TODO -->
+- [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the profile supplies the interest and background data that activation depends on
+- [Check-ins](../principles/check-ins.md) — ongoing relational practice that keeps profile content current
 
 ## Related Elements
-- <!-- TODO -->
+- [Coaching](../elements/coaching.md) — educators act on profile findings through ongoing supportive dialogue
 
-## Tools
-- <!-- TODO -->
+## Patterns That Use This Strategy
+- [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the profile gives educators the learner-knowledge needed to tailor modeling and coaching to the child's interests and identity
 
 ## Examples
-- Parents complete the Black Genius profile with their child to advocate for their needs at school and support their cultural identity and academic performance.
+- A parent completes the Black Genius Profile with their ten-year-old before a school placement meeting, using the Interest Awareness and Can-do Attitude sections to advocate for advanced math access and culturally relevant reading selections.
+- A middle-school advisory program has students update their profiles each semester; advisors use the Multi-cultural Navigation and Selective Trust dimensions to design discussion prompts and connect students with mentors.
 
 ## Key Sources
-- <!-- TODO -->
+- Ladson-Billings, G. (1995). Toward a theory of culturally relevant pedagogy. *American Educational Research Journal, 32*(3), 465–491. [doi:10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465)
+- Gay, G. (2018). *Culturally responsive teaching: Theory, research, and practice* (3rd ed.). Teachers College Press.
+- Hammond, Z. (2015). *Culturally responsive teaching and the brain: Promoting authentic engagement and rigor among culturally and linguistically diverse students*. Corwin.
+- Steele, C. M. (1997). A threat in the air: How stereotypes shape intellectual identity and performance. *American Psychologist, 52*(6), 613–629. [doi:10.1037/0003-066X.52.6.613](https://doi.org/10.1037/0003-066X.52.6.613)
+- Oyserman, D., Elmore, K., & Smith, G. (2012). Self, self-concept, and identity. In M. R. Leary & J. P. Tangney (Eds.), *Handbook of self and identity* (2nd ed., pp. 69–104). Guilford Press.

@@ -16,6 +16,8 @@ sources:
 
 # Resolving a participation double-bind requires redesigning activity structures, not just adding outreach
 
+> **Claim** · [All claims](index.md)
+
 An embedded case study of a Chicago participatory budgeting process found that outreach plus sequential interpretation failed to sustain Latino immigrant participation (attendance dropped from 7 to 0 within two meetings), while a subsequent formative intervention that redesigned the activity's tools and roles — a dedicated Spanish-Language Committee with native-language deliberation — sustained participation through a full cycle and was later adopted by other wards.
 
 ## Subclaims

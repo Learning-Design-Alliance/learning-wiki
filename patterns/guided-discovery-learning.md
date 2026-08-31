@@ -17,6 +17,8 @@ grain_size: lesson
 
 # Guided Discovery Learning
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Guided Discovery Learning is a pattern in which learners investigate examples, data, or problems and are led by prompts, questions, and scaffolds toward important concepts or principles. The key word is guided. Learners are not left to discover ideas entirely on their own; the instructor shapes the sequence, materials, and questions so that exploration becomes productive rather than random.
 

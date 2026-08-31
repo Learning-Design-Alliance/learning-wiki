@@ -35,6 +35,8 @@ sources:
 
 # Worked Examples
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Worked examples present a partially or fully solved problem so learners can study task structure, decision points, and reasoning before attempting similar problems independently.
 

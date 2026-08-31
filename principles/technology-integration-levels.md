@@ -10,6 +10,8 @@ generated:
 
 # Technology Integration Levels (SAMR / RAT / PIC-RAT)
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Several closely related models help teachers and designers judge the *effect* a specific use of technology is having on instruction, rather than whether technology is used at all (Kimmons, 2018):
 

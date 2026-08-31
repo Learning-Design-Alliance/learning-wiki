@@ -16,6 +16,8 @@ sources:
 
 # AI-mediated feedback in hands-on exhibits improves learning and engagement
 
+> **Claim** · [All claims](index.md)
+
 A museum exhibit that adds computer-vision sensing and a real-time predict-observe-explain feedback cycle to hands-on tower-building produces substantially better concept learning and engineering transfer than the same physical materials without feedback, without reducing enjoyment, and holds visitors' voluntary attention over four times longer.
 
 ## Subclaims

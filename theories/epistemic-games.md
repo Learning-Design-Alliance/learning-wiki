@@ -15,6 +15,8 @@ sources:
 
 # Epistemic Games
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Epistemic games (Collins & Ferguson, 1993; Morrison & Collins, 1995) are "generative patterns of inquiry that underpin knowledgeable actions" (Markauskaite & Goodyear, 2017) — recognizable, rule-like sets of moves, constraints, and strategies organized around constructing a particular kind of knowledge (an explanation, a design, a problem statement). Each game has entry conditions, constraints on who can play and how, a target *epistemic form* (the kind of knowledge structure being built), and exit conditions; games can nest inside one another and a group can transfer out of one game into another and back. Earlier work on epistemic games focused mainly on the discourse moves involved. Arthars et al. (2024) extend the framework with an **ecological analytical perspective** (Goodwin; Hutchins), arguing that a game's moves are inseparably multimodal — language, gesture, gaze, body positioning, and shared artifacts (a whiteboard, a sketch) jointly constitute the "move," not language alone.
 

@@ -16,6 +16,8 @@ sources:
 
 # Personal connection to data supports critical data-literacy stance-taking
 
+> **Claim** · [All claims](index.md)
+
 When learners recognize a personal or moral stake in what a dataset represents — rather than treating it as an abstract external phenomenon — they are more likely to question what the data selects, aggregates, and omits, and to narrate their model-building choices in ways that invite an audience to do the same.
 
 ## Subclaims

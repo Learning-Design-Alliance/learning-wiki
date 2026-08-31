@@ -10,6 +10,8 @@ generated:
 
 # Critical Pedagogy
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Social reconstructionism was founded as a response to the atrocities of World War II and the Holocaust, aiming at social reform that would help prepare students to build a better world by instilling democratic values. Critical pedagogy emerged from that foundation.
 

@@ -1,65 +1,72 @@
 ---
 type: strategy
-title: "Rich Library: Poetry"
-description: Provides access to a collection of poems and poetry-related resources to enhance literacy and engagement with poetry.
+title: Rich Library: Poetry
+description: Provides learners with a curated, browsable collection of poems and poetry-related multimedia resources to build literacy, engagement, and appreciation of poetic language.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Rich Library: Poetry
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-Provides access to a collection of poems and poetry-related resources to enhance literacy and engagement with poetry. This includes classic poems, audio recordings, illustrations, and browsing capabilities based on category or age. Additional resources include the Poetry Foundation website, offering poems, articles, learning activities, and multimedia content.
+A rich poetry library gives learners on-demand access to a broad collection of poems — classic and contemporary — alongside audio recordings, illustrations, and category- or age-based browsing. Learners select texts aligned to interest and reading level, then use them as material for reading, discussion, and their own writing. Representative resources include the [iF Poems](https://apps.apple.com/us/app/if-poems/id452665847) app and the [Poetry Foundation](https://www.poetryfoundation.org) website, which offers poems, articles, glossaries, and learning activities.
 
 ## Design Implications
 
+A rich library works because choice and relevance drive reading engagement: when learners select texts that interest them, they read more and comprehend more deeply [Reading engagement predicts comprehension growth.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. Combining text with audio and visual presentation supports encoding through multiple channels [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [~M] — audio recordings of poems are especially valuable because poetry is partly an oral form, and hearing rhythm, rhyme, and intonation conveys information silent reading misses.
+
 ### Context
 #### Requirements
-- Access to the iF Poems app or the Poetry Foundation website. For classroom use, access to devices and internet connectivity may be required.
+- A curated, navigable collection (app or website) with search or browsing by theme, form, and age level
+- Devices and internet connectivity for digital libraries, or a physical classroom poetry shelf
+- A purposeful follow-on activity — discussion, annotation, or writing — so browsing becomes reading and reading becomes response
+
 #### Constraints
-- The selection of poems in the iF Poems app may be limited. Reliance on digital resources requires access to technology and internet connectivity. The effectiveness depends on the learner's interest in poetry.
+- A library alone does not teach: unguided browsing without a task produces skimming, not comprehension [-M]
+- Effectiveness depends heavily on learner interest and prior positive experience with poetry; reluctant readers rarely self-initiate poetry exploration [-W]
+- Digital-library reliance excludes learners without device or internet access, and app collections (e.g., iF Poems) are finite and skewed toward canonical, English-language works [~W]
+- Poorly matched difficulty can frustrate: poetry's compressed, figurative language imposes high processing demands on novice readers, so unmediated access to canonical poems can overload working memory [-M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- Curated playlists or [Choice Boards](../elements/choice-boards.md) that structure selection around a theme, form, or era
+- Audio-first entry: learners listen to a performed poem before reading it ([Audiobooks](../principles/audiobooks.md))
+- Library as mentor-text source for writing: poems studied as models, then imitated ([Application](../elements/application.md))
+- Physical, print-based libraries function equally well where technology access is limited
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Elementary teachers, learners of all ages interested in poetry
+- Elementary and secondary learners building literacy; choice of accessible, high-interest poems supports motivation and persistence [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
+- Emerging readers who benefit from audio-supported access to texts above their decoding level
+- Advanced learners using the library for independent exploration and mentor texts
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Expose learners to a wide range of poetry, enhance literacy skills, foster appreciation for poetry, and provide resources for further exploration.
-
-### Affordances
-- Offers a variety of poems and resources to cater to different interests and learning styles. The visual and auditory elements support engagement and comprehension. Access to a rich library can foster a love for reading and self-expression.
-
-### Personalization
-- Learners can choose poems based on category, age, or theme. The Poetry Foundation website offers a wide range of resources and activities to suit individual learning preferences.
+- Literacy development: fluency, vocabulary, and interpretation of figurative language
+- Appreciation and disposition: fostering voluntary reading and a durable interest in poetry
+- Writing craft: using published poems as models for learners' own composition
+- Cultural awareness: encountering diverse voices, forms, and historical periods
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Assigned Readings](../elements/assigned-readings.md)
-- [Demonstration](../elements/demonstration.md)
-- [Application](../elements/application.md)
-
-## Assessment Evidence
-- Observe learner engagement with the poems and resources. Assess comprehension through discussions, creative writing activities, or presentations. Track the types of poems learners choose and the resources they explore.
-
-## Impact
-- Exposure to a rich library of poetry can enhance literacy skills, foster creativity, and cultivate a love for reading. Access to additional resources like the Poetry Foundation website can provide further opportunities for learning and exploration. These materials can support the development of cultural awareness, self-expression, and critical thinking.
+1. Frame a purpose or theme (e.g., "poems about place") and briefly model how to browse and select — a short [Demonstration](../elements/demonstration.md) of reading a poem aloud and noticing its moves.
+2. Have learners select poems from the library ([Assigned Readings](../elements/assigned-readings.md) can supply a required anchor text alongside free choice).
+3. Support close engagement through [Annotating](../principles/annotating.md) — marking images, sound patterns, and turns — or structured [Class Discussion](../elements/class-discussion.md).
+4. Move to [Application](../elements/application.md): learners write their own poems using the library texts as mentor models, optionally performing them aloud.
+5. Return to the library across the unit so exploration becomes habitual rather than a one-off event.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting poems to learners' experience before reading improves interpretation
+- [Acting-Role-Play](acting-role-play.md) — performing poems deepens engagement with voice and tone
 
 ## Examples
-- Elementary teachers use the iF Poems app to introduce students to different types of poems and encourage them to write their own. Students explore the Poetry Foundation website to find poems related to specific themes or topics they are studying in class.
+- Elementary teachers use the [iF Poems](https://apps.apple.com/us/app/if-poems/id452665847) app to introduce poem forms; students listen to recordings, then write imitations of a chosen poem.
+- Secondary classes browse the [Poetry Foundation](https://www.poetryfoundation.org) collection by theme to find poems connected to a novel or historical unit, then present a chosen poem to the class.
+- A print-based variant: a classroom "poem of the week" shelf where learners nominate and display poems they have discovered.
 
 ## Key Sources
-- <!-- TODO -->
+- Guthrie, J. T., McRae, A., & Klauda, S. L. (2007). Contributions of Concept-Oriented Reading Instruction to knowledge about interventions for motivations in reading. *Educational Psychologist, 42*(4), 237–250. [doi:10.1080/00461520701621087](https://doi.org/10.1080/00461520701621087)
+- Clark, R. C., & Mayer, R. E. (2016). *E-Learning and the Science of Instruction* (4th ed.). Wiley. [doi:10.1002/9781119239086](https://doi.org/10.1002/9781119239086)
+- Guthrie, J. T., & Wigfield, A. (2000). Engagement and motivation in reading. In M. L. Kamil et al. (Eds.), *Handbook of Reading Research, Vol. III* (pp. 403–422). Erlbaum. [doi:10.1108/978-1-60752-786-220251011](https://doi.org/10.1108/978-1-60752-786-220251011)
+- Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. [doi:10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68)
+

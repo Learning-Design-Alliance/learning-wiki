@@ -15,6 +15,8 @@ sources:
 
 # Spaced Repetition
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.
 

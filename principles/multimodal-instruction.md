@@ -23,6 +23,8 @@ sources:
 
 # Multimodal Instruction
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Multimodal instruction presents and develops learning through more than one representational mode, such as text, speech, image, gesture, diagram, demonstration, or interactive media. Its value is not in catering to supposed fixed "learning styles," but in using different modes for different instructional purposes: some ideas are clearer when shown, some when spoken, some when enacted, and some when learners move between representations. Well-designed multimodal instruction can improve clarity, access, and retention when the modes complement rather than compete with one another.
 
@@ -79,6 +81,6 @@ Multimodal instruction works when different modes carry different parts of the m
 - **Interactive multimodal lessons**: Learners switch between reading, viewing, listening, and doing as they build understanding.
 
 ## Key Sources
-- Gellevij, M., Van der Meij, H., de Jong, T., & Pieters, J. (2002). Multimodal versus unimodal instruction in a complex learning context. *The Journal of Experimental Education, 70*(3), 215-239. [https://doi.org/10.1080/00220970209599506](https://doi.org/10.1080/00220970209599506)
+- Gellevij, M., Van der Meij, H., de Jong, T., & Pieters, J. (2002). Multimodal versus unimodal instruction in a complex learning context. *The Journal of Experimental Education, 70*(3), 215-239. [https://doi.org/10.1080/00220970209599507](https://doi.org/10.1080/00220970209599507)
 - Holmström, I., & Schönström, K. (2018). Deaf lecturers' translanguaging in a higher education setting: A multimodal multilingual perspective. *Applied Linguistics Review, 9*(1), 90-111. [https://doi.org/10.1515/applirev-2017-0071](https://doi.org/10.1515/applirev-2017-0071)
-- Givens, M., Holdsworth, L., Mi, X., Rascoe, F., Valk, A., & Viars, K. E. (2020). Multimodal information literacy in higher education: Critical thinking, technology, and technical skill. In *Handbook of research on integrating digital technology with literacy pedagogies* (pp. 97-120). IGI Global. [https://doi.org/10.4018/978-1-7998-1464-9.ch005](https://doi.org/10.4018/978-1-7998-1464-9.ch005)
+- Givens, M., Holdsworth, L., Mi, X., Rascoe, F., Valk, A., & Viars, K. E. (2020). Multimodal information literacy in higher education: Critical thinking, technology, and technical skill. In *Handbook of research on integrating digital technology with literacy pedagogies* (pp. 97-120). IGI Global. [https://doi.org/10.4018/978-1-7998-0246-4.ch005](https://doi.org/10.4018/978-1-7998-0246-4.ch005)

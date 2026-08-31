@@ -15,6 +15,8 @@ sources:
 
 # Broker Position Circulation
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Brokers — people who bridge two or more practices in a [Boundary Crossing Learning](../theories/boundary-crossing-learning.md) design — face a paradox: their effort and skill at bridging is what sustains the crossing, but that same centrality can prevent other participants from developing bridging capacity of their own, since delegating the role feels like relinquishing the thing that makes it work. This strategy addresses the paradox directly: a current broker deliberately and explicitly hands their bridging role (or a visible part of it, such as chairing meetings) to a successor who has not previously held it, framing the handoff as building the successor's ownership rather than as stepping back from the work. In the source study, this was done in a chain — a school director delegated the facilitator role to a teacher, who later delegated meeting-chairing duties to students — with each transfer reported to increase the recipient's sense of ownership.
 

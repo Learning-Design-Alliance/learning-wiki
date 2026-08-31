@@ -10,6 +10,8 @@ generated:
 
 # Adolescent Brain Development
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 The adolescent brain undergoes substantial restructuring between roughly ages 10 and 25, and the *sequence* of that restructuring — not just its extent — has direct implications for how adolescents learn, take risks, and regulate emotion. The **limbic system**, which governs reward-seeking and emotional response, matures years ahead of the **prefrontal cortex**, which governs executive functions such as impulse control, planning, emotion regulation, and sustained attention. Steinberg (2008) describes this as "a powerful engine before the braking system is in place" — adolescents have an adult-level capacity for reward-seeking and emotional intensity well before they have an adult-level capacity to regulate it.
 

@@ -24,6 +24,8 @@ sources:
 
 # Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.
 
+> **Claim** · [All claims](index.md)
+
 Walter Mischel's "marshmallow test" is one of the best-known studies in developmental psychology. Its original follow-up findings were dramatic, but a large, more representative conceptual replication decades later found a substantially weaker and more context-sensitive relationship.
 
 ## Subclaims

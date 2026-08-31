@@ -1,65 +1,72 @@
 ---
 type: strategy
 title: Cede Power (Student Voice)
-description: This principle emphasizes sharing power with students and families in the design of learning experiences.
+description: Sharing decision-making power with students and families in the design and governance of learning experiences, positioning students as co-designers rather than passive recipients.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Cede Power (Student Voice)
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-This principle emphasizes sharing power with students and families in the design of learning experiences. It involves activities like spectrum activities, where students express their agreement or disagreement with statements about their school experience by physically moving to different parts of the room. It also includes fishbowl experiences, where students discuss their experiences in school while teachers and school leaders listen. This approach aims to center students as co-designers of their learning, empowering them and giving them a greater voice in their education. The focus is on breaking precedent and allowing students to shape their own learning experiences.
+Ceding power means transferring genuine decision-making authority to students over aspects of their learning — what is studied, how it is assessed, how the classroom runs — rather than offering token input. It ranges from bounded choices within teacher-set structures to full co-design of curriculum and governance, and is carried out through mechanisms like co-constructed rubrics, student-led conferences, and participatory rule-making.
 
 ## Design Implications
 
+Autonomy is a core psychological need, and instructional environments that support it produce higher intrinsic motivation, engagement, and persistence [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. However, the benefit depends on *how* power is shared: choice over learning-relevant dimensions (approach, pacing, topic) supports autonomy, while superficial or irrelevant choice can add decision load without benefit [~M]. Ceding power also builds ownership that sustains effort when external accountability is weak [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M].
+
 ### Context
 #### Requirements
-- Requires a willingness to relinquish control and trust students' perspectives, as well as resources for facilitating student-led activities.
+- Genuine, consequential decisions — students must see that their input changes outcomes, or voice becomes performative
+- Structures that make choices manageable: bounded option sets, clear criteria, [Choice Boards](../elements/choice-boards.md)
+- Teacher willingness to renegotiate routines and assessment in response to student input
+- Feedback channels that close the loop (e.g., [Check-Ins](../principles/check-ins.md), student advisory panels)
+
 #### Constraints
-- Can be challenging to implement if students are not accustomed to having a voice in their education. Requires careful facilitation to ensure that all students have the opportunity to participate and that their voices are heard.
+- Choice without scaffolding can overwhelm novices who lack the knowledge to evaluate options [~M] — novices often benefit from fewer, more structured decisions than experts
+- Tokenistic voice (surveys that change nothing) can depress trust and engagement more than no voice at all [-W]
+- Full co-design demands significant instructional time and can drift from required outcomes if not anchored to shared goals [-M]
+- In high-stakes accountability contexts, ceded decisions may be overridden, teaching students that voice is illusory [-W]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Bounded choice:** students select topic, product format, or sequence within teacher-defined constraints
+- **Co-designed assessment:** students help write rubrics or choose evidence of mastery
+- **Governance participation:** students co-create norms, sit on curriculum committees, or lead [Class Discussion](../elements/class-discussion.md) rotations
+- **Youth-adult partnership:** sustained co-inquiry where students research and propose changes to school practice (Mitra's "student voice" model)
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Educators and school teams seeking to create more student-centered learning environments and involve students in decision-making processes.
+- Adolescents and adults, who respond strongly to autonomy support [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
+- Disengaged or marginalized students, for whom ownership can rebuild a sense of belonging and agency [+W]
+- Very young learners and complete novices, who need more bounded choice and explicit guidance to avoid decision overload [~M]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Empower students, increase student voice, foster co-design of learning experiences, and promote student engagement.
-
-### Affordances
-- Increases student engagement, promotes a sense of ownership over learning, and fosters a more collaborative and equitable learning environment.
-
-### Personalization
-- The specific activities and prompts can be tailored to the age and interests of the students.
+- Self-regulated learning: planning, monitoring, and evaluating one's own work
+- Intrinsic motivation and sustained engagement across long projects
+- Civic and collaborative competencies: negotiating, deliberating, shared responsibility
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Peer Discussion](../elements/peer-discussion.md)
-- [Whole-Class Sharing](../elements/whole-class-sharing.md)
-- [Conceptual Questioning](../elements/conceptual-questioning.md)
-
-## Assessment Evidence
-- Measure student perceptions of their voice and influence in school decisions, track student engagement in co-design activities, and assess the impact of student-led initiatives.
-
-## Impact
-- Increased student engagement, a greater sense of ownership over learning, and a more collaborative and equitable learning environment.
+1. Identify which decisions genuinely affect learning quality (topics, pacing, assessment evidence, norms) and which must remain fixed; be transparent about both.
+2. Offer bounded, meaningful options — e.g., a [Choice Boards](../elements/choice-boards.md) menu or co-constructed project criteria — rather than open-ended "anything you want."
+3. Co-create success criteria with students before work begins, so power extends to evaluation, not just activity selection.
+4. Build regular voice mechanisms ([Check-Ins](../principles/check-ins.md), exit surveys, advisory councils) and visibly act on the input.
+5. Gradually expand the scope of ceded decisions as students demonstrate readiness, mirroring [Fading](../elements/fading.md) of other supports.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Academic Choice (Planning, Working, Reflecting)](academic_choice_(planning,_working,_reflecting).md) — a structured classroom routine that operationalizes ceded power in daily learning
+- [Action Planning](action_planning.md) — students set and manage their own goals, a concrete transfer of authority
 
 ## Examples
-- CityBridge has used a “spectrum activity,” in which students vote with their feet when describing their experience of school. During the Breakthrough Design Fellowship, they designed and facilitated a fishbowl conversation for a group of older students who attended “opportunity schools” (also known as alternative schools). Students became the center of focus, while the adults who teach them had to just listen.
+- **Expeditionary Learning (EL Education)** — crew structures and student-led conferences in which students present and defend their own progress to families ([https://eleducation.org](https://eleducation.org))
+- **SoundOut** — a student voice program supporting student-adult partnership councils in K–12 school governance ([https://soundout.org](https://soundout.org))
+- **Student-generated rubrics in writing workshops** — classes negotiate criteria for "good writing" before drafting, then self-assess against the co-built rubric
 
 ## Key Sources
-- <!-- TODO -->
+- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. [doi:10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
+- Patall, E. A., Cooper, H., & Robinson, J. C. (2008). The effects of choice on intrinsic motivation and related outcomes: A meta-analysis of research findings. *Psychological Bulletin, 134*(2), 270–300. [doi:10.1037/0033-2909.134.2.270](https://doi.org/10.1037/0033-2909.134.2.270)
+- Cook-Sather, A. (2014). Student voice in higher education: Understanding the workings of power. *Higher Education Research & Development, 33*(5), 971–984. [doi:10.1080/07294360.2014.911262](https://doi.org/10.1080/07294360.2014.911262)
+- Stefanou, C., Perencevich, K. C., DiCintio, M., & Turner, J. C. (2004). Supporting autonomy in the classroom: Ways teachers encourage student decision making and ownership. *Educational Psychologist, 39*(2), 97–110. [doi:10.1207/s15326985ep3902_2](https://doi.org/10.1207/s15326985ep3902_2)
+- Mitra, D. L. (2004). The significance of students: Can increasing "student voice" in schools lead to gains in youth development? *Teachers College Record, 106*(4), 651–688. [doi:10.1111/j.1467-9620.2004.00354.x](https://doi.org/10.1111/j.1467-9620.2004.00354.x)

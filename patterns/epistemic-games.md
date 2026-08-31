@@ -12,6 +12,8 @@ grain_size: unit
 
 # Epistemic Games
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Most educational games teach isolated facts or drill discrete skills. Epistemic games instead immerse a learner in the **epistemic frame** of a professional community of practice — the situated understandings, effective social practices, powerful identities, and shared values that make someone, for example, an urban planner or a soldier — so that facts arrive as a byproduct of doing the community's actual work rather than as content to memorize (Shaffer, Halverson, Squire, & Gee, 2005). In *Madison 2200*, players don't study urban ecology facts; they act as city planners given a budget, citizen letters, and a site to redesign, and ecological facts "come for free" because they are needed to make planning decisions. In *Full Spectrum Warrior*, players don't memorize military doctrine; they must think and act like a professional soldier to keep their squad alive.
 

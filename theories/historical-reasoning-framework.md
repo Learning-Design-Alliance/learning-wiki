@@ -19,6 +19,8 @@ sources:
 
 # Historical Reasoning Framework
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 The historical reasoning framework (Van Drie & Van Boxtel, 2008) identifies six interrelated aspects of thinking and writing like a historian: answering historical questions about continuity/change and cause/consequence; making claims and constructing arguments; using sources as evidence; using substantive concepts (e.g., "empire," "patrician"); constructing historical context by considering chronology, geography, and social characteristics of a period; and using meta-concepts and heuristics such as corroboration and source reliability. **Historical contextualization** — reconstructing the chronology, geography, and social features of a time period to situate a source or phenomenon (Wineburg, 1991) — is one of the six aspects and the one this framework's originating study focuses on; Wineburg further decomposes contextualizing moves into spatio-temporal, social-rhetorical, biographical, historiographic, linguistic, and analogical types. The framework is used both generatively (to design instruction that targets a specific aspect) and analytically (as a rubric to score student writing on each aspect separately, so that overall improvement and aspect-specific improvement can diverge).
 

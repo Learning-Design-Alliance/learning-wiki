@@ -15,6 +15,8 @@ sources:
 
 # Summative Assessment
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Summative assessment is the element in which a learner's performance is judged at the end of a unit, course, or other instructional sequence. It is useful when the task is to make a cumulative judgment rather than guide the next immediate revision.
 

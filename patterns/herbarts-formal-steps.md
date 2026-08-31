@@ -12,6 +12,8 @@ grain_size: lesson
 
 # Herbart's Formal Steps
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Johann Herbart (1776–1841) held that learning is influenced by a learner's interest in the subject and in the teacher, and that teachers should consider a student's existing mental sets — what they already know — before presenting new information. From this premise he proposed what became known as the formal steps: (1) review material that has already been learned by the student; (2) prepare the student for new material by giving them an overview of what they are learning next; (3) present the new material; (4) relate the new material to the old material that has already been learned; and (5) show how the student can apply the new material and show the material they will learn next (Hergenhahn, 2009).
 

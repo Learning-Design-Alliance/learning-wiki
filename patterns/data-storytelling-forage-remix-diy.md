@@ -17,6 +17,8 @@ sources:
 
 # Data Storytelling — Forage, Remix, DIY
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 This pattern scaffolds learners into data storytelling and critical data literacy through three stages of increasing authorship: **Forage** (critically analyze existing public data stories), **Remix** (reconstruct and deliberately alter a professional's data visualization performance), and **DIY** (author and perform an original story using an open dataset the learner chooses). A live performance to peers, followed by open Q&A, creates a feedback loop that pushes learners to defend their data and modeling choices in real time, and to notice what a model shows, hides, and represents.
 

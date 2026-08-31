@@ -16,6 +16,8 @@ sources:
 
 # Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science
 
+> **Claim** · [All claims](index.md)
+
 Middle-school students in a redesigned physics unit centering racial bias in light-related technologies showed increased emotional and critical engagement with anti-racist source material, synthesized readings into systemic (not individual) accounts of injustice, and produced transdisciplinary speculative artifacts — including, in one case, through intergenerational collaboration with a family member.
 
 ## Subclaims

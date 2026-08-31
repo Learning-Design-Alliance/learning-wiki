@@ -10,6 +10,8 @@ generated:
 
 # Pre-Reading Activities
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Pre-reading activities are tasks completed before reading in order to activate prior knowledge, establish purpose, surface key vocabulary, or prepare attention for important ideas. They are useful when learners need orientation before engaging the text itself.
 

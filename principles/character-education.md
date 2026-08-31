@@ -10,6 +10,8 @@ generated:
 
 # Character Education
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Character education goes beyond teaching a list of rules ("always tell the truth," "obey the teacher"). Effective programs integrate three components: cognitive understanding of ethical concepts, emotional/caring responsiveness to others, and concrete moral action — recognizing that mature moral behavior requires both conscious reasoning and embodied, intuitive response in the moment a choice actually arises. Programs that work well tend to operate at the schoolwide level, not just within individual classrooms: all staff — teachers, administrators, and support staff alike — orient around positive relationships, with cooperation and mutual care as the explicit theme rather than competition. Discipline in these settings is framed around conflict resolution rather than obedience or punishment, and democratic practices (class meetings where students help set rules and resolve disagreements) are a significant, recurring mechanism rather than an occasional activity.
 

@@ -15,6 +15,8 @@ sources:
 
 # Epistemic Injustice
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Epistemic injustice (Fricker, 2007) names two specific ways people can be wronged in their capacity as knowers, not just materially or socially. **Testimonial injustice** occurs when a hearer, influenced by prejudice tied to a speaker's social identity, gives that speaker's testimony less credibility than it deserves. **Hermeneutical injustice** occurs when a gap in society's shared interpretive resources — concepts, vocabulary, frameworks — leaves a group unable to make sense of, or communicate, a significant area of their own social experience, often because that group has been excluded from the practices that produce those interpretive resources in the first place. Applied to instructional and knowledge-building contexts, the framework reframes minoritized learners' first-hand, embodied, and community experience not as anecdote to be set aside once "real" data or "real" science enters the room, but as a legitimate epistemic resource — a form of evidence that dominant scientific and institutional data can miss or actively suppress, especially during a fast-moving crisis where official data is incomplete, delayed, or produced in a language or format a community cannot access.
 

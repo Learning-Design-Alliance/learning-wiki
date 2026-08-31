@@ -10,6 +10,8 @@ generated:
 
 # Gender-Equitable Classroom Interaction
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Cognitive-ability differences between boys and girls are, collectively, close to non-findings: many studies find none at all, a few find small differences (boys slightly stronger in math, girls slightly stronger in reading/literature), and these small differences have been shrinking over time — differences *within* each gender group are consistently far larger than differences *between* the groups (Hyde, 2005). What does differ, on average, is classroom *interaction style* rather than ability: boys are more likely to speak up during discussion, sometimes without being called on and even when less informed than classmates (Sadker, 2002), and in mixed-sex small-group work, group members (echoing a broader societal pattern — Tannen, 2001) tend to give less weight to girls' comments and contributions.
 

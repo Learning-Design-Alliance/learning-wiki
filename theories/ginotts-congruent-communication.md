@@ -10,6 +10,8 @@ generated:
 
 # Ginott's Congruent Communication
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Ginott's (1972) communication skills approach — one of the two humanist traditions in classroom management, alongside [Glasser's Choice Theory](glassers-choice-theory-and-cooperative-learning.md) — rests on a cardinal principle: learners can control their own behavior if teachers allow them to. Teachers foster this self-control by letting students choose how they wish to change their own behavior and how the class will be run, and by helping students express their inner thoughts and feelings through effective communication. In this tradition, communication skills are the primary vehicle for influencing students' self-esteem, which in turn is the primary force underlying acceptable behavior — congruent communication is what promotes that self-esteem.
 

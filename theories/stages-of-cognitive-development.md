@@ -10,6 +10,8 @@ generated:
 
 # Stages of Cognitive Development
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Jean Piaget (1896–1980), a Swiss psychologist, proposed that children are not passive recipients of knowledge from parents or teachers but actively construct their own understanding of the world by progressing through four universal, sequential, and invariant stages of cognitive development. Each stage represents a qualitatively different way of reasoning; stages cannot be skipped, though the ages at which individual children pass through them vary with environment and background, and a child may show behaviors characteristic of more than one stage at a time. Piaget's work is the historical foundation on which later constructivist and constructionist theories are built.
 

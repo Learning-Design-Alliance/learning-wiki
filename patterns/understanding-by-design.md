@@ -12,6 +12,8 @@ grain_size: unit
 
 # Understanding by Design
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Choosing what to teach starts with choosing *goals*, and goal statements are properly written from the learner's point of view — "learners will acquire the ability to construct a convincing argument," not "the teacher will show students examples of logical arguments." Before any specific framework, Tyler (1974) offered an early, still-influential account of where such goals should come from: subject-matter mastery, societal concerns, and student interests/abilities, refined further against the school/community's educational philosophy and what instructional theory and research say can actually be taught. As the range of things worth learning keeps expanding while instructional time does not, some deliberate basis for choosing among candidate goals becomes necessary rather than optional.
 

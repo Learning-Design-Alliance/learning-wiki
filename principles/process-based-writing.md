@@ -10,6 +10,8 @@ generated:
 
 # Process-based Writing
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Process-based writing treats writing as a sequence of intentional moves such as generating ideas, planning, drafting, revising, editing, and reflecting rather than as a one-shot product. Its core premise is that writers improve when the process itself is taught, supported, and made visible. This is especially useful for learners developing complex writing skills, because it breaks writing into revisable stages while still keeping the final communicative purpose in view.
 

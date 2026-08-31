@@ -10,6 +10,8 @@ generated:
 
 # Reflection
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Reflection is the principle of deliberately examining one's experience, reasoning, performance, or progress in order to extract lessons and guide future action. It is most valuable when it is tied to decisions, evidence, or revision rather than open-ended rumination.
 

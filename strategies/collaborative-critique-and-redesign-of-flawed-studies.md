@@ -15,6 +15,8 @@ sources:
 
 # Collaborative Critique and Redesign of Flawed Studies
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
 Requiring students to redesign a flawed study, not just critique it, forces them to grapple with the epistemic ideals that underlie design choices (validity, objectivity, adequate sampling) rather than mechanically applying a checklist. The strategy pairs three ingredients: an authentic popular-media source reporting a psychological finding (so students encounter evidence as it actually circulates, not as a sanitized textbook example), a phenomenon that is intentionally difficult to operationalize (e.g., emotions, therapeutic "depth"), and a small-group discourse requirement that forces students to justify design choices to peers rather than submit an individual answer.
 

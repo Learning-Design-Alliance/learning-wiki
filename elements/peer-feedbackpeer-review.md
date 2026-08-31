@@ -10,6 +10,8 @@ generated:
 
 # Peer Feedback/Peer Review
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Peer feedback/peer review is the element in which learners evaluate one another's work against criteria and provide revision-oriented feedback.
 
@@ -34,4 +36,4 @@ Peer feedback/peer review is the element in which learners evaluate one another'
 - [Peer Assessment](peer-assessment.md)
 
 ## Key Sources
-- Topping, K. J. (1998). Peer assessment between students in colleges and universities. *Review of Educational Research, 68*(3), 249-276.
+- Topping, K. J. (1998). Peer assessment between students in colleges and universities. *Review of Educational Research, 68*(3), 249-276. [doi:10.3102/00346543068003249](https://doi.org/10.3102/00346543068003249)

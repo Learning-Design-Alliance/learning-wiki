@@ -15,6 +15,8 @@ sources:
 
 # Evaluating and Justifying Mechanistic Explanations
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Learners are given several plausible explanations for a biological (or other causal) phenomenon — some [mechanistic](../theories/mechanistic-reasoning.md), some teleological or circular — and asked to judge which are acceptable and why, then rank their preferences. Framing the underlying question explicitly as "how does this happen" (rather than "what happens" or "why does this happen") helps learners apply an **explanatory power** criterion: rejecting explanations that don't actually trace a causal chain. Learners also draw on an **information accuracy** criterion, using their existing biological knowledge (principles, schemas, lower-level/cellular reasoning, analogies) mainly to reject explanations that are mechanistic in form but factually wrong.
 

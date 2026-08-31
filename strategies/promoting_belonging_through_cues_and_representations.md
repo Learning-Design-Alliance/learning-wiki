@@ -1,66 +1,37 @@
 ---
 type: strategy
-title: Promoting Belonging Through Cues and Representations
-description: Promoting belonging involves using small, but powerful cues in the environment to foster a sense of connection and recognition.
+title: [Strategy Name]
+description: [One-line summary]
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
-# Promoting Belonging Through Cues and Representations
+# [Strategy Name]
+
+> **Strategy** · [All strategies](index.md)
 
 ## Description
-Promoting belonging involves using small, but powerful cues in the environment to foster a sense of connection and recognition. This includes incorporating representations of all students in the classroom to validate their identities and experiences. Strategies include using simple cues and inclusive representations to create a welcoming and supportive learning environment.
+[What this strategy is and how it is carried out — 2-3 sentences.]
 
 ## Design Implications
 
+[1-2 sentence overview connecting to learning science.]
+
 ### Context
 #### Requirements
-- Awareness of student diversity, intentional design of classroom environment, commitment to inclusion.
+- [what is needed to implement this strategy]
+
 #### Constraints
-- Requires ongoing effort to maintain an inclusive environment, potential challenges in addressing sensitive topics.
+- [conditions where effectiveness drops]
+
 #### Implementation Variability
-- <!-- TODO -->
+- [variations or adaptations]
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- Teachers and educators in diverse classrooms
+<!-- Link to sub-claims: [Claim](../claims/claim-slug.md) -->
+- [who benefits most]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Promote a sense of belonging, create a welcoming environment, validate student identities, foster inclusion
-
-### Affordances
-- Enhances student motivation, improves engagement, fosters a sense of community, and supports overall well-being.
-
-### Personalization
-- Teachers can tailor cues and representations to reflect the specific backgrounds and experiences of their students.
-
-### Instructions
-<!-- Steps with links to elements -->
-- [Recall prior knowledge](../elements/recall-prior-knowledge.md)
-- [Direct instruction](../elements/direct-instruction.md)
-- [Provide guidance](../elements/provide-guidance.md)
-- [Integration](../elements/integration.md)
-
-## Assessment Evidence
-- Student participation, classroom climate, student feedback.
-
-## Impact
-- Research shows that when students feel they belong, they are more motivated, engaged, and ultimately show higher performance. Inclusive classrooms can improve academic outcomes and overall well-being.
-
-## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
-
-## Examples
-- <!-- TODO -->
-
-## Key Sources
-- <!-- TODO -->
+<!-- Link to sub

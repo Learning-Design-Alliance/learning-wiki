@@ -10,6 +10,8 @@ generated:
 
 # Intelligence Testing: Uses and Limits
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
 

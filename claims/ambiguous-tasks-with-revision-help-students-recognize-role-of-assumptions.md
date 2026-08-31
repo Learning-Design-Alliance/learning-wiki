@@ -16,6 +16,8 @@ sources:
 
 # Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity
 
+> **Claim** · [All claims](index.md)
+
 Both grade 5 and grade 9 students, given a task with a deliberately unspecified local assumption, produced genuinely divergent, individually defensible answers, and through structured discussion and a task-revision sub-task, articulated both that a conclusion's truth depends on unstated assumptions and that reaching a shared answer requires making those assumptions explicit.
 
 ## Subclaims

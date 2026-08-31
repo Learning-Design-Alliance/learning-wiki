@@ -16,6 +16,8 @@ sources:
 
 # Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria
 
+> **Claim** · [All claims](index.md)
+
 Elementary-age children, across grades 2-6, accept and prefer [mechanistic explanations](../theories/mechanistic-reasoning.md) of biological phenomena over non-mechanistic (teleological or circular) ones significantly more often, applying an explanatory-power criterion tied to "how" question framing and an information-accuracy criterion grounded in their existing biological knowledge.
 
 ## Subclaims

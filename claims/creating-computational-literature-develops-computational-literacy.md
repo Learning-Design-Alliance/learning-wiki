@@ -16,6 +16,8 @@ sources:
 
 # Creating computational literature develops computational literacy even when code modification is minor
 
+> **Claim** · [All claims](index.md)
+
 Computational literacy has three interdependent pillars — material (technical coding fluency), cognitive (using computation to reason about a disciplinary problem), and social (communicating computational work) — and students can develop the cognitive and social pillars substantially through [computational essay writing](../patterns/computational-essay-writing.md) even when their actual code changes are small, provided they have example computational literature to draw on.
 
 ## Subclaims

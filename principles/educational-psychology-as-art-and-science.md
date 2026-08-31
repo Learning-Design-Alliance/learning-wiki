@@ -10,6 +10,8 @@ generated:
 
 # Educational Psychology as Both Art and Science
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Art is "skill acquired by experience, study, or observation... an occupation requiring knowledge or skill" (Merriam-Webster, 2020a) — an expression of thoughts and ideas, a manifestation of experience and understanding, and a practice of what is already known. Science is "the state of knowing... knowledge or a system of knowledge covering general truths or the operation of general laws especially as obtained and tested through scientific method" (Merriam-Webster, 2020b) — a process of acquiring understanding and discovering truths through systematic study.
 

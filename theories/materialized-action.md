@@ -15,6 +15,8 @@ sources:
 
 # Materialized Action
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Constructionism holds that learners deepen understanding by building external artifacts that make their internal mental models tangible and shareable. Materialized action extends this by treating the material itself as an active participant in that process, not a passive substrate for a pre-formed idea. As a learner physically acts on a material (stitching, folding, tensioning), the material's own properties — how yarn behaves under tension, how fabric springs back after folding, how a needle's size scales a stitch — feed back into and co-construct the learner's understanding, not just record it. This is analyzed across three nested levels of unit construction: a **stitch/fold unit** (a small, repeatable material action), a **pattern unit** (repetition of that action into a larger structure), and a **project unit** (the completed artifact). Understanding develops through fluid movement across these three levels, driven by the interplay between the learner's actions and the material's responses — not by the learner's cognition alone.
 

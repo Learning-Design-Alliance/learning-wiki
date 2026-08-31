@@ -15,6 +15,8 @@ sources:
 
 # Womanist Restorying
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Womanist restorying (Baker-Bell, 2017; Thomas & Stornaiuolo, 2016) combines Black feminist/womanist epistemology with narrative practice to give Black girls and women a method for surfacing, analyzing, and rewriting the stories that circulate about who they are and what they can become. It treats race, gender, sexuality, and class as intersecting rather than separable, positions the storyteller as a legitimate knower and theorist of her own experience, and roots itself in the historical practice of quilt-making by enslaved Black women — a form of resistance, knowledge preservation, and kinship-building carried out through everyday material craft. "Restorying" itself names a three-phase narrative process: **deconstruction** (breaking a dominant narrative into parts and identifying whose perspective is centered or silenced), **analysis** (situating that narrative in historical and current discourse), and **reconstitution** (speculatively redesigning the narrative, informed by marginalized lived experience). The theory is closely related to race-critical code studies (Benjamin, 2019), which argues that technologies and educational designs encode and reproduce narratives — so that rewriting a domain's founding story is not merely therapeutic but has design consequences for what a field's technologies and pedagogies come to look like.
 

@@ -10,6 +10,8 @@ generated:
 
 # Engage
 
+> **Element** · [All elements](index.md)
+
 ## Description
 Engage is the element in which instruction opens with an activity or prompt that draws attention and establishes interest.
 

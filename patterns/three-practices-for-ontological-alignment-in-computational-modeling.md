@@ -17,6 +17,8 @@ sources:
 
 # Three Practices for Ontological Alignment in Computational Modeling
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 When students first encounter an agent-based modeling (ABM) tool, they often have relevant intuitive ideas about a phenomenon but no way to see how those ideas map onto the tool's specific representational units (e.g., individual particle behaviors and interactions). This pattern names three teacher practices, developed and documented in a diffusion unit, for closing that gap: elevating and labeling student ideas in terms the tool's building blocks can express; making the translation between a conceptual idea and its coded/simulated implementation explicit and checkable in both directions; and introducing external evidence that can adjudicate between competing models when the tool's own simulation cannot.
 

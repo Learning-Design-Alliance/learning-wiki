@@ -16,6 +16,8 @@ sources:
 
 # Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit
 
+> **Claim** · [All claims](index.md)
+
 Across a 4-week statistical modeling unit taught by a teacher with no specialized statistics training, nearly all identified classroom episodes involving one of four foundational modeling aspects also included an explicit, identifiable form of dialogic teacher support for that aspect, and students showed qualitative progress on all four aspects by the unit's end.
 
 ## Subclaims

@@ -1,66 +1,72 @@
 ---
 type: strategy
 title: Mix It Up
-description: "The \"Mix It Up\" strategy involves intentionally creating opportunities for individuals to interact with people outside of their normal social circles to foster understanding and break down social barriers."
+description: A structured social-mixing strategy that creates facilitated opportunities for learners to interact with peers outside their usual social circles, using conversation prompts and low-stakes formats to reduce intergroup barriers.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-04-06
+  by: "claude/unspecified"
+  at: 2026-08-29
 ---
 
 # Mix It Up
 
+> **Strategy** · [All strategies](index.md)
+
 ## Description
-The "Mix It Up" strategy involves intentionally creating opportunities for individuals to interact with people outside of their normal social circles to foster understanding and break down social barriers. It typically involves structured activities that encourage dialogue and interaction between diverse groups, such as sitting with someone new at lunch and using conversation starters. The goal is to promote awareness, empathy, and inclusion by encouraging individuals to step outside their comfort zones and engage with others from different backgrounds or social groups.
+Mix It Up is a structured social-mixing strategy in which learners are deliberately grouped or seated with peers outside their usual social circles and given low-stakes, prompted activities to interact. The facilitator supplies conversation prompts, icebreaker questions, or shared tasks so that cross-group contact is easy to initiate, reducing the social risk that keeps cliques and identity groups separate.
 
 ## Design Implications
 
+The strategy operationalizes the [intergroup contact](../theories/situated-learning.md) tradition: contact under equal-status, cooperative conditions with institutional support reduces prejudice and increases cross-group friendships [Structured intergroup contact reduces prejudice, with stronger effects when contact is cooperative and supported.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S]. Unstructured "just be social" time tends to reproduce existing cliques; the prompts and assigned mixing are what make it work [~M].
+
 ### Context
 #### Requirements
-- Designated time and space for interaction, conversation starters, voluntary participation, greeters to encourage participation
+- A physical or virtual arrangement that actually disrupts existing groupings (assigned seats, random grouping, numbered cards)
+- Low-stakes conversation prompts or shared tasks that give strangers something concrete to do together
+- Facilitator framing that normalizes the activity and sets expectations for respectful interaction
+- Enough frequency or duration for contact to move beyond a single encounter
+
 #### Constraints
-- May initially feel awkward or uncomfortable for participants, requires intentional effort and facilitation, success depends on participant willingness to engage openly
+- One-off contact events produce weak, short-lived attitude change unless followed by repeated or sustained contact [-W]
+- If mixing is framed as remedial or forced, learners can experience it as stigmatizing and resist [-M]
+- Contact under unequal status or competitive conditions can worsen intergroup attitudes rather than improve them [-S]
+- Anxious or socially withdrawn learners may need structured roles or [check-ins](../elements/check-in.md) rather than open mingling [~M]
+
 #### Implementation Variability
-- <!-- TODO -->
+- **Event format**: a single scheduled "Mix It Up at Lunch Day" style event with table prompts
+- **Routine format**: rotating seats or random grouping embedded in daily instruction
+- **Task format**: cross-group pairs working on a shared product, blending mixing with [collaborative learning](../principles/collaborative-learning.md)
+- **Digital format**: randomized breakout pairings in video-conference classes with prompt slides
 
 ### Target Learners
-<!-- Link to sub-claims -->
-- K-12, higher education, workplaces, or community programs aiming to promote inclusivity and understanding among diverse groups
+- Adolescents and young adults in settings where social groups have crystallized along identity or interest lines
+- Learners in newly formed cohorts (start of year, merged programs) where norms are still forming [+W]
+- Less effective for very young children, whose friendships are more fluid and less clique-bound [~W]
 
 ### Target Learning Goals
-<!-- Link to sub-claims -->
-- Promote dialogue, encourage interaction with diverse individuals, foster comfort in engaging with others, raise awareness and understanding of different backgrounds
-
-### Affordances
-- Breaks down social barriers, promotes empathy and understanding, encourages dialogue, fosters inclusivity, adapts to various settings
-
-### Personalization
-- Conversation starters can be tailored to address specific topics relevant to the group's interests or concerns, allowing for flexibility and relevance.
+- Social-emotional goals: perspective-taking, empathy, and comfort with difference
+- Community-building: broadening friendship networks and sense of belonging
+- Prerequisite conditions for academic collaboration across group lines
 
 ### Instructions
-<!-- Steps with links to elements -->
-- [Activation](../elements/activation.md)
-- [Discussion Sections](../elements/discussion-sections.md)
-- [Whole-Class Sharing](../elements/whole-class-sharing.md)
-- [Peer Discussion](../elements/peer-discussion.md)
-
-## Assessment Evidence
-- Increased interaction among diverse groups, positive feedback from participants, observed reduction in social barriers, enhanced awareness and understanding of different perspectives
-
-## Impact
-- Mix It Up events have been shown to help students engage in dialogue with someone new, interact with people outside of their normal social circles, encourage people to be more comfortable in interacting with others, and to promote awareness and understanding between students from different backgrounds.
+1. **Map the social landscape** — identify existing clusters so the mixing actually crosses them, rather than reshuffling within cliques.
+2. **Assign the mix** — use random or deliberate assignment (numbered cards, colored stickers) so no learner bears the social cost of choosing to cross lines.
+3. **Provide prompts** — supply concrete, low-stakes questions or a shared task; open-ended "get to know each other" without structure stalls [~M]. A brief [check-in](../elements/check-in.md) round works well as a starter.
+4. **Facilitate lightly** — circulate, model prompt use, and redirect; avoid hovering, which signals the interaction is artificial.
+5. **Debrief and repeat** — a short reflection consolidates the experience, and repetition converts a one-time event into a norm.
 
 ## Related Strategies
-- <!-- TODO -->
-
-## Related Elements
-- <!-- TODO -->
-
-## Tools
-- <!-- TODO -->
+- [Cooperative learning](../principles/collaborative-learning.md) — adds shared goals and accountability to cross-group contact, strengthening its effects
+- [Check-ins](../elements/check-in.md) — a low-stakes structured format that can serve as the mixing prompt itself
+- [Jigsaw](../patterns/collaborative-learning.md) — a task structure that makes cross-group interdependence unavoidable
 
 ## Examples
-- <!-- TODO -->
+- **[Mix It Up at Lunch Day](https://www.learningforjustice.org/professional-development/mix-it-up-at-lunch-day)** (Learning for Justice, formerly Teaching Tolerance) — schools assign lunch-table groupings and provide conversation starter cards to break up cafeteria cliques.
+- **Randomized breakout pairs** in online courses — instructors use breakout-room randomization with a posted prompt slide to mix students who never interact in the main session.
+- **Rotating lab partners** in secondary science — weekly randomized pairing with role cards (materials manager, recorder) gives each mixed pair a built-in task structure.
 
 ## Key Sources
-- <!-- TODO -->
+- Pettigrew, T. F., & Tropp, L. R. (2006). A meta-analytic test of intergroup contact theory. *Journal of Personality and Social Psychology, 90*(5), 751–783. [doi:10.1037/0022-3514.90.5.751](https://doi.org/10.1037/0022-3514.90.5.751)
+- Allport, G. W. (1954). *The nature of prejudice*. Addison-Wesley.
+- Slavin, R. E. (1995). *Cooperative learning: Theory, research, and practice* (2nd ed.). Allyn & Bacon.
+- Davies, K., Tropp, L. R., Aron, A., Pettigrew, T. F., & Wright, S. C. (2011). Cross-group friendships and intergroup attitudes: A meta-analytic review. *Personality and Social Psychology Review, 15*(4), 332–351. [doi:10.1177/1088868311411103](https://doi.org/10.1177/1088868311411103)

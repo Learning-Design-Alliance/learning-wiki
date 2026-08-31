@@ -16,6 +16,8 @@ sources:
 
 # Academic historians' epistemic processes extend well beyond source analysis and writing
 
+> **Claim** · [All claims](index.md)
+
 Interviews with 26 academic historians identified 107 distinct epistemic processes across 14 categories, including five categories — archival collection, tool/language mediation, epistemic virtues and affect, broad methodological choices, and explicitly social processes — that are largely absent from prior empirical research on historians' practices and from inquiry-based-learning design in history.
 
 ## Subclaims

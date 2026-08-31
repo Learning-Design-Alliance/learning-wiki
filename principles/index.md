@@ -2,25 +2,27 @@
 
 Research-backed design commitments: what to do and why.
 
-**183 entries** · 0 stable · 133 in review · 50 drafts
+**198 entries** · 0 stable · 149 in review · 49 drafts
 
 ---
 
 ## In Review
 
-Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [V](#letter-v) · [W](#letter-w)
+Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w)
 
 #### A {: #letter-a }
 
 * [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) - Use language that preserves disciplinary rigor while reducing unnecessary linguistic difficulty.
 * [Activation](activation.md) - Activation is the principle of prompting learners to surface prior knowledge, experiences, or related schemas before new instruction.
 * [Active Learning](active-learning.md) - Active learning is the principle that learners should do meaningful cognitive work with content rather than only receive it.
+* [Adaptive Learning](adaptive-learning.md) - Adaptive learning systems and designs continuously adjust task difficulty, sequencing, and support based on each learner's ongoing performance, so every learner works at the edge of their current competence.
 * [Analogical Reasoning](analogical-reasoning.md) - Analogical reasoning is the principle of using relational similarity between a familiar case and a new case to support understanding, inference, and transfer.
 * [Annotating](annotating.md) - Annotating is the practice of marking a text with notes, questions, summaries, definitions, or visual cues while reading.
 * [Ask Experts](ask-experts.md) - Give learners structured access to people with deeper domain expertise so they can ask questions, hear expert reasoning, receive targeted feedback, and compare their own thinking to more mature practice.
 * [Assessment for Learning](assessment-for-learning.md) - Assessment for learning is the principle that assessment should be used during instruction to support learning, not only after instruction to certify it.
 * [Audiobooks](audiobooks.md) - Audiobooks provide spoken access to written texts, allowing learners to listen to fluent reading while focusing attention on meaning rather than decoding every word independently.
 * [Authentic Audiences & Purposes](authentic-audiences-purposes.md) - Design learning tasks for real or realistically consequential audiences beyond the teacher-as-grader.
+* [Autonomy](autonomy.md) - Autonomy in learning design means giving learners meaningful ownership over how, when, and why they engage — supporting their sense of volition rather than controlling their behavior.
 
 #### B {: #letter-b }
 
@@ -47,8 +49,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Community-Based Learning](community-based-learning.md) - Community-based learning is the principle of connecting learning to shared participation, responsibility, and contribution within a classroom, local community, or broader social context.
 * [Competency-Based Assessment](competency-based-assessment.md) - Competency-based assessment is the short-form canonical target for designs that evaluate learners against explicit competencies or standards rather than normed averages or seat-time expectations.
 * [Competency-based Learning & Assessment](competency-based-learning-assessment.md) - Competency-based learning and assessment organize progress around demonstrated mastery rather than seat time, pacing norms, or one-shot averages.
+* [Considering The Opposite](considering-the-opposite.md) - Learners deliberately generate and evaluate hypotheses that contradict their initial judgment, reducing overconfidence and anchoring biases in reasoning and decision-making.
 * [Constructivism](constructivism.md) - Constructivism, as an instructional principle, emphasizes that learners build understanding by connecting new information to prior knowledge through active interpretation, explanation, and application.
 * [Constructivist Learning](constructivist-learning.md) - Constructivist learning is the short-form canonical target for instructional links that emphasize learners actively building meaning through explanation, comparison, inquiry, and revision.
+* [Cooperative Learning](cooperative-learning.md) - Learners work in small, structured groups with positive interdependence and individual accountability, so that success requires every member to learn and contribute.
 * [Creating Visual Representations](creating-visual-representations.md) - Creating visual representations is the instructional principle of having learners organize, explain, or generate knowledge in visual form, such as diagrams, sketches, concept maps, timelines, models, graphs, or annotated layouts.
 * [Cultural & Life Experiences Connections](cultural-life-experiences-connections.md) - Connecting instruction to learners' cultural and life experiences means treating what learners already know, value, and have lived through as assets for meaning-making rather than as irrelevant background.
 
@@ -60,12 +64,14 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Developing Your Cultural Awareness](developing-your-cultural-awareness.md) - Developing cultural awareness is the ongoing practice of examining how one's own background, assumptions, language, and institutional context shape teaching and learning across difference.
 * [Digital Learning](digital-learning.md) - Digital learning is the principle of using digital environments and tools to support access, interaction, practice, and feedback in instruction.
 * [Direct Instruction](direct-instruction.md) - Direct instruction is the principle of teaching explicitly through clear explanation, modeling, guided practice, and feedback.
+* [Disciplinary Literacy](disciplinary-literacy.md) - Disciplinary literacy teaches learners to read, write, and reason in the ways that are specific to a discipline — how historians source documents, how scientists evaluate evidence, how mathematicians justify claims — rather than applying generic comprehension strategies to all texts.
 * [Discussing Race](discussing-race.md) - Discussing race is the instructional principle of addressing racial identity, racism, and racialized experience directly rather than treating them as peripheral or unspeakable.
 * [Distributed Cognition](distributed-cognition.md) - Distributed cognition is the principle that thinking and problem solving are often spread across people, tools, representations, and environments rather than residing entirely inside one learner.
 * [Dual Coding](dual-coding.md) - Dual coding is the principle of pairing verbal information with meaningful visual representation so learners can build more than one route into the same idea.
 
 #### E {: #letter-e }
 
+* [Elaborative Reasoning](elaborative-reasoning.md) - Elaborative reasoning asks learners to go beyond restating material by generating connections, explanations, examples, and inferences that tie new content to prior knowledge.
 * [Empathy Interviews](empathy-interviews.md) - Empathy interviews are structured, open-ended conversations designed to help educators or designers understand how learners experience school, work, systems, and support.
 * [Engagement](engagement.md) - Engagement is the principle of designing learning so that learners attend, participate, and sustain effort in cognitively meaningful ways.
 * [Epistemic Cognition](epistemic-cognition.md) - Epistemic cognition is the principle of helping learners reason about knowledge itself: what counts as evidence, how claims are justified, how certainty should be calibrated, and how knowledge is constructed or revised.
@@ -93,8 +99,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### G {: #letter-g }
 
 * [Game-based Learning](game-based-learning.md) - Game-based learning is the instructional principle of using a game itself as the learning environment, with goals, rules, feedback, and progression aligned to specific learning outcomes.
+* [Gamification](gamification.md) - Gamification applies game design elements (points, badges, levels, narratives, leaderboards) to learning activities to increase engagement and motivation, and works best when mechanics align with learning goals rather than merely rewarding activity.
 * [Goal Setting & Monitoring](goal-setting-monitoring.md) - Goal setting and monitoring is the instructional principle of helping learners define specific, challenging targets and systematically tracking their progress toward those targets.
 * [Graphic Organizers](graphic-organizers.md) - Graphic organizers are visual structures that help learners sort, connect, sequence, compare, or hierarchize information.
+* [Growth Mindset](growth-mindset.md) - Teaching learners that abilities are malleable and improvable through effort and strategy, and structuring feedback and tasks so that struggle is framed as information for improvement rather than evidence of fixed limits.
 * [Guided Practice](guided-practice.md) - Guided practice is the instructional principle of giving learners repeated opportunities to apply a skill or concept while support is still available.
 
 #### H {: #letter-h }
@@ -150,8 +158,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Peer Discussion](peer-discussion.md) - Peer discussion is the instructional principle of using structured talk among learners to deepen interpretation, explanation, and understanding.
 * [Peer Feedback/Peer Review](peer-feedbackpeer-review.md) - Peer feedback and peer review are instructional structures in which learners evaluate one another's work against shared criteria in order to improve the work and deepen their own understanding.
 * [Peer Learning](peer-learning.md) - Peer learning is the principle that learners can deepen understanding by explaining, questioning, modeling, and responding to one another.
+* [Personalization](personalization.md) - Personalization adapts content, pacing, difficulty, or context to individual learners' prior knowledge, needs, or interests rather than delivering a uniform experience to all.
 * [Perspective Seeking/Multiple Perspectives](perspective-seekingmultiple-perspectives.md) - Perspective seeking is the instructional principle of actively engaging with multiple viewpoints in order to better understand a topic, event, text, or problem.
 * [Perspective-Taking](perspective-taking.md) - Perspective-taking is the principle of intentionally examining a situation, text, problem, or decision from viewpoints other than one's own.
+* [Phonics](phonics.md) - Phonics instruction teaches learners to map graphemes (letters) onto phonemes (speech sounds) so they can decode unfamiliar words systematically rather than guess from context or pictures.
 * [Physical Activity](physical-activity.md) - Physical activity in learning contexts means intentionally incorporating movement, exercise, or embodied breaks to support attention, energy, regulation, and readiness to learn.
 * [Positive Self-talk](positive-self-talk.md) - Positive self-talk is the deliberate use of supportive, instructional, or regulating internal language to influence how a learner interprets difficulty, effort, and performance.
 * [Pre-reading Questioning](pre-reading-questioning.md) - Pre-reading questioning is the instructional principle of using questions before a text, source, or reading task to activate prior knowledge, orient attention, and establish a purpose for reading.
@@ -170,6 +180,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Reflection](reflection.md) - Reflection is the principle of deliberately examining one's experience, reasoning, performance, or progress in order to extract lessons and guide future action.
 * [Reflective Practice](reflective-practice.md) - Reflective practice is the principle of examining actions, decisions, and outcomes in order to improve later performance.
 * [Reinforcement Theory](reinforcement-theory.md) - Reinforcement theory is the principle of shaping behavior by making desired responses more likely through contingent consequences such as feedback, reward, or progression.
+* [Responsive Teaching](responsive-teaching.md) - Responsive teaching is the in-the-moment adaptation of instruction to learners' emerging ideas, using evidence from student thinking to decide what to do next.
 * [Retrieval Practice](retrieval-practice.md) - Retrieval practice is the principle of strengthening learning by having learners actively recall information, ideas, or procedures from memory rather than only restudy them.
 * [Rhetorical Skill Development](rhetorical-skill-development.md) - Rhetorical skill development is the principle of helping learners craft arguments, communicate persuasively, respond to audiences, and use language strategically for effect.
 
@@ -178,6 +189,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Scaffolding](scaffolding.md) - Scaffolding is the principle of providing temporary support that helps learners perform beyond what they could do independently.
 * [Scaffolding & Fading](scaffolding-fading.md) - Scaffolding & Fading is the short-form canonical target for designs that provide temporary support and then reduce it as learner independence grows.
 * [Scaffolding and Fading](scaffolding-and-fading.md) - Scaffolding provides temporary, contingent support to learners as they develop new skills or knowledge.
+* [Self Affirmation](self-affirmation.md) - Brief values-affirmation activities in which learners reflect on personally important values reduce threat and defensive responses, protecting learning and performance in evaluative or stereotype-laden contexts.
 * [Self-Determination Theory](self-determination-theory.md) - Self-determination theory is used here as a principle emphasizing autonomy, competence, and relatedness as conditions that support motivation.
 * [Self-Directed Learning](self-directed-learning.md) - Self-directed learning is the principle of helping learners plan, monitor, and manage important parts of their own learning process.
 * [Self-monitoring](self-monitoring.md) - Self-monitoring is the practice of checking one's current understanding, performance, strategy use, or progress against a goal, model, or success criterion.
@@ -190,7 +202,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Social Constructivism](social-constructivism.md) - Social constructivism is the principle that learners build understanding through interaction with other people, language, and shared activity.
 * [Social Interdependence](social-interdependence.md) - Social interdependence is the principle that the structure of relationships among learners shapes the quality of collaboration, motivation, and learning.
 * [Social Learning](social-learning.md) - Social learning is the principle that understanding and performance often develop through interaction with other people, not just individual study.
+* [Social Presence](social-presence.md) - Social presence is the degree to which learners perceive others in a learning environment as real, intentional people — designing for it builds trust, engagement, and productive discourse, especially online.
 * [Spaced Learning](spaced-learning.md) - Spaced learning distributes study or practice across multiple sessions separated by intervals of time, rather than concentrating the same total effort into a single block.
+* [Spaced Practice](spaced-practice.md) - Distribute practice of a skill or retrieval of content across multiple sessions separated in time rather than massing it into one block, because spaced exposure produces markedly stronger long-term retention.
+* [Spacing](spacing.md) - Distribute learning episodes and practice over time rather than massing them together, so that partial forgetting between sessions triggers effortful retrieval and strengthens long-term retention.
 * [Speech-to-text](speech-to-text.md) - Speech-to-text converts spoken language into written text, giving learners another route for composing, capturing ideas, and participating in text-based environments.
 * [Strengths-based Approach](strengths-based-approach.md) - A strengths-based approach starts from the assumption that learners bring assets, knowledge, strategies, identities, and capabilities that instruction should recognize and build on.
 * [Summative Assessment](summative-assessment.md) - Summative assessment is the principle of evaluating learner performance at the end of an instructional sequence in order to judge the level of competence, understanding, or achievement reached.
@@ -200,6 +215,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Text Chats](text-chats.md) - Text chats use live or near-live written exchange as a learning space for discussion, coordination, questioning, and low-stakes composition.
 * [Text-to-Speech](text-to-speech.md) - Text-to-speech (TTS) converts written text into spoken audio, giving learners an additional way to access reading materials, instructions, and feedback.
 * [Transfer of Learning](transfer-of-learning.md) - Transfer of learning is the principle of helping learners apply what they have learned in one context to new tasks, situations, or problems.
+
+#### U {: #letter-u }
+
+* [Universal Design For Learning](universal-design-for-learning.md) - Universal Design for Learning (UDL) proactively designs instruction with multiple means of engagement, representation, and action/expression so that varied learners can access and demonstrate learning without retrofitted accommodations.
 
 #### V {: #letter-v }
 
@@ -256,7 +275,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Technology Integration Levels (SAMR / RAT / PIC-RAT)](technology-integration-levels.md) - A family of frameworks (RAT, SAMR, PIC-RAT) for judging whether a specific use of technology in instruction merely replaces a prior practice or meaningfully improves or transforms it.
 * [TPACK (Technological Pedagogical Content Knowledge)](tpack.md) - TPACK holds that effective teaching with technology requires an integrated understanding of content, pedagogy, and technology together, not mastery of the three in isolation.
 * [Twelve Characteristics of Effective Teachers](twelve-characteristics-of-effective-teachers.md) - Walker (2008) asked in-service and preservice teachers to identify what made their own most effective teachers effective; twelve characteristics emerged, spanning preparation, disposition, fairness, and personal connection rather than any single instructional technique.
-* [Universal Design for Learning (UDL)](universal-design-for-learning.md) - Universal Design for Learning holds that accessibility features should be built into learning materials and environments by default, following three principles — multiple means of representation, expression, and engagement — rather than retrofitted for individual learners after the fact.
 * [User-Centered Design for Learning](user-centered-design-for-learning.md) - User-centered design applies human-computer-interaction methods — personas, prototyping, and usability evaluation — to reduce the extraneous cognitive load a learning interface imposes, alongside pedagogical design.
 * [Validity, Reliability, and Bias in Classroom Assessment](validity-reliability-and-bias-in-classroom-assessment.md) - A high-quality classroom assessment needs validity (the interpretations and uses made of its results are justified), reliability (its results are consistent across occasions, raters, and items), and freedom from bias (it doesn't distort performance based on a student's group membership) — three genuinely distinct properties, each with its own failure modes.
 * [Vertical and Horizontal Bonding in Numerical Routines](vertical-and-horizontal-bonding-in-numerical-routines.md) - Support young children's shift from rote, imitative numerical routines to flexible, outcome-sensitive ones by making explicit the connection between a procedure's steps and its outcome, and by exposing children to multiple procedures that solve the same comparison task.

@@ -16,6 +16,8 @@ sources:
 
 # Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes
 
+> **Claim** · [All claims](index.md)
+
 Process-mining 30 undergraduates' think-aloud inquiry behavior, students independently classified as high vs. low in argumentation quality also differed sharply in how densely their scientific-reasoning and self-regulation process codes co-occurred, with low-quality students showing more frequent control-of-variables-strategy violations and less monitoring.
 
 ## Subclaims

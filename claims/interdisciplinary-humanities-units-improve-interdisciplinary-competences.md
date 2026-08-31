@@ -16,6 +16,8 @@ sources:
 
 # Interdisciplinary humanities units improve students' interdisciplinary competences
 
+> **Claim** · [All claims](index.md)
+
 Middle-school students who completed interdisciplinary humanities units (combining subjects like history, Bible, and literature around a shared theme) showed statistically significant, medium-sized gains in a novel measure of interdisciplinary competence — comprehension, integration, and synthesis across disciplines — compared to a non-randomized comparison group of students in the same schools, with knowledge-building and identity work appearing in classroom discourse in roughly equal measure.
 
 ## Subclaims

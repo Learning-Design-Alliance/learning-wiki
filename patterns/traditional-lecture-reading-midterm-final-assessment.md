@@ -17,6 +17,8 @@ grain_size: course
 
 # Traditional Lecture / Reading / Midterm / Final Assessment
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 This pattern describes the common lecture-dominant course model in which instructors deliver content primarily through lecture, assign readings for independent study, and evaluate learning mainly through high-stakes midterm and final assessments. It is useful in this wiki as a baseline reference pattern because many other designs are defined partly in response to its limitations.
 

@@ -56,6 +56,13 @@ PAGE_TYPES = {
         "description": "Explanatory frameworks that ground principles and claims.",
         "status_field": True,
     },
+    "learner-variables": {
+        "label": "Learner Variables",
+        "description": "Canonical learner characteristics/variables (prior knowledge, self-efficacy, "
+                        "working memory, ...) that claims report findings about — one page per variable "
+                        "so the same concept doesn't fragment across differently-worded tags.",
+        "status_field": True,
+    },
     "claims": {
         "label": "Claims",
         "description": "Empirical claims with evidence ratings, sources, and competing views.",
@@ -68,7 +75,7 @@ PAGE_TYPES = {
     },
 }
 
-ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "strategies", "theories", "claims"]
+ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "strategies", "theories", "learner-variables", "claims"]
 
 
 def get_page_meta(path: Path) -> dict:
@@ -151,6 +158,16 @@ def build_folder_index(page_type: str, config: dict) -> str:
                 "Examples of theories to add: Cognitive Load Theory, Self-Regulated Learning, "
                 "Constructivism, Information Processing Theory, Situated Cognition, "
                 "Dual Coding Theory, Worked Example Effect."
+            ),
+            "learner-variables": (
+                "## How to add a learner variable\n\n"
+                "Create a file in `learner-variables/` using the Learner Variable template in "
+                "[CLAUDE.md](../CLAUDE.md).\n\n"
+                "One canonical page per distinct learner characteristic (prior knowledge, self-efficacy, "
+                "working memory capacity, spatial ability, ...) — claims link into it rather than "
+                "repeating a free-text description of the variable. Start from claims already in the "
+                "wiki that report a finding about a learner characteristic (e.g. "
+                "\"X predicts/moderates Y outcome\") and factor the variable out into its own page."
             ),
             "claims": (
                 "## How to add a claim\n\n"

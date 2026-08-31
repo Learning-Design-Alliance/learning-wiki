@@ -15,6 +15,8 @@ sources:
 
 # Sociomaterial Agency of Tools
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Drawing on new materialist and posthumanist theory (Barad's concept of intra-action, in which matter and meaning co-constitute each other rather than matter being a passive backdrop to human intention), this perspective treats instructional tools and materials as active participants in learning, not neutral vehicles for a lesson's content. Materials carry forward cultural histories and associations — including gendered ones, such as sewing being coded feminine and circuit-building coded masculine — that shape who feels invited to use them and how they think while using them. The practical implication for design is that choosing "neutral" materials is not actually possible; material choices always carry some cultural coding, and thoughtful design can use that fact deliberately (e.g., pairing historically feminine-coded craft materials with rigorous technical content) rather than pretending it away.
 

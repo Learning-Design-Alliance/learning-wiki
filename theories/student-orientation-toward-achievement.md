@@ -10,6 +10,8 @@ generated:
 
 # Student Orientation Toward Achievement
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Students' motivation can be decomposed along two independent spectrums: how strongly they are motivated to *approach success*, and how strongly they are motivated to *avoid failure* (Bohlin, 2011). Crossing these two spectrums yields four student profiles, closely paralleling the approach/avoidance distinction in [Goal Orientation Theory](goal-orientation-theory.md).
 

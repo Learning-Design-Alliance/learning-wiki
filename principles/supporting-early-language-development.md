@@ -10,6 +10,8 @@ generated:
 
 # Support Early Language Development
 
+> **Principle** · [All principles](index.md)
+
 ## Description
 Language develops fastest where children have real reason to communicate, hear varied language, and receive immediate, responsive feedback from a communication partner. A widely cited early study (Hart & Risley, 1995) framed this in terms of a large raw "word gap" between children from different socioeconomic backgrounds; more recent work qualifies that finding substantially — later replications suggest the gap in total words heard is considerably smaller than originally reported, and part of the original gap likely reflected a mismatch between the researchers' expectations and the actual (but different) linguistic practices of the homes studied, rather than a simple deficit. More recent research (MIT McGovern Institute) finds that **conversational turns** — the back-and-forth of a real exchange — predict language-relevant brain development (specifically in Broca's area) better than raw word count or socioeconomic status alone. The practical implication is the same either way: responsive, reciprocal interaction, not sheer quantity of words a child overhears, is what drives development.
 

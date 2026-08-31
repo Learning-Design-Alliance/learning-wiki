@@ -10,6 +10,8 @@ generated:
 
 # Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 **Quantitative research** typically starts with a focused research question or hypothesis, collects a small amount of data from each of a large number of individuals, describes the resulting data with statistical techniques, and draws general conclusions about a population. It is comparatively weak at generating novel, interesting research questions or providing rich description of behavior in particular situations. **Qualitative research** does the reverse: it can generate new questions and hypotheses, collects large amounts of relatively unfiltered data from a relatively small number of individuals, describes that data with non-statistical techniques, and can produce rich, detailed description of behavior in the real-world contexts where it occurs — what qualitative researchers call the "lived experience" of participants. Because the two approaches have complementary strengths, some researchers combine them into **mixed-methods research**, either by using qualitative work to generate hypotheses that quantitative work then tests, or through **triangulation** — using both approaches simultaneously on the same question and comparing results. Convergent results reinforce and enrich each other; divergent results raise a genuinely useful further question: why do they diverge, and how can that be reconciled?
 

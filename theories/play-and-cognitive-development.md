@@ -10,6 +10,8 @@ generated:
 
 # Play and Cognitive Development
 
+> **Theory** · [All theories](index.md)
+
 ## Description
 Play is self-directed, individually constructed, imaginative activity, distinct from product-focused work, that serves cognitive skill development, social-emotional learning, and identity exploration. Piaget identified types of play that track a child's cognitive maturation; Smilansky added an intermediate category; Vygotsky offered a complementary account of *why* pretend play matters developmentally, independent of Piaget's stage framework.
 

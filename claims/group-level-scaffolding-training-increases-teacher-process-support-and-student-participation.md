@@ -16,6 +16,8 @@ sources:
 
 # Group-level scaffolding training increases teacher process support and student participation
 
+> **Claim** · [All claims](index.md)
+
 Mathematics teachers coached to use the Small-Group Scaffolding Tool diagnosed the group's collective understanding and handed responsibility back to the group significantly more often than untrained teachers, gave content support less often, and drew substantially more students into each small-group interaction — but did not improve the contingency (accuracy of calibration) of the content support they did give.
 
 ## Subclaims

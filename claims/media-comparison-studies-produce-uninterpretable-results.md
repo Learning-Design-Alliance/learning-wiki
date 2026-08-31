@@ -11,6 +11,8 @@ evidence_strength: moderate
 
 # Media comparison studies produce uninterpretable "no significant difference" findings.
 
+> **Claim** · [All claims](index.md)
+
 A "media comparison study" treats an entire delivery medium (e.g., distance vs. face-to-face instruction) as the independent variable and student achievement as the dependent variable. This design confounds learner characteristics, specific media attributes, instructional strategy, and underlying learning theory into a single undifferentiated "treatment," which makes the near-universal "no significant difference" result these studies produce uninterpretable rather than reassuring.
 
 ## Subclaims

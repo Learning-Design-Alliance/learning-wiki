@@ -20,6 +20,8 @@ evidence_strength: moderate
 
 # Pairing worked examples with practice or fading supports transfer better than examples alone.
 
+> **Claim** · [All claims](index.md)
+
 Examples are most instructionally useful when they are followed by opportunities to apply the same structure independently or with gradually reduced support.
 
 ## Subclaims

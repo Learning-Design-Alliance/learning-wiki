@@ -11,6 +11,8 @@ grain_size: lesson
 
 # Debate
 
+> **Pattern** · [All patterns](index.md)
+
 ## Description
 Debate is the short-form canonical pattern for structured instructional argumentation around a contested question.
 
@@ -25,4 +27,4 @@ Debate is the short-form canonical pattern for structured instructional argument
 - [Debate Format](debate-format.md)
 
 ## Key Sources
-- Kuhn, D. (1991). *The skills of argument*. Cambridge University Press.
+- Kuhn, D. (1991). *The skills of argument*. Cambridge University Press. [doi:10.1017/cbo9780511571350](https://doi.org/10.1017/cbo9780511571350)
