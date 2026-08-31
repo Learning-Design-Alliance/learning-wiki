@@ -96,6 +96,24 @@ def _extract_title_text(line: str, year: str) -> str:
     # italicized) and cuts the tail down to nothing before the title text
     # is ever reached.
     tail = tail.lstrip(". ")
+    # A BOOK in APA form italicises the TITLE and puts the publisher after
+    # it in plain text — "*How learning works*. Jossey-Bass." — the exact
+    # mirror image of the journal-article form the end-marker search below
+    # handles ("Title. *Journal, vol*(issue)"). Nothing in a book citation
+    # matches "[.?!] followed by * or 'In '", so that search found no
+    # boundary at all and kept the WHOLE tail as the title, folding the
+    # publisher into both the title-word set used to verify a DOI and the
+    # Crossref search query ("jossey", "bass", "cambridge", "university",
+    # "press", "routledge", ... as if they were title words). Books are the
+    # overwhelming majority of this wiki's stuck citation conflicts —
+    # Ambrose 2010, Mayer 2009/2021, Paivio 1986, Bandura 1977, Hattie 2009,
+    # Sweller 2011, Boud 1985, Mercer 2000, Archer 2011, Brookhart 2013 and
+    # more all failed here — so when the tail opens with an italic span,
+    # that span IS the title.
+    if tail.startswith("*"):
+        close = tail.find("*", 1)
+        if close != -1:
+            return tail[1:close].strip()
     # Cut at the title's actual end, not just before the DOI/URL — otherwise
     # venue text (an italicized journal/book name, "In *Conference
     # Proceedings*", a publisher name after ". ") gets pulled in as if it

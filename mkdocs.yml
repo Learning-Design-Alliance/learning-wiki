@@ -76,6 +76,7 @@ nav:
   - Patterns: patterns/index.md
   - Strategies: strategies/index.md
   - Theories: theories/index.md
+  - Learner Variables: learner-variables/index.md
   - Claims: claims/index.md
   - Log: log.md
   - Schema & Guide: CLAUDE.md
