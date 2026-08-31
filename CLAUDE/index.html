@@ -1373,6 +1373,11 @@ not push to them, do not reopen a PR from them:</p>
   separately. <strong>Never repaired automatically</strong> — a subtitle is exactly the kind of
   plausible detail that is worth nothing unless it came from the registry, and the majority
   spelling is evidence, not proof. Resolve from a machine that can reach Crossref.</li>
+<li><strong>Third-party Actions are pinned to commit SHAs, with the tag in a trailing comment.</strong>
+  A tag is mutable — whoever owns that repo can repoint <code>@v4</code> at anything — and <code>docs.yml</code>
+  runs with <code>contents: write</code> on every push to <code>main</code>. When bumping one, resolve the new
+  tag with <code>git ls-remote https://github.com/&lt;owner&gt;/&lt;repo&gt; refs/tags/&lt;tag&gt;</code> and paste the
+  SHA it prints. Do not write a SHA from memory or from a changelog.</li>
 <li><strong>Gate 3 (manifest gate) is unbuilt.</strong> <code>sources/manifest.ndjson</code> still records <code>ingested</code>
   even when page verification failed.</li>
 </ul>
