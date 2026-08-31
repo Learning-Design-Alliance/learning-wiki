@@ -128,6 +128,11 @@ Only four branches still hold unmerged commits:
   separately. **Never repaired automatically** — a subtitle is exactly the kind of
   plausible detail that is worth nothing unless it came from the registry, and the majority
   spelling is evidence, not proof. Resolve from a machine that can reach Crossref.
+- **Third-party Actions are pinned to commit SHAs, with the tag in a trailing comment.**
+  A tag is mutable — whoever owns that repo can repoint `@v4` at anything — and `docs.yml`
+  runs with `contents: write` on every push to `main`. When bumping one, resolve the new
+  tag with `git ls-remote https://github.com/<owner>/<repo> refs/tags/<tag>` and paste the
+  SHA it prints. Do not write a SHA from memory or from a changelog.
 - **Gate 3 (manifest gate) is unbuilt.** `sources/manifest.ndjson` still records `ingested`
   even when page verification failed.
 

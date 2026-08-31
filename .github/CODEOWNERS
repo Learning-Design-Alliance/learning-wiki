@@ -1,0 +1,22 @@
+# Review is required on the paths where a merge means code execution, not
+# content. A bad wiki page renders wrong and lint usually catches it; a bad
+# script runs on the harness droplet with the API keys in its environment,
+# and a bad workflow runs in CI with contents: write on this repo.
+#
+# All four maintainers are listed on every path, deliberately. GitHub does not
+# let anyone approve their own pull request, so a single-owner rule on a repo
+# where that owner writes most of the changes is not a review requirement —
+# it is a lockout, and the way people get out of a lockout is by turning the
+# rule off. Any one of the four satisfies it.
+#
+# The 3,700 content pages are NOT covered. They change hundreds at a time in
+# normal enrichment batches, and requiring review there would make the rule
+# noise that gets clicked through — which is how a rule stops protecting the
+# paths that actually matter.
+
+/scripts/               @dsporcaro @hamishll @MarkPotterLDA @bukolaawodumila-millz
+/deploy/                @dsporcaro @hamishll @MarkPotterLDA @bukolaawodumila-millz
+/.github/               @dsporcaro @hamishll @MarkPotterLDA @bukolaawodumila-millz
+/mkdocs.yml             @dsporcaro @hamishll @MarkPotterLDA @bukolaawodumila-millz
+/requirements-docs.txt  @dsporcaro @hamishll @MarkPotterLDA @bukolaawodumila-millz
+/CLAUDE.md              @dsporcaro @hamishll @MarkPotterLDA @bukolaawodumila-millz

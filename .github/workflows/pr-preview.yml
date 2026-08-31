@@ -42,7 +42,7 @@ jobs:
         run: mkdocs build --strict
 
       - name: Deploy preview
-        uses: rossjrw/pr-preview-action@v1
+        uses: rossjrw/pr-preview-action@ffa7509e91a3ec8dfc2e5536c4d5c1acdf7a6de9  # v1
         with:
           source-dir: ./site
 
@@ -50,7 +50,16 @@ jobs:
     if: github.event.action == 'closed'
     runs-on: ubuntu-latest
     steps:
+      # pr-preview-action shells out to git in the working directory, so
+      # without a checkout it dies on `git config user.name` with
+      # "fatal: not in a git directory" and the whole job fails. This job has
+      # never once succeeded: every PR closed since it was added left its
+      # preview folder behind on gh-pages, which is a large part of why that
+      # branch has accumulated so much cruft. deploy-preview has the checkout
+      # and works fine, which is why the bug stayed invisible.
+      - uses: actions/checkout@v4
+
       - name: Remove preview
-        uses: rossjrw/pr-preview-action@v1
+        uses: rossjrw/pr-preview-action@ffa7509e91a3ec8dfc2e5536c4d5c1acdf7a6de9  # v1
         with:
           action: remove
