@@ -35,6 +35,7 @@ Usage:
 """
 
 import argparse
+import html
 import json
 import os
 import sys
@@ -117,9 +118,14 @@ def resolve_doi(doi: str) -> dict:
         return {"doi": doi, "resolved": False, "title": None, "checked_at": today}
     resp.raise_for_status()
     msg = resp.json().get("message", {})
-    titles = msg.get("title") or []
-    containers = msg.get("container-title") or []
-    pages = msg.get("page") or ""
+    # Crossref returns these HTML-escaped — "Youth &amp; Society", "Children
+    # &#x0026; Schools". Writing that into markdown puts the entity on the page
+    # verbatim, so unescape once here rather than at each of the call sites.
+    def _u(s):
+        return html.unescape(s) if isinstance(s, str) else s
+    titles = [_u(x) for x in (msg.get("title") or [])]
+    containers = [_u(x) for x in (msg.get("container-title") or [])]
+    pages = _u(msg.get("page") or "")
     return {
         "doi": doi,
         "resolved": True,

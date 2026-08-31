@@ -127,6 +127,15 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   where one page carries `10.1037/12256-000` and 67 carry none.
   `resolve_citation_metadata.py` therefore also pulls in every DOI named in a citation
   conflict, which covers 142 DOIs the three checks cannot reach.
+- **A title mismatch does not say which side is wrong.** When the registry's title differs
+  but two of journal, volume and first page agree, the DOI is right and the *title* is the
+  fabrication — `strategies/student-shadowing-...` cites Cook-Sather (2006) as "Sound,
+  presence, and silence in education" at exactly the Curriculum Inquiry 36(4) 359 the
+  registry gives for "Sound, Presence, and Power". Stripping there deletes a correct DOI
+  and keeps the invented title. `resolve_citation_metadata.py` fixes the title in that case
+  and strips only when nothing corroborates the DOI.
+- **Crossref returns HTML-escaped strings** — `Youth &amp; Society`. `doi_resolver` unescapes
+  once at the boundary; writing the raw value puts the entity on the page.
 - **A Crossref 404 is not proof a DOI is fabricated.** Crossref indexes only DOIs
   registered through Crossref, so a DataCite dataset, mEDRA or JaLC registration is
   legitimately absent. `resolve_citation_metadata.py` never strips on a 404; it reports
