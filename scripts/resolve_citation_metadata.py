@@ -218,6 +218,30 @@ def strip_doi_from_line(line: str, doi: str) -> str:
     return line
 
 
+def proven_fabrications(not_found_dois, siblings: dict, verified: set) -> dict:
+    """{404'd DOI -> the sibling that proves it wrong}, for the one shape where
+    a Crossref 404 is proof rather than evidence.
+
+    Pure, so the rule that decides whether to delete a DOI can be exercised
+    without a network. `siblings` comes from
+    check_citations.variant_siblings(); `verified` is the set of DOIs Crossref
+    resolved to the paper the page actually cites.
+
+    The narrowness is the point. It is NOT enough that the paper has some other
+    DOI that resolves — a preprint and its published version legitimately carry
+    two, from two registrants, and one of them may sit outside Crossref. The
+    sibling must be near-identical: the same registrant, a suffix a couple of
+    characters away. No publisher issues one article under two spellings of the
+    same suffix, so if one of them is the article, the other is a
+    misremembering of it."""
+    out = {}
+    for doi in not_found_dois:
+        good = sorted(siblings.get(doi, set()) & verified)
+        if good:
+            out[doi] = good[0]
+    return out
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -236,6 +260,13 @@ def main() -> None:
     by_key = cc.load_all_citations()
     by_doi = cc.load_by_doi(by_key)
     consensus = cc.token_consensus(by_doi)
+    # Which DOIs are one of several near-identical spellings offered for the
+    # same paper. On its own that is only a signal — see the note in
+    # check_citations.find_doi_variant_families, where two RRQ DOIs one
+    # character apart are both real. It becomes actionable exactly once: a
+    # member Crossref has never heard of, sitting beside a member that
+    # resolves to the paper being cited. See the post-pass below.
+    siblings = cc.variant_siblings(cc.find_doi_variant_families(by_key))
 
     # Only DOIs some check actually flagged — no point spending a lookup on
     # the thousands the wiki already agrees about.
@@ -270,6 +301,10 @@ def main() -> None:
     # that registrant's other DOIs resolve at all.
     prefix_ok: dict[str, int] = {}
     not_found: list[tuple[str, str]] = []
+    # DOIs Crossref resolved to the paper the page actually cites.
+    verified: set = set()
+    # not-found DOIs kept with their citation entries, for the sibling pass.
+    nf_entries: dict[str, list] = {}
 
     for i, doi in enumerate(todo, 1):
         cached = cache.get(doi)
@@ -297,10 +332,12 @@ def main() -> None:
             d = decide(entry["meta"], record, cited_title)
             if d["action"] == "none":
                 agreed += 1
+                verified.add(doi)
                 prefix_ok[doi.partition("/")[0]] = prefix_ok.get(doi.partition("/")[0], 0) + 1
                 continue
             if d["action"] == "not_found":
                 not_found.append((doi, entry["source"]))
+                nf_entries.setdefault(doi, []).append(entry)
                 continue
             if d["action"] == "skip":
                 skipped += 1
@@ -313,6 +350,30 @@ def main() -> None:
                 fixed += 1
             else:
                 stripped += 1
+
+    # A 404 is not proof of fabrication — except in one shape. When a paper is
+    # cited with several near-identical DOIs, at most one of them can be the
+    # article; so if Crossref resolves one member of the family to the paper
+    # being cited and has never heard of another, the second is not "a
+    # registrar Crossref does not index". Its own sibling proves the article is
+    # in Crossref, under a different suffix. That is the one case where the
+    # variant family upgrades a 404 from evidence to proof, and it is what
+    # closes the loop on DOIs like the four 10.1080/00098655.2012.* spellings
+    # of Rosenshine (2012).
+    variant_stripped = 0
+    proven = proven_fabrications(nf_entries, siblings, verified)
+    for doi, good_sibling in proven.items():
+        for entry in nf_entries[doi]:
+            path = WIKI_ROOT / entry["source"]
+            d = {"action": "strip_doi", "fields": {},
+                 "why": (f"no Crossref record, and sibling {good_sibling} resolves to the "
+                         f"paper this cites — at most one spelling can be real")}
+            edits.setdefault(path, []).append((doi, d, {}))
+            print(f"  [variant] {entry['source']}: strip_doi — {d['why']}")
+            variant_stripped += 1
+            stripped += 1
+    if proven:
+        not_found = [(d, s_) for d, s_ in not_found if d not in proven]
 
     if args.apply and edits:
         for path, items in edits.items():
@@ -345,6 +406,10 @@ def main() -> None:
           f"across {len(edits)} page(s).")
     print(f"{agreed} citation(s) already matched the registry.")
     print(f"{skipped} skipped because the lookup failed — an outage is not a verdict.")
+    if variant_stripped:
+        print(f"{variant_stripped} of the removal(s) were near-identical DOI variants "
+              f"({len(proven)} DOI(s)) that Crossref has no record of while a sibling "
+              f"spelling resolves to the cited paper.")
     if not_found:
         # A 404 on a prefix whose other DOIs resolve fine is the strong case:
         # that registrant IS in Crossref, so the record's absence is about this

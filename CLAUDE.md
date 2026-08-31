@@ -188,6 +188,29 @@ routinely holds real uncommitted work, and keying on HEAD would call all of it i
   separately. **Never repaired automatically** — a subtitle is exactly the kind of
   plausible detail that is worth nothing unless it came from the registry, and the majority
   spelling is evidence, not proof. Resolve from a machine that can reach Crossref.
+- **15 papers are cited with a *family* of near-identical DOIs** — same registrant,
+  suffixes a few characters apart: 43 distinct DOIs over 90 citations, so at least 28 of
+  them are wrong, since at most one spelling of a suffix can be the article. Worst is
+  `okonofua-2016` with **nine** `10.1177/1745691615*` variants (alongside 27 pages citing
+  `10.1073/pnas.1523698113`, a different registrant and almost certainly the real one);
+  then `rosenshine-2012` with four `10.1080/00098655.2012.*`. `check_citations.py
+  --variants` reports them. This is the fourth defect shape and the other three checks are
+  structurally blind to it — `find_conflicts` says only "this paper carries N DOIs" and
+  treats nine digit-permutations of one suffix exactly like two unrelated publishers.
+- **A variant family is a signal, not a verdict — never strip on family membership alone.**
+  `ehri-2001` carries `10.1598/rrq.36.3.2` and `10.1598/rrq.36.3.3`: one character apart
+  and *both real*, consecutive articles in the same Reading Research Quarterly issue.
+  Nothing in the shape of a suffix separates that from a fabricated neighbour.
+- **The family does make one case actionable, and it is the case a bare 404 could not
+  settle.** When Crossref resolves one member of a family to the paper being cited and has
+  no record of another, the second is not "a registrar Crossref does not index" — its own
+  sibling proves the article *is* in Crossref, under a different suffix.
+  `resolve_citation_metadata.proven_fabrications()` (pure, tested offline) is the only
+  place that upgrades a 404 to a removal, and it requires the near-identical sibling
+  specifically: a preprint and its published version legitimately carry two DOIs from two
+  registrants, one of which may sit outside Crossref, so "some other DOI for this paper
+  resolves" is *not* sufficient. Run it from the droplet; this sandbox cannot reach
+  Crossref.
 - **Third-party Actions are pinned to commit SHAs, with the tag in a trailing comment.**
   A tag is mutable — whoever owns that repo can repoint `@v4` at anything — and `docs.yml`
   runs with `contents: write` on every push to `main`. When bumping one, resolve the new
