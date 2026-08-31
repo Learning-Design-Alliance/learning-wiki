@@ -1350,6 +1350,13 @@ not push to them, do not reopen a PR from them:</p>
   <code>strategies/{classroom-design-for-engagement,contrasting-cases,formative-assessment-cycles,
   formative-feedback,multisensory-phonics-instruction,sketchnoting,teaching-as-learning}.md</code>
   and the six underscore-named siblings from a machine that can reach Crossref.</li>
+<li><strong>317 citations carry journal metadata that disagrees with their DOI.</strong> The enrichment
+  model copies a title and DOI reliably and then invents the journal, volume and pages
+  around them — Graham &amp; Perin (2007) accumulated seven different journals under one DOI.
+  <code>check_citations.py --metadata</code> reports them; <code>fix_citation_metadata.py --apply</code> repairs
+  only the ones the DOI itself settles (its suffix encodes volume/issue/page) and defers
+  the rest. Do not "fix" the deferred ones by majority vote — where the DOI is opaque,
+  picking the popular journal is the same guess as picking a DOI.</li>
 <li><strong>Gate 3 (manifest gate) is unbuilt.</strong> <code>sources/manifest.ndjson</code> still records <code>ingested</code>
   even when page verification failed.</li>
 </ul>
