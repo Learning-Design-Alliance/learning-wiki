@@ -59,8 +59,8 @@ Well-implemented SEL programs produce measurable gains in social-emotional skill
 6. **Offer choice in application** — letting students select practice scenarios or goals supports ownership [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M].
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — structures student autonomy, which supports the self-management competencies SEL curricula target
-- [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) — a classroom-routine variant that embeds SEL practice in daily community meetings
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — structures student autonomy, which supports the self-management competencies SEL curricula target
+- [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — a classroom-routine variant that embeds SEL practice in daily community meetings
 - ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a low-stakes emotion-labeling activity usable as a warm-up within an SEL sequence
 
 ## Examples

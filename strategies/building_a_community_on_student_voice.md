@@ -60,7 +60,7 @@ Student voice practices work through two mechanisms: they satisfy learners' need
 
 ## Related Strategies
 - [Actively Listen to What Students Say](actively_listen_to_what_students_say.md) — the teacher-side skill that makes voice routines meaningful
-- [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) — norms work that underpins safe sharing
+- [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — norms work that underpins safe sharing
 - [Action Planning](action_planning.md) — converts voiced needs into student-owned next steps
 
 ## Examples

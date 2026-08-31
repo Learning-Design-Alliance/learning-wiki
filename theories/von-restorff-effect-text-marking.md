@@ -49,7 +49,7 @@ The mechanism is attentional and encoding-based. Marking increases the probabili
 
 ## Examples
 
-- **[Headings and highlight strategy](../strategies/"headings_and_highlight"_strategy.md)** — applies the isolation effect by pairing structural cues (headings) with selective highlighting, constraining what learners mark to high-relevance content
+- **[Headings and highlight strategy](../strategies/headings-and-highlight-strategy-variant.md)** — applies the isolation effect by pairing structural cues (headings) with selective highlighting, constraining what learners mark to high-relevance content
 - **[Attention](../elements/attention.md)** — marking is fundamentally an attention-direction device; the von Restorff effect describes the payoff of successfully capturing and allocating attention during study
 - **[Advance organizers](../elements/advance-organizers.md)** — like marking, organizers pre-select what matters in a text; both work by biasing attention toward high-relevance information before or during reading
 

@@ -61,7 +61,7 @@ Culturally responsive teaching improves engagement and achievement when cultural
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the general mechanism this strategy applies to cultural knowledge specifically
-- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — student choice structures that let learners connect work to their identities
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — student choice structures that let learners connect work to their identities
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — elicitation routines for home and community knowledge
 
 ## Examples

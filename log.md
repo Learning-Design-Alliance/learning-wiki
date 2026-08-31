@@ -25,7 +25,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Correction**: [strategies/norm_setting](strategies/norm_setting.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
 * **Correction**: [strategies/multisensory-phonics-instruction](strategies/multisensory-phonics-instruction.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
 * **Correction**: [strategies/leveraging_strengths_in_relationship_skills](strategies/leveraging_strengths_in_relationship_skills.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
-* **Correction**: [strategies/have_explicit_conversations_about_emotions_and_social_issues,_including_issues_of_social_justice](strategies/have_explicit_conversations_about_emotions_and_social_issues,_including_issues_of_social_justice.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
+* **Correction**: [strategies/have_explicit_conversations_about_emotions_and_social_issues,_including_issues_of_social_justice](strategies/have-explicit-conversations-about-emotions-and-social-issues-including-issues-of-social-justice.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
 * **Correction**: [strategies/formative-feedback](strategies/formative-feedback.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
 * **Correction**: [strategies/formative-assessment-cycles](strategies/formative-assessment-cycles.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
 * **Correction**: [strategies/define_and_apply_ethical_responsibility](strategies/define_and_apply_ethical_responsibility.md) — Replaced placeholder template body and enrichment reasoning transcript with a sourced strategy page
@@ -35,7 +35,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Deprecate**: `strategies/multiple_representations.md` — removed; corrupted duplicate of [strategies/multiple-representations](strategies/multiple-representations.md), inbound links retargeted
 * **Correction**: [strategies/chunking_reduces_working_memory_load](strategies/chunking_reduces_working_memory_load.md) — Relabelled type claim -> strategy to match folder; retitled and added Instructions section
 * **Correction**: [claims/classroom-design-affects-learning-progress](claims/classroom-design-affects-learning-progress.md) — Replaced enrichment reasoning transcript with a sourced claim page; set id and evidence_strength
-* **Correction**: [strategies/on-the-job_training_(ojt)](<strategies/on-the-job_training_(ojt).md>) — Replaced exemplar frontmatter and reasoning transcript with a full OJT strategy page; type element -> strategy
+* **Correction**: [strategies/on-the-job_training_(ojt)](strategies/on-the-job-training-ojt.md) — Replaced exemplar frontmatter and reasoning transcript with a full OJT strategy page; type element -> strategy
 * **Correction**: [patterns/experiential-learning-cycle](patterns/experiential-learning-cycle.md) — Replaced enrichment reasoning transcript with a full pattern page; restored H1 and type banner
 * **Enrich**: Advance organizers improve learning — enriched from claims CSV via Claude
 * **Enrich**: Argumentation Improves Reasoning — enriched from claims CSV via Claude
@@ -8928,7 +8928,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Content**: [principles/assessment-for-learning](principles/assessment-for-learning.md) — Enriched with Dweck incremental/fixed view of ability shaping assessment purpose (Unit 10)
 * **Content**: [strategies/addressing_stereotype_threat](strategies/addressing_stereotype_threat.md) — Enriched with Aronson & Steele 2005 mechanism and citation (Unit 10)
 * **Content**: [strategies/effort-based_praise](strategies/effort-based_praise.md) — Enriched with precise Dweck 2000 mechanism and citation (Unit 10)
-* **Content**: [strategies/frequent,_low-stakes_quizzes](strategies/frequent,_low-stakes_quizzes.md) — Enriched with Dempster & Perkins and Bangert-Downs citations (Unit 10)
+* **Content**: [strategies/frequent,_low-stakes_quizzes](strategies/frequent-low-stakes-quizzes.md) — Enriched with Dempster & Perkins and Bangert-Downs citations (Unit 10)
 * **Content**: [strategies/portfolio_development](strategies/portfolio_development.md) — Enriched with four-dimension purpose taxonomy, implementation steps, Vermont reliability case study (Unit 10)
 * **Content**: [elements/performance-based-assessment](elements/performance-based-assessment.md) — Enriched with authentic/alternative assessment distinction and advantages/disadvantages (Unit 10)
 * **Content**: [strategies/checklists](strategies/checklists.md) — Enriched with checklist-vs-rating-scale distinction (Unit 10)
@@ -8981,7 +8981,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [patterns/understanding-by-design](patterns/understanding-by-design.md) — New pattern: Understanding by Design backward design framework (Unit 8 ingest)
 * **Content**: [principles/social-interdependence](principles/social-interdependence.md) — Cross-link culturally responsive classroom norms (Unit 7 enrichment)
 * **Content**: [theories/metacognition](theories/metacognition.md) — Cross-link bilingual metalinguistic awareness claim (Unit 7 enrichment)
-* **Content**: [strategies/multi-tiered_system_of_supports_(mtss)](<strategies/multi-tiered_system_of_supports_(mtss).md>) — Substantially rewrite stub with RTI/MTSS tier structure and history (Unit 7 enrichment)
+* **Content**: [strategies/multi-tiered_system_of_supports_(mtss)](strategies/multi-tiered-system-of-supports-mtss.md) — Substantially rewrite stub with RTI/MTSS tier structure and history (Unit 7 enrichment)
 * **Content**: [principles/universal-design-for-learning](principles/universal-design-for-learning.md) — Add concrete classroom tactics and alternative-assessment content (Unit 7 enrichment)
 * **Content**: [theories/triarchic-theory-of-intelligence](theories/triarchic-theory-of-intelligence.md) — Add creativity-components table and practical-intelligence validity caveat (Unit 7 enrichment)
 * **Ingest**: [principles/culturally-responsive-classroom-norms](principles/culturally-responsive-classroom-norms.md) — New page: culturally responsive classroom norms (Unit 7 ingest)
@@ -9013,7 +9013,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [theories/four-phase-interest-development](theories/four-phase-interest-development.md) — New page: Four-Phase Model of Interest Development (Unit 6 ingest)
 * **Ingest**: [claims/overjustification-effect-reduces-intrinsic-motivation](claims/overjustification-effect-reduces-intrinsic-motivation.md) — New claim ld-5: overjustification effect (Unit 6 ingest)
 * **Ingest**: [theories/instinct-drive-and-arousal-theories](theories/instinct-drive-and-arousal-theories.md) — New page: Instinct, Drive, and Arousal Theories (Unit 6 ingest)
-* **Content**: [strategies/project-based_learning_(pbl)](<strategies/project-based_learning_(pbl).md>) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
+* **Content**: [strategies/project-based_learning_(pbl)](strategies/project-based-learning-pbl.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
 * **Content**: [patterns/socratic-seminar](patterns/socratic-seminar.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
 * **Content**: [principles/annotating](principles/annotating.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
 * **Content**: [theories/metacognition](theories/metacognition.md) — Enriched from Educational Psychology Unit 5 (Facilitating Complex Thinking), Arduini-Van Hoose
@@ -9157,7 +9157,7 @@ Operations: `ingest` · `edit` · `review` · `merge` · `deprecate` · `lint`
 * **Ingest**: [theories/bioecological-model-of-human-development](theories/bioecological-model-of-human-development.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
 * **Ingest**: [theories/kohlberg-moral-development](theories/kohlberg-moral-development.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
 * **Ingest**: [theories/stages-of-cognitive-development](theories/stages-of-cognitive-development.md) — New theory page from Educational Learning Theories (2nd ed., Zhou & Brown)
-* **Deprecate**: [strategies/"headings_and_highlight"_strategy](strategies/"headings_and_highlight"_strategy.md) — Deprecated as a duplicate of headings_and_highlight_strategy.md; content merged into the canonical page, this page kept as a redirect stub per CLAUDE.md's no-delete convention
+* **Deprecate**: [strategies/"headings_and_highlight"_strategy](strategies/headings-and-highlight-strategy-variant.md) — Deprecated as a duplicate of headings_and_highlight_strategy.md; content merged into the canonical page, this page kept as a redirect stub per CLAUDE.md's no-delete convention
 * **Content**: [strategies/headings_and_highlight_strategy](strategies/headings_and_highlight_strategy.md) — Merged in the genuinely different observations from the duplicate "headings_and_highlight"_strategy.md page: sharper Impact framing (the real affordance is clean multi-edit headings), social-studies example folded into Target Learners, and a new Implementation Variability note on broad reading-comprehension use vs. content-specific use
 * **Fix**: `strategies/* (49 pages)` — renamed files containing a literal `:` in the filename (e.g. `blocks_and_legos:_maker_spaces_and_fab_labs.md` → `blocks_and_legos-maker_spaces_and_fab_labs.md`) — the colon was parsed as a URI scheme separator by Jekyll/GitHub Pages, breaking the Pages build with "Invalid scheme format"; updated all cross-links in strategies/index.md and principles/explicit-instruction-math-strategies.md, principles/explicit-instruction-online-reading-strategies.md; regenerated indexes and verified with `scripts/lint.py`
 

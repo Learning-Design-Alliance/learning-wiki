@@ -57,7 +57,7 @@ Learner involvement in environmental design is a form of autonomy support: provi
 5. Review periodically: schedule [Check-Ins](../principles/check-ins.md) to evaluate whether the design is working and revise — making clear that the design is provisional and learner-governed.
 
 ## Related Strategies
-- [Academic Choice (planning, working, reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — the same autonomy-support logic applied to academic work rather than physical space
+- [Academic Choice (planning, working, reflecting)](academic-choice-planning-working-reflecting.md) — the same autonomy-support logic applied to academic work rather than physical space
 - [Flexible Seating](flexible_seating.md) — a common outcome of learner-involved design processes
 - [Co-Constructing Classroom Norms](co-constructing_classroom_norms.md) — companion practice extending learner voice from space to behavior
 

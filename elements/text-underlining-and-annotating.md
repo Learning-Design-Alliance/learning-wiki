@@ -69,7 +69,7 @@ Underlining alone is one of the weakest studied techniques for durable learning;
 - [Graphic Organizers](graphic-organizers.md) — externalize text structure the way annotations externalize reader response
 
 ## Examples
-- **[Headings and Highlight Strategy](../strategies/"headings_and_highlight"_strategy.md)** — learners use headings to predict content, then highlight only text that answers their predictions, constraining over-marking
+- **[Headings and Highlight Strategy](../strategies/headings-and-highlight-strategy-variant.md)** — learners use headings to predict content, then highlight only text that answers their predictions, constraining over-marking
 - **SQ3R (Survey–Question–Read–Recite–Review)** — classic study system in which marking during reading feeds a recitation/review cycle rather than substituting for it
 - **Perusall (https://www.perusall.com)** — social annotation platform where students comment on shared readings; converts private marking into visible, discussable generative processing
 - **Hypothesis (https://web.hypothes.is)** — open web annotation tool used in college courses for collaborative marginal commentary

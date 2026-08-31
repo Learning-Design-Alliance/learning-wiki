@@ -183,8 +183,12 @@ def main() -> int:
             if not (page.parent / replacement).resolve().is_file():
                 continue
             for variant in link_variants(old_path, from_folder):
-                needle = f"]({variant})"
-                if needle in text:
+                # Both spellings: bare, and the <...> form lint requires for a
+                # target containing parentheses. Old names here routinely have
+                # them ("academic_choice_(planning,_working,_reflecting).md").
+                for needle in (f"]({variant})", f"](<{variant}>)"):
+                    if needle not in text:
+                        continue
                     n = text.count(needle)
                     text = text.replace(needle, f"]({replacement})")
                     rewritten += n

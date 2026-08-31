@@ -59,7 +59,7 @@ Choice reliably increases intrinsic motivation and engagement, consistent with s
 6. Close with [Individual Reflection](../elements/individual-reflection.md) on what was chosen, why, and what it produced
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — the structured plan–work–reflect cycle that operationalizes free choice time in Responsive Classroom practice
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — the structured plan–work–reflect cycle that operationalizes free choice time in Responsive Classroom practice
 - [Choice Boards](../elements/choice-boards.md) — the most common curricular structure for bounding choice
 
 ## Examples

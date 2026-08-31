@@ -58,7 +58,7 @@ Choice boards operationalize autonomy support: providing meaningful choices with
 6. Debrief: ask learners whether their choice served their learning, building the metacognitive judgment that makes future choices better.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — the broader planning–working–reflecting cycle that choice boards fit into
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — the broader planning–working–reflecting cycle that choice boards fit into
 - [Tiered Assignments](tiered-assignments.md) — companion differentiation structure; boards can be tiered by row
 - [Learning Menus](learning-menus.md) — a linear variant with required core plus optional sides
 

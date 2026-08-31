@@ -39,7 +39,7 @@ The pause procedure is one of the simplest supplements to an otherwise unchanged
 5. Repeat for each subsequent segment.
 
 ## Related Strategies
-- [Think-Pair-Share (Turn & Talk)](<think-pair-share_(turn_&_talk).md>)
+- [Think-Pair-Share (Turn & Talk)](think-pair-share-turn-talk.md)
 
 ## Examples
 

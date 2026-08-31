@@ -59,7 +59,7 @@ Self-determination instruction is grounded in [Self-Determination Theory](../the
 6. **Measure and report growth** — track self-determination outcomes alongside academics so schools are accountable for them.
 
 ## Related Strategies
-- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — a classroom-scale structure for practicing self-direction daily
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a classroom-scale structure for practicing self-direction daily
 - [Action Planning](action_planning.md) — the goal-setting routine that underlies self-determined learning
 - [Check-In](../elements/check-in.md) — low-stakes reflection that builds self-awareness of needs and progress
 

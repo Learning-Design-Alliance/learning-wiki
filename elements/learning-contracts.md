@@ -61,7 +61,7 @@ Learning contracts support learning primarily by forcing goal specification and 
 
 ## Examples
 
-**[Academic Choice (Planning, Working, Reflecting)](<../strategies/academic_choice_(planning,_working,_reflecting).md>)** — Learners plan what they will do, carry it out, and reflect on results; the planning artifact is a simplified learning contract.
+**[Academic Choice (Planning, Working, Reflecting)](../strategies/academic-choice-planning-working-reflecting.md)** — Learners plan what they will do, carry it out, and reflect on results; the planning artifact is a simplified learning contract.
 
 **[Action Planning](../strategies/action_planning.md)** — A structured plan of goals, steps, and timelines that serves as the operational core of a learning contract.
 

@@ -57,7 +57,7 @@ Co-constructed norms combine two mechanisms: clear behavioral expectations, whic
 
 ## Related Strategies
 - [Active Listening](active_listening.md) — the facilitation stance that makes the elicitation discussion genuine rather than performative
-- [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md) — the dispositions the code is designed to cultivate
+- [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — the dispositions the code is designed to cultivate
 - [Action Planning](action_planning.md) — converting agreed norms into concrete behavioral commitments
 
 ## Examples

@@ -62,7 +62,7 @@ Goal setting is one of the most robustly supported motivational interventions in
 - [Achievable micro-goals](achievable_micro-goals.md) — the proximal-goal variant: very short-horizon targets that keep commitment high
 - [Action planning](action_planning.md) — the "how" companion: converting goals into concrete steps and schedules
 - [Check-ins](../elements/check-in.md) — the recurring touchpoint that keeps goals alive rather than set-and-forgotten
-- [Academic choice (planning, working, reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — a broader structure in which goal setting is the planning phase
+- [Academic choice (planning, working, reflecting)](academic-choice-planning-working-reflecting.md) — a broader structure in which goal setting is the planning phase
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — learners set mastery goals per skill; the dashboard tracks progress against them, externalizing the monitoring loop.

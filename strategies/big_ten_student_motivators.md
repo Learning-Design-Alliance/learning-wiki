@@ -60,7 +60,7 @@ The strategies work by raising perceived autonomy and task value rather than by 
 
 ## Related Strategies
 - [Activating prior knowledge](activating_prior_knowledge.md) — choice and talk strategies land better when tasks connect to what students already know
-- [Academic choice (planning, working, reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — the structured version of the choice motivator
+- [Academic choice (planning, working, reflecting)](academic-choice-planning-working-reflecting.md) — the structured version of the choice motivator
 - [Act it out](act_it_out.md) — a play-based embodiment variant that supports comprehension
 - [Action planning](action_planning.md) — supports the negotiation and goal-setting motivators
 

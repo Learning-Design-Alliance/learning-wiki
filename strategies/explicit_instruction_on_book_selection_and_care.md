@@ -56,7 +56,7 @@ Independent reading only produces growth when students actually read text they c
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting book selection to students' interests and prior reading builds the "why" behind the routines
-- [Academic Choice](<academic_choice_(planning,_working,_reflecting).md>) — structured choice within routines preserves autonomy while maintaining procedure
+- [Academic Choice](academic-choice-planning-working-reflecting.md) — structured choice within routines preserves autonomy while maintaining procedure
 
 ## Examples
 - **Reading workshop launch (e.g., Teachers College Reading & Writing Project units)** — the first weeks of the school year are devoted to mini-lessons on choosing just-right books, building stamina, and caring for browsing boxes before independent reading volume ramps up. See [https://readingandwritingproject.org](https://readingandwritingproject.org)

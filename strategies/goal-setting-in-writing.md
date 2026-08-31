@@ -60,7 +60,7 @@ Goal setting works because it directs attention and effort toward concrete featu
 - [Achievable Micro-Goals](achievable_micro-goals.md) — decomposing large writing tasks into small, immediately attainable goals
 - [Action Planning](action_planning.md) — converting goals into concrete next steps
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a natural setting for setting and checking individual writing goals
-- [Academic Choice (Planning, Working, Reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — structures learner ownership of goals and plans
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — structures learner ownership of goals and plans
 
 ## Examples
 - **Self-Regulated Strategy Development (SRSD)** — Graham and Harris's framework has students set goals for including genre elements (e.g., "state my opinion, give three reasons with facts") before writing persuasive essays; extensively validated across dozens of studies ([SRSD Online](https://srisd.com)).

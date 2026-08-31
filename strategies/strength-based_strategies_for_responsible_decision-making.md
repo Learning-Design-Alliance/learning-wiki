@@ -59,7 +59,7 @@ Strength-based framing builds on the positive psychology finding that identifyin
 7. **Extend.** Analyze ethical decisions in current events to transfer the process beyond the classroom ([Application of Knowledge](../elements/application-of-knowledge.md)).
 
 ## Related Strategies
-- Strength-based approaches pair naturally with restorative and participatory classroom practices, where students share responsibility for decisions and community norms — see [Acceptance, Responsibility, and Sharing](acceptance,_responsibility,_and_sharing.md)
+- Strength-based approaches pair naturally with restorative and participatory classroom practices, where students share responsibility for decisions and community norms — see [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md)
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — strength identification is a form of activating what students already bring to a decision task
 
 ## Related Elements

@@ -63,7 +63,7 @@ Reflective journals operationalize self-regulated learning: the writing act exte
 - [Activities for student self-reflection](activities_for_student_self-reflection.md) — the broader family; journals are its most sustained written form
 - [5-minute writing conferences](5-minute_writing_conferences.md) — a low-cost way to respond to journal entries individually
 - [Action planning](action_planning.md) — the "now what" phase of a journal entry made explicit
-- [Academic choice (planning, working, reflecting)](<academic_choice_(planning,_working,_reflecting).md>) — embeds journaling within a learner-directed work cycle
+- [Academic choice (planning, working, reflecting)](academic-choice-planning-working-reflecting.md) — embeds journaling within a learner-directed work cycle
 
 ## Examples
 - **Learning diaries in blended courses** — Renkl and colleagues' computer-based learning diary tools prompt students to apply cognitive and metacognitive strategies while studying, with prompts fading over the term.
