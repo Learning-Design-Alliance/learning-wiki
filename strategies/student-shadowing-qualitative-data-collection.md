@@ -72,4 +72,4 @@ Shadowing operationalizes the principle that students hold expert knowledge abou
 - Cook-Sather, A. (2002). Authorizing students' perspectives: Toward trust, dialogue, and change in education. *Educational Researcher, 31*(4), 3–14. [doi:10.3102/0013189X031004003](https://doi.org/10.3102/0013189X031004003)
 - Fielding, M. (2001). Students as radical agents of change. *Journal of Educational Change, 2*(3), 123–141. [doi:10.1023/A:1017949213447](https://doi.org/10.1023/A:1017949213447)
 - Yin, R. K. (2018). *Case Study Research and Applications: Design and Methods* (6th ed.). Sage.
-- Cook-Sather, A. (2006). Sound, presence, and silence in education. *Curriculum Inquiry, 36*(4), 359–377. [doi:10.1111/j.1467-873X.2006.00363.x](https://doi.org/10.1111/j.1467-873X.2006.00363.x)
+- Cook-Sather, A. (2006). Sound, Presence, and Power: “Student Voice” in Educational Research and Reform *Curriculum Inquiry, 36*(4), 359–377. [doi:10.1111/j.1467-873X.2006.00363.x](https://doi.org/10.1111/j.1467-873X.2006.00363.x)

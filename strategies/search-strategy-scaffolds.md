@@ -69,7 +69,7 @@ Unscaffolded search is dominated by keyword matching and surface cues; learners 
 
 ## Key Sources
 - Brand-Gruwel, S., Wopereis, I., & Vermetten, Y. (2005). Information problem solving by experts and novices: Analysis of a complex cognitive skill. *Computers in Human Behavior, 21*(3), 487-508. [doi:10.1016/j.chb.2004.10.005](https://doi.org/10.1016/j.chb.2004.10.005)
-- Walraven, A., Brand-Gruwel, S., & Boshuizen, H. P. A. (2008). How students evaluate sources and information for their learning. *Computers &amp; Education, 52*(1), 234-246. [doi:10.1016/j.compedu.2008.08.003](https://doi.org/10.1016/j.compedu.2008.08.003)
+- Walraven, A., Brand-Gruwel, S., & Boshuizen, H. P. A. (2008). How students evaluate sources and information for their learning. *Computers & Education, 52*(1), 234-246. [doi:10.1016/j.compedu.2008.08.003](https://doi.org/10.1016/j.compedu.2008.08.003)
 - Quintana, C., Reiser, B. J., Davis, E. A., Krajcik, J., Fretz, E., Duncan, R. G., Kyza, E., Edelson, D., & Soloway, E. (2004). A scaffolding design framework for software to support science inquiry. *Journal of the Learning Sciences, 13*(3), 337–386. [doi:10.1207/s15327809jls1303_4](https://doi.org/10.1207/s15327809jls1303_4)
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40.
 - Kirschner, P. A., & De Bruyckere, P. (2017). The myths of the digital native and the multitasker. *Teaching and Teacher Education, 67*, 135–142. [doi:10.1016/j.tate.2017.06.001](https://doi.org/10.1016/j.tate.2017.06.001)

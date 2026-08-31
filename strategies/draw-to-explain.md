@@ -67,5 +67,5 @@ Drawing is a generative learning activity: learners must construct external stru
 ## Key Sources
 - Ainsworth, S., Prain, V., & Tytler, R. (2011). Drawing to learn in science. *Science, 333*(6046), 1096–1097. [doi:10.1126/science.1204153](https://doi.org/10.1126/science.1204153)
 - Van Meter, P., & Garner, J. (2005). The promise and challenge of advancing generative drawing as a model-building activity for learning. *Educational Psychology Review, 17*(4), 285–325. [doi:10.1007/s10648-005-1272-5](https://doi.org/10.1007/s10648-005-1272-5)
-- Fiorella, L., & Mayer, R. E. (2015). Learning as a generative activity: Eight learning strategies that promote understanding. *Applied Cognitive Psychology, 29*(5), 661–672. [doi:10.1002/acp.3137](https://doi.org/10.1002/acp.3137)
+- Fiorella, L., & Mayer, R. E. (2015). Learning as a generative activity: Eight learning strategies that promote understanding. *Applied Cognitive Psychology, 29*(5), 661–672.
 - Mayer, R. E. (2021). *Multimedia Learning* (3rd ed.). Cambridge University Press. [doi:10.1017/9781316941355](https://doi.org/10.1017/9781316941355)

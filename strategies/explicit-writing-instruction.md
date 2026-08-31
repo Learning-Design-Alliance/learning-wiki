@@ -71,4 +71,4 @@ Explicit writing instruction is among the most consistently supported approaches
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Graham, S., McKeown, D., Kiuhara, S., & Harris, K. R. (2012). A meta-analysis of writing instruction for students in the elementary grades. *Journal of Educational Psychology, 104*(4), 879–896. [doi:10.1037/a0029185](https://doi.org/10.1037/a0029185)
 - Graham, S., & Sandmel, D. (2011). The process writing approach: A meta-analysis. *The Journal of Educational Research, 104*(6), 396–407.
-- Harris, K. R., Graham, S., & Mason, L. H. (2006). Improving the planning, self-monitoring, and self-regulation skills of students with learning disabilities: SRSD. *Exceptionality, 14*(3), 147–162. [doi:10.1207/s15327035ex1403_3](https://doi.org/10.1207/s15327035ex1403_3)
+- Harris, K. R., Graham, S., & Mason, L. H. (2006). Improving the planning, self-monitoring, and self-regulation skills of students with learning disabilities: SRSD. *Exceptionality, 14*(3), 147–162.

@@ -65,7 +65,7 @@ Pairing a letter's visual form with its spoken sound and a motor trace exploits 
 - **Handwriting Without Tears** ([https://www.lwtears.com](https://www.lwtears.com)) — multisensory letter formation using wooden pieces, wet-dry-try tracing, and structured stroke sequences in early-grade classrooms
 
 ## Key Sources
-- Ehri, L. C., Nunes, S. R., Willows, D. M., & Schuster, B. V. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287. [doi:10.1598/RRQ.36.3.3](https://doi.org/10.1598/RRQ.36.3.3)
+- Ehri, L. C., Nunes, S. R., Willows, D. M., & Schuster, B. V. (2001). Phonemic awareness instruction helps children learn to read: Evidence from the National Reading Panel's meta-analysis. *Reading Research Quarterly, 36*(3), 250–287.
 - Berninger, V. W., Vaughan, K. B., Abbott, R. D., Begay, K., Coleman, K. B., Curtin, G., Hawkins, J. M., & Graham, S. (2006). Teaching spelling and composition alone and together: Implications for the simple view of writing. *Journal of Educational Psychology, 94*(2), 291–304. [doi:10.1037/0022-0663.94.2.291](https://doi.org/10.1037/0022-0663.94.2.291)
 - Ritchey, K. D., & Goeke, J. L. (2006). Orton-Gillingham and Orton-Gillingham–based reading instruction: A review of the literature. *The Journal of Special Education, 40*(3), 171–183. [doi:10.1177/00224669060400030501](https://doi.org/10.1177/00224669060400030501)
 - Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. [doi:10.1017/CBO9780511811678](https://doi.org/10.1017/CBO9780511811678)

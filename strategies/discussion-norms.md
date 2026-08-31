@@ -68,7 +68,7 @@ Discussion quality depends less on the topic than on the interactional rules gov
 
 ## Key Sources
 - Mercer, N. (2008). The seeds of time: Why classroom dialogue needs a temporal analysis. *The Journal of the Learning Sciences, 17*(1), 33–59. [doi:10.1080/10508400701793182](https://doi.org/10.1080/10508400701793182)
-- O'Connor, C., & Michaels, S. (2007). When is dialogue "dialogic"? *Human Development, 50*(5), 275–285. [doi:10.1159/000109415](https://doi.org/10.1159/000109415)
+- O'Connor, C., & Michaels, S. (2007). When is dialogue "dialogic"? *Human Development, 50*(5), 275–285.
 - Cohen, E. G., & Lotan, R. A. (2014). *Designing groupwork: Strategies for the heterogeneous classroom* (3rd ed.). Teachers College Press.
 - Resnick, L. B., Michaels, S., & O'Connor, C. (2010). How (well-structured) talk builds the mind. In D. D. Preiss & R. J. Sternberg (Eds.), *Innovations in educational psychology* (pp. 163–194). Springer.
 - Alexander, R. (2018). *Towards dialogic teaching: Rethinking classroom talk* (5th ed.). Dialogos.

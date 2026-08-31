@@ -67,7 +67,7 @@ Self-advocacy functions as a bridge between metacognition and action: learners m
 - **Exit tickets and progress-monitoring charts** in general education classrooms — low-stakes routines that give students evidence for requests like "I need the directions read aloud."
 
 ## Key Sources
-- Test, D. W., Mazzotti, V. L., Mustian, A. L., Fowler, C. H., Kortering, L., & Kohler, P. (2009). Evidence-based secondary transition predictors for improving postschool outcomes for students with disabilities. *Career Development for Exceptional Individuals, 32*(3), 160–181. [doi:10.1177/0885728809330659](https://doi.org/10.1177/0885728809330659)
+- Test, D. W., Mazzotti, V. L., Mustian, A. L., Fowler, C. H., Kortering, L., & Kohler, P. (2009). Evidence-based secondary transition predictors for improving postschool outcomes for students with disabilities. *Career Development for Exceptional Individuals, 32*(3), 160–181.
 - Wehmeyer, M. L. (2005). Self-determination and individuals with severe disabilities: Re-examining meanings and misinterpretations. *Research and Practice for Persons with Severe Disabilities, 30*(3), 113–120. [doi:10.2511/rpsd.30.3.113](https://doi.org/10.2511/rpsd.30.3.113)
 - Field, S., & Hoffman, A. (2002). Lessons learned from implementing the steps to self-determination curriculum. *Remedial and Special Education, 23*(2), 90–98.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
