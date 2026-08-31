@@ -172,6 +172,30 @@ def resolve_cluster(conflict: dict, debug: bool = False) -> dict:
                            + "; ".join(f'{d} = "{classifications[d]["title"]}"' for d in verified)}
 
     changes = [{"file": e["source"], "old_doi": e["doi"]} for e in entries if e["doi"] != canonical]
+
+    # Verify every change is actually locatable BEFORE reporting success —
+    # a page that cites this same author-year key more than once, with
+    # titles too similar to disambiguate (e.g. Gentner et al.'s two related
+    # 2003 papers, or Cook et al.'s two related 2013 systematic reviews —
+    # genuinely different real papers by an overlapping author team,
+    # clustered together here only because their titles cross the 0.35
+    # same-paper threshold), can't be safely rewritten: guessing which line
+    # is "the" outdated one risks silently retargeting a correct citation
+    # at the wrong paper. Confirmed in production: locke-2002, gentner-2003,
+    # and cook-2013 were reported "auto_fixed" on every single run, then
+    # silently failed to locate at apply time and no-op'd — every run,
+    # forever, with nothing to show a human this needs their attention.
+    # Catching it here instead surfaces it once, honestly, as needs_human.
+    unlocatable = [c for c in changes if _locate_citation_line(c["file"], key, cluster_title_words) is None]
+    if unlocatable:
+        return {"key": key, "status": "needs_human", "classifications": classifications,
+                 "files": sorted({e["source"] for e in entries}),
+                 "reason": f"identified {canonical} as the canonical DOI ({via}), but "
+                           f"{len(unlocatable)} page(s) cite this author-year key more than once "
+                           f"with titles too similar to safely tell which line to rewrite — likely "
+                           f"two distinct papers by the same author(s) in the same year, not one "
+                           f"citation typo'd differently"}
+
     return {"key": key, "status": "auto_fixed", "canonical_doi": canonical,
              "canonical_title": canonical_title, "via": via, "changes": changes,
              "cluster_title_words": cluster_title_words}
@@ -205,7 +229,13 @@ def resolve_standalone_issues(by_key: dict, conflict_keys: set, debug_key: str =
                 by_doi.setdefault(e["doi"], []).append(e)
 
     resolutions = []
-    for doi, affected in sorted(by_doi.items()):
+    unique_dois = sorted(by_doi.items())
+    print(f"Checking {len(unique_dois)} unique DOI(s) not already handled as a conflict "
+          f"(cache-backed where possible; anything unverified falls through to a live, "
+          f"uncached Crossref search, so this can take a while with no output in between)...",
+          file=sys.stderr)
+    for i, (doi, affected) in enumerate(unique_dois, 1):
+        print(f"  [{i}/{len(unique_dois)}] checking {doi} ({affected[0]['key']})...", file=sys.stderr)
         cluster_title_words = max((e["title_words"] for e in affected), key=len)
         classification = classify_doi(doi, cluster_title_words)
         if classification["status"] == "verified":
