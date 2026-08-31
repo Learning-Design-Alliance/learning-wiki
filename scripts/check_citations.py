@@ -102,8 +102,16 @@ def _extract_title_text(line: str, year: str) -> str:
     # were part of the title, diluting a genuine match below threshold (a
     # second confirmed doi_resolver.py false positive: matching venue noise
     # like "ASEE Annual Conference & Exposition Proceedings" swamped the two
-    # words that actually matched).
-    end_marker = re.search(r"\.\s+(?=\*|In\s)", tail)
+    # words that actually matched). A title phrased as a question or
+    # exclamation ends in "?"/"!", not ".", so the period-only version of
+    # this regex missed that boundary entirely and let the ENTIRE venue,
+    # volume, and page range through as if it were part of the title —
+    # confirmed against real wiki content: Andre (1979), "Does answering
+    # questions really promote reading comprehension? *Review of
+    # Educational Research, 49*(2), 323-369.", produced a resolve_doi_
+    # conflicts.py search query and title-word set both polluted with
+    # "review", "educational", "research" from the journal name.
+    end_marker = re.search(r"[.?!]\s+(?=\*|In\s)", tail)
     if end_marker:
         tail = tail[:end_marker.start() + 1]
     else:
