@@ -227,6 +227,17 @@ def strip_doi_from_line(line: str, doi: str) -> str:
     return re.sub(_DOI_LINK.format(d=re.escape(doi)), "", line, flags=re.I)
 
 
+def _anchored(line: str, stems) -> bool:
+    """Whether this file line is one of the citations a finding is about.
+
+    check_citations stores a 160-character excerpt of each citation; this
+    compares a 120-character prefix of it, which separates any two citations
+    that differ in their opening words — every real case. A page's frontmatter,
+    prose and section headings match no stem, so no rewrite can reach them."""
+    stripped = line.strip()
+    return any(stem and stripped.startswith(stem) for stem in stems)
+
+
 def proven_fabrications(not_found_dois, siblings: dict, verified: set) -> dict:
     """{404'd DOI -> the sibling that proves it wrong}, for the one shape where
     a Crossref 404 is proof rather than evidence.
@@ -389,16 +400,38 @@ def main() -> None:
     # rewrite that silently matched nothing used to be indistinguishable from
     # one that worked — which is how a DOI proven wrong stayed on
     # patterns/team-based-learning.md under a run that reported it removed.
+    # The citation lines each (page, DOI) finding is actually about. Every
+    # rewrite is anchored to one of these.
+    #
+    # Without it the apply loop edited ANY line in the file mentioning the
+    # DOI, and fix_title's line.replace() then destroyed whatever it landed
+    # on. It overwrote a frontmatter `resource:` key with a title (leaving a
+    # sources entry keyed "DeFT" and no resource field, which still parses as
+    # YAML, so nothing noticed) and replaced a whole prose paragraph on
+    # strategies/explicit_instruction-spelling.md with a registry title,
+    # taking the sentence and the opening of a markdown link with it. Both
+    # shipped. The same defect, matching a DOI instead of a citation, had
+    # already been fixed once in strip_doi_from_line and once in
+    # apply_authorities; fix_title was the third instance and was missed both
+    # times because a page usually mentions its DOIs only in citations.
+    anchors: dict[tuple, list] = {}
+    for _doi, _entries in by_doi.items():
+        for _e in _entries:
+            anchors.setdefault((_e["source"], _doi), []).append(_e["line"][:120])
+
     no_ops: list[tuple[str, str, str]] = []
     written: set = set()
     if args.apply and edits:
         for path, items in edits.items():
+            rel_path = str(path.relative_to(WIKI_ROOT))
             text = path.read_text(encoding="utf-8")
             out = []
             landed = set()
             for line in text.splitlines(keepends=True):
                 for doi, d, record in items:
                     if doi.lower() not in line.lower():
+                        continue
+                    if not _anchored(line, anchors.get((rel_path, doi), ())):
                         continue
                     before = line
                     if d["action"] == "fix_meta":
