@@ -67,7 +67,7 @@ Process writing works because it externalizes and distributes the cognitive dema
 - **National Writing Project** ([nwp.org](https://www.nwp.org)) — teacher network built around process approaches to writing instruction
 
 ## Key Sources
-- Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Review of Educational Research, 77*(1), 87–112. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
+- Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Graham, S., & Sandmel, D. (2011). The process writing instruction: A meta-analysis. *Theory Into Practice, 50*(4), 297–305. [doi:10.17763/haer.81.4.t2k0m13756113566](https://doi.org/10.17763/haer.81.4.t2k0m13756113566)
 - Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In L. W. Gregg & E. R. Steinberg (Eds.), *Cognitive processes in writing* (pp. 3–30). Lawrence Erlbaum.
 - Bereiter, C., & Scardamalia, M. (1987). *The psychology of written composition*. Lawrence Erlbaum.

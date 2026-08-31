@@ -70,7 +70,7 @@ Mentor texts are demonstrations of craft rather than content, and their effectiv
 - **Science writing instruction** — using published journal abstracts as mentors for students drafting their own abstracts, comparing structure across two or three exemplars before writing
 
 ## Key Sources
-- Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Psychological Bulletin, 133*(4), 652–683. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
+- Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
 - Duke, N. K. (2000). 3.6 minutes per day: The scarcity of informational texts in first grade. *Reading Research Quarterly, 35*(2), 202–224. [doi:10.1598/RRQ.35.2.1](https://doi.org/10.1598/RRQ.35.2.1)
 - van Gog, T., & Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. *Educational Psychology Review, 22*(2), 155–174. [doi:10.1007/s10648-010-9134-7](https://doi.org/10.1007/s10648-010-9134-7)
 - Dorfman, L. R., & Calkins, L. M. (2009). *Mentor texts: Teaching writing through children's literature, K–6.* Stenhouse Publishers.

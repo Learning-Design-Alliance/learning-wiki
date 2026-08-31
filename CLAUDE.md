@@ -105,6 +105,13 @@ Only four branches still hold unmerged commits:
   `strategies/{classroom-design-for-engagement,contrasting-cases,formative-assessment-cycles,
   formative-feedback,multisensory-phonics-instruction,sketchnoting,teaching-as-learning}.md`
   and the six underscore-named siblings from a machine that can reach Crossref.
+- **317 citations carry journal metadata that disagrees with their DOI.** The enrichment
+  model copies a title and DOI reliably and then invents the journal, volume and pages
+  around them — Graham & Perin (2007) accumulated seven different journals under one DOI.
+  `check_citations.py --metadata` reports them; `fix_citation_metadata.py --apply` repairs
+  only the ones the DOI itself settles (its suffix encodes volume/issue/page) and defers
+  the rest. Do not "fix" the deferred ones by majority vote — where the DOI is opaque,
+  picking the popular journal is the same guess as picking a DOI.
 - **Gate 3 (manifest gate) is unbuilt.** `sources/manifest.ndjson` still records `ingested`
   even when page verification failed.
 

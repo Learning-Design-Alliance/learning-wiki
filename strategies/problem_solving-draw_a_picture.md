@@ -67,6 +67,6 @@ Drawing converts verbal/numeric problem statements into a second, visual represe
 
 ## Key Sources
 - Polya, G. (1945). *How to solve it: A new aspect of mathematical method.* Princeton University Press.
-- Hegarty, M., & Kozhevnikov, M. (1999). Types of visual–spatial representations and mathematical problem solving. *Journal of Educational Psychology, 91*(4), 719–730. [doi:10.1037/0022-0663.91.4.684](https://doi.org/10.1037/0022-0663.91.4.684)
+- Hegarty, M., & Kozhevnikov, M. (1999). Types of visual–spatial representations and mathematical problem solving. *Journal of Educational Psychology, 91*(4), 684–689. [doi:10.1037/0022-0663.91.4.684](https://doi.org/10.1037/0022-0663.91.4.684)
 - van Garderen, D., & Montague, M. (2003). Visual–spatial representation, mathematical problem solving, and students of varying abilities. *Learning Disability Quarterly, 26*(1), 49–64. [doi:10.2307/1593664](https://doi.org/10.2307/1593664)
 - Uesaka, Y., & Manalo, E. (2012). Task-related factors that influence Japanese schoolchildren's use of diagrams: The need for both elementary and deeper understanding of problem structure. *Instructional Science, 40*(4), 631–650. [doi:10.1007/s11251-011-9190-6](https://doi.org/10.1007/s11251-011-9190-6)

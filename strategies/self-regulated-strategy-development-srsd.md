@@ -67,7 +67,7 @@ SRSD is one of the most strongly supported writing interventions available: meta
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. *Journal of Educational Psychology, 99*(3), 445–476. [doi:10.1037/0022-0663.99.3.445](https://doi.org/10.1037/0022-0663.99.3.445)
-- Graham, S., & Harris, K. R. (1989). Components analysis of cognitive strategy instruction: Effects on learning disabled students' compositions and self-efficacy. *Exceptional Children, 55*(3), 201–214. [doi:10.1037/0022-0663.81.3.353](https://doi.org/10.1037/0022-0663.81.3.353)
+- Graham, S., & Harris, K. R. (1989). Components analysis of cognitive strategy instruction: Effects on learning disabled students' compositions and self-efficacy. *Journal of Educational Psychology, 81*(3), 353–361. [doi:10.1037/0022-0663.81.3.353](https://doi.org/10.1037/0022-0663.81.3.353)
 - Harris, K. R., Graham, S., & Mason, L. H. (2006). Improving the writing, knowledge, and motivation of struggling young writers: Effects of self-regulated strategy development with and without peer support. *American Educational Research Journal, 43*(2), 295–340. [doi:10.3102/00028312043002295](https://doi.org/10.3102/00028312043002295)
 - De La Paz, S., & Graham, S. (2002). Explicitly teaching strategies, skills, and knowledge: Writing instruction in middle school classrooms. *Journal of Educational Psychology, 94*(4), 687–698. [doi:10.1037/0022-0663.94.4.687](https://doi.org/10.1037/0022-0663.94.4.687)
 - Reid, R., & Lienemann, T. O. (2006). *Strategy instruction for students with learning disabilities*. Guilford Press.

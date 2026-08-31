@@ -79,7 +79,7 @@ The strategy rests on a well-documented reciprocal relationship: growth in one k
 - **[Illustrative Mathematics](https://illustrativemathematics.org)** — curriculum explicitly sequenced so conceptual tasks precede and accompany procedural fluency practice
 
 ## Key Sources
-- Rittle-Johnson, B., Siegler, R. S., & Alibali, M. W. (2001). Developing conceptual understanding and procedural skill in mathematics: An iterative process. *Child Development, 72*(2), 346–361. [doi:10.1037/0022-0663.93.2.346](https://doi.org/10.1037/0022-0663.93.2.346)
+- Rittle-Johnson, B., Siegler, R. S., & Alibali, M. W. (2001). Developing conceptual understanding and procedural skill in mathematics: An iterative process. *Journal of Educational Psychology, 93*(2), 346–362. [doi:10.1037/0022-0663.93.2.346](https://doi.org/10.1037/0022-0663.93.2.346)
 - Rittle-Johnson, B., Loehr, A. M., & Durkin, K. (2017). Promoting self-explanation to improve mathematics learning: A meta-analysis and instructional design principles. *ZDM Mathematics Education, 49*, 599–611. [doi:10.1007/s11858-017-0834-z](https://doi.org/10.1007/s11858-017-0834-z)
 - Hiebert, J., & Lefevre, P. (1986). Conceptual and procedural knowledge in mathematics: An introductory analysis. In J. Hiebert (Ed.), *Conceptual and procedural knowledge: The case of mathematics* (pp. 1–27). Lawrence Erlbaum.
 - Rittle-Johnson, B., & Schneider, M. (2015). Developing conceptual and procedural knowledge of mathematics. In R. C. Kadosh & A. Dowker (Eds.), *Oxford Handbook of Numerical Cognition* (pp. 1118–1134). Oxford University Press.
