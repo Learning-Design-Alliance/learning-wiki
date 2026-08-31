@@ -55,6 +55,36 @@ def add_doi_to_line(line: str, doi: str) -> str | None:
     return f"{body} [doi:{doi}](https://doi.org/{doi})\n"
 
 
+def consensus_sample(have: list[dict]) -> dict:
+    """The citation whose title the most pages agree on.
+
+    This used to be have[0] — whichever page sorted first — and the whole
+    cluster's verification rode on it. patall-2008 is cited on 22 pages: 21
+    give the title as "...A meta-analysis of research findings" and three give
+    invented subtitles ("...of research on choice", "...of research on giving
+    choices"). classify_doi compares that one sample against Crossref and
+    rejects a subtitle that diverges, so had the arbitrary first page been one
+    of the three, all 22 citations would have been classified wrong_paper, the
+    fill would have been refused, and the report would have told the reader
+    that a correct DOI "resolves to the wrong paper".
+
+    Voting on the *title* is safe in a way voting on the DOI is not, and the
+    difference matters. The DOI still has to resolve, and the registry still
+    has to confirm it names this paper — the vote only picks which of several
+    spellings of the paper's name is put to Crossref. A majority cannot
+    promote an unverified DOI here; it can only avoid handing the check a
+    known-corrupted sample."""
+    by_title = {}
+    for e in have:
+        year = e["key"].rsplit("-", 1)[-1]
+        by_title.setdefault(_norm(cc._extract_title_text(e["line"], year)), []).append(e)
+    return max(by_title.values(), key=len)[0]
+
+
+def _norm(t: str) -> str:
+    return re.sub(r"\s+", " ", (t or "").lower().strip(" .")) 
+
+
 def candidates(by_key: dict) -> list[dict]:
     """Conflicts that are one agreed DOI plus citations omitting it."""
     out = []
@@ -91,7 +121,7 @@ def main() -> None:
     edits: dict[Path, list] = {}
 
     for c in sorted(cands, key=lambda c: -len(c["missing"])):
-        sample = c["have"][0]
+        sample = consensus_sample(c["have"])
         year = sample["key"].rsplit("-", 1)[-1]
         cited_title = cc._extract_title_text(sample["line"], year)
         res = rdc.classify_doi(c["doi"], sample["title_words"], cited_title)
