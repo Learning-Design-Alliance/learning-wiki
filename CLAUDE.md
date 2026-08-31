@@ -112,6 +112,13 @@ Only four branches still hold unmerged commits:
   only the ones the DOI itself settles (its suffix encodes volume/issue/page) and defers
   the rest. Do not "fix" the deferred ones by majority vote — where the DOI is opaque,
   picking the popular journal is the same guess as picking a DOI.
+- **On 12 of those, the *majority* reading is the fabrication.** `10.17763/haer.81.4...`
+  is cited 32 times as *Journal of Educational Research* 104(6) and never once as what its
+  own DOI says — Harvard Educational Review 81(4), which is how the other five `haer` DOIs
+  are cited. Never resolve a metadata conflict by making the stragglers match the majority
+  without checking `leading_contradicted()` first; on these it converts the last correct
+  citations into copies of the error. `check_citations.py --metadata` ranks them first as
+  `contra`, and both the repair script and the enrichment gate refuse to act on them.
 - **120 DOIs are cited with an invented title.** The same defect one layer deeper: the
   model reproduces the DOI and the title's stem, then makes up whatever follows the colon.
   `10.37016/mr-2020-56` carries ten different subtitles across 37 citations. Neither

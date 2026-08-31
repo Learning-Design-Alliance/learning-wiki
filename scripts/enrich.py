@@ -512,9 +512,16 @@ def verify_page_citations(path: Path, apply: bool = True) -> list[dict]:
     except Exception as e:
         print(f"  [metadata check skipped: {e}]", file=sys.stderr)
         diverged = []
+    _consensus = cc.token_consensus(cc.load_by_doi(cc.load_all_citations())) if diverged else {}
     for d in diverged:
         if d["severity"] != "conflict":
             continue          # "PNAS" vs "Proceedings of the ..." is house style
+        why = cc.leading_contradicted(d, _consensus)
+        if why:
+            print(f"  [citation metadata] {rel}: {d['doi']} — the most-cited reading of "
+                  f"this DOI is itself wrong ({why}); do not copy the majority",
+                  file=sys.stderr)
+            continue
         maj = d["variants"][0][0]
         print(f"  [citation metadata] {rel}: {d['doi']} is cited elsewhere as "
               f"{maj[0]} {maj[1]}({maj[2]}), {maj[3]} — run "

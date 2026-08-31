@@ -555,11 +555,100 @@ def format_title_report(results: list[dict]) -> str:
     return "\n".join(lines)
 
 
+# The journal-identifying part of a DOI suffix, read off the string itself:
+#   10.1037/0022-0663.99.3.445  -> 0022-0663   (dotted ISSN)
+#   10.1177/1754073917742706    -> 17540739    (SAGE: bare ISSN, then digits)
+#   10.17763/haer.81.4....      -> haer        (publisher's journal code)
+_JOURNAL_TOKEN = (
+    re.compile(r"^(\d{4}-\d{3}[\dxX])\."),
+    re.compile(r"^(\d{7}[\dxX])\d"),
+    re.compile(r"^([a-z]{3,})[.\d]"),
+)
+def journal_token(doi: str):
+    """(prefix, token) identifying the journal, or None."""
+    prefix, _, suffix = doi.partition("/")
+    for pat in _JOURNAL_TOKEN:
+        m = pat.match(suffix)
+        if m:
+            return (prefix, m.group(1))
+    return None
+
+
+# Only these two shapes encode a volume and issue. Both are anchored at the
+# start of the suffix on purpose: Elsevier writes 10.1016/j.learninstruc.
+# 2011.11.001, where ".2011.11." is a year and month, and an unanchored search
+# for ".N.N." reads that as "volume 2011, issue 11" and then reports every
+# correctly-cited Elsevier article as contradicting its own DOI.
+_CODE_VOL_ISS = re.compile(r"^[a-z]{3,}\.(\d+)\.(\d+)\.")               # haer.81.4....
+_ISSN_VOL_ISS = re.compile(r"^\d{4}-\d{3}[\dxX]\.(\d+)\.(\d+)\.\d+$")  # 0022-0663.99.3.445
+
+
+def encoded_volume_issue(doi: str):
+    """(volume, issue) if the DOI spells them out, else None."""
+    suffix = doi.partition("/")[2]
+    for pat in (_CODE_VOL_ISS, _ISSN_VOL_ISS):
+        m = pat.match(suffix)
+        if m:
+            # A four-digit "volume" in the recent past is a publication year,
+            # not a volume — no journal has reached volume 2011.
+            if len(m.group(1)) == 4 and m.group(1).startswith(("19", "20")):
+                return None
+            return (m.group(1), m.group(2))
+    return None
+
+
+def token_consensus(by_doi: dict, min_share: float = 0.75, min_cites: int = 3) -> dict:
+    """{(prefix, token): journal name} where the wiki overwhelmingly agrees.
+
+    Needs no journal database. DOIs sharing a journal token are, by
+    construction, articles in the same journal, so the corpus can check itself:
+    862 citations under 10.3102/00346543 say "Review of Educational Research"
+    and three say something else. That is evidence about the journal, not about
+    any one citation, which is what makes it usable to judge a citation."""
+    tallies = defaultdict(lambda: defaultdict(int))
+    for doi, entries in by_doi.items():
+        key = journal_token(doi)
+        if not key:
+            continue
+        for e in entries:
+            if e.get("meta"):
+                tallies[key][e["meta"][0]] += 1
+    out = {}
+    for key, names in tallies.items():
+        total = sum(names.values())
+        top, n = max(names.items(), key=lambda kv: kv[1])
+        if total >= min_cites and n / total >= min_share:
+            out[key] = top
+    return out
+
+
+def leading_contradicted(r: dict, consensus: dict) -> str | None:
+    """Why this entry's most-cited variant is itself suspect, or None.
+
+    The triage in summarize() assumes the leading variant is the true one and
+    the stragglers are invented. Usually right — and catastrophically wrong
+    where a whole cluster of pages inherited the same fabrication. In this
+    corpus 10.17763/haer.81.4.t2k0m13756113566 is cited 32 times, never once as
+    Harvard Educational Review 81(4), which is what its own DOI says and what
+    the other five haer DOIs are all cited as. Following the majority there
+    means rewriting the two correct citations to match thirty wrong ones."""
+    journal, vol, issue, _page = r["variants"][0][0]
+    enc = encoded_volume_issue(r["doi"])
+    if enc and enc != (vol, issue):
+        return (f"DOI encodes volume {enc[0]} issue {enc[1]}, "
+                f"leading variant says {vol}({issue})")
+    key = journal_token(r["doi"])
+    if key and key in consensus and consensus[key].lower() != journal.lower():
+        return (f"every other DOI under {key[0]}/{key[1]} is cited as "
+                f"\"{consensus[key]}\", not \"{journal}\"")
+    return None
+
+
 def _variant_counts(r: dict) -> list:
     return [len(es) for _, es in r["variants"]]
 
 
-def triage(r: dict) -> str:
+def triage(r: dict, consensus: dict | None = None) -> str:
     """How settleable this entry is without a registry lookup.
 
     "decided"  - one variant dominates at 3:1 or better. The stragglers are
@@ -568,11 +657,17 @@ def triage(r: dict) -> str:
     "split"    - no variant leads by that much, very often 1-vs-1. There is no
                  majority to appeal to and "majority" in the report means
                  nothing; only the registry settles it.
+    "contra"   - a variant leads, but the DOI's own encoding or its journal's
+                 consensus says that leader is wrong. Ranked first, because
+                 following the majority here rewrites correct citations to
+                 match incorrect ones. See leading_contradicted().
 
     This is the triage the raw dumps could not express. Reporting 166 DOIs as
     one flat list implies 166 equal problems, when in practice a large share
     are one confident reading plus a couple of stragglers, and the rest are
     genuine coin-flips that must not be resolved by counting."""
+    if consensus is not None and leading_contradicted(r, consensus):
+        return "contra"
     counts = _variant_counts(r)
     if len(counts) < 2:
         return "decided"
@@ -583,7 +678,8 @@ def _fmt_variant(v) -> str:
     return f"{v[0]} {v[1]}({v[2]}), {v[3]}" if isinstance(v, tuple) else str(v)
 
 
-def summarize(results: list[dict], noun: str, conflict_key: str = "conflict") -> str:
+def summarize(results: list[dict], noun: str, conflict_key: str = "conflict",
+              consensus: dict | None = None) -> str:
     """A triage table instead of every affected file. See triage()."""
     conflicts = [r for r in results if r["severity"] == conflict_key]
     other = [r for r in results if r["severity"] != conflict_key]
@@ -592,21 +688,33 @@ def summarize(results: list[dict], noun: str, conflict_key: str = "conflict") ->
             f" ({len(other)} lower-severity variant(s) — --full to list.)" if other else "")
 
     minority = sum(sum(_variant_counts(r)[1:]) for r in conflicts)
-    decided = [r for r in conflicts if triage(r) == "decided"]
-    split = [r for r in conflicts if triage(r) == "split"]
+    tri = {id(r): triage(r, consensus) for r in conflicts}
+    contra = [r for r in conflicts if tri[id(r)] == "contra"]
+    decided = [r for r in conflicts if tri[id(r)] == "decided"]
+    split = [r for r in conflicts if tri[id(r)] == "split"]
 
     lines = [f"{len(conflicts)} DOI(s) with {noun}; {minority} citation(s) disagree with "
              f"their DOI's leading reading.\n",
+             f"  {len(contra)} contra   - a variant leads, but the DOI itself contradicts "
+             f"it. FIX THESE FIRST: following the majority here rewrites correct "
+             f"citations to match wrong ones",
              f"  {len(decided)} decided  - one variant leads 3:1 or better; the stragglers "
              f"are the likely fabrications",
              f"  {len(split)} split     - no variant leads; only Crossref settles these\n",
              "  worst by number of citations affected:\n"]
-    ranked = sorted(conflicts, key=lambda r: -sum(_variant_counts(r)))
+    # Contradicted first regardless of size — a wrong leader on five pages is
+    # more urgent than an uncertain one on a hundred.
+    ranked = sorted(conflicts, key=lambda r: (tri[id(r)] != "contra",
+                                              -sum(_variant_counts(r))))
     for r in ranked[:12]:
         counts = _variant_counts(r)
-        lines.append(f"  {sum(counts):5} cites  {len(counts)} variants  [{triage(r):7}]  "
+        lines.append(f"  {sum(counts):5} cites  {len(counts)} variants  [{tri[id(r)]:7}]  "
                      f"{r['doi']}")
         lines.append(f"                  leading: {_fmt_variant(r['variants'][0][0])[:78]}")
+        if consensus is not None:
+            why = leading_contradicted(r, consensus)
+            if why:
+                lines.append(f"                  BUT {why}")
     if len(ranked) > 12:
         lines.append(f"\n  ... and {len(ranked) - 12} more.")
     if other:
@@ -682,7 +790,8 @@ def main() -> None:
     if args.metadata:
         results = find_metadata_divergence(load_by_doi(by_key), touched)
         print(format_metadata_report(results) if args.full
-              else summarize(results, "fabricated journal metadata"))
+              else summarize(results, "fabricated journal metadata",
+                             consensus=token_consensus(load_by_doi(by_key))))
         sys.exit(0 if not any(r["severity"] == "conflict" for r in results) else 1)
 
     if args.collisions:

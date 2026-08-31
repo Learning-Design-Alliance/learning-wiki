@@ -59,11 +59,20 @@ def canonical_span(doi: str, entries: list) -> str | None:
     return None
 
 
-def plan(results: list[dict]) -> tuple[list, list]:
+def plan(results: list[dict], consensus: dict | None = None) -> tuple[list, list]:
     """(repairs, deferred) — repairs are DOI-proven, deferred need Crossref."""
     repairs, deferred = [], []
     for r in results:
         if r["severity"] != "conflict":
+            continue
+        # Never repair toward a leader the DOI itself contradicts. This is the
+        # inversion the whole check exists to catch: 32 pages cite
+        # 10.17763/haer.81.4... as Journal of Educational Research 104(6), and
+        # the DOI plainly says Harvard Educational Review volume 81 issue 4.
+        # Rewriting the minority to match that majority would convert the last
+        # correct citations into copies of the fabrication.
+        if consensus is not None and cc.leading_contradicted(r, consensus):
+            deferred.append(r)
             continue
         if not r["majority_corroborated"]:
             deferred.append(r)
@@ -123,8 +132,9 @@ def main() -> None:
     g.add_argument("--apply", action="store_true")
     args = ap.parse_args()
 
-    results = cc.find_metadata_divergence(cc.load_by_doi(cc.load_all_citations()))
-    repairs, deferred = plan(results)
+    by_doi = cc.load_by_doi(cc.load_all_citations())
+    results = cc.find_metadata_divergence(by_doi)
+    repairs, deferred = plan(results, consensus=cc.token_consensus(by_doi))
 
     for rep in repairs:
         j, v, i, pg = rep["was"]

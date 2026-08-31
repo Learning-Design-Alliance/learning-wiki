@@ -151,6 +151,11 @@ def run(skip_doi: bool = False) -> dict:
     # against every DOI check there is, which is what makes them dangerous.
     meta_conflicts = [d for d in cc.find_metadata_divergence(_by_doi)
                       if d["severity"] == "conflict"]
+    # The subset where the *most-cited* reading is itself wrong. Ranked apart
+    # because the obvious remedy — make the stragglers match the majority — is
+    # exactly backwards for these.
+    _consensus = cc.token_consensus(_by_doi)
+    contradicted = [d for d in meta_conflicts if cc.leading_contradicted(d, _consensus)]
     title_conflicts = [d for d in cc.find_title_divergence(_by_doi)
                        if d["severity"] == "conflict"]
     collisions = fcfd.find_collisions()
@@ -169,6 +174,7 @@ def run(skip_doi: bool = False) -> dict:
         "citation_conflicts": len(citation_conflicts),
         "doi_collisions": len(doi_collisions),
         "metadata_conflicts": len(meta_conflicts),
+        "contradicted_leaders": len(contradicted),
         "title_conflicts": len(title_conflicts),
         "doi_issues": len(doi_issues),
         "doi_skipped": skip_doi,  # so a consumer can tell "0 problems" apart from "not checked this run"
@@ -216,7 +222,9 @@ def format_report(result: dict) -> str:
         f"- DOI collisions (one DOI, two papers): {result.get('doi_collisions', 0)} "
         f"— run `check_citations.py --collisions` for the list",
         f"- Fabricated journal metadata (right DOI, invented journal/volume/pages): "
-        f"{result.get('metadata_conflicts', 0)} — `check_citations.py --metadata`",
+        f"{result.get('metadata_conflicts', 0)} "
+        f"({result.get('contradicted_leaders', 0)} where the majority reading is itself "
+        f"contradicted by the DOI) — `check_citations.py --metadata`",
         f"- Fabricated titles (right DOI, invented subtitle): "
         f"{result.get('title_conflicts', 0)} — `check_citations.py --titles`",
         f"- Near-duplicate title pairs (same folder): {result['title_duplicates']} "
