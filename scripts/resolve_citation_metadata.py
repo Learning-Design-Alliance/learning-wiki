@@ -1,0 +1,245 @@
+#!/usr/bin/env python3
+"""
+resolve_citation_metadata.py — Settle citation defects against Crossref.
+
+Three offline checks report defects this cannot fix on its own:
+
+  check_citations.py --metadata    a correct DOI wearing an invented journal,
+                                   volume or page range
+  check_citations.py --titles      a correct DOI wearing an invented title,
+                                   usually a made-up subtitle after the colon
+  check_citations.py --collisions  one DOI asserted for two different papers
+
+fix_citation_metadata.py repairs only the subset a DOI settles arithmetically
+(its suffix encodes the volume and page). Everything else needs the registry,
+because the alternative — believing the majority — is wrong often enough to
+matter: 10.17763/haer.81.4... is cited 32 times and never once correctly.
+
+This script asks Crossref and applies what comes back.
+
+WHAT IT WILL DO
+  * Correct a journal, volume, issue or page range to the registry's values.
+  * Correct a title to the registry's, with --titles.
+  * Strip a DOI whose registry title matches no citation of it in the wiki —
+    that DOI is on the wrong paper, and per this project's standing rule a
+    DOI that resolves to the wrong paper is worse than none, because it reads
+    as verified.
+
+WHAT IT WILL NOT DO
+  * Invent or search for a replacement DOI. Removing a wrong one is safe;
+    choosing a new one is the failure mode that put a Springer chapter's DOI
+    on 69 pages as Bandura.
+  * Touch anything when the lookup fails. An unreachable Crossref is an
+    outage, not a verdict — the same reason classify_doi's "error" is not
+    "wrong_paper". A run during an outage changes nothing.
+  * Fill in a field Crossref left empty. Books have no volume; some records
+    carry no page range. Absent means "the registry did not say", never
+    "the wiki is wrong".
+
+Usage:
+    python3 scripts/resolve_citation_metadata.py --check          # report only
+    python3 scripts/resolve_citation_metadata.py --check --titles
+    python3 scripts/resolve_citation_metadata.py --apply
+    python3 scripts/resolve_citation_metadata.py --apply --limit 20
+"""
+
+import argparse
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+import check_citations as cc
+
+WIKI_ROOT = Path(__file__).parent.parent
+
+
+def _norm_journal(s: str) -> str:
+    s = (s or "").lower().strip()
+    for lead in ("the ",):
+        if s.startswith(lead):
+            s = s[len(lead):]
+    return " ".join(s.split())
+
+
+def decide(cited: tuple, record: dict, cited_title: str = "") -> dict:
+    """Compare one citation against a Crossref record. Pure — no I/O.
+
+    `cited` is (journal, volume, issue, first_page); `record` is a
+    doi_resolver.resolve_doi() result. Returns {"action", "fields", "why"}
+    where action is one of:
+
+      "none"        the registry agrees, or said nothing about these fields
+      "fix_meta"    the registry disagrees on a field it actually stated
+      "strip_doi"   the registry's title matches nothing this page claims,
+                    so the DOI belongs to a different paper
+      "skip"        the lookup failed or returned nothing usable
+
+    Kept separate from the file walking so the decision can be tested
+    without a network, which matters: this is the part that decides whether
+    to rewrite hundreds of citations."""
+    if not record or record.get("status") == "error":
+        return {"action": "skip", "fields": {}, "why": "lookup failed"}
+    if not record.get("resolved"):
+        return {"action": "skip", "fields": {}, "why": "DOI not found in registry"}
+
+    reg_title = record.get("title") or ""
+    if reg_title and cited_title:
+        # The title test comes first and gates everything else. If the DOI is
+        # on a different paper, "correcting" its journal to the registry's
+        # would rewrite the citation into a work the page never meant.
+        same = cc._same_paper(cc._words_from_text(cited_title),
+                              cc._words_from_text(reg_title))
+        if same and not cc.titles_align(cited_title, reg_title):
+            same = False
+        if not same:
+            return {"action": "strip_doi", "fields": {},
+                    "why": f"DOI resolves to \"{reg_title[:70]}\", not the cited work"}
+
+    journal, vol, issue, page = cited
+    fields, why = {}, []
+    for name, mine, theirs in (
+        ("journal", journal, record.get("journal")),
+        ("volume", vol, record.get("volume")),
+        ("issue", issue, record.get("issue")),
+        ("first_page", page, record.get("first_page")),
+    ):
+        if not theirs:
+            continue                      # registry said nothing — leave it alone
+        a = _norm_journal(mine) if name == "journal" else str(mine)
+        b = _norm_journal(theirs) if name == "journal" else str(theirs)
+        if a != b:
+            fields[name] = theirs
+            why.append(f"{name}: {mine!r} -> {theirs!r}")
+    if fields:
+        return {"action": "fix_meta", "fields": fields, "why": "; ".join(why)}
+    return {"action": "none", "fields": {}, "why": "registry agrees"}
+
+
+def rewrite_line(line: str, fields: dict, pages_text: str | None) -> str | None:
+    """Apply `fields` to the journal/volume/issue/page span of one citation
+    line. Returns the new line, or None if the span isn't parseable."""
+    span = cc.source_meta_span(line)
+    if not span:
+        return None
+    start, end, _ = span
+    journal, vol, issue, page = cc.parse_source_meta(line)
+    journal = fields.get("journal", journal)
+    vol = fields.get("volume", vol)
+    issue = fields.get("issue", issue)
+    pages = pages_text or fields.get("first_page", page)
+    return line[:start] + f"*{journal}, {vol}*({issue}), {pages}" + line[end:]
+
+
+def strip_doi_from_line(line: str, doi: str) -> str:
+    """Remove the DOI hyperlink, leaving the citation text intact but
+    unlinked — the same shape verify_page_citations leaves behind."""
+    for form in (f" [doi:{doi}](https://doi.org/{doi})",
+                 f" [https://doi.org/{doi}](https://doi.org/{doi})"):
+        for variant in (form, form.replace(doi, doi.upper())):
+            line = line.replace(variant, "")
+    return line
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser(description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    g = ap.add_mutually_exclusive_group(required=True)
+    g.add_argument("--check", action="store_true", help="report only")
+    g.add_argument("--apply", action="store_true", help="write the corrections")
+    ap.add_argument("--titles", action="store_true",
+                    help="also correct titles, not just journal/volume/pages")
+    ap.add_argument("--limit", type=int, default=None,
+                    help="stop after this many DOIs (each is one Crossref call, cached)")
+    args = ap.parse_args()
+
+    import doi_resolver as dr
+    import resolve_doi_conflicts as rdc      # noqa: F401  (shares the cache)
+
+    by_doi = cc.load_by_doi(cc.load_all_citations())
+    consensus = cc.token_consensus(by_doi)
+
+    # Only DOIs some check actually flagged — no point spending a lookup on
+    # the thousands the wiki already agrees about.
+    flagged = set()
+    for r in cc.find_metadata_divergence(by_doi):
+        if r["severity"] == "conflict":
+            flagged.add(r["doi"])
+    for r in cc.find_title_divergence(by_doi):
+        if r["severity"] == "conflict":
+            flagged.add(r["doi"])
+    for c in cc.find_doi_collisions(by_doi):
+        flagged.add(c["doi"])
+
+    todo = sorted(flagged)[: args.limit] if args.limit else sorted(flagged)
+    print(f"{len(flagged)} flagged DOI(s); resolving {len(todo)}.\n", file=sys.stderr)
+
+    cache = dr.load_cache()
+    fixed = stripped = skipped = agreed = 0
+    edits: dict[Path, list] = {}
+
+    for i, doi in enumerate(todo, 1):
+        cached = cache.get(doi)
+        # A cache entry written before this script existed has only a title.
+        # Re-fetch those rather than reading absent fields as "registry said
+        # nothing", which would silently make every old entry a no-op.
+        if cached and not dr._is_stale(cached) and "journal" in cached:
+            record = cached
+        else:
+            try:
+                record = dr.resolve_doi(doi)
+                cache[doi] = record
+                dr.save_cache(cache)
+            except Exception as e:
+                print(f"  [{i}/{len(todo)}] {doi}: lookup failed ({e}) — unchanged",
+                      file=sys.stderr)
+                skipped += 1
+                continue
+
+        for entry in by_doi[doi]:
+            if not entry.get("meta"):
+                continue
+            year = entry["key"].rsplit("-", 1)[-1]
+            cited_title = cc._extract_title_text(entry["line"], year)
+            d = decide(entry["meta"], record, cited_title)
+            if d["action"] == "none":
+                agreed += 1
+                continue
+            if d["action"] == "skip":
+                skipped += 1
+                continue
+            path = WIKI_ROOT / entry["source"]
+            edits.setdefault(path, []).append((doi, d, record))
+            print(f"  [{i}/{len(todo)}] {entry['source']}: {d['action']} — {d['why']}")
+            if d["action"] == "fix_meta":
+                fixed += 1
+            else:
+                stripped += 1
+
+    if args.apply and edits:
+        for path, items in edits.items():
+            text = path.read_text(encoding="utf-8")
+            out = []
+            for line in text.splitlines(keepends=True):
+                for doi, d, record in items:
+                    if doi.lower() not in line.lower():
+                        continue
+                    if d["action"] == "fix_meta":
+                        new = rewrite_line(line, d["fields"], record.get("pages"))
+                        if new:
+                            line = new
+                    elif d["action"] == "strip_doi":
+                        line = strip_doi_from_line(line, doi)
+                out.append(line)
+            path.write_text("".join(out), encoding="utf-8")
+
+    verb = "Applied" if args.apply else "Would apply"
+    print(f"\n{verb}: {fixed} metadata correction(s), {stripped} DOI removal(s) "
+          f"across {len(edits)} page(s).")
+    print(f"{agreed} citation(s) already matched the registry; {skipped} skipped "
+          f"(lookup failed or DOI not found — nothing changed for those).")
+    if not args.apply and edits:
+        print("\nRe-run with --apply to write these.")
+
+
+if __name__ == "__main__":
+    main()

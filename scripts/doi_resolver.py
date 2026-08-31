@@ -116,8 +116,26 @@ def resolve_doi(doi: str) -> dict:
     if resp.status_code == 404:
         return {"doi": doi, "resolved": False, "title": None, "checked_at": today}
     resp.raise_for_status()
-    titles = resp.json().get("message", {}).get("title") or []
-    return {"doi": doi, "resolved": True, "title": titles[0] if titles else None, "checked_at": today}
+    msg = resp.json().get("message", {})
+    titles = msg.get("title") or []
+    containers = msg.get("container-title") or []
+    pages = msg.get("page") or ""
+    return {
+        "doi": doi,
+        "resolved": True,
+        "title": titles[0] if titles else None,
+        # Bibliographic fields, so a caller can check the journal/volume/pages
+        # a page asserts rather than only its title. Crossref omits any of
+        # these freely (books have no volume, some records no page range), so
+        # every consumer must treat None as "the registry did not say" and
+        # leave the wiki's value alone — never as "the wiki is wrong".
+        "journal": containers[0] if containers else None,
+        "volume": str(msg["volume"]) if msg.get("volume") else None,
+        "issue": str(msg["issue"]) if msg.get("issue") else None,
+        "first_page": pages.split("-")[0].strip() or None if pages else None,
+        "pages": pages or None,
+        "checked_at": today,
+    }
 
 
 def search_crossref(title_text: str, author_surname: str = None) -> list:
