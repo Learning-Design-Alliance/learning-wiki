@@ -62,6 +62,35 @@ def normalize_isbn(isbn: str) -> str:
     return re.sub(r"[^0-9Xx]", "", isbn or "").upper()
 
 
+def to_isbn13(isbn: str) -> str:
+    """The canonical 13-digit form, so an ISBN-10 and its ISBN-13 compare equal.
+
+    0-470-48410-1 and 978-0-470-48410-4 are the same book written two ways —
+    the second is the first with a 978 prefix and a recomputed check digit.
+    Comparing the raw strings would call a page citing one a contradiction of
+    an authority recording the other."""
+    n = normalize_isbn(isbn)
+    if len(n) != 10 or not isbn_is_valid(n):
+        return n
+    core = "978" + n[:9]
+    check = (10 - sum(int(c) * (1 if i % 2 == 0 else 3)
+                      for i, c in enumerate(core)) % 10) % 10
+    return core + str(check)
+
+
+def isbns_of(entry: dict) -> list[str]:
+    """An authority's ISBNs, as a list however it was written.
+
+    A book has several — hardcover, paperback, ebook — and they are not
+    alternatives to choose between: How Learning Works is both
+    978-0-470-48410-4 and 978-0-470-61760-1, and a page may cite either. A
+    single-valued field would make one of them a finding."""
+    v = entry.get("isbn")
+    if not v:
+        return []
+    return [v] if isinstance(v, str) else list(v)
+
+
 def isbn_is_valid(isbn: str) -> bool:
     """Check the ISBN-10 or ISBN-13 checksum.
 
@@ -105,8 +134,9 @@ def validate_entry(entry: dict) -> list[str]:
                         f"established by a human:<id>, never an agent")
     if not v.get("at"):
         problems.append("missing 'verified.at'")
-    if entry.get("isbn") and not isbn_is_valid(entry["isbn"]):
-        problems.append(f"ISBN {entry['isbn']!r} fails its checksum")
+    for isbn in isbns_of(entry):
+        if not isbn_is_valid(isbn):
+            problems.append(f"ISBN {isbn!r} fails its checksum")
     if "doi" in entry and entry["doi"] and not entry["doi"].lower().startswith("10."):
         problems.append(f"DOI {entry['doi']!r} does not start with '10.'")
     if not any(entry.get(f) for f in ("doi", "isbn", "url")) and "doi" not in entry:
@@ -201,11 +231,12 @@ def contradictions(entry: dict, citation: dict) -> list[str]:
                    + (f" ({entry['note']})" if entry.get("note") else ""))
     elif entry.get("doi") and cited_doi and cited_doi != entry["doi"].lower():
         out.append(f"asserts DOI {cited_doi}, authority says {entry['doi']}")
-    if entry.get("isbn"):
+    known = {to_isbn13(i) for i in isbns_of(entry)}
+    if known:
         found = re.search(r"(?:ISBN[- ]?(?:1[03])?:?\s*)?((?:97[89][-\s]?)?[\d][-\s\d]{7,}[\dXx])",
                           line)
-        if found and normalize_isbn(found.group(1)) not in (
-                normalize_isbn(entry["isbn"]), ""):
+        cited = to_isbn13(found.group(1)) if found else ""
+        if cited and cited not in known:
             out.append(f"asserts ISBN {found.group(1).strip()}, authority says "
-                       f"{entry['isbn']}")
+                       f"{', '.join(isbns_of(entry))}")
     return out
