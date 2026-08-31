@@ -20,6 +20,8 @@ sources:
 ## Description
 Competency-based learning and assessment organize progress around demonstrated mastery rather than seat time, pacing norms, or one-shot averages. Learners advance by showing they can perform clearly defined competencies, often through applied tasks, performance assessments, or repeated attempts. The design promise is tighter alignment between what matters and what is assessed, but that promise depends on the quality of the competencies, evidence, and supports.
 
+This page covers the whole model — how instruction, pacing, progression, and assessment are organised around competencies. The narrower question of how to judge a competency credibly (specification, evidence, thresholds, assessor calibration) is [Competency-Based Assessment](competency-based-assessment.md).
+
 ## Implications
 Competency-based learning and assessment are strongest when mastery is defined as credible performance rather than completion or time spent. Clear competencies, repeated attempts, and authentic evidence usually make progress more legible and improve transfer because learners are judged on what they can actually do [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]. But the system only works if competencies are well specified [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] and learners receive enough process support to reach them [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]; otherwise “mastery” becomes either a vague slogan or a fragmented checklist.
 
@@ -67,6 +69,7 @@ Competency-based learning and assessment are strongest when mastery is defined a
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — supports and reassessment opportunities should gradually lead toward independent demonstration, not permanent dependence on scaffolds
 
 ## Related Principles
+- [Competency-Based Assessment](competency-based-assessment.md) — the assessment component of this model: specifying competencies, eliciting evidence, and setting defensible mastery thresholds
 - [Authentic Audiences & Purposes](authentic-audiences-purposes.md) — credible demonstrations often involve products or performances for real stakeholders
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — competency systems need visible progress and next-step clarity
 - [Guided Practice](guided-practice.md) — repeated coached attempts are often necessary before a valid mastery judgment

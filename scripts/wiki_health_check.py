@@ -51,6 +51,7 @@ sys.path.insert(0, str(Path(__file__).parent / "eval"))  # for health_report (se
 import lint
 import check_citations as cc
 import find_cross_folder_duplicates as fcfd
+import find_title_duplicates as ftd
 
 WIKI_ROOT = Path(__file__).parent.parent
 HISTORY_PATH = WIKI_ROOT / "eval" / "health" / "history.ndjson"
@@ -117,6 +118,15 @@ def run(skip_doi: bool = False) -> dict:
     }
     lint_results = {name: fn(pages) for name, fn in lint_checks.items()}
 
+    # Same-folder near-duplicate titles. Deterministic and free, so unlike
+    # find_near_duplicates.py's LLM scan this can run on every sweep — which
+    # matters, because nothing else could see two differently-named pages in
+    # one folder describing the same thing (competency-based-assessment and
+    # competency-based-learning-assessment sat side by side, both
+    # status: review, invisible to every check the wiki had).
+    title_duplicates = {f: ftd.find_pairs(f) for f in PAGE_TYPES}
+    title_duplicate_count = sum(len(v) for v in title_duplicates.values())
+
     citation_conflicts = cc.find_conflicts(cc.load_all_citations())
     collisions = fcfd.find_collisions()
     self_referential = fcfd.find_self_referential(collisions)
@@ -134,6 +144,7 @@ def run(skip_doi: bool = False) -> dict:
         "citation_conflicts": len(citation_conflicts),
         "doi_issues": len(doi_issues),
         "doi_skipped": skip_doi,  # so a consumer can tell "0 problems" apart from "not checked this run"
+        "title_duplicates": title_duplicate_count,
         "cross_folder_collisions": len(collisions),
         "cross_folder_self_referential": len(self_referential),
         "cross_folder_needs_judgment": len(needs_judgment),
@@ -150,6 +161,12 @@ def run(skip_doi: bool = False) -> dict:
             # the top-level result; the health dashboard page needs the
             # actual list to be useful rather than just a number.
             "needs_judgment": needs_judgment,
+            # {folder: [(score, path_a, path_b)]} — candidate same-folder
+            # near-duplicates for a human (or find_near_duplicates.py's
+            # judgment stage) to confirm before any merge.
+            "title_duplicates": {f: [(s, str(a.relative_to(WIKI_ROOT)), str(b.relative_to(WIKI_ROOT)))
+                                     for s, a, b in v]
+                                 for f, v in title_duplicates.items() if v},
         },
     }
 
@@ -165,6 +182,8 @@ def format_report(result: dict) -> str:
         "## Summary",
         lint_line,
         f"- Citation conflicts: {result['citation_conflicts']}",
+        f"- Near-duplicate title pairs (same folder): {result['title_duplicates']} "
+        f"— run `find_title_duplicates.py` for the list",
         f"- DOI resolution problems: {result['doi_issues']}",
         f"- Cross-folder slug collisions: {result['cross_folder_collisions']} "
         f"({result['cross_folder_self_referential']} resolved deterministically, "
