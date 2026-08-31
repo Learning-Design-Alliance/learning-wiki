@@ -510,10 +510,43 @@ def auto_promote(pages: dict[str, Path], all_issues: list[dict], dry_run: bool =
     return promoted
 
 
+def check_authority_conflicts(pages: dict[str, Path]) -> list[dict]:
+    """Citations that contradict a verdict a human recorded in
+    sources/authorities.ndjson.
+
+    This is the ratchet. Repairing the pages alone does not survive the next
+    enrichment batch — the model that invented a DOI for a book once will
+    invent one again, and nothing in the corpus remembers that a person
+    already established there is none. An authority is that memory, and this
+    check is what gives it teeth: once ambrose-2010 is recorded, a
+    reintroduced DOI fails CI rather than sitting on the page looking
+    verified."""
+    issues = []
+    try:
+        import authorities as au
+        import check_citations as cc
+    except Exception:
+        return issues
+    try:
+        auth = au.load_authorities()
+    except ValueError as e:
+        return [{"type": "malformed_authority", "file": "sources/authorities.ndjson",
+                 "detail": str(e)}]
+    if not auth:
+        return issues
+    by_key = cc.load_all_citations()
+    for key, entry in auth.items():
+        for c in by_key.get(key, []):
+            for why in au.contradictions(entry, c):
+                issues.append({"type": "contradicts_authority", "file": c["source"],
+                               "detail": why})
+    return issues
+
+
 def main():
     parser = argparse.ArgumentParser(description="Lint the ld-wiki")
     parser.add_argument("--fix", action="store_true", help="Auto-promote clean draft pages to review")
-    parser.add_argument("--type", choices=["broken_links", "dead_anchors", "merge_markers", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "all"],
+    parser.add_argument("--type", choices=["broken_links", "dead_anchors", "merge_markers", "drafts", "claims", "principles", "conflicts", "trust", "manifest", "type_banner", "authorities", "all"],
                         default="all", help="Which checks to run")
     args = parser.parse_args()
 
@@ -534,6 +567,7 @@ def main():
         "trust":         check_stable_unverified,
         "manifest":      check_manifest_integrity,
         "type_banner":   check_type_banner,
+        "authorities":   check_authority_conflicts,
     }
 
     selected = list(checks.keys()) if args.type == "all" else [args.type]
