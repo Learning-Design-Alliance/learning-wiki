@@ -347,8 +347,38 @@ def find_doi_collisions(by_doi: dict, touched_files: set = None) -> list[dict]:
         keys = {e["key"] for e in entries}
         titles = {frozenset(e["title_words"]) for e in entries}
         if len(clusters) > 1 or (len(keys) > 1 and len(titles) > 1):
-            collisions.append({"doi": doi, "clusters": clusters, "keys": keys})
+            collisions.append({"doi": doi, "clusters": clusters, "keys": keys,
+                               # Which test fired. The report has to know:
+                               # when it was the key test, title clustering
+                               # merged the papers into one group, so printing
+                               # the clusters shows the reader one undivided
+                               # blob under a heading that says there are two.
+                               "signal": "cluster" if len(clusters) > 1 else "key",
+                               "groups": collision_groups(clusters)})
     return collisions
+
+
+def collision_groups(clusters: list) -> list[tuple]:
+    """[(label, [citation, ...])] — the papers, actually separated.
+
+    A title cluster can still hold two works: the key test flags a collision
+    precisely when clustering failed to split them (Zoogman 2015 vs Zoogman
+    2019 overlap far too much on title alone). Sub-grouping each cluster by
+    author-year key recovers the division, so the reader is shown the two
+    papers rather than left to spot the seam. That is not cosmetic — the whole
+    job on a collision is deciding which side keeps the DOI, and a report that
+    hides the sides makes the reader redo the detection by eye."""
+    groups = []
+    for i, cluster in enumerate(clusters, 1):
+        by_key = {}
+        for e in cluster:
+            by_key.setdefault(e["key"], []).append(e)
+        for j, (key, es) in enumerate(sorted(by_key.items())):
+            label = f"paper {i}" if len(clusters) > 1 else "paper"
+            if len(by_key) > 1:
+                label = f"{label}{'abcdefgh'[j] if len(clusters) > 1 else f' {j + 1}'}"
+            groups.append((f"{label}  [{key}]", es))
+    return groups
 
 
 def format_collision_report(collisions: list[dict]) -> str:
@@ -357,9 +387,12 @@ def format_collision_report(collisions: list[dict]) -> str:
     lines = [f"{len(collisions)} DOI(s) attached to more than one paper:\n"]
     for c in collisions:
         lines.append(f"## {c['doi']}")
-        for i, cluster in enumerate(c["clusters"], 1):
-            lines.append(f"  paper {i}:")
-            for e in cluster:
+        if c["signal"] == "key":
+            lines.append("   (caught by author/year, not by title — the titles are close "
+                         "enough that clustering merged them)")
+        for label, es in c["groups"]:
+            lines.append(f"  {label}: {len(es)} citation(s)")
+            for e in es:
                 lines.append(f"    - {e['source']}: {e['line']}")
         lines.append("")
     return "\n".join(lines)

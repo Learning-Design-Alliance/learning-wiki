@@ -147,6 +147,41 @@ def append_authority(entry: dict, path: Path = AUTHORITIES_PATH) -> None:
                             ensure_ascii=False) + "\n")
 
 
+def covers(entry: dict, citation: dict) -> bool:
+    """Whether this authority is about the work this citation actually cites.
+
+    An author-year key is NOT unique, and assuming it is would make this file
+    dangerous rather than useful. `sugai-2009` in this wiki is two genuine
+    works: the Handbook of Positive Behavior Support chapter, and
+    "Responsiveness-to-intervention and school-wide positive behavior
+    supports" with its own real DOI. Recording "sugai-2009 has no DOI" and
+    acting on the key alone would have stripped a correct DOI off the second.
+
+    So an authority that states a title only speaks for citations of that
+    title. One that states no title speaks for the key, which is all the
+    person gave — and apply_authorities.py says so rather than pretending
+    otherwise."""
+    title = entry.get("title")
+    if not title:
+        return True
+    import check_citations as cc
+    year = citation["key"].rsplit("-", 1)[-1]
+    cited = cc._extract_title_text(citation.get("line", ""), year)
+    if not cited:
+        return True
+    a, b = cc._words_from_text(cited), cc._words_from_text(title)
+    if cc._same_paper(a, b):
+        return True
+    # A short-form title is the same work cited more briefly: "How learning
+    # works." for "How Learning Works: Seven Research-Based Principles for
+    # Smart Teaching" shares too few words to clear _same_paper's 0.35
+    # threshold, and excluding it would quietly drop the pages an authority
+    # most needs to cover. Containment is unsafe when *matching a DOI* — that
+    # is the trap titles_align() guards — but this side of the comparison is a
+    # title a human wrote down, not a registry record being matched to a page.
+    return bool(a) and bool(b) and (a <= b or b <= a)
+
+
 def contradictions(entry: dict, citation: dict) -> list[str]:
     """How one citation line disagrees with its key's authority ([] if not).
 
@@ -155,6 +190,8 @@ def contradictions(entry: dict, citation: dict) -> list[str]:
     carrying detail the human did not record. The one exception is the
     explicit `"doi": null` verdict, which IS a statement — that no DOI exists
     — and so a DOI asserted against it is a finding."""
+    if not covers(entry, citation):
+        return []
     out = []
     line = citation.get("line", "")
     cited_doi = citation.get("doi")
